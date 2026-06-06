@@ -26,6 +26,11 @@ Thumbs.db
 .cache/
 .astro/
 
+# Wrangler / Cloudflare
+.wrangler/
+dist/
+output/
+
 # Hermes
 sessions/
 memory/
