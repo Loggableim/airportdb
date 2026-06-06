@@ -110,13 +110,16 @@ npx wrangler pages deploy dist/ --project-name airportdb --branch main
 ## Nächste Schritte (MVP)
 
 1. ✅ Daten (CSV importiert)
-2. ❌ Astro-Projekt initialisieren
-3. ❌ Basis-Templates bauen (Layout, Airport-Card, Suche)
-4. ❌ Airport-Seiten generieren (Top 500 + DACH + IATA)
-5. ❌ Länderseiten generieren
-6. ❌ Tools bauen (IATA Lookup, Distance Calculator)
-7. ❌ Suchfunktion (client-side)
-8. ❌ Deploy auf Cloudflare Pages
-9. ❌ Domain parken / DNS setzen
-10. ❌ SEO (Sitemap, OG-Tags, JSON-LD)
-11. ❌ Affiliate-Tests auf Top-Seiten
+2. ✅ Astro-Projekt initialisiert (v6.4.4, Cloudflare-Adapter)
+3. ✅ Basis-Templates gebaut (Oldschool DB Look + Canvas 2D Hero)
+4. ✅ Tools gebaut (D3 Bubble+Bar Charts, Search+Filter, Distance Calculator mit Globe)
+5. ✅ Deploy auf Cloudflare Pages (https://87ebc85e.airportdb.pages.dev)
+6. ✅ Domain registriert + DNS (ALIAS/CNAME → airportdb.pages.dev)
+7. ✅ GitHub Repo (https://github.com/Loggableim/airportdb)
+8. ✅ Custom Domain auf Cloudflare Pages (world-airport-database.com, pending)
+9. ❌ Daten-Import Script (CSV → Astro getStaticPaths Top 500)
+10. ❌ 500 Airport-Profilseiten als Astro-Routes
+11. ❌ Länder-Seiten generieren (247 Länder)
+12. ❌ Nearest Airport Finder Tool
+13. ❌ SEO (Sitemap, OG-Tags, JSON-LD, Search Console)
+14. ❌ Content-Cron (3x täglich)
