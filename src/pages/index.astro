@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>World Airport Database — The BIGGEST Airport Code Database available on Internet</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Open Sans',Arial,Helvetica,sans-serif;background:var(--bg-light);color:var(--text-dark);line-height:1.7;overflow-x:hidden}
+:root{--primary:#2ca4dc;--primary-dark:#1a7ab5;--navy:#0B1D3A;--accent:#F4A261;--gold:#E9C46A;--bg-light:#F4F7FA;--bg-white:#FFFFFF;--text-dark:#202c39;--text-light:#5A6B7F;--border:#D4E0E8;--table-stripe:#F0F6FC}
+a{color:var(--primary);text-decoration:none}a:hover{text-decoration:underline}img{max-width:100%}
+.fade-in{opacity:0;transform:translateY(40px);transition:opacity .8s ease-out,transform .8s ease-out}
+.fade-in.visible{opacity:1;transform:translateY(0)}
+.slide-up{opacity:0;transform:translateY(60px);transition:opacity .9s cubic-bezier(.16,1,.3,1),transform .9s cubic-bezier(.16,1,.3,1)}
+.slide-up.visible{opacity:1;transform:translateY(0)}
+.scale-in{opacity:0;transform:scale(.85);transition:opacity .7s ease-out,transform .7s cubic-bezier(.16,1,.3,1)}
+.scale-in.visible{opacity:1;transform:scale(1)}
+.stagger>*{opacity:0;transform:translateY(30px);transition:opacity .6s ease-out,transform .6s ease-out}
+.stagger.visible>*{opacity:1;transform:translateY(0)}
+.stagger.visible>*:nth-child(1){transition-delay:.05s}
+.stagger.visible>*:nth-child(2){transition-delay:.15s}
+.stagger.visible>*:nth-child(3){transition-delay:.25s}
+.stagger.visible>*:nth-child(4){transition-delay:.35s}
+.stagger.visible>*:nth-child(5){transition-delay:.45s}
+.stagger.visible>*:nth-child(6){transition-delay:.55s}
+.stagger.visible>*:nth-child(7){transition-delay:.65s}
+.stagger.visible>*:nth-child(8){transition-delay:.75s}
+table{width:100%;border-collapse:collapse;margin:12px 0 20px;background:var(--bg-white)}
+table th{background:var(--navy);color:#fff;padding:10px 14px;text-align:left;font-size:13px;text-transform:uppercase;letter-spacing:.5px;border:1px solid #1a2d4a}
+table td{padding:9px 14px;border:1px solid var(--border);font-size:13px;vertical-align:top}
+table tr:nth-child(even) td{background:var(--table-stripe)}
+table tr:hover td{background:#e3f0f7}
+.iata-badge{display:inline-block;background:var(--primary);color:#fff;padding:2px 9px;border-radius:3px;font-size:11px;font-weight:700;letter-spacing:.3px}
+.wrap{max-width:1100px;margin:0 auto;padding:0 20px}
+.section{padding:60px 0}
+.section-title{font-size:26px;font-weight:700;color:var(--text-dark);padding:0 0 12px;border-bottom:3px solid var(--primary);margin-bottom:24px}
+.hero{background:linear-gradient(135deg,var(--navy) 0%,#142b4f 100%);padding:70px 0 50px;text-align:center;position:relative;overflow:hidden;border-bottom:4px solid var(--primary)}
+.hero::before{content:'';position:absolute;top:0;left:0;right:0;height:6px;background:repeating-linear-gradient(90deg,var(--primary) 0px,var(--primary) 30px,transparent 30px,transparent 60px)}
+.hero h1{color:#fff;font-size:40px;font-weight:800;letter-spacing:1px;margin-bottom:8px;text-shadow:1px 1px 3px rgba(0,0,0,.3)}
+.hero .subtitle{color:#a0b8cc;font-size:17px;font-weight:600;margin-bottom:30px;letter-spacing:.5px}
+.hero .subtitle span{color:var(--gold)}
+.hero-stats{display:flex;justify-content:center;gap:50px;flex-wrap:wrap;margin-top:20px}
+.hero-stat{text-align:center}
+.hero-stat .num{font-size:34px;font-weight:800;color:var(--gold)}
+.hero-stat .lbl{font-size:12px;color:#8899aa;text-transform:uppercase;letter-spacing:1px;margin-top:2px}
+.plane-svg{position:absolute;width:140;height:50;pointer-events:none;z-index:2;opacity:.7}
+.plane-path{fill:#fff;stroke:rgba(255,255,255,.6);stroke-width:1}
+.plane-wing{fill:rgba(255,255,255,.2);stroke:rgba(255,255,255,.4);stroke-width:.8}
+.plane-tail{fill:rgba(255,255,255,.15);stroke:rgba(255,255,255,.3);stroke-width:.6}
+.plane-cockpit{fill:rgba(255,255,255,.25);stroke:rgba(255,255,255,.5)}
+.plane-engine{fill:rgba(255,255,255,.15);stroke:rgba(255,255,255,.25);stroke-width:.5}
+.plane-contrail{stroke:rgba(255,255,255,.08);stroke-width:2;stroke-linecap:round;fill:none}
+.plane-wrap{position:absolute;top:0;left:0;width:100%;height:100%;overflow:hidden;pointer-events:none}
+.plane-anim{position:absolute;top:25%;animation:planeFlight 14s cubic-bezier(.45,.05,.55,.95) infinite}
+@keyframes planeFlight{0%{transform:translateX(calc(100vw + 100px)) translateY(0)}20%{transform:translateX(calc(80vw)) translateY(-15px)}40%{transform:translateX(calc(60vw)) translateY(0)}60%{transform:translateX(calc(40vw)) translateY(-12px)}80%{transform:translateX(calc(20vw)) translateY(5px)}100%{transform:translateX(calc(-200px)) translateY(-8px)}}
+.scroll-indicator{position:absolute;bottom:20px;left:50%;transform:translateX(-50%);color:#667;font-size:12px;letter-spacing:1px;text-transform:uppercase;animation:bounceDown 2s ease-in-out infinite}
+.scroll-indicator::after{content:'\2193';display:block;text-align:center;font-size:18px;margin-top:2px}
+@keyframes bounceDown{0%,100%{opacity:.4;transform:translateX(-50%) translateY(0)}50%{opacity:1;transform:translateX(-50%) translateY(6px)}}
+.stat-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
+.stat-card{background:var(--bg-white);border:1px solid var(--border);padding:24px 16px;text-align:center;position:relative}
+.stat-card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:var(--primary)}
+.stat-card .num{font-size:36px;font-weight:800;color:var(--primary)}
+.stat-card .lbl{font-size:13px;color:var(--text-light);text-transform:uppercase;letter-spacing:1px;margin-top:4px}
+.stat-card .desc{font-size:11px;color:#889;margin-top:6px;font-style:italic}
+.chart-wrap{background:var(--bg-white);border:1px solid var(--border);padding:20px;min-height:400px;position:relative;overflow:hidden}
+.chart-wrap svg{display:block;margin:0 auto}
+.chart-tooltip{position:absolute;background:var(--navy);color:#fff;padding:8px 14px;border-radius:4px;font-size:12px;pointer-events:none;opacity:0;transition:opacity .2s;z-index:100;line-height:1.5;max-width:220px}
+.search-box{max-width:650px;margin:0 auto;display:flex;gap:0}
+.search-box input{flex:1;padding:14px 18px;font-size:16px;border:3px solid var(--primary);border-right:none;outline:none;background:var(--bg-white);color:var(--text-dark);font-family:'Open Sans',sans-serif}
+.search-box input:focus{border-color:var(--accent)}
+.search-box button{padding:14px 22px;background:var(--primary);color:#fff;font-size:16px;font-weight:700;border:3px solid var(--primary);cursor:pointer;transition:background .15s;font-family:'Open Sans',sans-serif}
+.search-box button:hover{background:var(--primary-dark)}
+.search-filters{display:flex;gap:10px;flex-wrap:wrap;justify-content:center;margin-bottom:14px}
+.search-filters select{padding:8px 12px;font-size:13px;border:2px solid var(--border);background:var(--bg-white);font-family:'Open Sans',sans-serif;color:var(--text-dark);min-width:150px}
+.search-filters select:focus{border-color:var(--primary);outline:none}
+.search-results{margin-top:16px;max-height:500px;overflow-y:auto}
+.airport-hero{background:linear-gradient(135deg,var(--navy),#142b4f);padding:36px 0;border-bottom:4px solid var(--primary)}
+.airport-hero .codes{font-size:22px;color:var(--primary);font-weight:700;margin-bottom:4px;letter-spacing:1px}
+.airport-hero h1{color:#fff;font-size:30px;margin-bottom:4px}
+.airport-hero .meta{color:#8899aa;font-size:13px}
+.profile-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;margin:20px 0}
+@media(max-width:768px){.profile-grid{grid-template-columns:1fr}}
+.map-wrap{height:360px;border:2px solid var(--border);margin:16px 0;position:relative}
+.map-style-btn{position:absolute;top:10px;right:10px;z-index:1000;display:flex;gap:4px}
+.map-style-btn button{padding:6px 12px;font-size:11px;font-weight:700;border:2px solid var(--primary);background:#fff;color:var(--text-dark);cursor:pointer;font-family:'Open Sans',sans-serif;transition:all .15s}
+.map-style-btn button.active{background:var(--primary);color:#fff}
+.map-style-btn button:hover{background:var(--primary);color:#fff}
+.country-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px}
+.country-card{background:var(--bg-white);border:1px solid var(--border);padding:18px;display:flex;align-items:center;gap:14px;cursor:pointer;transition:all .15s}
+.country-card:hover{border-color:var(--primary);transform:scale(1.02);box-shadow:0 4px 16px rgba(44,164,220,.15)}
+.country-card .flag{font-size:36px;line-height:1}
+.country-card .info{flex:1}
+.country-card .name{font-size:15px;font-weight:600;color:var(--text-dark)}
+.country-card .count{font-size:12px;color:var(--text-light)}
+.country-card .count strong{color:var(--primary)}
+.dist-form{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px}
+@media(max-width:600px){.dist-form{grid-template-columns:1fr}}
+.dist-form label{display:block;font-size:13px;font-weight:700;color:var(--text-dark);margin-bottom:4px;text-transform:uppercase;letter-spacing:.5px}
+.dist-form select{width:100%;padding:10px 12px;font-size:14px;border:2px solid var(--border);background:var(--bg-white);font-family:'Open Sans',sans-serif}
+.dist-form select:focus{border-color:var(--primary);outline:none}
+.btn-calc{padding:14px 40px;background:var(--primary);color:#fff;font-size:16px;font-weight:700;border:3px solid var(--primary);cursor:pointer;transition:all .15s;font-family:'Open Sans',sans-serif;display:block;margin:0 auto}
+.btn-calc:hover{background:var(--primary-dark)}
+.dist-result{background:var(--bg-white);border:2px solid var(--primary);padding:24px;display:none;margin-top:16px;position:relative}
+.dist-result.visible{display:block}
+.dist-result h3{font-size:18px;color:var(--text-dark);margin-bottom:12px;text-align:center}
+.dist-val{display:grid;grid-template-columns:1fr 1fr;gap:16px;text-align:center;margin-top:16px}
+.dist-val .val{font-size:32px;font-weight:800;color:var(--primary)}
+.dist-val .lbl{font-size:12px;color:var(--text-light);text-transform:uppercase;letter-spacing:1px}
+.globe-svg-wrap{text-align:center;margin-bottom:10px}
+.purchase-box{background:linear-gradient(135deg,#f8f9fa,#eef1f5);border:2px solid var(--border);padding:30px;text-align:center;margin:30px 0}
+.purchase-box h3{font-size:20px;color:var(--text-dark);margin-bottom:8px}
+.purchase-box p{font-size:14px;color:var(--text-light);margin-bottom:16px}
+.card-icons{display:flex;justify-content:center;gap:20px;font-size:28px;color:#556;margin-bottom:12px}
+.card-icons span{background:var(--bg-white);border:1px solid var(--border);padding:8px 16px;border-radius:4px}
+footer{background:var(--navy);color:#8899aa;padding:36px 0 24px;margin-top:40px;border-top:4px solid var(--primary);font-size:13px;text-align:center}
+footer strong{color:#ccdbe8}
+footer a{color:var(--primary)}
+footer .footer-inner>*{margin-bottom:8px}
+@media(max-width:768px){
+  .hero h1{font-size:28px}.hero .subtitle{font-size:15px}.hero-stats{gap:24px}
+  .hero-stat .num{font-size:26px}.stat-cards{grid-template-columns:1fr 1fr}
+  .section{padding:36px 0}.search-box{flex-direction:column}
+  .search-box input{border-right:3px solid var(--primary)}
+  .search-filters select{min-width:120px}
+}
+.story-text{font-size:16px;color:var(--text-light);max-width:700px;margin:0 auto;text-align:center;line-height:1.9}
+.story-text strong{color:var(--text-dark)}
+.globe-deco{text-align:center;font-size:80px;margin-bottom:10px;opacity:.6}
+.chart-controls{text-align:center;margin-bottom:14px;display:flex;gap:8px;flex-wrap:wrap;justify-content:center}
+.chart-controls select{padding:8px 12px;font-size:13px;border:2px solid var(--border);background:var(--bg-white);font-family:'Open Sans',sans-serif;color:var(--text-dark);min-width:160px}
+.chart-controls select:focus{border-color:var(--primary);outline:none}
+.back-btn{display:inline-block;margin:0 auto 10px;padding:6px 18px;border:2px solid var(--primary);color:var(--primary);font-size:12px;font-weight:700;cursor:pointer;background:var(--bg-white);transition:all .15s;font-family:'Open Sans',sans-serif}
+.back-btn:hover{background:var(--primary);color:#fff}
+</style>
+</head>
+<body>
+<!-- ═══ HERO ═══ -->
+<div class="hero" id="hero">
+  <div class="plane-wrap">
+    <div class="plane-anim">
+      <svg class="plane-svg" width="140" height="50" viewBox="0 0 140 50" fill="none">
+        <path class="plane-path" d="M14 25 L32 18 L85 18 L100 25 L85 32 L32 32Z"/>
+        <path class="plane-wing" d="M54 18 L60 5 L78 5 L64 18"/>
+        <path class="plane-wing" d="M54 32 L60 45 L78 45 L64 32"/>
+        <path class="plane-tail" d="M85 18 L98 8 L104 8 L85 25"/>
+        <path class="plane-tail" d="M85 32 L98 42 L104 42 L85 25"/>
+        <path class="plane-cockpit" d="M32 18 L12 25 L32 32"/>
+        <ellipse class="plane-engine" cx="54" cy="25" rx="5" ry="2.5"/>
+        <ellipse class="plane-engine" cx="72" cy="25" rx="5" ry="2.5"/>
+        <path class="plane-contrail" d="M14 25 Q-20 22 -60 24 Q-100 26 -140 23"/>
+      </svg>
+    </div>
+  </div>
+  <div class="wrap">
+    <h1>World Airport Database</h1>
+    <p class="subtitle">The BIGGEST Airport Code Database available on Internet. <span>&#9733;</span></p>
+    <div class="hero-stats">
+      <div class="hero-stat"><div class="num" data-count="85545">0</div><div class="lbl">Total Airports</div></div>
+      <div class="hero-stat"><div class="num" data-count="247">0</div><div class="lbl">Countries</div></div>
+      <div class="hero-stat"><div class="num" data-count="9056">0</div><div class="lbl">IATA Codes</div></div>
+    </div>
+  </div>
+  <div class="scroll-indicator">Scroll to explore</div>
+</div>
+
+<!-- ═══ GLOBAL NETWORK ═══ -->
+<div class="section" id="global-network" style="background:#fff;">
+  <div class="wrap">
+    <div class="fade-in">
+      <div class="globe-deco">&#127758;</div>
+      <h2 class="section-title" style="text-align:center;border-bottom-color:transparent">247 Countries, 85,545 Airports</h2>
+      <p class="story-text">From the busiest international hubs like <strong>Atlanta (ATL)</strong> and <strong>London Heathrow (LHR)</strong> to remote airstrips in <strong>Antarctica</strong> — our database catalogues every known airport, heliport, seaplane base, and balloonport across <strong>247 countries and territories</strong>. With <strong>9,056 IATA-coded airports</strong> and over <strong>85,000 total landing facilities</strong>, this is the most comprehensive open airport dataset assembled in one place.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ BY THE NUMBERS ═══ -->
+<div class="section" id="by-the-numbers" style="background:var(--bg-light);">
+  <div class="wrap">
+    <h2 class="section-title">By the Numbers</h2>
+    <div class="stat-cards stagger">
+      <div class="stat-card"><div class="num" data-count="9056">0</div><div class="lbl">IATA Codes</div><div class="desc">3-letter airport identifiers</div></div>
+      <div class="stat-card"><div class="num" data-count="85545">0</div><div class="lbl">Total Airports</div><div class="desc">all types including heliports</div></div>
+      <div class="stat-card"><div class="num" data-count="247">0</div><div class="lbl">Countries</div><div class="desc">nations &amp; territories</div></div>
+      <div class="stat-card"><div class="num" data-count="1178">0</div><div class="lbl">Large Airports</div><div class="desc">commercial international hubs</div></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ CONTINENT EXPLORER (D3 + Drill-Down) ═══ -->
+<div class="section" id="continent-explorer" style="background:#fff;">
+  <div class="wrap">
+    <h2 class="section-title">Continent Explorer</h2>
+    <p style="color:var(--text-light);font-size:14px;margin-bottom:4px">Hover bubbles to explore. <strong>Click a continent</strong> to see its top countries.</p>
+    <div id="continent-back" style="text-align:center;display:none;margin-bottom:8px">
+      <button class="back-btn" onclick="resetContinentView()">&#8592; Back to All Continents</button>
+    </div>
+    <div class="chart-wrap" id="continent-chart">
+      <div class="chart-tooltip" id="continent-tooltip"></div>
+    </div>
+    <div id="continent-legend" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin-top:12px;font-size:12px;color:var(--text-light)"></div>
+  </div>
+</div>
+
+<!-- ═══ IATA CODE EXPLORER (mit Filtern) ═══ -->
+<div class="section" id="iata-explorer" style="background:var(--bg-light);">
+  <div class="wrap">
+    <h2 class="section-title">IATA Code Explorer</h2>
+    <p style="color:var(--text-light);font-size:14px;margin-bottom:12px">Search 9,056 IATA-coded airports. Use filters and text search to narrow down.</p>
+    <div class="search-filters">
+      <select id="filter-continent" onchange="filterSearch()">
+        <option value="">All Continents</option>
+        <option value="EU">Europe</option>
+        <option value="NA">North America</option>
+        <option value="AS">Asia</option>
+        <option value="SA">South America</option>
+        <option value="AF">Africa</option>
+        <option value="OC">Oceania</option>
+        <option value="AN">Antarctica</option>
+      </select>
+      <select id="filter-type" onchange="filterSearch()">
+        <option value="">All Types</option>
+        <option value="large_airport">Large Airport</option>
+        <option value="medium_airport">Medium Airport</option>
+        <option value="small_airport">Small Airport</option>
+        <option value="heliport">Heliport</option>
+        <option value="seaplane_base">Seaplane Base</option>
+        <option value="closed">Closed</option>
+        <option value="balloonport">Balloonport</option>
+      </select>
+      <select id="filter-country" onchange="filterSearch()">
+        <option value="">All Countries</option>
+      </select>
+    </div>
+    <div class="search-box">
+      <input type="text" id="iata-search-input" placeholder="Search by name, IATA, ICAO, city..." oninput="filterSearch()" onkeydown="if(event.key==='Enter')filterSearch()">
+      <button onclick="filterSearch()" style="padding:14px 30px">Search</button>
+      <button onclick="clearSearch()" style="padding:14px 18px;background:#eee;color:var(--text-dark);border-color:#ccc">&#10005;</button>
+    </div>
+    <div class="search-results" id="search-results" style="margin-top:14px">
+      <table>
+        <thead><tr><th>IATA</th><th>ICAO</th><th>Name</th><th>City</th><th>Country</th><th>Type</th></tr></thead>
+        <tbody id="search-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ AIRPORT PROFILE (FRA) ═══ -->
+<div class="section" id="airport-profile" style="background:#fff;padding-top:0">
+  <div class="airport-hero">
+    <div class="wrap">
+      <div class="codes">FRA &middot; EDDF &middot; Frankfurt Main Airport</div>
+      <h1>Frankfurt Airport (FRA)</h1>
+      <div class="meta">Frankfurt am Main, Germany &middot; large_airport &middot; Europe/Berlin (UTC+1) &middot; 50.03&deg;N 8.56&deg;E</div>
+    </div>
+  </div>
+  <div class="wrap">
+    <div class="profile-grid">
+      <div class="fade-in">
+        <table><thead><tr><th colspan="2">Airport Information</th></tr></thead>
+          <tbody>
+            <tr><td class="label">IATA Code</td><td><span class="iata-badge">FRA</span></td></tr>
+            <tr><td>ICAO Code</td><td>EDDF</td></tr>
+            <tr><td>GPS Code</td><td>EDDF</td></tr>
+            <tr><td>Type</td><td>Large Airport</td></tr>
+            <tr><td>Name</td><td>Frankfurt Main Airport</td></tr>
+            <tr><td>Municipality</td><td>Frankfurt am Main</td></tr>
+            <tr><td>Country</td><td>Germany</td></tr>
+            <tr><td>Continent</td><td>Europe (EU)</td></tr>
+            <tr><td>Latitude</td><td>50.033&deg; N</td></tr>
+            <tr><td>Longitude</td><td>8.561&deg; E</td></tr>
+            <tr><td>Elevation</td><td>364 ft / 111 m</td></tr>
+            <tr><td>Scheduled Service</td><td>Yes</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="fade-in">
+        <table><thead><tr><th colspan="2">Statistics &amp; Links</th></tr></thead>
+          <tbody>
+            <tr><td>Passengers (2023)</td><td>~59.4 million</td></tr>
+            <tr><td>Runways</td><td>4 (07L/25R, 07C/25C, 07R/25L, 18/36)</td></tr>
+            <tr><td>Terminals</td><td>2 (T1, T2) + Skyline</td></tr>
+            <tr><td>Hub for</td><td>Lufthansa, Condor</td></tr>
+            <tr><td>Wikipedia</td><td><a href="https://en.wikipedia.org/wiki/Frankfurt_Airport" target="_blank">Frankfurt Airport</a></td></tr>
+            <tr><td>Website</td><td><a href="https://www.frankfurt-airport.com/" target="_blank">frankfurt-airport.com</a></td></tr>
+            <tr><td>Timezone</td><td>Europe/Berlin (CET/CEST)</td></tr>
+            <tr><td>IATA Code Since</td><td>1947</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <h3 style="font-size:16px;color:var(--text-dark);margin:20px 0 8px;border-bottom:2px solid var(--primary);padding-bottom:6px">Location Map</h3>
+    <div class="map-wrap" id="fra-map">
+      <div class="map-style-btn">
+        <button id="map-light-btn" class="active" onclick="switchMapStyle('light')">Light</button>
+        <button id="map-dark-btn" onclick="switchMapStyle('dark')">Dark</button>
+      </div>
+    </div>
+    <h3 style="font-size:16px;color:var(--text-dark);margin:20px 0 8px;border-bottom:2px solid var(--primary);padding-bottom:6px">Nearby Airports (&lt;200 km)</h3>
+    <table>
+      <thead><tr><th>IATA</th><th>Name</th><th>City</th><th>Distance</th><th>Type</th></tr></thead>
+      <tbody>
+        <tr><td><span class="iata-badge">CGN</span></td><td>Cologne Bonn Airport</td><td>Cologne</td><td>152 km</td><td>large_airport</td></tr>
+        <tr><td><span class="iata-badge">FKB</span></td><td>Karlsruhe Baden-Baden</td><td>Baden-Baden</td><td>176 km</td><td>medium_airport</td></tr>
+        <tr><td><span class="iata-badge">STR</span></td><td>Stuttgart Airport</td><td>Stuttgart</td><td>186 km</td><td>large_airport</td></tr>
+        <tr><td><span class="iata-badge">HHN</span></td><td>Frankfurt-Hahn Airport</td><td>Hahn</td><td>124 km</td><td>medium_airport</td></tr>
+        <tr><td><span class="iata-badge">NUE</span></td><td>Nuremberg Airport</td><td>Nuremberg</td><td>194 km</td><td>large_airport</td></tr>
+      </tbody>
+    </table>
+    <p style="font-size:13px;color:var(--primary);margin-top:10px"><a href="#">Browse all airports in Germany &rarr;</a></p>
+    <div class="purchase-box">
+      <h3>Purchase the Complete Database</h3>
+      <p>Get the full 85,545 airport dataset as CSV, JSON, or SQL. Ideal for developers and travel applications.</p>
+      <div class="card-icons">
+        <span>&#128179; Visa</span><span>&#128179; MasterCard</span><span>&#128179; AmEx</span><span>&#128179; PayPal</span>
+      </div>
+      <p style="font-size:12px;color:#889">$29.99 &middot; Instant download &middot; Regular updates</p>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ COUNTRIES GRID ═══ -->
+<div class="section" id="countries-grid" style="background:var(--bg-light);">
+  <div class="wrap">
+    <h2 class="section-title">Explore by Country</h2>
+    <div class="country-grid stagger" id="country-grid"></div>
+    <p style="text-align:center;margin-top:20px;font-size:14px"><a href="#">View all 247 countries &rarr;</a></p>
+  </div>
+</div>
+
+<!-- ═══ DISTANCE CALCULATOR (mit Globe + Flieger) ═══ -->
+<div class="section" id="distance-calc" style="background:#fff;">
+  <div class="wrap">
+    <h2 class="section-title">Airport Distance Calculator</h2>
+    <p style="color:var(--text-light);font-size:14px;margin-bottom:16px">Calculate great-circle distance between any two airports. Watch the route on the globe.</p>
+    <div class="dist-form">
+      <div><label for="dist-from">From Airport</label><select id="dist-from"></select></div>
+      <div><label for="dist-to">To Airport</label><select id="dist-to"></select></div>
+    </div>
+    <button class="btn-calc" onclick="calcDistance()">Calculate Distance</button>
+    <div class="dist-result" id="dist-result">
+      <h3>&#9992; Flight Route</h3>
+      <div class="globe-svg-wrap">
+        <svg id="globe-svg" width="200" height="200" viewBox="-110 -110 220 220"></svg>
+      </div>
+      <div class="route-info" id="route-info" style="text-align:center;font-size:14px;color:var(--text-light);margin-bottom:10px"></div>
+      <div class="dist-val">
+        <div><div class="val" id="dist-km">0</div><div class="lbl">Kilometers</div></div>
+        <div><div class="val" id="dist-mi">0</div><div class="lbl">Miles</div></div>
+      </div>
+      <p style="text-align:center;font-size:12px;color:var(--text-light);margin-top:10px">Calculated using the Haversine formula</p>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ TYPE BREAKDOWN (mit Filtern) ═══ -->
+<div class="section" id="type-breakdown" style="background:var(--bg-light);">
+  <div class="wrap">
+    <h2 class="section-title">Airport Type Breakdown</h2>
+    <p style="color:var(--text-light);font-size:14px;margin-bottom:12px">Distribution of airports by type category. Use filters to explore specific continents and size groups.</p>
+    <div class="chart-controls">
+      <select id="type-filter-cont" onchange="drawTypeChart()">
+        <option value="ALL">All Continents</option>
+        <option value="NA">North America</option>
+        <option value="EU">Europe</option>
+        <option value="AS">Asia</option>
+        <option value="SA">South America</option>
+        <option value="AF">Africa</option>
+        <option value="OC">Oceania</option>
+        <option value="AN">Antarctica</option>
+      </select>
+      <select id="type-filter-size" onchange="drawTypeChart()">
+        <option value="ALL">All Size Categories</option>
+        <option value="LARGE">Large (large_airport)</option>
+        <option value="MEDIUM">Medium (medium_airport)</option>
+        <option value="SMALL">Small (small + seaplane + heli + balloon)</option>
+        <option value="CLOSED">Closed</option>
+      </select>
+    </div>
+    <div class="chart-wrap" id="type-chart">
+      <div class="chart-tooltip" id="type-tooltip"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ FOOTER ═══ -->
+<footer>
+  <div class="wrap footer-inner">
+    <div><strong>World Airport Database since 2008</strong> &mdash; based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
+    <div>Not affiliated with IATA or ICAO. Airport data provided for informational purposes.</div>
+    <div>85,545 airports &middot; 247 countries &middot; 9,056 IATA codes &middot; Updated regularly</div>
+    <div style="margin-top:12px"><a href="#">Contact Us</a> &middot; <a href="#">Privacy Policy</a> &middot; <a href="#">Terms of Use</a></div>
+    <div style="margin-top:8px;font-size:11px;color:#667">&copy; World Airport Database</div>
+  </div>
+</footer>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+// ═══════════════════════════════════════════════════
+const AIRPORTS = [
+  {iata:"FRA",icao:"EDDF",name:"Frankfurt Main Airport",city:"Frankfurt am Main",country:"Germany",lat:50.033,lon:8.561,cont:"EU",type:"large_airport"},
+  {iata:"LHR",icao:"EGLL",name:"London Heathrow Airport",city:"London",country:"United Kingdom",lat:51.471,lon:-0.459,cont:"EU",type:"large_airport"},
+  {iata:"JFK",icao:"KJFK",name:"John F. Kennedy International Airport",city:"New York",country:"United States",lat:40.639,lon:-73.779,cont:"NA",type:"large_airport"},
+  {iata:"CDG",icao:"LFPG",name:"Charles de Gaulle International Airport",city:"Paris",country:"France",lat:49.009,lon:2.547,cont:"EU",type:"large_airport"},
+  {iata:"AMS",icao:"EHAM",name:"Amsterdam Airport Schiphol",city:"Amsterdam",country:"Netherlands",lat:52.308,lon:4.764,cont:"EU",type:"large_airport"},
+  {iata:"MUC",icao:"EDDM",name:"Munich Airport",city:"Munich",country:"Germany",lat:48.353,lon:11.786,cont:"EU",type:"large_airport"},
+  {iata:"DXB",icao:"OMDB",name:"Dubai International Airport",city:"Dubai",country:"UAE",lat:25.253,lon:55.364,cont:"AS",type:"large_airport"},
+  {iata:"LAX",icao:"KLAX",name:"Los Angeles International Airport",city:"Los Angeles",country:"United States",lat:33.942,lon:-118.408,cont:"NA",type:"large_airport"},
+  {iata:"ORD",icao:"KORD",name:"Chicago O'Hare International Airport",city:"Chicago",country:"United States",lat:41.979,lon:-87.905,cont:"NA",type:"large_airport"},
+  {iata:"SFO",icao:"KSFO",name:"San Francisco International Airport",city:"San Francisco",country:"United States",lat:37.619,lon:-122.375,cont:"NA",type:"large_airport"},
+  {iata:"ATL",icao:"KATL",name:"Hartsfield-Jackson Atlanta International Airport",city:"Atlanta",country:"United States",lat:33.640,lon:-84.427,cont:"NA",type:"large_airport"},
+  {iata:"SIN",icao:"WSSS",name:"Singapore Changi Airport",city:"Singapore",country:"Singapore",lat:1.359,lon:103.989,cont:"AS",type:"large_airport"},
+  {iata:"HKG",icao:"VHHH",name:"Hong Kong International Airport",city:"Hong Kong",country:"Hong Kong",lat:22.308,lon:113.914,cont:"AS",type:"large_airport"},
+  {iata:"NRT",icao:"RJAA",name:"Narita International Airport",city:"Tokyo",country:"Japan",lat:35.764,lon:140.386,cont:"AS",type:"large_airport"},
+  {iata:"HND",icao:"RJTT",name:"Tokyo Haneda Airport",city:"Tokyo",country:"Japan",lat:35.552,lon:139.779,cont:"AS",type:"large_airport"},
+  {iata:"ICN",icao:"RKSI",name:"Incheon International Airport",city:"Seoul",country:"South Korea",lat:37.469,lon:126.450,cont:"AS",type:"large_airport"},
+  {iata:"PEK",icao:"ZBAA",name:"Beijing Capital International Airport",city:"Beijing",country:"China",lat:40.080,lon:116.584,cont:"AS",type:"large_airport"},
+  {iata:"SYD",icao:"YSSY",name:"Sydney Kingsford Smith Airport",city:"Sydney",country:"Australia",lat:-33.946,lon:151.177,cont:"OC",type:"large_airport"},
+  {iata:"MEL",icao:"YMML",name:"Melbourne Airport",city:"Melbourne",country:"Australia",lat:-37.673,lon:144.843,cont:"OC",type:"large_airport"},
+  {iata:"BNE",icao:"YBBN",name:"Brisbane Airport",city:"Brisbane",country:"Australia",lat:-27.384,lon:153.117,cont:"OC",type:"large_airport"},
+  {iata:"YYZ",icao:"CYYZ",name:"Toronto Pearson International Airport",city:"Toronto",country:"Canada",lat:43.677,lon:-79.630,cont:"NA",type:"large_airport"},
+  {iata:"YVR",icao:"CYVR",name:"Vancouver International Airport",city:"Vancouver",country:"Canada",lat:49.194,lon:-123.184,cont:"NA",type:"large_airport"},
+  {iata:"MEX",icao:"MMMX",name:"Mexico City International Airport",city:"Mexico City",country:"Mexico",lat:19.436,lon:-99.072,cont:"NA",type:"large_airport"},
+  {iata:"GRU",icao:"SBGR",name:"Guarulhos International Airport",city:"Sao Paulo",country:"Brazil",lat:-23.435,lon:-46.473,cont:"SA",type:"large_airport"},
+  {iata:"GIG",icao:"SBGL",name:"Rio de Janeiro Galeao Airport",city:"Rio de Janeiro",country:"Brazil",lat:-22.809,lon:-43.250,cont:"SA",type:"large_airport"},
+  {iata:"FCO",icao:"LIRF",name:"Leonardo da Vinci-Fiumicino Airport",city:"Rome",country:"Italy",lat:41.800,lon:12.238,cont:"EU",type:"large_airport"},
+  {iata:"MAD",icao:"LEMD",name:"Adolfo Suarez Madrid-Barajas Airport",city:"Madrid",country:"Spain",lat:40.472,lon:-3.562,cont:"EU",type:"large_airport"},
+  {iata:"BCN",icao:"LEBL",name:"Barcelona-El Prat Airport",city:"Barcelona",country:"Spain",lat:41.297,lon:2.078,cont:"EU",type:"large_airport"},
+  {iata:"ZRH",icao:"LSZH",name:"Zurich Airport",city:"Zurich",country:"Switzerland",lat:47.464,lon:8.549,cont:"EU",type:"large_airport"},
+  {iata:"GVA",icao:"LSGG",name:"Geneva Airport",city:"Geneva",country:"Switzerland",lat:46.238,lon:6.108,cont:"EU",type:"large_airport"},
+  {iata:"VIE",icao:"LOWW",name:"Vienna International Airport",city:"Vienna",country:"Austria",lat:48.110,lon:16.569,cont:"EU",type:"large_airport"},
+  {iata:"CPH",icao:"EKCH",name:"Copenhagen Airport",city:"Copenhagen",country:"Denmark",lat:55.618,lon:12.656,cont:"EU",type:"large_airport"},
+  {iata:"ARN",icao:"ESSA",name:"Stockholm Arlanda Airport",city:"Stockholm",country:"Sweden",lat:59.651,lon:17.918,cont:"EU",type:"large_airport"},
+  {iata:"OSL",icao:"ENGM",name:"Oslo Airport Gardermoen",city:"Oslo",country:"Norway",lat:60.192,lon:11.100,cont:"EU",type:"large_airport"},
+  {iata:"HEL",icao:"EFHK",name:"Helsinki-Vantaa Airport",city:"Helsinki",country:"Finland",lat:60.317,lon:24.963,cont:"EU",type:"large_airport"},
+  {iata:"DUB",icao:"EIDW",name:"Dublin Airport",city:"Dublin",country:"Ireland",lat:53.421,lon:-6.270,cont:"EU",type:"large_airport"},
+  {iata:"LIS",icao:"LPPT",name:"Lisbon Portela Airport",city:"Lisbon",country:"Portugal",lat:38.775,lon:-9.135,cont:"EU",type:"large_airport"},
+  {iata:"BRU",icao:"EBBR",name:"Brussels Airport",city:"Brussels",country:"Belgium",lat:50.901,lon:4.484,cont:"EU",type:"large_airport"},
+  {iata:"WAW",icao:"EPWA",name:"Warsaw Chopin Airport",city:"Warsaw",country:"Poland",lat:52.165,lon:20.967,cont:"EU",type:"large_airport"},
+  {iata:"PRG",icao:"LKPR",name:"Prague Vaclav Havel Airport",city:"Prague",country:"Czech Republic",lat:50.100,lon:14.260,cont:"EU",type:"large_airport"},
+  {iata:"BUD",icao:"LHBP",name:"Budapest Ferenc Liszt Airport",city:"Budapest",country:"Hungary",lat:47.436,lon:19.255,cont:"EU",type:"large_airport"},
+  {iata:"IST",icao:"LTFM",name:"Istanbul Airport",city:"Istanbul",country:"Turkey",lat:41.261,lon:28.742,cont:"EU",type:"large_airport"},
+  {iata:"DEL",icao:"VIDP",name:"Indira Gandhi International Airport",city:"Delhi",country:"India",lat:28.556,lon:77.100,cont:"AS",type:"large_airport"},
+  {iata:"BOM",icao:"VABB",name:"Chhatrapati Shivaji International Airport",city:"Mumbai",country:"India",lat:19.088,lon:72.868,cont:"AS",type:"large_airport"},
+  {iata:"BKK",icao:"VTBS",name:"Suvarnabhumi Airport",city:"Bangkok",country:"Thailand",lat:13.690,lon:100.750,cont:"AS",type:"large_airport"},
+  {iata:"KUL",icao:"WMKK",name:"Kuala Lumpur International Airport",city:"Kuala Lumpur",country:"Malaysia",lat:2.745,lon:101.710,cont:"AS",type:"large_airport"},
+  {iata:"CGK",icao:"WIII",name:"Soekarno-Hatta International Airport",city:"Jakarta",country:"Indonesia",lat:-6.125,lon:106.655,cont:"AS",type:"large_airport"},
+  {iata:"MNL",icao:"RPLL",name:"Ninoy Aquino International Airport",city:"Manila",country:"Philippines",lat:14.508,lon:121.019,cont:"AS",type:"large_airport"},
+  {iata:"DOH",icao:"OTHH",name:"Hamad International Airport",city:"Doha",country:"Qatar",lat:25.273,lon:51.608,cont:"AS",type:"large_airport"},
+  {iata:"AUH",icao:"OMAA",name:"Abu Dhabi International Airport",city:"Abu Dhabi",country:"UAE",lat:24.432,lon:54.651,cont:"AS",type:"large_airport"},
+  {iata:"CAI",icao:"HECA",name:"Cairo International Airport",city:"Cairo",country:"Egypt",lat:30.111,lon:31.411,cont:"AF",type:"large_airport"},
+  {iata:"JNB",icao:"FAOR",name:"O.R. Tambo International Airport",city:"Johannesburg",country:"South Africa",lat:-26.139,lon:28.246,cont:"AF",type:"large_airport"},
+  {iata:"CPT",icao:"FACT",name:"Cape Town International Airport",city:"Cape Town",country:"South Africa",lat:-33.964,lon:18.601,cont:"AF",type:"large_airport"},
+  {iata:"NBO",icao:"HKJK",name:"Jomo Kenyatta International Airport",city:"Nairobi",country:"Kenya",lat:-1.319,lon:36.927,cont:"AF",type:"large_airport"},
+  {iata:"ADD",icao:"HAAB",name:"Addis Ababa Bole International Airport",city:"Addis Ababa",country:"Ethiopia",lat:8.977,lon:38.799,cont:"AF",type:"large_airport"},
+  {iata:"SCL",icao:"SCEL",name:"Arturo Merino Benitez International Airport",city:"Santiago",country:"Chile",lat:-33.393,lon:-70.785,cont:"SA",type:"large_airport"},
+  {iata:"BOG",icao:"SKBO",name:"El Dorado International Airport",city:"Bogota",country:"Colombia",lat:4.701,lon:-74.146,cont:"SA",type:"large_airport"},
+  {iata:"LIM",icao:"SPIM",name:"Jorge Chavez International Airport",city:"Lima",country:"Peru",lat:-12.021,lon:-77.114,cont:"SA",type:"large_airport"},
+  {iata:"CGN",icao:"EDDK",name:"Cologne Bonn Airport",city:"Cologne",country:"Germany",lat:50.865,lon:7.142,cont:"EU",type:"large_airport"},
+  {iata:"STR",icao:"EDDS",name:"Stuttgart Airport",city:"Stuttgart",country:"Germany",lat:48.689,lon:9.221,cont:"EU",type:"large_airport"},
+  {iata:"HAM",icao:"EDDH",name:"Hamburg Airport",city:"Hamburg",country:"Germany",lat:53.630,lon:9.988,cont:"EU",type:"large_airport"},
+  {iata:"BER",icao:"EDDB",name:"Berlin Brandenburg Airport",city:"Berlin",country:"Germany",lat:52.362,lon:13.500,cont:"EU",type:"large_airport"},
+  {iata:"DUS",icao:"EDDL",name:"Dusseldorf Airport",city:"Dusseldorf",country:"Germany",lat:51.280,lon:6.757,cont:"EU",type:"large_airport"},
+  {iata:"NUE",icao:"EDDN",name:"Nuremberg Airport",city:"Nuremberg",country:"Germany",lat:49.498,lon:11.078,cont:"EU",type:"large_airport"},
+  {iata:"LEJ",icao:"EDDP",name:"Leipzig/Halle Airport",city:"Leipzig",country:"Germany",lat:51.432,lon:12.241,cont:"EU",type:"large_airport"},
+  {iata:"HAJ",icao:"EDDV",name:"Hannover Airport",city:"Hannover",country:"Germany",lat:52.461,lon:9.685,cont:"EU",type:"large_airport"},
+  {iata:"BRE",icao:"EDDW",name:"Bremen Airport",city:"Bremen",country:"Germany",lat:53.047,lon:8.786,cont:"EU",type:"large_airport"},
+  {iata:"FMM",icao:"EDJA",name:"Memmingen Airport",city:"Memmingen",country:"Germany",lat:47.988,lon:10.239,cont:"EU",type:"medium_airport"},
+  {iata:"HHN",icao:"EDFH",name:"Frankfurt-Hahn Airport",city:"Hahn",country:"Germany",lat:49.948,lon:7.263,cont:"EU",type:"medium_airport"},
+  {iata:"SCN",icao:"EDDR",name:"Saarbrucken Airport",city:"Saarbrucken",country:"Germany",lat:49.214,lon:7.109,cont:"EU",type:"medium_airport"},
+  {iata:"FKB",icao:"EDSB",name:"Karlsruhe Baden-Baden Airport",city:"Baden-Baden",country:"Germany",lat:48.779,lon:8.080,cont:"EU",type:"medium_airport"},
+  {iata:"PAD",icao:"EDLP",name:"Paderborn Lippstadt Airport",city:"Paderborn",country:"Germany",lat:51.614,lon:8.616,cont:"EU",type:"medium_airport"},
+  {iata:"FDH",icao:"EDNY",name:"Friedrichshafen Airport",city:"Friedrichshafen",country:"Germany",lat:47.671,lon:9.511,cont:"EU",type:"medium_airport"},
+  {iata:"ERF",icao:"EDDE",name:"Erfurt Weimar Airport",city:"Erfurt",country:"Germany",lat:50.979,lon:10.958,cont:"EU",type:"medium_airport"},
+  {iata:"INN",icao:"LOWI",name:"Innsbruck Airport",city:"Innsbruck",country:"Austria",lat:47.260,lon:11.343,cont:"EU",type:"large_airport"},
+  {iata:"SZG",icao:"LOWS",name:"Salzburg Airport",city:"Salzburg",country:"Austria",lat:47.794,lon:13.003,cont:"EU",type:"large_airport"},
+  {iata:"GRZ",icao:"LOWG",name:"Graz Airport",city:"Graz",country:"Austria",lat:47.004,lon:15.419,cont:"EU",type:"large_airport"},
+  {iata:"LNZ",icao:"LOWL",name:"Linz Airport",city:"Linz",country:"Austria",lat:48.233,lon:14.187,cont:"EU",type:"medium_airport"},
+  {iata:"HND",icao:"RJTT",name:"Tokyo Haneda Airport",city:"Tokyo",country:"Japan",lat:35.552,lon:139.779,cont:"AS",type:"large_airport"},
+  {iata:"KIX",icao:"RJBB",name:"Kansai International Airport",city:"Osaka",country:"Japan",lat:34.432,lon:135.230,cont:"AS",type:"large_airport"},
+  {iata:"NGO",icao:"RJGG",name:"Chubu Centrair International Airport",city:"Nagoya",country:"Japan",lat:34.858,lon:136.805,cont:"AS",type:"large_airport"},
+  {iata:"CTS",icao:"RJCC",name:"New Chitose Airport",city:"Sapporo",country:"Japan",lat:42.775,lon:141.692,cont:"AS",type:"large_airport"},
+  {iata:"FUK",icao:"RJFF",name:"Fukuoka Airport",city:"Fukuoka",country:"Japan",lat:33.584,lon:130.452,cont:"AS",type:"large_airport"},
+  {iata:"YUL",icao:"CYUL",name:"Montreal-Trudeau International Airport",city:"Montreal",country:"Canada",lat:45.467,lon:-73.741,cont:"NA",type:"large_airport"},
+  {iata:"YYC",icao:"CYYC",name:"Calgary International Airport",city:"Calgary",country:"Canada",lat:51.113,lon:-114.020,cont:"NA",type:"large_airport"},
+  {iata:"YEG",icao:"CYEG",name:"Edmonton International Airport",city:"Edmonton",country:"Canada",lat:53.309,lon:-113.580,cont:"NA",type:"large_airport"},
+  {iata:"HNL",icao:"PHNL",name:"Daniel K. Inouye International Airport",city:"Honolulu",country:"United States",lat:21.320,lon:-157.922,cont:"NA",type:"large_airport"},
+  {iata:"ANC",icao:"PANC",name:"Ted Stevens Anchorage International Airport",city:"Anchorage",country:"United States",lat:61.174,lon:-149.996,cont:"NA",type:"large_airport"},
+  {iata:"DEN",icao:"KDEN",name:"Denver International Airport",city:"Denver",country:"United States",lat:39.849,lon:-104.673,cont:"NA",type:"large_airport"},
+  {iata:"DFW",icao:"KDFW",name:"Dallas/Fort Worth International Airport",city:"Dallas",country:"United States",lat:32.896,lon:-97.038,cont:"NA",type:"large_airport"},
+  {iata:"SEA",icao:"KSEA",name:"Seattle-Tacoma International Airport",city:"Seattle",country:"United States",lat:47.449,lon:-122.309,cont:"NA",type:"large_airport"},
+  {iata:"MIA",icao:"KMIA",name:"Miami International Airport",city:"Miami",country:"United States",lat:25.795,lon:-80.287,cont:"NA",type:"large_airport"},
+  {iata:"BOS",icao:"KBOS",name:"Boston Logan International Airport",city:"Boston",country:"United States",lat:42.363,lon:-71.006,cont:"NA",type:"large_airport"},
+  {iata:"EWR",icao:"KEWR",name:"Newark Liberty International Airport",city:"Newark",country:"United States",lat:40.689,lon:-74.174,cont:"NA",type:"large_airport"},
+  {iata:"PHX",icao:"KPHX",name:"Phoenix Sky Harbor International Airport",city:"Phoenix",country:"United States",lat:33.435,lon:-112.006,cont:"NA",type:"large_airport"},
+  {iata:"LAS",icao:"KLAS",name:"Harry Reid International Airport",city:"Las Vegas",country:"United States",lat:36.083,lon:-115.152,cont:"NA",type:"large_airport"},
+  {iata:"MCO",icao:"KMCO",name:"Orlando International Airport",city:"Orlando",country:"United States",lat:28.429,lon:-81.309,cont:"NA",type:"large_airport"},
+  {iata:"IAH",icao:"KIAH",name:"George Bush Intercontinental Airport",city:"Houston",country:"United States",lat:29.984,lon:-95.341,cont:"NA",type:"large_airport"}
+];
+const uniAirports = AIRPORTS.filter((a,i,arr)=>arr.findIndex(x=>x.iata===a.iata)===i);
+
+const CONT_DATA = [
+  {id:"NA",label:"North America",total:39581,iata:2950,color:"#2C7BE5"},
+  {id:"EU",label:"Europe",total:12489,iata:927,color:"#E9C46A"},
+  {id:"AS",label:"Asia",total:12719,iata:1903,color:"#F4A261"},
+  {id:"SA",label:"South America",total:12262,iata:921,color:"#6CB4EE"},
+  {id:"AF",label:"Africa",total:4226,iata:1065,color:"#E76F51"},
+  {id:"OC",label:"Oceania",total:4221,iata:1287,color:"#2A9D8F"},
+  {id:"AN",label:"Antarctica",total:47,iata:3,color:"#D4E8F7"}
+];
+const CONT_COUNTRIES = {
+  NA:[{n:"United States",c:32518},{n:"Canada",c:8513},{n:"Mexico",c:2694},{n:"Puerto Rico",c:329},{n:"Greenland",c:191}],
+  EU:[{n:"France",c:1768},{n:"United Kingdom",c:1593},{n:"Germany",c:1432},{n:"Italy",c:1114},{n:"Spain",c:507}],
+  AS:[{n:"Japan",c:3747},{n:"Russia",c:1808},{n:"China",c:776},{n:"India",c:649},{n:"Indonesia",c:728}],
+  SA:[{n:"Brazil",c:7947},{n:"Argentina",c:995},{n:"Venezuela",c:898},{n:"Colombia",c:736},{n:"Chile",c:356}],
+  AF:[{n:"South Africa",c:674},{n:"Egypt",c:216},{n:"Madagascar",c:208},{n:"Morocco",c:175},{n:"Kenya",c:171}],
+  OC:[{n:"Australia",c:2789},{n:"New Zealand",c:529},{n:"Papua New Guinea",c:309},{n:"Fiji",c:136},{n:"Solomon Islands",c:110}],
+  AN:[{n:"Antarctica",c:47}]
+};
+const TYPE_BY_CONT = {ALL:{small_airport:42671,heliport:23069,closed:13204,medium_airport:4099,seaplane_base:1263,large_airport:1178,balloonport:61},
+  NA:{small_airport:18667,heliport:9344,closed:8970,medium_airport:1233,seaplane_base:1142,large_airport:440,balloonport:25},
+  EU:{small_airport:6404,heliport:3239,closed:1797,medium_airport:728,large_airport:260,seaplane_base:48,balloonport:13},
+  AS:{small_airport:2850,heliport:6919,closed:1352,medium_airport:1113,large_airport:426,seaplane_base:48,balloonport:11},
+  SA:{small_airport:8542,heliport:2751,closed:515,medium_airport:361,large_airport:88,seaplane_base:5,balloonport:0},
+  AF:{small_airport:3159,heliport:248,closed:282,medium_airport:362,large_airport:172,seaplane_base:3,balloonport:0},
+  OC:{small_airport:3023,heliport:559,closed:283,medium_airport:295,large_airport:48,seaplane_base:12,balloonport:1},
+  AN:{small_airport:26,heliport:9,closed:5,medium_airport:7,seaplane_base:0,large_airport:0,balloonport:0}
+};
+const COUNTRY_DATA = [
+  {flag:"🇺🇸",name:"United States",airports:39581,iata:2950},{flag:"🇩🇪",name:"Germany",airports:751,iata:119},
+  {flag:"🇬🇧",name:"United Kingdom",airports:1093,iata:103},{flag:"🇫🇷",name:"France",airports:1171,iata:130},
+  {flag:"🇨🇦",name:"Canada",airports:8513,iata:346},{flag:"🇦🇺",name:"Australia",airports:3078,iata:341},
+  {flag:"🇧🇷",name:"Brazil",airports:5463,iata:328},{flag:"🇯🇵",name:"Japan",airports:607,iata:131}
+];
+
+// ── SCROLL ANIMATIONS ──
+function initScroll() {
+  const obs = new IntersectionObserver(e=>{e.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('visible');entry.target.querySelectorAll('[data-count]').forEach(el=>{const t=parseInt(el.getAttribute('data-count'));if(t&&!el.dataset.animated){el.dataset.animated='1';const d=2000,s=performance.now();(function step(n){const p=Math.min((n-s)/d,1),e=1-Math.pow(1-p,3);el.textContent=Math.floor(e*t).toLocaleString();if(p<1)requestAnimationFrame(step);else el.textContent=t.toLocaleString()})(s)}})}})},{threshold:.2});
+  document.querySelectorAll('.fade-in,.slide-up,.scale-in,.stagger').forEach(e=>obs.observe(e));
+  // Hero count-ups
+  document.querySelectorAll('.hero-stat .num').forEach(el=>{const t=parseInt(el.getAttribute('data-count'));if(t){setTimeout(()=>{const d=1500,s=performance.now();(function step(n){const p=Math.min((n-s)/d,1),e=1-Math.pow(1-p,3);el.textContent=Math.floor(e*t).toLocaleString();if(p<1)requestAnimationFrame(step)})(s)},300)}});
+}
+
+// ── SEARCH ──
+function populateCountryFilter() {
+  const s=document.getElementById('filter-country'),countries=[...new Set(uniAirports.map(a=>a.country))].sort();
+  countries.forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;s.appendChild(o)});
+}
+function filterSearch(){
+  const q=document.getElementById('iata-search-input').value.toLowerCase().trim();
+  const fc=document.getElementById('filter-continent').value;
+  const ft=document.getElementById('filter-type').value;
+  const fco=document.getElementById('filter-country').value;
+  let list=uniAirports;
+  if(fc)list=list.filter(a=>a.cont===fc);
+  if(ft)list=list.filter(a=>a.type===ft);
+  if(fco)list=list.filter(a=>a.country===fco);
+  if(q)list=list.filter(a=>a.iata.toLowerCase().includes(q)||a.icao.toLowerCase().includes(q)||a.name.toLowerCase().includes(q)||a.city.toLowerCase().includes(q)||a.country.toLowerCase().includes(q));
+  renderSearch(list);
+}
+function clearSearch(){document.getElementById('iata-search-input').value='';document.getElementById('filter-continent').value='';document.getElementById('filter-type').value='';document.getElementById('filter-country').value='';filterSearch()}
+function renderSearch(list){
+  const tbody=document.getElementById('search-tbody');tbody.innerHTML='';
+  list.slice(0,100).forEach(ap=>{
+    const tr=document.createElement('tr');
+    tr.innerHTML=`<td><span class="iata-badge">${ap.iata}</span></td><td>${ap.icao}</td><td>${ap.name}</td><td>${ap.city}</td><td>${ap.country}</td><td>${ap.type.replace(/_/g,' ')}</td>`;
+    tbody.appendChild(tr);
+  });
+}
+
+// ── MAP ──
+let map=null,lightLayer=null,darkLayer=null;
+function initMap(){
+  map=L.map('fra-map',{zoomControl:true}).setView([50.033,8.561],8);
+  lightLayer=L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{attribution:'&copy; <a href="https://carto.com/">CARTO</a>',maxZoom:19}).addTo(map);
+  darkLayer=L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png',{attribution:'&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>',maxZoom:19});
+  L.marker([50.033,8.561]).addTo(map).bindPopup('<b>Frankfurt Airport (FRA)</b><br>EDDF').openPopup();
+  // Nearby markers
+  [[48.353,11.786,'MUC'],[50.865,7.142,'CGN'],[48.689,9.221,'STR'],[49.498,11.078,'NUE'],[49.948,7.263,'HHN']].forEach(m=>{L.circleMarker([m[0],m[1]],{radius:6,color:'#F4A261',fillColor:'#E9C46A',fillOpacity:.8}).addTo(map).bindPopup(`<b>${m[2]}</b>`)});
+}
+function switchMapStyle(style){
+  if(style==='dark'){map.removeLayer(lightLayer);map.addLayer(darkLayer);document.getElementById('map-light-btn').classList.remove('active');document.getElementById('map-dark-btn').classList.add('active')}
+  else{map.removeLayer(darkLayer);map.addLayer(lightLayer);document.getElementById('map-dark-btn').classList.remove('active');document.getElementById('map-light-btn').classList.add('active')}
+}
+
+// ── COUNTRY GRID ──
+function renderCountries(){
+  const g=document.getElementById('country-grid');
+  COUNTRY_DATA.forEach(c=>{const d=document.createElement('div');d.className='country-card';d.innerHTML=`<div class="flag">${c.flag}</div><div class="info"><div class="name">${c.name}</div><div class="count"><strong>${c.airports.toLocaleString()}</strong> airports &middot; <strong>${c.iata}</strong> IATA</div></div>`;g.appendChild(d)});
+}
+
+// ── DISTANCE CALC ──
+function populateDist(){
+  const f=document.getElementById('dist-from'),t=document.getElementById('dist-to');
+  uniAirports.forEach(ap=>{const l=`${ap.iata} — ${ap.name}, ${ap.country}`;f.innerHTML+=`<option value="${ap.iata}">${l}</option>`;t.innerHTML+=`<option value="${ap.iata}">${l}</option>`});
+  f.value='FRA';t.value='JFK';
+}
+function haversine(l1,o1,l2,o2){const R=6371,dL=(l2-l1)*Math.PI/180,dO=(o2-o1)*Math.PI/180,a=Math.sin(dL/2)**2+Math.cos(l1*Math.PI/180)*Math.cos(l2*Math.PI/180)*Math.sin(dO/2)**2;return R*2*Math.atan2(Math.sqrt(a),Math.sqrt(1-a))}
+function calcDistance(){
+  const fc=document.getElementById('dist-from').value,tc=document.getElementById('dist-to').value;
+  const f=uniAirports.find(a=>a.iata===fc),t=uniAirports.find(a=>a.iata===tc);if(!f||!t)return;
+  const km=haversine(f.lat,f.lon,t.lat,t.lon),mi=km*0.621371;
+  document.getElementById('dist-km').textContent=Math.round(km).toLocaleString();
+  document.getElementById('dist-mi').textContent=Math.round(mi).toLocaleString();
+  document.getElementById('route-info').textContent=`${f.name} (${fc}) → ${t.name} (${tc})`;
+  document.getElementById('dist-result').classList.add('visible');
+  drawGlobe(f,t);
+}
+function drawGlobe(from,to){
+  const svg=document.getElementById('globe-svg');svg.innerHTML='';
+  const cx=0,cy=0,R=95;
+  // Globe circle
+  const g=document.createElementNS('http://www.w3.org/2000/svg','g');
+  svg.appendChild(g);
+  const circle=document.createElementNS('http://www.w3.org/2000/svg','circle');
+  circle.setAttribute('cx',cx);circle.setAttribute('cy',cy);circle.setAttribute('r',R);
+  circle.setAttribute('fill','#0B1D3A');circle.setAttribute('stroke','#2ca4dc');circle.setAttribute('stroke-width','2');
+  g.appendChild(circle);
+  // Grid lines
+  for(let i=-2;i<=2;i++){const el=document.createElementNS('http://www.w3.org/2000/svg','ellipse');el.setAttribute('cx',cx);el.setAttribute('cy',cy);el.setAttribute('rx',R);el.setAttribute('ry',Math.abs(R*i/3));el.setAttribute('fill','none');el.setAttribute('stroke','rgba(44,164,220,0.2)');el.setAttribute('stroke-width','.5');g.appendChild(el)}
+  for(let i=-2;i<=2;i++){const el=document.createElementNS('http://www.w3.org/2000/svg','ellipse');el.setAttribute('cx',cx);el.setAttribute('cy',cy);el.setAttribute('rx',Math.abs(R*i/3));el.setAttribute('ry',R);el.setAttribute('fill','none');el.setAttribute('stroke','rgba(44,164,220,0.2)');el.setAttribute('stroke-width','.5');g.appendChild(el)}
+  // Convert lat/lon to SVG coords (simple orthographic)
+  function toXY(lat,lon){const phi=lat*Math.PI/180,lam=lon*Math.PI/180;return{x:R*Math.cos(phi)*Math.sin(lam),y:-R*Math.sin(phi)}}
+  const p1=toXY(from.lat,from.lon),p2=toXY(to.lat,to.lon);
+  // Start marker (green)
+  const m1=document.createElementNS('http://www.w3.org/2000/svg','circle');
+  m1.setAttribute('cx',p1.x);m1.setAttribute('cy',p1.y);m1.setAttribute('r',5);
+  m1.setAttribute('fill','#2A9D8F');m1.setAttribute('stroke','#fff');m1.setAttribute('stroke-width','2');
+  g.appendChild(m1);
+  // End marker (red)
+  const m2=document.createElementNS('http://www.w3.org/2000/svg','circle');
+  m2.setAttribute('cx',p2.x);m2.setAttribute('cy',p2.y);m2.setAttribute('r',5);
+  m2.setAttribute('fill','#E76F51');m2.setAttribute('stroke','#fff');m2.setAttribute('stroke-width','2');
+  g.appendChild(m2);
+  // Great circle arc (intermediate points)
+  const steps=50;let d='';const pts=[];
+  for(let i=0;i<=steps;i++){
+    const f=i/steps;
+    const lat=from.lat+(to.lat-from.lat)*f,lon=from.lon+(to.lon-from.lon)*f;
+    const p=toXY(lat,lon);pts.push(p);
+    d+=i===0?`M${p.x},${p.y}`:`L${p.x},${p.y}`;
+  }
+  const arc=document.createElementNS('http://www.w3.org/2000/svg','path');
+  arc.setAttribute('d',d);arc.setAttribute('fill','none');
+  arc.setAttribute('stroke','#F4A261');arc.setAttribute('stroke-width','2');
+  arc.setAttribute('stroke-dasharray','6,4');
+  g.appendChild(arc);
+  // Flying plane along the arc
+  let idx=0;
+  const plane=document.createElementNS('http://www.w3.org/2000/svg','text');
+  plane.setAttribute('font-size','14');plane.setAttribute('text-anchor','middle');
+  plane.textContent='✈';
+  g.appendChild(plane);
+  if(window.__globeInterval)clearInterval(window.__globeInterval);
+  window.__globeInterval=setInterval(()=>{
+    idx=(idx+1)%pts.length;
+    plane.setAttribute('x',pts[idx].x);
+    plane.setAttribute('y',pts[idx].y-10);
+  },100);
+}
+
+// ── D3 BUBBLE CHART ──
+let currentContView=null;
+function drawBubbles(data,labels){
+  const wrap=document.getElementById('continent-chart');wrap.innerHTML='<div class="chart-tooltip" id="continent-tooltip"></div>';
+  const w=wrap.clientWidth||900,h=420,m=40,tt=document.getElementById('continent-tooltip');
+  const svg=d3.select('#continent-chart').append('svg').attr('width',w).attr('height',h).style('overflow','visible');
+  const g=svg.append('g').attr('transform',`translate(${m},${m}`);
+  const innerW=w-m*2,innerH=h-m*2;
+  // Grid
+  g.append('g').selectAll('line').data(d3.range(0,innerW,40)).enter().append('line').attr('x1',d=>d).attr('x2',d=>d).attr('y1',0).attr('y2',innerH).attr('stroke','#e8edf2').attr('stroke-width',1);
+  g.append('g').selectAll('line').data(d3.range(0,innerH,40)).enter().append('line').attr('y1',d=>d).attr('y2',d=>d).attr('x1',0).attr('x2',innerW).attr('stroke','#e8edf2').attr('stroke-width',1);
+  // Pack
+  const pack=d3.pack().size([innerW,innerH]).padding(8);
+  const root=d3.hierarchy({children:data.map(d=>({...d,value:d.total}))}).sum(d=>d.value);
+  const nodes=pack(root).leaves();
+  // Circles
+  g.selectAll('circle').data(nodes).enter().append('circle')
+    .attr('cx',d=>d.x).attr('cy',d=>d.y).attr('r',0)
+    .attr('fill',d=>d.data.color).attr('stroke','#fff').attr('stroke-width',2).attr('opacity',.85)
+    .on('mouseover',function(ev,d){d3.select(this).attr('opacity',1).attr('stroke','#333').attr('stroke-width',3);tt.style.opacity=1;tt.innerHTML=`<strong>${d.data.label}</strong><br>Total: ${d.data.total.toLocaleString()}<br>IATA: ${(d.data.iata||0).toLocaleString()}`})
+    .on('mousemove',function(ev){tt.style.left=(ev.offsetX+15)+'px';tt.style.top=(ev.offsetY-10)+'px'})
+    .on('mouseout',function(){d3.select(this).attr('opacity',.85).attr('stroke','#fff').attr('stroke-width',2);tt.style.opacity=0})
+    .on('click',function(ev,d){if(CONT_COUNTRIES[d.data.id])drillContinent(d.data.id)})
+    .transition().duration(1200).delay((d,i)=>i*120).ease(d3.easeElasticOut.amplitude(.5)).attr('r',d=>d.r);
+  // Labels
+  g.selectAll('.cont-label').data(nodes).enter().append('text').attr('class','cont-label')
+    .attr('x',d=>d.x).attr('y',d=>d.y-4).attr('text-anchor','middle')
+    .attr('font-size',d=>Math.max(10,Math.min(d.r/3.5,16))).attr('font-weight','700').attr('fill','#fff').attr('opacity',0)
+    .text(d=>d.data.id).transition().duration(600).delay((d,i)=>i*120+500).attr('opacity',1);
+  g.selectAll('.cont-val').data(nodes).enter().append('text').attr('class','cont-val')
+    .attr('x',d=>d.x).attr('y',d=>d.y+14).attr('text-anchor','middle')
+    .attr('font-size',d=>Math.max(8,Math.min(d.r/5,12))).attr('fill','rgba(255,255,255,.8)').attr('opacity',0)
+    .text(d=>d.data.total.toLocaleString()).transition().duration(600).delay((d,i)=>i*120+700).attr('opacity',1);
+  // Legend
+  const leg=document.getElementById('continent-legend');
+  leg.innerHTML=data.map(d=>`<span style="display:flex;align-items:center;gap:4px"><span style="width:12px;height:12px;background:${d.color};display:inline-block;border-radius:50%"></span>${d.label}</span>`).join('');
+}
+function drillContinent(id){
+  const data=CONT_COUNTRIES[id];
+  document.getElementById('continent-back').style.display='block';
+  const colored=CONT_DATA.find(c=>c.id===id);
+  drawBubbles(data.map((d,i)=>({...d,label:d.n,color:colored.color,id:d.n.substring(0,2)})));
+}
+function resetContinentView(){
+  document.getElementById('continent-back').style.display='none';
+  drawBubbles(CONT_DATA);
+}
+
+// ── D3 TYPE BREAKDOWN ──
+function drawTypeChart(){
+  const cont=document.getElementById('type-filter-cont').value;
+  const size=document.getElementById('type-filter-size').value;
+  let data=TYPE_BY_CONT[cont]||TYPE_BY_CONT.ALL;
+  let entries=Object.entries(data).map(([type,count])=>({type,count,color:TYPE_DATA_COLORS[type]||'#2C7BE5'}));
+  if(size==='LARGE')entries=entries.filter(d=>d.type==='large_airport');
+  else if(size==='MEDIUM')entries=entries.filter(d=>d.type==='medium_airport');
+  else if(size==='SMALL')entries=entries.filter(d=>['small_airport','seaplane_base','heliport','balloonport'].includes(d.type));
+  else if(size==='CLOSED')entries=entries.filter(d=>d.type==='closed');
+  entries.sort((a,b)=>b.count-a.count);
+  const wrap=document.getElementById('type-chart');wrap.innerHTML='<div class="chart-tooltip" id="type-tooltip"></div>';
+  const w=wrap.clientWidth||900,h=380,m={top:20,right:100,bottom:30,left:140},iw=w-m.left-m.right,ih=h-m.top-m.bottom,tt=document.getElementById('type-tooltip');
+  const svg=d3.select('#type-chart').append('svg').attr('width',w).attr('height',h).style('overflow','visible');
+  const g=svg.append('g').attr('transform',`translate(${m.left},${m.top})`);
+  const xM=d3.max(entries,d=>d.count)||1;
+  const xS=d3.scaleLinear().domain([0,xM*1.08]).range([0,iw]);
+  const yS=d3.scaleBand().domain(entries.map(d=>d.type)).range([0,ih]).padding(.25);
+  g.selectAll('rect').data(entries).enter().append('rect')
+    .attr('y',d=>yS(d.type)).attr('x',0).attr('width',0).attr('height',yS.bandwidth())
+    .attr('fill',d=>d.color).attr('rx',2).attr('opacity',.85)
+    .on('mouseover',function(ev,d){d3.select(this).attr('opacity',1);tt.style.opacity=1;tt.innerHTML=`<strong>${d.type.replace(/_/g,' ')}</strong><br>${d.count.toLocaleString()}`})
+    .on('mousemove',function(ev){tt.style.left=(ev.offsetX+15)+'px';tt.style.top=(ev.offsetY-10)+'px'})
+    .on('mouseout',function(){d3.select(this).attr('opacity',.85);tt.style.opacity=0})
+    .transition().duration(800).delay((d,i)=>i*100).ease(d3.easeCubicOut).attr('width',d=>xS(d.count));
+  g.selectAll('.ty-lbl').data(entries).enter().append('text').attr('x',-8).attr('y',d=>yS(d.type)+yS.bandwidth()/2)
+    .attr('text-anchor','end').attr('dominant-baseline','middle').attr('font-size','12').attr('fill','#202c39')
+    .text(d=>d.type.replace(/_/g,' '));
+  g.selectAll('.ty-val').data(entries).enter().append('text').attr('x',iw+8).attr('y',d=>yS(d.type)+yS.bandwidth()/2)
+    .attr('text-anchor','start').attr('dominant-baseline','middle').attr('font-size','12').attr('font-weight','700')
+    .attr('fill','#2ca4dc').attr('opacity',0).text(d=>d.count.toLocaleString())
+    .transition().duration(400).delay((d,i)=>i*100+500).attr('opacity',1);
+  g.append('g').attr('transform',`translate(0,${ih})`).call(d3.axisBottom(xS).ticks(5).tickFormat(d=>d>=1000?(d/1000).toFixed(0)+'k':d))
+    .selectAll('text').attr('font-size','11').attr('fill','#5A6B7F');
+}
+const TYPE_DATA_COLORS={small_airport:'#2C7BE5',heliport:'#E9C46A',closed:'#E76F51',medium_airport:'#F4A261',seaplane_base:'#6CB4EE',large_airport:'#2A9D8F',balloonport:'#D4E8F7'};
+
+// ── INIT ──
+function init(){
+  renderSearch(uniAirports);populateCountryFilter();renderCountries();populateDist();initScroll();initMap();
+  if(typeof d3!=='undefined'){drawBubbles(CONT_DATA);drawTypeChart()}
+  else{document.getElementById('continent-chart').innerHTML='<p style="padding:40px;text-align:center;color:#889">D3.js failed to load</p>';
+    document.getElementById('type-chart').innerHTML='<p style="padding:40px;text-align:center;color:#889">D3.js failed to load</p>'}}
+document.addEventListener('DOMContentLoaded',init);
+</script>
+</body>
+</html>

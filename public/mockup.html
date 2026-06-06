@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>World Airport Database - The BIGGEST Airport Code Database</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+/* ── RESET & BASE ── */
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Arial,Helvetica,sans-serif;background:#e8edf2;color:#1a1a2e;line-height:1.5;font-size:14px}
+
+/* ── COLORS ── */
+:root{--blue:#2ca4dc;--dark:#202c39;--mid:#344055;--light:#f0f4f8;--accent:#e8b830;--border:#b0bec5;--bg-card:#fff;--bg-body:#e8edf2;--text:#1a1a2e;--text-light:#5a6a7a}
+
+/* ── LAYOUT ── */
+.wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+
+/* ── HEADER ── */
+header{background:linear-gradient(135deg,var(--dark) 0%,var(--mid) 100%);border-bottom:4px solid var(--blue);padding:0}
+.header-inner{display:flex;align-items:center;justify-content:space-between;padding:12px 16px;flex-wrap:wrap;gap:8px}
+.logo{display:flex;align-items:center;gap:12px;text-decoration:none;cursor:pointer}
+.logo-icon{background:var(--blue);color:#fff;width:48px;height:48px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:24px;font-weight:bold;border:2px solid rgba(255,255,255,.3);text-shadow:1px 1px 2px rgba(0,0,0,.3)}
+.logo-text{color:#fff;font-size:20px;font-weight:bold;letter-spacing:.5px;line-height:1.2}
+.logo-text small{display:block;font-size:11px;font-weight:normal;color:var(--blue);letter-spacing:1px;text-transform:uppercase}
+nav{display:flex;gap:4px;flex-wrap:wrap}
+nav a{color:#ccdbe8;text-decoration:none;padding:6px 12px;font-size:13px;border-radius:4px;transition:all .15s;cursor:pointer}
+nav a:hover,nav a.active{background:rgba(44,164,220,.25);color:#fff}
+
+/* ── PAGE CONTAINERS ── */
+.page{display:none}
+.page.active{display:block}
+
+/* ── HERO ── */
+.hero{background:linear-gradient(135deg,var(--dark) 0%,#283845 100%);padding:50px 16px 40px;text-align:center;border-bottom:3px solid var(--blue)}
+.hero h1{color:#fff;font-size:32px;font-weight:bold;margin-bottom:8px}
+.hero p{color:#a0b8cc;font-size:16px;max-width:700px;margin:0 auto 24px}
+.search-box{max-width:600px;margin:0 auto;display:flex;gap:0}
+.search-box input{flex:1;padding:14px 18px;font-size:16px;border:2px solid var(--blue);border-right:none;border-radius:6px 0 0 6px;outline:none;background:#fff;color:#333}
+.search-box input:focus{border-color:var(--accent)}
+.search-box button{padding:14px 28px;background:var(--blue);color:#fff;font-size:16px;font-weight:bold;border:2px solid var(--blue);border-radius:0 6px 6px 0;cursor:pointer;transition:background .15s}
+.search-box button:hover{background:#1e8ab8}
+
+/* ── STATS BAR ── */
+.stats{background:var(--bg-card);border-bottom:2px solid var(--border);padding:16px 0}
+.stats-inner{display:flex;justify-content:center;gap:40px;flex-wrap:wrap}
+.stat-item{text-align:center}
+.stat-num{font-size:28px;font-weight:bold;color:var(--blue)}
+.stat-label{font-size:12px;color:var(--text-light);text-transform:uppercase;letter-spacing:1px}
+
+/* ── CARDS / TILES ── */
+.card-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;padding:30px 0}
+.card{background:var(--bg-card);border:1px solid var(--border);border-radius:8px;padding:20px;text-align:center;cursor:pointer;transition:all .15s;text-decoration:none;display:block;color:var(--text)}
+.card:hover{border-color:var(--blue);box-shadow:0 4px 12px rgba(44,164,220,.2);transform:translateY(-2px)}
+.card-icon{font-size:36px;margin-bottom:8px}
+.card h3{font-size:16px;margin-bottom:4px;color:var(--dark)}
+.card p{font-size:12px;color:var(--text-light)}
+
+/* ── SECTION TITLES ── */
+.section-title{font-size:22px;font-weight:bold;color:var(--dark);padding:24px 0 12px;border-bottom:2px solid var(--blue);margin-bottom:16px}
+
+/* ── TABLES ── */
+table.data{width:100%;border-collapse:collapse;margin:12px 0 20px;background:var(--bg-card)}
+table.data th{background:var(--mid);color:#fff;padding:10px 12px;text-align:left;font-size:13px;text-transform:uppercase;letter-spacing:.5px}
+table.data td{padding:9px 12px;border-bottom:1px solid #dce3e8;font-size:13px;vertical-align:top}
+table.data tr:nth-child(even) td{background:#f5f8fa}
+table.data tr:hover td{background:#e3f0f7}
+table.data td.label{font-weight:bold;color:var(--text-light);white-space:nowrap;width:1%}
+
+/* ── AIRPORT HERO ── */
+.airport-hero{background:linear-gradient(135deg,var(--dark),var(--mid));padding:36px 0;border-bottom:3px solid var(--blue)}
+.airport-hero h1{color:#fff;font-size:28px;margin-bottom:4px}
+.airport-hero .codes{font-size:18px;color:var(--blue);font-weight:bold;margin-bottom:6px}
+.airport-hero .meta{color:#a0b8cc;font-size:13px}
+
+/* ── MAP ── */
+.map-wrap{height:320px;border:2px solid var(--border);border-radius:6px;margin:16px 0}
+
+/* ── COUNTRY LIST ── */
+.country-hero{background:linear-gradient(135deg,var(--dark),var(--mid));padding:36px 0;border-bottom:3px solid var(--blue)}
+.country-hero h1{color:#fff;font-size:28px}
+
+/* ── TOOL PAGES ── */
+.tool-header{background:linear-gradient(135deg,var(--dark),var(--mid));padding:30px 0;border-bottom:3px solid var(--blue)}
+.tool-header h1{color:#fff;font-size:26px;margin-bottom:4px}
+.tool-header p{color:#a0b8cc;font-size:14px}
+
+.tool-section{background:var(--bg-card);border:1px solid var(--border);border-radius:8px;padding:24px;margin:20px 0}
+.tool-section label{display:block;font-weight:bold;font-size:13px;color:var(--dark);margin-bottom:4px}
+.tool-section select,.tool-section input[type="text"]{width:100%;padding:10px 12px;font-size:14px;border:1px solid var(--border);border-radius:4px;background:#fff;margin-bottom:12px}
+.tool-section select:focus,.tool-section input[type="text"]:focus{outline:none;border-color:var(--blue);box-shadow:0 0 0 2px rgba(44,164,220,.2)}
+.btn{display:inline-block;padding:10px 24px;background:var(--blue);color:#fff;font-size:14px;font-weight:bold;border:none;border-radius:4px;cursor:pointer;transition:background .15s}
+.btn:hover{background:#1e8ab8}
+.btn-secondary{background:var(--mid)}
+.btn-secondary:hover{background:#4a5a70}
+
+.result-box{background:#f5f8fa;border:1px solid var(--border);border-radius:6px;padding:20px;margin-top:16px;display:none}
+.result-box.visible{display:block}
+.result-box h3{font-size:16px;color:var(--dark);margin-bottom:8px}
+
+/* ── AFFILIATE ── */
+.affiliate-box{background:linear-gradient(135deg,#fff8e1,#fff3cd);border:1px solid #e8b830;border-radius:8px;padding:20px;margin:20px 0;text-align:center}
+.affiliate-box h3{color:var(--dark);font-size:16px;margin-bottom:8px}
+.affiliate-box p{font-size:13px;color:var(--text-light);margin-bottom:10px}
+.affiliate-box .btn{background:var(--accent);color:var(--dark)}
+.affiliate-box .btn:hover{background:#d4a520}
+.affiliate-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin-top:12px}
+.affiliate-item{background:#fff;border:1px solid #f0d080;border-radius:6px;padding:14px;text-align:center;font-size:13px;font-weight:bold;color:var(--dark);cursor:pointer;transition:all .15s}
+.affiliate-item:hover{border-color:var(--accent);background:#fffde7}
+
+/* ── FOOTER ── */
+footer{background:var(--dark);color:#8899aa;padding:30px 0 20px;margin-top:40px;border-top:3px solid var(--blue);font-size:12px;text-align:center}
+footer .wrap>*{margin-bottom:6px}
+footer strong{color:#ccdbe8}
+
+/* ── DISTANCE RESULT ── */
+.dist-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:10px}
+.dist-grid .item{background:#fff;border:1px solid var(--border);border-radius:6px;padding:14px;text-align:center}
+.dist-grid .item .val{font-size:28px;font-weight:bold;color:var(--blue)}
+.dist-grid .item .lbl{font-size:12px;color:var(--text-light);text-transform:uppercase;letter-spacing:.5px;margin-top:2px}
+
+/* ── LOOKUP RESULTS ── */
+.lookup-results{display:none}
+.lookup-results.visible{display:block}
+table.data .iata-badge{display:inline-block;background:var(--blue);color:#fff;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:bold}
+
+/* ── INTERNAL LINKS ── */
+.internal-links{background:var(--bg-card);border:1px solid var(--border);border-radius:8px;padding:16px;margin:16px 0}
+.internal-links h3{font-size:14px;color:var(--text-light);margin-bottom:8px;text-transform:uppercase;letter-spacing:.5px}
+.internal-links a{color:var(--blue);text-decoration:none;font-size:13px;margin-right:16px}
+.internal-links a:hover{text-decoration:underline}
+
+/* ── RESPONSIVE ── */
+@media(max-width:768px){
+  .header-inner{flex-direction:column;align-items:stretch;text-align:center}
+  nav{justify-content:center}
+  .hero h1{font-size:24px}
+  .stats-inner{gap:20px}
+  .stat-num{font-size:22px}
+  .dist-grid{grid-template-columns:1fr}
+  table.data{font-size:12px}
+  table.data th,table.data td{padding:7px 8px}
+  .search-box{flex-direction:column}
+  .search-box input{border-radius:6px 6px 0 0;border-right:2px solid var(--blue)}
+  .search-box button{border-radius:0 0 6px 6px}
+  .airport-hero h1{font-size:22px}
+}
+</style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- HEADER -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<header>
+<div class="wrap header-inner">
+  <a class="logo" onclick="showPage('home')">
+    <div class="logo-icon">&#9992;</div>
+    <div class="logo-text">
+      World Airport Database
+      <small>THE BIGGEST AIRPORT CODE DATABASE</small>
+    </div>
+  </a>
+  <nav>
+    <a onclick="showPage('home')" class="active" id="nav-home">Home</a>
+    <a onclick="showPage('country')" id="nav-country">Germany</a>
+    <a onclick="showPage('airport')" id="nav-airport">FRA</a>
+    <a onclick="showPage('lookup')" id="nav-lookup">IATA Lookup</a>
+    <a onclick="showPage('distance')" id="nav-distance">Distance Calc</a>
+  </nav>
+</div>
+</header>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- PAGE 1: HOME -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<div class="page active" id="page-home">
+
+<div class="hero">
+  <div class="wrap">
+    <h1>World Airport Database</h1>
+    <p>The BIGGEST Airport Code Database available on Internet.<br>
+    85,545 airports worldwide — search, browse, and explore.</p>
+    <div class="search-box">
+      <input type="text" id="home-search" placeholder="Search airport by name, IATA, ICAO, city, or country..." onkeydown="if(event.key==='Enter')globalSearch()">
+      <button onclick="globalSearch()">Search</button>
+    </div>
+  </div>
+</div>
+
+<div class="stats">
+  <div class="wrap stats-inner">
+    <div class="stat-item"><div class="stat-num">85,545</div><div class="stat-label">Airports</div></div>
+    <div class="stat-item"><div class="stat-num">247</div><div class="stat-label">Countries</div></div>
+    <div class="stat-item"><div class="stat-num">9,056</div><div class="stat-label">IATA Codes</div></div>
+    <div class="stat-item"><div class="stat-num">14,799</div><div class="stat-label">ICAO Codes</div></div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="card-grid">
+    <a class="card" onclick="showPage('country')">
+      <div class="card-icon">&#127758;</div>
+      <h3>Browse by Country</h3>
+      <p>Explore airports by country. 247 countries indexed.</p>
+    </a>
+    <a class="card" onclick="showPage('lookup')">
+      <div class="card-icon">&#128269;</div>
+      <h3>IATA Code Lookup</h3>
+      <p>Search IATA and ICAO codes instantly.</p>
+    </a>
+    <a class="card" onclick="showPage('lookup')">
+      <div class="card-icon">&#128269;</div>
+      <h3>ICAO Code Lookup</h3>
+      <p>Find airports by their 4-letter ICAO identifier.</p>
+    </a>
+    <a class="card" onclick="showPage('distance')">
+      <div class="card-icon">&#8596;</div>
+      <h3>Airport Distance Calculator</h3>
+      <p>Calculate great-circle distance between any two airports.</p>
+    </a>
+    <a class="card" onclick="showPage('airport')">
+      <div class="card-icon">&#9992;</div>
+      <h3>Featured: Frankfurt (FRA)</h3>
+      <p>Germany's largest airport. View full profile.</p>
+    </a>
+    <a class="card" onclick="showPage('country')">
+      <div class="card-icon">&#128203;</div>
+      <h3>Airport Codes List</h3>
+      <p>Complete IATA &amp; ICAO code directory.</p>
+    </a>
+  </div>
+
+  <h2 class="section-title">Popular Airports</h2>
+  <table class="data">
+    <thead><tr><th>IATA</th><th>ICAO</th><th>Name</th><th>City</th><th>Country</th></tr></thead>
+    <tbody>
+      <tr style="cursor:pointer" onclick="showPage('airport')"><td><span class="iata-badge">FRA</span></td><td>EDDF</td><td>Frankfurt Main Airport</td><td>Frankfurt am Main</td><td>Germany</td></tr>
+      <tr><td><span class="iata-badge">LHR</span></td><td>EGLL</td><td>London Heathrow Airport</td><td>London</td><td>United Kingdom</td></tr>
+      <tr><td><span class="iata-badge">JFK</span></td><td>KJFK</td><td>John F. Kennedy International Airport</td><td>New York</td><td>United States</td></tr>
+      <tr><td><span class="iata-badge">CDG</span></td><td>LFPG</td><td>Charles de Gaulle International Airport</td><td>Paris</td><td>France</td></tr>
+      <tr><td><span class="iata-badge">AMS</span></td><td>EHAM</td><td>Amsterdam Airport Schiphol</td><td>Amsterdam</td><td>Netherlands</td></tr>
+      <tr><td><span class="iata-badge">MUC</span></td><td>EDDM</td><td>Munich Airport</td><td>Munich</td><td>Germany</td></tr>
+      <tr><td><span class="iata-badge">DXB</span></td><td>OMDB</td><td>Dubai International Airport</td><td>Dubai</td><td>United Arab Emirates</td></tr>
+    </tbody>
+  </table>
+
+  <div class="internal-links">
+    <h3>Quick Links</h3>
+    <a onclick="showPage('country')">Airports in Germany</a>
+    <a onclick="showPage('country')">Airports in Austria</a>
+    <a onclick="showPage('country')">Airports in Switzerland</a>
+    <a onclick="showPage('country')">Airports in United Kingdom</a>
+    <a onclick="showPage('country')">Airports in France</a>
+    <a onclick="showPage('country')">All Countries</a>
+    <a onclick="showPage('lookup')">IATA Code List</a>
+    <a onclick="showPage('lookup')">ICAO Code List</a>
+    <a onclick="showPage('distance')">Distance Calculator</a>
+  </div>
+</div>
+
+</div><!-- /page-home -->
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- PAGE 2: AIRPORT (FRA) -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<div class="page" id="page-airport">
+
+<div class="airport-hero">
+  <div class="wrap">
+    <div class="codes">FRA &middot; EDDF &middot; Frankfurt Main Airport</div>
+    <h1>Frankfurt Airport (FRA)</h1>
+    <div class="meta">Frankfurt am Main, Germany &middot; large_airport &middot; Europe/Berlin (UTC+1)</div>
+  </div>
+</div>
+
+<div class="wrap">
+  <table class="data" style="margin-top:20px">
+    <thead><tr><th colspan="2">Airport Information</th></tr></thead>
+    <tbody>
+      <tr><td class="label">Name</td><td>Frankfurt Main Airport</td></tr>
+      <tr><td class="label">IATA Code</td><td><span class="iata-badge">FRA</span></td></tr>
+      <tr><td class="label">ICAO Code</td><td>EDDF</td></tr>
+      <tr><td class="label">Type</td><td>large_airport</td></tr>
+      <tr><td class="label">City</td><td>Frankfurt am Main</td></tr>
+      <tr><td class="label">Country</td><td>Germany</td></tr>
+      <tr><td class="label">Continent</td><td>Europe</td></tr>
+      <tr><td class="label">Latitude</td><td>50.0267&deg; N</td></tr>
+      <tr><td class="label">Longitude</td><td>8.5584&deg; E</td></tr>
+      <tr><td class="label">Elevation</td><td>364 ft (111 m)</td></tr>
+      <tr><td class="label">Timezone</td><td>Europe/Berlin (UTC+1 / UTC+2 DST)</td></tr>
+      <tr><td class="label">GPS Code</td><td>EDDF</td></tr>
+      <tr><td class="label">Local Code</td><td>&mdash;</td></tr>
+      <tr><td class="label">Region</td><td>DE-HE</td></tr>
+      <tr><td class="label">Municipality</td><td>Frankfurt am Main</td></tr>
+      <tr><td class="label">Wikipedia</td><td><a href="#" style="color:var(--blue)">en.wikipedia.org/wiki/Frankfurt_Airport</a></td></tr>
+      <tr><td class="label">Score</td><td>300</td></tr>
+    </tbody>
+  </table>
+
+  <h2 class="section-title">Location Map</h2>
+  <div id="fra-map" class="map-wrap"></div>
+
+  <h2 class="section-title">Nearby Airports (with IATA codes)</h2>
+  <table class="data">
+    <thead><tr><th>IATA</th><th>ICAO</th><th>Name</th><th>City</th><th>Distance</th></tr></thead>
+    <tbody>
+      <tr><td><span class="iata-badge">MUC</span></td><td>EDDM</td><td>Munich Airport</td><td>Munich</td><td>300 km</td></tr>
+      <tr><td><span class="iata-badge">CGN</span></td><td>EDDK</td><td>Cologne Bonn Airport</td><td>Cologne</td><td>152 km</td></tr>
+      <tr><td><span class="iata-badge">STR</span></td><td>EDDS</td><td>Stuttgart Airport</td><td>Stuttgart</td><td>165 km</td></tr>
+      <tr><td><span class="iata-badge">DUS</span></td><td>EDDL</td><td>Dusseldorf Airport</td><td>Dusseldorf</td><td>189 km</td></tr>
+      <tr><td><span class="iata-badge">NUE</span></td><td>EDDN</td><td>Nuremberg Airport</td><td>Nuremberg</td><td>205 km</td></tr>
+      <tr><td><span class="iata-badge">HAJ</span></td><td>EDDV</td><td>Hannover Airport</td><td>Hannover</td><td>280 km</td></tr>
+      <tr><td><span class="iata-badge">LEJ</span></td><td>EDDP</td><td>Leipzig/Halle Airport</td><td>Leipzig</td><td>262 km</td></tr>
+    </tbody>
+  </table>
+
+  <div class="affiliate-box">
+    <h3>&#127968; Book Airport Parking &amp; Hotels</h3>
+    <p>Save up to 60% on parking at Frankfurt Airport. Book in advance and guarantee your spot.</p>
+    <div class="affiliate-grid">
+      <div class="affiliate-item">&#128663; Airport Parking<br><small style="font-weight:normal;color:var(--text-light)">from &euro;8/day</small></div>
+      <div class="affiliate-item">&#127976; Hotels near FRA<br><small style="font-weight:normal;color:var(--text-light)">Free cancellation</small></div>
+      <div class="affiliate-item">&#128176; Airport Lounges<br><small style="font-weight:normal;color:var(--text-light)">from &euro;29</small></div>
+      <div class="affiliate-item">&#128225; eSIM for Travel<br><small style="font-weight:normal;color:var(--text-light)">Instant activation</small></div>
+      <div class="affiliate-item">&#128661; Car Rental<br><small style="font-weight:normal;color:var(--text-light)">Compare prices</small></div>
+      <div class="affiliate-item">&#128652; Airport Transfer<br><small style="font-weight:normal;color:var(--text-light)">Door-to-door</small></div>
+    </div>
+  </div>
+
+  <div class="internal-links">
+    <h3>Related Pages</h3>
+    <a onclick="showPage('country')">All Airports in Germany</a>
+    <a onclick="showPage('country')">All Airports in Europe</a>
+    <a onclick="showPage('lookup')">IATA Code: FRA</a>
+    <a onclick="showPage('distance')">Distance from FRA</a>
+  </div>
+</div>
+
+</div><!-- /page-airport -->
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- PAGE 3: COUNTRY (Germany) -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<div class="page" id="page-country">
+
+<div class="country-hero">
+  <div class="wrap">
+    <h1>&#127758; Airports in Germany</h1>
+    <p style="color:#a0b8cc;font-size:14px">32 airports with IATA codes &middot; 22 large/medium airports &middot; Europe</p>
+  </div>
+</div>
+
+<div class="wrap">
+  <table class="data" style="margin-top:20px">
+    <thead><tr><th>IATA</th><th>ICAO</th><th>Name</th><th>City</th><th>Type</th></tr></thead>
+    <tbody>
+      <tr style="cursor:pointer" onclick="showPage('airport')"><td><span class="iata-badge">FRA</span></td><td>EDDF</td><td>Frankfurt Main Airport</td><td>Frankfurt am Main</td><td>large_airport</td></tr>
+      <tr><td><span class="iata-badge">MUC</span></td><td>EDDM</td><td>Munich Airport</td><td>Munich</td><td>large_airport</td></tr>
+      <tr><td><span class="iata-badge">BER</span></td><td>EDDB</td><td>Berlin Brandenburg Airport</td><td>Berlin</td><td>large_airport</td></tr>
+      <tr><td><span class="iata-badge">DUS</span></td><td>EDDL</td><td>Dusseldorf Airport</td><td>Dusseldorf</td><td>large_airport</td></tr>
+      <tr><td><span class="iata-badge">HAM</span></td><td>EDDH</td><td>Hamburg Airport</td><td>Hamburg</td><td>large_airport</td></tr>
+      <tr><td><span class="iata-badge">CGN</span></td><td>EDDK</td><td>Cologne Bonn Airport</td><td>Cologne</td><td>large_airport</td></tr>
+      <tr><td><span class="iata-badge">STR</span></td><td>EDDS</td><td>Stuttgart Airport</td><td>Stuttgart</td><td>large_airport</td></tr>
+      <tr><td><span class="iata-badge">HAJ</span></td><td>EDDV</td><td>Hannover Airport</td><td>Hannover</td><td>large_airport</td></tr>
+      <tr><td><span class="iata-badge">NUE</span></td><td>EDDN</td><td>Nuremberg Airport</td><td>Nuremberg</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">LEJ</span></td><td>EDDP</td><td>Leipzig/Halle Airport</td><td>Leipzig</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">DRS</span></td><td>EDDC</td><td>Dresden Airport</td><td>Dresden</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">FMO</span></td><td>EDDG</td><td>Munster Osnabruck Airport</td><td>Greven</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">BRE</span></td><td>EDDW</td><td>Bremen Airport</td><td>Bremen</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">SCN</span></td><td>EDDR</td><td>Saarbrucken Airport</td><td>Saarbrucken</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">FKB</span></td><td>EDSB</td><td>Karlsruhe Baden-Baden Airport</td><td>Baden-Baden</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">PAD</span></td><td>EDLP</td><td>Paderborn Lippstadt Airport</td><td>Paderborn</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">FDH</span></td><td>EDNY</td><td>Friedrichshafen Airport</td><td>Friedrichshafen</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">RLG</span></td><td>ETNL</td><td>Rostock Laage Airport</td><td>Rostock</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">ERF</span></td><td>EDDE</td><td>Erfurt Weimar Airport</td><td>Erfurt</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">ZQW</span></td><td>EDRZ</td><td>Zweibrucken Airport</td><td>Zweibrucken</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">MHG</span></td><td>EDFM</td><td>Mannheim City Airport</td><td>Mannheim</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">XFW</span></td><td>EDHI</td><td>Hamburg Finkenwerder Airport</td><td>Hamburg</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">GWT</span></td><td>EDXW</td><td>Sylt Airport</td><td>Westerland</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">BWE</span></td><td>EDVE</td><td>Braunschweig Wolfsburg Airport</td><td>Braunschweig</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">FLF</span></td><td>EDXF</td><td>Flensburg Schaferhaus Airport</td><td>Flensburg</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">LBC</span></td><td>EDHL</td><td>Lubeck Blankensee Airport</td><td>Lubeck</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">EIB</span></td><td>EDFE</td><td>Eisenach Kindel Airport</td><td>Eisenach</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">HOQ</span></td><td>EDNH</td><td>Hof Plauen Airport</td><td>Hof</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">KEL</span></td><td>EDXK</td><td>Kiel Holtenau Airport</td><td>Kiel</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">BYU</span></td><td>EDQY</td><td>Bayreuth Airport</td><td>Bayreuth</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">AGE</span></td><td>EDJA</td><td>Wangerooge Airport</td><td>Wangerooge</td><td>medium_airport</td></tr>
+      <tr><td><span class="iata-badge">BMK</span></td><td>EDWB</td><td>Borkum Airport</td><td>Borkum</td><td>medium_airport</td></tr>
+    </tbody>
+  </table>
+
+  <div class="internal-links">
+    <h3>Related Pages</h3>
+    <a onclick="showPage('home')">All Countries</a>
+    <a onclick="showPage('airport')">Frankfurt Airport (FRA)</a>
+    <a onclick="showPage('airport')">Munich Airport (MUC)</a>
+    <a onclick="showPage('airport')">Berlin Brandenburg (BER)</a>
+    <a onclick="showPage('airport')">Hamburg Airport (HAM)</a>
+    <a onclick="showPage('lookup')">Search German Airports</a>
+  </div>
+</div>
+
+</div><!-- /page-country -->
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- PAGE 4: IATA/ICAO LOOKUP TOOL -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<div class="page" id="page-lookup">
+
+<div class="tool-header">
+  <div class="wrap">
+    <h1>&#128269; IATA / ICAO Code Lookup</h1>
+    <p>Search by IATA code, ICAO code, airport name, or city. Over 85,000 airports in our database.</p>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="tool-section">
+    <label for="lookup-input">Search airports</label>
+    <input type="text" id="lookup-input" placeholder="Type IATA (FRA), ICAO (EDDF), name, or city..." onkeyup="performLookup()">
+    <button class="btn" onclick="performLookup()">&#128269; Search</button>
+    <button class="btn btn-secondary" onclick="document.getElementById('lookup-input').value='';performLookup()" style="margin-left:8px">Clear</button>
+  </div>
+
+  <div class="lookup-results visible" id="lookup-results">
+    <table class="data">
+      <thead><tr><th>IATA</th><th>ICAO</th><th>Name</th><th>City</th><th>Country</th><th>Type</th></tr></thead>
+      <tbody id="lookup-tbody"></tbody>
+    </table>
+    <p id="lookup-count" style="font-size:13px;color:var(--text-light)"></p>
+  </div>
+</div>
+
+</div><!-- /page-lookup -->
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- PAGE 5: DISTANCE CALCULATOR -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<div class="page" id="page-distance">
+
+<div class="tool-header">
+  <div class="wrap">
+    <h1>&#8596; Airport Distance Calculator</h1>
+    <p>Calculate the great-circle distance between any two airports using the Haversine formula.</p>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="tool-section">
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
+      <div>
+        <label for="dist-from">From Airport</label>
+        <select id="dist-from"></select>
+      </div>
+      <div>
+        <label for="dist-to">To Airport</label>
+        <select id="dist-to"></select>
+      </div>
+    </div>
+    <button class="btn" onclick="calculateDistance()">&#8596; Calculate Distance</button>
+  </div>
+
+  <div class="result-box" id="dist-result">
+    <h3>&#8596; Distance Result</h3>
+    <table class="data">
+      <thead><tr><th>Property</th><th>From</th><th>To</th></tr></thead>
+      <tbody>
+        <tr><td class="label">Airport</td><td id="d-from-name"></td><td id="d-to-name"></td></tr>
+        <tr><td class="label">IATA</td><td id="d-from-iata"></td><td id="d-to-iata"></td></tr>
+        <tr><td class="label">Coordinates</td><td id="d-from-coord"></td><td id="d-to-coord"></td></tr>
+      </tbody>
+    </table>
+    <div class="dist-grid">
+      <div class="item"><div class="val" id="d-km">0</div><div class="lbl">Kilometers</div></div>
+      <div class="item"><div class="val" id="d-mi">0</div><div class="lbl">Miles</div></div>
+    </div>
+    <p style="font-size:12px;color:var(--text-light);margin-top:12px">Calculation based on the Haversine formula (great-circle distance). Actual travel distance may vary.</p>
+  </div>
+</div>
+
+</div><!-- /page-distance -->
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<footer>
+<div class="wrap">
+  <p><strong>World Airport Database</strong> &mdash; The BIGGEST Airport Code Database available on Internet.</p>
+  <p>world-airport-database.com is an independent airport information database based on open data sources (OurAirports).<br>It is <strong>not affiliated</strong> with IATA or ICAO.</p>
+  <p>&copy; 2026 World Airport Database &middot; Data source: <a href="#" style="color:var(--blue)">OurAirports</a> &middot; <a href="#" style="color:var(--blue)">Privacy Policy</a></p>
+  <p style="font-size:11px;color:#667">85,545 Airports &middot; 247 Countries &middot; 9,056 IATA Codes &middot; 14,799 ICAO Codes</p>
+</div>
+</footer>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- JAVASCRIPT -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<script>
+// ── TOP 50 AIRPORTS DATASET ──
+const AIRPORTS = [
+  {iata:"FRA",icao:"EDDF",name:"Frankfurt Main Airport",city:"Frankfurt am Main",country:"Germany",lat:50.0267,lng:8.5584,type:"large_airport"},
+  {iata:"MUC",icao:"EDDM",name:"Munich Airport",city:"Munich",country:"Germany",lat:48.3538,lng:11.7861,type:"large_airport"},
+  {iata:"BER",icao:"EDDB",name:"Berlin Brandenburg Airport",city:"Berlin",country:"Germany",lat:52.3514,lng:13.4939,type:"large_airport"},
+  {iata:"DUS",icao:"EDDL",name:"Dusseldorf Airport",city:"Dusseldorf",country:"Germany",lat:51.2895,lng:6.7668,type:"large_airport"},
+  {iata:"HAM",icao:"EDDH",name:"Hamburg Airport",city:"Hamburg",country:"Germany",lat:53.6304,lng:9.9882,type:"large_airport"},
+  {iata:"CGN",icao:"EDDK",name:"Cologne Bonn Airport",city:"Cologne",country:"Germany",lat:50.8659,lng:7.1427,type:"large_airport"},
+  {iata:"STR",icao:"EDDS",name:"Stuttgart Airport",city:"Stuttgart",country:"Germany",lat:48.6899,lng:9.2220,type:"large_airport"},
+  {iata:"HAJ",icao:"EDDV",name:"Hannover Airport",city:"Hannover",country:"Germany",lat:52.4611,lng:9.6850,type:"large_airport"},
+  {iata:"NUE",icao:"EDDN",name:"Nuremberg Airport",city:"Nuremberg",country:"Germany",lat:49.4987,lng:11.0781,type:"medium_airport"},
+  {iata:"LEJ",icao:"EDDP",name:"Leipzig/Halle Airport",city:"Leipzig",country:"Germany",lat:51.4239,lng:12.2363,type:"medium_airport"},
+  {iata:"LHR",icao:"EGLL",name:"London Heathrow Airport",city:"London",country:"United Kingdom",lat:51.4700,lng:-0.4543,type:"large_airport"},
+  {iata:"LGW",icao:"EGKK",name:"London Gatwick Airport",city:"London",country:"United Kingdom",lat:51.1481,lng:-0.1903,type:"large_airport"},
+  {iata:"STN",icao:"EGSS",name:"London Stansted Airport",city:"London",country:"United Kingdom",lat:51.8860,lng:0.2389,type:"large_airport"},
+  {iata:"MAN",icao:"EGCC",name:"Manchester Airport",city:"Manchester",country:"United Kingdom",lat:53.3537,lng:-2.2756,type:"large_airport"},
+  {iata:"CDG",icao:"LFPG",name:"Charles de Gaulle International Airport",city:"Paris",country:"France",lat:49.0097,lng:2.5478,type:"large_airport"},
+  {iata:"ORY",icao:"LFPO",name:"Paris Orly Airport",city:"Paris",country:"France",lat:48.7239,lng:2.3618,type:"large_airport"},
+  {iata:"NCE",icao:"LFMN",name:"Nice Cote d'Azur Airport",city:"Nice",country:"France",lat:43.6584,lng:7.2159,type:"large_airport"},
+  {iata:"AMS",icao:"EHAM",name:"Amsterdam Airport Schiphol",city:"Amsterdam",country:"Netherlands",lat:52.3086,lng:4.7641,type:"large_airport"},
+  {iata:"BRU",icao:"EBBR",name:"Brussels Airport",city:"Brussels",country:"Belgium",lat:50.9014,lng:4.4844,type:"large_airport"},
+  {iata:"ZRH",icao:"LSZH",name:"Zurich Airport",city:"Zurich",country:"Switzerland",lat:47.4582,lng:8.5480,type:"large_airport"},
+  {iata:"GVA",icao:"LSGG",name:"Geneva Airport",city:"Geneva",country:"Switzerland",lat:46.2290,lng:6.1087,type:"large_airport"},
+  {iata:"VIE",icao:"LOWW",name:"Vienna International Airport",city:"Vienna",country:"Austria",lat:48.1103,lng:16.5697,type:"large_airport"},
+  {iata:"JFK",icao:"KJFK",name:"John F. Kennedy International Airport",city:"New York",country:"United States",lat:40.6413,lng:-73.7781,type:"large_airport"},
+  {iata:"EWR",icao:"KEWR",name:"Newark Liberty International Airport",city:"Newark",country:"United States",lat:40.6895,lng:-74.1745,type:"large_airport"},
+  {iata:"LAX",icao:"KLAX",name:"Los Angeles International Airport",city:"Los Angeles",country:"United States",lat:33.9416,lng:-118.4085,type:"large_airport"},
+  {iata:"ORD",icao:"KORD",name:"O'Hare International Airport",city:"Chicago",country:"United States",lat:41.9742,lng:-87.9073,type:"large_airport"},
+  {iata:"ATL",icao:"KATL",name:"Hartsfield-Jackson Atlanta International Airport",city:"Atlanta",country:"United States",lat:33.6407,lng:-84.4277,type:"large_airport"},
+  {iata:"SFO",icao:"KSFO",name:"San Francisco International Airport",city:"San Francisco",country:"United States",lat:37.6213,lng:-122.3790,type:"large_airport"},
+  {iata:"MIA",icao:"KMIA",name:"Miami International Airport",city:"Miami",country:"United States",lat:25.7932,lng:-80.2906,type:"large_airport"},
+  {iata:"YYZ",icao:"CYYZ",name:"Toronto Pearson International Airport",city:"Toronto",country:"Canada",lat:43.6772,lng:-79.6306,type:"large_airport"},
+  {iata:"YVR",icao:"CYVR",name:"Vancouver International Airport",city:"Vancouver",country:"Canada",lat:49.1947,lng:-123.1838,type:"large_airport"},
+  {iata:"DXB",icao:"OMDB",name:"Dubai International Airport",city:"Dubai",country:"United Arab Emirates",lat:25.2532,lng:55.3657,type:"large_airport"},
+  {iata:"AUH",icao:"OMAA",name:"Abu Dhabi International Airport",city:"Abu Dhabi",country:"United Arab Emirates",lat:24.4330,lng:54.6511,type:"large_airport"},
+  {iata:"DOH",icao:"OTHH",name:"Hamad International Airport",city:"Doha",country:"Qatar",lat:25.2731,lng:51.6081,type:"large_airport"},
+  {iata:"SIN",icao:"WSSS",name:"Singapore Changi Airport",city:"Singapore",country:"Singapore",lat:1.3644,lng:103.9915,type:"large_airport"},
+  {iata:"HKG",icao:"VHHH",name:"Hong Kong International Airport",city:"Hong Kong",country:"Hong Kong",lat:22.3080,lng:113.9185,type:"large_airport"},
+  {iata:"NRT",icao:"RJAA",name:"Narita International Airport",city:"Tokyo",country:"Japan",lat:35.7647,lng:140.3864,type:"large_airport"},
+  {iata:"HND",icao:"RJTT",name:"Tokyo Haneda Airport",city:"Tokyo",country:"Japan",lat:35.5494,lng:139.7798,type:"large_airport"},
+  {iata:"ICN",icao:"RKSI",name:"Incheon International Airport",city:"Seoul",country:"South Korea",lat:37.4602,lng:126.4407,type:"large_airport"},
+  {iata:"BKK",icao:"VTBS",name:"Suvarnabhumi Airport",city:"Bangkok",country:"Thailand",lat:13.6811,lng:100.7470,type:"large_airport"},
+  {iata:"SYD",icao:"YSSY",name:"Sydney Kingsford Smith Airport",city:"Sydney",country:"Australia",lat:-33.9399,lng:151.1753,type:"large_airport"},
+  {iata:"MEL",icao:"YMML",name:"Melbourne Airport",city:"Melbourne",country:"Australia",lat:-37.6733,lng:144.8435,type:"large_airport"},
+  {iata:"BCN",icao:"LEBL",name:"Barcelona-El Prat Airport",city:"Barcelona",country:"Spain",lat:41.2971,lng:2.0785,type:"large_airport"},
+  {iata:"MAD",icao:"LEMD",name:"Adolfo Suarez Madrid-Barajas Airport",city:"Madrid",country:"Spain",lat:40.4936,lng:-3.5668,type:"large_airport"},
+  {iata:"FCO",icao:"LIRF",name:"Leonardo da Vinci-Fiumicino Airport",city:"Rome",country:"Italy",lat:41.8003,lng:12.2389,type:"large_airport"},
+  {iata:"MXP",icao:"LIMC",name:"Milan Malpensa Airport",city:"Milan",country:"Italy",lat:45.6301,lng:8.7281,type:"large_airport"},
+  {iata:"CPH",icao:"EKCH",name:"Copenhagen Airport",city:"Copenhagen",country:"Denmark",lat:55.6180,lng:12.6508,type:"large_airport"},
+  {iata:"ARN",icao:"ESSA",name:"Stockholm Arlanda Airport",city:"Stockholm",country:"Sweden",lat:59.6519,lng:17.9186,type:"large_airport"},
+  {iata:"OSL",icao:"ENGM",name:"Oslo Airport Gardermoen",city:"Oslo",country:"Norway",lat:60.1939,lng:11.1004,type:"large_airport"},
+  {iata:"HEL",icao:"EFHK",name:"Helsinki Vantaa Airport",city:"Helsinki",country:"Finland",lat:60.3172,lng:24.9633,type:"large_airport"},
+];
+
+// ── PAGE SWITCHING ──
+function showPage(id) {
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('nav a').forEach(a => a.classList.remove('active'));
+  const page = document.getElementById('page-' + id);
+  if (page) page.classList.add('active');
+  const nav = document.getElementById('nav-' + id);
+  if (nav) nav.classList.add('active');
+  window.scrollTo({top:0,behavior:'smooth'});
+  // init map if switching to airport page
+  if (id === 'airport') setTimeout(initFraMap, 300);
+}
+
+// ── GLOBAL SEARCH ──
+function globalSearch() {
+  const val = document.getElementById('home-search').value.trim();
+  if (!val) return;
+  document.getElementById('lookup-input').value = val;
+  showPage('lookup');
+  performLookup();
+}
+
+// ── LOOKUP ──
+function performLookup() {
+  const q = document.getElementById('lookup-input').value.trim().toLowerCase();
+  const tbody = document.getElementById('lookup-tbody');
+  const count = document.getElementById('lookup-count');
+  const resultsDiv = document.getElementById('lookup-results');
+  
+  if (!q) {
+    tbody.innerHTML = AIRPORTS.map(a => 
+      `<tr><td><span class="iata-badge">${a.iata}</span></td><td>${a.icao}</td><td>${a.name}</td><td>${a.city}</td><td>${a.country}</td><td>${a.type}</td></tr>`
+    ).join('');
+    count.textContent = `Showing all ${AIRPORTS.length} airports in our sample dataset.`;
+    return;
+  }
+
+  const results = AIRPORTS.filter(a =>
+    a.iata.toLowerCase().includes(q) ||
+    a.icao.toLowerCase().includes(q) ||
+    a.name.toLowerCase().includes(q) ||
+    a.city.toLowerCase().includes(q) ||
+    a.country.toLowerCase().includes(q)
+  );
+
+  if (results.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="6" style="text-align:center;padding:30px;color:var(--text-light)">No airports found matching "${q}". Try a different search term.</td></tr>`;
+    count.textContent = '0 results';
+  } else {
+    tbody.innerHTML = results.map(a =>
+      `<tr><td><span class="iata-badge">${a.iata}</span></td><td>${a.icao}</td><td>${a.name}</td><td>${a.city}</td><td>${a.country}</td><td>${a.type}</td></tr>`
+    ).join('');
+    count.textContent = `Found ${results.length} result${results.length === 1 ? '' : 's'} for "${q}".`;
+  }
+  resultsDiv.classList.add('visible');
+}
+
+// ── DISTANCE CALCULATOR (HAVERSINE) ──
+function haversineKm(lat1, lon1, lat2, lon2) {
+  const R = 6371;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+            Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+            Math.sin(dLon/2) * Math.sin(dLon/2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  return R * c;
+}
+
+function populateDistSelects() {
+  const from = document.getElementById('dist-from');
+  const to = document.getElementById('dist-to');
+  const sorted = [...AIRPORTS].sort((a,b) => a.iata.localeCompare(b.iata));
+  from.innerHTML = sorted.map((a,i) => `<option value="${i}">${a.iata} - ${a.name}, ${a.city}</option>`).join('');
+  to.innerHTML = sorted.map((a,i) => `<option value="${i}">${a.iata} - ${a.name}, ${a.city}</option>`).join('');
+  // set defaults: FRA -> JFK
+  from.value = sorted.findIndex(a => a.iata === 'FRA');
+  to.value = sorted.findIndex(a => a.iata === 'JFK');
+}
+
+function calculateDistance() {
+  const fromIdx = parseInt(document.getElementById('dist-from').value);
+  const toIdx = parseInt(document.getElementById('dist-to').value);
+  const from = AIRPORTS[fromIdx];
+  const to = AIRPORTS[toIdx];
+  
+  const km = haversineKm(from.lat, from.lng, to.lat, to.lng);
+  const mi = km * 0.621371;
+  
+  document.getElementById('d-from-name').textContent = from.name;
+  document.getElementById('d-to-name').textContent = to.name;
+  document.getElementById('d-from-iata').textContent = from.iata;
+  document.getElementById('d-to-iata').textContent = to.iata;
+  document.getElementById('d-from-coord').textContent = `${from.lat.toFixed(4)}°, ${from.lng.toFixed(4)}°`;
+  document.getElementById('d-to-coord').textContent = `${to.lat.toFixed(4)}°, ${to.lng.toFixed(4)}°`;
+  document.getElementById('d-km').textContent = km.toFixed(0) + ' km';
+  document.getElementById('d-mi').textContent = mi.toFixed(0) + ' mi';
+  
+  document.getElementById('dist-result').classList.add('visible');
+}
+
+// ── MAP ──
+let fraMap = null;
+function initFraMap() {
+  if (fraMap) { fraMap.invalidateSize(); return; }
+  const el = document.getElementById('fra-map');
+  if (!el || el.offsetParent === null) return;
+  
+  fraMap = L.map('fra-map').setView([50.0267, 8.5584], 10);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    maxZoom: 18
+  }).addTo(fraMap);
+  
+  L.marker([50.0267, 8.5584]).addTo(fraMap)
+    .bindPopup('<b>Frankfurt Airport (FRA)</b><br>EDDF &middot; Frankfurt am Main')
+    .openPopup();
+}
+
+// ── INIT ──
+document.addEventListener('DOMContentLoaded', function() {
+  populateDistSelects();
+  performLookup(); // show initial lookup data
+  
+  // init map on first load if home is showing... actually airport page is hidden, so we init on show
+  // Also init the map if someone navigates directly
+  setTimeout(() => {
+    if (document.getElementById('page-airport').classList.contains('active')) {
+      initFraMap();
+    }
+  }, 500);
+});
+</script>
+
+</body>
+</html>
