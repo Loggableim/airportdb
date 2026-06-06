@@ -47,16 +47,9 @@ table tr:hover td{background:#e3f0f7}
 .hero-stat{text-align:center}
 .hero-stat .num{font-size:34px;font-weight:800;color:var(--gold)}
 .hero-stat .lbl{font-size:12px;color:#8899aa;text-transform:uppercase;letter-spacing:1px;margin-top:2px}
-.plane-svg{position:absolute;width:140;height:50;pointer-events:none;z-index:2;opacity:.7}
-.plane-path{fill:#fff;stroke:rgba(255,255,255,.6);stroke-width:1}
-.plane-wing{fill:rgba(255,255,255,.2);stroke:rgba(255,255,255,.4);stroke-width:.8}
-.plane-tail{fill:rgba(255,255,255,.15);stroke:rgba(255,255,255,.3);stroke-width:.6}
-.plane-cockpit{fill:rgba(255,255,255,.25);stroke:rgba(255,255,255,.5)}
-.plane-engine{fill:rgba(255,255,255,.15);stroke:rgba(255,255,255,.25);stroke-width:.5}
-.plane-contrail{stroke:rgba(255,255,255,.08);stroke-width:2;stroke-linecap:round;fill:none}
-.plane-wrap{position:absolute;top:0;left:0;width:100%;height:100%;overflow:hidden;pointer-events:none}
-.plane-anim{position:absolute;top:25%;animation:planeFlight 14s cubic-bezier(.45,.05,.55,.95) infinite}
-@keyframes planeFlight{0%{transform:translateX(calc(100vw + 100px)) translateY(0)}20%{transform:translateX(calc(80vw)) translateY(-15px)}40%{transform:translateX(calc(60vw)) translateY(0)}60%{transform:translateX(calc(40vw)) translateY(-12px)}80%{transform:translateX(calc(20vw)) translateY(5px)}100%{transform:translateX(calc(-200px)) translateY(-8px)}}
+.hero-content{position:relative;z-index:3}
+#hero-canvas{position:absolute;top:0;left:0;width:100%;height:100%;z-index:1;pointer-events:none}
+.stars{position:absolute;top:0;left:0;width:100%;height:100%;overflow:hidden;z-index:0}
 .scroll-indicator{position:absolute;bottom:20px;left:50%;transform:translateX(-50%);color:#667;font-size:12px;letter-spacing:1px;text-transform:uppercase;animation:bounceDown 2s ease-in-out infinite}
 .scroll-indicator::after{content:'\2193';display:block;text-align:center;font-size:18px;margin-top:2px}
 @keyframes bounceDown{0%,100%{opacity:.4;transform:translateX(-50%) translateY(0)}50%{opacity:1;transform:translateX(-50%) translateY(6px)}}
@@ -140,32 +133,191 @@ footer .footer-inner>*{margin-bottom:8px}
 <body>
 <!-- ═══ HERO ═══ -->
 <div class="hero" id="hero">
-  <div class="plane-wrap">
-    <div class="plane-anim">
-      <svg class="plane-svg" width="140" height="50" viewBox="0 0 140 50" fill="none">
-        <path class="plane-path" d="M14 25 L32 18 L85 18 L100 25 L85 32 L32 32Z"/>
-        <path class="plane-wing" d="M54 18 L60 5 L78 5 L64 18"/>
-        <path class="plane-wing" d="M54 32 L60 45 L78 45 L64 32"/>
-        <path class="plane-tail" d="M85 18 L98 8 L104 8 L85 25"/>
-        <path class="plane-tail" d="M85 32 L98 42 L104 42 L85 25"/>
-        <path class="plane-cockpit" d="M32 18 L12 25 L32 32"/>
-        <ellipse class="plane-engine" cx="54" cy="25" rx="5" ry="2.5"/>
-        <ellipse class="plane-engine" cx="72" cy="25" rx="5" ry="2.5"/>
-        <path class="plane-contrail" d="M14 25 Q-20 22 -60 24 Q-100 26 -140 23"/>
-      </svg>
-    </div>
-  </div>
-  <div class="wrap">
-    <h1>World Airport Database</h1>
-    <p class="subtitle">The BIGGEST Airport Code Database available on Internet. <span>&#9733;</span></p>
-    <div class="hero-stats">
-      <div class="hero-stat"><div class="num" data-count="85545">0</div><div class="lbl">Total Airports</div></div>
-      <div class="hero-stat"><div class="num" data-count="247">0</div><div class="lbl">Countries</div></div>
-      <div class="hero-stat"><div class="num" data-count="9056">0</div><div class="lbl">IATA Codes</div></div>
+  <canvas id="hero-canvas"></canvas>
+  <div class="hero-content">
+    <div class="wrap">
+      <h1>World Airport Database</h1>
+      <p class="subtitle">The BIGGEST Airport Code Database available on Internet. <span>&#9733;</span></p>
+      <div class="hero-stats">
+        <div class="hero-stat"><div class="num" data-count="85545">0</div><div class="lbl">Total Airports</div></div>
+        <div class="hero-stat"><div class="num" data-count="247">0</div><div class="lbl">Countries</div></div>
+        <div class="hero-stat"><div class="num" data-count="9056">0</div><div class="lbl">IATA Codes</div></div>
+      </div>
     </div>
   </div>
   <div class="scroll-indicator">Scroll to explore</div>
 </div>
+
+<script>
+;(function() {
+  const canvas = document.getElementById('hero-canvas');
+  const hero = document.getElementById('hero');
+  const ctx = canvas.getContext('2d');
+  let W, H;
+  
+  function resize() {
+    W = canvas.width = hero.offsetWidth;
+    H = canvas.height = hero.offsetHeight;
+  }
+  resize();
+  window.addEventListener('resize', resize);
+
+  // ── Stars ──
+  const stars = [];
+  for (let i = 0; i < 120; i++) {
+    stars.push({
+      x: Math.random() * W, y: Math.random() * H,
+      r: Math.random() * 1.5 + 0.3,
+      speed: Math.random() * 0.02 + 0.005,
+      phase: Math.random() * Math.PI * 2
+    });
+  }
+
+  // ── Plane path — sinusoidal flight ──
+  let planeProgress = 0; // 0..1, moves from right to left
+  const PLANE_SPEED = 0.0025;
+  
+  function getPlanePos(t) {
+    const x = W * (1 - t * 1.1) + 100; // starts off-screen right, ends off-screen left
+    const y = H * (0.15 + 0.12 * Math.sin(t * Math.PI * 3));
+    const angle = -0.08 * Math.cos(t * Math.PI * 3); // banking
+    return { x, y, angle };
+  }
+
+  // ── Contrails ──
+  const contrails = [];
+  const MAX_CONTRAIL = 80;
+
+  // ── Draw plane ──
+  function drawPlane(x, y, angle) {
+    ctx.save();
+    ctx.translate(x, y);
+    ctx.rotate(angle);
+    const s = Math.min(W, 1000) / 1000;
+    const S = (s) => s * 1.2;
+
+    // Glow
+    ctx.shadowColor = 'rgba(255,255,255,0.3)';
+    ctx.shadowBlur = 15;
+
+    // Fuselage
+    ctx.beginPath();
+    ctx.moveTo(S(15), 0);
+    ctx.lineTo(S(-50), S(-8));
+    ctx.lineTo(S(-50), S(8));
+    ctx.closePath();
+    ctx.fillStyle = 'rgba(255,255,255,0.85)';
+    ctx.fill();
+    ctx.strokeStyle = 'rgba(255,255,255,0.95)';
+    ctx.lineWidth = 1;
+    ctx.stroke();
+
+    // Wings
+    ctx.beginPath();
+    ctx.moveTo(S(-5), S(-2));
+    ctx.lineTo(S(-15), S(-18));
+    ctx.lineTo(S(-25), S(-18));
+    ctx.lineTo(S(-15), S(-2));
+    ctx.closePath();
+    ctx.fillStyle = 'rgba(255,255,255,0.3)';
+    ctx.fill();
+    ctx.strokeStyle = 'rgba(255,255,255,0.5)';
+    ctx.lineWidth = 0.5;
+    ctx.stroke();
+
+    ctx.beginPath();
+    ctx.moveTo(S(-5), S(2));
+    ctx.lineTo(S(-15), S(18));
+    ctx.lineTo(S(-25), S(18));
+    ctx.lineTo(S(-15), S(2));
+    ctx.closePath();
+    ctx.fillStyle = 'rgba(255,255,255,0.3)';
+    ctx.fill();
+    ctx.strokeStyle = 'rgba(255,255,255,0.5)';
+    ctx.lineWidth = 0.5;
+    ctx.stroke();
+
+    // Tail
+    ctx.beginPath();
+    ctx.moveTo(S(-40), 0);
+    ctx.lineTo(S(-55), S(-12));
+    ctx.lineTo(S(-58), S(-12));
+    ctx.lineTo(S(-45), 0);
+    ctx.closePath();
+    ctx.fillStyle = 'rgba(255,255,255,0.25)';
+    ctx.fill();
+    ctx.beginPath();
+    ctx.moveTo(S(-40), 0);
+    ctx.lineTo(S(-55), S(12));
+    ctx.lineTo(S(-58), S(12));
+    ctx.lineTo(S(-45), 0);
+    ctx.closePath();
+    ctx.fillStyle = 'rgba(255,255,255,0.25)';
+    ctx.fill();
+
+    // Cockpit
+    ctx.beginPath();
+    ctx.moveTo(S(10), 0);
+    ctx.lineTo(S(0), S(-3));
+    ctx.lineTo(S(0), S(3));
+    ctx.closePath();
+    ctx.fillStyle = 'rgba(255,255,255,0.5)';
+    ctx.fill();
+
+    ctx.shadowBlur = 0;
+    ctx.restore();
+  }
+
+  // ── Main loop ──
+  function frame() {
+    // Update plane
+    planeProgress += PLANE_SPEED * (W / 1000);
+    if (planeProgress > 1.1) planeProgress = -0.1;
+
+    const pos = getPlanePos(planeProgress);
+
+    // Add contrail point
+    contrails.push({ x: pos.x - 50, y: pos.y, life: 1.0 });
+    if (contrails.length > MAX_CONTRAIL) contrails.shift();
+    contrails.forEach(c => c.life -= 0.012);
+
+    // Clear with trail
+    ctx.fillStyle = 'rgba(11,29,58,0.15)';
+    ctx.fillRect(0, 0, W, H);
+
+    // Draw stars (twinkle)
+    stars.forEach(s => {
+      const t = Math.sin(Date.now() * s.speed + s.phase) * 0.3 + 0.7;
+      ctx.beginPath();
+      ctx.arc(s.x, s.y, s.r * t, 0, Math.PI * 2);
+      ctx.fillStyle = `rgba(200,220,255,${t * 0.7})`;
+      ctx.fill();
+    });
+
+    // Draw contrails (glowing trail fading out)
+    if (contrails.length > 1) {
+      for (let i = 1; i < contrails.length; i++) {
+        const p = contrails[i];
+        if (p.life <= 0) continue;
+        ctx.beginPath();
+        ctx.arc(p.x, p.y, 2 * p.life, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(200,220,255,${p.life * 0.3})`;
+        ctx.fill();
+      }
+    }
+
+    // Draw plane
+    drawPlane(pos.x, pos.y, pos.angle);
+
+    requestAnimationFrame(frame);
+  }
+
+  // Initial dark fill
+  ctx.fillStyle = '#0B1D3A';
+  ctx.fillRect(0, 0, W, H);
+  frame();
+})();
+</script>
 
 <!-- ═══ GLOBAL NETWORK ═══ -->
 <div class="section" id="global-network" style="background:#fff;">
