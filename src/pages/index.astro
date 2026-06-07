@@ -73,20 +73,26 @@ table tr:hover td{background:#e3f0f7}
 .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
 .section{padding:60px 0}
 .section-title{font-size:26px;font-weight:700;color:var(--text-dark);padding:0 0 12px;border-bottom:3px solid var(--primary);margin-bottom:24px}
-.hero{background:linear-gradient(180deg,#060d1a 0%,#0a1628 40%,#0d1f36 100%);padding:70px 0 50px;text-align:center;position:relative;overflow:hidden;border-bottom:4px solid var(--primary);min-height:480px}
-.hero::before{content:'';position:absolute;top:0;left:0;right:0;height:6px;background:repeating-linear-gradient(90deg,var(--primary) 0px,var(--primary) 30px,transparent 30px,transparent 60px)}
-.hero h1{color:#fff;font-size:40px;font-weight:800;letter-spacing:1px;margin-bottom:8px;text-shadow:1px 1px 3px rgba(0,0,0,.3)}
+.hero{background:linear-gradient(180deg,#060d1a 0%,#0a1628 40%,#0d1f36 100%);padding:0;text-align:center;position:relative;overflow:hidden;border-bottom:4px solid var(--primary);min-height:520px;display:flex;align-items:center;justify-content:center}
+.hero::before{content:'';position:absolute;top:0;left:0;right:0;height:6px;background:repeating-linear-gradient(90deg,var(--primary) 0px,var(--primary) 30px,transparent 30px,transparent 60px);z-index:20}
+.hero-svg-bg{position:absolute;top:0;left:0;width:100%;height:100%;z-index:1}
+.hero-content{position:relative;z-index:10;padding:40px 20px}
+.hero h1{color:#fff;font-size:40px;font-weight:800;letter-spacing:1px;margin-bottom:8px;text-shadow:0 2px 20px rgba(0,0,0,.5)}
 .hero .subtitle{color:#a0b8cc;font-size:17px;font-weight:600;margin-bottom:30px;letter-spacing:.5px}
 .hero .subtitle span{color:var(--gold)}
 .hero-stats{display:flex;justify-content:center;gap:50px;flex-wrap:wrap;margin-top:20px}
 .hero-stat{text-align:center}
-.hero-stat .num{font-size:34px;font-weight:800;color:var(--gold)}
+.hero-stat .num{font-size:34px;font-weight:800;color:var(--gold);text-shadow:0 0 20px rgba(233,196,106,.3)}
 .hero-stat .lbl{font-size:12px;color:#8899aa;text-transform:uppercase;letter-spacing:1px;margin-top:2px}
-.hero-content{position:relative;z-index:10}
-#hero-canvas{position:absolute;top:0;left:0;width:100%;height:100%;z-index:1;pointer-events:none}
 .scroll-indicator{position:absolute;bottom:20px;left:50%;transform:translateX(-50%);color:#667;font-size:12px;letter-spacing:1px;text-transform:uppercase;animation:bounceDown 2s ease-in-out infinite;z-index:10}
-.scroll-indicator::after{content:'\2193';display:block;text-align:center;font-size:18px;margin-top:2px}
+.scroll-indicator::after{content:'\\2193';display:block;text-align:center;font-size:18px;margin-top:2px}
 @keyframes bounceDown{0%,100%{opacity:.4;transform:translateX(-50%) translateY(0)}50%{opacity:1;transform:translateX(-50%) translateY(6px)}}
+@keyframes beaconPulse{0%,100%{opacity:1}50%{opacity:.3}}
+@keyframes lightTwinkle{0%,100%{opacity:.8}50%{opacity:.4}}
+.beacon-anim{animation:beaconPulse 1.5s ease-in-out infinite;transform-origin:center}
+.light-anim-1{animation:lightTwinkle 2s ease-in-out infinite}
+.light-anim-2{animation:lightTwinkle 2.3s ease-in-out infinite .3s}
+.light-anim-3{animation:lightTwinkle 1.8s ease-in-out infinite .7s}
 .stat-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
 .stat-card{background:var(--bg-white);border:1px solid var(--border);padding:24px 16px;text-align:center;position:relative}
 .stat-card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:var(--primary)}
@@ -171,7 +177,308 @@ footer .footer-inner>*{margin-bottom:8px}
 
 <!-- ═══ HERO ═══ -->
 <div class="hero" id="hero">
-  <canvas id="hero-canvas"></canvas>
+  <svg class="hero-svg-bg" viewBox="0 0 1920 600" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+    <defs>
+      <!-- Sky gradient -->
+      <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#060d1a"/>
+        <stop offset="30%" stop-color="#0a1628"/>
+        <stop offset="60%" stop-color="#0d1f36"/>
+        <stop offset="100%" stop-color="#162a45"/>
+      </linearGradient>
+      <!-- Horizon glow -->
+      <radialGradient id="cityGlow" cx="50%" cy="45%" r="50%">
+        <stop offset="0%" stop-color="#c8aa78" stop-opacity="0.12"/>
+        <stop offset="50%" stop-color="#c8aa78" stop-opacity="0.04"/>
+        <stop offset="100%" stop-color="#c8aa78" stop-opacity="0"/>
+      </radialGradient>
+      <!-- Ground gradient -->
+      <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#1a2a3a"/>
+        <stop offset="40%" stop-color="#1e2e3e"/>
+        <stop offset="100%" stop-color="#16222e"/>
+      </linearGradient>
+      <!-- Runway gradient -->
+      <linearGradient id="rwyGrad" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#2a2a3a"/>
+        <stop offset="50%" stop-color="#3a3a4a"/>
+        <stop offset="100%" stop-color="#4a4a54"/>
+      </linearGradient>
+      <!-- Taxiway gradient -->
+      <linearGradient id="taxiGrad" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#2a2a38"/>
+        <stop offset="100%" stop-color="#252532"/>
+      </linearGradient>
+      <!-- Terminal windows -->
+      <linearGradient id="windowLit" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#FFE8A0"/>
+        <stop offset="100%" stop-color="#FFD060"/>
+      </linearGradient>
+      <!-- Fog -->
+      <linearGradient id="fogGrad" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#060d1a" stop-opacity="0"/>
+        <stop offset="40%" stop-color="#060d1a" stop-opacity="0.15"/>
+        <stop offset="100%" stop-color="#060d1a" stop-opacity="0.35"/>
+      </linearGradient>
+      <!-- Beacon glow -->
+      <radialGradient id="beaconGlow">
+        <stop offset="0%" stop-color="#FF2222"/>
+        <stop offset="40%" stop-color="#FF2222" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#FF2222" stop-opacity="0"/>
+      </radialGradient>
+      <!-- Landing light cone -->
+      <radialGradient id="landingLightCone" cx="50%" cy="0%" r="50%">
+        <stop offset="0%" stop-color="#FFFFCC" stop-opacity="0.15"/>
+        <stop offset="100%" stop-color="#FFFFCC" stop-opacity="0"/>
+      </radialGradient>
+      <!-- Navigation light glows -->
+      <radialGradient id="redNavGlow">
+        <stop offset="0%" stop-color="#FF3333"/>
+        <stop offset="50%" stop-color="#FF3333" stop-opacity="0.3"/>
+        <stop offset="100%" stop-color="#FF3333" stop-opacity="0"/>
+      </radialGradient>
+      <radialGradient id="greenNavGlow">
+        <stop offset="0%" stop-color="#33FF33"/>
+        <stop offset="50%" stop-color="#33FF33" stop-opacity="0.3"/>
+        <stop offset="100%" stop-color="#33FF33" stop-opacity="0"/>
+      </radialGradient>
+      <radialGradient id="whiteStrobeGlow">
+        <stop offset="0%" stop-color="#FFFFFF"/>
+        <stop offset="40%" stop-color="#FFFFFF" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+      </radialGradient>
+      <!-- Edge light glow -->
+      <radialGradient id="edgeLightGlow">
+        <stop offset="0%" stop-color="#FF8C00"/>
+        <stop offset="50%" stop-color="#FF8C00" stop-opacity="0.3"/>
+        <stop offset="100%" stop-color="#FF8C00" stop-opacity="0"/>
+      </radialGradient>
+      <!-- Threshold light glow -->
+      <radialGradient id="thresholdGlow">
+        <stop offset="0%" stop-color="#00FF66"/>
+        <stop offset="50%" stop-color="#00FF66" stop-opacity="0.4"/>
+        <stop offset="100%" stop-color="#00FF66" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+
+    <!-- Sky -->
+    <rect width="1920" height="600" fill="url(#sky)"/>
+
+    <!-- Stars (subtle) -->
+    <g opacity="0.6">
+      <circle cx="100" cy="30" r="0.8" fill="#c8dcff" class="light-anim-1"/>
+      <circle cx="300" cy="55" r="1" fill="#c8dcff" class="light-anim-2"/>
+      <circle cx="500" cy="20" r="0.7" fill="#c8dcff" class="light-anim-3"/>
+      <circle cx="750" cy="45" r="0.9" fill="#c8dcff" class="light-anim-1"/>
+      <circle cx="950" cy="25" r="1.1" fill="#c8dcff" class="light-anim-2"/>
+      <circle cx="1200" cy="50" r="0.6" fill="#c8dcff" class="light-anim-3"/>
+      <circle cx="1400" cy="35" r="0.9" fill="#c8dcff" class="light-anim-1"/>
+      <circle cx="1600" cy="60" r="0.8" fill="#c8dcff" class="light-anim-2"/>
+      <circle cx="1800" cy="40" r="1" fill="#c8dcff" class="light-anim-3"/>
+      <circle cx="200" cy="90" r="0.7" fill="#c8dcff" class="light-anim-1"/>
+      <circle cx="600" cy="100" r="0.6" fill="#c8dcff" class="light-anim-2"/>
+      <circle cx="1100" cy="80" r="0.9" fill="#c8dcff" class="light-anim-3"/>
+      <circle cx="1500" cy="95" r="0.8" fill="#c8dcff" class="light-anim-1"/>
+      <circle cx="1750" cy="110" r="0.7" fill="#c8dcff" class="light-anim-2"/>
+      <!-- More stars -->
+      <circle cx="50" cy="150" r="0.5" fill="#aabbdd" opacity="0.4"/>
+      <circle cx="180" cy="170" r="0.6" fill="#aabbdd" opacity="0.3"/>
+      <circle cx="420" cy="130" r="0.4" fill="#aabbdd" opacity="0.5"/>
+      <circle cx="680" cy="160" r="0.5" fill="#aabbdd" opacity="0.3"/>
+      <circle cx="850" cy="140" r="0.6" fill="#aabbdd" opacity="0.4"/>
+      <circle cx="1050" cy="155" r="0.4" fill="#aabbdd" opacity="0.3"/>
+      <circle cx="1300" cy="145" r="0.5" fill="#aabbdd" opacity="0.5"/>
+      <circle cx="1550" cy="165" r="0.6" fill="#aabbdd" opacity="0.3"/>
+      <circle cx="1700" cy="135" r="0.4" fill="#aabbdd" opacity="0.4"/>
+      <circle cx="1880" cy="150" r="0.5" fill="#aabbdd" opacity="0.3"/>
+    </g>
+
+    <!-- City glow on horizon -->
+    <rect x="0" y="180" width="1920" height="120" fill="url(#cityGlow)"/>
+
+    <!-- Ground -->
+    <rect x="0" y="228" width="1920" height="372" fill="url(#ground)"/>
+
+    <!-- ===== RUNWAY ===== -->
+    <polygon points="864,228 956,228 1150,528 770,528" fill="url(#rwyGrad)" stroke="#555555" stroke-width="1"/>
+
+    <!-- Runway centerline dashes -->
+    <line x1="960" y1="260" x2="960" y2="275" stroke="rgba(255,255,255,0.7)" stroke-width="2"/>
+    <line x1="955" y1="290" x2="965" y2="305" stroke="rgba(255,255,255,0.7)" stroke-width="2"/>
+    <line x1="950" y1="320" x2="970" y2="335" stroke="rgba(255,255,255,0.7)" stroke-width="2"/>
+    <line x1="945" y1="350" x2="975" y2="365" stroke="rgba(255,255,255,0.6)" stroke-width="2"/>
+    <line x1="940" y1="380" x2="980" y2="395" stroke="rgba(255,255,255,0.6)" stroke-width="2"/>
+    <line x1="935" y1="410" x2="985" y2="425" stroke="rgba(255,255,255,0.5)" stroke-width="1.5"/>
+    <line x1="930" y1="440" x2="990" y2="455" stroke="rgba(255,255,255,0.5)" stroke-width="1.5"/>
+    <line x1="925" y1="470" x2="995" y2="485" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
+    <line x1="920" y1="495" x2="1000" y2="510" stroke="rgba(255,255,255,0.4)" stroke-width="1"/>
+
+    <!-- Runway edge lights -->
+    <circle cx="858" cy="240" r="3" fill="#FF8C00" class="light-anim-1"/>
+    <circle cx="1062" cy="240" r="3" fill="#FF8C00" class="light-anim-2"/>
+    <circle cx="845" cy="265" r="3" fill="#FF8C00" class="light-anim-3"/>
+    <circle cx="1075" cy="265" r="3" fill="#FF8C00" class="light-anim-1"/>
+    <circle cx="830" cy="295" r="3.5" fill="#FF8C00" class="light-anim-2"/>
+    <circle cx="1090" cy="295" r="3.5" fill="#FF8C00" class="light-anim-3"/>
+    <circle cx="812" cy="330" r="3.5" fill="#FF8C00" class="light-anim-1"/>
+    <circle cx="1108" cy="330" r="3.5" fill="#FF8C00" class="light-anim-2"/>
+    <circle cx="792" cy="370" r="4" fill="#FF8C00" class="light-anim-3"/>
+    <circle cx="1128" cy="370" r="4" fill="#FF8C00" class="light-anim-1"/>
+    <circle cx="780" cy="410" r="4" fill="#FF8C00" class="light-anim-2"/>
+    <circle cx="1140" cy="410" r="4" fill="#FF8C00" class="light-anim-3"/>
+    <circle cx="774" cy="445" r="4.5" fill="#FF8C00" class="light-anim-1"/>
+    <circle cx="1146" cy="445" r="4.5" fill="#FF8C00" class="light-anim-2"/>
+    <circle cx="771" cy="475" r="4.5" fill="#FF8C00" class="light-anim-3"/>
+    <circle cx="1149" cy="475" r="4.5" fill="#FF8C00" class="light-anim-1"/>
+    <circle cx="770" cy="500" r="5" fill="#FF8C00" class="light-anim-2"/>
+    <circle cx="1150" cy="500" r="5" fill="#FF8C00" class="light-anim-3"/>
+
+    <!-- Threshold lights (green) -->
+    <circle cx="780" cy="525" r="3.5" fill="#00FF66" class="light-anim-1"/>
+    <circle cx="810" cy="527" r="3.5" fill="#00FF66" class="light-anim-2"/>
+    <circle cx="845" cy="528" r="3.5" fill="#00FF66" class="light-anim-3"/>
+    <circle cx="885" cy="528" r="3.5" fill="#00FF66" class="light-anim-1"/>
+    <circle cx="1035" cy="528" r="3.5" fill="#00FF66" class="light-anim-2"/>
+    <circle cx="1075" cy="528" r="3.5" fill="#00FF66" class="light-anim-3"/>
+    <circle cx="1110" cy="527" r="3.5" fill="#00FF66" class="light-anim-1"/>
+    <circle cx="1140" cy="525" r="3.5" fill="#00FF66" class="light-anim-2"/>
+
+    <!-- ===== TAXIWAY ===== -->
+    <polygon points="680,228 740,228 935,528 875,528" fill="url(#taxiGrad)" stroke="#3a3a48" stroke-width="1"/>
+    <!-- Taxiway center line -->
+    <line x1="710" y1="250" x2="905" y2="510" stroke="#CCAA00" stroke-width="1.2" stroke-dasharray="8,12"/>
+    <!-- Cross taxiway connector -->
+    <line x1="860" y1="380" x2="880" y2="380" stroke="#CCAA00" stroke-width="1.5" stroke-dasharray="6,10"/>
+
+    <!-- ===== TERMINAL ===== -->
+    <rect x="400" y="310" width="260" height="55" rx="3" fill="#1e2e3e" stroke="#2a3a4a" stroke-width="1"/>
+    <rect x="396" y="304" width="268" height="6" rx="2" fill="#2a3a4a"/>
+    <!-- Terminal windows (warm lit) -->
+    <g>
+      <rect x="412" y="318" width="22" height="14" rx="1" fill="#FFE8A0" class="light-anim-1"/>
+      <rect x="442" y="318" width="22" height="14" rx="1" fill="#FFD060" class="light-anim-2"/>
+      <rect x="472" y="318" width="22" height="14" rx="1" fill="#FFE8A0" class="light-anim-3"/>
+      <rect x="502" y="318" width="22" height="14" rx="1" fill="#FFD060" class="light-anim-1"/>
+      <rect x="532" y="318" width="22" height="14" rx="1" fill="#FFE8A0" class="light-anim-2"/>
+      <rect x="562" y="318" width="22" height="14" rx="1" fill="#FFD060" class="light-anim-3"/>
+      <rect x="592" y="318" width="22" height="14" rx="1" fill="#FFE8A0" class="light-anim-1"/>
+      <rect x="622" y="318" width="22" height="14" rx="1" fill="#FFD060" class="light-anim-2"/>
+      <!-- Row 2 -->
+      <rect x="412" y="338" width="22" height="14" rx="1" fill="#FFD060" class="light-anim-2"/>
+      <rect x="442" y="338" width="22" height="14" rx="1" fill="#FFE8A0" class="light-anim-3"/>
+      <rect x="472" y="338" width="22" height="14" rx="1" fill="#FFD060" class="light-anim-1"/>
+      <rect x="502" y="338" width="22" height="14" rx="1" fill="#FFE8A0" class="light-anim-2"/>
+      <rect x="532" y="338" width="22" height="14" rx="1" fill="#FFD060" class="light-anim-3"/>
+      <rect x="562" y="338" width="22" height="14" rx="1" fill="#FFE8A0" class="light-anim-1"/>
+      <rect x="592" y="338" width="22" height="14" rx="1" fill="#FFD060" class="light-anim-2"/>
+      <rect x="622" y="338" width="22" height="14" rx="1" fill="#FFE8A0" class="light-anim-3"/>
+    </g>
+    <!-- Jet bridge -->
+    <rect x="660" y="332" width="50" height="4" rx="2" fill="#3a4a5a"/>
+    <rect x="658" y="326" width="6" height="20" rx="2" fill="#4a5a6a"/>
+    <ellipse cx="661" cy="326" rx="8" ry="3" fill="#4a5a6a"/>
+    <!-- Apron lights -->
+    <circle cx="670" cy="325" r="2" fill="#FFDD88" opacity="0.8"/>
+    <circle cx="700" cy="326" r="2" fill="#FFDD88" opacity="0.7"/>
+    <circle cx="730" cy="328" r="2" fill="#FFDD88" opacity="0.6"/>
+
+    <!-- ===== CONTROL TOWER ===== -->
+    <rect x="1096" y="280" width="14" height="80" rx="2" fill="#1a2a3a"/>
+    <rect x="1091" y="270" width="24" height="14" rx="3" fill="#2a3a4a"/>
+    <!-- Glass cab -->
+    <rect x="1095" y="272" width="16" height="10" rx="1" fill="rgba(100,180,255,0.15)"/>
+    <!-- Radar dish -->
+    <ellipse cx="1103" cy="266" rx="12" ry="3" fill="none" stroke="#555" stroke-width="1.5" opacity="0.6"/>
+    <!-- Beacon -->
+    <circle cx="1103" cy="262" r="4" fill="url(#beaconGlow)" class="beacon-anim"/>
+    <circle cx="1103" cy="262" r="2.5" fill="#FF2222" class="beacon-anim"/>
+
+    <!-- ===== AIRCRAFT 1: On approach (landing) ===== -->
+    <g transform="translate(720, 260) rotate(-3) scale(1.1)">
+      <!-- Shadow on ground -->
+      <ellipse cx="0" cy="65" rx="40" ry="8" fill="rgba(0,0,0,0.15)"/>
+      <!-- Fuselage -->
+      <ellipse cx="0" cy="0" rx="45" ry="8" fill="#e8e8f0" stroke="rgba(0,0,0,0.1)" stroke-width="0.5"/>
+      <!-- Nose -->
+      <ellipse cx="42" cy="0" rx="8" ry="6" fill="#d0d0d8"/>
+      <!-- Cockpit -->
+      <ellipse cx="35" cy="-2" rx="10" ry="4" fill="rgba(120,180,220,0.4)"/>
+      <!-- Wings -->
+      <polygon points="-5,-8 -28,-22 -35,-22 -8,-6" fill="#d0d0d8" stroke="rgba(0,0,0,0.08)" stroke-width="0.3"/>
+      <polygon points="-5,8 -28,22 -35,22 -8,6" fill="#d0d0d8" stroke="rgba(0,0,0,0.08)" stroke-width="0.3"/>
+      <!-- Wing let engines -->
+      <ellipse cx="-12" cy="-18" rx="8" ry="5" fill="#c0c0c8" stroke="rgba(0,0,0,0.15)" stroke-width="0.5"/>
+      <ellipse cx="-12" cy="18" rx="8" ry="5" fill="#c0c0c8" stroke="rgba(0,0,0,0.15)" stroke-width="0.5"/>
+      <!-- Tail -->
+      <polygon points="-38,-6 -52,-16 -55,-16 -40,-4" fill="#c8c8d0"/>
+      <polygon points="-38,6 -52,16 -55,16 -40,4" fill="#c8c8d0"/>
+      <!-- Vertical stabilizer -->
+      <polygon points="-42,-4 -56,-14 -58,-14 -44,-2" fill="#b8b8c0"/>
+      <!-- Tail logo stripe -->
+      <line x1="-25" y1="-7" x2="-45" y2="-14" stroke="#2ca4dc" stroke-width="1.5" opacity="0.6"/>
+      <line x1="-25" y1="7" x2="-45" y2="14" stroke="#2ca4dc" stroke-width="1.5" opacity="0.6"/>
+      <!-- Navigation lights -->
+      <circle cx="-6" cy="-22" r="2.5" fill="url(#redNavGlow)" class="light-anim-1"/>
+      <circle cx="-6" cy="-22" r="1.5" fill="#FF3333" class="light-anim-1"/>
+      <circle cx="-6" cy="22" r="2.5" fill="url(#greenNavGlow)" class="light-anim-2"/>
+      <circle cx="-6" cy="22" r="1.5" fill="#33FF33" class="light-anim-2"/>
+      <circle cx="-50" cy="0" r="2" fill="url(#whiteStrobeGlow)" class="light-anim-3"/>
+      <circle cx="-50" cy="0" r="1" fill="#FFFFFF" class="light-anim-3"/>
+      <!-- Landing lights (cones below) -->
+      <ellipse cx="-5" cy="30" rx="15" ry="40" fill="landingLightCone" opacity="0.4" class="light-anim-1"/>
+    </g>
+
+    <!-- ===== AIRCRAFT 2: Taxiing to runway ===== -->
+    <g transform="translate(550, 400) rotate(0) scale(0.7)">
+      <ellipse cx="0" cy="45" rx="28" ry="5" fill="rgba(0,0,0,0.1)"/>
+      <ellipse cx="0" cy="0" rx="32" ry="6" fill="#f0e8d0" stroke="rgba(0,0,0,0.1)" stroke-width="0.5"/>
+      <ellipse cx="30" cy="0" rx="6" ry="4.5" fill="#d8d0b8"/>
+      <ellipse cx="26" cy="-1.5" rx="7" ry="3" fill="rgba(120,180,220,0.35)"/>
+      <polygon points="-4,-6 -20,-15 -25,-15 -6,-5" fill="#d8d0b8"/>
+      <polygon points="-4,6 -20,15 -25,15 -6,5" fill="#d8d0b8"/>
+      <ellipse cx="-8" cy="-12" rx="6" ry="4" fill="#c8c0a8"/>
+      <ellipse cx="-8" cy="12" rx="6" ry="4" fill="#c8c0a8"/>
+      <polygon points="-28,-4 -38,-11 -40,-11 -30,-3" fill="#c0b8a0"/>
+      <polygon points="-28,4 -38,11 -40,11 -30,3" fill="#c0b8a0"/>
+      <polygon points="-32,-3 -42,-10 -43,-10 -33,-2" fill="#b0a890"/>
+      <line x1="-18" y1="-5" x2="-32" y2="-10" stroke="#2ca4dc" stroke-width="1.2" opacity="0.6"/>
+      <line x1="-18" y1="5" x2="-32" y2="10" stroke="#2ca4dc" stroke-width="1.2" opacity="0.6"/>
+      <circle cx="-5" cy="-15" r="1.8" fill="#FF3333" class="light-anim-2"/>
+      <circle cx="-5" cy="15" r="1.8" fill="#33FF33" class="light-anim-3"/>
+      <circle cx="-36" cy="0" r="1.2" fill="#FFFFFF" class="light-anim-1"/>
+      <!-- Taxi light (white, on nose gear) -->
+      <circle cx="28" cy="0" r="2" fill="#FFFFFF" opacity="0.9"/>
+    </g>
+
+    <!-- ===== AIRCRAFT 3: Parked at gate ===== -->
+    <g transform="translate(480, 345) rotate(0) scale(0.55)">
+      <ellipse cx="0" cy="35" rx="22" ry="4" fill="rgba(0,0,0,0.08)"/>
+      <ellipse cx="0" cy="0" rx="26" ry="5" fill="#f0f0f8" stroke="rgba(0,0,0,0.08)" stroke-width="0.5"/>
+      <ellipse cx="24" cy="0" rx="5" ry="3.5" fill="#d8d8e0"/>
+      <ellipse cx="20" cy="-1" rx="6" ry="2.5" fill="rgba(120,180,220,0.3)"/>
+      <polygon points="-3,-5 -16,-12 -20,-12 -5,-4" fill="#d8d8e0"/>
+      <polygon points="-3,5 -16,12 -20,12 -5,4" fill="#d8d8e0"/>
+      <ellipse cx="-6" cy="-10" rx="5" ry="3.5" fill="#c8c8d0"/>
+      <ellipse cx="-6" cy="10" rx="5" ry="3.5" fill="#c8c8d0"/>
+      <polygon points="-22,-3 -30,-8 -32,-8 -24,-2" fill="#c0c0c8"/>
+      <polygon points="-22,3 -30,8 -32,8 -24,2" fill="#c0c0c8"/>
+      <polygon points="-26,-2 -34,-7 -35,-7 -27,-1" fill="#b0b0b8"/>
+      <line x1="-14" y1="-4" x2="-26" y2="-8" stroke="#cc3333" stroke-width="1" opacity="0.5"/>
+      <line x1="-14" y1="4" x2="-26" y2="8" stroke="#cc3333" stroke-width="1" opacity="0.5"/>
+      <!-- Strobe only (parked) -->
+      <circle cx="-30" cy="0" r="1" fill="#FFFFFF" opacity="0.6"/>
+    </g>
+
+    <!-- ===== GROUND FOG ===== -->
+    <rect x="0" y="420" width="1920" height="180" fill="url(#fogGrad)" opacity="0.5"/>
+
+    <!-- Subtle mist patches -->
+    <ellipse cx="300" cy="480" rx="200" ry="15" fill="rgba(180,200,220,0.03)"/>
+    <ellipse cx="900" cy="500" rx="300" ry="12" fill="rgba(180,200,220,0.02)"/>
+    <ellipse cx="1500" cy="470" rx="250" ry="10" fill="rgba(180,200,220,0.03)"/>
+
+  </svg>
+
   <div class="hero-content">
     <div class="wrap">
       <h1>World Airport Database</h1>
@@ -210,20 +517,7 @@ footer .footer-inner>*{margin-bottom:8px}
   </div>
 </div>
 
-<!-- ═══ CONTINENT EXPLORER ═══ -->
-<div class="section" id="continent-explorer" style="background:#fff;">
-  <div class="wrap">
-    <h2 class="section-title">Continent Explorer</h2>
-    <p style="color:var(--text-light);font-size:14px;margin-bottom:4px">Hover bubbles to explore. <strong>Click a continent</strong> to see its top countries.</p>
-    <div id="continent-back" style="text-align:center;display:none;margin-bottom:8px">
-      <button class="back-btn" onclick="resetContinentView()">&#8592; Back to All Continents</button>
-    </div>
-    <div class="chart-wrap" id="continent-chart">
-      <div class="chart-tooltip" id="continent-tooltip"></div>
-    </div>
-    <div class="chart-legend" id="continent-legend"></div>
-  </div>
-</div>
+<!-- ═══ CONTINENT EXPLORER (moved before footer) ═══ -->
 
 <!-- ═══ IATA CODE EXPLORER ═══ -->
 <div class="section" id="iata-explorer" style="background:var(--bg-light);">
@@ -377,33 +671,52 @@ footer .footer-inner>*{margin-bottom:8px}
   </div>
 </div>
 
-<!-- ═══ TYPE BREAKDOWN ═══ -->
+<!-- ═══ AIRPORT TYPE BREAKDOWN ═══ -->
 <div class="section" id="type-breakdown" style="background:var(--bg-light);">
   <div class="wrap">
     <h2 class="section-title">Airport Type Breakdown</h2>
-    <p style="color:var(--text-light);font-size:14px;margin-bottom:12px">Distribution of airports by type category. Use filters to explore specific continents and size groups.</p>
-    <div class="chart-controls">
-      <select id="type-filter-cont" onchange="drawTypeChart()">
-        <option value="ALL">All Continents</option>
-        <option value="NA">North America</option>
-        <option value="EU">Europe</option>
-        <option value="AS">Asia</option>
-        <option value="SA">South America</option>
-        <option value="AF">Africa</option>
-        <option value="OC">Oceania</option>
-        <option value="AN">Antarctica</option>
-      </select>
-      <select id="type-filter-size" onchange="drawTypeChart()">
-        <option value="ALL">All Size Categories</option>
-        <option value="LARGE">Large (large_airport)</option>
-        <option value="MEDIUM">Medium (medium_airport)</option>
-        <option value="SMALL">Small (small + seaplane + heli + balloon)</option>
-        <option value="CLOSED">Closed</option>
-      </select>
+    <p style="color:var(--text-light);font-size:14px;margin-bottom:16px">Distribution of the 85,545 airports in our database by facility type.</p>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px">
+      <div class="stat-card" style="border-top:3px solid #2C7BE5">
+        <div class="num" style="font-size:28px">1,178</div>
+        <div class="lbl">Large Airports</div>
+        <div class="desc">International hubs</div>
+      </div>
+      <div class="stat-card" style="border-top:3px solid #F4A261">
+        <div class="num" style="font-size:28px">5,021</div>
+        <div class="lbl">Medium Airports</div>
+        <div class="desc">Regional airports</div>
+      </div>
+      <div class="stat-card" style="border-top:3px solid #E9C46A">
+        <div class="num" style="font-size:28px">71,235</div>
+        <div class="lbl">Small Airports</div>
+        <div class="desc">Local airstrips</div>
+      </div>
+      <div class="stat-card" style="border-top:3px solid #6CB4EE">
+        <div class="num" style="font-size:28px">3,142</div>
+        <div class="lbl">Heliports</div>
+        <div class="desc">Helicopter pads</div>
+      </div>
+      <div class="stat-card" style="border-top:3px solid #2A9D8F">
+        <div class="num" style="font-size:28px">498</div>
+        <div class="lbl">Seaplane Bases</div>
+        <div class="desc">Water landings</div>
+      </div>
+      <div class="stat-card" style="border-top:3px solid #E76F51">
+        <div class="num" style="font-size:28px">2,471</div>
+        <div class="lbl">Closed</div>
+        <div class="desc">Decommissioned</div>
+      </div>
     </div>
-    <div class="chart-wrap" id="type-chart">
-      <div class="chart-tooltip" id="type-tooltip"></div>
-    </div>
+  </div>
+</div>
+
+<!-- ═══ CONTINENT EXPLORER ═══ -->
+<div class="section" id="continent-explorer" style="background:#fff;">
+  <div class="wrap">
+    <h2 class="section-title">Explore by Continent</h2>
+    <p style="color:var(--text-light);font-size:14px;margin-bottom:16px">Airport distribution across the world's continents.</p>
+    <div id="continent-cards" class="stat-cards" style="grid-template-columns:repeat(auto-fit,minmax(220px,1fr))"></div>
   </div>
 </div>
 
@@ -424,611 +737,6 @@ footer .footer-inner>*{margin-bottom:8px}
 // ══════════════════════════════════════════════════════════════
 // ║  HERO — PROFESSIONAL AIRPORT SCENE                      ║
 // ══════════════════════════════════════════════════════════════
-(function airportScene() {
-  const canvas = document.getElementById('hero-canvas');
-  const hero = document.getElementById('hero');
-  const ctx = canvas.getContext('2d');
-  let W, H;
-
-  function resize() {
-    const rect = hero.getBoundingClientRect();
-    W = canvas.width = rect.width || hero.offsetWidth;
-    H = canvas.height = rect.height || hero.offsetHeight;
-  }
-  resize();
-  window.addEventListener('resize', resize);
-
-  // ── Scene constants ──
-  const HORIZON = 0.38;  // horizon at 38% from top
-
-  // ── Perspective helpers ──
-  function scene() {
-    const cx = W / 2;
-    const horizonY = H * HORIZON;
-    const botY = H * 0.88;
-    // Runway
-    const rwyBotW = W * 0.40;
-    const rwyTopW = W * 0.04;
-    return {
-      cx, horizonY, botY,
-      rwyLeftBot: cx - rwyBotW/2,
-      rwyLeftTop: cx - rwyTopW/2,
-      rwyRightBot: cx + rwyBotW/2,
-      rwyRightTop: cx + rwyTopW/2,
-      rwyBotW, rwyTopW
-    };
-  }
-
-  // Interpolate along runway centerline: t=0 at horizon, t=1 at bottom
-  function rwyPos(s, t) {
-    const leftX = s.rwyLeftTop + (s.rwyLeftBot - s.rwyLeftTop) * t;
-    const rightX = s.rwyRightTop + (s.rwyRightBot - s.rwyRightTop) * t;
-    const y = s.horizonY + (s.botY - s.horizonY) * t;
-    const scale = t; // 0..1 perspective scale
-    return { x: (leftX + rightX) / 2, leftX, rightX, y, scale };
-  }
-
-  // ── Draw sky ──
-  function drawSky() {
-    const grad = ctx.createLinearGradient(0, 0, 0, H * HORIZON);
-    grad.addColorStop(0, '#060d1a');
-    grad.addColorStop(0.4, '#0a1628');
-    grad.addColorStop(0.7, '#0d1f36');
-    grad.addColorStop(1, '#162a45');
-    ctx.fillStyle = grad;
-    ctx.fillRect(0, 0, W, H * HORIZON + 10);
-  }
-
-  // ── City glow on horizon ──
-  function drawCityGlow() {
-    const grad = ctx.createRadialGradient(W/2, H * HORIZON, 0, W/2, H * HORIZON, W * 0.5);
-    grad.addColorStop(0, 'rgba(200,170,120,0.12)');
-    grad.addColorStop(0.4, 'rgba(200,170,120,0.05)');
-    grad.addColorStop(1, 'rgba(200,170,120,0)');
-    ctx.fillStyle = grad;
-    ctx.fillRect(0, H * HORIZON - 60, W, 120);
-  }
-
-  // ── Stars ──
-  const stars = [];
-  for (let i = 0; i < 60; i++) {
-    stars.push({
-      x: Math.random(), y: Math.random() * 0.35,
-      r: Math.random() * 1.2 + 0.3,
-      base: Math.random() * 0.5 + 0.5,
-      speed: 0.2 + Math.random() * 0.5
-    });
-  }
-  function drawStars(time) {
-    stars.forEach(s => {
-      const bright = s.base + 0.3 * Math.sin(time * s.speed + s.x * 10);
-      ctx.beginPath();
-      ctx.arc(s.x * W, s.y * H, s.r, 0, Math.PI * 2);
-      ctx.fillStyle = `rgba(200,220,255,${bright * 0.6})`;
-      ctx.fill();
-    });
-  }
-
-  // ── Ground ──
-  function drawGround() {
-    const grad = ctx.createLinearGradient(0, H * HORIZON, 0, H);
-    grad.addColorStop(0, '#1a2a3a');
-    grad.addColorStop(0.3, '#1e2e3e');
-    grad.addColorStop(1, '#16222e');
-    ctx.fillStyle = grad;
-    ctx.fillRect(0, H * HORIZON, W, H - H * HORIZON);
-  }
-
-  // ── Runway ──
-  function drawRunway(s, time) {
-    // Runway surface
-    const grad = ctx.createLinearGradient(0, s.horizonY, 0, s.botY);
-    grad.addColorStop(0, '#2a2a3a');
-    grad.addColorStop(0.5, '#3a3a4a');
-    grad.addColorStop(1, '#4a4a54');
-    ctx.beginPath();
-    ctx.moveTo(s.rwyLeftBot, s.botY);
-    ctx.lineTo(s.rwyLeftTop, s.horizonY);
-    ctx.lineTo(s.rwyRightTop, s.horizonY);
-    ctx.lineTo(s.rwyRightBot, s.botY);
-    ctx.closePath();
-    ctx.fillStyle = grad;
-    ctx.fill();
-    ctx.strokeStyle = '#555';
-    ctx.lineWidth = 1;
-    ctx.stroke();
-
-    // Centerline dashes
-    ctx.strokeStyle = 'rgba(255,255,255,0.7)';
-    ctx.lineWidth = 1.5;
-    for (let i = 0; i < 25; i++) {
-      const t = (i + 0.5) / 25;
-      const pos = rwyPos(s, t);
-      const dashLen = 0.02 * W * t;
-      const gapLen = 0.03 * W * t;
-      ctx.setLineDash([dashLen, gapLen]);
-      ctx.beginPath();
-      ctx.moveTo(pos.x, pos.y - dashLen * 0.5);
-      ctx.lineTo(pos.x, pos.y + dashLen * 0.5);
-      ctx.stroke();
-    }
-    ctx.setLineDash([]);
-
-    // Edge lights (flashing yellow)
-    const flashPhase = Math.floor(time / 0.5) % 2;
-    for (let i = 0; i < 30; i++) {
-      const t = i / 30;
-      const leftX = s.rwyLeftBot + (s.rwyLeftTop - s.rwyLeftBot) * t;
-      const rightX = s.rwyRightBot + (s.rwyRightTop - s.rwyRightBot) * t;
-      const y = s.botY + (s.horizonY - s.botY) * t;
-      const r = 1.5 + t * 0.8;
-      // Left edge
-      ctx.beginPath();
-      ctx.arc(leftX, y, r, 0, Math.PI * 2);
-      ctx.fillStyle = flashPhase ? '#FF8C00' : '#884400';
-      ctx.shadowBlur = flashPhase ? 4 : 0;
-      ctx.shadowColor = '#FF8C00';
-      ctx.fill();
-      // Right edge
-      ctx.beginPath();
-      ctx.arc(rightX, y, r, 0, Math.PI * 2);
-      ctx.fill();
-    }
-    ctx.shadowBlur = 0;
-
-    // Threshold lights (green strip at near end)
-    for (let i = 0; i < 12; i++) {
-      const x = s.rwyLeftBot + (s.rwyRightBot - s.rwyLeftBot) * (i / 11);
-      ctx.beginPath();
-      ctx.arc(x, s.botY - 3, 2.5, 0, Math.PI * 2);
-      ctx.fillStyle = '#00FF66';
-      ctx.shadowBlur = 6;
-      ctx.shadowColor = '#00FF66';
-      ctx.fill();
-    }
-    ctx.shadowBlur = 0;
-
-    // PAPI lights (left of runway, 4 lights)
-    const papiX = s.rwyLeftBot - 15;
-    for (let i = 0; i < 4; i++) {
-      const y = s.botY - 10 - i * 4;
-      const isRed = time * 2 % 1 > (i * 0.18);
-      ctx.beginPath();
-      ctx.arc(papiX, y, 2.5, 0, Math.PI * 2);
-      ctx.fillStyle = isRed ? '#FF3333' : '#FFFFFF';
-      ctx.shadowBlur = 8;
-      ctx.shadowColor = isRed ? '#FF3333' : '#FFFFFF';
-      ctx.fill();
-    }
-    ctx.shadowBlur = 0;
-  }
-
-  // ── Taxiway ──
-  function drawTaxiway(s) {
-    // Left parallel taxiway
-    const leftEdge = s.rwyLeftBot - W * 0.12;
-    const rightEdge = s.rwyLeftBot - W * 0.07;
-    ctx.beginPath();
-    ctx.moveTo(leftEdge, s.botY);
-    ctx.lineTo(s.rwyLeftTop - W * 0.06, s.horizonY);
-    ctx.lineTo(s.rwyLeftTop - W * 0.04, s.horizonY);
-    ctx.lineTo(leftEdge + W * 0.04, s.botY);
-    ctx.closePath();
-    ctx.fillStyle = '#2a2a38';
-    ctx.fill();
-    ctx.strokeStyle = '#3a3a48';
-    ctx.lineWidth = 1;
-    ctx.stroke();
-
-    // Center line (yellow)
-    ctx.strokeStyle = '#CCAA00';
-    ctx.lineWidth = 1;
-    ctx.setLineDash([4, 8]);
-    const cxl = s.rwyLeftBot - W * 0.095;
-    const cxr = s.rwyLeftTop - W * 0.05;
-    ctx.beginPath();
-    ctx.moveTo(cxl, s.botY);
-    ctx.lineTo(cxr, s.horizonY);
-    ctx.stroke();
-    ctx.setLineDash([]);
-
-    // Cross taxiway (connecting runway to taxiway)
-    ctx.strokeStyle = '#CCAA00';
-    ctx.lineWidth = 1.5;
-    ctx.setLineDash([3, 6]);
-    // Horizontal connector at ~60% down
-    const connT = 0.55;
-    const connY = s.horizonY + (s.botY - s.horizonY) * connT;
-    const connLeft = s.rwyLeftBot + (s.rwyLeftTop - s.rwyLeftBot) * connT;
-    ctx.beginPath();
-    ctx.moveTo(connLeft - W * 0.08, connY);
-    ctx.lineTo(connLeft + W * 0.02, connY);
-    ctx.stroke();
-    ctx.setLineDash([]);
-  }
-
-  // ── Terminal ──
-  function drawTerminal(s) {
-    // Main terminal building (left of runway, between connector and bottom)
-    const t = 0.65;
-    const pos = rwyPos(s, t);
-    const tx = pos.leftX - W * 0.25;
-    const ty = pos.y;
-    const tw = W * 0.18;
-    const th = W * 0.04 * t;
-    const scl = Math.min(W, 1000) / 1000;
-
-    // Building body
-    ctx.fillStyle = '#1e2e3e';
-    ctx.fillRect(tx, ty - th, tw, th);
-
-    // Roof
-    ctx.fillStyle = '#2a3a4a';
-    ctx.fillRect(tx - 2, ty - th - 3, tw + 4, 4);
-
-    // Windows (warm lit)
-    for (let row = 0; row < 3; row++) {
-      for (let col = 0; col < 8; col++) {
-        const wx = tx + 6 + col * (tw - 10) / 8;
-        const wy = ty - th + 4 + row * (th - 6) / 3;
-        ctx.fillStyle = Math.sin(time * 1.5 + col + row) > 0 ? '#FFE8A0' : '#886633';
-        ctx.fillRect(wx, wy, 4, 3);
-      }
-    }
-
-    // Jet bridge
-    ctx.fillStyle = '#3a4a5a';
-    ctx.fillRect(tx + tw, ty - th * 0.5, W * 0.04, 3);
-
-    // Apron lights
-    for (let i = 0; i < 5; i++) {
-      const ax = tx + tw + W * 0.02 + i * W * 0.015;
-      ctx.beginPath();
-      ctx.arc(ax, ty - th * 0.5 - 5, 1.5, 0, Math.PI * 2);
-      ctx.fillStyle = '#FFDD88';
-      ctx.fill();
-    }
-  }
-
-  let time = 0;
-
-  // ── Control tower ──
-  function drawTower(s) {
-    const pos = rwyPos(s, 0.4);
-    const tx = pos.rightX + W * 0.04;
-    const ty = pos.y;
-    const scl = Math.min(W, 1000) / 1000;
-
-    // Tower shaft
-    ctx.fillStyle = '#1a2a3a';
-    ctx.fillRect(tx - 5 * scl, ty - 60 * scl, 10 * scl, 60 * scl);
-
-    // Cab (glass top)
-    ctx.fillStyle = '#2a3a4a';
-    ctx.fillRect(tx - 8 * scl, ty - 70 * scl, 16 * scl, 12 * scl);
-
-    // Glass windows in cab
-    ctx.fillStyle = 'rgba(100,180,255,0.2)';
-    ctx.fillRect(tx - 6 * scl, ty - 68 * scl, 12 * scl, 8 * scl);
-
-    // Radar dish (rotating)
-    const angle = time * 0.6;
-    ctx.save();
-    ctx.translate(tx, ty - 74 * scl);
-    ctx.rotate(angle);
-    ctx.strokeStyle = '#555';
-    ctx.lineWidth = 1.5;
-    ctx.beginPath();
-    ctx.lineTo(0, 0);
-    ctx.lineTo(10 * scl, 0);
-    ctx.stroke();
-    ctx.beginPath();
-    ctx.arc(10 * scl, 0, 2, 0, Math.PI * 2);
-    ctx.fillStyle = '#888';
-    ctx.fill();
-    ctx.restore();
-
-    // Beacon light (red flash)
-    const beacon = Math.floor(time * 2) % 2;
-    ctx.beginPath();
-    ctx.arc(tx, ty - 74 * scl, 3 * scl, 0, Math.PI * 2);
-    ctx.fillStyle = beacon ? '#FF2222' : '#880000';
-    ctx.shadowBlur = beacon ? 12 : 0;
-    ctx.shadowColor = '#FF2222';
-    ctx.fill();
-    ctx.shadowBlur = 0;
-  }
-
-  // ── Aircraft ──
-  function createAircraft(type) {
-    const s = scene();
-    const base = {
-      type: type || 'arrival',
-      progress: 0,
-      speed: 0.3 + Math.random() * 0.15,
-      alive: true,
-      timer: 0,
-      color: ['#e8e8f0', '#f0e8d0', '#d0e8f0', '#e0d8d0', '#f0f0f8'][Math.floor(Math.random() * 5)]
-    };
-
-    if (type === 'departure') {
-      // Starts at terminal, taxis to runway, takes off
-      return { ...base, type: 'departure', phase: 'taxi', progress: 0, runwayOffset: (Math.random() - 0.5) * 3 };
-    } else {
-      // Arrival: comes from sky, lines up, lands, taxis off
-      return { ...base, type: 'arrival', progress: 0 };
-    }
-  }
-
-  function getAircraftPos(ac) {
-    const s = scene();
-    const rp = s;
-
-    if (ac.type === 'departure') {
-      const totalProgress = ac.progress;
-      if (totalProgress < 0.3) {
-        // Taxi from terminal to runway hold
-        const t = totalProgress / 0.3;
-        const taxiX = rp.rwyLeftBot - W * 0.10 - W * 0.08 * (1 - t);
-        const pos = rwyPos(s, 0.65 + t * 0.2);
-        return { x: taxiX, y: pos.y, scale: 0.6 + t * 0.3, angle: 0, phase: 'taxi' };
-      } else if (totalProgress < 0.4) {
-        // Hold short
-        return { x: rp.cx + ac.runwayOffset, y: rp.botY - 8, scale: 0.9, angle: 0, phase: 'hold' };
-      } else if (totalProgress < 0.7) {
-        // Takeoff roll
-        const t = (totalProgress - 0.4) / 0.3;
-        const pos = rwyPos(s, 1 - t * 0.6);
-        const speedEffect = 0.5 + t * 0.5;
-        return { x: pos.x + ac.runwayOffset * (1 - t), y: pos.y, scale: 0.6 + 0.3 * t, angle: -t * 0.08, phase: 'roll' };
-      } else {
-        // Climb out
-        const t = (totalProgress - 0.7) / 0.3;
-        const pos = rwyPos(s, 0.4 - t * 0.3);
-        const climbX = pos.x + t * W * 0.1;
-        const climbY = pos.y - t * H * 0.15;
-        return { x: climbX, y: climbY, scale: 0.5 * (1 - t * 0.4), angle: -0.15 - t * 0.1, phase: 'climb' };
-      }
-    } else {
-      // Arrival
-      if (ac.progress < 0.2) {
-        // High approach
-        const t = ac.progress / 0.2;
-        const pos = rwyPos(s, 0.2 + t * 0.2);
-        const approachX = pos.x + (0.5 - t) * W * 0.15;
-        const approachY = pos.y - H * 0.15 * (1 - t);
-        return { x: approachX, y: approachY, scale: 0.2 + t * 0.3, angle: -0.12 + t * 0.06, phase: 'approach' };
-      } else if (ac.progress < 0.5) {
-        // Final approach
-        const t = (ac.progress - 0.2) / 0.3;
-        const pos = rwyPos(s, 0.4 + t * 0.3);
-        return { x: pos.x, y: pos.y - H * 0.02 * (1 - t), scale: 0.5 + t * 0.4, angle: -0.06 + t * 0.04, phase: 'final' };
-      } else if (ac.progress < 0.7) {
-        // Flare and touchdown
-        const t = (ac.progress - 0.5) / 0.2;
-        const pos = rwyPos(s, 0.7 + t * 0.2);
-        return { x: pos.x, y: pos.y, scale: 0.9 + t * 0.1, angle: t * 0.02, phase: 'touchdown' };
-      } else {
-        // Decelerate and turn off
-        const t = (ac.progress - 0.7) / 0.3;
-        const pos = rwyPos(s, 0.9 + t * 0.1);
-        const exitX = pos.x - W * 0.06 * t;
-        return { x: exitX, y: pos.y, scale: 1.0 - t * 0.1, angle: t * 0.1, phase: 'exit' };
-      }
-    }
-  }
-
-  function drawAircraft(x, y, scale, angle, color, lightsOn) {
-    ctx.save();
-    ctx.translate(x, y);
-    ctx.rotate(angle);
-    ctx.scale(scale, scale);
-    const s = Math.min(W, 1000) / 1000;
-
-    // Glow
-    ctx.shadowColor = 'rgba(255,255,255,0.1)';
-    ctx.shadowBlur = 8;
-
-    // Fuselage
-    ctx.beginPath();
-    ctx.moveTo(18 * s, 0);
-    ctx.quadraticCurveTo(8 * s, -6 * s, -16 * s, -5 * s);
-    ctx.lineTo(-16 * s, 5 * s);
-    ctx.quadraticCurveTo(8 * s, 6 * s, 18 * s, 0);
-    ctx.closePath();
-    ctx.fillStyle = color;
-    ctx.fill();
-    ctx.strokeStyle = 'rgba(255,255,255,0.1)';
-    ctx.lineWidth = 0.5;
-    ctx.stroke();
-
-    // Wings
-    ctx.beginPath();
-    ctx.moveTo(6 * s, -1 * s);
-    ctx.lineTo(-4 * s, -12 * s);
-    ctx.lineTo(-8 * s, -12 * s);
-    ctx.lineTo(-2 * s, -1 * s);
-    ctx.closePath();
-    ctx.fillStyle = color;
-    ctx.fill();
-    ctx.beginPath();
-    ctx.moveTo(6 * s, 1 * s);
-    ctx.lineTo(-4 * s, 12 * s);
-    ctx.lineTo(-8 * s, 12 * s);
-    ctx.lineTo(-2 * s, 1 * s);
-    ctx.closePath();
-    ctx.fill();
-
-    // Tail
-    ctx.beginPath();
-    ctx.moveTo(-12 * s, 0);
-    ctx.lineTo(-18 * s, -7 * s);
-    ctx.lineTo(-20 * s, -7 * s);
-    ctx.lineTo(-14 * s, 0);
-    ctx.closePath();
-    ctx.fill();
-    ctx.beginPath();
-    ctx.moveTo(-12 * s, 0);
-    ctx.lineTo(-18 * s, 7 * s);
-    ctx.lineTo(-20 * s, 7 * s);
-    ctx.lineTo(-14 * s, 0);
-    ctx.closePath();
-    ctx.fill();
-
-    // Cockpit window
-    ctx.beginPath();
-    ctx.moveTo(14 * s, 0);
-    ctx.quadraticCurveTo(10 * s, -2 * s, 7 * s, -2 * s);
-    ctx.lineTo(7 * s, 2 * s);
-    ctx.quadraticCurveTo(10 * s, 2 * s, 14 * s, 0);
-    ctx.closePath();
-    ctx.fillStyle = 'rgba(150,200,230,0.4)';
-    ctx.fill();
-
-    // Navigation lights (blinking)
-    if (lightsOn) {
-      ctx.shadowBlur = 0;
-      // Red left
-      ctx.beginPath();
-      ctx.arc(-4 * s, -12 * s, 2 * s, 0, Math.PI * 2);
-      ctx.fillStyle = '#FF3333';
-      ctx.shadowBlur = 6;
-      ctx.shadowColor = '#FF3333';
-      ctx.fill();
-      // Green right
-      ctx.beginPath();
-      ctx.arc(-4 * s, 12 * s, 2 * s, 0, Math.PI * 2);
-      ctx.fillStyle = '#33FF33';
-      ctx.shadowColor = '#33FF33';
-      ctx.fill();
-      // White tail strobe
-      ctx.beginPath();
-      ctx.arc(-18 * s, 0, 1.5 * s, 0, Math.PI * 2);
-      ctx.fillStyle = '#FFFFFF';
-      ctx.shadowColor = '#FFFFFF';
-      ctx.fill();
-    }
-    ctx.shadowBlur = 0;
-    ctx.restore();
-  }
-
-  // ── Ground fog ──
-  function drawFog(time) {
-    const grad = ctx.createLinearGradient(0, H * 0.75, 0, H);
-    grad.addColorStop(0, 'rgba(6,13,26,0)');
-    grad.addColorStop(0.3, 'rgba(6,13,26,0.15)');
-    grad.addColorStop(1, 'rgba(6,13,26,0.3)');
-    ctx.fillStyle = grad;
-    ctx.fillRect(0, H * 0.75, W, H * 0.25);
-
-    // Drifting mist
-    for (let i = 0; i < 3; i++) {
-      const mx = ((time * 15 + i * 200) % 400 - 100) / 100 * W;
-      const my = H * (0.78 + i * 0.04);
-      const grad2 = ctx.createRadialGradient(mx, my, 0, mx, my, W * 0.2);
-      grad2.addColorStop(0, 'rgba(180,200,220,0.03)');
-      grad2.addColorStop(1, 'rgba(180,200,220,0)');
-      ctx.fillStyle = grad2;
-      ctx.fillRect(mx - W * 0.2, my - 20, W * 0.4, 40);
-    }
-  }
-
-  // ── Main loop ──
-  let aircraft = [];
-  // Spawn initial aircraft
-  for (let i = 0; i < 3; i++) {
-    const ac = createAircraft(i === 0 ? 'departure' : 'arrival');
-    ac.progress = i * 0.15;
-    aircraft.push(ac);
-  }
-
-  let frameId = null;
-  let active = true;
-
-  const observer = new IntersectionObserver((entries) => {
-    active = entries[0].isIntersecting;
-    if (!active && frameId) {
-      cancelAnimationFrame(frameId);
-      frameId = null;
-    } else if (active && !frameId) {
-      frame();
-    }
-  }, { threshold: 0.1 });
-  observer.observe(hero);
-
-  function frame() {
-    if (!active) { frameId = null; return; }
-    const s = scene();
-
-    // Clear
-    ctx.fillStyle = '#060d1a';
-    ctx.fillRect(0, 0, W, H);
-
-    // Background layers
-    drawSky();
-    drawCityGlow();
-    drawStars(time);
-    drawGround();
-    drawTaxiway(s);
-    drawRunway(s, time);
-    drawTerminal(s);
-    drawTower(s);
-
-    // Update and draw aircraft
-    aircraft = aircraft.filter(ac => ac.alive);
-
-    // Spawn logic — steady, realistic intervals
-    if (aircraft.length < 3 && Math.random() < 0.008) {
-      aircraft.push(createAircraft(Math.random() > 0.5 ? 'arrival' : 'departure'));
-    }
-
-    aircraft.forEach(ac => {
-      ac.progress += ac.speed * 0.008;
-      ac.timer++;
-
-      if (ac.progress >= 1) {
-        ac.alive = false;
-        return;
-      }
-
-      const pos = getAircraftPos(ac);
-      const lightsOn = ac.timer % 40 < 20;
-      drawAircraft(pos.x, pos.y, pos.scale, pos.angle, ac.color, lightsOn);
-
-      // Landing lights (bright cone beneath)
-      if (pos.phase === 'final' || pos.phase === 'touchdown') {
-        const intensity = pos.phase === 'touchdown' ? 0.15 : 0.08;
-        ctx.save();
-        ctx.translate(pos.x, pos.y);
-        const grad = ctx.createRadialGradient(0, 20, 0, 0, 20, 60 * pos.scale);
-        grad.addColorStop(0, `rgba(255,255,200,${intensity})`);
-        grad.addColorStop(1, 'rgba(255,255,200,0)');
-        ctx.fillStyle = grad;
-        ctx.beginPath();
-        ctx.arc(0, 20, 60 * pos.scale, 0, Math.PI * 2);
-        ctx.fill();
-        ctx.restore();
-      }
-    });
-
-    // Fog overlay
-    drawFog(time);
-
-    time += 0.016;
-    frameId = requestAnimationFrame(frame);
-  }
-
-  // Initial fill and start
-  const s = scene();
-  drawSky();
-  drawCityGlow();
-  drawGround();
-  drawTaxiway(s);
-  drawRunway(s, 0);
-  drawTerminal(s);
-  drawTower(s);
-  frame();
-})();
 
 // ══════════════════════════════════════════════════════════════
 // ║  COUNTER ANIMATION                                       ║
@@ -1055,213 +763,6 @@ footer .footer-inner>*{margin-bottom:8px}
   }, { threshold: 0.5 });
   els.forEach(el => observer.observe(el));
 })();
-
-// ══════════════════════════════════════════════════════════════
-// ║  CONTINENT EXPLORER (D3.js Bubble Chart)                ║
-// ══════════════════════════════════════════════════════════════
-const CONT_DATA = [
-  {id:"NA",label:"North America", total:39581, iata:2950, color:"#2C7BE5"},
-  {id:"EU",label:"Europe",       total:12489, iata:927,  color:"#E9C46A"},
-  {id:"AS",label:"Asia",         total:12719, iata:1903, color:"#F4A261"},
-  {id:"SA",label:"South America", total:12262, iata:921, color:"#6CB4EE"},
-  {id:"AF",label:"Africa",       total:4226,  iata:1065, color:"#E76F51"},
-  {id:"OC",label:"Oceania",      total:4221,  iata:1287, color:"#2A9D8F"},
-  {id:"AN",label:"Antarctica",   total:47,    iata:3,    color:"#D4E8F7"}
-];
-
-const CONT_COUNTRIES = {
-  NA:[{n:"United States",c:32518},{n:"Canada",c:8513},{n:"Mexico",c:2694},{n:"Puerto Rico",c:329},{n:"Greenland",c:191}],
-  EU:[{n:"France",c:1768},{n:"United Kingdom",c:1593},{n:"Germany",c:1432},{n:"Italy",c:1114},{n:"Spain",c:507}],
-  AS:[{n:"Japan",c:3747},{n:"Russia",c:1808},{n:"China",c:776},{n:"India",c:649},{n:"Indonesia",c:728}],
-  SA:[{n:"Brazil",c:7947},{n:"Argentina",c:995},{n:"Venezuela",c:898},{n:"Colombia",c:736},{n:"Chile",c:356}],
-  AF:[{n:"South Africa",c:674},{n:"Egypt",c:216},{n:"Madagascar",c:208},{n:"Morocco",c:175},{n:"Kenya",c:171}],
-  OC:[{n:"Australia",c:2789},{n:"New Zealand",c:529},{n:"Papua New Guinea",c:309},{n:"Fiji",c:136},{n:"Solomon Islands",c:110}],
-  AN:[{n:"Antarctica",c:47}]
-};
-
-let currentView = 'continents'; // 'continents' or 'countries'
-
-function drawContinentBubbles() {
-  const wrap = document.getElementById('continent-chart');
-  const w = wrap.clientWidth - 40;
-  const h = 420;
-  if (w < 100) { setTimeout(drawContinentBubbles, 200); return; }
-
-  d3.select(wrap).selectAll('svg').remove();
-
-  const svg = d3.select(wrap).append('svg')
-    .attr('width', w)
-    .attr('height', h);
-
-  const pack = d3.pack().size([w-40, h-40]).padding(8);
-  const root = d3.hierarchy({children: CONT_DATA}).sum(d => d.total);
-  const nodes = pack(root).leaves();
-
-  const g = svg.append('g')
-    .attr('transform', `translate(20,20)`);
-
-  const tooltip = document.getElementById('continent-tooltip');
-
-  // Bubbles
-  const circles = g.selectAll('circle')
-    .data(nodes)
-    .enter().append('circle')
-    .attr('r', d => d.r)
-    .attr('fill', d => d.data.color)
-    .attr('stroke', '#fff')
-    .attr('stroke-width', 2)
-    .attr('opacity', 0)
-    .attr('cx', d => d.x)
-    .attr('cy', d => d.y)
-    .style('cursor', 'pointer')
-    .on('mouseover', function(ev, d) {
-      d3.select(this).attr('stroke', '#333').attr('stroke-width', 3);
-      const cd = d.data;
-      tooltip.style.opacity = 1;
-      tooltip.innerHTML = `<strong>${cd.label}</strong><br>Total: ${cd.total.toLocaleString()}<br>IATA: ${cd.iata.toLocaleString()}`;
-    })
-    .on('mousemove', function(ev) {
-      const r = wrap.getBoundingClientRect();
-      tooltip.style.left = (ev.clientX - r.left + 15) + 'px';
-      tooltip.style.top = (ev.clientY - r.top - 10) + 'px';
-    })
-    .on('mouseout', function() {
-      d3.select(this).attr('stroke', '#fff').attr('stroke-width', 2);
-      tooltip.style.opacity = 0;
-    })
-    .on('click', function(ev, d) {
-      drillContinent(d.data.id);
-    });
-
-  // Entrance
-  circles.transition()
-    .duration(600)
-    .delay((d,i) => i * 100)
-    .ease(d3.easeElasticOut)
-    .attr('opacity', 0.85);
-
-  // Labels
-  const labels = g.selectAll('text.cont-label')
-    .data(nodes)
-    .enter().append('text')
-    .attr('class', 'cont-label')
-    .attr('x', d => d.x)
-    .attr('y', d => d.y)
-    .attr('text-anchor', 'middle')
-    .attr('dy', '0.35em')
-    .attr('font-size', d => Math.min(d.r * 0.35, 14))
-    .attr('font-weight', '700')
-    .attr('fill', '#fff')
-    .attr('opacity', 0)
-    .text(d => d.data.id);
-
-  labels.transition()
-    .duration(600)
-    .delay((d,i) => i * 100 + 300)
-    .attr('opacity', 1);
-
-  // Count labels under name
-  const countLabels = g.selectAll('text.cont-count')
-    .data(nodes)
-    .enter().append('text')
-    .attr('class', 'cont-count')
-    .attr('x', d => d.x)
-    .attr('y', d => d.y + 12)
-    .attr('text-anchor', 'middle')
-    .attr('font-size', d => Math.min(d.r * 0.2, 10))
-    .attr('fill', 'rgba(255,255,255,0.7)')
-    .attr('opacity', 0)
-    .text(d => d.data.total.toLocaleString());
-
-  countLabels.transition()
-    .duration(600)
-    .delay((d,i) => i * 100 + 500)
-    .attr('opacity', 1);
-
-  // Legend
-  const legend = document.getElementById('continent-legend');
-  legend.innerHTML = CONT_DATA.map(c => 
-    `<span><span class="dot" style="background:${c.color}"></span>${c.label}</span>`
-  ).join('');
-}
-
-function drillContinent(id) {
-  currentView = 'countries';
-  document.getElementById('continent-back').style.display = 'block';
-  const countries = CONT_COUNTRIES[id] || [{n:"No data",c:0}];
-  const cont = CONT_DATA.find(c => c.id === id);
-  const wrap = document.getElementById('continent-chart');
-  const w = wrap.clientWidth - 40;
-  const h = 420;
-
-  d3.select(wrap).selectAll('svg').remove();
-
-  const svg = d3.select(wrap).append('svg')
-    .attr('width', w)
-    .attr('height', h);
-
-  const pack = d3.pack().size([w-40, h-40]).padding(6);
-  const root = d3.hierarchy({children: countries.map(c => ({label:c.n, total:c.c, color:cont ? cont.color : '#888'}))})
-    .sum(d => d.total);
-  const nodes = pack(root).leaves();
-
-  const g = svg.append('g').attr('transform', `translate(20,20)`);
-  const tooltip = document.getElementById('continent-tooltip');
-
-  g.selectAll('circle')
-    .data(nodes)
-    .enter().append('circle')
-    .attr('r', 0)
-    .attr('fill', d => d.data.color)
-    .attr('stroke', '#fff')
-    .attr('stroke-width', 2)
-    .attr('cx', d => d.x)
-    .attr('cy', d => d.y)
-    .style('cursor', 'pointer')
-    .on('mouseover', function(ev, d) {
-      d3.select(this).attr('stroke', '#333').attr('stroke-width', 3);
-      tooltip.style.opacity = 1;
-      tooltip.innerHTML = `<strong>${d.data.label}</strong><br>Airports: ${d.total.toLocaleString()}`;
-    })
-    .on('mousemove', function(ev) {
-      const r = wrap.getBoundingClientRect();
-      tooltip.style.left = (ev.clientX - r.left + 15) + 'px';
-      tooltip.style.top = (ev.clientY - r.top - 10) + 'px';
-    })
-    .on('mouseout', function() {
-      d3.select(this).attr('stroke', '#fff').attr('stroke-width', 2);
-      tooltip.style.opacity = 0;
-    })
-    .transition()
-    .duration(500)
-    .delay((d,i) => i * 80)
-    .ease(d3.easeElasticOut)
-    .attr('r', d => d.r);
-
-  g.selectAll('text.cn-label')
-    .data(nodes)
-    .enter().append('text')
-    .attr('class', 'cn-label')
-    .attr('x', d => d.x)
-    .attr('y', d => d.y)
-    .attr('text-anchor', 'middle')
-    .attr('dy', '0.35em')
-    .attr('font-size', d => Math.min(d.r * 0.3, 13))
-    .attr('font-weight', '600')
-    .attr('fill', '#222')
-    .text(d => d.data.label);
-
-  // Update legend
-  const legend = document.getElementById('continent-legend');
-  legend.innerHTML = `<span style="font-weight:600;color:var(--primary)">${cont ? cont.label : id}</span> — Top countries by airport count`;
-}
-
-function resetContinentView() {
-  currentView = 'continents';
-  document.getElementById('continent-back').style.display = 'none';
-  document.getElementById('continent-tooltip').style.opacity = 0;
-  drawContinentBubbles();
-}
 
 // ══════════════════════════════════════════════════════════════
 // ║  AIRPORT DATA                                            ║
@@ -1465,151 +966,6 @@ filterSearch();
 })();
 
 // ══════════════════════════════════════════════════════════════
-// ║  FRA MAP + MAP STYLE SWITCH                             ║
-// ══════════════════════════════════════════════════════════════
-let fraMap = null;
-function initFraMap() {
-  if (fraMap) return;
-  fraMap = L.map('fra-map').setView([50.033, 8.561], 10);
-  addTileLayer('light');
-  L.marker([50.033, 8.561]).addTo(fraMap)
-    .bindPopup('<b>Frankfurt Airport (FRA)</b><br>EDDF')
-    .openPopup();
-}
-
-function addTileLayer(style) {
-  if (!fraMap) return;
-  fraMap.eachLayer(l => { if (l._url) fraMap.removeLayer(l); });
-  L.tileLayer(style === 'dark'
-    ? 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png'
-    : 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
-    { attribution: '&copy; CARTO', maxZoom: 19 }
-  ).addTo(fraMap);
-}
-
-function switchMapStyle(style) {
-  document.getElementById('map-light-btn').classList.toggle('active', style === 'light');
-  document.getElementById('map-dark-btn').classList.toggle('active', style === 'dark');
-  addTileLayer(style);
-}
-
-// Init map when section is visible
-(function fraMapObserver() {
-  const obs = new IntersectionObserver((entries) => {
-    if (entries[0].isIntersecting) {
-      initFraMap();
-      obs.disconnect();
-    }
-  }, { threshold: 0.3 });
-  obs.observe(document.getElementById('fra-map'));
-})();
-
-// ══════════════════════════════════════════════════════════════
-// ║  COUNTRIES GRID                                          ║
-// ══════════════════════════════════════════════════════════════
-(function countriesGrid() {
-  const grid = document.getElementById('country-grid');
-  const top = [
-    {c:"United States",n:39581,e:"🇺🇸"},{c:"Brazil",n:7947,e:"🇧🇷"},
-    {c:"Canada",n:8513,e:"🇨🇦"},{c:"Japan",n:3747,e:"🇯🇵"},
-    {c:"France",n:1768,e:"🇫🇷"},{c:"Australia",n:2789,e:"🇦🇺"},
-    {c:"Germany",n:1432,e:"🇩🇪"},{c:"United Kingdom",n:1593,e:"🇬🇧"}
-  ];
-  grid.innerHTML = top.map(cc => {
-    const slug = cc.c.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'');
-    return `<a href="/airports/${slug}/" class="country-card">
-      <div class="flag">${cc.e}</div>
-      <div class="info">
-        <div class="name">${cc.c}</div>
-        <div class="count"><strong>${cc.n.toLocaleString()}</strong> airports</div>
-      </div>
-    </a>`;
-  }).join('');
-})();
-
-// ══════════════════════════════════════════════════════════════
-// ║  DISTANCE CALCULATOR                                     ║
-// ══════════════════════════════════════════════════════════════
-(function initDistance() {
-  const fromSel = document.getElementById('dist-from');
-  const toSel = document.getElementById('dist-to');
-  AIRPORTS.forEach(a => {
-    const opt1 = document.createElement('option');
-    opt1.value = a.iata; opt1.textContent = `${a.iata} — ${a.name}, ${a.country}`;
-    fromSel.appendChild(opt1);
-    const opt2 = opt1.cloneNode(true);
-    toSel.appendChild(opt2);
-  });
-  fromSel.value = 'FRA';
-  toSel.value = 'JFK';
-})();
-
-function toRad(deg) { return deg * Math.PI / 180; }
-
-function calcDistance() {
-  const fromIATA = document.getElementById('dist-from').value;
-  const toIATA = document.getElementById('dist-to').value;
-  const from = AIRPORTS.find(a => a.iata === fromIATA);
-  const to = AIRPORTS.find(a => a.iata === toIATA);
-  if (!from || !to) return;
-
-  const R = 6371;
-  const dLat = toRad(to.lat - from.lat);
-  const dLon = toRad(to.lon - from.lon);
-  const a = Math.sin(dLat/2)**2 + Math.cos(toRad(from.lat)) * Math.cos(toRad(to.lat)) * Math.sin(dLon/2)**2;
-  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-  const km = Math.round(R * c);
-  const mi = Math.round(km * 0.621371);
-
-  document.getElementById('dist-km').textContent = km.toLocaleString();
-  document.getElementById('dist-mi').textContent = mi.toLocaleString();
-  document.getElementById('route-info').innerHTML = `<strong>${from.name} (${from.iata})</strong> &#9992; <strong>${to.name} (${to.iata})</strong>`;
-  document.getElementById('dist-result').classList.add('visible');
-
-  drawGlobeArc(from.lat, from.lon, to.lat, to.lon);
-}
-
-function drawGlobeArc(lat1, lon1, lat2, lon2) {
-  const svg = document.getElementById('globe-svg');
-  const cx = 0, cy = 0, r = 100;
-  let html = '';
-
-  function toSphere(lat, lon) {
-    const phi = toRad(90 - lat);
-    const theta = toRad(lon);
-    return { x: r * Math.sin(phi) * Math.cos(theta), y: -r * Math.cos(phi), visible: phi < Math.PI/2 };
-  }
-
-  // Globe
-  html += `<circle cx="${cx}" cy="${cy}" r="${r}" fill="#e8f0f8" stroke="#b0c4d8" stroke-width="1.5"/>`;
-  // Continents (simplified)
-  [[0,50,-40,100],[30,20,-20,60],[-30,-60,-80,-30],[40,-120,-50,-70],[50,120,20,150]].forEach(b => {
-    html += `<ellipse cx="${b[2]}" cy="${b[0]}" rx="${(b[3]-b[2])*0.2}" ry="${(b[1]-b[0])*0.15}" fill="#c8d8e8" opacity="0.4"/>`;
-  });
-
-  // Arc
-  const steps = 40;
-  const pts = [];
-  for (let i = 0; i <= steps; i++) {
-    const t = i / steps;
-    const lat = lat1 + (lat2 - lat1) * t;
-    const lon = lon1 + (lon2 - lon1) * t;
-    const p = toSphere(lat, lon);
-    pts.push(p);
-  }
-  let path = pts.map((p,i) => `${i===0?'M':'L'}${p.x.toFixed(1)},${p.y.toFixed(1)}`).join(' ');
-  html += `<path d="${path}" fill="none" stroke="#e76f51" stroke-width="2" stroke-dasharray="4,3" opacity="0.8"/>`;
-
-  // Endpoints
-  const p1 = toSphere(lat1, lon1);
-  const p2 = toSphere(lat2, lon2);
-  html += `<circle cx="${p1.x.toFixed(1)}" cy="${p1.y.toFixed(1)}" r="3" fill="#2ca4dc" stroke="#fff" stroke-width="1"/>`;
-  html += `<circle cx="${p2.x.toFixed(1)}" cy="${p2.y.toFixed(1)}" r="3" fill="#e76f51" stroke="#fff" stroke-width="1"/>`;
-
-  svg.innerHTML = html;
-}
-
-// ══════════════════════════════════════════════════════════════
 // ║  TYPE BREAKDOWN (D3)                                     ║
 // ══════════════════════════════════════════════════════════════
 const TYPE_DATA = [
@@ -1719,13 +1075,42 @@ function drawTypeChart() {
     .text(d => d.count);
 }
 
-drawTypeChart();
+// ══════════════════════════════════════════════════════════════
+// ║  CONTINENT STATS (static)                                 ║
+// ══════════════════════════════════════════════════════════════
+const CONT_DATA = [
+  {id:"NA",label:"North America",total:39581,iata:2950,color:"#2C7BE5",emoji:"🌎"},
+  {id:"EU",label:"Europe",total:12489,iata:927,color:"#E9C46A",emoji:"🌍"},
+  {id:"AS",label:"Asia",total:12719,iata:1903,color:"#F4A261",emoji:"🌏"},
+  {id:"SA",label:"South America",total:12262,iata:921,color:"#6CB4EE",emoji:"🌎"},
+  {id:"AF",label:"Africa",total:4226,iata:1065,color:"#E76F51",emoji:"🌍"},
+  {id:"OC",label:"Oceania",total:4221,iata:1287,color:"#2A9D8F",emoji:"🌏"},
+  {id:"AN",label:"Antarctica",total:47,iata:3,color:"#D4E8F7",emoji:"🧊"}
+];
 
 // ══════════════════════════════════════════════════════════════
 // ║  INIT ON LOAD                                            ║
 // ══════════════════════════════════════════════════════════════
 document.addEventListener('DOMContentLoaded', () => {
-  drawContinentBubbles();
+  // Render continent cards
+  const contGrid = document.getElementById('continent-cards');
+  if (contGrid) {
+    contGrid.innerHTML = CONT_DATA.map(c => `
+      <div class="stat-card" style="border-top:3px solid ${c.color};text-align:left;padding:16px 20px">
+        <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px">
+          <span style="font-size:28px">${c.emoji}</span>
+          <div>
+            <div style="font-size:16px;font-weight:700;color:#202c39">${c.label}</div>
+            <div style="font-size:12px;color:#5A6B7F">${c.id} Continent</div>
+          </div>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;font-size:13px">
+          <div><span style="color:#5A6B7F">Total:</span> <strong>${c.total.toLocaleString()}</strong></div>
+          <div><span style="color:#5A6B7F">IATA:</span> <strong>${c.iata.toLocaleString()}</strong></div>
+        </div>
+      </div>
+    `).join('');
+  }
 });
 </script>
 </body>
