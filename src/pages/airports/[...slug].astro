@@ -114,6 +114,17 @@ const jsonldBreadcrumb = JSON.stringify({
 </head>
 <body>
 
+<nav style="background:#0f172a;padding:10px 0;position:sticky;top:0;z-index:100">
+  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px">
+    <a href="/" style="color:#fff;font-size:15px;font-weight:700;text-decoration:none">World<span style="color:#60a5fa">Airport</span>DB</a>
+    <div style="display:flex;gap:16px;flex-wrap:wrap">
+      <a href="/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Home</a>
+      <a href="/countries/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Countries</a>
+      <a href="/tools/nearest-airport/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Distance</a>
+    </div>
+  </div>
+</nav>
+
 <div class="ah">
   <div class="wrap">
     <div class="cd">{airport.iata} &middot; {airport.icao} &middot; {airport.name}</div>
