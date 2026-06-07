@@ -26,6 +26,26 @@ const continentNames = {NA:'North America',SA:'South America',EU:'Europe',AS:'As
 const contName = continentNames[cAirports[0]?.z] || '';
 const topAirports = cAirports.slice(0, 20);
 const maxType = Math.max(country.large, country.medium, country.small, 1);
+const largeWidth = (country.large / maxType * 100).toFixed(1);
+const mediumWidth = (country.medium / maxType * 100).toFixed(1);
+const smallWidth = (country.small / maxType * 100).toFixed(1);
+
+// JSON-LD strings (build in frontmatter, inject with set:html)
+const jsonldBreadcrumb = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem","position":1,"name":"World Airport Database","item":"https://world-airport-database.com/"},
+    {"@type": "ListItem","position":2,"name":"Countries","item":"https://world-airport-database.com/countries/"},
+    {"@type": "ListItem","position":3,"name": country.name}
+  ]
+}, null, 2);
+const jsonldCountry = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Country",
+  "name": country.name,
+  "description": pageDesc
+}, null, 2);
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -46,28 +66,10 @@ const maxType = Math.max(country.large, country.medium, country.small, 1);
   <meta name="twitter:description" content={pageDesc}>
 
   <!-- JSON-LD: BreadcrumbList -->
-  <script type="application/ld+json">
-  {JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {"@type": "ListItem","position":1,"name":"World Airport Database","item":"https://world-airport-database.com/"},
-      {"@type": "ListItem","position":2,"name":"Countries","item":"https://world-airport-database.com/countries/"},
-      {"@type": "ListItem","position":3,"name": country.name}
-    ]
-  }, null, 2)}
-  </script>
+  <script type="application/ld+json" set:html={jsonldBreadcrumb}></script>
 
   <!-- JSON-LD: Country -->
-  <script type="application/ld+json">
-  {JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "Country",
-    "name": country.name,
-    "description": pageDesc,
-    "identifier": country.name
-  }, null, 2)}
-  </script>
+  <script type="application/ld+json" set:html={jsonldCountry}></script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -110,9 +112,9 @@ const maxType = Math.max(country.large, country.medium, country.small, 1);
   <div style="background:#fff;border:1px solid #D4E0E8;padding:20px;margin:16px 0">
     <h3 style="font-size:14px;color:#202c39;margin-bottom:8px">Airport Type Distribution</h3>
     <div style="display:flex;height:24px;border-radius:3px;overflow:hidden;margin:10px 0">
-      {country.large > 0 && <div style="display:flex;align-items:center;justify-content:center;color:#fff;font-size:11px;font-weight:700;width:{(country.large/maxType*100).toFixed(1)}%;background:#2ca4dc">{country.large}</div>}
-      {country.medium > 0 && <div style="display:flex;align-items:center;justify-content:center;color:#fff;font-size:11px;font-weight:700;width:{(country.medium/maxType*100).toFixed(1)}%;background:#F4A261">{country.medium}</div>}
-      {country.small > 0 && <div style="display:flex;align-items:center;justify-content:center;color:#fff;font-size:11px;font-weight:700;width:{(country.small/maxType*100).toFixed(1)}%;background:#E9C46A">{country.small}</div>}
+      {country.large > 0 && <div style={"display:flex;align-items:center;justify-content:center;color:#fff;font-size:11px;font-weight:700;width:" + largeWidth + "%;background:#2ca4dc"}>{country.large}</div>}
+      {country.medium > 0 && <div style={"display:flex;align-items:center;justify-content:center;color:#fff;font-size:11px;font-weight:700;width:" + mediumWidth + "%;background:#F4A261"}>{country.medium}</div>}
+      {country.small > 0 && <div style={"display:flex;align-items:center;justify-content:center;color:#fff;font-size:11px;font-weight:700;width:" + smallWidth + "%;background:#E9C46A"}>{country.small}</div>}
     </div>
     <div style="display:flex;gap:16px;font-size:12px;color:#5A6B7F;flex-wrap:wrap">
       {country.large > 0 && <span><span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:#2ca4dc;margin-right:4px"></span>Large Airports: {country.large}</span>}
