@@ -28,6 +28,9 @@ Thumbs.db
 
 # Wrangler / Cloudflare
 .wrangler/
+
+# Node compile cache
+declare -x TEMP=declare*/node-compile-cache/
 dist/
 output/
 
