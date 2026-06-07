@@ -116,10 +116,17 @@ npx wrangler pages deploy dist/ --project-name airportdb --branch main
 5. ✅ Deploy auf Cloudflare Pages (https://87ebc85e.airportdb.pages.dev)
 6. ✅ Domain registriert + DNS (ALIAS/CNAME → airportdb.pages.dev)
 7. ✅ GitHub Repo (https://github.com/Loggableim/airportdb)
-8. ✅ Custom Domain auf Cloudflare Pages (world-airport-database.com, pending)
-9. ❌ Daten-Import Script (CSV → Astro getStaticPaths Top 500)
-10. ❌ 500 Airport-Profilseiten als Astro-Routes
+8. ✅ Custom Domain auf Cloudflare Pages (world-airport-database.com, pending — User muss NS umstellen per Dashboard)
+9. ✅ Daten-Import Script (CSV → Astro getStaticPaths Top 500)
+10. ✅ 500 Airport-Profilseiten als Astro-Routes (501 Seiten, funktionieren)
 11. ❌ Länder-Seiten generieren (247 Länder)
 12. ❌ Nearest Airport Finder Tool
 13. ❌ SEO (Sitemap, OG-Tags, JSON-LD, Search Console)
 14. ❌ Content-Cron (3x täglich)
+15. ✅ Game-Style Hero (Canvas 2D: Runway+Tower+Flugzeuge starten/landen)
+16. ✅ Continent Explorer (D3 Bubble Chart mit Click→Country-Drilldown)
+17. ✅ IATA Code Explorer (Search mit Continent/Type/Country-Filtern)
+18. ✅ Count-up Animation + Scroll-Animationen
+19. ✅ Distance Calculator (Haversine + Globe SVG Arc)
+20. ✅ Type Breakdown (D3 Bar Chart mit Filtern)
+21. ✅ FRA Map (Leaflet, Light/Dark Switch)

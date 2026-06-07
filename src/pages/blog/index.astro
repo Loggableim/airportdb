@@ -1,0 +1,77 @@
+---
+import blogPosts from '../../data/blog-posts.json';
+
+const sorted = [...blogPosts].sort((a,b) => new Date(b.date) - new Date(a.date));
+const continentNames = {NA:'North America',SA:'South America',EU:'Europe',AS:'Asia',AF:'Africa',OC:'Oceania',AN:'Antarctica'};
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Airport Database Blog - World Airport Database</title>
+  <meta name="description" content="Latest blog posts about airports, IATA codes, travel guides and aviation insights from World Airport Database.">
+  <link rel="canonical" href="https://world-airport-database.com/blog/">
+  <meta property="og:type" content="blog">
+  <meta property="og:title" content="Airport Database Blog - World Airport Database">
+  <meta property="og:description" content="Latest blog posts about airports, IATA codes, travel guides and aviation insights.">
+  <meta property="og:url" content="https://world-airport-database.com/blog/">
+  <meta property="og:site_name" content="World Airport Database">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Airport Database Blog - World Airport Database">
+  <meta name="twitter:description" content="Latest blog posts about airports, IATA codes, travel guides and aviation insights.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Open Sans',Arial,sans-serif;background:#F4F7FA;color:#202c39;line-height:1.7}
+    :root{--primary:#2ca4dc;--navy:#0B1D3A;--border:#D4E0E8}
+    .wrap{max-width:900px;margin:0 auto;padding:0 20px}
+    .bh{background:linear-gradient(135deg,var(--navy),#142b4f);padding:36px 0;border-bottom:4px solid var(--primary)}
+    .bh h1{color:#fff;font-size:30px;margin-bottom:4px}
+    .bh .sub{color:#8899aa;font-size:14px}
+    .post-list{list-style:none;padding:0;margin:20px 0}
+    .post-item{background:#fff;border:1px solid var(--border);padding:20px;margin-bottom:14px;transition:all .15s}
+    .post-item:hover{border-color:var(--primary);box-shadow:0 2px 12px rgba(44,164,220,.12)}
+    .post-item .date{font-size:12px;color:#8899aa;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px}
+    .post-item h2{font-size:18px;margin-bottom:6px}
+    .post-item h2 a{color:var(--navy);text-decoration:none}
+    .post-item h2 a:hover{color:var(--primary)}
+    .post-item .excerpt{font-size:14px;color:#5A6B7F;line-height:1.6}
+    .post-item .tags{display:flex;gap:6px;margin-top:8px;flex-wrap:wrap}
+    .post-item .tags span{background:#e3f0f7;color:var(--primary);padding:2px 8px;border-radius:3px;font-size:11px;font-weight:600}
+    footer{background:var(--navy);color:#8899aa;padding:36px 0 24px;margin-top:40px;font-size:13px;text-align:center}
+    footer a{color:var(--primary)}
+  </style>
+</head>
+<body>
+  <div class="bh">
+    <div class="wrap">
+      <h1>&#9992; Airport Database Blog</h1>
+      <div class="sub">Airport guides, IATA code insights, travel tips and aviation news</div>
+    </div>
+  </div>
+  <div class="wrap">
+    <ul class="post-list">
+      {sorted.length === 0 && <p style="color:#5A6B7F;padding:30px;text-align:center">No blog posts yet. Check back soon!</p>}
+      {sorted.map(post => (
+        <li class="post-item">
+          <div class="date">{new Date(post.date).toLocaleDateString('en-US', {year:'numeric',month:'long',day:'numeric'})}</div>
+          <h2><a href={`/blog/${post.slug}/`}>{post.title}</a></h2>
+          <div class="excerpt">{post.excerpt}</div>
+          <div class="tags">
+            {post.tags.map(tag => <span>{tag}</span>)}
+          </div>
+        </li>
+      ))}
+    </ul>
+    <a href="/" style="display:inline-block;margin:20px 0;color:var(--primary);font-weight:600;font-size:14px">&larr; Back to World Airport Database</a>
+  </div>
+  <footer>
+    <div class="wrap">
+      <div><strong>World Airport Database since 2008</strong> based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
+      <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
+    </div>
+  </footer>
+</body>
+</html>
