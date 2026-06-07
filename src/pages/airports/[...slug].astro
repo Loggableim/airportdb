@@ -18,6 +18,42 @@ const continentNames = {NA:'North America',SA:'South America',EU:'Europe',AS:'As
 const contName = continentNames[airport.continent] || airport.continent;
 const typeLabel = airport.type.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase());
 const isoDate = new Date().toISOString().split('T')[0];
+
+// Build JSON-LD strings in frontmatter (Astro doesn't eval expressions inside <script type="application/ld+json">)
+const countrySlug = (airport.country||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')||'unknown';
+const jsonldAirport = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Airport",
+  "name": airport.name,
+  "iataCode": airport.iata,
+  "icaoCode": airport.icao,
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": airport.municipality || undefined,
+    "addressCountry": airport.country
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": airport.lat,
+    "longitude": airport.lon
+  },
+  "elevation": airport.elevation ? airport.elevation + " feet" : undefined,
+  "containedInPlace": {
+    "@type": "Country",
+    "name": airport.country
+  },
+  "url": pageUrl,
+  "description": pageDesc
+}, null, 2);
+const jsonldBreadcrumb = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem","position":1,"name":"Home","item":"https://world-airport-database.com/"},
+    {"@type": "ListItem","position":2,"name": airport.country, "item": "https://world-airport-database.com/countries/" + countrySlug + "/"},
+    {"@type": "ListItem","position":3,"name": airport.name + " (" + airport.iata + ")"}
+  ]
+}, null, 2);
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -45,45 +81,10 @@ const isoDate = new Date().toISOString().split('T')[0];
   <meta name="twitter:image" content={ogImage}>
 
   <!-- JSON-LD Schema -->
-  <script type="application/ld+json">
-  {JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "Airport",
-    "name": airport.name,
-    "iataCode": airport.iata,
-    "icaoCode": airport.icao,
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": airport.municipality || undefined,
-      "addressCountry": airport.country
-    },
-    "geo": {
-      "@type": "GeoCoordinates",
-      "latitude": airport.lat,
-      "longitude": airport.lon
-    },
-    "elevation": airport.elevation ? airport.elevation + " feet" : undefined,
-    "containedInPlace": {
-      "@type": "Country",
-      "name": airport.country
-    },
-    "url": pageUrl,
-    "description": pageDesc
-  }, null, 2)}
-  </script>
+  <script type="application/ld+json" set:html={jsonldAirport}></script>
 
   <!-- BreadcrumbList -->
-  <script type="application/ld+json">
-  {JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {"@type": "ListItem","position":1,"name":"Home","item":"https://world-airport-database.com/"},
-      {"@type": "ListItem","position":2,"name": airport.country,"item": `https://world-airport-database.com/countries/${(airport.country||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')||'unknown'}/`},
-      {"@type": "ListItem","position":3,"name": airport.name + " (" + airport.iata + ")"}
-    ]
-  }, null, 2)}
-  </script>
+  <script type="application/ld+json" set:html={jsonldBreadcrumb}></script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
