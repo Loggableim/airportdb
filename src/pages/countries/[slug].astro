@@ -1,0 +1,155 @@
+---
+import countries from '../../_data/countries.js';
+import airports from '../../_data/airports.js';
+
+const countryAirports = {};
+for (const ap of airports) {
+  const c = ap.c;
+  if (!countryAirports[c]) countryAirports[c] = [];
+  countryAirports[c].push(ap);
+}
+
+export async function getStaticPaths() {
+  return countries.map(c => {
+    const slug = c.name.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'') || 'unknown';
+    return { params: { slug }, props: { country: c } };
+  });
+}
+
+const { country } = Astro.props;
+const slug = country.name.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'') || 'unknown';
+const pageTitle = 'Airports in ' + country.name + ' (' + country.iata + ' IATA codes) - World Airport Database';
+const pageDesc = 'Complete list of ' + country.total + ' airports in ' + country.name + ', including ' + country.iata + ' IATA codes.';
+const pageUrl = 'https://world-airport-database.com/countries/' + slug + '/';
+const cAirports = (countryAirports[country.name] || []).sort((a,b) => (b.s||0) - (a.s||0));
+const continentNames = {NA:'North America',SA:'South America',EU:'Europe',AS:'Asia',AF:'Africa',OC:'Oceania',AN:'Antarctica'};
+const contName = continentNames[cAirports[0]?.z] || '';
+const topAirports = cAirports.slice(0, 20);
+const maxType = Math.max(country.large, country.medium, country.small, 1);
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc}>
+  <link rel="canonical" href={pageUrl}>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content={pageTitle}>
+  <meta property="og:description" content={pageDesc}>
+  <meta property="og:url" content={pageUrl}>
+  <meta property="og:image" content="https://world-airport-database.com/og-country.png">
+  <meta property="og:site_name" content="World Airport Database">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content={pageTitle}>
+  <meta name="twitter:description" content={pageDesc}>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+<body>
+
+<div style="background:linear-gradient(135deg,#0B1D3A,#142b4f);padding:40px 0;border-bottom:4px solid #2ca4dc">
+  <div style="max-width:1100px;margin:0 auto;padding:0 20px">
+    <div style="font-size:64px;margin-bottom:6px">&#127758;</div>
+    <h1 style="color:#fff;font-size:32px;margin-bottom:4px">Airports in {country.name}</h1>
+    <div style="color:#8899aa;font-size:14px">{country.total} airports | {country.iata} IATA codes | {contName}</div>
+  </div>
+</div>
+
+<div style="max-width:1100px;margin:0 auto;padding:0 20px">
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:20px 0">
+    <div style="background:#fff;border:1px solid #D4E0E8;padding:18px;text-align:center">
+      <div style="font-size:28px;font-weight:800;color:#2ca4dc">{country.total.toLocaleString()}</div>
+      <div style="font-size:12px;color:#5A6B7F;text-transform:uppercase;letter-spacing:1px;margin-top:2px">Total Airports</div>
+    </div>
+    <div style="background:#fff;border:1px solid #D4E0E8;padding:18px;text-align:center">
+      <div style="font-size:28px;font-weight:800;color:#2ca4dc">{country.iata.toLocaleString()}</div>
+      <div style="font-size:12px;color:#5A6B7F;text-transform:uppercase;letter-spacing:1px;margin-top:2px">IATA Codes</div>
+    </div>
+    <div style="background:#fff;border:1px solid #D4E0E8;padding:18px;text-align:center">
+      <div style="font-size:28px;font-weight:800;color:#2ca4dc">{country.large.toLocaleString()}</div>
+      <div style="font-size:12px;color:#5A6B7F;text-transform:uppercase;letter-spacing:1px;margin-top:2px">Large</div>
+    </div>
+    <div style="background:#fff;border:1px solid #D4E0E8;padding:18px;text-align:center">
+      <div style="font-size:28px;font-weight:800;color:#2ca4dc">{country.medium.toLocaleString()}</div>
+      <div style="font-size:12px;color:#5A6B7F;text-transform:uppercase;letter-spacing:1px;margin-top:2px">Medium</div>
+    </div>
+    <div style="background:#fff;border:1px solid #D4E0E8;padding:18px;text-align:center">
+      <div style="font-size:28px;font-weight:800;color:#2ca4dc">{country.small.toLocaleString()}</div>
+      <div style="font-size:12px;color:#5A6B7F;text-transform:uppercase;letter-spacing:1px;margin-top:2px">Small &amp; Other</div>
+    </div>
+  </div>
+
+  <div style="background:#fff;border:1px solid #D4E0E8;padding:20px;margin:16px 0">
+    <h3 style="font-size:14px;color:#202c39;margin-bottom:8px">Airport Type Distribution</h3>
+    <div style="display:flex;height:24px;border-radius:3px;overflow:hidden;margin:10px 0">
+      {country.large > 0 && <div style="display:flex;align-items:center;justify-content:center;color:#fff;font-size:11px;font-weight:700;width:{(country.large/maxType*100).toFixed(1)}%;background:#2ca4dc">{country.large}</div>}
+      {country.medium > 0 && <div style="display:flex;align-items:center;justify-content:center;color:#fff;font-size:11px;font-weight:700;width:{(country.medium/maxType*100).toFixed(1)}%;background:#F4A261">{country.medium}</div>}
+      {country.small > 0 && <div style="display:flex;align-items:center;justify-content:center;color:#fff;font-size:11px;font-weight:700;width:{(country.small/maxType*100).toFixed(1)}%;background:#E9C46A">{country.small}</div>}
+    </div>
+    <div style="display:flex;gap:16px;font-size:12px;color:#5A6B7F;flex-wrap:wrap">
+      {country.large > 0 && <span><span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:#2ca4dc;margin-right:4px"></span>Large Airports: {country.large}</span>}
+      {country.medium > 0 && <span><span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:#F4A261;margin-right:4px"></span>Medium Airports: {country.medium}</span>}
+      {country.small > 0 && <span><span style="display:inline-block;width:10px;height:10px;border-radius:2px;background:#E9C46A;margin-right:4px"></span>Small &amp; Other: {country.small}</span>}
+    </div>
+  </div>
+
+  <h3 style="font-size:18px;font-weight:700;color:#202c39;margin:24px 0 12px;border-bottom:2px solid #2ca4dc;padding-bottom:6px">Location Map</h3>
+  <div style="height:360px;border:2px solid #D4E0E8;margin:16px 0" id="cm" data-lat={country.lat} data-lon={country.lon} data-name={country.name}></div>
+
+  <h3 style="font-size:18px;font-weight:700;color:#202c39;margin:24px 0 12px;border-bottom:2px solid #2ca4dc;padding-bottom:6px">Top Airports in {country.name}</h3>
+  <table style="width:100%;border-collapse:collapse;margin:12px 0 20px;background:#fff">
+    <thead>
+      <tr>
+        <th style="background:#0B1D3A;color:#fff;padding:10px 14px;text-align:left;font-size:13px;text-transform:uppercase;letter-spacing:.5px;border:1px solid #1a2d4a">IATA</th>
+        <th style="background:#0B1D3A;color:#fff;padding:10px 14px;text-align:left;font-size:13px;text-transform:uppercase;letter-spacing:.5px;border:1px solid #1a2d4a">ICAO</th>
+        <th style="background:#0B1D3A;color:#fff;padding:10px 14px;text-align:left;font-size:13px;text-transform:uppercase;letter-spacing:.5px;border:1px solid #1a2d4a">Name</th>
+        <th style="background:#0B1D3A;color:#fff;padding:10px 14px;text-align:left;font-size:13px;text-transform:uppercase;letter-spacing:.5px;border:1px solid #1a2d4a">City</th>
+        <th style="background:#0B1D3A;color:#fff;padding:10px 14px;text-align:left;font-size:13px;text-transform:uppercase;letter-spacing:.5px;border:1px solid #1a2d4a">Type</th>
+        <th style="background:#0B1D3A;color:#fff;padding:10px 14px;text-align:left;font-size:13px;text-transform:uppercase;letter-spacing:.5px;border:1px solid #1a2d4a">Score</th>
+      </tr>
+    </thead>
+    <tbody>
+      {topAirports.map(ap => {
+        const aslug = (ap.n||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,60);
+        const airportUrl = ap.i ? '/airports/' + slug + '/' + aslug + '-' + ap.i.toLowerCase() + '/' : '#';
+        return (
+          <tr>
+            <td style="padding:9px 14px;border:1px solid #D4E0E8;font-size:13px">
+              {ap.i ? <a href={airportUrl}><span style="display:inline-block;background:#2ca4dc;color:#fff;padding:2px 9px;border-radius:3px;font-size:11px;font-weight:700">{ap.i}</span></a> : <span style="color:#889">—</span>}
+            </td>
+            <td style="padding:9px 14px;border:1px solid #D4E0E8;font-size:13px">{ap.o || '—'}</td>
+            <td style="padding:9px 14px;border:1px solid #D4E0E8;font-size:13px">{ap.i ? <a href={airportUrl}>{ap.n}</a> : ap.n}</td>
+            <td style="padding:9px 14px;border:1px solid #D4E0E8;font-size:13px">{ap.m || '—'}</td>
+            <td style="padding:9px 14px;border:1px solid #D4E0E8;font-size:13px">{(ap.t||'').replace(/_/g,' ')}</td>
+            <td style="padding:9px 14px;border:1px solid #D4E0E8;font-size:13px">{(ap.s||0).toLocaleString()}</td>
+          </tr>
+        );
+      })}
+    </tbody>
+  </table>
+
+  <a href="/" style="display:inline-block;margin:20px 0;color:#2ca4dc;font-weight:600;font-size:14px">&larr; Back to World Airport Database</a>
+</div>
+
+<div style="background:#0B1D3A;color:#8899aa;padding:36px 0 24px;margin-top:40px;border-top:4px solid #2ca4dc;font-size:13px;text-align:center">
+  <div style="max-width:1100px;margin:0 auto;padding:0 20px">
+    <div><strong style="color:#ccdbe8">World Airport Database since 2008</strong> based on open data from <a href="https://ourairports.com/" target="_blank" style="color:#2ca4dc">OurAirports</a></div>
+    <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+(function(){var m=document.getElementById('cm'),lat=parseFloat(m.dataset.lat),lon=parseFloat(m.dataset.lon),n=m.dataset.name;
+function init(){var L=window.L;
+if(!L||!L.map){setTimeout(init,500);return}
+var map=L.map(m).setView([lat,lon],4);
+L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{attribution:'CARTO',maxZoom:19}).addTo(map);
+L.marker([lat,lon]).addTo(map).bindPopup('<b>'+n+'</b><br>'+lat.toFixed(3)+', '+lon.toFixed(3)).openPopup()}
+var s=document.createElement('script');s.src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';s.onload=init;document.body.appendChild(s)})();
+</script>
+</body>
+</html>

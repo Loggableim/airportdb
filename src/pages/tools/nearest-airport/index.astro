@@ -1,0 +1,214 @@
+---
+const pageTitle = 'Nearest Airport Finder - World Airport Database';
+const pageDesc = 'Find the nearest airports to any location worldwide. Search by coordinates or city name.';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc}>
+  <link rel="canonical" href="https://world-airport-database.com/tools/nearest-airport/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content={pageTitle}>
+  <meta property="og:description" content={pageDesc}>
+  <meta property="og:url" content="https://world-airport-database.com/tools/nearest-airport/">
+  <meta property="og:image" content="https://world-airport-database.com/og-tool.png">
+  <meta property="og:site_name" content="World Airport Database">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content={pageTitle}>
+  <meta name="twitter:description" content={pageDesc}>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body style="font-family:'Open Sans',Arial,sans-serif;background:#F4F7FA;color:#202c39;line-height:1.7;margin:0">
+  <div style="max-width:800px;margin:0 auto;padding:20px">
+
+    <h1 style="font-size:28px;color:#0B1D3A;border-bottom:3px solid #2ca4dc;padding-bottom:10px">&#9992; Nearest Airport Finder</h1>
+    <p style="color:#5A6B7F;font-size:14px;margin:12px 0 20px">Find the closest airports to any location. Enter coordinates or a location name.</p>
+
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px">
+      <div>
+        <label style="display:block;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px">Latitude</label>
+        <input id="lat-input" type="number" step="any" style="width:100%;padding:10px;font-size:14px;border:2px solid #D4E0E8;font-family:'Open Sans',sans-serif" placeholder="e.g. 48.8566">
+      </div>
+      <div>
+        <label style="display:block;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px">Longitude</label>
+        <input id="lon-input" type="number" step="any" style="width:100%;padding:10px;font-size:14px;border:2px solid #D4E0E8;font-family:'Open Sans',sans-serif" placeholder="e.g. 2.3522">
+      </div>
+    </div>
+    <div style="margin-bottom:12px">
+      <label style="display:block;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px">Or enter a location name</label>
+      <select id="city-select" style="width:100%;padding:10px;font-size:14px;border:2px solid #D4E0E8;font-family:'Open Sans',sans-serif">
+        <option value="">Select a major city...</option>
+        <option value="51.5074|-0.1278">London, UK</option>
+        <option value="48.8566|2.3522">Paris, France</option>
+        <option value="40.7128|-74.0060">New York, USA</option>
+        <option value="35.6762|139.6503">Tokyo, Japan</option>
+        <option value="52.5200|13.4050">Berlin, Germany</option>
+        <option value="41.9028|12.4964">Rome, Italy</option>
+        <option value="48.2082|16.3738">Vienna, Austria</option>
+        <option value="50.1109|8.6821">Frankfurt, Germany</option>
+        <option value="55.7558|37.6173">Moscow, Russia</option>
+        <option value="39.9042|116.4074">Beijing, China</option>
+        <option value="25.2048|55.2708">Dubai, UAE</option>
+        <option value="-33.8688|151.2093">Sydney, Australia</option>
+        <option value="19.0760|72.8777">Mumbai, India</option>
+        <option value="1.3521|103.8198">Singapore</option>
+        <option value="37.7749|-122.4194">San Francisco, USA</option>
+        <option value="34.0522|-118.2437">Los Angeles, USA</option>
+      </select>
+    </div>
+    <button onclick="findNearest()" style="display:block;width:100%;padding:14px;background:#2ca4dc;color:#fff;font-size:16px;font-weight:700;border:3px solid #2ca4dc;cursor:pointer;font-family:'Open Sans',sans-serif;margin-bottom:16px">&#128269; Find Nearest Airports</button>
+
+    <div id="loading" style="display:none;text-align:center;padding:30px;color:#5A6B7F">Loading airport data...</div>
+
+    <div id="results" style="display:none">
+      <h3 style="font-size:16px;color:#202c39;margin-bottom:10px;border-bottom:2px solid #2ca4dc;padding-bottom:6px">Nearest 10 Airports</h3>
+      <div id="results-info" style="font-size:13px;color:#5A6B7F;margin-bottom:10px"></div>
+      <table style="width:100%;border-collapse:collapse;background:#fff">
+        <thead>
+          <tr>
+            <th style="background:#0B1D3A;color:#fff;padding:8px 10px;text-align:left;font-size:12px;text-transform:uppercase">#</th>
+            <th style="background:#0B1D3A;color:#fff;padding:8px 10px;text-align:left;font-size:12px;text-transform:uppercase">IATA</th>
+            <th style="background:#0B1D3A;color:#fff;padding:8px 10px;text-align:left;font-size:12px;text-transform:uppercase">Name</th>
+            <th style="background:#0B1D3A;color:#fff;padding:8px 10px;text-align:left;font-size:12px;text-transform:uppercase">City / Country</th>
+            <th style="background:#0B1D3A;color:#fff;padding:8px 10px;text-align:right;font-size:12px;text-transform:uppercase">Distance (km)</th>
+            <th style="background:#0B1D3A;color:#fff;padding:8px 10px;text-align:right;font-size:12px;text-transform:uppercase">Distance (mi)</th>
+          </tr>
+        </thead>
+        <tbody id="results-tbody"></tbody>
+      </table>
+      <div style="margin-top:12px;padding:12px;background:#eef6fb;border:1px solid #2ca4dc;font-size:13px;color:#202c39" id="use-map"></div>
+    </div>
+
+    <div id="error" style="display:none;padding:20px;background:#fff0f0;border:2px solid #e66;margin-top:12px;color:#c33"></div>
+
+    <a href="/" style="display:inline-block;margin-top:30px;color:#2ca4dc;font-weight:600;font-size:14px">&larr; Back to World Airport Database</a>
+  </div>
+
+<script>
+// Haversine formula
+function haversine(lat1, lon1, lat2, lon2) {
+  const R = 6371; // Earth radius in km
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+    Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+    Math.sin(dLon/2) * Math.sin(dLon/2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  return R * c;
+}
+
+let airportsData = null;
+async function loadAirports() {
+  if (airportsData) return airportsData;
+  const res = await fetch('/data/airports.json');
+  airportsData = await res.json();
+  return airportsData;
+}
+
+async function findNearest() {
+  const latEl = document.getElementById('lat-input');
+  const lonEl = document.getElementById('lon-input');
+  const citySelect = document.getElementById('city-select');
+  const resultsDiv = document.getElementById('results');
+  const errorDiv = document.getElementById('error');
+  const loadingDiv = document.getElementById('loading');
+  const tbody = document.getElementById('results-tbody');
+  const info = document.getElementById('results-info');
+  const useMap = document.getElementById('use-map');
+
+  resultsDiv.style.display = 'none';
+  errorDiv.style.display = 'none';
+
+  let lat, lon;
+  if (citySelect.value) {
+    const parts = citySelect.value.split('|');
+    lat = parseFloat(parts[0]);
+    lon = parseFloat(parts[1]);
+    latEl.value = lat;
+    lonEl.value = lon;
+  } else {
+    lat = parseFloat(latEl.value);
+    lon = parseFloat(lonEl.value);
+  }
+
+  if (isNaN(lat) || isNaN(lon)) {
+    errorDiv.textContent = 'Please enter valid latitude and longitude values.';
+    errorDiv.style.display = 'block';
+    return;
+  }
+
+  if (lat < -90 || lat > 90) {
+    errorDiv.textContent = 'Latitude must be between -90 and 90.';
+    errorDiv.style.display = 'block';
+    return;
+  }
+
+  if (lon < -180 || lon > 180) {
+    errorDiv.textContent = 'Longitude must be between -180 and 180.';
+    errorDiv.style.display = 'block';
+    return;
+  }
+
+  loadingDiv.style.display = 'block';
+  try {
+    const data = await loadAirports();
+    loadingDiv.style.display = 'none';
+
+    const withDist = data.map(ap => ({
+      ...ap,
+      d_km: haversine(lat, lon, ap.y, ap.x)
+    }));
+    withDist.sort((a,b) => a.d_km - b.d_km);
+    const top10 = withDist.slice(0, 10);
+
+    const latDir = lat >= 0 ? 'N' : 'S';
+    const lonDir = lon >= 0 ? 'E' : 'W';
+    const cityName = citySelect.options[citySelect.selectedIndex]?.text || '';
+    const locLabel = cityName !== 'Select a major city...' ? cityName : lat.toFixed(3) + '°' + latDir + ', ' + lon.toFixed(3) + '°' + lonDir;
+
+    info.textContent = 'Location: ' + locLabel;
+
+    useMap.innerHTML = '<strong>Open in Maps:</strong> ' +
+      '<a href="https://www.google.com/maps?q=' + lat + ',' + lon + '" target="_blank" style="color:#2ca4dc">Google Maps</a> | ' +
+      '<a href="https://www.openstreetmap.org/?mlat=' + lat + '&mlon=' + lon + '" target="_blank" style="color:#2ca4dc">OpenStreetMap</a>';
+
+    tbody.innerHTML = top10.map((ap, i) => {
+      const mi = (ap.d_km * 0.621371).toFixed(1);
+      const km = ap.d_km.toFixed(1);
+      const rowStyle = i % 2 === 0 ? '' : 'background:#F0F6FC';
+      return '<tr style="' + rowStyle + '">' +
+        '<td style="padding:8px 10px;border:1px solid #D4E0E8;font-size:13px">' + (i+1) + '</td>' +
+        '<td style="padding:8px 10px;border:1px solid #D4E0E8;font-size:13px">' + (ap.i ? '<span style="display:inline-block;background:#2ca4dc;color:#fff;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:700">' + ap.i + '</span>' : '<span style="color:#889">—</span>') + '</td>' +
+        '<td style="padding:8px 10px;border:1px solid #D4E0E8;font-size:13px">' + ap.n + '</td>' +
+        '<td style="padding:8px 10px;border:1px solid #D4E0E8;font-size:13px">' + (ap.m || '—') + ', ' + ap.c + '</td>' +
+        '<td style="padding:8px 10px;border:1px solid #D4E0E8;font-size:13px;text-align:right;font-weight:700;color:#2ca4dc">' + km + '</td>' +
+        '<td style="padding:8px 10px;border:1px solid #D4E0E8;font-size:13px;text-align:right">' + mi + '</td>' +
+        '</tr>';
+    }).join('');
+    resultsDiv.style.display = 'block';
+  } catch(e) {
+    loadingDiv.style.display = 'none';
+    errorDiv.textContent = 'Error loading airport data: ' + e.message;
+    errorDiv.style.display = 'block';
+  }
+}
+
+// Enter key support
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById('lon-input').addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') findNearest();
+  });
+  document.getElementById('lat-input').addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') findNearest();
+  });
+  document.getElementById('city-select').addEventListener('change', function() {
+    if (this.value) findNearest();
+  });
+});
+</script>
+</body>
+</html>

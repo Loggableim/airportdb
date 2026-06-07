@@ -11,6 +11,13 @@ export async function getStaticPaths() {
 
 const { airport } = Astro.props;
 const pageTitle = `${airport.name} (${airport.iata}) - World Airport Database`;
+const pageDesc = `${airport.name} (${airport.iata} / ${airport.icao}) — ${airport.type.replace(/_/g,' ')} in ${airport.municipality || airport.country}, ${airport.country}. Coordinates: ${airport.lat.toFixed(3)}°N, ${airport.lon.toFixed(3)}°E.`;
+const pageUrl = `https://world-airport-database.com/airports/${Astro.params.slug}/`;
+const ogImage = `https://world-airport-database.com/og-airport.png`;
+const continentNames = {NA:'North America',SA:'South America',EU:'Europe',AS:'Asia',AF:'Africa',OC:'Oceania',AN:'Antarctica'};
+const contName = continentNames[airport.continent] || airport.continent;
+const typeLabel = airport.type.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase());
+const isoDate = new Date().toISOString().split('T')[0];
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -18,6 +25,66 @@ const pageTitle = `${airport.name} (${airport.iata}) - World Airport Database`;
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc}>
+  <meta name="keywords" content={`${airport.iata},${airport.icao},${airport.name},${airport.municipality||''},${airport.country},airport code,IATA code,ICAO code,${airport.type.replace(/_/g,' ')}`}>
+  <link rel="canonical" href={pageUrl}>
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="place">
+  <meta property="og:title" content={pageTitle}>
+  <meta property="og:description" content={pageDesc}>
+  <meta property="og:url" content={pageUrl}>
+  <meta property="og:image" content={ogImage}>
+  <meta property="og:site_name" content="World Airport Database">
+  <meta property="og:locale" content="en_US">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content={pageTitle}>
+  <meta name="twitter:description" content={pageDesc}>
+  <meta name="twitter:image" content={ogImage}>
+
+  <!-- JSON-LD Schema -->
+  <script type="application/ld+json">
+  {JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Airport",
+    "name": airport.name,
+    "iataCode": airport.iata,
+    "icaoCode": airport.icao,
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": airport.municipality || undefined,
+      "addressCountry": airport.country
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": airport.lat,
+      "longitude": airport.lon
+    },
+    "elevation": airport.elevation ? airport.elevation + " feet" : undefined,
+    "containedInPlace": {
+      "@type": "Country",
+      "name": airport.country
+    },
+    "url": pageUrl,
+    "description": pageDesc
+  }, null, 2)}
+  </script>
+
+  <!-- BreadcrumbList -->
+  <script type="application/ld+json">
+  {JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem","position":1,"name":"Home","item":"https://world-airport-database.com/"},
+      {"@type": "ListItem","position":2,"name": airport.country,"item": `https://world-airport-database.com/countries/${(airport.country||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')||'unknown'}/`},
+      {"@type": "ListItem","position":3,"name": airport.name + " (" + airport.iata + ")"}
+    ]
+  }, null, 2)}
+  </script>
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
