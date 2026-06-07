@@ -422,14 +422,14 @@ footer .footer-inner>*{margin-bottom:8px}
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
 // ══════════════════════════════════════════════════════════════
-// ║  HERO — AIRPORT GAME (Canvas 2D)                       ║
+// ║  HERO — PROFESSIONAL AIRPORT SCENE                      ║
 // ══════════════════════════════════════════════════════════════
-(function airportGame() {
+(function airportScene() {
   const canvas = document.getElementById('hero-canvas');
   const hero = document.getElementById('hero');
   const ctx = canvas.getContext('2d');
   let W, H;
-  
+
   function resize() {
     const rect = hero.getBoundingClientRect();
     W = canvas.width = rect.width || hero.offsetWidth;
@@ -438,330 +438,519 @@ footer .footer-inner>*{margin-bottom:8px}
   resize();
   window.addEventListener('resize', resize);
 
-  // ── Stars ──
-  const stars = [];
-  for (let i = 0; i < 80; i++) {
-    stars.push({
-      x: Math.random(), y: Math.random(),
-      r: Math.random() * 1.5 + 0.3,
-      speed: Math.random() * 0.02 + 0.003,
-      phase: Math.random() * Math.PI * 2
-    });
-  }
+  // ── Scene constants ──
+  const HORIZON = 0.38;  // horizon at 38% from top
 
-  // ── Runway geometry (perspective: wider at bottom, narrow at top) ──
-  function getRunwayPath() {
-    const cx = W / 2; // center
-    const botY = H * 0.85; // near end
-    const topY = H * 0.3; // far end (horizon)
-    const botW = W * 0.45; // width at near end
-    const topW = W * 0.06; // width at far end
+  // ── Perspective helpers ──
+  function scene() {
+    const cx = W / 2;
+    const horizonY = H * HORIZON;
+    const botY = H * 0.88;
+    // Runway
+    const rwyBotW = W * 0.40;
+    const rwyTopW = W * 0.04;
     return {
-      cx, botY, topY, botW, topW,
-      // Runway center line (vanishing point at horizon center)
-      leftBot: cx - botW/2, leftTop: cx - topW/2,
-      rightBot: cx + botW/2, rightTop: cx + topW/2
+      cx, horizonY, botY,
+      rwyLeftBot: cx - rwyBotW/2,
+      rwyLeftTop: cx - rwyTopW/2,
+      rwyRightBot: cx + rwyBotW/2,
+      rwyRightTop: cx + rwyTopW/2,
+      rwyBotW, rwyTopW
     };
   }
 
-  // ── Tower position ──
-  function getTowerPos() {
-    // Right side of runway, halfway up
-    const cx = W / 2;
-    const rw = getRunwayPath();
-    return { x: rw.rightBot + 15, y: rw.botY * 0.7 };
+  // Interpolate along runway centerline: t=0 at horizon, t=1 at bottom
+  function rwyPos(s, t) {
+    const leftX = s.rwyLeftTop + (s.rwyLeftBot - s.rwyLeftTop) * t;
+    const rightX = s.rwyRightTop + (s.rwyRightBot - s.rwyRightTop) * t;
+    const y = s.horizonY + (s.botY - s.horizonY) * t;
+    const scale = t; // 0..1 perspective scale
+    return { x: (leftX + rightX) / 2, leftX, rightX, y, scale };
   }
 
-  // ── Draw runway ──
-  function drawRunway(rp, lightsOn) {
-    // Runway surface (dark gray with perspective gradient)
-    ctx.beginPath();
-    ctx.moveTo(rp.leftBot, rp.botY);
-    ctx.lineTo(rp.leftTop, rp.topY);
-    ctx.lineTo(rp.rightTop, rp.topY);
-    ctx.lineTo(rp.rightBot, rp.botY);
-    ctx.closePath();
-    const grad = ctx.createLinearGradient(0, rp.topY, 0, rp.botY);
+  // ── Draw sky ──
+  function drawSky() {
+    const grad = ctx.createLinearGradient(0, 0, 0, H * HORIZON);
+    grad.addColorStop(0, '#060d1a');
+    grad.addColorStop(0.4, '#0a1628');
+    grad.addColorStop(0.7, '#0d1f36');
+    grad.addColorStop(1, '#162a45');
+    ctx.fillStyle = grad;
+    ctx.fillRect(0, 0, W, H * HORIZON + 10);
+  }
+
+  // ── City glow on horizon ──
+  function drawCityGlow() {
+    const grad = ctx.createRadialGradient(W/2, H * HORIZON, 0, W/2, H * HORIZON, W * 0.5);
+    grad.addColorStop(0, 'rgba(200,170,120,0.12)');
+    grad.addColorStop(0.4, 'rgba(200,170,120,0.05)');
+    grad.addColorStop(1, 'rgba(200,170,120,0)');
+    ctx.fillStyle = grad;
+    ctx.fillRect(0, H * HORIZON - 60, W, 120);
+  }
+
+  // ── Stars ──
+  const stars = [];
+  for (let i = 0; i < 60; i++) {
+    stars.push({
+      x: Math.random(), y: Math.random() * 0.35,
+      r: Math.random() * 1.2 + 0.3,
+      base: Math.random() * 0.5 + 0.5,
+      speed: 0.2 + Math.random() * 0.5
+    });
+  }
+  function drawStars(time) {
+    stars.forEach(s => {
+      const bright = s.base + 0.3 * Math.sin(time * s.speed + s.x * 10);
+      ctx.beginPath();
+      ctx.arc(s.x * W, s.y * H, s.r, 0, Math.PI * 2);
+      ctx.fillStyle = `rgba(200,220,255,${bright * 0.6})`;
+      ctx.fill();
+    });
+  }
+
+  // ── Ground ──
+  function drawGround() {
+    const grad = ctx.createLinearGradient(0, H * HORIZON, 0, H);
+    grad.addColorStop(0, '#1a2a3a');
+    grad.addColorStop(0.3, '#1e2e3e');
+    grad.addColorStop(1, '#16222e');
+    ctx.fillStyle = grad;
+    ctx.fillRect(0, H * HORIZON, W, H - H * HORIZON);
+  }
+
+  // ── Runway ──
+  function drawRunway(s, time) {
+    // Runway surface
+    const grad = ctx.createLinearGradient(0, s.horizonY, 0, s.botY);
     grad.addColorStop(0, '#2a2a3a');
-    grad.addColorStop(0.3, '#3a3a4a');
-    grad.addColorStop(1, '#4a4a5a');
+    grad.addColorStop(0.5, '#3a3a4a');
+    grad.addColorStop(1, '#4a4a54');
+    ctx.beginPath();
+    ctx.moveTo(s.rwyLeftBot, s.botY);
+    ctx.lineTo(s.rwyLeftTop, s.horizonY);
+    ctx.lineTo(s.rwyRightTop, s.horizonY);
+    ctx.lineTo(s.rwyRightBot, s.botY);
+    ctx.closePath();
     ctx.fillStyle = grad;
     ctx.fill();
     ctx.strokeStyle = '#555';
-    ctx.lineWidth = 1.5;
+    ctx.lineWidth = 1;
     ctx.stroke();
 
-    // Runway center line (dashed, perspective)
-    ctx.strokeStyle = '#fff';
-    ctx.lineWidth = 2;
-    ctx.setLineDash([8, 12]);
-    ctx.beginPath();
-    ctx.moveTo(rp.cx, rp.topY);
-    ctx.lineTo(rp.cx, rp.botY);
-    ctx.stroke();
+    // Centerline dashes
+    ctx.strokeStyle = 'rgba(255,255,255,0.7)';
+    ctx.lineWidth = 1.5;
+    for (let i = 0; i < 25; i++) {
+      const t = (i + 0.5) / 25;
+      const pos = rwyPos(s, t);
+      const dashLen = 0.02 * W * t;
+      const gapLen = 0.03 * W * t;
+      ctx.setLineDash([dashLen, gapLen]);
+      ctx.beginPath();
+      ctx.moveTo(pos.x, pos.y - dashLen * 0.5);
+      ctx.lineTo(pos.x, pos.y + dashLen * 0.5);
+      ctx.stroke();
+    }
     ctx.setLineDash([]);
 
-    // Runway edge lights (yellow dots)
-    const nLights = 30;
-    for (let i = 0; i < nLights; i++) {
-      const t = i / nLights;
-      const leftX = rp.leftBot + (rp.leftTop - rp.leftBot) * t;
-      const rightX = rp.rightBot + (rp.rightTop - rp.rightBot) * t;
-      const y = rp.botY + (rp.topY - rp.botY) * t;
-      // Left row
+    // Edge lights (flashing yellow)
+    const flashPhase = Math.floor(time / 0.5) % 2;
+    for (let i = 0; i < 30; i++) {
+      const t = i / 30;
+      const leftX = s.rwyLeftBot + (s.rwyLeftTop - s.rwyLeftBot) * t;
+      const rightX = s.rwyRightBot + (s.rwyRightTop - s.rwyRightBot) * t;
+      const y = s.botY + (s.horizonY - s.botY) * t;
+      const r = 1.5 + t * 0.8;
+      // Left edge
       ctx.beginPath();
-      ctx.arc(leftX, y, 2 + t * 0.5, 0, Math.PI * 2);
-      ctx.fillStyle = lightsOn ? '#FFA500' : '#884400';
-      ctx.shadowBlur = lightsOn ? 6 : 0;
-      ctx.shadowColor = '#FFA500';
+      ctx.arc(leftX, y, r, 0, Math.PI * 2);
+      ctx.fillStyle = flashPhase ? '#FF8C00' : '#884400';
+      ctx.shadowBlur = flashPhase ? 4 : 0;
+      ctx.shadowColor = '#FF8C00';
       ctx.fill();
-      // Right row
+      // Right edge
       ctx.beginPath();
-      ctx.arc(rightX, y, 2 + t * 0.5, 0, Math.PI * 2);
+      ctx.arc(rightX, y, r, 0, Math.PI * 2);
       ctx.fill();
     }
     ctx.shadowBlur = 0;
 
-    // Threshold lights (green at near end)
-    for (let i = 0; i < 10; i++) {
-      const x = rp.leftBot + (rp.rightBot - rp.leftBot) * (i / 10);
+    // Threshold lights (green strip at near end)
+    for (let i = 0; i < 12; i++) {
+      const x = s.rwyLeftBot + (s.rwyRightBot - s.rwyLeftBot) * (i / 11);
       ctx.beginPath();
-      ctx.arc(x, rp.botY - 2, 2.5, 0, Math.PI * 2);
+      ctx.arc(x, s.botY - 3, 2.5, 0, Math.PI * 2);
       ctx.fillStyle = '#00FF66';
-      ctx.shadowBlur = 5;
+      ctx.shadowBlur = 6;
       ctx.shadowColor = '#00FF66';
+      ctx.fill();
+    }
+    ctx.shadowBlur = 0;
+
+    // PAPI lights (left of runway, 4 lights)
+    const papiX = s.rwyLeftBot - 15;
+    for (let i = 0; i < 4; i++) {
+      const y = s.botY - 10 - i * 4;
+      const isRed = time * 2 % 1 > (i * 0.18);
+      ctx.beginPath();
+      ctx.arc(papiX, y, 2.5, 0, Math.PI * 2);
+      ctx.fillStyle = isRed ? '#FF3333' : '#FFFFFF';
+      ctx.shadowBlur = 8;
+      ctx.shadowColor = isRed ? '#FF3333' : '#FFFFFF';
       ctx.fill();
     }
     ctx.shadowBlur = 0;
   }
 
   // ── Taxiway ──
-  function drawTaxiway(rp) {
-    // Parallel taxiway left of runway
-    const lx = rp.leftBot - W * 0.12;
-    const rx = rp.leftBot - W * 0.08;
+  function drawTaxiway(s) {
+    // Left parallel taxiway
+    const leftEdge = s.rwyLeftBot - W * 0.12;
+    const rightEdge = s.rwyLeftBot - W * 0.07;
     ctx.beginPath();
-    ctx.moveTo(lx, rp.botY);
-    ctx.lineTo(rp.leftTop - W * 0.06, rp.topY);
-    ctx.lineTo(rp.leftTop - W * 0.04, rp.topY);
-    ctx.lineTo(rp.leftBot - W * 0.06, rp.botY);
+    ctx.moveTo(leftEdge, s.botY);
+    ctx.lineTo(s.rwyLeftTop - W * 0.06, s.horizonY);
+    ctx.lineTo(s.rwyLeftTop - W * 0.04, s.horizonY);
+    ctx.lineTo(leftEdge + W * 0.04, s.botY);
     ctx.closePath();
-    ctx.fillStyle = '#2a2a3a';
+    ctx.fillStyle = '#2a2a38';
     ctx.fill();
-    ctx.strokeStyle = '#444';
+    ctx.strokeStyle = '#3a3a48';
     ctx.lineWidth = 1;
     ctx.stroke();
+
+    // Center line (yellow)
+    ctx.strokeStyle = '#CCAA00';
+    ctx.lineWidth = 1;
+    ctx.setLineDash([4, 8]);
+    const cxl = s.rwyLeftBot - W * 0.095;
+    const cxr = s.rwyLeftTop - W * 0.05;
+    ctx.beginPath();
+    ctx.moveTo(cxl, s.botY);
+    ctx.lineTo(cxr, s.horizonY);
+    ctx.stroke();
+    ctx.setLineDash([]);
+
+    // Cross taxiway (connecting runway to taxiway)
+    ctx.strokeStyle = '#CCAA00';
+    ctx.lineWidth = 1.5;
+    ctx.setLineDash([3, 6]);
+    // Horizontal connector at ~60% down
+    const connT = 0.55;
+    const connY = s.horizonY + (s.botY - s.horizonY) * connT;
+    const connLeft = s.rwyLeftBot + (s.rwyLeftTop - s.rwyLeftBot) * connT;
+    ctx.beginPath();
+    ctx.moveTo(connLeft - W * 0.08, connY);
+    ctx.lineTo(connLeft + W * 0.02, connY);
+    ctx.stroke();
+    ctx.setLineDash([]);
   }
 
-  // ── Draw tower ──
-  function drawTower(lightOn) {
-    const tp = getTowerPos();
-    const s = Math.min(W, 1000) / 1000;
-    // Base
-    ctx.fillStyle = '#1a2a3a';
-    ctx.fillRect(tp.x - 8 * s, tp.y + 10 * s, 16 * s, -40 * s);
-    // Top platform
+  // ── Terminal ──
+  function drawTerminal(s) {
+    // Main terminal building (left of runway, between connector and bottom)
+    const t = 0.65;
+    const pos = rwyPos(s, t);
+    const tx = pos.leftX - W * 0.25;
+    const ty = pos.y;
+    const tw = W * 0.18;
+    const th = W * 0.04 * t;
+    const scl = Math.min(W, 1000) / 1000;
+
+    // Building body
+    ctx.fillStyle = '#1e2e3e';
+    ctx.fillRect(tx, ty - th, tw, th);
+
+    // Roof
     ctx.fillStyle = '#2a3a4a';
-    ctx.fillRect(tp.x - 12 * s, tp.y - 28 * s, 24 * s, 4 * s);
-    // Antenna
-    ctx.strokeStyle = '#666';
-    ctx.lineWidth = 1.5 * s;
+    ctx.fillRect(tx - 2, ty - th - 3, tw + 4, 4);
+
+    // Windows (warm lit)
+    for (let row = 0; row < 3; row++) {
+      for (let col = 0; col < 8; col++) {
+        const wx = tx + 6 + col * (tw - 10) / 8;
+        const wy = ty - th + 4 + row * (th - 6) / 3;
+        ctx.fillStyle = Math.sin(time * 1.5 + col + row) > 0 ? '#FFE8A0' : '#886633';
+        ctx.fillRect(wx, wy, 4, 3);
+      }
+    }
+
+    // Jet bridge
+    ctx.fillStyle = '#3a4a5a';
+    ctx.fillRect(tx + tw, ty - th * 0.5, W * 0.04, 3);
+
+    // Apron lights
+    for (let i = 0; i < 5; i++) {
+      const ax = tx + tw + W * 0.02 + i * W * 0.015;
+      ctx.beginPath();
+      ctx.arc(ax, ty - th * 0.5 - 5, 1.5, 0, Math.PI * 2);
+      ctx.fillStyle = '#FFDD88';
+      ctx.fill();
+    }
+  }
+
+  let time = 0;
+
+  // ── Control tower ──
+  function drawTower(s) {
+    const pos = rwyPos(s, 0.4);
+    const tx = pos.rightX + W * 0.04;
+    const ty = pos.y;
+    const scl = Math.min(W, 1000) / 1000;
+
+    // Tower shaft
+    ctx.fillStyle = '#1a2a3a';
+    ctx.fillRect(tx - 5 * scl, ty - 60 * scl, 10 * scl, 60 * scl);
+
+    // Cab (glass top)
+    ctx.fillStyle = '#2a3a4a';
+    ctx.fillRect(tx - 8 * scl, ty - 70 * scl, 16 * scl, 12 * scl);
+
+    // Glass windows in cab
+    ctx.fillStyle = 'rgba(100,180,255,0.2)';
+    ctx.fillRect(tx - 6 * scl, ty - 68 * scl, 12 * scl, 8 * scl);
+
+    // Radar dish (rotating)
+    const angle = time * 0.6;
+    ctx.save();
+    ctx.translate(tx, ty - 74 * scl);
+    ctx.rotate(angle);
+    ctx.strokeStyle = '#555';
+    ctx.lineWidth = 1.5;
     ctx.beginPath();
-    ctx.moveTo(tp.x, tp.y - 28 * s);
-    ctx.lineTo(tp.x, tp.y - 40 * s);
+    ctx.lineTo(0, 0);
+    ctx.lineTo(10 * scl, 0);
     ctx.stroke();
-    // Blinking red light
     ctx.beginPath();
-    ctx.arc(tp.x, tp.y - 40 * s, 3 * s, 0, Math.PI * 2);
-    ctx.shadowBlur = lightOn ? 15 : 0;
-    ctx.shadowColor = '#FF0000';
-    ctx.fillStyle = lightOn ? '#FF0000' : '#880000';
+    ctx.arc(10 * scl, 0, 2, 0, Math.PI * 2);
+    ctx.fillStyle = '#888';
+    ctx.fill();
+    ctx.restore();
+
+    // Beacon light (red flash)
+    const beacon = Math.floor(time * 2) % 2;
+    ctx.beginPath();
+    ctx.arc(tx, ty - 74 * scl, 3 * scl, 0, Math.PI * 2);
+    ctx.fillStyle = beacon ? '#FF2222' : '#880000';
+    ctx.shadowBlur = beacon ? 12 : 0;
+    ctx.shadowColor = '#FF2222';
     ctx.fill();
     ctx.shadowBlur = 0;
   }
 
-  // ── Terminal building ──
-  function drawTerminal(rp) {
-    const tx = rp.leftBot - W * 0.2;
-    const s = Math.min(W, 1000) / 1000;
-    // Main building
-    ctx.fillStyle = '#1a2a3a';
-    ctx.fillRect(tx, rp.botY - 30 * s, 40 * s, 25 * s);
-    // Roof
-    ctx.fillStyle = '#2a3a4a';
-    ctx.fillRect(tx - 2 * s, rp.botY - 33 * s, 44 * s, 5 * s);
-    // Windows (lit)
-    ctx.fillStyle = '#FFE4A0';
-    for (let i = 0; i < 6; i++) {
-      const wx = tx + 4 * s + i * 6 * s;
-      const wy = rp.botY - 26 * s + (i % 2) * 10 * s;
-      ctx.fillRect(wx, wy, 3 * s, 5 * s);
+  // ── Aircraft ──
+  function createAircraft(type) {
+    const s = scene();
+    const base = {
+      type: type || 'arrival',
+      progress: 0,
+      speed: 0.3 + Math.random() * 0.15,
+      alive: true,
+      timer: 0,
+      color: ['#e8e8f0', '#f0e8d0', '#d0e8f0', '#e0d8d0', '#f0f0f8'][Math.floor(Math.random() * 5)]
+    };
+
+    if (type === 'departure') {
+      // Starts at terminal, taxis to runway, takes off
+      return { ...base, type: 'departure', phase: 'taxi', progress: 0, runwayOffset: (Math.random() - 0.5) * 3 };
+    } else {
+      // Arrival: comes from sky, lines up, lands, taxis off
+      return { ...base, type: 'arrival', progress: 0 };
     }
   }
 
-  // ── Draw airplane (detailed game-style) ──
-  function drawPlane(x, y, scale, angle, color, lights) {
+  function getAircraftPos(ac) {
+    const s = scene();
+    const rp = s;
+
+    if (ac.type === 'departure') {
+      const totalProgress = ac.progress;
+      if (totalProgress < 0.3) {
+        // Taxi from terminal to runway hold
+        const t = totalProgress / 0.3;
+        const taxiX = rp.rwyLeftBot - W * 0.10 - W * 0.08 * (1 - t);
+        const pos = rwyPos(s, 0.65 + t * 0.2);
+        return { x: taxiX, y: pos.y, scale: 0.6 + t * 0.3, angle: 0, phase: 'taxi' };
+      } else if (totalProgress < 0.4) {
+        // Hold short
+        return { x: rp.cx + ac.runwayOffset, y: rp.botY - 8, scale: 0.9, angle: 0, phase: 'hold' };
+      } else if (totalProgress < 0.7) {
+        // Takeoff roll
+        const t = (totalProgress - 0.4) / 0.3;
+        const pos = rwyPos(s, 1 - t * 0.6);
+        const speedEffect = 0.5 + t * 0.5;
+        return { x: pos.x + ac.runwayOffset * (1 - t), y: pos.y, scale: 0.6 + 0.3 * t, angle: -t * 0.08, phase: 'roll' };
+      } else {
+        // Climb out
+        const t = (totalProgress - 0.7) / 0.3;
+        const pos = rwyPos(s, 0.4 - t * 0.3);
+        const climbX = pos.x + t * W * 0.1;
+        const climbY = pos.y - t * H * 0.15;
+        return { x: climbX, y: climbY, scale: 0.5 * (1 - t * 0.4), angle: -0.15 - t * 0.1, phase: 'climb' };
+      }
+    } else {
+      // Arrival
+      if (ac.progress < 0.2) {
+        // High approach
+        const t = ac.progress / 0.2;
+        const pos = rwyPos(s, 0.2 + t * 0.2);
+        const approachX = pos.x + (0.5 - t) * W * 0.15;
+        const approachY = pos.y - H * 0.15 * (1 - t);
+        return { x: approachX, y: approachY, scale: 0.2 + t * 0.3, angle: -0.12 + t * 0.06, phase: 'approach' };
+      } else if (ac.progress < 0.5) {
+        // Final approach
+        const t = (ac.progress - 0.2) / 0.3;
+        const pos = rwyPos(s, 0.4 + t * 0.3);
+        return { x: pos.x, y: pos.y - H * 0.02 * (1 - t), scale: 0.5 + t * 0.4, angle: -0.06 + t * 0.04, phase: 'final' };
+      } else if (ac.progress < 0.7) {
+        // Flare and touchdown
+        const t = (ac.progress - 0.5) / 0.2;
+        const pos = rwyPos(s, 0.7 + t * 0.2);
+        return { x: pos.x, y: pos.y, scale: 0.9 + t * 0.1, angle: t * 0.02, phase: 'touchdown' };
+      } else {
+        // Decelerate and turn off
+        const t = (ac.progress - 0.7) / 0.3;
+        const pos = rwyPos(s, 0.9 + t * 0.1);
+        const exitX = pos.x - W * 0.06 * t;
+        return { x: exitX, y: pos.y, scale: 1.0 - t * 0.1, angle: t * 0.1, phase: 'exit' };
+      }
+    }
+  }
+
+  function drawAircraft(x, y, scale, angle, color, lightsOn) {
     ctx.save();
     ctx.translate(x, y);
     ctx.rotate(angle);
     ctx.scale(scale, scale);
-    
-    // Shadow/glow
-    ctx.shadowColor = 'rgba(255,255,255,0.15)';
-    ctx.shadowBlur = 10;
+    const s = Math.min(W, 1000) / 1000;
+
+    // Glow
+    ctx.shadowColor = 'rgba(255,255,255,0.1)';
+    ctx.shadowBlur = 8;
 
     // Fuselage
     ctx.beginPath();
-    ctx.moveTo(16, 0);
-    ctx.lineTo(-14, -4);
-    ctx.lineTo(-14, 4);
+    ctx.moveTo(18 * s, 0);
+    ctx.quadraticCurveTo(8 * s, -6 * s, -16 * s, -5 * s);
+    ctx.lineTo(-16 * s, 5 * s);
+    ctx.quadraticCurveTo(8 * s, 6 * s, 18 * s, 0);
     ctx.closePath();
     ctx.fillStyle = color;
     ctx.fill();
-    ctx.strokeStyle = 'rgba(255,255,255,0.3)';
+    ctx.strokeStyle = 'rgba(255,255,255,0.1)';
     ctx.lineWidth = 0.5;
     ctx.stroke();
 
-    // Wings (upper)
+    // Wings
     ctx.beginPath();
-    ctx.moveTo(4, -1);
-    ctx.lineTo(-4, -10);
-    ctx.lineTo(-10, -10);
-    ctx.lineTo(-6, -1);
+    ctx.moveTo(6 * s, -1 * s);
+    ctx.lineTo(-4 * s, -12 * s);
+    ctx.lineTo(-8 * s, -12 * s);
+    ctx.lineTo(-2 * s, -1 * s);
     ctx.closePath();
     ctx.fillStyle = color;
     ctx.fill();
-    ctx.stroke();
-
-    // Wings (lower)
     ctx.beginPath();
-    ctx.moveTo(4, 1);
-    ctx.lineTo(-4, 10);
-    ctx.lineTo(-10, 10);
-    ctx.lineTo(-6, 1);
+    ctx.moveTo(6 * s, 1 * s);
+    ctx.lineTo(-4 * s, 12 * s);
+    ctx.lineTo(-8 * s, 12 * s);
+    ctx.lineTo(-2 * s, 1 * s);
     ctx.closePath();
     ctx.fill();
-    ctx.stroke();
 
-    // Tail (upper)
+    // Tail
     ctx.beginPath();
-    ctx.moveTo(-10, 0);
-    ctx.lineTo(-16, -6);
-    ctx.lineTo(-18, -6);
-    ctx.lineTo(-12, 0);
+    ctx.moveTo(-12 * s, 0);
+    ctx.lineTo(-18 * s, -7 * s);
+    ctx.lineTo(-20 * s, -7 * s);
+    ctx.lineTo(-14 * s, 0);
     ctx.closePath();
     ctx.fill();
-    // Tail (lower)
     ctx.beginPath();
-    ctx.moveTo(-10, 0);
-    ctx.lineTo(-16, 6);
-    ctx.lineTo(-18, 6);
-    ctx.lineTo(-12, 0);
+    ctx.moveTo(-12 * s, 0);
+    ctx.lineTo(-18 * s, 7 * s);
+    ctx.lineTo(-20 * s, 7 * s);
+    ctx.lineTo(-14 * s, 0);
     ctx.closePath();
     ctx.fill();
 
     // Cockpit window
     ctx.beginPath();
-    ctx.moveTo(12, 0);
-    ctx.lineTo(6, -2);
-    ctx.lineTo(6, 2);
+    ctx.moveTo(14 * s, 0);
+    ctx.quadraticCurveTo(10 * s, -2 * s, 7 * s, -2 * s);
+    ctx.lineTo(7 * s, 2 * s);
+    ctx.quadraticCurveTo(10 * s, 2 * s, 14 * s, 0);
     ctx.closePath();
-    ctx.fillStyle = 'rgba(200,230,255,0.5)';
+    ctx.fillStyle = 'rgba(150,200,230,0.4)';
     ctx.fill();
 
-    // Wing lights (navigation)
-    if (lights) {
-      // Red left, green right
+    // Navigation lights (blinking)
+    if (lightsOn) {
       ctx.shadowBlur = 0;
+      // Red left
       ctx.beginPath();
-      ctx.arc(-6, -10, 1.5, 0, Math.PI * 2);
-      ctx.fillStyle = '#FF0000';
+      ctx.arc(-4 * s, -12 * s, 2 * s, 0, Math.PI * 2);
+      ctx.fillStyle = '#FF3333';
+      ctx.shadowBlur = 6;
+      ctx.shadowColor = '#FF3333';
       ctx.fill();
+      // Green right
       ctx.beginPath();
-      ctx.arc(-6, 10, 1.5, 0, Math.PI * 2);
-      ctx.fillStyle = '#00FF00';
+      ctx.arc(-4 * s, 12 * s, 2 * s, 0, Math.PI * 2);
+      ctx.fillStyle = '#33FF33';
+      ctx.shadowColor = '#33FF33';
+      ctx.fill();
+      // White tail strobe
+      ctx.beginPath();
+      ctx.arc(-18 * s, 0, 1.5 * s, 0, Math.PI * 2);
+      ctx.fillStyle = '#FFFFFF';
+      ctx.shadowColor = '#FFFFFF';
       ctx.fill();
     }
-
     ctx.shadowBlur = 0;
     ctx.restore();
   }
 
-  // ── Planes ──
-  const PLANE_COLORS = ['#e8e8f0', '#f0e8d0', '#d0e8f0', '#f0d8d8', '#d8f0d8'];
-  
-  function createPlane() {
-    const rw = getRunwayPath();
-    const types = ['takeoff', 'landing', 'taxi', 'circling'];
-    const type = types[Math.floor(Math.random() * types.length)];
-    
-    let x, y, angle, speed, progress;
-    
-    switch (type) {
-      case 'takeoff':
-        // Start at bottom of runway, accelerate up
-        progress = Math.random() * 0.4;
-        x = rw.cx + (Math.random() - 0.5) * 4;
-        y = rw.botY - progress * (rw.botY - rw.topY);
-        angle = 0;
-        speed = 0.003 + Math.random() * 0.003;
-        break;
-      case 'landing':
-        // Approach from top
-        progress = Math.random() * 0.5;
-        x = rw.cx + (Math.random() - 0.5) * 6;
-        y = rw.topY + progress * (rw.botY - rw.topY);
-        angle = 0.03;
-        speed = 0.004 + Math.random() * 0.003;
-        break;
-      case 'taxi':
-        // On taxiway
-        progress = Math.random();
-        const twX = rw.leftBot - W * 0.10;
-        x = twX + (Math.random() - 0.5) * 10;
-        y = rw.botY * 0.5 + Math.random() * rw.botY * 0.3;
-        angle = 0;
-        speed = 0.001 + Math.random() * 0.002;
-        break;
-      default: // circling
-        progress = Math.random();
-        const cx = rw.cx + W * 0.25;
-        const cy = rw.topY - H * 0.15;
-        const rad = 80 + Math.random() * 40;
-        angle = progress * Math.PI * 2;
-        x = cx + Math.cos(angle) * rad;
-        y = cy + Math.sin(angle * 1.5) * rad * 0.5;
-        speed = 0.002 + Math.random() * 0.002;
+  // ── Ground fog ──
+  function drawFog(time) {
+    const grad = ctx.createLinearGradient(0, H * 0.75, 0, H);
+    grad.addColorStop(0, 'rgba(6,13,26,0)');
+    grad.addColorStop(0.3, 'rgba(6,13,26,0.15)');
+    grad.addColorStop(1, 'rgba(6,13,26,0.3)');
+    ctx.fillStyle = grad;
+    ctx.fillRect(0, H * 0.75, W, H * 0.25);
+
+    // Drifting mist
+    for (let i = 0; i < 3; i++) {
+      const mx = ((time * 15 + i * 200) % 400 - 100) / 100 * W;
+      const my = H * (0.78 + i * 0.04);
+      const grad2 = ctx.createRadialGradient(mx, my, 0, mx, my, W * 0.2);
+      grad2.addColorStop(0, 'rgba(180,200,220,0.03)');
+      grad2.addColorStop(1, 'rgba(180,200,220,0)');
+      ctx.fillStyle = grad2;
+      ctx.fillRect(mx - W * 0.2, my - 20, W * 0.4, 40);
     }
-    
-    return {
-      type, x, y, angle, speed,
-      progress: progress || 0,
-      color: PLANE_COLORS[Math.floor(Math.random() * PLANE_COLORS.length)],
-      alive: true,
-      scale: 0.8 + Math.random() * 0.4,
-      timer: 0
-    };
   }
 
-  // ── Game loop state ──
-  let planes = [];
-  // Spawn initial planes
-  for (let i = 0; i < 4; i++) {
-    const p = createPlane();
-    p.progress = i * 0.25;
-    planes.push(p);
+  // ── Main loop ──
+  let aircraft = [];
+  // Spawn initial aircraft
+  for (let i = 0; i < 3; i++) {
+    const ac = createAircraft(i === 0 ? 'departure' : 'arrival');
+    ac.progress = i * 0.15;
+    aircraft.push(ac);
   }
+
   let frameId = null;
   let active = true;
 
-  // ── Visibility pause ──
   const observer = new IntersectionObserver((entries) => {
     active = entries[0].isIntersecting;
     if (!active && frameId) {
       cancelAnimationFrame(frameId);
       frameId = null;
-    } else if (active) {
+    } else if (active && !frameId) {
       frame();
     }
   }, { threshold: 0.1 });
@@ -769,108 +958,75 @@ footer .footer-inner>*{margin-bottom:8px}
 
   function frame() {
     if (!active) { frameId = null; return; }
+    const s = scene();
 
-    const lightsOn = Math.floor(Date.now() / 400) % 2 === 0;
-    const towerLight = Math.floor(Date.now() / 800) % 2 === 0;
-    const rp = getRunwayPath();
-
-    // Semi-transparent clear for motion blur
-    ctx.fillStyle = 'rgba(6,13,26,0.08)';
+    // Clear
+    ctx.fillStyle = '#060d1a';
     ctx.fillRect(0, 0, W, H);
 
-    // Stars
-    stars.forEach(s => {
-      const t = Math.sin(Date.now() * s.speed + s.phase) * 0.3 + 0.7;
-      ctx.beginPath();
-      ctx.arc(s.x * W, s.y * H, s.r * t, 0, Math.PI * 2);
-      ctx.fillStyle = `rgba(200,220,255,${t * 0.7})`;
-      ctx.fill();
-    });
+    // Background layers
+    drawSky();
+    drawCityGlow();
+    drawStars(time);
+    drawGround();
+    drawTaxiway(s);
+    drawRunway(s, time);
+    drawTerminal(s);
+    drawTower(s);
 
-    // Ground fog effect
-    ctx.fillStyle = 'rgba(6,13,26,0.3)';
-    ctx.fillRect(0, H * 0.75, W, H * 0.25);
+    // Update and draw aircraft
+    aircraft = aircraft.filter(ac => ac.alive);
 
-    // Draw static elements
-    drawTaxiway(rp);
-    drawRunway(rp, lightsOn);
-    drawTerminal(rp);
-    drawTower(towerLight);
-
-    // Update and draw planes
-    planes = planes.filter(p => p.alive);
-
-    if (planes.length < 3 && Math.random() < 0.01) {
-      planes.push(createPlane());
+    // Spawn logic — steady, realistic intervals
+    if (aircraft.length < 3 && Math.random() < 0.008) {
+      aircraft.push(createAircraft(Math.random() > 0.5 ? 'arrival' : 'departure'));
     }
 
-    planes.forEach(p => {
-      p.timer++;
-      let x, y, angle;
+    aircraft.forEach(ac => {
+      ac.progress += ac.speed * 0.008;
+      ac.timer++;
 
-      switch (p.type) {
-        case 'takeoff': {
-          // Accelerate up runway
-          p.progress += p.speed;
-          if (p.progress > 1.2) { p.progress = 0; p.timer = 0; }
-          const nt = Math.min(p.progress, 1);
-          y = rp.botY - nt * (rp.botY - rp.topY);
-          const lateralOffset = Math.sin(p.timer * 0.5) * 1.5;
-          x = rp.cx + lateralOffset;
-          angle = -0.05 * Math.sin(p.timer * 0.3);
-          // Lift off past 70%
-          if (nt > 0.7) {
-            p.scale *= 0.998;
-            angle = -0.15 - (nt - 0.7) * 0.5;
-            x += (nt - 0.7) * 20 * (p.x > rp.cx ? 1 : -1);
-          }
-          break;
-        }
-        case 'landing': {
-          p.progress += p.speed;
-          if (p.progress > 1.3) { p.progress = -0.3; p.timer = 0; }
-          const lt = Math.max(p.progress, 0);
-          y = rp.topY + lt * (rp.botY - rp.topY);
-          x = rp.cx + (Math.random() - 0.5) * 6 * (1 - lt);
-          angle = lt < 0.4 ? -0.12 + lt * 0.3 : 0.02;
-          p.scale = 0.6 + lt * 1.0;
-          break;
-        }
-        case 'taxi': {
-          p.progress += p.speed;
-          if (p.progress > 1) p.progress = 0;
-          const twX = rp.leftBot - W * 0.10;
-          x = twX + Math.sin(p.progress * Math.PI * 2) * 5;
-          y = rp.botY - p.progress * (rp.botY - rp.topY) * 1.1;
-          angle = 0;
-          p.scale = 0.7 + 0.3 * (1 - p.progress);
-          break;
-        }
-        default: { // circling
-          p.progress += p.speed;
-          const cx = rp.cx + W * 0.25;
-          const cy = rp.topY - H * 0.10;
-          const rad = 60 + W * 0.05;
-          const a = p.progress * Math.PI * 2;
-          x = cx + Math.cos(a) * rad;
-          y = cy + Math.sin(a * 1.3) * rad * 0.4;
-          angle = -Math.atan2(Math.sin(a * 1.3) * 0.4, Math.cos(a)) + Math.PI / 2;
-          // Shrink with distance (depth cue)
-          const depthFactor = 0.6 + 0.4 * (1 - (y / rp.botY));
-          p.scale = (0.8 + 0.4 * Math.sin(a * 0.5)) * depthFactor;
-          break;
-        }
+      if (ac.progress >= 1) {
+        ac.alive = false;
+        return;
       }
 
-      drawPlane(x, y, p.scale, angle, p.color, p.timer % 60 < 30);
+      const pos = getAircraftPos(ac);
+      const lightsOn = ac.timer % 40 < 20;
+      drawAircraft(pos.x, pos.y, pos.scale, pos.angle, ac.color, lightsOn);
+
+      // Landing lights (bright cone beneath)
+      if (pos.phase === 'final' || pos.phase === 'touchdown') {
+        const intensity = pos.phase === 'touchdown' ? 0.15 : 0.08;
+        ctx.save();
+        ctx.translate(pos.x, pos.y);
+        const grad = ctx.createRadialGradient(0, 20, 0, 0, 20, 60 * pos.scale);
+        grad.addColorStop(0, `rgba(255,255,200,${intensity})`);
+        grad.addColorStop(1, 'rgba(255,255,200,0)');
+        ctx.fillStyle = grad;
+        ctx.beginPath();
+        ctx.arc(0, 20, 60 * pos.scale, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.restore();
+      }
     });
 
+    // Fog overlay
+    drawFog(time);
+
+    time += 0.016;
     frameId = requestAnimationFrame(frame);
   }
 
-  // Initial fill
-  ctx.fillStyle = '#060d1a';
-  ctx.fillRect(0, 0, W, H);
+  // Initial fill and start
+  const s = scene();
+  drawSky();
+  drawCityGlow();
+  drawGround();
+  drawTaxiway(s);
+  drawRunway(s, 0);
+  drawTerminal(s);
+  drawTower(s);
   frame();
 })();
 
