@@ -38,7 +38,7 @@ table tr:hover td{background:#e3f0f7}
 .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
 .section{padding:60px 0}
 .section-title{font-size:26px;font-weight:700;color:var(--text-dark);padding:0 0 12px;border-bottom:3px solid var(--primary);margin-bottom:24px}
-.hero{background:linear-gradient(135deg,var(--navy) 0%,#142b4f 100%);padding:70px 0 50px;text-align:center;position:relative;overflow:hidden;border-bottom:4px solid var(--primary)}
+.hero{background:linear-gradient(180deg,#060d1a 0%,#0a1628 40%,#0d1f36 100%);padding:70px 0 50px;text-align:center;position:relative;overflow:hidden;border-bottom:4px solid var(--primary);min-height:480px}
 .hero::before{content:'';position:absolute;top:0;left:0;right:0;height:6px;background:repeating-linear-gradient(90deg,var(--primary) 0px,var(--primary) 30px,transparent 30px,transparent 60px)}
 .hero h1{color:#fff;font-size:40px;font-weight:800;letter-spacing:1px;margin-bottom:8px;text-shadow:1px 1px 3px rgba(0,0,0,.3)}
 .hero .subtitle{color:#a0b8cc;font-size:17px;font-weight:600;margin-bottom:30px;letter-spacing:.5px}
@@ -47,10 +47,9 @@ table tr:hover td{background:#e3f0f7}
 .hero-stat{text-align:center}
 .hero-stat .num{font-size:34px;font-weight:800;color:var(--gold)}
 .hero-stat .lbl{font-size:12px;color:#8899aa;text-transform:uppercase;letter-spacing:1px;margin-top:2px}
-.hero-content{position:relative;z-index:3}
+.hero-content{position:relative;z-index:10}
 #hero-canvas{position:absolute;top:0;left:0;width:100%;height:100%;z-index:1;pointer-events:none}
-.stars{position:absolute;top:0;left:0;width:100%;height:100%;overflow:hidden;z-index:0}
-.scroll-indicator{position:absolute;bottom:20px;left:50%;transform:translateX(-50%);color:#667;font-size:12px;letter-spacing:1px;text-transform:uppercase;animation:bounceDown 2s ease-in-out infinite}
+.scroll-indicator{position:absolute;bottom:20px;left:50%;transform:translateX(-50%);color:#667;font-size:12px;letter-spacing:1px;text-transform:uppercase;animation:bounceDown 2s ease-in-out infinite;z-index:10}
 .scroll-indicator::after{content:'\2193';display:block;text-align:center;font-size:18px;margin-top:2px}
 @keyframes bounceDown{0%,100%{opacity:.4;transform:translateX(-50%) translateY(0)}50%{opacity:1;transform:translateX(-50%) translateY(6px)}}
 .stat-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px}
@@ -128,9 +127,13 @@ footer .footer-inner>*{margin-bottom:8px}
 .chart-controls select:focus{border-color:var(--primary);outline:none}
 .back-btn{display:inline-block;margin:0 auto 10px;padding:6px 18px;border:2px solid var(--primary);color:var(--primary);font-size:12px;font-weight:700;cursor:pointer;background:var(--bg-white);transition:all .15s;font-family:'Open Sans',sans-serif}
 .back-btn:hover{background:var(--primary);color:#fff}
+.chart-legend{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin-top:12px;font-size:12px;color:var(--text-light)}
+.chart-legend span{display:inline-flex;align-items:center;gap:4px}
+.chart-legend .dot{width:10px;height:10px;border-radius:50%;display:inline-block}
 </style>
 </head>
 <body>
+
 <!-- ═══ HERO ═══ -->
 <div class="hero" id="hero">
   <canvas id="hero-canvas"></canvas>
@@ -147,177 +150,6 @@ footer .footer-inner>*{margin-bottom:8px}
   </div>
   <div class="scroll-indicator">Scroll to explore</div>
 </div>
-
-<script>
-;(function() {
-  const canvas = document.getElementById('hero-canvas');
-  const hero = document.getElementById('hero');
-  const ctx = canvas.getContext('2d');
-  let W, H;
-  
-  function resize() {
-    W = canvas.width = hero.offsetWidth;
-    H = canvas.height = hero.offsetHeight;
-  }
-  resize();
-  window.addEventListener('resize', resize);
-
-  // ── Stars ──
-  const stars = [];
-  for (let i = 0; i < 120; i++) {
-    stars.push({
-      x: Math.random() * W, y: Math.random() * H,
-      r: Math.random() * 1.5 + 0.3,
-      speed: Math.random() * 0.02 + 0.005,
-      phase: Math.random() * Math.PI * 2
-    });
-  }
-
-  // ── Plane path — sinusoidal flight ──
-  let planeProgress = 0; // 0..1, moves from right to left
-  const PLANE_SPEED = 0.0025;
-  
-  function getPlanePos(t) {
-    const x = W * (1 - t * 1.1) + 100; // starts off-screen right, ends off-screen left
-    const y = H * (0.15 + 0.12 * Math.sin(t * Math.PI * 3));
-    const angle = -0.08 * Math.cos(t * Math.PI * 3); // banking
-    return { x, y, angle };
-  }
-
-  // ── Contrails ──
-  const contrails = [];
-  const MAX_CONTRAIL = 80;
-
-  // ── Draw plane ──
-  function drawPlane(x, y, angle) {
-    ctx.save();
-    ctx.translate(x, y);
-    ctx.rotate(angle);
-    const s = Math.min(W, 1000) / 1000;
-    const S = (s) => s * 1.2;
-
-    // Glow
-    ctx.shadowColor = 'rgba(255,255,255,0.3)';
-    ctx.shadowBlur = 15;
-
-    // Fuselage
-    ctx.beginPath();
-    ctx.moveTo(S(15), 0);
-    ctx.lineTo(S(-50), S(-8));
-    ctx.lineTo(S(-50), S(8));
-    ctx.closePath();
-    ctx.fillStyle = 'rgba(255,255,255,0.85)';
-    ctx.fill();
-    ctx.strokeStyle = 'rgba(255,255,255,0.95)';
-    ctx.lineWidth = 1;
-    ctx.stroke();
-
-    // Wings
-    ctx.beginPath();
-    ctx.moveTo(S(-5), S(-2));
-    ctx.lineTo(S(-15), S(-18));
-    ctx.lineTo(S(-25), S(-18));
-    ctx.lineTo(S(-15), S(-2));
-    ctx.closePath();
-    ctx.fillStyle = 'rgba(255,255,255,0.3)';
-    ctx.fill();
-    ctx.strokeStyle = 'rgba(255,255,255,0.5)';
-    ctx.lineWidth = 0.5;
-    ctx.stroke();
-
-    ctx.beginPath();
-    ctx.moveTo(S(-5), S(2));
-    ctx.lineTo(S(-15), S(18));
-    ctx.lineTo(S(-25), S(18));
-    ctx.lineTo(S(-15), S(2));
-    ctx.closePath();
-    ctx.fillStyle = 'rgba(255,255,255,0.3)';
-    ctx.fill();
-    ctx.strokeStyle = 'rgba(255,255,255,0.5)';
-    ctx.lineWidth = 0.5;
-    ctx.stroke();
-
-    // Tail
-    ctx.beginPath();
-    ctx.moveTo(S(-40), 0);
-    ctx.lineTo(S(-55), S(-12));
-    ctx.lineTo(S(-58), S(-12));
-    ctx.lineTo(S(-45), 0);
-    ctx.closePath();
-    ctx.fillStyle = 'rgba(255,255,255,0.25)';
-    ctx.fill();
-    ctx.beginPath();
-    ctx.moveTo(S(-40), 0);
-    ctx.lineTo(S(-55), S(12));
-    ctx.lineTo(S(-58), S(12));
-    ctx.lineTo(S(-45), 0);
-    ctx.closePath();
-    ctx.fillStyle = 'rgba(255,255,255,0.25)';
-    ctx.fill();
-
-    // Cockpit
-    ctx.beginPath();
-    ctx.moveTo(S(10), 0);
-    ctx.lineTo(S(0), S(-3));
-    ctx.lineTo(S(0), S(3));
-    ctx.closePath();
-    ctx.fillStyle = 'rgba(255,255,255,0.5)';
-    ctx.fill();
-
-    ctx.shadowBlur = 0;
-    ctx.restore();
-  }
-
-  // ── Main loop ──
-  function frame() {
-    // Update plane
-    planeProgress += PLANE_SPEED * (W / 1000);
-    if (planeProgress > 1.1) planeProgress = -0.1;
-
-    const pos = getPlanePos(planeProgress);
-
-    // Add contrail point
-    contrails.push({ x: pos.x - 50, y: pos.y, life: 1.0 });
-    if (contrails.length > MAX_CONTRAIL) contrails.shift();
-    contrails.forEach(c => c.life -= 0.012);
-
-    // Clear with trail
-    ctx.fillStyle = 'rgba(11,29,58,0.15)';
-    ctx.fillRect(0, 0, W, H);
-
-    // Draw stars (twinkle)
-    stars.forEach(s => {
-      const t = Math.sin(Date.now() * s.speed + s.phase) * 0.3 + 0.7;
-      ctx.beginPath();
-      ctx.arc(s.x, s.y, s.r * t, 0, Math.PI * 2);
-      ctx.fillStyle = `rgba(200,220,255,${t * 0.7})`;
-      ctx.fill();
-    });
-
-    // Draw contrails (glowing trail fading out)
-    if (contrails.length > 1) {
-      for (let i = 1; i < contrails.length; i++) {
-        const p = contrails[i];
-        if (p.life <= 0) continue;
-        ctx.beginPath();
-        ctx.arc(p.x, p.y, 2 * p.life, 0, Math.PI * 2);
-        ctx.fillStyle = `rgba(200,220,255,${p.life * 0.3})`;
-        ctx.fill();
-      }
-    }
-
-    // Draw plane
-    drawPlane(pos.x, pos.y, pos.angle);
-
-    requestAnimationFrame(frame);
-  }
-
-  // Initial dark fill
-  ctx.fillStyle = '#0B1D3A';
-  ctx.fillRect(0, 0, W, H);
-  frame();
-})();
-</script>
 
 <!-- ═══ GLOBAL NETWORK ═══ -->
 <div class="section" id="global-network" style="background:#fff;">
@@ -343,7 +175,7 @@ footer .footer-inner>*{margin-bottom:8px}
   </div>
 </div>
 
-<!-- ═══ CONTINENT EXPLORER (D3 + Drill-Down) ═══ -->
+<!-- ═══ CONTINENT EXPLORER ═══ -->
 <div class="section" id="continent-explorer" style="background:#fff;">
   <div class="wrap">
     <h2 class="section-title">Continent Explorer</h2>
@@ -354,11 +186,11 @@ footer .footer-inner>*{margin-bottom:8px}
     <div class="chart-wrap" id="continent-chart">
       <div class="chart-tooltip" id="continent-tooltip"></div>
     </div>
-    <div id="continent-legend" style="display:flex;flex-wrap:wrap;gap:12px;justify-content:center;margin-top:12px;font-size:12px;color:var(--text-light)"></div>
+    <div class="chart-legend" id="continent-legend"></div>
   </div>
 </div>
 
-<!-- ═══ IATA CODE EXPLORER (mit Filtern) ═══ -->
+<!-- ═══ IATA CODE EXPLORER ═══ -->
 <div class="section" id="iata-explorer" style="background:var(--bg-light);">
   <div class="wrap">
     <h2 class="section-title">IATA Code Explorer</h2>
@@ -485,7 +317,7 @@ footer .footer-inner>*{margin-bottom:8px}
   </div>
 </div>
 
-<!-- ═══ DISTANCE CALCULATOR (mit Globe + Flieger) ═══ -->
+<!-- ═══ DISTANCE CALCULATOR ═══ -->
 <div class="section" id="distance-calc" style="background:#fff;">
   <div class="wrap">
     <h2 class="section-title">Airport Distance Calculator</h2>
@@ -510,7 +342,7 @@ footer .footer-inner>*{margin-bottom:8px}
   </div>
 </div>
 
-<!-- ═══ TYPE BREAKDOWN (mit Filtern) ═══ -->
+<!-- ═══ TYPE BREAKDOWN ═══ -->
 <div class="section" id="type-breakdown" style="background:var(--bg-light);">
   <div class="wrap">
     <h2 class="section-title">Airport Type Breakdown</h2>
@@ -554,7 +386,694 @@ footer .footer-inner>*{margin-bottom:8px}
 <script src="https://d3js.org/d3.v7.min.js"></script>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-// ═══════════════════════════════════════════════════
+// ══════════════════════════════════════════════════════════════
+// ║  HERO — AIRPORT GAME (Canvas 2D)                       ║
+// ══════════════════════════════════════════════════════════════
+(function airportGame() {
+  const canvas = document.getElementById('hero-canvas');
+  const hero = document.getElementById('hero');
+  const ctx = canvas.getContext('2d');
+  let W, H;
+  
+  function resize() {
+    const rect = hero.getBoundingClientRect();
+    W = canvas.width = rect.width || hero.offsetWidth;
+    H = canvas.height = rect.height || hero.offsetHeight;
+  }
+  resize();
+  window.addEventListener('resize', resize);
+
+  // ── Stars ──
+  const stars = [];
+  for (let i = 0; i < 80; i++) {
+    stars.push({
+      x: Math.random(), y: Math.random(),
+      r: Math.random() * 1.5 + 0.3,
+      speed: Math.random() * 0.02 + 0.003,
+      phase: Math.random() * Math.PI * 2
+    });
+  }
+
+  // ── Runway geometry (perspective: wider at bottom, narrow at top) ──
+  function getRunwayPath() {
+    const cx = W / 2; // center
+    const botY = H * 0.85; // near end
+    const topY = H * 0.3; // far end (horizon)
+    const botW = W * 0.45; // width at near end
+    const topW = W * 0.06; // width at far end
+    return {
+      cx, botY, topY, botW, topW,
+      // Runway center line (vanishing point at horizon center)
+      leftBot: cx - botW/2, leftTop: cx - topW/2,
+      rightBot: cx + botW/2, rightTop: cx + topW/2
+    };
+  }
+
+  // ── Tower position ──
+  function getTowerPos() {
+    // Right side of runway, halfway up
+    const cx = W / 2;
+    const rw = getRunwayPath();
+    return { x: rw.rightBot + 15, y: rw.botY * 0.7 };
+  }
+
+  // ── Draw runway ──
+  function drawRunway(rp, lightsOn) {
+    // Runway surface (dark gray with perspective gradient)
+    ctx.beginPath();
+    ctx.moveTo(rp.leftBot, rp.botY);
+    ctx.lineTo(rp.leftTop, rp.topY);
+    ctx.lineTo(rp.rightTop, rp.topY);
+    ctx.lineTo(rp.rightBot, rp.botY);
+    ctx.closePath();
+    const grad = ctx.createLinearGradient(0, rp.topY, 0, rp.botY);
+    grad.addColorStop(0, '#2a2a3a');
+    grad.addColorStop(0.3, '#3a3a4a');
+    grad.addColorStop(1, '#4a4a5a');
+    ctx.fillStyle = grad;
+    ctx.fill();
+    ctx.strokeStyle = '#555';
+    ctx.lineWidth = 1.5;
+    ctx.stroke();
+
+    // Runway center line (dashed, perspective)
+    ctx.strokeStyle = '#fff';
+    ctx.lineWidth = 2;
+    ctx.setLineDash([8, 12]);
+    ctx.beginPath();
+    ctx.moveTo(rp.cx, rp.topY);
+    ctx.lineTo(rp.cx, rp.botY);
+    ctx.stroke();
+    ctx.setLineDash([]);
+
+    // Runway edge lights (yellow dots)
+    const nLights = 30;
+    for (let i = 0; i < nLights; i++) {
+      const t = i / nLights;
+      const leftX = rp.leftBot + (rp.leftTop - rp.leftBot) * t;
+      const rightX = rp.rightBot + (rp.rightTop - rp.rightBot) * t;
+      const y = rp.botY + (rp.topY - rp.botY) * t;
+      // Left row
+      ctx.beginPath();
+      ctx.arc(leftX, y, 2 + t * 0.5, 0, Math.PI * 2);
+      ctx.fillStyle = lightsOn ? '#FFA500' : '#884400';
+      ctx.shadowBlur = lightsOn ? 6 : 0;
+      ctx.shadowColor = '#FFA500';
+      ctx.fill();
+      // Right row
+      ctx.beginPath();
+      ctx.arc(rightX, y, 2 + t * 0.5, 0, Math.PI * 2);
+      ctx.fill();
+    }
+    ctx.shadowBlur = 0;
+
+    // Threshold lights (green at near end)
+    for (let i = 0; i < 10; i++) {
+      const x = rp.leftBot + (rp.rightBot - rp.leftBot) * (i / 10);
+      ctx.beginPath();
+      ctx.arc(x, rp.botY - 2, 2.5, 0, Math.PI * 2);
+      ctx.fillStyle = '#00FF66';
+      ctx.shadowBlur = 5;
+      ctx.shadowColor = '#00FF66';
+      ctx.fill();
+    }
+    ctx.shadowBlur = 0;
+  }
+
+  // ── Taxiway ──
+  function drawTaxiway(rp) {
+    // Parallel taxiway left of runway
+    const lx = rp.leftBot - W * 0.12;
+    const rx = rp.leftBot - W * 0.08;
+    ctx.beginPath();
+    ctx.moveTo(lx, rp.botY);
+    ctx.lineTo(rp.leftTop - W * 0.06, rp.topY);
+    ctx.lineTo(rp.leftTop - W * 0.04, rp.topY);
+    ctx.lineTo(rp.leftBot - W * 0.06, rp.botY);
+    ctx.closePath();
+    ctx.fillStyle = '#2a2a3a';
+    ctx.fill();
+    ctx.strokeStyle = '#444';
+    ctx.lineWidth = 1;
+    ctx.stroke();
+  }
+
+  // ── Draw tower ──
+  function drawTower(lightOn) {
+    const tp = getTowerPos();
+    const s = Math.min(W, 1000) / 1000;
+    // Base
+    ctx.fillStyle = '#1a2a3a';
+    ctx.fillRect(tp.x - 8 * s, tp.y + 10 * s, 16 * s, -40 * s);
+    // Top platform
+    ctx.fillStyle = '#2a3a4a';
+    ctx.fillRect(tp.x - 12 * s, tp.y - 28 * s, 24 * s, 4 * s);
+    // Antenna
+    ctx.strokeStyle = '#666';
+    ctx.lineWidth = 1.5 * s;
+    ctx.beginPath();
+    ctx.moveTo(tp.x, tp.y - 28 * s);
+    ctx.lineTo(tp.x, tp.y - 40 * s);
+    ctx.stroke();
+    // Blinking red light
+    ctx.beginPath();
+    ctx.arc(tp.x, tp.y - 40 * s, 3 * s, 0, Math.PI * 2);
+    ctx.shadowBlur = lightOn ? 15 : 0;
+    ctx.shadowColor = '#FF0000';
+    ctx.fillStyle = lightOn ? '#FF0000' : '#880000';
+    ctx.fill();
+    ctx.shadowBlur = 0;
+  }
+
+  // ── Terminal building ──
+  function drawTerminal(rp) {
+    const tx = rp.leftBot - W * 0.2;
+    const s = Math.min(W, 1000) / 1000;
+    // Main building
+    ctx.fillStyle = '#1a2a3a';
+    ctx.fillRect(tx, rp.botY - 30 * s, 40 * s, 25 * s);
+    // Roof
+    ctx.fillStyle = '#2a3a4a';
+    ctx.fillRect(tx - 2 * s, rp.botY - 33 * s, 44 * s, 5 * s);
+    // Windows (lit)
+    ctx.fillStyle = '#FFE4A0';
+    for (let i = 0; i < 6; i++) {
+      const wx = tx + 4 * s + i * 6 * s;
+      const wy = rp.botY - 26 * s + (i % 2) * 10 * s;
+      ctx.fillRect(wx, wy, 3 * s, 5 * s);
+    }
+  }
+
+  // ── Draw airplane (detailed game-style) ──
+  function drawPlane(x, y, scale, angle, color, lights) {
+    ctx.save();
+    ctx.translate(x, y);
+    ctx.rotate(angle);
+    ctx.scale(scale, scale);
+    
+    // Shadow/glow
+    ctx.shadowColor = 'rgba(255,255,255,0.15)';
+    ctx.shadowBlur = 10;
+
+    // Fuselage
+    ctx.beginPath();
+    ctx.moveTo(16, 0);
+    ctx.lineTo(-14, -4);
+    ctx.lineTo(-14, 4);
+    ctx.closePath();
+    ctx.fillStyle = color;
+    ctx.fill();
+    ctx.strokeStyle = 'rgba(255,255,255,0.3)';
+    ctx.lineWidth = 0.5;
+    ctx.stroke();
+
+    // Wings (upper)
+    ctx.beginPath();
+    ctx.moveTo(4, -1);
+    ctx.lineTo(-4, -10);
+    ctx.lineTo(-10, -10);
+    ctx.lineTo(-6, -1);
+    ctx.closePath();
+    ctx.fillStyle = color;
+    ctx.fill();
+    ctx.stroke();
+
+    // Wings (lower)
+    ctx.beginPath();
+    ctx.moveTo(4, 1);
+    ctx.lineTo(-4, 10);
+    ctx.lineTo(-10, 10);
+    ctx.lineTo(-6, 1);
+    ctx.closePath();
+    ctx.fill();
+    ctx.stroke();
+
+    // Tail (upper)
+    ctx.beginPath();
+    ctx.moveTo(-10, 0);
+    ctx.lineTo(-16, -6);
+    ctx.lineTo(-18, -6);
+    ctx.lineTo(-12, 0);
+    ctx.closePath();
+    ctx.fill();
+    // Tail (lower)
+    ctx.beginPath();
+    ctx.moveTo(-10, 0);
+    ctx.lineTo(-16, 6);
+    ctx.lineTo(-18, 6);
+    ctx.lineTo(-12, 0);
+    ctx.closePath();
+    ctx.fill();
+
+    // Cockpit window
+    ctx.beginPath();
+    ctx.moveTo(12, 0);
+    ctx.lineTo(6, -2);
+    ctx.lineTo(6, 2);
+    ctx.closePath();
+    ctx.fillStyle = 'rgba(200,230,255,0.5)';
+    ctx.fill();
+
+    // Wing lights (navigation)
+    if (lights) {
+      // Red left, green right
+      ctx.shadowBlur = 0;
+      ctx.beginPath();
+      ctx.arc(-6, -10, 1.5, 0, Math.PI * 2);
+      ctx.fillStyle = '#FF0000';
+      ctx.fill();
+      ctx.beginPath();
+      ctx.arc(-6, 10, 1.5, 0, Math.PI * 2);
+      ctx.fillStyle = '#00FF00';
+      ctx.fill();
+    }
+
+    ctx.shadowBlur = 0;
+    ctx.restore();
+  }
+
+  // ── Planes ──
+  const PLANE_COLORS = ['#e8e8f0', '#f0e8d0', '#d0e8f0', '#f0d8d8', '#d8f0d8'];
+  
+  function createPlane() {
+    const rw = getRunwayPath();
+    const types = ['takeoff', 'landing', 'taxi', 'circling'];
+    const type = types[Math.floor(Math.random() * types.length)];
+    
+    let x, y, angle, speed, progress;
+    
+    switch (type) {
+      case 'takeoff':
+        // Start at bottom of runway, accelerate up
+        progress = Math.random() * 0.4;
+        x = rw.cx + (Math.random() - 0.5) * 4;
+        y = rw.botY - progress * (rw.botY - rw.topY);
+        angle = 0;
+        speed = 0.003 + Math.random() * 0.003;
+        break;
+      case 'landing':
+        // Approach from top
+        progress = Math.random() * 0.5;
+        x = rw.cx + (Math.random() - 0.5) * 6;
+        y = rw.topY + progress * (rw.botY - rw.topY);
+        angle = 0.03;
+        speed = 0.004 + Math.random() * 0.003;
+        break;
+      case 'taxi':
+        // On taxiway
+        progress = Math.random();
+        const twX = rw.leftBot - W * 0.10;
+        x = twX + (Math.random() - 0.5) * 10;
+        y = rw.botY * 0.5 + Math.random() * rw.botY * 0.3;
+        angle = 0;
+        speed = 0.001 + Math.random() * 0.002;
+        break;
+      default: // circling
+        progress = Math.random();
+        const cx = rw.cx + W * 0.25;
+        const cy = rw.topY - H * 0.15;
+        const rad = 80 + Math.random() * 40;
+        angle = progress * Math.PI * 2;
+        x = cx + Math.cos(angle) * rad;
+        y = cy + Math.sin(angle * 1.5) * rad * 0.5;
+        speed = 0.002 + Math.random() * 0.002;
+    }
+    
+    return {
+      type, x, y, angle, speed,
+      progress: progress || 0,
+      color: PLANE_COLORS[Math.floor(Math.random() * PLANE_COLORS.length)],
+      alive: true,
+      scale: 0.8 + Math.random() * 0.4,
+      timer: 0
+    };
+  }
+
+  // ── Game loop state ──
+  let planes = [];
+  // Spawn initial planes
+  for (let i = 0; i < 4; i++) {
+    const p = createPlane();
+    p.progress = i * 0.25;
+    planes.push(p);
+  }
+  let frameId = null;
+  let active = true;
+
+  // ── Visibility pause ──
+  const observer = new IntersectionObserver((entries) => {
+    active = entries[0].isIntersecting;
+    if (!active && frameId) {
+      cancelAnimationFrame(frameId);
+      frameId = null;
+    } else if (active) {
+      frame();
+    }
+  }, { threshold: 0.1 });
+  observer.observe(hero);
+
+  function frame() {
+    if (!active) { frameId = null; return; }
+
+    const lightsOn = Math.floor(Date.now() / 400) % 2 === 0;
+    const towerLight = Math.floor(Date.now() / 800) % 2 === 0;
+    const rp = getRunwayPath();
+
+    // Semi-transparent clear for motion blur
+    ctx.fillStyle = 'rgba(6,13,26,0.08)';
+    ctx.fillRect(0, 0, W, H);
+
+    // Stars
+    stars.forEach(s => {
+      const t = Math.sin(Date.now() * s.speed + s.phase) * 0.3 + 0.7;
+      ctx.beginPath();
+      ctx.arc(s.x * W, s.y * H, s.r * t, 0, Math.PI * 2);
+      ctx.fillStyle = `rgba(200,220,255,${t * 0.7})`;
+      ctx.fill();
+    });
+
+    // Ground fog effect
+    ctx.fillStyle = 'rgba(6,13,26,0.3)';
+    ctx.fillRect(0, H * 0.75, W, H * 0.25);
+
+    // Draw static elements
+    drawTaxiway(rp);
+    drawRunway(rp, lightsOn);
+    drawTerminal(rp);
+    drawTower(towerLight);
+
+    // Update and draw planes
+    planes = planes.filter(p => p.alive);
+
+    if (planes.length < 3 && Math.random() < 0.01) {
+      planes.push(createPlane());
+    }
+
+    planes.forEach(p => {
+      p.timer++;
+
+      switch (p.type) {
+        case 'takeoff': {
+          // Accelerate up runway
+          p.progress += p.speed;
+          if (p.progress > 1.2) { p.progress = 0; p.timer = 0; }
+          const nt = Math.min(p.progress, 1);
+          y = rp.botY - nt * (rp.botY - rp.topY);
+          const lateralOffset = Math.sin(p.timer * 0.5) * 1.5;
+          x = rp.cx + lateralOffset;
+          angle = -0.05 * Math.sin(p.timer * 0.3);
+          // Lift off past 70%
+          if (nt > 0.7) {
+            p.scale *= 0.998;
+            angle = -0.15 - (nt - 0.7) * 0.5;
+            x += (nt - 0.7) * 20 * (p.x > rp.cx ? 1 : -1);
+          }
+          break;
+        }
+        case 'landing': {
+          p.progress += p.speed;
+          if (p.progress > 1.3) { p.progress = -0.3; p.timer = 0; }
+          const lt = Math.max(p.progress, 0);
+          y = rp.topY + lt * (rp.botY - rp.topY);
+          x = rp.cx + (Math.random() - 0.5) * 6 * (1 - lt);
+          angle = lt < 0.4 ? -0.12 + lt * 0.3 : 0.02;
+          p.scale = 0.6 + lt * 1.0;
+          break;
+        }
+        case 'taxi': {
+          p.progress += p.speed;
+          if (p.progress > 1) p.progress = 0;
+          const twX = rp.leftBot - W * 0.10;
+          x = twX + Math.sin(p.progress * Math.PI * 2) * 5;
+          y = rp.botY - p.progress * (rp.botY - rp.topY) * 1.1;
+          angle = 0;
+          p.scale = 0.7 + 0.3 * (1 - p.progress);
+          break;
+        }
+        default: { // circling
+          p.progress += p.speed;
+          const cx = rp.cx + W * 0.25;
+          const cy = rp.topY - H * 0.10;
+          const rad = 60 + W * 0.05;
+          const a = p.progress * Math.PI * 2;
+          x = cx + Math.cos(a) * rad;
+          y = cy + Math.sin(a * 1.3) * rad * 0.4;
+          angle = -Math.atan2(Math.sin(a * 1.3) * 0.4, Math.cos(a)) + Math.PI / 2;
+          // Shrink with distance (depth cue)
+          const depthFactor = 0.6 + 0.4 * (1 - (y / rp.botY));
+          p.scale = (0.8 + 0.4 * Math.sin(a * 0.5)) * depthFactor;
+          break;
+        }
+      }
+
+      drawPlane(x, y, p.scale, angle, p.color, p.timer % 60 < 30);
+    });
+
+    frameId = requestAnimationFrame(frame);
+  }
+
+  // Initial fill
+  ctx.fillStyle = '#060d1a';
+  ctx.fillRect(0, 0, W, H);
+  frame();
+})();
+
+// ══════════════════════════════════════════════════════════════
+// ║  COUNTER ANIMATION                                       ║
+// ══════════════════════════════════════════════════════════════
+(function countUp() {
+  const els = document.querySelectorAll('[data-count]');
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const el = entry.target;
+        const target = parseInt(el.dataset.count);
+        const duration = 1500;
+        const start = performance.now();
+        function step(now) {
+          const progress = Math.min((now - start) / duration, 1);
+          const eased = 1 - Math.pow(1 - progress, 3);
+          el.textContent = Math.floor(eased * target).toLocaleString();
+          if (progress < 1) requestAnimationFrame(step);
+        }
+        requestAnimationFrame(step);
+        observer.unobserve(el);
+      }
+    });
+  }, { threshold: 0.5 });
+  els.forEach(el => observer.observe(el));
+})();
+
+// ══════════════════════════════════════════════════════════════
+// ║  CONTINENT EXPLORER (D3.js Bubble Chart)                ║
+// ══════════════════════════════════════════════════════════════
+const CONT_DATA = [
+  {id:"NA",label:"North America", total:39581, iata:2950, color:"#2C7BE5"},
+  {id:"EU",label:"Europe",       total:12489, iata:927,  color:"#E9C46A"},
+  {id:"AS",label:"Asia",         total:12719, iata:1903, color:"#F4A261"},
+  {id:"SA",label:"South America", total:12262, iata:921, color:"#6CB4EE"},
+  {id:"AF",label:"Africa",       total:4226,  iata:1065, color:"#E76F51"},
+  {id:"OC",label:"Oceania",      total:4221,  iata:1287, color:"#2A9D8F"},
+  {id:"AN",label:"Antarctica",   total:47,    iata:3,    color:"#D4E8F7"}
+];
+
+const CONT_COUNTRIES = {
+  NA:[{n:"United States",c:32518},{n:"Canada",c:8513},{n:"Mexico",c:2694},{n:"Puerto Rico",c:329},{n:"Greenland",c:191}],
+  EU:[{n:"France",c:1768},{n:"United Kingdom",c:1593},{n:"Germany",c:1432},{n:"Italy",c:1114},{n:"Spain",c:507}],
+  AS:[{n:"Japan",c:3747},{n:"Russia",c:1808},{n:"China",c:776},{n:"India",c:649},{n:"Indonesia",c:728}],
+  SA:[{n:"Brazil",c:7947},{n:"Argentina",c:995},{n:"Venezuela",c:898},{n:"Colombia",c:736},{n:"Chile",c:356}],
+  AF:[{n:"South Africa",c:674},{n:"Egypt",c:216},{n:"Madagascar",c:208},{n:"Morocco",c:175},{n:"Kenya",c:171}],
+  OC:[{n:"Australia",c:2789},{n:"New Zealand",c:529},{n:"Papua New Guinea",c:309},{n:"Fiji",c:136},{n:"Solomon Islands",c:110}],
+  AN:[{n:"Antarctica",c:47}]
+};
+
+let currentView = 'continents'; // 'continents' or 'countries'
+
+function drawContinentBubbles() {
+  const wrap = document.getElementById('continent-chart');
+  const w = wrap.clientWidth - 40;
+  const h = 420;
+  if (w < 100) { setTimeout(drawContinentBubbles, 200); return; }
+
+  d3.select(wrap).selectAll('svg').remove();
+
+  const svg = d3.select(wrap).append('svg')
+    .attr('width', w)
+    .attr('height', h);
+
+  const pack = d3.pack().size([w-40, h-40]).padding(8);
+  const root = d3.hierarchy({children: CONT_DATA}).sum(d => d.total);
+  const nodes = pack(root).leaves();
+
+  const g = svg.append('g')
+    .attr('transform', `translate(20,20)`);
+
+  const tooltip = document.getElementById('continent-tooltip');
+
+  // Bubbles
+  const circles = g.selectAll('circle')
+    .data(nodes)
+    .enter().append('circle')
+    .attr('r', d => d.r)
+    .attr('fill', d => d.data.color)
+    .attr('stroke', '#fff')
+    .attr('stroke-width', 2)
+    .attr('opacity', 0)
+    .attr('cx', d => d.x)
+    .attr('cy', d => d.y)
+    .style('cursor', 'pointer')
+    .on('mouseover', function(ev, d) {
+      d3.select(this).attr('stroke', '#333').attr('stroke-width', 3);
+      const cd = d.data;
+      tooltip.style.opacity = 1;
+      tooltip.innerHTML = `<strong>${cd.label}</strong><br>Total: ${cd.total.toLocaleString()}<br>IATA: ${cd.iata.toLocaleString()}`;
+    })
+    .on('mousemove', function(ev) {
+      const r = wrap.getBoundingClientRect();
+      tooltip.style.left = (ev.clientX - r.left + 15) + 'px';
+      tooltip.style.top = (ev.clientY - r.top - 10) + 'px';
+    })
+    .on('mouseout', function() {
+      d3.select(this).attr('stroke', '#fff').attr('stroke-width', 2);
+      tooltip.style.opacity = 0;
+    })
+    .on('click', function(ev, d) {
+      drillContinent(d.data.id);
+    });
+
+  // Entrance
+  circles.transition()
+    .duration(600)
+    .delay((d,i) => i * 100)
+    .ease(d3.easeElasticOut)
+    .attr('opacity', 0.85);
+
+  // Labels
+  const labels = g.selectAll('text.cont-label')
+    .data(nodes)
+    .enter().append('text')
+    .attr('class', 'cont-label')
+    .attr('x', d => d.x)
+    .attr('y', d => d.y)
+    .attr('text-anchor', 'middle')
+    .attr('dy', '0.35em')
+    .attr('font-size', d => Math.min(d.r * 0.35, 14))
+    .attr('font-weight', '700')
+    .attr('fill', '#fff')
+    .attr('opacity', 0)
+    .text(d => d.data.id);
+
+  labels.transition()
+    .duration(600)
+    .delay((d,i) => i * 100 + 300)
+    .attr('opacity', 1);
+
+  // Count labels under name
+  const countLabels = g.selectAll('text.cont-count')
+    .data(nodes)
+    .enter().append('text')
+    .attr('class', 'cont-count')
+    .attr('x', d => d.x)
+    .attr('y', d => d.y + 12)
+    .attr('text-anchor', 'middle')
+    .attr('font-size', d => Math.min(d.r * 0.2, 10))
+    .attr('fill', 'rgba(255,255,255,0.7)')
+    .attr('opacity', 0)
+    .text(d => d.data.total.toLocaleString());
+
+  countLabels.transition()
+    .duration(600)
+    .delay((d,i) => i * 100 + 500)
+    .attr('opacity', 1);
+
+  // Legend
+  const legend = document.getElementById('continent-legend');
+  legend.innerHTML = CONT_DATA.map(c => 
+    `<span><span class="dot" style="background:${c.color}"></span>${c.label}</span>`
+  ).join('');
+}
+
+function drillContinent(id) {
+  currentView = 'countries';
+  document.getElementById('continent-back').style.display = 'block';
+  const countries = CONT_COUNTRIES[id] || [{n:"No data",c:0}];
+  const cont = CONT_DATA.find(c => c.id === id);
+  const wrap = document.getElementById('continent-chart');
+  const w = wrap.clientWidth - 40;
+  const h = 420;
+
+  d3.select(wrap).selectAll('svg').remove();
+
+  const svg = d3.select(wrap).append('svg')
+    .attr('width', w)
+    .attr('height', h);
+
+  const pack = d3.pack().size([w-40, h-40]).padding(6);
+  const root = d3.hierarchy({children: countries.map(c => ({label:c.n, total:c.c, color:cont ? cont.color : '#888'}))})
+    .sum(d => d.total);
+  const nodes = pack(root).leaves();
+
+  const g = svg.append('g').attr('transform', `translate(20,20)`);
+  const tooltip = document.getElementById('continent-tooltip');
+
+  g.selectAll('circle')
+    .data(nodes)
+    .enter().append('circle')
+    .attr('r', 0)
+    .attr('fill', d => d.data.color)
+    .attr('stroke', '#fff')
+    .attr('stroke-width', 2)
+    .attr('cx', d => d.x)
+    .attr('cy', d => d.y)
+    .style('cursor', 'pointer')
+    .on('mouseover', function(ev, d) {
+      d3.select(this).attr('stroke', '#333').attr('stroke-width', 3);
+      tooltip.style.opacity = 1;
+      tooltip.innerHTML = `<strong>${d.data.label}</strong><br>Airports: ${d.total.toLocaleString()}`;
+    })
+    .on('mousemove', function(ev) {
+      const r = wrap.getBoundingClientRect();
+      tooltip.style.left = (ev.clientX - r.left + 15) + 'px';
+      tooltip.style.top = (ev.clientY - r.top - 10) + 'px';
+    })
+    .on('mouseout', function() {
+      d3.select(this).attr('stroke', '#fff').attr('stroke-width', 2);
+      tooltip.style.opacity = 0;
+    })
+    .transition()
+    .duration(500)
+    .delay((d,i) => i * 80)
+    .ease(d3.easeElasticOut)
+    .attr('r', d => d.r);
+
+  g.selectAll('text.cn-label')
+    .data(nodes)
+    .enter().append('text')
+    .attr('class', 'cn-label')
+    .attr('x', d => d.x)
+    .attr('y', d => d.y)
+    .attr('text-anchor', 'middle')
+    .attr('dy', '0.35em')
+    .attr('font-size', d => Math.min(d.r * 0.3, 13))
+    .attr('font-weight', '600')
+    .attr('fill', '#222')
+    .text(d => d.data.label);
+
+  // Update legend
+  const legend = document.getElementById('continent-legend');
+  legend.innerHTML = `<span style="font-weight:600;color:var(--primary)">${cont ? cont.label : id}</span> — Top countries by airport count`;
+}
+
+function resetContinentView() {
+  currentView = 'continents';
+  document.getElementById('continent-back').style.display = 'none';
+  document.getElementById('continent-tooltip').style.opacity = 0;
+  drawContinentBubbles();
+}
+
+// ══════════════════════════════════════════════════════════════
+// ║  AIRPORT DATA                                            ║
+// ══════════════════════════════════════════════════════════════
 const AIRPORTS = [
   {iata:"FRA",icao:"EDDF",name:"Frankfurt Main Airport",city:"Frankfurt am Main",country:"Germany",lat:50.033,lon:8.561,cont:"EU",type:"large_airport"},
   {iata:"LHR",icao:"EGLL",name:"London Heathrow Airport",city:"London",country:"United Kingdom",lat:51.471,lon:-0.459,cont:"EU",type:"large_airport"},
@@ -597,318 +1116,425 @@ const AIRPORTS = [
   {iata:"WAW",icao:"EPWA",name:"Warsaw Chopin Airport",city:"Warsaw",country:"Poland",lat:52.165,lon:20.967,cont:"EU",type:"large_airport"},
   {iata:"PRG",icao:"LKPR",name:"Prague Vaclav Havel Airport",city:"Prague",country:"Czech Republic",lat:50.100,lon:14.260,cont:"EU",type:"large_airport"},
   {iata:"BUD",icao:"LHBP",name:"Budapest Ferenc Liszt Airport",city:"Budapest",country:"Hungary",lat:47.436,lon:19.255,cont:"EU",type:"large_airport"},
-  {iata:"IST",icao:"LTFM",name:"Istanbul Airport",city:"Istanbul",country:"Turkey",lat:41.261,lon:28.742,cont:"EU",type:"large_airport"},
-  {iata:"DEL",icao:"VIDP",name:"Indira Gandhi International Airport",city:"Delhi",country:"India",lat:28.556,lon:77.100,cont:"AS",type:"large_airport"},
-  {iata:"BOM",icao:"VABB",name:"Chhatrapati Shivaji International Airport",city:"Mumbai",country:"India",lat:19.088,lon:72.868,cont:"AS",type:"large_airport"},
+  {iata:"IST",icao:"LTBA",name:"Istanbul Airport",city:"Istanbul",country:"Turkey",lat:41.260,lon:28.742,cont:"EU",type:"large_airport"},
+  {iata:"BER",icao:"EDDB",name:"Berlin Brandenburg Airport",city:"Berlin",country:"Germany",lat:52.366,lon:13.503,cont:"EU",type:"large_airport"},
+  {iata:"HAM",icao:"EDDH",name:"Hamburg Airport",city:"Hamburg",country:"Germany",lat:53.631,lon:9.990,cont:"EU",type:"large_airport"},
+  {iata:"STR",icao:"EDDS",name:"Stuttgart Airport",city:"Stuttgart",country:"Germany",lat:48.690,lon:9.221,cont:"EU",type:"large_airport"},
+  {iata:"DUS",icao:"EDDL",name:"Dusseldorf Airport",city:"Dusseldorf",country:"Germany",lat:51.289,lon:6.766,cont:"EU",type:"large_airport"},
+  {iata:"CGN",icao:"EDDK",name:"Cologne Bonn Airport",city:"Cologne",country:"Germany",lat:50.865,lon:7.142,cont:"EU",type:"large_airport"},
+  {iata:"MIA",icao:"KMIA",name:"Miami International Airport",city:"Miami",country:"United States",lat:25.793,lon:-80.290,cont:"NA",type:"large_airport"},
+  {iata:"SEA",icao:"KSEA",name:"Seattle-Tacoma International Airport",city:"Seattle",country:"United States",lat:47.448,lon:-122.309,cont:"NA",type:"large_airport"},
+  {iata:"DEN",icao:"KDEN",name:"Denver International Airport",city:"Denver",country:"United States",lat:39.856,lon:-104.673,cont:"NA",type:"large_airport"},
+  {iata:"DFW",icao:"KDFW",name:"Dallas-Fort Worth International Airport",city:"Dallas",country:"United States",lat:32.896,lon:-97.037,cont:"NA",type:"large_airport"},
+  {iata:"IAH",icao:"KIAH",name:"George Bush Intercontinental Airport",city:"Houston",country:"United States",lat:29.984,lon:-95.341,cont:"NA",type:"large_airport"},
+  {iata:"BOS",icao:"KBOS",name:"Boston Logan International Airport",city:"Boston",country:"United States",lat:42.364,lon:-71.005,cont:"NA",type:"large_airport"},
+  {iata:"PHX",icao:"KPHX",name:"Phoenix Sky Harbor International Airport",city:"Phoenix",country:"United States",lat:33.434,lon:-112.008,cont:"NA",type:"large_airport"},
+  {iata:"LAS",icao:"KLAS",name:"Harry Reid International Airport",city:"Las Vegas",country:"United States",lat:36.080,lon:-115.152,cont:"NA",type:"large_airport"},
+  {iata:"MCO",icao:"KMCO",name:"Orlando International Airport",city:"Orlando",country:"United States",lat:28.429,lon:-81.308,cont:"NA",type:"large_airport"},
+  {iata:"EWR",icao:"KEWR",name:"Newark Liberty International Airport",city:"Newark",country:"United States",lat:40.689,lon:-74.168,cont:"NA",type:"large_airport"},
   {iata:"BKK",icao:"VTBS",name:"Suvarnabhumi Airport",city:"Bangkok",country:"Thailand",lat:13.690,lon:100.750,cont:"AS",type:"large_airport"},
-  {iata:"KUL",icao:"WMKK",name:"Kuala Lumpur International Airport",city:"Kuala Lumpur",country:"Malaysia",lat:2.745,lon:101.710,cont:"AS",type:"large_airport"},
-  {iata:"CGK",icao:"WIII",name:"Soekarno-Hatta International Airport",city:"Jakarta",country:"Indonesia",lat:-6.125,lon:106.655,cont:"AS",type:"large_airport"},
-  {iata:"MNL",icao:"RPLL",name:"Ninoy Aquino International Airport",city:"Manila",country:"Philippines",lat:14.508,lon:121.019,cont:"AS",type:"large_airport"},
+  {iata:"DEL",icao:"VIDP",name:"Indira Gandhi International Airport",city:"Delhi",country:"India",lat:28.555,lon:77.100,cont:"AS",type:"large_airport"},
+  {iata:"BOM",icao:"VABB",name:"Chhatrapati Shivaji International Airport",city:"Mumbai",country:"India",lat:19.088,lon:72.867,cont:"AS",type:"large_airport"},
+  {iata:"PVG",icao:"ZSPD",name:"Shanghai Pudong International Airport",city:"Shanghai",country:"China",lat:31.143,lon:121.805,cont:"AS",type:"large_airport"},
+  {iata:"CAN",icao:"ZGGG",name:"Guangzhou Baiyun International Airport",city:"Guangzhou",country:"China",lat:23.392,lon:113.298,cont:"AS",type:"large_airport"},
+  {iata:"KUL",icao:"WMKK",name:"Kuala Lumpur International Airport",city:"Kuala Lumpur",country:"Malaysia",lat:2.745,lon:101.709,cont:"AS",type:"large_airport"},
   {iata:"DOH",icao:"OTHH",name:"Hamad International Airport",city:"Doha",country:"Qatar",lat:25.273,lon:51.608,cont:"AS",type:"large_airport"},
-  {iata:"AUH",icao:"OMAA",name:"Abu Dhabi International Airport",city:"Abu Dhabi",country:"UAE",lat:24.432,lon:54.651,cont:"AS",type:"large_airport"},
-  {iata:"CAI",icao:"HECA",name:"Cairo International Airport",city:"Cairo",country:"Egypt",lat:30.111,lon:31.411,cont:"AF",type:"large_airport"},
-  {iata:"JNB",icao:"FAOR",name:"O.R. Tambo International Airport",city:"Johannesburg",country:"South Africa",lat:-26.139,lon:28.246,cont:"AF",type:"large_airport"},
-  {iata:"CPT",icao:"FACT",name:"Cape Town International Airport",city:"Cape Town",country:"South Africa",lat:-33.964,lon:18.601,cont:"AF",type:"large_airport"},
-  {iata:"NBO",icao:"HKJK",name:"Jomo Kenyatta International Airport",city:"Nairobi",country:"Kenya",lat:-1.319,lon:36.927,cont:"AF",type:"large_airport"},
-  {iata:"ADD",icao:"HAAB",name:"Addis Ababa Bole International Airport",city:"Addis Ababa",country:"Ethiopia",lat:8.977,lon:38.799,cont:"AF",type:"large_airport"},
-  {iata:"SCL",icao:"SCEL",name:"Arturo Merino Benitez International Airport",city:"Santiago",country:"Chile",lat:-33.393,lon:-70.785,cont:"SA",type:"large_airport"},
+  {iata:"AUH",icao:"OMAA",name:"Abu Dhabi International Airport",city:"Abu Dhabi",country:"UAE",lat:24.432,lon:54.648,cont:"AS",type:"large_airport"},
+  {iata:"JED",icao:"OEJN",name:"King Abdulaziz International Airport",city:"Jeddah",country:"Saudi Arabia",lat:21.679,lon:39.156,cont:"AS",type:"large_airport"},
+  {iata:"NGO",icao:"RJGG",name:"Chubu Centrair International Airport",city:"Nagoya",country:"Japan",lat:34.858,lon:136.805,cont:"AS",type:"large_airport"},
+  {iata:"EZE",icao:"SAEZ",name:"Ministro Pistarini International Airport",city:"Buenos Aires",country:"Argentina",lat:-34.822,lon:-58.535,cont:"SA",type:"large_airport"},
+  {iata:"SCL",icao:"SCEL",name:"Arturo Merino Benitez Airport",city:"Santiago",country:"Chile",lat:-33.392,lon:-70.785,cont:"SA",type:"large_airport"},
   {iata:"BOG",icao:"SKBO",name:"El Dorado International Airport",city:"Bogota",country:"Colombia",lat:4.701,lon:-74.146,cont:"SA",type:"large_airport"},
   {iata:"LIM",icao:"SPIM",name:"Jorge Chavez International Airport",city:"Lima",country:"Peru",lat:-12.021,lon:-77.114,cont:"SA",type:"large_airport"},
-  {iata:"CGN",icao:"EDDK",name:"Cologne Bonn Airport",city:"Cologne",country:"Germany",lat:50.865,lon:7.142,cont:"EU",type:"large_airport"},
-  {iata:"STR",icao:"EDDS",name:"Stuttgart Airport",city:"Stuttgart",country:"Germany",lat:48.689,lon:9.221,cont:"EU",type:"large_airport"},
-  {iata:"HAM",icao:"EDDH",name:"Hamburg Airport",city:"Hamburg",country:"Germany",lat:53.630,lon:9.988,cont:"EU",type:"large_airport"},
-  {iata:"BER",icao:"EDDB",name:"Berlin Brandenburg Airport",city:"Berlin",country:"Germany",lat:52.362,lon:13.500,cont:"EU",type:"large_airport"},
-  {iata:"DUS",icao:"EDDL",name:"Dusseldorf Airport",city:"Dusseldorf",country:"Germany",lat:51.280,lon:6.757,cont:"EU",type:"large_airport"},
-  {iata:"NUE",icao:"EDDN",name:"Nuremberg Airport",city:"Nuremberg",country:"Germany",lat:49.498,lon:11.078,cont:"EU",type:"large_airport"},
-  {iata:"LEJ",icao:"EDDP",name:"Leipzig/Halle Airport",city:"Leipzig",country:"Germany",lat:51.432,lon:12.241,cont:"EU",type:"large_airport"},
-  {iata:"HAJ",icao:"EDDV",name:"Hannover Airport",city:"Hannover",country:"Germany",lat:52.461,lon:9.685,cont:"EU",type:"large_airport"},
-  {iata:"BRE",icao:"EDDW",name:"Bremen Airport",city:"Bremen",country:"Germany",lat:53.047,lon:8.786,cont:"EU",type:"large_airport"},
-  {iata:"FMM",icao:"EDJA",name:"Memmingen Airport",city:"Memmingen",country:"Germany",lat:47.988,lon:10.239,cont:"EU",type:"medium_airport"},
-  {iata:"HHN",icao:"EDFH",name:"Frankfurt-Hahn Airport",city:"Hahn",country:"Germany",lat:49.948,lon:7.263,cont:"EU",type:"medium_airport"},
-  {iata:"SCN",icao:"EDDR",name:"Saarbrucken Airport",city:"Saarbrucken",country:"Germany",lat:49.214,lon:7.109,cont:"EU",type:"medium_airport"},
-  {iata:"FKB",icao:"EDSB",name:"Karlsruhe Baden-Baden Airport",city:"Baden-Baden",country:"Germany",lat:48.779,lon:8.080,cont:"EU",type:"medium_airport"},
-  {iata:"PAD",icao:"EDLP",name:"Paderborn Lippstadt Airport",city:"Paderborn",country:"Germany",lat:51.614,lon:8.616,cont:"EU",type:"medium_airport"},
-  {iata:"FDH",icao:"EDNY",name:"Friedrichshafen Airport",city:"Friedrichshafen",country:"Germany",lat:47.671,lon:9.511,cont:"EU",type:"medium_airport"},
-  {iata:"ERF",icao:"EDDE",name:"Erfurt Weimar Airport",city:"Erfurt",country:"Germany",lat:50.979,lon:10.958,cont:"EU",type:"medium_airport"},
-  {iata:"INN",icao:"LOWI",name:"Innsbruck Airport",city:"Innsbruck",country:"Austria",lat:47.260,lon:11.343,cont:"EU",type:"large_airport"},
-  {iata:"SZG",icao:"LOWS",name:"Salzburg Airport",city:"Salzburg",country:"Austria",lat:47.794,lon:13.003,cont:"EU",type:"large_airport"},
-  {iata:"GRZ",icao:"LOWG",name:"Graz Airport",city:"Graz",country:"Austria",lat:47.004,lon:15.419,cont:"EU",type:"large_airport"},
-  {iata:"LNZ",icao:"LOWL",name:"Linz Airport",city:"Linz",country:"Austria",lat:48.233,lon:14.187,cont:"EU",type:"medium_airport"},
-  {iata:"HND",icao:"RJTT",name:"Tokyo Haneda Airport",city:"Tokyo",country:"Japan",lat:35.552,lon:139.779,cont:"AS",type:"large_airport"},
-  {iata:"KIX",icao:"RJBB",name:"Kansai International Airport",city:"Osaka",country:"Japan",lat:34.432,lon:135.230,cont:"AS",type:"large_airport"},
-  {iata:"NGO",icao:"RJGG",name:"Chubu Centrair International Airport",city:"Nagoya",country:"Japan",lat:34.858,lon:136.805,cont:"AS",type:"large_airport"},
-  {iata:"CTS",icao:"RJCC",name:"New Chitose Airport",city:"Sapporo",country:"Japan",lat:42.775,lon:141.692,cont:"AS",type:"large_airport"},
-  {iata:"FUK",icao:"RJFF",name:"Fukuoka Airport",city:"Fukuoka",country:"Japan",lat:33.584,lon:130.452,cont:"AS",type:"large_airport"},
-  {iata:"YUL",icao:"CYUL",name:"Montreal-Trudeau International Airport",city:"Montreal",country:"Canada",lat:45.467,lon:-73.741,cont:"NA",type:"large_airport"},
-  {iata:"YYC",icao:"CYYC",name:"Calgary International Airport",city:"Calgary",country:"Canada",lat:51.113,lon:-114.020,cont:"NA",type:"large_airport"},
-  {iata:"YEG",icao:"CYEG",name:"Edmonton International Airport",city:"Edmonton",country:"Canada",lat:53.309,lon:-113.580,cont:"NA",type:"large_airport"},
-  {iata:"HNL",icao:"PHNL",name:"Daniel K. Inouye International Airport",city:"Honolulu",country:"United States",lat:21.320,lon:-157.922,cont:"NA",type:"large_airport"},
-  {iata:"ANC",icao:"PANC",name:"Ted Stevens Anchorage International Airport",city:"Anchorage",country:"United States",lat:61.174,lon:-149.996,cont:"NA",type:"large_airport"},
-  {iata:"DEN",icao:"KDEN",name:"Denver International Airport",city:"Denver",country:"United States",lat:39.849,lon:-104.673,cont:"NA",type:"large_airport"},
-  {iata:"DFW",icao:"KDFW",name:"Dallas/Fort Worth International Airport",city:"Dallas",country:"United States",lat:32.896,lon:-97.038,cont:"NA",type:"large_airport"},
-  {iata:"SEA",icao:"KSEA",name:"Seattle-Tacoma International Airport",city:"Seattle",country:"United States",lat:47.449,lon:-122.309,cont:"NA",type:"large_airport"},
-  {iata:"MIA",icao:"KMIA",name:"Miami International Airport",city:"Miami",country:"United States",lat:25.795,lon:-80.287,cont:"NA",type:"large_airport"},
-  {iata:"BOS",icao:"KBOS",name:"Boston Logan International Airport",city:"Boston",country:"United States",lat:42.363,lon:-71.006,cont:"NA",type:"large_airport"},
-  {iata:"EWR",icao:"KEWR",name:"Newark Liberty International Airport",city:"Newark",country:"United States",lat:40.689,lon:-74.174,cont:"NA",type:"large_airport"},
-  {iata:"PHX",icao:"KPHX",name:"Phoenix Sky Harbor International Airport",city:"Phoenix",country:"United States",lat:33.435,lon:-112.006,cont:"NA",type:"large_airport"},
-  {iata:"LAS",icao:"KLAS",name:"Harry Reid International Airport",city:"Las Vegas",country:"United States",lat:36.083,lon:-115.152,cont:"NA",type:"large_airport"},
-  {iata:"MCO",icao:"KMCO",name:"Orlando International Airport",city:"Orlando",country:"United States",lat:28.429,lon:-81.309,cont:"NA",type:"large_airport"},
-  {iata:"IAH",icao:"KIAH",name:"George Bush Intercontinental Airport",city:"Houston",country:"United States",lat:29.984,lon:-95.341,cont:"NA",type:"large_airport"}
-];
-const uniAirports = AIRPORTS.filter((a,i,arr)=>arr.findIndex(x=>x.iata===a.iata)===i);
-
-const CONT_DATA = [
-  {id:"NA",label:"North America",total:39581,iata:2950,color:"#2C7BE5"},
-  {id:"EU",label:"Europe",total:12489,iata:927,color:"#E9C46A"},
-  {id:"AS",label:"Asia",total:12719,iata:1903,color:"#F4A261"},
-  {id:"SA",label:"South America",total:12262,iata:921,color:"#6CB4EE"},
-  {id:"AF",label:"Africa",total:4226,iata:1065,color:"#E76F51"},
-  {id:"OC",label:"Oceania",total:4221,iata:1287,color:"#2A9D8F"},
-  {id:"AN",label:"Antarctica",total:47,iata:3,color:"#D4E8F7"}
-];
-const CONT_COUNTRIES = {
-  NA:[{n:"United States",c:32518},{n:"Canada",c:8513},{n:"Mexico",c:2694},{n:"Puerto Rico",c:329},{n:"Greenland",c:191}],
-  EU:[{n:"France",c:1768},{n:"United Kingdom",c:1593},{n:"Germany",c:1432},{n:"Italy",c:1114},{n:"Spain",c:507}],
-  AS:[{n:"Japan",c:3747},{n:"Russia",c:1808},{n:"China",c:776},{n:"India",c:649},{n:"Indonesia",c:728}],
-  SA:[{n:"Brazil",c:7947},{n:"Argentina",c:995},{n:"Venezuela",c:898},{n:"Colombia",c:736},{n:"Chile",c:356}],
-  AF:[{n:"South Africa",c:674},{n:"Egypt",c:216},{n:"Madagascar",c:208},{n:"Morocco",c:175},{n:"Kenya",c:171}],
-  OC:[{n:"Australia",c:2789},{n:"New Zealand",c:529},{n:"Papua New Guinea",c:309},{n:"Fiji",c:136},{n:"Solomon Islands",c:110}],
-  AN:[{n:"Antarctica",c:47}]
-};
-const TYPE_BY_CONT = {ALL:{small_airport:42671,heliport:23069,closed:13204,medium_airport:4099,seaplane_base:1263,large_airport:1178,balloonport:61},
-  NA:{small_airport:18667,heliport:9344,closed:8970,medium_airport:1233,seaplane_base:1142,large_airport:440,balloonport:25},
-  EU:{small_airport:6404,heliport:3239,closed:1797,medium_airport:728,large_airport:260,seaplane_base:48,balloonport:13},
-  AS:{small_airport:2850,heliport:6919,closed:1352,medium_airport:1113,large_airport:426,seaplane_base:48,balloonport:11},
-  SA:{small_airport:8542,heliport:2751,closed:515,medium_airport:361,large_airport:88,seaplane_base:5,balloonport:0},
-  AF:{small_airport:3159,heliport:248,closed:282,medium_airport:362,large_airport:172,seaplane_base:3,balloonport:0},
-  OC:{small_airport:3023,heliport:559,closed:283,medium_airport:295,large_airport:48,seaplane_base:12,balloonport:1},
-  AN:{small_airport:26,heliport:9,closed:5,medium_airport:7,seaplane_base:0,large_airport:0,balloonport:0}
-};
-const COUNTRY_DATA = [
-  {flag:"🇺🇸",name:"United States",airports:39581,iata:2950},{flag:"🇩🇪",name:"Germany",airports:751,iata:119},
-  {flag:"🇬🇧",name:"United Kingdom",airports:1093,iata:103},{flag:"🇫🇷",name:"France",airports:1171,iata:130},
-  {flag:"🇨🇦",name:"Canada",airports:8513,iata:346},{flag:"🇦🇺",name:"Australia",airports:3078,iata:341},
-  {flag:"🇧🇷",name:"Brazil",airports:5463,iata:328},{flag:"🇯🇵",name:"Japan",airports:607,iata:131}
+  {iata:"UIO",icao:"SEQM",name:"Mariscal Sucre International Airport",city:"Quito",country:"Ecuador",lat:-0.129,lon:-78.357,cont:"SA",type:"large_airport"},
+  {iata:"CPT",icao:"FACT",name:"Cape Town International Airport",city:"Cape Town",country:"South Africa",lat:-33.964,lon:18.601,cont:"AF",type:"large_airport"},
+  {iata:"JNB",icao:"FAOR",name:"O.R. Tambo International Airport",city:"Johannesburg",country:"South Africa",lat:-26.132,lon:28.231,cont:"AF",type:"large_airport"},
+  {iata:"CAI",icao:"HECA",name:"Cairo International Airport",city:"Cairo",country:"Egypt",lat:30.111,lon:31.411,cont:"AF",type:"large_airport"},
+  {iata:"NBO",icao:"HKJK",name:"Jomo Kenyatta International Airport",city:"Nairobi",country:"Kenya",lat:-1.319,lon:36.927,cont:"AF",type:"large_airport"},
+  {iata:"LOS",icao:"DNMM",name:"Murtala Muhammed International Airport",city:"Lagos",country:"Nigeria",lat:6.577,lon:3.321,cont:"AF",type:"large_airport"},
+  {iata:"AKL",icao:"NZAA",name:"Auckland Airport",city:"Auckland",country:"New Zealand",lat:-37.008,lon:174.792,cont:"OC",type:"large_airport"},
+  {iata:"CHC",icao:"NZCH",name:"Christchurch International Airport",city:"Christchurch",country:"New Zealand",lat:-43.489,lon:172.532,cont:"OC",type:"large_airport"},
+  {iata:"WLG",icao:"NZWN",name:"Wellington International Airport",city:"Wellington",country:"New Zealand",lat:-41.327,lon:174.805,cont:"OC",type:"large_airport"},
+  {iata:"PER",icao:"YPPH",name:"Perth Airport",city:"Perth",country:"Australia",lat:-31.940,lon:115.966,cont:"OC",type:"large_airport"},
+  {iata:"ADL",icao:"YPAD",name:"Adelaide Airport",city:"Adelaide",country:"Australia",lat:-34.945,lon:138.530,cont:"OC",type:"large_airport"},
+  {iata:"PMI",icao:"LEPA",name:"Palma de Mallorca Airport",city:"Palma de Mallorca",country:"Spain",lat:39.553,lon:2.727,cont:"EU",type:"large_airport"},
+  {iata:"LPA",icao:"GCLP",name:"Gran Canaria Airport",city:"Las Palmas",country:"Spain",lat:27.931,lon:-15.386,cont:"EU",type:"large_airport"},
+  {iata:"HER",icao:"LGIR",name:"Heraklion International Airport",city:"Heraklion",country:"Greece",lat:35.339,lon:25.180,cont:"EU",type:"large_airport"},
+  {iata:"ATH",icao:"LGAV",name:"Athens International Airport",city:"Athens",country:"Greece",lat:37.936,lon:23.944,cont:"EU",type:"large_airport"},
+  {iata:"SKG",icao:"LGTS",name:"Thessaloniki Airport",city:"Thessaloniki",country:"Greece",lat:40.519,lon:22.970,cont:"EU",type:"large_airport"},
+  {iata:"INN",icao:"LOWI",name:"Innsbruck Airport",city:"Innsbruck",country:"Austria",lat:47.260,lon:11.343,cont:"EU",type:"medium_airport"},
+  {iata:"SZG",icao:"LOWS",name:"Salzburg Airport",city:"Salzburg",country:"Austria",lat:47.793,lon:13.003,cont:"EU",type:"medium_airport"},
+  {iata:"MSN",icao:"KMSN",name:"Dane County Regional Airport",city:"Madison",country:"United States",lat:43.139,lon:-89.337,cont:"NA",type:"small_airport"},
+  {iata:"SGU",icao:"KSGU",name:"St. George Regional Airport",city:"St George",country:"United States",lat:37.036,lon:-113.510,cont:"NA",type:"medium_airport"},
+  {iata:"RNO",icao:"KRNO",name:"Reno-Tahoe International Airport",city:"Reno",country:"United States",lat:39.499,lon:-119.768,cont:"NA",type:"medium_airport"},
+  {iata:"BOI",icao:"KBOI",name:"Boise Air Terminal",city:"Boise",country:"United States",lat:43.564,lon:-116.222,cont:"NA",type:"medium_airport"},
+  {iata:"PSP",icao:"KPSP",name:"Palm Springs International Airport",city:"Palm Springs",country:"United States",lat:33.829,lon:-116.506,cont:"NA",type:"medium_airport"},
+  {iata:"FLL",icao:"KFLL",name:"Fort Lauderdale-Hollywood International Airport",city:"Fort Lauderdale",country:"United States",lat:26.072,lon:-80.152,cont:"NA",type:"medium_airport"},
+  {iata:"PBI",icao:"KPBI",name:"Palm Beach International Airport",city:"West Palm Beach",country:"United States",lat:26.683,lon:-80.095,cont:"NA",type:"medium_airport"},
+  {iata:"TPA",icao:"KTPA",name:"Tampa International Airport",city:"Tampa",country:"United States",lat:27.975,lon:-82.533,cont:"NA",type:"medium_airport"},
+  {iata:"RSW",icao:"KRSW",name:"Southwest Florida International Airport",city:"Fort Myers",country:"United States",lat:26.536,lon:-81.755,cont:"NA",type:"medium_airport"},
+  {iata:"AUS",icao:"KAUS",name:"Austin-Bergstrom International Airport",city:"Austin",country:"United States",lat:30.194,lon:-97.669,cont:"NA",type:"medium_airport"},
+  {iata:"SAT",icao:"KSAT",name:"San Antonio International Airport",city:"San Antonio",country:"United States",lat:29.533,lon:-98.469,cont:"NA",type:"medium_airport"},
+  {iata:"SJC",icao:"KSJC",name:"Norman Y. Mineta San Jose International Airport",city:"San Jose",country:"United States",lat:37.362,lon:-121.929,cont:"NA",type:"medium_airport"},
+  {iata:"PDX",icao:"KPDX",name:"Portland International Airport",city:"Portland",country:"United States",lat:45.588,lon:-122.597,cont:"NA",type:"large_airport"},
+  {iata:"SMF",icao:"KSMF",name:"Sacramento International Airport",city:"Sacramento",country:"United States",lat:38.695,lon:-121.590,cont:"NA",type:"medium_airport"},
+  {iata:"STL",icao:"KSTL",name:"St. Louis Lambert International Airport",city:"St Louis",country:"United States",lat:38.748,lon:-90.370,cont:"NA",type:"large_airport"},
+  {iata:"MSP",icao:"KMSP",name:"Minneapolis-Saint Paul International Airport",city:"Minneapolis",country:"United States",lat:44.880,lon:-93.216,cont:"NA",type:"large_airport"},
+  {iata:"DTW",icao:"KDTW",name:"Detroit Metropolitan Wayne County Airport",city:"Detroit",country:"United States",lat:42.212,lon:-83.353,cont:"NA",type:"large_airport"},
+  {iata:"PHL",icao:"KPHL",name:"Philadelphia International Airport",city:"Philadelphia",country:"United States",lat:39.871,lon:-75.241,cont:"NA",type:"large_airport"},
+  {iata:"CLT",icao:"KCLT",name:"Charlotte Douglas International Airport",city:"Charlotte",country:"United States",lat:35.214,lon:-80.943,cont:"NA",type:"large_airport"},
+  {iata:"BNA",icao:"KBNA",name:"Nashville International Airport",city:"Nashville",country:"United States",lat:36.126,lon:-86.677,cont:"NA",type:"large_airport"},
+  {iata:"HNL",icao:"PHNL",name:"Daniel K. Inouye International Airport",city:"Honolulu",country:"United States",lat:21.320,lon:-157.924,cont:"OC",type:"large_airport"},
+  {iata:"OGG",icao:"PHOG",name:"Kahului Airport",city:"Kahului",country:"United States",lat:20.898,lon:-156.430,cont:"OC",type:"medium_airport"},
+  {iata:"LIH",icao:"PHLI",name:"Lihue Airport",city:"Lihue",country:"United States",lat:21.975,lon:-159.338,cont:"OC",type:"medium_airport"},
+  {iata:"KOA",icao:"PHKO",name:"Kona International Airport",city:"Kailua-Kona",country:"United States",lat:19.738,lon:-156.045,cont:"OC",type:"medium_airport"},
+  {iata:"GUM",icao:"PGUM",name:"Guam International Airport",city:"Hagatna",country:"Guam",lat:13.483,lon:144.797,cont:"OC",type:"medium_airport"},
+  {iata:"PPT",icao:"NTAA",name:"Tahiti Faa'a Airport",city:"Papeete",country:"French Polynesia",lat:-17.553,lon:-149.607,cont:"OC",type:"medium_airport"},
+  {iata:"NAN",icao:"NFFN",name:"Nadi International Airport",city:"Nadi",country:"Fiji",lat:-17.754,lon:177.443,cont:"OC",type:"medium_airport"},
+  {iata:"CBR",icao:"YSCB",name:"Canberra Airport",city:"Canberra",country:"Australia",lat:-35.306,lon:149.195,cont:"OC",type:"medium_airport"},
 ];
 
-// ── SCROLL ANIMATIONS ──
-function initScroll() {
-  const obs = new IntersectionObserver(e=>{e.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('visible');entry.target.querySelectorAll('[data-count]').forEach(el=>{const t=parseInt(el.getAttribute('data-count'));if(t&&!el.dataset.animated){el.dataset.animated='1';const d=2000,s=performance.now();(function step(n){const p=Math.min((n-s)/d,1),e=1-Math.pow(1-p,3);el.textContent=Math.floor(e*t).toLocaleString();if(p<1)requestAnimationFrame(step);else el.textContent=t.toLocaleString()})(s)}})}})},{threshold:.2});
-  document.querySelectorAll('.fade-in,.slide-up,.scale-in,.stagger').forEach(e=>obs.observe(e));
-  // Hero count-ups
-  document.querySelectorAll('.hero-stat .num').forEach(el=>{const t=parseInt(el.getAttribute('data-count'));if(t){setTimeout(()=>{const d=1500,s=performance.now();(function step(n){const p=Math.min((n-s)/d,1),e=1-Math.pow(1-p,3);el.textContent=Math.floor(e*t).toLocaleString();if(p<1)requestAnimationFrame(step)})(s)},300)}});
-}
+// ══════════════════════════════════════════════════════════════
+// ║  CONTINENT DATA STATS                                   ║
+// ══════════════════════════════════════════════════════════════
+const CONT_STATS = {};
+AIRPORTS.forEach(a => {
+  if (!CONT_STATS[a.cont]) CONT_STATS[a.cont] = {large:0, medium:0, small:0, total:0};
+  const c = CONT_STATS[a.cont];
+  if (a.type === 'large_airport') c.large++;
+  else if (a.type === 'medium_airport') c.medium++;
+  else c.small++;
+  c.total++;
+});
 
-// ── SEARCH ──
-function populateCountryFilter() {
-  const s=document.getElementById('filter-country'),countries=[...new Set(uniAirports.map(a=>a.country))].sort();
-  countries.forEach(c=>{const o=document.createElement('option');o.value=c;o.textContent=c;s.appendChild(o)});
-}
-function filterSearch(){
-  const q=document.getElementById('iata-search-input').value.toLowerCase().trim();
-  const fc=document.getElementById('filter-continent').value;
-  const ft=document.getElementById('filter-type').value;
-  const fco=document.getElementById('filter-country').value;
-  let list=uniAirports;
-  if(fc)list=list.filter(a=>a.cont===fc);
-  if(ft)list=list.filter(a=>a.type===ft);
-  if(fco)list=list.filter(a=>a.country===fco);
-  if(q)list=list.filter(a=>a.iata.toLowerCase().includes(q)||a.icao.toLowerCase().includes(q)||a.name.toLowerCase().includes(q)||a.city.toLowerCase().includes(q)||a.country.toLowerCase().includes(q));
-  renderSearch(list);
-}
-function clearSearch(){document.getElementById('iata-search-input').value='';document.getElementById('filter-continent').value='';document.getElementById('filter-type').value='';document.getElementById('filter-country').value='';filterSearch()}
-function renderSearch(list){
-  const tbody=document.getElementById('search-tbody');tbody.innerHTML='';
-  list.slice(0,100).forEach(ap=>{
-    const tr=document.createElement('tr');
-    tr.innerHTML=`<td><span class="iata-badge">${ap.iata}</span></td><td>${ap.icao}</td><td>${ap.name}</td><td>${ap.city}</td><td>${ap.country}</td><td>${ap.type.replace(/_/g,' ')}</td>`;
+// ══════════════════════════════════════════════════════════════
+// ║  IATA CODE EXPLORER                                     ║
+// ══════════════════════════════════════════════════════════════
+const countries = [...new Set(AIRPORTS.map(a => a.country))].sort();
+const countrySelect = document.getElementById('filter-country');
+countries.forEach(c => {
+  const opt = document.createElement('option');
+  opt.value = c; opt.textContent = c;
+  countrySelect.appendChild(opt);
+});
+
+function filterSearch() {
+  const q = document.getElementById('iata-search-input').value.toLowerCase().trim();
+  const cont = document.getElementById('filter-continent').value;
+  const type = document.getElementById('filter-type').value;
+  const cntr = document.getElementById('filter-country').value;
+  const tbody = document.getElementById('search-tbody');
+  tbody.innerHTML = '';
+  let count = 0;
+  AIRPORTS.forEach(a => {
+    if (cont && a.cont !== cont) return;
+    if (type && a.type !== type) return;
+    if (cntr && a.country !== cntr) return;
+    if (q && !a.iata.toLowerCase().includes(q) && !a.icao.toLowerCase().includes(q) &&
+        !a.name.toLowerCase().includes(q) && !a.city.toLowerCase().includes(q)) return;
+    if (count >= 200) return;
+    count++;
+    const tr = document.createElement('tr');
+    const link = `/airports/${(a.country||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')||'unknown'}/${a.name.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,60)}-${a.iata.toLowerCase()}/`;
+    tr.innerHTML = `<td><a href="${link}" class="iata-badge" style="background:var(--primary)">${a.iata}</a></td><td>${a.icao}</td><td><a href="${link}">${a.name}</a></td><td>${a.city}</td><td>${a.country}</td><td>${a.type}</td>`;
     tbody.appendChild(tr);
   });
-}
-
-// ── MAP ──
-let map=null,lightLayer=null,darkLayer=null;
-function initMap(){
-  map=L.map('fra-map',{zoomControl:true}).setView([50.033,8.561],8);
-  lightLayer=L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{attribution:'&copy; <a href="https://carto.com/">CARTO</a>',maxZoom:19}).addTo(map);
-  darkLayer=L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png',{attribution:'&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>',maxZoom:19});
-  L.marker([50.033,8.561]).addTo(map).bindPopup('<b>Frankfurt Airport (FRA)</b><br>EDDF').openPopup();
-  // Nearby markers
-  [[48.353,11.786,'MUC'],[50.865,7.142,'CGN'],[48.689,9.221,'STR'],[49.498,11.078,'NUE'],[49.948,7.263,'HHN']].forEach(m=>{L.circleMarker([m[0],m[1]],{radius:6,color:'#F4A261',fillColor:'#E9C46A',fillOpacity:.8}).addTo(map).bindPopup(`<b>${m[2]}</b>`)});
-}
-function switchMapStyle(style){
-  if(style==='dark'){map.removeLayer(lightLayer);map.addLayer(darkLayer);document.getElementById('map-light-btn').classList.remove('active');document.getElementById('map-dark-btn').classList.add('active')}
-  else{map.removeLayer(darkLayer);map.addLayer(lightLayer);document.getElementById('map-dark-btn').classList.remove('active');document.getElementById('map-light-btn').classList.add('active')}
-}
-
-// ── COUNTRY GRID ──
-function renderCountries(){
-  const g=document.getElementById('country-grid');
-  COUNTRY_DATA.forEach(c=>{const d=document.createElement('div');d.className='country-card';d.innerHTML=`<div class="flag">${c.flag}</div><div class="info"><div class="name">${c.name}</div><div class="count"><strong>${c.airports.toLocaleString()}</strong> airports &middot; <strong>${c.iata}</strong> IATA</div></div>`;g.appendChild(d)});
-}
-
-// ── DISTANCE CALC ──
-function populateDist(){
-  const f=document.getElementById('dist-from'),t=document.getElementById('dist-to');
-  uniAirports.forEach(ap=>{const l=`${ap.iata} — ${ap.name}, ${ap.country}`;f.innerHTML+=`<option value="${ap.iata}">${l}</option>`;t.innerHTML+=`<option value="${ap.iata}">${l}</option>`});
-  f.value='FRA';t.value='JFK';
-}
-function haversine(l1,o1,l2,o2){const R=6371,dL=(l2-l1)*Math.PI/180,dO=(o2-o1)*Math.PI/180,a=Math.sin(dL/2)**2+Math.cos(l1*Math.PI/180)*Math.cos(l2*Math.PI/180)*Math.sin(dO/2)**2;return R*2*Math.atan2(Math.sqrt(a),Math.sqrt(1-a))}
-function calcDistance(){
-  const fc=document.getElementById('dist-from').value,tc=document.getElementById('dist-to').value;
-  const f=uniAirports.find(a=>a.iata===fc),t=uniAirports.find(a=>a.iata===tc);if(!f||!t)return;
-  const km=haversine(f.lat,f.lon,t.lat,t.lon),mi=km*0.621371;
-  document.getElementById('dist-km').textContent=Math.round(km).toLocaleString();
-  document.getElementById('dist-mi').textContent=Math.round(mi).toLocaleString();
-  document.getElementById('route-info').textContent=`${f.name} (${fc}) → ${t.name} (${tc})`;
-  document.getElementById('dist-result').classList.add('visible');
-  drawGlobe(f,t);
-}
-function drawGlobe(from,to){
-  const svg=document.getElementById('globe-svg');svg.innerHTML='';
-  const cx=0,cy=0,R=95;
-  // Globe circle
-  const g=document.createElementNS('http://www.w3.org/2000/svg','g');
-  svg.appendChild(g);
-  const circle=document.createElementNS('http://www.w3.org/2000/svg','circle');
-  circle.setAttribute('cx',cx);circle.setAttribute('cy',cy);circle.setAttribute('r',R);
-  circle.setAttribute('fill','#0B1D3A');circle.setAttribute('stroke','#2ca4dc');circle.setAttribute('stroke-width','2');
-  g.appendChild(circle);
-  // Grid lines
-  for(let i=-2;i<=2;i++){const el=document.createElementNS('http://www.w3.org/2000/svg','ellipse');el.setAttribute('cx',cx);el.setAttribute('cy',cy);el.setAttribute('rx',R);el.setAttribute('ry',Math.abs(R*i/3));el.setAttribute('fill','none');el.setAttribute('stroke','rgba(44,164,220,0.2)');el.setAttribute('stroke-width','.5');g.appendChild(el)}
-  for(let i=-2;i<=2;i++){const el=document.createElementNS('http://www.w3.org/2000/svg','ellipse');el.setAttribute('cx',cx);el.setAttribute('cy',cy);el.setAttribute('rx',Math.abs(R*i/3));el.setAttribute('ry',R);el.setAttribute('fill','none');el.setAttribute('stroke','rgba(44,164,220,0.2)');el.setAttribute('stroke-width','.5');g.appendChild(el)}
-  // Convert lat/lon to SVG coords (simple orthographic)
-  function toXY(lat,lon){const phi=lat*Math.PI/180,lam=lon*Math.PI/180;return{x:R*Math.cos(phi)*Math.sin(lam),y:-R*Math.sin(phi)}}
-  const p1=toXY(from.lat,from.lon),p2=toXY(to.lat,to.lon);
-  // Start marker (green)
-  const m1=document.createElementNS('http://www.w3.org/2000/svg','circle');
-  m1.setAttribute('cx',p1.x);m1.setAttribute('cy',p1.y);m1.setAttribute('r',5);
-  m1.setAttribute('fill','#2A9D8F');m1.setAttribute('stroke','#fff');m1.setAttribute('stroke-width','2');
-  g.appendChild(m1);
-  // End marker (red)
-  const m2=document.createElementNS('http://www.w3.org/2000/svg','circle');
-  m2.setAttribute('cx',p2.x);m2.setAttribute('cy',p2.y);m2.setAttribute('r',5);
-  m2.setAttribute('fill','#E76F51');m2.setAttribute('stroke','#fff');m2.setAttribute('stroke-width','2');
-  g.appendChild(m2);
-  // Great circle arc (intermediate points)
-  const steps=50;let d='';const pts=[];
-  for(let i=0;i<=steps;i++){
-    const f=i/steps;
-    const lat=from.lat+(to.lat-from.lat)*f,lon=from.lon+(to.lon-from.lon)*f;
-    const p=toXY(lat,lon);pts.push(p);
-    d+=i===0?`M${p.x},${p.y}`:`L${p.x},${p.y}`;
+  if (count === 0) {
+    const tr = document.createElement('tr');
+    tr.innerHTML = '<td colspan="6" style="text-align:center;padding:30px;color:#889">No airports match your search. Try different filters.</td>';
+    tbody.appendChild(tr);
   }
-  const arc=document.createElementNS('http://www.w3.org/2000/svg','path');
-  arc.setAttribute('d',d);arc.setAttribute('fill','none');
-  arc.setAttribute('stroke','#F4A261');arc.setAttribute('stroke-width','2');
-  arc.setAttribute('stroke-dasharray','6,4');
-  g.appendChild(arc);
-  // Flying plane along the arc
-  let idx=0;
-  const plane=document.createElementNS('http://www.w3.org/2000/svg','text');
-  plane.setAttribute('font-size','14');plane.setAttribute('text-anchor','middle');
-  plane.textContent='✈';
-  g.appendChild(plane);
-  if(window.__globeInterval)clearInterval(window.__globeInterval);
-  window.__globeInterval=setInterval(()=>{
-    idx=(idx+1)%pts.length;
-    plane.setAttribute('x',pts[idx].x);
-    plane.setAttribute('y',pts[idx].y-10);
-  },100);
 }
 
-// ── D3 BUBBLE CHART ──
-let currentContView=null;
-function drawBubbles(data,labels){
-  const wrap=document.getElementById('continent-chart');wrap.innerHTML='<div class="chart-tooltip" id="continent-tooltip"></div>';
-  const w=wrap.clientWidth||900,h=420,m=40,tt=document.getElementById('continent-tooltip');
-  const svg=d3.select('#continent-chart').append('svg').attr('width',w).attr('height',h).style('overflow','visible');
-  const g=svg.append('g').attr('transform',`translate(${m},${m}`);
-  const innerW=w-m*2,innerH=h-m*2;
-  // Grid
-  g.append('g').selectAll('line').data(d3.range(0,innerW,40)).enter().append('line').attr('x1',d=>d).attr('x2',d=>d).attr('y1',0).attr('y2',innerH).attr('stroke','#e8edf2').attr('stroke-width',1);
-  g.append('g').selectAll('line').data(d3.range(0,innerH,40)).enter().append('line').attr('y1',d=>d).attr('y2',d=>d).attr('x1',0).attr('x2',innerW).attr('stroke','#e8edf2').attr('stroke-width',1);
-  // Pack
-  const pack=d3.pack().size([innerW,innerH]).padding(8);
-  const root=d3.hierarchy({children:data.map(d=>({...d,value:d.total}))}).sum(d=>d.value);
-  const nodes=pack(root).leaves();
-  // Circles
-  g.selectAll('circle').data(nodes).enter().append('circle')
-    .attr('cx',d=>d.x).attr('cy',d=>d.y).attr('r',0)
-    .attr('fill',d=>d.data.color).attr('stroke','#fff').attr('stroke-width',2).attr('opacity',.85)
-    .on('mouseover',function(ev,d){d3.select(this).attr('opacity',1).attr('stroke','#333').attr('stroke-width',3);tt.style.opacity=1;tt.innerHTML=`<strong>${d.data.label}</strong><br>Total: ${d.data.total.toLocaleString()}<br>IATA: ${(d.data.iata||0).toLocaleString()}`})
-    .on('mousemove',function(ev){tt.style.left=(ev.offsetX+15)+'px';tt.style.top=(ev.offsetY-10)+'px'})
-    .on('mouseout',function(){d3.select(this).attr('opacity',.85).attr('stroke','#fff').attr('stroke-width',2);tt.style.opacity=0})
-    .on('click',function(ev,d){if(CONT_COUNTRIES[d.data.id])drillContinent(d.data.id)})
-    .transition().duration(1200).delay((d,i)=>i*120).ease(d3.easeElasticOut.amplitude(.5)).attr('r',d=>d.r);
+function clearSearch() {
+  document.getElementById('iata-search-input').value = '';
+  document.getElementById('filter-continent').value = '';
+  document.getElementById('filter-type').value = '';
+  document.getElementById('filter-country').value = '';
+  filterSearch();
+}
+
+// Initial load
+filterSearch();
+
+// ══════════════════════════════════════════════════════════════
+// ║  SCROLL ANIMATIONS                                       ║
+// ══════════════════════════════════════════════════════════════
+(function scrollAnim() {
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.classList.add('visible');
+        observer.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.15 });
+  document.querySelectorAll('.fade-in, .slide-up, .scale-in, .stagger').forEach(el => observer.observe(el));
+})();
+
+// ══════════════════════════════════════════════════════════════
+// ║  FRA MAP + MAP STYLE SWITCH                             ║
+// ══════════════════════════════════════════════════════════════
+let fraMap = null;
+function initFraMap() {
+  if (fraMap) return;
+  fraMap = L.map('fra-map').setView([50.033, 8.561], 10);
+  addTileLayer('light');
+  L.marker([50.033, 8.561]).addTo(fraMap)
+    .bindPopup('<b>Frankfurt Airport (FRA)</b><br>EDDF')
+    .openPopup();
+}
+
+function addTileLayer(style) {
+  if (!fraMap) return;
+  fraMap.eachLayer(l => { if (l._url) fraMap.removeLayer(l); });
+  L.tileLayer(style === 'dark'
+    ? 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png'
+    : 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
+    { attribution: '&copy; CARTO', maxZoom: 19 }
+  ).addTo(fraMap);
+}
+
+function switchMapStyle(style) {
+  document.getElementById('map-light-btn').classList.toggle('active', style === 'light');
+  document.getElementById('map-dark-btn').classList.toggle('active', style === 'dark');
+  addTileLayer(style);
+}
+
+// Init map when section is visible
+(function fraMapObserver() {
+  const obs = new IntersectionObserver((entries) => {
+    if (entries[0].isIntersecting) {
+      initFraMap();
+      obs.disconnect();
+    }
+  }, { threshold: 0.3 });
+  obs.observe(document.getElementById('fra-map'));
+})();
+
+// ══════════════════════════════════════════════════════════════
+// ║  COUNTRIES GRID                                          ║
+// ══════════════════════════════════════════════════════════════
+(function countriesGrid() {
+  const grid = document.getElementById('country-grid');
+  const top = [
+    {c:"United States",n:39581,e:"🇺🇸"},{c:"Brazil",n:7947,e:"🇧🇷"},
+    {c:"Canada",n:8513,e:"🇨🇦"},{c:"Japan",n:3747,e:"🇯🇵"},
+    {c:"France",n:1768,e:"🇫🇷"},{c:"Australia",n:2789,e:"🇦🇺"},
+    {c:"Germany",n:1432,e:"🇩🇪"},{c:"United Kingdom",n:1593,e:"🇬🇧"}
+  ];
+  grid.innerHTML = top.map(cc => {
+    const slug = cc.c.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'');
+    return `<a href="/airports/${slug}/" class="country-card">
+      <div class="flag">${cc.e}</div>
+      <div class="info">
+        <div class="name">${cc.c}</div>
+        <div class="count"><strong>${cc.n.toLocaleString()}</strong> airports</div>
+      </div>
+    </a>`;
+  }).join('');
+})();
+
+// ══════════════════════════════════════════════════════════════
+// ║  DISTANCE CALCULATOR                                     ║
+// ══════════════════════════════════════════════════════════════
+(function initDistance() {
+  const fromSel = document.getElementById('dist-from');
+  const toSel = document.getElementById('dist-to');
+  AIRPORTS.forEach(a => {
+    const opt1 = document.createElement('option');
+    opt1.value = a.iata; opt1.textContent = `${a.iata} — ${a.name}, ${a.country}`;
+    fromSel.appendChild(opt1);
+    const opt2 = opt1.cloneNode(true);
+    toSel.appendChild(opt2);
+  });
+  fromSel.value = 'FRA';
+  toSel.value = 'JFK';
+})();
+
+function toRad(deg) { return deg * Math.PI / 180; }
+
+function calcDistance() {
+  const fromIATA = document.getElementById('dist-from').value;
+  const toIATA = document.getElementById('dist-to').value;
+  const from = AIRPORTS.find(a => a.iata === fromIATA);
+  const to = AIRPORTS.find(a => a.iata === toIATA);
+  if (!from || !to) return;
+
+  const R = 6371;
+  const dLat = toRad(to.lat - from.lat);
+  const dLon = toRad(to.lon - from.lon);
+  const a = Math.sin(dLat/2)**2 + Math.cos(toRad(from.lat)) * Math.cos(toRad(to.lat)) * Math.sin(dLon/2)**2;
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  const km = Math.round(R * c);
+  const mi = Math.round(km * 0.621371);
+
+  document.getElementById('dist-km').textContent = km.toLocaleString();
+  document.getElementById('dist-mi').textContent = mi.toLocaleString();
+  document.getElementById('route-info').innerHTML = `<strong>${from.name} (${from.iata})</strong> &#9992; <strong>${to.name} (${to.iata})</strong>`;
+  document.getElementById('dist-result').classList.add('visible');
+
+  drawGlobeArc(from.lat, from.lon, to.lat, to.lon);
+}
+
+function drawGlobeArc(lat1, lon1, lat2, lon2) {
+  const svg = document.getElementById('globe-svg');
+  const cx = 0, cy = 0, r = 100;
+  let html = '';
+
+  function toSphere(lat, lon) {
+    const phi = toRad(90 - lat);
+    const theta = toRad(lon);
+    return { x: r * Math.sin(phi) * Math.cos(theta), y: -r * Math.cos(phi), visible: phi < Math.PI/2 };
+  }
+
+  // Globe
+  html += `<circle cx="${cx}" cy="${cy}" r="${r}" fill="#e8f0f8" stroke="#b0c4d8" stroke-width="1.5"/>`;
+  // Continents (simplified)
+  [[0,50,-40,100],[30,20,-20,60],[-30,-60,-80,-30],[40,-120,-50,-70],[50,120,20,150]].forEach(b => {
+    html += `<ellipse cx="${b[2]}" cy="${b[0]}" rx="${(b[3]-b[2])*0.2}" ry="${(b[1]-b[0])*0.15}" fill="#c8d8e8" opacity="0.4"/>`;
+  });
+
+  // Arc
+  const steps = 40;
+  const pts = [];
+  for (let i = 0; i <= steps; i++) {
+    const t = i / steps;
+    const lat = lat1 + (lat2 - lat1) * t;
+    const lon = lon1 + (lon2 - lon1) * t;
+    const p = toSphere(lat, lon);
+    pts.push(p);
+  }
+  let path = pts.map((p,i) => `${i===0?'M':'L'}${p.x.toFixed(1)},${p.y.toFixed(1)}`).join(' ');
+  html += `<path d="${path}" fill="none" stroke="#e76f51" stroke-width="2" stroke-dasharray="4,3" opacity="0.8"/>`;
+
+  // Endpoints
+  const p1 = toSphere(lat1, lon1);
+  const p2 = toSphere(lat2, lon2);
+  html += `<circle cx="${p1.x.toFixed(1)}" cy="${p1.y.toFixed(1)}" r="3" fill="#2ca4dc" stroke="#fff" stroke-width="1"/>`;
+  html += `<circle cx="${p2.x.toFixed(1)}" cy="${p2.y.toFixed(1)}" r="3" fill="#e76f51" stroke="#fff" stroke-width="1"/>`;
+
+  svg.innerHTML = html;
+}
+
+// ══════════════════════════════════════════════════════════════
+// ║  TYPE BREAKDOWN (D3)                                     ║
+// ══════════════════════════════════════════════════════════════
+const TYPE_DATA = [
+  {id:"large_airport",label:"Large",color:"#2C7BE5"},
+  {id:"medium_airport",label:"Medium",color:"#F4A261"},
+  {id:"small_airport",label:"Small",color:"#E9C46A"},
+  {id:"heliport",label:"Heliport",color:"#6CB4EE"},
+  {id:"seaplane_base",label:"Seaplane",color:"#2A9D8F"},
+  {id:"closed",label:"Closed",color:"#E76F51"},
+  {id:"balloonport",label:"Balloonport",color:"#D4E8F7"}
+];
+
+function drawTypeChart() {
+  const cont = document.getElementById('type-filter-cont').value;
+  const size = document.getElementById('type-filter-size').value;
+  const wrap = document.getElementById('type-chart');
+  const w = wrap.clientWidth - 40;
+  const h = 360;
+  if (w < 100) { setTimeout(drawTypeChart, 200); return; }
+
+  let data = TYPE_DATA.map(t => {
+    let count = 0;
+    AIRPORTS.forEach(a => {
+      if (cont && a.cont !== cont) return;
+      if (a.type === t.id) count++;
+    });
+    if (size === 'LARGE' && !['large_airport'].includes(t.id)) count = 0;
+    else if (size === 'MEDIUM' && !['medium_airport'].includes(t.id)) count = 0;
+    else if (size === 'SMALL' && !['small_airport','heliport','seaplane_base','balloonport'].includes(t.id)) count = 0;
+    else if (size === 'CLOSED' && t.id !== 'closed') count = 0;
+    return { ...t, count };
+  }).filter(d => d.count > 0);
+
+  if (data.length === 0) data = [{id:"none",label:"No data",color:"#ccc",count:1}];
+
+  d3.select(wrap).selectAll('svg').remove();
+
+  const svg = d3.select(wrap).append('svg')
+    .attr('width', w)
+    .attr('height', h);
+
+  const tooltip = document.getElementById('type-tooltip');
+
+  const x = d3.scaleBand()
+    .domain(data.map(d => d.label))
+    .range([0, w - 60])
+    .padding(0.3);
+
+  const y = d3.scaleLinear()
+    .domain([0, d3.max(data, d => d.count) * 1.15 || 1])
+    .range([h - 60, 20]);
+
+  const g = svg.append('g').attr('transform', `translate(30,10)`);
+
+  // Bars
+  g.selectAll('rect')
+    .data(data)
+    .enter().append('rect')
+    .attr('x', d => x(d.label))
+    .attr('y', h - 60)
+    .attr('width', x.bandwidth())
+    .attr('height', 0)
+    .attr('fill', d => d.color)
+    .attr('rx', 3)
+    .style('cursor', 'pointer')
+    .on('mouseover', function(ev, d) {
+      d3.select(this).attr('opacity', 0.8);
+      tooltip.style.opacity = 1;
+      tooltip.innerHTML = `<strong>${d.label}</strong><br>Count: ${d.count}`;
+    })
+    .on('mousemove', function(ev) {
+      const r = wrap.getBoundingClientRect();
+      tooltip.style.left = (ev.clientX - r.left + 15) + 'px';
+      tooltip.style.top = (ev.clientY - r.top - 10) + 'px';
+    })
+    .on('mouseout', function() {
+      d3.select(this).attr('opacity', 1);
+      tooltip.style.opacity = 0;
+    })
+    .transition()
+    .duration(500)
+    .delay((d,i) => i * 80)
+    .attr('y', d => y(d.count))
+    .attr('height', d => h - 60 - y(d.count));
+
   // Labels
-  g.selectAll('.cont-label').data(nodes).enter().append('text').attr('class','cont-label')
-    .attr('x',d=>d.x).attr('y',d=>d.y-4).attr('text-anchor','middle')
-    .attr('font-size',d=>Math.max(10,Math.min(d.r/3.5,16))).attr('font-weight','700').attr('fill','#fff').attr('opacity',0)
-    .text(d=>d.data.id).transition().duration(600).delay((d,i)=>i*120+500).attr('opacity',1);
-  g.selectAll('.cont-val').data(nodes).enter().append('text').attr('class','cont-val')
-    .attr('x',d=>d.x).attr('y',d=>d.y+14).attr('text-anchor','middle')
-    .attr('font-size',d=>Math.max(8,Math.min(d.r/5,12))).attr('fill','rgba(255,255,255,.8)').attr('opacity',0)
-    .text(d=>d.data.total.toLocaleString()).transition().duration(600).delay((d,i)=>i*120+700).attr('opacity',1);
-  // Legend
-  const leg=document.getElementById('continent-legend');
-  leg.innerHTML=data.map(d=>`<span style="display:flex;align-items:center;gap:4px"><span style="width:12px;height:12px;background:${d.color};display:inline-block;border-radius:50%"></span>${d.label}</span>`).join('');
-}
-function drillContinent(id){
-  const data=CONT_COUNTRIES[id];
-  document.getElementById('continent-back').style.display='block';
-  const colored=CONT_DATA.find(c=>c.id===id);
-  drawBubbles(data.map((d,i)=>({...d,label:d.n,color:colored.color,id:d.n.substring(0,2)})));
-}
-function resetContinentView(){
-  document.getElementById('continent-back').style.display='none';
-  drawBubbles(CONT_DATA);
+  g.selectAll('text.xl')
+    .data(data)
+    .enter().append('text')
+    .attr('x', d => x(d.label) + x.bandwidth() / 2)
+    .attr('y', h - 40)
+    .attr('text-anchor', 'middle')
+    .attr('font-size', 11)
+    .attr('fill', '#5A6B7F')
+    .text(d => d.label);
+
+  // Count
+  g.selectAll('text.yl')
+    .data(data)
+    .enter().append('text')
+    .attr('x', d => x(d.label) + x.bandwidth() / 2)
+    .attr('y', d => y(d.count) - 8)
+    .attr('text-anchor', 'middle')
+    .attr('font-size', 12)
+    .attr('font-weight', '700')
+    .attr('fill', '#202c39')
+    .text(d => d.count);
 }
 
-// ── D3 TYPE BREAKDOWN ──
-function drawTypeChart(){
-  const cont=document.getElementById('type-filter-cont').value;
-  const size=document.getElementById('type-filter-size').value;
-  let data=TYPE_BY_CONT[cont]||TYPE_BY_CONT.ALL;
-  let entries=Object.entries(data).map(([type,count])=>({type,count,color:TYPE_DATA_COLORS[type]||'#2C7BE5'}));
-  if(size==='LARGE')entries=entries.filter(d=>d.type==='large_airport');
-  else if(size==='MEDIUM')entries=entries.filter(d=>d.type==='medium_airport');
-  else if(size==='SMALL')entries=entries.filter(d=>['small_airport','seaplane_base','heliport','balloonport'].includes(d.type));
-  else if(size==='CLOSED')entries=entries.filter(d=>d.type==='closed');
-  entries.sort((a,b)=>b.count-a.count);
-  const wrap=document.getElementById('type-chart');wrap.innerHTML='<div class="chart-tooltip" id="type-tooltip"></div>';
-  const w=wrap.clientWidth||900,h=380,m={top:20,right:100,bottom:30,left:140},iw=w-m.left-m.right,ih=h-m.top-m.bottom,tt=document.getElementById('type-tooltip');
-  const svg=d3.select('#type-chart').append('svg').attr('width',w).attr('height',h).style('overflow','visible');
-  const g=svg.append('g').attr('transform',`translate(${m.left},${m.top})`);
-  const xM=d3.max(entries,d=>d.count)||1;
-  const xS=d3.scaleLinear().domain([0,xM*1.08]).range([0,iw]);
-  const yS=d3.scaleBand().domain(entries.map(d=>d.type)).range([0,ih]).padding(.25);
-  g.selectAll('rect').data(entries).enter().append('rect')
-    .attr('y',d=>yS(d.type)).attr('x',0).attr('width',0).attr('height',yS.bandwidth())
-    .attr('fill',d=>d.color).attr('rx',2).attr('opacity',.85)
-    .on('mouseover',function(ev,d){d3.select(this).attr('opacity',1);tt.style.opacity=1;tt.innerHTML=`<strong>${d.type.replace(/_/g,' ')}</strong><br>${d.count.toLocaleString()}`})
-    .on('mousemove',function(ev){tt.style.left=(ev.offsetX+15)+'px';tt.style.top=(ev.offsetY-10)+'px'})
-    .on('mouseout',function(){d3.select(this).attr('opacity',.85);tt.style.opacity=0})
-    .transition().duration(800).delay((d,i)=>i*100).ease(d3.easeCubicOut).attr('width',d=>xS(d.count));
-  g.selectAll('.ty-lbl').data(entries).enter().append('text').attr('x',-8).attr('y',d=>yS(d.type)+yS.bandwidth()/2)
-    .attr('text-anchor','end').attr('dominant-baseline','middle').attr('font-size','12').attr('fill','#202c39')
-    .text(d=>d.type.replace(/_/g,' '));
-  g.selectAll('.ty-val').data(entries).enter().append('text').attr('x',iw+8).attr('y',d=>yS(d.type)+yS.bandwidth()/2)
-    .attr('text-anchor','start').attr('dominant-baseline','middle').attr('font-size','12').attr('font-weight','700')
-    .attr('fill','#2ca4dc').attr('opacity',0).text(d=>d.count.toLocaleString())
-    .transition().duration(400).delay((d,i)=>i*100+500).attr('opacity',1);
-  g.append('g').attr('transform',`translate(0,${ih})`).call(d3.axisBottom(xS).ticks(5).tickFormat(d=>d>=1000?(d/1000).toFixed(0)+'k':d))
-    .selectAll('text').attr('font-size','11').attr('fill','#5A6B7F');
-}
-const TYPE_DATA_COLORS={small_airport:'#2C7BE5',heliport:'#E9C46A',closed:'#E76F51',medium_airport:'#F4A261',seaplane_base:'#6CB4EE',large_airport:'#2A9D8F',balloonport:'#D4E8F7'};
+drawTypeChart();
 
-// ── INIT ──
-function init(){
-  renderSearch(uniAirports);populateCountryFilter();renderCountries();populateDist();initScroll();initMap();
-  if(typeof d3!=='undefined'){drawBubbles(CONT_DATA);drawTypeChart()}
-  else{document.getElementById('continent-chart').innerHTML='<p style="padding:40px;text-align:center;color:#889">D3.js failed to load</p>';
-    document.getElementById('type-chart').innerHTML='<p style="padding:40px;text-align:center;color:#889">D3.js failed to load</p>'}}
-document.addEventListener('DOMContentLoaded',init);
+// ══════════════════════════════════════════════════════════════
+// ║  INIT ON LOAD                                            ║
+// ══════════════════════════════════════════════════════════════
+document.addEventListener('DOMContentLoaded', () => {
+  drawContinentBubbles();
+});
 </script>
 </body>
 </html>
