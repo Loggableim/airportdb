@@ -1,6 +1,7 @@
 ---
-const pageTitle = 'Nearest Airport Finder - World Airport Database';
-const pageDesc = 'Find the nearest airports to any location worldwide. Search by coordinates or city name.';
+const pageTitle = 'Nearest Airport Finder — Find Closest Airports by Location | World Airport Database';
+const pageDesc = 'Find the nearest airports to any location worldwide. Use your current location, search by city, or enter coordinates. Interactive map with distance visualization.';
+const pageUrl = 'https://world-airport-database.com/tools/nearest-airport/';
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -9,40 +10,204 @@ const pageDesc = 'Find the nearest airports to any location worldwide. Search by
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{pageTitle}</title>
   <meta name="description" content={pageDesc}>
-  <link rel="canonical" href="https://world-airport-database.com/tools/nearest-airport/">
+  <link rel="canonical" href={pageUrl}>
   <meta property="og:type" content="website">
   <meta property="og:title" content={pageTitle}>
   <meta property="og:description" content={pageDesc}>
-  <meta property="og:url" content="https://world-airport-database.com/tools/nearest-airport/">
-  <meta property="og:image" content="https://world-airport-database.com/og-tool.png">
+  <meta property="og:url" content={pageUrl}>
   <meta property="og:site_name" content="World Airport Database">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content={pageTitle}>
-  <meta name="twitter:description" content={pageDesc}>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:'Inter',Arial,sans-serif;background:#F4F7FA;color:#202c39;line-height:1.6;-webkit-font-smoothing:antialiased}
+    :root{--primary:#2ca4dc;--primary-dark:#2390c2;--navy:#0B1D3A;--slate:#334155;--gray:#5A6B7F;--light:#F0F6FC;--border:#D4E0E8;--white:#fff;--success:#10b981;--error:#ef4444}
+    .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
+
+    /* Sticky Nav */
+    .nav{background:#0f172a;padding:10px 0;position:sticky;top:0;z-index:1000;border-bottom:1px solid rgba(255,255,255,.1)}
+    .nav .wrap{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
+    .nav .logo{color:#fff;font-size:15px;font-weight:700;text-decoration:none;letter-spacing:-.5px;white-space:nowrap}
+    .nav .logo span{color:#60a5fa}
+    .nav-links{display:flex;gap:16px;flex-wrap:wrap;align-items:center}
+    .nav-links a{color:rgba(255,255,255,.7);text-decoration:none;font-size:13px;transition:color .15s}
+    .nav-links a:hover,.nav-links a.active{color:#fff}
+
+    /* Hero */
+    .ah{background:linear-gradient(135deg,var(--navy),#142b4f);padding:36px 0;border-bottom:4px solid var(--primary)}
+    .ah h1{color:#fff;font-size:28px;margin-bottom:6px;font-weight:800;letter-spacing:-.5px}
+    .ah .sub{color:#8899aa;font-size:14px}
+
+    /* Cards */
+    .card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:24px;margin:20px 0;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+    .card h3{font-size:16px;color:var(--navy);margin-bottom:16px;display:flex;align-items:center;gap:8px}
+
+    /* Controls */
+    .input-row{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px}
+    .input-row.three{grid-template-columns:1fr 1fr auto}
+    @media(max-width:600px){.input-row,.input-row.three{grid-template-columns:1fr}}
+    label{display:block;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:var(--navy);margin-bottom:6px}
+    input,select{width:100%;padding:12px 14px;font-size:14px;border:2px solid var(--border);border-radius:8px;font-family:inherit;background:#fff;transition:border-color .15s}
+    input:focus,select:focus{border-color:var(--primary);outline:none}
+    select{cursor:pointer;appearance:auto}
+    input[type="number"]{-moz-appearance:textfield}
+    input[type="number"]::-webkit-outer-spin-button,input[type="number"]::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+
+    .btn-row{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:16px}
+    .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:12px 20px;font-size:14px;font-weight:600;border:none;border-radius:8px;cursor:pointer;font-family:inherit;transition:all .15s;text-decoration:none}
+    .btn-primary{background:var(--primary);color:#fff}
+    .btn-primary:hover{background:var(--primary-dark)}
+    .btn-secondary{background:var(--light);color:var(--navy);border:1px solid var(--border)}
+    .btn-secondary:hover{background:#e3f0f7;border-color:var(--primary)}
+    .btn-success{background:var(--success);color:#fff}
+    .btn-success:hover{background:#059669}
+    .btn-outline{background:transparent;color:var(--primary);border:2px solid var(--primary)}
+    .btn-outline:hover{background:var(--primary);color:#fff}
+    .btn-sm{padding:6px 12px;font-size:12px;border-radius:6px}
+    .btn-block{width:100%}
+    .btn:disabled{opacity:.5;cursor:not-allowed}
+
+    .loc-status{font-size:13px;color:var(--gray);margin:8px 0 0;min-height:20px}
+    .loc-status.success{color:var(--success)}
+    .loc-status.error{color:var(--error)}
+
+    /* Filter toggle */
+    .filter-row{display:flex;align-items:center;gap:12px;margin-bottom:16px;flex-wrap:wrap}
+    .toggle-wrap{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--gray)}
+    .toggle{cursor:pointer;position:relative;width:44px;height:24px;background:var(--border);border-radius:12px;border:none;transition:background .2s;flex-shrink:0}
+    .toggle.active{background:var(--primary)}
+    .toggle::after{content:'';position:absolute;top:2px;left:2px;width:20px;height:20px;background:#fff;border-radius:50%;transition:transform .2s;box-shadow:0 1px 3px rgba(0,0,0,.2)}
+    .toggle.active::after{transform:translateX(20px)}
+
+    /* Loading */
+    .loading{display:none;text-align:center;padding:40px 20px;color:var(--gray)}
+    .loading.show{display:block}
+    .spinner{display:inline-block;width:36px;height:36px;border:3px solid var(--border);border-top-color:var(--primary);border-radius:50%;animation:spin .7s linear infinite;margin-bottom:12px}
+    @keyframes spin{to{transform:rotate(360deg)}}
+
+    /* Error */
+    .error-box{display:none;padding:16px 20px;background:#fef2f2;border:1px solid #fecaca;border-radius:8px;color:var(--error);font-size:14px;margin:16px 0}
+    .error-box.show{display:block}
+
+    /* Results Layout */
+    .results-wrap{display:none;gap:20px;margin-top:20px}
+    .results-wrap.show{display:grid;grid-template-columns:1fr 320px}
+    @media(max-width:860px){.results-wrap.show{grid-template-columns:1fr}}
+
+    .results-main{min-width:0}
+    .results-sidebar{order:-1}
+    @media(max-width:860px){.results-sidebar{order:0}}
+
+    /* Results Header */
+    .results-header{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-bottom:16px}
+    .results-header h3{font-size:16px;color:var(--navy);margin:0}
+    .results-header .info{font-size:13px;color:var(--gray)}
+
+    /* Map */
+    #map{height:450px;border-radius:12px;border:2px solid var(--border);margin-top:16px}
+    @media(max-width:600px){#map{height:300px}}
+
+    /* Table */
+    .table-wrap{overflow-x:auto;border-radius:8px;border:1px solid var(--border);margin-bottom:16px}
+    table{width:100%;border-collapse:collapse;background:#fff;font-size:14px}
+    thead{background:var(--navy)}
+    th{color:#fff;padding:10px 12px;text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.5px;font-weight:600;white-space:nowrap}
+    th:last-child{text-align:right}
+    td{padding:10px 12px;border-bottom:1px solid var(--border);vertical-align:middle}
+    tr:last-child td{border-bottom:none}
+    tr:hover td{background:#f8fafc}
+    tr.highlight td{background:#e0f2fe !important}
+    .iata-badge{display:inline-block;background:var(--primary);color:#fff;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:700;letter-spacing:.3px}
+    .no-iata{color:#99a;font-size:11px}
+    .dist-num{font-weight:700;color:var(--primary)}
+    .td-actions{white-space:nowrap;text-align:right}
+    .rank-num{font-size:13px;font-weight:600;color:var(--gray);width:30px;display:inline-block;text-align:center}
+
+    /* Sidebar List */
+    .sidebar-list{list-style:none;padding:0;margin:0;max-height:520px;overflow-y:auto;scrollbar-width:thin}
+    .sidebar-list::-webkit-scrollbar{width:5px}
+    .sidebar-list::-webkit-scrollbar-track{background:var(--light)}
+    .sidebar-list::-webkit-scrollbar-thumb{background:var(--border);border-radius:3px}
+    .sidebar-item{padding:10px 12px;border-bottom:1px solid var(--light);cursor:pointer;transition:all .15s;display:flex;align-items:center;gap:10px}
+    .sidebar-item:last-child{border-bottom:none}
+    .sidebar-item:hover{background:var(--light)}
+    .sidebar-item.active{background:#e0f2fe;border-left:3px solid var(--primary)}
+    .sidebar-rank{width:24px;height:24px;border-radius:50%;background:var(--light);display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:700;color:var(--gray);flex-shrink:0}
+    .sidebar-item.active .sidebar-rank{background:var(--primary);color:#fff}
+    .sidebar-info{flex:1;min-width:0}
+    .sidebar-name{font-size:13px;font-weight:600;color:var(--navy);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    .sidebar-meta{font-size:11px;color:var(--gray);margin-top:2px}
+    .sidebar-dist{font-size:12px;font-weight:600;color:var(--primary);white-space:nowrap}
+
+    /* Links in table */
+    .airport-link{color:var(--navy);text-decoration:none;font-weight:500}
+    .airport-link:hover{color:var(--primary);text-decoration:underline}
+    .city-link{color:var(--gray);text-decoration:none;font-size:12px}
+    .city-link:hover{color:var(--primary);text-decoration:underline}
+
+    /* Footer */
+    footer{background:var(--navy);color:#8899aa;padding:36px 0 24px;margin-top:48px;border-top:4px solid var(--primary);font-size:13px;text-align:center}
+    footer a{color:var(--primary);text-decoration:none}
+    footer a:hover{text-decoration:underline}
+
+    /* Misc */
+    .note{background:#eef6fb;border:1px solid #bae6fd;border-radius:8px;padding:14px 16px;font-size:13px;color:var(--slate);margin:12px 0}
+    .back-link{display:inline-block;margin:20px 0;color:var(--primary);font-weight:600;font-size:14px;text-decoration:none}
+    .back-link:hover{text-decoration:underline}
+    .flex-center{display:flex;align-items:center;gap:6px}
+  </style>
 </head>
-<body style="font-family:'Open Sans',Arial,sans-serif;background:#F4F7FA;color:#202c39;line-height:1.7;margin:0">
-  <div style="max-width:800px;margin:0 auto;padding:20px">
+<body>
 
-    <h1 style="font-size:28px;color:#0B1D3A;border-bottom:3px solid #2ca4dc;padding-bottom:10px">&#9992; Nearest Airport Finder</h1>
-    <p style="color:#5A6B7F;font-size:14px;margin:12px 0 20px">Find the closest airports to any location. Enter coordinates or a location name.</p>
-
-    <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px">
-      <div>
-        <label style="display:block;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px">Latitude</label>
-        <input id="lat-input" type="number" step="any" style="width:100%;padding:10px;font-size:14px;border:2px solid #D4E0E8;font-family:'Open Sans',sans-serif" placeholder="e.g. 48.8566">
-      </div>
-      <div>
-        <label style="display:block;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px">Longitude</label>
-        <input id="lon-input" type="number" step="any" style="width:100%;padding:10px;font-size:14px;border:2px solid #D4E0E8;font-family:'Open Sans',sans-serif" placeholder="e.g. 2.3522">
-      </div>
+<!-- Sticky Top Nav -->
+<nav class="nav">
+  <div class="wrap">
+    <a href="/" class="logo">World<span>Airport</span>DB</a>
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/countries/">Countries</a>
+      <a href="/tools/distance-calculator/">Distance</a>
+      <a href="/tools/nearest-airport/" class="active">Nearest</a>
+      <a href="/tools/iata-icao-lookup/">Lookup</a>
+      <a href="/tools/timezone-lookup/">Timezone</a>
+      <a href="/tools/airport-map/">Map</a>
+      <a href="/blog/">Blog</a>
+      <a href="/download/">Database</a>
     </div>
-    <div style="margin-bottom:12px">
-      <label style="display:block;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px">Or enter a location name</label>
-      <select id="city-select" style="width:100%;padding:10px;font-size:14px;border:2px solid #D4E0E8;font-family:'Open Sans',sans-serif">
-        <option value="">Select a major city...</option>
-        <option value="51.5074|-0.1278">London, UK</option>
+  </div>
+</nav>
+
+<!-- Hero -->
+<div class="ah">
+  <div class="wrap">
+    <h1>📍 Nearest Airport Finder</h1>
+    <div class="sub">Find the closest airports to any location. Use your current location, search by city, or enter coordinates.</div>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <!-- Search Controls -->
+  <div class="card">
+    <h3>🎯 Search Location</h3>
+
+    <!-- Use My Location Button -->
+    <div class="btn-row">
+      <button class="btn btn-success" onclick="useMyLocation()" id="loc-btn">
+        📡 Use My Location
+      </button>
+      <span class="loc-status" id="loc-status"></span>
+    </div>
+
+    <!-- City Dropdown -->
+    <div style="margin-bottom:16px">
+      <label for="city-select">Select a Major City</label>
+      <select id="city-select">
+        <option value="">— Choose a city —</option>
+        <option value="51.5074|-0.1278">London, United Kingdom</option>
         <option value="48.8566|2.3522">Paris, France</option>
         <option value="40.7128|-74.0060">New York, USA</option>
         <option value="35.6762|139.6503">Tokyo, Japan</option>
@@ -58,74 +223,228 @@ const pageDesc = 'Find the nearest airports to any location worldwide. Search by
         <option value="1.3521|103.8198">Singapore</option>
         <option value="37.7749|-122.4194">San Francisco, USA</option>
         <option value="34.0522|-118.2437">Los Angeles, USA</option>
+        <option value="41.8781|-87.6298">Chicago, USA</option>
+        <option value="42.3601|-71.0589">Boston, USA</option>
+        <option value="38.9072|-77.0369">Washington DC, USA</option>
+        <option value="51.1657|10.4515">Hamburg, Germany</option>
+        <option value="48.1351|11.5820">Munich, Germany</option>
+        <option value="52.3676|4.9041">Amsterdam, Netherlands</option>
+        <option value="50.8503|4.3517">Brussels, Belgium</option>
+        <option value="59.3293|18.0686">Stockholm, Sweden</option>
+        <option value="55.6761|12.5683">Copenhagen, Denmark</option>
+        <option value="60.1699|24.9384">Helsinki, Finland</option>
+        <option value="40.4168|-3.7038">Madrid, Spain</option>
+        <option value="41.3874|2.1686">Barcelona, Spain</option>
+        <option value="38.7223|-9.1393">Lisbon, Portugal</option>
+        <option value="53.3498|-6.2603">Dublin, Ireland</option>
+        <option value="28.6139|77.2090">Delhi, India</option>
+        <option value="31.2304|121.4737">Shanghai, China</option>
+        <option value="22.5431|114.0579">Hong Kong</option>
+        <option value="13.7563|100.5018">Bangkok, Thailand</option>
+        <option value="-23.5505|-46.6333">São Paulo, Brazil</option>
+        <option value="19.4326|-99.1332">Mexico City, Mexico</option>
+        <option value="43.6532|-79.3832">Toronto, Canada</option>
+        <option value="49.2827|-123.1207">Vancouver, Canada</option>
+        <option value="-26.2041|28.0473">Johannesburg, South Africa</option>
+        <option value="30.0444|31.2357">Cairo, Egypt</option>
+        <option value="1.2833|103.8333">Singapore</option>
       </select>
     </div>
-    <button onclick="findNearest()" style="display:block;width:100%;padding:14px;background:#2ca4dc;color:#fff;font-size:16px;font-weight:700;border:3px solid #2ca4dc;cursor:pointer;font-family:'Open Sans',sans-serif;margin-bottom:16px">&#128269; Find Nearest Airports</button>
 
-    <div id="loading" style="display:none;text-align:center;padding:30px;color:#5A6B7F">Loading airport data...</div>
-
-    <div id="results" style="display:none">
-      <h3 style="font-size:16px;color:#202c39;margin-bottom:10px;border-bottom:2px solid #2ca4dc;padding-bottom:6px">Nearest 10 Airports</h3>
-      <div id="results-info" style="font-size:13px;color:#5A6B7F;margin-bottom:10px"></div>
-      <table style="width:100%;border-collapse:collapse;background:#fff">
-        <thead>
-          <tr>
-            <th style="background:#0B1D3A;color:#fff;padding:8px 10px;text-align:left;font-size:12px;text-transform:uppercase">#</th>
-            <th style="background:#0B1D3A;color:#fff;padding:8px 10px;text-align:left;font-size:12px;text-transform:uppercase">IATA</th>
-            <th style="background:#0B1D3A;color:#fff;padding:8px 10px;text-align:left;font-size:12px;text-transform:uppercase">Name</th>
-            <th style="background:#0B1D3A;color:#fff;padding:8px 10px;text-align:left;font-size:12px;text-transform:uppercase">City / Country</th>
-            <th style="background:#0B1D3A;color:#fff;padding:8px 10px;text-align:right;font-size:12px;text-transform:uppercase">Distance (km)</th>
-            <th style="background:#0B1D3A;color:#fff;padding:8px 10px;text-align:right;font-size:12px;text-transform:uppercase">Distance (mi)</th>
-          </tr>
-        </thead>
-        <tbody id="results-tbody"></tbody>
-      </table>
-      <div style="margin-top:12px;padding:12px;background:#eef6fb;border:1px solid #2ca4dc;font-size:13px;color:#202c39" id="use-map"></div>
+    <!-- Manual Lat/Lon -->
+    <div class="input-row">
+      <div>
+        <label for="lat-input">Latitude</label>
+        <input id="lat-input" type="number" step="any" placeholder="e.g. 51.5074" autocomplete="off">
+      </div>
+      <div>
+        <label for="lon-input">Longitude</label>
+        <input id="lon-input" type="number" step="any" placeholder="e.g. -0.1278" autocomplete="off">
+      </div>
     </div>
 
-    <div id="error" style="display:none;padding:20px;background:#fff0f0;border:2px solid #e66;margin-top:12px;color:#c33"></div>
+    <!-- Filter Toggle + Search -->
+    <div class="filter-row">
+      <div class="toggle-wrap">
+        <button class="toggle active" id="iata-toggle" onclick="toggleIataFilter()" title="Toggle: only show airports with IATA codes"></button>
+        <span>IATA airports only</span>
+      </div>
+    </div>
 
-    <a href="/" style="display:inline-block;margin-top:30px;color:#2ca4dc;font-weight:600;font-size:14px">&larr; Back to World Airport Database</a>
+    <button class="btn btn-primary btn-block" onclick="findNearest()">🔍 Find Nearest Airports</button>
   </div>
 
+  <!-- Loading -->
+  <div class="loading" id="loading">
+    <div class="spinner"></div>
+    <div>Loading airport data &amp; calculating distances…</div>
+  </div>
+
+  <!-- Error -->
+  <div class="error-box" id="error"></div>
+
+  <!-- Results -->
+  <div class="results-wrap" id="results-wrap">
+
+    <!-- Sidebar (interactive list) -->
+    <div class="results-sidebar">
+      <div class="card" style="padding:16px">
+        <h3 style="margin-bottom:12px;font-size:14px">📋 Nearest Airports</h3>
+        <ul class="sidebar-list" id="sidebar-list"></ul>
+      </div>
+    </div>
+
+    <!-- Main results (table + map) -->
+    <div class="results-main">
+      <div class="card" style="padding:16px">
+        <div class="results-header">
+          <h3>📊 Results</h3>
+          <span class="info" id="results-info"></span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>IATA</th>
+                <th>Airport Name</th>
+                <th>Location</th>
+                <th style="text-align:right">Distance (km)</th>
+                <th style="text-align:right">Distance (mi)</th>
+                <th style="text-align:right">Actions</th>
+              </tr>
+            </thead>
+            <tbody id="results-tbody"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>🗺️ Map View</h3>
+        <div id="map"></div>
+        <div class="note" id="map-note" style="display:none"></div>
+      </div>
+    </div>
+
+  </div>
+
+  <a href="/" class="back-link">&larr; Back to World Airport Database</a>
+</div>
+
+<!-- Footer -->
+<footer>
+  <div class="wrap">
+    <div><strong>World Airport Database since 2008</strong> — based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
+    <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
+    <div style="margin-top:10px"><a href="/impressum/">Impressum</a></div>
+  </div>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-// Haversine formula
+// ─── Haversine Formula ─────────────────────────────────────────────
+const R_EARTH = 6371;
+
 function haversine(lat1, lon1, lat2, lon2) {
-  const R = 6371; // Earth radius in km
   const dLat = (lat2 - lat1) * Math.PI / 180;
   const dLon = (lon2 - lon1) * Math.PI / 180;
-  const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
-    Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
-    Math.sin(dLon/2) * Math.sin(dLon/2);
-  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
-  return R * c;
+  const a = Math.sin(dLat / 2) ** 2
+    + Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180)
+    * Math.sin(dLon / 2) ** 2;
+  return R_EARTH * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 }
 
+// ─── State ─────────────────────────────────────────────────────────
 let airportsData = null;
+let mapInstance = null;
+let mapMarkers = [];
+let mapLines = [];
+let currentLat = null;
+let currentLon = null;
+let iataOnly = true;
+let activeSidebarIdx = -1;
+let userMarker = null;
+let userCircle = null;
+
+// ─── Load Data ─────────────────────────────────────────────────────
 async function loadAirports() {
   if (airportsData) return airportsData;
   const res = await fetch('/data/airports.json');
+  if (!res.ok) throw new Error(`HTTP ${res.status}: ${res.statusText}`);
   airportsData = await res.json();
   return airportsData;
 }
 
+// ─── Geolocation ───────────────────────────────────────────────────
+function useMyLocation() {
+  const btn = document.getElementById('loc-btn');
+  const status = document.getElementById('loc-status');
+  if (!navigator.geolocation) {
+    status.className = 'loc-status error';
+    status.textContent = '❌ Geolocation is not supported by your browser.';
+    return;
+  }
+  btn.disabled = true;
+  btn.textContent = '⏳ Locating…';
+  status.className = 'loc-status';
+  status.textContent = 'Requesting location…';
+
+  navigator.geolocation.getCurrentPosition(
+    (pos) => {
+      currentLat = pos.coords.latitude;
+      currentLon = pos.coords.longitude;
+      document.getElementById('lat-input').value = currentLat.toFixed(6);
+      document.getElementById('lon-input').value = currentLon.toFixed(6);
+      document.getElementById('city-select').value = '';
+      status.className = 'loc-status success';
+      const acc = pos.coords.accuracy ? ` (±${pos.coords.accuracy.toFixed(0)}m)` : '';
+      status.textContent = `✅ Location acquired: ${currentLat.toFixed(4)}°${currentLat >= 0 ? 'N' : 'S'}, ${currentLon.toFixed(4)}°${currentLon >= 0 ? 'E' : 'W'}${acc}`;
+      btn.disabled = false;
+      btn.textContent = '📡 Use My Location';
+      findNearest();
+    },
+    (err) => {
+      status.className = 'loc-status error';
+      const msgs = {
+        1: 'Permission denied. Please allow location access or enter coordinates manually.',
+        2: 'Position unavailable. Try again or enter coordinates manually.',
+        3: 'Location request timed out. Try again or enter coordinates manually.',
+      };
+      status.textContent = '❌ ' + (msgs[err.code] || err.message);
+      btn.disabled = false;
+      btn.textContent = '📡 Use My Location';
+    },
+    { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 }
+  );
+}
+
+// ─── IATA Filter Toggle ────────────────────────────────────────────
+function toggleIataFilter() {
+  iataOnly = !iataOnly;
+  document.getElementById('iata-toggle').classList.toggle('active', iataOnly);
+  // Re-run search if results are visible
+  if (currentLat !== null && currentLon !== null) {
+    findNearest();
+  }
+}
+
+// ─── Main Search ───────────────────────────────────────────────────
 async function findNearest() {
   const latEl = document.getElementById('lat-input');
   const lonEl = document.getElementById('lon-input');
-  const citySelect = document.getElementById('city-select');
-  const resultsDiv = document.getElementById('results');
-  const errorDiv = document.getElementById('error');
-  const loadingDiv = document.getElementById('loading');
-  const tbody = document.getElementById('results-tbody');
-  const info = document.getElementById('results-info');
-  const useMap = document.getElementById('use-map');
+  const citySel = document.getElementById('city-select');
+  const loading = document.getElementById('loading');
+  const errorEl = document.getElementById('error');
+  const wrap = document.getElementById('results-wrap');
 
-  resultsDiv.style.display = 'none';
-  errorDiv.style.display = 'none';
+  errorEl.classList.remove('show');
+  wrap.classList.remove('show');
 
   let lat, lon;
-  if (citySelect.value) {
-    const parts = citySelect.value.split('|');
+
+  // City select overrides manual input
+  if (citySel.value) {
+    const parts = citySel.value.split('|');
     lat = parseFloat(parts[0]);
     lon = parseFloat(parts[1]);
     latEl.value = lat;
@@ -136,86 +455,273 @@ async function findNearest() {
   }
 
   if (isNaN(lat) || isNaN(lon)) {
-    errorDiv.textContent = 'Please enter valid latitude and longitude values.';
-    errorDiv.style.display = 'block';
+    showError('Please enter valid latitude and longitude values, or select a city, or use your current location.');
     return;
   }
+  if (lat < -90 || lat > 90) { showError('Latitude must be between -90 and 90.'); return; }
+  if (lon < -180 || lon > 180) { showError('Longitude must be between -180 and 180.'); return; }
 
-  if (lat < -90 || lat > 90) {
-    errorDiv.textContent = 'Latitude must be between -90 and 90.';
-    errorDiv.style.display = 'block';
-    return;
-  }
+  currentLat = lat;
+  currentLon = lon;
 
-  if (lon < -180 || lon > 180) {
-    errorDiv.textContent = 'Longitude must be between -180 and 180.';
-    errorDiv.style.display = 'block';
-    return;
-  }
-
-  loadingDiv.style.display = 'block';
+  loading.classList.add('show');
   try {
     const data = await loadAirports();
-    loadingDiv.style.display = 'none';
+    loading.classList.remove('show');
 
-    const withDist = data.map(ap => ({
+    // Filter: optionally only airports with IATA code
+    let filtered = data;
+    if (iataOnly) {
+      filtered = data.filter(ap => ap.i && ap.i.length > 0);
+    }
+
+    // Calculate distances
+    const withDist = filtered.map(ap => ({
       ...ap,
       d_km: haversine(lat, lon, ap.y, ap.x)
     }));
-    withDist.sort((a,b) => a.d_km - b.d_km);
+    withDist.sort((a, b) => a.d_km - b.d_km);
     const top10 = withDist.slice(0, 10);
 
-    const latDir = lat >= 0 ? 'N' : 'S';
-    const lonDir = lon >= 0 ? 'E' : 'W';
-    const cityName = citySelect.options[citySelect.selectedIndex]?.text || '';
-    const locLabel = cityName !== 'Select a major city...' ? cityName : lat.toFixed(3) + '°' + latDir + ', ' + lon.toFixed(3) + '°' + lonDir;
+    if (top10.length === 0) {
+      showError('No airports found matching your criteria.');
+      return;
+    }
 
-    info.textContent = 'Location: ' + locLabel;
-
-    useMap.innerHTML = '<strong>Open in Maps:</strong> ' +
-      '<a href="https://www.google.com/maps?q=' + lat + ',' + lon + '" target="_blank" style="color:#2ca4dc">Google Maps</a> | ' +
-      '<a href="https://www.openstreetmap.org/?mlat=' + lat + '&mlon=' + lon + '" target="_blank" style="color:#2ca4dc">OpenStreetMap</a>';
-
-    tbody.innerHTML = top10.map((ap, i) => {
-      const mi = (ap.d_km * 0.621371).toFixed(1);
-      const km = ap.d_km.toFixed(1);
-      const rowStyle = i % 2 === 0 ? '' : 'background:#F0F6FC';
-      return '<tr style="' + rowStyle + '">' +
-        '<td style="padding:8px 10px;border:1px solid #D4E0E8;font-size:13px">' + (i+1) + '</td>' +
-        '<td style="padding:8px 10px;border:1px solid #D4E0E8;font-size:13px">' + (ap.i ? '<span style="display:inline-block;background:#2ca4dc;color:#fff;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:700">' + ap.i + '</span>' : '<span style="color:#889">—</span>') + '</td>' +
-        '<td style="padding:8px 10px;border:1px solid #D4E0E8;font-size:13px">' + ap.n + '</td>' +
-        '<td style="padding:8px 10px;border:1px solid #D4E0E8;font-size:13px">' + (ap.m || '—') + ', ' + ap.c + '</td>' +
-        '<td style="padding:8px 10px;border:1px solid #D4E0E8;font-size:13px;text-align:right;font-weight:700;color:#2ca4dc">' + km + '</td>' +
-        '<td style="padding:8px 10px;border:1px solid #D4E0E8;font-size:13px;text-align:right">' + mi + '</td>' +
-        '</tr>';
-    }).join('');
-    resultsDiv.style.display = 'block';
-  } catch(e) {
-    loadingDiv.style.display = 'none';
-    errorDiv.textContent = 'Error loading airport data: ' + e.message;
-    errorDiv.style.display = 'block';
+    renderResults(lat, lon, top10);
+    renderMap(lat, lon, top10);
+  } catch (e) {
+    loading.classList.remove('show');
+    showError('Error loading airport data: ' + e.message);
   }
 }
 
-// Enter key support
+// ─── Render Results Table + Sidebar ────────────────────────────────
+function renderResults(lat, lon, airports) {
+  const tbody = document.getElementById('results-tbody');
+  const sidebar = document.getElementById('sidebar-list');
+  const info = document.getElementById('results-info');
+  const wrap = document.getElementById('results-wrap');
+
+  // Location label
+  const citySel = document.getElementById('city-select');
+  const cityName = citySel.options[citySel.selectedIndex]?.text || '';
+  const latDir = lat >= 0 ? 'N' : 'S';
+  const lonDir = lon >= 0 ? 'E' : 'W';
+  const locLabel = (cityName && cityName !== '— Choose a city —')
+    ? cityName
+    : `${lat.toFixed(4)}°${latDir}, ${lon.toFixed(4)}°${lonDir}`;
+  info.textContent = `📍 ${locLabel} · ${airports.length} result${airports.length !== 1 ? 's' : ''}`;
+
+  // Table rows
+  tbody.innerHTML = airports.map((ap, i) => {
+    const km = ap.d_km.toFixed(1);
+    const mi = (ap.d_km * 0.621371).toFixed(1);
+    const iataCode = ap.i || '';
+    const airportSlug = ap.i
+      ? `/airports/${ap.i}/`
+      : `/airports/?q=${encodeURIComponent(ap.n)}`;
+    return `<tr data-idx="${i}">
+      <td><span class="rank-num">${i + 1}</span></td>
+      <td>${iataCode
+        ? `<span class="iata-badge">${iataCode}</span>`
+        : '<span class="no-iata">—</span>'}</td>
+      <td><a href="${airportSlug}" class="airport-link">${escHtml(ap.n || 'Unknown')}</a></td>
+      <td>${escHtml(ap.m || '—')}, ${escHtml(ap.c || 'Unknown')}</td>
+      <td style="text-align:right"><span class="dist-num">${km}</span></td>
+      <td style="text-align:right">${mi}</td>
+      <td class="td-actions">
+        <button class="btn btn-outline btn-sm" onclick="highlightAirport(${i}); showOnMap(${i})" title="Show on map">🗺️</button>
+        ${iataCode ? `<a href="${airportSlug}" class="btn btn-secondary btn-sm" title="View airport details">🔗</a>` : ''}
+      </td>
+    </tr>`;
+  }).join('');
+
+  // Sidebar list
+  sidebar.innerHTML = airports.map((ap, i) => {
+    const km = ap.d_km.toFixed(1);
+    const iataCode = ap.i || '';
+    return `<li class="sidebar-item" data-idx="${i}" onclick="highlightAirport(${i})">
+      <span class="sidebar-rank">${i + 1}</span>
+      <div class="sidebar-info">
+        <div class="sidebar-name">${iataCode ? iataCode + ' · ' : ''}${escHtml(ap.n || 'Unknown')}</div>
+        <div class="sidebar-meta">${escHtml(ap.m || '—')}, ${escHtml(ap.c || '')}</div>
+      </div>
+      <span class="sidebar-dist">${km} km</span>
+    </li>`;
+  }).join('');
+
+  wrap.classList.add('show');
+  activeSidebarIdx = -1;
+}
+
+// ─── Map Rendering ─────────────────────────────────────────────────
+function renderMap(lat, lon, airports) {
+  const mapEl = document.getElementById('map');
+
+  // Destroy old map
+  if (mapInstance) {
+    mapInstance.remove();
+    mapInstance = null;
+  }
+  mapMarkers = [];
+  mapLines = [];
+
+  // Init map
+  mapInstance = L.map('map').setView([lat, lon], 4);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    maxZoom: 18,
+  }).addTo(mapInstance);
+
+  // User location marker (blue)
+  const userIcon = L.divIcon({
+    html: '<div style="background:#3b82f6;width:20px;height:20px;border-radius:50%;border:3px solid #fff;box-shadow:0 2px 6px rgba(0,0,0,.3)"></div>',
+    iconSize: [20, 20],
+    iconAnchor: [10, 10],
+    className: ''
+  });
+  userMarker = L.marker([lat, lon], { icon: userIcon, zIndexOffset: 1000 })
+    .addTo(mapInstance)
+    .bindPopup(`<b>📍 Your Location</b><br>${lat.toFixed(4)}, ${lon.toFixed(4)}`);
+
+  // Accuracy circle
+  userCircle = L.circle([lat, lon], {
+    radius: 5000,
+    color: '#3b82f6',
+    fillColor: '#3b82f6',
+    fillOpacity: 0.08,
+    weight: 1,
+    opacity: 0.3
+  }).addTo(mapInstance);
+
+  // Airport markers
+  const colors = ['#2ca4dc', '#2563eb', '#10b981', '#f59e0b', '#ef4444',
+                  '#8b5cf6', '#ec4899', '#14b8a6', '#f97316', '#6366f1'];
+
+  airports.forEach((ap, i) => {
+    const color = colors[i % colors.length];
+    const iataCode = ap.i || '';
+    const slug = iataCode ? `/airports/${iataCode}/` : '#';
+
+    const icon = L.divIcon({
+      html: `<div style="background:${color};width:28px;height:28px;border-radius:50%;border:3px solid #fff;box-shadow:0 2px 6px rgba(0,0,0,.3);display:flex;align-items:center;justify-content:center;color:#fff;font-size:10px;font-weight:700">${i + 1}</div>`,
+      iconSize: [28, 28],
+      iconAnchor: [14, 14],
+      className: ''
+    });
+
+    const popupHtml = `<b>#${i + 1}: ${escHtml(ap.n)}</b><br>
+      ${iataCode ? `<b>${iataCode}</b> · ` : ''}${escHtml(ap.m || '')}, ${escHtml(ap.c)}<br>
+      📏 ${ap.d_km.toFixed(1)} km (${(ap.d_km * 0.621371).toFixed(1)} mi) from your location
+      ${iataCode ? `<br><a href="${slug}" target="_blank">🔗 View airport page</a>` : ''}`;
+
+    const marker = L.marker([ap.y, ap.x], { icon: icon })
+      .addTo(mapInstance)
+      .bindPopup(popupHtml);
+
+    marker._airportIdx = i;
+    marker.on('click', () => highlightAirport(i));
+
+    mapMarkers.push(marker);
+
+    // Distance line from user to airport
+    const line = L.polyline([[lat, lon], [ap.y, ap.x]], {
+      color: color,
+      weight: 2,
+      opacity: 0.4,
+      dashArray: '6, 8'
+    }).addTo(mapInstance);
+    mapLines.push(line);
+
+    // Distance label at midpoint
+    const midLat = (lat + ap.y) / 2;
+    const midLon = (lon + ap.x) / 2;
+    L.marker([midLat, midLon], {
+      icon: L.divIcon({
+        html: `<div style="background:rgba(255,255,255,.9);border:1px solid ${color};border-radius:4px;padding:2px 6px;font-size:10px;font-weight:600;color:${color};white-space:nowrap">${ap.d_km.toFixed(0)} km</div>`,
+        iconSize: [0, 0],
+        iconAnchor: [0, 0],
+        className: ''
+      }),
+      interactive: false
+    }).addTo(mapInstance);
+  });
+
+  // Fit bounds to show all markers
+  const allPoints = [[lat, lon], ...airports.map(ap => [ap.y, ap.x])];
+  mapInstance.fitBounds(allPoints, { padding: [50, 50], maxZoom: 10 });
+
+  // Note
+  const note = document.getElementById('map-note');
+  note.style.display = 'block';
+  note.innerHTML = '🖱️ Click an airport on the map or in the list to highlight it. Distance lines shown in dashed colors.';
+}
+
+// ─── Highlight Airport (table row + sidebar + map) ─────────────────
+function highlightAirport(idx) {
+  if (activeSidebarIdx === idx) return;
+
+  // Remove previous highlight
+  if (activeSidebarIdx >= 0) {
+    const prevRow = document.querySelector(`#results-tbody tr[data-idx="${activeSidebarIdx}"]`);
+    if (prevRow) prevRow.classList.remove('highlight');
+    const prevItem = document.querySelector(`.sidebar-item[data-idx="${activeSidebarIdx}"]`);
+    if (prevItem) prevItem.classList.remove('active');
+    // Reset marker opacity
+    if (mapMarkers[activeSidebarIdx]) {
+      mapMarkers[activeSidebarIdx].setZIndexOffset(0);
+      const el = mapMarkers[activeSidebarIdx].getElement();
+      if (el) el.style.opacity = '1';
+    }
+  }
+
+  // Highlight new
+  activeSidebarIdx = idx;
+  const row = document.querySelector(`#results-tbody tr[data-idx="${idx}"]`);
+  if (row) row.classList.add('highlight');
+  const item = document.querySelector(`.sidebar-item[data-idx="${idx}"]`);
+  if (item) {
+    item.classList.add('active');
+    item.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  }
+  if (mapMarkers[idx]) {
+    mapMarkers[idx].setZIndexOffset(1000);
+    mapMarkers[idx].openPopup();
+  }
+}
+
+// ─── Show on Map (zoom to airport) ─────────────────────────────────
+function showOnMap(idx) {
+  if (!mapInstance || !mapMarkers[idx]) return;
+  const ap = mapMarkers[idx].getLatLng();
+  mapInstance.setView(ap, 10, { animate: true });
+  highlightAirport(idx);
+}
+
+// ─── Helpers ───────────────────────────────────────────────────────
+function showError(msg) {
+  const el = document.getElementById('error');
+  el.textContent = msg;
+  el.classList.add('show');
+  document.getElementById('loading').classList.remove('show');
+}
+
+function escHtml(str) {
+  if (typeof str !== 'string') return str;
+  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+// ─── Enter Key / Auto-submit ───────────────────────────────────────
 document.addEventListener('DOMContentLoaded', function() {
-  document.getElementById('lon-input').addEventListener('keydown', function(e) {
-    if (e.key === 'Enter') findNearest();
-  });
-  document.getElementById('lat-input').addEventListener('keydown', function(e) {
-    if (e.key === 'Enter') findNearest();
-  });
+  document.getElementById('lat-input').addEventListener('keydown', e => { if (e.key === 'Enter') findNearest(); });
+  document.getElementById('lon-input').addEventListener('keydown', e => { if (e.key === 'Enter') findNearest(); });
   document.getElementById('city-select').addEventListener('change', function() {
     if (this.value) findNearest();
   });
 });
 </script>
-<footer style="background:#0B1D3A;color:#8899aa;padding:36px 0 24px;margin-top:40px;border-top:4px solid #2ca4dc;font-size:13px;text-align:center">
-  <div style="max-width:800px;margin:0 auto;padding:0 20px">
-    <div><strong style="color:#ccdbe8">World Airport Database since 2008</strong> based on open data from <a href="https://ourairports.com/" target="_blank" style="color:#2ca4dc">OurAirports</a></div>
-    <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
-    <div style="margin-top:10px"><a href="/impressum/" style="color:#2ca4dc">Impressum</a></div>
-  </div>
-</footer>
+
 </body>
 </html>

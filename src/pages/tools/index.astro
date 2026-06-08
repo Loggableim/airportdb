@@ -1,0 +1,150 @@
+const pageTitle = 'Travel Tools - World Airport Database';
+const pageDesc = 'Complete set of travel tools for airport information: distance calculator, IATA/ICAO lookup, nearest airport, timezone lookup, and airport map.';
+const pageUrl = 'https://world-airport-database.com/tools/';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc}>
+  <link rel="canonical" href={pageUrl}>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content={pageTitle}>
+  <meta property="og:description" content={pageDesc}>
+  <meta property="og:url" content={pageUrl}>
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Inter',Arial,sans-serif;background:#F4F7FA;color:#202c39;line-height:1.7}
+    :root{--primary:#2ca4dc;--navy:#0B1D3A;--border:#D4E0E8;--stripe:#F0F6FC}
+    .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
+    .ah{background:linear-gradient(135deg,var(--navy),#142b4f);padding:48px 0;border-bottom:4px solid var(--primary);color:#fff;text-align:center}
+    .ah h1{font-size:36px;margin-bottom:8px}
+    .ah .sub{color:#8899aa;font-size:15px;max-width:600px;margin:0 auto}
+    .stats{display:flex;justify-content:center;gap:32px;margin-top:24px;flex-wrap:wrap}
+    .stat{color:rgba(255,255,255,.8);text-align:center}
+    .stat .num{font-size:24px;font-weight:800;color:#60a5fa;display:block}
+    .stat .lbl{font-size:11px;text-transform:uppercase;letter-spacing:1px;margin-top:2px}
+    .section{padding:40px 0}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px;margin-top:20px}
+    .card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:28px;text-align:left;transition:all .2s;display:flex;flex-direction:column;height:100%;position:relative;overflow:hidden}
+    .card:hover{border-color:var(--primary);box-shadow:0 4px 20px rgba(44,164,220,.15);transform:translateY(-2px)}
+    .card .icon{font-size:42px;margin-bottom:12px;display:block}
+    .card h3{font-size:20px;color:var(--navy);margin-bottom:8px}
+    .card p{font-size:14px;color:#5A6B7F;line-height:1.5;flex:1;margin-bottom:16px}
+    .card .btn{display:inline-block;padding:10px 20px;background:var(--primary);color:#fff;text-decoration:none;font-size:13px;font-weight:600;border-radius:6px;align-self:flex-start;transition:background .15s}
+    .card .btn:hover{background:#2390c2;text-decoration:none}
+    .card .features{list-style:none;padding:0;margin:0 0 16px;font-size:12px;color:#8899aa}
+    .card .features li{padding:2px 0;display:flex;align-items:center;gap:6px}
+    .card .features li::before{content:'✓';color:var(--primary);font-weight:700}
+    footer{background:var(--navy);color:#8899aa;padding:36px 0 24px;margin-top:40px;border-top:4px solid var(--primary);font-size:13px;text-align:center}
+    footer a{color:var(--primary)}
+  </style>
+</head>
+<body>
+
+<nav style="background:#0f172a;padding:10px 0;position:sticky;top:0;z-index:100">
+  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px">
+    <a href="/" style="color:#fff;font-size:15px;font-weight:700;text-decoration:none">World<span style="color:#60a5fa">Airport</span>DB</a>
+    <div style="display:flex;gap:16px;flex-wrap:wrap">
+      <a href="/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Home</a>
+      <a href="/countries/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Countries</a>
+      <a href="/blog/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Blog</a>
+      <a href="/download/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Database</a>
+      <a href="/tools/" style="color:#fff;text-decoration:none;font-size:13px;font-weight:700">Tools</a>
+      <a href="/tools/distance-calculator/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Distance</a>
+      <a href="/tools/iata-icao-lookup/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Lookup</a>
+      <a href="/tools/nearest-airport/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Nearest</a>
+      <a href="/tools/timezone-lookup/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Timezone</a>
+      <a href="/tools/airport-map/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Map</a>
+    </div>
+  </div>
+</nav>
+
+<div class="ah">
+  <div class="wrap">
+    <h1>🛠️ Travel Tools</h1>
+    <div class="sub">Everything you need to plan air travel. Calculate distances, find airports, look up timezones, and explore the world.</div>
+    <div class="stats">
+      <div class="stat"><span class="num">9,056</span><span class="lbl">IATA Airports</span></div>
+      <div class="stat"><span class="num">247</span><span class="lbl">Countries</span></div>
+      <div class="stat"><span class="num">5</span><span class="lbl">Powerful Tools</span></div>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="section">
+    <div class="grid">
+      <div class="card">
+        <span class="icon">📏</span>
+        <h3>Distance Calculator</h3>
+        <p>Calculate the great-circle distance between any two airports worldwide. Includes flight time, fuel, and CO₂ estimates with an interactive map.</p>
+        <ul class="features">
+          <li>Real-time map visualization</li>
+          <li>Flight time estimates</li>
+          <li>Fuel and CO₂ calculations</li>
+        </ul>
+        <a href="/tools/distance-calculator/" class="btn">Open Calculator →</a>
+      </div>
+      <div class="card">
+        <span class="icon">🔍</span>
+        <h3>IATA/ICAO Lookup</h3>
+        <p>Search and convert between IATA and ICAO codes. Live filtering across 9,056 airports by name, code, city, or country.</p>
+        <ul class="features">
+          <li>Live search</li>
+          <li>Continent & type filters</li>
+          <li>Copy-to-clipboard</li>
+        </ul>
+        <a href="/tools/iata-icao-lookup/" class="btn">Open Lookup →</a>
+      </div>
+      <div class="card">
+        <span class="icon">📍</span>
+        <h3>Nearest Airport</h3>
+        <p>Find the closest airports to any location. Use your device's GPS, enter coordinates, or pick a major city from the dropdown.</p>
+        <ul class="features">
+          <li>Geolocation support</li>
+          <li>Map visualization</li>
+          <li>Top 10 results</li>
+        </ul>
+        <a href="/tools/nearest-airport/" class="btn">Find Airports →</a>
+      </div>
+      <div class="card">
+        <span class="icon">🕐</span>
+        <h3>Timezone Lookup</h3>
+        <p>Look up the timezone for any airport. Compare times between two cities and see current local time, UTC offset, and DST status.</p>
+        <ul class="features">
+          <li>Live local time</li>
+          <li>Compare 2 airports</li>
+          <li>6 reference timezones</li>
+        </ul>
+        <a href="/tools/timezone-lookup/" class="btn">Check Timezones →</a>
+      </div>
+      <div class="card">
+        <span class="icon">🗺️</span>
+        <h3>Airport Map</h3>
+        <p>Browse all 9,056 IATA airports on an interactive world map. Filter by continent, type, or country. Click any airport for details.</p>
+        <ul class="features">
+          <li>Marker clustering</li>
+          <li>Filter & search</li>
+          <li>Type-coded markers</li>
+        </ul>
+        <a href="/tools/airport-map/" class="btn">Explore Map →</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="wrap">
+    <div><strong>World Airport Database since 2008</strong> — based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
+    <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
+    <div style="margin-top:10px"><a href="/impressum/">Impressum</a></div>
+  </div>
+</footer>
+</body>
+</html>

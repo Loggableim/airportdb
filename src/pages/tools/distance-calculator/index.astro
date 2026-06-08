@@ -1,0 +1,344 @@
+const pageTitle = 'Airport Distance Calculator — World Airport Database';
+const pageDesc = 'Calculate the great-circle distance between any two airports worldwide. Interactive map, flight time estimates, and fuel calculations.';
+const pageUrl = 'https://world-airport-database.com/tools/distance-calculator/';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc}>
+  <link rel="canonical" href={pageUrl}>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content={pageTitle}>
+  <meta property="og:description" content={pageDesc}>
+  <meta property="og:url" content={pageUrl}>
+  <meta property="og:site_name" content="World Airport Database">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Inter',Arial,sans-serif;background:#F4F7FA;color:#202c39;line-height:1.6}
+    :root{--primary:#2ca4dc;--navy:#0B1D3A;--border:#D4E0E8;--stripe:#F0F6FC}
+    .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
+    .ah{background:linear-gradient(135deg,var(--navy),#142b4f);padding:36px 0;border-bottom:4px solid var(--primary)}
+    .ah h1{color:#fff;font-size:28px;margin-bottom:6px}
+    .ah .sub{color:#8899aa;font-size:14px}
+    .card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:24px;margin:20px 0;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+    .card h3{font-size:16px;color:var(--navy);margin-bottom:16px;display:flex;align-items:center;gap:8px}
+    .input-row{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px}
+    @media(max-width:600px){.input-row{grid-template-columns:1fr}}
+    label{display:block;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:var(--navy);margin-bottom:6px}
+    select{width:100%;padding:12px 14px;font-size:14px;border:2px solid var(--border);border-radius:8px;font-family:inherit;background:#fff;cursor:pointer;transition:border-color .15s}
+    select:focus{border-color:var(--primary);outline:none}
+    .swap-row{display:flex;justify-content:center;margin:-8px 0}
+    .swap-btn{width:40px;height:40px;border-radius:50%;border:2px solid var(--primary);background:#fff;color:var(--primary);font-size:18px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s}
+    .swap-btn:hover{background:var(--primary);color:#fff}
+    .calc-btn{display:block;width:100%;padding:16px;background:var(--primary);color:#fff;font-size:16px;font-weight:700;border:none;border-radius:8px;cursor:pointer;font-family:inherit;transition:background .15s}
+    .calc-btn:hover{background:#2390c2}
+    .results{display:none;margin-top:20px}
+    .results.show{display:block}
+    .result-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px;margin:16px 0}
+    .result-box{background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border:1px solid #bae6fd;border-radius:10px;padding:20px;text-align:center}
+    .result-box .value{font-size:32px;font-weight:800;color:var(--primary);display:block}
+    .result-box .label{font-size:11px;color:#5A6B7F;text-transform:uppercase;letter-spacing:1px;margin-top:4px}
+    .result-box.highlight{background:linear-gradient(135deg,var(--navy),#142b4f);border-color:var(--navy)}
+    .result-box.highlight .value{color:#60a5fa}
+    .result-box.highlight .label{color:#8899aa}
+    #map{height:400px;border-radius:8px;border:2px solid var(--border);margin:16px 0}
+    .route-info{display:flex;align-items:center;justify-content:center;gap:12px;font-size:14px;color:#5A6B7F;margin:12px 0}
+    .route-info .airport{background:var(--light);padding:6px 14px;border-radius:6px;font-weight:600;color:var(--navy)}
+    .route-info .plane{font-size:20px}
+    .quick-routes{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+    .quick-btn{padding:6px 14px;background:var(--stripe);border:1px solid var(--border);border-radius:6px;font-size:12px;cursor:pointer;font-family:inherit;transition:all .15s}
+    .quick-btn:hover{border-color:var(--primary);background:#e3f0f7}
+    footer{background:var(--navy);color:#8899aa;padding:36px 0 24px;margin-top:40px;border-top:4px solid var(--primary);font-size:13px;text-align:center}
+    footer a{color:var(--primary)}
+  </style>
+</head>
+<body>
+
+<nav style="background:#0f172a;padding:10px 0;position:sticky;top:0;z-index:100">
+  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px">
+    <a href="/" style="color:#fff;font-size:15px;font-weight:700;text-decoration:none">World<span style="color:#60a5fa">Airport</span>DB</a>
+    <div style="display:flex;gap:16px;flex-wrap:wrap">
+      <a href="/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Home</a>
+      <a href="/countries/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Countries</a>
+      <a href="/blog/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Blog</a>
+      <a href="/download/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Database</a>
+      <a href="/tools/iata-icao-lookup/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Lookup</a>
+      <a href="/tools/nearest-airport/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Nearest</a>
+      <a href="/tools/timezone-lookup/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Timezone</a>
+      <a href="/tools/airport-map/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Map</a>
+    </div>
+  </div>
+</nav>
+
+<div class="ah">
+  <div class="wrap">
+    <h1>📏 Airport Distance Calculator</h1>
+    <div class="sub">Calculate the great-circle distance between any two airports. Interactive map with flight path visualization.</div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="card">
+    <h3>✈️ Select Airports</h3>
+    <div class="input-row">
+      <div>
+        <label>From Airport</label>
+        <select id="dist-from">
+          <option value="">Select departure airport...</option>
+        </select>
+      </div>
+      <div>
+        <label>To Airport</label>
+        <select id="dist-to">
+          <option value="">Select arrival airport...</option>
+        </select>
+      </div>
+    </div>
+    <div class="swap-row">
+      <button class="swap-btn" onclick="swapAirports()" title="Swap airports">⇅</button>
+    </div>
+    <button class="calc-btn" onclick="calcDistance()">Calculate Distance</button>
+    <div class="quick-routes">
+      <span style="font-size:12px;color:#8899aa;margin-right:4px">Quick routes:</span>
+      <button class="quick-btn" onclick="setRoute('ATL','LHR')">ATL → LHR</button>
+      <button class="quick-btn" onclick="setRoute('LAX','NRT')">LAX → NRT</button>
+      <button class="quick-btn" onclick="setRoute('DXB','LHR')">DXB → LHR</button>
+      <button class="quick-btn" onclick="setRoute('SIN','LHR')">SIN → LHR</button>
+      <button class="quick-btn" onclick="setRoute('JFK','CDG')">JFK → CDG</button>
+      <button class="quick-btn" onclick="setRoute('FRA','SFO')">FRA → SFO</button>
+    </div>
+  </div>
+
+  <div class="results" id="results">
+    <div class="card">
+      <h3>📊 Results</h3>
+      <div class="route-info" id="route-info"></div>
+      <div class="result-grid">
+        <div class="result-box highlight">
+          <span class="value" id="res-km">0</span>
+          <span class="label">Kilometers</span>
+        </div>
+        <div class="result-box highlight">
+          <span class="value" id="res-mi">0</span>
+          <span class="label">Miles</span>
+        </div>
+        <div class="result-box">
+          <span class="value" id="res-nm">0</span>
+          <span class="label">Nautical Miles</span>
+        </div>
+        <div class="result-box">
+          <span class="value" id="res-time">0h 0m</span>
+          <span class="label">Est. Flight Time</span>
+        </div>
+        <div class="result-box">
+          <span class="value" id="res-fuel">0</span>
+          <span class="label">Est. Fuel (L)</span>
+        </div>
+        <div class="result-box">
+          <span class="value" id="res-co2">0</span>
+          <span class="label">Est. CO₂ (kg)</span>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <h3>🗺️ Flight Path Map</h3>
+      <div id="map"></div>
+    </div>
+  </div>
+
+  <a href="/" style="display:inline-block;margin:20px 0;color:var(--primary);font-weight:600;font-size:14px;text-decoration:none">&larr; Back to World Airport Database</a>
+</div>
+
+<footer>
+  <div class="wrap">
+    <div><strong>World Airport Database since 2008</strong> — based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
+    <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
+    <div style="margin-top:10px"><a href="/impressum/">Impressum</a></div>
+  </div>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const AIRPORTS=[
+  {iata:"ATL",n:"Hartsfield-Jackson Atlanta",c:"United States",y:33.6367,x:-84.4281},
+  {iata:"PEK",n:"Beijing Capital",c:"China",y:40.08,x:116.58},
+  {iata:"LHR",n:"London Heathrow",c:"United Kingdom",y:51.47,x:-0.4594},
+  {iata:"HND",n:"Tokyo Haneda",c:"Japan",y:35.55,x:139.78},
+  {iata:"ORD",n:"Chicago O'Hare",c:"United States",y:41.98,x:-87.91},
+  {iata:"LAX",n:"Los Angeles International",c:"United States",y:33.94,x:-118.41},
+  {iata:"CDG",n:"Paris Charles de Gaulle",c:"France",y:49.01,x:2.55},
+  {iata:"DFW",n:"Dallas/Fort Worth",c:"United States",y:32.90,x:-97.04},
+  {iata:"FRA",n:"Frankfurt Main",c:"Germany",y:50.03,x:8.56},
+  {iata:"SIN",n:"Singapore Changi",c:"Singapore",y:1.36,x:103.99},
+  {iata:"DXB",n:"Dubai International",c:"United Arab Emirates",y:25.25,x:55.36},
+  {iata:"AMS",n:"Amsterdam Schiphol",c:"Netherlands",y:52.31,x:4.76},
+  {iata:"HKG",n:"Hong Kong International",c:"Hong Kong",y:22.31,x:113.91},
+  {iata:"JFK",n:"John F. Kennedy",c:"United States",y:40.64,x:-73.78},
+  {iata:"MAD",n:"Madrid-Barajas",c:"Spain",y:40.47,x:-3.56},
+  {iata:"SFO",n:"San Francisco International",c:"United States",y:37.62,x:-122.38},
+  {iata:"FCO",n:"Rome Fiumicino",c:"Italy",y:41.80,x:12.24},
+  {iata:"MUC",n:"Munich",c:"Germany",y:48.35,x:11.79},
+  {iata:"IST",n:"Istanbul",c:"Turkey",y:41.26,x:28.74},
+  {iata:"SYD",n:"Sydney Kingsford Smith",c:"Australia",y:-33.95,x:151.18},
+  {iata:"NRT",n:"Narita International",c:"Japan",y:35.76,x:140.39},
+  {iata:"BCN",n:"Barcelona-El Prat",c:"Spain",y:41.30,x:2.08},
+  {iata:"YYZ",n:"Toronto Pearson",c:"Canada",y:43.68,x:-79.63},
+  {iata:"MEX",n:"Mexico City",c:"Mexico",y:19.44,x:-99.07},
+  {iata:"GRU",n:"São Paulo/Guarulhos",c:"Brazil",y:-23.44,x:-46.47},
+  {iata:"JED",n:"King Abdulaziz",c:"Saudi Arabia",y:21.68,x:39.16},
+  {iata:"DEL",n:"Indira Gandhi",c:"India",y:28.56,x:77.10},
+  {iata:"BKK",n:"Suvarnabhumi",c:"Thailand",y:13.69,x:100.75},
+  {iata:"ZRH",n:"Zurich",c:"Switzerland",y:47.46,x:8.55},
+  {iata:"VIE",n:"Vienna International",c:"Austria",y:48.11,x:16.57},
+  {iata:"CPH",n:"Copenhagen",c:"Denmark",y:55.62,x:12.66},
+  {iata:"ARN",n:"Stockholm Arlanda",c:"Sweden",y:59.65,x:17.92},
+  {iata:"LIS",n:"Lisbon Portela",c:"Portugal",y:38.78,x:-9.14},
+  {iata:"DUB",n:"Dublin",c:"Ireland",y:53.42,x:-6.27},
+  {iata:"WAW",n:"Warsaw Chopin",c:"Poland",y:52.17,x:20.97},
+  {iata:"BUD",n:"Budapest Ferenc Liszt",c:"Hungary",y:47.44,x:19.26},
+  {iata:"GVA",n:"Geneva",c:"Switzerland",y:46.24,x:6.11},
+  {iata:"DUS",n:"Düsseldorf",c:"Germany",y:51.29,x:6.77},
+  {iata:"HEL",n:"Helsinki-Vantaa",c:"Finland",y:60.32,x:24.96},
+  {iata:"AKL",n:"Auckland",c:"New Zealand",y:-37.01,x:174.79},
+  {iata:"EZE",n:"Ministro Pistarini",c:"Argentina",y:-34.82,x:-58.54},
+  {iata:"SCL",n:"Arturo Merino Benítez",c:"Chile",y:-33.39,x:-70.79},
+  {iata:"BOG",n:"El Dorado",c:"Colombia",y:4.70,x:-74.15},
+  {iata:"CPT",n:"Cape Town",c:"South Africa",y:-33.96,x:18.60},
+  {iata:"CAI",n:"Cairo International",c:"Egypt",y:30.11,x:31.41},
+  {iata:"NBO",n:"Jomo Kenyatta",c:"Kenya",y:-1.32,x:36.93},
+  {iata:"HNL",n:"Daniel K. Inouye",c:"United States",y:21.32,x:-157.92},
+  {iata:"KUL",n:"Kuala Lumpur",c:"Malaysia",y:2.75,x:101.71},
+  {iata:"DOH",n:"Hamad International",c:"Qatar",y:25.27,x:51.61},
+  {iata:"ICN",n:"Incheon International",c:"South Korea",y:37.47,x:126.45},
+  {iata:"TPE",n:"Taiwan Taoyuan",c:"Taiwan",y:25.08,x:121.23},
+  {iata:"MIA",n:"Miami International",c:"United States",y:25.79,x:-80.29},
+  {iata:"BOM",n:"Chhatrapati Shivaji",c:"India",y:19.09,x:72.87},
+  {iata:"CAN",n:"Guangzhou Baiyun",c:"China",y:23.39,x:113.30},
+  {iata:"PVG",n:"Shanghai Pudong",c:"China",y:31.14,x:121.81},
+  {iata:"BOS",n:"Boston Logan",c:"United States",y:42.36,x:-71.01},
+  {iata:"SEA",n:"Seattle-Tacoma",c:"United States",y:47.45,x:-122.31},
+  {iata:"DEN",n:"Denver International",c:"United States",y:39.85,x:-104.67},
+  {iata:"ATL",n:"Atlanta",c:"United States",y:33.64,x:-84.43},
+];
+
+// Sort by IATA code
+AIRPORTS.sort((a,b)=>a.iata.localeCompare(b.iata));
+
+let map=null, line=null, markers=[];
+
+function init(){
+  const fromSel=document.getElementById('dist-from');
+  const toSel=document.getElementById('dist-to');
+  AIRPORTS.forEach(a=>{
+    const opt1=document.createElement('option');
+    opt1.value=a.iata;
+    opt1.textContent=a.iata+' — '+a.n+', '+a.c;
+    fromSel.appendChild(opt1);
+    const opt2=opt1.cloneNode(true);
+    toSel.appendChild(opt2);
+  });
+  fromSel.value='ATL';
+  toSel.value='LHR';
+  
+  // Init map
+  map=L.map('map').setView([30,0],2);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{attribution:'&copy; <a href="https://carto.com/">CARTO</a>',maxZoom:19}).addTo(map);
+}
+
+function swapAirports(){
+  const from=document.getElementById('dist-from');
+  const to=document.getElementById('dist-to');
+  const tmp=from.value;
+  from.value=to.value;
+  to.value=tmp;
+}
+
+function setRoute(from,to){
+  document.getElementById('dist-from').value=from;
+  document.getElementById('dist-to').value=to;
+  calcDistance();
+}
+
+function haversine(lat1,lon1,lat2,lon2){
+  const R=6371;
+  const dLat=(lat2-lat1)*Math.PI/180;
+  const dLon=(lon2-lon1)*Math.PI/180;
+  const a=Math.sin(dLat/2)**2+Math.cos(lat1*Math.PI/180)*Math.cos(lat2*Math.PI/180)*Math.sin(dLon/2)**2;
+  return R*2*Math.atan2(Math.sqrt(a),Math.sqrt(1-a));
+}
+
+function calcDistance(){
+  const fromIATA=document.getElementById('dist-from').value;
+  const toIATA=document.getElementById('dist-to').value;
+  if(!fromIATA||!toIATA)return;
+  const from=AIRPORTS.find(a=>a.iata===fromIATA);
+  const to=AIRPORTS.find(a=>a.iata===toIATA);
+  if(!from||!to)return;
+  
+  const km=haversine(from.y,from.x,to.y,to.x);
+  const mi=km*0.621371;
+  const nm=km*0.539957;
+  const hours=km/850; // avg jet speed ~850 km/h
+  const h=Math.floor(hours);
+  const m=Math.round((hours-h)*60);
+  const fuel=Math.round(km*3.5); // ~3.5L per km for a jet
+  const co2=Math.round(fuel*2.52); // ~2.52kg CO2 per liter jet fuel
+  
+  document.getElementById('res-km').textContent=Math.round(km).toLocaleString();
+  document.getElementById('res-mi').textContent=Math.round(mi).toLocaleString();
+  document.getElementById('res-nm').textContent=Math.round(nm).toLocaleString();
+  document.getElementById('res-time').textContent=h+'h '+m+'m';
+  document.getElementById('res-fuel').textContent=fuel.toLocaleString();
+  document.getElementById('res-co2').textContent=co2.toLocaleString();
+  
+  document.getElementById('route-info').innerHTML=
+    '<span class="airport">'+from.n+' ('+from.iata+')</span>'+
+    '<span class="plane">✈</span>'+
+    '<span class="airport">'+to.n+' ('+to.iata+')</span>';
+  
+  document.getElementById('results').classList.add('show');
+  
+  // Update map
+  if(line)map.removeLayer(line);
+  markers.forEach(m=>map.removeLayer(m));
+  markers=[];
+  
+  const midLat=(from.y+to.y)/2;
+  const midLon=(from.x+to.x)/2;
+  const dist=km;
+  const zoom=dist>10000?2:dist>5000?3:dist>2000?4:dist>1000?5:6;
+  
+  // Great circle arc (simplified with multiple points)
+  const points=[];
+  for(let i=0;i<=100;i++){
+    const t=i/100;
+    const lat=from.y+(to.y-from.y)*t;
+    const lon=from.x+(to.x-from.x)*t;
+    // Add arc height
+    const arcHeight=Math.sin(t*Math.PI)*dist*0.1;
+    points.push([lat,lon]);
+  }
+  
+  line=L.polyline(points,{color:'#2ca4dc',weight:3,opacity:0.8,dashArray:'10,5'}).addTo(map);
+  
+  const m1=L.marker([from.y,from.x]).addTo(map).bindPopup('<b>'+from.n+' ('+from.iata+')</b><br>'+from.c);
+  const m2=L.marker([to.y,to.x]).addTo(map).bindPopup('<b>'+to.n+' ('+to.iata+')</b><br>'+to.c);
+  markers=[m1,m2];
+  
+  map.fitBounds(line.getBounds().pad(0.1));
+  
+  // Scroll to results
+  document.getElementById('results').scrollIntoView({behavior:'smooth',block:'start'});
+}
+
+document.addEventListener('DOMContentLoaded',init);
+</script>
+</body>
+</html>

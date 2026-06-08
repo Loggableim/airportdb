@@ -1,0 +1,530 @@
+---
+const pageTitle = 'Airport Map — World Airport Database';
+const pageDesc = 'Interactive map of all 9,000+ IATA airports worldwide. Filter by continent, type, country, or search by name, IATA, ICAO, or city.';
+const pageUrl = 'https://world-airport-database.com/tools/airport-map/';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc}>
+  <link rel="canonical" href={pageUrl}>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content={pageTitle}>
+  <meta property="og:description" content={pageDesc}>
+  <meta property="og:url" content={pageUrl}>
+  <meta property="og:site_name" content="World Airport Database">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Inter',Arial,sans-serif;background:#F4F7FA;color:#202c39;line-height:1.6;overflow:hidden}
+    :root{--primary:#2ca4dc;--navy:#0B1D3A;--border:#D4E0E8;--stripe:#F0F6FC;--sidebar-w:300px}
+
+    /* Sticky Top Nav */
+    .top-nav{background:#0f172a;padding:10px 0;position:sticky;top:0;z-index:1000}
+    .top-nav .wrap{max-width:1400px;margin:0 auto;padding:0 20px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
+    .top-nav .logo{color:#fff;font-size:15px;font-weight:700;text-decoration:none}
+    .top-nav .logo span{color:#60a5fa}
+    .top-nav .links{display:flex;gap:16px;flex-wrap:wrap}
+    .top-nav .links a{color:rgba(255,255,255,.7);text-decoration:none;font-size:13px;transition:color .15s}
+    .top-nav .links a:hover{color:#fff}
+    .top-nav .links a.active{color:var(--primary)}
+
+    /* Page Header */
+    .page-header{background:linear-gradient(135deg,var(--navy),#142b4f);padding:24px 0;border-bottom:4px solid var(--primary)}
+    .page-header .wrap{max-width:1400px;margin:0 auto;padding:0 20px;display:flex;align-items:center;justify-content:space-between}
+    .page-header h1{color:#fff;font-size:22px;font-weight:700}
+    .page-header .sub{color:#8899aa;font-size:13px;margin-top:2px}
+    .page-header .stats{color:#60a5fa;font-size:13px;font-weight:600}
+
+    /* Map + Sidebar Layout */
+    .map-container{display:flex;height:calc(100vh - 200px);position:relative}
+    #map{flex:1;height:100%;z-index:1}
+
+    /* Sidebar */
+    .sidebar{width:var(--sidebar-w);background:#fff;border-right:2px solid var(--border);overflow-y:auto;transition:width .3s ease;position:relative;z-index:2;flex-shrink:0}
+    .sidebar.collapsed{width:0;border-right:none;overflow:hidden}
+    .sidebar-inner{padding:16px;width:var(--sidebar-w)}
+    .sidebar.collapsed .sidebar-inner{display:none}
+
+    .toggle-btn{position:absolute;top:12px;right:-36px;width:32px;height:32px;background:var(--navy);color:#fff;border:none;border-radius:0 6px 6px 0;cursor:pointer;font-size:16px;z-index:3;display:flex;align-items:center;justify-content:center;transition:background .15s;box-shadow:2px 0 6px rgba(0,0,0,.15)}
+    .toggle-btn:hover{background:#142b4f}
+    .sidebar.collapsed + .toggle-btn{right:0;border-radius:0 6px 6px 0}
+    .toggle-btn .arrow{transition:transform .3s}
+    .sidebar.collapsed + .toggle-btn .arrow{transform:rotate(180deg)}
+
+    .sidebar h3{font-size:13px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;color:var(--navy);margin:16px 0 8px}
+    .sidebar h3:first-child{margin-top:0}
+
+    /* Search */
+    .search-wrap{position:relative;margin-bottom:12px}
+    .search-wrap input{width:100%;padding:10px 12px 10px 36px;font-size:13px;border:2px solid var(--border);border-radius:8px;font-family:inherit;transition:border-color .15s;background:#fff}
+    .search-wrap input:focus{border-color:var(--primary);outline:none}
+    .search-wrap .icon{position:absolute;left:10px;top:50%;transform:translateY(-50%);color:#8899aa;font-size:16px;pointer-events:none}
+
+    /* Filter groups */
+    .filter-group{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:12px}
+    .filter-btn{padding:5px 12px;font-size:11px;font-weight:600;border:1.5px solid var(--border);border-radius:14px;background:#fff;color:#5A6B7F;cursor:pointer;font-family:inherit;transition:all .15s;white-space:nowrap}
+    .filter-btn:hover{border-color:var(--primary);color:var(--primary)}
+    .filter-btn.active{background:var(--primary);color:#fff;border-color:var(--primary)}
+
+    /* Type filter checkboxes */
+    .type-filter label{display:flex;align-items:center;gap:6px;padding:5px 8px;font-size:12px;cursor:pointer;border-radius:6px;transition:background .15s}
+    .type-filter label:hover{background:var(--stripe)}
+    .type-filter input[type=checkbox]{accent-color:var(--primary);width:14px;height:14px;cursor:pointer}
+    .type-filter .color-dot{width:10px;height:10px;border-radius:50%;display:inline-block;flex-shrink:0}
+    .type-filter .count{color:#8899aa;font-size:11px;margin-left:auto}
+
+    /* Country list */
+    .country-list{max-height:220px;overflow-y:auto;border:1px solid var(--border);border-radius:8px;margin-bottom:8px}
+    .country-list::-webkit-scrollbar{width:4px}
+    .country-list::-webkit-scrollbar-thumb{background:#ccc;border-radius:2px}
+    .country-item{display:flex;align-items:center;justify-content:space-between;padding:6px 10px;font-size:12px;cursor:pointer;transition:background .1s;border-bottom:1px solid #f0f0f0}
+    .country-item:last-child{border-bottom:none}
+    .country-item:hover{background:var(--stripe)}
+    .country-item.active{background:#e3f0f7;font-weight:600}
+    .country-item .ctry-code{color:var(--primary);font-weight:700;font-size:10px;text-transform:uppercase}
+    .country-item .ctry-name{flex:1;margin:0 6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    .country-item .ctry-count{color:#8899aa;font-size:11px;font-weight:600;background:var(--stripe);padding:1px 7px;border-radius:8px}
+
+    /* Locate btn */
+    .locate-btn{position:absolute;top:12px;right:14px;z-index:400;background:#fff;border:2px solid rgba(0,0,0,.2);border-radius:6px;width:36px;height:36px;display:flex;align-items:center;justify-content:center;cursor:pointer;font-size:16px;color:var(--navy);transition:all .15s;box-shadow:0 1px 5px rgba(0,0,0,.15)}
+    .locate-btn:hover{background:var(--primary);color:#fff;border-color:var(--primary)}
+    .locate-btn.locating{animation:pulse 1s infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.5}}
+
+    /* Loading overlay */
+    .loading-overlay{position:absolute;inset:0;z-index:500;background:rgba(11,29,58,.85);display:flex;flex-direction:column;align-items:center;justify-content:center;transition:opacity .5s}
+    .loading-overlay.hide{opacity:0;pointer-events:none}
+    .spinner{width:44px;height:44px;border:4px solid rgba(255,255,255,.15);border-top-color:var(--primary);border-radius:50%;animation:spin .8s linear infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .loading-overlay p{color:#60a5fa;font-size:14px;margin-top:16px;font-weight:500}
+    .loading-overlay .sub{color:#8899aa;font-size:12px;margin-top:4px}
+
+    /* Leaflet popup custom */
+    .leaflet-popup-content{margin:10px 14px;font-family:'Inter',Arial,sans-serif;min-width:220px}
+    .leaflet-popup-content .popup-name{font-size:15px;font-weight:700;color:var(--navy);margin-bottom:4px}
+    .leaflet-popup-content .popup-codes{display:flex;gap:6px;margin-bottom:8px}
+    .leaflet-popup-content .popup-codes span{display:inline-block;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:700;color:#fff}
+    .leaflet-popup-content .popup-iata{background:var(--primary)}
+    .leaflet-popup-content .popup-icao{background:#5A6B7F}
+    .leaflet-popup-content .popup-row{font-size:12px;color:#5A6B7F;margin-bottom:3px;display:flex;gap:4px}
+    .leaflet-popup-content .popup-row strong{color:var(--navy);min-width:40px}
+    .leaflet-popup-content .popup-link{display:inline-block;margin-top:8px;padding:6px 14px;background:var(--primary);color:#fff;border-radius:6px;font-size:12px;font-weight:600;text-decoration:none;transition:background .15s}
+    .leaflet-popup-content .popup-link:hover{background:#2390c2}
+
+    /* Footer */
+    footer{background:var(--navy);color:#8899aa;padding:16px 0;font-size:12px;text-align:center;position:relative;z-index:2}
+    footer a{color:var(--primary);text-decoration:none}
+
+    /* Responsive */
+    @media(max-width:768px){
+      .sidebar{width:260px}
+      .sidebar-inner{width:260px;padding:12px}
+      :root{--sidebar-w:260px}
+      .page-header h1{font-size:18px}
+      .page-header .sub{font-size:12px}
+    }
+  </style>
+</head>
+<body>
+
+<!-- Sticky Top Nav -->
+<nav class="top-nav">
+  <div class="wrap">
+    <a href="/" class="logo">World<span>Airport</span>DB</a>
+    <div class="links">
+      <a href="/">Home</a>
+      <a href="/countries/">Countries</a>
+      <a href="/blog/">Blog</a>
+      <a href="/download/">Database</a>
+      <a href="/tools/iata-icao-lookup/">Lookup</a>
+      <a href="/tools/distance-calculator/">Distance</a>
+      <a href="/tools/nearest-airport/">Nearest</a>
+      <a href="/tools/airport-map/" class="active">Map</a>
+    </div>
+  </div>
+</nav>
+
+<!-- Page Header -->
+<div class="page-header">
+  <div class="wrap">
+    <div>
+      <h1>🗺️ Airport Map</h1>
+      <div class="sub">Interactive map of all IATA-coded airports worldwide — click any marker for details</div>
+    </div>
+    <div class="stats" id="stats-bar">Loading…</div>
+  </div>
+</div>
+
+<!-- Map + Sidebar -->
+<div class="map-container">
+  <div class="sidebar" id="sidebar">
+    <div class="sidebar-inner">
+      <h3>🔍 Search</h3>
+      <div class="search-wrap">
+        <span class="icon">🔎</span>
+        <input type="text" id="search-input" placeholder="Name, IATA, ICAO, city..." autocomplete="off">
+      </div>
+
+      <h3>🌍 Continent</h3>
+      <div class="filter-group" id="continent-filters">
+        <button class="filter-btn active" data-continent="">All</button>
+        <button class="filter-btn" data-continent="NA">NA</button>
+        <button class="filter-btn" data-continent="EU">EU</button>
+        <button class="filter-btn" data-continent="AS">AS</button>
+        <button class="filter-btn" data-continent="SA">SA</button>
+        <button class="filter-btn" data-continent="AF">AF</button>
+        <button class="filter-btn" data-continent="OC">OC</button>
+        <button class="filter-btn" data-continent="AN">AN</button>
+      </div>
+
+      <h3>🏷️ Type</h3>
+      <div class="type-filter" id="type-filters">
+        <label><input type="checkbox" value="large_airport" checked> <span class="color-dot" style="background:#2ca4dc"></span> Large <span class="count" id="count-large"></span></label>
+        <label><input type="checkbox" value="medium_airport" checked> <span class="color-dot" style="background:#FF9800"></span> Medium <span class="count" id="count-medium"></span></label>
+        <label><input type="checkbox" value="small_airport" checked> <span class="color-dot" style="background:#FFEB3B"></span> Small <span class="count" id="count-small"></span></label>
+        <label><input type="checkbox" value="heliport" checked> <span class="color-dot" style="background:#9C27B0"></span> Heliport <span class="count" id="count-heliport"></span></label>
+        <label><input type="checkbox" value="seaplane_base" checked> <span class="color-dot" style="background:#009688"></span> Seaplane <span class="count" id="count-seaplane"></span></label>
+      </div>
+
+      <h3>🗺️ Country</h3>
+      <div class="country-list" id="country-list"></div>
+    </div>
+  </div>
+  <button class="toggle-btn" id="toggle-sidebar" title="Toggle sidebar"><span class="arrow">◀</span></button>
+
+  <div id="map"></div>
+
+  <button class="locate-btn" id="locate-btn" title="Find my location">📍</button>
+
+  <!-- Loading overlay -->
+  <div class="loading-overlay" id="loading-overlay">
+    <div class="spinner"></div>
+    <p>Loading airport data…</p>
+    <div class="sub">Preparing 9,000+ airport markers</div>
+  </div>
+</div>
+
+<footer>
+  <div class="wrap">
+    <div><strong>World Airport Database since 2008</strong> — based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
+    <div style="margin-top:4px">Not affiliated with IATA or ICAO.</div>
+    <div style="margin-top:6px"><a href="/impressum/">Impressum</a></div>
+  </div>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script>
+(function() {
+  'use strict';
+
+  /* ─── Color map ─── */
+  const COLOR = {
+    large_airport:  '#2ca4dc',
+    medium_airport: '#FF9800',
+    small_airport:  '#FFEB3B',
+    heliport:       '#9C27B0',
+    seaplane_base:  '#009688'
+  };
+  const TYPE_LABEL = {
+    large_airport:  'Large',
+    medium_airport: 'Medium',
+    small_airport:  'Small',
+    heliport:       'Heliport',
+    seaplane_base:  'Seaplane'
+  };
+
+  /* ─── State ─── */
+  let map, clusterGroup, allMarkers = {}, allAirports = [];
+  let selectedContinent = '';
+  let selectedTypes = new Set(['large_airport','medium_airport','small_airport','heliport','seaplane_base']);
+  let searchQuery = '';
+  let selectedCountry = null;
+
+  /* ─── DOM refs ─── */
+  const sidebar       = document.getElementById('sidebar');
+  const toggleBtn     = document.getElementById('toggle-sidebar');
+  const searchInput   = document.getElementById('search-input');
+  const countryList   = document.getElementById('country-list');
+  const statsBar      = document.getElementById('stats-bar');
+  const loadingOverlay= document.getElementById('loading-overlay');
+  const locateBtn     = document.getElementById('locate-btn');
+
+  /* ─── Helpers ─── */
+  function getAirportUrl(ap) {
+    const cs = (ap.c||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')||'unknown';
+    const ns = (ap.n||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,60);
+    return `/airports/${cs}/${ns}-${(ap.i||'').toLowerCase()}/`;
+  }
+
+  function airportMatches(ap) {
+    // Continent
+    if (selectedContinent && ap.z !== selectedContinent) return false;
+    // Type
+    if (!selectedTypes.has(ap.t)) return false;
+    // Country
+    if (selectedCountry && ap.c !== selectedCountry) return false;
+    // Search
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      const iata = (ap.i||'').toLowerCase();
+      const icao = (ap.o||'').toLowerCase();
+      const name = (ap.n||'').toLowerCase();
+      const city = (ap.m||'').toLowerCase();
+      const ctry = (ap.c||'').toLowerCase();
+      if (!iata.includes(q) && !icao.includes(q) && !name.includes(q) && !city.includes(q) && !ctry.includes(q)) {
+        return false;
+      }
+    }
+    return true;
+  }
+
+  function applyFilters() {
+    const visible = [];
+    Object.keys(allMarkers).forEach(iata => {
+      const m = allMarkers[iata];
+      if (!m) return;
+      if (airportMatches(m.data)) {
+        clusterGroup.addLayer(m.layer);
+        visible.push(m.data);
+      } else {
+        clusterGroup.removeLayer(m.layer);
+      }
+    });
+    updateStats(visible);
+    updateCountryList(visible);
+    highlightActiveCountry();
+  }
+
+  function updateStats(visible) {
+    const total = Object.keys(allMarkers).length;
+    const shown = visible.length;
+    const pct = total ? Math.round(shown/total*100) : 0;
+    if (shown === total) {
+      statsBar.textContent = `${total.toLocaleString()} airports`;
+    } else {
+      statsBar.textContent = `${shown.toLocaleString()} / ${total.toLocaleString()} airports (${pct}%)`;
+    }
+  }
+
+  function updateCountryList(visible) {
+    // Count by country from visible airports
+    const counts = {};
+    visible.forEach(ap => {
+      counts[ap.c] = (counts[ap.c] || 0) + 1;
+    });
+    // Sort by count descending
+    const sorted = Object.entries(counts).sort((a,b) => b[1] - a[1]);
+    countryList.innerHTML = sorted.map(([country, count]) => {
+      const active = selectedCountry === country ? 'active' : '';
+      return `<div class="country-item ${active}" data-country="${country.replace(/"/g,'&quot;')}">
+        <span class="ctry-code">${country.slice(0,2).toUpperCase()}</span>
+        <span class="ctry-name">${country}</span>
+        <span class="ctry-count">${count}</span>
+      </div>`;
+    }).join('');
+
+    // Click handler
+    countryList.querySelectorAll('.country-item').forEach(el => {
+      el.addEventListener('click', function() {
+        const country = this.dataset.country;
+        selectedCountry = selectedCountry === country ? null : country;
+        applyFilters();
+      });
+    });
+  }
+
+  function highlightActiveCountry() {
+    countryList.querySelectorAll('.country-item').forEach(el => {
+      el.classList.toggle('active', el.dataset.country === selectedCountry);
+    });
+  }
+
+  function updateTypeCounts(data) {
+    const counts = { large_airport:0, medium_airport:0, small_airport:0, heliport:0, seaplane_base:0 };
+    data.forEach(ap => { if (counts[ap.t] !== undefined) counts[ap.t]++; });
+    document.getElementById('count-large').textContent = counts.large_airport.toLocaleString();
+    document.getElementById('count-medium').textContent = counts.medium_airport.toLocaleString();
+    document.getElementById('count-small').textContent = counts.small_airport.toLocaleString();
+    document.getElementById('count-heliport').textContent = counts.heliport.toLocaleString();
+    document.getElementById('count-seaplane').textContent = counts.seaplane_base.toLocaleString();
+  }
+
+  /* ─── Create markers ─── */
+  function createMarkers(data) {
+    clusterGroup = L.markerClusterGroup({
+      chunkedLoading: true,
+      chunkInterval: 80,
+      chunkDelay: 20,
+      maxClusterRadius: 60,
+      spiderfyOnMaxZoom: true,
+      showCoverageOnHover: false,
+      zoomToBoundsOnClick: true
+    });
+
+    data.forEach(ap => {
+      if (!ap.i || !ap.y || !ap.x) return;
+      const color = COLOR[ap.t] || '#888';
+      const marker = L.circleMarker([ap.y, ap.x], {
+        radius: ap.t === 'large_airport' ? 7 : ap.t === 'medium_airport' ? 6 : 5,
+        fillColor: color,
+        color: '#fff',
+        weight: 1.5,
+        opacity: 1,
+        fillOpacity: 0.85
+      });
+
+      const typeLabel = TYPE_LABEL[ap.t] || ap.t;
+      const popupHtml = `
+        <div class="popup-name">${ap.n}</div>
+        <div class="popup-codes">
+          <span class="popup-iata">${ap.i}</span>
+          ${ap.o ? `<span class="popup-icao">${ap.o}</span>` : ''}
+          <span style="display:inline-block;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:700;background:${color};color:#fff">${typeLabel}</span>
+        </div>
+        <div class="popup-row"><strong>City:</strong> ${ap.m || '—'}</div>
+        <div class="popup-row"><strong>Country:</strong> ${ap.c}</div>
+        ${ap.e ? `<div class="popup-row"><strong>Elev:</strong> ${ap.e} ft</div>` : ''}
+        <a class="popup-link" href="${getAirportUrl(ap)}">View Airport Details →</a>
+      `;
+      marker.bindPopup(popupHtml, { maxWidth: 300, className: '' });
+
+      allMarkers[ap.i] = { layer: marker, data: ap };
+      clusterGroup.addLayer(marker);
+    });
+
+    return clusterGroup;
+  }
+
+  /* ─── Init map ─── */
+  function initMap() {
+    map = L.map('map', {
+      center: [20, 0],
+      zoom: 2,
+      zoomControl: true,
+      attributionControl: true
+    });
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; <a href="https://carto.com/">CARTO</a>',
+      maxZoom: 19
+    }).addTo(map);
+  }
+
+  /* ─── Load data ─── */
+  async function loadData() {
+    try {
+      const res = await fetch('/data/airports.json');
+      allAirports = await res.json();
+      // Filter to only those with IATA codes
+      allAirports = allAirports.filter(ap => ap.i && ap.y && ap.x);
+      return allAirports;
+    } catch (e) {
+      console.error('Failed to load airport data:', e);
+      loadingOverlay.querySelector('.sub').textContent = 'Error loading data. Please refresh.';
+      throw e;
+    }
+  }
+
+  /* ─── Init ─── */
+  async function init() {
+    initMap();
+
+    // Sidebar toggle
+    toggleBtn.addEventListener('click', () => {
+      sidebar.classList.toggle('collapsed');
+    });
+
+    // Continent filter
+    document.querySelectorAll('#continent-filters .filter-btn').forEach(btn => {
+      btn.addEventListener('click', function() {
+        document.querySelectorAll('#continent-filters .filter-btn').forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+        selectedContinent = this.dataset.continent;
+        applyFilters();
+      });
+    });
+
+    // Type filter
+    document.querySelectorAll('#type-filters input[type=checkbox]').forEach(cb => {
+      cb.addEventListener('change', function() {
+        if (this.checked) {
+          selectedTypes.add(this.value);
+        } else {
+          selectedTypes.delete(this.value);
+        }
+        applyFilters();
+      });
+    });
+
+    // Search
+    let searchTimer;
+    searchInput.addEventListener('input', function() {
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(() => {
+        searchQuery = this.value.trim();
+        applyFilters();
+      }, 250);
+    });
+
+    // Locate
+    locateBtn.addEventListener('click', function() {
+      if (!navigator.geolocation) {
+        alert('Geolocation is not supported by your browser.');
+        return;
+      }
+      this.classList.add('locating');
+      navigator.geolocation.getCurrentPosition(
+        pos => {
+          this.classList.remove('locating');
+          const { latitude, longitude } = pos.coords;
+          map.setView([latitude, longitude], 10);
+          L.circleMarker([latitude, longitude], {
+            radius: 10,
+            fillColor: '#FF4444',
+            color: '#fff',
+            weight: 2,
+            fillOpacity: 0.5
+          }).addTo(map).bindPopup('<b>📍 Your Location</b>').openPopup();
+        },
+        err => {
+          this.classList.remove('locating');
+          let msg = 'Unable to retrieve your location.';
+          if (err.code === 1) msg = 'Location access denied. Please allow location access in your browser settings.';
+          else if (err.code === 2) msg = 'Location unavailable. Try again.';
+          else if (err.code === 3) msg = 'Location request timed out. Try again.';
+          alert(msg);
+        },
+        { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 }
+      );
+    });
+
+    // Load data
+    try {
+      const data = await loadData();
+      const cluster = createMarkers(data);
+      map.addLayer(cluster);
+      updateTypeCounts(data);
+      updateStats(data);
+      updateCountryList(data);
+      loadingOverlay.classList.add('hide');
+      setTimeout(() => { loadingOverlay.style.display = 'none'; }, 500);
+    } catch(e) {
+      loadingOverlay.querySelector('p').textContent = '⚠️ Error loading airport data';
+      loadingOverlay.querySelector('.sub').textContent = e.message + '. Please refresh the page.';
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', init);
+})();
+</script>
+</body>
+</html>

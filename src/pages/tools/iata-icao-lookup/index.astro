@@ -1,0 +1,488 @@
+---
+const pageTitle = 'IATA / ICAO Airport Lookup — World Airport Database';
+const pageDesc = 'Search all 9,056 IATA-coded airports worldwide by code, name, city, or country. Live filtering with continent and type filters.';
+const pageUrl = 'https://world-airport-database.com/tools/iata-icao-lookup/';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc}>
+  <link rel="canonical" href={pageUrl}>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content={pageTitle}>
+  <meta property="og:description" content={pageDesc}>
+  <meta property="og:url" content={pageUrl}>
+  <meta property="og:site_name" content="World Airport Database">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    html{scroll-behavior:smooth}
+    body{font-family:'Inter',Arial,sans-serif;background:#F4F7FA;color:#202c39;line-height:1.6;-webkit-font-smoothing:antialiased}
+    :root{--primary:#2ca4dc;--primary-dark:#2390c2;--navy:#0B1D3A;--border:#D4E0E8;--stripe:#F0F6FC;--text-light:#5A6B7F}
+    a{color:var(--primary);text-decoration:none}
+    a:hover{text-decoration:underline}
+    .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
+    /* Nav */
+    nav{background:var(--navy);padding:10px 0;position:sticky;top:0;z-index:100;border-bottom:3px solid var(--primary)}
+    nav .wrap{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
+    nav .logo{color:#fff;font-size:15px;font-weight:700;text-decoration:none;white-space:nowrap}
+    nav .logo span{color:#60a5fa}
+    nav .links{display:flex;gap:14px;flex-wrap:wrap}
+    nav .links a{color:rgba(255,255,255,.7);text-decoration:none;font-size:13px;font-weight:500;transition:color .15s;white-space:nowrap}
+    nav .links a:hover{color:#fff}
+    nav .links a.active{color:#60a5fa;font-weight:600}
+    /* Hero */
+    .hero{background:linear-gradient(135deg,var(--navy),#142b4f);padding:36px 0;border-bottom:4px solid var(--primary)}
+    .hero h1{color:#fff;font-size:28px;margin-bottom:6px}
+    .hero .sub{color:#8899aa;font-size:14px}
+    /* Card */
+    .card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:24px;margin:20px 0;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+    .card h3{font-size:15px;color:var(--navy);margin-bottom:16px;display:flex;align-items:center;gap:8px}
+    /* Search */
+    .search-row{display:flex;gap:8px;margin-bottom:14px}
+    .search-row input{flex:1;padding:12px 16px;font-size:15px;border:2px solid var(--border);border-radius:8px;outline:none;font-family:inherit;transition:border-color .15s}
+    .search-row input:focus{border-color:var(--primary)}
+    .search-row .loc-btn{padding:12px 16px;background:var(--stripe);border:2px solid var(--border);border-radius:8px;cursor:pointer;font-size:14px;font-weight:600;color:var(--navy);font-family:inherit;white-space:nowrap;transition:all .15s;display:flex;align-items:center;gap:6px}
+    .search-row .loc-btn:hover{background:var(--primary);color:#fff;border-color:var(--primary)}
+    .search-row .loc-btn:disabled{opacity:.5;cursor:not-allowed}
+    .filter-row{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:6px}
+    .filter-row select{padding:10px 14px;font-size:13px;border:2px solid var(--border);border-radius:8px;font-family:inherit;background:#fff;cursor:pointer;outline:none;transition:border-color .15s;min-width:160px}
+    .filter-row select:focus{border-color:var(--primary)}
+    .result-meta{font-size:13px;color:var(--text-light);margin-bottom:12px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+    .result-meta strong{color:var(--navy)}
+    /* Table */
+    .table-wrap{overflow-x:auto;border-radius:8px;border:1px solid var(--border)}
+    table{width:100%;border-collapse:collapse;background:#fff;font-size:13px}
+    thead{position:sticky;top:0;z-index:2}
+    th{background:var(--navy);color:#fff;padding:10px 12px;text-align:left;font-size:11px;text-transform:uppercase;letter-spacing:.5px;font-weight:600;white-space:nowrap}
+    td{padding:9px 12px;border-bottom:1px solid var(--border);vertical-align:middle}
+    tr:last-child td{border-bottom:none}
+    tr:hover td{background:#f0f9ff}
+    .iata-badge{display:inline-block;background:var(--primary);color:#fff;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:700;text-decoration:none;transition:background .15s}
+    .iata-badge:hover{background:var(--primary-dark);text-decoration:none}
+    .icao-cell{font-family:'Courier New',monospace;font-weight:600;color:var(--navy)}
+    .type-badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:600;text-transform:capitalize}
+    .type-large{background:#dbeafe;color:#1e40af}
+    .type-medium{background:#fef3c7;color:#92400e}
+    .type-small{background:#f1f5f9;color:#475569}
+    .type-heliport{background:#ede9fe;color:#5b21b6}
+    .type-seaplane{background:#d1fae5;color:#065f46}
+    /* Copy button */
+    .copy-btn{background:none;border:none;cursor:pointer;color:var(--text-light);padding:2px 6px;border-radius:4px;font-size:13px;transition:all .15s;margin-left:2px}
+    .copy-btn:hover{background:var(--stripe);color:var(--navy)}
+    .copy-btn.copied{color:#16a34a}
+    .copy-toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%);background:var(--navy);color:#fff;padding:10px 24px;border-radius:8px;font-size:13px;font-weight:600;z-index:999;opacity:0;transition:opacity .3s;pointer-events:none}
+    .copy-toast.show{opacity:1}
+    /* Link row */
+    .airport-link{color:var(--navy);font-weight:500;text-decoration:none}
+    .airport-link:hover{color:var(--primary);text-decoration:underline}
+    .elev-cell{color:var(--text-light);font-size:12px}
+    .no-results{text-align:center;padding:40px 20px;color:var(--text-light);font-size:14px}
+    /* Loading */
+    .loading-spinner{text-align:center;padding:40px;color:var(--text-light)}
+    .loading-spinner .spinner{display:inline-block;width:32px;height:32px;border:3px solid var(--border);border-top-color:var(--primary);border-radius:50%;animation:spin .8s linear infinite;margin-bottom:12px}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    /* Footer */
+    footer{background:var(--navy);color:#8899aa;padding:36px 0 24px;margin-top:40px;border-top:4px solid var(--primary);font-size:13px;text-align:center}
+    footer a{color:var(--primary)}
+    footer .footer-inner>*{margin-bottom:8px}
+    /* Responsive */
+    @media(max-width:768px){
+      .hero h1{font-size:22px}
+      .search-row{flex-direction:column}
+      .search-row .loc-btn{justify-content:center}
+      nav .links{gap:8px;justify-content:center}
+      nav .links a{font-size:12px}
+      td,th{padding:7px 8px;font-size:12px}
+      .filter-row select{min-width:130px;flex:1}
+    }
+    @media(max-width:500px){
+      table{font-size:11px}
+      td,th{padding:5px 6px}
+      .iata-badge{font-size:10px;padding:1px 5px}
+      .type-badge{font-size:10px;padding:1px 5px}
+    }
+  </style>
+</head>
+<body>
+
+<!-- Sticky Navigation -->
+<nav>
+  <div class="wrap">
+    <a href="/" class="logo">World<span>Airport</span>DB</a>
+    <div class="links">
+      <a href="/">Home</a>
+      <a href="/countries/">Countries</a>
+      <a href="/blog/">Blog</a>
+      <a href="/download/">Database</a>
+      <a href="/tools/iata-icao-lookup/" class="active">Lookup</a>
+      <a href="/tools/distance-calculator/">Distance</a>
+      <a href="/tools/nearest-airport/">Nearest</a>
+      <a href="/tools/timezone-lookup/">Timezone</a>
+      <a href="/tools/airport-map/">Map</a>
+    </div>
+  </div>
+</nav>
+
+<!-- Hero -->
+<div class="hero">
+  <div class="wrap">
+    <h1>🔍 IATA / ICAO Airport Lookup</h1>
+    <div class="sub">Search all 9,056 IATA-coded airports worldwide by code, name, city, or country. Live filtering with continent and airport type filters.</div>
+  </div>
+</div>
+
+<!-- Main Content -->
+<div class="wrap">
+  <div class="card">
+    <h3>✈️ Search Airports</h3>
+    <div class="search-row">
+      <input type="text" id="search-input" placeholder="Search by IATA, ICAO, name, city, country..." oninput="handleFilter()" autocomplete="off">
+      <button class="loc-btn" id="loc-btn" onclick="useMyLocation()" title="Find airports near your current location">📍 Use my location</button>
+    </div>
+    <div class="filter-row">
+      <select id="filter-continent" onchange="handleFilter()">
+        <option value="">All Continents</option>
+        <option value="NA">North America</option>
+        <option value="EU">Europe</option>
+        <option value="AS">Asia</option>
+        <option value="SA">South America</option>
+        <option value="AF">Africa</option>
+        <option value="OC">Oceania</option>
+        <option value="AN">Antarctica</option>
+      </select>
+      <select id="filter-type" onchange="handleFilter()">
+        <option value="">All Types</option>
+        <option value="large_airport">Large Airport</option>
+        <option value="medium_airport">Medium Airport</option>
+        <option value="small_airport">Small Airport</option>
+        <option value="heliport">Heliport</option>
+        <option value="seaplane_base">Seaplane Base</option>
+      </select>
+    </div>
+  </div>
+
+  <div id="loading" class="loading-spinner">
+    <div class="spinner"></div>
+    <div>Loading airport data…</div>
+  </div>
+
+  <div id="results" style="display:none">
+    <div class="result-meta">
+      <span>Showing <strong id="result-count">0</strong> of <strong id="total-count">0</strong> airports</span>
+      <span style="font-size:12px">Click any row for full airport profile</span>
+    </div>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>IATA</th>
+            <th>ICAO</th>
+            <th>Name</th>
+            <th>City</th>
+            <th>Country</th>
+            <th>Type</th>
+            <th>Elevation</th>
+          </tr>
+        </thead>
+        <tbody id="results-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div id="no-results" class="no-results" style="display:none">
+    <p>No airports match your search criteria.</p>
+    <p style="margin-top:8px;font-size:13px">Try adjusting your search terms or clearing the filters.</p>
+  </div>
+
+  <a href="/" style="display:inline-block;margin:20px 0;color:var(--primary);font-weight:600;font-size:14px;text-decoration:none">&larr; Back to World Airport Database</a>
+</div>
+
+<!-- Copy Toast -->
+<div class="copy-toast" id="copy-toast">📋 Copied to clipboard!</div>
+
+<!-- Footer -->
+<footer>
+  <div class="wrap">
+    <div><strong>World Airport Database since 2008</strong> — based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
+    <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
+    <div style="margin-top:10px"><a href="/impressum/">Impressum</a></div>
+  </div>
+</footer>
+
+<script>
+(function() {
+  'use strict';
+
+  let airports = [];
+  let allAirports = [];
+
+  // DOM refs
+  const searchInput = document.getElementById('search-input');
+  const filterContinent = document.getElementById('filter-continent');
+  const filterType = document.getElementById('filter-type');
+  const tbody = document.getElementById('results-tbody');
+  const resultsDiv = document.getElementById('results');
+  const noResultsDiv = document.getElementById('no-results');
+  const loadingDiv = document.getElementById('loading');
+  const resultCountSpan = document.getElementById('result-count');
+  const totalCountSpan = document.getElementById('total-count');
+  const copyToast = document.getElementById('copy-toast');
+
+  // Continent names for display
+  const continentNames = {
+    'NA': 'North America',
+    'EU': 'Europe',
+    'AS': 'Asia',
+    'SA': 'South America',
+    'AF': 'Africa',
+    'OC': 'Oceania',
+    'AN': 'Antarctica'
+  };
+
+  // Type display map
+  const typeLabels = {
+    'large_airport': 'Large',
+    'medium_airport': 'Medium',
+    'small_airport': 'Small',
+    'heliport': 'Heliport',
+    'seaplane_base': 'Seaplane'
+  };
+
+  // Type CSS class map
+  const typeClasses = {
+    'large_airport': 'type-large',
+    'medium_airport': 'type-medium',
+    'small_airport': 'type-small',
+    'heliport': 'type-heliport',
+    'seaplane_base': 'type-seaplane'
+  };
+
+  let toastTimeout = null;
+
+  function showToast(msg) {
+    copyToast.textContent = msg || '📋 Copied to clipboard!';
+    copyToast.classList.add('show');
+    if (toastTimeout) clearTimeout(toastTimeout);
+    toastTimeout = setTimeout(function() {
+      copyToast.classList.remove('show');
+    }, 1800);
+  }
+
+  function slugify(text) {
+    return (text || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') || 'unknown';
+  }
+
+  function typeBadge(type) {
+    const label = typeLabels[type] || type.replace(/_/g, ' ').replace(/\b\w/g, function(c) { return c.toUpperCase(); });
+    const cls = typeClasses[type] || 'type-small';
+    return '<span class="type-badge ' + cls + '">' + label + '</span>';
+  }
+
+  function elevationText(elev) {
+    if (elev === null || elev === undefined || elev === '' || elev === 0) return '<span class="elev-cell">—</span>';
+    return '<span class="elev-cell">' + Number(elev).toLocaleString() + ' ft</span>';
+  }
+
+  function copyToClipboard(text, btn) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(function() {
+        btn.classList.add('copied');
+        showToast('📋 Copied ' + text + ' to clipboard!');
+        setTimeout(function() { btn.classList.remove('copied'); }, 1200);
+      }).catch(function() {
+        fallbackCopy(text, btn);
+      });
+    } else {
+      fallbackCopy(text, btn);
+    }
+  }
+
+  function fallbackCopy(text, btn) {
+    var ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.position = 'fixed';
+    ta.style.left = '-9999px';
+    document.body.appendChild(ta);
+    ta.select();
+    try {
+      document.execCommand('copy');
+      btn.classList.add('copied');
+      showToast('📋 Copied ' + text + ' to clipboard!');
+      setTimeout(function() { btn.classList.remove('copied'); }, 1200);
+    } catch(e) {
+      showToast('Could not copy');
+    }
+    document.body.removeChild(ta);
+  }
+
+  function renderTable(data) {
+    if (data.length === 0) {
+      resultsDiv.style.display = 'none';
+      noResultsDiv.style.display = 'block';
+      return;
+    }
+
+    resultsDiv.style.display = 'block';
+    noResultsDiv.style.display = 'none';
+    resultCountSpan.textContent = data.length.toLocaleString();
+    totalCountSpan.textContent = allAirports.length.toLocaleString();
+
+    var html = '';
+    for (var i = 0; i < data.length; i++) {
+      var ap = data[i];
+      var iata = ap.i || '';
+      var icao = ap.o || '';
+      var name = ap.n || '';
+      var city = ap.m || '';
+      var country = ap.c || '';
+      var type = ap.t || '';
+      var elevation = ap.e;
+      var countrySlug = slugify(country);
+      var nameSlug = slugify(name).slice(0, 60);
+      var link = '/airports/' + countrySlug + '/' + nameSlug + '-' + iata.toLowerCase() + '/';
+
+      // Copy buttons
+      var iataCopy = '<button class="copy-btn" onclick="window.__copy(\'' + iata.replace(/'/g, "\\'") + '\', this)" title="Copy IATA code">📋</button>';
+      var icaoCopy = icao ? '<button class="copy-btn" onclick="window.__copy(\'' + icao.replace(/'/g, "\\'") + '\', this)" title="Copy ICAO code">📋</button>' : '';
+
+      html += '<tr>' +
+        '<td><a href="' + link + '" class="iata-badge">' + iata + '</a>' + iataCopy + '</td>' +
+        '<td class="icao-cell">' + (icao || '<span style="color:#889">—</span>') + icaoCopy + '</td>' +
+        '<td><a href="' + link + '" class="airport-link">' + name + '</a></td>' +
+        '<td>' + (city || '<span style="color:#889">—</span>') + '</td>' +
+        '<td>' + country + '</td>' +
+        '<td>' + typeBadge(type) + '</td>' +
+        '<td>' + elevationText(elevation) + '</td>' +
+        '</tr>';
+    }
+    tbody.innerHTML = html;
+  }
+
+  function filterData() {
+    var q = searchInput.value.trim().toLowerCase();
+    var cont = filterContinent.value;
+    var type = filterType.value;
+
+    var filtered = [];
+    for (var i = 0; i < allAirports.length; i++) {
+      var ap = allAirports[i];
+
+      // Continent filter
+      if (cont && ap.z !== cont) continue;
+
+      // Type filter
+      if (type && ap.t !== type) continue;
+
+      // Text search
+      if (q) {
+        var match = false;
+        if ((ap.i && ap.i.toLowerCase().indexOf(q) !== -1)) match = true;
+        if (!match && (ap.o && ap.o.toLowerCase().indexOf(q) !== -1)) match = true;
+        if (!match && (ap.n && ap.n.toLowerCase().indexOf(q) !== -1)) match = true;
+        if (!match && (ap.m && ap.m.toLowerCase().indexOf(q) !== -1)) match = true;
+        if (!match && (ap.c && ap.c.toLowerCase().indexOf(q) !== -1)) match = true;
+        if (!match && (ap.k && ap.k.toLowerCase().indexOf(q) !== -1)) match = true;
+        if (!match) continue;
+      }
+
+      filtered.push(ap);
+    }
+
+    renderTable(filtered);
+  }
+
+  // Expose for inline onclick
+  window.filterData = filterData;
+
+  // Debounced handler
+  var filterTimer = null;
+  window.handleFilter = function() {
+    if (filterTimer) clearTimeout(filterTimer);
+    filterTimer = setTimeout(filterData, 80);
+  };
+
+  // Geolocation
+  window.useMyLocation = function() {
+    var btn = document.getElementById('loc-btn');
+    if (!navigator.geolocation) {
+      showToast('Geolocation is not supported by your browser');
+      return;
+    }
+    btn.disabled = true;
+    btn.textContent = '📍 Locating…';
+    navigator.geolocation.getCurrentPosition(
+      function(pos) {
+        btn.disabled = false;
+        btn.textContent = '📍 Use my location';
+        var lat = pos.coords.latitude;
+        var lon = pos.coords.longitude;
+        // Find nearest airports by sorting
+        var withDist = allAirports.map(function(ap) {
+          var d = haversine(lat, lon, ap.y, ap.x);
+          return { ap: ap, d: d };
+        });
+        withDist.sort(function(a, b) { return a.d - b.d; });
+        var nearest = withDist.slice(0, 20).map(function(item) { return item.ap; });
+        // Set search context to nearest
+        searchInput.value = '';
+        filterContinent.value = '';
+        filterType.value = '';
+        renderTable(nearest);
+        showToast('📍 Showing 20 nearest airports to your location');
+      },
+      function(err) {
+        btn.disabled = false;
+        btn.textContent = '📍 Use my location';
+        var msg = 'Unable to retrieve location';
+        if (err.code === 1) msg = 'Location access denied. Please enable location permissions.';
+        else if (err.code === 2) msg = 'Location unavailable. Try again later.';
+        else if (err.code === 3) msg = 'Location request timed out. Try again.';
+        showToast(msg);
+      },
+      { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 }
+    );
+  };
+
+  function haversine(lat1, lon1, lat2, lon2) {
+    var R = 6371;
+    var dLat = (lat2 - lat1) * Math.PI / 180;
+    var dLon = (lon2 - lon1) * Math.PI / 180;
+    var a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+      Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+      Math.sin(dLon/2) * Math.sin(dLon/2);
+    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+    return R * c;
+  }
+
+  // Setup global copy function
+  window.__copy = copyToClipboard;
+
+  // Load data
+  async function loadData() {
+    try {
+      var res = await fetch('/data/airports.json');
+      var data = await res.json();
+      // Only airports with IATA codes (i field not empty)
+      allAirports = data.filter(function(ap) { return ap.i && ap.i.length > 0; });
+      // Sort by score descending so best-known airports appear first on empty search
+      allAirports.sort(function(a, b) { return (b.s || 0) - (a.s || 0); });
+      airports = allAirports;
+      loadingDiv.style.display = 'none';
+      totalCountSpan.textContent = allAirports.length.toLocaleString();
+      renderTable(allAirports.slice(0, 100));
+    } catch(e) {
+      loadingDiv.innerHTML = '<p style="color:#c33">Error loading airport data: ' + e.message + '</p>';
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', loadData);
+})();
+</script>
+</body>
+</html>

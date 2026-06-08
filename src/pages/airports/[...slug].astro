@@ -1,26 +1,232 @@
 ---
 import airports from '../../data/airports.js';
+import { getTimezoneForCountry } from '../../data/timezones.js';
+import {
+  makeSlug,
+  haversineKm,
+  getClimateData,
+  getBestSeason,
+  getAirlinesForRegion,
+  allianceClass,
+  climateBarColor
+} from '../../data/airport-helpers.js';
+
+// ── Climate Zone helper ──────────────────────────────────────────────
+function getClimateZone(lat) {
+  const abs = Math.abs(lat);
+  if (abs > 66.5) return 'arctic';
+  if (abs > 23.5) return 'temperate';
+  return 'tropical';
+}
+
+function getClimateData(lat) {
+  const zone = getClimateZone(lat);
+  // Approximate monthly average high/low temps by zone
+  const zones = {
+    arctic: {
+      label: 'Arctic / Polar',
+      months: [
+        { m:'Jan', lo:-20, hi:-10 }, { m:'Feb', lo:-19, hi:-9 }, { m:'Mar', lo:-15, hi:-5 },
+        { m:'Apr', lo:-10, hi:0 },   { m:'May', lo:-3, hi:5 },   { m:'Jun', lo:2, hi:10 },
+        { m:'Jul', lo:5, hi:15 },    { m:'Aug', lo:4, hi:12 },   { m:'Sep', lo:0, hi:7 },
+        { m:'Oct', lo:-5, hi:1 },    { m:'Nov', lo:-12, hi:-3 }, { m:'Dec', lo:-18, hi:-8 }
+      ]
+    },
+    temperate: {
+      label: 'Temperate',
+      months: [
+        { m:'Jan', lo:0, hi:8 },   { m:'Feb', lo:1, hi:10 },  { m:'Mar', lo:4, hi:13 },
+        { m:'Apr', lo:7, hi:17 },  { m:'May', lo:11, hi:21 }, { m:'Jun', lo:15, hi:26 },
+        { m:'Jul', lo:17, hi:28 }, { m:'Aug', lo:16, hi:27 }, { m:'Sep', lo:13, hi:23 },
+        { m:'Oct', lo:9, hi:18 },  { m:'Nov', lo:5, hi:12 },  { m:'Dec', lo:1, hi:9 }
+      ]
+    },
+    tropical: {
+      label: 'Tropical',
+      months: [
+        { m:'Jan', lo:22, hi:30 }, { m:'Feb', lo:22, hi:30 }, { m:'Mar', lo:22, hi:31 },
+        { m:'Apr', lo:23, hi:31 }, { m:'May', lo:23, hi:31 }, { m:'Jun', lo:23, hi:31 },
+        { m:'Jul', lo:22, hi:30 }, { m:'Aug', lo:22, hi:30 }, { m:'Sep', lo:22, hi:30 },
+        { m:'Oct', lo:22, hi:30 }, { m:'Nov', lo:22, hi:30 }, { m:'Dec', lo:22, hi:30 }
+      ]
+    }
+  };
+  return zones[zone] || zones.temperate;
+}
+
+// ── Best Time to Fly / Seasonality ───────────────────────────────────
+function getBestSeason(country, continent) {
+  // Map by continent/region
+  const seasonMap = {
+    EU: { best: 'April – October', why: 'Mild weather, minimal disruptions', seasons: { spring:'Mar–May', summer:'Jun–Aug', autumn:'Sep–Nov', winter:'Dec–Feb' }},
+    NA: { best: 'May – September', why: 'Pleasant temperatures across most regions', seasons: { spring:'Mar–May', summer:'Jun–Aug', autumn:'Sep–Nov', winter:'Dec–Feb' }},
+    AS: { best: 'November – March', why: 'Dry season across much of Asia', seasons: { spring:'Mar–May', summer:'Jun–Aug', autumn:'Sep–Nov', winter:'Dec–Feb' }},
+    SA: { best: 'May – October', why: 'Dry season in most of South America', seasons: { dry:'May–Oct', wet:'Nov–Apr' }},
+    AF: { best: 'November – February', why: 'Cooler dry season across Africa', seasons: { dry:'Nov–Feb', wet:'Mar–Oct' }},
+    OC: { best: 'April – October', why: 'Cooler dry season in Oceania', seasons: { dry:'Apr–Oct', wet:'Nov–Mar' }},
+    AN: { best: 'November – February', why: 'Austral summer, accessible', seasons: { summer:'Nov–Feb', winter:'Mar–Oct' }}
+  };
+  // Caribbean / Mexico override
+  const caribbeanCountries = ['Antigua and Barbuda','Bahamas','Barbados','Belize','Bermuda','Cayman Islands','Costa Rica','Cuba','Dominica','Dominican Republic','El Salvador','Grenada','Guatemala','Haiti','Honduras','Jamaica','Mexico','Nicaragua','Panama','Puerto Rico','Saint Kitts and Nevis','Saint Lucia','Saint Vincent and the Grenadines','Trinidad and Tobago','Turks and Caicos Islands','United States Virgin Islands','British Virgin Islands','Anguilla','Aruba','Bonaire','Curaçao','Guadeloupe','Martinique','Montserrat','Saba','Saint Barthélemy','Saint Martin','Sint Eustatius','Sint Maarten'];
+  if (caribbeanCountries.includes(country)) {
+    return { best: 'December – April', why: 'Dry season, avoids hurricane months (Jun–Nov)', seasons: { dry:'Dec–Apr', wet:'May–Nov' }};
+  }
+  // Middle East / Gulf override
+  const gulfCountries = ['United Arab Emirates','Qatar','Bahrain','Kuwait','Oman','Saudi Arabia'];
+  if (gulfCountries.includes(country)) {
+    return { best: 'November – March', why: 'Pleasant temperatures, avoids extreme summer heat', seasons: { cool:'Nov–Mar', hot:'Apr–Oct' }};
+  }
+  return seasonMap[continent] || { best: 'Year-round', why: 'Mild climate throughout the year', seasons: {} };
+}
+
+// ── Alliance CSS class helper ──────────────────────────────────────────
+function allianceClass(alliance) {
+  const map = { 'Star Alliance': 'star', 'Oneworld': 'oneworld', 'SkyTeam': 'skyteam', 'Low-cost': 'low', 'Independent': 'independent' };
+  return map[alliance] || 'independent';
+}
+
+// ── Climate bar color helper ──────────────────────────────────────────
+function climateBarColor(hi, lo) {
+  const avg = (hi + lo) / 2;
+  if (avg > 25) return 'linear-gradient(180deg,#fff7ed,#fed7aa)';
+  if (avg > 15) return 'linear-gradient(180deg,#f0fdf4,#bbf7d0)';
+  if (avg > 5) return 'linear-gradient(180deg,#f0f9ff,#bae6fd)';
+  return 'linear-gradient(180deg,#f8fafc,#e2e8f0)';
+}
+
+// ── Airlines by IATA Region ───────────────────────────────────────────
+function getAirlinesForRegion(iata, country, continent) {
+  // Simplified: Return common airlines based on continent
+  const airlineMap = {
+    EU: [
+      { code: 'LH', name: 'Lufthansa', alliance: 'Star Alliance' },
+      { code: 'FR', name: 'Ryanair', alliance: 'Low-cost' },
+      { code: 'BA', name: 'British Airways', alliance: 'Oneworld' },
+      { code: 'AF', name: 'Air France', alliance: 'SkyTeam' },
+      { code: 'KL', name: 'KLM', alliance: 'SkyTeam' },
+      { code: 'IB', name: 'Iberia', alliance: 'Oneworld' },
+      { code: 'TK', name: 'Turkish Airlines', alliance: 'Star Alliance' },
+      { code: 'U2', name: 'easyJet', alliance: 'Low-cost' },
+    ],
+    NA: [
+      { code: 'AA', name: 'American Airlines', alliance: 'Oneworld' },
+      { code: 'DL', name: 'Delta Air Lines', alliance: 'SkyTeam' },
+      { code: 'UA', name: 'United Airlines', alliance: 'Star Alliance' },
+      { code: 'WN', name: 'Southwest Airlines', alliance: 'Low-cost' },
+      { code: 'AS', name: 'Alaska Airlines', alliance: 'Oneworld' },
+      { code: 'B6', name: 'JetBlue', alliance: 'Low-cost' },
+      { code: 'AC', name: 'Air Canada', alliance: 'Star Alliance' },
+    ],
+    AS: [
+      { code: 'SQ', name: 'Singapore Airlines', alliance: 'Star Alliance' },
+      { code: 'CX', name: 'Cathay Pacific', alliance: 'Oneworld' },
+      { code: 'EK', name: 'Emirates', alliance: 'Independent' },
+      { code: 'QR', name: 'Qatar Airways', alliance: 'Oneworld' },
+      { code: 'EY', name: 'Etihad Airways', alliance: 'Independent' },
+      { code: 'NH', name: 'ANA', alliance: 'Star Alliance' },
+      { code: 'JL', name: 'Japan Airlines', alliance: 'Oneworld' },
+      { code: 'CA', name: 'Air China', alliance: 'Star Alliance' },
+      { code: 'TG', name: 'Thai Airways', alliance: 'Star Alliance' },
+    ],
+    SA: [
+      { code: 'LA', name: 'LATAM Airlines', alliance: 'Oneworld' },
+      { code: 'G3', name: 'Gol Airlines', alliance: 'Independent' },
+      { code: 'AR', name: 'Aerolíneas Argentinas', alliance: 'SkyTeam' },
+      { code: 'AV', name: 'Avianca', alliance: 'Star Alliance' },
+    ],
+    AF: [
+      { code: 'ET', name: 'Ethiopian Airlines', alliance: 'Star Alliance' },
+      { code: 'MS', name: 'EgyptAir', alliance: 'Star Alliance' },
+      { code: 'SA', name: 'South African Airways', alliance: 'Star Alliance' },
+      { code: 'KQ', name: 'Kenya Airways', alliance: 'SkyTeam' },
+    ],
+    OC: [
+      { code: 'QF', name: 'Qantas', alliance: 'Oneworld' },
+      { code: 'VA', name: 'Virgin Australia', alliance: 'Independent' },
+      { code: 'NZ', name: 'Air New Zealand', alliance: 'Star Alliance' },
+      { code: 'FJ', name: 'Fiji Airways', alliance: 'Oneworld' },
+    ],
+  };
+  return airlineMap[continent] || [];
+}
 
 export async function getStaticPaths() {
-  return airports.map(ap => {
-    const cs = (ap.country||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')||'unknown';
-    const ns = (ap.name||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,60);
-    return { params: { slug: `${cs}/${ns}-${(ap.iata||'').toLowerCase()}` }, props: { airport: ap } };
+  // makeSlug is now defined at module scope
+  // First pass: build all paths with slugs
+  const paths = airports.map(ap => {
+    const cs = makeSlug(ap.country) || 'unknown';
+    const ns = makeSlug(ap.name);
+    const slug = `${cs}/${ns}-${(ap.iata||'').toLowerCase()}`;
+    return { params: { slug }, props: { airport: ap, slug } };
+  });
+
+  // Build a map from iata -> slug for nearby airport links
+  const slugMap = {};
+  for (const p of paths) {
+    slugMap[p.props.airport.iata] = p.params.slug;
+  }
+
+  // Now compute nearby airports for each airport
+  return paths.map(p => {
+    const ap = p.props.airport;
+    const lat = ap.lat;
+    const lon = ap.lon;
+
+    // Find nearest 5 IATA airports (excluding self)
+    const others = airports
+      .filter(o => o.iata && o.iata !== ap.iata && o.lat != null && o.lon != null)
+      .map(o => ({
+        iata: o.iata,
+        name: o.name,
+        city: o.municipality || o.country,
+        country: o.country,
+        lat: o.lat,
+        lon: o.lon,
+        distance: haversineKm(lat, lon, o.lat, o.lon),
+        slug: slugMap[o.iata] || `${makeSlug(o.country)}/${makeSlug(o.name)}-${(o.iata||'').toLowerCase()}`
+      }))
+      .sort((a, b) => a.distance - b.distance)
+      .slice(0, 5);
+
+    // Timezone info
+    const tzInfo = getTimezoneForCountry(ap.country);
+
+    // Climate
+    const climate = getClimateData(ap.lat);
+
+    // Best season
+    const season = getBestSeason(ap.country, ap.continent);
+
+    // Airlines
+    const airlines = ap.scheduled ? getAirlinesForRegion(ap.iata, ap.country, ap.continent) : [];
+
+    return {
+      params: p.params,
+      props: {
+        airport: ap,
+        nearbyAirports: others,
+        timezone: tzInfo,
+        climate,
+        season,
+        airlines,
+        slug: p.params.slug
+      }
+    };
   });
 }
 
-const { airport } = Astro.props;
+const { airport, nearbyAirports, timezone, climate, season, airlines, slug } = Astro.props;
 const pageTitle = `${airport.name} (${airport.iata}) - World Airport Database`;
 const pageDesc = `${airport.name} (${airport.iata} / ${airport.icao}) — ${airport.type.replace(/_/g,' ')} in ${airport.municipality || airport.country}, ${airport.country}. Coordinates: ${airport.lat.toFixed(3)}°N, ${airport.lon.toFixed(3)}°E.`;
-const pageUrl = `https://world-airport-database.com/airports/${Astro.params.slug}/`;
+const pageUrl = `https://world-airport-database.com/airports/${slug}/`;
 const ogImage = `https://world-airport-database.com/og-airport.png`;
 const continentNames = {NA:'North America',SA:'South America',EU:'Europe',AS:'Asia',AF:'Africa',OC:'Oceania',AN:'Antarctica'};
 const contName = continentNames[airport.continent] || airport.continent;
 const typeLabel = airport.type.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase());
 const isoDate = new Date().toISOString().split('T')[0];
+const countrySlug = makeSlug(airport.country) || 'unknown';
 
-// Build JSON-LD strings in frontmatter (Astro doesn't eval expressions inside <script type="application/ld+json">)
-const countrySlug = (airport.country||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')||'unknown';
+// JSON-LD
 const jsonldAirport = JSON.stringify({
   "@context": "https://schema.org",
   "@type": "Airport",
@@ -43,18 +249,41 @@ const jsonldAirport = JSON.stringify({
     "name": airport.country
   },
   "url": pageUrl,
-  "description": pageDesc
+  "description": pageDesc,
+  "timezone": timezone.tz,
+  "utcOffset": timezone.utc,
+  "daylightSavingTime": timezone.dst !== timezone.utc ? "Observed (Current: " + timezone.dst + ")" : "Not observed"
 }, null, 2);
+
 const jsonldBreadcrumb = JSON.stringify({
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    {"@type": "ListItem","position":1,"name":"Home","item":"https://world-airport-database.com/"},
-    {"@type": "ListItem","position":2,"name": airport.country, "item": "https://world-airport-database.com/countries/" + countrySlug + "/"},
-    {"@type": "ListItem","position":3,"name": airport.name + " (" + airport.iata + ")"}
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://world-airport-database.com/"},
+    {"@type":"ListItem","position":2,"name": airport.country, "item": "https://world-airport-database.com/countries/" + countrySlug + "/"},
+    {"@type":"ListItem","position":3,"name": airport.name + " (" + airport.iata + ")"}
   ]
 }, null, 2);
+
+// Nearby airports JSON-LD
+const jsonldNearby = nearbyAirports.length ? JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Nearby Airports",
+  "description": "Airports near " + airport.iata,
+  "itemListElement": nearbyAirports.map((n, i) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "item": {
+      "@type": "Airport",
+      "name": n.name,
+      "iataCode": n.iata,
+      "distance": n.distance.toFixed(1) + " km"
+    }
+  }))
+}, null, 2) : '';
 ---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -62,7 +291,7 @@ const jsonldBreadcrumb = JSON.stringify({
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{pageTitle}</title>
   <meta name="description" content={pageDesc}>
-  <meta name="keywords" content={`${airport.iata},${airport.icao},${airport.name},${airport.municipality||''},${airport.country},airport code,IATA code,ICAO code,${airport.type.replace(/_/g,' ')}`}>
+  <meta name="keywords" content={`${airport.iata},${airport.icao},${airport.name},${airport.municipality||''},${airport.country},airport code,IATA code,ICAO code,${airport.type.replace(/_/g,' ')},timezone,${timezone.tz},climate,${climate.label}`}>
   <link rel="canonical" href={pageUrl}>
 
   <!-- Open Graph -->
@@ -82,9 +311,8 @@ const jsonldBreadcrumb = JSON.stringify({
 
   <!-- JSON-LD Schema -->
   <script type="application/ld+json" set:html={jsonldAirport}></script>
-
-  <!-- BreadcrumbList -->
   <script type="application/ld+json" set:html={jsonldBreadcrumb}></script>
+  {jsonldNearby && <script type="application/ld+json" set:html={jsonldNearby}></script>}
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
@@ -108,33 +336,88 @@ const jsonldBreadcrumb = JSON.stringify({
     table tr:hover td{background:#e3f0f7}
     .ib{display:inline-block;background:var(--primary);color:#fff;padding:2px 9px;border-radius:3px;font-size:11px;font-weight:700}
     .bk{display:inline-block;margin:20px 0;color:var(--primary);font-weight:600;font-size:14px}
+
+    /* Section headings */
+    .sec-h{margin:24px 0 10px;border-bottom:2px solid var(--primary);padding-bottom:6px}
+    .sec-h h3{font-size:16px;color:#202c39;display:flex;align-items:center;gap:8px}
+    .sec-h h3 span{font-size:18px}
+
+    /* Cards */
+    .card{background:#fff;border:1px solid var(--border);border-radius:8px;padding:20px;margin:16px 0;box-shadow:0 1px 4px rgba(0,0,0,.05)}
+
+    /* Climate table */
+    .climate-grid{display:grid;grid-template-columns:repeat(12,1fr);gap:4px;margin:12px 0}
+    .climate-item{text-align:center;padding:6px 2px;border-radius:4px;font-size:11px}
+    .climate-item .mn{font-weight:700;color:var(--navy);font-size:10px;text-transform:uppercase}
+    .climate-item .hi{color:#c2410c;font-weight:700}
+    .climate-item .lo{color:#2563eb}
+
+    /* Quick tools */
+    .qtools{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin:16px 0}
+    .qtool{display:flex;align-items:center;gap:10px;padding:14px 18px;background:var(--stripe);border:1px solid var(--border);border-radius:8px;text-decoration:none;color:var(--navy);font-size:13px;font-weight:600;transition:all .15s}
+    .qtool:hover{background:var(--primary);color:#fff;border-color:var(--primary)}
+    .qtool .ico{font-size:20px}
+
+    /* Airlines badges */
+    .al-badge{display:inline-flex;align-items:center;gap:5px;padding:4px 10px;border-radius:4px;font-size:11px;font-weight:600}
+    .al-badge.star{background:#e0f2fe;color:#0369a1}
+    .al-badge.oneworld{background:#dbeafe;color:#1d4ed8}
+    .al-badge.skyteam{background:#fef3c7;color:#b45309}
+    .al-badge.low{background:#dcfce7;color:#15803d}
+    .al-badge.independent{background:#f3e8ff;color:#7c3aed}
+
+    /* Season indicator */
+    .season-ind{display:inline-block;padding:3px 12px;border-radius:12px;font-size:12px;font-weight:700}
+    .season-ind.best{background:#dcfce7;color:#15803d}
+    .season-ind.ok{background:#fef9c3;color:#854d0e}
+    .season-ind.bad{background:#fee2e2;color:#b91c1c}
+
     footer{background:var(--navy);color:#8899aa;padding:36px 0 24px;margin-top:40px;border-top:4px solid var(--primary);font-size:13px;text-align:center}
     footer a{color:var(--primary)}
+
+    /* Local time live */
+    #local-time{font-weight:700;font-size:15px;color:var(--primary)}
+    .tz-row{display:flex;gap:20px;flex-wrap:wrap;font-size:13px}
+    .tz-item{background:var(--stripe);padding:8px 14px;border-radius:6px;border:1px solid var(--border)}
+
+    /* Distance in nearby table */
+    .dist-unit{font-size:10px;color:#8899aa}
   </style>
 </head>
 <body>
 
+<!-- Sticky Navigation -->
 <nav style="background:#0f172a;padding:10px 0;position:sticky;top:0;z-index:100">
   <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px">
     <a href="/" style="color:#fff;font-size:15px;font-weight:700;text-decoration:none">World<span style="color:#60a5fa">Airport</span>DB</a>
     <div style="display:flex;gap:16px;flex-wrap:wrap">
       <a href="/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Home</a>
       <a href="/countries/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Countries</a>
-      <a href="/tools/nearest-airport/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Distance</a>
+      <a href="/blog/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Blog</a>
+      <a href="/download/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Database</a>
+      <a href="/tools/iata-icao-lookup/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Lookup</a>
+      <a href="/tools/distance-calculator/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Distance</a>
+      <a href="/tools/nearest-airport/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Nearest</a>
+      <a href="/tools/timezone-lookup/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Timezone</a>
+      <a href="/tools/airport-map/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Map</a>
     </div>
   </div>
 </nav>
 
+<!-- Header -->
 <div class="ah">
   <div class="wrap">
     <div class="cd">{airport.iata} &middot; {airport.icao} &middot; {airport.name}</div>
     <h1>{airport.name} ({airport.iata})</h1>
-    <div class="mt">{airport.municipality || 'N/A'}, {airport.country} &middot; {airport.type.replace(/_/g,' ')} &middot; {airport.lat.toFixed(3)}&deg; {airport.lon.toFixed(3)}&deg;</div>
+    <div class="mt">{airport.municipality || 'N/A'}, {airport.country} &middot; {airport.type.replace(/_/g,' ')} &middot; {airport.lat.toFixed(3)}&deg; {airport.lon.toFixed(3)}&deg; &middot; <span id="tz-header"></span></div>
   </div>
 </div>
 
 <div class="wrap">
+
+  <!-- 2-Column: Airport Info + Country Info + Timezone + Season -->
   <div class="pg">
+    <!-- Airport Information -->
     <table>
       <thead><tr><th colspan="2">Airport Information</th></tr></thead>
       <tbody>
@@ -148,23 +431,125 @@ const jsonldBreadcrumb = JSON.stringify({
         <tr><td>Latitude</td><td>{airport.lat.toFixed(3)}&deg; {airport.lat > 0 ? 'N' : 'S'}</td></tr>
         <tr><td>Longitude</td><td>{airport.lon.toFixed(3)}&deg; {airport.lon > 0 ? 'E' : 'W'}</td></tr>
         <tr><td>Elevation</td><td>{airport.elevation ? `${airport.elevation} ft` : 'N/A'}</td></tr>
+        <tr><td>Climate Zone</td><td>{climate.label}</td></tr>
         <tr><td>Scheduled Service</td><td>{airport.scheduled ? 'Yes' : 'No'}</td></tr>
-		<tr><td>Score</td><td>{airport.score.toLocaleString()}</td></tr>
+        <tr><td>Score</td><td>{airport.score.toLocaleString()}</td></tr>
+        <tr><td>Local Time</td><td><span id="local-time">Loading...</span></td></tr>
       </tbody>
     </table>
-    <table>
-      <thead><tr><th colspan="2">Country Info</th></tr></thead>
-      <tbody>
-        <tr><td>Country</td><td>{airport.country}</td></tr>
-        <tr><td>ISO Code</td><td>{airport.iso_country}</td></tr>
-        <tr><td>Region</td><td>{airport.municipality || 'N/A'}</td></tr>
-        <tr><td>Continent Code</td><td>{airport.continent}</td></tr>
-      </tbody>
-    </table>
+
+    <!-- Country Info + Timezone + Season -->
+    <div>
+      <table>
+        <thead><tr><th colspan="2">Country &amp; Timezone Info</th></tr></thead>
+        <tbody>
+          <tr><td>Country</td><td>{airport.country}</td></tr>
+          <tr><td>ISO Code</td><td>{airport.iso_country}</td></tr>
+          <tr><td>Region</td><td>{airport.municipality || 'N/A'}</td></tr>
+          <tr><td>Continent Code</td><td>{airport.continent}</td></tr>
+          <tr><td>IANA Timezone</td><td>{timezone.tz}</td></tr>
+          <tr><td>UTC Offset (Standard)</td><td>{timezone.utc}</td></tr>
+          <tr><td>DST Offset</td><td>{timezone.dst}</td></tr>
+          <tr><td>Current Offset</td><td><span id="current-offset">--</span></td></tr>
+        </tbody>
+      </table>
+
+      <!-- Best Time to Fly -->
+      <div class="card" style="margin-top:12px">
+        <h4 style="font-size:14px;color:var(--navy);margin-bottom:8px">&#127788; Best Time to Fly</h4>
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px">
+          <div>
+            <div style="font-size:13px"><strong>Recommended:</strong> <span style="color:var(--primary)">{season.best}</span></div>
+            <div style="font-size:12px;color:#5A6B7F;margin-top:4px">{season.why}</div>
+          </div>
+          <div id="season-indicator" style="text-align:right">
+            <span class="season-ind best">Loading season...</span>
+          </div>
+        </div>
+        <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:10px;font-size:12px;color:#5A6B7F">
+          {Object.entries(season.seasons).map(([k,v]) => (
+            <span><strong>{k.charAt(0).toUpperCase()+k.slice(1)}:</strong> {v}</span>
+          ))}
+        </div>
+      </div>
+    </div>
   </div>
 
-  <h3 style="font-size:16px;color:#202c39;margin:20px 0 8px;border-bottom:2px solid var(--primary);padding-bottom:6px">Location Map</h3>
+  <!-- Airlines serving this airport -->
+  {airlines.length > 0 && (
+    <div class="card">
+      <h4 style="font-size:14px;color:var(--navy);margin-bottom:10px">&#9992; Airlines Serving {airport.iata}</h4>
+      <div style="display:flex;gap:8px;flex-wrap:wrap">
+        {airlines.map(al => (
+          <span class={`al-badge ${allianceClass(al.alliance)}`}>{al.code} &mdash; {al.name}</span>
+        ))}
+      </div>
+    </div>
+  )}
+
+  <!-- Climate Card -->
+  <div class="sec-h"><h3><span>&#127777;</span> Climate &mdash; {climate.label} ({Math.abs(airport.lat).toFixed(1)}&deg;{airport.lat > 0 ? 'N' : 'S'})</h3></div>
+  <div class="climate-grid">
+    {climate.months.map(m => (
+      <div class="climate-item" style="background:{climateBarColor(m.hi, m.lo)}">
+        <div class="mn">{m.m}</div>
+        <div class="hi">{m.hi}&deg;</div>
+        <div class="lo">{m.lo}&deg;</div>
+      </div>
+    ))}
+  </div>
+  <div style="font-size:11px;color:#8899aa;margin-top:-8px;margin-bottom:8px">
+    * Approximate average temperatures by month based on {climate.label.toLowerCase()} latitude zone
+  </div>
+
+  <!-- Map full-width -->
+  <div class="sec-h"><h3><span>&#128506;</span> Location Map</h3></div>
   <div class="mw" id="am" data-lat="{airport.lat}" data-lon="{airport.lon}" data-iata="{airport.iata}" data-name="{airport.name.replace(/'/g, '&apos;')}" data-icao="{airport.icao}"></div>
+
+  <!-- Nearby Airports -->
+  <div class="sec-h"><h3><span>&#127759;</span> Nearby Airports (Top 5)</h3></div>
+  {nearbyAirports.length > 0 ? (
+    <table>
+      <thead>
+        <tr><th>IATA</th><th>Name</th><th>City / Country</th><th>Distance (km)</th><th>Distance (mi)</th><th>Link</th></tr>
+      </thead>
+      <tbody>
+        {nearbyAirports.map(n => (
+          <tr>
+            <td><span class="ib">{n.iata}</span></td>
+            <td>{n.name}</td>
+            <td>{n.city}, {n.country}</td>
+            <td>{n.distance.toFixed(1)} km</td>
+            <td>{(n.distance * 0.621371).toFixed(1)} mi</td>
+            <td><a href={`/airports/${n.slug}/`} style="color:var(--primary);font-weight:600;font-size:12px">View &rarr;</a></td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  ) : (
+    <p style="color:#8899aa;font-size:13px">No nearby IATA airports found.</p>
+  )}
+
+  <!-- Quick Tools -->
+  <div class="sec-h"><h3><span>&#128295;</span> Quick Tools</h3></div>
+  <div class="qtools">
+    <a href={`/tools/distance-calculator/?from=${airport.iata}`} class="qtool">
+      <span class="ico">&#128287;</span>
+      <span>Distance Calculator<br><small style="font-weight:400;color:inherit;opacity:.7">From {airport.iata}</small></span>
+    </a>
+    <a href={`/tools/nearest-airport/?lat=${airport.lat}&lon=${airport.lon}`} class="qtool">
+      <span class="ico">&#128205;</span>
+      <span>Nearest Airport<br><small style="font-weight:400;color:inherit;opacity:.7">Near this location</small></span>
+    </a>
+    <a href={`/tools/timezone-lookup/?tz=${timezone.tz}`} class="qtool">
+      <span class="ico">&#128338;</span>
+      <span>Timezone Lookup<br><small style="font-weight:400;color:inherit;opacity:.7">{timezone.tz}</small></span>
+    </a>
+    <a href={`/tools/airport-map/?iata=${airport.iata}`} class="qtool">
+      <span class="ico">&#127758;</span>
+      <span>Map with Airport<br><small style="font-weight:400;color:inherit;opacity:.7">View on map</small></span>
+    </a>
+  </div>
 
   <a href="/" class="bk">&larr; Back to World Airport Database</a>
 </div>
@@ -178,13 +563,93 @@ const jsonldBreadcrumb = JSON.stringify({
 </footer>
 
 <script>
-(function(){var m=document.getElementById('am'),lat=parseFloat(m.dataset.lat),lon=parseFloat(m.dataset.lon),i=m.dataset.iata,n=m.dataset.name,ic=m.dataset.icao;
-function init(){var L=window.L;
-if(!L||!L.map){setTimeout(init,500);return}
-var map=L.map(m).setView([lat,lon],5);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{attribution:'CARTO',maxZoom:19}).addTo(map);
-L.marker([lat,lon]).addTo(map).bindPopup('<b>'+n+' ('+i+')</b><br>'+ic).openPopup()}
-var s=document.createElement('script');s.src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';s.onload=init;document.body.appendChild(s)})();
+(function(){
+  // Leaflet Map
+  var m=document.getElementById('am');
+  if(m){
+    var lat=parseFloat(m.dataset.lat),lon=parseFloat(m.dataset.lon),i=m.dataset.iata,n=m.dataset.name,ic=m.dataset.icao;
+    function init(){
+      var L=window.L;
+      if(!L||!L.map){setTimeout(init,500);return}
+      var map=L.map(m).setView([lat,lon],5);
+      L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{attribution:'&copy; CARTO',maxZoom:19}).addTo(map);
+      L.marker([lat,lon]).addTo(map).bindPopup('<b>'+n+' ('+i+')</b><br>'+ic).openPopup()
+    }
+    var s=document.createElement('script');s.src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';s.onload=init;document.body.appendChild(s);
+  }
+
+  // Live Local Time
+  var tz = "{timezone.tz}";
+  var ltEl = document.getElementById('local-time');
+  var offsetEl = document.getElementById('current-offset');
+  var tzHeaderEl = document.getElementById('tz-header');
+  var seasonEl = document.getElementById('season-indicator');
+
+  function updateTime(){
+    if(!ltEl) return;
+    try {
+      var now = new Date();
+      var opts = { timeZone: tz, hour12: false, hour: '2-digit', minute: '2-digit', second: '2-digit', weekday: 'short', day: '2-digit', month: 'short', year: 'numeric' };
+      var timeStr = new Intl.DateTimeFormat('en-US', opts).format(now);
+      ltEl.textContent = timeStr;
+
+      // Current offset
+      if(offsetEl){
+        var ofmt = new Intl.DateTimeFormat('en-US', { timeZone: tz, timeZoneName: 'shortOffset' });
+        var parts = ofmt.formatToParts(now);
+        var offPart = parts.find(function(p){ return p.type === 'timeZoneName'; });
+        offsetEl.textContent = offPart ? offPart.value : '--';
+      }
+
+      // Header timezone
+      if(tzHeaderEl){
+        tzHeaderEl.textContent = tz;
+      }
+
+      // Season indicator
+      if(seasonEl){
+        var month = now.getMonth(); // 0=Jan
+        var bestRanges = {
+          EU: { start: 3, end: 9 }, // Apr-Oct
+          NA: { start: 4, end: 8 }, // May-Sep
+          AS: { start: 10, end: 2 }, // Nov-Mar
+          SA: { start: 4, end: 9 }, // May-Oct
+          AF: { start: 10, end: 1 }, // Nov-Feb
+          OC: { start: 3, end: 9 }, // Apr-Oct
+          AN: { start: 10, end: 1 }  // Nov-Feb
+        };
+        var cont = "{airport.continent}";
+        var caribbean = ["Antigua and Barbuda","Bahamas","Barbados","Belize","Bermuda","Cayman Islands","Costa Rica","Cuba","Dominica","Dominican Republic","El Salvador","Grenada","Guatemala","Haiti","Honduras","Jamaica","Mexico","Nicaragua","Panama","Puerto Rico","Saint Kitts and Nevis","Saint Lucia","Saint Vincent and the Grenadines","Trinidad and Tobago","Turks and Caicos Islands","United States Virgin Islands","British Virgin Islands","Anguilla","Aruba","Bonaire","Curaçao","Guadeloupe","Martinique","Montserrat","Saba","Saint Barthélemy","Saint Martin","Sint Eustatius","Sint Maarten"];
+        var country = "{airport.country}";
+        var isCaribbean = caribbean.indexOf(country) !== -1;
+        var gulf = ["United Arab Emirates","Qatar","Bahrain","Kuwait","Oman","Saudi Arabia"];
+        var isGulf = gulf.indexOf(country) !== -1;
+
+        var inSeason = false;
+        if(isCaribbean){
+          if(month >= 11 || month <= 3) inSeason = true; // Dec-Apr (0=Jan, 11=Dec)
+        } else if(isGulf){
+          if(month >= 10 || month <= 2) inSeason = true; // Nov-Mar
+        } else if(bestRanges[cont]){
+          var r = bestRanges[cont];
+          if(r.start <= r.end){
+            inSeason = (month >= r.start && month <= r.end);
+          } else {
+            inSeason = (month >= r.start || month <= r.end);
+          }
+        } else {
+          // default: always ok
+          inSeason = true;
+        }
+        seasonEl.innerHTML = '<span class="season-ind ' + (inSeason ? 'best">&#10003; Current season is good to fly' : 'ok">&#9888; Outside peak season') + '</span>';
+      }
+    } catch(e) {
+      ltEl.textContent = 'Unavailable';
+    }
+  }
+  updateTime();
+  setInterval(updateTime, 1000);
+})();
 </script>
 </body>
 </html>

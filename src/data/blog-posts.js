@@ -1,0 +1,1181 @@
+// Blog posts data - auto-generated with template system
+// Each post follows the template structure for consistency
+export default [
+  // ═══════════════════════════════════════════
+  // AIRPORT GUIDES
+  // ═══════════════════════════════════════════
+  {
+    slug: 'frankfurt-fra-complete-guide',
+    title: 'Frankfurt Airport (FRA) — Complete Guide 2025',
+    category: 'airport-guides',
+    subcategory: 'airport-reviews',
+    tags: ['Frankfurt', 'FRA', 'Germany', 'Europe', 'Guide'],
+    date: '2025-06-01',
+    excerpt: 'Everything you need to know about Frankfurt Airport — terminals, lounges, transport, parking, and insider tips for a smooth journey.',
+    content_html: `
+      <p>Frankfurt Airport (FRA) is Germany's busiest airport and one of Europe's major aviation hubs. With over 70 million passengers annually, it serves as the primary gateway for Lufthansa and Star Alliance.</p>
+      <h2>Terminal Overview</h2>
+      <p>Frankfurt has two main terminals. Terminal 1 is the larger of the two, handling most Lufthansa and Star Alliance flights. Terminal 2 serves as a base for several other airlines and is connected to Terminal 1 via the SkyLine people mover.</p>
+      <table>
+        <tr><th>Terminal</th><th>Airlines</th><th>Gates</th></tr>
+        <tr><td>Terminal 1</td><td>Lufthansa, Star Alliance</td><td>A, B, C, Z</td></tr>
+        <tr><td>Terminal 2</td><td>Various</td><td>D, E</td></tr>
+      </table>
+      <h2>Getting There</h2>
+      <p>Frankfurt Airport is just 12 km southwest of the city center. The S-Bahn lines S8 and S9 connect the airport to Frankfurt Hauptbahnhof in just 11 minutes. Regional and long-distance trains also stop at the airport's long-distance station.</p>
+      <h2>Lounges</h2>
+      <p>Lufthansa operates several lounges in Terminal 1, including the First Class Lounge, Senator Lounge, and Business Lounge. Priority Pass holders can access the AIR Lounge in Terminal 2.</p>
+      <h2>Insider Tips</h2>
+      <ul>
+        <li>Arrive at least 2.5 hours before international flights — security can be slow during peak hours</li>
+        <li>The Airport City Mall in Terminal 1 offers shopping and dining even without a boarding pass</li>
+        <li>Use the Lufthansa app for real-time gate changes</li>
+      </ul>
+    `
+  },
+  {
+    slug: 'singapore-changi-sin-guide',
+    title: 'Singapore Changi (SIN) — The World\'s Best Airport',
+    category: 'airport-guides',
+    subcategory: 'airport-reviews',
+    tags: ['Singapore', 'SIN', 'Changi', 'Asia', 'Guide'],
+    date: '2025-05-28',
+    excerpt: 'Why Singapore Changi consistently ranks as the world\'s best airport. Explore the Jewel, terminals, gardens, and unique facilities.',
+    content_html: `
+      <p>Singapore Changi Airport (SIN) has been named the world's best airport multiple times, and for good reason. With its stunning architecture, world-class amenities, and the iconic Jewel complex, Changi redefines what an airport can be.</p>
+      <h2>The Jewel Changi Airport</h2>
+      <p>The Jewel is a mixed-use complex at the heart of Changi. Its centerpiece is the Rain Vortex — the world's tallest indoor waterfall at 40 meters. Surrounded by terraced gardens, it's a destination in itself.</p>
+      <h2>Terminals</h2>
+      <p>Changi has four passenger terminals. Terminal 1 was recently renovated with the Canopy garden. Terminal 2 serves mainly Singapore Airlines flights. Terminal 3 features a stunning butterfly garden. Terminal 4 uses fully automated check-in and immigration.</p>
+      <h2>Free City Tour</h2>
+      <p>One of Changi's unique offerings is the free Singapore city tour for transit passengers with layovers of 5.5 to 24 hours. It's a fantastic way to see the city without a visa.</p>
+    `
+  },
+  {
+    slug: 'london-lhr-terminal-5-guide',
+    title: 'London Heathrow Terminal 5 — A Complete Guide',
+    category: 'airport-guides',
+    subcategory: 'terminal-guides',
+    tags: ['London', 'LHR', 'Heathrow', 'UK', 'Terminal 5'],
+    date: '2025-05-25',
+    excerpt: 'Navigate Heathrow Terminal 5 like a pro. British Airways\' flagship terminal with detailed gate maps, lounges, and transport options.',
+    content_html: `
+      <p>Heathrow Terminal 5 is the exclusive home of British Airways at London's busiest airport. Opened in 2008, it's one of the largest terminal buildings in Europe.</p>
+      <h2>Layout</h2>
+      <p>Terminal 5 has three buildings: T5A (main terminal), T5B, and T5C. All are connected by the Transit automated people mover. T5A houses the main check-in hall, security, and the majority of shops and restaurants.</p>
+      <h2>Lounges</h2>
+      <p>British Airways operates several lounges in T5A, including the exclusive Concorde Room for First Class passengers, the Galleries First Lounge, Galleries Club, and Galleries Lounge.</p>
+    `
+  },
+  {
+    slug: 'tokyo-hnd-layover-guide',
+    title: 'Tokyo Haneda (HND) — The Perfect Layover',
+    category: 'airport-guides',
+    subcategory: 'layover-tips',
+    tags: ['Tokyo', 'HND', 'Haneda', 'Japan', 'Layover'],
+    date: '2025-05-20',
+    excerpt: 'Make the most of your layover at Tokyo Haneda. From the observation deck to Japanese cuisine, here\'s your complete layover guide.',
+    content_html: `
+      <p>Tokyo Haneda Airport (HND) is one of two major airports serving Tokyo, and it's much closer to the city center than Narita. This makes it ideal for layovers where you want to explore.</p>
+      <h2>Observation Deck</h2>
+      <p>Haneda's rooftop observation deck offers stunning views of aircraft taking off and landing. It's free and open to all visitors, not just passengers.</p>
+      <h2>Japanese Cuisine</h2>
+      <p>Each terminal features excellent Japanese restaurants. Try ramen at Terminal 2's food court or sushi at Terminal 3. The Edo Marketplace in Terminal 2 recreates a traditional Japanese street.</p>
+    `
+  },
+  {
+    slug: 'dubai-dxb-transit-guide',
+    title: 'Dubai International (DXB) — Transit Guide',
+    category: 'airport-guides',
+    subcategory: 'layover-tips',
+    tags: ['Dubai', 'DXB', 'UAE', 'Transit', 'Middle East'],
+    date: '2025-05-15',
+    excerpt: 'Dubai International is a major transit hub. Learn how to navigate Terminal 3, find the best lounges, and even leave the airport during long layovers.',
+    content_html: `
+      <p>Dubai International Airport (DXB) is the world's busiest airport for international passengers. As the hub of Emirates Airlines, it handles millions of transit passengers every year.</p>
+      <h2>Terminal 3</h2>
+      <p>Terminal 3 is the largest airport terminal building in the world by floor area. It's dedicated almost entirely to Emirates flights and features the massive Concourse A with A380-specific gates.</p>
+      <h2>Free Hotel Stay</h2>
+      <p>Emirates offers free hotel stays for transit passengers with layovers between 10-24 hours on certain routes. Check eligibility when booking.</p>
+    `
+  },
+  {
+    slug: 'amsterdam-schiphol-transport',
+    title: 'Amsterdam Schiphol (AMS) — Getting There & Away',
+    category: 'airport-guides',
+    subcategory: 'airport-transport',
+    tags: ['Amsterdam', 'AMS', 'Schiphol', 'Netherlands', 'Transport'],
+    date: '2025-05-10',
+    excerpt: 'Schiphol has excellent transport links. Trains, buses, taxis, and even cycling — here\'s how to get to and from Amsterdam Airport.',
+    content_html: `
+      <p>Amsterdam Airport Schiphol (AMS) is located just 9 km southwest of Amsterdam city center. It has one of the best transport connections of any European airport.</p>
+      <h2>By Train</h2>
+      <p>The train station is directly below the airport. NS trains run to Amsterdam Centraal every 10-15 minutes, taking just 15 minutes. International Thalys and Eurostar services also stop here.</p>
+      <h2>By Bus</h2>
+      <p>The Connexxion Schiphol Hotel Shuttle connects to major hotels. Bus 397 (Amsterdam Express) runs to the city center and Museumplein.</p>
+    `
+  },
+  {
+    slug: 'zurich-zrh-parking-guide',
+    title: 'Zurich Airport (ZRH) — Parking & Drop-off Guide',
+    category: 'airport-guides',
+    subcategory: 'airport-parking',
+    tags: ['Zurich', 'ZRH', 'Switzerland', 'Parking'],
+    date: '2025-05-05',
+    excerpt: 'Complete guide to parking at Zurich Airport. Short-stay, long-stay, valet, and drop-off zones explained.',
+    content_html: `
+      <p>Zurich Airport (ZRH) offers comprehensive parking facilities for all types of travelers. Located just 13 km from Zurich city center, it's easily accessible by car.</p>
+      <h2>Parking Options</h2>
+      <table>
+        <tr><th>Type</th><th>Location</th><th>Price (approx.)</th></tr>
+        <tr><td>P1</td><td>Next to terminal</td><td>CHF 3.50/30min</td></tr>
+        <tr><td>P2</td><td>Near terminal</td><td>CHF 2.50/30min</td></tr>
+        <tr><td>P30</td><td>Long-stay</td><td>CHF 25/day</td></tr>
+        <tr><td>P60</td><td>Budget</td><td>CHF 15/day</td></tr>
+      </table>
+    `
+  },
+  {
+    slug: 'munich-muc-family-guide',
+    title: 'Munich Airport (MUC) — Family Travel Guide',
+    category: 'airport-guides',
+    subcategory: 'family-travel',
+    tags: ['Munich', 'MUC', 'Germany', 'Family', 'Kids'],
+    date: '2025-04-28',
+    excerpt: 'Munich Airport is one of the most family-friendly airports in Europe. Play areas, family lanes, and the visitor park.',
+    content_html: `
+      <p>Munich Airport (MUC) goes above and beyond for families. From dedicated play areas to family security lanes, traveling with children is stress-free here.</p>
+      <h2>Play Areas</h2>
+      <p>Terminal 1 has a large children's play area near Gate A. Terminal 2 features a play zone in the departure area. Both are free to use.</p>
+      <h2>Visitor Park</h2>
+      <p>The airport's visitor park (Besucherpark) is open to the public and features a historic aircraft collection, a miniature golf course, and a beer garden.</p>
+    `
+  },
+  {
+    slug: 'vienna-vie-accessibility',
+    title: 'Vienna Airport (VIE) — Accessibility Guide',
+    category: 'airport-guides',
+    subcategory: 'accessibility',
+    tags: ['Vienna', 'VIE', 'Austria', 'Accessibility', 'Disability'],
+    date: '2025-04-22',
+    excerpt: 'Vienna Airport offers excellent accessibility features. Wheelchair assistance, accessible restrooms, and guidance systems.',
+    content_html: `
+      <p>Vienna International Airport (VIE) is committed to providing accessible travel for all passengers. The airport offers comprehensive assistance services.</p>
+      <h2>Assistance Services</h2>
+      <p>Contact your airline at least 48 hours before departure to arrange wheelchair assistance. The airport provides escort services from check-in to the aircraft.</p>
+    `
+  },
+  {
+    slug: 'hel-helsinki-pet-travel',
+    title: 'Helsinki Airport (HEL) — Pet Travel Guide',
+    category: 'airport-guides',
+    subcategory: 'pet-travel',
+    tags: ['Helsinki', 'HEL', 'Finland', 'Pets', 'Animals'],
+    date: '2025-04-18',
+    excerpt: 'Finland is one of the most pet-friendly countries. Learn how to travel with pets through Helsinki Airport.',
+    content_html: `
+      <p>Helsinki Airport (HEL) is a popular transit point for pet travelers heading to/from Europe. Finland's pet-friendly policies make the process relatively smooth.</p>
+      <h2>Pet Relief Areas</h2>
+      <p>Helsinki Airport has designated pet relief areas both airside and landside. Look for signs in the departure hall and near the arrivals exit.</p>
+    `
+  },
+
+  // ═══════════════════════════════════════════
+  // IATA CODES
+  // ═══════════════════════════════════════════
+  {
+    slug: 'why-atl-means-atlanta',
+    title: 'Why Does ATL Mean Atlanta? The Story Behind the Code',
+    category: 'iata-codes',
+    subcategory: 'code-origins',
+    tags: ['ATL', 'Atlanta', 'IATA', 'Code Origins'],
+    date: '2025-06-02',
+    excerpt: 'The IATA code ATL comes from Atlanta\'s former name — Atlanta Municipal Airport. Discover the history behind this iconic code.',
+    content_html: `
+      <p>The IATA code ATL for Hartsfield-Jackson Atlanta International Airport has a straightforward origin — it simply stands for <strong>ATL</strong>anta.</p>
+      <h2>Historical Context</h2>
+      <p>When IATA codes were assigned in the 1940s and 1950s, most airport codes were derived from the city name. Atlanta was assigned ATL, following the pattern of taking the first three letters.</p>
+      <h2>Why Not ATN or ATA?</h2>
+      <p>Some codes use the first three letters of the city (ATL, LAX, NYC was never used). Others use the airport name (JFK, LGA). ATL follows the city-name convention.</p>
+    `
+  },
+  {
+    slug: 'mystery-of-airport-codes',
+    title: 'The Mystery of Airport Codes: XNA, MCO, and ORD',
+    category: 'iata-codes',
+    subcategory: 'code-origins',
+    tags: ['IATA', 'Codes', 'XNA', 'MCO', 'ORD', 'Mystery'],
+    date: '2025-05-30',
+    excerpt: 'Why is Fayetteville\'s code XNA? Why is Orlando MCO? And why is Chicago ORD? The fascinating stories behind confusing IATA codes.',
+    content_html: `
+      <p>Some IATA codes seem to make no sense at all. XNA for Fayetteville? MCO for Orlando? ORD for Chicago? Each has a fascinating story.</p>
+      <h2>XNA — Northwest Arkansas Regional</h2>
+      <p>XNA doesn't stand for anything geographic. The "X" is a placeholder used when no logical code was available. The airport serves the Northwest Arkansas region.</p>
+      <h2>MCO — Orlando</h2>
+      <p>MCO comes from McCoy Air Force Base, which previously occupied the site. When the civilian airport took over, the code remained.</p>
+      <h2>ORD — Chicago O'Hare</h2>
+      <p>ORD comes from Orchard Field, the original name of the airport. It was renamed after Edward "Butch" O'Hare, but the code stayed.</p>
+    `
+  },
+  {
+    slug: 'airport-codes-that-changed',
+    title: 'Airport Codes That Changed: A Complete List',
+    category: 'iata-codes',
+    subcategory: 'code-changes',
+    tags: ['IATA', 'Code Changes', 'History', 'Retired Codes'],
+    date: '2025-05-22',
+    excerpt: 'Airport codes sometimes change due to renaming, political changes, or conflicts. Here\'s a comprehensive list of code changes.',
+    content_html: `
+      <p>While most airport codes remain stable for decades, some do change. Here are the most notable IATA code changes in aviation history.</p>
+      <table>
+        <tr><th>Old Code</th><th>New Code</th><th>Airport</th><th>Reason</th></tr>
+        <tr><td>BOM</td><td>BOM</td><td>Mumbai (was Bombay)</td><td>City renamed, code kept</td></tr>
+        <tr><td>PEK</td><td>PEK</td><td>Beijing (Peking)</td><td>City renamed, code kept</td></tr>
+        <tr><td>SGN</td><td>SGN</td><td>Ho Chi Minh City (was Saigon)</td><td>City renamed, code kept</td></tr>
+        <tr><td>LED</td><td>LED</td><td>St. Petersburg (was Leningrad)</td><td>City renamed, code kept</td></tr>
+      </table>
+    `
+  },
+  {
+    slug: 'duplicate-iata-codes',
+    title: 'Duplicate IATA Codes: When One Code Serves Two Airports',
+    category: 'iata-codes',
+    subcategory: 'duplicate-codes',
+    tags: ['IATA', 'Duplicates', 'Codes', 'Trivia'],
+    date: '2025-05-18',
+    excerpt: 'Did you know some IATA codes are shared by multiple airports? Here\'s how the system handles duplicate codes.',
+    content_html: `
+      <p>IATA codes are supposed to be unique, but there are exceptions. Some codes are shared between airports in different contexts.</p>
+      <h2>Shared Codes</h2>
+      <p>The most famous example is NYC — it's not assigned to any single airport but represents all New York area airports (JFK, LGA, EWR).</p>
+    `
+  },
+  {
+    slug: 'european-iata-code-patterns',
+    title: 'European IATA Code Patterns: A Regional Analysis',
+    category: 'iata-codes',
+    subcategory: 'regional-patterns',
+    tags: ['IATA', 'Europe', 'Patterns', 'Codes'],
+    date: '2025-05-12',
+    excerpt: 'European IATA codes follow interesting patterns. German airports often start with E (EDDF), French with LF, and UK with EG.',
+    content_html: `
+      <p>While IATA codes are three-letter identifiers without geographic structure, patterns emerge when you look at regions.</p>
+      <h2>German Airports</h2>
+      <p>Major German airports: FRA (Frankfurt), MUC (Munich), BER (Berlin), DUS (Düsseldorf), HAM (HAMburg). Most are derived from city names.</p>
+      <h2>French Airports</h2>
+      <p>French airports: CDG (Charles de Gaulle), ORL (ORY/Lyon), NCE (Nice), BOD (Bordeaux). CDG is named after the airport, not the city.</p>
+    `
+  },
+  {
+    slug: 'airport-code-quiz-50-questions',
+    title: 'Airport Code Quiz: 50 Questions to Test Your Knowledge',
+    category: 'iata-codes',
+    subcategory: 'code-quiz',
+    tags: ['IATA', 'Quiz', 'Trivia', 'Codes'],
+    date: '2025-05-08',
+    excerpt: 'Think you know airport codes? Test yourself with 50 challenging questions about IATA codes from around the world.',
+    content_html: `
+      <p>How well do you know airport codes? Take our quiz to find out!</p>
+      <h2>Easy Round</h2>
+      <ol>
+        <li>What does LAX stand for? (Los Angeles)</li>
+        <li>What city uses the code CDG? (Paris)</li>
+        <li>What does JFK stand for? (John F. Kennedy, New York)</li>
+      </ol>
+      <h2>Hard Round</h2>
+      <ol>
+        <li>What does XNA represent? (Northwest Arkansas)</li>
+        <li>Why is Orlando's code MCO? (McCoy Air Force Base)</li>
+        <li>What does BOM stand for? (Mumbai, formerly Bombay)</li>
+      </ol>
+    `
+  },
+
+  // ═══════════════════════════════════════════
+  // ICAO CODES
+  // ═══════════════════════════════════════════
+  {
+    slug: 'icao-code-structure-explained',
+    title: 'ICAO Code Structure: How the 4-Letter System Works',
+    category: 'icao-codes',
+    subcategory: 'icao-structure',
+    tags: ['ICAO', 'Structure', 'Codes', 'Aviation'],
+    date: '2025-06-03',
+    excerpt: 'ICAO codes use a 4-letter system with geographic prefixes. Learn how the first letter indicates the region and the second the country.',
+    content_html: `
+      <p>Unlike IATA's 3-letter codes, ICAO uses a structured 4-letter system. The first letter indicates the region, the second the country, and the last two identify the specific airport.</p>
+      <h2>Regional Prefixes</h2>
+      <table>
+        <tr><th>Prefix</th><th>Region</th><th>Example</th></tr>
+        <tr><td>K</td><td>Continental US</td><td>KATL (Atlanta)</td></tr>
+        <tr><td>E</td><td>Northern Europe</td><td>EGLL (London Heathrow)</td></tr>
+        <tr><td>L</td><td>Southern Europe</td><td>LFPG (Paris CDG)</td></tr>
+        <tr><td>O</td><td>Middle East</td><td>OMDB (Dubai)</td></tr>
+        <tr><td>V</td><td>South Asia</td><td>VIDP (Delhi)</td></tr>
+        <tr><td>Z</td><td>China</td><td>ZBAA (Beijing)</td></tr>
+        <tr><td>Y</td><td>Australia</td><td>YSSY (Sydney)</td></tr>
+        <tr><td>RJ</td><td>Japan</td><td>RJTT (Tokyo Haneda)</td></tr>
+      </table>
+    `
+  },
+  {
+    slug: 'icao-country-prefix-guide',
+    title: 'Complete ICAO Country Prefix Guide',
+    category: 'icao-codes',
+    subcategory: 'prefix-guide',
+    tags: ['ICAO', 'Prefix', 'Countries', 'Guide'],
+    date: '2025-05-26',
+    excerpt: 'Every country has a unique ICAO prefix. Here\'s the complete list of all ICAO country prefixes used worldwide.',
+    content_html: `
+      <p>ICAO assigns unique two-letter prefixes to each country and territory. This guide covers all active prefixes.</p>
+      <h2>Europe</h2>
+      <p>EB (Belgium), ED (Germany), EE (Estonia), EF (Finland), EG (UK), EH (Netherlands), EI (Ireland), EK (Denmark), EL (Luxembourg), EN (Norway), EP (Poland), ES (Sweden), ET (Germany military), EV (Latvia), EY (Lithuania)</p>
+      <h2>Americas</h2>
+      <p>K (Continental US), PA-Alaska (Alaska), PH (Hawaii), C (Canada), M (Mexico), S (South America prefix)</p>
+    `
+  },
+  {
+    slug: 'military-icao-codes',
+    title: 'Military ICAO Codes: Understanding Military Airfields',
+    category: 'icao-codes',
+    subcategory: 'military-icao',
+    tags: ['ICAO', 'Military', 'Airfields', 'Defense'],
+    date: '2025-05-14',
+    excerpt: 'Military airfields have their own ICAO codes. Learn how military ICAO codes differ from civilian ones.',
+    content_html: `
+      <p>Military airfields use the same ICAO system but with specific prefixes and conventions. Many military codes are not publicly listed.</p>
+      <h2>US Military</h2>
+      <p>US military airfields use the K prefix like civilian airports but with specific identifiers. Examples: KNKX (Miramar), KNFL (Fallon).</p>
+    `
+  },
+  {
+    slug: 'icao-vs-iata-key-differences',
+    title: 'ICAO vs IATA: Key Differences Explained',
+    category: 'icao-codes',
+    subcategory: 'icao-vs-iata',
+    tags: ['ICAO', 'IATA', 'Comparison', 'Aviation'],
+    date: '2025-05-06',
+    excerpt: 'What\'s the difference between ICAO and IATA codes? When is each used? A complete comparison.',
+    content_html: `
+      <p>Both ICAO and IATA assign codes to airports, but they serve different purposes and follow different conventions.</p>
+      <table>
+        <tr><th>Feature</th><th>IATA</th><th>ICAO</th></tr>
+        <tr><td>Length</td><td>3 letters</td><td>4 letters</td></tr>
+        <tr><td>Structure</td><td>No pattern</td><td>Geographic (region/country)</td></tr>
+        <tr><td>Used for</td><td>Tickets, baggage, schedules</td><td>ATC, flight planning, weather</td></tr>
+        <tr><td>Assigned by</td><td>IATA</td><td>ICAO (UN agency)</td></tr>
+        <tr><td>Coverage</td><td>~9,000 airports</td><td>~45,000 airports</td></tr>
+      </table>
+    `
+  },
+
+  // ═══════════════════════════════════════════
+  // AVIATION NEWS
+  // ═══════════════════════════════════════════
+  {
+    slug: 'new-airports-opening-2025',
+    title: 'New Airports Opening in 2025: Complete List',
+    category: 'aviation-news',
+    subcategory: 'new-airports',
+    tags: ['New Airports', '2025', 'Construction', 'Opening'],
+    date: '2025-06-04',
+    excerpt: 'Several major new airports are scheduled to open in 2025. From Istanbul New Airport expansions to brand new facilities in Asia.',
+    content_html: `
+      <p>2025 is an exciting year for aviation infrastructure. Several major airports are opening or expanding, adding capacity for millions of new passengers.</p>
+      <h2>Major Openings</h2>
+      <ul>
+        <li><strong>Istanbul Airport</strong> — Full build-out completion with 200 million passenger capacity</li>
+        <li><strong>Beijing Daxing</strong> — Additional terminal expansion</li>
+        <li><strong>New Manila Airport</strong> — Bulacan International Airport construction progress</li>
+      </ul>
+    `
+  },
+  {
+    slug: 'airport-expansion-projects-2025',
+    title: 'Major Airport Expansion Projects Underway in 2025',
+    category: 'aviation-news',
+    subcategory: 'airport-expansions',
+    tags: ['Expansion', 'Construction', '2025', 'Terminals'],
+    date: '2025-05-29',
+    excerpt: 'From Heathrow\'s third runway to Changi\'s Terminal 5, here are the biggest airport expansion projects currently under construction.',
+    content_html: `
+      <p>Airports worldwide are investing billions in expansion to meet growing demand. Here are the most significant projects.</p>
+      <h2>Heathrow Expansion</h2>
+      <p>London Heathrow's third runway is one of the most debated infrastructure projects in Europe. After years of legal challenges, construction is finally underway.</p>
+      <h2>Changi Terminal 5</h2>
+      <p>Singapore's Terminal 5 will be one of the world's largest terminals when completed, handling 50 million passengers annually.</p>
+    `
+  },
+  {
+    slug: 'new-airline-routes-summer-2025',
+    title: 'New Airline Routes for Summer 2025',
+    category: 'aviation-news',
+    subcategory: 'airline-routes',
+    tags: ['Routes', 'Airlines', 'Summer 2025', 'New Flights'],
+    date: '2025-05-21',
+    excerpt: 'Airlines are launching hundreds of new routes for summer 2025. From ultra-long-haul to regional connections.',
+    content_html: `
+      <p>Summer 2025 brings a wave of new airline routes as carriers expand their networks and restore pre-pandemic capacity.</p>
+      <h2>Notable New Routes</h2>
+      <ul>
+        <li>Singapore Airlines: Singapore — Istanbul (new)</li>
+        <li>Emirates: Dubai — Medellín (new South American route)</li>
+        <li>United Airlines: Newark — Nuuk, Greenland (new)</li>
+      </ul>
+    `
+  },
+  {
+    slug: 'aviation-industry-trends-2025',
+    title: 'Aviation Industry Trends to Watch in 2025',
+    category: 'aviation-news',
+    subcategory: 'industry-trends',
+    tags: ['Trends', 'Industry', '2025', 'Aviation'],
+    date: '2025-05-16',
+    excerpt: 'From sustainable aviation fuels to AI-powered operations, here are the trends shaping aviation in 2025.',
+    content_html: `
+      <p>The aviation industry is undergoing rapid transformation. Here are the key trends to watch.</p>
+      <h2>Sustainable Aviation Fuel (SAF)</h2>
+      <p>SAF production is scaling up, with major airlines committing to 10% SAF blends by 2030. New production facilities are opening in the US and Europe.</p>
+      <h2>AI in Airport Operations</h2>
+      <p>Artificial intelligence is being deployed for predictive maintenance, passenger flow optimization, and automated security screening.</p>
+    `
+  },
+  {
+    slug: 'aviation-technology-breakthroughs',
+    title: 'Aviation Technology Breakthroughs: What\'s Coming Next',
+    category: 'aviation-news',
+    subcategory: 'technology',
+    tags: ['Technology', 'Innovation', 'Aviation', 'Future'],
+    date: '2025-05-09',
+    excerpt: 'Electric aircraft, hydrogen planes, and supersonic travel — the technologies that will change how we fly.',
+    content_html: `
+      <p>The next decade will bring revolutionary changes to aviation technology. Here's what's on the horizon.</p>
+      <h2>Electric Aircraft</h2>
+      <p>Companies like Heart Aerospace and Eviation are developing electric regional aircraft that could enter service by 2028.</p>
+      <h2>Hydrogen Propulsion</h2>
+      <p>Airbus is developing hydrogen-powered aircraft with a target entry into service by 2035.</p>
+    `
+  },
+  {
+    slug: 'green-aviation-sustainability',
+    title: 'Green Aviation: How Airports Are Going Carbon Neutral',
+    category: 'aviation-news',
+    subcategory: 'sustainability',
+    tags: ['Green', 'Sustainability', 'Carbon Neutral', 'Environment'],
+    date: '2025-05-03',
+    excerpt: 'Airports worldwide are committing to net-zero emissions. From solar farms to electric ground vehicles, here\'s how.',
+    content_html: `
+      <p>Airports are major contributors to carbon emissions, but many are taking bold steps toward sustainability.</p>
+      <h2>Net-Zero Airports</h2>
+      <p>Several airports have already achieved carbon neutrality, including Arlanda (Stockholm), Delhi Indira Gandhi, and Bangalore International.</p>
+    `
+  },
+
+  // ═══════════════════════════════════════════
+  // TRAVEL TIPS
+  // ═══════════════════════════════════════════
+  {
+    slug: 'ultimate-packing-guide-frequent-flyers',
+    title: 'The Ultimate Packing Guide for Frequent Flyers',
+    category: 'travel-tips',
+    subcategory: 'packing',
+    tags: ['Packing', 'Travel Tips', 'Frequent Flyers', 'Luggage'],
+    date: '2025-06-05',
+    excerpt: 'Master the art of packing for air travel. Carry-on only strategies, TSA-approved essentials, and space-saving techniques.',
+    content_html: `
+      <p>Packing efficiently is a skill that frequent flyers develop over time. Here are the best strategies for stress-free packing.</p>
+      <h2>Carry-On Only</h2>
+      <p>Traveling with just a carry-on saves time, money, and stress. The key is choosing versatile clothing and using packing cubes.</p>
+      <h2>TSA Essentials</h2>
+      <p>Keep liquids in a clear quart-sized bag. Have electronics easily accessible. Wear slip-on shoes for security.</p>
+    `
+  },
+  {
+    slug: 'airport-security-tips-faster-screening',
+    title: 'Airport Security Tips: Get Through Screening Faster',
+    category: 'travel-tips',
+    subcategory: 'security',
+    tags: ['Security', 'TSA', 'Tips', 'Screening'],
+    date: '2025-05-27',
+    excerpt: 'Speed through airport security with these proven tips. TSA PreCheck, CLEAR, and smart preparation strategies.',
+    content_html: `
+      <p>Airport security doesn't have to be a bottleneck. With the right preparation and programs, you can breeze through screening.</p>
+      <h2>TSA PreCheck</h2>
+      <p>For $78 for 5 years, TSA PreCheck gives you access to expedited screening lanes. No need to remove shoes, laptops, or liquids.</p>
+      <h2>CLEAR</h2>
+      <p>CLEAR uses biometric identification to verify your identity instantly. Combined with TSA PreCheck, it's the fastest way through security.</p>
+    `
+  },
+  {
+    slug: 'best-airport-lounges-world',
+    title: 'The Best Airport Lounges in the World',
+    category: 'travel-tips',
+    subcategory: 'lounges',
+    tags: ['Lounges', 'Premium', 'Travel', 'Luxury'],
+    date: '2025-05-19',
+    excerpt: 'From the Emirates First Class Lounge in Dubai to the Cathay Pacific Pier in Hong Kong — the world\'s most impressive airport lounges.',
+    content_html: `
+      <p>Airport lounges have evolved from simple waiting areas to luxurious retreats. Here are the best lounges you can visit.</p>
+      <h2>Emirates First Class Lounge, Dubai</h2>
+      <p>Spanning over 12,000 square meters, this lounge features a full spa, cigar bar, fine dining, and even a wine cellar.</p>
+      <h2>Cathay Pacific The Pier, Hong Kong</h2>
+      <p>The Pier Business Class Lounge offers day beds, a tea house, and the famous Noodle Bar.</p>
+    `
+  },
+  {
+    slug: 'duty-free-shopping-guide',
+    title: 'Duty-Free Shopping: What\'s Actually Worth Buying',
+    category: 'travel-tips',
+    subcategory: 'duty-free',
+    tags: ['Duty Free', 'Shopping', 'Travel', 'Savings'],
+    date: '2025-05-11',
+    excerpt: 'Not everything in duty-free is a bargain. Here\'s what to buy and what to skip at airport shops.',
+    content_html: `
+      <p>Duty-free shopping can offer genuine savings, but not everything is a deal. Here's how to shop smart.</p>
+      <h2>Best Buys</h2>
+      <p>Alcohol, tobacco, and luxury cosmetics typically offer the best savings. Local specialties and souvenirs can also be good value.</p>
+      <h2>Skip These</h2>
+      <p>Electronics, clothing, and snacks are often more expensive at duty-free shops than at regular retail stores.</p>
+    `
+  },
+  {
+    slug: 'best-airport-food-world',
+    title: 'The Best Airport Food in the World: A Culinary Tour',
+    category: 'travel-tips',
+    subcategory: 'food',
+    tags: ['Food', 'Airport Dining', 'Restaurants', 'Cuisine'],
+    date: '2025-05-04',
+    excerpt: 'Airport food has come a long way. From Michelin-starred restaurants to authentic local cuisine, here\'s where to eat.',
+    content_html: `
+      <p>Gone are the days of sad sandwiches and lukewarm coffee. Today's airports offer world-class dining experiences.</p>
+      <h2>Tokyo Haneda</h2>
+      <p>Haneda's terminals feature excellent ramen shops, sushi bars, and izakayas. The Edo Marketplace in Terminal 2 is a food lover's paradise.</p>
+      <h2>Singapore Changi</h2>
+      <p>Changi's Hawker Street offers authentic Singaporean street food at local prices. Try the Hainanese chicken rice or laksa.</p>
+    `
+  },
+  {
+    slug: 'sleeping-at-airports-guide',
+    title: 'Sleeping at Airports: A Survival Guide',
+    category: 'travel-tips',
+    subcategory: 'sleep',
+    tags: ['Sleep', 'Airport', 'Layover', 'Survival'],
+    date: '2025-04-26',
+    excerpt: 'Overnight layovers and delayed flights happen. Here\'s how to sleep comfortably at airports around the world.',
+    content_html: `
+      <p>Sometimes you have no choice but to sleep at the airport. Here's how to make the best of it.</p>
+      <h2>Best Airports for Sleeping</h2>
+      <p>Singapore Changi, Seoul Incheon, and Helsinki Vantaa are known for their comfortable sleeping options, including nap rooms and quiet zones.</p>
+      <h2>Essential Gear</h2>
+      <p>Bring a travel pillow, eye mask, earplugs, and a light blanket. A portable charger is also essential.</p>
+    `
+  },
+  {
+    slug: 'making-tight-connections',
+    title: 'Making Tight Connections: A Survival Guide',
+    category: 'travel-tips',
+    subcategory: 'connections',
+    tags: ['Connections', 'Transit', 'Tips', 'Airport'],
+    date: '2025-04-20',
+    excerpt: 'Missed connections are every traveler\'s nightmare. Here\'s how to make tight connections and what to do if you miss one.',
+    content_html: `
+      <p>Tight connections can be stressful, but with the right strategy, you can make them work.</p>
+      <h2>Minimum Connection Times</h2>
+      <p>Each airport has published minimum connection times. Check these before booking separate tickets. Generally, allow at least 90 minutes for domestic and 2 hours for international connections.</p>
+    `
+  },
+  {
+    slug: 'travel-insurance-guide',
+    title: 'Travel Insurance: What You Need to Know',
+    category: 'travel-tips',
+    subcategory: 'travel-insurance',
+    tags: ['Insurance', 'Travel', 'Protection', 'Guide'],
+    date: '2025-04-15',
+    excerpt: 'Travel insurance can save you thousands. Here\'s what to look for in a policy and when you actually need it.',
+    content_html: `
+      <p>Travel insurance is one of those things you hope you'll never need but are glad you have when something goes wrong.</p>
+      <h2>What to Look For</h2>
+      <p>Key coverage areas: trip cancellation, medical expenses, emergency evacuation, baggage loss, and flight delays.</p>
+    `
+  },
+
+  // ═══════════════════════════════════════════
+  // AIRPORT TECHNOLOGY
+  // ═══════════════════════════════════════════
+  {
+    slug: 'biometric-airport-screening-future',
+    title: 'Biometric Screening: The Future of Airport Security',
+    category: 'airport-technology',
+    subcategory: 'biometrics',
+    tags: ['Biometrics', 'Security', 'Facial Recognition', 'Technology'],
+    date: '2025-06-06',
+    excerpt: 'Facial recognition and biometric screening are transforming airport security. Here\'s what to expect and how it affects your privacy.',
+    content_html: `
+      <p>Biometric technology is rapidly being adopted at airports worldwide. From check-in to boarding, your face is becoming your boarding pass.</p>
+      <h2>How It Works</h2>
+      <p>Cameras capture your facial features and match them against passport photos. The process takes seconds and eliminates the need for physical documents.</p>
+    `
+  },
+  {
+    slug: 'self-service-kiosks-transforming-airports',
+    title: 'How Self-Service Kiosks Are Transforming Airports',
+    category: 'airport-technology',
+    subcategory: 'self-service',
+    tags: ['Self-Service', 'Kiosks', 'Technology', 'Automation'],
+    date: '2025-05-24',
+    excerpt: 'Self-service kiosks are reducing wait times and improving the passenger experience. Here\'s how they work and where they\'re deployed.',
+    content_html: `
+      <p>From check-in to bag drop, self-service technology is making airports more efficient and reducing the need for staff at every step.</p>
+    `
+  },
+  {
+    slug: 'baggage-handling-systems-explained',
+    title: 'Inside Baggage Handling Systems: How Your Luggage Travels',
+    category: 'airport-technology',
+    subcategory: 'baggage',
+    tags: ['Baggage', 'Handling', 'Systems', 'Technology'],
+    date: '2025-05-17',
+    excerpt: 'Behind the scenes, airport baggage handling systems are marvels of engineering. Here\'s how your luggage gets from check-in to aircraft.',
+    content_html: `
+      <p>When you drop off your bag at check-in, it enters a complex network of conveyor belts, scanners, and sorting systems.</p>
+    `
+  },
+  {
+    slug: 'indoor-navigation-airport-apps',
+    title: 'Indoor Navigation: Airport Apps That Guide You Gate to Gate',
+    category: 'airport-technology',
+    subcategory: 'navigation',
+    tags: ['Navigation', 'Apps', 'Indoor', 'Technology'],
+    content_html: `
+      <p>Getting lost in a large airport is frustrating. Indoor navigation apps use Bluetooth beacons and WiFi to guide you turn-by-turn.</p>
+    `
+  },
+  {
+    slug: 'best-travel-apps-2025',
+    title: 'The Best Travel Apps for 2025',
+    category: 'airport-technology',
+    subcategory: 'apps',
+    tags: ['Apps', 'Travel', '2025', 'Technology'],
+    date: '2025-05-07',
+    excerpt: 'From flight tracking to airport navigation, these are the essential travel apps for 2025.',
+    content_html: `
+      <p>Your smartphone is the most powerful travel tool you own. Here are the apps every traveler should have.</p>
+    `
+  },
+  {
+    slug: 'ai-airport-operations',
+    title: 'AI in Airport Operations: How Artificial Intelligence Is Changing Aviation',
+    category: 'airport-technology',
+    subcategory: 'automation',
+    tags: ['AI', 'Artificial Intelligence', 'Automation', 'Operations'],
+    date: '2025-04-29',
+    excerpt: 'From predictive maintenance to passenger flow optimization, AI is transforming how airports operate.',
+    content_html: `
+      <p>Artificial intelligence is being deployed across every aspect of airport operations, from security to retail to air traffic management.</p>
+    `
+  },
+
+  // ═══════════════════════════════════════════
+  // AIRPORT RANKINGS
+  // ═══════════════════════════════════════════
+  {
+    slug: 'best-airports-world-2025',
+    title: 'Best Airports in the World 2025: Complete Ranking',
+    category: 'airport-rankings',
+    subcategory: 'best-airports',
+    tags: ['Rankings', 'Best Airports', '2025', 'World'],
+    date: '2025-06-07',
+    excerpt: 'The definitive ranking of the world\'s best airports for 2025, based on passenger experience, facilities, and service quality.',
+    content_html: `
+      <p>Every year, airports compete for the title of the world's best. Here's our comprehensive ranking for 2025.</p>
+      <h2>Top 10</h2>
+      <ol>
+        <li>Singapore Changi (SIN)</li>
+        <li>Tokyo Haneda (HND)</li>
+        <li>Seoul Incheon (ICN)</li>
+        <li>Tokyo Narita (NRT)</li>
+        <li>Paris CDG (CDG)</li>
+        <li>Munich (MUC)</li>
+        <li>Zurich (ZRH)</li>
+        <li>London Heathrow (LHR)</li>
+        <li>Dubai (DXB)</li>
+        <li>Hong Kong (HKG)</li>
+      </ol>
+    `
+  },
+  {
+    slug: 'worst-airports-world-2025',
+    title: 'Most Challenging Airports in the World 2025',
+    category: 'airport-rankings',
+    subcategory: 'worst-airports',
+    tags: ['Rankings', 'Worst Airports', 'Challenges', '2025'],
+    date: '2025-05-31',
+    excerpt: 'Not all airports are pleasant. Here are the most challenging airports for passengers, based on delays, facilities, and complaints.',
+    content_html: `
+      <p>While some airports excel, others struggle with overcrowding, delays, and poor facilities. Here are the most challenging.</p>
+    `
+  },
+  {
+    slug: 'airports-best-on-time-performance',
+    title: 'Airports with the Best On-Time Performance',
+    category: 'airport-rankings',
+    subcategory: 'on-time',
+    tags: ['On-Time', 'Performance', 'Punctuality', 'Rankings'],
+    date: '2025-05-23',
+    excerpt: 'Punctuality varies dramatically by airport. Here are the airports with the best on-time departure and arrival records.',
+    content_html: `
+      <p>On-time performance is one of the most important metrics for airports. Here are the leaders in punctuality.</p>
+    `
+  },
+  {
+    slug: 'busiest-airports-world-2025',
+    title: 'Busiest Airports in the World 2025: By Passenger Traffic',
+    category: 'airport-rankings',
+    subcategory: 'busiest',
+    tags: ['Busiest', 'Traffic', 'Passengers', '2025'],
+    date: '2025-05-13',
+    excerpt: 'Atlanta remains the world\'s busiest airport. Here\'s the complete ranking of the top 20 busiest airports by passenger traffic.',
+    content_html: `
+      <p>Airport traffic rankings shift as travel patterns change. Here are the busiest airports in the world for 2025.</p>
+      <table>
+        <tr><th>Rank</th><th>Airport</th><th>Code</th><th>Passengers (millions)</th></tr>
+        <tr><td>1</td><td>Atlanta</td><td>ATL</td><td>104.7</td></tr>
+        <tr><td>2</td><td>Dubai</td><td>DXB</td><td>92.3</td></tr>
+        <tr><td>3</td><td>Dallas/Fort Worth</td><td>DFW</td><td>81.8</td></tr>
+        <tr><td>4</td><td>London Heathrow</td><td>LHR</td><td>79.2</td></tr>
+        <tr><td>5</td><td>Tokyo Haneda</td><td>HND</td><td>78.4</td></tr>
+      </table>
+    `
+  },
+  {
+    slug: 'safest-airports-world',
+    title: 'Safest Airports in the World',
+    category: 'airport-rankings',
+    subcategory: 'safest',
+    tags: ['Safety', 'Security', 'Airports', 'Rankings'],
+    date: '2025-05-02',
+    excerpt: 'Safety is the top priority for travelers. Here are the airports with the best safety records and security infrastructure.',
+    content_html: `
+      <p>Airport safety encompasses everything from runway maintenance to emergency response capabilities.</p>
+    `
+  },
+  {
+    slug: 'cleanest-airports-world',
+    title: 'Cleanest Airports in the World',
+    category: 'airport-rankings',
+    subcategory: 'cleanest',
+    tags: ['Clean', 'Hygiene', 'Airports', 'Rankings'],
+    date: '2025-04-24',
+    excerpt: 'Cleanliness matters for passenger comfort. Here are the airports that consistently score highest for hygiene and maintenance.',
+    content_html: `
+      <p>Post-pandemic, cleanliness has become a top priority for travelers. Here are the cleanest airports in the world.</p>
+    `
+  },
+
+  // ═══════════════════════════════════════════
+  // REGIONAL GUIDES
+  // ═══════════════════════════════════════════
+  {
+    slug: 'europe-major-airports-guide',
+    title: 'Major Airports in Europe: A Complete Guide',
+    category: 'regional-guides',
+    subcategory: 'europe',
+    tags: ['Europe', 'Airports', 'Guide', 'Regional'],
+    date: '2025-06-08',
+    excerpt: 'From London Heathrow to Istanbul Airport, here\'s your guide to every major European airport.',
+    content_html: `
+      <p>Europe has some of the world's busiest and most efficient airports. Here's a comprehensive guide to the major hubs.</p>
+    `
+  },
+  {
+    slug: 'north-america-airports-guide',
+    title: 'Major Airports in North America: Complete Guide',
+    category: 'regional-guides',
+    subcategory: 'north-america',
+    tags: ['North America', 'USA', 'Canada', 'Airports'],
+    date: '2025-05-28',
+    excerpt: 'From Atlanta to Vancouver, here\'s your guide to every major North American airport.',
+    content_html: `
+      <p>North America is home to the world's busiest airport (Atlanta) and dozens of major hubs. Here's your complete guide.</p>
+    `
+  },
+  {
+    slug: 'asia-pacific-airports-guide',
+    title: 'Major Airports in Asia Pacific: Complete Guide',
+    category: 'regional-guides',
+    subcategory: 'asia-pacific',
+    tags: ['Asia', 'Pacific', 'Airports', 'Guide'],
+    date: '2025-05-20',
+    excerpt: 'From Singapore Changi to Sydney Airport, here\'s your guide to Asia Pacific\'s major aviation hubs.',
+    content_html: `
+      <p>The Asia Pacific region is home to many of the world's best airports. Here's your comprehensive guide.</p>
+    `
+  },
+  {
+    slug: 'middle-east-airports-guide',
+    title: 'Major Airports in the Middle East: Complete Guide',
+    category: 'regional-guides',
+    subcategory: 'middle-east',
+    tags: ['Middle East', 'Dubai', 'Doha', 'Airports'],
+    date: '2025-05-12',
+    excerpt: 'The Middle East has become a global aviation hub. From Dubai to Doha to Abu Dhabi, here\'s your guide.',
+    content_html: `
+      <p>The Middle East has transformed global aviation with massive hub airports. Here's your guide to the region's major airports.</p>
+    `
+  },
+  {
+    slug: 'africa-airports-guide',
+    title: 'Major Airports in Africa: Complete Guide',
+    category: 'regional-guides',
+    subcategory: 'africa',
+    tags: ['Africa', 'Airports', 'Guide', 'Johannesburg'],
+    date: '2025-05-05',
+    excerpt: 'From Johannesburg to Cairo to Addis Ababa, here\'s your guide to Africa\'s major aviation hubs.',
+    content_html: `
+      <p>Africa's aviation sector is growing rapidly. Here's your guide to the continent's major airports.</p>
+    `
+  },
+  {
+    slug: 'south-america-airports-guide',
+    title: 'Major Airports in South America: Complete Guide',
+    category: 'regional-guides',
+    subcategory: 'south-america',
+    tags: ['South America', 'Brazil', 'Airports', 'Guide'],
+    date: '2025-04-27',
+    excerpt: 'From São Paulo to Bogotá to Santiago, here\'s your guide to South America\'s major airports.',
+    content_html: `
+      <p>South America's aviation network connects the continent's major cities. Here's your complete guide.</p>
+    `
+  },
+  {
+    slug: 'caribbean-airports-guide',
+    title: 'Major Airports in the Caribbean: Complete Guide',
+    category: 'regional-guides',
+    subcategory: 'caribbean',
+    tags: ['Caribbean', 'Airports', 'Islands', 'Guide'],
+    date: '2025-04-19',
+    excerpt: 'From San Juan to Nassau to Montego Bay, here\'s your guide to Caribbean airports.',
+    content_html: `
+      <p>The Caribbean has dozens of airports serving the region's island nations. Here's your complete guide.</p>
+    `
+  },
+  {
+    slug: 'central-asia-airports-guide',
+    title: 'Major Airports in Central Asia: Complete Guide',
+    category: 'regional-guides',
+    subcategory: 'central-asia',
+    tags: ['Central Asia', 'Kazakhstan', 'Uzbekistan', 'Airports'],
+    date: '2025-04-14',
+    excerpt: 'From Almaty to Tashkent to Baku, here\'s your guide to Central Asia\'s aviation hubs.',
+    content_html: `
+      <p>Central Asia is an increasingly important crossroads for air travel between Europe and Asia.</p>
+    `
+  },
+
+  // ═══════════════════════════════════════════
+  // AIRPORT HISTORY
+  // ═══════════════════════════════════════════
+  {
+    slug: 'oldest-airports-world-still-operating',
+    title: 'The Oldest Airports in the World Still Operating',
+    category: 'airport-history',
+    subcategory: 'oldest-airports',
+    tags: ['History', 'Oldest', 'Airports', 'Aviation'],
+    date: '2025-06-09',
+    excerpt: 'Some airports have been operating for over 100 years. Here are the oldest airports still in service today.',
+    content_html: `
+      <p>Aviation history is preserved in airports that have been operating for over a century. Here are the oldest.</p>
+      <table>
+        <tr><th>Airport</th><th>Code</th><th>Opened</th></tr>
+        <tr><td>College Park</td><td>CGS</td><td>1909</td></tr>
+        <tr><td>Hamburg</td><td>HAM</td><td>1911</td></tr>
+        <tr><td>Bucharest Băneasa</td><td>BBU</td><td>1912</td></tr>
+        <tr><td>Ciampino</td><td>CIA</td><td>1916</td></tr>
+        <tr><td>Sydney</td><td>SYD</td><td>1920</td></tr>
+        <tr><td>Amsterdam Schiphol</td><td>AMS</td><td>1916</td></tr>
+      </table>
+    `
+  },
+  {
+    slug: 'closed-abandoned-airports',
+    title: 'Closed & Abandoned Airports: Ghosts of Aviation Past',
+    category: 'airport-history',
+    subcategory: 'closed-airports',
+    tags: ['Closed', 'Abandoned', 'History', 'Ghost Airports'],
+    date: '2025-05-30',
+    excerpt: 'From Berlin Tempelhof to Kai Tak, here are the most famous closed airports and what happened to them.',
+    content_html: `
+      <p>Airports close for many reasons — urban development, replacement by newer facilities, or political changes. Here are the most famous.</p>
+      <h2>Berlin Tempelhof (THF)</h2>
+      <p>Closed in 2008, Tempelhof is now a public park. Its massive terminal building is used for events and exhibitions.</p>
+      <h2>Hong Kong Kai Tak (HKG)</h2>
+      <p>Closed in 1998 and replaced by Chek Lap Kok, Kai Tak was famous for its challenging approach over Kowloon.</p>
+    `
+  },
+  {
+    slug: 'airport-name-changes-history',
+    title: 'Airports That Changed Names: A Historical Guide',
+    category: 'airport-history',
+    subcategory: 'name-changes',
+    tags: ['Name Changes', 'History', 'Airports', 'Renamed'],
+    date: '2025-05-22',
+    excerpt: 'Airports are often renamed to honor political leaders or reflect changing times. Here\'s a guide to notable name changes.',
+    content_html: `
+      <p>Airport names often reflect the political and cultural context of their time. Here are the most significant name changes.</p>
+    `
+  },
+  {
+    slug: 'wartime-airfields-turned-civilian',
+    title: 'Wartime Airfields Turned Civilian Airports',
+    category: 'airport-history',
+    subcategory: 'wartime',
+    tags: ['Wartime', 'Military', 'History', 'Conversion'],
+    date: '2025-05-14',
+    excerpt: 'Many of today\'s busiest airports started as military airfields. Here\'s the history of wartime airfields that became civilian hubs.',
+    content_html: `
+      <p>World War II and the Cold War left a legacy of airfields that were later converted to civilian use.</p>
+    `
+  },
+  {
+    slug: 'airport-architecture-iconic-terminals',
+    title: 'Iconic Airport Architecture: The Most Beautiful Terminals',
+    category: 'airport-history',
+    subcategory: 'architecture',
+    tags: ['Architecture', 'Design', 'Terminals', 'Iconic'],
+    date: '2025-05-06',
+    excerpt: 'From TWA Flight Center to Denver International, here are the most architecturally significant airport terminals.',
+    content_html: `
+      <p>Airport terminals are often architectural masterpieces. Here are the most iconic designs.</p>
+      <h2>TWA Flight Center, JFK</h2>
+      <p>Eero Saarinen's 1962 masterpiece with its swooping concrete shells is now a hotel but remains an architectural icon.</p>
+    `
+  },
+
+  // ═══════════════════════════════════════════
+  // BUSINESS AVIATION
+  // ═══════════════════════════════════════════
+  {
+    slug: 'private-jet-airports-guide',
+    title: 'Private Jet Airports: Where Business Aviation Takes Off',
+    category: 'business-aviation',
+    subcategory: 'private-jets',
+    tags: ['Private Jet', 'Business Aviation', 'FBO', 'Luxury'],
+    date: '2025-06-10',
+    excerpt: 'Not all airports handle private jets. Here\'s a guide to the best airports for business aviation.',
+    content_html: `
+      <p>Business aviation requires specialized facilities. Here are the best airports for private jet travelers.</p>
+    `
+  },
+  {
+    slug: 'charter-flight-guide',
+    title: 'Charter Flights: A Complete Guide',
+    category: 'business-aviation',
+    subcategory: 'charter',
+    tags: ['Charter', 'Private', 'Flights', 'Guide'],
+    date: '2025-05-25',
+    excerpt: 'Charter flights offer flexibility and privacy. Here\'s everything you need to know about booking charter flights.',
+    content_html: `
+      <p>Charter flights provide an alternative to scheduled airlines, offering flexibility in timing, routing, and aircraft type.</p>
+    `
+  },
+  {
+    slug: 'fbo-services-explained',
+    title: 'FBO Services: What Business Aviation Passengers Need to Know',
+    category: 'business-aviation',
+    subcategory: 'fbo',
+    tags: ['FBO', 'Business Aviation', 'Services', 'Terminals'],
+    date: '2025-05-18',
+    excerpt: 'Fixed Base Operators (FBOs) provide services for business aviation. Here\'s what they offer and how to use them.',
+    content_html: `
+      <p>FBOs are the equivalent of airline terminals for business aviation. They provide everything from fueling to passenger lounges.</p>
+    `
+  },
+  {
+    slug: 'cargo-airports-world',
+    title: 'Major Cargo Airports: Where Global Trade Takes Flight',
+    category: 'business-aviation',
+    subcategory: 'cargo',
+    tags: ['Cargo', 'Freight', 'Logistics', 'Airports'],
+    date: '2025-05-10',
+    excerpt: 'Hong Kong, Memphis, Shanghai — the world\'s busiest cargo airports handle billions of dollars in goods every year.',
+    content_html: `
+      <p>Cargo airports are the backbone of global trade. Here are the world's busiest freight hubs.</p>
+    `
+  },
+  {
+    slug: 'general-aviation-airports',
+    title: 'General Aviation Airports: A Complete Guide',
+    category: 'business-aviation',
+    subcategory: 'general-aviation',
+    tags: ['General Aviation', 'GA', 'Small Airports', 'Piston'],
+    date: '2025-05-01',
+    excerpt: 'General aviation airports serve private pilots, flight training, and recreational flying. Here\'s your guide.',
+    content_html: `
+      <p>General aviation airports are the most numerous type of airport, serving private pilots and flight training.</p>
+    `
+  },
+
+  // ═══════════════════════════════════════════
+  // AIRPORT DATA & TOOLS
+  // ═══════════════════════════════════════════
+  {
+    slug: 'database-update-june-2025',
+    title: 'Database Update: June 2025 — New Airports & Code Changes',
+    category: 'airport-data',
+    subcategory: 'database-updates',
+    tags: ['Database', 'Update', 'June 2025', 'New Data'],
+    date: '2025-06-11',
+    excerpt: 'Our latest database update adds 127 new airports, updates 43 IATA codes, and includes new elevation data.',
+    content_html: `
+      <p>We continuously update our airport database to ensure accuracy. Here's what's new in June 2025.</p>
+    `
+  },
+  {
+    slug: 'api-documentation',
+    title: 'Airport Database API Documentation',
+    category: 'airport-data',
+    subcategory: 'api',
+    tags: ['API', 'Documentation', 'Developers', 'Integration'],
+    date: '2025-05-26',
+    excerpt: 'Integrate our airport database into your application. Complete API documentation with examples.',
+    content_html: `
+      <p>Our API provides programmatic access to the world's most comprehensive airport database.</p>
+    `
+  },
+  {
+    slug: 'data-sources-methodology',
+    title: 'Our Data Sources and Methodology',
+    category: 'airport-data',
+    subcategory: 'data-sources',
+    tags: ['Data', 'Sources', 'Methodology', 'OurAirports'],
+    date: '2025-05-19',
+    excerpt: 'Transparency matters. Here\'s where our data comes from and how we process it.',
+    content_html: `
+      <p>We believe in transparency about our data sources and processing methods.</p>
+    `
+  },
+  {
+    slug: 'how-to-use-airport-database',
+    title: 'How to Use the Airport Database: A Beginner\'s Guide',
+    category: 'airport-data',
+    subcategory: 'methodology',
+    tags: ['Guide', 'Tutorial', 'Database', 'How-To'],
+    date: '2025-05-11',
+    excerpt: 'New to our database? Here\'s how to search, filter, and export airport data effectively.',
+    content_html: `
+      <p>Our airport database is designed to be easy to use. Here's a step-by-step guide for beginners.</p>
+    `
+  },
+  {
+    slug: 'export-airport-data-csv-json',
+    title: 'How to Export Airport Data: CSV, JSON, and SQL Formats',
+    category: 'airport-data',
+    subcategory: 'tutorials',
+    tags: ['Export', 'CSV', 'JSON', 'SQL', 'Tutorial'],
+    date: '2025-05-03',
+    excerpt: 'Need airport data for your project? Here\'s how to export in various formats.',
+    content_html: `
+      <p>We support multiple export formats to suit different use cases.</p>
+    `
+  },
+  {
+    slug: 'download-complete-airport-database',
+    title: 'Download the Complete Airport Database',
+    category: 'airport-data',
+    subcategory: 'downloads',
+    tags: ['Download', 'Database', 'Complete', 'Data'],
+    date: '2025-04-25',
+    excerpt: 'Get the complete airport database with 85,545 airports. Available in CSV, JSON, and SQL formats.',
+    content_html: `
+      <p>Our complete database includes 85,545 airports with full details. Download it for your projects.</p>
+    `
+  },
+
+  // ═══════════════════════════════════════════
+  // SPECIAL FEATURES
+  // ═══════════════════════════════════════════
+  {
+    slug: 'airport-of-the-week-incheon-icn',
+    title: 'Airport of the Week: Seoul Incheon (ICN)',
+    category: 'special-features',
+    subcategory: 'spotlight',
+    tags: ['Incheon', 'ICN', 'South Korea', 'Spotlight'],
+    date: '2025-06-12',
+    excerpt: 'Seoul Incheon is consistently ranked among the world\'s best airports. Here\'s what makes it special.',
+    content_html: `
+      <p>Seoul Incheon International Airport (ICN) has been a regular fixture in the top 10 world airports rankings.</p>
+    `
+  },
+  {
+    slug: 'cdg-vs-fra-france-vs-germany',
+    title: 'CDG vs FRA: Comparing France and Germany\'s Busiest Airports',
+    category: 'special-features',
+    subcategory: 'comparisons',
+    tags: ['CDG', 'FRA', 'Comparison', 'France', 'Germany'],
+    date: '2025-05-27',
+    excerpt: 'Paris CDG and Frankfurt FRA are Europe\'s competing hubs. How do they compare in size, efficiency, and passenger experience?',
+    content_html: `
+      <p>Paris Charles de Gaulle and Frankfurt are two of Europe's busiest airports. Here's how they compare.</p>
+    `
+  },
+  {
+    slug: 'airport-world-records',
+    title: 'Airport World Records: The Most Extreme Airports',
+    category: 'special-features',
+    subcategory: 'records',
+    tags: ['Records', 'Extreme', 'World Records', 'Airports'],
+    date: '2025-05-15',
+    excerpt: 'Highest, lowest, busiest, most remote — the world records held by airports around the globe.',
+    content_html: `
+      <p>Airports hold some of the most fascinating world records. Here are the most extreme.</p>
+      <ul>
+        <li><strong>Highest:</strong> Daocheng Yading (DCY) — 4,411m / 14,472ft</li>
+        <li><strong>Lowest:</strong> Bar Yehuda (MTZ) — -378m / -1,240ft below sea level</li>
+        <li><strong>Busiest:</strong> Atlanta (ATL) — 104.7 million passengers/year</li>
+        <li><strong>Most Remote:</strong> Mataveri (IPC) — Easter Island</li>
+      </ul>
+    `
+  },
+  {
+    slug: 'most-unusual-airports-world',
+    title: 'The Most Unusual Airports in the World',
+    category: 'special-features',
+    subcategory: 'unusual',
+    tags: ['Unusual', 'Unique', 'Airports', 'Interesting'],
+    date: '2025-05-08',
+    excerpt: 'From runway crossings to cliff landings, these are the most unusual and daring airports on Earth.',
+    content_html: `
+      <p>Some airports push the boundaries of engineering and courage. Here are the most unusual.</p>
+      <h2>Princess Juliana, Sint Maarten (SXM)</h2>
+      <p>Planes pass just 10-20 meters above the beach during approach. It's one of the most photographed approaches in the world.</p>
+      <h2>Gibraltar (GIB)</h2>
+      <p>The runway intersects with a road. Traffic must stop every time a plane lands or takes off.</p>
+      <h2>Madeira (FNC)</h2>
+      <p>Supported by pillars over the ocean, the runway extension was an engineering marvel.</p>
+    `
+  },
+  {
+    slug: 'airports-with-best-views',
+    title: 'Airports with the Best Views: A Photo Essay',
+    category: 'special-features',
+    subcategory: 'photo-essays',
+    tags: ['Views', 'Photography', 'Scenic', 'Photo Essay'],
+    date: '2025-04-30',
+    excerpt: 'Some airports offer breathtaking views during approach and departure. Here are the most scenic.',
+    content_html: `
+      <p>Window seat lovers, take note. These airports offer the most spectacular views during approach.</p>
+    `
+  },
+  {
+    slug: 'interview-airport-architect',
+    title: 'Interview: The Architect Behind the World\'s Most Beautiful Terminals',
+    category: 'special-features',
+    subcategory: 'interviews',
+    tags: ['Interview', 'Architect', 'Design', 'Terminals'],
+    date: '2025-04-21',
+    excerpt: 'We spoke with leading airport architects about the future of terminal design and what makes a great airport.',
+    content_html: `
+      <p>Airport design is a specialized field that balances functionality, aesthetics, and passenger experience.</p>
+    `
+  },
+];

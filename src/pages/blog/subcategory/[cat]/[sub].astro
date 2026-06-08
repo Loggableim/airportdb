@@ -1,0 +1,126 @@
+---
+import { blogCategories, getSubcategoryBySlug, getCategoryBySlug } from '../../../../data/blog-categories.js';
+import blogPosts from '../../../../data/blog-posts.js';
+
+export async function getStaticPaths() {
+  const paths = [];
+  for (const cat of blogCategories) {
+    for (const sub of cat.subcategories) {
+      paths.push({ params: { cat: cat.slug, sub: sub.slug }, props: { category: cat, subcategory: sub } });
+    }
+  }
+  return paths;
+}
+
+const { category, subcategory } = Astro.props;
+const pageTitle = `${subcategory.name} - ${category.name} - World Airport Database Blog`;
+const pageDesc = `${subcategory.name} posts in ${category.name} category.`;
+const pageUrl = `https://world-airport-database.com/blog/subcategory/${category.slug}/${subcategory.slug}/`;
+const posts = blogPosts.filter(p => p.category === category.slug && p.subcategory === subcategory.slug).sort((a,b) => new Date(b.date) - new Date(a.date));
+
+const jsonldBreadcrumb = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://world-airport-database.com/"},
+    {"@type":"ListItem","position":2,"name":"Blog","item":"https://world-airport-database.com/blog/"},
+    {"@type":"ListItem","position":3,"name": category.name, "item": `https://world-airport-database.com/blog/category/${category.slug}/`},
+    {"@type":"ListItem","position":4,"name": subcategory.name}
+  ]
+}, null, 2);
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc}>
+  <link rel="canonical" href={pageUrl}>
+  <script type="application/ld+json" set:html={jsonldBreadcrumb}></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Inter',Arial,sans-serif;background:#F4F7FA;color:#202c39;line-height:1.7}
+    :root{--primary:#2ca4dc;--navy:#0B1D3A;--border:#D4E0E8}
+    .wrap{max-width:900px;margin:0 auto;padding:0 20px}
+    .bc{padding:14px 0;background:#fff;border-bottom:1px solid var(--border);font-size:13px}
+    .bc a{color:var(--primary);text-decoration:none}
+    .ah{background:linear-gradient(135deg,var(--navy),#142b4f);padding:30px 0;border-bottom:4px solid var(--primary);color:#fff}
+    .ah h1{font-size:26px;margin-bottom:6px}
+    .ah .sub{color:#8899aa;font-size:14px}
+    .post-card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:20px;margin-bottom:14px;transition:all .15s}
+    .post-card:hover{border-color:var(--primary);box-shadow:0 2px 12px rgba(44,164,220,.12)}
+    .post-card .date{font-size:12px;color:#8899aa;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px}
+    .post-card h2{font-size:18px;margin-bottom:6px}
+    .post-card h2 a{color:var(--navy);text-decoration:none}
+    .post-card h2 a:hover{color:var(--primary)}
+    .post-card .excerpt{font-size:14px;color:#5A6B7F;line-height:1.6}
+    .post-card .meta{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+    .badge{display:inline-block;background:#e3f0f7;color:var(--primary);padding:2px 8px;border-radius:3px;font-size:11px;font-weight:600}
+    footer{background:var(--navy);color:#8899aa;padding:36px 0 24px;margin-top:40px;border-top:4px solid var(--primary);font-size:13px;text-align:center}
+    footer a{color:var(--primary)}
+  </style>
+</head>
+<body>
+
+<nav style="background:#0f172a;padding:10px 0;position:sticky;top:0;z-index:100">
+  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px">
+    <a href="/" style="color:#fff;font-size:15px;font-weight:700;text-decoration:none">World<span style="color:#60a5fa">Airport</span>DB</a>
+    <div style="display:flex;gap:16px;flex-wrap:wrap">
+      <a href="/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Home</a>
+      <a href="/countries/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Countries</a>
+      <a href="/blog/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Blog</a>
+      <a href="/download/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Database</a>
+      <a href="/tools/distance-calculator/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Distance</a>
+      <a href="/tools/iata-icao-lookup/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Lookup</a>
+      <a href="/tools/nearest-airport/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Nearest</a>
+      <a href="/tools/timezone-lookup/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Timezone</a>
+      <a href="/tools/airport-map/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Map</a>
+    </div>
+  </div>
+</nav>
+
+<div class="bc">
+  <div class="wrap">
+    <a href="/">Home</a> &rsaquo; <a href="/blog/">Blog</a> &rsaquo; <a href={`/blog/category/${category.slug}/`}>{category.name}</a> &rsaquo; {subcategory.name}
+  </div>
+</div>
+
+<div class="ah">
+  <div class="wrap">
+    <div style="font-size:36px;margin-bottom:6px">{category.icon}</div>
+    <h1>{subcategory.name}</h1>
+    <div class="sub">{category.name} &middot; {posts.length} posts</div>
+  </div>
+</div>
+
+<div class="wrap" style="margin-top:24px">
+  {posts.length === 0 ? (
+    <p style="color:#5A6B7F;padding:30px;text-align:center;background:#fff;border:1px solid var(--border);border-radius:12px">No posts in this subcategory yet. Check back soon!</p>
+  ) : (
+    posts.map(post => (
+      <article class="post-card">
+        <div class="date">{new Date(post.date).toLocaleDateString('en-US', {year:'numeric',month:'long',day:'numeric'})}</div>
+        <h2><a href={`/blog/${post.slug}/`}>{post.title}</a></h2>
+        <div class="excerpt">{post.excerpt}</div>
+        <div class="meta">
+          {post.tags.slice(0,3).map(tag => <span class="badge">#{tag}</span>)}
+        </div>
+      </article>
+    ))
+  )}
+
+  <a href={`/blog/category/${category.slug}/`} style="display:inline-block;margin:20px 0;color:var(--primary);font-weight:600;font-size:14px;text-decoration:none">&larr; Back to {category.name}</a>
+</div>
+
+<footer>
+  <div class="wrap">
+    <div><strong>World Airport Database since 2008</strong> — based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
+    <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
+    <div style="margin-top:10px"><a href="/impressum/">Impressum</a></div>
+  </div>
+</footer>
+</body>
+</html>

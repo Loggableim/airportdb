@@ -1,0 +1,186 @@
+---
+import countries from '../../_data/countries.js';
+import { getTimezoneForCountry } from '../../data/timezones.js';
+
+const countriesList = countries.map(c => ({...c, tz: getTimezoneForCountry(c.name).tz})).sort((a,b) => b.total - a.total);
+const continentNames = {NA:'North America',SA:'South America',EU:'Europe',AS:'Asia',AF:'Africa',OC:'Oceania',AN:'Antarctica'};
+const pageTitle = 'Countries - World Airport Database';
+const pageDesc = 'Browse airports by country. 247 countries with 85,545 airports and 9,056 IATA codes.';
+const pageUrl = 'https://world-airport-database.com/countries/';
+
+// Country flag lookup (used in template)
+const FLAG_MAP = {'United States':'🇺🇸','United Kingdom':'🇬🇧','Germany':'🇩🇪','France':'🇫🇷','Italy':'🇮🇹','Spain':'🇪🇸','Canada':'🇨🇦','Mexico':'🇲🇽','Brazil':'🇧🇷','Japan':'🇯🇵','China':'🇨🇳','India':'🇮🇳','Australia':'🇦🇺','Russia':'🇷🇺','Netherlands':'🇳🇱','Switzerland':'🇨🇭','Austria':'🇦🇹','Belgium':'🇧🇪','Sweden':'🇸🇪','Norway':'🇳🇴','Denmark':'🇩🇰','Finland':'🇫🇮','Poland':'🇵🇱','Greece':'🇬🇷','Portugal':'🇵🇹','Ireland':'🇮🇪','Czech Republic':'🇨🇿','Hungary':'🇭🇺','Romania':'🇷🇴','Bulgaria':'🇧🇬','Croatia':'🇭🇷','Serbia':'🇷🇸','Turkey':'🇹🇷','Ukraine':'🇺🇦','Belarus':'🇧🇾','Lithuania':'🇱🇹','Latvia':'🇱🇻','Estonia':'🇪🇪','Slovakia':'🇸🇰','Slovenia':'🇸🇮','Iceland':'🇮🇸','Luxembourg':'🇱🇺','Malta':'🇲🇹','Cyprus':'🇨🇾','Albania':'🇦🇱','Macedonia':'🇲🇰','Montenegro':'🇲🇪','Bosnia':'🇧🇦','Moldova':'🇲🇩','Georgia':'🇬🇪','Armenia':'🇦🇲','Azerbaijan':'🇦🇿','Kazakhstan':'🇰🇿','Uzbekistan':'🇺🇿','Argentina':'🇦🇷','Chile':'🇨🇱','Colombia':'🇨🇴','Peru':'🇵🇪','Venezuela':'🇻🇪','Ecuador':'🇪🇨','Bolivia':'🇧🇴','Paraguay':'🇵🇾','Uruguay':'🇺🇾','Panama':'🇵🇦','Costa Rica':'🇨🇷','Guatemala':'🇬🇹','Honduras':'🇭🇳','El Salvador':'🇸🇻','Nicaragua':'🇳🇮','Cuba':'🇨🇺','Dominican Republic':'🇩🇴','Haiti':'🇭🇹','Jamaica':'🇯🇲','Trinidad':'🇹🇹','Barbados':'🇧🇧','Bahamas':'🇧🇸','Belize':'🇧🇿','South Korea':'🇰🇷','North Korea':'🇰🇵','Taiwan':'🇹🇼','Thailand':'🇹🇭','Vietnam':'🇻🇳','Indonesia':'🇮🇩','Philippines':'🇵🇭','Malaysia':'🇲🇾','Singapore':'🇸🇬','Pakistan':'🇵🇰','Bangladesh':'🇧🇩','Sri Lanka':'🇱🇰','Nepal':'🇳🇵','Myanmar':'🇲🇲','Cambodia':'🇰🇭','Laos':'🇱🇦','Mongolia':'🇲🇳','Afghanistan':'🇦🇫','Iran':'🇮🇷','Iraq':'🇮🇶','Saudi Arabia':'🇸🇦','United Arab Emirates':'🇦🇪','Qatar':'🇶🇦','Kuwait':'🇰🇼','Bahrain':'🇧🇭','Oman':'🇴🇲','Yemen':'🇾🇪','Jordan':'🇯🇴','Lebanon':'🇱🇧','Israel':'🇮🇱','Syria':'🇸🇾','Egypt':'🇪🇬','South Africa':'🇿🇦','Kenya':'🇰🇪','Nigeria':'🇳🇬','Ethiopia':'🇪🇹','Ghana':'🇬🇭','Tanzania':'🇹🇿','Uganda':'🇺🇬','Morocco':'🇲🇦','Tunisia':'🇹🇳','Algeria':'🇩🇿','Libya':'🇱🇾','Sudan':'🇸🇩','Zimbabwe':'🇿🇼','Zambia':'🇿🇲','Botswana':'🇧🇼','Namibia':'🇳🇦','Angola':'🇦🇴','Mozambique':'🇲🇿','Madagascar':'🇲🇬','Senegal':'🇸🇳','Cameroon':'🇨🇲','Ivory Coast':'🇨🇮','Rwanda':'🇷🇼','Seychelles':'🇸🇨','Mali':'🇲🇱','New Zealand':'🇳🇿','Papua New Guinea':'🇵🇬','Fiji':'🇫🇯'};
+
+function getFlag(name) {
+  for (const k in FLAG_MAP) if (name.includes(k)) return FLAG_MAP[k];
+  return '🏳️';
+}
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc}>
+  <link rel="canonical" href={pageUrl}>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content={pageTitle}>
+  <meta property="og:description" content={pageDesc}>
+  <meta property="og:url" content={pageUrl}>
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Inter',Arial,sans-serif;background:#F4F7FA;color:#202c39;line-height:1.7}
+    :root{--primary:#2ca4dc;--navy:#0B1D3A;--border:#D4E0E8;--stripe:#F0F6FC}
+    .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
+    .ah{background:linear-gradient(135deg,var(--navy),#142b4f);padding:40px 0;border-bottom:4px solid var(--primary);color:#fff}
+    .ah h1{font-size:32px;margin-bottom:8px}
+    .ah .sub{color:#8899aa;font-size:15px}
+    .controls{background:#fff;border:1px solid var(--border);border-radius:12px;padding:18px;margin:24px 0;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+    .controls input{flex:1;min-width:240px;padding:10px 14px;border:2px solid var(--border);border-radius:8px;font-family:inherit;font-size:14px}
+    .controls input:focus{outline:none;border-color:var(--primary)}
+    .controls select{padding:10px 14px;border:2px solid var(--border);border-radius:8px;font-family:inherit;font-size:13px;background:#fff;cursor:pointer}
+    .tabs{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0 20px}
+    .tab{padding:6px 14px;background:#fff;border:1px solid var(--border);border-radius:6px;font-size:13px;cursor:pointer;font-family:inherit;transition:all .15s}
+    .tab:hover{border-color:var(--primary)}
+    .tab.active{background:var(--primary);color:#fff;border-color:var(--primary)}
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:14px}
+    .ccard{background:#fff;border:1px solid var(--border);border-radius:10px;padding:16px;text-decoration:none;color:inherit;display:block;transition:all .15s}
+    .ccard:hover{border-color:var(--primary);box-shadow:0 2px 12px rgba(44,164,220,.12);text-decoration:none}
+    .ccard .head{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+    .ccard .flag{font-size:28px}
+    .ccard .name{font-size:15px;font-weight:700;color:var(--navy)}
+    .ccard .cont{font-size:11px;color:#8899aa;text-transform:uppercase;letter-spacing:1px}
+    .ccard .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin-top:8px;padding-top:8px;border-top:1px solid var(--border)}
+    .ccard .stat{text-align:center}
+    .ccard .stat .n{font-size:16px;font-weight:800;color:var(--primary)}
+    .ccard .stat .l{font-size:9px;color:#8899aa;text-transform:uppercase;letter-spacing:.5px}
+    footer{background:var(--navy);color:#8899aa;padding:36px 0 24px;margin-top:40px;border-top:4px solid var(--primary);font-size:13px;text-align:center}
+    footer a{color:var(--primary)}
+  </style>
+</head>
+<body>
+
+<nav style="background:#0f172a;padding:10px 0;position:sticky;top:0;z-index:100">
+  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px">
+    <a href="/" style="color:#fff;font-size:15px;font-weight:700;text-decoration:none">World<span style="color:#60a5fa">Airport</span>DB</a>
+    <div style="display:flex;gap:16px;flex-wrap:wrap">
+      <a href="/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Home</a>
+      <a href="/countries/" style="color:#fff;text-decoration:none;font-size:13px;font-weight:700">Countries</a>
+      <a href="/blog/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Blog</a>
+      <a href="/download/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Database</a>
+      <a href="/tools/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Tools</a>
+    </div>
+  </div>
+</nav>
+
+<div class="ah">
+  <div class="wrap">
+    <h1>🌍 Countries</h1>
+    <div class="sub">{countriesList.length} countries with airports. Click any country to explore its airports, IATA codes, and statistics.</div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="controls">
+    <input type="text" id="search" placeholder="Search countries..." oninput="filterCountries()">
+    <select id="cont" onchange="filterCountries()">
+      <option value="">All Continents</option>
+      <option value="NA">North America</option>
+      <option value="SA">South America</option>
+      <option value="EU">Europe</option>
+      <option value="AS">Asia</option>
+      <option value="AF">Africa</option>
+      <option value="OC">Oceania</option>
+      <option value="AN">Antarctica</option>
+    </select>
+    <select id="sort" onchange="filterCountries()">
+      <option value="count">Sort by Airports</option>
+      <option value="name">Sort by Name</option>
+      <option value="iata">Sort by IATA Codes</option>
+    </select>
+  </div>
+
+  <div class="tabs">
+    <button class="tab active" onclick="setContFilter('', this)">All ({countriesList.length})</button>
+    <button class="tab" onclick="setContFilter('EU', this)">Europe ({countriesList.filter(c=>c.continent==='EU').length})</button>
+    <button class="tab" onclick="setContFilter('NA', this)">N. America ({countriesList.filter(c=>c.continent==='NA').length})</button>
+    <button class="tab" onclick="setContFilter('AS', this)">Asia ({countriesList.filter(c=>c.continent==='AS').length})</button>
+    <button class="tab" onclick="setContFilter('SA', this)">S. America ({countriesList.filter(c=>c.continent==='SA').length})</button>
+    <button class="tab" onclick="setContFilter('AF', this)">Africa ({countriesList.filter(c=>c.continent==='AF').length})</button>
+    <button class="tab" onclick="setContFilter('OC', this)">Oceania ({countriesList.filter(c=>c.continent==='OC').length})</button>
+  </div>
+
+  <div class="grid" id="grid">
+    {countriesList.map(c => (
+      <a href={`/countries/${c.slug}/`} class="ccard" data-name={c.name.toLowerCase()} data-cont={c.continent} data-count={c.total} data-iata={c.iata}>
+        <div class="head">
+          <div class="flag">{getFlag(c.iso || c.name)}</div>
+          <div>
+            <div class="name">{c.name}</div>
+            <div class="cont">{continentNames[c.continent] || c.continent}</div>
+          </div>
+        </div>
+        <div class="stats">
+          <div class="stat"><div class="n">{c.total}</div><div class="l">Total</div></div>
+          <div class="stat"><div class="n">{c.iata}</div><div class="l">IATA</div></div>
+          <div class="stat"><div class="n">{c.large}</div><div class="l">Large</div></div>
+        </div>
+      </a>
+    ))}
+  </div>
+</div>
+
+<footer>
+  <div class="wrap">
+    <div><strong>World Airport Database since 2008</strong> — based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
+    <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
+    <div style="margin-top:10px"><a href="/impressum/">Impressum</a></div>
+  </div>
+</footer>
+
+<script>
+function getFlag(name) {
+  // Simple flag mapping by country name patterns
+  const map = {
+    'United States':'🇺🇸','United Kingdom':'🇬🇧','Germany':'🇩🇪','France':'🇫🇷','Italy':'🇮🇹','Spain':'🇪🇸','Canada':'🇨🇦','Mexico':'🇲🇽','Brazil':'🇧🇷','Japan':'🇯🇵','China':'🇨🇳','India':'🇮🇳','Australia':'🇦🇺','Russia':'🇷🇺','Netherlands':'🇳🇱','Switzerland':'🇨🇭','Austria':'🇦🇹','Belgium':'🇧🇪','Sweden':'🇸🇪','Norway':'🇳🇴','Denmark':'🇩🇰','Finland':'🇫🇮','Poland':'🇵🇱','Greece':'🇬🇷','Portugal':'🇵🇹','Ireland':'🇮🇪','Czech Republic':'🇨🇿','Hungary':'🇭🇺','Romania':'🇷🇴','Bulgaria':'🇧🇬','Croatia':'🇭🇷','Serbia':'🇷🇸','Turkey':'🇹🇷','Ukraine':'🇺🇦','Belarus':'🇧🇾','Lithuania':'🇱🇹','Latvia':'🇱🇻','Estonia':'🇪🇪','Slovakia':'🇸🇰','Slovenia':'🇸🇮','Iceland':'🇮🇸','Luxembourg':'🇱🇺','Malta':'🇲🇹','Cyprus':'🇨🇾','Albania':'🇦🇱','Macedonia':'🇲🇰','Montenegro':'🇲🇪','Bosnia':'🇧🇦','Moldova':'🇲🇩','Georgia':'🇬🇪','Armenia':'🇦🇲','Azerbaijan':'🇦🇿','Kazakhstan':'🇰🇿','Uzbekistan':'🇺🇿','Argentina':'🇦🇷','Chile':'🇨🇱','Colombia':'🇨🇴','Peru':'🇵🇪','Venezuela':'🇻🇪','Ecuador':'🇪🇨','Bolivia':'🇧🇴','Paraguay':'🇵🇾','Uruguay':'🇺🇾','Panama':'🇵🇦','Costa Rica':'🇨🇷','Guatemala':'🇬🇹','Honduras':'🇭🇳','El Salvador':'🇸🇻','Nicaragua':'🇳🇮','Cuba':'🇨🇺','Dominican Republic':'🇩🇴','Haiti':'🇭🇹','Jamaica':'🇯🇲','Trinidad':'🇹🇹','Barbados':'🇧🇧','Bahamas':'🇧🇸','Belize':'🇧🇿','South Korea':'🇰🇷','North Korea':'🇰🇵','Taiwan':'🇹🇼','Thailand':'🇹🇭','Vietnam':'🇻🇳','Indonesia':'🇮🇩','Philippines':'🇵🇭','Malaysia':'🇲🇾','Singapore':'🇸🇬','Pakistan':'🇵🇰','Bangladesh':'🇧🇩','Sri Lanka':'🇱🇰','Nepal':'🇳🇵','Myanmar':'🇲🇲','Cambodia':'🇰🇭','Laos':'🇱🇦','Mongolia':'🇲🇳','Afghanistan':'🇦🇫','Iran':'🇮🇷','Iraq':'🇮🇶','Saudi Arabia':'🇸🇦','United Arab Emirates':'🇦🇪','Qatar':'🇶🇦','Kuwait':'🇰🇼','Bahrain':'🇧🇭','Oman':'🇴🇲','Yemen':'🇾🇪','Jordan':'🇯🇴','Lebanon':'🇱🇧','Israel':'🇮🇱','Syria':'🇸🇾','Egypt':'🇪🇬','South Africa':'🇿🇦','Kenya':'🇰🇪','Nigeria':'🇳🇬','Ethiopia':'🇪🇹','Ghana':'🇬🇭','Tanzania':'🇹🇿','Uganda':'🇺🇬','Morocco':'🇲🇦','Tunisia':'🇹🇳','Algeria':'🇩🇿','Libya':'🇱🇾','Sudan':'🇸🇩','Zimbabwe':'🇿🇼','Zambia':'🇿🇲','Botswana':'🇧🇼','Namibia':'🇳🇦','Angola':'🇦🇴','Mozambique':'🇲🇿','Madagascar':'🇲🇬','Senegal':'🇸🇳','Cameroon':'🇨🇲','Ivory Coast':'🇨🇮','Rwanda':'🇷🇼','Seychelles':'🇸🇨','Mali':'🇲🇱','New Zealand':'🇳🇿','Papua New Guinea':'🇵🇬','Fiji':'🇫🇯'
+  };
+  for (const k in map) if (name.includes(k)) return map[k];
+  return '🏳️';
+}
+
+function filterCountries() {
+  const q = document.getElementById('search').value.toLowerCase();
+  const cont = document.getElementById('cont').value;
+  const sort = document.getElementById('sort').value;
+  const cards = Array.from(document.querySelectorAll('.ccard'));
+  cards.forEach(c => {
+    const name = c.dataset.name;
+    const c2 = c.dataset.cont;
+    const matchQ = !q || name.includes(q);
+    const matchC = !cont || c2 === cont;
+    c.style.display = (matchQ && matchC) ? '' : 'none';
+  });
+  // Sort
+  const grid = document.getElementById('grid');
+  const visible = cards.filter(c => c.style.display !== 'none');
+  visible.sort((a,b) => {
+    if (sort === 'name') return a.dataset.name.localeCompare(b.dataset.name);
+    if (sort === 'iata') return parseInt(b.dataset.iata) - parseInt(a.dataset.iata);
+    return parseInt(b.dataset.count) - parseInt(a.dataset.count);
+  });
+  visible.forEach(c => grid.appendChild(c));
+}
+
+function setContFilter(cont, el) {
+  document.getElementById('cont').value = cont;
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  el.classList.add('active');
+  filterCountries();
+}
+</script>
+</body>
+</html>

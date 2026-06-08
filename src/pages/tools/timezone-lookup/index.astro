@@ -1,0 +1,1083 @@
+---
+const pageTitle = 'Timezone Lookup — World Airport Database';
+const pageDesc = 'Look up the current local time, timezone, UTC offset, and DST status for any airport worldwide. Compare times across two airports.';
+const pageUrl = 'https://world-airport-database.com/tools/timezone-lookup/';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc}>
+  <link rel="canonical" href={pageUrl}>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content={pageTitle}>
+  <meta property="og:description" content={pageDesc}>
+  <meta property="og:url" content={pageUrl}>
+  <meta property="og:site_name" content="World Airport Database">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Inter',Arial,sans-serif;background:#F4F7FA;color:#202c39;line-height:1.6}
+    :root{--primary:#2ca4dc;--navy:#0B1D3A;--border:#D4E0E8;--stripe:#F0F6FC}
+    .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
+    .ah{background:linear-gradient(135deg,var(--navy),#142b4f);padding:36px 0;border-bottom:4px solid var(--primary)}
+    .ah h1{color:#fff;font-size:28px;margin-bottom:6px}
+    .ah .sub{color:#8899aa;font-size:14px}
+    .card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:24px;margin:20px 0;box-shadow:0 2px 8px rgba(0,0,0,.04)}
+    .card h3{font-size:16px;color:var(--navy);margin-bottom:16px;display:flex;align-items:center;gap:8px}
+    .card h4{font-size:14px;color:var(--navy);margin-bottom:10px;display:flex;align-items:center;gap:6px}
+    .input-row{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px}
+    @media(max-width:700px){.input-row{grid-template-columns:1fr}}
+    label{display:block;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:var(--navy);margin-bottom:6px}
+    select{width:100%;padding:12px 14px;font-size:14px;border:2px solid var(--border);border-radius:8px;font-family:inherit;background:#fff;cursor:pointer;transition:border-color .15s}
+    select:focus{border-color:var(--primary);outline:none}
+    .search-wrap{position:relative;margin-bottom:10px}
+    .search-wrap input{width:100%;padding:12px 14px;font-size:14px;border:2px solid var(--border);border-radius:8px;font-family:inherit;background:#fff;transition:border-color .15s}
+    .search-wrap input:focus{border-color:var(--primary);outline:none}
+    .search-wrap input::placeholder{color:#999}
+    .dropdown{position:absolute;top:100%;left:0;right:0;background:#fff;border:2px solid var(--border);border-top:none;border-radius:0 0 8px 8px;max-height:320px;overflow-y:auto;z-index:50;display:none;box-shadow:0 8px 24px rgba(0,0,0,.12)}
+    .dropdown.show{display:block}
+    .dropdown-item{padding:10px 14px;cursor:pointer;font-size:13px;border-bottom:1px solid #f0f0f0;display:flex;align-items:center;gap:10px}
+    .dropdown-item:hover,.dropdown-item.highlight{background:var(--stripe)}
+    .dropdown-item .iata{display:inline-block;background:var(--primary);color:#fff;padding:2px 8px;border-radius:4px;font-size:11px;font-weight:700;white-space:nowrap;flex-shrink:0}
+    .dropdown-item .info{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+    .dropdown-item .city{color:#889;font-size:12px}
+    .no-results{padding:20px;text-align:center;color:#889;font-size:13px}
+    .filters{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px}
+    .filters select{padding:8px 12px;font-size:13px;border:2px solid var(--border);border-radius:8px;font-family:inherit;background:#fff;cursor:pointer;min-width:140px}
+    .filters select:focus{border-color:var(--primary);outline:none}
+    .tz-display{display:none;margin-top:8px}
+    .tz-display.show{display:block}
+    .tz-main{display:flex;align-items:center;gap:20px;padding:16px 20px;background:linear-gradient(135deg,#f0f9ff,#e0f2fe);border:1px solid #bae6fd;border-radius:10px;margin-bottom:14px;flex-wrap:wrap}
+    .tz-main .time{font-size:36px;font-weight:800;color:var(--navy);font-variant-numeric:tabular-nums}
+    .tz-main .date{font-size:14px;color:#5A6B7F;margin-top:2px}
+    .tz-main .badge-group{display:flex;gap:8px;flex-wrap:wrap;margin-left:auto}
+    .tz-main .badge{padding:4px 12px;border-radius:6px;font-size:12px;font-weight:600}
+    .tz-main .badge.offset{background:var(--navy);color:#fff}
+    .tz-main .badge.tz-name{background:#e0e7ff;color:#3730a3}
+    .tz-main .badge.dst{background:#fef3c7;color:#92400e}
+    .tz-main .badge.dst.active{background:#d1fae5;color:#065f46}
+    .tz-main .airport-name{font-size:14px;font-weight:600;color:var(--navy)}
+    .tz-main .airport-loc{font-size:12px;color:#5A6B7F}
+    .ref-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:12px 0 16px}
+    .ref-card{background:var(--stripe);border:1px solid var(--border);border-radius:8px;padding:14px;text-align:center}
+    .ref-card .label{font-size:11px;color:#5A6B7F;text-transform:uppercase;letter-spacing:.5px;margin-bottom:4px}
+    .ref-card .time{font-size:18px;font-weight:700;color:var(--navy);font-variant-numeric:tabular-nums}
+    .ref-card .offset{font-size:11px;color:#889;margin-top:2px}
+    .compare-grid{display:grid;grid-template-columns:1fr auto 1fr;gap:12px;align-items:start;margin:16px 0}
+    @media(max-width:700px){.compare-grid{grid-template-columns:1fr;gap:16px}}
+    .compare-side{padding:16px;border-radius:10px;border:1px solid var(--border);position:relative}
+    .compare-side .vs-label{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:#889;margin-bottom:6px}
+    .compare-side .big-time{font-size:30px;font-weight:800;color:var(--navy);font-variant-numeric:tabular-nums}
+    .compare-side .info-line{font-size:12px;color:#5A6B7F;margin-top:4px}
+    .compare-vs{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px 0}
+    .compare-vs .diff{font-size:20px;font-weight:800;color:var(--primary);background:#e0f2fe;padding:8px 16px;border-radius:8px}
+    .compare-vs .diff-label{font-size:11px;color:#889;text-transform:uppercase;letter-spacing:.5px;margin-top:4px}
+    .loading{text-align:center;padding:30px;color:#5A6B7F;font-size:14px}
+    .error-msg{padding:16px;background:#fff0f0;border:1px solid #e66;border-radius:8px;color:#c33;font-size:13px;margin:10px 0;display:none}
+    .compare-btn{display:block;width:100%;padding:14px;background:var(--primary);color:#fff;font-size:15px;font-weight:700;border:none;border-radius:8px;cursor:pointer;font-family:inherit;transition:background .15s;margin-top:12px}
+    .compare-btn:hover{background:#2390c2}
+    .compare-btn:disabled{background:#b0c4d8;cursor:not-allowed}
+    .switch-btn{display:inline-flex;align-items:center;justify-content:center;width:36px;height:36px;border-radius:50%;border:2px solid var(--primary);background:#fff;color:var(--primary);font-size:16px;cursor:pointer;transition:all .15s}
+    .switch-btn:hover{background:var(--primary);color:#fff}
+    .clear-btn{background:none;border:none;color:var(--primary);cursor:pointer;font-size:12px;font-family:inherit;padding:4px 8px;border-radius:4px}
+    .clear-btn:hover{background:var(--stripe)}
+    footer{background:var(--navy);color:#8899aa;padding:36px 0 24px;margin-top:40px;border-top:4px solid var(--primary);font-size:13px;text-align:center}
+    footer a{color:var(--primary)}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+    .pulse{animation:pulse 1.5s ease-in-out infinite}
+  </style>
+</head>
+<body>
+
+<!-- STICKY NAV -->
+<nav style="background:#0f172a;padding:10px 0;position:sticky;top:0;z-index:100">
+  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px">
+    <a href="/" style="color:#fff;font-size:15px;font-weight:700;text-decoration:none">World<span style="color:#60a5fa">Airport</span>DB</a>
+    <div style="display:flex;gap:16px;flex-wrap:wrap">
+      <a href="/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Home</a>
+      <a href="/countries/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Countries</a>
+      <a href="/blog/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Blog</a>
+      <a href="/download/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Database</a>
+      <a href="/tools/iata-icao-lookup/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Lookup</a>
+      <a href="/tools/distance-calculator/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Distance</a>
+      <a href="/tools/nearest-airport/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Nearest</a>
+      <a href="/tools/timezone-lookup/" style="color:#60a5fa;text-decoration:none;font-size:13px;font-weight:600">Timezone</a>
+      <a href="/tools/airport-map/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Map</a>
+    </div>
+  </div>
+</nav>
+
+<!-- HEADER -->
+<div class="ah">
+  <div class="wrap">
+    <h1>🕐 Timezone Lookup</h1>
+    <div class="sub">Find the current local time, UTC offset, IANA timezone, and DST status for any airport worldwide. Compare times across airports.</div>
+  </div>
+</div>
+
+<div class="wrap">
+
+  <!-- SINGLE LOOKUP -->
+  <div class="card">
+    <h3>🔍 Single Airport Lookup</h3>
+    <label>Search Airport (IATA / ICAO / Name / City)</label>
+    <div class="search-wrap">
+      <input type="text" id="tz-search" placeholder="e.g. LHR, JFK, Heathrow, London, FRA..." autocomplete="off">
+      <div class="dropdown" id="tz-dropdown"></div>
+    </div>
+    <div class="filters">
+      <select id="filter-continent" onchange="applyFilters()">
+        <option value="">All Continents</option>
+        <option value="NA">North America</option>
+        <option value="EU">Europe</option>
+        <option value="AS">Asia</option>
+        <option value="SA">South America</option>
+        <option value="AF">Africa</option>
+        <option value="OC">Oceania</option>
+        <option value="AN">Antarctica</option>
+      </select>
+      <select id="filter-type" onchange="applyFilters()">
+        <option value="">All Types</option>
+        <option value="large_airport">Large Airport</option>
+        <option value="medium_airport">Medium Airport</option>
+        <option value="small_airport">Small Airport</option>
+        <option value="heliport">Heliport</option>
+        <option value="seaplane_base">Seaplane Base</option>
+        <option value="closed">Closed</option>
+      </select>
+      <button class="clear-btn" onclick="clearSingleLookup()">✕ Clear</button>
+    </div>
+    <div id="tz-error" class="error-msg"></div>
+    <div id="tz-display" class="tz-display">
+      <div class="tz-main">
+        <div>
+          <div class="airport-name" id="tz-airport-name"></div>
+          <div class="airport-loc" id="tz-airport-loc"></div>
+          <div class="date" id="tz-date"></div>
+          <div class="time" id="tz-time">--:--:--</div>
+        </div>
+        <div class="badge-group">
+          <span class="badge offset" id="tz-offset">UTC±00:00</span>
+          <span class="badge tz-name" id="tz-iana">Timezone</span>
+          <span class="badge dst" id="tz-dst">DST: --</span>
+        </div>
+      </div>
+      <h4>🌍 Reference Timezones</h4>
+      <div class="ref-grid" id="ref-clocks">
+        <div class="ref-card"><div class="label">UTC</div><div class="time" id="ref-utc">--:--:--</div><div class="offset">Coordinated Universal Time</div></div>
+        <div class="ref-card"><div class="label">New York</div><div class="time" id="ref-ny">--:--:--</div><div class="offset" id="ref-ny-off"></div></div>
+        <div class="ref-card"><div class="label">London</div><div class="time" id="ref-lon">--:--:--</div><div class="offset" id="ref-lon-off"></div></div>
+        <div class="ref-card"><div class="label">Berlin</div><div class="time" id="ref-ber">--:--:--</div><div class="offset" id="ref-ber-off"></div></div>
+        <div class="ref-card"><div class="label">Tokyo</div><div class="time" id="ref-tky">--:--:--</div><div class="offset" id="ref-tky-off"></div></div>
+        <div class="ref-card"><div class="label">Sydney</div><div class="time" id="ref-syd">--:--:--</div><div class="offset" id="ref-syd-off"></div></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- COMPARATOR -->
+  <div class="card">
+    <h3>⚖️ Timezone Comparator</h3>
+    <p style="font-size:13px;color:#5A6B7F;margin-bottom:14px">Select two airports to compare their local times side by side.</p>
+    <div class="input-row">
+      <div>
+        <label>Airport A</label>
+        <div class="search-wrap">
+          <input type="text" id="comp-search-a" placeholder="Search airport..." autocomplete="off">
+          <div class="dropdown" id="comp-dropdown-a"></div>
+        </div>
+        <div style="font-size:12px;color:#5A6B7F;margin-top:4px;min-height:18px" id="comp-selected-a"></div>
+      </div>
+      <div>
+        <label>Airport B</label>
+        <div class="search-wrap">
+          <input type="text" id="comp-search-b" placeholder="Search airport..." autocomplete="off">
+          <div class="dropdown" id="comp-dropdown-b"></div>
+        </div>
+        <div style="font-size:12px;color:#5A6B7F;margin-top:4px;min-height:18px" id="comp-selected-b"></div>
+      </div>
+    </div>
+    <div style="display:flex;justify-content:center;gap:10px;margin:-4px 0 4px">
+      <button class="switch-btn" onclick="swapComparator()" title="Swap airports">⇅</button>
+    </div>
+    <div id="comp-error" class="error-msg"></div>
+    <button class="compare-btn" id="compare-btn" onclick="runComparator()">Compare Times</button>
+    <div id="comp-results" class="tz-display" style="margin-top:16px">
+      <div class="compare-grid">
+        <div class="compare-side" id="comp-side-a" style="border-left:4px solid var(--primary)">
+          <div class="vs-label">Airport A</div>
+          <div class="big-time" id="comp-time-a">--:--:--</div>
+          <div class="info-line" id="comp-info-a"></div>
+        </div>
+        <div class="compare-vs">
+          <div class="diff" id="comp-diff">0h 0m</div>
+          <div class="diff-label">Time Difference</div>
+        </div>
+        <div class="compare-side" id="comp-side-b" style="border-left:4px solid #F4A261">
+          <div class="vs-label">Airport B</div>
+          <div class="big-time" id="comp-time-b">--:--:--</div>
+          <div class="info-line" id="comp-info-b"></div>
+        </div>
+      </div>
+      <h4>🌍 Reference Timezones</h4>
+      <div class="ref-grid" id="ref-clocks-comp">
+        <div class="ref-card"><div class="label">UTC</div><div class="time" id="ref-comp-utc">--:--:--</div><div class="offset">Coordinated Universal Time</div></div>
+        <div class="ref-card"><div class="label">New York</div><div class="time" id="ref-comp-ny">--:--:--</div><div class="offset" id="ref-comp-ny-off"></div></div>
+        <div class="ref-card"><div class="label">London</div><div class="time" id="ref-comp-lon">--:--:--</div><div class="offset" id="ref-comp-lon-off"></div></div>
+        <div class="ref-card"><div class="label">Berlin</div><div class="time" id="ref-comp-ber">--:--:--</div><div class="offset" id="ref-comp-ber-off"></div></div>
+        <div class="ref-card"><div class="label">Tokyo</div><div class="time" id="ref-comp-tky">--:--:--</div><div class="offset" id="ref-comp-tky-off"></div></div>
+        <div class="ref-card"><div class="label">Sydney</div><div class="time" id="ref-comp-syd">--:--:--</div><div class="offset" id="ref-comp-syd-off"></div></div>
+      </div>
+    </div>
+  </div>
+
+  <a href="/" style="display:inline-block;margin:20px 0;color:var(--primary);font-weight:600;font-size:14px;text-decoration:none">&larr; Back to World Airport Database</a>
+</div>
+
+<footer>
+  <div class="wrap">
+    <div><strong>World Airport Database since 2008</strong> — based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
+    <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
+    <div style="margin-top:10px"><a href="/impressum/">Impressum</a></div>
+  </div>
+</footer>
+
+<script>
+// ─── Data ───────────────────────────────────────────────────────────────────
+let ALL_AIRPORTS = [];
+let TZ_CACHE = new Map();
+
+// ─── Country → IANA Timezone Map (fallback) ─────────────────────────────────
+const COUNTRY_TZ = {
+  'United States': [
+    { zone: 'America/New_York',     lonMin: -180, lonMax: -78 },
+    { zone: 'America/Chicago',      lonMin: -78,  lonMax: -93 },
+    { zone: 'America/Denver',       lonMin: -93,  lonMax: -104 },
+    { zone: 'America/Los_Angeles',  lonMin: -104, lonMax: -121 },
+    { zone: 'America/Anchorage',    lonMin: -121, lonMax: -140 },
+    { zone: 'Pacific/Honolulu',     lonMin: -140, lonMax: -180 },
+  ],
+  'Canada': [
+    { zone: 'America/St_Johns',      lonMin: -50,  lonMax: -57 },
+    { zone: 'America/Halifax',       lonMin: -57,  lonMax: -67 },
+    { zone: 'America/Toronto',       lonMin: -67,  lonMax: -82 },
+    { zone: 'America/Winnipeg',      lonMin: -82,  lonMax: -92 },
+    { zone: 'America/Regina',        lonMin: -92,  lonMax: -105 },
+    { zone: 'America/Edmonton',      lonMin: -105, lonMax: -115 },
+    { zone: 'America/Vancouver',     lonMin: -115, lonMax: -130 },
+    { zone: 'America/Whitehorse',    lonMin: -130, lonMax: -140 },
+    { zone: 'America/Dawson_Creek',  lonMin: -140, lonMax: -180 },
+  ],
+  'Russia': [
+    { zone: 'Europe/Kaliningrad',    lonMin: 19,  lonMax: 25 },
+    { zone: 'Europe/Moscow',         lonMin: 25,  lonMax: 42 },
+    { zone: 'Europe/Samara',         lonMin: 42,  lonMax: 58 },
+    { zone: 'Asia/Yekaterinburg',    lonMin: 58,  lonMax: 73 },
+    { zone: 'Asia/Omsk',             lonMin: 73,  lonMax: 80 },
+    { zone: 'Asia/Krasnoyarsk',      lonMin: 80,  lonMax: 98 },
+    { zone: 'Asia/Irkutsk',          lonMin: 98,  lonMax: 113 },
+    { zone: 'Asia/Yakutsk',          lonMin: 113, lonMax: 130 },
+    { zone: 'Asia/Vladivostok',      lonMin: 130, lonMax: 143 },
+    { zone: 'Asia/Magadan',          lonMin: 143, lonMax: 160 },
+    { zone: 'Asia/Kamchatka',        lonMin: 160, lonMax: 180 },
+  ],
+  'Australia': [
+    { zone: 'Australia/Perth',       lonMin: 112, lonMax: 130 },
+    { zone: 'Australia/Eucla',       lonMin: 125, lonMax: 130 },
+    { zone: 'Australia/Darwin',      lonMin: 128, lonMax: 140 },
+    { zone: 'Australia/Brisbane',    lonMin: 138, lonMax: 155 },
+    { zone: 'Australia/Adelaide',    lonMin: 128, lonMax: 141, latMin: -40, latMax: -25 },
+    { zone: 'Australia/Sydney',      lonMin: 141, lonMax: 155, latMin: -40, latMax: -25 },
+    { zone: 'Australia/Hobart',      lonMin: 143, lonMax: 150, latMin: -45, latMax: -40 },
+    { zone: 'Australia/Lord_Howe',   lonMin: 159, lonMax: 160 },
+  ],
+  'Brazil': [
+    { zone: 'America/Manaus',        lonMin: -73, lonMax: -57 },
+    { zone: 'America/Belem',         lonMin: -57, lonMax: -47 },
+    { zone: 'America/Fortaleza',     lonMin: -47, lonMax: -35 },
+    { zone: 'America/Sao_Paulo',     lonMin: -53, lonMax: -35, latMin: -35, latMax: -15 },
+    { zone: 'America/Noronha',       lonMin: -35, lonMax: -30 },
+  ],
+  'Mexico': [
+    { zone: 'America/Tijuana',       lonMin: -120, lonMax: -112 },
+    { zone: 'America/Hermosillo',    lonMin: -112, lonMax: -108 },
+    { zone: 'America/Chihuahua',     lonMin: -108, lonMax: -102 },
+    { zone: 'America/Mexico_City',   lonMin: -102, lonMax: -92 },
+    { zone: 'America/Cancun',        lonMin: -92,  lonMax: -85 },
+  ],
+  'Indonesia': [
+    { zone: 'Asia/Jakarta',          lonMin: 95,  lonMax: 110, latMin: -10, latMax: 6 },
+    { zone: 'Asia/Pontianak',        lonMin: 108, lonMax: 115 },
+    { zone: 'Asia/Makassar',         lonMin: 115, lonMax: 125, latMin: -10, latMax: 0 },
+    { zone: 'Asia/Jayapura',         lonMin: 125, lonMax: 145 },
+  ],
+  'China':                     { zone: 'Asia/Shanghai' },
+  'India':                     { zone: 'Asia/Kolkata' },
+  'Japan':                     { zone: 'Asia/Tokyo' },
+  'South Korea':               { zone: 'Asia/Seoul' },
+  'United Kingdom':            { zone: 'Europe/London' },
+  'Germany':                   { zone: 'Europe/Berlin' },
+  'France':                    { zone: 'Europe/Paris' },
+  'Italy':                     { zone: 'Europe/Rome' },
+  'Spain':                     { zone: 'Europe/Madrid' },
+  'Netherlands':               { zone: 'Europe/Amsterdam' },
+  'Switzerland':               { zone: 'Europe/Zurich' },
+  'Sweden':                    { zone: 'Europe/Stockholm' },
+  'Norway':                    { zone: 'Europe/Oslo' },
+  'Denmark':                   { zone: 'Europe/Copenhagen' },
+  'Finland':                   { zone: 'Europe/Helsinki' },
+  'Poland':                    { zone: 'Europe/Warsaw' },
+  'Austria':                   { zone: 'Europe/Vienna' },
+  'Belgium':                   { zone: 'Europe/Brussels' },
+  'Ireland':                   { zone: 'Europe/Dublin' },
+  'Portugal':                  { zone: 'Europe/Lisbon' },
+  'Greece':                    { zone: 'Europe/Athens' },
+  'Czech Republic':            { zone: 'Europe/Prague' },
+  'Hungary':                   { zone: 'Europe/Budapest' },
+  'Romania':                   { zone: 'Europe/Bucharest' },
+  'Ukraine':                   { zone: 'Europe/Kyiv' },
+  'Turkey':                    { zone: 'Europe/Istanbul' },
+  'South Africa':              { zone: 'Africa/Johannesburg' },
+  'Egypt':                     { zone: 'Africa/Cairo' },
+  'Nigeria':                   { zone: 'Africa/Lagos' },
+  'Kenya':                     { zone: 'Africa/Nairobi' },
+  'Morocco':                   { zone: 'Africa/Casablanca' },
+  'Tunisia':                   { zone: 'Africa/Tunis' },
+  'Algeria':                   { zone: 'Africa/Algiers' },
+  'Ethiopia':                  { zone: 'Africa/Addis_Ababa' },
+  'Tanzania':                  { zone: 'Africa/Dar_es_Salaam' },
+  'Ghana':                     { zone: 'Africa/Accra' },
+  'Thailand':                  { zone: 'Asia/Bangkok' },
+  'Vietnam':                   { zone: 'Asia/Ho_Chi_Minh' },
+  'Philippines':               { zone: 'Asia/Manila' },
+  'Malaysia':                  { zone: 'Asia/Kuala_Lumpur' },
+  'Singapore':                 { zone: 'Asia/Singapore' },
+  'Hong Kong':                 { zone: 'Asia/Hong_Kong' },
+  'Taiwan':                    { zone: 'Asia/Taipei' },
+  'Pakistan':                  { zone: 'Asia/Karachi' },
+  'Bangladesh':                { zone: 'Asia/Dhaka' },
+  'Sri Lanka':                 { zone: 'Asia/Colombo' },
+  'Nepal':                     { zone: 'Asia/Kathmandu' },
+  'Afghanistan':               { zone: 'Asia/Kabul' },
+  'Iran':                      { zone: 'Asia/Tehran' },
+  'Iraq':                      { zone: 'Asia/Baghdad' },
+  'Saudi Arabia':              { zone: 'Asia/Riyadh' },
+  'United Arab Emirates':      { zone: 'Asia/Dubai' },
+  'Qatar':                     { zone: 'Asia/Qatar' },
+  'Kuwait':                    { zone: 'Asia/Kuwait' },
+  'Oman':                      { zone: 'Asia/Muscat' },
+  'Bahrain':                   { zone: 'Asia/Bahrain' },
+  'Jordan':                    { zone: 'Asia/Amman' },
+  'Lebanon':                   { zone: 'Asia/Beirut' },
+  'Israel':                    { zone: 'Asia/Jerusalem' },
+  'Palestinian Territory':     { zone: 'Asia/Hebron' },
+  'Syria':                     { zone: 'Asia/Damascus' },
+  'Yemen':                     { zone: 'Asia/Aden' },
+  'Mongolia':                  { zone: 'Asia/Ulaanbaatar' },
+  'Myanmar':                   { zone: 'Asia/Yangon' },
+  'Cambodia':                  { zone: 'Asia/Phnom_Penh' },
+  'Laos':                      { zone: 'Asia/Vientiane' },
+  'New Zealand':               { zone: 'Pacific/Auckland' },
+  'Fiji':                      { zone: 'Pacific/Fiji' },
+  'Papua New Guinea':          { zone: 'Pacific/Port_Moresby' },
+  'Solomon Islands':           { zone: 'Pacific/Guadalcanal' },
+  'Samoa':                     { zone: 'Pacific/Apia' },
+  'Vanuatu':                   { zone: 'Pacific/Efate' },
+  'Argentina':                 { zone: 'America/Argentina/Buenos_Aires' },
+  'Chile':                     { zone: 'America/Santiago' },
+  'Colombia':                  { zone: 'America/Bogota' },
+  'Peru':                      { zone: 'America/Lima' },
+  'Venezuela':                 { zone: 'America/Caracas' },
+  'Ecuador':                   { zone: 'America/Guayaquil' },
+  'Uruguay':                   { zone: 'America/Montevideo' },
+  'Paraguay':                  { zone: 'America/Asuncion' },
+  'Bolivia':                   { zone: 'America/La_Paz' },
+  'Guyana':                    { zone: 'America/Guyana' },
+  'Suriname':                  { zone: 'America/Paramaribo' },
+  'Panama':                    { zone: 'America/Panama' },
+  'Costa Rica':                { zone: 'America/Costa_Rica' },
+  'Nicaragua':                 { zone: 'America/Managua' },
+  'Honduras':                  { zone: 'America/Tegucigalpa' },
+  'El Salvador':               { zone: 'America/El_Salvador' },
+  'Guatemala':                 { zone: 'America/Guatemala' },
+  'Belize':                    { zone: 'America/Belize' },
+  'Cuba':                      { zone: 'America/Havana' },
+  'Jamaica':                   { zone: 'America/Jamaica' },
+  'Dominican Republic':        { zone: 'America/Santo_Domingo' },
+  'Puerto Rico':               { zone: 'America/Puerto_Rico' },
+  'Bahamas':                   { zone: 'America/Nassau' },
+  'Barbados':                  { zone: 'America/Barbados' },
+  'Trinidad and Tobago':       { zone: 'America/Port_of_Spain' },
+  'Greenland':                 { zone: 'America/Nuuk' },
+  'Iceland':                   { zone: 'Atlantic/Reykjavik' },
+  'Croatia':                   { zone: 'Europe/Zagreb' },
+  'Serbia':                    { zone: 'Europe/Belgrade' },
+  'Bulgaria':                  { zone: 'Europe/Sofia' },
+  'Slovakia':                  { zone: 'Europe/Bratislava' },
+  'Slovenia':                  { zone: 'Europe/Ljubljana' },
+  'Lithuania':                 { zone: 'Europe/Vilnius' },
+  'Latvia':                    { zone: 'Europe/Riga' },
+  'Estonia':                   { zone: 'Europe/Tallinn' },
+  'Georgia':                   { zone: 'Asia/Tbilisi' },
+  'Armenia':                   { zone: 'Asia/Yerevan' },
+  'Azerbaijan':                { zone: 'Asia/Baku' },
+  'Kazakhstan':                { zone: 'Asia/Almaty' },
+  'Uzbekistan':                { zone: 'Asia/Tashkent' },
+  'Turkmenistan':              { zone: 'Asia/Ashgabat' },
+  'Kyrgyzstan':                { zone: 'Asia/Bishkek' },
+  'Tajikistan':                { zone: 'Asia/Dushanbe' },
+  'Maldives':                  { zone: 'Indian/Maldives' },
+  'Mauritius':                 { zone: 'Indian/Mauritius' },
+  'Seychelles':                { zone: 'Indian/Mahe' },
+  'Mozambique':                { zone: 'Africa/Maputo' },
+  'Angola':                    { zone: 'Africa/Luanda' },
+  'Namibia':                   { zone: 'Africa/Windhoek' },
+  'Botswana':                  { zone: 'Africa/Gaborone' },
+  'Zambia':                    { zone: 'Africa/Lusaka' },
+  'Zimbabwe':                  { zone: 'Africa/Harare' },
+  'Malawi':                    { zone: 'Africa/Blantyre' },
+  'Uganda':                    { zone: 'Africa/Kampala' },
+  'Rwanda':                    { zone: 'Africa/Kigali' },
+  'Sudan':                     { zone: 'Africa/Khartoum' },
+  'Libya':                     { zone: 'Africa/Tripoli' },
+  'Democratic Republic of the Congo':  { zone: 'Africa/Kinshasa' },
+  'Côte d\'Ivoire':           { zone: 'Africa/Abidjan' },
+  'Senegal':                   { zone: 'Africa/Dakar' },
+  'Cameroon':                  { zone: 'Africa/Douala' },
+  'Madagascar':                { zone: 'Indian/Antananarivo' },
+  'Antarctica':                { zone: 'Antarctica/McMurdo' },
+  'French Polynesia':          { zone: 'Pacific/Tahiti' },
+  'New Caledonia':             { zone: 'Pacific/Noumea' },
+  'Guam':                      { zone: 'Pacific/Guam' },
+  'Northern Mariana Islands':  { zone: 'Pacific/Saipan' },
+  'American Samoa':            { zone: 'Pacific/Pago_Pago' },
+  'Cook Islands':              { zone: 'Pacific/Rarotonga' },
+  'Marshall Islands':          { zone: 'Pacific/Majuro' },
+  'Palau':                     { zone: 'Pacific/Palau' },
+  'Micronesia':                { zone: 'Pacific/Chuuk' },
+  'Kiribati':                  { zone: 'Pacific/Tarawa' },
+  'Nauru':                     { zone: 'Pacific/Nauru' },
+  'Tuvalu':                    { zone: 'Pacific/Funafuti' },
+  'Tonga':                     { zone: 'Pacific/Tongatapu' },
+  'Wallis and Futuna':         { zone: 'Pacific/Wallis' },
+  'Timor-Leste':               { zone: 'Asia/Dili' },
+  'Bhutan':                    { zone: 'Asia/Thimphu' },
+  'Brunei':                    { zone: 'Asia/Brunei' },
+  'Macau':                     { zone: 'Asia/Macau' },
+  'Macedonia':                 { zone: 'Europe/Skopje' },
+  'Albania':                   { zone: 'Europe/Tirane' },
+  'Bosnia and Herzegovina':    { zone: 'Europe/Sarajevo' },
+  'Montenegro':                { zone: 'Europe/Podgorica' },
+  'Moldova':                   { zone: 'Europe/Chisinau' },
+  'Belarus':                   { zone: 'Europe/Minsk' },
+  'Cyprus':                    { zone: 'Asia/Nicosia' },
+  'Malta':                     { zone: 'Europe/Malta' },
+  'Luxembourg':                { zone: 'Europe/Luxembourg' },
+  'Monaco':                    { zone: 'Europe/Monaco' },
+  'Andorra':                   { zone: 'Europe/Andorra' },
+  'Liechtenstein':             { zone: 'Europe/Vaduz' },
+  'San Marino':                { zone: 'Europe/San_Marino' },
+  'Vatican':                   { zone: 'Europe/Vatican' },
+  'Gibraltar':                 { zone: 'Europe/Gibraltar' },
+  'Faroe Islands':             { zone: 'Atlantic/Faroe' },
+  'Isle of Man':               { zone: 'Europe/Isle_of_Man' },
+  'Jersey':                    { zone: 'Europe/Jersey' },
+  'Guernsey':                  { zone: 'Europe/Guernsey' },
+  'Bermuda':                   { zone: 'Atlantic/Bermuda' },
+  'Cayman Islands':            { zone: 'America/Cayman' },
+  'Aruba':                     { zone: 'America/Aruba' },
+  'Curaçao':                   { zone: 'America/Curacao' },
+  'Sint Maarten':              { zone: 'America/Lower_Princes' },
+  'Virgin Islands':            { zone: 'America/Tortola' },
+  'U.S. Virgin Islands':       { zone: 'America/St_Thomas' },
+  'Anguilla':                  { zone: 'America/Anguilla' },
+  'Antigua and Barbuda':       { zone: 'America/Antigua' },
+  'Saint Kitts and Nevis':     { zone: 'America/St_Kitts' },
+  'Montserrat':                { zone: 'America/Montserrat' },
+  'Dominica':                  { zone: 'America/Dominica' },
+  'Saint Lucia':               { zone: 'America/St_Lucia' },
+  'Saint Vincent and the Grenadines': { zone: 'America/St_Vincent' },
+  'Grenada':                   { zone: 'America/Grenada' },
+  'Barbados':                  { zone: 'America/Barbados' },
+  'Saint Pierre and Miquelon': { zone: 'America/Miquelon' },
+  'Falkland Islands':          { zone: 'Atlantic/Stanley' },
+  'South Georgia and the South Sandwich Islands': { zone: 'Atlantic/South_Georgia' },
+  'Saint Helena':              { zone: 'Atlantic/St_Helena' },
+  'Mauritania':                { zone: 'Africa/Nouakchott' },
+  'Mali':                      { zone: 'Africa/Bamako' },
+  'Burkina Faso':              { zone: 'Africa/Ouagadougou' },
+  'Niger':                     { zone: 'Africa/Niamey' },
+  'Chad':                      { zone: 'Africa/Ndjamena' },
+  'Somalia':                   { zone: 'Africa/Mogadishu' },
+  'Djibouti':                  { zone: 'Africa/Djibouti' },
+  'Eritrea':                   { zone: 'Africa/Asmara' },
+  'Equatorial Guinea':         { zone: 'Africa/Malabo' },
+  'Gabon':                     { zone: 'Africa/Libreville' },
+  'Republic of the Congo':     { zone: 'Africa/Brazzaville' },
+  'Central African Republic':  { zone: 'Africa/Bangui' },
+  'São Tomé and Príncipe':     { zone: 'Africa/Sao_Tome' },
+  'The Gambia':                { zone: 'Africa/Banjul' },
+  'Guinea':                    { zone: 'Africa/Conakry' },
+  'Guinea-Bissau':             { zone: 'Africa/Bissau' },
+  'Sierra Leone':              { zone: 'Africa/Freetown' },
+  'Liberia':                   { zone: 'Africa/Monrovia' },
+  'Togo':                      { zone: 'Africa/Lome' },
+  'Benin':                     { zone: 'Africa/Porto-Novo' },
+  'Nigeria':                   { zone: 'Africa/Lagos' },
+  'Lesotho':                   { zone: 'Africa/Maseru' },
+  'Eswatini':                  { zone: 'Africa/Mbabane' },
+  'Comoros':                   { zone: 'Indian/Comoro' },
+  'Mayotte':                   { zone: 'Indian/Mayotte' },
+  'Réunion':                   { zone: 'Indian/Reunion' },
+  'Cabo Verde':                { zone: 'Atlantic/Cape_Verde' },
+  'Mauritius':                 { zone: 'Indian/Mauritius' },
+  'Svalbard':                  { zone: 'Arctic/Longyearbyen' },
+  'Jan Mayen':                 { zone: 'Arctic/Longyearbyen' },
+  'British Indian Ocean Territory': { zone: 'Indian/Chagos' },
+  'Christmas Island':          { zone: 'Indian/Christmas' },
+  'Cocos (Keeling) Islands':   { zone: 'Indian/Cocos' },
+  'Norfolk Island':            { zone: 'Pacific/Norfolk' },
+  'Tokelau':                   { zone: 'Pacific/Fakaofo' },
+  'Niue':                      { zone: 'Pacific/Niue' },
+  'Pitcairn Islands':          { zone: 'Pacific/Pitcairn' },
+  'French Guiana':             { zone: 'America/Cayenne' },
+  'Guadeloupe':                { zone: 'America/Guadeloupe' },
+  'Martinique':                { zone: 'America/Martinique' },
+  'Saint Barthélemy':          { zone: 'America/St_Barthelemy' },
+  'Saint Martin':              { zone: 'America/Marigot' },
+  'Bonaire':                   { zone: 'America/Kralendijk' },
+  'Saba':                      { zone: 'America/Kralendijk' },
+  'Sint Eustatius':            { zone: 'America/Kralendijk' },
+};
+
+// ─── Timezone Resolution ──────────────────────────────────────────────────────
+function getCountryTimezone(country, lon) {
+  const entry = COUNTRY_TZ[country];
+  if (!entry) return null;
+  // Single zone (object with .zone)
+  if (entry.zone) return entry.zone;
+  // Array of zone ranges
+  for (const r of entry) {
+    if (r.lonMin !== undefined && (lon < r.lonMin || lon >= r.lonMax)) continue;
+    if (r.latMin !== undefined && (lat => {
+      // lat check uses the function param
+      return false;
+    })(0)) continue;
+    if (r.latMin !== undefined) continue; // handled below
+    return r.zone;
+  }
+  // Fallback: match with lat ranges if specified
+  for (const r of entry) {
+    if (r.lonMin !== undefined && (lon < r.lonMin || lon >= r.lonMax)) continue;
+    if (r.latMin !== undefined) {
+      // This would need the actual lat passed in
+      continue;
+    }
+    return r.zone;
+  }
+  return entry[0]?.zone || null;
+}
+
+function getCountryTimezoneWithLat(country, lat, lon) {
+  const entry = COUNTRY_TZ[country];
+  if (!entry) return null;
+  if (entry.zone) return entry.zone;
+  for (const r of entry) {
+    if (r.lonMin !== undefined && (lon < r.lonMin || lon >= r.lonMax)) continue;
+    if (r.latMin !== undefined && (lat < r.latMin || lat >= (r.latMax || 90))) continue;
+    return r.zone;
+  }
+  return entry[0]?.zone || null;
+}
+
+function resolveTimezone(ap) {
+  const key = ap.i + '|' + ap.y + '|' + ap.x;
+  if (TZ_CACHE.has(key)) return TZ_CACHE.get(key);
+  
+  // Try country-based lookup
+  let tzName = getCountryTimezoneWithLat(ap.c, ap.y, ap.x);
+  
+  // Fallback: longitude-based offset → Etc/GMT+X
+  if (!tzName) {
+    const offsetHours = Math.round(-ap.x / 15);
+    const sign = offsetHours >= 0 ? '+' : '';
+    tzName = 'Etc/GMT' + sign + offsetHours;
+  }
+  
+  TZ_CACHE.set(key, tzName);
+  return tzName;
+}
+
+function formatOffset(tzName, date) {
+  try {
+    const opts = { timeZone: tzName, timeZoneName: 'shortOffset' };
+    const parts = new Intl.DateTimeFormat('en', opts).formatToParts(date);
+    const tzPart = parts.find(p => p.type === 'timeZoneName');
+    return tzPart ? tzPart.value : '';
+  } catch(e) {
+    return '';
+  }
+}
+
+function computeUtcOffset(tzName, date) {
+  try {
+    const opts = { timeZone: tzName, timeZoneName: 'shortOffset', hour: '2-digit', minute: '2-digit', hour12: false };
+    const parts = new Intl.DateTimeFormat('en', opts).formatToParts(date);
+    const tzPart = parts.find(p => p.type === 'timeZoneName');
+    return tzPart ? tzPart.value : '';
+  } catch(e) {
+    return '';
+  }
+}
+
+function isDST(tzName, date) {
+  try {
+    const opts = { timeZone: tzName, timeZoneName: 'long' };
+    const parts = new Intl.DateTimeFormat('en', opts).formatToParts(date);
+    const tzPart = parts.find(p => p.type === 'timeZoneName');
+    if (!tzPart) return false;
+    const names = ['daylight', 'summer', 'dst'];
+    const lower = tzPart.value.toLowerCase();
+    return names.some(n => lower.includes(n));
+  } catch(e) {
+    return false;
+  }
+}
+
+function formatInTimezone(tzName, date) {
+  try {
+    const opts = { timeZone: tzName, hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false, hourCycle: 'h23' };
+    return new Intl.DateTimeFormat('en', opts).format(date);
+  } catch(e) {
+    return '--:--:--';
+  }
+}
+
+function formatDateInTimezone(tzName, date) {
+  try {
+    const opts = { timeZone: tzName, weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    return new Intl.DateTimeFormat('en', opts).format(date);
+  } catch(e) {
+    return '';
+  }
+}
+
+function getOffsetMinutes(tzName) {
+  try {
+    const now = new Date();
+    const utc = new Date(now.toLocaleString('en', { timeZone: 'UTC' }));
+    const local = new Date(now.toLocaleString('en', { timeZone: tzName }));
+    return Math.round((local - utc) / 60000);
+  } catch(e) {
+    return 0;
+  }
+}
+
+function formatOffsetDisplay(minutes) {
+  const sign = minutes >= 0 ? '+' : '-';
+  const abs = Math.abs(minutes);
+  const h = Math.floor(abs / 60);
+  const m = abs % 60;
+  return 'UTC' + sign + String(h).padStart(2, '0') + ':' + String(m).padStart(2, '0');
+}
+
+function timeDiffMinutes(tzA, tzB) {
+  return getOffsetMinutes(tzB) - getOffsetMinutes(tzA);
+}
+
+function formatTimeDiff(minutes) {
+  const sign = minutes >= 0 ? '+' : '-';
+  const abs = Math.abs(minutes);
+  const h = Math.floor(abs / 60);
+  const m = abs % 60;
+  if (h > 0) return sign + h + 'h ' + m + 'm';
+  return sign + m + 'm';
+}
+
+// ─── Ref Timezone Constants ──────────────────────────────────────────────────
+const REF_TZS = [
+  { id: 'utc',  label: 'UTC',          tz: 'UTC' },
+  { id: 'ny',   label: 'New York',     tz: 'America/New_York' },
+  { id: 'lon',  label: 'London',       tz: 'Europe/London' },
+  { id: 'ber',  label: 'Berlin',       tz: 'Europe/Berlin' },
+  { id: 'tky',  label: 'Tokyo',        tz: 'Asia/Tokyo' },
+  { id: 'syd',  label: 'Sydney',       tz: 'Australia/Sydney' },
+];
+
+function updateRefClocks(prefix) {
+  const now = new Date();
+  REF_TZS.forEach(({ id, tz }) => {
+    const timeEl = document.getElementById(prefix + id);
+    if (timeEl) {
+      timeEl.textContent = formatInTimezone(tz, now);
+    }
+    const offEl = document.getElementById(prefix + id + '-off');
+    if (offEl) {
+      offEl.textContent = formatOffsetDisplay(getOffsetMinutes(tz));
+    }
+  });
+}
+
+// ─── Airport Data Loading ────────────────────────────────────────────────────
+async function loadAirports() {
+  if (ALL_AIRPORTS.length > 0) return ALL_AIRPORTS;
+  const res = await fetch('/data/airports.json');
+  const data = await res.json();
+  // Only airports with IATA code
+  ALL_AIRPORTS = data.filter(a => a.i && a.i.length > 0);
+  return ALL_AIRPORTS;
+}
+
+// ─── Search / Dropdown ───────────────────────────────────────────────────────
+let activeContinent = '';
+let activeType = '';
+let singleAirport = null;      // selected airport for single lookup
+let compAirportA = null;
+let compAirportB = null;
+
+// Stores
+let searchTimer = null;
+let allData = [];
+
+function applyFilters() {
+  activeContinent = document.getElementById('filter-continent').value;
+  activeType = document.getElementById('filter-type').value;
+  const input = document.getElementById('tz-search');
+  if (input.value.trim().length > 0) {
+    doSearch(input.value.trim());
+  } else {
+    const dd = document.getElementById('tz-dropdown');
+    dd.classList.remove('show');
+  }
+}
+
+function filterAirports(query) {
+  const q = query.toLowerCase().trim();
+  if (!allData.length) return [];
+  let results = allData;
+  if (activeContinent) {
+    results = results.filter(a => a.z === activeContinent);
+  }
+  if (activeType) {
+    results = results.filter(a => a.t === activeType);
+  }
+  if (q.length > 0) {
+    results = results.filter(a =>
+      (a.i && a.i.toLowerCase().includes(q)) ||
+      (a.o && a.o.toLowerCase().includes(q)) ||
+      (a.n && a.n.toLowerCase().includes(q)) ||
+      (a.m && a.m.toLowerCase().includes(q)) ||
+      (a.c && a.c.toLowerCase().includes(q))
+    );
+  }
+  // Sort: exact IATA match first, then by name
+  results.sort((a, b) => {
+    const aExact = a.i && a.i.toLowerCase() === q ? 0 : 1;
+    const bExact = b.i && b.i.toLowerCase() === q ? 0 : 1;
+    if (aExact !== bExact) return aExact - bExact;
+    return (a.n || '').localeCompare(b.n || '');
+  });
+  return results.slice(0, 80);
+}
+
+function doSearch(query) {
+  const dd = document.getElementById('tz-dropdown');
+  const results = filterAirports(query);
+  if (results.length === 0 || query.length === 0) {
+    dd.classList.remove('show');
+    return;
+  }
+  dd.innerHTML = results.map(ap => {
+    const iata = ap.i || '—';
+    const icao = ap.o || '—';
+    const city = ap.m || '';
+    const country = ap.c || '';
+    const type = (ap.t || '').replace(/_/g, ' ');
+    return '<div class="dropdown-item" onclick="selectAirport(\'' + ap.i + '\')">' +
+      '<span class="iata">' + iata + '</span>' +
+      '<span class="info">' + escapeHtml(ap.n || '') +
+        (city ? '<span class="city">, ' + escapeHtml(city) + ', ' + escapeHtml(country) + '</span>' : '') +
+      '</span>' +
+      '<span style="margin-left:auto;font-size:11px;color:#889">' + type + '</span>' +
+      '</div>';
+  }).join('');
+  dd.classList.add('show');
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+function selectAirport(iata) {
+  const ap = allData.find(a => a.i === iata);
+  if (!ap) return;
+  singleAirport = ap;
+  document.getElementById('tz-search').value = ap.i + ' — ' + (ap.n || '');
+  document.getElementById('tz-dropdown').classList.remove('show');
+  showSingleTimezone(ap);
+}
+
+function clearSingleLookup() {
+  singleAirport = null;
+  document.getElementById('tz-search').value = '';
+  document.getElementById('tz-dropdown').classList.remove('show');
+  document.getElementById('tz-display').classList.remove('show');
+  document.getElementById('tz-error').style.display = 'none';
+}
+
+let refInterval = null;
+
+async function showSingleTimezone(ap) {
+  const errorEl = document.getElementById('tz-error');
+  errorEl.style.display = 'none';
+  
+  const tzName = resolveTimezone(ap);
+  const display = document.getElementById('tz-display');
+  display.classList.add('show');
+  
+  document.getElementById('tz-airport-name').textContent = ap.n + ' (' + ap.i + ')';
+  document.getElementById('tz-airport-loc').textContent = (ap.m || '') + (ap.m && ap.c ? ', ' : '') + ap.c;
+  
+  // Start live clock
+  if (refInterval) clearInterval(refInterval);
+  
+  function tick() {
+    const now = new Date();
+    document.getElementById('tz-time').textContent = formatInTimezone(tzName, now);
+    document.getElementById('tz-date').textContent = formatDateInTimezone(tzName, now);
+    
+    const offset = computeUtcOffset(tzName, now);
+    const offsetMin = getOffsetMinutes(tzName);
+    document.getElementById('tz-offset').textContent = formatOffsetDisplay(offsetMin);
+    
+    const shortName = tzName.replace(/_/g, ' ');
+    document.getElementById('tz-iana').textContent = shortName;
+    
+    const dst = isDST(tzName, now);
+    const dstEl = document.getElementById('tz-dst');
+    dstEl.textContent = dst ? 'DST: Active' : 'DST: Inactive';
+    dstEl.className = 'badge dst' + (dst ? ' active' : '');
+    
+    updateRefClocks('ref-');
+  }
+  
+  tick();
+  refInterval = setInterval(tick, 1000);
+}
+
+// ─── Comparator ──────────────────────────────────────────────────────────────
+function initCompSearch(inputId, dropdownId, selectedId, storeKey) {
+  const input = document.getElementById(inputId);
+  const dd = document.getElementById(dropdownId);
+  const selected = document.getElementById(selectedId);
+  let timer = null;
+
+  input.addEventListener('input', function() {
+    clearTimeout(timer);
+    const val = this.value.trim();
+    if (val.length < 1) {
+      dd.classList.remove('show');
+      return;
+    }
+    timer = setTimeout(() => {
+      const results = filterAirportsForComp(val);
+      if (results.length === 0) {
+        dd.innerHTML = '<div class="no-results">No airports found</div>';
+        dd.classList.add('show');
+        return;
+      }
+      dd.innerHTML = results.map(ap => {
+        const iata = ap.i || '—';
+        const city = ap.m || '';
+        const country = ap.c || '';
+        return '<div class="dropdown-item" onclick="selectCompAirport(\'' + ap.i + '\', \'' + inputId + '\', \'' + dropdownId + '\', \'' + selectedId + '\', \'' + storeKey + '\')">' +
+          '<span class="iata">' + iata + '</span>' +
+          '<span class="info">' + escapeHtml(ap.n || '') +
+            (city ? '<span class="city">, ' + escapeHtml(city) + ', ' + escapeHtml(country) + '</span>' : '') +
+          '</span>' +
+          '</div>';
+      }).join('');
+      dd.classList.add('show');
+    }, 150);
+  });
+
+  input.addEventListener('blur', function() {
+    setTimeout(() => dd.classList.remove('show'), 200);
+  });
+
+  input.addEventListener('focus', function() {
+    if (this.value.trim().length > 0) {
+      const results = filterAirportsForComp(this.value.trim());
+      if (results.length > 0) {
+        dd.innerHTML = results.map(ap => {
+          const iata = ap.i || '—';
+          const city = ap.m || '';
+          const country = ap.c || '';
+          return '<div class="dropdown-item" onclick="selectCompAirport(\'' + ap.i + '\', \'' + inputId + '\', \'' + dropdownId + '\', \'' + selectedId + '\', \'' + storeKey + '\')">' +
+            '<span class="iata">' + iata + '</span>' +
+            '<span class="info">' + escapeHtml(ap.n || '') +
+              (city ? '<span class="city">, ' + escapeHtml(city) + ', ' + escapeHtml(country) + '</span>' : '') +
+            '</span>' +
+            '</div>';
+        }).join('');
+        dd.classList.add('show');
+      }
+    }
+  });
+}
+
+function filterAirportsForComp(query) {
+  const q = query.toLowerCase().trim();
+  if (!allData.length) return [];
+  return allData.filter(a =>
+    (a.i && a.i.toLowerCase().includes(q)) ||
+    (a.o && a.o.toLowerCase().includes(q)) ||
+    (a.n && a.n.toLowerCase().includes(q)) ||
+    (a.m && a.m.toLowerCase().includes(q)) ||
+    (a.c && a.c.toLowerCase().includes(q))
+  ).slice(0, 50);
+}
+
+function selectCompAirport(iata, inputId, dropdownId, selectedId, storeKey) {
+  const ap = allData.find(a => a.i === iata);
+  if (!ap) return;
+  
+  if (storeKey === 'A') {
+    compAirportA = ap;
+  } else {
+    compAirportB = ap;
+  }
+  
+  document.getElementById(inputId).value = ap.i + ' — ' + (ap.n || '');
+  document.getElementById(dropdownId).classList.remove('show');
+  document.getElementById(selectedId).textContent = '📍 ' + (ap.m || '') + (ap.m && ap.c ? ', ' : '') + ap.c;
+  document.getElementById('compare-btn').disabled = !(compAirportA && compAirportB);
+  
+  // Auto-compare if both selected
+  if (compAirportA && compAirportB) {
+    runComparator();
+  }
+}
+
+function swapComparator() {
+  const temp = compAirportA;
+  compAirportA = compAirportB;
+  compAirportB = temp;
+  
+  const inputA = document.getElementById('comp-search-a');
+  const inputB = document.getElementById('comp-search-b');
+  const selA = document.getElementById('comp-selected-a');
+  const selB = document.getElementById('comp-selected-b');
+  
+  inputA.value = compAirportA ? compAirportA.i + ' — ' + (compAirportA.n || '') : '';
+  inputB.value = compAirportB ? compAirportB.i + ' — ' + (compAirportB.n || '') : '';
+  selA.textContent = compAirportA ? '📍 ' + (compAirportA.m || '') + (compAirportA.m && compAirportA.c ? ', ' : '') + compAirportA.c : '';
+  selB.textContent = compAirportB ? '📍 ' + (compAirportB.m || '') + (compAirportB.m && compAirportB.c ? ', ' : '') + compAirportB.c : '';
+  
+  if (compAirportA && compAirportB) {
+    runComparator();
+  }
+}
+
+let compInterval = null;
+
+function runComparator() {
+  if (!compAirportA || !compAirportB) {
+    document.getElementById('comp-error').textContent = 'Please select both airports.';
+    document.getElementById('comp-error').style.display = 'block';
+    return;
+  }
+  document.getElementById('comp-error').style.display = 'none';
+  
+  const tzA = resolveTimezone(compAirportA);
+  const tzB = resolveTimezone(compAirportB);
+  const results = document.getElementById('comp-results');
+  results.classList.add('show');
+  
+  if (compInterval) clearInterval(compInterval);
+  
+  function tick() {
+    const now = new Date();
+    
+    // Side A
+    document.getElementById('comp-time-a').textContent = formatInTimezone(tzA, now);
+    const infoA = compAirportA.n + ' (' + compAirportA.i + ')' +
+      ' · ' + formatOffsetDisplay(getOffsetMinutes(tzA)) +
+      ' · ' + tzA.replace(/_/g, ' ');
+    document.getElementById('comp-info-a').textContent = infoA;
+    
+    // Side B
+    document.getElementById('comp-time-b').textContent = formatInTimezone(tzB, now);
+    const infoB = compAirportB.n + ' (' + compAirportB.i + ')' +
+      ' · ' + formatOffsetDisplay(getOffsetMinutes(tzB)) +
+      ' · ' + tzB.replace(/_/g, ' ');
+    document.getElementById('comp-info-b').textContent = infoB;
+    
+    // Difference
+    const diff = timeDiffMinutes(tzA, tzB);
+    document.getElementById('comp-diff').textContent = formatTimeDiff(diff);
+    
+    // Reference clocks
+    updateRefClocks('ref-comp-');
+  }
+  
+  tick();
+  compInterval = setInterval(tick, 1000);
+}
+
+// ─── Init ────────────────────────────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', async function() {
+  // Load data
+  allData = await loadAirports();
+  
+  // Single search
+  const searchInput = document.getElementById('tz-search');
+  let searchTimer = null;
+  searchInput.addEventListener('input', function() {
+    clearTimeout(searchTimer);
+    const val = this.value.trim();
+    if (val.length === 0) {
+      document.getElementById('tz-dropdown').classList.remove('show');
+      return;
+    }
+    searchTimer = setTimeout(() => doSearch(val), 150);
+  });
+  searchInput.addEventListener('blur', function() {
+    setTimeout(() => document.getElementById('tz-dropdown').classList.remove('show'), 200);
+  });
+  searchInput.addEventListener('focus', function() {
+    if (this.value.trim().length > 0) {
+      doSearch(this.value.trim());
+    }
+  });
+  searchInput.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') {
+      const dd = document.getElementById('tz-dropdown');
+      const first = dd.querySelector('.dropdown-item');
+      if (first) first.click();
+    }
+  });
+  
+  // Comparator searches
+  initCompSearch('comp-search-a', 'comp-dropdown-a', 'comp-selected-a', 'A');
+  initCompSearch('comp-search-b', 'comp-dropdown-b', 'comp-selected-b', 'B');
+  
+  // Init ref clocks
+  updateRefClocks('ref-');
+  updateRefClocks('ref-comp-');
+  
+  // Global tick for ref clocks every second
+  setInterval(() => {
+    updateRefClocks('ref-');
+    updateRefClocks('ref-comp-');
+  }, 1000);
+});
+</script>
+</body>
+</html>
