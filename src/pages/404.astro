@@ -1,0 +1,77 @@
+---
+const pageTitle = '404 - Page Not Found | World Airport Database';
+const pageDesc = 'The page you are looking for could not be found. Browse our airport database or use our search tools.';
+const pageUrl = 'https://world-airport-database.com/404/';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex">
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc}>
+  <link rel="canonical" href={pageUrl}>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Inter',Arial,sans-serif;background:linear-gradient(160deg,#0B1D3A 0%,#1e3a5f 50%,#1a1a2e 100%);color:#fff;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px;-webkit-font-smoothing:antialiased}
+    .card{max-width:640px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);border-radius:16px;padding:48px 40px;text-align:center;backdrop-filter:blur(8px)}
+    .emoji{font-size:80px;line-height:1;margin-bottom:20px;display:block}
+    h1{font-size:88px;font-weight:900;color:#60a5fa;line-height:1;letter-spacing:-3px;margin-bottom:12px}
+    h2{font-size:24px;font-weight:700;color:#fff;margin-bottom:14px;letter-spacing:-.5px}
+    p{color:rgba(255,255,255,.7);font-size:15px;line-height:1.6;margin-bottom:32px;max-width:480px;margin-left:auto;margin-right:auto}
+    .actions{display:flex;gap:12px;justify-content:center;flex-wrap:wrap;margin-bottom:32px}
+    .btn{display:inline-flex;align-items:center;gap:8px;padding:14px 24px;border-radius:8px;font-size:14px;font-weight:700;text-decoration:none;cursor:pointer;border:none;font-family:inherit;transition:all .15s}
+    .btn-primary{background:#2ca4dc;color:#fff}
+    .btn-primary:hover{background:#2390c2;text-decoration:none;transform:translateY(-1px)}
+    .btn-outline{background:transparent;color:#fff;border:2px solid rgba(255,255,255,.2)}
+    .btn-outline:hover{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.4);text-decoration:none}
+    .search-box{margin-top:8px}
+    .search-box input{width:100%;padding:14px 18px;font-size:15px;border:2px solid rgba(255,255,255,.15);border-radius:8px;background:rgba(255,255,255,.06);color:#fff;outline:none;font-family:inherit}
+    .search-box input:focus{border-color:#2ca4dc}
+    .search-box input::placeholder{color:rgba(255,255,255,.4)}
+    .quicklinks{margin-top:32px;padding-top:24px;border-top:1px solid rgba(255,255,255,.1)}
+    .quicklinks-title{font-size:11px;text-transform:uppercase;letter-spacing:1.5px;color:rgba(255,255,255,.5);margin-bottom:14px;font-weight:700}
+    .quicklinks-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:8px}
+    .quicklinks a{color:rgba(255,255,255,.7);text-decoration:none;font-size:13px;padding:8px 12px;border-radius:6px;transition:all .15s;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.06)}
+    .quicklinks a:hover{color:#fff;background:rgba(255,255,255,.1);text-decoration:none}
+    .error-code{margin-top:24px;font-size:11px;color:rgba(255,255,255,.3);text-transform:uppercase;letter-spacing:2px;font-weight:600}
+  </style>
+</head>
+<body>
+  <main class="card">
+    <span class="emoji">🛬</span>
+    <h1>404</h1>
+    <h2>Flight Not Found</h2>
+    <p>Looks like this URL doesn't lead anywhere in our airport database. Maybe a typo in the code, or the airport was renamed.</p>
+
+    <div class="actions">
+      <a href="/" class="btn btn-primary">← Back to Home</a>
+      <a href="/countries/" class="btn btn-outline">Browse Countries</a>
+    </div>
+
+    <form class="search-box" action="/" method="get" onsubmit="return true">
+      <input type="text" name="q" placeholder="Search airports by name, code, city..." autocomplete="off">
+    </form>
+
+    <div class="quicklinks">
+      <div class="quicklinks-title">Popular Pages</div>
+      <div class="quicklinks-grid">
+        <a href="/tools/distance-calculator/">Distance Calculator</a>
+        <a href="/tools/iata-icao-lookup/">IATA/ICAO Lookup</a>
+        <a href="/tools/nearest-airport/">Nearest Airport</a>
+        <a href="/tools/timezone-lookup/">Timezone Lookup</a>
+        <a href="/tools/airport-map/">Airport Map</a>
+        <a href="/download/">Database Download</a>
+        <a href="/blog/">Blog</a>
+        <a href="/impressum/">Impressum</a>
+      </div>
+    </div>
+
+    <div class="error-code">Error 404 — Resource Not Found</div>
+  </main>
+</body>
+</html>

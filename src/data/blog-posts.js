@@ -773,6 +773,59 @@ export default [
   },
 
   // ═══════════════════════════════════════════
+  // TOP 10 BY COUNTRY (auto-generated cron)
+  // ═══════════════════════════════════════════
+  {
+    slug: 'top-10-airports-in-malaysia',
+    title: 'Top 10 Airports in Malaysia',
+    category: 'airport-rankings',
+    subcategory: 'busiest',
+    tags: ['Malaysia', 'Airports', 'Travel Guide', 'IATA Codes', 'Top 10'],
+    date: '2026-06-08',
+    excerpt: 'Discover the top 10 airports in Malaysia. Our comprehensive guide covers 59 airports with 59 IATA codes, including traffic rankings and travel tips.',
+    content_html: `
+<h2>Introduction</h2>
+<p>Malaysia is home to <strong>59</strong> IATA-coded airports, including <strong>59</strong> with scheduled commercial service. From the bustling Kuala Lumpur International Airport — one of Southeast Asia's busiest hubs — to regional gateways serving Borneo's remote communities, Malaysia's aviation network connects a diverse nation of peninsulas and islands.</p>
+
+<h2>Airport Overview</h2>
+<p>The airport landscape in Malaysia spans 3 categories: 31 Small Airport, 20 Medium Airport, 8 Large Airport. The country is served by <strong>8</strong> large international airports and numerous regional facilities.</p>
+
+<h2>Top 10 Airports in Malaysia</h2>
+<table>
+<thead><tr><th>#</th><th>IATA</th><th>Name</th><th>City</th><th>Type</th><th>Score</th></tr></thead>
+<tbody><tr><td>1</td><td><span class="iata-badge">KUL</span></td><td>Kuala Lumpur International Airport</td><td>Sepang</td><td>Large Airport</td><td>1,017,575</td></tr>
+<tr><td>2</td><td><span class="iata-badge">PEN</span></td><td>Penang International Airport</td><td>Penang</td><td>Large Airport</td><td>1,000</td></tr>
+<tr><td>3</td><td><span class="iata-badge">BKI</span></td><td>Kota Kinabalu International Airport</td><td>Kota Kinabalu</td><td>Large Airport</td><td>1,000</td></tr>
+<tr><td>4</td><td><span class="iata-badge">LGK</span></td><td>Langkawi International Airport</td><td>Langkawi</td><td>Large Airport</td><td>1,000</td></tr>
+<tr><td>5</td><td><span class="iata-badge">KCH</span></td><td>Kuching International Airport</td><td>Kuching</td><td>Large Airport</td><td>1,000</td></tr>
+<tr><td>6</td><td><span class="iata-badge">SZB</span></td><td>Sultan Abdul Aziz Shah International Airport</td><td>Subang</td><td>Large Airport</td><td>1,000</td></tr>
+<tr><td>7</td><td><span class="iata-badge">JHB</span></td><td>Senai International Airport</td><td>Johor Bahru</td><td>Large Airport</td><td>1,000</td></tr>
+<tr><td>8</td><td><span class="iata-badge">IPH</span></td><td>Sultan Azlan Shah Airport</td><td>Ipoh</td><td>Large Airport</td><td>1,000</td></tr>
+<tr><td>9</td><td><span class="iata-badge">KBR</span></td><td>Sultan Ismail Petra Airport</td><td>Kota Baharu</td><td>Medium Airport</td><td>750</td></tr>
+<tr><td>10</td><td><span class="iata-badge">MYY</span></td><td>Miri Airport</td><td>Miri</td><td>Medium Airport</td><td>750</td></tr></tbody>
+</table>
+
+<h2>Major Hubs</h2>
+<p><strong>Kuala Lumpur International Airport (KUL)</strong> dominates Malaysian aviation with a traffic score of 1,017,575. As the main hub for Malaysia Airlines, AirAsia, and Batik Air, KUL offers connections to over 100 destinations worldwide. The airport features two main terminals connected by a free shuttle train.</p>
+
+<h2>Regional Connectivity</h2>
+<p>Malaysia's airports on Borneo (Sarawak and Sabah) provide essential links to East Malaysia. <strong>Kota Kinabalu (BKI)</strong> and <strong>Kuching (KCH)</strong> serve as gateways to Borneo's rainforests, dive sites, and national parks. <strong>Penang International (PEN)</strong> and <strong>Langkawi (LGK)</strong> are popular tourist entry points.</p>
+
+<h2>Travel Tips</h2>
+<p>When flying to or from Malaysia, keep these tips in mind:</p>
+<ul>
+<li>Use our <a href="/tools/nearest-airport/">Nearest Airport Finder</a> to locate airports near your destination</li>
+<li>Check the IATA code of your destination airport before booking — some cities (Kuala Lumpur) have multiple airports</li>
+<li>Domestic flights with AirAsia offer competitive prices — book in advance for best rates</li>
+<li>KUL has excellent rail connections (KLIA Ekspres) to Kuala Lumpur city center in 28 minutes</li>
+</ul>
+
+<h2>Explore All Airports</h2>
+<p>Browse our complete database of <a href="/airports/malaysia/">Malaysia airports</a> for detailed information on each facility, including runways, terminals, and nearby attractions.</p>
+    `
+  },
+
+  // ═══════════════════════════════════════════
   // REGIONAL GUIDES
   // ═══════════════════════════════════════════
   {
