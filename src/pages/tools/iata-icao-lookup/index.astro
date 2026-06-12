@@ -275,7 +275,7 @@ const pageUrl = 'https://world-airport-database.com/tools/iata-icao-lookup/';
   }
 
   function slugify(text) {
-    return (text || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') || 'unknown';
+    const slugify = (name) => (name || '').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/['']/g,'').replace(/[–—]/g,'-').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') || 'unknown';
   }
 
   function typeBadge(type) {

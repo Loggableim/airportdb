@@ -1,6 +1,8 @@
 ---
 import countries from '../../_data/countries.js';
 import airports from '../../_data/airports.js';
+import SiteNav from '../../components/SiteNav.astro';
+import SiteFooter from '../../components/SiteFooter.astro';
 
 const countryAirports = {};
 for (const ap of airports) {
@@ -11,13 +13,13 @@ for (const ap of airports) {
 
 export async function getStaticPaths() {
   return countries.map(c => {
-    const slug = c.name.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'') || 'unknown';
+    const slug = (c.name||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/['']/g,'').replace(/[–—]/g,'-').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'') || 'unknown';
     return { params: { slug }, props: { country: c } };
   });
 }
 
 const { country } = Astro.props;
-const slug = country.name.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'') || 'unknown';
+const slug = (country.name||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/['']/g,'').replace(/[–—]/g,'-').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'') || 'unknown';
 const pageTitle = 'Airports in ' + country.name + ' (' + country.iata + ' IATA codes) - World Airport Database';
 const pageDesc = 'Complete list of ' + country.total + ' airports in ' + country.name + ', including ' + country.iata + ' IATA codes.';
 const pageUrl = 'https://world-airport-database.com/countries/' + slug + '/';
@@ -29,6 +31,15 @@ const maxType = Math.max(country.large, country.medium, country.small, 1);
 const largeWidth = (country.large / maxType * 100).toFixed(1);
 const mediumWidth = (country.medium / maxType * 100).toFixed(1);
 const smallWidth = (country.small / maxType * 100).toFixed(1);
+
+// Country center: average of all airports in this country, with sensible fallback
+let countryLat = 0, countryLon = 0;
+if (cAirports.length) {
+  const sum = cAirports.reduce((s,a) => s + (a.y||0), 0);
+  countryLat = sum / cAirports.length;
+  const sumX = cAirports.reduce((s,a) => s + (a.x||0), 0);
+  countryLon = sumX / cAirports.length;
+}
 
 // JSON-LD strings (build in frontmatter, inject with set:html)
 const jsonldBreadcrumb = JSON.stringify({
@@ -77,16 +88,7 @@ const jsonldCountry = JSON.stringify({
 </head>
 <body>
 
-<nav style="background:#0f172a;padding:10px 0;position:sticky;top:0;z-index:100">
-  <div style="max-width:1100px;margin:0 auto;padding:0 20px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px">
-    <a href="/" style="color:#fff;font-size:15px;font-weight:700;text-decoration:none">World<span style="color:#60a5fa">Airport</span>DB</a>
-    <div style="display:flex;gap:16px;flex-wrap:wrap">
-      <a href="/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Home</a>
-      <a href="/countries/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Countries</a>
-      <a href="/tools/nearest-airport/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Distance</a>
-    </div>
-  </div>
-</nav>
+<SiteNav active="countries" />
 
 <div class="ch">
   <div style="max-width:1100px;margin:0 auto;padding:0 20px">
@@ -135,7 +137,7 @@ const jsonldCountry = JSON.stringify({
   </div>
 
   <h3 style="font-size:18px;font-weight:700;color:#202c39;margin:24px 0 12px;border-bottom:2px solid #2ca4dc;padding-bottom:6px">Location Map</h3>
-  <div style="height:360px;border:2px solid #D4E0E8;margin:16px 0" id="cm" data-lat={country.lat} data-lon={country.lon} data-name={country.name}></div>
+  <div style="height:360px;border:2px solid #D4E0E8;margin:16px 0" id="cm" data-lat={countryLat} data-lon={countryLon} data-name={country.name}></div>
 
   <h3 style="font-size:18px;font-weight:700;color:#202c39;margin:24px 0 12px;border-bottom:2px solid #2ca4dc;padding-bottom:6px">Top Airports in {country.name}</h3>
   <table style="width:100%;border-collapse:collapse;margin:12px 0 20px;background:#fff">
@@ -151,7 +153,7 @@ const jsonldCountry = JSON.stringify({
     </thead>
     <tbody>
       {topAirports.map(ap => {
-        const aslug = (ap.n||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,60);
+        const aslug = (ap.n||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/['']/g,'').replace(/[–—]/g,'-').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,80);
         const airportUrl = ap.i ? '/airports/' + slug + '/' + aslug + '-' + ap.i.toLowerCase() + '/' : '#';
         return (
           <tr>
@@ -172,13 +174,7 @@ const jsonldCountry = JSON.stringify({
   <a href="/" style="display:inline-block;margin:20px 0;color:#2ca4dc;font-weight:600;font-size:14px">&larr; Back to World Airport Database</a>
 </div>
 
-<div style="background:#0B1D3A;color:#8899aa;padding:36px 0 24px;margin-top:40px;border-top:4px solid #2ca4dc;font-size:13px;text-align:center">
-  <div style="max-width:1100px;margin:0 auto;padding:0 20px">
-    <div><strong style="color:#ccdbe8">World Airport Database since 2008</strong> based on open data from <a href="https://ourairports.com/" target="_blank" style="color:#2ca4dc">OurAirports</a></div>
-    <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
-    <div style="margin-top:10px"><a href="/impressum/" style="color:#2ca4dc">Impressum</a></div>
-  </div>
-</div>
+<SiteFooter />
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>

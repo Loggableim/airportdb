@@ -1,5 +1,6 @@
 // Shared helpers for airport subpages
-export const makeSlug = (name) => (name||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,60);
+// Re-export the universal slugify
+export { slugify as makeSlug, slugify } from './slugify.js';
 
 export function haversineKm(lat1, lon1, lat2, lon2) {
   const R = 6371;

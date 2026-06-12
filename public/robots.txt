@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /data/
+
 Sitemap: https://world-airport-database.com/sitemap-index.xml

@@ -1,6 +1,8 @@
 ---
 import airports from '../../data/airports.js';
 import { getTimezoneForCountry } from '../../data/timezones.js';
+import SiteNav from '../../components/SiteNav.astro';
+import SiteFooter from '../../components/SiteFooter.astro';
 import {
   makeSlug,
   haversineKm,
@@ -10,6 +12,27 @@ import {
   allianceClass,
   climateBarColor
 } from '../../data/airport-helpers.js';
+import { existsSync, readFileSync } from 'fs';
+
+// Helper: load AI enhancement data for an airport (if it exists)
+const enhancementCache = {};
+function loadEnhancement(airport) {
+  if (!airport.iata) return null;
+  const key = airport.iata;
+  if (key in enhancementCache) return enhancementCache[key];
+  const cs = makeSlug(airport.country);
+  const file = 'src/data/enhancements/' + cs + '/' + key.toLowerCase() + '.json';
+  let result = null;
+  try {
+    if (existsSync(file)) {
+      result = JSON.parse(readFileSync(file, 'utf-8'));
+    }
+  } catch (e) {
+    result = null;
+  }
+  enhancementCache[key] = result;
+  return result;
+}
 
 // ── Climate Zone helper ──────────────────────────────────────────────
 function getClimateZone(lat) {
@@ -216,10 +239,12 @@ export async function getStaticPaths() {
 }
 
 const { airport, nearbyAirports, timezone, climate, season, airlines, slug } = Astro.props;
+// Load enhancement AFTER getStaticPaths, so it's in the same module scope as the render
+const enhancement = loadEnhancement(airport);
 const pageTitle = `${airport.name} (${airport.iata}) - World Airport Database`;
-const pageDesc = `${airport.name} (${airport.iata} / ${airport.icao}) — ${airport.type.replace(/_/g,' ')} in ${airport.municipality || airport.country}, ${airport.country}. Coordinates: ${airport.lat.toFixed(3)}°N, ${airport.lon.toFixed(3)}°E.`;
+const pageDesc = `${airport.name} (${airport.iata} / ${airport.icao}) — ${airport.type.replace(/_/g,' ')} in ${airport.municipality || airport.country}, ${airport.country}. Coordinates: ${Math.abs(airport.lat).toFixed(3)}°${airport.lat >= 0 ? 'N' : 'S'}, ${Math.abs(airport.lon).toFixed(3)}°${airport.lon >= 0 ? 'E' : 'W'}.`;
 const pageUrl = `https://world-airport-database.com/airports/${slug}/`;
-const ogImage = `https://world-airport-database.com/og-airport.png`;
+const ogImage = `https://world-airport-database.com/logo-icon.svg`;
 const continentNames = {NA:'North America',SA:'South America',EU:'Europe',AS:'Asia',AF:'Africa',OC:'Oceania',AN:'Antarctica'};
 const contName = continentNames[airport.continent] || airport.continent;
 const typeLabel = airport.type.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase());
@@ -387,22 +412,7 @@ const jsonldNearby = nearbyAirports.length ? JSON.stringify({
 <body>
 
 <!-- Sticky Navigation -->
-<nav style="background:#0f172a;padding:10px 0;position:sticky;top:0;z-index:100">
-  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px">
-    <a href="/" style="color:#fff;font-size:15px;font-weight:700;text-decoration:none">World<span style="color:#60a5fa">Airport</span>DB</a>
-    <div style="display:flex;gap:16px;flex-wrap:wrap">
-      <a href="/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Home</a>
-      <a href="/countries/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Countries</a>
-      <a href="/blog/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Blog</a>
-      <a href="/download/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Database</a>
-      <a href="/tools/iata-icao-lookup/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Lookup</a>
-      <a href="/tools/distance-calculator/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Distance</a>
-      <a href="/tools/nearest-airport/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Nearest</a>
-      <a href="/tools/timezone-lookup/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Timezone</a>
-      <a href="/tools/airport-map/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Map</a>
-    </div>
-  </div>
-</nav>
+<SiteNav active="" />
 
 <!-- Header -->
 <div class="ah">
@@ -456,7 +466,7 @@ const jsonldNearby = nearbyAirports.length ? JSON.stringify({
 
       <!-- Best Time to Fly -->
       <div class="card" style="margin-top:12px">
-        <h4 style="font-size:14px;color:var(--navy);margin-bottom:8px">&#127788; Best Time to Fly</h4>
+        <h3 style="font-size:14px;color:var(--navy);margin-bottom:8px">&#127788; Best Time to Fly</h3>
         <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px">
           <div>
             <div style="font-size:13px"><strong>Recommended:</strong> <span style="color:var(--primary)">{season.best}</span></div>
@@ -478,7 +488,7 @@ const jsonldNearby = nearbyAirports.length ? JSON.stringify({
   <!-- Airlines serving this airport -->
   {airlines.length > 0 && (
     <div class="card">
-      <h4 style="font-size:14px;color:var(--navy);margin-bottom:10px">&#9992; Airlines Serving {airport.iata}</h4>
+      <h2 style="font-size:14px;color:var(--navy);margin-bottom:10px">&#9992; Airlines Serving {airport.iata}</h2>
       <div style="display:flex;gap:8px;flex-wrap:wrap">
         {airlines.map(al => (
           <span class={`al-badge ${allianceClass(al.alliance)}`}>{al.code} &mdash; {al.name}</span>
@@ -488,7 +498,7 @@ const jsonldNearby = nearbyAirports.length ? JSON.stringify({
   )}
 
   <!-- Climate Card -->
-  <div class="sec-h"><h3><span>&#127777;</span> Climate &mdash; {climate.label} ({Math.abs(airport.lat).toFixed(1)}&deg;{airport.lat > 0 ? 'N' : 'S'})</h3></div>
+  <div class="sec-h"><h2><span>&#127777;</span> Climate &mdash; {climate.label} ({Math.abs(airport.lat).toFixed(1)}&deg;{airport.lat > 0 ? 'N' : 'S'})</h2></div>
   <div class="climate-grid">
     {climate.months.map(m => (
       <div class="climate-item" style="background:{climateBarColor(m.hi, m.lo)}">
@@ -502,12 +512,51 @@ const jsonldNearby = nearbyAirports.length ? JSON.stringify({
     * Approximate average temperatures by month based on {climate.label.toLowerCase()} latitude zone
   </div>
 
+  <!-- AI Enhancement Block (populated by cron) -->
+  {enhancement && (
+    <div class="enh-block" style="background:linear-gradient(135deg,#eff6ff 0%,#f0f9ff 100%);border:1px solid #bfdbfe;border-radius:10px;padding:20px;margin:24px 0">
+      <div class="sec-h" style="margin:0 0 10px;border-bottom:2px solid #3b82f6;padding-bottom:6px">
+        <h3 style="font-size:16px;color:#1e40af;display:flex;align-items:center;gap:8px">
+          <span>✨</span> AI-Enhanced Insights
+        </h3>
+      </div>
+      {enhancement.summary && (
+        <p style="font-size:14px;line-height:1.6;color:#1e3a5f;margin-bottom:14px">{enhancement.summary}</p>
+      )}
+      {enhancement.local_tip && (
+        <div style="background:#fff;border-left:4px solid #2ca4dc;padding:10px 14px;margin-bottom:14px;border-radius:0 6px 6px 0">
+          <div style="font-size:11px;text-transform:uppercase;letter-spacing:1px;color:#2ca4dc;font-weight:700;margin-bottom:2px">💡 Local Tip</div>
+          <div style="font-size:13px;color:#202c39">{enhancement.local_tip}</div>
+        </div>
+      )}
+      {enhancement.transport_tips && (
+        <div style="margin-bottom:14px">
+          <div style="font-size:12px;font-weight:700;color:#1e40af;margin-bottom:4px">🚖 Getting There</div>
+          <p style="font-size:13px;line-height:1.5;color:#334155">{enhancement.transport_tips}</p>
+        </div>
+      )}
+      {enhancement.nearby_amenities && (
+        <div style="margin-bottom:14px">
+          <div style="font-size:12px;font-weight:700;color:#1e40af;margin-bottom:4px">📍 Nearby Amenities</div>
+          <pre style="font-family:inherit;font-size:13px;line-height:1.6;color:#334155;white-space:pre-wrap;margin:0">{enhancement.nearby_amenities}</pre>
+        </div>
+      )}
+      {enhancement.faqs && (
+        <details style="margin-top:14px">
+          <summary style="font-size:13px;font-weight:700;color:#1e40af;cursor:pointer;padding:6px 0">❓ Frequently Asked Questions</summary>
+          <pre style="font-family:inherit;font-size:13px;line-height:1.6;color:#334155;white-space:pre-wrap;margin:8px 0 0;padding:10px 14px;background:#fff;border-radius:6px">{enhancement.faqs}</pre>
+        </details>
+      )}
+      <div style="font-size:10px;color:#94a3b8;margin-top:10px">AI-generated content · Generated {new Date(enhancement.generatedAt).toLocaleDateString('en-US',{year:'numeric',month:'short',day:'numeric'})} · {enhancement.model}</div>
+    </div>
+  )}
+
   <!-- Map full-width -->
-  <div class="sec-h"><h3><span>&#128506;</span> Location Map</h3></div>
+  <div class="sec-h"><h2><span>&#128506;</span> Location Map</h2></div>
   <div class="mw" id="am" data-lat="{airport.lat}" data-lon="{airport.lon}" data-iata="{airport.iata}" data-name="{airport.name.replace(/'/g, '&apos;')}" data-icao="{airport.icao}"></div>
 
   <!-- Nearby Airports -->
-  <div class="sec-h"><h3><span>&#127759;</span> Nearby Airports (Top 5)</h3></div>
+  <div class="sec-h"><h2><span>&#127759;</span> Nearby Airports (Top 5)</h2></div>
   {nearbyAirports.length > 0 ? (
     <table>
       <thead>
@@ -531,7 +580,7 @@ const jsonldNearby = nearbyAirports.length ? JSON.stringify({
   )}
 
   <!-- Quick Tools -->
-  <div class="sec-h"><h3><span>&#128295;</span> Quick Tools</h3></div>
+  <div class="sec-h"><h2><span>&#128295;</span> Quick Tools</h2></div>
   <div class="qtools">
     <a href={`/tools/distance-calculator/?from=${airport.iata}`} class="qtool">
       <span class="ico">&#128287;</span>
@@ -554,13 +603,7 @@ const jsonldNearby = nearbyAirports.length ? JSON.stringify({
   <a href="/" class="bk">&larr; Back to World Airport Database</a>
 </div>
 
-<footer>
-  <div class="wrap">
-    <div><strong>World Airport Database since 2008</strong> &mdash; based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
-    <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
-    <div style="margin-top:10px"><a href="/impressum/">Impressum</a></div>
-  </div>
-</footer>
+<SiteFooter />
 
 <script>
 (function(){
