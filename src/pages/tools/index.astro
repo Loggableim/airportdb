@@ -1,3 +1,6 @@
+---
+import SiteNav from '../../components/SiteNav.astro';
+import SiteFooter from '../../components/SiteFooter.astro';
 const pageTitle = 'Travel Tools - World Airport Database';
 const pageDesc = 'Complete set of travel tools for airport information: distance calculator, IATA/ICAO lookup, nearest airport, timezone lookup, and airport map.';
 const pageUrl = 'https://world-airport-database.com/tools/';
@@ -47,23 +50,7 @@ const pageUrl = 'https://world-airport-database.com/tools/';
 </head>
 <body>
 
-<nav style="background:#0f172a;padding:10px 0;position:sticky;top:0;z-index:100">
-  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px">
-    <a href="/" style="color:#fff;font-size:15px;font-weight:700;text-decoration:none">World<span style="color:#60a5fa">Airport</span>DB</a>
-    <div style="display:flex;gap:16px;flex-wrap:wrap">
-      <a href="/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Home</a>
-      <a href="/countries/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Countries</a>
-      <a href="/blog/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Blog</a>
-      <a href="/download/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Database</a>
-      <a href="/tools/" style="color:#fff;text-decoration:none;font-size:13px;font-weight:700">Tools</a>
-      <a href="/tools/distance-calculator/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Distance</a>
-      <a href="/tools/iata-icao-lookup/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Lookup</a>
-      <a href="/tools/nearest-airport/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Nearest</a>
-      <a href="/tools/timezone-lookup/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Timezone</a>
-      <a href="/tools/airport-map/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Map</a>
-    </div>
-  </div>
-</nav>
+<SiteNav active="tools" />
 
 <div class="ah">
   <div class="wrap">
@@ -139,12 +126,6 @@ const pageUrl = 'https://world-airport-database.com/tools/';
   </div>
 </div>
 
-<footer>
-  <div class="wrap">
-    <div><strong>World Airport Database since 2008</strong> — based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
-    <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
-    <div style="margin-top:10px"><a href="/impressum/">Impressum</a></div>
-  </div>
-</footer>
+<SiteFooter />
 </body>
 </html>

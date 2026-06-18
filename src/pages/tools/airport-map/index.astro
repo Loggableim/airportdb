@@ -260,9 +260,10 @@ const pageUrl = 'https://world-airport-database.com/tools/airport-map/';
   const locateBtn     = document.getElementById('locate-btn');
 
   /* ─── Helpers ─── */
+  const mkSlug = (s) => (s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/['']/g,'').replace(/[–—]/g,'-').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,80);
   function getAirportUrl(ap) {
-    const cs = (ap.c||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')||'unknown';
-    const ns = (ap.n||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,60);
+    const cs = mkSlug(ap.c) || 'unknown';
+    const ns = mkSlug(ap.n);
     return `/airports/${cs}/${ns}-${(ap.i||'').toLowerCase()}/`;
   }
 

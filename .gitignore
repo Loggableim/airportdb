@@ -29,6 +29,9 @@ Thumbs.db
 # Wrangler / Cloudflare
 .wrangler/
 
+# Cron runtime state
+.state/
+
 # Node compile cache
 declare -x TEMP=declare*/node-compile-cache/
 dist/

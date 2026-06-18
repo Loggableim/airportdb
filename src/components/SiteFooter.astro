@@ -1,0 +1,85 @@
+---
+const { } = Astro.props;
+---
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <a href="/" class="logo">
+          <img src="/logo.svg" alt="" width="32" height="32">
+          <span><strong>World</strong>Airport<strong>DB</strong></span>
+        </a>
+        <p>Open data airport information for travelers, developers, and aviation professionals. Free for personal and commercial use.</p>
+        <div class="social-links">
+          <a href="https://ourairports.com/" target="_blank" rel="noopener" title="OurAirports data source">📊 OurAirports</a>
+        </div>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/countries/">All Countries</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/blog/category/airport-guides/">Airport Guides</a></li>
+          <li><a href="/blog/category/travel-tips/">Travel Tips</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Tools</h4>
+        <ul>
+          <li><a href="/tools/distance-calculator/">Distance Calculator</a></li>
+          <li><a href="/tools/iata-icao-lookup/">IATA/ICAO Lookup</a></li>
+          <li><a href="/tools/nearest-airport/">Nearest Airport Finder</a></li>
+          <li><a href="/tools/timezone-lookup/">Timezone Lookup</a></li>
+          <li><a href="/tools/airport-map/">Airport Map</a></li>
+          <li><a href="/tools/">All Tools →</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Data</h4>
+        <ul>
+          <li><a href="/download/">Download Database</a></li>
+          <li><a href="/data/airports.json" download>JSON</a></li>
+          <li><a href="/data/world-airports.csv" download>CSV</a></li>
+          <li><a href="/data/world-airports.sql" download>SQL</a></li>
+          <li><a href="/blog/category/airport-data/">API & Docs</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>About</h4>
+        <ul>
+          <li><a href="/impressum/">Impressum</a></li>
+          <li><a href="/sitemap-index.xml">Sitemap</a></li>
+          <li>Open data project · {new Date().getFullYear()}</li>
+          <li>Not affiliated with IATA or ICAO</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div>© 2008–{new Date().getFullYear()} World Airport Database · Made with open data</div>
+      <div>Source: <a href="https://ourairports.com/" target="_blank" rel="noopener">OurAirports.com</a> (CC0)</div>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer{background:#0B1D3A;color:rgba(255,255,255,.6);padding:48px 0 24px;margin-top:64px;font-size:13.5px;line-height:1.6}
+  .site-footer .wrap{max-width:1280px;margin:0 auto;padding:0 20px}
+  .footer-grid{display:grid;grid-template-columns:1.5fr repeat(4,1fr);gap:36px;margin-bottom:32px}
+  @media(max-width:900px){.footer-grid{grid-template-columns:1fr 1fr;gap:28px}}
+  @media(max-width:540px){.footer-grid{grid-template-columns:1fr}}
+  .footer-brand .logo{display:flex;align-items:center;gap:8px;margin-bottom:10px;text-decoration:none}
+  .footer-brand .logo span{color:#fff;font-size:15px;font-weight:700;letter-spacing:-.3px}
+  .footer-brand .logo strong{color:#60a5fa;font-weight:700}
+  .footer-brand p{font-size:13px;color:rgba(255,255,255,.55);max-width:340px}
+  .social-links{margin-top:14px;display:flex;gap:8px}
+  .social-links a{display:inline-block;padding:5px 10px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:5px;color:rgba(255,255,255,.7);text-decoration:none;font-size:12px;transition:all .15s}
+  .social-links a:hover{background:rgba(255,255,255,.1);color:#fff}
+  .site-footer h4{color:#fff;font-size:12px;text-transform:uppercase;letter-spacing:1.2px;margin-bottom:14px;font-weight:700}
+  .site-footer ul{list-style:none;padding:0;margin:0}
+  .site-footer li{margin-bottom:8px}
+  .site-footer a{color:rgba(255,255,255,.7);text-decoration:none;transition:color .15s;font-size:13.5px}
+  .site-footer a:hover{color:#60a5fa}
+  .footer-bottom{padding-top:24px;border-top:1px solid rgba(255,255,255,.08);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;font-size:12px;color:rgba(255,255,255,.4)}
+  .footer-bottom a{color:rgba(255,255,255,.6)}
+</style>

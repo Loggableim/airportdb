@@ -1,0 +1,24 @@
+{
+  "batchSize": 60,
+  "cronIntervalMinutes": 20,
+  "model": {
+    "provider": "minimax",
+    "model": "MiniMax-M3"
+  },
+  "api": {
+    "endpoint": "https://api.minimaxi.chat/v1/text/chatcompletion_v2",
+    "apiKey": "${MINIMAX_API_KEY}",
+    "timeout": 30000
+  },
+  "data": {
+    "source": "src/_data/airports.js",
+    "stateFile": ".state/airport-cron-state.json"
+  },
+  "deploy": {
+    "command": "bash deploy.sh",
+    "pingIndexNow": true
+  },
+  "prompts": {
+    "enrichment": "Generate a rich 150-200 word English description for the airport {{name}} ({{iata}}/{{icao}}) located in {{city}}, {{country}}. Include: 1) Brief history/origin, 2) Notable features or terminal info, 3) Common traveler tips (transit, food, transport links). Style: informative, factual, traveler-friendly. Output ONLY the description text, no headers or markdown."
+  }
+}
