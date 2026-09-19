@@ -66,7 +66,7 @@ Slug-Format: `name-iata` (z.B. `frankfurt-fra`)
 | Framework | Astro 5 | SSG, Partial Hydration, Cloudflare-native |
 | CSS | Tailwind CSS | Utility-first, schnell, kompatibel |
 | Search | Fuse.js + Precomputed Index | Client-seitig, keine API nötig |
-| Maps | Leaflet (OpenStreetMap) | Kostenlos, kein API-Key |
+| Maps | Leaflet + MapLibre GL (OpenFreeMap) | Kostenlos, kein API-Key |
 | Daten-Import | Python Script (CSV → JSON) | Vorverarbeitung |
 | Hosting | Cloudflare Pages | Kostenlos, CDN, Wrangler-Deploy |
 | Domain | world-airport-database.com | Expired, altes Backlink-Profil |

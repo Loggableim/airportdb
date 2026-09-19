@@ -11,13 +11,13 @@ for (const ap of airports) {
 
 export async function getStaticPaths() {
   return countries.map(c => {
-    const slug = c.name.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'') || 'unknown';
+    const slug = (c.name||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/['']/g,'').replace(/[–—]/g,'-').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'') || 'unknown';
     return { params: { slug }, props: { country: c } };
   });
 }
 
 const { country } = Astro.props;
-const slug = country.name.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'') || 'unknown';
+const slug = (country.name||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/['']/g,'').replace(/[–—]/g,'-').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'') || 'unknown';
 const pageTitle = 'Airports in ' + country.name + ' (' + country.iata + ' IATA codes) - World Airport Database';
 const pageDesc = 'Complete list of ' + country.total + ' airports in ' + country.name + ', including ' + country.iata + ' IATA codes.';
 const pageUrl = 'https://world-airport-database.com/countries/' + slug + '/';
@@ -29,6 +29,15 @@ const maxType = Math.max(country.large, country.medium, country.small, 1);
 const largeWidth = (country.large / maxType * 100).toFixed(1);
 const mediumWidth = (country.medium / maxType * 100).toFixed(1);
 const smallWidth = (country.small / maxType * 100).toFixed(1);
+
+// Country center: average of all airports in this country, with sensible fallback
+let countryLat = 0, countryLon = 0;
+if (cAirports.length) {
+  const sum = cAirports.reduce((s,a) => s + (a.y||0), 0);
+  countryLat = sum / cAirports.length;
+  const sumX = cAirports.reduce((s,a) => s + (a.x||0), 0);
+  countryLon = sumX / cAirports.length;
+}
 
 // JSON-LD strings (build in frontmatter, inject with set:html)
 const jsonldBreadcrumb = JSON.stringify({
@@ -74,6 +83,7 @@ const jsonldCountry = JSON.stringify({
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.9.0/dist/maplibre-gl.css">
 </head>
 <body>
 
@@ -87,6 +97,13 @@ const jsonldCountry = JSON.stringify({
     </div>
   </div>
 </nav>
+
+<!-- Breadcrumb -->
+<div style="max-width:1100px;margin:0 auto;padding:12px 20px;font-size:13px;color:#8899aa">
+  <a href="/" style="color:var(--primary);text-decoration:none">Home</a> &rsaquo;
+  <a href="/countries/" style="color:var(--primary);text-decoration:none">Countries</a> &rsaquo;
+  <span style="color:var(--navy);font-weight:600">{country.name}</span>
+</div>
 
 <div class="ch">
   <div style="max-width:1100px;margin:0 auto;padding:0 20px">
@@ -135,7 +152,7 @@ const jsonldCountry = JSON.stringify({
   </div>
 
   <h3 style="font-size:18px;font-weight:700;color:#202c39;margin:24px 0 12px;border-bottom:2px solid #2ca4dc;padding-bottom:6px">Location Map</h3>
-  <div style="height:360px;border:2px solid #D4E0E8;margin:16px 0" id="cm" data-lat={country.lat} data-lon={country.lon} data-name={country.name}></div>
+  <div style="height:360px;border:2px solid #D4E0E8;margin:16px 0" id="cm" data-lat={countryLat} data-lon={countryLon} data-name={country.name}></div>
 
   <h3 style="font-size:18px;font-weight:700;color:#202c39;margin:24px 0 12px;border-bottom:2px solid #2ca4dc;padding-bottom:6px">Top Airports in {country.name}</h3>
   <table style="width:100%;border-collapse:collapse;margin:12px 0 20px;background:#fff">
@@ -151,7 +168,7 @@ const jsonldCountry = JSON.stringify({
     </thead>
     <tbody>
       {topAirports.map(ap => {
-        const aslug = (ap.n||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,60);
+        const aslug = (ap.n||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/['']/g,'').replace(/[–—]/g,'-').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,80);
         const airportUrl = ap.i ? '/airports/' + slug + '/' + aslug + '-' + ap.i.toLowerCase() + '/' : '#';
         return (
           <tr>
@@ -184,11 +201,13 @@ const jsonldCountry = JSON.stringify({
 <script>
 (function(){var m=document.getElementById('cm'),lat=parseFloat(m.dataset.lat),lon=parseFloat(m.dataset.lon),n=m.dataset.name;
 function init(){var L=window.L;
-if(!L||!L.map){setTimeout(init,500);return}
-var map=L.map(m).setView([lat,lon],4);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{attribution:'CARTO',maxZoom:19}).addTo(map);
+if(!L||!L.map||!L.maplibreGL||!window.maplibregl){setTimeout(init,500);return}
+var map=L.map(m,{maxZoom:19}).setView([lat,lon],4);
+L.maplibreGL({style:'https://tiles.openfreemap.org/styles/positron'}).addTo(map);
 L.marker([lat,lon]).addTo(map).bindPopup('<b>'+n+'</b><br>'+lat.toFixed(3)+', '+lon.toFixed(3)).openPopup()}
-var s=document.createElement('script');s.src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';s.onload=init;document.body.appendChild(s)})();
+function loadScript(src,cb){var s=document.createElement('script');s.src=src;s.onload=cb;document.body.appendChild(s)}
+loadScript('https://unpkg.com/maplibre-gl@5.9.0/dist/maplibre-gl.js',function(){
+loadScript('https://unpkg.com/@maplibre/maplibre-gl-leaflet@0.1.4/leaflet-maplibre-gl.js',init)})})();
 </script>
 </body>
 </html>

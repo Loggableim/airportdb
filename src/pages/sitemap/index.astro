@@ -1,0 +1,176 @@
+---
+import airports from '../../data/airports.js';
+import countries from '../../_data/countries.js';
+import blogPosts from '../../data/blog-posts.js';
+import { blogCategories } from '../../data/blog-categories.js';
+
+// Group airports by country
+const airportsByCountry = {};
+for (const a of airports) {
+  if (!a.iata) continue;
+  const c = a.country || 'Unknown';
+  if (!airportsByCountry[c]) airportsByCountry[c] = [];
+  airportsByCountry[c].push(a);
+}
+
+// Sort countries by airport count
+const sortedCountries = Object.entries(airportsByCountry)
+  .sort((a, b) => b[1].length - a[1].length);
+
+// Blog posts sorted by date
+const sortedPosts = [...blogPosts].sort((a, b) => new Date(b.date) - new Date(a.date));
+
+// Tools list
+const tools = [
+  { href: '/tools/distance-calculator/', title: 'Distance Calculator' },
+  { href: '/tools/iata-icao-lookup/', title: 'IATA/ICAO Lookup' },
+  { href: '/tools/nearest-airport/', title: 'Nearest Airport' },
+  { href: '/tools/timezone-lookup/', title: 'Timezone Lookup' },
+  { href: '/tools/airport-map/', title: 'Airport Map' },
+];
+
+// Helper: make slug from name
+function makeSlug(name) {
+  if (!name) return '';
+  return name.normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/['']/g,'').replace(/[–—]/g,'-').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,80);
+}
+
+const totalUrls = airports.filter(a => a.iata).length + countries.length + sortedPosts.length + tools.length + 5;
+const pageTitle = 'HTML Sitemap — World Airport Database';
+const pageDesc = `Complete list of all ${totalUrls.toLocaleString()} pages on world-airport-database.com — airports, countries, blog posts, and tools.`;
+const pageUrl = 'https://world-airport-database.com/sitemap/';
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc}>
+  <link rel="canonical" href={pageUrl}>
+  <meta name="robots" content="index, follow">
+  <meta property="og:title" content={pageTitle}>
+  <meta property="og:description" content={pageDesc}>
+  <meta property="og:url" content={pageUrl}>
+  <meta property="og:type" content="website">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:system-ui,-apple-system,sans-serif;background:#f8fafc;color:#1a1a2e;line-height:1.6;padding:20px}
+    .wrap{max-width:1100px;margin:0 auto}
+    h1{font-size:28px;font-weight:800;margin-bottom:4px;color:#0B1D3A}
+    h1 span{color:#2ca4dc}
+    .sub{color:#64748b;font-size:14px;margin-bottom:24px}
+    .toc{background:#fff;border:1px solid #e2e8f0;border-radius:10px;padding:18px 22px;margin-bottom:28px}
+    .toc h2{font-size:14px;text-transform:uppercase;letter-spacing:1px;color:#334155;margin-bottom:10px}
+    .toc-links{display:flex;flex-wrap:wrap;gap:8px}
+    .toc-links a{font-size:13px;color:#2563eb;text-decoration:none;padding:4px 10px;background:#eff6ff;border-radius:5px;font-weight:500}
+    .toc-links a:hover{background:#dbeafe}
+    .section{margin-bottom:32px}
+    .section h2{font-size:20px;font-weight:700;color:#0B1D3A;margin-bottom:12px;padding-bottom:8px;border-bottom:2px solid #e2e8f0}
+    .section h2 .count{font-size:13px;color:#64748b;font-weight:400;margin-left:8px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:6px}
+    .grid a{display:block;padding:8px 12px;font-size:13px;color:#334155;text-decoration:none;border-radius:6px;transition:all .12s;border:1px solid transparent}
+    .grid a:hover{background:#eff6ff;border-color:#bfdbfe;color:#2563eb}
+    .grid a .code{font-weight:700;color:#2ca4dc;margin-right:6px}
+    .country-section{margin-bottom:20px}
+    .country-section h3{font-size:15px;font-weight:700;color:#334155;margin-bottom:6px;padding:6px 10px;background:#f1f5f9;border-radius:6px}
+    .country-section h3 .cnt{font-size:12px;color:#64748b;font-weight:400}
+    .footer{text-align:center;padding:32px 0;color:#94a3b8;font-size:12px;border-top:1px solid #e2e8f0;margin-top:40px}
+    .footer a{color:#64748b}
+    @media(max-width:640px){.grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>HTML <span>Sitemap</span></h1>
+<p class="sub">{totalUrls.toLocaleString()} pages indexed — for users and search engine crawlers. <a href="/sitemap-index.xml">XML Sitemap →</a></p>
+
+<!-- TOC -->
+<div class="toc">
+  <h2>Jump to Section</h2>
+  <div class="toc-links">
+    <a href="#main">Main Pages</a>
+    <a href="#tools">Tools</a>
+    <a href="#countries">Countries</a>
+    <a href="#airports">Airports</a>
+    <a href="#blog">Blog</a>
+  </div>
+</div>
+
+<!-- MAIN PAGES -->
+<div class="section" id="main">
+  <h2>Main Pages <span class="count">(5)</span></h2>
+  <div class="grid">
+    <a href="/">🏠 Home — World Airport Database</a>
+    <a href="/countries/">🌍 All Countries</a>
+    <a href="/blog/">📝 Blog</a>
+    <a href="/download/">📦 Database Download</a>
+    <a href="/impressum/">📋 Impressum</a>
+  </div>
+</div>
+
+<!-- TOOLS -->
+<div class="section" id="tools">
+  <h2>Travel Tools <span class="count">({tools.length})</span></h2>
+  <div class="grid">
+    {tools.map(t => (
+      <a href={t.href}>🔧 {t.title}</a>
+    ))}
+  </div>
+</div>
+
+<!-- COUNTRIES -->
+<div class="section" id="countries">
+  <h2>Countries <span class="count">({countries.length})</span></h2>
+  <div class="grid">
+    {countries.map(c => (
+      <a href={`/countries/${c.slug}/`}>🌍 {c.name} <span style="color:#94a3b8;font-size:11px">({c.iata} IATA)</span></a>
+    ))}
+  </div>
+</div>
+
+<!-- AIRPORTS BY COUNTRY -->
+<div class="section" id="airports">
+  <h2>Airports by Country <span class="count">({airports.filter(a => a.iata).length.toLocaleString()})</span></h2>
+  {sortedCountries.map(([country, apts]) => {
+    const countrySlug = makeSlug(country);
+    return (
+      <div class="country-section">
+        <h3>{country} <span class="cnt">({apts.length} airports)</span></h3>
+        <div class="grid">
+          {apts.map(a => {
+            const nameSlug = makeSlug(a.name);
+            const slug = `${nameSlug}-${a.iata.toLowerCase()}`;
+            return (
+              <a href={`/airports/${countrySlug}/${slug}/`}>
+                <span class="code">{a.iata}</span> {a.name} — {a.municipality || country}
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    );
+  })}
+</div>
+
+<!-- BLOG -->
+<div class="section" id="blog">
+  <h2>Blog Posts <span class="count">({sortedPosts.length})</span></h2>
+  <div class="grid">
+    {sortedPosts.map(p => (
+      <a href={`/blog/${p.slug}/`}>
+        📝 <strong>{p.title}</strong>
+        <span style="color:#94a3b8;font-size:11px;display:block">{p.date} · {p.category.replace(/-/g,' ')}</span>
+      </a>
+    ))}
+  </div>
+</div>
+
+<div class="footer">
+  <p>World Airport Database · <a href="/sitemap-index.xml">XML Sitemap</a> · <a href="/">Home</a></p>
+</div>
+
+</div>
+</body>
+</html>

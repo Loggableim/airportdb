@@ -17,9 +17,11 @@ const pageUrl = 'https://world-airport-database.com/tools/airport-map/';
   <meta property="og:url" content={pageUrl}>
   <meta property="og:site_name" content="World Airport Database">
   <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:image" content="https://world-airport-database.com/logo-icon.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.9.0/dist/maplibre-gl.css">
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
   <style>
@@ -133,6 +135,28 @@ const pageUrl = 'https://world-airport-database.com/tools/airport-map/';
       .page-header .sub{font-size:12px}
     }
   </style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Airport Map",
+  "description": "{pageDesc}",
+  "url": "{pageUrl}",
+  "applicationCategory": "TravelApplication",
+  "operatingSystem": "Web"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://world-airport-database.com/"},
+    {"@type":"ListItem","position":2,"name":"Tools","item":"https://world-airport-database.com/tools/"},
+    {"@type":"ListItem","position":3,"name":"Airport Map"}
+  ]
+}
+</script>
 </head>
 <body>
 
@@ -149,9 +173,16 @@ const pageUrl = 'https://world-airport-database.com/tools/airport-map/';
       <a href="/tools/distance-calculator/">Distance</a>
       <a href="/tools/nearest-airport/">Nearest</a>
       <a href="/tools/airport-map/" class="active">Map</a>
+      <a href="/tools/emissions-calculator/">Emissions</a>
     </div>
   </div>
 </nav>
+
+<div class="wrap" style="padding:12px 0;font-size:13px;color:#8899aa">
+  <a href="/" style="color:var(--primary);text-decoration:none">Home</a> &rsaquo;
+  <a href="/tools/" style="color:var(--primary);text-decoration:none">Tools</a> &rsaquo;
+  <span style="color:var(--navy);font-weight:600">Airport Map</span>
+</div>
 
 <!-- Page Header -->
 <div class="page-header">
@@ -222,6 +253,8 @@ const pageUrl = 'https://world-airport-database.com/tools/airport-map/';
 </footer>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/maplibre-gl@5.9.0/dist/maplibre-gl.js"></script>
+<script src="https://unpkg.com/@maplibre/maplibre-gl-leaflet@0.1.4/leaflet-maplibre-gl.js"></script>
 <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 <script>
 (function() {
@@ -260,9 +293,10 @@ const pageUrl = 'https://world-airport-database.com/tools/airport-map/';
   const locateBtn     = document.getElementById('locate-btn');
 
   /* ─── Helpers ─── */
+  const mkSlug = (s) => (s||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/['']/g,'').replace(/[–—]/g,'-').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,80);
   function getAirportUrl(ap) {
-    const cs = (ap.c||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')||'unknown';
-    const ns = (ap.n||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,60);
+    const cs = mkSlug(ap.c) || 'unknown';
+    const ns = mkSlug(ap.n);
     return `/airports/${cs}/${ns}-${(ap.i||'').toLowerCase()}/`;
   }
 
@@ -410,12 +444,12 @@ const pageUrl = 'https://world-airport-database.com/tools/airport-map/';
     map = L.map('map', {
       center: [20, 0],
       zoom: 2,
+      maxZoom: 19,
       zoomControl: true,
       attributionControl: true
     });
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-      attribution: '&copy; <a href="https://carto.com/">CARTO</a>',
-      maxZoom: 19
+    L.maplibreGL({
+      style: 'https://tiles.openfreemap.org/styles/positron'
     }).addTo(map);
   }
 

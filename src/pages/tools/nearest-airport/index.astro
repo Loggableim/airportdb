@@ -17,6 +17,7 @@ const pageUrl = 'https://world-airport-database.com/tools/nearest-airport/';
   <meta property="og:url" content={pageUrl}>
   <meta property="og:site_name" content="World Airport Database">
   <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:image" content="https://world-airport-database.com/logo-icon.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -159,6 +160,28 @@ const pageUrl = 'https://world-airport-database.com/tools/nearest-airport/';
     .back-link:hover{text-decoration:underline}
     .flex-center{display:flex;align-items:center;gap:6px}
   </style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Nearest Airport Finder",
+  "description": "{pageDesc}",
+  "url": "{pageUrl}",
+  "applicationCategory": "TravelApplication",
+  "operatingSystem": "Web"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://world-airport-database.com/"},
+    {"@type":"ListItem","position":2,"name":"Tools","item":"https://world-airport-database.com/tools/"},
+    {"@type":"ListItem","position":3,"name":"Nearest Airport Finder"}
+  ]
+}
+</script>
 </head>
 <body>
 
@@ -174,11 +197,18 @@ const pageUrl = 'https://world-airport-database.com/tools/nearest-airport/';
       <a href="/tools/iata-icao-lookup/">Lookup</a>
       <a href="/tools/timezone-lookup/">Timezone</a>
       <a href="/tools/airport-map/">Map</a>
+      <a href="/tools/emissions-calculator/">Emissions</a>
       <a href="/blog/">Blog</a>
       <a href="/download/">Database</a>
     </div>
   </div>
 </nav>
+
+<div class="wrap" style="padding:12px 0;font-size:13px;color:#8899aa">
+  <a href="/" style="color:var(--primary);text-decoration:none">Home</a> &rsaquo;
+  <a href="/tools/" style="color:var(--primary);text-decoration:none">Tools</a> &rsaquo;
+  <span style="color:var(--navy);font-weight:600">Nearest Airport Finder</span>
+</div>
 
 <!-- Hero -->
 <div class="ah">

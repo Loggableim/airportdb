@@ -37,3 +37,11 @@ output/
 # Hermes
 sessions/
 memory/
+# Sidekick space state (local only)
+kanban.db
+space.yaml
+.space-config.lock
+goals.db
+goals.db-shm
+goals.db-wal
+_tilecheck/

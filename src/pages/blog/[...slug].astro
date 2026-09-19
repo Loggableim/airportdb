@@ -2,6 +2,16 @@
 import blogPosts from '../../data/blog-posts.js';
 import { blogCategories, getCategoryBySlug, getSubcategoryBySlug, getAllSubcategories } from '../../data/blog-categories.js';
 import { navItems } from '../../data/nav.js';
+import airportsData from '../../data/airports.js';
+import { makeSlug } from '../../data/airport-helpers.js';
+
+// Build IATA → airport lookup once
+const iataAirportMap = {};
+for (const ap of airportsData) {
+  if (ap.iata) {
+    iataAirportMap[ap.iata] = ap;
+  }
+}
 
 export async function getStaticPaths() {
   return blogPosts.map(post => ({
@@ -23,6 +33,22 @@ const category = getCategoryBySlug(post.category);
 const subcategory = category ? getSubcategoryBySlug(post.category, post.subcategory) : null;
 const readTime = readingTime(post.content_html);
 const dateFormatted = new Date(post.date).toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' });
+
+// Related Airports: extract IATA codes from tags and match against airports data
+const relatedAirports = (post.tags || [])
+  .filter(tag => /^[A-Z]{3}$/.test(tag) && iataAirportMap[tag])
+  .map(iata => {
+    const ap = iataAirportMap[iata];
+    const countrySlug = makeSlug(ap.country) || 'unknown';
+    const nameSlug = makeSlug(ap.name);
+    const airportSlug = `${countrySlug}/${nameSlug}-${ap.iata.toLowerCase()}`;
+    return {
+      iata: ap.iata,
+      name: ap.name,
+      country: ap.country,
+      url: `/airports/${airportSlug}/`
+    };
+  });
 const pageTitle = `${post.title} — World Airport Database Blog`;
 const pageUrl = `https://world-airport-database.com/blog/${post.slug}/`;
 
@@ -86,7 +112,7 @@ const jsonLd = {
 ---
 
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -98,7 +124,9 @@ const jsonLd = {
   <meta property="og:description" content={post.excerpt}>
   <meta property="og:url" content={pageUrl}>
   <meta property="og:site_name" content="World Airport Database">
+  <meta property="og:image" content="https://world-airport-database.com/logo-icon.svg">
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://world-airport-database.com/logo-icon.svg">
   <meta name="twitter:title" content={pageTitle}>
   <meta name="twitter:description" content={post.excerpt}>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd, null, 2)}></script>
@@ -247,6 +275,16 @@ const jsonLd = {
     footer a{color:var(--primary)}
     footer a:hover{color:#60c0e8}
     @media(max-width:600px){.footer-inner{flex-direction:column;text-align:center;gap:8px}}
+
+    /* ── Related Airports ── */
+    .related-airports{margin:32px 0;padding:20px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px}
+    .related-airports h3{font-size:16px;color:#0B1D3A;margin-bottom:14px}
+    .ra-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px}
+    .ra-card{display:flex;flex-direction:column;padding:12px 14px;background:#fff;border:1px solid #e2e8f0;border-radius:8px;text-decoration:none;color:inherit;transition:all .15s}
+    .ra-card:hover{border-color:#2ca4dc;box-shadow:0 2px 8px rgba(44,164,220,.1);text-decoration:none}
+    .ra-code{font-size:18px;font-weight:800;color:#2ca4dc}
+    .ra-name{font-size:13px;color:#334155;margin-top:2px}
+    .ra-country{font-size:11px;color:#94a3b8;margin-top:2px}
   </style>
 </head>
 <body>
@@ -269,6 +307,7 @@ const jsonLd = {
     <a href="/blog/">Blog</a>
     <span class="sep">›</span>
     {category && <><a href={`/blog/?category=${category.slug}`}>{category.name}</a><span class="sep">›</span></>}
+    {subcategory && <><a href={`/blog/?category=${category.slug}&sub=${subcategory.slug}`}>{subcategory.name}</a><span class="sep">›</span></>}
     <span style="color:var(--text)">{post.title}</span>
   </div>
 
@@ -305,6 +344,22 @@ const jsonLd = {
             <a href={`/blog/?tag=${tag}`} class="tag">{tag}</a>
           ))}
         </div>
+
+        <!-- Related Airports -->
+        {relatedAirports.length > 0 && (
+          <div class="related-airports">
+            <h3>🛫 Related Airports</h3>
+            <div class="ra-grid">
+              {relatedAirports.map(a => (
+                <a href={a.url} class="ra-card">
+                  <span class="ra-code">{a.iata}</span>
+                  <span class="ra-name">{a.name}</span>
+                  <span class="ra-country">{a.country}</span>
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
 
       </article>
 

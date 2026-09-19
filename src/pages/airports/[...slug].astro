@@ -10,6 +10,8 @@ import {
   allianceClass,
   climateBarColor
 } from '../../data/airport-helpers.js';
+// ── Generated content ─────────────────────────────────────────────
+import airportContent from '../../../data/airport-content.json' assert { type: 'json' };
 
 // ── Climate Zone helper ──────────────────────────────────────────────
 function getClimateZone(lat) {
@@ -217,9 +219,9 @@ export async function getStaticPaths() {
 
 const { airport, nearbyAirports, timezone, climate, season, airlines, slug } = Astro.props;
 const pageTitle = `${airport.name} (${airport.iata}) - World Airport Database`;
-const pageDesc = `${airport.name} (${airport.iata} / ${airport.icao}) — ${airport.type.replace(/_/g,' ')} in ${airport.municipality || airport.country}, ${airport.country}. Coordinates: ${airport.lat.toFixed(3)}°N, ${airport.lon.toFixed(3)}°E.`;
+const pageDesc = `${airport.name} (${airport.iata} / ${airport.icao}) — ${airport.type.replace(/_/g,' ')} in ${airport.municipality || airport.country}, ${airport.country}. Coordinates: ${Math.abs(airport.lat).toFixed(3)}°${airport.lat >= 0 ? 'N' : 'S'}, ${Math.abs(airport.lon).toFixed(3)}°${airport.lon >= 0 ? 'E' : 'W'}.`;
 const pageUrl = `https://world-airport-database.com/airports/${slug}/`;
-const ogImage = `https://world-airport-database.com/og-airport.png`;
+const ogImage = `https://world-airport-database.com/logo-icon.svg`;
 const continentNames = {NA:'North America',SA:'South America',EU:'Europe',AS:'Asia',AF:'Africa',OC:'Oceania',AN:'Antarctica'};
 const contName = continentNames[airport.continent] || airport.continent;
 const typeLabel = airport.type.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase());
@@ -317,6 +319,7 @@ const jsonldNearby = nearbyAirports.length ? JSON.stringify({
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.9.0/dist/maplibre-gl.css">
   <style>
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     body{font-family:'Open Sans',Arial,sans-serif;background:#F4F7FA;color:#202c39;line-height:1.7}
@@ -403,6 +406,13 @@ const jsonldNearby = nearbyAirports.length ? JSON.stringify({
     </div>
   </div>
 </nav>
+
+<!-- Breadcrumb -->
+<div class="wrap" style="padding:12px 0;font-size:13px;color:#8899aa">
+  <a href="/" style="color:var(--primary);text-decoration:none">Home</a> &rsaquo;
+  <a href={`/countries/${countrySlug}/`} style="color:var(--primary);text-decoration:none">{airport.country}</a> &rsaquo;
+  <span style="color:var(--navy);font-weight:600">{airport.name} ({airport.iata})</span>
+</div>
 
 <!-- Header -->
 <div class="ah">
@@ -504,9 +514,38 @@ const jsonldNearby = nearbyAirports.length ? JSON.stringify({
 
   <!-- Map full-width -->
   <div class="sec-h"><h3><span>&#128506;</span> Location Map</h3></div>
-  <div class="mw" id="am" data-lat="{airport.lat}" data-lon="{airport.lon}" data-iata="{airport.iata}" data-name="{airport.name.replace(/'/g, '&apos;')}" data-icao="{airport.icao}"></div>
+<div class="mw" id="am" data-lat={airport.lat} data-lon={airport.lon} data-iata={airport.iata} data-name={airport.name} data-icao={airport.icao}></div>
 
-  <!-- Nearby Airports -->
+  <!-- Generated Content -->
+  {airportContent[airport.iata] && (
+    <div class="card airport-content" style="margin-top:20px">
+      <div class="content-body" style="font-size:14px;line-height:1.8">
+        {airportContent[airport.iata].content.split('\n').map(line => {
+          if (line.startsWith('## ')) {
+            return `<h3 class="sec-h" style="margin-top:20px;border-bottom:2px solid var(--primary);padding-bottom:6px;font-size:16px;color:#202c39">${line.slice(3)}</h3>`;
+          }
+          if (line.startsWith('### ')) {
+            return `<h4 style="font-size:14px;color:var(--navy);margin-top:16px;margin-bottom:8px">${line.slice(4)}</h4>`;
+          }
+          if (line.startsWith('**') && line.endsWith('**')) {
+            return `<p style="margin:8px 0"><strong>${line.slice(2,-2)}</strong></p>`;
+          }
+          if (line.startsWith('- ')) {
+            return `<li style="margin-left:20px;margin-bottom:4px">${line.slice(2)}</li>`;
+          }
+          if (line.trim() === '') {
+            return `<div style="height:8px"></div>`;
+          }
+          return `<p style="margin:8px 0">${line}</p>`;
+        }).join('\n')}
+      </div>
+      <div style="font-size:11px;color:#8899aa;margin-top:12px;border-top:1px solid var(--border);padding-top:8px">
+        Content generated on {new Date(airportContent[airport.iata].completed_at).toLocaleDateString('en-US', { year:'numeric', month:'long', day:'numeric' })}
+      </div>
+    </div>
+  )}
+
+<!-- Nearby Airports (Top 5) -->
   <div class="sec-h"><h3><span>&#127759;</span> Nearby Airports (Top 5)</h3></div>
   {nearbyAirports.length > 0 ? (
     <table>
@@ -570,12 +609,17 @@ const jsonldNearby = nearbyAirports.length ? JSON.stringify({
     var lat=parseFloat(m.dataset.lat),lon=parseFloat(m.dataset.lon),i=m.dataset.iata,n=m.dataset.name,ic=m.dataset.icao;
     function init(){
       var L=window.L;
-      if(!L||!L.map){setTimeout(init,500);return}
-      var map=L.map(m).setView([lat,lon],5);
-      L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',{attribution:'&copy; CARTO',maxZoom:19}).addTo(map);
+      if(!L||!L.map||!L.maplibreGL||!window.maplibregl){setTimeout(init,500);return}
+      var map=L.map(m,{maxZoom:19}).setView([lat,lon],5);
+      L.maplibreGL({style:'https://tiles.openfreemap.org/styles/positron'}).addTo(map);
       L.marker([lat,lon]).addTo(map).bindPopup('<b>'+n+' ('+i+')</b><br>'+ic).openPopup()
     }
-    var s=document.createElement('script');s.src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';s.onload=init;document.body.appendChild(s);
+    function loadScript(src,cb){var s=document.createElement('script');s.src=src;s.onload=cb;document.body.appendChild(s)}
+    loadScript('https://unpkg.com/leaflet@1.9.4/dist/leaflet.js',function(){
+      loadScript('https://unpkg.com/maplibre-gl@5.9.0/dist/maplibre-gl.js',function(){
+        loadScript('https://unpkg.com/@maplibre/maplibre-gl-leaflet@0.1.4/leaflet-maplibre-gl.js',init);
+      });
+    });
   }
 
   // Live Local Time

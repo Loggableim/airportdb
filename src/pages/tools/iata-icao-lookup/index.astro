@@ -17,6 +17,7 @@ const pageUrl = 'https://world-airport-database.com/tools/iata-icao-lookup/';
   <meta property="og:url" content={pageUrl}>
   <meta property="og:site_name" content="World Airport Database">
   <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:image" content="https://world-airport-database.com/logo-icon.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
@@ -108,6 +109,28 @@ const pageUrl = 'https://world-airport-database.com/tools/iata-icao-lookup/';
       .type-badge{font-size:10px;padding:1px 5px}
     }
   </style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "IATA / ICAO Airport Lookup",
+  "description": "{pageDesc}",
+  "url": "{pageUrl}",
+  "applicationCategory": "TravelApplication",
+  "operatingSystem": "Web"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type":"ListItem","position":1,"name":"Home","item":"https://world-airport-database.com/"},
+    {"@type":"ListItem","position":2,"name":"Tools","item":"https://world-airport-database.com/tools/"},
+    {"@type":"ListItem","position":3,"name":"IATA / ICAO Airport Lookup"}
+  ]
+}
+</script>
 </head>
 <body>
 
@@ -125,9 +148,16 @@ const pageUrl = 'https://world-airport-database.com/tools/iata-icao-lookup/';
       <a href="/tools/nearest-airport/">Nearest</a>
       <a href="/tools/timezone-lookup/">Timezone</a>
       <a href="/tools/airport-map/">Map</a>
+      <a href="/tools/emissions-calculator/">Emissions</a>
     </div>
   </div>
 </nav>
+
+<div class="wrap" style="padding:12px 0;font-size:13px;color:#8899aa">
+  <a href="/" style="color:var(--primary);text-decoration:none">Home</a> &rsaquo;
+  <a href="/tools/" style="color:var(--primary);text-decoration:none">Tools</a> &rsaquo;
+  <span style="color:var(--navy);font-weight:600">IATA / ICAO Airport Lookup</span>
+</div>
 
 <!-- Hero -->
 <div class="hero">
@@ -275,7 +305,7 @@ const pageUrl = 'https://world-airport-database.com/tools/iata-icao-lookup/';
   }
 
   function slugify(text) {
-    return (text || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') || 'unknown';
+    const slugify = (name) => (name || '').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/['']/g,'').replace(/[–—]/g,'-').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '') || 'unknown';
   }
 
   function typeBadge(type) {
