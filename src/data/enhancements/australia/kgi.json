@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KGI",
+    "icao": "YPKG",
+    "name": "Kalgoorlie Boulder Airport",
+    "country": "Australia",
+    "city": "Broadwood",
+    "lat": -30.7915,
+    "lon": 121.4646,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kalgoorlie Boulder Airport (KGI) is a medium-sized regional airport serving the historic Goldfields-Esperance region of Western Australia, located in the suburb of Broadwood just south of the city. The airport serves as the main gateway to Kalgoorlie-Boulder, a city born from the late 19th-century gold rush and home to the famous Super Pit open-cut gold mine. It handles regular scheduled passenger services connecting the mining region with Perth and supports significant fly-in fly-out (FIFO) traffic tied to the area's extensive mining operations.",
+  "faqs": "Q: What airlines fly into Kalgoorlie Boulder Airport?\nA: QantasLink and Virgin Australia operate regular scheduled services, primarily connecting Kalgoorlie-Boulder with Perth.\n\nQ: How far is the airport from Kalgoorlie town centre?\nA: The airport is approximately 5 km south of the city centre, making for a quick drive of around 10 minutes.\n\nQ: Does the airport serve FIFO (fly-in fly-out) workers?\nA: Yes, a significant portion of the airport's traffic consists of FIFO workers heading to local mining operations in the Goldfields.\n\nQ: Is the airport open 24 hours?\nA: The airport operates during scheduled flight hours; there is no scheduled late-night or overnight passenger service.",
+  "transport_tips": "Taxis and rideshare services are readily available at the terminal for the short trip into Kalgoorlie-Boulder. Rental car counters operate at the airport, which is recommended for those planning to explore the broader Goldfields region. Shuttle services to local hotels and mining accommodation camps can also be booked in advance.",
+  "local_tip": "If you're visiting the Super Pit open-cut gold mine — one of the largest in Australia — book the lookout tour in advance, as tours don't run daily and the working mine visibly changes between visits.",
+  "generatedAt": "2026-06-29T07:05:53.513Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FBG",
+    "icao": "KFBG",
+    "name": "Simmons Army Air Field",
+    "country": "United States",
+    "city": "Fort Bragg",
+    "lat": 35.1318,
+    "lon": -78.9367,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Simmons Army Air Field is a military airfield situated on Fort Liberty (formerly Fort Bragg) in North Carolina, primarily supporting U.S. Army aviation operations including rotary-wing and fixed-wing aircraft. The facility serves as a key hub for airborne and special operations training, reflecting the base's storied airborne infantry heritage. While not open to civilian commercial traffic, it plays a vital role in rapid deployment logistics for the XVIII Airborne Corps.",
+  "faqs": "Q: Is Simmons Army Air Field open to civilian passengers?\nA: No, FBG is a military installation and does not offer scheduled commercial passenger service. Access is generally restricted to authorized military personnel and their guests.\n\nQ: What is the airport primarily used for?\nA: The airfield supports U.S. Army aviation units stationed at Fort Liberty, including airlift, training missions, and operational deployments associated with airborne and special operations forces.\n\nQ: Where is Simmons AAF located relative to nearby cities?\nA: The airfield is located within Fort Liberty, just northwest of Fayetteville, North Carolina, approximately 60 miles south of Raleigh.\n\nQ: Are there other airports nearby for civilian travel?\nA: Yes, Fayetteville Regional Airport (FAY) is located about 15 miles southeast and provides commercial airline service to the region.\n\n",
+  "transport_tips": "Civilian visitors should fly into Fayetteville Regional Airport (FAY) or Raleigh-Durham International Airport (RDU), both of which offer rental cars and ground transport options. Access to Fort Liberty requires a valid military ID for non-civilian traffic, so plan for base entry procedures if visiting service members. RDU offers more flight choices and is roughly a 1.5-hour drive from the installation.",
+  "local_tip": "If you have access to the base, the nearby 82nd Airborne Division War Memorial Museum on Fort Liberty offers a remarkable look at the post's airborne history and is well worth a visit during downtime between flights.",
+  "generatedAt": "2026-06-26T09:07:58.333Z",
+  "model": "MiniMax-M3"
+}

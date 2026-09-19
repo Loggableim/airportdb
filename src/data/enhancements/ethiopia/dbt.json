@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DBT",
+    "icao": "HADT",
+    "name": "Debre Tabor Airport",
+    "country": "Ethiopia",
+    "city": "Debre Tabor",
+    "lat": 11.8848,
+    "lon": 38.0092,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Debre Tabor Airport (DBT/HADT) is a small domestic airport serving the historic town of Debre Tabor in the Amhara Region of northern Ethiopia. The town holds significant historical importance as it was once a capital of Ethiopia during the reign of Emperor Tewodros II in the 19th century. The airport primarily handles regional flights and charter operations, serving as a gateway for visitors exploring the area's historical sites and scenic highland landscapes.",
+  "faqs": "Q: What is the airport code for Debre Tabor Airport?\nA: The airport's IATA code is DBT and its ICAO code is HADT.\n\nQ: Does Debre Tabor Airport have international flights?\nA: No, it is a small domestic airport that handles only regional and charter flights within Ethiopia.\n\nQ: What is the elevation of Debre Tabor Airport?\nA: The airport sits at approximately 2,650 meters (8,690 feet) above sea level in the Ethiopian highlands.\n\nQ: Are there scheduled commercial flights to Debre Tabor?\nA: Flight availability is limited and typically operates on a charter or seasonal basis rather than daily scheduled service.\n\n",
+  "transport_tips": "The airport is located near Debre Tabor town, making ground transportation relatively quick, typically a short drive by taxi or private car. There is no public transit serving the airport, so arranging transport in advance through a local hotel or tour operator is recommended. Roads in the region can be mountainous and winding, so allow extra travel time, especially during the rainy season.",
+  "local_tip": "Visit the historic church of Debre Tabor Maryam, associated with Emperor Tewodros II, which is one of the oldest and most significant religious sites in northern Ethiopia and well worth exploring if your flight allows time in town.",
+  "generatedAt": "2026-06-27T20:47:41.826Z",
+  "model": "MiniMax-M3"
+}

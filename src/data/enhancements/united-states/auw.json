@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AUW",
+    "icao": "KAUW",
+    "name": "Wausau Downtown Airport",
+    "country": "United States",
+    "city": "Wausau",
+    "lat": 44.9262,
+    "lon": -89.6266,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Wausau Downtown Airport is a general aviation facility located within the city limits of Wausau, Wisconsin, serving the central Wisconsin region. Situated along the Wisconsin River, it primarily handles private, business, and flight training operations rather than commercial airline service. The airport features two runways and plays an important role in supporting regional business travel and general aviation activities for the Wausau metropolitan area.",
+  "faqs": "Q: Does Wausau Downtown Airport have commercial airline service?\nA: No, AUW is a general aviation airport and does not offer scheduled commercial flights. Travelers seeking commercial service use Central Wisconsin Airport (CWA) in nearby Mosinee.\n\nQ: What is the airport primarily used for?\nA: The airport serves private pilots, business aviation, flight training, and recreational flying. It is also home to several FBOs and aircraft maintenance facilities.\n\nQ: Are there rental cars available at the airport?\nA: Rental car availability is limited at AUW since it handles primarily general aviation. Visitors typically arrange ground transportation in advance or use services based in Wausau.\n\nQ: How many runways does Wausau Downtown Airport have?\nA: The airport has two asphalt runways, accommodating a range of piston and turbine aircraft operations.",
+  "transport_tips": "Getting to and from Wausau Downtown Airport is easiest by personal vehicle, as the airport is conveniently located just minutes from downtown Wausau via local roads. Taxi services and rideshare options can be arranged but may require advance booking due to the airport's general aviation focus. The short drive into central Wausau makes it a quick trip to area hotels, businesses, and the Wisconsin River waterfront.",
+  "local_tip": "If you're arriving by private aircraft, the airport's proximity to downtown Wausau means you can walk or take a very short drive to local restaurants and the Riverlife Park along the Wisconsin River, which is a pleasant spot to stretch your legs after a flight.",
+  "generatedAt": "2026-06-26T08:19:09.501Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EIB",
+    "icao": "EDGE",
+    "name": "Eisenach-Kindel Airport",
+    "country": "Germany",
+    "city": "Hörselberg-Hainich",
+    "lat": 50.9916,
+    "lon": 10.4797,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Eisenach-Kindel Airport serves the historic city of Eisenach in the Thuringia region of central Germany. The facility primarily handles general aviation, business flights, and charter operations, making it a useful gateway for visitors heading to Eisenach and the surrounding Wartburg district. Its location places travelers within easy reach of cultural landmarks such as Wartburg Castle, a UNESCO World Heritage Site.",
+  "faqs": "Q: What is Eisenach-Kindel Airport primarily used for?\nA: The airport mainly serves general aviation, private flights, and occasional charter services rather than scheduled commercial routes.\n\nQ: How far is the airport from Eisenach city center?\nA: The airport is located roughly 10 km northwest of Eisenach, making it a short drive to the city.\n\nQ: Are there regular airline services at EIB?\nA: Scheduled passenger service is very limited; travelers typically rely on private or charter flights when using this airport.\n\nQ: What region does the airport serve?\nA: It serves the city of Eisenach, the Wartburgkreis district, and the broader Thuringia region of central Germany.\n\n",
+  "transport_tips": "The airport is conveniently located near the A4 autobahn, making car access straightforward from Eisenach, Erfurt, and other regional destinations. Taxi services and rental cars are the most practical options for reaching Eisenach city center, as public transport connections directly to the terminal are limited. Visitors planning onward travel by rail can reach Eisenach Hauptbahnhof and connect onward from there.",
+  "local_tip": "Take advantage of the airport's proximity to Hainich National Park, a UNESCO World Heritage beech forest with treetop walkways, which is just a short drive south and a wonderful stop for nature lovers between flights.",
+  "generatedAt": "2026-06-26T08:50:42.303Z",
+  "model": "MiniMax-M3"
+}

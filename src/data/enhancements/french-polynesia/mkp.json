@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MKP",
+    "icao": "NTGM",
+    "name": "Makemo Airport",
+    "country": "French Polynesia",
+    "city": "Makemo",
+    "lat": -16.5839,
+    "lon": -143.658,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Makemo Airport (MKP) serves the village of Makemo on a coral atoll in the Tuamotu Archipelago of French Polynesia. The airport provides essential air connectivity for the remote island community, which is otherwise accessible only by lengthy boat voyages. It functions as a vital lifeline for residents, supporting tourism, commerce, and medical transport across the sparsely populated atoll chain.",
+  "faqs": "Q: What airlines operate at Makemo Airport?\nA: Air Tahiti provides scheduled flights connecting Makemo to Papeete on Tahiti and other islands in the Tuamotu group.\n\nQ: How long is the flight from Papeete to Makemo?\nA: The flight from Papeete Faa'a International Airport to Makemo typically takes around 1 hour and 15 minutes.\n\nQ: Does Makemo Airport have customs and immigration facilities?\nA: As a domestic airport within French Polynesia, Makemo handles only inter-island flights and does not process international arrivals.\n\nQ: Is the airport runway paved?\nA: The runway at Makemo Airport is paved and suitable for regional turboprop aircraft used by Air Tahiti.",
+  "transport_tips": "Air Tahiti flights are the primary way to reach Makemo, and tickets should be booked well in advance as services are limited. Upon arrival, the main village of Puheva is accessible by a short taxi or shuttle ride from the terminal. There are no ferry connections linking the airport to other islands, so flying is essentially the only practical option for visitors.",
+  "local_tip": "Bring sunscreen, a hat, and plenty of water even for the short walk between the terminal and your accommodation, as the atoll sun is intense and shade is scarce near the airstrip.",
+  "generatedAt": "2026-06-29T15:21:28.853Z",
+  "model": "MiniMax-M3"
+}

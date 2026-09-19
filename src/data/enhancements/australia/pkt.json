@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PKT",
+    "icao": "",
+    "name": "Port Keats Airport",
+    "country": "Australia",
+    "city": "Wadeye",
+    "lat": -14.2497,
+    "lon": 129.5295,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Port Keats Airport (PKT) serves the remote community of Wadeye in Australia's Northern Territory, one of the largest Aboriginal communities in the region. Located near the Joseph Bonaparte Gulf, the airport provides a vital lifeline for residents, supporting essential passenger services and freight to this otherwise road-isolated settlement. It plays a crucial role in connecting the community to Darwin and other regional hubs.",
+  "faqs": "Q: What is the IATA code for Port Keats Airport?\nA: The IATA code is PKT.\n\nQ: Which community does Port Keats Airport serve?\nA: It serves Wadeye, also historically known as Port Keats, a remote Aboriginal community in the Northern Territory.\n\nQ: How can travelers reach Wadeye?\nA: Given its remote location with limited road access, most visitors travel to Wadeye via regional flights from Darwin operated by small charter and scheduled carriers.\n\nQ: Is the airport open to commercial passengers?\nA: Yes, Port Keats Airport handles regular passenger services, primarily connecting the community to Darwin.",
+  "transport_tips": "Flights to Wadeye typically depart from Darwin, the nearest major hub, and should be booked well in advance due to limited daily services. Ground transport from the airport to the community is usually arranged locally, as there is no public transport network. Travelers should coordinate pickup arrangements with their host or local accommodation before arrival, as taxi services are not available.",
+  "local_tip": "Wadeye is a culturally significant community, and visitors should respect local protocols, including obtaining permission before taking photographs of community members or sacred sites.",
+  "generatedAt": "2026-06-26T10:48:45.013Z",
+  "model": "MiniMax-M3"
+}

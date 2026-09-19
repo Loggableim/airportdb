@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BKA",
+    "icao": "",
+    "name": "Baykit Airport",
+    "country": "Russia",
+    "city": "Baykit",
+    "lat": 61.6767,
+    "lon": 96.355,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Baykit Airport (BKA) is a small regional airport serving the remote settlement of Baykit in Krasnoyarsk Krai, Siberia, Russia. Situated along the Yenisei River basin in the vast taiga wilderness, it provides a vital transportation link for this isolated community, primarily supporting connections to Krasnoyarsk and other regional hubs. The airport plays a crucial role for the local Evenki population, oil and gas workers, and serves as a gateway to one of the most sparsely populated regions in Russia.",
+  "faqs": "Q: What is the IATA code for Baykit Airport?\nA: The IATA code for Baykit Airport is BKA.\n\nQ: Where is Baykit Airport located?\nA: Baykit Airport is located near the settlement of Baykit in Krasnoyarsk Krai, Siberia, Russia, at approximately 61.677°N, 96.355°E.\n\nQ: Are there regular commercial flights to Baykit?\nA: Baykit is served primarily by regional flights, typically connecting to Krasnoyarsk, with operations often seasonal due to the harsh Siberian climate.\n\nQ: What is the airport mainly used for?\nA: The airport primarily serves passenger transport for local residents, workers in the oil and gas industry, and provides access to remote taiga communities in the region.",
+  "transport_tips": "Getting to and from Baykit Airport typically requires arranging transport in advance, as there is limited public transportation serving the small facility. Most travelers rely on pre-booked taxis or transport arranged through their accommodation or employer. The airport's remote location means that having local contacts arrange pickup is highly recommended, especially during winter months when road conditions can be challenging.",
+  "local_tip": "Pack warm layers and confirm your flight well in advance, as Baykit Airport has limited daily flights and operations can be affected by extreme Siberian winter weather, sometimes resulting in unexpected delays or cancellations during peak cold periods.",
+  "generatedAt": "2026-06-26T12:31:25.295Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MSY",
+    "icao": "KMSY",
+    "name": "Louis Armstrong New Orleans International Airport",
+    "country": "United States",
+    "city": "New Orleans",
+    "lat": 29.9934,
+    "lon": -90.2647,
+    "type": "large_airport",
+    "size": 1012575
+  },
+  "summary": "Louis Armstrong New Orleans International Airport (MSY) serves the New Orleans metropolitan area from its location in Kenner, Louisiana, about 11 miles west of downtown. The airport was renamed in 2001 to honor the legendary jazz trumpeter Louis Armstrong, who was born in New Orleans in 1901. In November 2019, MSY opened a modern single-terminal facility that consolidated operations previously split across multiple terminals, reflecting the city's vibrant cultural heritage through art, music, and locally inspired dining.",
+  "faqs": "Q: How far is MSY from the French Quarter?\nA: The airport is approximately 11 miles west of downtown New Orleans, with typical drive times of 20-30 minutes depending on traffic.\n\nQ: Does MSY have a single terminal?\nA: Yes, since November 2019, all flights operate from one modern terminal featuring a central concourse with multiple gates.\n\nQ: What airlines operate at MSY?\nA: Major carriers include Southwest, Delta, American, United, and Spirit, along with several regional airlines serving domestic and select international destinations.\n\nQ: Is there public transportation from the airport?\nA: Limited public transit is available, but most travelers use taxis, rideshares, shuttles, or rental cars to reach the city.",
+  "transport_tips": "The airport sits just off Interstate 10, making car travel straightforward. Rideshares and taxis are available on the ground level of the terminal, and rental car counters are located in the attached garage. During Mardi Gras and major events, allow extra time as traffic on I-10 can become heavily congested.",
+  "local_tip": "Take time to explore the airport's art collection and live music performances, which often feature local jazz musicians paying tribute to the city's musical heritage in honor of Louis Armstrong.",
+  "generatedAt": "2026-06-28T15:18:06.868Z",
+  "model": "MiniMax-M3"
+}

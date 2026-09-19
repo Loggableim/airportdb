@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KNN",
+    "icao": "GXUD",
+    "name": "Kankan Airport",
+    "country": "Guinea",
+    "city": "Kankan",
+    "lat": 10.4484,
+    "lon": -9.2288,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Kankan Airport serves the city of Kankan, Guinea's second-largest urban center and a major hub in the country's eastern region. The small airport primarily handles domestic flights and occasional regional services, supporting travel to this important commercial and educational city. Its location near the Milo River places it within reach of Guinea's lush Upper Guinea landscape.",
+  "faqs": "Q: What is the IATA code for Kankan Airport?\nA: The IATA code for Kankan Airport is KNN, and its ICAO code is GXUD.\n\nQ: Does Kankan Airport handle international flights?\nA: Kankan Airport primarily serves domestic routes, with limited regional connections rather than regular international services.\n\nQ: Where is Kankan Airport located relative to the city center?\nA: The airport is situated on the outskirts of Kankan, accessible by road from the city center in a relatively short drive.\n\nQ: What facilities are available at Kankan Airport?\nA: As a small regional airport, it offers basic terminal facilities and is best suited for travelers with minimal luggage requirements.",
+  "transport_tips": "Taxis and motorbike taxis (commonly called 'motos') are the primary ways to reach Kankan Airport from the city center. Travelers should arrange ground transport in advance, as ride-hailing apps are not widely available in Kankan. Allow extra time for travel during the rainy season, when unpaved roads can become difficult to navigate.",
+  "local_tip": "Carry small denomination Guinean francs (GNF) for taxi fares and airport tips, as card payment infrastructure is limited and change for larger bills can be hard to obtain in the region.",
+  "generatedAt": "2026-06-28T00:04:23.329Z",
+  "model": "MiniMax-M3"
+}

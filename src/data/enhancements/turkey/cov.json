@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "COV",
+    "icao": "LTDB",
+    "name": "Çukurova International Airport",
+    "country": "Turkey",
+    "city": "Tarsus",
+    "lat": 36.8915,
+    "lon": 35.0712,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Çukurova International Airport (COV) is a modern large airport serving the Çukurova region of southern Turkey, providing a gateway for travelers heading to Adana, Mersin, and surrounding areas. Opened in recent years, it replaced the older Adana Şakirpaşa Airport and features a single large terminal handling both domestic and international flights. Its strategic location near Tarsus makes it well-positioned for accessing both the Mediterranean coast and inland Anatolia.",
+  "faqs": "Q: When did Çukurova Airport open?\nA: The airport commenced operations in 2024, replacing the older Adana Şakirpaşa Airport as the primary aviation hub for the region.\n\nQ: Which cities does Çukurova Airport serve?\nA: It primarily serves Adana and Mersin, the two largest cities in the Çukurova region, along with surrounding provinces in southern Turkey.\n\nQ: Does the airport handle international flights?\nA: Yes, Çukurova Airport has international terminal facilities and serves numerous European and Middle Eastern destinations in addition to domestic routes.\n\nQ: Are there hotel options near the airport?\nA: Several hotels are located in the surrounding area, ranging from budget-friendly options to full-service accommodations within a short drive.\n\n",
+  "transport_tips": "The airport is roughly 50 km east of Adana and about 70 km west of Mersin, with both cities connected by highways and high-speed rail links in the region. HAVAŞ and other shuttle buses operate scheduled services to Adana and Mersin city centers. Private transfers, taxis, and rental cars are readily available at the terminal for travelers heading to coastal or inland destinations.",
+  "local_tip": "If you have a layover or extra time, the nearby ancient city of Tarsus—one of the oldest continuously inhabited settlements in the world—is just a short drive from the airport and offers attractions like St. Paul's Well and the Tarsus Museum.",
+  "generatedAt": "2026-06-29T01:01:22.840Z",
+  "model": "MiniMax-M3"
+}

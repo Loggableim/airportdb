@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OKD",
+    "icao": "RJCO",
+    "name": "Sapporo Okadama Airport",
+    "country": "Japan",
+    "city": "Sapporo",
+    "lat": 43.1174,
+    "lon": 141.3813,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sapporo Okadama Airport is a regional airport located just minutes from central Sapporo on Hokkaido, making it significantly more convenient than the larger New Chitose Airport for travelers heading into the city. Originally developed on a former military airfield site, it now primarily serves domestic routes within Hokkaido and operates as a key hub for Hokkaido Air System. The airport handles medium-sized regional aircraft and is favored for its quick access and short processing times.",
+  "faqs": "Q: What is the difference between Okadama Airport and New Chitose Airport?\nA: Okadama (OKD) is a smaller regional airport located about 7 km from central Sapporo, while New Chitose (CTS) is the main international gateway about 45 km away. Okadama primarily handles short-hop domestic flights within Hokkaido, whereas New Chitose serves the majority of mainland Japan and international destinations.\n\nQ: Which airlines operate from Sapporo Okadama?\nA: Hokkaido Air System (HAC), a subsidiary of JAL, is the primary carrier at Okadama, operating routes to smaller Hokkaido cities such as Kushiro, Hakodate, and Rishiri. Japan Air Commuter and other regional operators also use the facility.\n\nQ: Does Okadama Airport have international flights?\nA: No, Okadama Airport handles domestic flights only. International travelers should use New Chitose Airport.\n\nQ: How early should I arrive before my flight?\nA: Due to the airport's small size and efficient operations, arriving 60 to 90 minutes before departure is generally sufficient.",
+  "transport_tips": "The airport is only about 7 km from downtown Sapporo, and a taxi ride takes roughly 20 minutes, making it one of the most conveniently located airports in Japan. The Sapporo Municipal Subway connects nearby stations to central Sapporo in under 15 minutes, with bus services linking the airport directly to the subway network. Rental cars are available on-site for travelers exploring Hokkaido by road.",
+  "local_tip": "Okadama is the airport of choice for travelers heading to regional destinations like Rishiri and Rebun islands in northern Hokkaido—booking these flights from Okadama instead of connecting through New Chitose can save several hours of travel time.",
+  "generatedAt": "2026-06-29T07:02:16.235Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SJS",
+    "icao": "SLJE",
+    "name": "San José De Chiquitos Airport",
+    "country": "Bolivia",
+    "city": "San José de Chiquitos",
+    "lat": -17.8308,
+    "lon": -60.7431,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "San José De Chiquitos Airport (SJS) is a small regional airport serving the historic town of San José de Chiquitos in Bolivia's Santa Cruz Department. The town is one of the six famous Jesuit Mission towns of the Chiquitos region, recognized by UNESCO as a World Heritage Site for their well-preserved 17th and 18th-century colonial religious architecture. The airport provides essential access to this culturally rich area for visitors exploring the mission circuit and surrounding Chiquitania region.",
+  "faqs": "Q: Where is San José De Chiquitos Airport located?\nA: The airport is located near the town of San José de Chiquitos in the Chiquitos Province of Bolivia's Santa Cruz Department, at coordinates -17.831, -60.743.\n\nQ: What is the airport used for?\nA: It primarily serves regional flights, tourism to the Jesuit Mission circuit, and general aviation needs for the local community.\n\nQ: Are there commercial flights to SJS?\nA: Commercial service is limited; travelers typically rely on charter flights or connect through larger airports like Viru Viru International in Santa Cruz de la Sierra.\n\nQ: Is the airport open to international flights?\nA: No, it is a small domestic airport handling regional traffic within Bolivia.\n\n",
+  "transport_tips": "Ground transportation is limited, so arranging a taxi or hotel pickup in advance is recommended before arrival. The town center is a short drive from the airport, making transfers quick and inexpensive. Rental cars may be available in Santa Cruz de la Sierra for travelers wishing to explore the broader Chiquitos mission region independently.",
+  "local_tip": "Visit the town during the August Festival (Fiesta de San Ignacio) season, when the surrounding mission towns celebrate with traditional music, dance, and religious processions—the airport becomes a useful gateway for hopping between these historic Jesuit communities.",
+  "generatedAt": "2026-06-28T06:29:28.822Z",
+  "model": "MiniMax-M3"
+}

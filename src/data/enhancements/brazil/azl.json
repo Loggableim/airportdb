@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AZL",
+    "icao": "SWTU",
+    "name": "Fazenda Tucunaré Airport",
+    "country": "Brazil",
+    "city": "Sapezal",
+    "lat": -13.4655,
+    "lon": -58.8669,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Fazenda Tucunaré Airport is a small rural airfield serving the agricultural region of Sapezal in the state of Mato Grosso, Brazil. The facility primarily supports operations related to the surrounding farmlands, which are major hubs for soybean and cotton production in the Brazilian Cerrado. Its remote location and modest infrastructure make it a useful private and charter gateway for the agro-industrial sector of western Mato Grosso.",
+  "faqs": "Q: What is Fazenda Tucunaré Airport used for?\nA: It primarily serves private and charter flights linked to agricultural operations and farm management in the Sapezal region.\n\nQ: Are there commercial passenger services at this airport?\nA: No, this is a small private airfield without scheduled commercial passenger service.\n\nQ: Where is Sapezal located?\nA: Sapezal is a municipality in the state of Mato Grosso in western Brazil, an area dominated by large-scale agriculture.\n\nQ: What does the name Tucunaré mean?\nA: Tucunaré is the Brazilian Portuguese name for the peacock bass, a popular freshwater fish native to the Amazon and surrounding river basins.\n\n",
+  "transport_tips": "Access to the airport is typically by private vehicle or pre-arranged ground transport from Sapezal town, as there is no public transit serving the airfield. Given the rural setting, visitors are advised to coordinate transportation in advance with the farm or charter operator. The nearest significant city with broader connectivity is Cuiabá, roughly 600 km to the southeast.",
+  "local_tip": "When visiting during the wet season (roughly November to March), expect afternoon thunderstorms that can delay flights; plan flexible scheduling and carry rain gear for any ground movements between the runway and farm facilities.",
+  "generatedAt": "2026-06-28T06:47:08.028Z",
+  "model": "MiniMax-M3"
+}

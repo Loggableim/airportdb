@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DLM",
+    "icao": "LTBS",
+    "name": "Dalaman International Airport",
+    "country": "Turkey",
+    "city": "Dalaman",
+    "lat": 36.7131,
+    "lon": 28.7925,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Dalaman International Airport (DLM) is a major coastal gateway serving southwestern Turkey, particularly the popular resort regions of Marmaris, Fethiye, and Ölüdeniz. Opened in 1981 and extensively modernized in the 2000s, it handles a high volume of seasonal charter and scheduled flights from across Europe during the summer tourist season. The airport features dual terminals—one domestic and one international—reflecting its primary role as a holiday hub for the Turquoise Coast.",
+  "faqs": "Q: How far is Dalaman Airport from Marmaris?\nA: Approximately 95 km southeast, with transfers typically taking 1.5 to 2 hours by road.\n\nQ: Does Dalaman Airport operate year-round?\nA: Yes, though flight frequency increases dramatically between May and October due to seasonal tourism demand.\n\nQ: Are there car rental services at Dalaman Airport?\nA: Yes, multiple international and local rental companies operate from the terminal, with desks located in the arrivals hall.\n\nQ: Is there a lounge available for passengers?\nA: Yes, CIP lounges are available in both domestic and international terminals, offering refreshments and comfortable seating.\n\n",
+  "transport_tips": "The Havas shuttle bus connects the airport to Fethiye and Marmaris, while private transfers and shared shuttles to resorts can be pre-booked online. Taxi ranks are available outside both terminals, but agree on fares in advance for longer journeys. During peak summer months, allow extra time for road traffic on the coastal route.",
+  "local_tip": "The departures area has limited food options compared to arrivals, so grab a snack or meal before clearing security if you're hungry—Turkish pide and fresh simit stands are usually quick and inexpensive.",
+  "generatedAt": "2026-06-28T19:04:51.116Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HCJ",
+    "icao": "ZGHC",
+    "name": "Hechi Jinchengjiang Airport",
+    "country": "China",
+    "city": "Hechi (Jinchengjiang)",
+    "lat": 24.8043,
+    "lon": 107.7108,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Hechi Jinchengjiang Airport is a regional airport serving Hechi city in Guangxi Zhuang Autonomous Region, in southwestern China. Nestled in the karst mountain landscape characteristic of the region, it provides vital air access for Hechi and surrounding areas that are otherwise connected by long, winding road routes. The airport supports domestic connections linking this inland area to major Chinese hubs.",
+  "faqs": "Q: What destinations can I fly to from Hechi Jinchengjiang Airport?\nA: The airport primarily operates domestic routes connecting Hechi to major Chinese cities, with service typically to hubs such as Guangzhou and other regional centers.\n\nQ: How far is the airport from Hechi city center?\nA: The airport is located in the Jinchengjiang district, roughly 30-40 km from the main urban area of Hechi, with travel times varying by road conditions through the mountainous terrain.\n\nQ: Is the airport open 24 hours?\nA: No, the airport operates during scheduled flight hours only and is typically closed overnight between the last arrival and first departure of the next operating day.\n\nQ: Does the airport offer international flights?\nA: No, Hechi Jinchengjiang Airport currently handles only domestic flights within China.",
+  "transport_tips": "Airport shuttle buses are commonly available to connect with Hechi city center, though schedules align with flight arrivals and departures. Taxis and ride-hailing services can be arranged at the terminal, though drivers may be less familiar with the area than at larger airports. Allow extra travel time as the mountainous roads between the airport and city can be slow, especially during rainy weather.",
+  "local_tip": "If you have a layover or extra time, the nearby Baimo Cave scenic area offers a glimpse of Guangxi's famous karst cave systems and is closer to the airport than downtown Hechi, making it a convenient stopover destination.",
+  "generatedAt": "2026-06-29T23:43:34.345Z",
+  "model": "MiniMax-M3"
+}

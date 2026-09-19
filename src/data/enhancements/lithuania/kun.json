@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KUN",
+    "icao": "EYKA",
+    "name": "Kaunas International Airport",
+    "country": "Lithuania",
+    "city": "Kaunas",
+    "lat": 54.964,
+    "lon": 24.0858,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kaunas International Airport is Lithuania's second-busiest airport, located in Karmėlava approximately 14 km northeast of Kaunas city center. Originally a Soviet-era military airfield, it was converted for civilian use and now serves as an important low-cost carrier hub, particularly for Ryanair, alongside scheduled, charter, and growing cargo operations. The airport features a modern single terminal and acts as a key gateway to the Baltic region for travelers from Western Europe.",
+  "faqs": "Q: How far is Kaunas Airport from the city center?\nA: The airport is approximately 14 km (8.7 miles) northeast of central Kaunas, with typical transfer times of 20-30 minutes by road.\n\nQ: Does the airport operate 24 hours?\nA: Operating hours vary by flight schedule, but the airport generally opens well before the first departure and closes after the last arrival. Check with your airline for specific times.\n\nQ: Are there currency exchange services at the airport?\nA: Yes, ATMs and currency exchange facilities are available in the terminal for euros and several other major currencies.\n\nQ: Can I find car rental services at KUN?\nA: Yes, several car rental companies operate desks inside the terminal, offering convenient pick-up directly from the airport.",
+  "transport_tips": "Bus line 29 connects the airport with Kaunas city center and the central bus station, offering an affordable transport option. Taxis and ride-hailing services are available outside the terminal, typically costing around €15-20 to reach central Kaunas. The airport is conveniently located near the A6 motorway, providing easy road access to Vilnius (about 100 km south) and Klaipėda (about 220 km west).",
+  "local_tip": "If you have a long layover or early morning flight, the nearby town of Karmėlava has a few local cafés and a bakery within walking distance—worth knowing if you want a more authentic Lithuanian snack than typical airport fare.",
+  "generatedAt": "2026-06-28T20:10:16.231Z",
+  "model": "MiniMax-M3"
+}

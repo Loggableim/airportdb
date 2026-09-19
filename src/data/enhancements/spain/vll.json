@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VLL",
+    "icao": "LEVD",
+    "name": "Valladolid Airport",
+    "country": "Spain",
+    "city": "Valladolid",
+    "lat": 41.7061,
+    "lon": -4.8519,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Valladolid Airport (VLL) is located in Villanubla, approximately 13 km northwest of the city of Valladolid in Spain's Castilla y León region. Serving as the main air gateway for the historical Castilian heartland, the airport primarily handles regional flights and general aviation. It also serves as a key facility for pilot training and aircraft maintenance in the region.",
+  "faqs": "Q: How far is Valladolid Airport from the city center?\nA: The airport is located about 13 km (8 miles) from Valladolid's city center, near the town of Villanubla. The journey typically takes around 20-25 minutes by car or taxi.\n\nQ: What airlines operate from Valladolid Airport?\nA: The airport serves primarily regional and seasonal routes, with limited scheduled commercial service. Airlines such as Air Nostrum have historically operated routes to destinations including Barcelona.\n\nQ: Does Valladolid Airport have international flights?\nA: Scheduled international flights are limited. The airport mostly handles domestic connections within Spain and occasional seasonal charter operations.\n\nQ: Are there car rental services at the airport?\nA: Yes, the airport offers car rental services from major providers, though availability may vary. Booking in advance is recommended, especially during off-peak periods.\n\n",
+  "transport_tips": "The most convenient way to reach Valladolid from the airport is by taxi, which costs roughly €25-€35 and takes about 20 minutes. A regular bus service also connects the airport to Valladolid's city center, though with limited daily schedules. Rental cars are available at the terminal for those wishing to explore the wider Castilla y León region.",
+  "local_tip": "If driving to the airport, allow extra time during foggy mornings in winter—the Meseta plateau around Valladolid is notorious for dense fog that can reduce visibility on the approach roads.",
+  "generatedAt": "2026-06-29T06:43:26.287Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GLX",
+    "icao": "WAEG",
+    "name": "Gamarmalamo Airport",
+    "country": "Indonesia",
+    "city": "Galela",
+    "lat": 1.8381,
+    "lon": 127.7862,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Gamarmalamo Airport (GLX/WAEG) is a small regional airport serving Galela in the North Halmahera Regency of Indonesia's North Maluku province. It provides essential air access to the northern Halmahera peninsula, a region known for its tropical landscapes, coastal villages, and proximity to some of Indonesia's most biodiverse marine areas. The airport primarily supports short-haul domestic connections within the Maluku archipelago.",
+  "faqs": "Q: What is the IATA code for Gamarmalamo Airport?\nA: The IATA code is GLX, and its ICAO code is WAEG.\n\nQ: Where is Gamarmalamo Airport located?\nA: It is located in Galela, on the northern part of Halmahera island in North Maluku province, Indonesia.\n\nQ: What kind of airport is Gamarmalamo?\nA: It is a small regional airport with limited infrastructure, primarily handling short domestic flights and small-to-medium aircraft.\n\nQ: How can I reach Galela from the airport?\nA: Ground transport options are limited; travelers typically arrange vehicles in advance or rely on informal transport such as ojeks (motorcycle taxis) and shared minivans into town.\n\n",
+  "transport_tips": "Arrange ground transportation before arrival, as taxi availability at the terminal is limited and unreliable. The airport sits a short drive from central Galela, so pre-booking a hotel transfer or arranging a local contact with a vehicle is recommended. Travelers heading further afield on Halmahera may need to combine the airport transfer with a longer road journey, which can take several hours on the island's winding coastal roads.",
+  "local_tip": "Bring sufficient cash in Indonesian rupiah, as ATMs and card payment facilities are scarce in the Galela area and may not be available at the airport terminal.",
+  "generatedAt": "2026-06-27T21:40:00.264Z",
+  "model": "MiniMax-M3"
+}

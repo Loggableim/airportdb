@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PNQ",
+    "icao": "VAPO",
+    "name": "Pune International Airport",
+    "country": "India",
+    "city": "Pune",
+    "lat": 18.5821,
+    "lon": 73.9197,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Pune International Airport (PNQ/VAPO), also known as Lohegaon Airport, serves the major educational, cultural, and IT hub of Pune in Maharashtra, India. It functions as a customs airport handling both domestic routes and limited international flights, while sharing its runway with the Indian Air Force base at Lohegaon.",
+  "faqs": "Q: Where is Pune International Airport located?\nA: The airport is situated in Lohegaon, approximately 10-12 km northeast of Pune city center in Maharashtra, western India.\n\nQ: Does Pune Airport offer international flights?\nA: Yes, PNQ is a customs airport with limited international services to destinations such as Dubai and Singapore, in addition to its larger domestic network.\n\nQ: What facilities are available at the airport?\nA: The airport provides standard amenities including food",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T19:56:31.797Z",
+  "model": "MiniMax-M3"
+}

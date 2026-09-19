@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HEL",
+    "icao": "EFHK",
+    "name": "Helsinki Vantaa Airport",
+    "country": "Finland",
+    "city": "Helsinki (Vantaa)",
+    "lat": 60.3184,
+    "lon": 24.9633,
+    "type": "large_airport",
+    "size": 51875
+  },
+  "summary": "Helsinki Vantaa Airport (HEL) is Finland's largest and busiest airport, located in the city of Vantaa about 19 km north of Helsinki city center. Opened in 1952 for the Helsinki Summer Olympics, it serves as the main hub for Finnair and a key gateway between Europe and Asia. The airport features two terminals and is known for its efficient design, extensive range of shops, and the famous 'Flying Finn' service culture.",
+  "faqs": "Q: How far is Helsinki Vantaa Airport from the city center?\nA: The airport is located approximately 19 km (12 miles) north of central Helsinki in the city of Vantaa, with a typical travel time of 30-40 minutes by car or train.\n\nQ: What public transport options are available from the airport?\nA: The I and P trains on the Ring Rail Line connect the airport directly to Helsinki Central Station in about 30 minutes. There are also frequent Finnair City Bus and other bus services.\n\nQ: Are there hotels near Helsinki Vantaa Airport?\nA: Yes, there are several hotels within walking distance or a short shuttle ride, including the Hilton Helsinki Airport (directly connected to the terminal), Glo Hotel Airport, and Holiday Inn Helsinki Vantaa Airport.\n\nQ: Does Helsinki Airport have good facilities for long layovers?\nA: Yes, the airport offers free Wi-Fi throughout, sleeping pods, a variety of restaurants and shops, a spa, and shower facilities, making it well-equipped for passengers with extended layovers.",
+  "transport_tips": "The Ring Rail Line (I and P trains) is the fastest and most affordable option to reach central Helsinki, with departures every 10-15 minutes during the day. Taxis are readily available but more expensive; expect to pay around €45-60 for a ride to the city center. If you're traveling to or from other Finnish cities, the airport has direct bus connections to many destinations.",
+  "local_tip": "Visit the rooftop terrace of Terminal 2 (when weather permits) for a unique outdoor spot to relax between flights, and try a Finnish cinnamon bun (korvapuusti) from one of the local bakeries for an authentic taste of Finland during your wait.",
+  "generatedAt": "2026-06-28T15:37:35.174Z",
+  "model": "MiniMax-M3"
+}

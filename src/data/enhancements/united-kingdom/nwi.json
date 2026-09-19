@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NWI",
+    "icao": "EGSH",
+    "name": "Norwich Airport",
+    "country": "United Kingdom",
+    "city": "Norwich, Norfolk",
+    "lat": 52.6758,
+    "lon": 1.2828,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Norwich Airport is a regional airport located about 4 km north of Norwich city center in Norfolk, England, serving the county and surrounding East Anglian region. Originally established as RAF Horsham St Faith during World War II, it transitioned to civilian aviation in the post-war era and remains the primary air gateway for Norfolk. The single-terminal facility handles a mix of domestic UK routes and seasonal European leisure flights.",
+  "faqs": "Q: How far is Norwich Airport from the city center?\nA: The airport is approximately 4 km (2.5 miles) north of Norwich city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Does Norwich Airport offer international flights?\nA: Yes, it operates flights to several European destinations along with domestic routes within the UK, with schedules often expanding during the summer months.\n\nQ: What facilities are available in the terminal?\nA: The single terminal offers cafes, a bar, duty-free shopping, car hire desks, free Wi-Fi, and standard passenger amenities.\n\nQ: Is on-site parking available?\nA: Yes, the airport provides both short-stay and long-stay car parks located within walking distance of the terminal building.",
+  "transport_tips": "Norwich Airport is easily reached by car via the A140, with on-site short-stay and long-stay parking available close to the terminal. Local bus routes",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T03:54:55.598Z",
+  "model": "MiniMax-M3"
+}

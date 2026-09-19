@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BLI",
+    "icao": "KBLI",
+    "name": "Bellingham International Airport",
+    "country": "United States",
+    "city": "Bellingham",
+    "lat": 48.7928,
+    "lon": -122.538,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Bellingham International Airport (BLI) is a medium-sized public airport located about three miles northwest of downtown Bellingham in northwest Washington State. Situated roughly 25 miles south of the Canadian border, it serves as a convenient alternative gateway for travelers heading to the Pacific Northwest and southern British Columbia. The airport has historically been a popular base for low-cost leisure carriers offering nonstop service to destinations across the western United States and Hawaii.",
+  "faqs": "Q: Which airlines operate from Bellingham International Airport?\nA: Allegiant Air is the primary carrier serving BLI, offering nonstop flights to several leisure destinations across the western U.S. and Hawaii. Seasonal and occasional service by other carriers may vary.\n\nQ: How far is BLI from the U.S.-Canada border?\nA: The airport is approximately 20-25 miles south of the Peace Arch border crossing connecting Washington State to British Columbia, making it a convenient arrival point for travelers visiting the Vancouver area.\n\nQ: Can I reach downtown Bellingham from the airport by public transit?\nA: Yes, the Whatcom Transportation Authority (WTA) operates Route 24, which connects the airport terminal to downtown Bellingham and the Bellingham Station transit center.\n\nQ: How long does it take to drive from BLI to Seattle?\nA: The drive from Bellingham International Airport to Seattle is approximately 90 to 120 minutes depending on traffic, covering roughly 90 miles via Interstate 5.",
+  "transport_tips": "Bellingham International Airport is just a 10-minute drive from downtown Bellingham, easily reached via Marine Drive and Meridian Street. The WTA Route 24 bus provides affordable public transit between the terminal and downtown Bellingham with limited schedules. Rideshare services and rental car counters are available on-site for travelers heading north to Vancouver, BC, or south toward Seattle.",
+  "local_tip": "If you have a long layover or early arrival, drive 25 minutes east",
+  "generatedAt": "2026-06-29T02:26:28.771Z",
+  "model": "MiniMax-M3"
+}

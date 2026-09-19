@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EGH",
+    "icao": "HEGR",
+    "name": "El Jora Airport",
+    "country": "Egypt",
+    "city": "El Jora",
+    "lat": 31.0781,
+    "lon": 34.1531,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "El Jora Airport (EGH/HEGR) is a medium-sized airfield situated in the Sinai Peninsula of northeastern Egypt, near the town of El Jora. It primarily serves regional aviation needs, including general aviation and charter operations supporting the surrounding area. The airport provides an alternative landing point in a strategically important region bridging Africa and Asia.",
+  "faqs": "Q: What is the IATA code for El Jora Airport?\nA: The IATA code is EGH, and the ICAO code is HEGR.\n\nQ: Where is El Jora Airport located?\nA: It is located in El Jora, in the Sinai Peninsula region of northeastern Egypt, at coordinates 31.078°N, 34.153°E.\n\nQ: Does El Jora Airport handle international flights?\nA: As a medium-sized airport, it primarily supports regional and general aviation traffic rather than large-scale international commercial service.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic aviation infrastructure suitable for medium-sized aircraft, with limited passenger terminal services typical of regional Egyptian airfields.",
+  "transport_tips": "Ground transportation options are limited, so arranging a vehicle in advance is recommended. The airport's location in northern Sinai means road connections to major cities like Ismailia or Cairo may involve longer travel times. Travelers should confirm transport arrangements before arrival, as taxi availability may be inconsistent.",
+  "local_tip": "Carry sufficient water and sun protection, as the Sinai climate can be extremely hot and dry, especially during summer months when shade at smaller airfields may be minimal.",
+  "generatedAt": "2026-06-26T12:50:28.819Z",
+  "model": "MiniMax-M3"
+}

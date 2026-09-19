@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AUG",
+    "icao": "KAUG",
+    "name": "Augusta State Airport",
+    "country": "United States",
+    "city": "Augusta",
+    "lat": 44.3206,
+    "lon": -69.7973,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Augusta State Airport is a public-use airport serving Augusta, the capital of Maine, and the surrounding Kennebec Valley region. Located about one mile west of downtown Augusta, it primarily supports general aviation, corporate flights, and occasional charter services rather than scheduled commercial airlines. The airport is owned and operated by the State of Maine and features a single main runway with modern navigation aids.",
+  "faqs": "Q: Does Augusta State Airport have commercial airline service?\nA: Augusta State Airport primarily serves general aviation and does not currently offer scheduled commercial airline service. Most travelers in the region use Portland International Jetport or Bangor International Airport for commercial flights.\n\nQ: What facilities are available at the airport?\nA: The airport offers a terminal building, fixed-base operator (FBO) services, fueling facilities, aircraft parking, and ground transportation options including rental cars.\n\nQ: What runway length does Augusta State Airport have?\nA: The airport features a primary runway suitable for a wide range of general aviation aircraft and small to mid-size business jets.\n\nQ: How far is the airport from downtown Augusta?\nA: The airport is located approximately one mile west of downtown Augusta, making it a very short drive from the city center.",
+  "transport_tips": "",
+  "local_tip": "If you're visiting Augusta, take a short walk through downtown to the Maine State Museum and the Maine State House—both are within a few minutes of the airport and offer a great introduction to the state's history before you head further into the Kennebec Valley.",
+  "generatedAt": "2026-06-29T19:05:46.749Z",
+  "model": "MiniMax-M3"
+}

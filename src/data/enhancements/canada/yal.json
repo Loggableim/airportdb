@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YAL",
+    "icao": "CYAL",
+    "name": "Alert Bay Airport",
+    "country": "Canada",
+    "city": "Alert Bay",
+    "lat": 50.5822,
+    "lon": -126.916,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Alert Bay Airport (YAL) is a small aerodrome serving the remote community of Alert Bay on Cormorant Island, off the northeast coast of Vancouver Island in British Columbia, Canada. The airport provides vital access to this predominantly Kwakwaka'wakw First Nations community, which is known for its rich Indigenous heritage and traditional potlatch ceremonies. Its modest size reflects the island's small population and limited aviation traffic.",
+  "faqs": "Q: Does Alert Bay Airport have scheduled commercial flights?\nA: The airport primarily handles charter, private, and float plane operations with limited scheduled commercial service, as most visitors reach the island by BC Ferries.\n\nQ: What facilities are available at the airport?\nA: As a small aerodrome, facilities are basic, typically including a small terminal area, parking, and refueling services for general aviation aircraft.\n\nQ: Can float planes land at Alert Bay?\nA: Yes, float plane access is common for this coastal community, and many travelers use scheduled or charter float plane services from nearby ports.\n\nQ: What is the airport primarily used for?\nA: The airport mainly serves general aviation, medical evacuations, charter flights, and connects the island community to mainland British Columbia.",
+  "transport_tips": "Alert Bay is most commonly accessed via BC Ferries from Port McNeill, which is about a 45-minute drive north of the ferry terminal on Vancouver Island. The short ferry crossing takes approximately 30 minutes and is a scenic alternative to flying. Taxis and shuttle services are limited, so arranging ground transport in advance is recommended.",
+  "local_tip": "Visit the U'mista Cultural Society, one of the most important Indigenous cultural institutions in North America, housing a world-renowned collection of potlatch regalia repatriated from museums abroad. The nearby Namgis Burial Grounds with its striking totem poles are also a must-see just outside the village.",
+  "generatedAt": "2026-06-26T14:31:28.057Z",
+  "model": "MiniMax-M3"
+}

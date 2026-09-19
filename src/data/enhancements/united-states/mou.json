@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MOU",
+    "icao": "PAMO",
+    "name": "Mountain Village Airport",
+    "country": "United States",
+    "city": "Mountain Village",
+    "lat": 62.0954,
+    "lon": -163.682,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Mountain Village Airport (MOU/PAMO) is a small public-use airport serving the Yup'ik community of Mountain Village in western Alaska's Yukon-Kuskokwim Delta. The airport provides a vital transportation link for residents of this remote village, which is not connected to the road system and relies heavily on air travel. It supports scheduled regional flights and serves as an essential hub for mail, cargo, and passenger services in the region.",
+  "faqs": "Q: What is the airport code for Mountain Village Airport?\nA: The IATA code is MOU and the ICAO code is PAMO.\n\nQ: Where is Mountain Village Airport located?\nA: It is located in Mountain Village, Alaska, in the Yukon-Kuskokwim Delta region of western Alaska.\n\nQ: Are there car rentals available at Mountain Village Airport?\nA: Rental car services are generally not available at this small rural airport; visitors typically arrange ground transportation through local contacts or the airline in advance.\n\nQ: What airlines serve Mountain Village Airport?\nA: Regional carriers operating in the Yukon-Kuskokwim Delta provide scheduled passenger service to the airport.\n\n",
+  "transport_tips": "Travelers should arrange ground transportation in advance, as the airport has limited services and no public transit. The village is not connected by road to other communities, so flying is often the only practical way to reach Mountain Village. Be prepared for potential weather delays, as fog and low visibility are common in the delta region.",
+  "local_tip": "Bring warm layers and snacks for your flight, as services at this remote airport are minimal and weather-related delays can extend layover times considerably.",
+  "generatedAt": "2026-06-26T16:15:45.322Z",
+  "model": "MiniMax-M3"
+}

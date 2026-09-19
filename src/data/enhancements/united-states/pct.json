@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PCT",
+    "icao": "",
+    "name": "Princeton Airport",
+    "country": "United States",
+    "city": "Princeton/Rocky Hill",
+    "lat": 40.3992,
+    "lon": -74.6589,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Princeton Airport (PCT) is a small general aviation airport located in Rocky Hill, New Jersey, serving the greater Princeton area and Princeton University community. Established in the early 20th century, it functions primarily as a hub for private pilots, flight training, and recreational flying, with no scheduled commercial service. The airport features a single asphalt runway and supports several on-site aviation businesses and flying clubs.",
+  "faqs": "Q: Does Princeton Airport offer commercial airline service?\nA: No, Princeton Airport is a general aviation facility with no scheduled commercial flights. It serves private pilots, flight schools, and recreational aviators only.\n\nQ: What runway does Princeton Airport have?\nA: The airport has a single asphalt runway, suitable primarily for small single-engine and light twin-engine aircraft.\n\nQ: Are flight schools available at Princeton Airport?\nA: Yes, the airport is home to flight training operations offering lessons, aircraft rentals, and pilot certifications for student aviators.\n\nQ: Can the public visit Princeton Airport?\nA: Visitors are welcome on the ramp areas, and the airport hosts community events and open houses periodically throughout the year.\n\n",
+  "transport_tips": "Princeton Airport is most easily reached by car, located just off U.S. Route 1 in Rocky Hill, with free on-site parking available. Public transit options are limited, but taxi and rideshare services can be arranged in advance from Princeton or nearby towns. Allow extra travel time during Princeton University event days due to increased local traffic.",
+  "local_tip": "Stop by the on-site restaurant or pilot shop, a longtime gathering spot where local aviators share real-time intel on weather conditions and runway conditions before pre-flight.",
+  "generatedAt": "2026-06-27T01:50:09.832Z",
+  "model": "MiniMax-M3"
+}

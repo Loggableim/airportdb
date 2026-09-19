@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DIR",
+    "icao": "HADR",
+    "name": "Aba Tenna Dejazmach Yilma International Airport",
+    "country": "Ethiopia",
+    "city": "Dire Dawa",
+    "lat": 9.6235,
+    "lon": 41.855,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Aba Tenna Dejazmach Yilma International Airport (DIR) serves Dire Dawa, a major commercial hub in eastern Ethiopia. Named after a prominent Ethiopian military commander who served under Emperor Haile Selassie, the airport functions as the primary aviation gateway for the Harar and Dire Dawa regions. It supports both domestic flights connecting to Addis Ababa and limited regional operations.",
+  "faqs": "Q: What airlines operate from Aba Tenna Dejazmach Yilma International Airport?\nA: Ethiopian Airlines is the primary carrier, offering regular domestic flights to and from Addis Ababa.\n\nQ: How far is the airport from Dire Dawa city center?\nA: The airport is located approximately 5 kilometers from downtown Dire Dawa, making it a short drive.\n\nQ: Does the airport offer international flights?\nA: It has international terminal facilities but primarily handles domestic traffic, with occasional regional charter services.\n\nQ: Are there dining options at the airport?\nA: Limited refreshment options and small cafes are available within the terminal building.",
+  "transport_tips": "Taxis are readily available outside the terminal and are the most common way to reach the city center. Negotiate the fare before departure as meters are not typically used. Hotel shuttles can sometimes be arranged in advance for a more comfortable transfer.",
+  "local_tip": "Dire Dawa is famous for its distinctive architecture blending French, Italian, and traditional Ethiopian styles—request a window seat on arrival to spot the colorful old town buildings from above as you land.",
+  "generatedAt": "2026-06-28T21:53:27.672Z",
+  "model": "MiniMax-M3"
+}

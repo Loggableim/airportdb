@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MVW",
+    "icao": "KBVS",
+    "name": "Skagit Regional Airport",
+    "country": "United States",
+    "city": "Burlington",
+    "lat": 48.4709,
+    "lon": -122.421,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Skagit Regional Airport (MVW/KBVS) is a small general aviation airport serving Burlington and the surrounding Skagit Valley in northwestern Washington. Located near Interstate 5 roughly 70 miles north of Seattle and 60 miles south of Vancouver, BC, it primarily supports private pilots, flight training, and recreational flying. The airport plays an important role for the regional community, providing access to the scenic Skagit Valley known for its annual tulip festival and agricultural heritage.",
+  "faqs": "Q: Does Skagit Regional Airport offer commercial airline service?\nA: No, MVW is a general aviation facility without scheduled commercial flights.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, tie-downs, hangars, and fueling services primarily catering to private aircraft and flight training operations.\n\nQ: Can I fly into Skagit Regional Airport from Canada?\nA: Yes, private pilots can fly across the border, but they must clear U.S. Customs and Border Protection at a designated port of entry.\n\nQ: Is flight instruction available at MVW?\nA: The airport supports flight training activities, with local operators and instructors using the facility regularly.",
+  "transport_tips": "The airport is conveniently located just off Interstate 5 near Burlington, making it easily accessible by car from the surrounding Skagit Valley communities. Rental cars and rideshare services are available in the broader area, though on-site options may be limited. Visitors from Seattle or Vancouver typically reach the airport within 1.5 to 2 hours by road.",
+  "local_tip": "If visiting during spring, plan time to explore the nearby Skagit Valley Tulip Festival—one of Washington's most photographed events—just a short drive from the airport.",
+  "generatedAt": "2026-06-27T00:19:43.201Z",
+  "model": "MiniMax-M3"
+}

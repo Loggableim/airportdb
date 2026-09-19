@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OXR",
+    "icao": "KOXR",
+    "name": "Oxnard Airport",
+    "country": "United States",
+    "city": "Oxnard",
+    "lat": 34.2008,
+    "lon": -119.207,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Oxnard Airport (OXR) is a medium-sized general aviation airport located on the California coast in Ventura County, serving the Oxnard-Ventura metropolitan area. Situated near the Pacific Ocean and Channel Islands Harbor, it functions as a key reliever airport for Los Angeles International and handles private, corporate, and some regional air traffic. The airport also supports a notable flight training school and is home to the Ventura County Aviation Museum.",
+  "faqs": "Q: Does Oxnard Airport offer commercial airline service?\nA: OXR primarily serves general aviation, private charters, and flight training. Scheduled commercial service has been limited or absent in recent years, so travelers typically use nearby airports like LAX, Burbank, or Santa Barbara for commercial flights.\n\nQ: How far is Oxnard Airport from downtown Oxnard?\nA: The airport is conveniently located about 3 miles southwest of downtown Oxnard, roughly a 10-minute drive via Oxnard Boulevard.\n\nQ: Are car rentals available at the airport?\nA: Rental car services are available on-site or by arrangement, and rideshare apps like Uber and Lyft serve the airport along with local taxi companies.\n\nQ: What is the Ventura County Aviation Museum?\nA: Located on the airport grounds, the museum showcases the history of aviation in Ventura County, featuring historic aircraft, exhibits, and educational displays open to the public.\n\n",
+  "transport_tips": "The airport sits just west of US Highway 101, providing quick access to Ventura, Camarillo, and the wider Los Angeles region. Rideshare services and local taxis are the most common ways for visitors without a car to reach the terminal. Free short-term parking is available near the terminal, with longer-term lots for extended stays.",
+  "local_tip": "After picking up or dropping off passengers, head 10 minutes west to Channel Islands Harbor for fresh seafood, kayak rentals, or a ferry to the Channel Islands National Park, a great way to make use of time near the airfield.",
+  "generatedAt": "2026-06-30T05:02:02.921Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HOU",
+    "icao": "KHOU",
+    "name": "William P. Hobby Airport",
+    "country": "United States",
+    "city": "Houston",
+    "lat": 29.6453,
+    "lon": -95.2768,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "William P. Hobby Airport is Houston's secondary international airport, located about 7 miles southeast of downtown Houston. Named after William P. Hobby, a former Texas governor and Houston Post publisher, it served as the city's primary airport until George Bush Intercontinental opened in 1969. Hobby is a major operating base for Southwest Airlines and reopened an international concourse in 2015.",
+  "faqs": "Q: How far is Hobby Airport from downtown Houston?\nA: Hobby Airport is approximately 7 miles southeast of downtown Houston, typically a 15-25 minute drive depending on traffic.\n\nQ: Which airlines operate most flights at Hobby Airport?\nA: Southwest Airlines is the dominant carrier, operating the majority of flights from Hobby. Other airlines include Delta, American, United, and several international carriers serving Mexico and Latin America.\n\nQ: Does Hobby Airport have international flights?\nA: Yes, Hobby's international concourse serves flights to Mexico, Central America, the Caribbean, and select destinations in South America.\n\nQ: Are there good food options at Hobby Airport?\nA: Yes, Hobby offers a variety of dining options including local Houston favorites like Killen's Burgers, Pappadeaux Seafood Kitchen, and Shipley Do-Nuts, along with national chains.",
+  "transport_tips": "Taxis, rideshares (Uber and Lyft), and shared-ride shuttles are readily available at the ground transportation area outside the terminals. METRO Bus 88 provides affordable public transit access to downtown Houston. Driving is convenient with ample parking options including short-term, long-term, and valet, though I-45 traffic can be heavy during rush hours.",
+  "local_tip": "If you have time before your flight, grab a kolache from Shipley Do-Nuts in Terminal A—a beloved Houston tradition and a quick, affordable taste of local culture.",
+  "generatedAt": "2026-06-28T17:56:34.775Z",
+  "model": "MiniMax-M3"
+}

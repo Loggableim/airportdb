@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CNQ",
+    "icao": "SARC",
+    "name": "Corrientes Airport",
+    "country": "Argentina",
+    "city": "Corrientes",
+    "lat": -27.4455,
+    "lon": -58.7619,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Corrientes Airport (CNQ), officially named Doctor Fernando Piragine Niveyro Airport, serves the city of Corrientes in northeastern Argentina, near the confluence of the Paraná and Paraguay rivers. The airport functions as the main gateway to Corrientes Province, a region celebrated for its ecotourism, the vast Esteros del Iberá wetlands, and distinctive chamamé musical heritage. It primarily handles domestic flights connecting the region to Buenos Aires and other Argentine destinations.",
+  "faqs": "Q: What airlines operate at Corrientes Airport?\nA: The airport is mainly served by Aerolíneas Argentinas and Flybondi, offering regular flights to Buenos Aires Aeroparque and other domestic destinations.\n\nQ: How far is the airport from Corrientes city center?\nA: Corrientes Airport is located approximately 10 km (6 miles) from the city center, a short drive of around 15-20 minutes depending on traffic.\n\nQ: Does the airport offer international flights?\nA: No, Corrientes Airport primarily handles domestic flights. Travelers heading to Paraguay or Brazil typically connect through Buenos Aires or Resistencia.\n\nQ: Are there customs and immigration facilities at CNQ?\nA: As a domestic-only airport, CNQ does not have full customs and immigration facilities. International travelers must clear immigration at larger hubs before connecting flights.\n\n",
+  "transport_tips": "Taxis and remise (private hire cars) are available outside the terminal and are the most common way to reach the city center. Ride-hailing apps have limited availability in the area, so booking a remise in advance is recommended for early or late flights. Car rental agencies operate at the airport for those exploring the broader Corrientes Province and the Iberá wetlands.",
+  "local_tip": "Pack mosquito repellent if connecting onward to Esteros del Iberá or any rural excursions—dusk visits to the wetlands are magical but the insects are relentless, especially in warmer months.",
+  "generatedAt": "2026-06-29T14:49:13.106Z",
+  "model": "MiniMax-M3"
+}

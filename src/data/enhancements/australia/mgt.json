@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MGT",
+    "icao": "YMGB",
+    "name": "Milingimbi Airport",
+    "country": "Australia",
+    "city": "Milingimbi Island",
+    "lat": -12.0944,
+    "lon": 134.894,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Milingimbi Airport is a small regional airport serving the remote Aboriginal community of Milingimbi on the Crocodile Islands in Australia's Northern Territory, roughly 500 km east of Darwin. The single-runway facility supports the Yolngu township by providing vital connections to larger centres like Darwin and Maningrida. It functions as an essential lifeline for medical evacuations, mail delivery, and passenger services in this isolated coastal location.",
+  "faqs": "Q: What is the main purpose of Milingimbi Airport?\nA: The airport primarily serves the local Yolngu community, providing passenger flights to Darwin and Maningrida, as well as emergency medical evacuations and freight deliveries.\n\nQ: Who typically flies into Milingimbi Airport?\nA: Passengers include local residents traveling for healthcare, business, and family reasons, alongside government workers, teachers, healthcare staff, and visitors to the community.\n\nQ: Is Milingimbi Airport open to the public?\nA: The airport operates scheduled public services but lacks a permanent terminal with extensive facilities, so travellers should expect a minimal, functional setup.\n\nQ: How far is the airport from the Milingimbi township?\nA: The airport is located just a short drive from the community, generally under 5 km, and is easily reached by local vehicle or arranged transport.",
+  "transport_tips": "There are no public buses or taxis servicing the airport, so visitors must arrange a community pickup or vehicle in advance. Most travellers fly in on scheduled services and are met by hosts or community contacts on arrival. The sealed road connecting the airport to the township is short and straightforward, but driving after dark should be avoided due to wildlife on the road.",
+  "local_tip": "Respect for local Yolngu culture is essential—ask before photographing people or sacred sites, and check in at the community office on arrival, as visitors are typically expected to register with the local council.",
+  "generatedAt": "2026-06-26T15:09:33.458Z",
+  "model": "MiniMax-M3"
+}

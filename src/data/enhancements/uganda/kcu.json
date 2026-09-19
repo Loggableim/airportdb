@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KCU",
+    "icao": "HUMI",
+    "name": "Masindi Airport",
+    "country": "Uganda",
+    "city": "Masindi",
+    "lat": 1.7581,
+    "lon": 31.7367,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Masindi Airport (KCU/HUMI) is a small regional airstrip serving the town of Masindi in western Uganda. It primarily functions as an entry point for tourists heading to Murchison Falls National Park, one of Uganda's premier wildlife destinations. The airport handles mainly charter and small private flights rather than scheduled commercial service.",
+  "faqs": "Q: Does Masindi Airport have scheduled commercial flights?\nA: No, the airport does not have regular scheduled commercial service. It primarily handles charter and private flights, often booked by safari operators and tour companies.\n\nQ: What is Masindi Airport mainly used for?\nA: The airport serves as a convenient access point for visitors traveling to Murchison Falls National Park, reducing road travel time from Kampala or Entebbe.\n\nQ: How large is Masindi Airport?\nA: It is a small airstrip with a single unpaved or lightly surfaced runway, suitable for small propeller aircraft typical of East African safari operators.\n\nQ: Are there facilities at the airport?\nA: Facilities are minimal, as it is a small rural airstrip. There is no large terminal building, and passengers should arrange ground transport in advance.",
+  "transport_tips": "Most travelers reach Masindi Airport by pre-arranged safari vehicle or private transfer from Masindi town, which is only a short drive away. The town itself is connected to Kampala and Entebbe by a well-maintained tarmac road taking roughly 3-4 hours by car. Charter flight bookings should be arranged through tour operators or airlines operating in the region, as walk-up bookings are not typically available.",
+  "local_tip": "If flying in for a Murchison Falls safari, coordinate your charter arrival with your lodge's check-in time, as ground transfers from the airstrip to the park gate and lodges can take 1-2 hours depending on your specific camp location.",
+  "generatedAt": "2026-06-28T03:35:32.225Z",
+  "model": "MiniMax-M3"
+}

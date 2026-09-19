@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RIY",
+    "icao": "OYRN",
+    "name": "Riyan International Airport",
+    "country": "Yemen",
+    "city": "Mukalla(Riyan)",
+    "lat": 14.6622,
+    "lon": 49.3753,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Riyan International Airport (RIY) serves Mukalla, the capital of Yemen's Hadhramaut Governorate and a major port city on the Arabian Sea coast. Located approximately 20 kilometers east of central Mukalla in the Riyan district, the airport functions as the primary aviation gateway for eastern Yemen and the surrounding Hadhramaut region. It gained strategic importance during the Yemeni conflict, handling limited commercial service alongside humanitarian and military flights.",
+  "faqs": "Q: How far is Riyan Airport from Mukalla city center?\nA: The airport is located about 20 km east of Mukalla, typically a 25-30 minute drive depending on road conditions.\n\nQ: Are there international flights operating at Riyan Airport?\nA: Limited scheduled international service has operated over the years, primarily regional routes. Travelers should check current availability as services have been disrupted due to ongoing conflict in Yemen.\n\nQ: Does the airport have facilities for overnight layovers?\nA: The terminal offers basic amenities; however, given the restricted flight schedule, most passengers transit through rather than stay overnight.\n\nQ: Is the airport used for humanitarian flights?\nA: Yes, Riyan has served as an important entry point for humanitarian aid and relief operations supporting the Hadhramaut region.",
+  "transport_tips": "Taxis and shared minibuses are the primary means of transport between Mukalla and the airport; arrange transport in advance as ride-hailing apps are not available. The coastal road from Mukalla to Riyan is generally well-maintained but can be affected by security conditions. Allow extra travel time given variable checkpoints and road traffic on the approach to the airport.",
+  "local_tip": "Mukalla's old town and the iconic Al-Rawdha Palace are worth visiting if you have a long layover, but confirm with locals about current security conditions before venturing beyond the airport vicinity.",
+  "generatedAt": "2026-06-28T23:18:36.909Z",
+  "model": "MiniMax-M3"
+}

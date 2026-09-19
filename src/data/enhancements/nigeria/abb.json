@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ABB",
+    "icao": "DNAS",
+    "name": "Asaba International Airport",
+    "country": "Nigeria",
+    "city": "Asaba",
+    "lat": 6.2042,
+    "lon": 6.6653,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Asaba International Airport serves Asaba, the capital of Delta State in southern Nigeria, providing a key gateway to the Niger Delta region. Opened in the early 1990s, it has grown in importance as Delta State administrative and commercial activities expanded, offering an alternative to the busier Benin City and Owerri airports. The facility handles domestic flights primarily and features a single runway suitable for regional jet operations.",
+  "faqs": "Q: What is the airport code for Asaba International Airport?\nA: The IATA code is ABB and the ICAO code is DNAS.\n\nQ: Which cities have direct flights to Asaba?\nA: Asaba primarily receives flights from Lagos, with occasional services from Abuja operated by Nigerian carriers.\n\nQ: When is the airport typically open for operations?\nA: Asaba International Airport operates during daylight hours for most scheduled domestic flights, with limited night operations available on request.\n\nQ: Does the airport offer international flights?\nA: The airport is designated as international but currently primarily serves domestic routes, with international expansion capability planned.",
+  "transport_tips": "The airport is located just a few kilometers from central Asaba, making the journey to town quick by taxi or rideshare. Pre-arranged hotel pickups are recommended for travelers unfamiliar with the area. Road connections toward Onitsha and the wider Anambra region are accessible via the nearby Niger Bridge, though traffic can be heavy during peak hours.",
+  "local_tip": "Carry small denominations of naira for taxi fares and snacks at the terminal, and book ground transport in advance during public holidays when Delta State capital activity drives heavy travel demand.",
+  "generatedAt": "2026-06-29T00:11:55.012Z",
+  "model": "MiniMax-M3"
+}

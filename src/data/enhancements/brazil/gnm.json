@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GNM",
+    "icao": "SNGI",
+    "name": "Guanambi Airport",
+    "country": "Brazil",
+    "city": "Guanambi",
+    "lat": -14.2082,
+    "lon": -42.7461,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Guanambi Airport serves the city of Guanambi in southwestern Bahia, Brazil, a regional hub for the surrounding agricultural area known for cotton, cattle, and corn production. As a small regional facility, it primarily handles domestic flights connecting this interior city to larger Brazilian aviation hubs. The airport plays a key role in supporting business travel for the region's agribusiness sector.",
+  "faqs": "Q: What is the IATA code for Guanambi Airport?\nA: The IATA code is GNM, and the ICAO code is SNGI.\n\nQ: What type of airport is Guanambi Airport?\nA: It is a small regional airport serving primarily domestic flights.\n\nQ: Where is Guanambi Airport located?\nA: It is located in Guanambi, in the state of Bahia, Brazil, in the southwestern region of the state.\n\nQ: Does Guanambi Airport handle international flights?\nA: No, it primarily serves domestic routes connecting to major Brazilian cities.\n\n",
+  "transport_tips": "The airport is located just a short distance from central Guanambi, typically accessible by taxi or rideshare within 10-15 minutes. Rental cars may be limited, so arranging ground transport in advance is recommended for travelers heading to surrounding agricultural areas. Local bus service can connect visitors to the city center, though schedules may be limited.",
+  "local_tip": "If visiting during the cotton harvest season (typically mid-year), book accommodations and transport well in advance, as the airport sees increased business travel from agribusiness professionals working in the region.",
+  "generatedAt": "2026-06-27T09:25:08.953Z",
+  "model": "MiniMax-M3"
+}

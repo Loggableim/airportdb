@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BGO",
+    "icao": "ENBR",
+    "name": "Bergen Airport, Flesland",
+    "country": "Norway",
+    "city": "Bergen",
+    "lat": 60.2934,
+    "lon": 5.2181,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Bergen Airport, Flesland (BGO) is Norway's second-busiest airport, serving as the main gateway to the western fjords and coastal regions. Located approximately 17 km southwest of Bergen city center on the Flesland peninsula, it handles around 3-4 million passengers annually. The airport is a vital hub for Norwegian Air Shuttle, SAS, and Widerøe, offering extensive domestic connections and key European routes.",
+  "faqs": "Q: How far is Bergen Airport from the city center?\nA: The airport is approximately 17 km southwest of Bergen's city center, typically a 25-35 minute drive depending on traffic.\n\nQ: What airlines operate from Bergen Airport?\nA: Major carriers include Norwegian Air Shuttle, SAS, Widerøe, KLM, Lufthansa, and several low-cost European airlines offering both domestic and international flights.\n\nQ: Does the airport have direct flights to other Norwegian cities?\nA: Yes, there are frequent direct flights to Oslo (OSL), Stavanger, Tromsø, Trondheim, and many smaller regional airports operated primarily by Widerøe and SAS.\n\nQ: Is there a lounge available for travelers?\nA: Yes, the airport features SAS and Norwegian lounges, as well as independent lounges that can be accessed via priority pass programs.",
+  "transport_tips": "The Bergen Light Rail (Bybanen) Line 1 connects the airport directly to Bergen city center in about 45 minutes, with departures every 5-10 minutes during peak times. Taxis are available outside the terminal and typically cost around 400-500 NOK to central Bergen. Airport express buses (Flybussen) also run frequently and offer competitive rates for direct city-center service.",
+  "local_tip": "If you have a layover of several hours, take the light rail toward Bergen city center and ride it to the end of the line at Byparken, which drops you right next to the historic Bryggen wharf—a UNESCO World Heritage site and the perfect way to stretch your legs before continuing your journey.",
+  "generatedAt": "2026-06-28T16:15:46.864Z",
+  "model": "MiniMax-M3"
+}

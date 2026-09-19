@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ACI",
+    "icao": "EGJA",
+    "name": "Alderney Airport",
+    "country": "Guernsey",
+    "city": "Saint Anne",
+    "lat": 49.7061,
+    "lon": -2.2147,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Alderney Airport serves the small island of Alderney, the northernmost inhabited island in the Bailiwick of Guernsey in the English Channel. It is notable for operating one of the shortest commercial runways in Europe at approximately 880 metres, making it a distinctive destination for aviation enthusiasts. The single-runway airport is highly exposed to coastal weather, particularly Atlantic crosswinds that frequently influence flight operations.",
+  "faqs": "Q: Why does Alderney have such a short runway?\nA: The runway is sized to meet the modest demands of the small island population (around 2,000 residents) and the limited range of aircraft needed for short hops to Guernsey and Southampton. Extending it is impractical due to the island's geography and the surrounding sea.\n\nQ: Which airlines operate flights to Alderney?\nA: Blue Islands is the main carrier, running scheduled services to Guernsey and Southampton using small turboprop aircraft suited to the short runway.\n\nQ: Can I fly to Alderney directly from the UK mainland?\nA: Yes, there are direct scheduled flights from Southampton, typically operated by Blue Islands. Most other travellers connect through Guernsey Airport.\n\nQ: Is Alderney Airport affected by weather often?\nA: Yes, the airport's exposed coastal position means crosswinds, fog, and low cloud can disrupt services. Travellers should expect possible delays, especially in winter months.",
+  "transport_tips": "Saint Anne, the main settlement, is only a short walk from the terminal along a single road, so taxis are rarely needed for arriving passengers. Cars, bicycles, and scooters are the main ways to explore the island, and rental options are available but should be booked in advance as stock is limited. If you are connecting onward",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T05:35:51.022Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EBJ",
+    "icao": "EKEB",
+    "name": "Esbjerg Airport",
+    "country": "Denmark",
+    "city": "Esbjerg",
+    "lat": 55.5259,
+    "lon": 8.5534,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Esbjerg Airport (EBJ) is a regional airport serving Denmark's fifth-largest city on the western Jutland coast. It functions as an important gateway to the country's oil and gas industry hub and the nearby Wadden Sea National Park, a UNESCO World Heritage Site. The airport primarily operates domestic flights to Copenhagen along with seasonal charter services.",
+  "faqs": "Q: How far is Esbjerg Airport from the city center?\nA: The airport is located approximately 8 km northeast of Esbjerg's city center, reachable in about 15 minutes by car or bus.\n\nQ: What airlines operate from Esbjerg Airport?\nA: Danish Air Transport (DAT) operates scheduled flights primarily to Copenhagen, with occasional seasonal charter services to holiday destinations.\n\nQ: Does the airport have international flights?\nA: Most flights are domestic, but seasonal charter flights to Mediterranean destinations are occasionally offered.\n\nQ: Are there car rental services at the airport?\nA: Yes, several car rental agencies operate at the airport, making it convenient for exploring the Jutland region.\n\n",
+  "transport_tips": "Bus route 1A connects the airport to Esbjerg city center and the main train station, with services timed to flight schedules. Taxis are available outside the terminal and offer a quick option for reaching nearby destinations. Renting a car is recommended if you plan to visit the Wadden Sea coast or explore broader Jutland.",
+  "local_tip": "If you have a layover or extra time, the Wadden Sea tidal flats are just a short drive away and offer guided mudflat hiking tours during low tide—a unique Danish experience that's hard to find anywhere else.",
+  "generatedAt": "2026-06-29T10:29:00.337Z",
+  "model": "MiniMax-M3"
+}

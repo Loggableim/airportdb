@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AYN",
+    "icao": "ZHAY",
+    "name": "Anyang Yindu Airport",
+    "country": "China",
+    "city": "Anyang",
+    "lat": 36.1339,
+    "lon": 114.344,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Anyang Yindu Airport is a small regional airport serving the historic city of Anyang in Henan Province, China. It functions as a secondary aviation gateway for the northern Henan region, primarily handling domestic flights. The airport supports access to Anyang, a city renowned as one of the ancient capitals of China and the archaeological heart of the Shang Dynasty.",
+  "faqs": "Q: What type of flights operate from Anyang Yindu Airport?\nA: The airport primarily handles domestic regional flights, connecting Anyang to other cities within China. International long-haul services are not available, so travelers typically use larger hubs like Zhengzhou for international connections.\n\nQ: How far is the airport from Anyang city center?\nA: Anyang Yindu Airport is located on the outskirts of the city, generally within a reasonable driving distance of the downtown area. Taxi and shuttle services are typically available for transfers.\n\nQ: Are there car rental services at the airport?\nA: Car rental and taxi services are generally available at regional Chinese airports of this size, though options may be more limited than at major international hubs.\n\nQ: When is the airport typically open?\nA: Operating hours align with scheduled flight arrivals and departures, so the airport is generally open during daytime hours when flights are active.",
+  "transport_tips": "Taxis and ride-hailing services like Didi are commonly used to reach the airport from central Anyang. Given the airport's smaller scale, travelers should plan ground transportation in advance and confirm pickup points with their driver. Allow extra time during peak travel periods as flight schedules at regional airports can sometimes experience changes.",
+  "local_tip": "Take advantage of the airport's proximity to Anyang's historic sites, including the Yinxu archaeological ruins and the Museum of Chinese Writing, which showcase the city's significance as the cradle of Chinese civilization and oracle bone script.",
+  "generatedAt": "2026-06-27T11:25:31.926Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WBU",
+    "icao": "KBDU",
+    "name": "Boulder Municipal Airport",
+    "country": "United States",
+    "city": "Boulder",
+    "lat": 40.0391,
+    "lon": -105.226,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Boulder Municipal Airport is a small general aviation facility serving the city of Boulder, Colorado, situated at the eastern edge of the Rocky Mountain foothills. The airport primarily accommodates private aircraft, flight training, and recreational flying rather than commercial service. Its scenic location provides pilots with stunning views of the Front Range and easy access to Boulder's vibrant outdoor and tech-oriented community.",
+  "faqs": "Q: Does Boulder Municipal Airport offer commercial flights?\nA: No, the airport serves general aviation only and does not have scheduled commercial airline service.\n\nQ: What is the main use of the airport?\nA: It is primarily used for private aviation, flight training, air taxi services, and recreational flying.\n\nQ: Are there car rental services at the airport?\nA: Rental cars are not typically available on-site; visitors usually arrange transportation through Boulder-based rental agencies or rideshare services.\n\nQ: What facilities are available for pilots?\nA: The airport offers fuel services, tie-downs, hangars, and basic amenities for transient pilots.",
+  "transport_tips": "The airport is conveniently located just minutes from downtown Boulder, making taxi or rideshare trips quick and affordable. Having a personal vehicle is recommended for flexibility, as public transit options to the airfield are limited. Ample free parking is generally available on-site for those driving to the airport.",
+  "local_tip": "Take a moment to enjoy the panoramic views of the Flatirons rock formations from the airfield, especially around sunset when the sandstone slabs glow golden against the foothills.",
+  "generatedAt": "2026-06-27T00:22:20.290Z",
+  "model": "MiniMax-M3"
+}

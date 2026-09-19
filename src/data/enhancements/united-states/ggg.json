@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GGG",
+    "icao": "KGGG",
+    "name": "East Texas Regional Airport",
+    "country": "United States",
+    "city": "Longview",
+    "lat": 32.384,
+    "lon": -94.7115,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "East Texas Regional Airport (GGG) is a public-use airport located in Gregg County near Longview, Texas, serving the East Texas region. It operates as a general aviation facility with limited commercial service, supporting both recreational and business aviation in the heart of the Piney Woods. The airport features multiple runways and serves as an important aviation hub for the Longview–Marshall metropolitan area.",
+  "faqs": "Q: Where is East Texas Regional Airport located?\nA: It is located in Gregg County, approximately 6 miles southwest of downtown Longview, Texas, in the northeastern part of the state.\n\nQ: Does the airport offer commercial airline service?\nA: The airport has historically offered limited commercial service, but it primarily functions as a general aviation facility today. Travelers should check current airline schedules for any active commercial flights.\n\nQ: How many runways does the airport have?\nA: East Texas Regional Airport has multiple runways, including the main runway 13/31 which accommodates most general aviation and occasional larger aircraft operations.\n\nQ: Are there FBO services available?\nA: Yes, the airport offers Fixed-Base Operator (FBO) services including fueling, aircraft parking, and basic amenities for general aviation pilots and passengers.",
+  "transport_tips": "The airport is easily accessible via US Highway 80 and State Highway 31, with a short drive from downtown Longview. Rental cars are the most practical option for ground transportation, as public transit options to the airport are limited. Ride-sharing services like Uber and Lyft may also be available but can be less reliable in this region.",
+  "local_tip": "Frequent visitors should know that the airport sits near the Sabine River, and the surrounding East Texas pine forests make for scenic arrival flights—request a window seat on the east-facing side if flying commercially for a chance to see the rolling woodlands below.",
+  "generatedAt": "2026-06-29T03:38:16.720Z",
+  "model": "MiniMax-M3"
+}

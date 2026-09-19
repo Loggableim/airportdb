@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KNU",
+    "icao": "",
+    "name": "Kanpur Airport",
+    "country": "India",
+    "city": "Kanpur",
+    "lat": 26.4043,
+    "lon": 80.4101,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Kanpur Airport (IATA: KNU) is a medium-sized domestic airport serving the industrial city of Kanpur in Uttar Pradesh, northern India. Operating as a civil enclave within an Indian Air Force station, it primarily handles domestic flights connecting the region to major Indian cities like Delhi, Mumbai, and Bengaluru. The airport serves Kanpur, historically known as the 'Manchester of the East' for its prominent textile and leather industries.",
+  "faqs": "Q: What airlines operate from Kanpur Airport?\nA: Kanpur Airport is primarily served by domestic carriers including IndiGo and SpiceJet, with regular flights to Delhi, Mumbai, Bengaluru, and other major Indian cities.\n\nQ: Does Kanpur Airport have international flights?\nA: No, Kanpur Airport currently operates only domestic flights. International travelers typically use Lucknow's Chaudhary Charan Singh International Airport, located about 80 km away.\n\nQ: How far is Kanpur Airport from the city center?\nA: The airport is located approximately 8-10 km from Kanpur's main city center, with typical travel times of 20-30 minutes depending on traffic conditions.\n\nQ: Is the airport open 24 hours?\nA: No, Kanpur Airport operates during scheduled flight hours only, as it functions as a civil enclave within an active military airbase.",
+  "transport_tips": "Pre-paid taxi counters and app-based cab services like Ola and Uber are available outside the terminal for the roughly 20-minute journey into central Kanpur. Shared auto-rickshaws and local tempos offer a budget-friendly alternative for short-distance travel. Allow extra time during peak hours, as roads around the airport can experience congestion.",
+  "local_tip": "Pack a light jacket or shawl even in summer—the airport terminal can get quite cold from air conditioning, and nearby Kanpur can be surprisingly chilly during December and January due to fog and cold waves from the north.",
+  "generatedAt": "2026-06-29T20:49:35.752Z",
+  "model": "MiniMax-M3"
+}

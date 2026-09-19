@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PCR",
+    "icao": "SKPC",
+    "name": "German Olano Airport",
+    "country": "Colombia",
+    "city": "Puerto Carreño",
+    "lat": 6.1847,
+    "lon": -67.4932,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "German Olano Airport serves Puerto Carreño, the capital of Colombia's Vichada department, situated at the strategic confluence of the Meta and Orinoco rivers on the border with Venezuela. The airport provides a vital aerial link for the remote eastern plains (Llanos) region, connecting it to Bogotá and other Colombian cities. Its riverside location makes it a key access point for travelers exploring the Orinoco region's wildlife and indigenous cultures.",
+  "faqs": "Q: What is the airport code for German Olano Airport?\nA: The IATA code is PCR and the ICAO code is SKPC.\n\nQ: Which airlines operate at this airport?\nA: Regional Colombian carriers such as SATENA and EasyFly typically operate scheduled flights, primarily connecting Puerto Carreño with Bogotá.\n\nQ: Is the airport open 24 hours?\nA: Operating hours are tied to scheduled flight arrivals and departures; it is not a 24-hour facility, so confirm your flight times in advance.\n\nQ: How far is the airport from Puerto Carreño's town center?\nA: The airport is located just a few kilometers from the town center, with typically short transfer times by taxi or moto-taxi.",
+  "transport_tips": "Taxis are available outside the terminal and are the most common way to reach central Puerto Carreño. Moto-taxis are also widely used for quick, inexpensive transfers. Roads connecting the airport to surrounding areas are unpaved in many directions, so plan accordingly if traveling overland.",
+  "local_tip": "Bring a good insect repellent with you at all times—the airport and surrounding Llanos region are known for mosquitoes, especially during the wet season, so DEET-based products are highly recommended.",
+  "generatedAt": "2026-06-29T15:38:17.866Z",
+  "model": "MiniMax-M3"
+}

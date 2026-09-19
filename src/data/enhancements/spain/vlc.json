@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VLC",
+    "icao": "LEVC",
+    "name": "Valencia Airport",
+    "country": "Spain",
+    "city": "Valencia",
+    "lat": 39.4892,
+    "lon": -0.481,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Valencia Airport (VLC) is the main international gateway to Spain's third-largest city, located approximately 8 kilometers west of central Valencia along the Mediterranean coast. Opened in 1933 and significantly expanded in 2012 with a striking modern terminal designed by architect Calatrava, the airport serves as a hub for both domestic and European traffic, handling over 8 million passengers annually. It offers direct connections to major European cities and seasonal routes to North African destinations.",
+  "faqs": "Q: How far is Valencia Airport from the city center?\nA: The airport is approximately 8 km (5 miles) west of Valencia's city center, with a typical journey time of 15-20 minutes by car or taxi.\n\nQ: What airlines operate from Valencia Airport?\nA: Major carriers include Ryanair, Vueling, Iberia, Air Europa, Lufthansa, easyJet, and Air Nostrum, offering connections across Europe and select intercontinental destinations.\n\nQ: Are there currency exchange services at the airport?\nA: Yes, there are ATMs and currency exchange bureaus available in both the departures and arrivals areas of the terminal.\n\nQ: Does the airport have facilities for passengers with reduced mobility?\nA: Yes, Valencia Airport provides comprehensive assistance services for passengers with reduced mobility, which can be requested through your airline in advance.",
+  "transport_tips": "The Metrovalencia Lines 3 and 5 connect the airport directly to the city center in about 25 minutes, with trains running every 15-30 minutes. Official taxi ranks are available outside the terminal, with fixed fares to the city center typically around €20-25. The CV-370 highway provides quick access for rental car travelers, and several bus routes operated by EMT Valencia also serve the airport.",
+  "local_tip": "If you have a layover or early arrival, head to the rooftop terrace of the terminal for excellent views of Valencia's coastline and the surrounding orange groves—a peaceful spot that most travelers overlook in their rush through the airport.",
+  "generatedAt": "2026-06-28T18:14:25.784Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TPE",
+    "icao": "RCTP",
+    "name": "Taiwan Taoyuan International Airport",
+    "country": "Taiwan",
+    "city": "Taoyuan",
+    "lat": 25.0777,
+    "lon": 121.233,
+    "type": "large_airport",
+    "size": 1018675
+  },
+  "summary": "Taiwan Taoyuan International Airport is the primary international gateway serving Taipei and the largest airport in Taiwan, located approximately 40 km southwest of the capital in Taoyuan City. Opened in 1979 and formerly known as Chiang Kai-shek International Airport, it operates two main terminals and serves as the main hub for China Airlines and EVA Air. The airport handles tens of millions of passengers annually and offers direct MRT rail connections to central Taipei.",
+  "faqs": "Q: How far is Taiwan Taoyuan International Airport from Taipei city center?\nA: The airport is roughly 40 km southwest of Taipei. The Taoyuan Airport MRT provides a direct rail connection to central Taipei in approximately 35-45 minutes.\n\nQ: How many terminals does TPE have?\nA: The airport has two main passenger terminals, Terminal 1 and Terminal 2, connected by a free automated people mover shuttle. Most international carriers operate from Terminal 2.\n\nQ: Are there hotels inside the airport?\nA: Yes, there are transit hotels available in both terminals, along with numerous lounges and shower facilities for transit passengers.\n\nQ: Can I use Taiwan dollars at the airport?\nA: Yes, currency exchange counters and ATMs are widely available throughout both terminals, and most vendors accept major credit cards.",
+  "transport_tips": "The Taoyuan Airport MRT is the most convenient and reliable option to reach central Taipei, with express trains taking about 35 minutes. Taxis are available 24/7 but cost significantly more, while long-distance buses offer budget-friendly connections to cities across Taiwan. The High Speed Rail can be accessed via a short shuttle from the airport's THSR Taoyuan Station for fast travel south to cities like Taichung and Kaohsiung.",
+  "local_tip": "If you have a layover of several hours, take the MRT into Taipei for a quick visit to a night market like Shilin or Raohe—the MRT station is right at the airport and the journey is straightforward, making even a 4-5 hour layover feel worthwhile.",
+  "generatedAt": "2026-06-28T15:02:10.363Z",
+  "model": "MiniMax-M3"
+}

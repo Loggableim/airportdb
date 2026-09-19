@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MNZ",
+    "icao": "KHEF",
+    "name": "Manassas Regional Airport/Harry P. Davis Field",
+    "country": "United States",
+    "city": "Manassas",
+    "lat": 38.7214,
+    "lon": -77.5154,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Manassas Regional Airport, also known as Harry P. Davis Field, is a general aviation facility located in the city of Manassas, Virginia, approximately 30 miles southwest of Washington, D.C. It serves as a key reliever airport for the Washington metropolitan area, handling corporate, recreational, and flight training operations. The field honors Harry P. Davis, a local aviation pioneer who helped establish the airport in the mid-20th century.",
+  "faqs": "Q: What type of airport is Manassas Regional?\nA: It is a medium-sized general aviation airport that does not offer scheduled commercial passenger service.\n\nQ: How far is the airport from Washington, D.C.?\nA: The airport is located roughly 30 miles southwest of downtown Washington, D.C., in the city of Manassas, Virginia.\n\nQ: What activities does the airport support?\nA: The facility supports corporate aviation, private flying, flight training, aircraft rental, and maintenance services.\n\nQ: Are there any customs or international facilities at MNZ?\nA: Manassas Regional does not have staffed U.S. Customs and Border Protection facilities, so international arrivals must first clear customs at a larger airport.",
+  "transport_tips": "The airport is easily accessed by car via Interstate 66 and Route 234, with on-site parking available for pilots and visitors. Ride-sharing services and local taxi companies operate in the area, though booking in advance is recommended. There is no direct public transit service to the terminal area, so a personal vehicle or arranged ground transport is the most reliable option.",
+  "local_tip": "If you're visiting the area, take a short drive into historic downtown Manassas to explore the Civil War battlefield sites and enjoy local restaurants, which are just a few miles from the airport.",
+  "generatedAt": "2026-06-30T05:01:49.709Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PEU",
+    "icao": "MHPL",
+    "name": "Puerto Lempira Airport",
+    "country": "Honduras",
+    "city": "Puerto Lempira",
+    "lat": 15.2622,
+    "lon": -83.7812,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Puerto Lempira Airport (PEU/MHPL) is a small regional airfield serving Puerto Lempira, the capital of Honduras' remote Gracias a Dios department along the Caribbean Mosquito Coast. It functions as a critical lifeline for one of Central America's most isolated regions, where dense jungle, rivers, and limited road infrastructure make air travel the most reliable means of access. The airport primarily handles short-hop flights connecting the Miskito-dominated communities of La Moskitia with the rest of Honduras.",
+  "faqs": "Q: What airlines fly into Puerto Lempira Airport?\nA: Regional carriers such as Sosa and CM Airlines operate scheduled services, typically using small turboprop aircraft on routes from La Ceiba and Tegucigalpa.\n\nQ: Why is this airport so important to the region?\nA: Gracias a Dios lacks paved roads linking it to the rest of Honduras, so the airport is the primary link for passengers, mail, medical evacuations, and supplies.\n\nQ: Is the airport open to international flights?\nA: No, Puerto Lempira is a domestic facility with no scheduled international service, though it lies near the Nicaraguan border.\n\nQ: What is the runway like at Puerto Lempira?\nA: The airport has a single short paved runway suitable for small regional aircraft, with no jet service.",
+  "transport_tips": "Ground transport from the airport is limited to pickup trucks, motorbike taxis, and small boats, since Puerto Lempira has no paved road network. Most travelers arrange onward transport through their hotel or lodge in advance, as taxis are not readily available curbside. During the rainy season, river crossings may be required to reach surrounding villages.",
+  "local_tip": "Pack light and carry only what you need for at least one extra day, because weather in La Moskitia frequently causes flight cancellations and diversions, leaving passengers stranded until conditions",
+  "generatedAt": "2026-06-26T19:06:11.394Z",
+  "model": "MiniMax-M3"
+}

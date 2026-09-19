@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SIP",
+    "icao": "UKFF",
+    "name": "Simferopol International Airport",
+    "country": "Ukraine",
+    "city": "Simferopol",
+    "lat": 45.0522,
+    "lon": 33.9751,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Simferopol International Airport (SIP/UKFF) is the principal aviation gateway to the Crimean Peninsula, situated approximately 12 km northwest of the capital city of Simferopol. The airport was substantially modernized and expanded in the mid-2010s, featuring a modern terminal complex designed to handle high passenger volumes. Historically one of the busiest airports in Ukraine, it now serves primarily as a key hub for travel to and from Crimea.",
+  "faqs": "Q: Where is Simferopol International Airport located relative to the city?\nA: The airport lies roughly 12 km northwest of central Simferopol, the capital of Crimea, and is easily reached by road or rail connections.\n\nQ: How many terminals does Simferopol Airport have?\nA: The airport operates with a single modern terminal building that handles all domestic and international arrivals and departures.\n\nQ: What is the airport's IATA and ICAO codes?\nA: The airport is designated SIP by IATA and UKFF by ICAO.\n\nQ: Does Simferopol Airport offer duty-free shopping?\nA: Yes, the terminal features retail outlets including duty-free shops, cafés, and other passenger services.\n\n",
+  "transport_tips": "The most convenient way to reach Simferopol city center from the airport is by taxi or pre-booked transfer, with the journey typically taking 20-30 minutes. Regular bus and marshrutka (minibus) routes also connect the airport to Simferopol's main railway station and central districts at a lower cost. Travelers arriving by train from other Crimean cities can use the nearby airport rail halt for direct access.",
+  "local_tip": "If you have a layover or extra time, consider asking airport staff about the on-site exhibition showcasing Crimean history, which many travelers miss entirely while rushing through the terminal.",
+  "generatedAt": "2026-06-28T21:20:54.992Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LEI",
+    "icao": "LEAM",
+    "name": "Almería Airport",
+    "country": "Spain",
+    "city": "Almería",
+    "lat": 36.8439,
+    "lon": -2.3701,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Almería Airport (LEI) is a regional gateway on Spain's Mediterranean coast in Andalusia, serving the historic city of Almería and the surrounding province. Originally developed as a military airfield, it now operates as a civilian airport hosting seasonal and year-round flights primarily to and from other parts of Spain and Europe. Its location makes it a popular entry point for visitors heading to the Cabo de Gata-Níjar Natural Park, the Tabernas Desert, and Almería's famously sun-drenched beaches.",
+  "faqs": "Q: How far is Almería Airport from the city center?\nA: The airport is approximately 9 km (5.5 miles) east of Almería's city center, typically a 15-20 minute drive.\n\nQ: Which airlines operate from Almería Airport?\nA: The airport is served mainly by low-cost carriers such as Ryanair, Vueling, and easyJet, along with Iberia regional services and seasonal charter flights.\n\nQ: What destinations are available from Almería?\nA: Regular flights connect Almería to Madrid, Barcelona, Seville, London, and several other European cities, with additional seasonal routes during summer.\n\nQ: Are there duty-free and dining options at the airport?\nA: Yes, the terminal has a small selection of shops, cafés, and a duty-free area, though the airport's facilities are modest compared to Spain's larger hubs.",
+  "transport_tips": "ALSA operates a regular bus service between the airport and Almería's city center and bus station, with a journey time of",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T03:56:00.595Z",
+  "model": "MiniMax-M3"
+}

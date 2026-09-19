@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SWH",
+    "icao": "YSWH",
+    "name": "Swan Hill Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -35.3758,
+    "lon": 143.533,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Swan Hill Airport is a regional airport serving the city of Swan Hill in northwestern Victoria, Australia, situated near the Murray River. It primarily supports general aviation and serves the local agricultural community and visitors to the Murray River tourism region. The airport provides an important link for this remote area of Victoria, approximately 340 km northwest of Melbourne.",
+  "faqs": "Q: What facilities are available at Swan Hill Airport?\nA: The airport has basic facilities suited to general aviation and small charter operations, including a terminal building, refueling services, and parking areas.\n\nQ: How far is the airport from Swan Hill town center?\nA: Swan Hill Airport is located approximately 5 km from the town center, a short drive of around 5-10 minutes.\n\nQ: Are there car rental services at the airport?\nA: Car rental services are available in Swan Hill town rather than directly at the airport, so arranging a rental in advance or booking a taxi is recommended.\n\nQ: Does Swan Hill Airport have regular commercial flights?\nA: Scheduled commercial services are limited; the airport is primarily used for general aviation, charter flights, and emergency services.\n\n",
+  "transport_tips": "The airport is a short drive from Swan Hill's town center, and taxi services are the most convenient way to reach the terminal. Having a rental car arranged from Swan Hill is advisable for exploring the broader Murray River region. Public transport options to the airport are very limited, so pre-arranging ground transport is recommended.",
+  "local_tip": "While in Swan Hill, visit the Pioneer Settlement, one of Australia's premier open-air heritage museums where you can experience paddle steamer rides and pioneer-era Australian life along the Murray River.",
+  "generatedAt": "2026-06-26T07:56:00.769Z",
+  "model": "MiniMax-M3"
+}

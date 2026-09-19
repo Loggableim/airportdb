@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YLK",
+    "icao": "CYLS",
+    "name": "Barrie-Lake Simcoe Regional Airport",
+    "country": "Canada",
+    "city": "Barrie",
+    "lat": 44.4851,
+    "lon": -79.5547,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Barrie-Lake Simcoe Regional Airport (YLK) is a medium-sized regional airport located in the city of Barrie, Ontario, serving the Lake Simcoe region north of Toronto. Owned and operated by the City of Barrie, it primarily supports general aviation, flight training, recreational flying, and charter operations. The airport has been a fixture in the region for decades and plays an important role in connecting central Ontario's communities to broader air travel networks.",
+  "faqs": "Q: Where is Barrie-Lake Simcoe Regional Airport located?\nA: The airport is situated on the southern outskirts of Barrie, Ontario, approximately 80 km north of Toronto, serving the Lake Simcoe region.\n\nQ: What types of flights operate from YLK?\nA: YLK primarily handles general aviation traffic, including flight training, private and recreational flights, air ambulance services, and some charter operations. There are no scheduled commercial passenger airlines.\n\nQ: Does the airport have a control tower?\nA: Yes, the airport operates a control tower during published hours, and pilots use a mandatory frequency (MF) outside of tower operating times.\n\nQ: Can I get customs and immigration clearance at YLK?\nA: The airport has Canada Border Services Agency (CBSA) clearance capabilities available by appointment for international flights, making it a designated port of entry.\n\n",
+  "transport_tips": "The airport is about a 10-minute drive from downtown Barrie via Essa Road and Highway 400 access. Taxi and rideshare services are available but limited; booking in advance is recommended as there is no scheduled public transit directly to the terminal. Visitors arriving by car will find ample free parking on-site.\n\n",
+  "local_tip": "If you're flying in for a visit, time your trip to enjoy Kempenfest, Barrie's massive waterfront festival held every August, or explore the nearby ski resorts in winter—both within a short drive of the airport.\n",
+  "generatedAt": "2026-06-29T18:28:06.670Z",
+  "model": "MiniMax-M3"
+}

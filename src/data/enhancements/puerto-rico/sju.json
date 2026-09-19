@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SJU",
+    "icao": "TJSJ",
+    "name": "Luis Munoz Marin International Airport",
+    "country": "Puerto Rico",
+    "city": "San Juan",
+    "lat": 18.4394,
+    "lon": -66.0018,
+    "type": "large_airport",
+    "size": 1012275
+  },
+  "summary": "Luis Munoz Marin International Airport (SJU) is Puerto Rico's primary international gateway, located in the municipality of Carolina just east of San Juan. Named after Luis Munoz Marin, the island's first elected governor, the airport originated as a US military airfield (Isla Grande Air Base) before converting to commercial operations in 1955 and moving to its current site in 1955. It is the busiest airport in the Caribbean by passenger volume and serves as a major hub connecting the mainland United States, Latin America, and Europe.",
+  "faqs": "Q: How far is SJU from Old San Juan?\nA: The airport is approximately 8 miles (13 km) east of Old San Juan, typically a 15-25 minute drive depending on traffic conditions on PR-26 and PR-1.\n\nQ: Does SJU have US Customs pre-clearance?\nA: No, SJU operates as a domestic US port of entry since Puerto Rico is a US territory, so travelers from the mainland do not clear customs or immigration. International arrivals from non-US destinations do go through customs screening.\n\nQ: Which terminals does SJU have and how are they connected?\nA: SJU has two main terminals (A and B) connected by an airside walkway. Terminal A handles most domestic and mainline carrier flights, while Terminal B primarily serves regional and some international carriers.\n\nQ: Is there a lounge at SJU?\nA: Yes, the airport hosts several lounges including the VIP Lounge, American Airlines Admirals Club, Delta Sky Club, and United Club, plus independent Priority Pass lounges in both terminals.\n\n",
+  "transport_tips": "Taxis and rideshare services like Uber are available curbside at both terminals with fixed-rate zones to popular San Juan destinations; expect around $15-25 to Isla Verde or Condado and $25-35 to Old San Juan. The Tren Urbano rapid transit system has a station at the airport with connections to Hato Rey and Bay",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T15:18:48.666Z",
+  "model": "MiniMax-M3"
+}

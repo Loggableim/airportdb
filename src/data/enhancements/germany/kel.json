@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KEL",
+    "icao": "EDHK",
+    "name": "Kiel-Holtenau Airport",
+    "country": "Germany",
+    "city": "Kiel",
+    "lat": 54.3796,
+    "lon": 10.1453,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kiel-Holtenau Airport (KEL/EDHK) is a regional airport serving the city of Kiel, the capital of Germany's northernmost state of Schleswig-Holstein. Located in the Holtenau district near the Kiel Canal, one of the world's busiest artificial waterways, the airport primarily handles general aviation, private flights, and limited regional services. Its proximity to the Baltic Sea coast makes it a convenient gateway for visitors to northern Germany and Scandinavia.",
+  "faqs": "Q: What types of flights operate from Kiel-Holtenau Airport?\nA: The airport mainly serves general aviation, private and business flights, flight training, and occasional regional scheduled services rather than major commercial routes.\n\nQ: How far is the airport from Kiel city center?\nA: It is located in the Holtenau district approximately 8 kilometers north of downtown Kiel, making it a quick drive from the city.\n\nQ: Is there public transportation available to the airport?\nA: Bus services connect the airport with central Kiel, though schedules may be limited; renting a car or using a taxi is often the most convenient option.\n\nQ: Can the airport accommodate larger aircraft?\nA: Kiel-Holtenau has a single runway suitable for small to medium aircraft, so it cannot handle large commercial jets typically found at major international airports.",
+  "transport_tips": "The airport is best accessed by car via the B503 federal road, which runs directly past the airfield. From Kiel Hauptbahnhof (main station), taxis reach the airport in roughly 15 minutes. Rental cars are available on-site or in the city for visitors planning to explore the wider Schleswig-Holstein region.",
+  "local_tip": "If you have time before or after your flight, drive a few minutes to the nearby Holtenau locks and watch massive ships being raised and lowered between the North Sea and Baltic Sea—it is one of Kiel's most impressive and free sights.",
+  "generatedAt": "2026-06-29T08:46:54.756Z",
+  "model": "MiniMax-M3"
+}

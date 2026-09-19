@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LGA",
+    "icao": "KLGA",
+    "name": "LaGuardia Airport",
+    "country": "United States",
+    "city": "New York",
+    "lat": 40.7772,
+    "lon": -73.8726,
+    "type": "large_airport",
+    "size": 1030575
+  },
+  "summary": "LaGuardia Airport (LGA) is a major domestic hub located in the borough of Queens, New York City, approximately 8 miles from Midtown Manhattan. Named after former NYC Mayor Fiorello La Guardia, it opened in 1939 and primarily serves short-haul and domestic flights, handling more than 30 million passengers annually. Following a multi-billion-dollar redevelopment completed in recent years, LaGuardia features entirely new terminal facilities, making it one of the most modern airport complexes in the United States.",
+  "faqs": "Q: Which airlines operate from LaGuardia Airport?\nA: LaGuardia primarily serves domestic carriers including American Airlines, Delta Air Lines, Southwest Airlines, United Airlines, JetBlue, Spirit, and Frontier. International flights are generally limited to nearby destinations in Canada and the Caribbean.\n\nQ: How far is LaGuardia from Manhattan?\nA: LaGuardia is about 8 miles east of Midtown Manhattan, typically a 30-60 minute drive depending on traffic conditions.\n\nQ: Does LaGuardia have a direct rail connection to the city?\nA: No, LaGuardia does not have a direct subway or rail link. Passengers rely on buses, taxis, rideshares, and the proposed AirTrain LaGuardia system for ground transportation.\n\nQ: When did the LaGuardia redevelopment project complete?\nA: The major redevelopment was substantially completed in phases between 2020 and 2024, with a new Terminal B and a rebuilt Terminal C replacing the older facilities.",
+  "transport_tips": "Allow extra time for travel to and from LaGuardia, as the airport sits in congested Queens traffic and the route via the Grand Central Parkway can be unpredictable. The M60 bus is a budget-friendly option connecting to Manhattan subway lines, while taxis and rideshares offer direct but pricier service. The MTA's Q70 LaGuardia Link bus provides a free transfer to the Jackson Heights-Roosevelt Avenue subway and Long Island Rail Road stations.",
+  "local_tip": "If you're picking up or dropping off passengers, use the cell phone lot on Ditmars Boulevard to wait for free rather than circling the terminals, which can incur expensive parking fees.",
+  "generatedAt": "2026-06-28T14:56:39.223Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GSS",
+    "icao": "",
+    "name": "Sabi Sabi Airport",
+    "country": "South Africa",
+    "city": "Belfast",
+    "lat": -24.9474,
+    "lon": 31.4488,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Sabi Sabi Airport is a small private airstrip located in the Belfast area of Mpumalanga, South Africa, serving the renowned Sabi Sabi private game reserve adjacent to Kruger National Park. The airport primarily caters to luxury safari tourists arriving for Big Five game viewing experiences. It functions as a gateway for chartered and scheduled flights connecting guests from major South African hubs like Johannesburg to one of the country's most exclusive wildlife destinations.",
+  "faqs": "Q: What is Sabi Sabi Airport primarily used for?\nA: It serves the Sabi Sabi private game reserve, providing convenient air access for safari tourists heading to the reserve's luxury lodges near Kruger National Park.\n\nQ: Are there commercial flights to Sabi Sabi Airport?\nA: Scheduled and chartered flights operate to the airport, typically from Johannesburg, though services are primarily arranged through the lodges or tour operators.\n\nQ: How far is the airport from the game reserve lodges?\nA: The airstrip is located very close to the Sabi Sabi lodges, usually just a short game drive transfer of around 10-20 minutes.\n\nQ: Does the airport have immigration or customs facilities?\nA: As a domestic-only facility for passengers connecting within South Africa, it does not have international customs or immigration services.",
+  "transport_tips": "Most visitors arrange transfers through their safari lodge, which typically includes a short game drive vehicle pickup from the airstrip. Road transfers from nearby Hoedspruit or Nelspruit are available but take several hours through rural terrain. Self-driving is possible via well-maintained gravel roads, but a high-clearance vehicle is recommended, especially during the rainy season.",
+  "local_tip": "Book flights that arrive in the late morning so you can enjoy a short afternoon game drive on your arrival day—Sabi Sabi's rangers are experts at",
+  "generatedAt": "2026-06-27T08:48:36.814Z",
+  "model": "MiniMax-M3"
+}

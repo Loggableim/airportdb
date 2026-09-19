@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XTO",
+    "icao": "YTAM",
+    "name": "Taroom Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -25.8017,
+    "lon": 149.9,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Taroom Airport (XTO/YTAM) is a small regional airstrip serving the rural town of Taroom in central Queensland, Australia. Located in the Dawson Valley, it primarily supports general aviation, charter flights, and aerial services for the surrounding agricultural and pastoral industries. The facility provides essential connectivity to this remote part of the Banana Shire, where road travel to major centers can be lengthy.",
+  "faqs": "Q: What type of airport is Taroom Airport?\nA: Taroom Airport is classified as a small regional airport, primarily handling general aviation and charter traffic rather than scheduled commercial flights.\n\nQ: Where is Taroom Airport located?\nA: The airport is situated near the town of Taroom in central Queensland, within the Banana Shire, at approximately -25.802°S, 149.900°E.\n\nQ: Does Taroom Airport have scheduled commercial service?\nA: No regular scheduled commercial airline service operates from this airport; it mainly accommodates private, charter, and emergency flights.\n\nQ: What facilities are available at the airport?\nA: As a small rural airstrip, facilities are minimal, typically including a basic terminal area and refueling capabilities for general aviation aircraft.",
+  "transport_tips": "Access to Taroom Airport is by vehicle only, with the airstrip located a short drive from the town center along local roads. Visitors should arrange private transport or a rental vehicle in advance, as there is no public transit serving the airport. The closest major centers are Brisbane (approximately 500 km southeast) and Rockhampton (around 400 km north), both reached by long-distance road travel.",
+  "local_tip": "If flying in, coordinate refueling and ground handling well in advance with the local operators, as services are limited and the airport is unattended outside of pre-arranged bookings.",
+  "generatedAt": "2026-06-27T11:08:49.422Z",
+  "model": "MiniMax-M3"
+}

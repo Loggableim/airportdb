@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BFJ",
+    "icao": "ZUBJ",
+    "name": "Bijie Feixiong Airport",
+    "country": "China",
+    "city": "Bijie",
+    "lat": 27.2671,
+    "lon": 105.4721,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Bijie Feixiong Airport (BFJ) is a regional airport serving Bijie city in the mountainous Guizhou Province of southwestern China. Its name, 'Feixiong,' translates to 'Flying Bear,' reflecting local cultural identity. Opened in 2013, the airport provides vital air connectivity to a historically remote region known for its karst landscapes and ethnic minority heritage.",
+  "faqs": "Q: How far is Bijie Feixiong Airport from the city center?\nA: The airport is located approximately 18-20 kilometers southeast of Bijie's downtown area, typically a 30-40 minute drive depending on traffic.\n\nQ: What airlines operate at Bijie Feixiong Airport?\nA: The airport is primarily served by domestic Chinese carriers including China Southern Airlines, China Eastern Airlines, and Air China, connecting Bijie to major hubs like Beijing, Shanghai, Guangzhou, and Chengdu.\n\nQ: Does the airport offer international flights?\nA: No, Bijie Feixiong Airport currently handles only domestic flights within China.\n\nQ: Are there hotels near the airport?\nA: Limited accommodation options are available in the immediate airport vicinity, but several mid-range and budget hotels can be found in downtown Bijie.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are the most common ways to reach the airport from Bijie city center, with fares typically costing 60-100 RMB. There is also an airport shuttle bus service connecting to the downtown area on a limited schedule. Travelers should allow extra time during the rainy season, as mountain roads to the airport can experience delays.",
+  "local_tip": "If you have a long layover or early arrival, consider visiting the Bijie Confucian Temple area in the old city for a taste of local history—many taxi drivers will wait for a small negotiated fee, making it an easy detour before your flight.",
+  "generatedAt": "2026-06-29T23:40:39.481Z",
+  "model": "MiniMax-M3"
+}

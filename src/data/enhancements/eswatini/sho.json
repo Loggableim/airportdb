@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SHO",
+    "icao": "FDSK",
+    "name": "King Mswati III International Airport",
+    "country": "Eswatini",
+    "city": "Mpaka",
+    "lat": -26.3586,
+    "lon": 31.7169,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "King Mswati III International Airport (SHO), formerly known as Sikhuphe International Airport, is the primary international gateway to the Kingdom of Eswatini, a landlocked nation bordered by South Africa and Mozambique. Located near Mpaka in the eastern Lowveld, the airport serves as the main hub for travelers visiting Eswatini's cultural reserves and royal events. It replaced Matsapha Airport as the country's main international aviation facility.",
+  "faqs": "Q: How far is the airport from Mbabane, the capital of Eswatini?\nA: The airport is approximately 80 km from Mbabane, typically a 1.5 to 2-hour drive depending on the border crossing and traffic.\n\nQ: Which airlines operate from King Mswati III International Airport?\nA: The airport is served primarily by regional carriers, with scheduled services linking Eswatini to South Africa and select international destinations.\n\nQ: Does the airport have customs and immigration facilities?\nA: Yes, the airport is equipped with full immigration and customs services for international arrivals and departures.\n\nQ: Is there a difference between SHO and Matsapha Airport?\nA: Yes, SHO (King Mswati III International) handles international flights, while Matsapha Airport (MTS) handles mostly domestic and charter operations.",
+  "transport_tips": "Most travelers arrange private transfers or rental cars in advance, as public transport options to the airport are limited. Cross-border travelers from South Africa often use the Ngwenya or Oshoek border posts to access the airport via the MR3 highway. Taxi services from Mbabane and Manzini should be pre-booked, as they are not always readily available at the terminal.",
+  "local_tip": "Many visitors find it more convenient to fly into King Shaka International Airport in Durban, South Africa, or Kruger Mpumalanga International Airport, which offer more flight options and a manageable overland transfer to Eswatini.",
+  "generatedAt": "2026-06-29T00:45:59.119Z",
+  "model": "MiniMax-M3"
+}

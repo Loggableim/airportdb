@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EKT",
+    "icao": "ESSU",
+    "name": "Eskilstuna Airport",
+    "country": "Sweden",
+    "city": "Eskilstuna",
+    "lat": 59.3511,
+    "lon": 16.7084,
+    "type": "medium_airport",
+    "size": 325
+  },
+  "summary": "Eskilstuna Airport (EKT/ESSU) is a regional medium-sized airport serving the city of Eskilstuna in Södermanland County, Sweden, located approximately 100 km west of Stockholm. It primarily supports general aviation, flight training, and business charter operations rather than scheduled commercial passenger service. The facility plays a key role in the local aviation community and serves the industrial Eskilstuna region.",
+  "faqs": "Q: Does Eskilstuna Airport have scheduled commercial flights?\nA: No, the airport primarily handles general aviation, flight training, and charter flights rather than regular scheduled commercial service.\n\nQ: How far is Eskilstuna Airport from Stockholm?\nA: The airport is roughly 100 km west of Stockholm, accessible by road in about 1.5 to 2 hours depending on traffic.\n\nQ: Are there passenger terminals and services at EKT?\nA: As a small regional airfield, facilities are limited compared to major airports, so travelers should arrange services in advance.\n\nQ: Can I rent a car at Eskilstuna Airport?\nA: Car rental availability is limited and typically needs to be arranged in advance with local providers in Eskilstuna city.\n\n",
+  "transport_tips": "Having a private vehicle is the most practical way to reach the airport, as there is no direct public transit service to the terminal. Taxis from Eskilstuna city center can be pre-booked and typically take around 15-20 minutes depending on the departure point. Travelers flying into EKT from Stockholm often continue onward by rental car or pre-arranged ground transport.",
+  "local_tip": "Frequent visitors recommend coordinating with the airport's fixed-base operator in advance for refueling and hangar arrangements, as the facility operates on more limited hours than major commercial airports and staffed services may not always be available on short notice.",
+  "generatedAt": "2026-06-30T01:51:54.127Z",
+  "model": "MiniMax-M3"
+}

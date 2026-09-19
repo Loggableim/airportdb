@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RTM",
+    "icao": "EHRD",
+    "name": "Rotterdam The Hague Airport",
+    "country": "Netherlands",
+    "city": "Rotterdam",
+    "lat": 51.9569,
+    "lon": 4.4372,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Rotterdam The Hague Airport (RTM/EHRD) is the third-largest airport in the Netherlands, serving the densely populated South Holland region including Rotterdam and The Hague. Originally established as a military airfield, the airport now functions as a regional hub focused on business aviation and European leisure routes. Its compact single-terminal layout offers a notably faster alternative to Amsterdam Schiphol for travelers visiting the Randstad area.",
+  "faqs": "Q: How far is Rotterdam The Hague Airport from the city center?\nA: The airport is located approximately 5 km (3 miles) northwest of Rotterdam city center and about 20 km from The Hague, making it convenient for both cities.\n\nQ: Does Rotterdam The Hague Airport have international flights?\nA: Yes, the airport operates flights to several European destinations including cities in the UK, Spain, France, Italy, and Turkey, primarily through scheduled and charter carriers.\n\nQ: Is there public transport available to the airport?\nA: Yes, RET bus line 33 connects the airport directly to Rotterdam Central Station, with a journey time of about 20-25 minutes.\n\nQ: Why choose Rotterdam The Hague over Schiphol?\nA: The airport offers significantly shorter check-in and security times, easier navigation, and quick access to Rotterdam and The Hague without the hour-plus journey from Schiphol.",
+  "transport_tips": "RET bus 33 runs frequently between Rotterdam Central Station and the airport terminal, with tickets available from the driver or at metro stations. A taxi or rideshare to central Rotterdam takes roughly 15 minutes depending on traffic, while reaching The Hague by car typically requires 25-35 minutes via the A13 motorway. The airport's small size means you can arrive about 60-90 minutes before departure and still make your flight comfortably.",
+  "local_tip": "If you have time before your flight, visit the airport's observation deck or grab a coffee at one of the terrace spots to watch the mix of commercial, business, and occasional historic aircraft movements—the airport is known for its varied general aviation traffic including vintage warbirds.",
+  "generatedAt": "2026-06-28T18:44:39.205Z",
+  "model": "MiniMax-M3"
+}

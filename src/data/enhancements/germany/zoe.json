@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZOE",
+    "icao": "",
+    "name": "Ludwigshafen Accident Hospital Heliport",
+    "country": "Germany",
+    "city": "Ludwigshafen am Rhein",
+    "lat": 49.4865,
+    "lon": 8.3892,
+    "type": "heliport",
+    "size": 0
+  },
+  "summary": "The Ludwigshafen Accident Hospital Heliport (ZOE) serves the BG Unfallklinik Ludwigshafen, a major trauma and emergency medical center in the Rhineland-Palatinate region of Germany. It facilitates rapid helicopter transport of critically injured patients to specialized care. The heliport supports emergency medical services (HEMS) operations in the densely populated Rhine-Neckar metropolitan area.",
+  "faqs": "Q: What is the primary purpose of this heliport?\nA: It serves the adjacent accident and trauma hospital, enabling rapid emergency patient transfers and air ambulance operations.\n\nQ: Does this heliport handle commercial passenger flights?\nA: No, it is exclusively used for helicopter emergency medical services and is not open to general aviation or commercial traffic.\n\nQ: Are there landing fees for private helicopters?\nA: Hospital heliports like this typically do not accept non-emergency or private helicopter landings; access is restricted to authorized HEMS operators.\n\nQ: Which helicopter operators commonly use this facility?\nA: German emergency air rescue services such as ADAC Luftrettung and DRF Luftrettung are the typical operators at such hospital heliports.",
+  "transport_tips": "The heliport is located on the hospital grounds and is not accessible to the general public for drop-offs or pickups. Visitors should use the main hospital entrance via local public transport, with tram and bus lines serving the Unfallklinik area. By car, it is accessible via the A650 and B44 highways near the Rhine River crossing.",
+  "local_tip": "If you are visiting a patient transported by air rescue, check with the hospital reception first—flight arrivals are logged and staff can direct you to the appropriate ward more quickly than waiting at the emergency entrance.",
+  "generatedAt": "2026-06-28T13:20:48.058Z",
+  "model": "MiniMax-M3"
+}

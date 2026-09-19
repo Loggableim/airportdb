@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NTR",
+    "icao": "MMAN",
+    "name": "Del Norte International Airport",
+    "country": "Mexico",
+    "city": "Monterrey",
+    "lat": 25.8656,
+    "lon": -100.237,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Del Norte International Airport is a medium-sized airfield located in the northern outskirts of Monterrey, Nuevo León, Mexico, serving primarily general aviation, private jets, and charter flights. It functions as a secondary airport to the larger General Mariano Escobedo International Airport, providing relief capacity and handling corporate and executive traffic for the industrial capital of Mexico. The facility supports Monterrey's thriving business and aerospace sectors, which include major manufacturing and aviation companies.",
+  "faqs": "Q: How far is Del Norte International Airport from downtown Monterrey?\nA: The airport is located approximately 15-20 kilometers (9-12 miles) north of Monterrey's city center, typically a 20-30 minute drive depending on traffic.\n\nQ: Does Del Norte International Airport handle commercial airline flights?\nA: No, it primarily serves general aviation, private aviation, and charter operations rather than scheduled commercial passenger service.\n\nQ: What facilities are available at Del Norte International Airport?\nA: The airport offers FBOs (Fixed-Base Operators) with services for private aircraft, fuel services, hangars, customs and immigration handling, and basic passenger amenities.\n\nQ: Are there other airports in the Monterrey area?\nA: Yes, General Mariano Escobedo International Airport (MTY) is the main commercial hub for the region, handling most scheduled airline traffic.",
+  "transport_tips": "Taxis and private car services are the most common ways to reach the airport, as there is no direct public transit connection. Ride-hailing apps like Uber and Didi operate in the Monterrey area and can be used for pickup and drop-off. Renting a car is recommended for visitors planning to explore the greater Monterrey metropolitan area, with the airport well-connected via local highways.",
+  "local_tip": "If you're flying private or charter, confirm your FBO arrangements in advance—Del Norte has multiple FBOs and each handles its own customs, fueling, and ground services, so coordinating with the correct operator ahead of time saves significant time on arrival.",
+  "generatedAt": "2026-06-26T07:57:28.574Z",
+  "model": "MiniMax-M3"
+}

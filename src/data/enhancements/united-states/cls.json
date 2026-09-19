@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CLS",
+    "icao": "KCLS",
+    "name": "Chehalis Centralia Airport",
+    "country": "United States",
+    "city": "Chehalis",
+    "lat": 46.677,
+    "lon": -122.983,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Chehalis Centralia Airport is a small general aviation facility serving the twin cities of Chehalis and Centralia in Lewis County, southwestern Washington. Located along Interstate 5 between Seattle and Portland, the airport primarily supports private pilots, flight training, and recreational flying. It serves as a convenient alternative to larger regional airports for the local community.",
+  "faqs": "Q: What type of airport is Chehalis Centralia Airport?\nA: It is a small public-use general aviation airport serving private and recreational aviation in Lewis County, Washington.\n\nQ: Does CLS offer commercial airline service?\nA: No, the airport does not provide scheduled commercial passenger service. It caters to general aviation, flight training, and private aircraft.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, tie-down parking, and basic services for general aviation aircraft. Pilots should contact the airport for current fuel and service availability.\n\nQ: Where is the airport located relative to nearby cities?\nA: The airport is situated near Chehalis and Centralia, roughly halfway between Seattle and Portland along the Interstate 5 corridor.\n\n",
+  "transport_tips": "The airport is located just off Interstate 5, making it easily accessible by car with a short drive from either Chehalis or Centralia. Rental cars or personal transportation is recommended, as there is no public transit directly serving the facility. Visitors coming from Seattle or Portland can expect approximately a 1.5 to 2-hour drive.",
+  "local_tip": "If visiting the area, consider exploring the nearby historic downtown Chehalis, known for its antique shops and the annual Steam Engine Show. The airport's proximity to I-5 also makes it a great starting point for trips to Mount Rainier or the Pacific coast.",
+  "generatedAt": "2026-06-27T00:36:40.620Z",
+  "model": "MiniMax-M3"
+}

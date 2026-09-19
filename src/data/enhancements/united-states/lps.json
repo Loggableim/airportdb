@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LPS",
+    "icao": "",
+    "name": "Lopez Island Airport",
+    "country": "United States",
+    "city": "Lopez",
+    "lat": 48.4839,
+    "lon": -122.938,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Lopez Island Airport is a small general aviation facility on Lopez Island, one of the San Juan Islands archipelago in Washington State's Puget Sound. The airport primarily serves private pilots, local residents, and visitors exploring the island's pastoral landscapes, quiet roads, and kayaking waters. Its single short runway makes it a popular destination for general aviation travelers seeking an alternative to ferry-based island access.",
+  "faqs": "Q: Does Lopez Island Airport offer commercial airline service?\nA: No, the airport is a general aviation facility and does not have scheduled commercial flights.\n\nQ: How large is the airport's runway?\nA: The airport features a single asphalt runway suitable for small private aircraft.\n\nQ: Can I land a rental aircraft there?\nA: Pilots flying in can land on a prior-permission basis and there is typically fuel available for general aviation use.\n\nQ: What is the closest mainland access point?\nA: Anacortes, Washington is the nearest mainland ferry terminal, reached by a short ferry ride to Lopez Island.",
+  "transport_tips": "Without commercial service, visitors typically reach the island via Washington State Ferry from Anacortes; the airport is then a short drive from the ferry landing. Rental cars, bicycles, and mopeds are the most common ways to get around once on the island. Taxi or shuttle service from the ferry dock to the airport is limited, so arranging ground transport in advance is recommended.",
+  "local_tip": "Lopez Island is famously known as the \"Friendly Isle\" because islanders wave at every passing driver and pedestrian—rent a car and embrace the custom by waving back as you head to or from the airport.",
+  "generatedAt": "2026-06-26T14:16:36.115Z",
+  "model": "MiniMax-M3"
+}

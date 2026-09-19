@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PIM",
+    "icao": "KPIM",
+    "name": "Harris County Airport",
+    "country": "United States",
+    "city": "Pine Mountain",
+    "lat": 32.8407,
+    "lon": -84.8824,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Harris County Airport (PIM) is a small general aviation airport serving Pine Mountain, Georgia, and the surrounding Harris County area. Located near the popular Callaway Gardens resort and FDR State Park, it primarily accommodates private aircraft, recreational flyers, and visitors to nearby tourist attractions. The airport features a single runway and provides a convenient gateway for travelers exploring west-central Georgia.",
+  "faqs": "Q: What is Harris County Airport primarily used for?\nA: Harris County Airport is a general aviation facility serving private pilots, recreational aircraft, and visitors to the Pine Mountain area, including Callaway Gardens.\n\nQ: Does Harris County Airport offer commercial airline service?\nA: No, PIM is a small general aviation airport and does not have scheduled commercial airline service.\n\nQ: What attractions are near the airport?\nA: Callaway Gardens, FDR State Park, and the town of Pine Mountain are all located within a short drive of the airport.\n\nQ: Are there fuel services available at the airport?\nA: Yes, the airport typically offers fuel services for general aviation aircraft, though pilots should confirm current availability before arrival.\n\n",
+  "transport_tips": "The airport is located just off Interstate 185 near Exit 34, making ground access straightforward. Rental cars are not available on-site, so arranging transportation in advance through Pine Mountain or nearby Hamilton is recommended. The airport is approximately 30 minutes from Columbus, Georgia, via I-185 north.",
+  "local_tip": "If you're flying in for a visit to Callaway Gardens, check the resort's schedule for seasonal events like the Fantasy in Lights during the holidays—it's one of the most popular times to visit the area.",
+  "generatedAt": "2026-06-27T02:48:19.737Z",
+  "model": "MiniMax-M3"
+}

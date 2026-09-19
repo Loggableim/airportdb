@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IRP",
+    "icao": "FZJH",
+    "name": "Matari Airport",
+    "country": "Democratic Republic of the Congo",
+    "city": "Isiro",
+    "lat": 2.8276,
+    "lon": 27.5883,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Matari Airport (IRP/FZJH) serves the city of Isiro in northeastern Democratic Republic of the Congo, functioning as a key regional gateway in Haut-Uele Province. The airport supports domestic connectivity in a remote area where road travel can be difficult due to dense equatorial forest terrain. It plays an important role for humanitarian operations, local commerce, and access to the surrounding mining communities.",
+  "faqs": "Q: What is the airport code for Matari Airport?\nA: The IATA code is IRP and the ICAO code is FZJH.\n\nQ: Where is Matari Airport located?\nA: It is located near Isiro in the Haut-Uele Province of northeastern Democratic Republic of the Congo.\n\nQ: Is Matari Airport an international airport?\nA: No, it primarily handles domestic regional flights within the DRC.\n\nQ: How large is Matari Airport?\nA: It is classified as a medium-sized airport serving regional traffic in the area.\n\n",
+  "transport_tips": "Ground transportation from Matari Airport to central Isiro is typically by motorcycle taxi or shared vehicle, as the airport is located a short distance from the city center. Travelers should arrange transportation in advance, as formal taxi services are limited in this region. Road conditions between the airport and town can vary, especially during the rainy season.",
+  "local_tip": "Carry small denominations of Congolese francs in cash, as ATMs and card payment options are rarely available in Isiro, and local vendors and taxi drivers typically only accept cash.",
+  "generatedAt": "2026-06-29T15:06:18.520Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MKU",
+    "icao": "FOOK",
+    "name": "Makokou Airport",
+    "country": "Gabon",
+    "city": "Makokou",
+    "lat": 0.5792,
+    "lon": 12.8909,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Makokou Airport (MKU/FOOK) is a medium-sized regional airport serving Makokou, the capital of Gabon's Ogooué-Ivindo Province in the country's northeastern interior. It functions as a key gateway for travelers heading to Ivindo National Park, one of Gabon's most important rainforest reserves known for its forest elephants and western lowland gorillas. The airport supports both scheduled domestic flights and charter operations connecting this remote area to Libreville.",
+  "faqs": "Q: What is the IATA code for Makokou Airport?\nA: The IATA code is MKU, and the ICAO code is FOOK.\n\nQ: Which airlines operate flights to Makokou Airport?\nA: Domestic carriers operating in Gabon typically serve Makokou, connecting it with Libreville's Léon-Mba International Airport.\n\nQ: How far is the airport from Makokou city center?\nA: The airport is located a short drive from Makokou's town center, typically reachable within 15-20 minutes by road.\n\nQ: Are there international flights from Makokou?\nA: No, Makokou Airport primarily handles domestic flights. International travelers typically connect through Libreville.\n\n",
+  "transport_tips": "Taxis and hotel-arranged transfers are the most common way to reach the town from the airport, as public transport options are limited. The road from the airport into Makokou is paved but can become challenging during heavy rains, so plan extra travel time accordingly. Rental cars are rarely available at the airport, so arranging ground transport in advance through your accommodation is recommended.",
+  "local_tip": "If visiting Ivindo National Park, coordinate with lodges or tour operators in Makokou before arrival, as park access requires advance permits and guided arrangements that cannot typically be organized on the spot.",
+  "generatedAt": "2026-06-29T15:21:37.406Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TLX",
+    "icao": "SCTL",
+    "name": "Panguilemo Airport",
+    "country": "Chile",
+    "city": "Talca",
+    "lat": -35.3778,
+    "lon": -71.6017,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Panguilemo Airport (TLX/SCTL) is a regional airport serving Talca, the capital of Chile's Maule Region. Located approximately 8 km southwest of the city center, it primarily handles general aviation and occasional commercial charter flights. The airport provides convenient access to the central Chilean agricultural heartland and the surrounding wine-producing valleys.",
+  "faqs": "Q: What airlines operate from Panguilemo Airport?\nA: The airport primarily serves general aviation and occasional charter flights, with limited scheduled commercial service. Travelers should check current schedules as operations may vary seasonally.\n\nQ: How far is the airport from downtown Talca?\nA: Panguilemo Airport is located about 8 kilometers southwest of Talca's city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Does the airport have international flights?\nA: No, the airport currently handles domestic flights only and does not have international customs or immigration facilities.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic amenities including a waiting area and restrooms, though services are limited compared to larger Chilean airports.",
+  "transport_tips": "Taxis and ride-sharing services are the most common way to reach the airport from Talca; pre-booking is recommended as availability can be limited. Rental cars can be arranged in Talca city for those needing flexible transportation. The Route 5 (Pan-American Highway) provides the main road access to the airport area.",
+  "local_tip": "If you have time before your flight, visit Talca's Plaza de Armas and try the local Chilean empanadas or fresh seasonal fruit from the Maule Region—some of the best produce in Chile comes from this agricultural area.",
+  "generatedAt": "2026-06-26T10:47:27.943Z",
+  "model": "MiniMax-M3"
+}

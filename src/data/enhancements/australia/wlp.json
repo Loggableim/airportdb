@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WLP",
+    "icao": "YANG",
+    "name": "West Angelas Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -23.1356,
+    "lon": 118.7072,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "West Angelas Airport is a small, remote airstrip serving the Rio Tinto-operated West Angelas iron ore mine in the Pilbara region of Western Australia. It primarily facilitates fly-in fly-out (FIFO) worker movements to and from the mine site, rather than commercial passenger traffic. The airport sits in the arid Hamersley Ranges, surrounded by red earth and mineral-rich terrain characteristic of Australia's resources heartland.",
+  "faqs": "Q: Is West Angelas Airport open to the public?\nA: No, this airport is restricted and primarily serves mine workers and authorized personnel only. There are no scheduled commercial flights.\n\nQ: What airlines fly to West Angelas?\nA: Charter and FIFO operators such as Alliance Airlines, Network Aviation, and QantasLink typically service the route, flying workers from Perth and other Pilbara airports.\n\nQ: How far is the airport from the mine?\nA: The airstrip is located adjacent to the West Angelas mine accommodation village, with workers typically transferred by short bus ride after landing.\n\nQ: Are there passenger facilities at the terminal?\nA: Facilities are minimal and designed for FIFO transit only, including basic check-in, waiting areas, and security screening.\n\n",
+  "transport_tips": "Travelers to West Angelas must be rostered mine workers with confirmed bookings; independent access is not permitted. Most passengers fly from Perth Airport, with flight times around two hours each way. Ground transport from the airport to the accommodation camp is coordinated by the mining operator.",
+  "local_tip": "Pack for extreme heat — Pilbara temperatures regularly exceed 40°C (104°F) in summer, so bring lightweight, sun-protective clothing and stay well-hydrated before boarding the outbound flight.",
+  "generatedAt": "2026-06-27T08:47:48.219Z",
+  "model": "MiniMax-M3"
+}

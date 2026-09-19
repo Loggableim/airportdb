@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LGG",
+    "icao": "EBLG",
+    "name": "Liège Airport",
+    "country": "Belgium",
+    "city": "Grâce-Hollogne",
+    "lat": 50.6386,
+    "lon": 5.4439,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Liège Airport, located in Grâce-Hollogne in Belgium's Wallonia region, is one of Europe's most important air cargo hubs, handling millions of tonnes of freight annually. Originally developed from the former Bierset military airbase, it has grown into a key gateway for express parcel carriers and dedicated freighter operations. While offering limited passenger flights, the airport plays a strategic role in European logistics thanks to its central location and 24-hour operational capability.",
+  "faqs": "Q: What is Liège Airport best known for?\nA: Liège Airport is primarily recognized as one of Europe's leading cargo airports, serving major express freight and logistics operators with round-the-clock operations.\n\nQ: Does Liège Airport have passenger flights?\nA: Yes, Liège Airport handles a small selection of passenger flights, mostly seasonal and charter services, though its core business is air freight.\n\nQ: How far is the airport from Liège city center?\nA: The airport is located approximately 10 kilometers west of Liège city center, typically a 15 to 20 minute drive depending on traffic.\n\nQ: Can the airport handle very large cargo aircraft?\nA: Yes, its long main runway and modern cargo facilities are designed to accommodate large wide-body freighters including 747-8 and similar heavy aircraft.",
+  "transport_tips": "The airport is well connected by road via the E40 and E42 motorways, making it easily accessible by car. Public bus lines run between the airport and Liège-Guillemins railway station, offering direct connections to the broader Belgian rail network. Many cargo-related visitors and business travelers typically arrange private transfers or rental cars due to limited scheduled public transport outside working hours.",
+  "local_tip": "If you have a long wait between flights, consider visiting nearby Liège city itself, just a short drive away, where you can explore the vibrant La Boverie museum,",
+  "generatedAt": "2026-06-29T03:35:57.894Z",
+  "model": "MiniMax-M3"
+}

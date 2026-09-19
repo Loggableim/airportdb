@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ILG",
+    "icao": "KILG",
+    "name": "Wilmington Airport",
+    "country": "United States",
+    "city": "Wilmington",
+    "lat": 39.6787,
+    "lon": -75.6065,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Wilmington Airport (ILG/KILG) is a medium-sized public airport located in unincorporated New Castle County, about 5 miles south of downtown Wilmington, Delaware. Formerly known as New Castle Airport, it has historical roots dating back to World War II when it served as a military airbase and was once home to the Delaware Air National Guard. Today it functions as a general aviation and regional commercial hub, offering an alternative to the busier Philadelphia International Airport just 25 miles northeast.",
+  "faqs": "Q: How far is Wilmington Airport from downtown Wilmington?\nA: The airport is approximately 5 miles south of downtown Wilmington, typically a 10-15 minute drive via I-95.\n\nQ: Does Wilmington Airport offer commercial passenger service?\nA: Yes, it has limited commercial service operated by regional carriers, along with general aviation and charter flights. Check current schedules as service varies.\n\nQ: Is there an alternative major airport nearby?\nA: Philadelphia International Airport (PHL) is about 25 miles northeast and offers significantly more flight options.\n\nQ: Are car rentals available at the airport?\nA: Yes, several car rental agencies serve the airport, though availability can be limited compared to larger hubs, so booking in advance is recommended.",
+  "transport_tips": "The airport is conveniently located just off Interstate 95, making it easily accessible by car from Wilmington, Philadelphia, and Baltimore. Ride-share services like Uber and Lyft operate in the area, and taxi service is available though advance booking is advisable. Ample free parking is available in the on-site lots, which is a notable advantage over larger regional airports.",
+  "local_tip": "Frequent visitors recommend timing arrivals around rush hour—traffic on I-95 through Wilmington can add significant delays, but using the back roads through New Castle or the scenic Route 9 waterfront route can be a faster and more pleasant alternative.",
+  "generatedAt": "2026-06-29T03:37:52.168Z",
+  "model": "MiniMax-M3"
+}

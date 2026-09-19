@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ALC",
+    "icao": "LEAL",
+    "name": "Alicante-Elche Miguel Hernández Airport",
+    "country": "Spain",
+    "city": "Alicante",
+    "lat": 38.2822,
+    "lon": -0.5582,
+    "type": "large_airport",
+    "size": 51150
+  },
+  "summary": "Alicante-Elche Miguel Hernández Airport (ALC) is the main gateway to Spain's Costa Blanca, serving the popular tourist destinations of Alicante, Benidorm, Elche, and Murcia. Renamed in 2017 to honor Orihuela-born poet Miguel Hernández, it ranks among Spain's busiest airports and handles millions of passengers annually, primarily seasonal leisure traffic from Northern Europe. The single-terminal facility sits roughly 9 km southwest of Alicante city center.",
+  "faqs": "Q: How far is the airport from Alicante city center?\nA: The airport is approximately 9 km southwest of Alicante. By car or taxi it takes around 15-20 minutes, depending on traffic.\n\nQ: Does the airport have public transport connections?\nA: Yes. The C-6 bus route connects the airport to Alicante city center, and there are intercity buses serving Benidorm, Murcia, and other Costa Blanca destinations. The Alicante tram also stops near the terminal.\n\nQ: How early should I arrive before my flight?\nA: For Schengen flights, arriving 2 hours in advance is usually sufficient. For non-Schengen flights or during peak summer months, plan for 2.5-3 hours.\n\nQ: Is the airport accessible for passengers with reduced mobility?\nA: Yes, the terminal is fully accessible with adapted facilities, reserved seating, and assistance services that should be requested through your airline in advance.",
+  "transport_tips": "The C-6 bus (operated by Vectalia) runs between the terminal and Alicante's central bus station roughly every 20-30 minutes. Taxis are available 24/7 outside arrivals with fixed fares to nearby destinations like Elche and Santa Pola. For travelers heading to Benidorm or Murcia, the Costa Azul bus service offers direct connections from the airport.",
+  "local_tip": "The rooftop terrace on the terminal's upper floor is a hidden gem—it's one of the few Spanish airports offering outdoor seating with views of the runway and surrounding countryside, perfect for a quiet coffee or plane-spotting between flights.",
+  "generatedAt": "2026-06-28T15:56:41.928Z",
+  "model": "MiniMax-M3"
+}

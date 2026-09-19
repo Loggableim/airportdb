@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YNL",
+    "icao": "CYNL",
+    "name": "Points North Landing Airport",
+    "country": "Canada",
+    "city": "Points North Landing",
+    "lat": 58.2767,
+    "lon": -104.082,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Points North Landing Airport is a remote regional airport located in northern Saskatchewan, Canada, serving as a critical transportation hub for the surrounding Athabasca Basin region. The facility primarily supports uranium mining operations and provides essential access for workers traveling to one of Canada's most isolated industrial areas. Its remote location makes it one of the more distinctive operational airports in the Canadian North.",
+  "faqs": "Q: What is Points North Landing Airport primarily used for?\nA: The airport primarily serves the uranium mining industry in the Athabasca Basin, transporting workers and supplies to remote mine sites in northern Saskatchewan.\n\nQ: Are there commercial passenger flights to Points North Landing?\nA: Scheduled commercial service is limited; most flights are charter or corporate operations related to mining and exploration activities in the region.\n\nQ: What facilities are available at the airport?\nA: The airport provides basic services appropriate for a remote northern operation, including a terminal building, fuel services, and aircraft parking facilities.\n\nQ: When is the best time to fly into Points North Landing?\nA: Summer months offer the most reliable weather conditions, as the airport can experience significant weather challenges during harsh northern Saskatchewan winters.",
+  "transport_tips": "Ground transportation options are limited due to the remote location, so coordinate transportation in advance with your employer or the mining company you are visiting. Most arrivals are pre-arranged, as the airport is not a typical destination for general travelers. Allow extra time for weather-related delays, which are common in northern operations.",
+  "local_tip": "Bring layered clothing even in summer—temperatures in this part of northern Saskatchewan can drop significantly, and weather can change rapidly between seasons.",
+  "generatedAt": "2026-06-29T09:00:58.572Z",
+  "model": "MiniMax-M3"
+}

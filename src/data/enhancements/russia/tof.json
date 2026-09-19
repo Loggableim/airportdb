@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TOF",
+    "icao": "UNTT",
+    "name": "Tomsk Kamov Airport",
+    "country": "Russia",
+    "city": "Tomsk",
+    "lat": 56.3803,
+    "lon": 85.2083,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Tomsk Kamov Airport serves the historic Siberian city of Tomsk, a major academic and cultural hub in Russia. The airport takes its name from the nearby Kamov settlement and provides essential connectivity for the region, handling domestic flights primarily. It serves as an important gateway for the numerous students and academics visiting Tomsk's renowned universities.",
+  "faqs": "Q: What is the distance from Tomsk Kamov Airport to the city center?\nA: The airport is located approximately 20 kilometers southeast of Tomsk's city center, typically a 30-40 minute drive depending on traffic and weather conditions.\n\nQ: Does Tomsk Kamov Airport have international flights?\nA: The airport primarily handles domestic flights to major Russian cities such as Moscow, St. Petersburg, and Novosibirsk, with limited international service.\n\nQ: Are there overnight facilities at the airport?\nA: The airport terminal operates primarily during flight hours, so travelers with very early or late flights should plan transportation accordingly.\n\nQ: Is the airport affected by Siberian winter weather?\nA: Yes, like most Siberian airports, Tomsk Kamov can experience flight delays during heavy snow, ice, or fog conditions, particularly from November through March.",
+  "transport_tips": "Tomsk has regular bus and marshrutka (minibus) services connecting the airport to the city center, with route 119 being a common option. Taxis and ride-hailing services are available but should be booked in advance during winter months due to weather. Many hotels in Tomsk offer airport transfer services, which can be pre-arranged for convenience.",
+  "local_tip": "If you have a long layover or delayed flight, ask locals about the small cafe near the terminal serving traditional Siberian pelmeni (dumplings) - a warming treat that's perfect for the cold climate and offers an authentic taste of regional cuisine at reasonable prices.",
+  "generatedAt": "2026-06-28T22:43:11.242Z",
+  "model": "MiniMax-M3"
+}

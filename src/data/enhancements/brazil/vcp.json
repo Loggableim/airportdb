@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VCP",
+    "icao": "SBKP",
+    "name": "Viracopos International Airport",
+    "country": "Brazil",
+    "city": "Campinas",
+    "lat": -23.0074,
+    "lon": -47.1345,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Viracopos International Airport (VCP) is located in Campinas, São Paulo state, serving one of Brazil's most important economic and technological hubs. It ranks among the busiest cargo airports in Latin America, handling significant freight operations alongside passenger services. The airport plays a vital role in connecting the Campinas metropolitan area to domestic and international destinations.",
+  "faqs": "Q: How far is Viracopos Airport from Campinas city center?\nA: The airport is approximately 14 km (about 9 miles) from downtown Campinas, typically a 20-30 minute drive depending on traffic.\n\nQ: Does Viracopos handle international flights?\nA: Yes, it operates both domestic and international flights, though it is especially renowned for its cargo operations across Latin America.\n\nQ: Are there hotels near the airport?\nA: Yes, there are several hotel options in the vicinity, ranging from budget to mid-range, catering to business travelers and those with early flights.\n\nQ: Which airlines operate from Viracopos?\nA: Several major Brazilian carriers including Azul, Gol, and LATAM operate passenger services, with various cargo airlines also using the facility.",
+  "transport_tips": "Taxis and ride-sharing apps like Uber and 99 are readily available and offer reliable transport to Campinas and nearby cities. The airport connects to major highways including the Bandeirantes and Anhanguera, making road access straightforward. Bus services and shuttle options also link the airport to Campinas and São Paulo city.",
+  "local_tip": "If you have a layover or extra time, Campinas is famous for its traditional cuisine—try a pastel from the Municipal Market (Mercado Municipal), which locals consider among the best in São Paulo state.",
+  "generatedAt": "2026-06-28T19:23:08.507Z",
+  "model": "MiniMax-M3"
+}

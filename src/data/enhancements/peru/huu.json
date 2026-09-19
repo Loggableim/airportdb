@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HUU",
+    "icao": "SPNC",
+    "name": "Alferez Fap David Figueroa Fernandini Airport",
+    "country": "Peru",
+    "city": "Huánuco",
+    "lat": -9.8788,
+    "lon": -76.2048,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Alferez Fap David Figueroa Fernandini Airport (HUU) serves the Andean city of Huánuco in central Peru, situated at roughly 1,900 meters above sea level in the highlands between the Cordillera Blanca and the jungle regions. The airport is named in honor of a Peruvian Air Force officer and functions as an important regional gateway connecting this historic area to Lima and other domestic destinations. The terminal handles medium-sized regional aircraft typical of Peru's highland routes.",
+  "faqs": "Q: What is the airport code for Huánuco Airport?\nA: The IATA code is HUU and the ICAO code is SPNC.\n\nQ: How far is the airport from Huánuco city center?\nA: The airport is located on the outskirts of Huánuco, approximately 15-20 minutes by road from the main plaza.\n\nQ: Are there regular commercial flights to Lima?\nA: Yes, the airport receives regular scheduled service to Lima's Jorge Chávez International Airport operated by Peruvian domestic carriers.\n\nQ: Is the airport at high altitude?\nA: Yes, the airport sits in the Andean highlands at roughly 1,900 meters elevation, which can occasionally affect operations during foggy mornings.",
+  "transport_tips": "",
+  "local_tip": "Huánuco is famously known as 'La Ciudad de la Eterna Primavera' (The City of Eternal Spring) due to its mild year-round climate, so pack layers rather than heavy cold",
+  "generatedAt": "2026-06-29T13:42:11.495Z",
+  "model": "MiniMax-M3"
+}

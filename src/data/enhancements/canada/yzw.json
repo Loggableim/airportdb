@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YZW",
+    "icao": "CYZW",
+    "name": "Teslin Airport",
+    "country": "Canada",
+    "city": "Teslin",
+    "lat": 60.1728,
+    "lon": -132.743,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Teslin Airport (YZW) is a regional airport serving the small community of Teslin in southern Yukon, Canada. Located along the Alaska Highway corridor, it primarily supports general aviation, charter flights, and medevac operations for this remote northern community. The airport plays a vital role in connecting Teslin to larger hubs like Whitehorse during the region's challenging weather conditions.",
+  "faqs": "Q: Where is Teslin Airport located?\nA: Teslin Airport is located near the community of Teslin in southern Yukon, Canada, approximately 3 km from the town center along the Alaska Highway.\n\nQ: Are there scheduled commercial flights to Teslin?\nA: Scheduled commercial service is limited or nonexistent; the airport primarily supports charter operations, general aviation, and air ambulance services.\n\nQ: What facilities are available at the airport?\nA: As a remote regional airport, facilities are minimal, with no scheduled commercial terminal services. Pilots and passengers should arrange ground services and transportation in advance.\n\nQ: What is the best way to reach Teslin from Whitehorse?\nA: The most common option is driving approximately 180 km southeast on the Alaska Highway, which typically takes around 2 hours depending on conditions.",
+  "transport_tips": "The most reliable way to reach Teslin Airport is by personal vehicle via the Alaska Highway from Whitehorse, as there is no public transit serving the airport. Taxi or pre-arranged shuttle services from the village may be available with advance booking. During winter months, ensure your vehicle is equipped for icy road conditions and extreme cold, as temperatures can drop significantly.",
+  "local_tip": "If flying in, check weather conditions carefully before departure—mountain weather and lake-effect snow from nearby Teslin Lake can create sudden visibility changes that affect both scheduled and charter flights.",
+  "generatedAt": "2026-06-26T09:56:53.602Z",
+  "model": "MiniMax-M3"
+}

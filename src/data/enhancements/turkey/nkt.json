@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NKT",
+    "icao": "LTCV",
+    "name": "Şırnak Şerafettin Elçi Airport",
+    "country": "Turkey",
+    "city": "Şırnak",
+    "lat": 37.3647,
+    "lon": 42.0582,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Şırnak Şerafettin Elçi Airport (NKT) is a regional airport serving Şırnak Province in southeastern Turkey, near the Iraqi and Syrian borders. Named after Şerafettin Elçi, a prominent Turkish-Kurdish lawyer and human rights advocate, the airport provides vital air connectivity to a geographically remote and mountainous area where road travel can be lengthy. It primarily handles domestic flights and serves as an important gateway for the local population and government workers.",
+  "faqs": "Q: What is Şırnak Şerafettin Elçi Airport's main purpose?\nA: The airport primarily provides domestic flight connections for the residents of Şırnak Province, an area in southeastern Turkey that is otherwise long overland distances from major Turkish cities.\n\nQ: Who is the airport named after?\nA: It is named after Şerafettin Elçi, a well-known Turkish-Kurdish lawyer, politician, and human rights advocate from the region.\n\nQ: How far is the airport from Şırnak city center?\nA: The airport is located on the outskirts of Şırnak city, typically a short drive of roughly 20-30 minutes depending on local road conditions.\n\nQ: Are there international flights from NKT?\nA: The airport mainly operates domestic routes, primarily to Istanbul and Ankara, with occasional seasonal or charter services.",
+  "transport_tips": "Taxis and pre-arranged private transfers are the most common ways to reach the airport, as there is no rail or metro service in the region. Travelers coming from nearby towns in Şırnak Province should allow extra time, as mountain roads can be slow and weather may cause delays. Rental cars are available but having local knowledge or a navigation app is recommended given the rugged terrain.",
+  "local_tip": "Schedule flights for daylight hours if possible—the surrounding mountainous terrain and regional weather can occasionally cause diversions, and earlier flights tend to have fewer delays.",
+  "generatedAt": "2026-06-29T21:05:51.582Z",
+  "model": "MiniMax-M3"
+}

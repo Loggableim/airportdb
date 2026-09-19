@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GLS",
+    "icao": "KGLS",
+    "name": "Scholes International At Galveston Airport",
+    "country": "United States",
+    "city": "Galveston",
+    "lat": 29.2653,
+    "lon": -94.8604,
+    "type": "medium_airport",
+    "size": 475
+  },
+  "summary": "Scholes International At Galveston Airport (GLS) is a medium-sized airport serving Galveston Island, Texas, a popular Gulf Coast destination known for its beaches, historic district, and cruise terminals. The airport supports general aviation and limited commercial operations, providing a convenient alternative to Houston's larger airports for visitors heading to the island. Its coastal location makes it a favored entry point for tourists and private aircraft operators visiting the Houston-Galveston metropolitan area.",
+  "faqs": "Q: How far is the airport from Galveston's cruise terminals?\nA: The airport is located on Galveston Island, just a short drive from the Port of Galveston cruise terminals, typically within 10-15 minutes depending on traffic.\n\nQ: Does Scholes International offer commercial airline service?\nA: Scheduled commercial service is limited; the airport primarily serves general aviation and private aircraft, though charter services may be available.\n\nQ: Are there car rental services at GLS?\nA: Rental car options are available, though selection may be more limited than at major hub airports, so booking in advance is recommended.\n\nQ: What attractions are near the airport?\nA: The airport is close to Galveston's historic Strand District, Pleasure Pier, beaches, and the Galveston Island State Park.",
+  "transport_tips": "Taxis, rideshares, and rental cars are the primary ground transportation options from GLS. Since public transit is limited on the island, arranging ground transport in advance is advisable, especially during cruise departure days. The drive to downtown Houston is approximately 50 miles, typically taking around an hour depending on traffic conditions.",
+  "local_tip": "If visiting during hurricane season (June through November), check the airport's operational status in advance, as tropical weather can occasionally disrupt flight schedules on the Gulf Coast.",
+  "generatedAt": "2026-06-30T00:33:55.674Z",
+  "model": "MiniMax-M3"
+}

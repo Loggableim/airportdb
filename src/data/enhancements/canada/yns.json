@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YNS",
+    "icao": "CYHH",
+    "name": "Nemiscau Airport",
+    "country": "Canada",
+    "city": "Nemiscau",
+    "lat": 51.6911,
+    "lon": -76.1356,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Nemiscau Airport (YNS) is a small regional airport serving the Cree community of Nemiscau in the Eeyou Istchee territory of northern Quebec, Canada. The airport provides essential connectivity to this remote sub-Arctic community, supporting residents, government services, and the regional hydroelectric infrastructure. It functions primarily as a lifeline for medical evacuations, passenger travel, and cargo operations in an otherwise isolated region.",
+  "faqs": "Q: What is Nemiscau Airport primarily used for?\nA: The airport primarily serves the local Cree community of Nemiscau, providing scheduled passenger service, cargo transport, and medevac capabilities to this remote northern location.\n\nQ: Which airlines operate at Nemiscau Airport?\nA: Air Creebec is the main carrier serving the airport, operating scheduled flights connecting Nemiscau to other Eeyou Istchee communities and southern Quebec destinations like Montreal.\n\nQ: Is Nemiscau Airport open year-round?\nA: Yes, the airport operates year-round, which is critical for the community during harsh northern winters when road access becomes extremely limited.\n\nQ: How remote is Nemiscau from major cities?\nA: Nemiscau is located in the James Bay region of northern Quebec, roughly 1,000 km north of Montreal, making air travel the most practical transportation option for reaching the community.\n\n",
+  "transport_tips": "There are no public road connections suitable for general travel to Nemiscau, so air travel is essentially the only reliable way to access the community. Visitors should arrange ground transportation in advance as rental car services are not available at the airport. Passengers should confirm flight schedules well ahead of time, as northern Quebec flights are often weather-dependent and subject to delays.",
+  "local_tip": "Pack for extreme temperature variations even in summer—northern Quebec mornings can be surprisingly cold, and layered clothing is essential when stepping off the aircraft.",
+  "generatedAt": "2026-06-26T14:33:08.718Z",
+  "model": "MiniMax-M3"
+}

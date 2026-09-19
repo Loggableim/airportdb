@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MSR",
+    "icao": "LTCK",
+    "name": "Muş Airport",
+    "country": "Turkey",
+    "city": "Muş",
+    "lat": 38.7478,
+    "lon": 41.6612,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Muş Airport (MSR/LTCK) is a medium-sized regional airport serving Muş Province in eastern Anatolia, Turkey. It primarily handles domestic flights, connecting the historically rich Muş region to major Turkish cities such as Istanbul and Ankara. The airport provides essential access to an area known for its mountainous terrain, ancient heritage, and proximity to Lake Van.",
+  "faqs": "Q: What airlines operate from Muş Airport?\nA: The airport is primarily served by Turkish Airlines with scheduled domestic flights, mainly connecting to Istanbul and Ankara.\n\nQ: How far is the airport from Muş city center?\nA: Muş Airport is located approximately 15-20 kilometers from the city center, accessible by road in roughly 20-30 minutes depending on traffic.\n\nQ: Does Muş Airport have international flights?\nA: No, Muş Airport operates domestic flights only, serving as a regional gateway within Turkey.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers standard amenities including a passenger terminal, basic dining options, car rental services, and parking facilities.",
+  "transport_tips": "The most convenient way to reach the airport from Muş city is by taxi or private transfer, as public transportation options are limited. Renting a car in Muş is recommended for travelers planning to explore the broader eastern Anatolia region, including nearby attractions. Havaş airport shuttle services may operate on flight schedules, but availability should be confirmed in advance.",
+  "local_tip": "If you have a long layover or early arrival, the historic Muş Castle and the nearby 13th-century Ulu Cami (Grand Mosque) are worth a brief visit, and locals are generally happy to share stories about the region's deep history.",
+  "generatedAt": "2026-06-29T21:40:13.814Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PJM",
+    "icao": "MRPJ",
+    "name": "Puerto Jimenez Airport",
+    "country": "Costa Rica",
+    "city": "Puerto Jimenez",
+    "lat": 8.5333,
+    "lon": -83.3,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Puerto Jimenez Airport serves as the main gateway to Costa Rica's remote Osa Peninsula, a region celebrated for its extraordinary biodiversity and proximity to Corcovado National Park. The small but vital airfield handles domestic flights connecting this Pacific coastal town with the rest of the country. Travelers arriving here are typically nature enthusiasts heading to one of the most ecologically rich areas on Earth.",
+  "faqs": "Q: What airlines fly into Puerto Jimenez Airport?\nA: Domestic carriers such as Sansa and Green Airways operate scheduled flights connecting Puerto Jimenez with San José's Juan Santamaría and Tobías Bolaños airports.\n\nQ: How far is the airport from Corcovado National Park?\nA: The airport is roughly 10 km from the town center, and the park's main entrance at La Leona is approximately 15-20 km further south along the peninsula.\n\nQ: Are there international flights to Puerto Jimenez?\nA: No, the airport only handles domestic flights. International travelers must first arrive at a major Costa Rican airport and connect domestically.\n\nQ: How long is the flight from San José to Puerto Jimenez?\nA: The flight takes approximately 50-55 minutes, offering a quick alternative to the 7-8 hour drive through mountainous terrain.\n\n",
+  "transport_tips": "The airport sits just outside town and taxis are readily available for the short ride into Puerto Jimenez proper, typically costing around 2,000-3,000 colones. If you have arranged lodging or a tour, many hotels and guides offer airport pickup services that are worth requesting in advance. Rental cars are available but not necessary unless exploring the peninsula independently.",
+  "local_tip": "Pack light and in waterproof bags—the afternoon rains are common in the Osa region, and you'll want dry gear whether you're heading into the rainforest or simply walking from the terminal to your taxi.",
+  "generatedAt": "2026-06-29T11:01:01.638Z",
+  "model": "MiniMax-M3"
+}

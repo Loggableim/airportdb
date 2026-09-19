@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OOL",
+    "icao": "YBCG",
+    "name": "Gold Coast Airport",
+    "country": "Australia",
+    "city": "Gold Coast",
+    "lat": -28.166,
+    "lon": 153.5066,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Gold Coast Airport (OOL/YBCG), located in Coolangatta on the southern end of Queensland's Gold Coast, serves as the primary gateway to one of Australia's most popular tourist destinations. The airport sits uniquely on the border between Queensland and New South Wales, with the runway extending into both states. It handles both domestic flights across Australia and international services from New Zealand, Asia, and seasonal long-haul routes.",
+  "faqs": "Q: How far is Gold Coast Airport from the main Gold Coast tourist areas?\nA: The airport is located about 25 km south of Surfers Paradise and approximately 90 km south of Brisbane CBD. Travel times vary from 30 minutes to Surfers Paradise to around 1.5 hours to Brisbane, depending on traffic.\n\nQ: Does Gold Coast Airport have international flights?\nA: Yes, the airport operates international flights to destinations including New Zealand, Singapore, Japan, and various seasonal routes, alongside its busy domestic network.\n\nQ: Is Gold Coast Airport near any beaches?\nA: Yes, Coolangatta Beach is just a short walk or drive from the terminal, and the famous surf beaches of the southern Gold Coast are within minutes of the airport.\n\nQ: How many terminals does Gold Coast Airport have?\nA: The airport operates a single integrated terminal that handles both domestic and international flights, making transfers relatively straightforward.",
+  "transport_tips": "The Skybus operates express services connecting the airport to Surfers Paradise and Brisbane CBD, with journey times of approximately 45 minutes and 90 minutes respectively. Pre-booked private transfers, rideshares, and taxis are readily available outside the terminal, and rental car counters are located in the arrivals area for those exploring the region independently. Allow extra time during peak tourist seasons as roads in the area can become congested.",
+  "local_tip": "Because the airport straddles the Queensland-New South Wales border, you can literally cross state lines on the runway — stand at the terminal viewing area and you're only a short walk from NSW, which means you can enjoy a coffee in two states without leaving the airport precinct.",
+  "generatedAt": "2026-06-28T18:47:32.930Z",
+  "model": "MiniMax-M3"
+}

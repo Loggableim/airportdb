@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CFR",
+    "icao": "LFRK",
+    "name": "Caen Carpiquet airport",
+    "country": "France",
+    "city": "Caen",
+    "lat": 49.1768,
+    "lon": -0.4549,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Caen Carpiquet Airport is a regional airport located in Normandy, serving the historic city of Caen and the broader Calvados department. Originally a World War II airfield used extensively during the D-Day operations and the Battle of Caen, the site carries significant historical importance. Today it operates as a medium-sized airport handling domestic and seasonal European flights.",
+  "faqs": "Q: How far is Caen Carpiquet Airport from Caen city center?\nA: The airport is approximately 6 km west of central Caen, with a typical journey time of 15-20 minutes by road.\n\nQ: Which airlines operate from Caen Carpiquet Airport?\nA: The airport is primarily served by Air France and regional carriers, with flights connecting to Paris and select seasonal European destinations.\n\nQ: Does the airport operate year-round?\nA: Yes, the airport operates throughout the year, though flight frequency may be reduced during the winter season.\n\nQ: Are there facilities for D-Day tourism visitors?\nA: Yes, the airport is well-positioned for visitors to Normandy landing beaches and World War II historical sites, with car rental services available on-site.",
+  "transport_tips": "A taxi or rideshare from the airport to central Caen typically takes around 15 minutes and costs roughly 20-30 euros. Local bus services connect the airport to Caen city center, offering a budget-friendly option. Car rental agencies operate at the terminal, making the airport a convenient starting point for exploring Normandy's D-Day beaches.",
+  "local_tip": "If visiting the D-Day beaches, rent a car from the airport early in the morning to beat tour bus crowds at sites like Omaha Beach and Pointe du Hoc, which become busy after mid-morning.",
+  "generatedAt": "2026-06-29T06:28:47.610Z",
+  "model": "MiniMax-M3"
+}

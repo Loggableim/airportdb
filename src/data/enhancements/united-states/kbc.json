@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KBC",
+    "icao": "",
+    "name": "Birch Creek Airport",
+    "country": "United States",
+    "city": "Birch Creek",
+    "lat": 66.274,
+    "lon": -145.824,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Birch Creek Airport (KBC) is a small public-use airstrip serving the remote community of Birch Creek in interior Alaska. Situated in a sparsely populated region north of the Yukon River, it primarily supports bush planes and provides vital access for residents, mail delivery, and medical evacuations. The airport's high-latitude location near the Arctic Circle means it operates under extreme seasonal conditions, from long summer daylight hours to prolonged winter darkness.",
+  "faqs": "Q: What type of aircraft can use Birch Creek Airport?\nA: As a small airport with a gravel surface typical of rural Alaska, it primarily accommodates bush planes, small single-engine aircraft, and STOL (Short Takeoff and Landing) capable planes commonly used throughout the region.\n\nQ: Are there scheduled commercial flights to KBC?\nA: No scheduled commercial service operates to Birch Creek Airport. Access is typically provided by charter flights, bush plane operators, and medevac services.\n\nQ: What facilities are available at the airport?\nA: Facilities are minimal, consistent with its remote bush airport status. There are no terminal buildings, jet bridges, or commercial amenities. Pilots and passengers should plan to be self-sufficient.\n\nQ: Is instrument approach available at Birch Creek Airport?\nA: Given the airport's remote nature and basic infrastructure, operations are generally conducted under visual flight rules. Pilots should check current FAA charts and NOTAMs for the latest approach and weather information.",
+  "transport_tips": "Travelers to Birch Creek typically arrive via bush plane or charter aircraft from Fairbanks or Fort Yukon, as there are no roads connecting this remote interior Alaska community to larger hubs. Ground transportation from the airstrip is usually arranged in advance with local contacts, as rental cars and taxi services are not available. Travelers should coordinate pickup logistics before arrival, as communication infrastructure in the region is limited.",
+  "local_tip": "Given the airport's subarctic location, always check current weather and daylight conditions before booking a flight—winter operations are particularly challenging, and summer flights can be affected by wildfire smoke common in interior Alaska during July and August.",
+  "generatedAt": "2026-06-26T20:50:15.000Z",
+  "model": "MiniMax-M3"
+}

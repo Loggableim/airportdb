@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SNO",
+    "icao": "VTUI",
+    "name": "Sakon Nakhon Airport",
+    "country": "Thailand",
+    "city": "",
+    "lat": 17.1951,
+    "lon": 104.119,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sakon Nakhon Airport is a regional airport serving Sakon Nakhon Province in Thailand's northeastern Isaan region. It provides essential air connectivity for this culturally rich area, known for its ancient Khmer ruins, Buddhist temples, and the expansive Nong Han Lake. The airport primarily handles domestic flights connecting the province to Bangkok and other Thai destinations.",
+  "faqs": "Q: What airlines operate at Sakon Nakhon Airport?\nA: Thai AirAsia and Nok Air operate regular domestic flights to Bangkok's Don Mueang International Airport.\n\nQ: How far is the airport from Sakon Nakhon city center?\nA: The airport is located approximately 6 kilometers north of the city center, with a typical drive taking around 15 minutes.\n\nQ: Is there a public bus service to the airport?\nA: There is no dedicated airport bus, but local songthaews and taxis are commonly used for transfers.\n\nQ: Does the airport have international flights?\nA: No, Sakon Nakhon Airport currently handles only domestic flights.",
+  "transport_tips": "Taxis and motorcycle taxis are the most practical options for getting to and from the airport, as no dedicated airport shuttle service exists. Negotiate the fare with songthaews before boarding, as they do not use meters. Renting a car in Sakon Nakhon is recommended for exploring the wider province and its many temples and natural attractions.",
+  "local_tip": "Visit the nearby Phra That Choeng Chum, a sacred stupa dating back over 600 years, which is one of the most important religious sites in the province and just a short trip from the airport.",
+  "generatedAt": "2026-06-29T14:30:44.933Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MCG",
+    "icao": "PAMC",
+    "name": "McGrath Airport",
+    "country": "United States",
+    "city": "McGrath",
+    "lat": 62.9529,
+    "lon": -155.606,
+    "type": "medium_airport",
+    "size": 550
+  },
+  "summary": "McGrath Airport is a public-use state-owned airport serving the remote community of McGrath in interior Alaska, located along the Kuskokwim River. The airport serves as a vital transportation hub for the region, connecting residents to Anchorage and other Alaskan communities. It features a single asphalt runway and primarily handles regional commuter and cargo flights.",
+  "faqs": "Q: What airlines serve McGrath Airport?\nA: McGrath Airport is primarily served by regional carriers such as Ravn Alaska and previously Era Alaska, operating commuter flights mainly to and from Anchorage.\n\nQ: Does McGrath Airport have scheduled passenger service?\nA: Yes, the airport receives scheduled passenger service, though flights can be weather-dependent due to Alaska's challenging conditions.\n\nQ: Is there an air traffic control tower at McGrath Airport?\nA: McGrath Airport operates without a full-time control tower; pilots rely on common traffic advisory frequency procedures.\n\nQ: What is the runway length at McGrath Airport?\nA: The airport features a single asphalt runway approximately 5,400 feet long, suitable for regional turboprop aircraft.",
+  "transport_tips": "McGrath is a small remote community, so the airport is located just a short drive from the town center and most accommodations. Rental cars are limited; many visitors arrange ground transport through their lodging or local contacts in advance. Taxi services are minimal, so planning transportation before arrival is recommended.",
+  "local_tip": "Pack a light meal and extra layers in your carry-on—flights into McGrath are frequently delayed or rerouted due to interior Alaska weather, and the small terminal has limited food and amenities.",
+  "generatedAt": "2026-06-29T17:39:48.947Z",
+  "model": "MiniMax-M3"
+}

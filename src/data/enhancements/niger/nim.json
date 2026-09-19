@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NIM",
+    "icao": "DRRN",
+    "name": "Diori Hamani International Airport",
+    "country": "Niger",
+    "city": "Niamey",
+    "lat": 13.4815,
+    "lon": 2.1836,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Diori Hamani International Airport serves as Niger's primary international gateway, located in the capital city of Niamey. Named after Hamani Diori, the country's first president, the airport handles the majority of Niger's commercial and diplomatic air traffic. It functions as a key hub connecting West Africa to Europe and other international destinations.",
+  "faqs": "Q: What is the main international airport in Niger?\nA: Diori Hamani International Airport (NIM) in Niamey is the country's main international gateway, handling the bulk of commercial and government flights.\n\nQ: Which airlines operate from Diori Hamani International Airport?\nA: The airport is served by several regional carriers including Air Afrique, Royal Air Maroc, Air France, and Air Algeria, along with domestic operator Niger Airlines.\n\nQ: How far is the airport from central Niamey?\nA: The airport is located within the city of Niamey, approximately 10-12 km southeast of the city center, making it a relatively short drive.\n\nQ: Does the airport offer international connections?\nA: Yes, the airport provides regular international flights to destinations across West Africa, North Africa, and Europe, including Paris, Casablanca, and Algiers.\n\n",
+  "transport_tips": "Taxis are the most common way to reach the airport, with rides from central Niamey typically taking 20-30 minutes depending on traffic. Fares should be negotiated or confirmed before departure, as meters are uncommon. Some hotels also offer airport shuttle services, which can be arranged in advance for added convenience.",
+  "local_tip": "Carry sufficient local currency (West African CFA franc) in small denominations for taxi fares and small purchases, as card acceptance is limited at the airport and most drivers prefer cash. Arriving during daylight hours is advisable, as the surrounding road network is easier to navigate and services are more readily available.",
+  "generatedAt": "2026-06-28T21:03:52.506Z",
+  "model": "MiniMax-M3"
+}

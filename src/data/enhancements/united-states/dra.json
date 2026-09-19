@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DRA",
+    "icao": "KDRA",
+    "name": "Desert Rock Airport",
+    "country": "United States",
+    "city": "Mercury",
+    "lat": 36.6194,
+    "lon": -116.033,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Desert Rock Airport is a federally owned facility operated by the U.S. Department of Energy near Mercury, Nevada, primarily serving the adjacent Nevada National Security Site. Situated in a remote stretch of the Mojave Desert about 65 miles northwest of Las Vegas, it functions as a logistical hub for government, contractor, and research personnel rather than a commercial passenger airport. The airfield features a single asphalt runway and minimal infrastructure, reflecting its specialized, mission-driven role.",
+  "faqs": "Q: Is Desert Rock Airport open to the general public?\nA: No, it is a restricted-access facility managed by the Department of Energy, with entry requiring prior authorization tied to work at the Nevada National Security Site.\n\nQ: Are there commercial flights to DRA?\nA: No scheduled commercial service operates here; flights are typically charter, corporate, or government-related supporting site activities.\n\nQ: How far is the airport from Las Vegas?\nA: It is roughly 65 miles (105 km) northwest of Las Vegas, accessible via State Route 160 and Mercury Highway.\n\nQ: What is the elevation of Desert Rock Airport?\nA: The field sits at approximately 3,310 feet (1,009 m) above sea level.",
+  "transport_tips": "There is no public transit or rideshare service to the airport, so visitors must arrange private vehicle transport or coordinate with their sponsoring organization in advance. The drive from Las Vegas takes about 1.5 hours via US-95 and SR-160, with limited fuel and services available past Indian Springs. A government-issued ID and proper clearance are required to pass through security checkpoints along the route into Mercury.",
+  "local_tip": "Cell service is extremely limited in the surrounding desert, so download offline maps and confirm all communications before departing Mercury, as you will be outside reliable coverage for much of the drive.",
+  "generatedAt": "2026-06-26T11:42:15.833Z",
+  "model": "MiniMax-M3"
+}

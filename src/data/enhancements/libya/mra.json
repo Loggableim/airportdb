@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MRA",
+    "icao": "HLMS",
+    "name": "Misrata International Airport",
+    "country": "Libya",
+    "city": "Misrata",
+    "lat": 32.325,
+    "lon": 15.061,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Misrata International Airport serves Libya's third-largest city, Misrata, a key Mediterranean port and industrial center on the country's central coast. The airport functions as an important gateway for the region, handling domestic flights and limited international connections, particularly charter and regional services. It has historically played a strategic role, including during periods of Libyan conflict when it supported humanitarian and military operations.",
+  "faqs": "Q: What is the airport code for Misrata International Airport?\nA: The IATA code is MRA and the ICAO code is HLMS.\n\nQ: Where is Misrata International Airport located?\nA: It is located approximately 8 km south of Misrata city center, in northwestern Libya along the Mediterranean coast.\n\nQ: Does Misrata International Airport offer international flights?\nA: The airport primarily handles domestic flights within Libya and occasional regional or charter international services, depending on current political and security conditions.\n\nQ: Are there car rental services available at the airport?\nA: Car rental and taxi services are typically available, though availability can vary; it is advisable to arrange ground transport in advance when possible.",
+  "transport_tips": "Taxis are the most common way to reach the city center, with the journey taking roughly 15 to 20 minutes depending on traffic. Travelers should arrange transportation in advance through their hotel or a trusted local contact, as formal taxi ranks may be limited. Private hire or pre-booked transfers are recommended for reliability, especially for early morning or late-night flights.",
+  "local_tip": "Carry sufficient local currency in cash, as card payment infrastructure at the airport and throughout Misrata can be unreliable, and ATMs may not always be operational.",
+  "generatedAt": "2026-06-26T15:39:47.846Z",
+  "model": "MiniMax-M3"
+}

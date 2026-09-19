@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GPA",
+    "icao": "LGRX",
+    "name": "Patras Araxos Agamemnon Airport",
+    "country": "Greece",
+    "city": "Patras",
+    "lat": 38.1511,
+    "lon": 21.4256,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Patras Araxos Agamemnon Airport (GPA) is a dual-use civil and military airfield serving the Peloponnese city of Patras in Western Greece. The airport is co-located with the Hellenic Air Force's Araxos Air Base, originally developed for military operations before opening limited civilian service. Its name honors King Agamemnon, the legendary Mycenaean ruler linked to the nearby ancient region of Achaea. The airport primarily handles seasonal charter flights during the summer tourist season, serving beach destinations on the northwestern Peloponnese coast.",
+  "faqs": "Q: How far is Araxos Airport from Patras city center?\nA: The airport is located approximately 40 km (25 miles) southwest of Patras, with a typical driving time of 35-45 minutes depending on traffic.\n\nQ: Does Araxos Airport have year-round commercial flights?\nA: Commercial civilian service is highly seasonal, with most charter and scheduled flights operating between May and October. Outside this period, commercial activity is minimal.\n\nQ: Can I use military facilities at the airport?\nA: No, the military area of Araxos Air Base is off-limits to civilians, though operations occasionally require civilian flights to be rerouted or delayed.\n\nQ: Which airlines use Araxos Airport?\nA: The airport mainly serves seasonal and charter operators, particularly those running package holiday flights from Northern Europe during summer.",
+  "transport_tips": "There is no dedicated rail service to the airport, so travelers typically rely on rental cars, taxis, or seasonal shuttle services. Pre-booking a rental car is strongly recommended during summer, as on-site availability can be limited. Taxi fares to Patras are metered and can be expensive; arranging a transfer in advance often provides better value.",
+  "local_tip": "If you have a long wait between flights, ask ground staff about visiting nearby Kalogria Beach, one of the cleanest",
+  "generatedAt": "2026-06-29T09:55:24.373Z",
+  "model": "MiniMax-M3"
+}

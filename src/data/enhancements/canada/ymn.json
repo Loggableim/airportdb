@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YMN",
+    "icao": "CYFT",
+    "name": "Makkovik Airport",
+    "country": "Canada",
+    "city": "Makkovik",
+    "lat": 55.0773,
+    "lon": -59.1879,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Makkovik Airport serves the small coastal community of Makkovik in Labrador, Canada, located along the Labrador Sea. The airport provides essential connectivity for this remote northern settlement, which has a population of just a few hundred residents. It primarily handles regional flights operated by Air Labrador, supporting travel, mail delivery, and medical evacuations to this isolated area.",
+  "faqs": "Q: What airlines fly into Makkovik Airport?\nA: Air Labrador operates scheduled passenger flights connecting Makkovik to Happy Valley-Goose Bay and other Labrador communities.\n\nQ: Is there a terminal building at Makkovik Airport?\nA: Yes, the airport has a small terminal building serving passengers, though facilities are limited due to the airport's size.\n\nQ: Can I fly to Makkovik year-round?\nA: Yes, the airport operates year-round, though winter weather can occasionally cause delays or cancellations.\n\nQ: Does the airport have navigation aids for instrument approaches?\nA: The airport is equipped with basic navigation facilities to support regional aircraft operations in all weather conditions.",
+  "transport_tips": "Taxis or pre-arranged local pickups are the standard way to reach the community from the airport, as there is no public transit. The airport is located just a short drive from the town center of Makkovik. Travelers should confirm ground transportation in advance, especially during off-peak times.",
+  "local_tip": "Pack extra snacks and dress in warm layers even in summer, as Labrador weather along the coast can shift quickly and the small terminal has limited amenities.",
+  "generatedAt": "2026-06-26T16:14:59.762Z",
+  "model": "MiniMax-M3"
+}

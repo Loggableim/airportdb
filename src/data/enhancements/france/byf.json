@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BYF",
+    "icao": "LFAQ",
+    "name": "Albert Bray airport",
+    "country": "France",
+    "city": "Albert",
+    "lat": 49.97,
+    "lon": 2.6939,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Albert Bray Airport is a small regional airfield located near the town of Albert in the Somme department of northern France, within the Hauts-de-France region. The airport primarily serves general aviation, flight training, and light business traffic, offering a quiet alternative to the busier regional hubs. Its location in the historic Picardy countryside places it close to significant World War I remembrance sites, including the Lochnagar Crater and the Somme battlefields.",
+  "faqs": "Q: What kind of flights operate from Albert Bray Airport?\nA: The airport mainly handles general aviation, private flights, and pilot training rather than scheduled commercial services.\n\nQ: Are there car rental services available at the airport?\nA: Rental cars are generally arranged in advance through providers in the nearby town of Albert or the city of Amiens, as on-site rental desks are limited.\n\nQ: Can I fly to Paris from Albert Bray?\nA: There are no scheduled commercial flights to Paris from BYF; travelers typically reach the capital via a connecting airport or by road from the nearby A1 and A29 motorways.\n\nQ: Is the airport suitable for visiting WWI battlefield memorials?\nA: Yes, its location in the Somme makes it a convenient starting point for visiting memorials such as Thiepval, the Lochnagar Crater, and the historic town of Albert itself.",
+  "transport_tips": "The airport is best reached by car, situated just off the D938 road with easy access to the A1 motorway connecting it to Amiens and Arras. Parking is straightforward on the airfield grounds. Taxi services can be arranged from Albert town, located only a few kilometers away.",
+  "local_tip": "If you have time before your flight, take a short detour into Albert town to see the Basilica of Notre-Dame de Brebières, famous for the golden Virgin and Child statue that survived the devastating WWI battles fought around it.",
+  "generatedAt": "2026-06-27T05:41:49.413Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SMF",
+    "icao": "KSMF",
+    "name": "Sacramento International Airport",
+    "country": "United States",
+    "city": "Sacramento",
+    "lat": 38.6954,
+    "lon": -121.591,
+    "type": "large_airport",
+    "size": 51475
+  },
+  "summary": "Sacramento International Airport (SMF) is the main airport serving California's capital region, located approximately 10 miles northwest of downtown Sacramento in unincorporated Sacramento County. Opened in 1967 to replace the older Sacramento Municipal Airport, it sits on roughly 6,000 acres and features two modern terminals, with the recently expanded Terminal B serving as a major hub for Southwest Airlines. The airport offers a less congested alternative to Bay Area gateways while providing convenient access to Northern California destinations.",
+  "faqs": "Q: How far is SMF from downtown Sacramento?\nA: The airport is about 10 miles northwest of downtown Sacramento, typically a 15-20 minute drive depending on traffic on Interstate 5.\n\nQ: Which airlines operate at Sacramento International Airport?\nA: Major carriers include Southwest, Alaska, American, Delta, United, and several others, with Southwest maintaining a significant presence in Terminal B.\n\nQ: Does SMF have any airport lounges?\nA: Yes, the airport features a few lounges including a Delta Sky Club and an Alaska Airlines Lounge, along with independent options in Terminal B.\n\nQ: Is there a cell phone waiting area at SMF?\nA: Yes, there is a free cell phone lot located near the airport where drivers can wait for arriving passengers.",
+  "transport_tips": "The airport is conveniently located just off Interstate 5, making it easily accessible from Sacramento and surrounding communities. Yolobus Route 42A provides public transit service connecting the airport to downtown Sacramento and Davis. Rideshare services like Uber and Lyft, along with taxis and rental car facilities, are available on-site for flexible ground transportation.",
+  "local_tip": "The airport's Terminal B features rotating art installations from local California artists",
+  "generatedAt": "2026-06-28T15:40:56.530Z",
+  "model": "MiniMax-M3"
+}

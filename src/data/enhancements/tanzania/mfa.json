@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MFA",
+    "icao": "HTMA",
+    "name": "Mafia Airport",
+    "country": "Tanzania",
+    "city": "Kilindoni",
+    "lat": -7.9175,
+    "lon": 39.6685,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Mafia Airport serves the Mafia Archipelago off the coast of Tanzania, providing essential air access to Kilindoni town on the western side of Mafia Island. The small regional airstrip primarily handles domestic flights from Dar es Salaam and other Tanzanian hubs, catering to tourists visiting the island's renowned marine park. Its remote coastal location makes it a key gateway for travelers seeking one of East Africa's least crowded island destinations.",
+  "faqs": "Q: What airlines fly to Mafia Airport?\nA: Domestic carriers including Coastal Aviation and Auric Air operate scheduled flights connecting Mafia to Dar es Salaam and other Tanzanian destinations.\n\nQ: How long is the flight from Dar es Salaam to Mafia Airport?\nA: The flight typically takes around 45 minutes to one hour, depending on the aircraft type and weather conditions.\n\nQ: What is Mafia Island known for?\nA: The island is famous for the Mafia Island Marine Park, excellent diving, snorkeling with whale sharks, and pristine beaches with minimal tourist crowds.\n\nQ: Are there ATMs or banking facilities at the airport?\nA: No, the airport has minimal facilities. Travelers should bring sufficient cash and arrange accommodations and transfers in advance.",
+  "transport_tips": "Most lodges and hotels on Mafia Island offer airport pickup services, which should be arranged before arrival as there is no public transport at the airstrip. The town of Kilindoni is a short drive from the airport, and dala-dala (local minibuses) are available for budget travelers heading into town. Road transfers from the airport to eastern beach resorts can take 1-2 hours depending on the destination.",
+  "local_tip": "Book morning flights whenever possible, as afternoon sea breezes can sometimes cause delays or turbulence on the short island hop from Dar es Salaam.",
+  "generatedAt": "2026-06-26T19:58:24.947Z",
+  "model": "MiniMax-M3"
+}

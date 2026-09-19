@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "REY",
+    "icao": "SLRY",
+    "name": "Reyes Airport",
+    "country": "Bolivia",
+    "city": "Reyes",
+    "lat": -14.3044,
+    "lon": -67.3534,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Reyes Airport (REY/SLRY) is a small regional airport serving the town of Reyes in the Beni Department of northern Bolivia. Located in the Amazon basin region, it provides essential air access to this remote lowland community near the Mamoré River. The airport primarily handles light aircraft and charter flights connecting Reyes with other Bolivian destinations.",
+  "faqs": "Q: What type of aircraft can Reyes Airport handle?\nA: As a small regional airport with a modest runway, it primarily accommodates light aircraft, small turboprops, and occasional charter flights rather than large commercial jets.\n\nQ: Are there regular scheduled flights to Reyes Airport?\nA: Scheduled service is limited; flights are typically operated by small regional carriers or charter services depending on demand and season.\n\nQ: What facilities are available at the airport?\nA: Facilities are basic, typical of small Bolivian regional airports, with minimal terminal amenities and limited ground services.\n\nQ: Is Reyes Airport used for medical evacuations?\nA: Yes, given the remote location in the Beni region, the airport occasionally serves as a point for medical evacuation flights to larger cities.",
+  "transport_tips": "The airport is located just outside the town of Reyes, making access to the town center quick by taxi or motorized transport. Travelers should arrange ground transportation in advance, as rental services are not commonly available. Roads to and from the airport can become difficult during the rainy season, so flight schedules should be coordinated carefully.",
+  "local_tip": "Carry cash in small Bolivian Bolivianos, as the airport area has limited ATM access and most local services do not accept credit cards.",
+  "generatedAt": "2026-06-26T19:07:00.232Z",
+  "model": "MiniMax-M3"
+}

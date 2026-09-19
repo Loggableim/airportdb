@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YCT",
+    "icao": "CYCT",
+    "name": "Coronation Airport",
+    "country": "Canada",
+    "city": "Coronation",
+    "lat": 52.075,
+    "lon": -111.445,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Coronation Airport (YCT) is a small general aviation airport serving the town of Coronation in east-central Alberta, Canada. It provides essential air access for the surrounding rural community in the Prairie region, primarily supporting private and charter flights. The airport plays a key role in connecting this agricultural area to larger transportation hubs across the province.",
+  "faqs": "Q: What is the airport code for Coronation Airport?\nA: The IATA code is YCT and the ICAO code is CYCT.\n\nQ: Does Coronation Airport offer commercial flights?\nA: No, it is a small general aviation airport without scheduled commercial service.\n\nQ: What facilities are available at the airport?\nA: The airport features a single runway and basic facilities catering primarily to private aircraft and charter operations.\n\nQ: Who typically uses Coronation Airport?\nA: It is mainly used by local pilots, agricultural operators, and visitors traveling to the Coronation area.",
+  "transport_tips": "The airport is located just a short drive from the town of Coronation, making ground transportation quick and straightforward. Visitors typically rely on personal vehicles, as there is no public transit serving the airport. Rental cars or pre-arranged local transportation are recommended for travelers without their own vehicle.",
+  "local_tip": "If flying in during winter, check runway conditions in advance, as Alberta's Prairie weather can change rapidly and affect small airport operations.",
+  "generatedAt": "2026-06-27T07:55:34.606Z",
+  "model": "MiniMax-M3"
+}

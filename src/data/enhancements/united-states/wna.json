@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WNA",
+    "icao": "PANA",
+    "name": "Napakiak Airport",
+    "country": "United States",
+    "city": "Napakiak",
+    "lat": 60.6903,
+    "lon": -161.979,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Napakiak Airport (WNA/PANA) is a small public-use airfield serving the remote Yup'ik village of Napakiak on the Kuskokwim River in western Alaska's Bethel Census Area. The airport is a vital transportation link for the isolated community, which has no road access to the rest of the state and relies on aviation and seasonal river travel for passenger and cargo movement. It primarily supports bush plane operations and medevac flights serving the surrounding Yukon-Kuskokwim Delta region.",
+  "faqs": "Q: Where is Napakiak Airport located?\nA: The airport is located in the village of Napakiak, a small Yup'ik community on the Kuskokwim River in western Alaska, approximately 15 miles southwest of Bethel.\n\nQ: What type of aircraft serve Napakiak Airport?\nA: Small single-engine bush planes and commuter aircraft are the primary users of this airfield, typical of remote Alaskan village airports.\n\nQ: Are there scheduled commercial flights to Napakiak?\nA: Service to Napakiak is typically provided on a limited basis by regional bush carriers connecting passengers to Bethel, which serves as the regional hub for the Yukon-Kuskokwim Delta.\n\nQ: Does Napakiak have road access?\nA: No, the village is not connected to the road network, making the airport and the Kuskokwim River the main means of transportation for residents and visitors.",
+  "transport_tips": "Travelers typically reach Napakiak by connecting through Bethel Airport, then taking a short bush plane flight to WNA. Ground transport in the village is informal—residents often use ATVs, snowmachines in winter, and small boats along the Kuskokwim River during the warmer months. There is no taxi service or rental car facility at the airport, so arrange rides in advance with local contacts or the",
+  "local_tip": "",
+  "generatedAt": "2026-06-26T22:53:20.592Z",
+  "model": "MiniMax-M3"
+}

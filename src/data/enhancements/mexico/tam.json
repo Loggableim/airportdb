@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TAM",
+    "icao": "MMTM",
+    "name": "General Francisco Javier Mina International Airport",
+    "country": "Mexico",
+    "city": "Ciudad Madero",
+    "lat": 22.2926,
+    "lon": -97.8671,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "General Francisco Javier Mina International Airport serves the Tampico metropolitan area, including the cities of Tampico, Ciudad Madero, and Altamira in the state of Tamaulipas, Mexico. Named after a hero of the Mexican War of Independence, it is situated near the Gulf of Mexico coast and functions as an important regional gateway for both domestic flights and limited international connections. The airport handles a mix of commercial aviation, general aviation, and military operations, supporting the area's oil industry and tourism along the Huasteca region.",
+  "faqs": "Q: What cities does this airport primarily serve?\nA: The airport serves the Tampico metropolitan area, which includes Tampico, Ciudad Madero, and Altamira, providing commercial air service to one of the most important industrial and port regions on Mexico's Gulf Coast.\n\nQ: Are there international flights from this airport?\nA: Yes, the airport offers select international flights, primarily to destinations in the United States, in addition to regular domestic connections to Mexico City and other major Mexican cities.\n\nQ: What facilities are available at the terminal?\nA: The terminal provides standard passenger amenities including check-in counters, a small selection of shops and food vendors, car rental services, and taxi access just outside the arrivals area.\n\nQ: Is the airport used for purposes other than commercial flights?\nA: Yes, the airport also accommodates general aviation traffic, private aircraft, and occasional military operations, reflecting its role as a multi-use airfield in northeastern Mexico.\n\n",
+  "transport_tips": "Taxis are the most convenient option from the airport and are available at official ranks just outside the terminal; agree on a fare before departing. Rental car agencies operate on-site for travelers heading to the industrial port zones of Altamira or exploring the Huasteca region. The airport is located only a short drive from central Tampico and Ciudad Madero, making ground transfers quick and straightforward.",
+  "local_tip": "Pack a light jacket even in warmer months — the terminal waiting areas can get surprisingly cold due to heavy air conditioning, especially during early morning flights when fog from the coast rolls in and delays are common.",
+  "generatedAt": "2026-06-29T06:44:08.546Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HLL",
+    "icao": "YHIL",
+    "name": "Hillside Airport",
+    "country": "Australia",
+    "city": "Hillside",
+    "lat": -21.7183,
+    "lon": 119.4403,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Hillside Airport is a small private airfield serving the Pilbara region of Western Australia, primarily supporting mining and resource operations in the remote inland area. Its location in the arid landscape positions it as a key access point for fly-in fly-out workers servicing nearby mineral projects. The airport features a single unsealed runway suited to light aircraft and charter operations common in Australia's outback.",
+  "faqs": "Q: Is Hillside Airport open to the public?\nA: No, Hillside Airport is a small private facility primarily used for charter flights and mining-related operations rather than scheduled commercial service.\n\nQ: What kind of aircraft use Hillside Airport?\nA: The airport typically handles light to medium aircraft, including turboprops and small jets used for fly-in fly-out worker transport and corporate travel.\n\nQ: Are there passenger terminals at Hillside?\nA: As a small private airport, Hillside has minimal infrastructure and no large passenger terminals. Travelers should coordinate arrivals directly with their charter operator.\n\nQ: What is the closest major town to Hillside Airport?\nA: The airport is situated in the remote Pilbara region, with the nearest significant service centres located several hours away by road.",
+  "transport_tips": "Ground transport is generally arranged through charter operators or mine site coordinators, as there is no public bus or taxi service to the airport. Visitors should organize pickup in advance with their employing company or flight provider. Self-driving to the airport requires a high-clearance vehicle suitable for unsealed outback roads.",
+  "local_tip": "Given the remote Pilbara location and extreme heat, always carry extra water and check that your charter operator has confirmed your booking the morning of departure, as weather conditions can affect small aircraft schedules.",
+  "generatedAt": "2026-06-27T23:09:23.836Z",
+  "model": "MiniMax-M3"
+}

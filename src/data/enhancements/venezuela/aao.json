@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AAO",
+    "icao": "SVAN",
+    "name": "Anaco Airport",
+    "country": "Venezuela",
+    "city": "Anaco",
+    "lat": 9.4302,
+    "lon": -64.4707,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Anaco Airport serves the city of Anaco in Anzoátegui state, northeastern Venezuela, a region historically important for the country's oil industry. As a medium-sized facility, it primarily supports general aviation and regional flights connecting this energy-sector hub to other Venezuelan cities. The airport provides essential air access for workers and businesses tied to the surrounding petroleum operations.",
+  "faqs": "Q: What is the main purpose of Anaco Airport?\nA: The airport serves the city of Anaco and supports general aviation along with regional commercial flights, particularly catering to the area's oil and gas industry.\n\nQ: How large is Anaco Airport?\nA: It is classified as a medium-sized airport with a size score of 250, indicating modest infrastructure suitable for regional operations rather than major international traffic.\n\nQ: Where is Anaco located in Venezuela?\nA: Anaco is situated in Anzoátegui state in northeastern Venezuela, an area known for its significant petroleum reserves and production activity.\n\nQ: Are there international flights from Anaco Airport?\nA: The airport primarily handles domestic and regional flights; international travelers typically use larger airports such as those in Caracas or Barcelona.",
+  "transport_tips": "The airport is located just a few kilometers from central Anaco, making ground transportation by taxi or private vehicle the most practical option. Local taxi drivers are familiar with the route and can be arranged upon arrival. Rental cars are limited, so arranging transport in advance through a hotel or local contact is recommended.",
+  "local_tip": "Anaco sits in Venezuela's oil belt, so visiting during business days means more activity at the airport; weekends tend to be quieter with reduced flight schedules.",
+  "generatedAt": "2026-06-26T09:59:17.917Z",
+  "model": "MiniMax-M3"
+}

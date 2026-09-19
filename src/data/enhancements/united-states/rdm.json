@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RDM",
+    "icao": "KRDM",
+    "name": "Roberts Field",
+    "country": "United States",
+    "city": "Redmond",
+    "lat": 44.2541,
+    "lon": -121.15,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Roberts Field (RDM) is a public-use airport located in Redmond, Oregon, serving as the primary aviation gateway to central Oregon's high desert region, including nearby Bend and Sisters. The airport operates as a medium-hub facility with commercial passenger service and significant general aviation activity. Named after a local aviation pioneer, it supports tourism access to outdoor recreation destinations like Mt. Bachelor, the Deschutes National Forest, and Smith Rock State Park.",
+  "faqs": "Q: What cities does Roberts Field serve?\nA: Roberts Field primarily serves Redmond, Bend, and the broader central Oregon region, including popular tourist destinations like Sisters, Sunriver, and Mt. Bachelor.\n\nQ: How far is the airport from Bend, Oregon?\nA: The airport is approximately 20 miles north of Bend, typically a 25-30 minute drive via Highway 97 south.\n\nQ: Does Roberts Field have commercial airline service?\nA: Yes, the airport is served by several major carriers offering nonstop flights to hubs such as Seattle, Portland, San Francisco, Denver, Los Angeles, and Salt Lake City.\n\nQ: Is the airport open 24 hours?\nA: The airport terminal operates during scheduled flight hours, but the airfield itself accommodates general aviation operations around the clock.\n\n",
+  "transport_tips": "Rental cars are the most convenient option for reaching Bend and surrounding areas, with all major agencies located on-site at the terminal. Taxi and rideshare services such as Uber and Lyft are available but may have limited availability outside of peak flight times. Highway 97 provides the main route to Bend, with shuttle services also operating between the airport and various resort communities.",
+  "local_tip": "If you're visiting during ski season or summer hiking season, book rental cars well in advance—central Oregon's tourism peaks make vehicles scarce at RDM, and the high desert weather can shift rapidly between snow, rain, and sunshine within a single day.",
+  "generatedAt": "2026-06-29T03:35:49.562Z",
+  "model": "MiniMax-M3"
+}

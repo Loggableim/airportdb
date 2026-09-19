@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MKL",
+    "icao": "KMKL",
+    "name": "McKellar-Sipes Regional Airport",
+    "country": "United States",
+    "city": "Jackson",
+    "lat": 35.5999,
+    "lon": -88.9156,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "McKellar-Sipes Regional Airport (MKL) is a public-use airport serving Jackson, Tennessee, and the surrounding West Tennessee region. The airport is named in honor of U.S. Senator Kenneth McKellar and Neely Sipes, both prominent figures in Tennessee aviation history. It primarily supports general aviation, corporate flights, and limited commercial service, functioning as a key regional air gateway.",
+  "faqs": "Q: Does McKellar-Sipes Regional Airport offer commercial airline service?\nA: The airport has historically provided limited commercial service and primarily focuses on general aviation, private charters, and corporate operations. Travelers should check current airline listings for up-to-date schedules.\n\nQ: Where is the airport located relative to downtown Jackson?\nA: MKL is situated a few miles northwest of downtown Jackson, making it a short drive from the city center and nearby attractions.\n\nQ: What facilities are available at the airport?\nA: The airport features a passenger terminal, runway capable of handling regional jets and larger aircraft, aircraft parking, fueling services, and general aviation amenities.\n\nQ: Is there an FAA control tower at MKL?\nA: Yes, the airport operates with FAA air traffic control services during operating hours to assist arriving and departing aircraft.",
+  "transport_tips": "The airport is a short drive from downtown Jackson, typically reachable within 10-15 minutes by car. Rental car services and taxi options are generally available, though booking in advance is recommended since options may be limited. Rideshare services like Uber and Lyft may operate in the area but availability can vary.",
+  "local_tip": "If you have time between flights, consider visiting nearby Casey Jones Village, a short drive from the airport, offering a glimpse into railroad history and local Southern dining.",
+  "generatedAt": "2026-06-29T05:35:15.351Z",
+  "model": "MiniMax-M3"
+}

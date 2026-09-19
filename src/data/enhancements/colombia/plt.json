@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PLT",
+    "icao": "SKPL",
+    "name": "Plato Airport",
+    "country": "Colombia",
+    "city": "Plato",
+    "lat": 9.8,
+    "lon": -74.7833,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Plato Airport is a small regional airfield serving the municipality of Plato in the Magdalena department of northern Colombia. Situated in the Caribbean lowlands near the Magdalena River, it primarily handles short-haul domestic flights connecting the town with larger hubs such as Bogotá. The airport plays a vital role in supporting commerce and travel for this agricultural and livestock-producing region.",
+  "faqs": "Q: What is the airport code for Plato Airport?\nA: Plato Airport is designated PLT by IATA and SKPL by ICAO.\n\nQ: Are there international flights from Plato Airport?\nA: No, Plato Airport only handles domestic flights within Colombia, primarily connecting to major hubs like Bogotá.\n\nQ: What facilities are available at Plato Airport?\nA: As a small regional airport, it offers basic passenger amenities and a single runway, with limited commercial services.\n\nQ: How far is the airport from Plato town center?\nA: The airport is located a short drive from the urban center of Plato, typically reachable within 10-15 minutes by road.",
+  "transport_tips": "Taxis and local mototaxis are the most common ways to reach the airport from Plato's town center. Travelers should arrange ground transport in advance, as on-site rental car options are limited. Shared transport or hotel-arranged transfers are recommended for visitors unfamiliar with the area.",
+  "local_tip": "Plato is known for its cattle ranching culture and traditional Colombian Caribbean cuisine—ask locals for a recommendation to try a hearty plate of 'sancocho de res' or fresh river fish from the Magdalena region during your visit.",
+  "generatedAt": "2026-06-28T05:39:32.391Z",
+  "model": "MiniMax-M3"
+}

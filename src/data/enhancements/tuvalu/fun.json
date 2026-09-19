@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FUN",
+    "icao": "NGFU",
+    "name": "Funafuti International Airport",
+    "country": "Tuvalu",
+    "city": "Funafuti",
+    "lat": -8.5239,
+    "lon": 179.197,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Funafuti International Airport is the sole international gateway to Tuvalu, a remote Pacific island nation consisting of nine coral atolls. The airport sits on the narrow main island of Funafuti Atoll, serving as a vital lifeline for this isolated country. Given Tuvalu's extreme geographic isolation, the airport handles limited but essential flights connecting the nation to Fiji and other regional hubs.",
+  "faqs": "Q: How do you get to Funafuti International Airport?\nA: The airport is located on Funafuti atoll, the capital island of Tuvalu, and is accessible by a short drive or taxi from anywhere on the small island.\n\nQ: Which airlines operate flights to Funafuti?\nA: Fiji Airways operates regular scheduled service between Suva (Fiji) and Funafuti, making it the primary international connection for the country.\n\nQ: How long is the runway at Funafuti Airport?\nA: The runway is approximately 1,500 meters long, which limits the types of aircraft that can serve the airport and makes weather a critical factor for flight operations.\n\nQ: Is there public transport available from the airport?\nA: There is no formal public transport system, but the airport is close to town and taxis or hotel transfers are typically arranged in advance.",
+  "transport_tips": "Arrangements for ground transport should be made before arrival, as the airport has minimal facilities and no public transit. Taxis and pre-booked hotel shuttles are the most common ways to reach accommodations. Since the entire atoll is only about 12 km long, no journey from the airport takes more than 20 minutes.",
+  "local_tip": "Pack all essentials, especially medications and specific food items, in your carry-on, as cargo shipments to Funafuti can occasionally be delayed by weeks due to weather or shipping disruptions.",
+  "generatedAt": "2026-06-29T10:29:08.355Z",
+  "model": "MiniMax-M3"
+}

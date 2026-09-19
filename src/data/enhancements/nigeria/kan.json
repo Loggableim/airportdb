@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KAN",
+    "icao": "DNKN",
+    "name": "Mallam Aminu Kano International Airport",
+    "country": "Nigeria",
+    "city": "Kano",
+    "lat": 12.0456,
+    "lon": 8.5236,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Mallam Aminu Kano International Airport (KAN/DNKN) is the principal airport serving Kano, the largest city in northern Nigeria and a historic center of trans-Saharan trade and Islamic scholarship. Named after Mallam Aminu Kano, a prominent Nigerian politician and social activist, the airport functions as a key gateway for both domestic routes and international connections to destinations across Africa and the Middle East. It is one of the busiest airports in Nigeria outside Lagos and Abuja.",
+  "faqs": "Q: How far is the airport from Kano city center?\nA: The airport is located approximately 6 kilometers (about 4 miles) northwest of Kano's central business district, typically a 15–20 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, KAN handles international flights to destinations in Africa and the Middle East, including routes operated by Ethiopian Airlines, EgyptAir, and Saudi Arabian Airlines.\n\nQ: Are there currency exchange facilities at the airport?\nA: Yes, bureau de change counters and bank services are available in the terminal for exchanging major foreign currencies to the Nigerian Naira.\n\nQ: Is there a VIP or lounge facility available?\nA: The airport offers a VIP lounge and designated protocol services for premium passengers and official travelers.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are the most common way to reach the airport, with official airport taxis available outside the terminal building. Travelers are advised to agree on fares in advance or use metered services to avoid overcharging. The airport is well-connected to Kano's road network, and hotel shuttle services can be arranged in advance through most major hotels in the city.",
+  "local_tip": "Kano experiences extreme heat for much of the year, especially from March to May during the harmattan dry season, so carry water and arrive early at the airport as security and check-in queues can be lengthy during peak travel periods.",
+  "generatedAt": "2026-06-28T22:28:16.016Z",
+  "model": "MiniMax-M3"
+}

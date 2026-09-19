@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FDY",
+    "icao": "KFDY",
+    "name": "Findlay Airport",
+    "country": "United States",
+    "city": "Findlay",
+    "lat": 41.0135,
+    "lon": -83.6687,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Findlay Airport (FDY) is a public-use general aviation facility located in northwestern Ohio, serving the city of Findlay and surrounding Hancock County. It primarily supports corporate, recreational, and flight training operations, with nearby industries including Marathon Petroleum and Cooper Tire frequently utilizing the field for business travel. The airport features multiple runways and serves as an important regional asset for the local business community.",
+  "faqs": "Q: What types of flights operate from Findlay Airport?\nA: FDY is a general aviation airport, so it primarily serves private, corporate, charter, and flight training flights rather than scheduled commercial airline service.\n\nQ: How far is Findlay Airport from downtown Findlay?\nA: The airport is conveniently located just a few miles south of Findlay's city center, making it a quick drive for local travelers.\n\nQ: Are there car rental services available at the airport?\nA: Rental car availability can vary, so travelers should arrange ground transportation in advance or contact the airport directly for current options.\n\nQ: Does the airport have an on-site FBO?\nA: Yes, Findlay Airport provides fixed-base operator services including fueling, hangar space, and general pilot amenities.\n\n",
+  "transport_tips": "Reaching Findlay Airport is easiest by personal vehicle, as the facility is located near major local roads just outside the city center. Taxi services and rideshare options are limited in this region, so arranging a rental car or having a pre-booked pickup is recommended. Visitors coming from outside the area can reach Findlay via Interstate 75, which passes east of the city.",
+  "local_tip": "If you have downtime before a flight, consider visiting downtown Findlay for a quick meal—local diners in the area are known for classic Midwest hospitality and hearty portions.",
+  "generatedAt": "2026-06-30T05:06:47.788Z",
+  "model": "MiniMax-M3"
+}

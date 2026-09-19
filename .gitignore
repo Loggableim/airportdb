@@ -48,3 +48,8 @@ goals.db
 goals.db-shm
 goals.db-wal
 _tilecheck/
+
+# Airport enhancement cron runtime state
+.airport-enhance-state.json
+.airport-enhance-progress.json
+logs/

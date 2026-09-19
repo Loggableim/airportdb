@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "STY",
+    "icao": "SUSO",
+    "name": "Nueva Hesperides International Airport",
+    "country": "Uruguay",
+    "city": "Salto",
+    "lat": -31.4385,
+    "lon": -57.9853,
+    "type": "medium_airport",
+    "size": 275
+  },
+  "summary": "Nueva Hesperides International Airport serves the northwestern Uruguayan city of Salto, providing the main air link for the region near the Argentina border. The name 'Nueva Hesperides' references the historical European designation for the River Plate region, reflecting the area's colonial heritage. It functions as a medium-sized regional airport primarily handling domestic flights and general aviation.",
+  "faqs": "Q: What is the IATA code for Nueva Hesperides International Airport?\nA: The IATA code is STY and the ICAO code is SUSO.\n\nQ: Which city does this airport serve?\nA: It serves Salto, a city in northwestern Uruguay known for its thermal springs and proximity to the Uruguay River.\n\nQ: Are there international flights from this airport?\nA: Despite its international designation, most scheduled operations are domestic, with occasional cross-border services to Argentina.\n\nQ: How far is the airport from Salto city center?\nA: The airport is located a short drive from Salto's downtown area, making it convenient for travelers.\n\n",
+  "transport_tips": "Taxis and remise services are the most reliable options for getting to and from the airport, with drivers typically meeting arriving flights. Rental cars are available in Salto and can be arranged in advance for more flexibility exploring the region. The route to the city center is straightforward, with well-marked roads connecting the airport to Salto's main avenues.",
+  "local_tip": "If you have a layover or extra time, the nearby Termas del Daymán hot springs are a popular local attraction and easily reachable from the airport area.",
+  "generatedAt": "2026-06-30T03:55:30.658Z",
+  "model": "MiniMax-M3"
+}

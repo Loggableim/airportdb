@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PNY",
+    "icao": "VOPC",
+    "name": "Pondicherry Airport",
+    "country": "India",
+    "city": "Puducherry (Pondicherry)",
+    "lat": 11.968,
+    "lon": 79.812,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Pondicherry Airport (PNY/VOPC) is a domestic airport serving Puducherry, a former French colonial enclave on India's southeastern coast. The airport operates with limited commercial flights, primarily connecting Puducherry to Bengaluru. Despite its modest size, it serves as an important gateway to the Union Territory known for its French Quarter, beaches, and spiritual heritage, including the nearby Auroville community.",
+  "faqs": "Q: How far is Pondicherry Airport from the city center?\nA: The airport is approximately 8-10 km from the heart of Puducherry, with a drive typically taking 20-30 minutes depending on traffic.\n\nQ: Which airlines operate from Pondicherry Airport?\nA: SpiceJet historically operated regular flights to Bengaluru, though schedules and operators may change. Travelers should check current availability before planning.\n\nQ: Does Pondicherry Airport have international flights?\nA: No, Pondicherry Airport is a domestic-only facility with no scheduled international services.\n\nQ: What facilities are available at the airport?\nA: The terminal offers basic amenities including a small waiting area, restrooms, and a limited number of parking spaces. Facilities are modest given the airport's low traffic volume.",
+  "transport_tips": "Pre-paid taxi counters and auto-rickshaws are available outside the terminal for the short journey into town. Ride-hailing apps like Ola and Uber operate in Puducherry and offer a convenient alternative, though availability may be limited. Consider booking a taxi in advance if arriving during early morning or late evening hours when fewer options are available.",
+  "local_tip": "If flying in, consider landing at Chennai Airport instead and taking the scenic East Coast Road drive to Puducherry, which is roughly a 3-4 hour journey and offers beautiful coastal views and a stop at Mahabalipuram along the way.",
+  "generatedAt": "2026-06-30T00:15:01.799Z",
+  "model": "MiniMax-M3"
+}

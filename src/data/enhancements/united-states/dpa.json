@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DPA",
+    "icao": "KDPA",
+    "name": "Dupage Airport",
+    "country": "United States",
+    "city": "Chicago/West Chicago",
+    "lat": 41.9078,
+    "lon": -88.2486,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "DuPage Airport is a medium-sized general aviation facility located in West Chicago, Illinois, serving the western suburbs of the Chicago metropolitan area. Established in the 1940s, it has grown into one of the busiest general aviation airports in Illinois, primarily handling corporate, private, and flight training operations rather than commercial airline service. The airport features multiple runways and supports a significant base of based aircraft, making it a key hub for business aviation in the region.",
+  "faqs": "Q: Does DuPage Airport offer commercial airline service?\nA: No, DuPage Airport is a general aviation facility and does not serve scheduled commercial airlines. It is primarily used for private, corporate, charter, and flight training operations.\n\nQ: How far is DuPage Airport from downtown Chicago?\nA: The airport is located approximately 40 miles west of downtown Chicago, in the suburb of West Chicago, typically a 45-60 minute drive depending on traffic.\n\nQ: Are there rental cars available at DuPage Airport?\nA: Rental car services are available through on-site FBO (Fixed-Base Operator) providers, though options may be more limited compared to major commercial airports. Arranging transportation in advance is recommended.\n\nQ: Can I take flight lessons at DuPage Airport?\nA: Yes, DuPage Airport is home to several flight schools and training academies, making it a popular location for pilot training in the Chicago area.",
+  "transport_tips": "Driving is the most common way to reach DuPage Airport, with convenient access from major roadways including Route 64 (North Avenue) and I-355. Ride-share services like Uber and Lyft operate in the area, though wait times may be longer than at larger commercial airports. Taxis and pre-arranged car services are also reliable options, particularly for business travelers using the FBOs on-site.",
+  "local_tip": "If you're flying in for business in the western suburbs, ask your FBO about hangar access for your aircraft—DuPage's location often means less congestion than Chicago's Midway or O'Hare for general aviation operations, and you can usually taxi to your meeting in the western suburbs faster than driving from a commercial airport.",
+  "generatedAt": "2026-06-30T05:01:41.785Z",
+  "model": "MiniMax-M3"
+}

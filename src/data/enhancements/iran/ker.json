@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KER",
+    "icao": "OIKK",
+    "name": "Ayatollah Hashemi Rafsanjani International Airport",
+    "country": "Iran",
+    "city": "Kerman",
+    "lat": 30.2713,
+    "lon": 56.9497,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Ayatollah Hashemi Rafsanjani International Airport serves Kerman, the capital of Kerman Province in southeastern Iran. As the main gateway to one of Iran's largest and historically rich provinces, it handles both domestic flights to major Iranian cities and limited international connections. The airport is named after Akbar Hashemi Rafsanjani, a former President of Iran who was born in the Kerman region.",
+  "faqs": "Q: What is the airport's IATA code and how far is it from Kerman city center?\nA: The IATA code is KER, and the airport is located approximately 10-15 kilometers southeast of Kerman's city center, a drive of roughly 20-30 minutes depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, the airport handles a small number of international flights, primarily to regional destinations in the Middle East. Most scheduled services are domestic routes connecting Kerman to Tehran and other major Iranian cities.\n\nQ: What facilities are available at the airport?\nA: The terminal provides standard amenities including check-in counters, a departure lounge, basic food and beverage outlets, currency exchange, and car rental services.\n\nQ: Are there customs and immigration services?\nA: Yes, customs and immigration facilities are available for international arrivals and departures, though processing times are generally shorter than at Iran's larger hub airports.",
+  "transport_tips": "Taxis and ride-hailing services are the most common ways to reach the city center, with a typical fare taking around 20-30 minutes. Shared taxis (savari) can be arranged outside the terminal for a more economical option to central Kerman. Rental cars are available at the airport for travelers planning to explore the wider province.",
+  "local_tip": "Kerman is a hub for visiting the famous Lut Desert and the historic citadel of Bam, so consider booking a domestic flight from KER early in the morning to maximize a full day of sightseeing at these UNESCO-listed sites.",
+  "generatedAt": "2026-06-28T23:35:30.345Z",
+  "model": "MiniMax-M3"
+}

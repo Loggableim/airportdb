@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YHK",
+    "icao": "CYHK",
+    "name": "Gjoa Haven Airport",
+    "country": "Canada",
+    "city": "Gjoa Haven",
+    "lat": 68.6356,
+    "lon": -95.8497,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Gjoa Haven Airport (YHK) is a small regional airport serving the Inuit hamlet of Gjoa Haven on King William Island in Nunavut, Canada. The community is named after Roald Amundsen's ship Gjøa, which wintered in the area during his historic 1903–1905 navigation of the Northwest Passage. As the only year-round transportation link for this remote Arctic settlement, the airport is a vital lifeline for residents, supplies, and medical services.",
+  "faqs": "Q: How do you get to Gjoa Haven?\nA: Gjoa Haven is only accessible by air year-round, with seasonal access by sea during the brief ice-free period. There are no roads connecting the community to any other settlement.\n\nQ: What airlines serve Gjoa Haven Airport?\nA: The airport is primarily served by Calm Air, which operates scheduled flights connecting Gjoa Haven to other Nunavut communities and to Manitoba.\n\nQ: Is there a terminal building at YHK?\nA: Yes, the airport has a small terminal building, though facilities are limited given the modest passenger volumes typical of remote Arctic airports.\n\nQ: Why is Gjoa Haven historically significant?\nA: The community is named after Roald Amundsen's schooner Gjøa, which completed the first successful navigation of the Northwest Passage there. The area also contains sites connected to the lost Franklin Expedition.",
+  "transport_tips": "All travel to and from Gjoa Haven is by air, as the community has no road connections. Flights can be delayed or cancelled due to unpredictable Arctic weather, so always build in buffer days if connecting onward. Confirm your booking and check weather conditions well in advance, especially during winter months when visibility and wind can change rapidly.",
+  "local_tip": "If visiting during summer, ask locals about nearby historical markers related to the Franklin Expedition and Amundsen's overwintering site — short walking tours from the hamlet offer a remarkable window into Arctic exploration history.",
+  "generatedAt": "2026-06-26T14:16:03.448Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OSD",
+    "icao": "ESNZ",
+    "name": "Åre Östersund Airport",
+    "country": "Sweden",
+    "city": "Östersund",
+    "lat": 63.1935,
+    "lon": 14.5042,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Åre Östersund Airport is the primary gateway to Sweden's largest ski resort, Åre, and the city of Östersund in Jämtland county. Located in central Sweden, it serves as an important access point for both winter sports enthusiasts and summer outdoor adventurers visiting the scenic region. The airport handles a mix of domestic and seasonal international flights, with traffic peaking during the ski season.",
+  "faqs": "Q: What is the main purpose of Åre Östersund Airport?\nA: The airport primarily serves the Åre ski resort, one of Scandinavia's largest and most popular ski destinations, as well as the city of Östersund and the surrounding Jämtland region.\n\nQ: How do I get from the airport to Åre ski resort?\nA: Åre is approximately 100 km west of the airport. Travelers typically use airport buses, rental cars, or pre-booked transfers to reach the resort, with journey times of around 1.5 hours.\n\nQ: Are there direct flights to Stockholm?\nA: Yes, regular scheduled service connects Östersund with Stockholm Arlanda and Bromma airports, with multiple daily flights typically available.\n\nQ: When is the busiest time at the airport?\nA: The winter ski season, particularly from December through March, sees the highest passenger volumes as visitors travel to Åre for skiing and winter activities.",
+  "transport_tips": "Airport buses and coaches offer direct service between the",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T05:38:22.481Z",
+  "model": "MiniMax-M3"
+}

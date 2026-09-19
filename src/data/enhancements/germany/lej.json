@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LEJ",
+    "icao": "EDDP",
+    "name": "Leipzig/Halle Airport",
+    "country": "Germany",
+    "city": "Schkeuditz",
+    "lat": 51.4207,
+    "lon": 12.2327,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Leipzig/Halle Airport (LEJ) is a major international airport located in Schkeuditz, between the cities of Leipzig and Halle in eastern Germany. It serves as one of Europe's most important air cargo hubs, hosting DHL's main European aviation hub and handling millions of tonnes of freight annually. The airport also offers passenger flights connecting the Saxony-Anhalt and Saxony region to numerous European destinations.",
+  "faqs": "Q: How far is Leipzig/Halle Airport from Leipzig city centre?\nA: The airport is approximately 15 km northwest of Leipzig city centre, about 20 minutes by car or train.\n\nQ: Is Leipzig/Halle Airport primarily a cargo or passenger airport?\nA: It functions as both, but is best known as one of Europe's largest cargo airports, serving as DHL's main European hub while also handling several million passengers per year.\n\nQ: Are there direct train connections from the airport to Leipzig?\nA: Yes, the S-Bahn S5 and S5X lines connect the airport directly to Leipzig Hauptbahnhof (main station) in about 15 minutes.\n\nQ: Does the airport operate 24 hours?\nA: Due to its role as a major cargo hub, the airport operates around the clock, making it one of Germany's busiest night-flight airports.",
+  "transport_tips": "The S-Bahn lines S5 and S5X provide fast and affordable connections to both Leipzig and Halle main stations, with trains running every 30 minutes. Taxis and ride-shares are readily available outside the terminals and typically cost around €25-35 to central Leipzig. If driving, the A9 and A14 motorways offer direct access, and several parking options including short-term and long-term lots are available on-site.",
+  "local_tip": "If you have a long layover, the S-Bahn ride into Leipzig takes only 15 minutes and gives you easy access to the historic city centre, where you can visit the Nikolaikirche, St. Thomas Church (Bach's resting place), or grab a quick coffee at one of the cafés near Augustusplatz before heading back.",
+  "generatedAt": "2026-06-28T16:45:20.037Z",
+  "model": "MiniMax-M3"
+}

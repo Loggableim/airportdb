@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LEX",
+    "icao": "KLEX",
+    "name": "Blue Grass Airport",
+    "country": "United States",
+    "city": "Lexington",
+    "lat": 38.0351,
+    "lon": -84.6067,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Blue Grass Airport (LEX) is a medium-sized regional airport serving Lexington, Kentucky, and the surrounding Bluegrass region, an area renowned for its thoroughbred horse farms and bourbon distilleries. Located approximately 4 miles south of downtown Lexington, it operates as the primary air gateway for central and eastern Kentucky. The airport features a single modern terminal and offers nonstop service to several major hub destinations across the United States.",
+  "faqs": "Q: How far is Blue Grass Airport from downtown Lexington?\nA: The airport is approximately 4 miles south of downtown Lexington, typically a 10-15 minute drive depending on traffic.\n\nQ: What airlines operate at Blue Grass Airport?\nA: LEX is served by several major carriers including American Airlines, Delta Air Lines, United Airlines, and Allegiant Air, offering nonstop flights to hub cities and select leisure destinations.\n\nQ: Does the airport have any dining or shopping options?\nA: Yes, the terminal includes a restaurant, a bar, and a gift shop featuring local Kentucky products, including bourbon-themed items.\n\nQ: Is there free Wi-Fi available at LEX?\nA: Yes, complimentary Wi-Fi is available throughout the terminal for all passengers.",
+  "transport_tips": "Rideshare services like Uber and Lyft are readily available at designated pickup zones outside baggage claim. Taxi services and rental car agencies are also on-site, with counters located in the terminal's ground transportation area. If driving, the airport is easily accessible via Man O' War Boulevard and US Route 60 (Versailles Road), with ample short-term and long-term parking options.",
+  "local_tip": "If you have a layover or extra time, ask about the local bourbon and horse country tours—several Lexington-area distilleries and horse farms are within a short drive of the airport and offer tastings and tours that capture the essence of the Bluegrass region.",
+  "generatedAt": "2026-06-29T01:54:28.400Z",
+  "model": "MiniMax-M3"
+}

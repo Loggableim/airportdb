@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PNE",
+    "icao": "KPNE",
+    "name": "Northeast Philadelphia Airport",
+    "country": "United States",
+    "city": "Philadelphia",
+    "lat": 40.0824,
+    "lon": -75.0106,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Northeast Philadelphia Airport (PNE) is a medium-sized general aviation facility located about 10 miles northeast of Center City Philadelphia, serving corporate, charter, and recreational flying in the Delaware Valley. Originally established in the 1940s, it operates alongside the much larger Philadelphia International Airport and primarily handles business aviation, flight training, and air charter operations rather than scheduled commercial service.",
+  "faqs": "Q: Does Northeast Philadelphia Airport have commercial passenger flights?\nA: No, PNE is a general aviation airport with no scheduled commercial airline service. Passengers in the Philadelphia area typically use Philadelphia International Airport (PHL) for commercial flights.\n\nQ: Who uses Northeast Philadelphia Airport?\nA: The airport primarily serves corporate jets, charter flights, flight schools, private aircraft owners, and occasional military operations.\n\nQ: Does PNE have an air traffic control tower?\nA: Yes, the airport operates a control tower during published hours and is classified as a towered airport.\n\nQ: Are there restaurants or amenities on site?\nA: The airport hosts a small restaurant on the field and several fixed-base operators (FBOs) that offer pilot services, fueling, and light amenities, though facilities are limited compared to a major commercial airport.",
+  "transport_tips": "The airport is best reached by car, with convenient access via Interstate 95, US Route 1 (Roosevelt Boulevard), and Pennsylvania Route 63 (Woodhaven Road). Rideshare services and taxis serve the area, but travelers should allow extra time as the airport sits in a suburban commercial zone with typical Philadelphia-area traffic. SEPTA bus routes pass near the airport entrance, providing a public transit option for those without a vehicle.",
+  "local_tip": "If you're picking up or dropping off a passenger, head to the FBO terminal area rather than the main airport entrance—general aviation operations are handled at the fixed-base operators, and that's where pilots and passengers will be waiting.",
+  "generatedAt": "2026-06-29T18:28:29.544Z",
+  "model": "MiniMax-M3"
+}

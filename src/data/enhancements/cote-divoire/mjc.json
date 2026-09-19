@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MJC",
+    "icao": "DIMN",
+    "name": "Man Airport",
+    "country": "Côte d'Ivoire",
+    "city": "",
+    "lat": 7.2721,
+    "lon": -7.5874,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Man Airport (MJC) is a medium-sized regional airport serving the city of Man in the Tonkpi Region of western Côte d'Ivoire. Nestled in a mountainous area near Mount Nimba, a UNESCO World Heritage site shared with Guinea and Liberia, the airport provides important access to one of the country's most scenic highland regions. It supports both domestic scheduled service and general aviation, playing a key role in connecting this remote western district to Abidjan and other Ivorian hubs.",
+  "faqs": "Q: What is the IATA code for Man Airport?\nA: The IATA code is MJC and the ICAO code is DIMN.\n\nQ: Which airlines operate from Man Airport?\nA: Domestic carriers serving Côte d'Ivoire's regional routes, such as Air Côte d'Ivoire, have historically operated flights connecting Man to Abidjan.\n\nQ: How far is Man Airport from the city center?\nA: The airport is located just a few kilometers from central Man, making ground transfers relatively short.\n\nQ: Is Man Airport suitable for international flights?\nA: As a medium-sized regional airport, it primarily handles domestic traffic, though its runway can accommodate regional jets.\n\n",
+  "transport_tips": "Taxis and motorcycle taxis (commonly called 'gbakas') are the most practical ways to reach the airport from Man town center, typically taking around 10 to 15 minutes. Arrange ground transport in advance, as ride-hailing apps have limited presence in this region. Shared transport options toward the Liberian or Guinean borders may also pass near the airport area.",
+  "local_tip": "Visit nearby Mount Nimba Strict Nature Reserve, a UNESCO World Heritage site and one of the few remaining habitats for the viviparous toad; the mountain lies just a short drive from the airport and is a highlight most travelers overlook.",
+  "generatedAt": "2026-06-26T10:50:19.276Z",
+  "model": "MiniMax-M3"
+}

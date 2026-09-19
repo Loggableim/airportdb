@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HZK",
+    "icao": "BIHU",
+    "name": "Húsavík Airport",
+    "country": "Iceland",
+    "city": "Húsavík",
+    "lat": 65.9523,
+    "lon": -17.426,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Húsavík Airport (HZK/BIHU) is a small regional airport serving the coastal town of Húsavík in northeastern Iceland, widely known as Europe's whale-watching capital. The airport provides essential connectivity to this remote Arctic-edge community, supporting both tourism and local industry in the Norðurland eystra region. It offers travelers a gateway to surrounding natural attractions including Lake Mývatn, Dettifoss waterfall, and Jökulsárgljúfur National Park.",
+  "faqs": "Q: Does Húsavík Airport have scheduled commercial flights?\nA: Scheduled service has been limited and varies by season; most visitors reach Húsavík via Akureyri Airport or by road from Reykjavík. Check current airline listings as routes can change.\n\nQ: How far is the airport from Húsavík town center?\nA: The airport is located just a few kilometers south of the town, with a short taxi or transfer ride typically taking under 10 minutes.\n\nQ: Are there car rental services at the airport?\nA: Rental car availability is limited compared to larger Icelandic airports, so booking in advance or arranging pickup in Akureyri or Reykjavík is recommended.\n\nQ: What is the airport primarily used for?\nA: The airport handles general aviation, charter flights, and occasional scheduled service, serving the local community and tourism to the whale-watching hub.",
+  "transport_tips": "Most travelers arrive by rental car via Route 85 from Akureyri or the longer Ring Road (Route 1) from Reykjavík, both offering scenic drives. Taxi service is available but should be pre-arranged as options are limited. During winter months, road conditions can be challenging, so checking weather and road status (road.is) before traveling is essential.",
+  "local_tip": "If flying in, ask locals or your hotel about the day's whale-watching departure times before booking a tight connection—the small airport's flexible schedule and proximity to the harbor make it easy to combine a flight with a same-day boat tour.",
+  "generatedAt": "2026-06-29T20:13:01.202Z",
+  "model": "MiniMax-M3"
+}

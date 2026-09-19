@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HOS",
+    "icao": "SAHC",
+    "name": "Chos Malal Airport",
+    "country": "Argentina",
+    "city": "Chos Malal",
+    "lat": -37.4447,
+    "lon": -70.2225,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Chos Malal Airport (HOS/SAHC) is a small regional airport serving the town of Chos Malal in Neuquén Province, northern Patagonia, Argentina. Nestled at the foot of the Andes Mountains along the Neuquén River, it provides essential air access to this remote Patagonian community known for its volcanic landscapes and proximity to scenic attractions like the Domuyo volcano. The airport primarily handles general aviation and occasional charter flights supporting the local energy sector and tourism.",
+  "faqs": "Q: What type of flights operate from Chos Malal Airport?\nA: The airport mainly handles general aviation, private aircraft, and occasional charter flights, with no scheduled commercial passenger service.\n\nQ: Where is Chos Malal located?\nA: Chos Malal is in northern Neuquén Province, Argentina, in the Patagonia region near the Chilean border and the Andes Mountains.\n\nQ: What is the best way to reach Chos Malal by air?\nA: Travelers typically fly into larger airports like Neuquén (NQN) or San Martín de los Andes (CPC) and then travel to Chos Malal by bus or car.\n\nQ: Are there customs or immigration facilities at the airport?\nA: No, the airport does not have customs or immigration services as it does not serve international flights.",
+  "transport_tips": "Most visitors reach the airport by taxi or private vehicle from central Chos Malal, which is just a few kilometers away. Rental cars are limited in town, so arranging transport in advance is recommended, especially for early or late arrivals. Long-distance buses connect Chos Malal to Neuquén city and other Patagonian destinations.",
+  "local_tip": "Bring warm layers even in summer—the airport sits at over 850 meters elevation near the Andes, and Patagonian winds can make the small terminal feel quite chilly while waiting outside.",
+  "generatedAt": "2026-06-27T20:13:55.867Z",
+  "model": "MiniMax-M3"
+}

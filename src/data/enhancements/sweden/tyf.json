@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TYF",
+    "icao": "ESST",
+    "name": "Torsby Airport",
+    "country": "Sweden",
+    "city": "Torsby",
+    "lat": 60.1576,
+    "lon": 12.9913,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Torsby Airport (TYF/ESST) is a regional airport serving the municipality of Torsby in Värmland County, western Sweden, near the Norwegian border. It primarily supports general aviation, charter flights, and connections to Stockholm for residents of this rural forested region. The airport plays a vital role in connecting the sparsely populated inland Värmland area to the rest of Sweden.",
+  "faqs": "Q: What is Torsby Airport primarily used for?\nA: The airport mainly serves general aviation, charter flights, and scheduled connections to Stockholm, providing essential air access for residents of the inland Värmland region.\n\nQ: Does Torsby Airport have international flights?\nA: International scheduled flights are limited, but the airport's proximity to Norway (the border is roughly 50 km away) makes cross-border general aviation common.\n\nQ: How large is Torsby Airport?\nA: It is classified as a medium-sized regional airport with a single main runway, suitable for smaller commercial aircraft and private planes.\n\nQ: Are there amenities at the terminal?\nA: Facilities are modest, typical of a small regional airport, with basic waiting areas, parking, and limited services.",
+  "transport_tips": "The airport is located just a few kilometers south of Torsby town center, making taxi rides quick and inexpensive. Rental cars should be arranged in advance as on-site rental availability is limited. Driving from Oslo takes roughly 2.5 hours via the E16 and Swedish roads if travelers are arriving from Norway.",
+  "local_tip": "If traveling during winter, note that the region receives significant snowfall and temperatures can drop well below freezing, so check runway conditions and flight status the morning of departure, as smaller regional airports are more susceptible to weather delays than major hubs.",
+  "generatedAt": "2026-06-29T08:09:04.639Z",
+  "model": "MiniMax-M3"
+}

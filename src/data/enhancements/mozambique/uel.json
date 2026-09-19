@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UEL",
+    "icao": "FQQL",
+    "name": "Quelimane Airport",
+    "country": "Mozambique",
+    "city": "Quelimane",
+    "lat": -17.8555,
+    "lon": 36.8691,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Quelimane Airport (UEL/FQQL) is a medium-sized regional airport serving Quelimane, the capital of Zambezia Province in central Mozambique. Situated near the Indian Ocean coast, it functions as an important gateway for the central region of the country, supporting both domestic travel and limited regional connectivity. The airport primarily handles domestic flights operated by Mozambique's national carrier LAM and other regional airlines.",
+  "faqs": "Q: How far is Quelimane Airport from the city center?\nA: The airport is located a short distance from central Quelimane, typically reachable within 15-20 minutes by car depending on traffic conditions.\n\nQ: Which airlines operate from Quelimane Airport?\nA: The airport is primarily served by LAM Mozambique Airlines, which operates domestic flights to Maputo and other regional destinations within the country.\n\nQ: Does the airport have international flights?\nA: Quelimane Airport mainly handles domestic routes, with most international connections requiring a transfer through Maputo's main airport.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers basic passenger amenities including a terminal building, check-in counters, and a small waiting area.",
+  "transport_tips": "Taxis are the most common way to reach the airport from Quelimane city center and are readily available outside the terminal. Pre-arranging transport through your hotel is recommended for early morning or late evening flights when taxis may be harder to find. The road connecting the airport to the city is generally in reasonable condition, though travel times can increase during the rainy season.",
+  "local_tip": "Keep Mozambican meticais in small denominations on hand for taxi fares, as drivers may have limited change for larger bills, especially for early morning departures.",
+  "generatedAt": "2026-06-29T13:02:59.344Z",
+  "model": "MiniMax-M3"
+}

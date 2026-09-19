@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DAD",
+    "icao": "VVDN",
+    "name": "Da Nang International Airport",
+    "country": "Vietnam",
+    "city": "Da Nang",
+    "lat": 16.0439,
+    "lon": 108.199,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Da Nang International Airport is the third busiest airport in Vietnam, serving as the main gateway to central Vietnam and key tourist destinations including the ancient town of Hoi An, the imperial city of Hue, and the beaches of Da Nang itself. The airport features modern terminals, with Terminal 2 handling international flights since its 2017 opening. It holds both civil and military aviation significance due to a shared runway with a Vietnamese Air Force base.",
+  "faqs": "Q: How far is Da Nang International Airport from the city center?\nA: The airport is approximately 3-4 km southwest of central Da Nang, making it a quick 10-15 minute drive depending on traffic.\n\nQ: Are there direct flights from Da Nang to other Vietnamese cities?\nA: Yes, the airport offers frequent domestic flights to Hanoi, Ho Chi Minh City, Hai Phong, and other major cities, with multiple daily departures.\n\nQ: Can I take a bus or train directly from the airport to Hoi An?\nA: There is no direct train service, but public buses and shuttle services connect the airport to Hoi An, about 30 km away, taking roughly 45-60 minutes.\n\nQ: Does the airport have currency exchange and SIM card services?\nA: Yes, both currency exchange counters and SIM card vendors are available in the terminal, along with ATMs and money transfer services.\n\n",
+  "transport_tips": "Taxis and ride-hailing apps like Grab are readily available outside the terminal and offer fixed-price or metered rides into Da Nang and surrounding areas. Many hotels in Da Nang and Hoi An provide shuttle or pickup services, which can be more economical than taxis. For budget travelers, public bus route 12 connects the airport to central Da Nang.",
+  "local_tip": "Visit the rooftop terrace or observation area on the departures level for a quick look at the mountains meeting the sea in the distance—it's a great way to appreciate Da Nang's dramatic geography between the Hai Van Pass and the coastline while waiting for your flight.",
+  "generatedAt": "2026-06-28T18:47:16.583Z",
+  "model": "MiniMax-M3"
+}

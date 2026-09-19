@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MMP",
+    "icao": "SKMP",
+    "name": "San Bernardo Airport",
+    "country": "Colombia",
+    "city": "Santa Cruz de Mompóx",
+    "lat": 9.2583,
+    "lon": -74.4384,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "San Bernardo Airport is a small regional airport serving Santa Cruz de Mompóx, a historic Colombian town on the Magdalena River designated as a UNESCO World Heritage Site in 1995. The airport primarily handles domestic flights and provides the most convenient air access to this remote colonial destination, which is otherwise reachable only by river boat or long overland routes. Its modest infrastructure reflects the town's preserved, off-the-beaten-path character.",
+  "faqs": "Q: What is the airport code for San Bernardo Airport?\nA: The IATA code is MMP and the ICAO code is SKMP.\n\nQ: Which airlines operate at San Bernardo Airport?\nA: The airport primarily serves regional domestic carriers; flight availability is limited and should be checked locally for current schedules.\n\nQ: How far is the airport from Mompox town center?\nA: The airport is located a short drive from Santa Cruz de Mompóx, typically reached in around 10 to 15 minutes by taxi.\n\nQ: Is the airport open to international flights?\nA: No, San Bernardo Airport handles domestic flights only.\n\n",
+  "transport_tips": "Taxis and mototaxis are the primary means of getting to and from the airport, as there is no public transit serving this small facility. Travelers are advised to arrange ground transport in advance, especially during evening arrivals, as service options are limited. Rental cars are generally not available, so booking a hotel transfer is often the most reliable option.",
+  "local_tip": "Visit during the Holy Week festival if possible—Mompox is famous throughout Colombia for its elaborate Easter processions, and the town is far less crowded at other times of year, making it a peaceful destination for exploring the colonial architecture.",
+  "generatedAt": "2026-06-27T14:33:05.688Z",
+  "model": "MiniMax-M3"
+}

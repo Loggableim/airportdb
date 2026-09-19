@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RAS",
+    "icao": "OIGG",
+    "name": "Sardar-e-Jangal Airport",
+    "country": "Iran",
+    "city": "Rasht",
+    "lat": 37.3233,
+    "lon": 49.6178,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sardar-e-Jangal Airport serves Rasht, the capital of Gilan Province in northern Iran, near the Caspian Sea coast. Named after Mirza Kuchik Khan, a revolutionary leader known as the 'Commander of the Jungle' from the Gilan independence movement, the airport provides a key gateway to Iran's lush, green Caspian region. It primarily handles domestic flights, connecting Rasht to Tehran and other major Iranian cities.",
+  "faqs": "Q: What is Sardar-e-Jangal Airport's main purpose?\nA: It primarily serves domestic flights, connecting Rasht to Tehran and other major cities in Iran, acting as the main gateway to the Caspian coastal region.\n\nQ: Why is it called Sardar-e-Jangal?\nA: The name honors Mirza Kuchik Khan, a Gilan-based revolutionary leader from the early 20th century who led the Jangal Movement against foreign occupation.\n\nQ: How far is the airport from Rasht city center?\nA: The airport is located approximately 5-6 kilometers north of downtown Rasht, making it a short drive from the city center.\n\nQ: Does the airport handle international flights?\nA: International service is limited; most operations are domestic, though occasional seasonal or charter international flights may operate.\n\n",
+  "transport_tips": "Taxis are the most common way to reach the airport from Rasht, with a typical journey taking around 15-20 minutes depending on traffic. Shared taxis (savari) are a budget-friendly option for travelers heading into the city. Pre-booking a private taxi through your hotel is recommended for early morning or late-night flights.",
+  "local_tip": "Rasht is the culinary capital of Iran, famous for its unique Gilanian dishes like mirza ghasemi and baghala ghatogh, so plan to spend time in the city itself rather than treating it as just a transit point.",
+  "generatedAt": "2026-06-29T14:12:51.892Z",
+  "model": "MiniMax-M3"
+}

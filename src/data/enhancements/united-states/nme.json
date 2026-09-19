@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NME",
+    "icao": "PAGT",
+    "name": "Nightmute Airport",
+    "country": "United States",
+    "city": "Nightmute",
+    "lat": 60.4691,
+    "lon": -164.7041,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Nightmute Airport (NME) is a small public-use airport serving the remote Yup'ik village of Nightmute on Nelson Island in western Alaska. Located in the Bethel Census Area along the Bering Sea coast, the airport provides a vital lifeline for residents of this isolated community where road access is unavailable. The single-runway facility supports essential passenger, mail, and cargo services for the village.",
+  "faqs": "Q: Where is Nightmute Airport located?\nA: Nightmute Airport is situated on Nelson Island in the Bethel Census Area of western Alaska, serving the village of Nightmute near the Bering Sea coast.\n\nQ: Are there scheduled passenger flights to Nightmute?\nA: Yes, the airport is typically served by regional bush carriers operating scheduled passenger flights from Bethel and other hub communities in the Yukon-Kuskokwim Delta.\n\nQ: Is there road access to Nightmute?\nA: No, Nightmute is an isolated village with no road connections to other communities. Travel is primarily by air, and seasonally by boat or snowmachine.\n\nQ: What are the airport's operating facilities?\nA: The airport features a single gravel runway and basic facilities typical of rural Alaskan airports, with no control tower or terminal building beyond a small waiting area.\n\n",
+  "transport_tips": "Passengers must arrange flights through regional bush carriers, as there are no roads connecting Nightmute to other communities. Be prepared for flexible scheduling, as weather in the Bering Sea region frequently causes delays or cancellations, especially during winter storms and summer fog. Light luggage is recommended since smaller aircraft serving the field may have strict weight limits.",
+  "local_tip": "Always confirm your return flight the day before departure—weather in the Yukon-Kuskokwim Delta can shift rapidly, and getting stranded in the village without adequate supplies is a real risk for unprepared travelers.",
+  "generatedAt": "2026-06-26T20:17:41.709Z",
+  "model": "MiniMax-M3"
+}

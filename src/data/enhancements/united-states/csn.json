@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CSN",
+    "icao": "KCXP",
+    "name": "Carson Airport",
+    "country": "United States",
+    "city": "Carson City",
+    "lat": 39.1943,
+    "lon": -119.7343,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Carson Airport is a general aviation facility serving Carson City, the capital of Nevada, and the surrounding region including the Lake Tahoe basin. Located a few miles south of the city center, it primarily handles private aircraft, flight training, and business aviation. The airport supports local commerce and provides convenient access to the Reno-Tahoe area, western Nevada's outdoor recreation destinations, and state government operations.",
+  "faqs": "Q: What type of flights does Carson Airport handle?\nA: Carson Airport is primarily a general aviation facility, serving private pilots, flight training, charter flights, and business aircraft rather than scheduled commercial service.\n\nQ: Is there commercial airline service at Carson Airport?\nA: No, Carson Airport does not offer scheduled commercial airline service. Travelers seeking commercial flights typically use Reno-Tahoe International Airport, about 25 miles north.\n\nQ: Are there flight schools or aviation services available?\nA: Yes, the airport hosts general aviation services including aircraft maintenance, fueling, and flight training operations catering to student and recreational pilots.\n\nQ: Can private jets and business aircraft land here?\nA: Yes, Carson Airport accommodates business jets and other general aviation aircraft, making it a convenient alternative for visitors to the Carson City area.",
+  "transport_tips": "Renting a car is the most practical option for getting to and from Carson Airport, as no commercial shuttle or rideshare services are regularly stationed there. Carson City is a short drive from the airport via local roads, with the city center typically reachable within 10 to 15 minutes. Visitors heading to Lake Tahoe or Reno should plan for approximately 30 to 45 minutes of additional driving time depending on traffic and weather conditions.",
+  "local_tip": "If you're flying in during winter, check mountain weather conditions and runway status in advance—western Nevada can experience sudden snow squalls, and having flexible arrival times helps accommodate de-icing and any delays.",
+  "generatedAt": "2026-06-30T05:21:21.910Z",
+  "model": "MiniMax-M3"
+}

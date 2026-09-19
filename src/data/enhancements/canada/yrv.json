@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YRV",
+    "icao": "CYRV",
+    "name": "Revelstoke Airport",
+    "country": "Canada",
+    "city": "Revelstoke",
+    "lat": 50.9622,
+    "lon": -118.1843,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Revelstoke Airport (YRV/CYRV) is a small general-aviation aerodrome located just south of Revelstoke, British Columbia, in the Columbia Mountains. It has a single asphalt runway and primarily supports private aircraft, charter flights, and seasonal mountain access rather than scheduled airline service. Its proximity to Revelstoke Mountain Resort and surrounding backcountry makes it a convenient gateway for winter recreation and summer outdoor travel.",
+  "faqs": "Q: What airlines fly to Revelstoke Airport?\nA: There are no scheduled commercial airlines serving YRV; the airport mainly handles general aviation, private and charter aircraft.\n\nQ: How long is the runway at Revelstoke Airport?\nA: Runway 12/30 is a 4,000-foot asphalt runway.\n\nQ: Is there fuel available at YRV?\nA: Fuel may be limited or available only by prior arrangement; pilots should check current NOTAMs, the Canada Flight Supplement, and local contacts before arriving.\n\nQ: How far is Revelstoke Airport from downtown Revelstoke?\nA: It is about a 10- to 15-minute drive from downtown Revelstoke, depending on road and weather conditions.",
+  "transport_tips": "Ground transport is limited; taxis and rental cars are the most practical options, and some hotels or lodges may arrange pickups. The airport is a short drive from downtown Revelstoke and Revelstoke Mountain Resort via local roads, but winter snow and ice can slow travel. There is no regular public transit service to the airport, so pre-book rides or a rental car if you need to connect with town.",
+  "local_tip": "During peak ski season, taxi and rental availability can be tight—arrange your ride or car before landing, especially if your flight arrives late or during heavy snowfall.",
+  "generatedAt": "2026-09-19T23:07:57.974Z",
+  "model": "deepseek-v4.1-flash"
+}

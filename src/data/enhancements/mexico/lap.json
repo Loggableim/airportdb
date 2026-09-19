@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LAP",
+    "icao": "MMLP",
+    "name": "Manuel Márquez de León International Airport",
+    "country": "Mexico",
+    "city": "La Paz",
+    "lat": 24.0723,
+    "lon": -110.3627,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Manuel Márquez de León International Airport (LAP) serves La Paz, the capital of Baja California Sur, Mexico, and is named after a prominent 19th-century Mexican military leader born in the region. Situated on the western coast of the Sea of Cortez, the airport provides essential access to one of Mexico's most celebrated coastal destinations, known for its marine biodiversity and proximity to Espíritu Santo Island. It functions as the main gateway for both domestic tourism and the regional fishing industry.",
+  "faqs": "Q: How far is the airport from downtown La Paz?\nA: The airport is located approximately 10 km (6 miles) southwest of La Paz city center, with a typical drive time of 15–20 minutes depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, it handles a limited number of international flights, primarily from the United States, while most of its traffic consists of domestic routes connecting to Mexico City and other major Mexican cities.\n\nQ: What facilities are available at the terminal?\nA: The terminal includes restaurants, car rental agencies, currency exchange services, and basic duty-free shopping for arriving international passengers.\n\nQ: Are there hotels near the airport?\nA: Several budget and mid-range hotels are within a short drive, and the resort area near the Malecón offers more upscale options about 15 minutes away.\n\n",
+  "transport_tips": "Official taxi services are available at designated counters inside the terminal and offer fixed-rate fares to the city center and hotel zones, which is recommended over negotiating with outside drivers. Rental cars are a popular option for travelers planning to explore the surrounding peninsula, and booking in advance often secures better rates. Shared shuttle services can also be arranged through hotels for a cost-effective alternative to private taxis.",
+  "local_tip": "If you have a long layover or early arrival, head to the Malecon waterfront boardwalk rather than waiting at the terminal—it's a short taxi ride away and offers ocean views, local seafood restaurants, and a chance to see the famous La Paz sunset.",
+  "generatedAt": "2026-06-29T04:29:08.904Z",
+  "model": "MiniMax-M3"
+}

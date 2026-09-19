@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DRK",
+    "icao": "MRDK",
+    "name": "Drake Bay Airport",
+    "country": "Costa Rica",
+    "city": "Puntarenas",
+    "lat": 8.7189,
+    "lon": -83.6417,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Drake Bay Airport is a small airstrip on the remote Osa Peninsula in southwestern Costa Rica, serving as the primary air gateway to one of the country's most biodiverse regions. It provides essential access to Drake Bay, a launching point for visits to Corcovado National Park and Caño Island. The airport handles primarily small domestic flights, with no scheduled commercial jet service, making it a key link for eco-tourists and researchers.",
+  "faqs": "Q: Are there scheduled commercial flights to Drake Bay Airport?\nA: No scheduled commercial airline service operates at DRK. The airport is served by small charter and domestic flights operated by local carriers like Sansa and small private operators on a bookable basis.\n\nQ: What is the main purpose of Drake Bay Airport?\nA: The airport primarily serves tourists and researchers heading to Corcovado National Park, often called one of the most biologically intense places on Earth, and to the surrounding Drake Bay coastal area.\n\nQ: What facilities are available at the airport?\nA: Facilities are minimal, typical of a remote rural airstrip. There is a small terminal building, basic waiting areas, and no major amenities. Travelers should arrange ground transport and accommodations in advance.\n\nQ: Can I fly directly from San José to Drake Bay?\nA: Yes, small domestic flights connect Drake Bay with San José and other Costa Rican destinations, with a flight time of approximately 45 minutes over scenic terrain.",
+  "transport_tips": "Taxis and pre-arranged hotel shuttles are the main ground transport options from the airport to Drake Bay town and nearby lodges, as public transportation is limited in this remote area. Most eco-lodges and tour operators offer pickup services that should be booked in advance of arrival. The road from the airport to town can be rough, so 4x4 vehicles are common, though flying in avoids the long and arduous overland journey entirely.",
+  "local_tip": "Book morning flights whenever possible—afternoon weather in the Osa Peninsula can shift quickly, causing delays or cancellations, and early arrivals maximize your first full day for park excursions.",
+  "generatedAt": "2026-06-27T14:17:50.277Z",
+  "model": "MiniMax-M3"
+}

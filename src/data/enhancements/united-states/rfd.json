@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RFD",
+    "icao": "KRFD",
+    "name": "Chicago Rockford International Airport",
+    "country": "United States",
+    "city": "Chicago/Rockford",
+    "lat": 42.1954,
+    "lon": -89.0972,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Chicago Rockford International Airport (RFD) is a medium-sized airport located about 85 miles northwest of downtown Chicago in Rockford, Illinois. Originally known as Greater Rockford Airport, it has grown into a significant cargo hub, notably serving as a major base for UPS Airlines operations. The airport offers a convenient alternative to Chicago's busier O'Hare and Midway airports for travelers in northern Illinois and southern Wisconsin.",
+  "faqs": "Q: How far is Chicago Rockford International Airport from downtown Chicago?\nA: The airport is approximately 85 miles northwest of downtown Chicago, roughly a 1.5 to 2-hour drive depending on traffic.\n\nQ: Does RFD offer commercial passenger service?\nA: Yes, RFD offers limited commercial passenger flights, primarily through low-cost carriers like Allegiant Air, serving leisure destinations.\n\nQ: Is the airport a major cargo facility?\nA: Yes, RFD is one of the largest air cargo hubs in the United States, with UPS Airlines operating a major regional sorting facility there.\n\nQ: Are there amenities for passengers with long layovers?\nA: The terminal offers basic amenities including dining options, Wi-Fi, and a small selection of shops, though it is not as extensive as larger hub airports.",
+  "transport_tips": "Rental cars are available at the terminal and are the most convenient option given the airport's distance from major urban centers. Amtrak and intercity bus services operate from Rockford, with connections to Chicago. Ride-sharing services like Uber and Lyft serve the airport, though availability may be limited during off-peak hours.",
+  "local_tip": "If you're heading to Chicago after a flight, check the I-90 traffic conditions before leaving—the drive can extend to over 2.5 hours during rush hour or holiday weekends.",
+  "generatedAt": "2026-06-29T03:05:19.005Z",
+  "model": "MiniMax-M3"
+}

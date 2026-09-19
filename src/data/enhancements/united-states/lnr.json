@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LNR",
+    "icao": "KLNR",
+    "name": "Tri-County Regional Airport",
+    "country": "United States",
+    "city": "Spring Green",
+    "lat": 43.2099,
+    "lon": -90.1813,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Tri-County Regional Airport (LNR) is a small general aviation facility located in Spring Green, Wisconsin, serving Iowa, Richland, and Sauk counties in the scenic Driftless Region of southwestern Wisconsin. The airport provides convenient access to the historic village of Spring Green, famous as the home of Frank Lloyd Wright's Taliesin estate and the architect's school of architecture. It primarily supports private pilots, flight training, and recreational flying with no scheduled commercial service.",
+  "faqs": "Q: Does Tri-County Regional Airport offer commercial airline service?\nA: No, LNR is a general aviation airport with no scheduled commercial flights. Travelers must use commercial airports such as Dane County Regional Airport (MSN) in Madison for commercial service.\n\nQ: Where is the airport located?\nA: The airport is situated near Spring Green, Wisconsin, roughly 50 miles west of Madison, in the heart of the Driftless Region known for its rolling hills and river valleys.\n\nQ: What facilities are available at the airport?\nA: The airport features a single runway, tie-down areas, hangar space, and basic pilot services. It supports small private aircraft and flight training operations.\n\nQ: Is the airport named after three specific counties?\nA: Yes, it serves the tri-county area of Iowa, Richland, and Sauk counties in southwestern Wisconsin.",
+  "transport_tips": "Access to the airport is primarily by personal vehicle, as there is no public transportation serving the facility. The airport is located just off Highway 14, making it an easy drive from Madison or the Wisconsin Dells area. Rental car services are not available on-site, so visitors should arrange ground transportation in advance.",
+  "local_tip": "After flying in, take a short drive into Spring Green to tour Frank Lloyd Wright's Taliesin estate and the Hillside Home School—both are within minutes of the airport and offer guided tours that are a must for architecture enthusiasts.",
+  "generatedAt": "2026-06-27T03:38:00.499Z",
+  "model": "MiniMax-M3"
+}

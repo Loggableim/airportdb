@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HMA",
+    "icao": "USHH",
+    "name": "Khanty Mansiysk Airport",
+    "country": "Russia",
+    "city": "Khanty-Mansiysk",
+    "lat": 61.0285,
+    "lon": 69.0861,
+    "type": "medium_airport",
+    "size": 550
+  },
+  "summary": "Khanty-Mansiysk Airport (HMA) serves the administrative capital of Khanty-Mansi Autonomous Okrug (Yugra), a major oil and gas region in Western Siberia. Situated near the confluence of the Ob and Irtysh rivers, the airport is a vital transportation link for this remote industrial hub and gateway to the Siberian taiga. It handles regional flights primarily connecting to Moscow, Tyumen, and other Russian cities.",
+  "faqs": "Q: What is the main purpose of Khanty-Mansiysk Airport?\nA: The airport primarily serves the oil and gas industry workers traveling to the Khanty-Mansiysk region, along with regional passenger traffic and charter services.\n\nQ: Are there international flights from HMA?\nA: The airport operates mainly domestic routes to Russian cities such as Moscow, Tyumen, and Yekaterinburg, with limited international charter services.\n\nQ: How far is the airport from the city center?\nA: Khanty-Mansiysk Airport is located approximately 5-8 kilometers southeast of the city center, making for a relatively short transfer.\n\nQ: What weather should travelers expect?\nA: The region has a subarctic climate with extremely cold winters reaching -40°C and short, mild summers, so travelers should prepare accordingly.",
+  "transport_tips": "Taxis and pre-booked transfer services are the most reliable way to reach the airport, as public bus connections are limited and infrequent. During winter months, allow extra time for travel as road conditions can be challenging due to ice and snow. Car rentals are available but require advance booking, especially during peak winter season.",
+  "local_tip": "If you have a long layover or early morning flight, the nearby Sosva Wildlife Preserve and local museums offer a glimpse into indigenous Khanty and Mansi cultures unique to this part of Siberia.",
+  "generatedAt": "2026-06-29T17:54:39.064Z",
+  "model": "MiniMax-M3"
+}

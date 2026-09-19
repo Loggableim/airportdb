@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PIR",
+    "icao": "KPIR",
+    "name": "Pierre Regional Airport",
+    "country": "United States",
+    "city": "Pierre",
+    "lat": 44.3827,
+    "lon": -100.286,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Pierre Regional Airport serves the capital city of Pierre, South Dakota, and the surrounding central South Dakota region. It functions as a key transportation link for state government officials, agricultural travelers, and tourists heading to the Missouri River area. The airport supports general aviation and scheduled commercial service, connecting this relatively remote region to larger hubs.",
+  "faqs": "Q: What is the IATA code for Pierre Regional Airport?\nA: The IATA code is PIR, and the ICAO code is KPIR.\n\nQ: Does Pierre Regional Airport offer commercial flights?\nA: Yes, it offers scheduled commercial service primarily to Denver and Minneapolis, though the route network is limited.\n\nQ: Where is the airport located relative to downtown Pierre?\nA: The airport is situated a few miles east of downtown Pierre, offering quick access to the state capitol and city center.\n\nQ: Are there customs facilities at Pierre Regional Airport?\nA: No, there are no CBP customs or immigration facilities, as it does not serve international flights.",
+  "transport_tips": "Rental cars are available at the airport and are the most convenient way to reach Pierre and surrounding areas, as public transit options are limited. Taxi services and rideshare options may be available but should be arranged in advance. The short drive into Pierre takes only about 10 minutes via US-83.",
+  "local_tip": "If you have a layover or extra time, the South Dakota Cultural Heritage Center near the capitol offers free exhibits on the state's history and Native American heritage, and is only minutes from the airport.",
+  "generatedAt": "2026-06-29T04:29:22.066Z",
+  "model": "MiniMax-M3"
+}

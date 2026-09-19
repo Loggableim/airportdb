@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SPY",
+    "icao": "DISP",
+    "name": "San Pedro Airport",
+    "country": "Côte d'Ivoire",
+    "city": "",
+    "lat": 4.7467,
+    "lon": -6.6608,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "San Pedro Airport (SPY) serves the port city of San Pedro, a key economic center in southwestern Côte d'Ivoire recognized for cocoa, palm oil, and timber exports. The airport supports regional air connectivity in the Bas-Sassandra District, a region known for its coastal rainforests and proximity to the Taï National Park. It primarily accommodates domestic and regional flights linking the southwest to Abidjan and other West African destinations.",
+  "faqs": "Q: What is the airport code for San Pedro Airport?\nA: San Pedro Airport has the IATA code SPY and the ICAO code DISP.\n\nQ: Where is San Pedro Airport located?\nA: The airport is situated in the southwestern region of Côte d'Ivoire, serving the port city of San Pedro near the Atlantic coast.\n\nQ: What flights operate from San Pedro Airport?\nA: The airport primarily handles domestic flights, with regular service to Abidjan, as well as occasional regional charter operations.\n\nQ: Is San Pedro Airport open to international flights?\nA: It is classified as a medium airport with regional capability, primarily serving domestic routes with limited international charter activity.\n\n",
+  "transport_tips": "The airport is located a short drive from central San Pedro, typically reached in about 10 to 15 minutes by taxi. Metered taxis and hotel-arranged transfers are the most common ground transport options, as ride-sharing services are limited in this region. Travelers heading further afield to destinations like Taï National Park should arrange private transport in advance.",
+  "local_tip": "If you have a layover or free time, visit the nearby historic Saint-Pierre quarter to experience traditional Bété culture and grab fresh grilled fish at the local beachfront stalls overlooking the Atlantic.",
+  "generatedAt": "2026-06-29T21:08:28.640Z",
+  "model": "MiniMax-M3"
+}

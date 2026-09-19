@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BUV",
+    "icao": "SUBU",
+    "name": "Placeres Airport",
+    "country": "Uruguay",
+    "city": "Bella Union",
+    "lat": -30.3198,
+    "lon": -57.5588,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Placeres Airport (BUV/SUBU) is a small regional airport serving Bella Union, a city in Uruguay's northern Artigas Department near the borders with Brazil and Argentina. It primarily handles general aviation and occasional charter flights supporting the region's agricultural economy, which centers on sugar cane, rice, and citrus production. The airport provides important connectivity for one of Uruguay's most remote inland communities.",
+  "faqs": "Q: What type of flights operate from Placeres Airport?\nA: The airport mainly handles general aviation, private aircraft, and occasional charter flights rather than scheduled commercial service.\n\nQ: How far is the airport from Bella Union city center?\nA: Placeres Airport is located a short drive from Bella Union's town center, with the surrounding rural landscape making the route straightforward.\n\nQ: Are there airline ticket counters or regular check-in facilities?\nA: As a small regional airfield, the airport has limited passenger infrastructure and no full-service airline counters; travelers typically arrange flights directly with charter operators.\n\nQ: Is the airport used for cargo operations?\nA: Yes, the airport supports light cargo activity tied to the agricultural industry of northern Uruguay, particularly during harvest seasons.",
+  "transport_tips": "Travelers typically reach the airport by taxi or private vehicle, as public transit options in this rural border region are limited. Hiring a local driver familiar with the area is often the most reliable way to ensure timely arrival, especially for early morning departures. Car rental agencies are generally unavailable at the airport itself, so arranging ground transport in Bella Union town in advance is recommended.",
+  "local_tip": "If visiting Bella Union, take time to explore the nearby Cuareim River frontier area, where you can experience the unique tri-border cultural blend of Uruguay, Brazil, and Argentina in a single day trip.",
+  "generatedAt": "2026-06-27T18:10:22.667Z",
+  "model": "MiniMax-M3"
+}

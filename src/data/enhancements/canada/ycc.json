@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YCC",
+    "icao": "CYCC",
+    "name": "Cornwall Regional Airport",
+    "country": "Canada",
+    "city": "Cornwall",
+    "lat": 45.0926,
+    "lon": -74.5677,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Cornwall Regional Airport (YCC) is a medium-sized public airport serving Cornwall, Ontario, located near the city's eastern edge close to the Quebec border and the St. Lawrence River. It functions as a general aviation and charter facility for the Seaway Valley region, supporting private aircraft, flight training, and occasional scheduled services. The airport plays a supporting role for businesses and visitors traveling between eastern Ontario and the broader Quebec–Ottawa corridor.",
+  "faqs": "Q: Where is Cornwall Regional Airport located?\nA: The airport is situated approximately 3 km east of downtown Cornwall, Ontario, Canada, near the Quebec border along the St. Lawrence River.\n\nQ: Does Cornwall Regional Airport offer scheduled commercial flights?\nA: Scheduled passenger service is very limited or absent; the airport primarily serves general aviation, charter flights, and flight training operations.\n\nQ: Is there an on-site terminal or customs facility?\nA: The airport has basic terminal facilities for general aviation and is equipped to handle cross-border flights, though travelers should confirm customs availability with their operator in advance.\n\nQ: What kind of aircraft use Cornwall Regional Airport?\nA: The airport primarily accommodates small to mid-size private aircraft, business jets, and training aircraft typical of a regional general aviation field.",
+  "transport_tips": "The airport is a short drive from downtown Cornwall via Pitt Street and the local road network, with travel times typically under 10 minutes by car. Taxi services and pre-arranged rideshares are the most practical options, as there is no scheduled public transit serving the terminal. Visitors arriving by rental car will find the airport conveniently located just off Highway 401 connections.",
+  "local_tip": "Frequent visitors recommend calling ahead to confirm runway conditions and fuel availability, as services at YCC are often on an on-demand basis rather than fully staffed around the clock.",
+  "generatedAt": "2026-06-30T05:03:16.870Z",
+  "model": "MiniMax-M3"
+}

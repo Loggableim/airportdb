@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PEI",
+    "icao": "SKPE",
+    "name": "Matecaña International Airport",
+    "country": "Colombia",
+    "city": "Pereira",
+    "lat": 4.8127,
+    "lon": -75.7395,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Matecaña International Airport (PEI) serves Pereira, the capital of the Risaralda department in Colombia's renowned coffee-growing Eje Cafetero region. It functions as the primary air gateway to the UNESCO-listed Coffee Cultural Landscape and serves millions of passengers annually with modernized domestic and limited international services. The airport is named after a local figure and sits at an elevation that contributes to typically clear weather conditions favored by regional travelers.",
+  "faqs": "Q: What is Matecaña Airport primarily known for serving?\nA: It is the main airport for the Coffee Triangle region, including Pereira, Manizales, and Armenia, providing access to the UNESCO Coffee Cultural Landscape.\n\nQ: Does Matecaña Airport have international flights?\nA: Yes, it offers a limited number of international flights to nearby destinations such as Panama City, while most operations are domestic.\n\nQ: How far is the airport from Pereira city center?\nA: The airport is conveniently located only about 5 kilometers from downtown Pereira, making it one of the more accessible urban airports in Colombia.\n\nQ: Is the airport affected by weather delays?\nA: Pereira's location in the coffee region offers generally favorable weather, but afternoon mountain storms can occasionally cause delays.",
+  "transport_tips": "The easiest way to reach downtown Pereira is by taxi, with the trip taking roughly 15 minutes from the airport terminal. Official airport taxis are recommended for safety, and rideshare apps like DiDi also operate in the area. Renting a car at the airport is a popular option for travelers planning to explore the surrounding coffee region and nearby towns like Salento and Filandia.",
+  "local_tip": "The observation terrace area and the arrivals hall offer excellent views of the surrounding Cauca Valley and the central Andes; take a moment to look toward the western horizon where the mountains create stunning sunset silhouettes.",
+  "generatedAt": "2026-06-29T08:27:38.576Z",
+  "model": "MiniMax-M3"
+}

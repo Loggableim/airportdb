@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RDU",
+    "icao": "KRDU",
+    "name": "Raleigh-Durham International Airport",
+    "country": "United States",
+    "city": "Raleigh/Durham",
+    "lat": 35.8787,
+    "lon": -78.7873,
+    "type": "large_airport",
+    "size": 1011675
+  },
+  "summary": "Raleigh-Durham International Airport (RDU) serves the Research Triangle region of North Carolina, situated roughly midway between the cities of Raleigh and Durham. As the gateway to Research Triangle Park—one of the largest research and technology corridors in the United States—the airport connects the region to major domestic and international destinations. The airport features two terminals, with Terminal 2 having undergone significant modernization to accommodate growing passenger demand.",
+  "faqs": "Q: How far is RDU from downtown Raleigh and Durham?\nA: RDU is approximately 15 miles from downtown Raleigh and about 12 miles from downtown Durham, with typical drive times of 20–30 minutes depending on traffic.\n\nQ: Does RDU offer international flights?\nA: Yes, RDU offers nonstop flights to several international destinations, including cities in Canada, Mexico, the Caribbean, and select European routes, along with customs and immigration facilities.\n\nQ: How many terminals does RDU have?\nA: RDU has two terminals—Terminal 1 and Terminal 2—with Terminal 2 serving most major airlines and offering the airport's most modern amenities.\n\nQ: Is there free Wi-Fi available at RDU?\nA: Yes, RDU provides complimentary Wi-Fi throughout both terminals for all passengers.",
+  "transport_tips": "RDU is conveniently located near Interstate 40 and the Triangle Expressway (NC-540), making it accessible by car with several on-site parking options including economy, hourly, and premium decks. Rideshare services like Uber and Lyft, as well as local taxis, operate from designated pickup zones outside each terminal. The GoTriangle Route 100 bus offers an affordable public transit option connecting the airport to Raleigh and Durham.",
+  "local_tip": "If you have a layover or extra time, the airport showcases rotating North Carolina art exhibits and offers local dining options—look for North Carolina barbecue or craft beer from regional breweries to get an authentic taste of the state before you even leave the terminal.",
+  "generatedAt": "2026-06-28T15:19:08.994Z",
+  "model": "MiniMax-M3"
+}

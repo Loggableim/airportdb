@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FSM",
+    "icao": "KFSM",
+    "name": "Fort Smith Regional Airport",
+    "country": "United States",
+    "city": "Fort Smith",
+    "lat": 35.3366,
+    "lon": -94.3674,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Fort Smith Regional Airport (FSM) serves the Fort Smith metropolitan area in western Arkansas, near the Oklahoma border. The airport sits along the Arkansas River and provides essential regional air service to a region rich in Old West frontier history, including the historic site of the former U.S. District Court for the Western District of Arkansas. It functions as a key gateway for both business travelers and tourists visiting the scenic Ozark region.",
+  "faqs": "Q: How far is Fort Smith Regional Airport from downtown Fort Smith?\nA: The airport is located approximately 7 miles southeast of downtown Fort Smith, a short 15-minute drive via Interstate 540.\n\nQ: What airlines operate at Fort Smith Regional Airport?\nA: The airport is primarily served by regional carriers offering connections to major hub airports, with service typically including American Eagle and other regional partners.\n\nQ: Does the airport have a control tower?\nA: Yes, Fort Smith Regional Airport has an FAA-operated air traffic control tower operating during published hours.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers both short-term and long-term parking options conveniently located adjacent to the terminal building.\n\n",
+  "transport_tips": "Rental cars are available at the terminal and are the most convenient way to reach destinations in the surrounding region, as public transit options are limited. Taxis and rideshare services can be arranged in advance, as on-demand availability may be limited for arriving flights. The airport's proximity to I-540/I-49 makes it an easy drive to both downtown Fort Smith and nearby destinations in eastern Oklahoma.",
+  "local_tip": "If you have a layover or extra time, the Fort Smith National Historic Site downtown is worth a visit—it preserves the courtroom where 'Hanging Judge' Isaac Parker presided and offers free admission to the restored 1840s fort.",
+  "generatedAt": "2026-06-29T03:04:36.071Z",
+  "model": "MiniMax-M3"
+}

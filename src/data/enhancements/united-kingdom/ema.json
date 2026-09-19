@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EMA",
+    "icao": "EGNX",
+    "name": "East Midlands Airport",
+    "country": "United Kingdom",
+    "city": "Nottingham, Leicestershire",
+    "lat": 52.8311,
+    "lon": -1.3281,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "East Midlands Airport (EMA) is a major international gateway serving the central English cities of Nottingham, Derby, and Leicester, situated in Castle Donington, Leicestershire. Originally developed as RAF Castle Donington during World War II, it transitioned to civilian use in the 1960s and has since become one of the UK's busiest airports for dedicated air cargo operations, particularly for DHL and Royal Mail. The airport combines passenger services with extensive freight facilities, making it a key logistics hub for the East Midlands region.",
+  "faqs": "Q: How far is East Midlands Airport from Nottingham city centre?\nA: Nottingham is approximately 13 miles (21 km) east of the airport, typically a 25-35 minute drive depending on traffic conditions via the A42 and M1 motorway.\n\nQ: Which airlines operate from East Midlands Airport?\nA: The airport hosts a mix of scheduled and charter carriers including Ryanair, easyJet, Jet2, TUI, and DHL for cargo operations, serving primarily European leisure destinations.\n\nQ: Is East Midlands Airport the same as Nottingham Airport?\nA: Yes, East Midlands Airport is commonly referred to as Nottingham East Midlands Airport, though it is actually located in Leicestershire rather than Nottinghamshire itself.\n\nQ: Does East Midlands Airport have direct rail connections?\nA: There is no direct rail line to the airport terminal, but the nearby East Midlands Parkway station offers connecting Skylink bus services and is linked to the national rail network.",
+  "transport_tips": "The airport is well-connected by road, sitting just off the M1 motorway at Junction 23A, making it easily accessible from across the Midlands. The Skylink bus service provides 24-hour connections to Nottingham, Derby, and Leicester, with journeys taking around 30-45 minutes depending on destination. Taxis and ride-sharing services are readily available at the terminal, though pre-booking is recommended for early morning or late-night flights.",
+  "local_tip": "If you have a long layover or arrive early, the Donington Park Grand Prix Collection museum is just minutes from the airport and houses one of the world's largest collections of Grand Prix racing cars, perfect for motorsport enthusiasts with",
+  "generatedAt": "2026-06-28T18:29:32.939Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YZG",
+    "icao": "CYZG",
+    "name": "Salluit Airport",
+    "country": "Canada",
+    "city": "Salluit",
+    "lat": 62.1794,
+    "lon": -75.6672,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Salluit Airport (YZG) is a small regional airport serving the Inuit community of Salluit in the Nunavik region of northern Quebec, Canada. Located near the coast of Hudson Strait, it provides a vital transportation link for this remote Arctic village, which is the second northernmost Inuit community in Quebec. The airport operates primarily as a hub for connecting flights to larger centers like Kuujjuaq and Montreal.",
+  "faqs": "Q: What airlines serve Salluit Airport?\nA: Air Inuit is the primary carrier operating scheduled flights to and from Salluit Airport, connecting the community with Kuujjuaq and onward to Montreal and other southern destinations.\n\nQ: How far is the airport from the village of Salluit?\nA: The airport is located a short distance from the village center, typically just a few minutes by vehicle.\n\nQ: What is the runway like at Salluit Airport?\nA: The airport features a single gravel runway suited for turboprop aircraft, which are necessary for operations in this remote Arctic environment.\n\nQ: When is the best time to fly to Salluit?\nA: The airport operates year-round, but weather conditions can cause delays in any season; summer and early fall generally offer the most reliable flying conditions.",
+  "transport_tips": "There is no road connecting Salluit to southern Quebec, so air travel via Salluit Airport is essentially the only way to reach the community by conventional means. Local taxi services and ride arrangements through the airline or accommodations are typically used for ground transportation. Passengers should confirm ground transport options in advance as services are limited.",
+  "local_tip": "Pack warm layers even in summer—temperatures can drop significantly, and the airport terminal is basic, so having extra clothing and snacks for potential weather delays is wise.",
+  "generatedAt": "2026-06-26T15:22:36.768Z",
+  "model": "MiniMax-M3"
+}

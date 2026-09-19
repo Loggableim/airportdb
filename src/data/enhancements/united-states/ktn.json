@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KTN",
+    "icao": "PAKT",
+    "name": "Ketchikan International Airport",
+    "country": "United States",
+    "city": "Ketchikan",
+    "lat": 55.3556,
+    "lon": -131.714,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ketchikan International Airport (KTN) serves as the primary gateway to the southeastern Alaska panhandle, located on Gravina Island across a short channel from downtown Ketchikan. The airport is a vital link for communities along the Inside Passage and handles a mix of jet service and seaplane traffic typical of the region. Surrounded by dense temperate rainforest and rugged coastline, it offers passengers immediate access to one of Alaska's most scenic and salmon-rich areas.",
+  "faqs": "Q: What airlines serve Ketchikan International Airport?\nA: Alaska Airlines operates mainline jet service from Ketchikan, connecting the city to Seattle and other Southeast Alaska hubs. Smaller regional carriers and bush operators also provide flights to nearby communities.\n\nQ: How do I get from the airport to downtown Ketchikan?\nA: The airport sits on Gravina Island, and passengers typically cross to Revillagigedo Island via the nearby bridge or a short ferry ride to reach Ketchikan's downtown waterfront.\n\nQ: Is Ketchikan International Airport open 24 hours?\nA: The airport operates scheduled commercial flights primarily during daylight hours, typical of regional Southeast Alaska airports. Check with your airline for specific operating times.\n\nQ: Does the airport have rental cars available?\nA: Yes, rental car counters are available in the terminal for travelers who want to explore the area independently.\n\n",
+  "transport_tips": "Rental cars are available at the terminal and are useful for exploring Ketchikan and surrounding areas at your own pace. The airport is a short drive from the Ketchikan ferry terminal, where the Alaska Marine Highway connects to other panhandle communities. Many visitors pre-arrange hotel shuttles or taxis since the airport's small size means limited walk-up transportation options.",
+  "local_tip": "Pack a light rain jacket even in summer—Ketchikan receives heavy annual rainfall due to its rainforest climate, and the short walk between parking and the terminal can get surprisingly wet.",
+  "generatedAt": "2026-06-29T04:13:13.084Z",
+  "model": "MiniMax-M3"
+}

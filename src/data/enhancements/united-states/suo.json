@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SUO",
+    "icao": "",
+    "name": "Sunriver Airport",
+    "country": "United States",
+    "city": "Sunriver",
+    "lat": 43.8763,
+    "lon": -121.453,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Sunriver Airport (SUO) is a small general aviation facility serving the resort community of Sunriver in central Oregon. Nestled among pine forests near the Cascade Range, it primarily accommodates private and recreational aircraft visiting the popular Sunriver Resort area. The airport provides convenient access to nearby attractions including Mt. Bachelor, the Deschutes River, and the high desert communities of Bend and Sisters.",
+  "faqs": "Q: What types of aircraft use Sunriver Airport?\nA: Sunriver Airport primarily serves single-engine private planes, recreational aircraft, and small charter flights. It is not equipped for large commercial airliners.\n\nQ: Are there commercial flights available at SUO?\nA: No, Sunriver Airport does not offer scheduled commercial airline service. Travelers typically fly into Redmond Municipal Airport (RDM) about 30 miles north for commercial flights.\n\nQ: Is the airport open to the public?\nA: Yes, the airport is open to public use, though pilots should check current conditions and NOTAMs before arrival as it is an uncontrolled field.\n\nQ: Does Sunriver Airport have fuel services?\nA: Fuel availability may vary; pilots are advised to contact the airport operator or check with Fixed Base Operators in advance for current fuel availability.",
+  "transport_tips": "Sunriver Airport is located within the Sunriver Resort community, making it a short drive from most resort lodging and vacation rentals. Rental cars are available through local providers in Sunriver and nearby Bend, though advance reservations are recommended during peak summer and ski seasons. Without a car, rideshare services and taxi operators in the greater Bend area can provide transportation, though availability may be limited.",
+  "local_tip": "If you're flying in, request a flyover of the Three Sisters peaks before landing—the volcanic skyline offers one of the most scenic approaches in the Pacific Northwest, especially on clear summer mornings.",
+  "generatedAt": "2026-06-27T01:14:51.278Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NCE",
+    "icao": "LFMN",
+    "name": "Nice-Côte d'Azur Airport",
+    "country": "France",
+    "city": "Nice, Alpes-Maritimes",
+    "lat": 43.6584,
+    "lon": 7.2159,
+    "type": "large_airport",
+    "size": 51475
+  },
+  "summary": "Nice-Côte d'Azur Airport (NCE) is the principal gateway to the French Riviera, serving the cities of Nice, Cannes, Monaco, and Saint-Tropez. As the third-busiest airport in France, it handles around 14 million passengers annually and operates with two terminals that straddle the border between Nice and Saint-Laurent-du-Var. Its dramatic coastal setting, with runways extending close to the Mediterranean Sea, makes arrivals and departures particularly scenic.",
+  "faqs": "Q: How far is Nice Airport from the city center?\nA: Nice-Côte d'Azur Airport is approximately 6 km southwest of Nice's city center, with a typical journey time of 15-20 minutes by car or tram.\n\nQ: Is there public transport available at Nice Airport?\nA: Yes, Tram Line 2 connects Terminal 1 and Terminal 2 to central Nice, and bus services run to Monaco, Cannes, and other Riviera destinations.\n\nQ: Does Nice Airport have two terminals?\nA: Yes, Terminal 1 and Terminal 2 are connected by a free shuttle bus and a pedestrian walkway. Most low-cost carriers use Terminal 2.\n\nQ: Can you see the sea from the airport?\nA: Absolutely. The airport sits directly on the Mediterranean coast, and on clear days you can see the turquoise waters from the terminals and even during takeoff.",
+  "transport_tips": "Tram Line 2 is the most affordable way to reach central Nice in about 25 minutes. For Monaco, take the bus route 110, which runs along the scenic coastal road and takes roughly 45 minutes. Taxis to central Nice have a fixed fare of around 30-35 euros, but always confirm the price before starting your journey.",
+  "local_tip": "If you have a long layover, take Tram Line 2 to the Jean Médecin stop and walk a few blocks to Place Masséna—Nice's main square with stunning Italianate architecture and the Promenade du Vieux Nice just minutes away, perfect for a quick espresso or socca snack.",
+  "generatedAt": "2026-06-28T15:40:16.330Z",
+  "model": "MiniMax-M3"
+}

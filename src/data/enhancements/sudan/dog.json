@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DOG",
+    "icao": "HSDN",
+    "name": "Dongola Airport",
+    "country": "Sudan",
+    "city": "Dongola",
+    "lat": 19.1537,
+    "lon": 30.4301,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Dongola Airport (DOG/HSDN) is a medium-sized regional airport serving the historic city of Dongola in Sudan's Northern State, situated along the Nile River in the heart of ancient Nubia. The airport primarily handles domestic flights and serves as a gateway to one of Sudan's most historically significant regions, once the capital of the Christian Nubian Kingdom of Makuria. Travelers arriving here are within reach of archaeological sites dating back thousands of years, including medieval Nubian ruins in the surrounding desert landscape.",
+  "faqs": "Q: What is the main purpose of Dongola Airport?\nA: Dongola Airport primarily serves domestic flights connecting Northern State with Sudan's capital Khartoum and other regional destinations, supporting both local travel and tourism to ancient Nubian sites.\n\nQ: Does Dongola Airport offer international flights?\nA: No, Dongola Airport currently operates as a domestic facility with limited international service, as most international travelers enter Sudan through Khartoum International Airport.\n\nQ: How far is the airport from Dongola's city center?\nA: The airport is located just a few kilometers from the city center, making access relatively quick by road.\n\nQ: Are there ATMs and currency exchange at the airport?\nA: Facilities at the airport are minimal; travelers are advised to arrange Sudanese pounds in advance at larger cities before arriving.",
+  "transport_tips": "Taxis and shared vehicles are typically available outside the terminal and serve as the primary means of transport to and from the airport. Roads connecting the airport to Dongola town are generally in fair condition but can be challenging after seasonal rains. Travelers should confirm return transport in advance, as ride availability may be limited during off-peak hours.",
+  "local_tip": "Visit the nearby ruins of Old Dongola, the ancient capital of the Makurian Kingdom—you can hire a local guide in town who often doubles as a driver to the archaeological sites for a more enriching experience than traveling alone.",
+  "generatedAt": "2026-06-29T12:29:46.623Z",
+  "model": "MiniMax-M3"
+}

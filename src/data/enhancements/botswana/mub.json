@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MUB",
+    "icao": "FBMN",
+    "name": "Maun International Airport",
+    "country": "Botswana",
+    "city": "Maun",
+    "lat": -19.9705,
+    "lon": 23.4314,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Maun International Airport is the primary gateway to Botswana's iconic Okavango Delta and serves as the country's busiest airport for tourism traffic. Originally established as a small bush airstrip, it has grown into a major regional hub handling both scheduled airlines and numerous safari charter operators. Its strategic location makes it an essential starting point for travelers heading to the delta's luxury lodges and wildlife reserves.",
+  "faqs": "Q: How far is the airport from Maun town center?\nA: The airport is approximately 3 km (about 2 miles) from the town center, a short 5-10 minute drive.\n\nQ: Are there direct international flights to Maun?\nA: Maun receives direct flights from several African cities including Johannesburg, Cape Town, and Windhoek, as well as Victoria Falls, though most long-haul international travelers connect through these hubs.\n\nQ: Is the airport the main entry point to the Okavango Delta?\nA: Yes, Maun is the primary gateway to the Okavango Delta, with most visitors transferring to small charter planes here for their safari lodges.\n\nQ: Does the airport have a terminal for charter flights?\nA: The airport handles both commercial and charter flights, with a dedicated area for light aircraft and safari transfer operations.",
+  "transport_tips": "Taxis and shuttle services are available outside the terminal and can be arranged in advance through your lodge. Rental car agencies operate at the airport for those planning self-drive safaris to nearby reserves like Moremi and Savuti. Many lodges include scheduled transfers, so confirm pickup arrangements before arrival.",
+  "local_tip": "If you have a connecting charter flight to a safari camp, build in at least a 2-3 hour buffer between your arrival and the small plane departure, as bush flights are weather-dependent and often delayed during the rainy season.",
+  "generatedAt": "2026-06-28T20:44:03.819Z",
+  "model": "MiniMax-M3"
+}

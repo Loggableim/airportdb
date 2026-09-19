@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BYA",
+    "icao": "",
+    "name": "Boundary Airport",
+    "country": "United States",
+    "city": "Boundary",
+    "lat": 64.0777,
+    "lon": -141.1221,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Boundary Airport (BYA) is a small public-use airport serving the remote community of Boundary in eastern Alaska, near the Canadian border along the Yukon River. The airport provides essential access for residents, bush pilots, and travelers exploring this isolated part of the state. Given the rugged terrain and sparse road infrastructure in the region, air travel is a critical lifeline for the community.",
+  "faqs": "Q: What type of aircraft can use Boundary Airport?\nA: As a small airport with a modest size score, Boundary Airport primarily serves small single-engine and bush planes suited to remote Alaskan conditions.\n\nQ: Is Boundary Airport open year-round?\nA: Small Alaskan airports like this typically operate year-round, though winter conditions can affect flight schedules and accessibility.\n\nQ: Are there commercial flights to Boundary Airport?\nA: Given the small size and remote location, scheduled commercial service is unlikely; flights are generally charter or private operations.\n\nQ: Where is Boundary Airport located?\nA: It is situated in eastern Alaska near the Yukon border, in one of the most sparsely populated regions of the United States.\n\n",
+  "transport_tips": "Travelers to Boundary Airport should arrange transportation in advance, as the remote location offers limited ground transit options. Many visitors arrive via charter or bush plane from larger Alaskan hubs like Fairbanks. Given the lack of road infrastructure in the area, flying is essentially the only practical way to reach the airport.",
+  "local_tip": "Pack warm layers regardless of the season—eastern Alaska near the Canadian border can experience significant temperature swings, and the remote location means limited access to supplies once you arrive.",
+  "generatedAt": "2026-06-27T11:57:43.901Z",
+  "model": "MiniMax-M3"
+}

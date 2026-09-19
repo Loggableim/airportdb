@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VKO",
+    "icao": "UUWW",
+    "name": "Vnukovo International Airport",
+    "country": "Russia",
+    "city": "Moscow",
+    "lat": 55.5915,
+    "lon": 37.2615,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Vnukovo International Airport (VKO) is one of Moscow's three major airports, located approximately 28 km southwest of the city center in the eponymous district. Originally opened in 1941 as a military airfield, it became Moscow's first dedicated civilian airport and historically served as a key hub for government and VIP travel. Today it operates as a single modern Terminal A complex and serves as a major base for low-cost carrier Pobeda and Utair, handling both domestic and international flights.",
+  "faqs": "Q: How far is Vnukovo Airport from central Moscow?\nA: Vnukovo is located about 28 km (17 miles) southwest of central Moscow, with typical journey times of 40-90 minutes depending on traffic.\n\nQ: Which airlines operate from Vnukovo?\nA: Vnukovo is a main hub for Pobeda and Utair, and also serves airlines such as Turkish Airlines, Lufthansa, FlyOne, and several other carriers operating routes to Europe, the Middle East, and Central Asia.\n\nQ: Does Vnukovo Airport have a metro station?\nA: There is no direct metro station at the airport terminal, but the nearby Filatov Lug station on the Sokolnicheskaya Line connects to an airport shuttle bus.\n\nQ: How many terminals does Vnukovo have?\nA: Vnukovo operates a single integrated passenger terminal (Terminal A) that handles all domestic and international flights.\n\n",
+  "transport_tips": "The Aeroexpress train connects Vnukovo to Kievsky Railway Station in central Moscow in roughly 35-40 minutes and is the most reliable option to avoid traffic. Official taxis and ride-hailing apps like Yandex Go can be pre-booked at fixed fares from designated ranks inside the terminal. During rush hours, allow at least two hours for the road journey to or from the city center.",
+  "local_tip": "Frequent travelers recommend arriving by Aeroexpress rather than road transport, as Moscow traffic around the MKAD ring road near Vnukovo can be unpredictable, and the train runs on a strict schedule regardless of congestion.",
+  "generatedAt": "2026-06-28T19:05:28.688Z",
+  "model": "MiniMax-M3"
+}

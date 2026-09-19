@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TMJ",
+    "icao": "UZST",
+    "name": "Termez Airport",
+    "country": "Uzbekistan",
+    "city": "Termez",
+    "lat": 37.2873,
+    "lon": 67.3119,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Termez Airport (TMJ/UTST) is a medium-sized regional airport serving the southernmost city of Uzbekistan, located along the Amu Darya River near the border with Afghanistan. It functions as an important gateway for travelers visiting the ancient archaeological sites of the Surkhandarya region and the Buddhist heritage of Kartepe and Fayaz Tepa. The airport also supports military and humanitarian operations given its proximity to the Afghan border.",
+  "faqs": "Q: How far is Termez Airport from the city center?\nA: The airport is located approximately 15 km northwest of Termez city center, typically a 20-25 minute drive.\n\nQ: Does Termez Airport offer international flights?\nA: Yes, it serves a limited number of international routes, primarily to Russia and a few other destinations, along with domestic connections to Tashkent.\n\nQ: What facilities are available at Termez Airport?\nA: The terminal offers basic amenities including a small café, currency exchange, and car rental services, though facilities are limited compared to major Uzbek airports.\n\nQ: Are there flights to Tashkent from Termez?\nA: Yes, Uzbekistan Airways operates regular domestic flights between Termez and Tashkent, typically lasting about 1.5 hours.\n\n",
+  "transport_tips": "Taxis are the most common way to reach the airport; negotiate the fare beforehand as meters are rarely used. Shared marshrutka (minibus) services run along the main road from the city but do not enter the airport grounds. Arranging a hotel transfer in advance is recommended for early morning or late evening flights.",
+  "local_tip": "If you have a long layover or early arrival, visit the nearby Zurmala Stupa and the archaeological museum in Termez—they are among the oldest Buddhist monuments in Central Asia and rarely crowded.",
+  "generatedAt": "2026-06-29T14:28:16.628Z",
+  "model": "MiniMax-M3"
+}

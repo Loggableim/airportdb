@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GUJ",
+    "icao": "SBGW",
+    "name": "Edu Chaves Field",
+    "country": "Brazil",
+    "city": "Guaratinguetá",
+    "lat": -22.7916,
+    "lon": -45.2048,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Edu Chaves Field (GUJ/SBGW) is a medium-sized airport serving Guaratinguetá in the Vale do Paraíba region of São Paulo state, Brazil. Nestled near the Mantiqueira mountain range, the airport primarily supports general aviation and occasional commercial flights, as well as operations related to the nearby aerospace and defense industries. Its location makes it a convenient gateway for visitors traveling to the religious tourism hub of Aparecida and the surrounding historical towns.",
+  "faqs": "Q: How far is Edu Chaves Field from downtown Guaratinguetá?\nA: The airport is located just a few kilometers from the city center, typically a 10-15 minute drive depending on traffic.\n\nQ: Are there commercial passenger flights at GUJ?\nA: Scheduled commercial service is limited; the airport mainly handles general aviation, private flights, and occasional charter operations.\n\nQ: What attractions are accessible from the airport?\nA: The Basilica of Our Lady of Aparecida, one of the most visited Catholic shrines in the world, is roughly 5 km away in neighboring Aparecida.\n\nQ: Is there public transportation to the airport?\nA: Public transit options are limited; taxis and ride-hailing services are the most practical ways to reach the terminal.\n\n",
+  "transport_tips": "Taxis and rideshare apps are the most reliable ways to reach Edu Chaves Field, as there is no dedicated airport bus service. If driving from São Paulo or Rio de Janeiro, take the BR-116 (Via Dutra) highway and follow signs toward Guaratinguetá. Pre-arranging ground transport is recommended, as the airport does not have a large rental car fleet on-site.",
+  "local_tip": "If you have time before or after your flight, visit the historic center of Guaratinguetá for its colonial architecture and the Museu Frei Galvão, dedicated to Brazil's first native-born saint.",
+  "generatedAt": "2026-06-26T08:33:30.447Z",
+  "model": "MiniMax-M3"
+}

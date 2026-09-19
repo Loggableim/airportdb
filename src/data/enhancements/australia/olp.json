@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OLP",
+    "icao": "YOLD",
+    "name": "Olympic Dam Airport",
+    "country": "Australia",
+    "city": "Olympic Dam",
+    "lat": -30.4839,
+    "lon": 136.8767,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Olympic Dam Airport is a remote mining airfield located in the far north of South Australia, serving the workers and operations of the nearby Olympic Dam mine—one of the world's largest uranium, copper, and gold deposits. The airport is owned and operated by BHP and primarily handles fly-in fly-out (FIFO) workforce flights connecting the isolated site to Adelaide and other Australian cities. Due to its purpose-built nature, the facility is small but purpose-specific, with limited public access.",
+  "faqs": "Q: Who operates Olympic Dam Airport?\nA: The airport is owned and operated by BHP to service its Olympic Dam mining operation.\n\nQ: Are there commercial passenger flights to Olympic Dam?\nA: Yes, regional airlines operate charter and scheduled FIFO services, primarily connecting to Adelaide. Public access is limited.\n\nQ: How far is the airport from the Olympic Dam mine?\nA: The airport is located very close to the mine and the associated township of Roxby Downs, just a short drive away.\n\nQ: Is the airport open to general aviation?\nA: Access is generally restricted to authorized personnel and approved flights due to its association with the mining operation.\n\n",
+  "transport_tips": "Transport to and from Olympic Dam Airport is typically arranged through mining company shuttles or pre-booked taxis, as there are no public bus routes serving this remote outback facility. Most FIFO workers have their ground transport coordinated by their employer before arrival. Visitors should confirm transport arrangements in advance, as there are no rental car counters on site.",
+  "local_tip": "Flights can be cancelled or delayed due to extreme outback heat, which affects aircraft performance; build in buffer time if you have a connecting flight from Adelaide.",
+  "generatedAt": "2026-06-26T14:50:25.079Z",
+  "model": "MiniMax-M3"
+}

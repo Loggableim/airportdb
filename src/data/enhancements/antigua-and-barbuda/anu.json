@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ANU",
+    "icao": "TAPA",
+    "name": "V. C. Bird International Airport",
+    "country": "Antigua and Barbuda",
+    "city": "Osbourn",
+    "lat": 17.1367,
+    "lon": -61.7927,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "V. C. Bird International Airport (ANU) is the primary international gateway to Antigua and Barbuda, located near the capital of St. John's on the northeastern coast of Antigua. Named after Sir Vere Cornwall Bird, the nation's first Prime Minister, it serves as a major hub for inter-island travel in the Eastern Caribbean. The single-terminal facility handles both regional and transatlantic flights, welcoming a significant share of the country's tourism arrivals.",
+  "faqs": "Q: How far is the airport from St. John's?\nA: The airport is located in Osbourn, approximately 5 km (3 miles) northeast of St. John's, typically a 10-15 minute drive.\n\nQ: Are there direct international flights to ANU?\nA: Yes, the airport receives direct flights from major North American cities, London, and several Caribbean destinations year-round.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers duty-free shopping, restaurants, currency exchange, car rental desks, and standard passenger amenities across a single building.\n\nQ: Is the airport a former hub for any regional airline?\nA: ANU historically served as a hub for LIAT (Leeward Islands Air Transport), which connected it to destinations throughout the Eastern Caribbean.\n\n",
+  "transport_tips": "Taxis are readily available outside the terminal and run on fixed government-regulated rates to most destinations on Antigua; confirm the fare before departure. Rental cars are available from several agencies at the airport and are recommended for travelers wanting to explore the island independently. Many resorts offer shuttle or pre-arranged pickup services, so check with your accommodation before arrival.",
+  "local_tip": "The airport sits directly on the coast, so request a window seat on the approach or departure for a stunning aerial view of Antigua's turquoise bays and reef-lined shoreline.",
+  "generatedAt": "2026-06-28T19:19:26.434Z",
+  "model": "MiniMax-M3"
+}

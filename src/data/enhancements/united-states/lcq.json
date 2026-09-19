@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LCQ",
+    "icao": "KLCQ",
+    "name": "Lake City Gateway Airport",
+    "country": "United States",
+    "city": "Lake City",
+    "lat": 30.182,
+    "lon": -82.5769,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lake City Gateway Airport is a general aviation facility serving Lake City, Florida, a community strategically positioned at the crossroads of Interstate 75 and Interstate 10 in north-central Florida. The airport supports private pilots, flight training, and corporate aircraft, functioning as a convenient gateway to the region's outdoor recreation areas, including nearby rivers and forests. It also serves as an important base for emergency services and air ambulance operations serving Columbia County and surrounding areas.",
+  "faqs": "Q: What type of aircraft does Lake City Gateway Airport accommodate?\nA: The airport primarily serves general aviation traffic, including single-engine and twin-engine private aircraft, business jets, and flight training operations.\n\nQ: Are there commercial airline flights from LCQ?\nA: No, Lake City Gateway Airport does not offer scheduled commercial service. Travelers seeking commercial flights typically use Jacksonville International Airport or Gainesville Regional Airport.\n\nQ: Does the airport have an air traffic control tower?\nA: The airport operates without a permanent control tower and uses a CTAF (Common Traffic Advisory Frequency) for pilot communications.\n\nQ: Is fuel available at the airport?\nA: Yes, the airport offers fueling services for general aviation aircraft during operating hours.\n\n",
+  "transport_tips": "The airport is located just a few miles southwest of downtown Lake City, making ground transportation quick and easy. Rental cars are the most practical option for visitors, though taxi services and rideshare availability can be limited in this small community. Because the airport primarily serves private and general aviation traffic, travelers should arrange ground transportation in advance.",
+  "local_tip": "If you're flying in to explore the area, consider visiting the nearby Ichetucknee Springs State Park or the Suwannee River—Lake City is a popular jumping-off point for tubing, kayaking, and cave diving along Florida's spring-fed rivers.",
+  "generatedAt": "2026-06-27T00:38:41.300Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YRQ",
+    "icao": "CYRQ",
+    "name": "Trois-Rivières Airport",
+    "country": "Canada",
+    "city": "Trois-Rivières",
+    "lat": 46.3528,
+    "lon": -72.6794,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Trois-Rivières Airport (YRQ) is a regional general aviation facility serving the city of Trois-Rivières in Quebec's Mauricie region, located along the north shore of the St. Lawrence River roughly midway between Montreal and Quebec City. The airport primarily supports private, charter, recreational, and flight training operations rather than scheduled commercial service. Its position makes it a convenient base for accessing the Mauricie region's forests, lakes, and tourism attractions.",
+  "faqs": "Q: Does Trois-Rivières Airport have scheduled commercial flights?\nA: No, YRQ does not currently offer regular scheduled passenger airline service. Travelers typically use nearby Montreal-Trudeau (YUL) or Quebec City Jean Lesage (YQB) airports for commercial flights.\n\nQ: Where is the airport located relative to the city center?\nA: The airport is situated a short drive north of downtown Trois-Rivières, easily accessible via local roads in roughly 10 to 15 minutes depending on traffic.\n\nQ: What types of aviation activities does YRQ support?\nA: The airport primarily serves general aviation, including private aircraft, flight training schools, charter flights, and recreational flying.\n\nQ: Are there car rental services at the airport?\nA: On-site car rental availability is limited, so arranging transportation in advance or renting from providers in downtown Trois-Rivières is recommended.",
+  "transport_tips": "The most practical way to reach YRQ is by car, with taxi and rideshare services available from Trois-Rivières and surrounding communities. Free or low-cost parking is typically available on-site for those driving personal vehicles. Travelers flying privately should coordinate ground transportation in advance, as on-demand services may be limited outside business hours.",
+  "local_tip": "If you have time before or after your flight, visit nearby Laviolette Bridge for a walk with views of the St. Lawrence River and the historic Old Trois-Rivières district just across the way, which offers some of the best cafes and bakeries in the region.",
+  "generatedAt": "2026-06-30T05:20:02.079Z",
+  "model": "MiniMax-M3"
+}

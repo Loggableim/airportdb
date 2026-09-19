@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KSK",
+    "icao": "ESKK",
+    "name": "Karlskoga Airport",
+    "country": "Sweden",
+    "city": "Karlskoga",
+    "lat": 59.3459,
+    "lon": 14.4959,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Karlskoga Airport (KSK/ESKK) is a medium-sized regional airport serving the industrial town of Karlskoga in Örebro County, central Sweden. It primarily supports general aviation, business flights, and flight training operations, reflecting the area's strong aerospace and manufacturing heritage. The airport plays a supporting role for visitors to the Bofors defense industry heritage and the surrounding Bergslagen region.",
+  "faqs": "Q: What is the main purpose of Karlskoga Airport?\nA: The airport primarily serves general aviation, private flights, and flight training rather than scheduled commercial passenger service.\n\nQ: Does Karlskoga Airport have scheduled commercial flights?\nA: No regular scheduled commercial flights operate from KSK; travelers typically use nearby Örebro Airport for commercial connections.\n\nQ: Are there car rental services at the airport?\nA: Rental cars are generally available through local providers in Karlskoga town, though pre-booking is recommended as on-site services are limited.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic facilities including fueling services and a small terminal area, with limited amenities for transient pilots and passengers.\n\n",
+  "transport_tips": "The airport is located just a few kilometers from Karlskoga town center, making taxi rides quick and affordable, typically taking under 10 minutes. Rental cars can be arranged in advance through local agencies in Karlskoga. For those without a vehicle, pre-booking a taxi is advisable as ride-hailing services have limited presence in the area.",
+  "local_tip": "If you have time before your flight, visit the Alfred Nobel Björkborn heritage site in Karlskoga, where the famous inventor conducted his later explosives research—a unique piece of Swedish industrial history just minutes from the airport.",
+  "generatedAt": "2026-06-26T09:40:57.413Z",
+  "model": "MiniMax-M3"
+}

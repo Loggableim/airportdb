@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DUS",
+    "icao": "EDDL",
+    "name": "Düsseldorf Airport",
+    "country": "Germany",
+    "city": "Düsseldorf",
+    "lat": 51.2895,
+    "lon": 6.7668,
+    "type": "large_airport",
+    "size": 1017675
+  },
+  "summary": "Düsseldorf Airport (DUS) is the largest airport in North Rhine-Westphalia and the fourth-busiest in Germany, located approximately 8 km north of Düsseldorf city center. It serves as the primary hub for Eurowings, the low-cost subsidiary of Lufthansa, and handles a significant share of Germany's international long-haul leisure traffic. The airport features three connected terminals (A, B, C) and is a major gateway for flights to European, Asian, and intercontinental destinations.",
+  "faqs": "Q: How far is Düsseldorf Airport from the city center?\nA: The airport is about 8 km north of Düsseldorf's city center and can be reached in roughly 10-15 minutes by car or train.\n\nQ: What rail connection serves Düsseldorf Airport?\nA: The S-Bahn line S11 connects the airport's train station directly to Düsseldorf Hauptbahnhof and continues to other regional destinations.\n\nQ: Is Düsseldorf Airport a major hub for any airline?\nA: Yes, it is the main hub for Eurowings, which operates a large portion of the airport's flights alongside Lufthansa, Condor, and numerous other carriers.\n\nQ: How many terminals does Düsseldorf Airport have?\nA: The airport has three terminals (A, B, and C) that are connected as a single complex for passenger convenience.",
+  "transport_tips": "The S-Bahn S11 line provides the fastest and most affordable connection to Düsseldorf Hauptbahnhof, with trains running every 20 minutes and a journey time of about 12 minutes. Taxis to the city center are readily available and typically cost €20-€25. If traveling by car, the A44 autobahn connects directly to the airport, and several long-distance and regional bus services also stop at the terminals.",
+  "local_tip": "The observation deck (Visitors' Terrace) on Terminal B offers great views of aircraft movements and is free to access, making it a worthwhile stop during a long layover. Additionally, the airport's SkyTrain connects the terminal area to the long-term parking lots and can be used by anyone, offering a unique elevated view of the airfield.",
+  "generatedAt": "2026-06-28T15:02:21.355Z",
+  "model": "MiniMax-M3"
+}

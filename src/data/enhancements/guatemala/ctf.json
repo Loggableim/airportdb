@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CTF",
+    "icao": "MGCT",
+    "name": "Coatepeque Airport",
+    "country": "Guatemala",
+    "city": "Coatepeque",
+    "lat": 14.6942,
+    "lon": -91.8825,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Coatepeque Airport (CTF/MGCT) is a small regional airport serving the city of Coatepeque in Guatemala's Quetzaltenango Department, near the country's western border with Mexico. The airport primarily handles general aviation and occasional charter flights, supporting the agricultural and commercial activities of the surrounding Pacific lowlands region. Its modest infrastructure reflects its role as a convenient access point for travelers visiting western Guatemala and the nearby coast.",
+  "faqs": "Q: What is the main purpose of Coatepeque Airport?\nA: The airport serves general aviation and charter operations, providing access to the Coatepeque area and surrounding communities in Guatemala's western highlands and Pacific lowlands.\n\nQ: Are there commercial passenger flights to Coatepeque?\nA: Scheduled commercial service is very limited or nonexistent; most travelers reach Coatepeque via Guatemala City's La Aurora International Airport or by road from other regional hubs.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, Coatepeque offers basic facilities with limited passenger amenities, primarily catering to general aviation aircraft and private flights.\n\nQ: What is the nearest major city to Coatepeque Airport?\nA: Coatepeque itself is the nearest city, while Quetzaltenango (Xela), Guatemala's second-largest city, is located approximately 50 kilometers to the north.",
+  "transport_tips": "Most visitors arrive at Coatepeque by road from Quetzaltenango or Guatemala City, as the airport has minimal commercial service. Shuttle buses, taxis, and private transfers are the most reliable options for reaching the city center from the airport. Renting a car in advance is recommended for travelers planning to explore the surrounding Pacific coast and border regions.",
+  "local_tip": "If flying privately or via charter, arrange ground transportation in advance—local taxi drivers familiar with the airport are not always available on short notice, especially for early morning or late evening arrivals.",
+  "generatedAt": "2026-06-27T20:15:09.186Z",
+  "model": "MiniMax-M3"
+}

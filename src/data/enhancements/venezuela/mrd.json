@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MRD",
+    "icao": "SVMD",
+    "name": "Alberto Carnevalli Airport",
+    "country": "Venezuela",
+    "city": "Mérida",
+    "lat": 8.5821,
+    "lon": -71.161,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Alberto Carnevalli Airport serves Mérida, a city nestled in the Venezuelan Andes and home to the renowned Universidad de Los Andes. The airport is named after Alberto Carnevalli, a pioneering figure in Venezuelan aviation history. Due to its location in a narrow Andean valley, the airport is known for its challenging approach surrounded by dramatic mountain scenery.",
+  "faqs": "Q: What is Alberto Carnevalli Airport known for?\nA: The airport is known for serving Mérida in the Venezuelan Andes and for its scenic but technically challenging approach through mountainous terrain.\n\nQ: How far is the airport from Mérida city center?\nA: The airport is located relatively close to the city, typically a short drive of around 10-15 minutes depending on traffic.\n\nQ: Which airlines operate at Alberto Carnevalli Airport?\nA: Domestic Venezuelan carriers historically operate routes here, primarily connecting Mérida with Caracas and other national destinations.\n\nQ: Are there international flights from this airport?\nA: The airport primarily handles domestic flights; international travelers typically connect through Caracas or other major hubs.",
+  "transport_tips": "Taxis are the most common way to reach the city center, with services available outside the terminal. Travelers should agree on fares before departure as metered taxis are not always standard. Renting a car is possible but the mountainous roads require experience and caution.",
+  "local_tip": "If you have a layover or early arrival, head to the Heladería Coromoto in Mérida city, which holds a Guinness Record for offering the most ice cream flavors in the world, including unconventional Venezuelan ingredients like avocado and corn.",
+  "generatedAt": "2026-06-29T09:54:17.939Z",
+  "model": "MiniMax-M3"
+}

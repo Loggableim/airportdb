@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MYP",
+    "icao": "UTAM",
+    "name": "Mary International Airport",
+    "country": "Turkmenistan",
+    "city": "Mary",
+    "lat": 37.6235,
+    "lon": 61.8957,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mary International Airport (IATA: MYP) is a medium-sized regional airport serving the city of Mary in southeastern Turkmenistan. The airport provides essential connectivity for the Mary region, which is renowned for its proximity to the ancient Silk Road city of Merv, a UNESCO World Heritage Site. As one of Turkmenistan's key domestic aviation hubs, it supports both passenger travel and the area's significant natural gas industry operations.",
+  "faqs": "Q: What is the IATA code for Mary International Airport?\nA: The IATA code is MYP, and the ICAO code is UTAM.\n\nQ: Where is Mary International Airport located?\nA: The airport is located in Mary, in the Mary Province of southeastern Turkmenistan, at coordinates 37.623°N, 61.896°E.\n\nQ: What cities does Mary International Airport connect to?\nA: The airport primarily serves domestic routes within Turkmenistan, with regular flights to Ashgabat, and occasionally serves international charter and regional flights.\n\nQ: Is the airport open to international travelers?\nA: Yes, the airport handles international flights, though services are limited. Travelers should ensure they have valid Turkmenistan visas and check current flight schedules in advance.",
+  "transport_tips": "The airport is located a short drive from central Mary, typically reachable within 15-20 minutes by taxi. Taxis are the most common form of transport, though it's advisable to arrange pickups in advance through your hotel. Rental car services are limited, so pre-booking transportation is recommended for both arrivals and departures.",
+  "local_tip": "If you have a layover or extra time, consider visiting the nearby ancient ruins of Merv (Old Merv), one of the oldest Silk Road cities and a UNESCO World Heritage Site — it's just about 30 km from the airport and well worth the detour.",
+  "generatedAt": "2026-06-29T11:53:20.161Z",
+  "model": "MiniMax-M3"
+}

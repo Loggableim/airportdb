@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "QHR",
+    "icao": "HAHM",
+    "name": "Harar Meda Airport",
+    "country": "Ethiopia",
+    "city": "Debre Zeyit",
+    "lat": 8.7163,
+    "lon": 39.0059,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Harar Meda Airport (QHR/HAHM) is a medium-sized regional airport located in Debre Zeyit, approximately 47 kilometers southeast of Addis Ababa, Ethiopia's capital. Historically used for domestic and charter operations, it has served as a secondary facility supporting Ethiopian aviation and occasionally handling training flights. The airport sits in the East Shewa Zone at an elevation typical of the Ethiopian highlands.",
+  "faqs": "Q: How far is Harar Meda Airport from Addis Ababa?\nA: The airport is approximately 47 km (29 miles) southeast of central Addis Ababa, requiring roughly a 1-hour drive depending on traffic.\n\nQ: Does Harar Meda Airport handle international flights?\nA: The airport primarily serves domestic and charter operations; major international flights use Addis Ababa Bole International Airport instead.\n\nQ: Are there regular passenger services at Harar Meda?\nA: Scheduled passenger service has been limited in recent years, with the airport mostly supporting general aviation, training, and occasional charter flights.\n\nQ: What facilities are available at the airport?\nA: The airport has basic terminal facilities; passengers should expect limited amenities compared to major international airports.\n\n",
+  "transport_tips": "The most practical way to reach Harar Meda Airport from Addis Ababa is by private car or taxi, as public transport options are limited and the journey takes around an hour. Travelers should arrange return transportation in advance, as taxi availability at the airport can be unpredictable. The route via the Addis Ababa–Adama expressway offers the fastest connection.",
+  "local_tip": "Confirm flight status and pickup arrangements before traveling, as the airport operates with limited staffing and scheduling can change with little notice.",
+  "generatedAt": "2026-06-26T12:49:46.004Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MGZ",
+    "icao": "VYME",
+    "name": "Myeik Airport",
+    "country": "Myanmar",
+    "city": "Mkeik",
+    "lat": 12.4398,
+    "lon": 98.6215,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Myeik Airport serves the coastal city of Myeik in Myanmar's Tanintharyi Region, a historic port town long known for its pearl diving and fishing industries. The airport provides essential access to the remote Mergui Archipelago, one of Southeast Asia's least-explored island chains. It primarily handles domestic flights connecting this southern tip of Myanmar to Yangon and other regional hubs.",
+  "faqs": "Q: What is the IATA code for Myeik Airport?\nA: The IATA code is MGZ and the ICAO code is VYME.\n\nQ: Does Myeik Airport offer international flights?\nA: No, Myeik Airport primarily handles domestic flights, mostly connecting to Yangon.\n\nQ: What is Myeik best known for?\nA: Myeik is famous for its pearl farming industry and serves as the main gateway to the Mergui Archipelago.\n\nQ: How far is the airport from Myeik city center?\nA: The airport is located a short drive from the city, typically around 10-15 minutes by road.\n\n",
+  "transport_tips": "Taxis and motorbike taxis are the most common ways to reach the airport from Myeik town center. Arrange ground transport in advance, as ride-hailing apps do not operate in this region. Hotel pickups can often be coordinated when booking accommodation.",
+  "local_tip": "If visiting the Mergui Archipelago, book liveaboard diving or island cruises well in advance through operators in Myeik, as permits and boat schedules are tightly regulated and limited.",
+  "generatedAt": "2026-06-29T12:47:10.777Z",
+  "model": "MiniMax-M3"
+}

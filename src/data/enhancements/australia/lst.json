@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LST",
+    "icao": "YMLT",
+    "name": "Launceston Airport",
+    "country": "Australia",
+    "city": "Launceston (Western Junction)",
+    "lat": -41.5449,
+    "lon": 147.2108,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Launceston Airport (LST) is Tasmania's second-busiest airport, located at Western Junction approximately 15 km southeast of Launceston city centre. It serves as the main gateway to northern Tasmania, including the Tamar Valley wine region, Cradle Mountain, and the east coast. The airport handles around 1.4 million passengers annually and connects the region to mainland Australia via direct flights to Melbourne, Sydney, and Brisbane.",
+  "faqs": "Q: How far is Launceston Airport from the city centre?\nA: The airport is approximately 15 km southeast of Launceston's CBD, with a typical transfer taking around 20 minutes by car.\n\nQ: Which airlines fly from Launceston Airport?\nA: Jetstar, Virgin Australia, and QantasLink operate regular services to mainland capitals, while Sharp Airlines and Par Avion serve regional Tasmanian destinations.\n\nQ: Does the airport have international flights?\nA: No scheduled international services operate from LST, though it can handle international charter and emergency diversions from Australian capitals.\n\nQ: Are there ATMs and currency exchange at the terminal?\nA: ATMs are available in the terminal, but there are no dedicated foreign exchange facilities, so it's best to arrange Australian dollars in advance.\n\n",
+  "transport_tips": "The Redline airport shuttle and SkyBus operate regular services between the airport and central Launceston, with journey times of around 25 minutes. Taxi ranks and rideshare pickup zones are located directly outside the terminal, and rental car desks operate within the arrivals hall for exploring Tasmania's northern regions.",
+  "local_tip": "If you have a layover or early arrival, the Tasmania Zoo and the historic Woolmers Estate at Longford are both within a 10-minute drive — perfect for stretching your legs and seeing a Tasmanian devil up close before your flight.",
+  "generatedAt": "2026-06-29T03:52:22.672Z",
+  "model": "MiniMax-M3"
+}

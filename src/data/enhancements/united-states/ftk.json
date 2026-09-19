@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FTK",
+    "icao": "KFTK",
+    "name": "Godman Army Air Field",
+    "country": "United States",
+    "city": "Fort Knox",
+    "lat": 37.9071,
+    "lon": -85.9721,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Godman Army Air Field (FTK/KFTK) is a U.S. Army installation airfield situated on Fort Knox in north-central Kentucky, approximately 30 miles south of Louisville. It serves primarily military operations and has historically supported U.S. Army aviation training, including rotary-wing assets. The field shares airspace and infrastructure with adjacent military training areas and remains an active component of the installation.",
+  "faqs": "Q: Is Godman Army Air Field open to civilian passengers?\nA: No, FTK is a military airfield with restricted access; it does not offer scheduled commercial passenger service.\n\nQ: Who operates the airfield at Fort Knox?\nA: The airfield is operated by the U.S. Army as part of the Fort Knox military installation.\n\nQ: Does Fort Knox have any commercial airport nearby?\nA: Yes, Louisville Muhammad Ali International Airport (SDF) is the nearest major commercial airport, roughly 35 miles to the north.\n\nQ: Are there aviation training programs at Godman Field?\nA: The field has historically supported Army aviation training activities associated with Fort Knox units.",
+  "transport_tips": "Civilian visitors to Fort Knox typically fly into Louisville Muhammad Ali International Airport (SDF) and drive south on I-65, a journey of about 45 minutes. Access to the airfield itself requires military clearance or invitation, and on-post entry requires a valid ID at the visitor control center. Rental cars and rideshare services are available at Louisville airport for the onward drive.",
+  "local_tip": "Plan your drive to align with post traffic flow changes—Fort Knox gates can experience significant delays during morning and afternoon shift changes at the Human Resources Command, so scheduling around those windows saves considerable time.",
+  "generatedAt": "2026-06-26T09:08:15.520Z",
+  "model": "MiniMax-M3"
+}

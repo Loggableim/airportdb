@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SGC",
+    "icao": "USRR",
+    "name": "Surgut International Airport",
+    "country": "Russia",
+    "city": "Surgut",
+    "lat": 61.3405,
+    "lon": 73.4058,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Surgut International Airport (SGC) is a major aviation gateway in Western Siberia, serving the oil and gas capital of Russia in the Khanty-Mansi Autonomous Okrug. It handles significant domestic traffic and serves as an important hub connecting the resource-rich Tyumen region with Moscow, St. Petersburg, and other Russian cities. The airport is particularly busy with business travelers linked to the region's petroleum industry.",
+  "faqs": "Q: How far is Surgut Airport from the city center?\nA: The airport is located approximately 10 km northwest of central Surgut, with a typical drive time of 20-30 minutes depending on traffic and weather conditions.\n\nQ: What airlines operate from Surgut Airport?\nA: Major carriers serving the airport include Aeroflot, S7 Airlines, Utair (which is headquartered in the region), and Rossiya Airlines, offering numerous domestic routes.\n\nQ: Does the airport have international flights?\nA: While primarily focused on domestic routes, the airport does operate some international charter and seasonal flights, mainly to CIS countries and select destinations.\n\nQ: Are there overnight facilities at the airport?\nA: The airport operates extended hours, but for overnight stays, several hotels are available in the nearby area and along the route into the city.",
+  "transport_tips": "Bus routes 20 and 47 connect the airport to Surgut city center and are an affordable option, though taxis and ride-hailing apps like Yandex.Taxi are more commonly used for convenience in the harsh winter conditions. During winter, allow extra travel time due to potential snow and ice on roads. Taxis to the city typically cost between 300-500 rubles.",
+  "local_tip": "The airport café serving traditional Siberian cuisine, including local fish dishes like muksun and nelma, is highly regarded—much better than typical airport fare and worth trying before your flight.",
+  "generatedAt": "2026-06-29T00:28:33.978Z",
+  "model": "MiniMax-M3"
+}

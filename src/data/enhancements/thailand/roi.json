@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ROI",
+    "icao": "VTUV",
+    "name": "Roi Et Airport",
+    "country": "Thailand",
+    "city": "Roi Et",
+    "lat": 16.1168,
+    "lon": 103.774,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Roi Et Airport (ROI/VTUV) is a regional airport serving Roi Et Province in Thailand's northeastern Isan region. It functions primarily as a domestic gateway, providing essential air connections between this agricultural province and Bangkok as well as other major Thai destinations. The airport supports both scheduled commercial flights and general aviation activity in the region.",
+  "faqs": "Q: What airlines operate from Roi Et Airport?\nA: The airport primarily serves domestic routes, with Thai carriers like Nok Air and Thai AirAsia historically operating flights connecting Roi Et to Bangkok.\n\nQ: How far is Roi Et Airport from the city center?\nA: The airport is located approximately 5-7 kilometers from central Roi Et city, making it a relatively quick trip for travelers.\n\nQ: Does Roi Et Airport have international flights?\nA: No, Roi Et Airport handles domestic flights only and does not offer scheduled international service.\n\nQ: What facilities are available at Roi Et Airport?\nA: The terminal provides basic amenities including a small waiting area, restrooms, and limited refreshment options typical of a regional Thai airport.",
+  "transport_tips": "Songthaew (shared passenger trucks) and local taxis are typically available outside the terminal to take passengers into Roi Et city or onward destinations. Travelers should agree on fares in advance as metered taxis are uncommon. Private car hire or pre-arranged hotel transfers offer the most comfortable option, especially for those with luggage.",
+  "local_tip": "If you have time before your flight, visit the nearby Phra That Chedi Chai Mongkhon, a revered stupa located on a hill just outside the city center with panoramic views of the surrounding plains.",
+  "generatedAt": "2026-06-29T15:39:12.386Z",
+  "model": "MiniMax-M3"
+}

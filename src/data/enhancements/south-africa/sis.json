@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SIS",
+    "icao": "FASS",
+    "name": "Sishen Airport",
+    "country": "South Africa",
+    "city": "Sishen",
+    "lat": -27.6486,
+    "lon": 22.9993,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Sishen Airport serves the mining town of Sishen in South Africa's Northern Cape province, primarily supporting the operations of the nearby Sishen iron ore mine, one of the largest open-pit iron ore operations in the world. The airport functions as a key access point for fly-in workers and contractors serving Kumba Iron Ore and the surrounding mining community. Its remote location on the semi-arid Kalahari plateau makes it a vital link for both business travel and occasional charter flights.",
+  "faqs": "Q: What is Sishen Airport primarily used for?\nA: The airport mainly serves the iron ore mining industry, accommodating workers, contractors, and business travelers connected to the nearby Sishen Mine operated by Kumba Iron Ore.\n\nQ: Are there scheduled commercial flights to Sishen Airport?\nA: Scheduled commercial service is very limited. Most flights are private or charter operations related to mining business, so travelers typically arrange flights in advance through specialized operators.\n\nQ: How far is the airport from the town of Sishen?\nA: The airport is located just a few kilometers from the town center and the Sishen Mine, making ground transfers short and straightforward.\n\nQ: What facilities are available at the terminal?\nA: As a small regional airport, facilities are basic, including a modest terminal building suited primarily to mining industry traffic rather than large-scale tourism.\n\n",
+  "transport_tips": "Ground transport is limited, so arranging a vehicle or transfer in advance is strongly recommended, especially given the town's remote location. Rental cars are available through local operators, but booking ahead is wise as availability can be scarce. Many mine employees and visitors use company-arranged shuttle services for transport between the airport, town, and mine sites.",
+  "local_tip": "The Northern Cape experiences extreme temperature swings, so pack layers even in summer—mornings and evenings on the Kalahari plateau can be surprisingly cold despite hot daytime temperatures.",
+  "generatedAt": "2026-06-29T19:58:10.786Z",
+  "model": "MiniMax-M3"
+}

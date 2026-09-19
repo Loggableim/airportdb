@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KRK",
+    "icao": "EPKK",
+    "name": "Kraków John Paul II International Airport",
+    "country": "Poland",
+    "city": "Balice",
+    "lat": 50.0777,
+    "lon": 19.7848,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Kraków John Paul II International Airport, located in Balice about 11 km west of Kraków's historic city center, is Poland's second-busiest airport. Named after Pope John Paul II, the beloved former Archbishop of Kraków, it serves as a major gateway for tourists visiting the UNESCO-listed Old Town, Wieliczka Salt Mine, and Auschwitz-Birkenau Memorial. The airport has undergone significant terminal expansion in recent years to accommodate growing passenger traffic, now handling over 8 million travelers annually.",
+  "faqs": "Q: How far is Kraków Airport from the city center?\nA: The airport is approximately 11 km west of Kraków's main square (Rynek Główny), with a typical journey taking 20-30 minutes by car or train.\n\nQ: Is there a direct train from the airport to Kraków center?\nA: Yes, the SKA1 and SKA3 suburban rail lines connect the airport to Kraków Główny main station in about 17 minutes, with services running frequently throughout the day.\n\nQ: Which airlines operate from Kraków Airport?\nA: KRK serves as a hub for Ryanair and Wizz Air, with regular flights from LOT Polish Airlines, Lufthansa, easyJet, and many other carriers across Europe.\n\nQ: Does the airport operate 24 hours?\nA: The airport generally operates from early morning until late night, though flight schedules vary by season. Check with your airline for specific arrival or departure times.\n\n",
+  "transport_tips": "The train is often the fastest and cheapest option into Kraków, with a dedicated airport railway station connected to the terminal. Official taxi fares to the city center are fixed and posted at designated taxi ranks—avoid unmarked drivers approaching you inside the terminal. Airport buses also run to the main train station, providing another reliable alternative.",
+  "local_tip": "If you have a long layover, the nearby Wieliczka Salt Mine is just a 25-minute drive and offers guided tours through stunning underground chambers—a perfect way to use a few hours without going into the city.",
+  "generatedAt": "2026-06-28T17:03:41.004Z",
+  "model": "MiniMax-M3"
+}

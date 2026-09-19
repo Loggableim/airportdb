@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MQR",
+    "icao": "",
+    "name": "Mosquera Airport",
+    "country": "Colombia",
+    "city": "Mosquera",
+    "lat": 2.6496,
+    "lon": -78.3361,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mosquera Airport (MQR) is a small airfield serving the municipality of Mosquera in Colombia's Cundinamarca Department, located just west of Bogotá in the Andean highlands. It primarily accommodates general aviation, flight training, and private aircraft operations. The airport sits in a region known for its agricultural lands and proximity to Colombia's capital metropolitan area.",
+  "faqs": "Q: What type of flights operate from Mosquera Airport?\nA: The airport primarily serves general aviation, private aircraft, and flight training activities rather than commercial passenger service.\n\nQ: How far is Mosquera Airport from Bogotá?\nA: The airport is located in Mosquera, which is part of the greater Bogotá metropolitan area, approximately 30-40 km west of the capital city center.\n\nQ: Is there scheduled commercial service at MQR?\nA: No, Mosquera Airport does not offer scheduled commercial airline service. Travelers seeking commercial flights would typically use El Dorado International Airport in Bogotá.\n\nQ: What facilities are available at the airport?\nA: As a small airport, it offers basic facilities suited to general aviation, including a runway and minimal passenger amenities.\n\n",
+  "transport_tips": "Ground transportation options include local taxis and private vehicle hire from nearby Mosquera town center. The airport's proximity to the Bogotá–Girardot highway provides straightforward road access to the capital. Visitors without their own transport should arrange pickup in advance, as public transit options directly serving the airfield are limited.",
+  "local_tip": "Frequent visitors recommend checking wind conditions before arrival—Mosquera sits in a valley where morning fog can affect visibility, so scheduling flights for mid-morning or afternoon typically offers clearer operating conditions.",
+  "generatedAt": "2026-06-28T04:09:40.426Z",
+  "model": "MiniMax-M3"
+}

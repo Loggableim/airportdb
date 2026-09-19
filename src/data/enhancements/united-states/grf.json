@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GRF",
+    "icao": "KGRF",
+    "name": "Gray Army Air Field",
+    "country": "United States",
+    "city": "Fort Lewis/Tacoma",
+    "lat": 47.0792,
+    "lon": -122.581,
+    "type": "medium_airport",
+    "size": 400
+  },
+  "summary": "Gray Army Air Field is a military airport located on Joint Base Lewis-McChord (JBLM), a major U.S. Army installation near Tacoma, Washington. It serves as a key hub for Army aviation operations in the Pacific Northwest and supports both rotary-wing and fixed-wing aircraft assigned to the installation. The airfield shares its airspace with the surrounding Tacoma metropolitan area while functioning primarily as a military facility with limited civilian access.",
+  "faqs": "Q: Is Gray Army Air Field open to civilian passengers?\nA: No, Gray AAF is a military airfield on Joint Base Lewis-McChord and does not offer commercial passenger service. Civilian visitors must go through base access procedures.\n\nQ: What is the difference between GRF and the nearby Tacoma Narrows Airport?\nA: Gray AAF is a military field on JBLM exclusively for DoD and authorized aircraft, while Tacoma Narrows Airport (TIW) is the regional general aviation airport open to civilian traffic in the Gig Harbor area.\n\nQ: Are there any scheduled flights from GRF?\nA: No scheduled commercial flights operate from Gray AAF. All flight activity is tied to military training, transport, and operational missions.\n\nQ: Can private pilots land at KGRF?\nA: Landing at KGRF requires prior permission and military authorization, as it is a restricted-access military airfield.",
+  "transport_tips": "Reaching Joint Base Lewis-McChord from Tacoma is easiest by personal vehicle via Interstate 5, with the main gate (I-5/MLK Jr. Way) typically the most convenient entry point. Ride-sharing and taxi services can drop off at the gate but cannot enter without a valid DoD ID or visitor pass. Visitors should arrange base access through a sponsor well in advance, as same-day passes are not always available.",
+  "local_tip": "If you have access to the installation, the airfield sits near the JBLM tank trails and training areas, making it a great starting point to explore the base's extensive military heritage trails and the on-site Vietnam Veterans Memorial.",
+  "generatedAt": "2026-06-30T01:26:00.185Z",
+  "model": "MiniMax-M3"
+}

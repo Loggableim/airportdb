@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AVX",
+    "icao": "KAVX",
+    "name": "Catalina Airport",
+    "country": "United States",
+    "city": "Avalon",
+    "lat": 33.4049,
+    "lon": -118.416,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Catalina Airport (AVX), often called the 'Airport in the Sky,' sits atop a 1,602-foot plateau on Santa Catalina Island, roughly 22 miles off the Southern California coast. Originally developed in the 1940s, it serves the island community of Avalon and visitors arriving by small aircraft. The airport is notable for a preserved DC-3 aircraft displayed near the terminal, a nod to early aviation history on the island.",
+  "faqs": "Q: How do you get to Catalina Airport?\nA: The airport is accessible only by air via small propeller aircraft, typically departing from mainland airports such as Long Beach, Torrance, or Hawthorne. Most visitors reach Catalina Island by ferry from San Pedro, Long Beach, or Dana Point instead.\n\nQ: What facilities are available at the airport?\nA: The terminal is small and rustic, offering basic amenities including restrooms and a small waiting area. There is no air traffic control tower; pilots use a CTAF frequency to coordinate landings and takeoffs.\n\nQ: Can I rent a car at Catalina Airport?\nA: Rental cars are limited on the island. Most travelers arrange ground transportation in advance through Avalon-based services, taxis, or shuttle connections to nearby towns.\n\nQ: Are there overnight accommodations near the airport?\nA: There are no hotels directly at the airport due to its hilltop location. Visitors typically stay in Avalon, about 10 miles away, and arrange transportation to and from the airfield.",
+  "transport_tips": "Catalina Airport is located high in the island's interior, so flights land on a hilltop plateau regardless of which way you approach. Most visitors fly in via small charter or scheduled service from the Southern California mainland and then arrange ground transport down to Avalon. Be aware that weather and marine layer conditions can cause flight delays or cancellations, so build buffer time into your schedule.",
+  "local_tip": "Pack layers—the hilltop location makes Catalina Airport noticeably cooler and windier than downtown Avalon, especially in the afternoon when coastal winds pick up.",
+  "generatedAt": "2026-06-26T23:44:51.789Z",
+  "model": "MiniMax-M3"
+}

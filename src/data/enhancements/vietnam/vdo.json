@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VDO",
+    "icao": "VVVD",
+    "name": "Van Don International Airport",
+    "country": "Vietnam",
+    "city": "Van Don",
+    "lat": 21.1207,
+    "lon": 107.4154,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Van Don International Airport (VDO) is Vietnam's first privately developed and operated airport, inaugurated in December 2018 by Sun Group on Van Don Island in Quang Ninh Province. It serves as the primary air gateway to the UNESCO World Heritage site of Ha Long Bay, located just 50 km away. The modern terminal features distinctive architecture inspired by the karst limestone landscapes of the surrounding region.",
+  "faqs": "Q: How far is Van Don International Airport from Ha Long Bay?\nA: The airport is approximately 50 km (31 miles) from Ha Long City and the main Ha Long Bay cruise terminals, typically a 50-70 minute drive.\n\nQ: Are there direct international flights to Van Don Airport?\nA: Yes, the airport handles several international routes, including flights from China, South Korea, and Thailand, alongside its domestic network serving Hanoi, Ho Chi Minh City, and Da Nang.\n\nQ: Does Van Don Airport operate 24 hours?\nA: No, the airport operates within set flight hours and has limited late-night and early-morning service. Check with your airline for specific operating times.\n\nQ: Is there currency exchange available at the airport?\nA: Yes, currency exchange counters and ATMs are available in the terminal for converting to Vietnamese Dong.",
+  "transport_tips": "Taxis and ride-hailing services are readily available outside the terminal; pre-booked private transfers are recommended for a smoother journey to Ha Long Bay resorts. Official airport taxis and Sun Group shuttles offer fixed-rate services to popular destinations like Bai Chay and Tuan Chau. The drive to Ha Long City typically takes 50-70 minutes via the Hai Quan Bridge, with tolls included in most transfer fares.",
+  "local_tip": "If you have a long layover or early arrival, consider visiting the nearby Van Don Beaches or the Quan Lan Island ferry terminal — both are within 15-20 minutes and offer a quieter alternative to bustling Ha Long City.",
+  "generatedAt": "2026-06-29T23:23:05.546Z",
+  "model": "MiniMax-M3"
+}

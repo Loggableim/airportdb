@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RGN",
+    "icao": "VYYY",
+    "name": "Yangon International Airport",
+    "country": "Myanmar",
+    "city": "Yangon",
+    "lat": 16.9073,
+    "lon": 96.1332,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Yangon International Airport (RGN) is Myanmar's primary international gateway, located approximately 15 km north of downtown Yangon in Mingaladon Township. Originally established as a Royal Air Force base during World War II, it has evolved into the country's busiest aviation hub, serving as the main entry point for travelers visiting Myanmar's former capital and largest city. The airport features a single integrated terminal handling both domestic and international flights, with ongoing modernization efforts to expand capacity.",
+  "faqs": "Q: How far is Yangon International Airport from the city center?\nA: The airport is located about 15 km (9 miles) north of central Yangon, with typical journey times of 30-45 minutes depending on traffic.\n\nQ: Does the airport operate 24 hours?\nA: The airport generally operates from early morning until late evening, with most international arrivals and departures scheduled during daylight and early nighttime hours.\n\nQ: Are there currency exchange and ATM facilities available?\nA: Yes, the terminal has currency exchange counters and ATMs in both the arrivals and departures areas, though it's advisable to carry some Myanmar Kyat in cash as backup.\n\nQ: Is there a lounge available for passengers?\nA: Several airline and independent lounges operate in the international terminal, accessible to premium passengers or via day passes.\n\n",
+  "transport_tips": "",
+  "local_tip": "If you have a long layover or early arrival, the nearby Shwedagon Pagoda is only about 20-30 minutes away by taxi—a perfect way to experience Myanmar's most iconic landmark without detouring through the city later.",
+  "generatedAt": "2026-06-28T19:23:00.559Z",
+  "model": "MiniMax-M3"
+}

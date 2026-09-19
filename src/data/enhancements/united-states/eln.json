@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ELN",
+    "icao": "KELN",
+    "name": "Bowers Field",
+    "country": "United States",
+    "city": "Ellensburg",
+    "lat": 47.033,
+    "lon": -120.531,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Bowers Field is a general aviation airport serving Ellensburg, Washington, located in the heart of central Washington's Kittitas Valley. The airport has a long history dating back to the mid-20th century and primarily supports recreational flying, flight training, and general aviation activities. It also serves as a gateway for visitors to Ellensburg, home to Central Washington University and the famous Ellensburg Rodeo.",
+  "faqs": "Q: What types of aircraft does Bowers Field accommodate?\nA: Bowers Field primarily serves small general aviation aircraft, including single-engine planes, light twin-engine aircraft, and occasional business jets on its runways.\n\nQ: Are there commercial flights available at Bowers Field?\nA: No, Bowers Field is a general aviation airport without scheduled commercial airline service.\n\nQ: What facilities are available at the airport?\nA: The airport features runway lighting, aircraft parking areas, and tie-downs. Pilots can typically access fuel services and basic amenities on-site.\n\nQ: Can pilots get flight training at Bowers Field?\nA: Yes, the airport supports flight training activities, making it a useful base for student pilots in the region.\n\n",
+  "transport_tips": "The airport is located just a few miles northeast of downtown Ellensburg, making ground transportation quick and straightforward. Rental cars and taxi services are the most common options for visitors, as public transit options to the airport are limited. Driving to the airport from central Ellensburg typically takes less than 10 minutes.",
+  "local_tip": "If visiting Ellensburg for the annual rodeo—one of the top rodeos in the Pacific Northwest—book your tie-down or hangar space well in advance, as the airport sees increased traffic during this popular September event.",
+  "generatedAt": "2026-06-27T02:04:16.936Z",
+  "model": "MiniMax-M3"
+}

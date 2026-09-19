@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ACN",
+    "icao": "MMCC",
+    "name": "Ciudad Acuña International Airport",
+    "country": "Mexico",
+    "city": "Ciudad Acuña",
+    "lat": 29.3337,
+    "lon": -101.1006,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Ciudad Acuña International Airport (ACN/MMCC) serves the border city of Ciudad Acuña in the northern Mexican state of Coahuila, directly across the Rio Grande from Del Rio, Texas. The airport functions as a regional gateway supporting cross-border commerce, general aviation, and limited commercial traffic in the Coahuila–Texas border region. Its location makes it a convenient secondary option for travelers visiting the northern Mexican desert and the surrounding agricultural and industrial areas.",
+  "faqs": "Q: Where is Ciudad Acuña International Airport located?\nA: The airport is located in Ciudad Acuña, Coahuila, in northern Mexico, just across the border from Del Rio, Texas.\n\nQ: Does the airport offer commercial passenger flights?\nA: Commercial scheduled service is limited; the airport primarily handles general aviation, private flights, and charter operations, with most passengers using nearby larger airports for commercial travel.\n\nQ: How far is the airport from the US border?\nA: The airport is only a few kilometers from the Rio Grande and the Del Rio–Ciudad Acuña International Bridge, making border crossings quick and straightforward.\n\nQ: Are there car rental services at the airport?\nA: Ground transportation typically includes local taxis and pre-arranged private transfers; rental car options are limited, so visitors may want to arrange transportation in advance.",
+  "transport_tips": "The airport is only a short drive from downtown Ciudad Acuña and roughly 15–20 minutes from the Del Rio–Ciudad Acuña International Bridge connecting to Texas. Local taxis and private transfers are the most common ground transport options, as on-site rental car facilities are limited. Travelers crossing into the United States should check current border wait times, as the bridge can experience delays during peak hours.",
+  "local_tip": "If you're flying in for a quick trip, consider coordinating with a local hotel or transportation service ahead of time, since on-demand ride options and rental counters are sparse at this regional airport.",
+  "generatedAt": "2026-06-26T12:49:12.340Z",
+  "model": "MiniMax-M3"
+}

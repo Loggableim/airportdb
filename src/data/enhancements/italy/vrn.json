@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VRN",
+    "icao": "LIPX",
+    "name": "Verona Villafranca Valerio Catullo Airport",
+    "country": "Italy",
+    "city": "Caselle (VR)",
+    "lat": 45.395,
+    "lon": 10.8873,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Verona Villafranca Valerio Catullo Airport (VRN) is the main international gateway to the Veneto region, named after Valerio Catullo, an Italian aviator and patriot from Verona. Situated about 10 km southwest of Verona's historic center, it serves as a key entry point for visitors heading to Lake Garda, the Valpolicella wine region, and the Arena di Verona opera festival. The airport handles both scheduled and seasonal charter flights across Europe.",
+  "faqs": "Q: How far is Verona Airport from the city center?\nA: The airport is approximately 10 km southwest of Verona's city center, with a typical transfer time of 15-20 minutes by car or taxi.\n\nQ: Are there direct buses from the airport to Verona city?\nA: Yes, Aerobus service connects the airport to Verona Porta Nuova train station, running frequently throughout the day.\n\nQ: Can I reach Lake Garda from Verona Airport?\nA: Yes, the airport is a popular gateway to Lake Garda, located roughly 25 km to the west, with bus and shuttle services available to towns like Peschiera and Lazise.\n\nQ: Does the airport operate year-round?\nA: Yes, though flight frequency increases significantly during summer months and the opera season at the Arena di Verona.\n\n",
+  "transport_tips": "The Aerobus is the most economical option for reaching Verona's Porta Nuova station, with tickets available at the airport arrivals hall. Rental cars are readily available and recommended if you plan to explore the surrounding wine country or Lake Garda. Taxi rides to the city center are fixed-rate and should be confirmed before departure.",
+  "local_tip": "If you have a long layover or early morning arrival, head to the nearby wine cellars of Valpolicella—just a 15-minute drive—for a morning Amarone tasting before the tourist buses arrive.",
+  "generatedAt": "2026-06-28T18:45:20.896Z",
+  "model": "MiniMax-M3"
+}

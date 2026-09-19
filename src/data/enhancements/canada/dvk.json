@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DVK",
+    "icao": "",
+    "name": "Diavik Airport",
+    "country": "Canada",
+    "city": "Diavik",
+    "lat": 64.5114,
+    "lon": -110.289,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Diavik Airport is a remote airfield located in Canada's Northwest Territories, serving the Diavik Diamond Mine situated on a 20-square-kilometer island in Lac de Gras. The airport operates as a critical transportation link for the mine's rotational workforce, located approximately 300 kilometers northeast of Yellowknife. Due to its subarctic location, the airport experiences extreme seasonal variations in daylight and weather conditions.",
+  "faqs": "Q: Where is Diavik Airport located?\nA: Diavik Airport is located in the Northwest Territories of Canada, near Lac de Gras, approximately 300 km northeast of Yellowknife.\n\nQ: Who uses Diavik Airport?\nA: The airport primarily serves workers and personnel traveling to and from the Diavik Diamond Mine, one of Canada's most productive diamond mines.\n\nQ: Can the public use Diavik Airport?\nA: No, the airport is private and restricted to authorized mine personnel and charter flights related to mine operations.\n\nQ: What type of aircraft typically use Diavik Airport?\nA: The airport mainly handles smaller turboprop aircraft capable of operating on its short gravel runway in remote northern conditions.",
+  "transport_tips": "Access to Diavik Airport is strictly by charter aircraft from Yellowknife, as there are no road connections to the mine site. All flights must be pre-arranged through the mine's transportation logistics or authorized charter operators. Visitors should coordinate ground transportation to Yellowknife Airport (YZF) before booking connecting flights.",
+  "local_tip": "Pack warm layers even in summer—temperatures at this latitude can drop significantly, and the open tundra means little wind protection when walking between the aircraft and terminal.",
+  "generatedAt": "2026-06-27T09:07:34.490Z",
+  "model": "MiniMax-M3"
+}

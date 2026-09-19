@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GET",
+    "icao": "YGEL",
+    "name": "Geraldton Airport",
+    "country": "Australia",
+    "city": "Moonyoonooka",
+    "lat": -28.7961,
+    "lon": 114.707,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Geraldton Airport (GET/YGEL) is a medium-sized regional airport located in Moonyoonooka, approximately 10 km southeast of Geraldton in Western Australia's Mid West region. It serves as the main aviation gateway to the Coral Coast and supports both regular passenger services and general aviation, including flights to nearby mining operations. The airport features a single runway and modern terminal facilities that accommodate the region's growing tourism and resource sectors.",
+  "faqs": "Q: Which airlines operate from Geraldton Airport?\nA: Geraldton Airport is primarily served by regional carriers including Virgin Australia Regional Airlines and QantasLink, offering flights to Perth and other destinations in Western Australia.\n\nQ: How far is Geraldton Airport from the city center?\nA: The airport is located about 10 km southeast of Geraldton's central business district in the suburb of Moonyoonooka, roughly a 15-minute drive.\n\nQ: Does Geraldton Airport have car rental services?\nA: Yes, major car rental companies operate from the airport terminal, providing convenient access to the Mid West region and surrounding attractions.\n\nQ: Are there any international flights from Geraldton?\nA: No, Geraldton Airport handles only domestic flights, with Perth being the main hub for connections to international destinations.\n\n",
+  "transport_tips": "Taxis and rideshare services are available at the terminal for the short journey into Geraldton. Rental cars are recommended for exploring the wider Mid West region, including Kalbarri National Park and the Abrolhos Islands. The airport is well-signposted from the Brand Highway, making self-drive access straightforward.",
+  "local_tip": "If you're visiting during whale migration season (June to October), check the local flight boards for scenic whale-watching tours that occasionally operate from Geraldton Airport—offering a unique aerial perspective of humpback and southern right whales along the coast.",
+  "generatedAt": "2026-06-29T08:26:06.300Z",
+  "model": "MiniMax-M3"
+}

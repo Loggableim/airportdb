@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLU",
+    "icao": "KMLU",
+    "name": "Monroe Regional Airport",
+    "country": "United States",
+    "city": "Monroe",
+    "lat": 32.5109,
+    "lon": -92.0377,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Monroe Regional Airport (MLU) is a medium-sized public airport serving Monroe and the surrounding Ouachita Parish in northeastern Louisiana. It functions as the primary air gateway for the Monroe-West Monroe metropolitan area, supporting commercial service, general aviation, and corporate operations. The airport sits on a sizable footprint that supports multiple runways and serves as an important regional transportation link for northeast Louisiana.",
+  "faqs": "Q: Where is Monroe Regional Airport located?\nA: The airport is located in Monroe, Louisiana, approximately three miles east of the city's downtown area, serving Monroe and neighboring West Monroe.\n\nQ: What airlines operate at MLU?\nA: Monroe Regional Airport is served by regional carriers providing connections to larger hub airports, with service patterns that may vary by season.\n\nQ: Does the airport offer parking facilities?\nA: Yes, MLU provides on-site parking options for both short-term and long-term stays near the terminal building.\n\nQ: Are there rental cars available at MLU?\nA: Rental car counters are typically available at the terminal for travelers needing ground transportation.",
+  "transport_tips": "The airport is a short drive from downtown Monroe via US-80, with travel times usually under 15 minutes depending on traffic. Taxis, rideshare services, and rental cars are available for ground transportation. Hotel shuttles may also be offered by select lodging partners in the Monroe-West Monroe area.",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T03:38:27.565Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BPN",
+    "icao": "WALL",
+    "name": "Sultan Aji Muhammad Sulaiman Sepinggan International Airport",
+    "country": "Indonesia",
+    "city": "Balikpapan",
+    "lat": -1.2683,
+    "lon": 116.8945,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Sultan Aji Muhammad Sulaiman Sepinggan International Airport serves Balikpapan, the major oil and gas hub of East Kalimantan on the island of Borneo. Named after a former ruler of the historic Kutai Kartanegara Sultanate, it functions as the primary gateway to Indonesia's resource-rich eastern region. The airport handles significant domestic traffic and supports the energy industry's corporate travel demands.",
+  "faqs": "Q: How far is the airport from Balikpapan city center?\nA: The airport is approximately 5 km southeast of central Balikpapan, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines operate from Sepinggan Airport?\nA: Major Indonesian carriers including Garuda Indonesia, Lion Air, Citilink, Batik Air, and Super Air Jet serve BPN, with routes connecting to Jakarta, Surabaya, Makassar, and other cities.\n\nQ: Does the airport offer international flights?\nA: The airport has international terminal facilities and handles some cross-border flights, primarily regional services to Malaysia (Kuala Lumpur) and occasionally East Malaysia.\n\nQ: Are there overnight facilities for transit passengers?\nA: Limited overnight options exist, but the airport is relatively close to the city where hotels are readily available.\n\n",
+  "transport_tips": "Taxis and ride-hailing apps like Grab are available outside the terminal and offer the most convenient transport to the city. Hotel shuttle services can be arranged in advance through most Balikpapan hotels. During peak hours, allow extra time as road congestion in the city is common.",
+  "local_tip": "If flying to nearby destinations like Samarinda, consider the shorter Sepinggan-to-Sungai Siring route by taxi instead—it's often faster than connecting flights given the short distance between the two cities.",
+  "generatedAt": "2026-06-28T21:21:30.447Z",
+  "model": "MiniMax-M3"
+}

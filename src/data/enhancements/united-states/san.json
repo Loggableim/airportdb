@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SAN",
+    "icao": "KSAN",
+    "name": "San Diego International Airport",
+    "country": "United States",
+    "city": "San Diego",
+    "lat": 32.7336,
+    "lon": -117.19,
+    "type": "large_airport",
+    "size": 1017175
+  },
+  "summary": "San Diego International Airport (SAN), originally Lindbergh Field, sits about 3 miles northwest of downtown San Diego and is known for its close-in, bayfront location. It operates one main commercial runway, making it one of the busiest single-runway airports in the United States. Its compact layout and downtown proximity give travelers quick access to the city, harbor, and Balboa Park.",
+  "faqs": "Q: How far is San Diego International Airport from downtown?\nA: It is roughly 3 miles (5 km) northwest of downtown San Diego, typically a 10–15 minute drive depending on traffic.\n\nQ: How many terminals does SAN have?\nA: SAN has Terminal 1 and Terminal 2, with airlines split between them; check your carrier before heading to the airport.\n\nQ: Is San Diego International Airport a single-runway airport?\nA: Yes, its commercial operations use one main runway, which contributes to its reputation as one of the busiest single-runway airports in the U.S.\n\nQ: What is the best way to get to downtown San Diego from SAN?\nA: Taxis, rideshares, and public buses are available; the Metropolitan Transit System Route 992 connects the airport area with downtown and is a budget-friendly option.",
+  "transport_tips": "Rideshare pickup zones are marked outside each terminal; follow signs rather than accepting unsolicited rides. The MTS Route 992 bus offers a cheap connection to downtown and Santa Fe Depot, while taxis and shuttles are readily available. Because the airport is so close to downtown, traffic on Harbor Drive and I-5 can be heavy during commute hours, so allow extra time.",
+  "local_tip": "Frequent visitors know that if you're landing westbound on Runway 27, the left side of the plane offers a close-up view of downtown San Diego as you approach.",
+  "generatedAt": "2026-09-19T23:18:41.011Z",
+  "model": "deepseek-v4.1-flash"
+}

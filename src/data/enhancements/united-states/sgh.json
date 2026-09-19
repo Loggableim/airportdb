@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SGH",
+    "icao": "KSGH",
+    "name": "Springfield-Beckley Municipal Airport",
+    "country": "United States",
+    "city": "Springfield",
+    "lat": 39.8403,
+    "lon": -83.8402,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Springfield-Beckley Municipal Airport is a joint civilian-military facility located in Springfield, Ohio, about 25 miles northeast of Dayton. It serves as home base for the 178th Wing of the Ohio Air National Guard and supports general aviation, corporate, and military flight operations. The airport features a rich aviation heritage tied to both regional general aviation activity and Air National Guard missions.",
+  "faqs": "Q: Does Springfield-Beckley Municipal Airport offer commercial passenger flights?\nA: No, the airport does not currently provide scheduled commercial passenger service. It primarily supports general aviation, corporate aviation, and military operations.\n\nQ: What military unit is based at the airport?\nA: The 178th Wing of the Ohio Air National Guard is headquartered at Springfield-Beckley, operating intelligence, surveillance, and reconnaissance missions.\n\nQ: How far is the airport from major Ohio cities?\nA: It is approximately 25 miles northeast of Dayton, about 45 miles west of Columbus, and roughly 70 miles north of Cincinnati.\n\nQ: Are there aircraft maintenance or fueling services available?\nA: Yes, the airport offers general aviation services including fueling, hangar storage, and limited maintenance through on-site fixed-base operators (FBOs).\n\n",
+  "transport_tips": "Since the airport lacks scheduled commercial service, ground transportation typically requires a personal vehicle, rental car, or pre-arranged rideshare. It is conveniently located near Interstate 70, providing easy road access to Dayton, Columbus, and surrounding areas. The drive to downtown Springfield takes only about 10 minutes.",
+  "local_tip": "If visiting for military business or to watch Air National Guard exercises, contact the 178th Wing public affairs office in advance, as base access requires coordination and identification.",
+  "generatedAt": "2026-06-30T02:10:20.287Z",
+  "model": "MiniMax-M3"
+}

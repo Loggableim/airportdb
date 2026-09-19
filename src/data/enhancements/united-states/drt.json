@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DRT",
+    "icao": "KDRT",
+    "name": "Del Rio International Airport",
+    "country": "United States",
+    "city": "Del Rio",
+    "lat": 29.3742,
+    "lon": -100.927,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Del Rio International Airport (DRT/KDRT) is a public airport serving Del Rio and Val Verde County in southwest Texas, located just north of the Rio Grande and the Mexican border. It offers commercial Essential Air Service flights, general aviation, and military-related traffic, with a compact terminal and convenient access to Lake Amistad and Big Bend country. The airport has a single main runway and reflects its border location through international general aviation potential.",
+  "faqs": "Q: What airlines serve Del Rio International Airport?\nA: Scheduled service varies and has historically been provided under the Essential Air Service program; check current carriers and destinations before booking, as routes can change.\n\nQ: How far is the airport from downtown Del Rio?\nA: It is about 2–3 miles northwest of downtown Del Rio, a short drive of roughly 5–10 minutes depending on traffic.\n\nQ: Is there parking at DRT?\nA: Yes, the airport has on-site short-term and long-term parking; it is generally easy to use and less congested than larger airports.\n\nQ: Does DRT have rental cars?\nA: Rental car options are limited but typically available; arrange in advance, especially for late arrivals or weekends.",
+  "transport_tips": "The airport is a short drive from downtown Del Rio via Veterans Boulevard and US-90; taxis and rideshare are limited, so pre-arrange a ride or rental car. On-site rental cars are the most flexible option for reaching Lake Amistad, Laughlin AFB, or the international bridge to Ciudad Acuña. Allow extra time if you are crossing the border, as bridge wait times can vary.",
+  "local_tip": "Frequent visitors know the terminal is tiny and often unstaffed between flights, so check in online and confirm TSA screening hours before arriving; there are few food options, so eat in town first.",
+  "generatedAt": "2026-09-19T23:06:29.153Z",
+  "model": "deepseek-v4.1-flash"
+}

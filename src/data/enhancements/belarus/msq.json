@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MSQ",
+    "icao": "UMMS",
+    "name": "Minsk National Airport",
+    "country": "Belarus",
+    "city": "Minsk",
+    "lat": 53.8881,
+    "lon": 28.04,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Minsk National Airport (MSQ/UMMS) is the primary international gateway of Belarus, located approximately 42 km east of the capital city of Minsk near the town of Smalyavichy. As the largest and busiest airport in the country, it serves as the main hub for Belavia, the national carrier, and handles the majority of Belarus's international air traffic. The airport features a modern single-terminal complex and has historically been a key node connecting Western Europe, Russia, and the post-Soviet states.",
+  "faqs": "Q: How far is Minsk National Airport from the city center?\nA: The airport is located about 42 kilometers east of Minsk, with typical travel times ranging from 45 minutes to over an hour depending on traffic and transport mode.\n\nQ: What is the airport code for Minsk's main airport?\nA: The IATA code is MSQ and the ICAO code is UMMS. It is also sometimes referred to as Minsk-2 to distinguish it from the older Minsk-1 airport that has since closed.\n\nQ: Does the airport operate 24 hours?\nA: Yes, Minsk National Airport operates around the clock to accommodate scheduled flights, charter services, and cargo operations.\n\nQ: Which airlines operate the most flights from MSQ?\nA: Belavia is the dominant carrier and hub airline, operating the majority of routes, with additional service from Russian carriers such as Aeroflot and various European and Middle Eastern airlines.",
+  "transport_tips": "The most common way to reach Minsk from the airport is by official airport bus or marshrutka (minibus), which run regularly and offer an affordable option directly to the city. Taxis are readily available outside the terminal, but it is advisable to use official airport taxi services or pre-booked transfers for fair pricing. For those driving, the airport is well-connected via the M2 highway and offers both short-term and long-term parking options near the terminal.",
+  "local_tip": "Exchange currency before leaving the airport as rates in the terminal tend to be less favorable, and keep small Belarusian ruble notes handy for marshrutka fares which often cannot give change for large bills.",
+  "generatedAt": "2026-06-28T17:06:13.644Z",
+  "model": "MiniMax-M3"
+}

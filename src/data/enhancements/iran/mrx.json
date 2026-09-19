@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MRX",
+    "icao": "OIAM",
+    "name": "Mahshahr Airport",
+    "country": "Iran",
+    "city": "Mahshahr",
+    "lat": 30.5562,
+    "lon": 49.1519,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mahshahr Airport (MRX/OIAM) serves the port city of Mahshahr in southwestern Iran's Khuzestan Province, acting as a key gateway to one of the country's most important petrochemical and oil industry hubs. Situated near the Persian Gulf coast and the Shadegan wetland ecosystem, the airport primarily accommodates business travelers connected to the energy sector. It features a single runway capable of handling medium-sized aircraft and operates scheduled domestic services alongside charter flights.",
+  "faqs": "Q: What is the main purpose of Mahshahr Airport?\nA: The airport primarily serves business travelers working in Mahshahr's petrochemical and oil industries, which form the economic backbone of the region.\n\nQ: Are there international flights from Mahshahr?\nA: The airport mainly operates domestic flights to Tehran and other Iranian cities, with occasional international charter services.\n\nQ: How far is the airport from Mahshahr city center?\nA: The airport is located a short distance from the city, typically reachable within 15-20 minutes by road.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic amenities including a small café, limited retail, and standard check-in services typical of a regional Iranian airport.",
+  "transport_tips": "Taxis are the most common way to reach the airport from Mahshahr and nearby petrochemical complexes; arrange a return ride in advance as airport pickup can be limited. For travelers heading to the industrial zones or the port, hiring a car with a driver familiar with the area is recommended. Shared taxis (savari) operate between the city center and the airport during flight operating hours.",
+  "local_tip": "If visiting the Mahshahr area, combine your trip with a visit to the nearby Shadegan wetland, one of Iran's most important bird habitats and a designated Ramsar site, especially rewarding during migration season.",
+  "generatedAt": "2026-06-29T15:21:10.885Z",
+  "model": "MiniMax-M3"
+}

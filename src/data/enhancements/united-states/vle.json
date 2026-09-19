@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VLE",
+    "icao": "",
+    "name": "Valle Airport",
+    "country": "United States",
+    "city": "Grand Canyon",
+    "lat": 35.6506,
+    "lon": -112.148,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Valle Airport (VLE) is a small general aviation airfield situated in the high desert plateau of northern Arizona, approximately 30 miles south of Grand Canyon Village. The airport primarily serves private pilots, charter flights, and air tour operators providing access to Grand Canyon National Park. Its remote location near the southern boundary of the Colorado Plateau makes it a popular staging point for scenic flights and a convenient alternative to the busier Grand Canyon National Park Airport.",
+  "faqs": "Q: What is Valle Airport primarily used for?\nA: Valle Airport mainly serves general aviation, private aircraft, and air tour operators offering scenic flights over the Grand Canyon.\n\nQ: Are there commercial airline flights at Valle Airport?\nA: No, Valle is a small general aviation facility and does not offer scheduled commercial airline service.\n\nQ: How far is Valle Airport from the Grand Canyon South Rim?\nA: The airport is located roughly 30 miles south of Grand Canyon Village, requiring about a 45-minute drive to reach the South Rim entrance.\n\nQ: Is fuel available at Valle Airport?\nA: Limited fuel services may be available, but pilots are advised to check current availability with the airport operator before arrival.\n\n",
+  "transport_tips": "Ground transportation options are limited, so renting a car in advance or arranging a shuttle through a tour operator is recommended. The drive to Grand Canyon Village takes approximately 45 minutes via Highway 64 northbound. Ride-sharing services are unreliable in this remote area, so planning return transportation in advance is essential.",
+  "local_tip": "Time your arrival or departure around sunrise or sunset—the elevated desert location offers unobstructed views of the canyon rim glowing in golden light, a perspective few travelers get to experience from the air.",
+  "generatedAt": "2026-06-27T02:28:28.724Z",
+  "model": "MiniMax-M3"
+}

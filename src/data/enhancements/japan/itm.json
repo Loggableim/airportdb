@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ITM",
+    "icao": "RJOO",
+    "name": "Osaka Itami International Airport",
+    "country": "Japan",
+    "city": "Osaka",
+    "lat": 34.7809,
+    "lon": 135.4408,
+    "type": "large_airport",
+    "size": 51150
+  },
+  "summary": "Osaka Itami International Airport (ITM/RJOO) is one of Japan's busiest domestic airports, serving the Osaka metropolitan area despite its international designation. Originally opened in 1939 as a military airfield, it was converted to civilian use after World War II and has since become a key hub for domestic flights operated by major carriers like JAL and ANA. Located in Itami city within Hyogo Prefecture, it sits closer to central Osaka than the region's other major gateway, Kansai International Airport.",
+  "faqs": "Q: Is Osaka Itami Airport international?\nA: Despite its name, Itami primarily handles domestic flights. Most international traffic to the Osaka region uses Kansai International Airport (KIX) instead.\n\nQ: Which airlines operate from Itami Airport?\nA: The airport is a major domestic hub for Japan Airlines (JAL) and All Nippon Airways (ANA), with flights connecting to most major Japanese cities.\n\nQ: How far is Itami Airport from central Osaka?\nA: The airport is located in Itami city, Hyogo Prefecture, roughly 12-15 kilometers northwest of central Osaka, making it relatively close to the city center.\n\nQ: Does Itami Airport share facilities with any military base?\nA: Yes, the airport shares its runway and facilities with a Japan Air Self-Defense Force base, which contributes to its operational characteristics.",
+  "transport_tips": "The Osaka Monorail provides direct access from Itami Airport to central Osaka and connects to the city's broader rail network. Highway buses also run frequently to Osaka, Kyoto, Kobe, and other regional destinations, often with journey times comparable to",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T15:57:14.174Z",
+  "model": "MiniMax-M3"
+}

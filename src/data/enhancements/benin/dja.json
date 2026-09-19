@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DJA",
+    "icao": "DBBD",
+    "name": "Djougou Airport",
+    "country": "Benin",
+    "city": "Djougou",
+    "lat": 9.6921,
+    "lon": 1.6378,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Djougou Airport (DJA/DBBD) is a small regional airport serving the city of Djougou in the Donga Department of northwestern Benin. It provides essential air access to a predominantly agricultural region known for cotton production and proximity to the Atacora mountain range. The facility supports limited domestic flights and primarily serves local travel needs rather than commercial tourism.",
+  "faqs": "Q: Does Djougou Airport have scheduled commercial flights?\nA: Scheduled commercial service is very limited; most flights are operated on charter or seasonal basis, so travelers should verify availability in advance.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, it offers basic terminal facilities, a short unpaved runway, and minimal passenger amenities.\n\nQ: Is Djougou Airport open to international flights?\nA: No, it is primarily a domestic facility and is not typically used for international operations; the nearest international airport is Cotonou's Cardinal Bernardin Gantin International Airport.\n\nQ: What is the airport best used for?\nA: It primarily serves regional connectivity, government travel, and access to northwestern Benin's rural and agricultural areas.",
+  "transport_tips": "The airport is located just a few kilometers from Djougou's town center, making taxi or motorcycle taxi (zémidjan) the most common ground transport options. Road access via the RNIE 3 highway connects Djougou to Parakou and Natitingou, useful for onward travel. Travelers arriving without pre-arranged transport should expect to negotiate fares locally.",
+  "local_tip": "Carry cash in CFA francs (XOF) since the airport and surrounding area have limited card payment infrastructure, and mobile networks can be unreliable in parts of the Donga region.",
+  "generatedAt": "2026-06-27T21:03:48.566Z",
+  "model": "MiniMax-M3"
+}

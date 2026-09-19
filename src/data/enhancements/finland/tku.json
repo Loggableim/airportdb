@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TKU",
+    "icao": "EFTU",
+    "name": "Turku Airport",
+    "country": "Finland",
+    "city": "Turku",
+    "lat": 60.5141,
+    "lon": 22.2628,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Turku Airport (TKU) is the main aviation gateway for southwestern Finland, located about 8 km north of Turku city center near the village of Lento. As the second-busiest airport in Finland by passenger volume, it primarily handles domestic flights to Helsinki-Vantaa alongside seasonal European routes to destinations like Gdańsk, Riga, and Stockholm. The single-terminal facility serves both commercial traffic and a notable general aviation community, reflecting Turku's strong maritime and aviation heritage.",
+  "faqs": "Q: How far is Turku Airport from the city center?\nA: The airport is approximately 8 km north of central Turku, with typical transfer times of 15-20 minutes by car or bus.\n\nQ: What airlines operate from Turku Airport?\nA: Finnair operates frequent shuttle flights to Helsinki, while seasonal carriers serve destinations like Gdańsk, Riga, Stockholm, and various Mediterranean holiday spots.\n\nQ: Does the airport operate 24 hours?\nA: No, Turku Airport has limited operating hours. Check with your airline for specific departure and arrival times, as the terminal may close outside scheduled flight periods.\n\nQ: Is there a duty-free shop at Turku Airport?\nA: Yes, a small duty-free and convenience shop is available in the terminal, though the selection is more limited than at larger Finnish airports.\n\n",
+  "transport_tips": "Bus line 1 connects the airport to Turku city center and the central bus station, with journey times around 25 minutes and services timed to match flight schedules. Taxis are readily available outside the terminal and cost approximately €25-35 to central Turku. Car rentals from providers like Hertz, Avis, and Sixt are available on-site, and parking is free for short stays in the P1 lot.",
+  "local_tip": "If you have a longer layover, consider taking the quick bus ride into Turku city center to visit the medieval Turku Castle or stroll along the Aura River waterfront—the old town is compact and walkable, making it feasible even with limited time between flights.",
+  "generatedAt": "2026-06-28T20:10:41.340Z",
+  "model": "MiniMax-M3"
+}

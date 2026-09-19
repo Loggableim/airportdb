@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HGE",
+    "icao": "SVHG",
+    "name": "Higuerote Airport",
+    "country": "Venezuela",
+    "city": "Higuerote",
+    "lat": 10.4625,
+    "lon": -66.0928,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Higuerote Airport is a small regional airfield serving the coastal town of Higuerote in Venezuela's Miranda state, part of the Barlovento sub-region known for its Caribbean beaches and vibrant Afro-Venezuelan heritage. It primarily handles general aviation and occasional charter flights, providing access to one of the closest beach destinations from Caracas. The airport's modest size reflects its role as a gateway for tourism to the surrounding Playa Chichiriviche and other coastal attractions rather than a hub for major commercial traffic.",
+  "faqs": "Q: What is the IATA code for Higuerote Airport?\nA: The IATA code is HGE, and the ICAO code is SVHG.\n\nQ: Does Higuerote Airport have scheduled commercial flights?\nA: Scheduled commercial service is very limited; the airport mainly supports general aviation, charter operations, and occasional regional flights.\n\nQ: How far is Higuerote Airport from the town center?\nA: The airport is located just a few kilometers from central Higuerote, typically reachable within 10 minutes by vehicle.\n\nQ: What is the main attraction served by this airport?\nA: It serves the Barlovento coastal region, popular for its beaches, festivals celebrating Afro-Venezuelan culture, and proximity to Caracas.",
+  "transport_tips": "Taxis and mototaxis are commonly available outside the terminal for short trips into Higuerote town or to nearby beaches. Having local currency on hand is advisable as card payment options may be limited. Renting a car in advance is recommended if you plan to explore the broader Barlovento coast.",
+  "local_tip": "Visit during the annual San Juan Bautista festival in June to experience the region's famous Afro-Venezuelan drumming and dance traditions, with the airport providing convenient access for cultural travelers.",
+  "generatedAt": "2026-06-26T21:09:52.445Z",
+  "model": "MiniMax-M3"
+}

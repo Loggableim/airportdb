@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BIS",
+    "icao": "KBIS",
+    "name": "Bismarck Municipal Airport",
+    "country": "United States",
+    "city": "Bismarck",
+    "lat": 46.7727,
+    "lon": -100.7469,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Bismarck Municipal Airport serves as the primary aviation gateway to North Dakota's capital city, located just southeast of downtown Bismarck. The airport handles regional commercial service alongside general aviation and military operations, with the North Dakota Air National Guard's 119th Wing based on the field. It functions as an important transportation hub for central North Dakota, connecting the Bismarck-Mandan metropolitan area to major national destinations.",
+  "faqs": "Q: How far is Bismarck Municipal Airport from downtown Bismarck?\nA: The airport is conveniently located approximately 3 miles southeast of downtown Bismarck, making it a quick 10-15 minute drive.\n\nQ: Does Bismarck Airport offer nonstop flights to major cities?\nA: Yes, the airport typically offers nonstop service to several hub cities including Denver, Minneapolis, and other regional destinations through major carriers.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport provides both short-term and long-term parking options adjacent to the terminal building.\n\nQ: Are there rental cars available at BIS?\nA: Yes, several major rental car companies operate at the airport with counters located inside the terminal.",
+  "transport_tips": "The easiest way to reach the airport is by car via Interstate 94 or Highway 83, both of which provide direct access. Taxi services and rideshare options like Uber and Lyft are available for trips to and from the terminal. The short distance from downtown makes the airport accessible without requiring extensive ground transportation planning.",
+  "local_tip": "North Dakota weather can change rapidly, especially in winter, so allow extra time for travel to the airport during snowstorms and check your flight status frequently as delays due to weather are common from November through March.",
+  "generatedAt": "2026-06-29T02:43:25.295Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ODB",
+    "icao": "LEBA",
+    "name": "Córdoba Airport",
+    "country": "Spain",
+    "city": "Córdoba",
+    "lat": 37.842,
+    "lon": -4.8489,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Córdoba Airport (ODB/LEBA) is a regional airport serving the historic city of Córdoba in Andalusia, southern Spain. It primarily handles general aviation, flight training, and limited scheduled services, functioning more as a complement to larger Andalusian hubs like Seville and Málaga. The airport provides convenient access to a city renowned for its UNESCO-listed Great Mosque–Cathedral and centuries of Moorish heritage.",
+  "faqs": "Q: Does Córdoba Airport have regular commercial flights?\nA: Scheduled commercial service is very limited; most travelers use larger airports in Seville or Málaga. The facility mainly supports private, charter, and training flights.\n\nQ: How far is the airport from Córdoba city center?\nA: The airport is located approximately 6 kilometers southwest of the city center, a short drive of around 10–15 minutes by road.\n\nQ: Are there car rental services available at the airport?\nA: Rental car options are limited and may require pre-booking, as the airport operates on a small scale compared to major Spanish hubs.\n\nQ: What is the main attraction visitors come to Córdoba for?\nA: The Mezquita (Great Mosque–Cathedral) is the city's most famous landmark, a UNESCO World Heritage Site dating back to the 8th century.",
+  "transport_tips": "Taxis are the most reliable way to reach the city center, as public transport options serving the airport are infrequent. Driving is straightforward via the A-45 highway connecting Córdoba to nearby cities. Pre-booking a rental car or taxi is advisable, especially if arriving outside of daytime hours.",
+  "local_tip": "If you have a layover or extra time, head straight to the Judería (Jewish Quarter) for the narrowest, most photogenic streets in the city — and stop at a local taberna for salmorejo, Córdoba's signature cold tomato soup.",
+  "generatedAt": "2026-06-26T08:20:01.941Z",
+  "model": "MiniMax-M3"
+}

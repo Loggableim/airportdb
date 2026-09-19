@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TFU",
+    "icao": "ZUTF",
+    "name": "Chengdu Tianfu International Airport",
+    "country": "China",
+    "city": "Chengdu (Jianyang)",
+    "lat": 30.3125,
+    "lon": 104.4413,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Chengdu Tianfu International Airport (TFU) opened in July 2021 as Chengdu's second major airport, located in Jianyang about 50 km southeast of the city center. Its striking terminal architecture is inspired by the ancient Shu sun bird golden artifact, a nod to Sichuan's rich cultural heritage. It serves as a major hub for Sichuan Airlines and is designed to eventually handle 120 million passengers annually across multiple phases.",
+  "faqs": "Q: How far is Chengdu Tianfu Airport from the city center?\nA: TFU is located approximately 50 km southeast of central Chengdu in Jianyang, about a 45-60 minute drive depending on traffic.\n\nQ: Does Chengdu Tianfu have metro access?\nA: Yes, Metro Line 18 connects the airport directly to Chengdu's urban rail network, and a dedicated high-speed rail station links TFU to downtown Chengdu in roughly 30-40 minutes.\n\nQ: Are there two airports serving Chengdu?\nA: Yes. TFU handles most major domestic and international routes while Chengdu Shuangliu International Airport (CTU) continues to operate, primarily handling some domestic and regional flights.\n\nQ: Which airlines use TFU as a main hub?\nA: Sichuan Airlines and Chengdu Airlines have major hub operations at Tianfu, along with many Chinese carriers and international airlines serving the airport.\n\n",
+  "transport_tips": "The high-speed rail link from Tianfu to downtown Chengdu is often the fastest and most reliable option, reaching the city center in under 40 minutes. Taxis and ride-hailing apps like Didi are readily available but can be pricey for the 50 km journey. Metro Line 18 is the most budget-friendly choice and operates until late evening.",
+  "local_tip": "If you have a long layover, take the metro or rail into Chengdu city and visit the Giant Panda Breeding Research Base, or simply explore the airport's own cultural exhibits showcasing Shu civilization artifacts, which are unique to this facility.",
+  "generatedAt": "2026-06-28T23:03:40.598Z",
+  "model": "MiniMax-M3"
+}

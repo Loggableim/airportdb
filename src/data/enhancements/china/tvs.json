@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TVS",
+    "icao": "ZBSN",
+    "name": "Tangshan Sannühe Airport",
+    "country": "China",
+    "city": "Tangshan (Fengrun)",
+    "lat": 39.7178,
+    "lon": 118.0026,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Tangshan Sannühe Airport (TVS/ZBSN) is a small regional airport serving the city of Tangshan in Hebei Province, China, located in the Fengrun district. It primarily handles domestic flights and serves as a convenient gateway for travelers visiting the industrial and historical sites of the Tangshan region. The airport provides an alternative to the larger Beijing airports for residents of northern Hebei.",
+  "faqs": "Q: Where is Tangshan Sannühe Airport located?\nA: The airport is situated in the Fengrun district of Tangshan, approximately 20 km northeast of the city center in Hebei Province, northern China.\n\nQ: What type of flights does Tangshan Sannühe Airport operate?\nA: It primarily serves domestic flights connecting Tangshan to other Chinese cities, with limited international service.\n\nQ: How does this airport compare to Beijing's airports?\nA: Tangshan Sannühe is much smaller and offers fewer routes, but it is significantly closer to Tangshan city and provides quicker access for travelers from the region.\n\nQ: Is the airport open 24 hours?\nA: No, it operates during scheduled flight hours, so travelers should confirm their flight times in advance.",
+  "transport_tips": "Taxis and private car services are the most common ways to reach the airport from Tangshan city center, typically taking around 30-40 minutes depending on traffic. Public bus services connect the airport to downtown Tangshan, though they are less frequent. Renting a car or arranging a hotel pickup is recommended for early morning or late evening flights.",
+  "local_tip": "Bring your own snacks and water, as dining options inside the terminal are limited—Tangshan is known for its hearty northern Chinese cuisine, so plan to try local specialties like Tangshan-style fried dumplings (棋子烧饼) in the city after landing.",
+  "generatedAt": "2026-06-26T23:12:13.922Z",
+  "model": "MiniMax-M3"
+}

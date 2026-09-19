@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ILM",
+    "icao": "KILM",
+    "name": "Wilmington International Airport",
+    "country": "United States",
+    "city": "Wilmington",
+    "lat": 34.2723,
+    "lon": -77.9051,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Wilmington International Airport (ILM) is a medium-sized public airport located approximately four miles north of downtown Wilmington, North Carolina. It serves as the primary air gateway for southeastern North Carolina, including popular coastal destinations such as Wrightsville Beach, Carolina Beach, and Kure Beach. The airport supports both commercial passenger service and general aviation, with a single terminal serving regional and select mainline routes.",
+  "faqs": "Q: How far is Wilmington International Airport from downtown Wilmington?\nA: The airport is approximately 4 miles north of the city's historic downtown riverfront district, typically a 10 to 15 minute drive.\n\nQ: Which airlines operate from ILM?\nA: Wilmington International has historically been served by carriers including American Airlines, Delta Air Lines, and United Airlines, along with regional affiliates like PSA Airlines and Republic Airways.\n\nQ: Does the airport have military connections?\nA: ILM shares facilities with the adjacent New Hanover County Sheriff's Office helicopter operations and has historically had ties to U.S. Coast Guard aviation support for the nearby Atlantic coast.\n\nQ: Are there car rental services available at the airport?\nA: Yes, several major rental car companies operate on-site at Wilmington International, including Enterprise, Hertz, and Avis, with counters located in or adjacent to the terminal.",
+  "transport_tips": "Rental cars are the most convenient option for reaching nearby beaches and historic sites, as the airport is well-positioned near major roadways including US-17 and I-40. Ride-share services like Uber and Lyft are available but may have longer wait times due to limited demand. Taxis are also available, and many area hotels offer shuttle services that should be arranged in advance.",
+  "local_tip": "If you have time before your flight, the airport's proximity to the Cape Fear River and downtown Wilmington means you can grab fresh seafood or visit the famous EUE/Screen Gems Studios nearby, where many films and TV shows have been produced.",
+  "generatedAt": "2026-06-29T02:27:27.729Z",
+  "model": "MiniMax-M3"
+}

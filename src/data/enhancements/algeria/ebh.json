@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EBH",
+    "icao": "DAOY",
+    "name": "El Bayadh Airport",
+    "country": "Algeria",
+    "city": "El Bayadh",
+    "lat": 33.7217,
+    "lon": 1.0925,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "El Bayadh Airport (EBH/DAOY) is a small regional airport serving the city of El Bayadh, the capital of El Bayadh Province in northwestern Algeria. Situated in the Saharan Atlas foothills at an elevation of approximately 1,500 meters above sea level, it primarily handles domestic flights and general aviation. The airport provides a vital link for the region's inhabitants and supports travel to an area known for its steppe landscapes and proximity to the Djebel Amour mountain range.",
+  "faqs": "Q: What is the IATA code for El Bayadh Airport?\nA: The IATA code is EBH, and the ICAO code is DAOY.\n\nQ: Are there international flights from El Bayadh Airport?\nA: No, El Bayadh Airport primarily serves domestic flights within Algeria, connecting to major hubs such as Algiers.\n\nQ: How far is the airport from El Bayadh city center?\nA: The airport is located a short distance from the city, typically a brief drive to the center of El Bayadh.\n\nQ: Does El Bayadh Airport have scheduled commercial service?\nA: Yes, the airport operates scheduled domestic flights, though service frequency may be limited due to its small size.\n\n",
+  "transport_tips": "Taxis are the most common way to reach El Bayadh Airport from the city center and are readily available. Since the airport handles limited traffic, arriving well in advance of departure is recommended. Private car hire or arranging transport through a local hotel can also provide reliable options for travelers.",
+  "local_tip": "If you have a layover or extra time, ask locals about visiting the nearby Ksour (fortified granaries) scattered throughout the region, which offer a fascinating glimpse into traditional Saharan architecture.",
+  "generatedAt": "2026-06-27T21:06:51.182Z",
+  "model": "MiniMax-M3"
+}

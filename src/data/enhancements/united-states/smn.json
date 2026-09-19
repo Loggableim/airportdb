@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SMN",
+    "icao": "KSMN",
+    "name": "Lemhi County Airport",
+    "country": "United States",
+    "city": "Salmon",
+    "lat": 45.1222,
+    "lon": -113.882,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Lemhi County Airport (SMN) is a public-use general aviation facility serving the remote mountain community of Salmon, Idaho. Nestled in the Salmon River Valley near the Continental Divide, the airport provides critical air access to a region known for its rugged backcountry and proximity to the Frank Church River of No Return Wilderness. It primarily handles private aircraft, air charter, and emergency medical flights due to the area's geographic isolation.",
+  "faqs": "Q: What is Lemhi County Airport primarily used for?\nA: The airport primarily serves general aviation, private aircraft, air charter services, and medevac flights, as commercial airline service is not available at this facility.\n\nQ: Are there commercial flights at Lemhi County Airport?\nA: No, SMN does not offer scheduled commercial passenger service. Travelers typically fly in via private or chartered aircraft.\n\nQ: What is the airport's location advantage?\nA: The airport provides essential access to central Idaho's wilderness areas, including the Salmon River and the Frank Church-River of No Return Wilderness, making it a popular base for fishing, hunting, and backcountry expeditions.\n\nQ: How large is the airport's runway?\nA: The airport features a single asphalt runway that can accommodate small to mid-size general aviation aircraft, including turboprops commonly used for regional charter flights.\n\n",
+  "transport_tips": "Rental cars are not readily available at the airport, so most visitors arrange ground transportation in advance through hotels or local contacts in Salmon. The airport is located a short drive southeast of downtown Salmon, and taxi or shuttle services should be booked ahead of time. Self-driving visitors should note that the nearest major highway connections involve mountain roads, which can be impacted by winter weather.",
+  "local_tip": "Pilots flying in should file a flight plan and check mountain weather conditions carefully, as the surrounding terrain creates challenging wind patterns and afternoon thermal turbulence is common in summer months.",
+  "generatedAt": "2026-06-29T19:57:56.746Z",
+  "model": "MiniMax-M3"
+}

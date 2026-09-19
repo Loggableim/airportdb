@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ENI",
+    "icao": "RPEN",
+    "name": "El Nido Airport",
+    "country": "Philippines",
+    "city": "El Nido",
+    "lat": 11.2024,
+    "lon": 119.4161,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "El Nido Airport is a small regional airport serving El Nido, a renowned tourist destination on the northern tip of Palawan island in the Philippines. It primarily handles short-haul domestic flights, connecting visitors to the area's famous limestone cliffs, hidden lagoons, and island-hopping routes. The airport is known for its dramatic approach, as pilots navigate through mountainous terrain to land on its short runway.",
+  "faqs": "Q: Which airlines operate at El Nido Airport?\nA: AirSWIFT is the primary carrier offering regular flights to and from El Nido Airport, with connections to Manila and Cebu.\n\nQ: How far is the airport from El Nido town proper?\nA: The airport is located approximately 5 kilometers from El Nido town center, with a typical transfer time of 15 to 20 minutes by tricycle or van.\n\nQ: What facilities are available at the terminal?\nA: The terminal is small and basic, offering check-in counters, a small waiting area, and limited food and beverage options. Travelers should arrive early as services are minimal.\n\nQ: Are there weight restrictions on flights?\nA: Due to the small turboprop aircraft used on most routes, passengers may encounter stricter baggage allowances than on larger commercial flights.",
+  "transport_tips": "Tricycles and shared vans are the most common ways to reach El Nido town from the airport, with fares typically negotiated in advance. Many resorts offer pre-arranged airport pickup services, which can be a convenient option given the remote location. Renting a scooter or arranging a private transfer is recommended for those staying further along the coast.",
+  "local_tip": "Book your return flight with buffer time — weather-related delays are common at El Nido due to sudden tropical showers and afternoon thunderstorms that can reduce visibility around the surrounding karst formations.",
+  "generatedAt": "2026-06-26T14:14:18.730Z",
+  "model": "MiniMax-M3"
+}

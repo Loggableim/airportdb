@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KMG",
+    "icao": "ZPPP",
+    "name": "Kunming Changshui International Airport",
+    "country": "China",
+    "city": "Kunming",
+    "lat": 25.1103,
+    "lon": 102.9367,
+    "type": "large_airport",
+    "size": 51150
+  },
+  "summary": "Kunming Changshui International Airport is the primary aviation gateway for Yunnan Province in southwestern China, replacing the older Wujiaba Airport in 2012. Located approximately 25 km northeast of Kunming's city center, it features a striking gold-colored terminal complex inspired by the region's diverse ethnic cultures. As one of China's top ten busiest airports, it serves as a major hub for domestic routes and a key transit point for flights to Southeast Asia.",
+  "faqs": "Q: How far is Kunming Changshui Airport from the city center?\nA: The airport is located about 24-30 km northeast of downtown Kunming, with travel times typically ranging from 40-60 minutes depending on traffic.\n\nQ: Which airlines operate major hubs at KMG?\nA: China Eastern Airlines, Kunming Airlines, and Lucky Air maintain significant hub operations here, with numerous other carriers serving domestic and international routes.\n\nQ: Does the airport offer international flights?\nA: Yes, the airport serves international destinations across Southeast Asia, South Asia, and the Middle East, including cities like Bangkok, Singapore, Kuala Lumpur, and Dubai.\n\nQ: What is the airport's terminal layout?\nA: The airport has a single large integrated terminal handling both domestic and international flights, with a concourse design that separates arrivals and departures efficiently.",
+  "transport_tips": "The Airport Express Bus connects to downtown Kunming at several convenient stops including the railway station, with journey times of around 45 minutes. Metro Line 6 provides a direct rail link between the airport and the city center, offering the most predictable travel time. Taxi and ride-hailing services like Didi are readily available at designated pickup zones outside the terminal.",
+  "local_tip": "Kunming sits at an elevation of about 1,900 meters, so take it easy during your first day if arriving from lower altitudes—you may experience mild shortness of breath until you acclimatize to the high-altitude environment.",
+  "generatedAt": "2026-06-28T15:57:33.093Z",
+  "model": "MiniMax-M3"
+}

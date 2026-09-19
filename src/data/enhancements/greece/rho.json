@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RHO",
+    "icao": "LGRP",
+    "name": "Rhodes International Airport \"Diagoras\"",
+    "country": "Greece",
+    "city": "Rhodes",
+    "lat": 36.4054,
+    "lon": 28.0862,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Rhodes International Airport 'Diagoras,' officially known as Diagoras International Airport, is the main gateway to the island of Rhodes, Greece, located about 14 km southwest of Rhodes City in the village of Paradeisi. Named after the ancient Greek sculptor and architect of the nearby Acropolis of Lindos, the airport is the fourth busiest in Greece, handling primarily seasonal charter and low-cost flights from across Europe during the busy summer months. The single terminal accommodates both domestic and international traffic efficiently, making it a vital hub for the Dodecanese island group's tourism.",
+  "faqs": "Q: How far is the airport from Rhodes Old Town?\nA: The airport is approximately 14 km (about 8.7 miles) from Rhodes Old Town, and the drive typically takes 20-30 minutes depending on traffic.\n\nQ: Are there direct bus services from the airport to Rhodes City?\nA: Yes, public bus services operated by KTEL connect the airport with Rhodes City. Buses run more frequently during the summer tourist season.\n\nQ: Does the airport have car rental services?\nA: Yes, several major car rental companies including Hertz, Avis, Budget, and local providers have desks at the airport terminal.\n\nQ: Is the airport open 24 hours?\nA: The airport generally operates during scheduled flight hours, with extended operations during the summer high season but is not a true 24-hour facility.",
+  "transport_tips": "Pre-booking a taxi or private transfer is recommended during the peak summer season, as demand can be high. The public bus (KTEL) is the most economical option, with regular services to Rhodes City. Rental cars are widely available and offer the most flexibility for exploring the island's many beaches and historic sites.",
+  "local_tip": "The airport's name 'Diagoras' honors the ancient Greek sculptor; look for the small monument and informational signs about him near the terminal entrance—a nice touch before exploring the island's classical heritage.",
+  "generatedAt": "2026-06-28T18:31:00.882Z",
+  "model": "MiniMax-M3"
+}

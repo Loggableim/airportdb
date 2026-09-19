@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LGW",
+    "icao": "EGKK",
+    "name": "London Gatwick Airport",
+    "country": "United Kingdom",
+    "city": "London",
+    "lat": 51.1487,
+    "lon": -0.1857,
+    "type": "large_airport",
+    "size": 1049275
+  },
+  "summary": "London Gatwick Airport (LGW/EGKK) is the United Kingdom's second-busiest airport and one of the world's busiest single-runway airports, located in Crawley, West Sussex, approximately 30 miles south of central London. Originally opened in 1933 as a racing track aerodrome, it now serves over 40 million passengers annually across two terminals (North and South) connected by a monorail shuttle. Gatwick is a major hub for low-cost carriers, particularly easyJet, and offers extensive short-haul European connectivity alongside long-haul services to destinations in the Americas, Africa, and Asia.",
+  "faqs": "Q: How far is Gatwick Airport from central London?\nA: Gatwick is located roughly 28 miles (45 km) south of central London, with journey times of around 30 minutes by Gatwick Express train to Victoria Station or about 60-90 minutes by car depending on traffic.\n\nQ: Does Gatwick have more than one runway?\nA: Gatwick operates with a single main runway but maintains a second standby runway that is only used when the main runway is closed for maintenance or emergencies. This makes it one of the world's most efficient single-runway operations.\n\nQ: Which airlines fly from Gatwick?\nA: Gatwick is a major base for easyJet and also serves British Airways, TUI, Ryanair, Norwegian (historically), Wizz Air, and many other carriers offering both short-haul European and long-haul international routes.\n\nQ: Is there a transit link between North and South Terminals?\nA: Yes, the two terminals are connected by a free automated people mover shuttle that runs every few minutes, with a journey time of approximately two minutes.",
+  "transport_tips": "The Gatwick Express is the fastest rail link to London, reaching Victoria Station in about 30 minutes, though it is more expensive than Southern or Thameslink services which also stop at Gatwick and connect to more London stations including London Bridge, Blackfriars, and St Pancras International. National Express and Megabus coaches offer direct services to many UK cities, often at lower cost than the train, while taxis to central London typically cost £80-£120 and can take over 90 minutes during peak times.",
+  "local_tip": "If you have a long layover or early arrival, the Charlwood Walk is a popular circular footpath just north of the airfield perimeter where",
+  "generatedAt": "2026-06-28T14:43:16.998Z",
+  "model": "MiniMax-M3"
+}

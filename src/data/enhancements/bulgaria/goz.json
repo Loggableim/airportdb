@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GOZ",
+    "icao": "LBGO",
+    "name": "Gorna Oryahovitsa Airport",
+    "country": "Bulgaria",
+    "city": "Gorna Oryahovitsa",
+    "lat": 43.1514,
+    "lon": 25.7129,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Gorna Oryahovitsa Airport serves the historic city of Gorna Oryahovitsa and the nearby Veliko Tarnovo region in central northern Bulgaria. Once a significant regional hub during the mid-20th century, it now primarily handles charter, cargo, and general aviation traffic. Its location makes it a convenient gateway to one of Bulgaria's most culturally rich areas, including the medieval capital of Veliko Tarnovo.",
+  "faqs": "Q: What does Gorna Oryahovitsa Airport primarily serve?\nA: The airport mainly handles charter flights, cargo operations, and general aviation, with limited scheduled commercial service.\n\nQ: Is the airport close to any major tourist destinations?\nA: Yes, it is approximately 10 km from Veliko Tarnovo, the historic capital of the Second Bulgarian Empire and a popular tourist destination.\n\nQ: Are there customs and immigration facilities at the airport?\nA: As an international airport with IATA and ICAO designations, it is equipped for international arrivals and departures when operational.\n\nQ: How large is Gorna Oryahovitsa Airport?\nA: It is classified as a medium-sized airport with a single main runway suitable for regional and narrow-body aircraft.",
+  "transport_tips": "Taxis and pre-booked transfers are the most common ways to reach the airport, as public transit options are limited. The nearby town of Gorna Oryahovitsa is about 5 km away, while Veliko Tarnovo is roughly a 15-minute drive via the E85 road. Travelers should arrange ground transportation in advance, especially for early morning or late evening flights.",
+  "local_tip": "If you have time before or after your flight, visit the Tsarevets Fortress in nearby Veliko Tarnovo—it's a stunning medieval stronghold that served as the heart of the Second Bulgarian Empire and offers panoramic views of the Yantra River.",
+  "generatedAt": "2026-06-26T11:24:44.445Z",
+  "model": "MiniMax-M3"
+}

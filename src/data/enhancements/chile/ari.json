@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ARI",
+    "icao": "SCAR",
+    "name": "Chacalluta International Airport",
+    "country": "Chile",
+    "city": "Arica",
+    "lat": -18.3485,
+    "lon": -70.3387,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Chacalluta International Airport (ARI) serves Arica, the northernmost major city in Chile, situated in the Atacama Desert region just 18 km from the Peruvian border. The airport is a key gateway for travelers exploring the Andean highlands, the Lauca National Park, and the nearby coastal Atacama scenery. Its proximity to Tacna, Peru, makes it a common transit point for cross-border travelers in the Andean border region.",
+  "faqs": "Q: How far is Chacalluta Airport from Arica city center?\nA: The airport is approximately 18 km (11 miles) north of Arica, with a typical drive time of 20-30 minutes depending on traffic and border crossing conditions.\n\nQ: Does the airport handle international flights?\nA: Yes, despite its medium size, the airport has international status and handles flights to and from Peru and occasional regional South American destinations.\n\nQ: Are there facilities like food and restrooms inside the terminal?\nA: The terminal is modest but includes a small café, restrooms, and basic services. It's advisable to eat before arriving as dining options are limited.\n\nQ: Can I cross over to Peru from this airport?\nA: Yes, the airport is very close to the Chacalluta border crossing with Peru, and Tacna is just about 45 minutes away, making day trips feasible.",
+  "transport_tips": "Taxis and shared transfer services are the primary ways to reach the airport from Arica; pre-booking a transfer is recommended during border-crossing peak times. Rental cars are available at the terminal for travelers planning to explore the broader Arica and Parinacota Region. Be aware that road conditions near the border can be affected by immigration checkpoints, so allow extra time.",
+  "local_tip": "Pack a light jacket even in summer—Arica's coastal location can bring cool, humid mornings known as 'camanchaca' fog, especially during winter months from June to August.",
+  "generatedAt": "2026-06-29T08:43:00.065Z",
+  "model": "MiniMax-M3"
+}

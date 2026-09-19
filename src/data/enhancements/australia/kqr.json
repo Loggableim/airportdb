@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KQR",
+    "icao": "YKAR",
+    "name": "Karara Airport",
+    "country": "Australia",
+    "city": "Karara",
+    "lat": -29.2172,
+    "lon": 116.6872,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Karara Airport is a small remote airfield in the mid-west region of Western Australia, serving the Karara iron ore mining operation. It functions primarily as a fly-in fly-out (FIFO) transport hub for mining personnel rather than a commercial passenger airport. The facility supports one of the region's significant magnetite and hematite mining projects.",
+  "faqs": "Q: Is Karara Airport open to the public?\nA: As a private facility tied to mining operations, it is generally not available for public use without prior arrangement through the operator.\n\nQ: What airlines fly to Karara?\nA: Charter flights operated by mining logistics and FIFO providers are the primary air service, rather than scheduled commercial carriers.\n\nQ: Are there passenger facilities at the airport?\nA: Facilities are minimal and limited to basic waiting areas designed for workers arriving and departing on shift changes.\n\nQ: How far is Karara from Perth?\nA: The airport is located roughly 500 km north of Perth in a remote part of the mid-west, with no direct scheduled air route from the capital.",
+  "transport_tips": "Travel to Karara is almost always arranged through mining employment",
+  "local_tip": "",
+  "generatedAt": "2026-06-26T21:10:51.932Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MKT",
+    "icao": "KMKT",
+    "name": "Mankato Regional Airport",
+    "country": "United States",
+    "city": "Mankato",
+    "lat": 44.2248,
+    "lon": -93.9191,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mankato Regional Airport is a small public-use airport serving the city of Mankato in south-central Minnesota, approximately six miles northeast of downtown. The facility supports general aviation, flight training, and limited charter operations, playing a key role in connecting the region to broader air travel networks. Originally established as a municipal field, it was redesignated as a regional airport to reflect its growing role in supporting business travel and air cargo in the greater Mankato area.",
+  "faqs": "Q: Does Mankato Regional Airport offer commercial passenger flights?\nA: The airport primarily serves general aviation, with no scheduled commercial passenger service currently operating. Travelers seeking commercial flights typically use Minneapolis-Saint Paul International Airport about 80 miles away.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, taxiways, fueling services, hangar space, and facilities supporting flight training and aircraft maintenance.\n\nQ: Is the airport open to the public?\nA: Yes, the airport is a public-use facility, though access to certain areas like the apron and hangars is typically restricted to authorized personnel and pilots.\n\nQ: Can aircraft be chartered from Mankato Regional?\nA: Charter and air taxi services can be arranged through local fixed-base operators (FBOs) at the airport for on-demand travel needs.",
+  "transport_tips": "Reaching the airport is easiest by car, with rental vehicles available through prior arrangement with local services in Mankato. The drive from downtown Mankato takes roughly 10 to 15 minutes via US-169 and local roads. Since commercial service is limited, many travelers coordinate ground transportation in advance or arrange rides through local taxi and shuttle providers.",
+  "local_tip": "Frequent visitors recommend calling the FBO ahead of arrival, especially during winter months when Minnesota weather can cause unexpected delays or runway condition changes.",
+  "generatedAt": "2026-06-27T00:54:38.918Z",
+  "model": "MiniMax-M3"
+}

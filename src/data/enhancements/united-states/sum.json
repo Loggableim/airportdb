@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SUM",
+    "icao": "KSMS",
+    "name": "Sumter Airport",
+    "country": "United States",
+    "city": "Sumter",
+    "lat": 33.995,
+    "lon": -80.3613,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Sumter Airport (SUM/KSMS) is a small general aviation facility serving the city of Sumter in central South Carolina. The airport supports private pilots, flight training, and corporate aircraft operations in the region, which is also home to nearby Shaw Air Force Base. With a mid-range size score, it primarily handles non-commercial traffic and offers basic amenities for general aviation users.",
+  "faqs": "Q: Does Sumter Airport offer commercial airline service?\nA: No, SUM is a general aviation airport with no scheduled commercial flights. Travelers needing commercial service typically use larger nearby airports.\n\nQ: What is the nearest major commercial airport?\nA: Columbia Metropolitan Airport (CAE) is approximately 45 miles southwest of Sumter and offers the closest commercial airline service.\n\nQ: Is Shaw Air Force Base the same as Sumter Airport?\nA: No, they are separate facilities. Shaw AFB is a military installation, while Sumter Airport is a civilian general aviation airport located several miles away.\n\nQ: Can pilots rent aircraft at Sumter Airport?\nA: Aircraft rental and flight training availability may vary; pilots should contact the airport operator or local fixed-base operators for current services.",
+  "transport_tips": "Reaching Sumter Airport by car is straightforward via US Route 76 and local roads. Rental car services are limited at the airfield itself, so arranging ground transportation in advance through local agencies in Sumter is recommended. The airport is a short drive from downtown Sumter, typically under 15 minutes.",
+  "local_tip": "Frequent visitors should note that Sumter's hot, humid summers and mild winters mean preheating aircraft and staying hydrated during summer operations are practical considerations. The Swan Lake Iris Gardens, a local landmark, is worth visiting if you have downtime between flights.",
+  "generatedAt": "2026-06-27T08:31:08.701Z",
+  "model": "MiniMax-M3"
+}

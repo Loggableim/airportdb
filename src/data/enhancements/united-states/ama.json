@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AMA",
+    "icao": "KAMA",
+    "name": "Rick Husband Amarillo International Airport",
+    "country": "United States",
+    "city": "Amarillo",
+    "lat": 35.2179,
+    "lon": -101.7064,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Rick Husband Amarillo International Airport serves the Texas Panhandle region and is named in honor of NASA astronaut Rick Husband, a native of Amarillo who served as commander of the Space Shuttle Columbia on its final mission in 2003. The medium-sized facility functions as the primary commercial gateway for Amarillo and surrounding communities, offering commercial passenger service alongside general aviation operations. Its location along Interstate 40 makes it a convenient access point for travelers exploring the Palo Duro Canyon area and Route 66 heritage sites.",
+  "faqs": "Q: How far is the airport from downtown Amarillo?\nA: The airport is located approximately 7 miles east of downtown Amarillo, roughly a 15-minute drive under normal traffic conditions.\n\nQ: Which airlines operate at Rick Husband Amarillo International Airport?\nA: The airport is served by several major regional carriers offering connections to hub airports including Dallas/Fort Worth, Denver, and Houston.\n\nQ: Is the airport named after an astronaut?\nA: Yes, the airport is named after Colonel Rick Husband, a native of Amarillo who commanded the Space Shuttle Columbia during the STS-107 mission in 2003.\n\nQ: Does the airport offer international flights?\nA: Despite its international designation, the airport primarily handles domestic flights, with no scheduled international passenger service.\n\n",
+  "transport_tips": "Rental cars are available at the terminal and are the most convenient option for exploring the sprawling Texas Panhandle region. Taxi services and rideshare apps operate from the airport, though availability can be limited during late-night arrivals. The airport has direct access from Interstate 40, making it an easy stop for travelers driving historic Route 66.",
+  "local_tip": "If you have a layover or extra time, the airport displays a memorial tribute to Rick Husband near the terminal featuring artifacts and information about the Columbia mission, worth a quick visit for anyone interested in space history.",
+  "generatedAt": "2026-06-29T02:12:38.646Z",
+  "model": "MiniMax-M3"
+}

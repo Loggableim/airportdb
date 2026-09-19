@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IDA",
+    "icao": "KIDA",
+    "name": "Idaho Falls Regional Airport",
+    "country": "United States",
+    "city": "Idaho Falls",
+    "lat": 43.5146,
+    "lon": -112.071,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Idaho Falls Regional Airport (IDA), also known as Fanning Field, is a public airport located in the heart of eastern Idaho's Snake River Plain. It serves as the primary gateway to popular destinations including Yellowstone National Park, Grand Teton National Park, and nearby resort areas like Jackson Hole and Sun Valley. The airport supports regional commercial service and general aviation, making it a key access point for both tourism and business travel in the region.",
+  "faqs": "Q: How far is Idaho Falls Regional Airport from Yellowstone National Park?\nA: The airport is approximately 90 miles from the West Yellowstone entrance, making it the closest commercial airport to the park's western side.\n\nQ: What airlines serve Idaho Falls Regional Airport?\nA: Delta Connection, United Express, and Allegiant Air offer scheduled passenger service, with nonstop flights to hubs like Salt Lake City, Denver, and seasonal destinations.\n\nQ: Is there military presence at the airport?\nA: The Idaho Air National Guard maintains a presence at the adjacent facilities, and the airport has historical military connections dating back to World War II.\n\nQ: What is the airport code IDA used for?\nA: IDA is the IATA code assigned to Idaho Falls Regional Airport, while KIDA is its ICAO code used primarily for flight planning and air traffic control purposes.\n\n",
+  "transport_tips": "Rental cars are available at the terminal and are the most convenient way to reach destinations like Yellowstone or Jackson Hole. Taxis, rideshares, and shuttle services operate from the airport for trips into downtown Idaho Falls, which is only about 5 miles northwest of the terminal. During winter months, allow extra time for road conditions, as regional highways can experience snow and ice.",
+  "local_tip": "If you're heading to Grand Teton or Yellowstone, consider booking a rental car in advance—summer demand spikes dramatically, and the scenic drive through Teton Pass is far more flexible than relying on limited shuttle options from the airport.",
+  "generatedAt": "2026-06-29T03:05:05.719Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MDE",
+    "icao": "SKRG",
+    "name": "Jose Maria Córdova International Airport",
+    "country": "Colombia",
+    "city": "Medellín",
+    "lat": 6.1645,
+    "lon": -75.4231,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "José María Córdova International Airport (MDE) is Colombia's second-busiest airport, serving the Medellín metropolitan area from its location in the municipality of Rionegro, about 25 km east of the city. Named after a celebrated 19th-century Colombian military hero, it opened in 1985 to handle growing international traffic that the smaller Olaya Herrera Airport could no longer accommodate. Nestled in the Aburrá Valley's eastern highlands, the airport is known for its dramatic mountain setting and frequent morning fog.",
+  "faqs": "Q: How far is José María Córdova Airport from Medellín city center?\nA: The airport is approximately 25 km (16 miles) east of central Medellín, situated in the municipality of Rionegro. Travel time typically ranges from 35 to 60 minutes depending on traffic and weather conditions.\n\nQ: Why is this airport located so far from the city?\nA: The Aburrá Valley's narrow geography and mountainous terrain made it difficult to expand urban airports. The highland plateau location in Rionegro provided flat land suitable for longer runways while remaining accessible to the metro area.\n\nQ: Does MDE handle domestic and international flights?\nA: Yes, José María Córdova handles both domestic routes within Colombia and international flights to destinations across the Americas and Europe. It is the main international gateway for the Antioquia region.\n\nQ: What is the airport's IATA and ICAO code?\nA: The IATA code is MDE and the ICAO code is SKRG. These codes are used in flight bookings and aviation operations respectively.",
+  "transport_tips": "Official airport taxis and shared shuttle services offer fixed-rate transfers to Medellín; always book through the official counters inside the terminal rather than approaching drivers outside. The highway connecting Rionegro to Medellín can experience heavy congestion during rush hours, so allow extra time for early morning or evening departures. Buses operated by several companies also run between the airport and the city, providing a budget-friendly alternative.",
+  "local_tip": "Build in at least a 30-minute buffer for morning flights—dense fog in the Aburrá Valley frequently causes delays and is part of daily life at MDE, so experienced travelers schedule accordingly.",
+  "generatedAt": "2026-06-28T19:22:05.816Z",
+  "model": "MiniMax-M3"
+}

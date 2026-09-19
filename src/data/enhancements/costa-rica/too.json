@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TOO",
+    "icao": "MRSV",
+    "name": "San Vito de Java Airport",
+    "country": "Costa Rica",
+    "city": "Coto Brus",
+    "lat": 8.827,
+    "lon": -82.9589,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "San Vito de Java Airport (TOO/MRSV) is a small regional airstrip serving the town of Coto Brus in Costa Rica's southern Puntarenas Province, near the Panamanian border. Nestled in a mountainous, coffee-growing region, the airport primarily handles general aviation and occasional domestic charter flights. It provides an alternative gateway to the remote southern Pacific zone known for cloud forests and ecotourism.",
+  "faqs": "Q: What is San Vito de Java Airport used for?\nA: The airport primarily serves general aviation, private aircraft, and occasional charter flights for travelers visiting the Coto Brus region in southern Costa Rica.\n\nQ: Are there commercial airline services at TOO?\nA: No scheduled commercial flights operate from this airport. Visitors typically arrive via small charter aircraft or by road from other Costa Rican airports.\n\nQ: Where exactly is the airport located?\nA: It is situated in Coto Brus canton, Puntarenas Province, in southern Costa Rica, near the border with Panama.\n\nQ: What is the area around the airport known for?\nA: The surrounding region is famous for coffee cultivation, cloud forest ecosystems, and the Italian immigrant heritage of the town of San Vito.",
+  "transport_tips": "The airport is best accessed by private vehicle or taxi from the nearby town of San Vito, which is only a short drive away. Renting a car in Costa Rica's southern zone is recommended for exploring the wider Puntarenas region. Public bus services connect San Vito to larger cities like San José, though the journey is long due to mountainous terrain.",
+  "local_tip": "If visiting during coffee harvest season (typically November through February), ask locals about guided tours of nearby fincas to experience the region's renowned coffee-making heritage firsthand.",
+  "generatedAt": "2026-06-26T18:13:40.393Z",
+  "model": "MiniMax-M3"
+}

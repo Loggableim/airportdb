@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PHO",
+    "icao": "PAPO",
+    "name": "Point Hope Airport",
+    "country": "United States",
+    "city": "Point Hope",
+    "lat": 68.3488,
+    "lon": -166.799,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Point Hope Airport (PHO) is a small public-use airport serving the Inupiat village of Point Hope, located on a sandy spit extending into the Chukchi Sea in northwestern Alaska. The airport provides essential connectivity for one of the oldest continuously inhabited settlements in North America, supporting passenger travel, mail delivery, and cargo for the remote community. Its single gravel runway accommodates regional commuter flights, as the village is not connected by road to any other community.",
+  "faqs": "Q: What airlines serve Point Hope Airport?\nA: Regional carriers such as Bering Air typically provide scheduled passenger service between Point Hope and other Alaska communities, though schedules are subject to weather conditions.\n\nQ: How far is the airport from Point Hope village?\nA: The airport is located a short distance from the village center, typically a quick drive or taxi ride.\n\nQ: When is the airport operational?\nA: The airport operates during daylight hours in fair weather; flights may be delayed or canceled due to fog, snow, or strong crosswinds common in the Arctic.\n\nQ: Is there a terminal at Point Hope Airport?\nA: The airport has a small terminal building with basic amenities, suitable for the limited traffic it serves.",
+  "transport_tips": "Ground transportation options are limited, so arrange a pickup in advance with a local contact or your lodge. Most travelers rely on the airline's courtesy shuttle or pre-arranged vehicle transfer. Taxi services are minimal, and rental cars are generally not available at this remote location.",
+  "local_tip": "If visiting during whaling season in spring, check the community's whale harvest schedule in advance, as flights can be heavily booked and the village becomes very busy with cultural activities.",
+  "generatedAt": "2026-06-26T20:31:25.799Z",
+  "model": "MiniMax-M3"
+}

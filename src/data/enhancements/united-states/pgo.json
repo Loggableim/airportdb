@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PGO",
+    "icao": "KPSO",
+    "name": "Stevens Field",
+    "country": "United States",
+    "city": "Pagosa Springs",
+    "lat": 37.2863,
+    "lon": -107.056,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Stevens Field is a small general aviation airport serving Pagosa Springs in southwestern Colorado, situated in Archuleta County amid the San Juan Mountains at roughly 7,600 feet elevation. The airport supports private pilots, charter flights, and air ambulance services for the surrounding recreational and resort community. Its high-elevation location requires performance planning but rewards visitors with immediate access to hot springs, ski areas, and wilderness destinations.",
+  "faqs": "Q: What is the elevation of Stevens Field and does it affect flight operations?\nA: The airport sits at approximately 7,600 feet above sea level, which reduces aircraft performance and requires longer runway distances for takeoff and landing, especially in warm summer months.\n\nQ: Are there commercial airline flights to Stevens Field?\nA: No scheduled commercial service operates at PGO; the airport serves primarily general aviation, charter, and private aircraft.\n\nQ: What facilities are available at the airport?\nA: The airport features a single runway, tie-down parking, fuel services, and a terminal/office building. Services are limited compared to larger airports.\n\nQ: Can the airport handle business jets?\nA: Light to mid-size general aviation aircraft typically use Stevens Field, but the runway length and elevation limit larger jet operations.\n\n",
+  "transport_tips": "Rental cars are available but inventory is limited, so arranging transportation in advance is recommended, especially during peak ski season. The airport is only a few miles from downtown Pagosa Springs, making taxi and rideshare services short and affordable. Many visitors flying private charter arrange ground transport through their operator or lodging property.",
+  "local_tip": "Fuel up before arrival if possible—fuel prices at mountain airports like PGO tend to be higher than at lower-elevation fields, and availability can be limited during winter weather events.",
+  "generatedAt": "2026-06-27T05:04:15.150Z",
+  "model": "MiniMax-M3"
+}

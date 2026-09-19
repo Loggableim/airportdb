@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GDR",
+    "icao": "",
+    "name": "Angra dos Reis Airport",
+    "country": "Brazil",
+    "city": "Angra dos Reis",
+    "lat": -22.9753,
+    "lon": -44.3071,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Angra dos Reis Airport (GDR) is a small regional airport serving the coastal municipality of Angra dos Reis in Rio de Janeiro state, Brazil. The airport primarily handles general aviation and limited commercial flights, providing access to one of Brazil's most scenic coastal destinations known for its bay containing 365 islands. It serves as a convenient gateway for tourists heading to the region's beaches, snorkeling spots, and the nearby Ilha Grande.",
+  "faqs": "Q: What is Angra dos Reis Airport primarily used for?\nA: The airport mainly serves general aviation, private flights, and occasional regional commercial operations, catering to tourists visiting the popular coastal region.\n\nQ: Are there regular commercial flights to GDR?\nA: Scheduled commercial service is limited; most visitors arrive via Rio de Janeiro's Galeão International Airport followed by a road transfer or bus ride along the scenic Green Coast.\n\nQ: What is Angra dos Reis best known for?\nA: The region is famous for its stunning bay with hundreds of islands, pristine beaches, crystal-clear waters, and as a departure point for ferries to Ilha Grande.\n\nQ: Is the airport open to international flights?\nA: No, GDR is a domestic small airport without customs or immigration facilities for international operations.\n\n",
+  "transport_tips": "From the airport, taxi and rideshare services are the most common way to reach Angra dos Reis town center, located a short distance away. Rental cars can be arranged, though many visitors opt for the BR-101 highway route from Rio de Janeiro. Ferries to Ilha Grande depart from the town center's main pier, making the airport-to-ferry connection straightforward.",
+  "local_tip": "If arriving by private or charter flight, book ground transportation in advance during summer months (December–March) and Carnival, as demand spikes with tourism to the islands and demand for boat tours is highest then.",
+  "generatedAt": "2026-06-27T05:06:53.202Z",
+  "model": "MiniMax-M3"
+}

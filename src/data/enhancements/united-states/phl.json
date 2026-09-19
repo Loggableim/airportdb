@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PHL",
+    "icao": "KPHL",
+    "name": "Philadelphia International Airport",
+    "country": "United States",
+    "city": "Philadelphia",
+    "lat": 39.8719,
+    "lon": -75.2411,
+    "type": "large_airport",
+    "size": 1031075
+  },
+  "summary": "Philadelphia International Airport (PHL) is the largest airport in Pennsylvania and a major hub for American Airlines, serving over 30 million passengers annually. Located about 7 miles southwest of downtown Philadelphia, it spans across Philadelphia and Tinicum Township and features seven terminals connected by walkways and shuttles. The airport dates back to 1925 and served as a naval air station during World War II before being renamed to its current title in 1953.",
+  "faqs": "Q: How do I get from Philadelphia International Airport to downtown Philadelphia?\nA: The SEPTA Airport Regional Rail Line offers direct service between the airport and Center City Philadelphia, with trains running every 30 minutes and a journey time of about 25 minutes to Jefferson Station.\n\nQ: How many terminals does PHL have?\nA: Philadelphia International Airport has seven terminals labeled A-West, A-East, B, C, D, E, and F, connected by pedestrian walkways and shuttle buses.\n\nQ: Is PHL a hub for any major airline?\nA: Yes, Philadelphia International Airport is a primary hub for American Airlines, offering numerous domestic and international connections.\n\nQ: How early should I arrive for my flight at PHL?\nA: It is recommended to arrive at least 2 hours before domestic flights and 3 hours before international flights, especially given that security wait times can vary significantly.",
+  "transport_tips": "The SEPTA Airport Line is the most affordable and reliable option for traveling between the airport and Center City Philadelphia, costing around $8 each way. Taxis and rideshares are readily available but can take longer due to traffic on I-95, especially during rush hour. If driving, the airport offers multiple parking options including short-term, economy, and cell phone lots for passenger pickups.",
+  "local_tip": "If you have a long layover, take the SEPTA Airport Line one stop to Eastwick and grab a famous Philadelphia cheesesteak from a nearby local shop—it's the most authentic way to experience the city without leaving the airport area.",
+  "generatedAt": "2026-06-28T14:56:21.607Z",
+  "model": "MiniMax-M3"
+}

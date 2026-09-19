@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LDX",
+    "icao": "SOOM",
+    "name": "Saint-Laurent-du-Maroni Airport",
+    "country": "French Guiana",
+    "city": "Saint-Laurent-du-Maroni",
+    "lat": 5.4819,
+    "lon": -54.035,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Saint-Laurent-du-Maroni Airport (LDX) is a regional airport serving the western French Guianese town of Saint-Laurent-du-Maroni, located along the Maroni River near the Surinamese border. The airport provides essential connectivity for this remote Amazonian region, supporting both local residents and visitors exploring the cultural heritage of the Maroni River basin. It primarily handles domestic flights connecting to Cayenne, the capital of French Guiana.",
+  "faqs": "Q: What is the airport code for Saint-Laurent-du-Maroni Airport?\nA: The airport's IATA code is LDX and its ICAO code is SOOM.\n\nQ: Are there international flights from Saint-Laurent-du-Maroni Airport?\nA: No, the airport primarily operates domestic flights within French Guiana, mainly to Cayenne-Félix-Eboué Airport. Cross-border travel to Suriname is typically done by river.\n\nQ: Is there a control tower at the airport?\nA: The airport has limited tower operations; pilots should check current NOTAMs for the latest service availability and frequency information.\n\nQ: What is the runway surface?\nA: The runway at Saint-Laurent-du-Maroni Airport is paved and suitable for regional turboprop aircraft.",
+  "transport_tips": "The airport is located very close to the town center, typically a short drive of just a few minutes by taxi. Given Saint-Laurent-du-Maroni's small size, rental cars and taxis are the main ground transport options, with no rail or scheduled bus service. Confirm transportation arrangements in advance, as taxi availability can be limited during off-peak hours.",
+  "local_tip": "If you have time before your flight, visit the historic Camp de la Transportation museum in town—a former penal colony site that offers fascinating insight into the region's complex history and is easily walked to from the town center.",
+  "generatedAt": "2026-06-30T00:16:04.900Z",
+  "model": "MiniMax-M3"
+}

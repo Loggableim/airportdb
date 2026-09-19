@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ERF",
+    "icao": "EDDE",
+    "name": "Erfurt-Weimar Airport",
+    "country": "Germany",
+    "city": "Erfurt",
+    "lat": 50.9783,
+    "lon": 10.9607,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Erfurt-Weimar Airport (ERF) is a regional airport in Thuringia, Germany, named after the two most prominent cities it serves: Erfurt, the state capital, and Weimar, the nearby cultural hub associated with Goethe and Schiller. Opened in its current form in the 1990s, it operates primarily with low-cost carriers and seasonal charter flights. The airport features a single compact terminal that allows for quick processing times typical of smaller regional facilities.",
+  "faqs": "Q: How far is the airport from Erfurt city center?\nA: Erfurt-Weimar Airport is located approximately 5 km west of Erfurt's city center, making it a quick 15-20 minute journey.\n\nQ: What airlines operate from Erfurt-Weimar Airport?\nA: The airport is primarily served by low-cost carriers such as Ryanair and Wizz Air, along with seasonal charter flights to holiday destinations.\n\nQ: Is there public transport to the airport?\nA: Yes, tram line 4 (Stadtbahn) connects the airport directly to Erfurt's central railway station (Hauptbahnhof) with frequent service throughout the day.\n\nQ: Can I reach Weimar from the airport?\nA: Weimar is about 25 km away; the most convenient option is to take the tram to Erfurt Hauptbahnhof and then a regional train to Weimar, totaling roughly 45 minutes.",
+  "transport_tips": "Tram line 4 offers the most cost-effective and reliable connection between the airport and Erfurt's city center, with journey times of around 20 minutes. Taxis are readily available outside the terminal and typically charge around €15-20 for the trip into central Erfurt. If traveling to Weimar, the airport's location near the A4 and A71 motorways makes car rental or taxi a faster option than the train.",
+  "local_tip": "The airport's small size means security and check-in usually take under 15 minutes, so arriving 60-75 minutes before departure is plenty—even during peak periods.",
+  "generatedAt": "2026-06-28T20:47:23.578Z",
+  "model": "MiniMax-M3"
+}

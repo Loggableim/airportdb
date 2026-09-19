@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JER",
+    "icao": "EGJJ",
+    "name": "Jersey Airport",
+    "country": "Jersey",
+    "city": "St. Peter",
+    "lat": 49.2079,
+    "lon": -2.1955,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Jersey Airport (JER/EGJJ) is the primary gateway to Jersey, the largest of the Channel Islands, located in the parish of St. Peter on the island's southern coast. It serves as a vital link between this British Crown Dependency and the UK mainland, with regular connections to London, Manchester, and other regional hubs. The single-terminal facility handles around 1.4 million passengers annually and offers a compact, easy-to-navigate experience distinctive from larger UK airports.",
+  "faqs": "Q: How far is Jersey Airport from St. Helier?\nA: The airport is approximately 8 km (5 miles) west of St. Helier, Jersey's capital, and the journey typically takes 15-20 minutes by car or bus.\n\nQ: Do I need a passport to fly to Jersey?\nA: While Jersey is part of the Common Travel Area, airlines require valid photo ID (passport or driving licence) for boarding, and a passport is recommended for non-British travellers.\n\nQ: Which airlines operate from Jersey Airport?\nA: Major carriers include British Airways, easyJet, Loganair, Blue Islands, and Aurigny, with flights to UK cities and seasonal routes to European destinations.\n\nQ: Does Jersey Airport have duty-free shopping?\nA: Yes, the terminal offers duty-free shopping for passengers travelling outside the Common Travel Area, along with standard retail and dining outlets.",
+  "transport_tips": "LibertyBus routes connect the airport to St. Helier and other island destinations, with services running frequently during operating hours. Taxis are available outside the terminal with fixed fares to most island locations. Car hire is recommended for visitors wanting to explore Jersey's coastal roads and hidden bays at their own pace.",
+  "local_tip": "The airport's small size means you can arrive just 60-90 minutes before departure and still clear security comfortably, but watch for strong crosswinds on the approach—Jersey's coastal location frequently affects flight schedules, so build buffer time into connections.",
+  "generatedAt": "2026-06-29T02:11:34.811Z",
+  "model": "MiniMax-M3"
+}

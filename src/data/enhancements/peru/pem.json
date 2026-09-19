@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PEM",
+    "icao": "SPTU",
+    "name": "Padre Aldamiz International Airport",
+    "country": "Peru",
+    "city": "Puerto Maldonado",
+    "lat": -12.6136,
+    "lon": -69.2286,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Padre Aldamiz International Airport (PEM) serves as the main aerial gateway to Peru's southern Amazon basin, located in Puerto Maldonado, capital of the Madre de Dios region. The airport is the primary entry point for travelers heading to the Tambopata National Reserve, Sandoval Lake, and surrounding rainforest lodges. Despite its modest size, it handles a steady flow of domestic flights connecting the jungle city to Lima and Cusco.",
+  "faqs": "Q: Which airlines operate from Padre Aldamiz International Airport?\nA: LATAM and Sky Airline typically operate scheduled domestic flights connecting Puerto Maldonado with Lima and Cusco.\n\nQ: How far is the airport from Puerto Maldonado city center?\nA: The airport is located approximately 7 kilometers east of Puerto Maldonado's main square, usually a 15-20 minute drive.\n\nQ: Is the airport used mainly for tourism?\nA: Yes, most passengers are eco-tourists, researchers, and guides traveling to jungle lodges in the Tambopata and Manu regions, though it also supports local commerce.\n\nQ: Are there ATMs and currency exchange services at the airport?\nA: The terminal has basic facilities but limited financial services, so it is advisable to carry Peruvian soles before arrival.",
+  "transport_tips": "Taxis and mototaxis are the main options for getting to and from the airport, with no public bus service. Most eco-lodge operators offer pre-arranged transfers that meet arriving flights, which is the most convenient option for travelers heading into the rainforest. Agree on taxi fares in advance, as the terminal does not have a metered taxi rank.",
+  "local_tip": "Flights from Lima often arrive in the morning to take advantage of clearer weather, since afternoon thunderstorms over the Amazon can cause delays, especially during the rainy season from November to March.",
+  "generatedAt": "2026-06-29T08:28:07.425Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KTP",
+    "icao": "MKTP",
+    "name": "Tinson Pen Airport",
+    "country": "Jamaica",
+    "city": "Tinson Pen",
+    "lat": 17.9886,
+    "lon": -76.8238,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tinson Pen Airport (KTP/MKTP) is a medium-sized domestic airfield situated on the western shore of Kingston Harbour in Jamaica, just minutes from the country's capital. Originally established in the mid-20th century, it serves as Kingston's primary hub for short-haul domestic flights, inter-island Caribbean connections, and general aviation. The airport plays a key role in connecting travelers to resort destinations along Jamaica's north coast without requiring transit through the larger Norman Manley International Airport.",
+  "faqs": "Q: What airlines operate from Tinson Pen Airport?\nA: The airport primarily serves domestic and regional Caribbean carriers, including scheduled inter-island flights and charter operations.\n\nQ: Does Tinson Pen Airport handle international flights?\nA: KTP mainly handles domestic Jamaican routes and some regional Caribbean flights rather than long-haul international service, which is served by Norman Manley International Airport nearby.\n\nQ: How far is Tinson Pen Airport from downtown Kingston?\nA: The airport is conveniently located within the Kingston urban area, roughly a short drive from the city center and business district.\n\nQ: Are there facilities like car rentals or food options at the terminal?\nA: As a smaller regional airport, amenities are limited but include basic ground transportation services and a small terminal area for passengers.",
+  "transport_tips": "The airport sits within Kingston's urban grid, making taxi and rideshare the most practical way to reach it; journey times to New Kingston hotels are typically short, though traffic can slow things during peak hours. Pre-arranging a hotel pickup is recommended given the limited ground transport infrastructure at the terminal. Public buses serve the surrounding Tinson Pen area but are infrequent for airport-bound travelers with luggage.",
+  "local_tip": "Pack light and aim for early departures if connecting onward to Negril or Montego Bay — the short-hop Caribbean flights from Kingston fill up quickly on weekends, and the small terminal offers few distractions while you wait.",
+  "generatedAt": "2026-06-29T13:08:35.175Z",
+  "model": "MiniMax-M3"
+}

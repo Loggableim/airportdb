@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KFP",
+    "icao": "PAKF",
+    "name": "False Pass Airport",
+    "country": "United States",
+    "city": "False Pass",
+    "lat": 54.8475,
+    "lon": -163.4072,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "False Pass Airport (KFP/PAKF) is a small public-use airport serving the remote community of False Pass on the tip of the Alaska Peninsula, overlooking the Isanotski Strait that separates Unimak Island from the mainland. With a modest footprint and single gravel runway, it primarily supports general aviation, medevac flights, and essential passenger service for one of the most isolated communities in the Aleutian region. The surrounding area is known for world-class salmon fishing and dramatic volcanic landscapes dominated by nearby Isanotski Peak.",
+  "faqs": "Q: What is False Pass Airport primarily used for?\nA: The airport supports general aviation, mail and cargo delivery, scheduled passenger service, and emergency medevac flights for the small community of False Pass.\n\nQ: Are there commercial flights to False Pass?\nA: Scheduled passenger service is limited and typically operated by small regional carriers on demand or by charter; most travelers reach False Pass via connections through larger hubs like Anchorage or Cold Bay.\n\nQ: What is the runway surface at KFP?\nA: The airport has a single gravel runway, which is typical for remote Alaskan airstrips and may limit operations during certain weather conditions.\n\nQ: Is there fuel or maintenance available at the airport?\nA: Services at small rural Alaska airports like KFP are minimal; pilots should arrange fuel and support in advance at larger nearby airports such as Cold Bay.",
+  "transport_tips": "There is no road connection to False Pass, so the airport is effectively the only practical way to reach the community by air. Travelers typically fly from Anchorage via Cold Bay on small regional aircraft and should expect weather-related delays common to the Bering Sea region. Ground transportation in False Pass is informal, so coordinate pickup with your lodging or local contact ahead of arrival.",
+  "local_tip": "If visiting during salmon season (typically June through September), consider booking a charter directly into False Pass, as the community sits at a world-famous king salmon fishery where Isanotski Strait currents concentrate fish in huge numbers right offshore.",
+  "generatedAt": "2026-06-26T21:08:17.538Z",
+  "model": "MiniMax-M3"
+}

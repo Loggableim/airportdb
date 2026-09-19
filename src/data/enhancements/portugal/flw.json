@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FLW",
+    "icao": "LPFL",
+    "name": "Flores Airport",
+    "country": "Portugal",
+    "city": "Santa Cruz das Flores",
+    "lat": 39.4553,
+    "lon": -31.1314,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Flores Airport (FLW/LPFL) serves Flores Island, the westernmost island of the Azores archipelago and one of the westernmost points of Europe. The airport provides essential air access to this remote, UNESCO Biosphere Reserve known for its dramatic volcanic landscapes, crater lakes, and cascading waterfalls. Operations are frequently affected by the island's challenging Atlantic weather, including low cloud cover and strong winds.",
+  "faqs": "Q: Which airlines operate from Flores Airport?\nA: SATA Air Açores primarily operates flights here, connecting Flores with other Azorean islands including Corvo, Faial, São Jorge, and Terceira.\n\nQ: How remote is Flores Airport?\nA: Flores is one of the most isolated inhabited islands in the Azores, and the airport is the primary means of reaching it from the rest of the archipelago or mainland Portugal.\n\nQ: Are there direct flights to Lisbon from Flores?\nA: Direct mainland connections are uncommon; most travelers connect through other Azorean airports such as Ponta Delgada or Terceira.\n\nQ: Is the airport affected by weather delays?\nA: Yes, flights are frequently delayed or cancelled due to low ceilings, fog, and Atlantic weather systems, particularly in winter months.\n\n",
+  "transport_tips": "Rental cars are available at the airport and are strongly recommended, as public transport on Flores Island is limited and many of the island's natural attractions are in remote areas. Taxis can be found outside the terminal, though booking in advance is advisable during off-peak hours. The drive to Santa Cruz das Flores town center takes only a few minutes from the airport.",
+  "local_tip": "Pack a light waterproof jacket even in summer—Flores is one of the wettest spots in the Azores, and its famous waterfalls and hydrangea-lined roads are best enjoyed in the frequent misty conditions.",
+  "generatedAt": "2026-06-29T07:02:06.639Z",
+  "model": "MiniMax-M3"
+}

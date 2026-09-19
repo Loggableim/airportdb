@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RLG",
+    "icao": "ETNL",
+    "name": "Rostock-Laage Airport",
+    "country": "Germany",
+    "city": "Laage",
+    "lat": 53.9182,
+    "lon": 12.2783,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Rostock-Laage Airport is a regional airport in Mecklenburg-Vorpommern, northern Germany, serving the Hanseatic city of Rostock and the surrounding Baltic Sea coastal region. The facility shares its grounds with a German Air Force (Luftwaffe) base, making it a dual-use civil-military airport. It primarily handles seasonal leisure flights to Mediterranean destinations and provides convenient access to popular seaside resorts like Warnemünde and the Mecklenburg lake district.",
+  "faqs": "Q: How far is Rostock-Laage Airport from Rostock city center?\nA: The airport is approximately 30 km (19 miles) south of Rostock, with a driving time of about 30-40 minutes depending on traffic.\n\nQ: Does the airport operate year-round?\nA: Yes, but flight schedules are heavily seasonal, with significantly expanded service during summer months to holiday destinations and reduced operations in winter.\n\nQ: Are there military operations at this airport?\nA: Yes, the airport shares facilities with Jagdbombergeschwader 38 (Fighter-Bomber Wing 38) of the German Air Force, which operates Eurofighter jets from the base.\n\nQ: What transportation options are available from the airport?\nA: Options include rental cars, taxis, and occasional shuttle services, though public transport connections are limited compared to larger German airports.",
+  "transport_tips": "Renting a car is the most practical option for reaching destinations across the Mecklenburg-Vorpommern region, as public transit connections to the airport are infrequent. Pre-booking a taxi or arranging hotel pickup in advance is recommended, especially for early morning or late evening flights. The drive to Rostock follows the A19 autobahn, while the Baltic coast resorts are reachable via the A20.",
+  "local_tip": "If you have time between flights, the town of Laage itself is small but pleasant for a short walk, and the nearby Mecklenburg Switzerland lake district offers scenic countryside just a few kilometers from the airport perimeter.",
+  "generatedAt": "2026-06-29T09:52:44.793Z",
+  "model": "MiniMax-M3"
+}

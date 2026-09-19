@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TRN",
+    "icao": "LIMF",
+    "name": "Turin Airport",
+    "country": "Italy",
+    "city": "Caselle Torinese (TO)",
+    "lat": 45.2008,
+    "lon": 7.6496,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "Turin Airport, officially named Sandro Pertini Airport after Italy's former president, is the main aviation gateway to Turin and the Piedmont region of northwestern Italy. Located in Caselle Torinese approximately 16 km northwest of Turin's city center, it serves as a key hub for both domestic routes and European connections. The airport provides convenient access to the Alps, the wine regions of Piedmont, and Turin's renowned automotive and cultural heritage.",
+  "faqs": "Q: What is Turin Airport officially named?\nA: Turin Airport is officially named Sandro Pertini Airport (Aeroporto di Torino-Caselle \"Sandro Pertini\") in honor of the former Italian president born in the region.\n\nQ: How far is the airport from Turin city center?\nA: The airport is located approximately 16 km (10 miles) northwest of central Turin, with a typical journey time of 25-40 minutes depending on traffic.\n\nQ: What airlines operate from Turin Airport?\nA: Several major carriers serve TRN, including Ryanair, ITA Airways, Lufthansa, Air France, and easyJet, connecting Turin to numerous European destinations.\n\nQ: Does the airport operate 24 hours?\nA: No, Turin Airport has limited operating hours and generally closes overnight, so late-night and early-morning flights are uncommon.",
+  "transport_tips": "The fastest and most reliable option is the GTT railway line, which connects the airport directly to Turin's Porta Susa and Porta Nuova stations in about 20-30 minutes. Buses operated by GTT and Sadem also serve the airport with routes to Turin and surrounding Piedmont towns, while taxis offer fixed-fare rides to the city center.",
+  "local_tip": "If you have a long layover or early arrival, the Juventus Museum at Allianz Stadium is only a short taxi ride away and offers a uniquely Turin experience, especially for football enthusiasts visiting the home of one of Italy's most historic clubs.",
+  "generatedAt": "2026-06-28T16:48:59.210Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LRG",
+    "icao": "OPLL",
+    "name": "Loralai Airport",
+    "country": "Pakistan",
+    "city": "Loralai",
+    "lat": 30.3555,
+    "lon": 68.6135,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Loralai Airport is a small regional airfield serving the city of Loralai in the Balochistan province of Pakistan, situated in the rugged northeastern part of the province near the Sulaiman mountain range. It primarily functions as a domestic gateway connecting this remote district to larger urban centers, supporting limited scheduled and charter operations. The airport plays a vital role for government officials, aid workers, and travelers heading to one of Balochistan's most isolated districts.",
+  "faqs": "Q: What is the IATA code for Loralai Airport?\nA: The IATA code is LRG, and its ICAO code is OPLL.\n\nQ: Does Loralai Airport have commercial flights?\nA: Commercial service is limited and infrequent, with most flights operated by Pakistan International Airlines or charter services depending on demand.\n\nQ: Where is Loralai located?\nA: Loralai is the capital of Loralai District in Balochistan, Pakistan, roughly 200 km southeast of Quetta.\n\nQ: Is the airport suitable for night operations?\nA: As a small regional airport, facilities and operating hours are limited, and most flights operate during daylight hours.\n\n",
+  "transport_tips": "The airport is located just a few kilometers from the city center, making taxi or private vehicle the most practical option for transfers. Public transportation options at the airport are limited, so arranging a pickup in advance is recommended. Roads connecting Loralai to other major cities can be affected by weather and security conditions in Balochistan, so plan extra travel time.",
+  "local_tip": "Carry plenty of drinking water and snacks, as amenities at the terminal are minimal and the surrounding arid terrain can be harsh, especially during the hot summer months.",
+  "generatedAt": "2026-06-27T09:56:30.585Z",
+  "model": "MiniMax-M3"
+}

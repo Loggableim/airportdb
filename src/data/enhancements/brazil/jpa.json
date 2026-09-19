@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JPA",
+    "icao": "SBJP",
+    "name": "Presidente Castro Pinto International Airport",
+    "country": "Brazil",
+    "city": "João Pessoa",
+    "lat": -7.1487,
+    "lon": -34.9506,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Presidente Castro Pinto International Airport (JPA) is the main airport serving João Pessoa, the capital of Paraíba state in northeastern Brazil. Located approximately 11 km from the city center, it serves as a key gateway to one of Brazil's most scenic coastal regions, known for its tropical beaches and the easternmost point of the Americas. The airport is named after a prominent figure from Paraíba's political history and handles both domestic and limited international flights.",
+  "faqs": "Q: How far is the airport from João Pessoa's city center?\nA: The airport is located approximately 11 km (about 7 miles) from downtown João Pessoa, typically a 20-30 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, it handles a limited number of international flights, primarily to neighboring South American countries, though most operations are domestic.\n\nQ: What airlines operate from JPA?\nA: Major Brazilian carriers including LATAM, Gol, and Azul operate regular domestic flights to cities like São Paulo, Rio de Janeiro, Brasília, and Recife.\n\nQ: Are there facilities for overnight stays near the airport?\nA: Yes, several hotels and pousadas are located near the airport and along the highway connecting to the city center.\n\n",
+  "transport_tips": "Taxi and rideshare services are available at the terminal and offer fixed-rate transfers to most areas of João Pessoa. Public buses also connect the airport to the city center and nearby neighborhoods, providing a budget-friendly option. Renting a car is recommended if you plan to explore the surrounding coastline and nearby beaches.",
+  "local_tip": "If you have a few hours to spare, head to the nearby Seixas or Penha beaches—the easternmost point of the Americas—where you can watch the sunrise over the Atlantic, one of the earliest sunrises on the continent.",
+  "generatedAt": "2026-06-28T22:27:53.351Z",
+  "model": "MiniMax-M3"
+}

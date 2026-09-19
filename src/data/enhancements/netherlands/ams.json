@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AMS",
+    "icao": "EHAM",
+    "name": "Amsterdam Airport Schiphol",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "lat": 52.3086,
+    "lon": 4.7639,
+    "type": "large_airport",
+    "size": 1093275
+  },
+  "summary": "Amsterdam Airport Schiphol (AMS) is the main international gateway of the Netherlands and one of Europe's busiest aviation hubs, located in the Haarlemmermeer municipality about 15 km southwest of Amsterdam. Built on reclaimed polder land below sea level, it serves as the primary hub for KLM Royal Dutch Airlines and is renowned for its single-terminal concept with extensive shopping, dining, and cultural attractions including a Rijksmuseum outpost. Schiphol consistently ranks among the top airports globally for passenger traffic and connectivity.",
+  "faqs": "Q: How far is Schiphol Airport from Amsterdam city center?\nA: The airport is approximately 15 km (9 miles) southwest of central Amsterdam, and the journey typically takes 15-20 minutes by direct train.\n\nQ: Is there a direct train from Schiphol to Amsterdam?\nA: Yes, Dutch Railways (NS) operates direct intercity trains from Schiphol Airport station to Amsterdam Centraal every 10-15 minutes, with a journey time of about 15 minutes.\n\nQ: How many terminals does Schiphol have?\nA: Schiphol operates as one large terminal building with multiple concourses and piers (B, C, D, E, F, G, H, M), making it one of the most compact major airports in the world.\n\nQ: Is there luggage storage at Schiphol?\nA: Yes, luggage storage facilities are available in the main terminal area, allowing travelers to store bags for a fee per item per day.",
+  "transport_tips": "The most efficient way to reach Amsterdam city center is by NS intercity train, which departs directly from the airport's underground station and arrives at Amsterdam Centraal in roughly 15 minutes. Taxis and ride-shares are available outside the main terminal but cost significantly more, typically €45-60 for the city center. The Schiphol Hotel Shuttle bus serves many nearby hotels for free if you book in advance.",
+  "local_tip": "Visit the Schiphol Panorama Terrace on the upper level near Lounge 2 for a panoramic view of the entire airfield and surrounding Dutch polder landscape—it's one of the few public observation decks at a major European airport where you can watch planes up close with a coffee from the adjacent café.",
+  "generatedAt": "2026-06-28T14:41:32.638Z",
+  "model": "MiniMax-M3"
+}

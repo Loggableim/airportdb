@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XRR",
+    "icao": "CYDM",
+    "name": "Ross River Airport",
+    "country": "Canada",
+    "city": "Ross River",
+    "lat": 61.9706,
+    "lon": -132.423,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Ross River Airport (XRR/CYDM) is a regional airport serving the small community of Ross River in central Yukon, Canada. Nestled in the traditional territory of the Kaska Dena people, the airport provides a vital transportation link for this remote northern community, which is otherwise accessible only by the Campbell Highway. The facility supports both scheduled and charter flights, primarily serving passenger travel, medevac operations, and the region's mining and exploration industries.",
+  "faqs": "Q: What airlines serve Ross River Airport?\nA: The airport is primarily served by Air North and charter operators providing connections to Whitehorse and other Yukon communities.\n\nQ: How far is the airport from the town of Ross River?\nA: The airport is located just a few kilometers from the community center, making access relatively quick by road.\n\nQ: Does the airport have instrument approach procedures?\nA: Yes, the airport is equipped with RNAV approaches, allowing for operations in poor weather conditions common to the region.\n\nQ: Is the airport used for medevac services?\nA: Yes, medevac flights are an important function given the remote location and limited road access during certain seasons.\n\n",
+  "transport_tips": "Most visitors reach the airport by private vehicle via the Campbell Highway, as there is no public transit serving the facility. Taxi services from the community are limited and should be arranged in advance. During winter months, allow extra travel time as road conditions in central Yukon can be challenging.",
+  "local_tip": "If you're visiting during winter, consider booking an early morning flight, as weather delays are common later in the day when fog and low cloud often settle into the Pelly River valley.",
+  "generatedAt": "2026-06-26T11:58:11.353Z",
+  "model": "MiniMax-M3"
+}

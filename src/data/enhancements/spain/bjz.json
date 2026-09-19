@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BJZ",
+    "icao": "LEBZ",
+    "name": "Badajoz Airport",
+    "country": "Spain",
+    "city": "Badajoz",
+    "lat": 38.8913,
+    "lon": -6.8213,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Badajoz Airport (BJZ) is a regional airport serving the historic city of Badajoz in the Extremadura region of southwestern Spain, near the Portuguese border. The facility has historically balanced commercial passenger service with military aviation use, given its strategic location in the Iberian Peninsula. It provides an important gateway for travelers exploring one of Spain's lesser-visited but culturally rich regions, known for its Moorish architecture and proximity to the Guadiana River.",
+  "faqs": "Q: What airlines operate at Badajoz Airport?\nA: The airport has historically been served primarily by Iberia, with regular connections to Madrid-Barajas. Service availability can vary, so checking current schedules is recommended.\n\nQ: How far is the airport from Badajoz city center?\nA: Badajoz Airport is located approximately 14 km (about 8.7 miles) east of the city center, a drive of around 15-20 minutes depending on traffic.\n\nQ: Does the airport have international flights?\nA: Commercial service is mainly domestic, with connections to major Spanish hubs. Cross-border travel to Portugal is more commonly done by road, as Badajoz sits very close to the frontier.\n\nQ: Is the airport open 24 hours?\nA: No, the airport operates according to scheduled flight times and is not a 24-hour facility.\n\n",
+  "transport_tips": "The most convenient way to reach the airport is by rental car or taxi, as public transport connections to the terminal are limited. Parking is available on-site for those dropping off or picking up travelers. If driving from Badajoz city center, follow the EX-100 road eastward toward Talavera la Real, where the airport is located.",
+  "local_tip": "If you have time before your flight, visit the Alcazaba of Badajoz—one of the largest and oldest Moorish fortresses in the Iberian Peninsula—overlooking the Guadiana River in the city center.",
+  "generatedAt": "2026-06-29T11:19:07.650Z",
+  "model": "MiniMax-M3"
+}

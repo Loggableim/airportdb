@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VRU",
+    "icao": "FAVB",
+    "name": "Vryburg Airport",
+    "country": "South Africa",
+    "city": "Vryburg",
+    "lat": -26.9824,
+    "lon": 24.7288,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Vryburg Airport (VRU/FAVB) is a medium-sized regional airport serving the town of Vryburg in the North West Province of South Africa, often referred to as the 'Texas of South Africa' due to its strong cattle and agricultural industry. The facility primarily handles general aviation, charter flights, and limited commercial operations connecting this farming hub to other regional centers. Its location in the semi-arid western interior makes it a useful gateway for visitors to the surrounding game farms and rural tourism destinations.",
+  "faqs": "Q: Are there scheduled commercial flights from Vryburg Airport?\nA: The airport primarily serves general aviation and charter operations; scheduled commercial flights are very limited and travelers should check current schedules with operators.\n\nQ: What is Vryburg best known for?\nA: Vryburg is known as South Africa's beef capital and the 'Texas of South Africa,' with a strong agricultural and cattle ranching economy.\n\nQ: Does the airport have customs and immigration facilities?\nA: As a smaller regional airport, customs and immigration services are not typically available; international travelers should use larger gateways like Johannesburg.\n\nQ: How far is the airport from the town center?\nA: The airport is located a short drive from central Vryburg, making ground transfers quick and straightforward.",
+  "transport_tips": "Taxis and pre-arranged shuttles are the most common ways to reach Vryburg from the airport, though options are limited, so booking in advance is recommended. Rental cars can be arranged in the nearby town of Vryburg if arranged ahead of time. Self-driving is straightforward via the N18 national route, which connects Vryburg to Mafikeng and other North West destinations.",
+  "local_tip": "If you have a few hours to spare, visit one of the nearby game farms or cattle ranches for an authentic taste of the region's agricultural heritage—Vryburg hosts the annual Vryburg Show, one of South Africa's oldest agricultural exhibitions, usually held in May.",
+  "generatedAt": "2026-06-26T09:03:44.347Z",
+  "model": "MiniMax-M3"
+}

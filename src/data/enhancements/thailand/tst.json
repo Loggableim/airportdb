@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TST",
+    "icao": "VTST",
+    "name": "Trang Airport",
+    "country": "Thailand",
+    "city": "Trang",
+    "lat": 7.5087,
+    "lon": 99.6166,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Trang Airport is a regional domestic airport serving Trang Province in southern Thailand, providing essential air access to the Andaman coast and its offshore islands. The airport supports connections to Bangkok and is a key gateway for travelers heading to destinations like Koh Lanta, Koh Mook, and the Trang archipelago. As a medium-sized facility, it offers a relaxed alternative to the busier southern Thai airports like Phuket or Krabi.",
+  "faqs": "Q: What airlines operate from Trang Airport?\nA: Trang Airport is primarily served by domestic carriers such as Thai AirAsia and Nok Air, offering flights mainly to Bangkok (Don Mueang and Suvarnabhumi).\n\nQ: How far is Trang Airport from Trang city center?\nA: The airport is located approximately 7-8 kilometers from central Trang, making it a short drive to most hotels and the city center.\n\nQ: Does Trang Airport have international flights?\nA: Trang Airport currently operates only domestic flights, with no scheduled international services.\n\nQ: Is the airport open 24 hours?\nA: No, Trang Airport operates during scheduled flight hours only and is not open around the clock.\n\n",
+  "transport_tips": "Taxis and songthaew (shared minivans) are available outside the terminal for transfers to Trang city, typically costing around 100-150 baht. Pre-arranging a hotel transfer is recommended if you're heading directly to a coastal area or ferry pier. Ride-hailing apps may have limited availability compared to Bangkok, so local taxis remain the most reliable option.",
+  "local_tip": "If you're continuing to the islands, the airport is close to the Tha Nok and Tha Klang piers where speedboats depart to Koh Mook, Koh Kradan, and Koh Ngai—consider asking your hotel to coordinate a combined taxi-and-boat transfer to save time and hassle.",
+  "generatedAt": "2026-06-29T13:09:02.867Z",
+  "model": "MiniMax-M3"
+}

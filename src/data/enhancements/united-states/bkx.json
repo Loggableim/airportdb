@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BKX",
+    "icao": "KBKX",
+    "name": "Brookings Regional Airport",
+    "country": "United States",
+    "city": "Brookings",
+    "lat": 44.3048,
+    "lon": -96.8169,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Brookings Regional Airport is a small public-use airport serving Brookings, South Dakota, a city best known as the home of South Dakota State University. The facility supports general aviation, business travel, and occasional commercial flights, serving the surrounding agricultural region of eastern South Dakota. It plays a key role in connecting this rural university town to broader air transportation networks.",
+  "faqs": "Q: What services does Brookings Regional Airport offer?\nA: The airport provides general aviation facilities including fuel, hangar space, and aircraft maintenance, along with limited regional commercial service.\n\nQ: How far is the airport from South Dakota State University?\nA: The airport is located approximately 3 miles north of the SDSU campus, making it a quick drive from the university.\n\nQ: Are there car rental options at BKX?\nA: Rental car availability is limited, so it is advisable to arrange transportation in advance or contact the airport for current providers.\n\nQ: Does the airport have an instrument approach for bad weather?\nA: Yes, the airport is equipped with instrument approach procedures, allowing pilots to land in less favorable weather conditions.\n\n",
+  "transport_tips": "The airport is just a short drive north of downtown Brookings, easily reached by personal vehicle via US Highway 14 and local roads. Rideshare and taxi services are limited in this rural area, so renting a car or arranging a ride in advance is recommended. Free or low-cost parking is available on-site for travelers driving in.",
+  "local_tip": "If your visit coincides with a South Dakota State University Jackrabbits football game at Dana J. Dykhouse Stadium, expect the town to fill up quickly with fans, so book lodging well in advance.",
+  "generatedAt": "2026-06-26T14:32:00.696Z",
+  "model": "MiniMax-M3"
+}

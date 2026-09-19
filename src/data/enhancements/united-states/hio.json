@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HIO",
+    "icao": "KHIO",
+    "name": "Portland Hillsboro Airport",
+    "country": "United States",
+    "city": "Portland",
+    "lat": 45.5404,
+    "lon": -122.95,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Portland Hillsboro Airport (HIO) is a general aviation facility located in Hillsboro, Oregon, about 20 miles west of downtown Portland. Operated by the Port of Portland, it serves as one of the busiest general aviation airports in Oregon and the Pacific Northwest, primarily handling corporate jets, flight training, and recreational flying. The airport features a 24/7 FAA control tower, two runways, and hosts several fixed-base operators and flight schools.",
+  "faqs": "Q: Does Portland Hillsboro Airport offer commercial airline service?\nA: No, HIO is a general aviation airport with no scheduled commercial flights. Commercial service in the Portland metro area is handled by Portland International Airport (PDX).\n\nQ: What is the main use of Hillsboro Airport?\nA: The airport primarily supports corporate aviation, flight training, air charter operations, and recreational flying. It is a major hub for general aviation in the region.\n\nQ: Are there flight schools at HIO?\nA: Yes, Portland Hillsboro Airport is home to multiple flight schools and training organizations, making it a popular destination for student pilots in the Pacific Northwest.\n\nQ: Does HIO have an operating control tower?\nA: Yes, the airport has an FAA-operated control tower that operates 24 hours a day, which is uncommon for a general aviation facility.",
+  "transport_tips": "The airport is conveniently located off US-26 (Sunset Highway), making it easily accessible by car from downtown Portland in about 30-40 minutes. Rental cars and rideshare services like Uber and Lyft are the most common ways to reach HIO, as there is no direct public transit service to the terminal area. On-site parking is available for both short visits and longer stays.",
+  "local_tip": "If you're flying in for business or a quick visit, consider timing your arrival outside peak hours (early morning or late evening) — the airport can get busy with flight training traffic during midday, which may cause slight delays for transient aircraft requesting clearances.",
+  "generatedAt": "2026-06-30T04:49:05.578Z",
+  "model": "MiniMax-M3"
+}

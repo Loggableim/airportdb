@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MEK",
+    "icao": "GMFM",
+    "name": "Bassatine Airport",
+    "country": "Morocco",
+    "city": "Meknes",
+    "lat": 33.8791,
+    "lon": -5.5151,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Bassatine Airport (MEK/GMFM) serves the historic imperial city of Meknes in northern Morocco, functioning as a shared military air base and civilian facility. Located about 5 km from the city center, it primarily handles regional and charter traffic, complementing the larger Fès-Saïs Airport roughly 60 km away. The airport is a key access point for visitors exploring Meknes, a UNESCO-listed city known for its well-preserved medieval ramparts, the monumental Bab Mansour gate, and the ruins of the Roman city of Volubilis nearby.",
+  "faqs": "Q: How far is Bassatine Airport from Meknes city center?\nA: The airport is approximately 5 kilometers southeast of the city center, with a typical drive taking around 15 minutes.\n\nQ: Does the airport offer international flights?\nA: Bassatine mainly handles domestic and charter flights; most international travelers use Fès-Saïs Airport or arrive via Casablanca.\n\nQ: Are there car rental services at the airport?\nA: Rental options are limited at the terminal itself, so booking in advance through a city-based agency is recommended.\n\nQ: What attractions are near the airport?\nA: Meknes' medina, the royal stables of Heri es-Souani, and the ancient Roman ruins of Volubilis are all within easy reach.",
+  "transport_tips": "Taxis are available outside the terminal and offer the most convenient transfer to Meknes city center. Grand taxis heading to Fès or other regional destinations can sometimes be arranged nearby, but booking through your hotel is often more reliable. Renting a car is advisable for travelers planning to visit Volubilis or other sites across the region.",
+  "local_tip": "If flying in during summer, request a north-facing window seat on approach—the airfield sits on a plateau offering striking views of the Middle Atlas foothills and, on clear days, the distant Rif Mountains.",
+  "generatedAt": "2026-06-26T10:32:08.580Z",
+  "model": "MiniMax-M3"
+}

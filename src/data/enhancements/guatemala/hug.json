@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HUG",
+    "icao": "MGHT",
+    "name": "Huehuetenango Airport",
+    "country": "Guatemala",
+    "city": "Huehuetenango",
+    "lat": 15.3167,
+    "lon": -91.5056,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Huehuetenango Airport (HUG) is a small regional airport serving the city of Huehuetenango in the western highlands of Guatemala, near the Mexican border. It primarily handles light aircraft and occasional domestic flights, given its modest infrastructure and short runway. The airport serves as a gateway to the Cuchumatanes mountain range and the surrounding Maya cultural region.",
+  "faqs": "Q: What is the airport code for Huehuetenango Airport?\nA: The IATA code is HUG and the ICAO code is MGHT.\n\nQ: Does Huehuetenango Airport have scheduled commercial flights?\nA: Scheduled commercial service is very limited or nonexistent; the airport primarily serves private and charter aircraft.\n\nQ: Where is the airport located?\nA: It is situated just outside the city of Huehuetenango in the western highlands of Guatemala, at an elevation of approximately 1,900 meters above sea level.\n\nQ: What facilities are available at the airport?\nA: The airport has minimal facilities typical of a small regional airfield, with basic terminal services and no major amenities.\n\n",
+  "transport_tips": "Travelers typically reach the airport by taxi or private vehicle from Huehuetenango city center, which is only a short drive away. Public transportation options in the area are limited, so arranging ground transport in advance is recommended. Rental cars and shuttle services can be coordinated through local hotels or tour operators.",
+  "local_tip": "Due to the high elevation and surrounding mountainous terrain, weather conditions can change rapidly—always check visibility and local forecasts before flying in, as afternoon cloud buildups are common in the highlands.",
+  "generatedAt": "2026-06-26T22:35:36.761Z",
+  "model": "MiniMax-M3"
+}

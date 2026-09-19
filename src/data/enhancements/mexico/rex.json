@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "REX",
+    "icao": "MMRX",
+    "name": "General Lucio Blanco International Airport",
+    "country": "Mexico",
+    "city": "Reynosa",
+    "lat": 26.0089,
+    "lon": -98.2285,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "General Lucio Blanco International Airport (REX) serves Reynosa, an industrial city in the northern Mexican state of Tamaulipas, situated directly across the Rio Grande from McAllen, Texas. The airport supports the region's strong manufacturing and maquiladora economy and handles both domestic commercial flights and significant cross-border general aviation traffic. It is named after General Lucio Blanco, a notable figure in the Mexican Revolution.",
+  "faqs": "Q: What airlines fly from General Lucio Blanco International Airport?\nA: The airport is primarily served by Mexican carriers including Aeroméxico (via Connect), VivaAerobus, and Volaris, offering domestic routes mainly to Mexico City and other major hubs.\n\nQ: How far is the airport from downtown Reynosa?\nA: The airport is located approximately 10 kilometers (about 6 miles) east of Reynosa's city center, a drive of roughly 15-20 minutes depending on traffic.\n\nQ: Is there a direct connection to the United States from REX?\nA: While there are no scheduled international commercial flights to the US, the airport is just across the border from McAllen/Mission, Texas, and the McAllen Miller International Airport is only about 30 km away.\n\nQ: Does the airport operate 24 hours?\nA: Airport operating hours can vary, and travelers should confirm flight schedules and terminal availability directly with their airline before planning late-night or early-morning trips.",
+  "transport_tips": "Taxis and app-based ride services are the most common ways to reach the airport from Reynosa. Travelers heading to the US often find it convenient to cross via the nearby international bridges to McAllen or Hidalgo, Texas. Renting a car locally is useful for exploring the broader Tamaulipas region, though having a local contact or guide is recommended for border-area travel.",
+  "local_tip": "If you're connecting onward to the US, consider the cross-border option: drive across to McAllen Miller International Airport (MFE), which often offers more frequent and affordable flight options to US destinations than flying out of REX.",
+  "generatedAt": "2026-06-29T08:29:08.725Z",
+  "model": "MiniMax-M3"
+}

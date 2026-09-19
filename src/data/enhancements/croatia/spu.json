@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SPU",
+    "icao": "LDSP",
+    "name": "Split Saint Jerome Airport",
+    "country": "Croatia",
+    "city": "Split",
+    "lat": 43.5389,
+    "lon": 16.298,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Split Saint Jerome Airport (SPU) is Croatia's second-busiest airport and the primary gateway to the Dalmatian coast, serving the historic city of Split and the surrounding islands. Named after Saint Jerome, the patron saint of Split, the airport handles a significant share of Croatia's summer tourism traffic, with seasonal routes connecting to dozens of European cities. Its coastal location near the Adriatic makes it a convenient arrival point for travelers heading to Split, Hvar, Brač, and other Dalmatian destinations.",
+  "faqs": "Q: How far is Split Airport from the city center?\nA: The airport is located approximately 24 km (15 miles) northwest of Split's city center, near the town of Kaštela. The drive typically takes 30–40 minutes depending on traffic.\n\nQ: Does Split Airport have direct public transport to the city?\nA: Yes, Croatia Airlines operates a shuttle bus connecting the airport to Split's main bus station and ferry port. Buses are timed to coincide with flight arrivals, and tickets can be purchased on board.\n\nQ: Are there ferry connections from Split Airport to the islands?\nA: While the airport itself is not a ferry terminal, travelers can take the airport bus to Split's ferry port, which offers regular services to Hvar, Brač, Korčula, and other Dalmatian islands.\n\nQ: What is the best time to fly into Split Airport?\nA: The airport operates year-round, but summer (June–September) is peak season with the most flight options. Off-season flights are more limited, so booking in advance is recommended for spring and autumn travel.",
+  "transport_tips": "Pre-booking a private transfer or taxi is recommended during peak summer months when demand is high and bus seats can fill quickly. Rental car agencies are available at the terminal, and the coastal drive into Split offers scenic views along the Adriatic. If heading to the islands, allow at least 90 minutes from landing to ferry departure to account for baggage claim, transport, and boarding.",
+  "local_tip": "Visit the nearby Roman ruins at Salona, one of the largest archaeological sites in Croatia, just a 15-minute drive from the airport—it's an excellent way to spend a few hours during a long layover or before an evening flight.",
+  "generatedAt": "2026-06-28T18:28:12.266Z",
+  "model": "MiniMax-M3"
+}

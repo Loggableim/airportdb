@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NVD",
+    "icao": "KNVD",
+    "name": "Nevada Municipal Airport",
+    "country": "United States",
+    "city": "Nevada",
+    "lat": 37.8521,
+    "lon": -94.3049,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Nevada Municipal Airport is a small general aviation facility serving the city of Nevada in southwestern Missouri. Located in Vernon County, it primarily supports recreational flying, flight training, and private aircraft operations. The airport features a single runway and provides convenient access to the surrounding rural communities of west-central Missouri.",
+  "faqs": "Q: What type of airport is Nevada Municipal Airport?\nA: It is a small general aviation airport primarily serving private and recreational aircraft.\n\nQ: Does Nevada Municipal Airport offer commercial airline service?\nA: No, the airport does not provide scheduled commercial flights; it is used for general aviation purposes.\n\nQ: Where is Nevada Municipal Airport located?\nA: The airport is situated in Nevada, Missouri, in the southwestern part of the state near the Kansas border.\n\nQ: How many runways does the airport have?\nA: The airport has a single paved runway suitable for small to mid-size general aviation aircraft.\n\n",
+  "transport_tips": "Reaching the airport requires a personal vehicle, as there is no public transit serving the facility. The terminal is just a short drive from downtown Nevada via US Route 71 and local roads. Rental cars and rideshare services are limited in the area, so arranging ground transport in advance is recommended.",
+  "local_tip": "If you have extra time, visit the Bushwhacker Museum in Nevada, which showcases the region's Civil War guerrilla history and local heritage—it's a favorite stop among pilots passing through.",
+  "generatedAt": "2026-06-27T02:47:53.779Z",
+  "model": "MiniMax-M3"
+}

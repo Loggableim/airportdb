@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ALI",
+    "icao": "KALI",
+    "name": "Alice International Airport",
+    "country": "United States",
+    "city": "Alice",
+    "lat": 27.7409,
+    "lon": -98.0269,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Alice International Airport (ALI) is a medium-sized airport serving Alice, a city in the South Texas Coastal Bend region known for its ranching and petroleum heritage. Located in Jim Wells County, the airport supports general aviation and regional traffic near the Gulf Coast. It provides convenient access to the surrounding South Texas communities and ranching country, approximately 45 miles west of Corpus Christi.",
+  "faqs": "Q: What type of aircraft does Alice International Airport typically handle?\nA: The airport primarily serves general aviation, private aircraft, and regional commuter flights, with a size score indicating medium-scale operations.\n\nQ: Is there commercial passenger service at ALI?\nA: Alice International is mainly used for general aviation, with limited or no scheduled commercial passenger service; travelers often use larger airports like Corpus Christi for commercial flights.\n\nQ: Where is the airport located relative to the city of Alice?\nA: The airport is situated just outside the city limits, easily accessible from downtown Alice via local roads.\n\nQ: Does the airport have an FAA tower or operate as uncontrolled?\nA: Pilots should check current charts and NOTAMs, as many airports of this size in South Texas operate without full-time control towers.",
+  "transport_tips": "Renting a car is the most practical option for getting to and from the airport, as ride-share services can be limited in this small South Texas city. The drive to downtown Alice is short, typically under 15 minutes. Taxis may be available but should be arranged in advance through local services.",
+  "local_tip": "Frequent visitors recommend timing your trips around South Texas weather—summer heat can delay smaller aircraft, so early morning departures are most reliable year-round.",
+  "generatedAt": "2026-06-30T03:09:00.140Z",
+  "model": "MiniMax-M3"
+}

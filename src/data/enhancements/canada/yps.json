@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YPS",
+    "icao": "CYPD",
+    "name": "Port Hawkesbury Airport",
+    "country": "Canada",
+    "city": "Port Hawkesbury",
+    "lat": 45.6567,
+    "lon": -61.3681,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Port Hawkesbury Airport (YPS/CYPD) is a regional airport serving Port Hawkesbury on the southern shore of Cape Breton Island, Nova Scotia, near the Strait of Canso. It supports general aviation, charter operations, and has been studied for potential use as a commercial spaceport. The airport provides convenient access to the Strait area and surrounding coastal communities.",
+  "faqs": "Q: What is the airport code for Port Hawkesbury Airport?\nA: The IATA code is YPS and the ICAO code is CYPD.\n\nQ: Where is Port Hawkesbury Airport located?\nA: It is located in Port Hawkesbury, Nova Scotia, on Cape Breton Island in eastern Canada, near the Strait of Canso.\n\nQ: Does the airport offer scheduled commercial flights?\nA: The airport primarily serves general aviation, charter flights, and private operations rather than scheduled commercial passenger service.\n\nQ: Has Port Hawkesbury Airport been considered for spaceport use?\nA: Yes, the site has been studied and proposed as a potential location for a commercial spaceport due to its coastal position and clear launch corridors over the Atlantic.\n\n",
+  "transport_tips": "The airport is located just outside Port Hawkesbury and is a short drive from the town center, typically reachable in under 10 minutes by car. Rental cars and local taxi services are available, though booking in advance is recommended given the airport's small size. The Trans-Canada Highway (Highway 104) provides road access connecting to the broader Cape Breton region.",
+  "local_tip": "If visiting the area, plan time to explore the nearby Canso Causeway and the scenic coastline along the Strait of Canso, where you can spot marine traffic transiting between the Atlantic Ocean and the Gulf of St. Lawrence.",
+  "generatedAt": "2026-06-26T07:26:34.519Z",
+  "model": "MiniMax-M3"
+}

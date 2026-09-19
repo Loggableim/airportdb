@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PLL",
+    "icao": "SBMN",
+    "name": "Ponta Pelada Airport / Manaus Air Base",
+    "country": "Brazil",
+    "city": "Manaus",
+    "lat": -3.146,
+    "lon": -59.9863,
+    "type": "medium_airport",
+    "size": 275
+  },
+  "summary": "Ponta Pelada Airport (PLL/SBMN), also known as Manaus Air Base, is a dual-use military and civilian airfield located in the heart of Manaus, Amazonas, Brazil. Operated primarily by the Brazilian Air Force (FAB), it sits in the Amazon Basin and historically served as a strategic outpost during World War II. The base shares its runway with limited civilian operations, making it a unique hybrid facility in one of the world's most biodiverse regions.",
+  "faqs": "Q: Is Ponta Pelada Airport used for commercial flights?\nA: Most commercial traffic in Manaus is handled by Eduardo Gomes International Airport (MAO). Ponta Pelada primarily serves military operations, private aviation, and some regional charter flights.\n\nQ: What is the airport's main function?\nA: It functions as Manaus Air Base (Base Aérea de Manaus), a Brazilian Air Force installation responsible for Amazon region surveillance and defense operations.\n\nQ: Can civilians access the air base?\nA: Access is generally restricted due to its military status. Passengers using civilian services here typically require prior authorization.\n\nQ: Why does Manaus have two airports?\nA: Eduardo Gomes International handles scheduled commercial flights, while Ponta Pelada supports military logistics, private jets, and occasional humanitarian or charter missions across the Amazon.",
+  "transport_tips": "The airport is located within the urban area of Manaus, roughly 10 km south of the city center, making taxi rides quick and affordable. Ride-sharing apps like Uber and 99 operate in Manaus and are a convenient option for travelers. If heading to Eduardo Gomes International Airport instead, allow at least 30 minutes for the transfer between facilities.",
+  "local_tip": "Because of Manaus's equatorial location, expect sudden tropical rain showers year-round; keep rain gear handy even on short walks between transport and the terminal.",
+  "generatedAt": "2026-06-30T03:54:24.766Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BLQ",
+    "icao": "LIPE",
+    "name": "Bologna Guglielmo Marconi Airport",
+    "country": "Italy",
+    "city": "Bologna",
+    "lat": 44.5354,
+    "lon": 11.2887,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "Bologna Guglielmo Marconi Airport (BLQ) is the main international gateway to the Emilia-Romagna region in northern Italy, located approximately 6 kilometers northwest of Bologna's historic city center. The airport is named after Nobel Prize-winning physicist Guglielmo Marconi, the inventor of wireless telegraphy, who was born in Bologna. It serves as a key hub for both leisure and business travel, connecting the region to major European destinations and handling millions of passengers annually.",
+  "faqs": "Q: How far is Bologna Airport from the city center?\nA: The airport is approximately 6 km northwest of Bologna's historic center. The Marconi Express monorail connects the airport to Bologna Centrale railway station in about 7 minutes.\n\nQ: What is the airport named after?\nA: The airport is named after Guglielmo Marconi, the Italian inventor and Nobel Prize-winning physicist who pioneered wireless telegraphy and was born in Bologna in 1874.\n\nQ: Does the airport have a single terminal?\nA: Yes, Bologna Airport operates with one main passenger terminal, making navigation straightforward with all facilities concentrated in one building.\n\nQ: Are there direct train connections from the airport?\nA: Yes, the Marconi Express monorail provides a direct, fast connection between the airport and Bologna Centrale, the city's main railway station.\n\n",
+  "transport_tips": "The Marconi Express monorail is the fastest and most convenient option, reaching Bologna Centrale in about 7 minutes. Aerobus BLQ runs regularly between the airport and the city center for budget travelers, while taxis and rideshares offer door-to-door service taking roughly 15-20 minutes depending on traffic. Car rental agencies are available on-site for those exploring Emilia-Romagna's wider region.",
+  "local_tip": "Grab a proper Bolognese lunch before flying out — the airport area has a few authentic trattorias nearby, and you can also pick up local specialties like mortadella, Parmigiano Reggiano, and balsamic vinegar from Emilia-Romagna at the airport shops as gifts or for yourself.",
+  "generatedAt": "2026-06-28T16:48:01.731Z",
+  "model": "MiniMax-M3"
+}

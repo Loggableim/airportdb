@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RKV",
+    "icao": "BIRK",
+    "name": "Reykjavík Domestic Airport",
+    "country": "Iceland",
+    "city": "Reykjavík",
+    "lat": 64.1287,
+    "lon": -21.9376,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Reykjavík Domestic Airport (RKV) is Iceland's primary hub for domestic flights, located just 2 km from the city center on the eastern shore of Faxaflói Bay. Opened in 1946, it predates Keflavík International Airport and remains the gateway to Iceland's outlying regions including Akureyri, Egilsstaðir, Ísafjörður, and Höfn. The airport handles turboprop services operated by Air Iceland Connect (formerly Air Iceland) using Dash 8-Q400 aircraft.",
+  "faqs": "Q: How far is Reykjavík Domestic Airport from the city center?\nA: RKV is approximately 2 km (1.2 miles) from downtown Reykjavík, making it one of the most centrally located airports in Europe. A short taxi or bus ride brings passengers directly into the city.\n\nQ: What domestic destinations can I fly to from RKV?\nA: Common routes include Akureyri (north), Egilsstaðir (east), Ísafjörður (Westfjords), Höfn (southeast), and Vestmannaeyjar (Westman Islands). Flight times typically range from 30 minutes to just over an hour.\n\nQ: Does RKV handle international flights?\nA: No, all international flights to and from Iceland use Keflavík International Airport (KEF), located about 50 km southwest of the capital. RKV is exclusively for domestic travel within Iceland.\n\nQ: Who operates flights from Reykjavík Domestic Airport?\nA: Air Iceland Connect, a subsidiary of Icelandair Group, is the main airline operating scheduled domestic flights from RKV using Bombardier Dash 8-Q400 turboprop aircraft.\n\n",
+  "transport_tips": "",
+  "local_tip": "If you're returning to Reykjavík from the Westfjords, Akureyri, or Eastfjords and connection times feel tight, you don't need to clear immigration at RKV as you would at Keflavík—just walk out. Many travelers prefer arriving here during winter months because the airport's city-center proximity avoids the longer and often weather-del",
+  "generatedAt": "2026-06-29T02:30:14.782Z",
+  "model": "MiniMax-M3"
+}

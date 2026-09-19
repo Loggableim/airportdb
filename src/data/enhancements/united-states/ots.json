@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OTS",
+    "icao": "",
+    "name": "Anacortes Airport",
+    "country": "United States",
+    "city": "Anacortes",
+    "lat": 48.4985,
+    "lon": -122.6625,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Anacortes Airport (OTS) is a small general aviation facility located on Fidalgo Island in Skagit County, Washington, serving the city of Anacortes and surrounding islands. The airport primarily accommodates private aircraft, flight training, and charter operations, playing a supporting role for visitors heading to the San Juan Islands. Its proximity to the Anacortes Ferry Terminal makes it a convenient alternative for travelers connecting to island destinations.",
+  "faqs": "Q: What type of airport is Anacortes Airport?\nA: Anacortes Airport is a small general aviation airport, primarily serving private pilots, flight training, and charter flights rather than commercial airline service.\n\nQ: Does Anacortes Airport have commercial flights?\nA: No, the airport does not offer scheduled commercial airline service. It is used mainly for general aviation purposes.\n\nQ: Where is Anacortes Airport located?\nA: The airport is situated on Fidalgo Island in northwestern Washington, just south of the city of Anacortes and near the San Juan Islands ferry terminal.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, tie-down areas for aircraft, and basic services for general aviation users, though amenities are limited compared to larger airports.\n\n",
+  "transport_tips": "Reaching Anacortes Airport is easiest by car, with the facility located a short drive south of downtown Anacortes via Highway 20 and other local roads. Rental cars are available in the broader Anacortes area, though the airport itself does not host on-site rental counters. The nearby Washington State Ferries terminal offers connections to the San Juan Islands and Sidney, British Columbia.",
+  "local_tip": "If you're flying in and plan to visit the San Juan Islands, coordinate your arrival with the ferry schedule from the nearby terminal—parking your aircraft at OTS and taking the ferry makes for a popular and scenic multi-modal trip.",
+  "generatedAt": "2026-06-26T19:25:26.531Z",
+  "model": "MiniMax-M3"
+}

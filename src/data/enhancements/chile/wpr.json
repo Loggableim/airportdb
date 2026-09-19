@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WPR",
+    "icao": "SCFM",
+    "name": "Captain Fuentes Martinez Airport",
+    "country": "Chile",
+    "city": "Porvenir",
+    "lat": -53.2537,
+    "lon": -70.3192,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Captain Fuentes Martinez Airport (WPR/SCFM) is a regional airport serving Porvenir, the capital of Chile's Primavera commune on the northern shore of Tierra del Fuego island. Set against the windswept Patagonian steppe near the Strait of Magellan, it provides essential air access to one of Chile's most remote and sparsely populated regions. The airport primarily handles small to medium aircraft connecting Porvenir with Punta Arenas and other southern destinations.",
+  "faqs": "Q: What is Captain Fuentes Martinez Airport primarily used for?\nA: It serves as a regional hub for travel to and from Porvenir on Tierra del Fuego, mainly handling small commercial flights and general aviation.\n\nQ: Are there regular scheduled flights to Porvenir?\nA: Scheduled service is limited and can vary seasonally; travelers should check current regional airline schedules, as flights are typically operated by small carriers serving the Magallanes region.\n\nQ: What is the weather typically like at the airport?\nA: The area experiences harsh Patagonian weather with strong winds, cold temperatures, and rapid weather changes, which can affect flight schedules.\n\nQ: How far is the airport from Porvenir's town center?\nA: The airport is located a short drive from central Porvenir, making ground transfers quick and straightforward.\n\n",
+  "transport_tips": "Ground transportation from the airport is limited, so arranging a transfer in advance is recommended. Rental cars are available in Porvenir for exploring Tierra del Fuego, and local taxis typically meet arriving flights. The Strait of Magellan crossing by ferry from Punta Arenas is an alternative, though less weather-dependent than flying.",
+  "local_tip": "Pack windproof layers even in summer, as Porvenir is known for relentless Patagonian winds that sweep across the open pampas surrounding the airport.",
+  "generatedAt": "2026-06-26T11:57:19.123Z",
+  "model": "MiniMax-M3"
+}

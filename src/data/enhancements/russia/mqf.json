@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MQF",
+    "icao": "USCM",
+    "name": "Magnitogorsk International Airport",
+    "country": "Russia",
+    "city": "Magnitogorsk",
+    "lat": 53.392,
+    "lon": 58.7552,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Magnitogorsk International Airport (MQF) serves the industrial city of Magnitogorsk in Chelyabinsk Oblast, Russia, a city globally known for hosting Magnitogorsk Iron and Steel Works (MMK), one of the world's largest steel producers. Located in the southern Urals region near the border with Bashkortostan and Kazakhstan, the airport primarily handles domestic flights connecting the city to Moscow and other Russian destinations. Its strategic location supports business travel linked to the steel and mining industries that drive the local economy.",
+  "faqs": "Q: What is the main purpose of Magnitogorsk International Airport?\nA: The airport primarily serves the industrial city of Magnitogorsk, supporting business travel for the steel industry and connecting residents to major Russian cities, especially Moscow.\n\nQ: Are there international flights from MQF?\nA: The airport is classified as international but currently operates mainly domestic flights to Russian destinations, with limited or seasonal international routes.\n\nQ: How far is the airport from Magnitogorsk city center?\nA: The airport is located approximately 15-20 kilometers west of the city center, with typical travel times of 20-30 minutes by road.\n\nQ: What facilities are available at the terminal?\nA: The terminal provides basic amenities including a waiting area, small cafes, and a ticket office, though facilities are modest compared to major Russian hubs.",
+  "transport_tips": "The most common way to reach the city is by taxi or pre-arranged transfer, which takes roughly 20-30 minutes depending on traffic and weather conditions. Public bus services also connect the airport to Magnitogorsk, though schedules can be limited, especially outside peak hours. During winter, allow extra travel time as heavy snowfall in the Urals region can slow ground transport significantly.",
+  "local_tip": "Frequent visitors recommend downloading a Russian ride-hailing app like Yandex Go in advance, as it is often more reliable and affordable than hailing local taxis at the terminal, especially given the language barrier many travelers encounter.",
+  "generatedAt": "2026-06-29T00:45:40.264Z",
+  "model": "MiniMax-M3"
+}

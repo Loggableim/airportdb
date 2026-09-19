@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PSQ",
+    "icao": "",
+    "name": "Philadelphia Seaplane Base",
+    "country": "United States",
+    "city": "Essington",
+    "lat": 39.859,
+    "lon": -75.2996,
+    "type": "seaplane_base",
+    "size": 25
+  },
+  "summary": "Philadelphia Seaplane Base (PSQ) is a small general aviation facility situated on the Delaware River in Essington, Pennsylvania, just across the water from Philadelphia International Airport. The base primarily serves float-equipped aircraft and offers a rare water-based landing option in the densely populated Philadelphia metropolitan area. Its riverside location provides convenient access to downtown Philadelphia while avoiding the congestion of larger land-based airports.",
+  "faqs": "Q: What types of aircraft use Philadelphia Seaplane Base?\nA: The base primarily serves single-engine floatplanes and small amphibious aircraft used for private and charter flights.\n\nQ: Is PSQ open to the public?\nA: The seaplane base operates as a general aviation facility and is accessible to pilots with properly equipped aircraft, though it does not offer commercial passenger service.\n\nQ: How close is PSQ to Philadelphia International Airport (PHL)?\nA: The seaplane base is located just across the Delaware River from PHL, roughly 2-3 miles away, making it a unique alternative for aviators in the region.\n\nQ: Are there fuel services available at the seaplane base?\nA: Limited services are typical at seaplane bases of this size; pilots should confirm fuel availability directly with the operator before arrival.\n\n",
+  "transport_tips": "Getting to PSQ typically requires a vehicle since the seaplane base is not served by public transit directly; the nearest SEPTA station is in nearby Tinicum Township. From Philadelphia International Airport, the base is a short drive across the river via I-95. Pilots arriving by air coordinate dock access with the base operator in advance.",
+  "local_tip": "Aircraft arriving from the north should be mindful of restricted airspace around Philadelphia International Airport just across the river, and coordinating with PHL tower on the common frequency is recommended before approaching the seaplane basin.",
+  "generatedAt": "2026-06-28T12:56:58.754Z",
+  "model": "MiniMax-M3"
+}

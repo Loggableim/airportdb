@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LOL",
+    "icao": "KLOL",
+    "name": "Derby Field",
+    "country": "United States",
+    "city": "Lovelock",
+    "lat": 40.0664,
+    "lon": -118.565,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Derby Field is a general aviation airport serving the small community of Lovelock in Pershing County, Nevada. Originally established as a World War II-era training facility, it now supports recreational flying, air ambulance services, and occasional transient traffic along the Interstate 80 corridor. The airport sits in a high-desert valley surrounded by the Humboldt Range and Trinity Range, offering pilots scenic approaches through Nevada's open basin terrain.",
+  "faqs": "Q: What is Derby Field primarily used for?\nA: Derby Field is primarily used for general aviation, including private flights, recreational flying, and air ambulance operations serving rural northern Nevada.\n\nQ: Does Derby Field offer scheduled commercial service?\nA: No, Derby Field does not offer scheduled commercial airline service. It functions as a general aviation facility.\n\nQ: Are there fuel services available at the airport?\nA: Fuel availability can vary; pilots should check current NOTAMs or contact the fixed-base operator for the latest information on fuel and services.\n\nQ: What is the field elevation at Derby Field?\nA: Derby Field sits at a relatively high desert elevation, which pilots should account for when planning takeoffs and landings, especially during warm summer months.",
+  "transport_tips": "Derby Field is located just northwest of Lovelock's town center, making it a short drive from local lodging and restaurants. Visitors typically arrange ground transportation in advance, as rental car services are limited and rideshare availability is minimal in this rural area. The airport is conveniently accessed via Interstate 80, which runs directly through Lovelock about 30 miles east of Winnemucca.",
+  "local_tip": "Time your visit to explore the Lovelock Cave archaeological site nearby, one of the most significant Northern Paiute historical locations in Nevada, and stop by the Pershing County Historical Museum for context on the region's mining and railroad heritage.",
+  "generatedAt": "2026-06-26T07:55:11.509Z",
+  "model": "MiniMax-M3"
+}

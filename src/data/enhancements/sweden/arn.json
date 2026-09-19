@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ARN",
+    "icao": "ESSA",
+    "name": "Stockholm-Arlanda Airport",
+    "country": "Sweden",
+    "city": "Stockholm",
+    "lat": 59.6485,
+    "lon": 17.9288,
+    "type": "large_airport",
+    "size": 1019975
+  },
+  "summary": "Stockholm-Arlanda Airport is Sweden's largest and busiest airport, serving as the primary international gateway to the Swedish capital. Located approximately 37 km north of Stockholm, it opened in 1960 and features four operational terminals (2, 3, 4, and 5) with Terminal 5 handling most international flights. It serves as a major hub for Scandinavian Airlines (SAS) and is a key Nordic connection point for transatlantic and European routes.",
+  "faqs": "Q: How far is Arlanda from central Stockholm?\nA: Arlanda is located about 37 km (23 miles) north of central Stockholm, roughly a 45-minute drive depending on traffic conditions.\n\nQ: What is the fastest way to get from Arlanda to Stockholm city center?\nA: The Arlanda Express high-speed train is the fastest option, reaching Stockholm Central Station in approximately 20 minutes with departures every 15 minutes.\n\nQ: How many terminals does Arlanda have?\nA: Arlanda has four operational terminals numbered 2 through 5. Terminal 5 is the largest and handles most international flights, while Terminals 2, 3, and 4 serve domestic and some regional routes.\n\nQ: Is there a hotel at Stockholm-Arlanda Airport?\nA: Yes, there are several on-site hotels including the Radisson Blu Airport Terminal Hotel connected directly to Terminal 5, as well as Clarion Hotel and Comfort Hotel nearby with shuttle service.",
+  "transport_tips": "The Arlanda Express train is the fastest and most reliable way to reach central Stockholm, taking just 20 minutes. Public bus options like Flygbussarna are more economical but take 45-60 minutes depending on traffic. If renting a car, note that Swedish roads and signage are excellent, and the E4 motorway provides a direct route to the city.",
+  "local_tip": "If you have a long layover, the SkyCity area between Terminals 4 and 5 offers shops, restaurants, and even a casino accessible without passing through security—perfect for stretching your legs during a connection.",
+  "generatedAt": "2026-06-28T15:01:42.444Z",
+  "model": "MiniMax-M3"
+}

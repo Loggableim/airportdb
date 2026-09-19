@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IWD",
+    "icao": "KIWD",
+    "name": "Gogebic Iron County Airport",
+    "country": "United States",
+    "city": "Ironwood",
+    "lat": 46.5253,
+    "lon": -90.1316,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Gogebic Iron County Airport (IWD) is a small public-use airport serving Ironwood in Michigan's western Upper Peninsula, near the Wisconsin border. The airport primarily supports general aviation and serves a region known for its scenic forests, ski resorts, and outdoor recreation opportunities. It provides essential air access to a remote area where road travel to larger cities can be lengthy.",
+  "faqs": "Q: What is the airport primarily used for?\nA: The airport mainly serves general aviation, including private aircraft, recreational flyers, and occasional charter flights, with no scheduled commercial service.\n\nQ: Are there car rental services at the airport?\nA: Rental car availability is limited; visitors typically arrange vehicles in advance through local agencies in Ironwood or arrange pickup in nearby towns.\n\nQ: What is the nearest major city?\nA: The closest significant city is Duluth, Minnesota, located approximately 180 miles northwest, while Green Bay, Wisconsin is roughly 200 miles to the south.\n\nQ: Does the airport have an FAA control tower?\nA: No, Gogebic Iron County Airport operates as an uncontrolled field, requiring pilots to use common traffic advisory frequency procedures.\n\n",
+  "transport_tips": "Having a personal vehicle is highly recommended when visiting via this airport, as public transportation options in the area are very limited. The airport is located just east of Ironwood, a short drive from downtown. During winter months, be prepared for significant snow and ice, as the region receives heavy lake-effect snowfall.",
+  "local_tip": "If you're flying in for ski season at one of the nearby resorts like Big Powderhorn or Indianhead, check with your lodge about shuttle arrangements in advance, as the airport is not served by ride-share apps and taxi services are sparse.",
+  "generatedAt": "2026-06-26T19:42:33.261Z",
+  "model": "MiniMax-M3"
+}

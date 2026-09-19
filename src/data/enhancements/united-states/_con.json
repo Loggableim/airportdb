@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CON",
+    "icao": "KCON",
+    "name": "Concord Municipal Airport",
+    "country": "United States",
+    "city": "Concord",
+    "lat": 43.2027,
+    "lon": -71.5023,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Concord Municipal Airport (CON/KCON) is a public-use general aviation facility serving New Hampshire's state capital and the surrounding Merrimack County region. The airport primarily supports private aviation, flight training, and corporate operations rather than scheduled commercial service. Its central New Hampshire location makes it a convenient base for accessing the Lakes Region and the state's capitol district.",
+  "faqs": "Q: Does Concord Municipal Airport offer commercial airline service?\nA: No, CON is a general aviation airport with no scheduled commercial flights. Travelers typically use Manchester-Boston Regional Airport (MHT) for commercial service.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, hangars, tie-downs, fuel services, and supports flight training, private aircraft, and corporate aviation.\n\nQ: How large is Concord Municipal Airport?\nA: It is classified as a medium-sized airport with runways capable of handling most single and twin-engine general aviation aircraft.\n\nQ: Is the airport open to the public?\nA: Yes, it is a public-use airport, though prior permission may be required for certain services or after-hours access.\n\n",
+  "transport_tips": "The airport is located just a few miles from downtown Concord, making it a quick drive via local roads. Rental cars and taxi services are available in the city, though pre-arranging ground transport is recommended since on-site rental counters are limited. Visitors can also reach the airport easily from I-93 and I-89.",
+  "local_tip": "If you're flying in for business with the state government, Concord Municipal Airport offers a much faster alternative to Boston Logan—it's typically only a 10-minute drive to the State House complex, avoiding the traffic congestion of larger regional airports.",
+  "generatedAt": "2026-06-30T05:18:54.970Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PER",
+    "icao": "YPPH",
+    "name": "Perth International Airport",
+    "country": "Australia",
+    "city": "Perth",
+    "lat": -31.9403,
+    "lon": 115.967,
+    "type": "large_airport",
+    "size": 51375
+  },
+  "summary": "Perth Airport (PER/YPPH) is Western Australia's primary international gateway, located approximately 10 km east of Perth's central business district. As one of Australia's busiest airports, it serves as a major hub for Qantas and Virgin Australia, offering direct long-haul flights to destinations across Europe, Asia, Africa, and the Middle East, as well as extensive domestic connections. The airport operates across multiple terminals (T1 through T4), with T1 handling international and domestic services and the others dedicated to domestic operations.",
+  "faqs": "Q: How far is Perth Airport from the city centre?\nA: Perth Airport is approximately 10 km east of Perth's central business district, typically a 20-30 minute drive depending on traffic.\n\nQ: Does Perth Airport have a train connection to the city?\nA: Yes, the Perth Airport Line provides direct rail service connecting the airport terminals to the city centre and surrounding suburbs.\n\nQ: How many terminals does Perth Airport have?\nA: Perth Airport has four terminals. Terminal 1 (T1) handles international flights and some domestic services, while T2, T3, and T4 are dedicated to domestic operations operated by different airlines.\n\nQ: Is Perth Airport a 24-hour operation?\nA: Perth Airport operates around the clock to accommodate international time zones and freight movements, though specific terminal hours may vary by airline.",
+  "transport_tips": "The Perth Airport Line train provides a fast and affordable connection between the airport and the city centre, with journey times of around 20-30 minutes. Taxis and rideshare services (Uber, DiDi) are readily available at designated pickup zones outside each terminal. Long-term and short-term parking options are available across the airport campus, and several hotels near the terminals offer shuttle services for guests.",
+  "local_tip": "If you have a long layover, consider visiting one of the nearby hotel day-use facilities for a shower and rest, or take the short train ride into the city for a quick coffee by the Swan River — Fremantle is also easily accessible for fresh seafood if your connection allows.",
+  "generatedAt": "2026-06-28T15:41:17.553Z",
+  "model": "MiniMax-M3"
+}

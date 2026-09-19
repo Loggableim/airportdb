@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CEQ",
+    "icao": "LFMD",
+    "name": "Cannes Mandelieu Airport",
+    "country": "France",
+    "city": "Cannes",
+    "lat": 43.548,
+    "lon": 6.9552,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Cannes Mandelieu Airport (CEQ/LFMD) is a medium-sized airport located on the French Riviera between Cannes and Mandelieu-la-Napoule. It primarily serves business aviation, private jets, and general aviation, making it a popular gateway for high-profile visitors attending events like the Cannes Film Festival. The airport offers a quieter, faster alternative to the busier Nice Côte d'Azur Airport just a short distance away.",
+  "faqs": "Q: How far is Cannes Mandelieu Airport from central Cannes?\nA: The airport is approximately 6 km west of Cannes city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Does Cannes Mandelieu Airport handle commercial airline flights?\nA: Scheduled commercial service is very limited; the airport is predominantly used for business jets, private aviation, and general aviation flights.\n\nQ: Is there a terminal for private jet passengers?\nA: Yes, the airport features dedicated FBO (Fixed-Base Operator) facilities catering to private and business aviation passengers.\n\nQ: Can I fly directly to Paris from Cannes?\nA: Some seasonal or charter flights may operate, but most travelers connecting to Paris or other major hubs typically use nearby Nice Côte d'Azur Airport.",
+  "transport_tips": "Taxis and pre-booked private transfers are the most reliable options, as public transport connections to the airport are limited. Car rental agencies operate at the airport for visitors planning to explore the Côte d'Azur region. Allow extra travel time during the Cannes Film Festival in May, when traffic and demand for ground transport peak significantly.",
+  "local_tip": "If you have flexibility, consider flying into Nice Côte d'Azur (NCE) instead for more flight options and direct rail connections to Cannes via the TER coastal line, unless you're arriving on a private aircraft.",
+  "generatedAt": "2026-06-29T04:12:20.205Z",
+  "model": "MiniMax-M3"
+}

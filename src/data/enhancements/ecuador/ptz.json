@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PTZ",
+    "icao": "SESM",
+    "name": "Rio Amazonas Airport",
+    "country": "Ecuador",
+    "city": "Shell Mera",
+    "lat": -1.5052,
+    "lon": -78.0627,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Rio Amazonas Airport (PTZ/SESM) is a small regional airport serving Shell Mera, a frontier town in Ecuador's Pastaza Province within the Amazon basin. The airport provides essential connectivity for residents, indigenous communities, and travelers heading into the rainforest regions east of the Andes. Its modest size reflects the remote, nature-rich character of the surrounding Oriente region, where the town was originally established as a Shell Oil company outpost.",
+  "faqs": "Q: What is the IATA code for Rio Amazonas Airport?\nA: The IATA code is PTZ, and the ICAO code is SESM.\n\nQ: How large is Rio Amazonas Airport?\nA: It is classified as a small airport with limited infrastructure, primarily serving regional and general aviation traffic.\n\nQ: Where exactly is Shell Mera located?\nA: Shell Mera is a small town in Pastaza Province, in Ecuador's Amazon (Oriente) region, southeast of the Andes mountains.\n\nQ: Are there commercial flights to Rio Amazonas Airport?\nA: The airport typically handles regional flights and charter services; scheduled commercial service is limited compared to Ecuador's larger airports.\n\n",
+  "transport_tips": "Ground transportation from the airport to Shell Mera town center is usually arranged by taxi or moto-taxi, as the airport sits just a few kilometers from the town. Travelers heading deeper into the Amazon basin should arrange onward transport in advance, as bus services to nearby Puyo and other destinations may run on limited schedules. Rental cars are generally not available at this small regional airport, so pre-booking a private transfer is recommended.",
+  "local_tip": "The airport sits near the edge of primary rainforest, so flights in and out are best taken in the morning before afternoon cloud build-up and convective storms typical of the Amazon basin can cause delays.",
+  "generatedAt": "2026-06-28T07:05:00.053Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MID",
+    "icao": "MMMD",
+    "name": "Manuel Crescencio Rejón International Airport",
+    "country": "Mexico",
+    "city": "Mérida",
+    "lat": 20.9305,
+    "lon": -89.6455,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Manuel Crescencio Rejón International Airport (MID) is the main airport serving Mérida, the cultural capital of Mexico's Yucatán Peninsula. Named after a 19th-century Yucatecan politician and journalist, it serves as a vital gateway for tourism to Mayan archaeological sites such as Chichén Itzá and Uxmal. The airport handles both domestic flights connecting Mérida to major Mexican cities and international services to the United States and select destinations in the Americas.",
+  "faqs": "Q: How far is the airport from downtown Mérida?\nA: The airport is located approximately 10 kilometers (6 miles) southwest of Mérida's historic city center, with typical travel times of 20-30 minutes depending on traffic.\n\nQ: What airlines operate from MID?\nA: Major carriers serving the airport include Aeroméxico, Volaris, Viva Aerobus, United, and American Airlines, offering domestic and international routes.\n\nQ: Does the airport have international flights?\nA: Yes, MID offers international flights primarily to cities in the United States including Miami, Houston, Dallas, and Atlanta, with seasonal service to additional destinations.\n\nQ: Are there facilities for travelers with overnight layovers?\nA: The airport operates during limited hours and is not typically suited for overnight stays; nearby Mérida city offers a wider range of accommodation options.\n\n",
+  "transport_tips": "Authorized taxis and rideshare services like Uber and Didi are available at designated pickup zones outside the terminal, with fixed rates posted inside the arrivals area. ADO buses and shuttle services connect the airport to Mérida's main bus terminal and nearby tourist destinations including Chichén Itzá. Rental car agencies are available on-site and recommended for travelers planning to explore the Yucatán Peninsula independently.",
+  "local_tip": "If you have time during a layover, consider taking a quick taxi into Mérida's Centro Histórico to enjoy authentic Yucatecan cuisine like cochinita pibil or panuchos before returning—the colonial city is remarkably close to the airport.",
+  "generatedAt": "2026-06-28T19:22:26.977Z",
+  "model": "MiniMax-M3"
+}

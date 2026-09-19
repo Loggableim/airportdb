@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MHD",
+    "icao": "OIMM",
+    "name": "Mashhad International Airport",
+    "country": "Iran",
+    "city": "Mashhad",
+    "lat": 36.2348,
+    "lon": 59.6429,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "Mashhad International Airport (MHD) is the second-busiest airport in Iran and the primary gateway to the holy city of Mashhad, home to the shrine of Imam Reza, the largest religious pilgrimage site in the world. Located in northeastern Iran in the Khorasan Razavi province, the airport handles millions of passengers annually, with traffic surging significantly during Shia pilgrimage seasons and Nowruz holidays. It serves as a key hub for domestic carriers and offers growing international connections to destinations across the Middle East, Central Asia, and beyond.",
+  "faqs": "Q: How far is Mashhad International Airport from the city center?\nA: The airport is located approximately 5 to 6 kilometers southeast of downtown Mashhad, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines operate from Mashhad International Airport?\nA: Major domestic carriers including Iran Air, Iran Aseman Airlines, Mahan Air, and Varesh Airlines use MHD as a hub, with international flights operated by airlines such as Emirates, Qatar Airways, Turkish Airlines, Air Arabia, and several Central Asian carriers.\n\nQ: When is the busiest time at Mashhad airport?\nA: Traffic peaks during Nowruz (Persian New Year in March-April) and major Shia religious observances, particularly the birth and martyrdom anniversaries of Imam Reza, when millions of pilgrims travel to the city.\n\nQ: Does the airport have international terminal facilities?\nA: Yes, Mashhad International has separate terminals for domestic and international flights, with the international terminal serving routes to Gulf states, Turkey, Central Asia, and select East Asian destinations.",
+  "transport_tips": "The most convenient way to reach the city center is by taxi or ride-hailing apps like Snapp and Tapsi, which can be booked at designated pickup zones outside the terminal. Airport shuttle buses and shared",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T17:03:03.488Z",
+  "model": "MiniMax-M3"
+}

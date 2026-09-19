@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YFI",
+    "icao": "",
+    "name": "Fort Mackay / Firebag",
+    "country": "Canada",
+    "city": "Suncor Energy Site",
+    "lat": 57.2758,
+    "lon": -110.9767,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Fort Mackay / Firebag Airport (YFI) is a small industrial airstrip serving the Suncor Energy operations in the Athabasca oil sands region of northern Alberta. It primarily facilitates crew rotations for workers commuting to the remote Firebag oil sands project, one of Suncor's major in-situ extraction sites. The airport is a key piece of infrastructure supporting the energy industry in the Fort McMurray area.",
+  "faqs": "Q: Who typically uses Fort Mackay / Firebag Airport?\nA: The airport primarily serves energy industry personnel, particularly workers rotating in and out of the Suncor Firebag oil sands facility, along with occasional charter and corporate flights.\n\nQ: Is there scheduled commercial service at YFI?\nA: No scheduled commercial passenger service operates here. Flights are typically arranged through employer-sponsored charter services for site workers.\n\nQ: What facilities are available at the airport?\nA: As a small industrial airstrip, facilities are minimal and geared toward operational use rather than general public travel, with limited terminal amenities.\n\nQ: Can private pilots land at Firebag Airport?\nA: Private landings require prior coordination with Suncor Energy site operations due to the airport's industrial function and remote location.",
+  "transport_tips": "Access to the airport is typically arranged through employer charter flights rather than public transportation options. Ground transportation to and from the airstrip is generally provided by Suncor's site logistics for authorized personnel. The nearest major town with full services is Fort McMurray, roughly 100 km to the south, accessible via Highway 63.",
+  "local_tip": "Workers flying in should pack clothing suitable for both the airfield environment and the work camp, as personal vehicles are not permitted on site and everything needed for the rotation must be brought along.",
+  "generatedAt": "2026-06-27T05:05:19.352Z",
+  "model": "MiniMax-M3"
+}

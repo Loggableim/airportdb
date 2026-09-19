@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NCI",
+    "icao": "SKNC",
+    "name": "Necocli Airport",
+    "country": "Colombia",
+    "city": "Necocli",
+    "lat": 8.4544,
+    "lon": -76.7793,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Necocli Airport serves the small coastal municipality of Necocli in Colombia's Antioquia department, situated on the shores of the Gulf of Urabá along the Caribbean coast. The airport acts as an important regional gateway, particularly for travelers continuing onward to remote beach destinations like Capurganá and Sapzurro, which are difficult to reach by road. With a modest footprint and limited infrastructure, it primarily handles small regional aircraft connecting this corner of Colombia to the rest of the country.",
+  "faqs": "Q: What is Necocli Airport used for?\nA: The airport primarily serves domestic regional flights and acts as a transit point for travelers heading to nearby coastal villages such as Capurganá and Sapzurro.\n\nQ: Which airlines operate at Necocli Airport?\nA: Small regional carriers serving the Urabá region typically operate from this airport, offering connections to cities like Medellín and other Colombian destinations.\n\nQ: How far is Necocli Airport from the town center?\nA: The airport is located close to the town of Necocli, with a short transfer typically required to reach the main urban area.\n\nQ: Can I use Necocli Airport to reach the Darién Gap area?\nA: Yes, Necocli is a common departure point for travelers exploring the southern Caribbean coast of Colombia near the Panama border region.",
+  "transport_tips": "Taxis and mototaxis are the most common ways to reach the airport from central Necocli, and they are readily available during flight operating hours. Travelers heading to Capurganá often arrange onward transport by speedboat from the Necocli waterfront, which is a short ride from the airport. Since flight schedules can be irregular, it is advisable to confirm transport options in advance, especially during the rainy season.",
+  "local_tip": "If you are continuing to Capurganá or Sapzurro, coordinate your flight arrival with a speedboat departure from the Necocli dock — boats fill up quickly on weekends and holidays, and missing a connection can mean waiting until the next day.",
+  "generatedAt": "2026-06-28T04:43:59.455Z",
+  "model": "MiniMax-M3"
+}

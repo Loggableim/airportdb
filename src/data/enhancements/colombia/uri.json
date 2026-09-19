@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "URI",
+    "icao": "SKUB",
+    "name": "Uribe Airport",
+    "country": "Colombia",
+    "city": "La Uribe",
+    "lat": 3.2375,
+    "lon": -74.3472,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Uribe Airport serves the small town of La Uribe in Colombia's Meta department, located in the eastern plains (Llanos) region near the Sierra de la Macarena mountain range. The airport primarily handles regional flights, connecting this remote cattle-ranching community to larger hubs like Bogotá and Villavicencio. Its strategic position makes it a useful access point for travelers exploring the Los Llanos wetlands, the Caño Cristales river area, and surrounding ecotourism destinations.",
+  "faqs": "Q: What airlines operate at Uribe Airport?\nA: Small regional carriers such as SATENA typically serve Uribe Airport with scheduled flights connecting to Bogotá and Villavicencio.\n\nQ: How far is the airport from La Uribe town center?\nA: The airport is located just a few kilometers from the town center, usually reachable within a short drive by taxi or local transport.\n\nQ: Does the airport operate at night?\nA: No, Uribe Airport operates during daylight hours only, with no published nighttime or instrument approach services.\n\nQ: What is the runway like at Uribe Airport?\nA: The airport has a single unpaved or semi-paved runway suitable only for small turboprop aircraft, which is typical of remote Colombian airfields.",
+  "transport_tips": "Taxis and motorcycle taxis (mototaxis) are the main options for reaching La Uribe town from the airport, as there is no scheduled public bus service tied to flight arrivals. Pre-arranging transport through your hotel or lodge is highly recommended, especially since flights can be irregular. Rental cars are not typically available at this small facility.",
+  "local_tip": "Pack light and bring insect repellent in your carry-on, as the surrounding Llanos region is known for mosquitoes and heat, especially during the wet season from April to November.",
+  "generatedAt": "2026-06-27T13:10:52.791Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ORC",
+    "icao": "SKOE",
+    "name": "Orocue Airport",
+    "country": "Colombia",
+    "city": "Orocue",
+    "lat": 4.7904,
+    "lon": -71.3482,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Orocue Airport is a small regional airfield serving the town of Orocue in the Casanare department of Colombia, situated in the vast eastern plains (Llanos) region. The airport primarily supports general aviation and charter flights connecting this remote riverside community to larger hubs like Yopal and Bogotá. Its modest infrastructure reflects the town's status as a gateway for eco-tourism, cattle ranching, and fishing expeditions along the Meta River.",
+  "faqs": "Q: What is the IATA code for Orocue Airport?\nA: The IATA code is ORC and the ICAO code is SKOE.\n\nQ: Are there commercial passenger flights to Orocue?\nA: Scheduled commercial service is limited; most visitors arrive via charter flights or fly into Yopal and travel overland by road or river.\n\nQ: What is the best way to reach Orocue?\nA: Many travelers fly to El Alcaraván Airport in Yopal (EYP) and then take a 3-4 hour drive or boat ride along the Meta River to Orocue.\n\nQ: Is the airport paved?\nA: The airport has a single runway suitable for small aircraft, typical of remote Colombian llanos airstrips.\n\n",
+  "transport_tips": "Taxis and motorbike taxis (mototaxis) are typically available in Orocue town to meet arriving flights. Given the airport's small size with limited scheduled service, booking ground transport in advance is advisable. River boats from Puerto Carreño and other Meta River ports also serve the town as an alternative route.",
+  "local_tip": "Visit during the dry season (December-March) when road and river conditions are most favorable, and bring lightweight clothing as the llanos climate is hot and humid year-round.",
+  "generatedAt": "2026-06-27T13:59:53.479Z",
+  "model": "MiniMax-M3"
+}

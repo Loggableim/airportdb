@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HKG",
+    "icao": "VHHH",
+    "name": "Hong Kong International Airport",
+    "country": "Hong Kong",
+    "city": "Hong Kong",
+    "lat": 22.3118,
+    "lon": 113.9149,
+    "type": "large_airport",
+    "size": 1044675
+  },
+  "summary": "Hong Kong International Airport (HKG), commonly known as Chek Lap Kok Airport, opened in 1998 on a largely artificial island reclaimed off the north coast of Lantau Island, replacing the iconic but constrained Kai Tak Airport. It serves as the primary hub for Cathay Pacific and Hong Kong Airlines and is consistently ranked among the world's busiest airports for international passenger and cargo traffic. The airport features the sprawling Terminal 1, which at the time of its opening housed the world's largest airport terminal roof, and the recently expanded three-runway system supports some of the highest aircraft movements globally.",
+  "faqs": "Q: How far is Hong Kong International Airport from the city center?\nA: It is approximately 34 kilometers (21 miles) west of Hong Kong's Central district on Lantau Island.\n\nQ: What is the fastest way to get from the airport to downtown Hong Kong?\nA: The Airport Express train connects to Central in about 24 minutes, with in-town check-in available at Hong Kong and Kowloon stations.\n\nQ: Does the airport operate 24 hours a day?\nA: Yes, HKG operates around the clock, though most overnight hours see reduced flight activity. Curfews are limited compared to many major airports.\n\nQ: Is there a terminal change required for connecting flights?\nA: Most airlines operate from Terminal 1, but some low-cost and regional carriers use Terminal 2, which connects via the automated people mover.\n\n",
+  "transport_tips": "The Airport Express train is the quickest option to Central, taking about 24 minutes, with trains running every 10-12 minutes. For groups or those with heavy luggage, taxis are plentiful and reasonably priced for the distance, though they include tunnel and airport surcharges. Public buses and coaches serve nearly every district in Hong Kong and the Greater Bay Area, including direct services to Shenzhen and Macau.",
+  "local_tip": "Visit the outdoor Aviation Discovery Centre viewing platform near Terminal 2 for excellent aircraft spotting and a close-up look at the runway and apron, especially rewarding during the golden hour.",
+  "generatedAt": "2026-06-28T14:43:48.334Z",
+  "model": "MiniMax-M3"
+}

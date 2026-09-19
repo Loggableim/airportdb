@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UOS",
+    "icao": "KUOS",
+    "name": "Franklin County Airport",
+    "country": "United States",
+    "city": "Sewanee",
+    "lat": 35.2048,
+    "lon": -85.8991,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Franklin County Airport (UOS) is a small general aviation facility situated on Tennessee's Cumberland Plateau near Sewanee, home to the University of the South. The airport primarily serves private pilots, recreational flyers, and visitors to the scenic plateau region. Its elevated location offers pilots distinctive approach and departure considerations typical of plateau terrain.",
+  "faqs": "Q: What type of aircraft does Franklin County Airport serve?\nA: The airport primarily accommodates single-engine piston aircraft and small general aviation planes, with no scheduled commercial service.\n\nQ: Is there an air traffic control tower at UOS?\nA: No, Franklin County Airport operates as a non-towered field, requiring pilots to use common traffic advisory frequency procedures.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic amenities including a runway, tie-down areas, and likely fuel services, though visitors should confirm availability with the operator before arrival.\n\nQ: Can I fly commercially to Franklin County Airport?\nA: No, UOS does not offer commercial airline service. The nearest commercial airports are in Chattanooga and Huntsville.",
+  "transport_tips": "The airport is located a short drive from the Sewanee community, with rental car arrangements typically needed in advance as on-site rental services may be limited. Visitors often coordinate ground transportation through local contacts or pre-arranged shuttles from nearby towns. The rural setting means having your own vehicle is the most practical option for exploring the plateau region.",
+  "local_tip": "Plan your arrival with attention to the plateau's elevation and weather patterns—afternoon fog and cloud cover can develop quickly on the Cumberland Plateau, so morning arrivals often provide the best flying conditions.",
+  "generatedAt": "2026-06-27T08:30:28.918Z",
+  "model": "MiniMax-M3"
+}

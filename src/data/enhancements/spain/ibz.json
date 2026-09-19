@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IBZ",
+    "icao": "LEIB",
+    "name": "Ibiza Airport",
+    "country": "Spain",
+    "city": "Ibiza (Eivissa)",
+    "lat": 38.8729,
+    "lon": 1.3731,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Ibiza Airport (IBZ) is the main international gateway to the Balearic Island of Ibiza, located approximately 7 km southwest of Ibiza Town (Eivissa). The airport experiences dramatic seasonal traffic, with summer months seeing a huge surge of charter and low-cost flights serving the island's famous nightlife and beach tourism. It features a single modern terminal that has been progressively expanded to handle millions of annual passengers, particularly during the peak June-to-September season.",
+  "faqs": "Q: How far is Ibiza Airport from the town centre?\nA: The airport is approximately 7 km from Ibiza Town (Eivissa), and the journey typically takes 15-20 minutes by car or taxi.\n\nQ: Does Ibiza Airport operate year-round?\nA: Yes, the airport operates throughout the year, though flight frequency is significantly reduced in winter compared to the busy summer season.\n\nQ: Is there public transport available from the airport?\nA: Yes, regular bus services (Line 10) connect the airport to Ibiza Town and other key destinations on the island, though services are more frequent during summer.\n\nQ: Can I find car rental services at Ibiza Airport?\nA: Yes, several major car rental companies have desks in the terminal, and booking in advance is strongly recommended during the busy summer months.",
+  "transport_tips": "Taxis are readily available outside the terminal and offer a convenient way to reach most destinations on the island, with fixed rates to common resorts. The L10 bus route provides an affordable connection to Ibiza Town and the main ferry port for around €4-5. Renting a car or scooter is highly recommended for exploring the island's beaches and quieter areas, though parking can be challenging in peak season.",
+  "local_tip": "During summer peak season, arrive at least 2-3 hours before your flight as security and check-in queues can be lengthy, and consider pre-booking airport parking or arranging drop-off well in advance to avoid stress.",
+  "generatedAt": "2026-06-28T17:21:54.951Z",
+  "model": "MiniMax-M3"
+}

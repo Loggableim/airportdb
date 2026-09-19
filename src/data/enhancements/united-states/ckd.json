@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CKD",
+    "icao": "",
+    "name": "Crooked Creek Airport",
+    "country": "United States",
+    "city": "Crooked Creek",
+    "lat": 61.8703,
+    "lon": -158.1376,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Crooked Creek Airport (CKD) is a small public-use airport serving the remote village of Crooked Creek, Alaska, a Yup'ik community situated along the Kuskokwim River in the Bethel Census Area. The airport is a vital lifeline for the village, providing essential access for passengers, mail, cargo, and medical evacuations in a region where roads do not connect to the outside world. It features a single gravel runway and is primarily used by bush planes and regional carriers operating in southwestern Alaska.",
+  "faqs": "Q: What is Crooked Creek Airport used for?\nA: The airport primarily serves the remote village of Crooked Creek, providing passenger service, mail delivery, freight transport, and emergency medical evacuation access.\n\nQ: Are there scheduled commercial flights to Crooked Creek Airport?\nA: Limited scheduled service is available through regional bush carriers, though flights are weather-dependent and may be infrequent due to the airport's remote location.\n\nQ: What is the runway surface like at CKD?\nA: The airport has a single gravel runway, typical of small airports in rural Alaska. Aircraft operating here are generally equipped for gravel and unpaved surfaces.\n\nQ: Can I drive to Crooked Creek from Anchorage?\nA: No, Crooked Creek is not connected to Alaska's road network. Access is almost exclusively by air or, seasonally, by boat along the Kuskokwim River.",
+  "transport_tips": "Travelers should arrange transportation through a regional bush carrier, as scheduled service options are limited and subject to weather delays. During summer months, the Kuskokwim River offers an alternative route by boat, while in winter, snow machines and the frozen river provide seasonal ground access. Plan extra days for travel flexibility, as cancellations due to poor visibility or weather are common.",
+  "local_tip": "When booking flights, try to schedule arrivals for mid-day when visibility along the Kuskokwim River valley tends to be best, as early morning and evening fog frequently causes delays or cancellations.",
+  "generatedAt": "2026-06-26T20:52:09.878Z",
+  "model": "MiniMax-M3"
+}

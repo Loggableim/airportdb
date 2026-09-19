@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IUP",
+    "icao": "",
+    "name": "Apuí Airport",
+    "country": "Brazil",
+    "city": "Apuí",
+    "lat": -7.1728,
+    "lon": -59.8396,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Apuí Airport (IUP) is a small regional airport serving the municipality of Apuí in the southern portion of Amazonas state, Brazil, deep within the Amazon rainforest. The facility primarily supports general aviation and charter flights, serving as a vital link for this remote riverside community where road access is limited. It plays a key role in connecting local residents, government workers, and researchers to larger urban centers like Manaus.",
+  "faqs": "Q: What type of airport is Apuí Airport?\nA: It is a small regional airport primarily handling general aviation and charter flights, not scheduled commercial passenger service.\n\nQ: Where is Apuí located?\nA: Apuí is in the southern part of Amazonas state in Brazil, situated in the Amazon rainforest near the Trans-Amazonian Highway (BR-230).\n\nQ: Does Apuí Airport have an ICAO code listed?\nA: No ICAO code is officially assigned; only the IATA code IUP is recognized for this facility.\n\nQ: What is the main purpose of this airport?\nA: The airport primarily serves as a transportation link for residents, public servants, environmental researchers, and supplies reaching this remote Amazonian community.",
+  "transport_tips": "Reaching Apuí Airport typically requires connecting through Manaus (MAO), with charter or small aircraft flights being the most common way to arrive by air. The airport is located near the town center of Apuí, so local transportation by taxi or motorcycle taxi is usually sufficient upon arrival. Ground travel to Apuí from Manaus is possible via the BR-319 and BR-230 highways, though the journey can take 12+ hours depending on road conditions.",
+  "local_tip": "Pack light and bring insect repellent—Apuí is in the heart of the Amazon, so mosquitoes can be intense, especially during the rainy season from December to May when humidity is at its peak.",
+  "generatedAt": "2026-06-27T17:20:00.324Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PPW",
+    "icao": "EGEP",
+    "name": "Papa Westray Airport",
+    "country": "United Kingdom",
+    "city": "Papa Westray, Orkney Islands",
+    "lat": 59.351,
+    "lon": -2.9004,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Papa Westray Airport is a small community airport serving the tiny inhabited island of Papa Westray in Scotland's Orkney archipelago, with a resident population of fewer than 100 people. It is best known as one endpoint of the world's shortest scheduled passenger flight, the Loganair service to neighbouring Westray that covers roughly 1.7 miles in under two minutes. The airport's modest grass-and-asphalt runway and basic terminal reflect the island's remote and peaceful character.",
+  "faqs": "Q: What is the world's shortest scheduled flight?\nA: The Loganair",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-26T14:33:45.575Z",
+  "model": "MiniMax-M3"
+}

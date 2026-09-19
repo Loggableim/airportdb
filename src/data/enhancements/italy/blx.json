@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BLX",
+    "icao": "LIDB",
+    "name": "Belluno Arturo dell'Oro Airport",
+    "country": "Italy",
+    "city": "Belluno (BL)",
+    "lat": 46.1665,
+    "lon": 12.2504,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Belluno Arturo dell'Oro Airport (BLX) is a small general aviation airfield serving the city of Belluno in Italy's Veneto region, nestled at the foot of the Dolomites. Named after local aviation enthusiast Arturo dell'Oro, the airport primarily supports private flying, flight training, and occasional tourist flights. Its scenic mountain setting makes it a popular gateway for visitors exploring the Dolomiti Bellunesi National Park.",
+  "faqs": "Q: What type of flights operate from Belluno Airport?\nA: The airport primarily handles general aviation, private flights, and flight training. There are no scheduled commercial airline services.\n\nQ: Is Belluno Airport open to international visitors?\nA: Yes, the airport can accommodate international general aviation flights, though passengers should verify customs and immigration procedures in advance as services are limited.\n\nQ: What facilities are available at the airport?\nA: As a small regional airfield, facilities are basic, including a terminal building, refueling services, and aircraft parking. Extensive passenger amenities are limited.\n\nQ: Can I rent a car at Belluno Airport?\nA: Car rental services are not typically available on-site, so visitors should arrange transportation in Belluno city or pre-book a rental from larger nearby airports.",
+  "transport_tips": "The airport is located approximately 5 km from Belluno city center, reachable by taxi or pre-arranged transfer in about 10 minutes. Public bus connections are limited, so arranging a rental car or taxi in advance is recommended, especially for travelers heading into the Dolomites. The nearest major airport with extensive commercial service is Treviso (TSF), about 75 km to the south.",
+  "local_tip": "If flying in for hiking or skiing in the Dolomites, coordinate your arrival time with daylight hours since mountain road conditions and limited taxi availability after sunset can complicate the final leg of your journey to nearby alpine destinations.",
+  "generatedAt": "2026-06-27T05:55:55.358Z",
+  "model": "MiniMax-M3"
+}

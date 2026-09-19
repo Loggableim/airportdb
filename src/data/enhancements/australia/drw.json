@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DRW",
+    "icao": "YPDN",
+    "name": "Darwin International Airport / RAAF Darwin",
+    "country": "Australia",
+    "city": "Darwin",
+    "lat": -12.415,
+    "lon": 130.8818,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Darwin International Airport (DRW) is the busiest airport in Australia's Northern Territory and serves as the main gateway to the Top End region. It operates as a joint civil-military facility, sharing its runway and infrastructure with the adjacent RAAF Base Darwin. The airport is strategically located near the coast, roughly 13 km northeast of Darwin's central business district, making it a key hub for both domestic travel and military operations in northern Australia.",
+  "faqs": "Q: How far is Darwin Airport from the city center?\nA: The airport is approximately 13 km northeast of Darwin's CBD, about a 15-minute drive depending on traffic.\n\nQ: Which airlines operate from Darwin International Airport?\nA: Major carriers include Qantas, Virgin Australia, Jetstar, and Airnorth, offering domestic flights to cities like Sydney, Melbourne, Brisbane, Perth, and Alice Springs.\n\nQ: Is Darwin Airport a military facility too?\nA: Yes, it shares infrastructure with RAAF Base Darwin, a Royal Australian Air Force installation that has historical significance dating back to World War II.\n\nQ: Does the airport offer international flights?\nA: Yes, it has international connections, primarily to destinations in Southeast Asia such as Singapore and Dili (Timor-Leste).\n\n",
+  "transport_tips": "The airport is well-connected to Darwin via the Stuart Highway, and taxi or rideshare services are readily available at the terminal. The Darwin Airport Shuttle and public bus route 4 also provide affordable transfers to the city center. Car rental agencies are located within the terminal complex, which is recommended for travelers planning to explore the broader Northern Territory.",
+  "local_tip": "If you have a layover during the wet season (November to April), pack a light rain jacket — Darwin's tropical climate means sudden afternoon storms are common, and the humidity can be intense even indoors.",
+  "generatedAt": "2026-06-28T18:47:25.019Z",
+  "model": "MiniMax-M3"
+}

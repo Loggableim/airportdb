@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZIA",
+    "icao": "UUBW",
+    "name": "Zhukovsky International Airport",
+    "country": "Russia",
+    "city": "Moscow",
+    "lat": 55.5533,
+    "lon": 38.15,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Zhukovsky International Airport (ZIA), also known as Ramenskoye, is located approximately 40 km southeast of Moscow in Moscow Oblast. Opened for commercial operations in 2016, it is situated on the historic Ramenskoye Airfield, home to the Gromov Flight Research Institute, one of Russia's premier aircraft testing facilities. Named after Nikolai Zhukovsky, the father of Russian aviation and aerodynamics, the airport primarily serves low-cost carriers and charter flights as one of Moscow's four major aviation hubs.",
+  "faqs": "Q: How far is Zhukovsky Airport from central Moscow?\nA: The airport is approximately 40 km southeast of central Moscow, with typical journey times of 1 to 1.5 hours depending on traffic.\n\nQ: Which airlines operate from Zhukovsky Airport?\nA: ZIA primarily serves low-cost carriers and charter operators, though its route network has evolved significantly since opening. Check current schedules as airlines adjust services periodically.\n\nQ: Does Zhukovsky Airport share facilities with an aviation research center?\nA: Yes, the airport is co-located with the Gromov Flight Research Institute (LII), where many Russian aircraft have undergone flight testing throughout history.\n\nQ: Are there multiple terminals at Zhukovsky?\nA: The airport has a single integrated passenger terminal designed to handle both domestic and international flights efficiently.",
+  "transport_tips": "The most reliable way to reach Zhukovsky from central Moscow is by commuter train from Kazansky or Vykhino stations, though buses and taxis are also available. Aeroexpress rail service connects the airport to central Moscow in roughly 1 hour. Avoid road transport during Moscow's peak traffic hours, as travel times can extend to 2+ hours.",
+  "local_tip": "Aviation enthusiasts should ask about guided tours of the adjacent Gromov Flight Research Institute, which occasionally offers public access to view historic Soviet and Russian aircraft prototypes undergoing testing.",
+  "generatedAt": "2026-06-29T00:27:32.199Z",
+  "model": "MiniMax-M3"
+}

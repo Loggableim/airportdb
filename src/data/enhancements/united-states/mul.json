@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MUL",
+    "icao": "KMUL",
+    "name": "Spence Airport",
+    "country": "United States",
+    "city": "Moultrie",
+    "lat": 31.1416,
+    "lon": -83.7037,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Spence Airport is a small general aviation airport serving Moultrie, Georgia, located in Colquitt County in the southern part of the state. It primarily accommodates private aircraft, flight training, and recreational flying rather than scheduled commercial service. The airport provides an important aviation link for the local community and surrounding agricultural region.",
+  "faqs": "Q: Does Spence Airport offer commercial airline service?\nA: No, Spence Airport is a small general aviation facility with no scheduled commercial flights.\n\nQ: What types of aircraft typically use Spence Airport?\nA: The airport primarily serves single-engine and small multi-engine private aircraft, flight training operations, and recreational flyers.\n\nQ: Are there any fixed-base operator (FBO) services available?\nA: As a small general aviation airport, basic services such as fuel, parking, and transient aircraft accommodations are typically available, though offerings may be limited.\n\nQ: Can pilots fly into Spence Airport without prior permission?\nA: Pilots should check current NOTAMs and contact the airport directly for the latest operating hours and any PPR requirements.",
+  "transport_tips": "The airport is located just outside the city of Moultrie and is best accessed by personal vehicle or rental car. Taxi services and rideshare options may be limited, so arranging ground transportation in advance is recommended. The short drive from downtown Moultrie typically takes only a few minutes via local roads.",
+  "local_tip": "Moultrie is known as the 'City of Southern Living' and is famous for its annual Sunbelt Agricultural Exposition, so visiting pilots may want to time their trip around this major regional event if interested in the area's strong agricultural heritage.",
+  "generatedAt": "2026-06-27T09:58:36.250Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KCI",
+    "icao": "",
+    "name": "Koolan Central Airport",
+    "country": "Australia",
+    "city": "Koolan Island",
+    "lat": -16.125,
+    "lon": 123.735,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Koolan Central Airport (KCI) is a small airfield on Koolan Island, a remote iron-rich landmass in the Buccaneer Archipelago off the Kimberley coast of Western Australia. The airport primarily supports the island's iron ore mining operations, which have run intermittently since the mid-20th century and were revived by Mount Gibson Iron in the late 2000s. Surrounded by dramatic red cliffs and turquoise waters, it serves one of Australia's most strikingly isolated working environments.",
+  "faqs": "Q: Who primarily uses Koolan Central Airport?\nA: The airport mainly handles FIFO (fly-in fly-out) workers servicing the Koolan Island iron ore mine, along with occasional charter and emergency flights.\n\nQ: Does the airport offer scheduled commercial passenger service?\nA: No scheduled commercial flights operate to KCI; access is typically arranged through employer-chartered or private flights from Broome or Derby.\n\nQ: What facilities are available at the terminal?\nA: As a small mining-support airstrip, the airport offers minimal public amenities and is generally not accessible to casual travellers.\n\nQ: Is Koolan Island open to tourists?\nA: Access is restricted due to active mining operations, so the island is not a standard tourist destination and visitors cannot typically book flights independently.",
+  "transport_tips": "There are no public transport options on Koolan Island; arriving passengers require pre-arranged ground transfers coordinated through the mine operator or charter company. The most common access points are Broome or Derby, from which chartered light aircraft make the short hop across King Sound. Visitors should confirm transport arrangements well in advance, as there are no taxis, ride-shares, or rental cars on the island.",
+  "local_tip": "Wet season rains between November and April can ground flights and cause significant delays, so if you are travelling for work or a scheduled shift change, always build in a buffer day to avoid being stuck on either side of King Sound.",
+  "generatedAt": "2026-06-28T01:53:29.918Z",
+  "model": "MiniMax-M3"
+}

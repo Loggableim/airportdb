@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GOH",
+    "icao": "BGGH",
+    "name": "Nuuk International Airport",
+    "country": "Greenland",
+    "city": "Nuuk",
+    "lat": 64.1911,
+    "lon": -51.6791,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Nuuk International Airport (GOH) is the largest and busiest airport in Greenland, serving the capital city of Nuuk. Opened in 1979, it replaced the original seaplane-based airfield and now handles all jet traffic for the territory. The airport serves as the primary gateway connecting Greenland with Copenhagen and Reykjavik, while also providing domestic links to other coastal communities.",
+  "faqs": "Q: What airlines operate at Nuuk Airport?\nA: Air Greenland is the main carrier, operating domestic flights and routes to Copenhagen. Seasonal services to Reykjavik are also available through Air Greenland and other carriers.\n\nQ: How far is the airport from Nuuk city center?\nA: The airport is located approximately 5 km (3 miles) northeast of central Nuuk, a short drive of around 10-15 minutes.\n\nQ: Are there international flights from Nuuk?\nA: Yes, direct international flights operate to Copenhagen (Denmark) and seasonally to Reykjavik (Iceland), with flight times of approximately 4.5 and 3 hours respectively.\n\nQ: Does the airport have issues with weather delays?\nA: Yes, fog, snow, and strong winds can occasionally cause delays or cancellations, particularly during winter months.",
+  "transport_tips": "Taxis are readily available outside the terminal and provide the most convenient transfer to Nuuk",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T20:47:38.519Z",
+  "model": "MiniMax-M3"
+}

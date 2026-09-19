@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MSP",
+    "icao": "KMSP",
+    "name": "Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field",
+    "country": "United States",
+    "city": "Minneapolis",
+    "lat": 44.8801,
+    "lon": -93.2217,
+    "type": "large_airport",
+    "size": 1085275
+  },
+  "summary": "Minneapolis–Saint Paul International Airport (MSP), also known as Wold–Chamberlain Field, is the largest and busiest airport in the Upper Midwest, serving the Twin Cities metropolitan area. The name honors World War I pilots Ernest Wold and Cyrus Chamberlain, and the airfield retains some joint-use military heritage adjacent to Fort Snelling. MSP serves as a major Delta Air Lines hub and features two main terminals connected by the Minneapolis–St. Paul Airport Trams.",
+  "faqs": "Q: How far is MSP from downtown Minneapolis?\nA: The airport is approximately 10 miles (16 km) south of downtown Minneapolis and about 8 miles northeast of downtown Saint Paul.\n\nQ: Does MSP have public transit service?\nA: Yes, the Metro Transit Blue Line light rail connects both terminals directly to downtown Minneapolis, with free rides between Terminals 1 and 2.\n\nQ: How many terminals does MSP have?\nA: MSP has two terminals: Terminal 1 (Lindbergh) and Terminal 2 (Humphrey), connected by frequent shuttle buses and light rail.\n\nQ: Is MSP a hub for any major airline?\nA: Yes, MSP is one of Delta Air Lines' largest hubs, offering numerous domestic and international connections.",
+  "transport_tips": "The Metro Transit Blue Line light rail provides an affordable and traffic-free connection between both terminals and downtown Minneapolis in about 25 minutes. For travel to Saint Paul or suburban destinations, consider rental cars or rideshare services, as the airport sits near the intersection of MN-5 and MN-77. Allow extra time during winter weather, as snow can affect road conditions and flight schedules.",
+  "local_tip": "Visit the historic Fort Snelling area, accessible via a short drive from the airport, where you can explore Minnesota's early frontier history before or after your flight—perfect for a layover with a rental car.",
+  "generatedAt": "2026-06-28T14:41:44.219Z",
+  "model": "MiniMax-M3"
+}

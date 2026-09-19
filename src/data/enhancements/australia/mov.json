@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MOV",
+    "icao": "YMRB",
+    "name": "Moranbah Airport",
+    "country": "Australia",
+    "city": "Moranbah",
+    "lat": -22.0578,
+    "lon": 148.077,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Moranbah Airport (MOV/YMRB) is a regional airport in Central Queensland, Australia, serving the coal mining hub of Moranbah in the Bowen Basin. The airport is a critical transport link for fly-in fly-out (FIFO) workers supporting the region's extensive coal mining operations. It features a modern terminal designed to handle the high volume of shift-change traffic that characterizes resource industry travel.",
+  "faqs": "Q: What is Moranbah Airport primarily used for?\nA: The airport mainly serves fly-in fly-out (FIFO) workers traveling to and from the coal mines in the Bowen Basin, as well as limited general aviation and charter services.\n\nQ: Which airlines operate at Moranbah Airport?\nA: Regional carriers such as QantasLink and Alliance Airlines operate regular passenger services connecting Moranbah to Brisbane and other Queensland cities.\n\nQ: Does the airport have immigration or customs facilities?\nA: No, Moranbah Airport is a domestic-only airport and does not handle international flights.\n\nQ: How far is the airport from Moranbah town centre?\nA: The airport is located just a few kilometres south of the town centre, making it a short drive for local residents and workers.",
+  "transport_tips": "Most travelers reach the airport by car or via mine-organized shuttle buses, as public transport options are limited. The terminal offers short-term and long-term parking for those leaving personal vehicles. Taxi services are available but should be booked in advance, particularly during early morning and late evening shift changes.",
+  "local_tip": "Book accommodation and transport well in advance during major mine shutdown maintenance periods, as the town and airport see significant spikes in passenger numbers and the FIFO flights fill up quickly.",
+  "generatedAt": "2026-06-29T16:31:35.571Z",
+  "model": "MiniMax-M3"
+}

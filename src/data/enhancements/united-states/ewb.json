@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EWB",
+    "icao": "KEWB",
+    "name": "New Bedford Regional Airport",
+    "country": "United States",
+    "city": "New Bedford",
+    "lat": 41.6761,
+    "lon": -70.9569,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "New Bedford Regional Airport (EWB) serves the SouthCoast region of southeastern Massachusetts, including the historic whaling city of New Bedford. The airport operates as a regional hub providing commercial service and general aviation facilities near the Massachusetts-Rhode Island border. It plays an important role for travelers heading to the SouthCoast communities of Massachusetts.",
+  "faqs": "Q: What commercial airlines serve New Bedford Regional Airport?\nA: Cape Air has historically operated scheduled passenger flights from EWB, typically connecting the region to Boston and other destinations in southern New England.\n\nQ: How far is EWB from downtown New Bedford?\nA: The airport is located approximately 3 miles northwest of downtown New Bedford, making it a short drive from the city's historic waterfront and downtown attractions.\n\nQ: Does the airport offer rental car services?\nA: Yes, rental car services are available at the airport terminal, providing convenient ground transportation for arriving passengers.\n\nQ: What facilities does the terminal offer?\nA: The terminal includes basic amenities such as a waiting area, restrooms, and parking. General aviation services and FBOs are available for private aircraft operations.\n\n",
+  "transport_tips": "The airport is easily accessed via Interstate 195, which connects the region to Providence and Cape Cod. Free or low-cost parking is available in on-site lots directly adjacent to the terminal building. Public transit options are limited, so rental cars or rideshare services are recommended for ground transportation.",
+  "local_tip": "If you have time before your flight, visit the New Bedford Whaling Museum, which is the largest museum in the world devoted to the history of whaling and a short drive from the airport.",
+  "generatedAt": "2026-06-29T04:27:27.934Z",
+  "model": "MiniMax-M3"
+}

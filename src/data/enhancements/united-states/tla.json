@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TLA",
+    "icao": "PATE",
+    "name": "Teller Airport",
+    "country": "United States",
+    "city": "Teller",
+    "lat": 65.2404,
+    "lon": -166.339,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Teller Airport is a small public-use airport serving the remote Iñupiat community of Teller on Alaska's Seward Peninsula, just south of the Bering Strait. The single-runway facility provides a critical lifeline for residents of this isolated village, which is accessible by road only via a seasonal, often rugged route from Nome. The airport primarily supports essential passenger service, mail delivery, and medevac operations to this far-western Alaskan settlement.",
+  "faqs": "Q: Where is Teller Airport located?\nA: Teller Airport is located in the village of Teller on Alaska's Seward Peninsula, approximately 72 miles northwest of Nome near the Bering Strait.\n\nQ: What type of aircraft use Teller Airport?\nA: The airport primarily serves small regional aircraft, including single-engine and small twin-engine bush planes commonly used for service to remote Alaskan communities.\n\nQ: Are there scheduled commercial flights to Teller Airport?\nA: Scheduled passenger service is available through regional carriers, though flights are weather-dependent and may be infrequent or subject to cancellation in poor conditions.\n\nQ: Is there an airport terminal at Teller?\nA: The airport has minimal infrastructure typical of rural Alaskan airstrips, with no large terminal building; passengers typically wait near the runway or in a small shelter.\n\n",
+  "transport_tips": "The only road access to Teller is the Teller Road from Nome, which is unpaved, often rough, and may be impassable during spring thaw or severe weather, making air travel the most reliable option. Visitors without private aircraft typically must book a regional flight from Nome, as no other scheduled services reach this remote community. Ground transportation in Teller is limited, so arranging a local ride in advance with a resident or tribal contact is advisable.",
+  "local_tip": "Bring layers and be prepared for sudden weather changes—Teller's coastal Bering Strait location means fog, wind, and cold can shift quickly, sometimes grounding flights for hours or days. Locals know that patience is essential when traveling here, and packing extra snacks and a charged phone makes unexpected waits far more bearable.",
+  "generatedAt": "2026-06-26T20:34:18.906Z",
+  "model": "MiniMax-M3"
+}

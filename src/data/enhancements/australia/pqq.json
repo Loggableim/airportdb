@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PQQ",
+    "icao": "YPMQ",
+    "name": "Port Macquarie Airport",
+    "country": "Australia",
+    "city": "Port Macquarie",
+    "lat": -31.4358,
+    "lon": 152.863,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Port Macquarie Airport (PQQ) is a regional airport serving the coastal city of Port Macquarie on the Mid North Coast of New South Wales, Australia. Originally established as a military airfield during World War II, it now operates as a civilian facility handling domestic flights, primarily connecting the region to Sydney. The airport features a single terminal and is conveniently located just minutes from the city centre, making it a popular gateway for tourists visiting the area's renowned beaches and natural attractions.",
+  "faqs": "Q: What airlines operate from Port Macquarie Airport?\nA: QantasLink operates regular direct services to Sydney, with seasonal and charter flights occasionally available to other destinations.\n\nQ: How far is Port Macquarie Airport from the town centre?\nA: The airport is approximately 5 kilometres west of Port Macquarie's central business district, typically a 10-minute drive.\n\nQ: Does the airport have international flights?\nA: No, Port Macquarie Airport handles domestic flights only, primarily to and from Sydney.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers both short-term and long-term parking options close to the terminal building.",
+  "transport_tips": "Rental car desks are available in the terminal, and most major Australian rental companies service the airport. Taxi ranks and rideshare pickup zones are located directly outside the terminal building. Shuttle services to local accommodation providers can be arranged in advance through hotels or tour operators.",
+  "local_tip": "If you have time before your flight, the nearby Ricardoes Tomatoes and U-Pick farm is a unique local attraction offering fresh produce and a chance to pick your own strawberries, just a short drive from the airport.",
+  "generatedAt": "2026-06-29T09:55:42.093Z",
+  "model": "MiniMax-M3"
+}

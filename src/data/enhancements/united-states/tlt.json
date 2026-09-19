@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TLT",
+    "icao": "",
+    "name": "Tuluksak Airport",
+    "country": "United States",
+    "city": "Tuluksak",
+    "lat": 61.087,
+    "lon": -160.9228,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Tuluksak Airport is a small public-use airport serving the Yup'ik village of Tuluksak in the Yukon-Kuskokwim Delta of western Alaska. The facility provides an essential transportation link for this remote riverside community, which is not accessible by road. The airport primarily supports passenger and mail services connecting the village to larger regional hubs like Bethel.",
+  "faqs": "Q: What is Tuluksak Airport used for?\nA: The airport primarily serves passenger, mail, and cargo flights connecting the remote village of Tuluksak to Bethel and other regional hubs in Alaska's Yukon-Kuskokwim Delta.\n\nQ: Are there scheduled commercial flights to TLT?\nA: Scheduled service is typically provided by small regional carriers operating bush planes or turboprop aircraft suited to the short gravel runway.\n\nQ: What are the operating conditions at Tuluksak Airport?\nA: The airport has a single gravel runway and is subject to Alaska's variable weather, including fog, snow, and ice, which can occasionally disrupt flights.\n\nQ: Is the airport open year-round?\nA: Yes, Tuluksak Airport operates throughout the year, though winter conditions and river ice can affect ground transportation to and from the village.",
+  "transport_tips": "There is no road access to Tuluksak, so the airport and boat travel along the Tuluksak River are the primary ways to reach the village. Travelers should coordinate flights in advance, as schedules are limited and weather delays are common. During winter, snow machines may be used to traverse frozen terrain and waterways near the airport.",
+  "local_tip": "Pack light and bring layered clothing—temperatures in the Yukon-Kuskokwim Delta can shift dramatically between seasons, and bush planes often have strict weight limits that affect luggage allowances.",
+  "generatedAt": "2026-06-26T21:44:54.947Z",
+  "model": "MiniMax-M3"
+}

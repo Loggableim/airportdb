@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ORL",
+    "icao": "KORL",
+    "name": "Orlando Executive Airport",
+    "country": "United States",
+    "city": "Orlando",
+    "lat": 28.5455,
+    "lon": -81.3329,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Orlando Executive Airport (ORL) is a prominent general aviation facility located approximately three miles east of downtown Orlando, Florida. Originally established in the 1920s, it serves as a key hub for corporate jets, private aviation, flight training, and air charter operations, making it one of the busiest general aviation airports in the southeastern United States. Distinct from the larger Orlando International Airport (MCO), Executive Airport offers a more streamlined experience for business and recreational flyers.",
+  "faqs": "Q: Does Orlando Executive Airport offer commercial airline service?\nA: No, ORL is a general aviation airport with no scheduled commercial flights. Travelers using commercial airlines should go to Orlando International Airport (MCO).\n\nQ: What is the airport primarily used for?\nA: The airport primarily serves corporate aviation, private aircraft, air charter services, and flight training schools, accommodating a high volume of business jet traffic.\n\nQ: Are there multiple FBO options at ORL?\nA: Yes, Orlando Executive Airport hosts several Fixed Base Operators that provide fueling, hangar services, aircraft maintenance, and passenger amenities for private and charter flights.\n\nQ: Can the public visit or access the airport facilities?\nA: While the airfield itself is restricted to aviation use, the airport's terminal area is accessible to the public, and several FBOs welcome visitors and passengers traveling on private aircraft.",
+  "transport_tips": "Reaching Orlando Executive Airport is straightforward via downtown Orlando, with the facility located just off State Road 408 (East-West Expressway) and close to I-4. Ground transportation options include rental cars, rideshare services, and pre-arranged limousine or chauffeur services, as there is no public transit directly serving the terminal area. Private aircraft passengers can arrange ground transport through their FBO for a seamless connection to destinations throughout the Orlando metro area.",
+  "local_tip": "If you're arriving on a private flight, consider coordinating ground transportation through your FBO in advance, as on-demand rideshare availability near the airport can be inconsistent, especially during peak hours or when major events are happening at nearby venues like the Amway Center.",
+  "generatedAt": "2026-06-30T04:47:04.708Z",
+  "model": "MiniMax-M3"
+}

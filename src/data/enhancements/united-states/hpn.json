@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HPN",
+    "icao": "KHPN",
+    "name": "Westchester County Airport",
+    "country": "United States",
+    "city": "White Plains",
+    "lat": 41.067,
+    "lon": -73.7076,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Westchester County Airport (HPN) is a medium-sized airport situated in Harrison, near White Plains, New York, approximately 30 miles north of Manhattan. It serves as a popular alternative to the busier New York City airports, catering primarily to business travelers and residents of the Hudson Valley and Connecticut suburbs. The airport features a single main terminal with a reputation for short security lines and quick processing times.",
+  "faqs": "Q: How far is Westchester County Airport from Manhattan?\nA: The airport is approximately 30 miles north of midtown Manhattan, with typical driving times of 45-75 minutes depending on traffic.\n\nQ: Which airlines operate from HPN?\nA: HPN is served by major carriers including American Airlines, Delta Air Lines, JetBlue, and United Airlines, offering regional flights to domestic destinations.\n\nQ: Does HPN have international flights?\nA: The airport primarily handles domestic flights, with limited international service mostly to Canada and seasonal Caribbean destinations.\n\nQ: Is there a train connection to the airport?\nA: There is no direct rail service, but Metro-North Railroad stations in White Plains and Harrison provide connections via taxi or rideshare.",
+  "transport_tips": "Driving is the most common way to reach HPN, with ample long-term and short-term parking available on-site. Rideshare services and taxis are readily available, and many travelers use the airport's location to avoid NYC traffic by arriving from northern suburbs. Allow extra time during peak rush hours on I-684 and the Sprain Brook Parkway.",
+  "local_tip": "The airport's small size means you can often arrive just 60-90 minutes before departure for domestic flights, but consider that the single TSA checkpoint can have brief queues during the early morning business travel rush.",
+  "generatedAt": "2026-06-29T01:53:07.065Z",
+  "model": "MiniMax-M3"
+}

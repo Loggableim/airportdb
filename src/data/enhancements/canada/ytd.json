@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YTD",
+    "icao": "CZLQ",
+    "name": "Thicket Portage Airport",
+    "country": "Canada",
+    "city": "Thicket Portage",
+    "lat": 55.3189,
+    "lon": -97.7078,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Thicket Portage Airport (YTD/CZLQ) is a medium-sized regional airport serving the small community of Thicket Portage in northern Manitoba, Canada. Located in a remote area along the Canadian Shield, the airport primarily supports local residents, fly-in workers, and charter operations connected to resource industries in the region. The facility provides a vital transportation link for this isolated northern community where road access is limited.",
+  "faqs": "Q: What is the IATA code for Thicket Portage Airport?\nA: The IATA code is YTD, and the ICAO code is CZLQ.\n\nQ: Where is Thicket Portage Airport located?\nA: It is located in Thicket Portage, in northern Manitoba, Canada, at coordinates 55.319°N, 97.708°W.\n\nQ: Does Thicket Portage Airport offer scheduled commercial flights?\nA: As a remote northern airport, scheduled commercial service is very limited, and most flights are charter or general aviation operations serving the local community and nearby resource sites.\n\nQ: What facilities are available at the airport?\nA: The airport is a medium-sized facility with basic services typical of remote Canadian airports, primarily serving general aviation and charter traffic.\n\n",
+  "transport_tips": "Access to Thicket Portage is primarily by air, as the community is remote and road connections are limited. Travelers should arrange ground transportation in advance, as rental car services and taxi options are unlikely to be available at this small regional airport. Charter flights and bush plane services are the most common ways to reach the area.",
+  "local_tip": "Given the airport's remote northern location, pack insect repellent and dress in layers even in summer, as temperatures and conditions in Manitoba's north can change quickly.",
+  "generatedAt": "2026-06-26T10:47:56.517Z",
+  "model": "MiniMax-M3"
+}

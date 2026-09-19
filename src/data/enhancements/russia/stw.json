@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "STW",
+    "icao": "URMT",
+    "name": "Stavropol Shpakovskoye Airport",
+    "country": "Russia",
+    "city": "Stavropol",
+    "lat": 45.1092,
+    "lon": 42.1128,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Stavropol Shpakovskoye Airport serves the city of Stavropol in southern Russia, functioning as the main air gateway for Stavropol Krai. The airport handles primarily domestic flights connecting the region to major Russian cities such as Moscow, St. Petersburg, and Sochi. Its location on the elevated plains of the North Caucasus foothills makes it a convenient entry point for travelers exploring the region's agricultural landscapes and Caucasus mountain resorts.",
+  "faqs": "Q: What is the distance from Stavropol Airport to the city center?\nA: The airport is located approximately 12 kilometers northeast of Stavropol's city center, with typical taxi travel times of 20-30 minutes depending on traffic.\n\nQ: Does Stavropol Airport offer international flights?\nA: The airport primarily operates domestic flights within Russia, with international service being very limited.\n\nQ: What facilities are available at Stavropol Airport?\nA: The terminal offers standard amenities including cafes, basic retail shops, a VIP lounge, and car rental services for arriving passengers.\n\nQ: Are there overnight stay options near the airport?\nA: Several hotels are located within a short drive of the airport, and some offer shuttle services for guests.",
+  "transport_tips": "The most convenient way to reach central Stavropol from the airport is by taxi, which can be booked in advance or arranged through official taxi counters in the arrivals hall. Marshrutka (fixed-route minibus) services also connect the airport to the city at a lower cost. For travelers continuing to nearby destinations in the Caucasus region, renting a car at the airport offers the most flexibility.",
+  "local_tip": "Pack a light jacket even in summer—Stavropol's high-elevation location on the Stavropol Plateau means evenings can be surprisingly cool compared to other southern Russian cities, especially after landing.",
+  "generatedAt": "2026-06-29T16:47:09.862Z",
+  "model": "MiniMax-M3"
+}

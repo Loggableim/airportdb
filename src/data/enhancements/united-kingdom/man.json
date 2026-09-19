@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MAN",
+    "icao": "EGCC",
+    "name": "Manchester Airport",
+    "country": "United Kingdom",
+    "city": "Manchester, Greater Manchester",
+    "lat": 53.3494,
+    "lon": -2.2795,
+    "type": "large_airport",
+    "size": 1020475
+  },
+  "summary": "Manchester Airport (MAN/EGCC) is the third-busiest airport in the United Kingdom and the largest outside London, located about 8 miles southwest of Manchester city centre in Ringway. Originally opened in 1938 as a military airfield, it transitioned to civilian use after World War II and has grown into a major international gateway serving the north of England. The airport features three terminals and offers flights to over 200 destinations worldwide, making it a key hub for both scheduled and charter carriers.",
+  "faqs": "Q: How far is Manchester Airport from the city centre?\nA: The airport is approximately 8 miles (13 km) southwest of Manchester city centre, typically a 20-30 minute journey by car or tram.\n\nQ: Does Manchester Airport have direct train or tram connections?\nA: Yes, the airport is served by the Manchester Metrolink tram system with direct services to the city centre, and there are railway stations beneath Terminals 1 and 2 with frequent trains to Manchester and beyond.\n\nQ: How many terminals does Manchester Airport have?\nA: The airport currently operates three terminals (T1, T2, and T3), with T2 being the newest and largest following a major redevelopment.\n\nQ: Is there a hotel at Manchester Airport?\nA: Yes, several hotels are located on-site or within walking distance, including options directly connected to the terminals for early-morning or late-night stays.",
+  "transport_tips": "The Manchester Metrolink tram offers a reliable and cost-effective way to reach the city centre, with services running every few minutes and taking around 30 minutes. For those driving, the M56 motorway provides direct access, but allow extra time during peak hours as the airport road network can be congested. National Rail trains from the airport's station connect to Manchester Piccadilly in roughly 15-20 minutes and onwards to cities across northern England.",
+  "local_tip": "If you have a long layover or early arrival, the Radisson Blu Hotel is connected directly to the terminals via a covered walkway, offering day rooms",
+  "generatedAt": "2026-06-28T15:01:21.353Z",
+  "model": "MiniMax-M3"
+}

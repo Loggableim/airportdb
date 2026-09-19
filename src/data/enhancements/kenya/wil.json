@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WIL",
+    "icao": "HKNW",
+    "name": "Nairobi Wilson Airport",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "lat": -1.3217,
+    "lon": 36.8148,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Nairobi Wilson Airport is one of Kenya's busiest airports by aircraft movements, serving as the primary hub for domestic and charter flights across East Africa. Located in the Langata suburb of Nairobi, just a few kilometers from Jomo Kenyatta International Airport, it is the main gateway for travelers heading on safari to destinations like the Maasai Mara and Amboseli. The airport is named after airmail pilot Thomas Wilson and handles a large volume of light aircraft, with extensive facilities for general aviation and scheduled regional carriers.",
+  "faqs": "Q: What is the difference between Wilson Airport and Jomo Kenyatta International Airport?\nA: Wilson (WIL) handles primarily domestic and charter flights, while Jomo Kenyatta (NBO) is Kenya's main international airport located about 15 km away.\n\nQ: Do I need to arrive early for a domestic flight from Wilson?\nA: Yes, arriving 60-90 minutes before departure is recommended, as the terminal can get busy with safari-goers and check-in procedures for light aircraft can take time.\n\nQ: Which airlines operate from Wilson Airport?\nA: Major operators include Safarilink Aviation, Air Kenya, and Mombasa Air Safari, along with various charter companies serving safari destinations.\n\nQ: Is Wilson Airport used for international flights?\nA: Wilson primarily handles domestic flights and regional charter services to nearby East African destinations, with most international traffic going through Jomo Kenyatta.",
+  "transport_tips": "Taxis and ride-hailing apps like Uber are readily available and are the most convenient way to reach Wilson Airport from central Nairobi, typically taking 20-40 minutes depending on traffic. Many safari lodges and tour operators arrange direct transfers to and from the airport for their guests. Parking is available on-site if you are being dropped off or picking up passengers.",
+  "local_tip": "If you're connecting from Jomo Kenyatta International Airport, allow at least 2-3 hours for the transfer between airports, as Nairobi traffic can be unpredictable and you'll need to clear domestic check-in procedures at Wilson.",
+  "generatedAt": "2026-06-29T04:44:21.764Z",
+  "model": "MiniMax-M3"
+}

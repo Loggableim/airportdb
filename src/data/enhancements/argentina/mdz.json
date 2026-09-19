@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MDZ",
+    "icao": "SAME",
+    "name": "Governor Francisco Gabrielli International Airport",
+    "country": "Argentina",
+    "city": "Mendoza",
+    "lat": -32.8317,
+    "lon": -68.7929,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Governor Francisco Gabrielli International Airport (MDZ), also known as El Plumerillo, is the main aerial gateway to Mendoza Province in western Argentina. Situated in the Andean foothills, it serves as the primary access point for travelers visiting the renowned wine regions, Aconcagua, and ski resorts like Las Leñas. The airport handles a mix of domestic flights and limited international services, connecting the region to Buenos Aires and several South American destinations.",
+  "faqs": "Q: How far is the airport from Mendoza city center?\nA: The airport is located approximately 8 kilometers (5 miles) northwest of downtown Mendoza, making it a quick 15-20 minute drive depending on traffic.\n\nQ: Does MDZ offer international flights?\nA: Yes, the airport operates a limited number of international flights, primarily to Santiago, Chile, Lima, and seasonal routes, but most international connections are made through Buenos Aires.\n\nQ: What is the airport's IATA and ICAO codes?\nA: The IATA code is MDZ and the ICAO code is SAME.\n\nQ: Are there facilities for travelers with overnight layovers?\nA: The airport operates with limited overnight services and stays generally close after the last scheduled flight. Travelers with long layovers are advised to check terminal hours in advance.\n\n",
+  "transport_tips": "Taxis and remise (private car services) are the most common ways to reach the city, with fixed rates typically posted at the terminal exit. Public bus line 60 connects the airport to downtown Mendoza on a regular schedule. Renting a car at MDZ is highly recommended for those planning to explore Mendoza's wine valleys, mountains, or nearby ski resorts.",
+  "local_tip": "If you're visiting during wine harvest season (February-March), book flights and rental cars well in advance—Mendoza fills up quickly and the airport becomes unusually busy for a regional facility.",
+  "generatedAt": "2026-06-28T20:11:36.033Z",
+  "model": "MiniMax-M3"
+}

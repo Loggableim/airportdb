@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BDU",
+    "icao": "ENDU",
+    "name": "Bardufoss Airport",
+    "country": "Norway",
+    "city": "Målselv",
+    "lat": 69.0558,
+    "lon": 18.5404,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Bardufoss Airport is a dual-use civilian and military airfield located in the Målselv municipality of Troms county in Northern Norway, situated inland along the Målselv river valley. It primarily serves the inland communities of Troms and parts of Nordland, including the nearby towns of Setermoen, Bardufoss, and the wider Bardu region. The airport shares its runway with the Royal Norwegian Air Force's Bardufoss Air Station, which has hosted fighter jet operations for decades.",
+  "faqs": "Q: How far is Bardufoss Airport from the town center?\nA: The airport is located approximately 4-5 km east of the village of Bardufoss and around 7 km from Setermoen, the administrative center of Bardu municipality.\n\nQ: What airlines operate from Bardufoss Airport?\nA: Widerøe operates scheduled regional flights primarily connecting Bardufoss to Tromsø and Bodø using Dash 8 turboprop aircraft.\n\nQ: Is Bardufoss Airport open to civilian passengers despite its military role?\nA: Yes, the airport operates as a shared civil-military facility, with civilian flights handled alongside military operations without major restrictions for passengers.\n\nQ: Does the airport handle international flights?\nA: Bardufoss primarily handles domestic regional flights; travelers typically connect through Tromsø for international routes.",
+  "transport_tips": "Rental cars are available at the airport and are the most convenient option for reaching surrounding military installations and rural destinations not served by public transport. Local buses and shuttle services connect the airport to nearby towns like Setermoen and Finnsnes, though schedules may be limited. During winter months, roads can be snowy and icy, so allow extra travel time and consider vehicles suited for Arctic conditions.",
+  "local_tip": "Frequent visitors recommend checking the military flight schedule in advance, as occasional military exercises and F-16/F-35 activity can lead to brief runway closures or increased noise, though civilian flights are rarely affected.",
+  "generatedAt": "2026-06-29T05:35:31.455Z",
+  "model": "MiniMax-M3"
+}

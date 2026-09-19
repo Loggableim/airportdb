@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LPI",
+    "icao": "ESSL",
+    "name": "Linköping City Airport",
+    "country": "Sweden",
+    "city": "Linköping",
+    "lat": 58.4049,
+    "lon": 15.6845,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Linköping City Airport (LPI/ESSL) is a regional airport located approximately 2 km east of Linköping city center in southeastern Sweden. It serves as an important hub for both commercial aviation and general aviation, and is closely associated with Saab, which has nearby aircraft manufacturing and testing facilities. The airport provides convenient access to the Östergötland region and is well-positioned for travelers heading to Linköping University and the city's tech industry.",
+  "faqs": "Q: How far is Linköping City Airport from the city center?\nA: The airport is about 2 km east of central Linköping, making it one of the most conveniently located regional airports in Sweden.\n\nQ: Does the airport have military operations?\nA: While the airport primarily serves civilian traffic, the nearby Malmen Air Base is a significant Swedish Air Force installation, and the area has strong aviation heritage.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers standard amenities including a café, car rental services, and short-term parking directly adjacent to the building.\n\nQ: Are there regular commercial flights to Stockholm?\nA: Historically the airport has offered domestic connections, but flight schedules and routes may vary seasonally, so it's best to check current timetables with the operating airline.\n\n",
+  "transport_tips": "The airport is just a few minutes' drive from Linköping city center, and taxi ranks are available directly outside the terminal. Local bus services also connect the airport to central Linköping. Renting a car is a popular option for travelers exploring the wider Östergötland region.",
+  "local_tip": "If you have time before your flight, visit the nearby Saab Aircraft Museum (Flygvapenmuseum) at Malmen, which showcases Swedish military and civilian aviation history and is only a short drive from the airport.",
+  "generatedAt": "2026-06-28T21:08:05.063Z",
+  "model": "MiniMax-M3"
+}

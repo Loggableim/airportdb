@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MIQ",
+    "icao": "KMLE",
+    "name": "Millard Airport",
+    "country": "United States",
+    "city": "Omaha",
+    "lat": 41.1959,
+    "lon": -96.1121,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Millard Airport (MIQ/KMLE) is a general aviation airport serving the Omaha metropolitan area from its location in the Millard neighborhood in southwest Omaha, Nebraska. It primarily supports private, business, recreational, and flight training operations rather than scheduled commercial airline service. The facility is owned and operated by the Omaha Airport Authority and provides an alternative to the larger Eppley Airfield for smaller aircraft.",
+  "faqs": "Q: Does Millard Airport offer commercial airline service?\nA: No, Millard is a general aviation airport that handles private planes, business jets, and flight training rather than scheduled commercial flights. For commercial service, travelers should use Eppley Airfield (OMA).\n\nQ: Where is Millard Airport located in relation to downtown Omaha?\nA: The airport is situated in the Millard area of southwest Omaha, roughly 10-12 miles from the downtown area.\n\nQ: What facilities and services are available at Millard Airport?\nA: The airport features runways, hangars, aircraft tie-downs, fueling services, and is home to several flight schools and aviation businesses.\n\nQ: Can I park at Millard Airport for an extended period?\nA: General aviation parking is available on-site, but travelers should coordinate with their specific flight operator or FBOs (Fixed-Base Operators) for long-term arrangements.",
+  "transport_tips": "Millard Airport is best accessed by personal vehicle, as there is no public transit directly serving the facility. It is conveniently located near major roadways including Dodge Road and Interstate 80, making ground transport relatively straightforward. Rideshare services and taxi companies can be arranged, though wait times may be longer than at the larger Eppley Airfield.",
+  "local_tip": "If visiting for flight training or a private aviation event, consider stopping by the Millard area's local dining spots afterward—the neighborhood has several well-regarded family restaurants and cafes that are popular with the local aviation community.",
+  "generatedAt": "2026-06-27T00:56:31.740Z",
+  "model": "MiniMax-M3"
+}

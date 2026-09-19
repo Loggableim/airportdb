@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NAK",
+    "icao": "VTUQ",
+    "name": "Nakhon Ratchasima Airport",
+    "country": "Thailand",
+    "city": "Chaloem Phra Kiat",
+    "lat": 14.9495,
+    "lon": 102.313,
+    "type": "medium_airport",
+    "size": 400
+  },
+  "summary": "Nakhon Ratchasima Airport (NAK) is a regional airport serving Nakhon Ratchasima province, often called Korat, the largest province in Thailand's northeastern Isaan region. It primarily handles domestic flights and supports tourism to nearby Khmer historical sites such as Phimai and Phanom Rung. The airport provides an important gateway for visitors exploring the cultural and archaeological heritage of lower northeastern Thailand.",
+  "faqs": "Q: What is the IATA code for Nakhon Ratchasima Airport?\nA: The IATA code is NAK, and its ICAO code is VTUQ.\n\nQ: Does Nakhon Ratchasima Airport offer international flights?\nA: The airport primarily handles domestic flights within Thailand, with no scheduled international service.\n\nQ: How far is the airport from Nakhon Ratchasima city center?\nA: The airport is located in Chaloem Phra Kiat district, roughly 20-25 kilometers east of downtown Nakhon Ratchasima.\n\nQ: Are there car rental services at the airport?\nA: Limited ground transportation options are available, so arranging transport in advance is recommended.",
+  "transport_tips": "The airport is connected to Nakhon Ratchasima city by Highway 304, and taxis or pre-booked private transfers are the most reliable options. Rental cars with drivers are commonly arranged through hotels in Korat. Public bus service to the airport is limited, so planning transportation ahead of arrival is advisable.",
+  "local_tip": "If visiting the famous Phimai Historical Park, one of Thailand's most important Khmer temples, consider hiring a driver at the airport for a half-day excursion as it's only about 60 km away.",
+  "generatedAt": "2026-06-30T01:26:25.743Z",
+  "model": "MiniMax-M3"
+}

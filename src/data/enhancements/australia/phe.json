@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PHE",
+    "icao": "YPPD",
+    "name": "Port Hedland International Airport",
+    "country": "Australia",
+    "city": "Port Hedland",
+    "lat": -20.3828,
+    "lon": 118.6298,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Port Hedland International Airport (PHE) serves the Pilbara region of Western Australia, one of the world's most significant iron ore mining and export hubs. The airport plays a vital role in supporting the resources sector, handling fly-in fly-out (FIFO) workers who staff the region's massive mining operations. Located near the Indian Ocean coast, it provides essential connectivity to this otherwise remote industrial area.",
+  "faqs": "Q: How far is Port Hedland Airport from the town centre?\nA: The airport is approximately 8 kilometres south of Port Hedland's town centre, typically a 10-15 minute drive.\n\nQ: Which airlines operate from Port Hedland Airport?\nA: Qantas and Virgin Australia offer regular services, primarily connecting to Perth, with some routes to other regional destinations.\n\nQ: Does the airport have international flights?\nA: Despite its name, the airport primarily handles domestic flights, though it has international-capable infrastructure occasionally used for charter operations.\n\nQ: Is there a FIFO (fly-in fly-out) terminal at the airport?\nA: Yes, the airport has dedicated facilities to handle the large volume of FIFO mine workers travelling to and from Pilbara operations.",
+  "transport_tips": "Taxi ranks and ride-share services are available outside the terminal for trips into Port Hedland town. Rental car agencies operate from the airport, which is recommended for those heading to remote work sites or exploring the region. Several shuttle services also cater specifically to FIFO workers heading to nearby mine camps.",
+  "local_tip": "If you have a layover or some time to spare, the Port Hedland visitor centre and the nearby observation deck at the port offer fascinating views of the massive iron ore carriers being loaded — a sight unique to this part of the world.",
+  "generatedAt": "2026-06-28T23:01:50.699Z",
+  "model": "MiniMax-M3"
+}

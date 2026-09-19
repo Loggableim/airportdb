@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OLH",
+    "icao": "",
+    "name": "Old Harbor Airport",
+    "country": "United States",
+    "city": "Old Harbor",
+    "lat": 57.2181,
+    "lon": -153.27,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Old Harbor Airport (OLH) is a small public-use airport serving the remote community of Old Harbor on the southeastern coast of Kodiak Island, Alaska. The airport provides a vital transportation link for residents of this isolated fishing village, which is accessible primarily by air and boat. Its location on Kodiak Island places it within a region renowned for rugged wilderness, abundant wildlife, and a thriving commercial fishing industry.",
+  "faqs": "Q: What is Old Harbor Airport used for?\nA: The airport primarily serves the local community of Old Harbor, providing essential passenger and cargo flights, as well as supporting mail delivery and emergency medical evacuations for the remote village.\n\nQ: Are there commercial flights to Old Harbor Airport?\nA: Scheduled commuter flights operate from Kodiak, connecting Old Harbor to larger hubs. Service is limited and weather-dependent due to the airport's remote coastal location.\n\nQ: What is the runway like at Old Harbor Airport?\nA: The airport has a single gravel runway suited for small bush planes and commuter aircraft typical of rural Alaska.\n\nQ: When is the best time to fly to Old Harbor?\nA: Summer months generally offer the most reliable weather for flying, as winter conditions including high winds, snow, and low visibility frequently disrupt flights.",
+  "transport_tips": "There is no road connection to Old Harbor, so the airport is the primary means of reaching the community by air from Kodiak. Visitors should arrange accommodations and travel plans in advance, as the village has limited services. The Alaska Marine Highway ferry system also provides seasonal boat access to the island as an alternative route.",
+  "local_tip": "Pack layers regardless of the season—Kodiak Island weather can shift rapidly between sunshine, fog, and rain even in summer, and the small airport terminal offers minimal shelter from the elements.",
+  "generatedAt": "2026-06-26T22:54:49.204Z",
+  "model": "MiniMax-M3"
+}

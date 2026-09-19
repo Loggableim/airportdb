@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NZY",
+    "icao": "KNZY",
+    "name": "North Island Naval Air Station-Halsey Field",
+    "country": "United States",
+    "city": "San Diego",
+    "lat": 32.6992,
+    "lon": -117.215,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "North Island Naval Air Station-Halsey Field (NZY/KNZY) is a U.S. Navy airfield on North Island in San Diego Bay, adjacent to Coronado. Named for Fleet Admiral William F. Halsey Jr., it is part of Naval Air Station North Island, often called the birthplace of naval aviation. It is not a commercial airport, so civilian travelers generally use San Diego International instead.",
+  "faqs": "Q: Is NZY a commercial airport?\nA: No. North Island Naval Air Station-Halsey Field is an active U.S. Navy airfield; it does not offer scheduled commercial passenger service.\n\nQ: Can civilians fly into or visit NZY?\nA: Generally no, unless they have official business, a valid military ID, or an approved base pass. Access to NAS North Island is controlled.\n\nQ: What is Halsey Field known for?\nA: It is part of Naval Air Station North Island, often called the birthplace of naval aviation, and supports Navy and joint military aircraft operations.\n\nQ: Which airport should commercial travelers use for San Diego?\nA: San Diego International Airport (SAN) is the main commercial airport for the region, located about 8-10 miles from North Island by road.\n\n",
+  "transport_tips": "Access to the base is restricted, so only authorized personnel should plan to drive or ride to the gates; have your ID, pass, and destination ready. From downtown San Diego, the usual route is SR-75 over the Coronado Bridge into Coronado, then local roads to North Island; taxis and rideshares can serve the area but may not enter the base without authorization. Public transit is limited, and most commercial passengers should use San Diego International (SAN) instead.",
+  "local_tip": "If you are authorized to be on base, build in extra time for gate checks and confirm your sponsor or pass requirements in advance; the airfield's bayfront location makes for striking views of downtown San Diego, but photography and flight-line access are tightly controlled.",
+  "generatedAt": "2026-09-19T23:09:22.396Z",
+  "model": "deepseek-v4.1-flash"
+}

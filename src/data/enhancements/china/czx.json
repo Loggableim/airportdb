@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CZX",
+    "icao": "ZSCG",
+    "name": "Changzhou Benniu International Airport",
+    "country": "China",
+    "city": "Changzhou",
+    "lat": 31.9205,
+    "lon": 119.7755,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Changzhou Benniu International Airport serves the city of Changzhou in Jiangsu Province, situated in the densely populated Yangtze River Delta region between Shanghai and Nanjing. Named after the nearby Benniu Mountain, the airport provides an alternative gateway to this industrial and manufacturing hub. It operates primarily domestic routes with select international connections, supporting both business travel and tourism in the region.",
+  "faqs": "Q: How far is Changzhou Benniu International Airport from the city center?\nA: The airport is located approximately 25 kilometers east of Changzhou's downtown area, with typical journey times of 30-40 minutes by car depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, the airport handles a limited number of international routes alongside its primarily domestic network, serving nearby Asian destinations.\n\nQ: What facilities are available at the terminal?\nA: The terminal provides standard amenities including dining options, retail shops, currency exchange, and lounges for passengers.\n\nQ: Are there direct rail connections to the airport?\nA: There is no direct metro or rail link to the terminal, so passengers typically rely on taxis, ride-hailing services, or shuttle buses.",
+  "transport_tips": "Taxis and ride-hailing apps like Didi are the most convenient options for reaching the airport from central Changzhou. Airport shuttle buses operate on scheduled routes connecting the terminal to key points in the city. Travelers heading to nearby cities like Wuxi or Zhenjiang should allow extra time for ground transportation planning.",
+  "local_tip": "Frequent visitors recommend scheduling flights during midday to avoid the heavier morning and evening congestion on the Shanghai-Nanjing expressway, which can significantly affect travel time to the airport.",
+  "generatedAt": "2026-06-29T20:29:36.553Z",
+  "model": "MiniMax-M3"
+}

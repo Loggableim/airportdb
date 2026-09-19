@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PSY",
+    "icao": "SFAL",
+    "name": "Port Stanley Airport",
+    "country": "Falkland Islands",
+    "city": "Stanley",
+    "lat": -51.6857,
+    "lon": -57.7776,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Port Stanley Airport serves Stanley, the capital of the remote Falkland Islands, a British Overseas Territory in the South Atlantic. It is one of the most southerly airports with scheduled commercial service, primarily linking the islands to South America. The small terminal handles modest passenger volumes, reflecting the islands' tiny population and isolated location.",
+  "faqs": "Q: Which airlines operate at Port Stanley Airport?\nA: The airport is mainly served by regional carriers offering flights to Punta Arenas, Chile, which is the main international gateway.\n\nQ: How far is the airport from Stanley town centre?\nA: Port Stanley Airport is located only a short drive east of the capital, typically around 5 km from the town centre.\n\nQ: Are there direct flights from the UK?\nA: There are no direct commercial flights from the UK; most long-haul travellers fly via South America, typically through Chile.\n\nQ: Is the airport open year-round?\nA: Yes, though services can be affected by South Atlantic weather, particularly fog and strong winds during winter months.\n\n",
+  "transport_tips": "Taxis and pre-arranged transfers are the most common",
+  "local_tip": "",
+  "generatedAt": "2026-06-26T14:17:27.502Z",
+  "model": "MiniMax-M3"
+}

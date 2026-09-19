@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RAJ",
+    "icao": "VARK",
+    "name": "Rajkot Airport",
+    "country": "India",
+    "city": "Rajkot",
+    "lat": 22.3092,
+    "lon": 70.7795,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Rajkot Airport is a domestic airport serving the city of Rajkot in the Saurashtra region of Gujarat, India. It functions as the primary air gateway for the region, supporting both business and leisure travel in one of Gujarat's largest industrial hubs. The airport connects Rajkot to major Indian metros and serves travelers visiting nearby destinations such as Gir National Park and the historic temple towns of the region.",
+  "faqs": "Q: What is the IATA code for Rajkot Airport?\nA: The IATA code is RAJ and the ICAO code is VARK.\n\nQ: Does Rajkot Airport have international flights?\nA: No, Rajkot Airport currently operates only domestic flights to major Indian cities such as Mumbai, Delhi, and Bengaluru.\n\nQ: How far is the airport from Rajkot city center?\nA: The airport is located approximately 4-5 km from the central part of the city, making it a quick commute.\n\nQ: Are there facilities for overnight stays near the airport?\nA: Yes, several hotels and lodges are available in the city and near the airport for travelers needing accommodation.",
+  "transport_tips": "The airport is well-connected to the city by prepaid taxi and auto-rickshaw services available just outside the terminal. App-based cab services like Ola and Uber also operate in Rajkot and can be booked for airport transfers. Pre-booking a cab is recommended during peak travel hours for a smoother experience.",
+  "local_tip": "Pack a light jacket if visiting between December and February, as Rajkot can get unexpectedly cool in the mornings, especially on early flights.",
+  "generatedAt": "2026-06-29T11:01:20.085Z",
+  "model": "MiniMax-M3"
+}

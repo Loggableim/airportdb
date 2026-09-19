@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IVG",
+    "icao": "LYBR",
+    "name": "Berane Airport",
+    "country": "Montenegro",
+    "city": "Berane",
+    "lat": 42.839,
+    "lon": 19.862,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Berane Airport (IVG/LYBR) is a small regional airport serving the town of Berane in northeastern Montenegro, nestled in a mountainous area near the Serbian border. The facility primarily supports general aviation and occasional charter or sports flights, as scheduled commercial service is limited. Its location in the Lim River valley makes it a useful gateway for visitors exploring Montenegro's less-visited northern interior.",
+  "faqs": "Q: Does Berane Airport have scheduled commercial flights?\nA: No, the airport does not currently offer regular scheduled commercial service and primarily handles general aviation, private flights, and occasional charters.\n\nQ: What is the nearest town to Berane Airport?\nA: The airport is located just a few kilometers from Berane, the administrative center of the municipality in northeastern Montenegro.\n\nQ: Are there customs and immigration services available?\nA: Customs facilities are limited given the airport's small size, so international arrivals are uncommon and may require prior arrangement.\n\nQ: What is the terrain like around the airport?\nA: The airport sits in a valley surrounded by the mountains of northern Montenegro, which can affect weather and visibility at times.\n\n",
+  "transport_tips": "Reaching Berane Airport is easiest by car or taxi from the town of Berane, which is only a short drive away. The airport lies just off the main road connecting Berane to the E65 highway leading toward Podgorica and the Montenegrin coast. There is no public transit directly serving the terminal, so arranging ground transport in advance is recommended.",
+  "local_tip": "If flying in, plan fuel stops carefully—Berane is one of the few airports in Montenegro's interior, and nearby fueling options for general aviation are limited, so topping off tanks before departure is wise.",
+  "generatedAt": "2026-06-27T11:43:33.489Z",
+  "model": "MiniMax-M3"
+}

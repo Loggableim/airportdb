@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BFU",
+    "icao": "ZSBB",
+    "name": "Bengbu Renheji Airport",
+    "country": "China",
+    "city": "Bengbu",
+    "lat": 32.8477,
+    "lon": 117.3202,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Bengbu Renheji Airport (BFU/ZSBB) is a regional airport serving Bengbu, a mid-sized industrial and transportation city in northern Anhui Province, China. The airport supports domestic routes and provides convenient air access for the Bengbu metropolitan area and surrounding regions in the Huai River basin. As a medium-sized facility, it primarily handles short- and medium-haul flights connecting Anhui to other major Chinese cities.",
+  "faqs": "Q: Where is Bengbu Renheji Airport located?\nA: The airport is located in Bengbu, northern Anhui Province, China, at coordinates approximately 32.85°N, 117.32°E.\n\nQ: What type of airport is Bengbu Renheji Airport?\nA: It is classified as a medium-sized regional airport primarily serving domestic flights within China.\n\nQ: Which cities can be reached directly from Bengbu Airport?\nA: The airport offers domestic connections to several major Chinese cities, including routes to regional hubs in eastern China.\n\nQ: Does the airport operate international flights?\nA: Bengbu Renheji Airport is focused on domestic service, with travelers typically using larger nearby airports for international connections.",
+  "transport_tips": "The airport is situated relatively close to Bengbu's urban center, making taxi and rideshare services the most convenient ground transport options. Public bus services typically connect the airport to key locations in Bengbu city center. Travelers heading to or from neighboring cities in northern Anhui, such as Huaibei or Bozhou, can use intercity buses or arrange private transfers.",
+  "local_tip": "Bengbu is known locally as a major railway junction city, so if flight schedules are limited, the high-speed rail station in Bengbu offers an excellent alternative for reaching larger hubs like Shanghai, Nanjing, or Hefei in just a few hours.",
+  "generatedAt": "2026-06-26T12:31:33.885Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RIX",
+    "icao": "EVRA",
+    "name": "Riga International Airport",
+    "country": "Latvia",
+    "city": "Riga",
+    "lat": 56.9208,
+    "lon": 23.9707,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Riga International Airport (RIX) is the largest and busiest airport in the Baltic states, located approximately 13 km southwest of Latvia's capital. It serves as the main hub for the Latvian national carrier airBaltic and handles over 8 million passengers annually. The airport has undergone significant modernization in recent years, including a new terminal extension, making it a key gateway for travel between Northern Europe, the CIS countries, and beyond.",
+  "faqs": "Q: How far is Riga Airport from the city center?\nA: The airport is located about 13 km southwest of central Riga, typically a 20-30 minute drive depending on traffic.\n\nQ: What airlines operate from Riga Airport?\nA: Riga serves as the main hub for airBaltic and offers flights to numerous destinations across Europe, the Middle East, and beyond with carriers including Ryanair, Wizz Air, Lufthansa, and Turkish Airlines.\n\nQ: Does Riga Airport have free Wi-Fi?\nA: Yes, the airport provides free Wi-Fi throughout the terminal for all passengers.\n\nQ: Are there currency exchange services at Riga Airport?\nA: Yes, currency exchange offices and ATMs are available in both the departures and arrivals areas.",
+  "transport_tips": "Bus route 22 operates between the airport and Riga city center, running frequently throughout the day and providing an affordable connection. Taxis and ride-hailing services like Bolt are readily available at the terminal and offer fixed or metered fares to the city. Rental car agencies are located in the terminal, useful for travelers exploring the Baltic region or heading to neighboring Estonia or Lithuania.",
+  "local_tip": "If you have a layover or extra time, the airport's observation terrace offers views of the runway and is a surprisingly peaceful spot for plane spotters—also a great way to pass time without leaving the secure area for short connections.",
+  "generatedAt": "2026-06-28T16:15:38.715Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KRT",
+    "icao": "HSSK",
+    "name": "Khartoum International Airport",
+    "country": "Sudan",
+    "city": "Khartoum",
+    "lat": 15.5895,
+    "lon": 32.5532,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Khartoum International Airport (KRT) is the principal international gateway of Sudan, located south of the capital city at the confluence of the Blue Nile and White Nile rivers. It serves as the main hub for Sudan Airways and historically connected Sudan to destinations across Africa, the Middle East, and Europe. As one of the largest airports in the region by infrastructure footprint, it handles the majority of the country's commercial air traffic.",
+  "faqs": "Q: How far is Khartoum International Airport from the city center?\nA: The airport is approximately 10 km (6 miles) south of central Khartoum, typically a 20–30 minute drive depending on traffic.\n\nQ: Which airlines operate from Khartoum International Airport?\nA: Sudan Airways uses KRT as its main hub, and historically carriers from the Middle East, Africa, and Europe have served the airport.\n\nQ: Is the airport open 24 hours?\nA: Operating hours can vary; travelers should confirm with their airline regarding terminal access and check-in times.\n\nQ: Does the airport have facilities for transit passengers?\nA: Basic amenities such as cafes, duty-free shops, and lounges are available, though services may be limited compared to larger international hubs.\n\n",
+  "transport_tips": "Taxis are the most common way to reach the airport from Khartoum city center; negotiate the fare in advance or insist on using the meter. Hotel-arranged transfers are recommended for convenience and safety, especially for international travelers. Allow extra time during peak hours, as road congestion on the airport road can be unpredictable.",
+  "local_tip": "Carry small denominations of Sudanese pound for tipping and small purchases at the airport, as card acceptance can be inconsistent and change for larger bills is often unavailable.",
+  "generatedAt": "2026-06-28T19:39:18.425Z",
+  "model": "MiniMax-M3"
+}

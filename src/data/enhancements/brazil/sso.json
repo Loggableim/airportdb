@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SSO",
+    "icao": "SNLO",
+    "name": "São Lourenço Airport",
+    "country": "Brazil",
+    "city": "São Lourenço",
+    "lat": -22.0909,
+    "lon": -45.0445,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "São Lourenço Airport (SSO/SNLO) is a small regional airport serving the spa town of São Lourenço in the southern part of Minas Gerais state, Brazil. The city is renowned for its mineral water springs and thermal baths, attracting health and wellness tourists year-round. The airport provides convenient air access to this popular destination in the Mantiqueira mountain region, offering an alternative to the longer drive from larger airports in São Paulo or Rio de Janeiro.",
+  "faqs": "Q: How large is São Lourenço Airport?\nA: It is classified as a small airport with limited commercial operations, primarily serving general aviation and occasional regional flights.\n\nQ: What is São Lourenço known for?\nA: The city is famous for its mineral water springs, thermal baths, and beautiful natural scenery in the Mantiqueira Mountains.\n\nQ: Are there regular commercial flights to SSO?\nA: Scheduled commercial service is limited; travelers should check with regional carriers for current flight availability as routes may vary seasonally.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, facilities are basic, typically including a small terminal building and limited passenger amenities.\n\n",
+  "transport_tips": "The airport is located very close to the city center, making ground transportation quick and easy. Taxis and ride-hailing services are the most convenient options for reaching local hotels, the thermal bath resorts, or the park areas. Renting a car locally can be useful for exploring surrounding attractions like the Serra da Mantiqueira mountain range.",
+  "local_tip": "Plan your visit around the Parque das Águas, a beautiful park with seven fountains of different mineral waters, each believed to have distinct health properties—a unique experience just minutes from the airport.",
+  "generatedAt": "2026-06-27T14:34:12.476Z",
+  "model": "MiniMax-M3"
+}

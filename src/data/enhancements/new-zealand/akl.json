@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AKL",
+    "icao": "NZAA",
+    "name": "Auckland International Airport",
+    "country": "New Zealand",
+    "city": "Auckland",
+    "lat": -37.012,
+    "lon": 174.7863,
+    "type": "large_airport",
+    "size": 51475
+  },
+  "summary": "Auckland International Airport (AKL) is the largest and busiest airport in New Zealand, serving as the primary gateway to the country and a major hub for Air New Zealand. Located in Mangere, approximately 21 km south of Auckland's central business district, it handles both international and domestic flights across two terminals. The airport plays a vital role in connecting New Zealand to destinations across the Pacific, Asia, Australia, and the Americas.",
+  "faqs": "Q: How far is Auckland Airport from the city centre?\nA: The airport is approximately 21 km south of Auckland's CBD, with typical travel times of 30-45 minutes depending on traffic.\n\nQ: Does Auckland Airport have a train connection?\nA: Yes, the Eastern Busway and SkyBus services connect the airport to the city, and the new City Rail Link (CRL) is expected to improve rapid transit access in the coming years.\n\nQ: Are the international and domestic terminals connected?\nA: Yes, the two terminals are connected by a free shuttle bus and a covered walkway, making transfers straightforward for passengers.\n\nQ: How early should I arrive for an international flight?\nA: It is recommended to arrive at least 3 hours before international departures and 1.5-2 hours before domestic flights.",
+  "transport_tips": "The SkyBus operates 24/7 between the airport and Auckland CBD, with stops at major hotels and Britomart. Taxis and rideshare services like Uber are readily available at designated ranks outside both terminals. If renting a car, the airport hosts multiple major rental agencies and is well-connected to the Southern Motorway (SH1) for easy access to the city or further destinations.",
+  "local_tip": "For a quick and affordable meal before your flight, head to the food court on the airside of the international terminal where you can try local favourites like butter chicken pies or a classic Kiwi meat patty from BurgerFuel.",
+  "generatedAt": "2026-06-28T15:40:46.264Z",
+  "model": "MiniMax-M3"
+}

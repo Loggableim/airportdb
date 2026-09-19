@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PKV",
+    "icao": "ULOO",
+    "name": "Princess Olga Pskov International Airport",
+    "country": "Russia",
+    "city": "Pskov",
+    "lat": 57.7813,
+    "lon": 28.3938,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Princess Olga Pskov International Airport (PKV/ULOO) serves the historic city of Pskov in northwestern Russia, located near the borders with Estonia and Latvia. Named after Saint Olga of Kiev, the medieval princess who is venerated as a key figure in the early Christianization of the region, the airport provides an important gateway for visitors to one of Russia's oldest cities. The facility handles domestic flights and occasional regional international services, supporting both tourism and business travel to this culturally significant area.",
+  "faqs": "Q: What is the airport code for Pskov airport?\nA: The IATA code is PKV and the ICAO code is ULOO.\n\nQ: Where is the airport located relative to the city center?\nA: It is situated a few kilometers southeast of Pskov, making it a relatively short drive from the historic center and major attractions like the Kremlin.\n\nQ: Does the airport offer international flights?\nA: The airport primarily handles domestic routes, with limited international services depending on the season and airline schedules.\n\nQ: Are there food and beverage options at the terminal?\nA: Basic amenities including a small café and vending services are available, though options are limited compared to larger Russian airports.",
+  "transport_tips": "The most convenient way to reach the city center is by taxi or pre-arranged transfer, as public transport options directly serving the airport are limited. Rides typically take around 20 to 30 minutes depending on traffic. Car rental services can be arranged in advance, and some hotels in Pskov offer shuttle pickups for guests.",
+  "local_tip": "If you have a layover or a few hours to spare, consider visiting the nearby Pskov Kremlin and the Trinity Cathedral, both within easy reach of the airport and offering a remarkable glimpse into medieval Russian architecture.",
+  "generatedAt": "2026-06-29T11:56:29.390Z",
+  "model": "MiniMax-M3"
+}

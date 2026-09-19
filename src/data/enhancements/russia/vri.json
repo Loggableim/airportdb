@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VRI",
+    "icao": "ULDW",
+    "name": "Varandey Airport",
+    "country": "Russia",
+    "city": "Varandey",
+    "lat": 68.8485,
+    "lon": 58.2014,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Varandey Airport is a small regional airport serving the remote settlement of Varandey in the Nenets Autonomous Okrug of northwestern Russia, situated along the Barents Sea coast above the Arctic Circle. The airport primarily supports the local community and the nearby Varandey oil terminal, one of the key offshore oil-loading facilities in the Russian Arctic. Operations are heavily influenced by the harsh subarctic climate, with weather and seasonal daylight variations playing a major role in flight scheduling.",
+  "faqs": "Q: What is Varandey Airport used for?\nA: The airport primarily serves the residents of Varandey and workers associated with the local oil and gas industry, including the Varandey oil terminal.\n\nQ: Where is Varandey Airport located?\nA: It is located near the village of Varandey in the Nenets Autonomous Okrug, on the coast of the Barents Sea in far northern Russia.\n\nQ: Are there regular commercial flights to Varandey?\nA: Scheduled service is limited due to the airport's remote location and small size, with flights typically connecting to larger hubs such as Naryan-Mar or Moscow.\n\nQ: Can private or charter flights use Varandey Airport?\nA: Yes, the airport can accommodate charter and corporate flights, often used by oil and gas companies operating in the region.\n\n",
+  "transport_tips": "Getting to and from Varandey Airport typically requires pre-arranged ground transportation, as public transit options are very limited in this remote Arctic settlement. Most passengers are transported by company vehicles if traveling for work in the oil industry, or by local taxis for residents. The airport's proximity to the village means transfer times are short, but weather conditions can occasionally disrupt ground travel.",
+  "local_tip": "Pack layered clothing even in summer, as Barents Sea winds can make the short walk between the terminal and aircraft feel much colder than the actual temperature suggests.",
+  "generatedAt": "2026-06-28T09:57:37.090Z",
+  "model": "MiniMax-M3"
+}

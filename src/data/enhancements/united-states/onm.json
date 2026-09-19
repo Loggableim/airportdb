@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ONM",
+    "icao": "KONM",
+    "name": "Socorro Municipal Airport",
+    "country": "United States",
+    "city": "Socorro",
+    "lat": 34.0225,
+    "lon": -106.903,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Socorro Municipal Airport (ONM) is a small general aviation airport serving the city of Socorro in central New Mexico. It provides convenient air access for visitors to New Mexico Institute of Mining and Technology (New Mexico Tech) and the surrounding region, which is renowned for world-class astronomical facilities. The airport sits in a high-desert landscape within driving distance of the Very Large Array and Bosque del Apache National Wildlife Refuge.",
+  "faqs": "Q: What type of airport is Socorro Municipal?\nA: It is a small general aviation airport serving private, recreational, and some charter flights; it does not handle scheduled commercial service.\n\nQ: Are there rental cars available at ONM?\nA: Rental car availability is limited, so it is recommended to arrange a vehicle in advance or coordinate ground transportation with your destination in Socorro.\n\nQ: What attractions are near the airport?\nA: The airport is close to the New Mexico Tech campus, the Very Large Array radio telescope observatory, and Bosque del Apache National Wildlife Refuge, all popular regional destinations.\n\nQ: How far is the airport from downtown Socorro?\nA: The airport is located just a few miles from central Socorro, making it a short drive into town.",
+  "transport_tips": "Since the airport has limited on-site services, arranging a rental car or pre-booked shuttle in advance is recommended. Taxis and rideshare options may be available but can be sparse, so calling ahead is wise. Many visitors drive in via Interstate 25, which passes directly through Socorro.",
+  "local_tip": "Time your visit to coincide with dawn or dusk at the nearby Bosque del Apache National Wildlife Refuge, one of the most spectacular birding destinations in the Southwest, especially during the autumn sandhill crane migration.",
+  "generatedAt": "2026-06-27T06:30:13.208Z",
+  "model": "MiniMax-M3"
+}

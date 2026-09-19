@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UOX",
+    "icao": "KUOX",
+    "name": "University Oxford Airport",
+    "country": "United States",
+    "city": "Oxford",
+    "lat": 34.3843,
+    "lon": -89.5368,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "University Oxford Airport (UOX/KUOX) is a medium-sized general aviation facility serving Oxford, Mississippi, home of the University of Mississippi (Ole Miss). The airport primarily supports corporate, private, and academic aviation needs for the university community and surrounding Lafayette County. It plays an important role in connecting the college town to regional destinations and serves as a convenient alternative to larger commercial airports in the region.",
+  "faqs": "Q: Does University Oxford Airport offer commercial airline service?\nA: The airport primarily serves general aviation, private, and corporate flights rather than scheduled commercial service. Travelers seeking commercial flights typically use nearby Memphis International Airport or other regional hubs.\n\nQ: What facilities are available at University Oxford Airport?\nA: The airport features runways suitable for small to mid-size aircraft, fueling services, hangars, and tie-down areas for general aviation users. It supports flight training and university-related aviation activities.\n\nQ: Can private aircraft land at University Oxford Airport?\nA: Yes, the airport welcomes private and corporate aircraft with prior coordination. Pilots should consult current NOTAMs and contact the airport for operational details.\n\nQ: What is the airport primarily used for?\nA: It serves the University of Mississippi community, corporate travel, recreational flying, and provides access for visitors to Oxford's cultural and sporting events.",
+  "transport_tips": "The airport is conveniently located just a few miles from downtown Oxford and the Ole Miss campus, making ground transportation quick and easy. Rental cars, rideshare services, and taxi options are available for the short trip into town. Visitors attending university events should arrange return transportation in advance, as on-demand services can be limited during peak times such as football weekends.",
+  "local_tip": "If you're flying in for an Ole Miss football game or campus event, book your hangar space well in advance—Oxford transforms into a major aviation destination on game weekends, and parking slots fill up quickly.",
+  "generatedAt": "2026-06-26T07:39:35.950Z",
+  "model": "MiniMax-M3"
+}

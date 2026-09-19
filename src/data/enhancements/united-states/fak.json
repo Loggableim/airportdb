@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FAK",
+    "icao": "",
+    "name": "False Island Seaplane Base",
+    "country": "United States",
+    "city": "False Island",
+    "lat": 57.5322,
+    "lon": -135.213,
+    "type": "seaplane_base",
+    "size": 25
+  },
+  "summary": "False Island Seaplane Base (FAK) is a small bush aviation facility serving the remote False Island area in southeastern Alaska, near Sitka. Operating as a floatplane base, it primarily supports light aircraft access for fishing lodges, private residences, and outdoor recreation in the surrounding Inside Passage waters. Its remote location and reliance on tidal waters make weather, wind, and sea conditions critical factors in flight planning.",
+  "faqs": "Q: What is False Island Seaplane Base primarily used for?\nA: It primarily serves floatplane traffic supporting local residents, sport fishing operations, and outdoor recreation in the surrounding waters near Sitka, Alaska.\n\nQ: What type of aircraft use this facility?\nA: Single-engine seaplanes and float-equipped bush planes are the most common users, as the base operates on water rather than a traditional runway.\n\nQ: Are there scheduled commercial flights to FAK?\nA: No scheduled commercial service operates here. Access is typically arranged through charter operators based in Sitka or other nearby southeast Alaska hubs.\n\nQ: When is the base usable?\nA: Operations depend heavily on daylight hours, tidal conditions, and weather. Floatplane landings and takeoffs are generally limited to daylight and calm to moderate sea states.\n\n",
+  "transport_tips": "Travelers typically reach False Island via charter floatplane from Sitka, which is the nearest major aviation hub. Ground transport between the seaplane dock and lodging is usually handled by lodge operators or local water taxis. There are no roads connecting False Island to mainland road networks, so all access continues by air or boat.",
+  "local_tip": "Always check tide tables and wind forecasts before your flight—sheltered waters around False Island can shift quickly with katabatic winds, and experienced charter pilots will often reschedule if conditions are marginal.",
+  "generatedAt": "2026-06-28T12:57:55.788Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MYY",
+    "icao": "WBGR",
+    "name": "Miri Airport",
+    "country": "Malaysia",
+    "city": "Miri",
+    "lat": 4.322,
+    "lon": 113.987,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Miri Airport (MYY) is the main gateway to northern Sarawak, located in Miri on the island of Borneo, Malaysia. The airport has historical roots dating back to the World War II era and serves as a key access point for travelers heading to Mulu National Park and other remote Sarawak destinations. It functions as a medium-sized regional hub handling domestic flights and limited regional connections.",
+  "faqs": "Q: How far is Miri Airport from the city center?\nA: The airport is approximately 9 km (5.5 miles) from downtown Miri, with a drive time of around 15-20 minutes depending on traffic.\n\nQ: Which airlines operate from Miri Airport?\nA: Malaysia Airlines and AirAsia provide regular domestic services connecting Miri to Kuala Lumpur, Kota Kinabalu, and other Malaysian cities.\n\nQ: Are there international flights from Miri Airport?\nA: Limited regional flights are available, primarily to neighboring areas in Borneo, though most international travelers connect through Kuala Lumpur or Kota Kinabalu.\n\nQ: Does the airport have facilities for transit passengers?\nA: The terminal offers basic amenities including food outlets, shops, and lounges, though it is relatively compact compared to larger Malaysian airports.",
+  "transport_tips": "Taxis and ride-hailing services are readily available outside the terminal and offer the most convenient way to reach Miri city or nearby hotels. Airport shuttle buses and local bus services also connect the airport to the city center at lower cost. Car rental counters are available inside the terminal for those planning to explore northern Sarawak independently.",
+  "local_tip": "If you're heading to Mulu National Park, book your domestic connecting flight in advance as seats on the small turboprop service fill up quickly, especially during peak tourist season.",
+  "generatedAt": "2026-06-29T06:44:52.624Z",
+  "model": "MiniMax-M3"
+}

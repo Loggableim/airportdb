@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SFT",
+    "icao": "ESNS",
+    "name": "Skellefteå Airport",
+    "country": "Sweden",
+    "city": "Skellefteå",
+    "lat": 64.6248,
+    "lon": 21.0769,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Skellefteå Airport (SFT) is a regional airport serving the city of Skellefteå in Västerbotten County, northern Sweden. It provides essential connectivity for the region, linking it primarily to Stockholm and supporting both business and leisure travel in an area known for forestry, mining, and tourism. The airport underwent a significant terminal expansion in recent years to accommodate growing passenger numbers driven by regional industry and tourism.",
+  "faqs": "Q: Where is Skellefteå Airport located?\nA: The airport is located about 20 km southeast of Skellefteå city center in Västerbotten County, northern Sweden.\n\nQ: What are the main destinations served from SFT?\nA: The airport primarily operates domestic flights, with Stockholm being the main connection point. Seasonal routes to Mediterranean destinations may also be available.\n\nQ: How long does it take to travel from the airport to Skellefteå city center?\nA: The journey typically takes around 20-25 minutes by car or taxi, depending on traffic and weather conditions.\n\nQ: Is the airport open year-round?\nA: Yes, Skellefteå Airport operates year-round, though winter weather can occasionally affect flight schedules.",
+  "transport_tips": "The most convenient way to reach the airport is by taxi or rental car, taking approximately 20 minutes from Skellefteå city center. There are limited public bus connections, so checking schedules in advance is recommended. Parking is available at the airport for both short and long-term stays.",
+  "local_tip": "If you have time before your flight, visit the nearby Skellefteå Kraft Arena or take a short detour to the historic town of Skellefteå, known for its beautiful wooden church and the cultural center Sara kulturhus.",
+  "generatedAt": "2026-06-29T08:29:59.888Z",
+  "model": "MiniMax-M3"
+}

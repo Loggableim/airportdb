@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AUS",
+    "icao": "KAUS",
+    "name": "Austin Bergstrom International Airport",
+    "country": "United States",
+    "city": "Austin",
+    "lat": 30.1975,
+    "lon": -97.662,
+    "type": "large_airport",
+    "size": 51675
+  },
+  "summary": "Austin Bergstrom International Airport (AUS) is the primary airport serving Austin, Texas, located about 5 miles southeast of downtown. Originally Bergstrom Air Force Base, it was converted to civilian use and opened in 1999, replacing the older Robert Mueller Municipal Airport. The airport is known for its distinctive main terminal showcasing local Austin culture, including live music performances that reflect the city's 'Live Music Capital of the World' reputation, and serves as a major focus city for Southwest Airlines.",
+  "faqs": "Q: How far is Austin Bergstrom from downtown Austin?\nA: The airport is approximately 5 miles (8 km) southeast of downtown Austin, typically a 15-20 minute drive depending on traffic.\n\nQ: What is the main airline operating at AUS?\nA: Southwest Airlines is the dominant carrier at Austin Bergstrom, operating a significant share of flights, though Delta, American, and United also offer substantial service.\n\nQ: Does the airport have live music?\nA: Yes, Austin Bergstrom features regular live music performances throughout its main terminal, reflecting Austin's famous live music scene.\n\nQ: How many terminals does AUS have?\nA: Austin Bergstrom has two terminals: the main Barbara Jordan Terminal and the smaller South Terminal used by ultra-low-cost carriers.",
+  "transport_tips": "The most convenient options to reach downtown Austin are rideshare services (Uber/Lyft), taxis, or the CapMetro Route 100 bus, which connects directly to downtown. Rental cars are available on-site and recommended if you plan to explore areas beyond Austin, such as the Hill Country. During peak hours, expect 25-35 minute travel times to downtown due to I-35 traffic.",
+  "local_tip": "If you have time before your flight, check the schedule for live music performances in the main terminal's atrium area, and grab breakfast tacos from a local vendor, as Austin breakfast tacos are a beloved local tradition not to be missed.",
+  "generatedAt": "2026-06-28T15:37:53.586Z",
+  "model": "MiniMax-M3"
+}

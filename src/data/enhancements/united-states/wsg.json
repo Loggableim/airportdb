@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WSG",
+    "icao": "KAFJ",
+    "name": "Washington County Airport",
+    "country": "United States",
+    "city": "Washington",
+    "lat": 40.1365,
+    "lon": -80.2902,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Washington County Airport (WSG/KAFJ) is a general aviation facility serving Washington, Pennsylvania, located roughly 30 miles southwest of Pittsburgh in the rolling hills of southwestern Pennsylvania. The airport primarily supports corporate, private, and recreational flying, as well as flight training operations. It features a single main runway and serves as a convenient alternative to Pittsburgh's larger airports for regional travelers.",
+  "faqs": "Q: What is Washington County Airport primarily used for?\nA: It is a general aviation airport serving private pilots, corporate aircraft, flight training, and recreational flying rather than commercial airline service.\n\nQ: Does Washington County Airport offer commercial flights?\nA: No, WSG/KAFJ does not have scheduled commercial airline service. Travelers needing commercial flights typically use Pittsburgh International Airport (PIT).\n\nQ: Are there rental cars available at the airport?\nA: Rental car availability is limited; visitors are generally advised to arrange ground transportation in advance through local providers or rideshare services.\n\nQ: What facilities does the airport offer pilots?\nA: The airport provides fuel services, tiedown and hangar parking, and basic amenities for transient pilots. Pilots should confirm current services and hours with the FBO before arrival.",
+  "transport_tips": "The airport is located just a few miles south of downtown Washington, PA, making it a quick drive via local roads. Rideshare services like Uber and Lyft operate in the area but may have longer wait times due to the airport's small size. Having a personal vehicle is the most convenient option for reaching nearby destinations or connecting to Pittsburgh, which is about 45 minutes north.",
+  "local_tip": "If you're flying in for a visit to the region, consider timing your trip around the Pennsylvania Trolley Museum in nearby Washington or a Pittsburgh Steelers game — the airport's location offers easy access to both western Pennsylvania attractions without the congestion of Pittsburgh's larger airports.",
+  "generatedAt": "2026-06-27T05:05:42.757Z",
+  "model": "MiniMax-M3"
+}

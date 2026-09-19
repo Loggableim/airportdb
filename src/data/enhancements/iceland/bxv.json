@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BXV",
+    "icao": "BIBV",
+    "name": "Breiðdalsvík Airport",
+    "country": "Iceland",
+    "city": "Breiðdalsvík",
+    "lat": 64.79,
+    "lon": -14.0439,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Breiðdalsvík Airport is a small regional airfield serving the remote fishing village of Breiðdalsvík in Iceland's Eastern Fjords. It primarily supports general aviation and occasional regional flights, providing access to one of the least-visited yet most scenic parts of the country. The airport sits along a dramatic stretch of coastline known for its steep mountains and fjord views.",
+  "faqs": "Q: Does Breiðdalsvík Airport have scheduled commercial flights?\nA: No, the airport does not typically offer scheduled commercial service and is primarily used for general aviation and private flights.\n\nQ: What is the airport used for?\nA: It serves private pilots, air ambulance services, and occasional charter flights for visitors exploring Iceland's remote Eastfjords region.\n\nQ: Are there facilities at the airport for passengers?\nA: As a small airfield, it has minimal infrastructure with no terminal building; passengers typically arrange ground transport in advance.\n\nQ: Can I fly between Breiðdalsvík and Reykjavík?\nA: Direct scheduled flights are not generally available; travelers usually reach Reykjavík via Egilsstaðir Airport, about 65 km north.\n\n",
+  "transport_tips": "Ground transport must be arranged in advance as there is no public bus service to the airport. Rental cars from nearby Egilsstaðir or local taxi services are the most practical options for reaching the airfield. Driving from Egilsstaðir along Route 1 and Route 95 takes approximately one hour through scenic fjord country.",
+  "local_tip": "If flying in, schedule your arrival for clear weather days only—the surrounding mountains can create sudden low-visibility conditions, and the short runway demands experienced pilots familiar with fjord-region approaches.",
+  "generatedAt": "2026-06-27T08:50:17.010Z",
+  "model": "MiniMax-M3"
+}

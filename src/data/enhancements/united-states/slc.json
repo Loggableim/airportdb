@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SLC",
+    "icao": "KSLC",
+    "name": "Salt Lake City International Airport",
+    "country": "United States",
+    "city": "Salt Lake City",
+    "lat": 40.7889,
+    "lon": -111.9799,
+    "type": "large_airport",
+    "size": 1025075
+  },
+  "summary": "Salt Lake City International Airport (SLC) is the principal airport serving Salt Lake City, Utah, and a major hub for Delta Air Lines. The airport underwent a complete reconstruction known as the 'New SLC' project, which replaced the original facilities with a modern terminal and two concourses, completed in phases between 2020 and 2024. Its location at the base of the Wasatch Mountains makes it the primary gateway to several world-class ski resorts.",
+  "faqs": "Q: How far is SLC from downtown Salt Lake City?\nA: The airport is located about 5 miles (8 km) west of downtown Salt Lake City, typically a 10-15 minute drive depending on traffic.\n\nQ: Why is Salt Lake City such a major hub for Delta Air Lines?\nA: Delta's hub at SLC grew significantly after its merger with Northwest Airlines in 2008, leveraging the city's geographic position as a natural connection point for flights between North American destinations.\n\nQ: Does the airport have a rail connection to the city?\nA: Yes, the Utah Transit Authority (UTA) TRAX Green Line provides light rail service between the airport and downtown Salt Lake City, with stops along the way.\n\nQ: Can I ski near SLC airport?\nA: Absolutely. The airport is a key gateway to Utah's ski resorts, with several major resorts (Snowbird, Alta, Park City, Brighton, Solitude) located within 30-45 minutes by car.",
+  "transport_tips": "The UTA TRAX Green Line is the most affordable option for reaching downtown, with frequent service and a fare under $3. Rideshares and taxis are readily available at the terminal curbside, and the drive to downtown is straightforward via I-80. If heading to ski resorts in winter, allow extra time for weather conditions and mountain traffic, particularly on weekends.",
+  "local_tip": "Visit the mezzanine level art installations between Concourses A and B. The airport features a notable permanent art collection, including a large suspended sculpture",
+  "generatedAt": "2026-06-28T14:58:31.076Z",
+  "model": "MiniMax-M3"
+}

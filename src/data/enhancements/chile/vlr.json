@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VLR",
+    "icao": "SCLL",
+    "name": "Vallenar Airport",
+    "country": "Chile",
+    "city": "Vallenar",
+    "lat": -28.5964,
+    "lon": -70.756,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Vallenar Airport (VLR/SCLL) is a medium-sized regional airport serving the city of Vallenar in Chile's Atacama Region. It primarily supports domestic flights and provides vital access to the mining communities and agricultural areas of the Huasco Province. The airport sits in the arid Atacama landscape, serving as a key gateway to one of the driest regions on Earth.",
+  "faqs": "Q: Where is Vallenar Airport located?\nA: Vallenar Airport is located in Vallenar, in the Atacama Region of northern Chile, near the coordinates -28.596, -70.756.\n\nQ: What type of airport is Vallenar Airport?\nA: It is classified as a medium airport, primarily handling domestic and regional flights, with some charter and general aviation activity.\n\nQ: Which airlines operate at Vallenar Airport?\nA: The airport is mainly served by regional carriers offering domestic flights connecting to Santiago and other Chilean destinations.\n\nQ: What is Vallenar known for?\nA: Vallenar is known for its mining industry, particularly iron and copper mining, as well as its production of pisco grapes and olives in the surrounding Huasco Valley.\n\n",
+  "transport_tips": "The airport is located a short drive from the city center of Vallenar, with taxi services typically available for ground transportation. Rental cars and private transfers can be arranged in advance for travel to nearby mining sites or the Huasco Valley. Roads connecting the airport to Vallenar are well-maintained, though travelers should plan for limited public transit options.",
+  "local_tip": "If visiting the region, consider extending your trip to explore the nearby Huasco Valley, famous for its pisco distilleries and stargazing opportunities under some of the clearest night skies in the world.",
+  "generatedAt": "2026-06-26T12:14:11.522Z",
+  "model": "MiniMax-M3"
+}

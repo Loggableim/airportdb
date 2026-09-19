@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SXR",
+    "icao": "VISR",
+    "name": "Sheikh ul Alam International Airport",
+    "country": "India",
+    "city": "Srinagar",
+    "lat": 33.9871,
+    "lon": 74.7742,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Sheikh ul Alam International Airport (SXR) is the primary airport serving the Kashmir Valley, named after the revered 14th-century Sufi saint Sheikh Noor-ud-din Noorani, known as Sheikh ul Alam. Operated jointly as a military airbase by the Indian Air Force and a civil enclave for commercial flights, it serves as the main gateway to Srinagar and the wider Jammu and Kashmir region. The airport sits at an elevation of approximately 1,655 meters amid the Himalayan foothills, making weather a frequent factor in flight operations.",
+  "faqs": "Q: How far is Sheikh ul Alam Airport from Srinagar city center?\nA: The airport is located approximately 12 km southwest of Srinagar's city center, with typical journey times of 30-45 minutes depending on traffic.\n\nQ: Does the airport operate year-round?\nA: Yes, the airport operates year-round, though winter weather including fog and snowfall can occasionally cause delays or diversions.\n\nQ: Are there direct international flights from SXR?\nA: International flights are limited; the airport primarily handles domestic routes with occasional charter operations to neighboring countries.\n\nQ: Is there a military presence at the airport?\nA: Yes, the airport is a dual-use facility with the Indian Air Force maintaining a significant military presence alongside civil aviation operations.",
+  "transport_tips": "Pre-paid taxi counters are available in the arrivals hall offering fixed rates to Srinagar city and nearby tourist destinations like Gulmarg and Pahalgam. Shared cabs and auto-rickshaws can be arranged outside the terminal for budget travelers. During winter months, allow extra time for travel as snow conditions on surrounding roads can slow ground transport.",
+  "local_tip": "Book morning flights whenever possible, as afternoon convective weather in the Kashmir Valley often builds up and can cause delays or diversions to nearby airports.",
+  "generatedAt": "2026-06-28T22:29:56.377Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IXD",
+    "icao": "VEAB",
+    "name": "Prayagraj Airport",
+    "country": "India",
+    "city": "Allahabad",
+    "lat": 25.4401,
+    "lon": 81.7339,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Prayagraj Airport (IXD) is a domestic airport serving the historic city of Prayagraj (formerly Allahabad) in Uttar Pradesh, India. Operating as a civil enclave within an Indian Air Force base, it provides vital air connectivity to one of Hinduism's most sacred destinations, particularly during the Kumbh Mela festival held at the nearby Triveni Sangam. The airport handles moderate traffic and serves as a key gateway for pilgrims and business travelers visiting the region.",
+  "faqs": "Q: Which airlines operate from Prayagraj Airport?\nA: The airport primarily serves domestic flights operated by carriers such as IndiGo, Air India, SpiceJet, and Alliance Air, connecting Prayagraj to cities like Delhi, Mumbai, Lucknow, and Bangalore.\n\nQ: What is the distance from Prayagraj Airport to the city center?\nA: The airport is located approximately 12-15 kilometers from the city center and major landmarks like the Triveni Sangam, with typical travel times of 25-40 minutes depending on traffic.\n\nQ: Does Prayagraj Airport operate international flights?\nA: No, Prayagraj Airport is currently a domestic-only airport. International travelers typically connect through major hubs like Delhi or Lucknow.\n\nQ: When is the airport busiest?\nA: The airport experiences significantly increased traffic during the Kumbh Mela and Magh Mela, when millions of pilgrims visit the sacred Triveni Sangam in Prayagraj.",
+  "transport_tips": "Prepaid taxi counters and app-based cab services like Ola and Uber are available outside the terminal for travel into the city. Shared auto-rickshaws and local buses also serve the route but are less comfortable with luggage. Allow extra travel time during the Kumbh Mela period or monsoon season when roads can become congested.",
+  "local_tip": "Visit the airport website or call ahead during Kumbh Mela seasons, as temporary direct bus services and shuttle arrangements are often added to handle the massive influx of pilgrims heading to the Triveni Sangam.",
+  "generatedAt": "2026-06-29T20:47:06.428Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LCA",
+    "icao": "LCLK",
+    "name": "Larnaca International Airport",
+    "country": "Cyprus",
+    "city": "Larnaca",
+    "lat": 34.8751,
+    "lon": 33.6249,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "Larnaca International Airport (LCA) is the primary international gateway of Cyprus, located on the island's southern coast about 4 km southwest of Larnaca city. Originally established as a military airfield, it transitioned to civilian use and now serves as the main hub for Cyprus Airways and several low-cost carriers, handling the majority of the country's air traffic. The single-terminal facility offers modern amenities and connects Cyprus to destinations across Europe, the Middle East, and beyond.",
+  "faqs": "Q: How far is Larnaca Airport from the city center?\nA: The airport is approximately 4 km (2.5 miles) southwest of central Larnaca, making it a quick 10-15 minute drive.\n\nQ: Which airlines operate from Larnaca International Airport?\nA: Major carriers include Cyprus Airways, Aegean Airlines, Ryanair, easyJet, Wizz Air, and several Middle Eastern airlines like Emirates and Qatar Airways.\n\nQ: Does the airport have a single terminal?\nA: Yes, Larnaca Airport operates from one main terminal building that handles both arrivals and departures for all flights.\n\nQ: Are there duty-free shops available?\nA: Yes, the airport features multiple duty-free outlets as well as cafes, restaurants, and lounges for departing passengers.\n\n",
+  "transport_tips": "Public buses operated by Cyprus Public Transport run regularly between the airport and Larnaca city center, with connections to other major Cypriot cities. Taxis are readily available outside the terminal and offer fixed fares to popular destinations. Rental car agencies are well-represented at the airport, and having a car is highly recommended for exploring the island beyond Larnaca.",
+  "local_tip": "If you have a layover or early arrival, the nearby Salt Lake (Larnaca Salt Lake) is just minutes from the airport and offers stunning views, especially in winter when flamingos visit the area.",
+  "generatedAt": "2026-06-28T16:48:08.981Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KNW",
+    "icao": "PANW",
+    "name": "New Stuyahok Airport",
+    "country": "United States",
+    "city": "New Stuyahok",
+    "lat": 59.4518,
+    "lon": -157.3738,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "New Stuyahok Airport is a small public-use airport serving the Yup'ik village of New Stuyahok in southwestern Alaska's Bristol Bay region. It provides a critical transportation link for this remote community, supporting passenger travel, mail delivery, and light cargo operations given the limited road infrastructure in the area. The airport features a single gravel runway and operates primarily as a hub for regional bush flights.",
+  "faqs": "Q: What is the main purpose of New Stuyahok Airport?\nA: The airport primarily serves the local community of New Stuyahok, providing essential passenger and cargo connections to larger hubs in Alaska since road access is limited.\n\nQ: What type of aircraft typically use this airport?\nA: Small single-engine and twin-engine bush planes commonly operate here, suited to the short gravel runway and remote conditions.\n\nQ: Are there scheduled commercial flights to KNW?\nA: Service is typically provided by regional bush carriers operating on-demand or limited scheduled routes to and from nearby hubs like Dillingham or King Salmon.\n\nQ: What facilities are available at the airport?\nA: As a small rural airstrip, facilities are minimal, generally consisting of a gravel runway and basic tie-down areas without terminal amenities.",
+  "transport_tips": "Getting to and from the airport typically requires arranging ground transport with a local contact or lodge, as taxi services are limited in this small village. Many visitors coordinate pickup in advance with their accommodation or tour operator. The airport is located a short distance from the village center, making travel times brief.",
+  "local_tip": "Pack layers and sturdy footwear regardless of the season, as weather in the Bristol Bay region can shift quickly and the transition from plane to ground transport often involves walking across uneven gravel surfaces.",
+  "generatedAt": "2026-06-26T21:27:18.740Z",
+  "model": "MiniMax-M3"
+}

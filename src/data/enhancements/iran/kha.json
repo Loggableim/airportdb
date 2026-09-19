@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KHA",
+    "icao": "OITH",
+    "name": "Khaneh Airport",
+    "country": "Iran",
+    "city": "Khaneh",
+    "lat": 36.7291,
+    "lon": 45.1581,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Khaneh Airport (KHA) is a small regional airport serving the town of Khaneh in northwestern Iran. It primarily handles limited domestic flights and general aviation activity, serving the local communities in this border region near Iraq. The airport operates with basic facilities typical of Iran's smaller airfields.",
+  "faqs": "Q: What type of flights does Khaneh Airport operate?\nA: The airport primarily handles domestic regional flights and general aviation, with limited commercial service typical of small Iranian airfields.\n\nQ: Where is Khaneh Airport located?\nA: It is located in the town of Khaneh in northwestern Iran, near the western border regions of the country.\n\nQ: What facilities are available at the airport?\nA: As a small airport, it offers basic passenger amenities rather than extensive commercial services. Travelers should expect minimal infrastructure.\n\nQ: Are there international flights from Khaneh Airport?\nA: No, the airport primarily serves domestic routes and does not currently handle scheduled international flights.",
+  "transport_tips": "Getting to and from Khaneh Airport typically requires a private taxi or pre-arranged ground transportation, as public transit options are limited. The airport's small size means there are no shuttle services, so arranging a pickup in advance is recommended. The journey from the airport to central Khaneh is relatively short given the town's compact layout.",
+  "local_tip": "Carry cash in Iranian rials for taxi fares, as drivers at small regional airports rarely accept cards, and confirm prices before departure as meters are uncommon.",
+  "generatedAt": "2026-06-28T01:35:00.874Z",
+  "model": "MiniMax-M3"
+}

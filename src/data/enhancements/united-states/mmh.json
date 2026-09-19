@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MMH",
+    "icao": "KMMH",
+    "name": "Mammoth Yosemite Airport",
+    "country": "United States",
+    "city": "Mammoth Lakes",
+    "lat": 37.6254,
+    "lon": -118.8431,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Mammoth Yosemite Airport (MMH) is a high-elevation public-use airport situated at approximately 7,135 feet in the Eastern Sierra Nevada, serving the resort town of Mammoth Lakes and providing the closest air access to Yosemite National Park's eastern entrance. Owned and operated by the Town of Mammoth Lakes, the airport primarily handles general aviation, charter, and seasonal flights, with its single asphalt runway handling a surge of ski-season traffic. Its location near the Long Valley Caldera and proximity to Mammoth Mountain Ski Area make it a distinctive gateway for outdoor recreation visitors.",
+  "faqs": "Q: What is the elevation of Mammoth Yosemite Airport?\nA: The airport sits at approximately 7,135 feet (2,175 meters) above sea level, making it one of the higher-elevation airports in California.\n\nQ: Does Mammoth Yosemite Airport have commercial airline service?\nA: Scheduled commercial service has historically been limited and seasonal; the airport primarily serves general aviation, charter flights, and private aircraft, especially during ski season.\n\nQ: What destinations can I reach from MMH?\nA: The airport mainly serves regional private and charter flights, with most travelers flying to and from Southern California cities, the Bay Area, and other Western U.S. hubs.\n\nQ: How far is the airport from Mammoth Lakes town center?\nA: The airport is conveniently located about 10 minutes (roughly 8 miles) from downtown Mammoth Lakes and the Mammoth Mountain Ski Area base.\n\n",
+  "transport_tips": "Rental cars are available at the airport but selection can be limited, especially in summer, so booking in advance is recommended. During ski season, Mammoth Yosemite Airport offers shuttle and ground transportation services to lodging and the ski resort, but options thin out in off-season. Taxi and rideshare availability can be sporadic, so coordinating pickup in advance is wise.",
+  "local_tip": "If flying in during winter, check current runway and weather conditions before departure—mountain weather at this elevation can shift rapidly and afternoon winds sometimes cause delays, so morning arrivals tend to be the smoothest.",
+  "generatedAt": "2026-06-29T18:46:17.847Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NPR",
+    "icao": "SJNP",
+    "name": "Novo Progresso Airport",
+    "country": "Brazil",
+    "city": "Novo Progresso",
+    "lat": -7.1258,
+    "lon": -55.4008,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Novo Progresso Airport (IATA: NPR, ICAO: SJNP) is a small regional airport serving the municipality of Novo Progresso in the southern part of Pará state, Brazil. Located in the Amazon region, it primarily serves the local community and supports industries including agriculture, cattle ranching, and gold mining that drive the regional economy. The airport provides a vital air link to this remote frontier town in the Brazilian Amazon.",
+  "faqs": "Q: What is the main purpose of Novo Progresso Airport?\nA: The airport serves as a regional hub for Novo Progresso, supporting air travel for the local population and industries like agriculture and mining in this remote Amazonian area.\n\nQ: Are there commercial passenger flights to NPR?\nA: Novo Progresso typically receives scheduled small aircraft service from Brazilian carriers connecting to larger cities in Pará such as Belém and Altamira, though service can be limited.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, facilities are basic, including a simple terminal building and a single runway suitable for small to medium aircraft.\n\nQ: Is the airport used for charter or private flights?\nA: Yes, charter and private flights are common, especially serving the mining and agricultural sectors that require transport to and from this frontier region.",
+  "transport_tips": "The airport is located near the center of Novo Progresso, making ground transportation relatively straightforward with local taxis and mototaxis readily available outside the terminal. Given the limited flight schedule, travelers should arrange onward ground transport in advance. Rental cars are not commonly available, so coordinating with local contacts or pre-booking transfers is recommended.",
+  "local_tip": "Pack light and prepare for tropical heat and humidity year-round; the airport's basic infrastructure means there are limited services inside, so bring water, snacks, and any necessary medications, especially during the rainy season when flights may be delayed.",
+  "generatedAt": "2026-06-28T05:01:24.752Z",
+  "model": "MiniMax-M3"
+}

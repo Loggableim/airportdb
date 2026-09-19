@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AST",
+    "icao": "KAST",
+    "name": "Astoria Regional Airport",
+    "country": "United States",
+    "city": "Astoria",
+    "lat": 46.158,
+    "lon": -123.879,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Astoria Regional Airport is a public-use airport located in Warrenton, Oregon, serving the Astoria area near the mouth of the Columbia River. The airport provides general aviation services and supports the scenic North Coast region's tourism and business travel needs. It features a single main runway and is known for its picturesque approach over the Columbia River estuary and surrounding coastal terrain.",
+  "faqs": "Q: Where is Astoria Regional Airport located?\nA: The airport is situated in Warrenton, Oregon, just a few miles west of Astoria, near the mouth of the Columbia River.\n\nQ: What type of flights does AST handle?\nA: AST primarily serves general aviation, including private, charter, and some regional flights. There are no scheduled commercial airline services at this time.\n\nQ: How far is the airport from downtown Astoria?\nA: Astoria Regional Airport is approximately 3 miles southwest of downtown Astoria, making it a short drive via Highway 101.\n\nQ: Does the airport have an FAA control tower?\nA: No, Astoria Regional Airport operates as a non-towered facility, requiring pilots to use common traffic advisory frequency procedures.\n\n",
+  "transport_tips": "Renting a car is the most practical way to reach and explore the area from AST, as the airport has limited ground transportation options. Taxi and ride-share services are available but may require advance booking, especially during off-peak hours. US Highway 101 provides direct access from the airport to Astoria and surrounding coastal communities.",
+  "local_tip": "Visit the nearby Fort Stevens State Park, which is just minutes from the airport and features the historic Fort Stevens Military Museum, the shipwreck of the Peter Iredale, and miles of Pacific Ocean beach.",
+  "generatedAt": "2026-06-30T05:20:23.532Z",
+  "model": "MiniMax-M3"
+}

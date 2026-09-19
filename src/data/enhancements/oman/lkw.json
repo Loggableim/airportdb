@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LKW",
+    "icao": "OOLK",
+    "name": "Lekhwair Airport",
+    "country": "Oman",
+    "city": "Lekhwair",
+    "lat": 22.8049,
+    "lon": 55.3728,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lekhwair Airport (LKW) is a small regional airfield serving the town of Lekhwair in northern Oman. It primarily supports operations related to the nearby oil and gas fields operated by Petroleum Development Oman (PDO), as well as providing limited general aviation access to the surrounding Al Batinah region. The airport features a single runway and minimal passenger facilities, typical of remote service airstrips in the Sultanate.",
+  "faqs": "Q: Are there commercial passenger flights at Lekhwair Airport?\nA: Lekhwair does not serve scheduled commercial passenger flights. It is primarily used for charter, corporate, and oil-and-gas industry operations.\n\nQ: Who typically uses Lekhwair Airport?\nA: The airport is mainly used by Petroleum Development Oman (PDO) personnel traveling to nearby oil fields, along with occasional private and charter flights.\n\nQ: What facilities are available at the airport?\nA: As a small airfield, Lekhwair has very limited passenger amenities. Travelers should expect basic infrastructure rather than full terminal services.\n\nQ: Can private aircraft land at Lekhwair?\nA: Yes, private and charter flights can arrange landings with prior permission from the operator, subject to standard Omani aviation requirements.\n\n",
+  "transport_tips": "Ground transport options from Lekhwair Airport are limited, so arranging a vehicle in advance through a local contact or company representative is highly recommended. The town of Lekhwair is a short drive from the airport, and the larger city of Sohar can be reached within approximately 90 minutes by road. Travelers connecting onward to other parts of Oman typically rely on private transfer rather than public transport.",
+  "local_tip": "If visiting for PDO-related work, coordinate your flight schedule with the company's shuttle service in advance, as local taxis are scarce and on-demand rideshares are not commonly available in this remote area.",
+  "generatedAt": "2026-06-28T02:26:45.053Z",
+  "model": "MiniMax-M3"
+}

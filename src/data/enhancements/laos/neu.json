@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NEU",
+    "icao": "VLSN",
+    "name": "Sam Neua Airport",
+    "country": "Laos",
+    "city": "",
+    "lat": 20.4184,
+    "lon": 104.067,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Sam Neua Airport (NEU/VLSN) is a regional domestic airport serving Sam Neua, the capital of Houaphan Province in northeastern Laos. Situated in a mountainous highland region near the Vietnamese border, it primarily handles flights connecting the remote province with the capital Vientiane. The airport serves as a key gateway for visitors exploring Houaphan's historical sites, including caves and villages significant to the Pathet Lao movement.",
+  "faqs": "Q: What flights operate from Sam Neua Airport?\nA: The airport primarily handles domestic flights to and from Vientiane (Wattay International Airport), operated by Lao Airlines using turboprop aircraft.\n\nQ: Is Sam Neua Airport international?\nA: No, Sam Neua is a domestic-only airport with no scheduled international service. It is one of the smaller regional airports in Laos.\n\nQ: How far is the airport from Sam Neua town?\nA: The airport is located just a few kilometers from the town center, making for a short drive of approximately 10-15 minutes.\n\nQ: What facilities are available at the terminal?\nA: As a small regional airport, facilities are basic, with a small terminal building, check-in counters, and a waiting area. Services are limited compared to major airports.",
+  "transport_tips": "Tuk-tuks and shared songthaews are typically available outside the terminal to take passengers into Sam Neua town; agree on a price before boarding. Since the airport is small, ground transport options are limited and may need to be arranged in advance during off-peak times. Renting a motorbike or hiring a private driver in town is a popular way to explore the surrounding province.",
+  "local_tip": "Flights are frequently delayed or cancelled due to mountain weather, especially during the rainy season from May to October, so build buffer time into your travel plans if connecting onward.",
+  "generatedAt": "2026-06-26T10:50:45.636Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SGV",
+    "icao": "SAVS",
+    "name": "Sierra Grande Airport",
+    "country": "Argentina",
+    "city": "Sierra Grande",
+    "lat": -41.5917,
+    "lon": -65.3394,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Sierra Grande Airport (SGV/SAVS) is a small regional airport serving the town of Sierra Grande in the Río Negro Province of northern Patagonia, Argentina. The town has historical significance as a former iron ore mining center, and the airport provides essential connectivity for the local community and mining operations. The facility features a single runway suited for small aircraft typical of regional Patagonian aviation.",
+  "faqs": "Q: What is Sierra Grande Airport primarily used for?\nA: The airport serves the town of Sierra Grande, supporting regional passenger travel, mining industry personnel, and occasional charter flights in northern Patagonia.\n\nQ: How large is Sierra Grande Airport?\nA: It is a small regional airport with a single runway, accommodating light to medium-sized aircraft and limited scheduled commercial service.\n\nQ: Is there scheduled commercial airline service to Sierra Grande?\nA: Scheduled service is limited; most flights are private or charter-based, connecting the area to larger Patagonian hubs.\n\nQ: What is the nearest major city to Sierra Grande Airport?\nA: San Antonio Oeste is roughly 130 km away, while Bariloche, a major Patagonian hub, lies several hundred kilometers to the west.",
+  "transport_tips": "Reaching Sierra Grande Airport typically requires a private vehicle or taxi from the town center, located just a few kilometers away. Rental cars are not available at the airport, so arranging ground transport in advance is recommended. The nearby Ruta Nacional 3 connects Sierra Grande to other Patagonian destinations by road.",
+  "local_tip": "If visiting Sierra Grande, check the regional wind forecast before your trip—Patagonian steppe winds can affect flight schedules and visibility at this open airfield.",
+  "generatedAt": "2026-06-28T07:07:22.933Z",
+  "model": "MiniMax-M3"
+}

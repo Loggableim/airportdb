@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BPX",
+    "icao": "ZUBD",
+    "name": "Qamdo Bangda Airport",
+    "country": "China",
+    "city": "Bangda",
+    "lat": 30.5536,
+    "lon": 97.1083,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Qamdo Bangda Airport (BPX) is situated in the eastern Tibet Autonomous Region of China, serving the remote Qamdo (Chamdo) Prefecture. At an elevation of roughly 4,334 meters (14,219 ft) above sea level, it is one of the highest airports in the world, requiring careful aircraft performance planning for takeoffs and landings. The surrounding Himalayan terrain makes its approach among the most technically demanding in commercial aviation.",
+  "faqs": "Q: What is special about Qamdo Bangda Airport's elevation?\nA: At over 4,300 meters above sea level, it ranks among the highest commercial airports in the world. Both aircraft performance and passenger comfort are affected by the thin air at this altitude.\n\nQ: Which cities have direct flights to BPX?\nA: The airport is primarily connected to Chengdu, Lhasa, and a few other major Chinese hubs. Schedules are seasonal and weather-dependent due to challenging conditions.\n\nQ: Is the airport dangerous to fly into?\nA: Approaches must navigate steep mountain valleys and high terrain, and weather can shift quickly. Airlines operating here use specially certified aircraft and experienced crews, and diversions are not uncommon.\n\nQ: Can I drive to the airport?\nA: Yes, it is accessible by road from Qamdo town and surrounding areas, though mountain roads can be slow and weather-sensitive, which is why air travel is the preferred option.",
+  "transport_tips": "Most travelers reach BPX by connecting flight from Chengdu Tianfu or Lhasa, as overland journeys through the mountainous terrain can take many hours. The airport is roughly a drive from Qamdo town, and pre-arranged hotel transfers or taxis are typically used since public transport options are limited. Flights are sometimes delayed or cancelled due",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T14:47:01.319Z",
+  "model": "MiniMax-M3"
+}

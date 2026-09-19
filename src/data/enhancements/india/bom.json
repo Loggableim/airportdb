@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BOM",
+    "icao": "VABB",
+    "name": "Chhatrapati Shivaji Maharaj International Airport",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.0887,
+    "lon": 72.8679,
+    "type": "large_airport",
+    "size": 1014475
+  },
+  "summary": "Chhatrapati Shivaji Maharaj International Airport (BOM) is India's second-busiest airport, serving Mumbai, the country's financial and entertainment capital. Named after the 17th-century Maratha king, it operates two main terminals—Terminal 1 for domestic flights and Terminal 2 for international services—handling over 50 million passengers annually. Terminal 2 is internationally celebrated for its striking architecture and the 'Jaya He' art museum, which houses one of the world's largest public art collections in an airport.",
+  "faqs": "Q: How far is BOM from central Mumbai?\nA: The airport is roughly 15-20 km from South Mumbai, with travel times of 45-90 minutes depending on traffic conditions.\n\nQ: Which terminal should I use for international flights?\nA: Terminal 2 handles all international operations, while Terminal 1 serves domestic flights. Air India, IndiGo, and Vistara domestic flights typically depart from T1.\n\nQ: Is there free Wi-Fi available?\nA: Yes, complimentary Wi-Fi is available throughout both terminals, though speeds may vary during peak hours.\n\nQ: Are there good food options inside the terminals?\nA: Both terminals offer a wide range of dining, from local Maharashtrian street food to international chains and fine dining at T2.",
+  "transport_tips": "The Mumbai Metro Line 1 connects to Terminal 1 via the Marol Naka station, offering a fast and affordable option avoiding road traffic. Pre-paid taxi counters and ride-hailing services like Uber and Ola have designated pickup zones outside each terminal, though always allow at least 90 minutes during peak hours. The Western Express Highway provides direct road access, but expect significant congestion during monsoon season.",
+  "local_tip": "If you have a long layover or early arrival, visit",
+  "generatedAt": "2026-06-28T15:16:05.219Z",
+  "model": "MiniMax-M3"
+}

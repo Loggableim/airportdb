@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HDN",
+    "icao": "KHDN",
+    "name": "Yampa Valley Airport",
+    "country": "United States",
+    "city": "Hayden",
+    "lat": 40.4812,
+    "lon": -107.218,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Yampa Valley Airport serves as the primary air gateway to Steamboat Springs and the surrounding ski resorts in northwestern Colorado's Yampa Valley. The airport experiences dramatic seasonal swings, with winter ski season driving the majority of its traffic and direct flights from multiple major U.S. hubs. It is owned and operated by Routt County and features a single runway in a scenic high-altitude mountain setting.",
+  "faqs": "Q: How far is Yampa Valley Airport from Steamboat Springs?\nA: The airport is approximately 22 miles (35 km) east of Steamboat Springs, with a typical drive time of 35-40 minutes depending on weather and traffic.\n\nQ: When is Yampa Valley Airport busiest?\nA: Winter ski season (December through March) is by far the busiest period, with the airport handling significantly more flights and passengers than the rest of the year combined.\n\nQ: Are there direct flights to HDN from major cities?\nA: During ski season, airlines typically offer nonstop service from hubs such as Denver, Dallas/Fort Worth, Houston, Chicago, Atlanta, Los Angeles, and several other cities. Summer service is much more limited.\n\nQ: Does the airport have jet bridges?\nA: No, passengers typically walk across the tarmac to and from aircraft, which is common for regional airports serving smaller aircraft types.\n\n",
+  "transport_tips": "Rental cars are the most flexible option and several major agencies operate on-site, though booking well in advance during ski season is strongly recommended as cars sell out quickly. Steamboat Springs-bound shuttles and private transfer services are available and can be pre-booked online. If driving yourself in winter, be prepared for mountain road conditions and check the weather forecast, as the route over Rabbit Ears Pass can be challenging during storms.",
+  "local_tip": "The terminal is small and operations move quickly, so arriving 60-75 minutes before",
+  "generatedAt": "2026-06-29T18:30:34.298Z",
+  "model": "MiniMax-M3"
+}

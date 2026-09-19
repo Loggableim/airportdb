@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZEC",
+    "icao": "FASC",
+    "name": "Secunda Airport",
+    "country": "South Africa",
+    "city": "Secunda",
+    "lat": -26.5241,
+    "lon": 29.1701,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Secunda Airport (ZEC/FASC) is a medium-sized airfield serving the industrial town of Secunda in Mpumalanga, South Africa. The airport primarily supports the nearby Sasol petrochemical complex, one of the world's largest coal-to-liquids facilities, handling corporate and charter traffic. It provides a convenient gateway for business travelers working in the energy and chemical sectors of the Highveld region.",
+  "faqs": "Q: What airlines operate from Secunda Airport?\nA: Secunda Airport is primarily served by charter and private flights, with no regular scheduled commercial service. Most flights are corporate aviation related to the local petrochemical industry.\n\nQ: Where is Secunda Airport located relative to the town?\nA: The airport is located just a few kilometers outside the town center of Secunda, providing quick access to the Sasol industrial complex and surrounding residential areas.\n\nQ: Does Secunda Airport have passenger terminal facilities?\nA: Facilities at Secunda are modest, focusing on general aviation and charter operations. Passengers using the airport typically have minimal wait times and personalized handling.\n\nQ: Can I fly directly from Secunda to Johannesburg?\nA: Direct scheduled service is not available, but charter flights to Johannesburg and other major South African destinations can be arranged through private aviation operators.",
+  "transport_tips": "Secunda Airport is best accessed by private vehicle or pre-arranged transfer, as there is no public transport directly serving the facility. The airport lies just off the N17 highway, making road transfers from Johannesburg roughly two and a half hours and from eMalahleni about 45 minutes. Taxi services and rental cars should be pre-booked, as options at the airfield itself are limited.",
+  "local_tip": "If you have a few hours between flights, request a guided tour of the Sasol plant visitor center—a fascinating look at the Fischer-Tropsch process that turns coal into fuel, which Secunda is world-famous for.",
+  "generatedAt": "2026-06-26T08:35:54.315Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UNU",
+    "icao": "KUNU",
+    "name": "Dodge County Airport",
+    "country": "United States",
+    "city": "Juneau",
+    "lat": 43.4266,
+    "lon": -88.7032,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Dodge County Airport is a small general aviation facility serving Dodge County, Wisconsin, located just outside the city of Juneau. The airport primarily supports recreational flying, flight training, and local business aviation rather than scheduled commercial service. Its rural setting offers convenient access for pilots and visitors traveling to the broader south-central Wisconsin region.",
+  "faqs": "Q: Does Dodge County Airport offer commercial airline service?\nA: No, this is a general aviation airport without scheduled commercial flights. It primarily serves private pilots, flight training, and small aircraft operations.\n\nQ: What facilities are available at the airport?\nA: The airport typically features a runway, tie-down areas for aircraft, and basic pilot services. Visitors should contact the airport manager for current amenities such as fuel availability and hangar access.\n\nQ: Is the airport open 24 hours?\nA: Like many small general aviation airports, it may have unattended or limited operating hours. Pilots should check current conditions and any curfews before planning arrivals or departures outside daylight hours.\n\nQ: Can I rent a car at the airport?\nA: Rental car services are not typically available on-site at small airports like this. Visitors usually need to arrange ground transportation in advance with nearby rental agencies or local services.",
+  "transport_tips": "Reaching Dodge County Airport usually requires a personal vehicle, as there is no public transit directly serving the facility. The airport is a short drive from downtown Juneau and easily accessible by car via local roads. Visitors flying in should coordinate pickup arrangements in advance, as on-site rental and taxi services are limited.",
+  "local_tip": "Frequent visitors recommend calling the airport manager ahead of time to confirm fuel availability and current ramp conditions, especially during winter months when Wisconsin weather can affect runway access and operations.",
+  "generatedAt": "2026-06-27T00:53:45.216Z",
+  "model": "MiniMax-M3"
+}

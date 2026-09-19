@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TVC",
+    "icao": "KTVC",
+    "name": "Cherry Capital Airport",
+    "country": "United States",
+    "city": "Traverse City",
+    "lat": 44.7414,
+    "lon": -85.5822,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Cherry Capital Airport (TVC) serves Traverse City, Michigan, a popular resort destination on the shores of Grand Traverse Bay. The airport's name reflects the region's identity as the 'Cherry Capital of the World,' a title earned from the surrounding tart cherry orchards that have shaped the local economy for over a century. It functions as the primary gateway to northern Michigan's lake country, ski resorts, wine trails, and Sleeping Bear Dunes National Lakeshore, handling a mix of commercial and general aviation traffic.",
+  "faqs": "Q: What airlines fly into Cherry Capital Airport?\nA: TVC is served by several major carriers offering nonstop flights to hubs like Chicago, Detroit, Minneapolis, Atlanta, Denver, and Newark, with seasonal service to additional destinations.\n\nQ: How far is the airport from downtown Traverse City?\nA: The airport is conveniently located about 3 miles southeast of downtown Traverse City, typically a 10-minute drive.\n\nQ: Does the airport have rental cars available?\nA: Yes, several national car rental agencies operate on-site at TVC, and a car is strongly recommended for exploring the broader region.\n\nQ: Is TVC busy year-round?\nA: Traffic peaks during summer tourist season and the fall color season, with additional surges during ski season, while winter months generally see fewer flights.",
+  "transport_tips": "Rental cars are available in the terminal and are the most practical option for reaching destinations throughout the Traverse City area and surrounding counties. Taxi and rideshare services operate at TVC, though availability can be limited during peak travel periods. Bay Area Transportation Authority (BATA) offers the Bayline route service connecting the airport to downtown Traverse City.",
+  "local_tip": "If you have a layover or extra time, drive 20 minutes to the waterfront in downtown Traverse City to walk the scenic boardwalk along Grand Traverse Bay—locals say the sunset views there are worth altering a flight for.",
+  "generatedAt": "2026-06-29T02:43:49.676Z",
+  "model": "MiniMax-M3"
+}

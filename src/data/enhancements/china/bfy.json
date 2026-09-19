@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BFY",
+    "icao": "ZSBA",
+    "name": "Bengbu Tenghu Airport",
+    "country": "China",
+    "city": "Bengbu",
+    "lat": 33.1663,
+    "lon": 117.0583,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Bengbu Tenghu Airport (BFY/ZSBA) is a regional airport serving Bengbu, a city in northern Anhui Province, China. It functions as a medium-sized aviation facility supporting domestic connectivity for the local region. The airport is situated in a strategic inland location between major hubs like Nanjing and Hefei, making it a convenient secondary gateway for travelers in the Huai River basin area.",
+  "faqs": "Q: Where is Bengbu Tenghu Airport located?\nA: The airport is located in Bengbu, Anhui Province, China, approximately in the northern part of the province near the Huai River.\n\nQ: What type of flights does BFY serve?\nA: Bengbu Tenghu Airport primarily handles domestic flights, connecting the region to other cities within China.\n\nQ: How far is the airport from Bengbu city center?\nA: The airport is situated on the outskirts of the city, typically reachable within a moderate drive from downtown Bengbu.\n\nQ: Is Bengbu Tenghu Airport an international airport?\nA: No, it primarily operates as a domestic regional airport serving local and provincial travel needs.\n\n",
+  "transport_tips": "Taxis and ride-hailing services like Didi are commonly available for transfers between the airport and Bengbu city center. Travelers can also arrange private car services or use airport shuttle buses when available. Given the airport's location outside the urban core, it is advisable to allow extra travel time during peak hours.",
+  "local_tip": "If you have a layover or extended wait, consider trying local Anhui cuisine at nearby restaurants before your flight—Bengbu is known for its regional dishes featuring freshwater fish from the Huai River.",
+  "generatedAt": "2026-06-29T23:40:23.415Z",
+  "model": "MiniMax-M3"
+}

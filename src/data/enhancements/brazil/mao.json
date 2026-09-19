@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MAO",
+    "icao": "SBEG",
+    "name": "Eduardo Gomes International Airport",
+    "country": "Brazil",
+    "city": "Manaus",
+    "lat": -3.0386,
+    "lon": -60.0497,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Eduardo Gomes International Airport (MAO) is the primary air gateway to Manaus and the Amazon region in northern Brazil. Named after Marshal Eduardo Gomes, a Brazilian Air Force officer and political figure, the airport handles both domestic and limited international flights, serving as the main hub for accessing the Amazon rainforest. It is one of Brazil's busiest airports outside the major southeastern hubs due to the vast distances across the Amazon basin.",
+  "faqs": "Q: How far is Eduardo Gomes International Airport from downtown Manaus?\nA: The airport is located approximately 14 km (about 9 miles) north of Manaus city center, typically a 20-30 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, it handles a limited number of international flights, mostly to neighboring South American countries such as Venezuela and Panama, in addition to its extensive domestic network.\n\nQ: What airlines operate from MAO?\nA: Major carriers include LATAM, GOL, Azul, and Copa Airlines, connecting Manaus to Brazilian cities like São Paulo, Rio de Janeiro, and Brasília, as well as select international destinations.\n\nQ: Is the airport a common starting point for Amazon tours?\nA: Yes, most travelers heading into the Amazon rainforest fly into MAO and then take regional flights, boats, or guided tours from Manaus.",
+  "transport_tips": "Taxis and ride-hailing apps are readily available outside the terminal and are the most convenient way to reach central Manaus, with fixed rates often posted at official taxi counters inside. Public buses also serve the airport but are less practical for travelers with luggage. If you continue onward to a jungle lodge or riverboat, many tour operators include airport pickup in their packages.",
+  "local_tip": "If you have a long layover or early arrival, consider visiting the Amazonas Shopping mall or the Arena da Amazônia, both located very close to the airport for a quick taste of local life.",
+  "generatedAt": "2026-06-28T17:38:38.626Z",
+  "model": "MiniMax-M3"
+}

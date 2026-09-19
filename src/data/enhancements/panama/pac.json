@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PAC",
+    "icao": "MPMG",
+    "name": "Marcos A. Gelabert International Airport",
+    "country": "Panama",
+    "city": "Albrook",
+    "lat": 8.9733,
+    "lon": -79.5556,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Marcos A. Gelabert International Airport (PAC) is a medium-sized airport located in the Albrook district of Panama City, Panama, serving as the country's primary hub for domestic flights and a secondary gateway to Tocumen International. Named after a prominent Panamanian aviator, the airport handles regional connections to destinations across Panama and some nearby Central American countries. Its convenient location near the Albrook shopping complex and major bus terminal makes it a practical choice for travelers exploring Panama beyond the capital.",
+  "faqs": "Q: What airlines operate from Marcos A. Gelabert Airport?\nA: The airport primarily serves domestic Panamanian carriers such as Air Panama, offering flights to domestic destinations and limited regional routes.\n\nQ: Is PAC the main international airport in Panama City?\nA: No, Tocumen International Airport (PTY) is Panama City's main international gateway. PAC handles most domestic flights and some regional services.\n\nQ: How far is PAC from Panama City's city center?\nA: The airport is located in the Albrook area, just a few kilometers southwest of downtown Panama City, typically a 15-25 minute drive depending on traffic.\n\nQ: Are there customs and immigration facilities at PAC?\nA: Yes, the airport has customs and immigration facilities for regional international flights, though they are smaller than those at Tocumen.",
+  "transport_tips": "The airport is well-connected to the Albrook Terminal, Panama's main ground transportation hub, where you can catch buses, taxis, and rental cars. Taxis and ride-sharing services are readily available outside the terminal and offer a quick route to Panama City's central districts. Driving is straightforward via the Avenida Omar Torrijos or the Cinta Costera depending on your destination in the city.",
+  "local_tip": "The adjacent Albrook Mall is one of the largest shopping centers in Latin America, making PAC an ideal airport to fly into if you want to combine shopping with travel, especially on a layover or before a domestic departure.",
+  "generatedAt": "2026-06-29T05:17:16.420Z",
+  "model": "MiniMax-M3"
+}

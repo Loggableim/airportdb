@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SVL",
+    "icao": "EFSA",
+    "name": "Savonlinna Airport",
+    "country": "Finland",
+    "city": "Savonlinna",
+    "lat": 61.9431,
+    "lon": 28.9451,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Savonlinna Airport (SVL) is a regional airport serving the city of Savonlinna in eastern Finland's Saimaa lake district. It primarily functions as a gateway for summer tourism, most notably visitors attending the renowned Savonlinna Opera Festival held at the medieval Olavinlinna Castle. The airport operates with a modest schedule, with traffic peaking during the July opera season when it accommodates increased charter and seasonal flights.",
+  "faqs": "Q: What airlines fly to Savonlinna Airport?\nA: The airport is primarily served by Finnair on scheduled routes to Helsinki, with additional seasonal charter flights during the summer opera festival period.\n\nQ: How far is the airport from Savonlinna city center?\nA: The airport is located approximately 15 kilometers from the city center, with the journey taking around 20 minutes by car or taxi.\n\nQ: When is the busiest time at Savonlinna Airport?\nA: Traffic peaks in July during the annual Savonlinna Opera Festival, when additional seasonal flights are added to handle increased tourist demand.\n\nQ: Does the airport have international flights?\nA: International service is limited; most scheduled flights connect to Helsinki, from where passengers can make onward international connections.",
+  "transport_tips": "The most convenient way to reach Savonlinna city center is by taxi or pre-booked transfer, as public bus service to the airport is limited. Renting a car at the airport is recommended for exploring the wider Saimaa lake region and surrounding attractions. During the opera festival, dedicated shuttle services often operate between the airport and key city venues.",
+  "local_tip": "If visiting during July, book flights and accommodation well in advance, as the Savonlinna Opera Festival dramatically increases demand for both, and the airport's small size means slots fill quickly with seasonal charters.",
+  "generatedAt": "2026-06-29T11:57:19.903Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "STC",
+    "icao": "KSTC",
+    "name": "Saint Cloud Regional Airport",
+    "country": "United States",
+    "city": "Saint Cloud",
+    "lat": 45.5466,
+    "lon": -94.0599,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Saint Cloud Regional Airport (STC/KSTC) is a medium-sized public airport serving central Minnesota, situated just southeast of the city of Saint Cloud and approximately 75 miles northwest of Minneapolis-Saint Paul. The airport supports general aviation, flight training, and limited commercial/charter operations, functioning as a reliever facility for the Minneapolis-St. Paul metro area. It features two runways and hosts a mix of private, corporate, and recreational aircraft.",
+  "faqs": "Q: What types of flights operate from Saint Cloud Regional Airport?\nA: The airport primarily serves general aviation, private aircraft, flight training, and occasional charter or regional flights, with no scheduled commercial airline service at this time.\n\nQ: How far is Saint Cloud Regional Airport from downtown Saint Cloud?\nA: The airport is located about 5 miles southeast of downtown Saint Cloud, typically a 10-15 minute drive.\n\nQ: Are there car rental services available at the airport?\nA: Rental car availability can vary, so it is recommended that travelers arrange ground transportation in advance through local agencies or ride services.\n\nQ: Does the airport have an FAA control tower?\nA: Yes, the airport operates with an air traffic control tower during published hours to manage arriving and departing traffic.",
+  "transport_tips": "The most convenient way to reach the airport is by personal vehicle, with ample free parking available on-site. Local taxi services and rideshare options operate in the Saint Cloud area, though advance booking is advisable. Travelers can also access the airport via Highway 10 and nearby Interstate 94, which connects to the Twin Cities in roughly 75 minutes.",
+  "local_tip": "Visitors should note that Saint Cloud sits near the Mississippi River, and the airport is a popular base for pilots flying into the region for fishing and outdoor recreation trips in central Minnesota's lake country.",
+  "generatedAt": "2026-06-29T04:44:46.475Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PIC",
+    "icao": "MBPI",
+    "name": "Pine Cay Airport",
+    "country": "Turks and Caicos Islands",
+    "city": "Pine Cay",
+    "lat": 21.8747,
+    "lon": -72.0906,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Pine Cay Airport (PIC) is a small private airstrip located on Pine Cay, a 800-acre private island in the Turks and Caicos archipelago. The airport primarily serves the exclusive Pine Cay Resort and private villa owners, with flights typically arriving from Providenciales (PLS) on small charter or private aircraft. Its single short runway accommodates light aircraft only, reflecting the island's low-key, exclusive character.",
+  "faqs": "Q: Are there commercial flights to Pine Cay Airport?\nA: No scheduled commercial service operates to PIC; visitors typically arrive via Providenciales and transfer by small charter plane, with flights taking roughly 15-20 minutes.\n\nQ: Can large jets land at Pine Cay Airport?\nA: No, the short runway accommodates only small private aircraft and light charter planes, typically turboprops and small jets.\n\nQ: Is Pine Cay Airport open to the public?\nA: Access is generally restricted to resort guests, property owners, and pre-arranged visitors since Pine Cay itself is a private island community.\n\nQ: Are there customs and immigration facilities at PIC?\nA: Customs clearance is typically handled at Providenciales International Airport; passengers from international origins clear there before connecting to Pine Cay.",
+  "transport_tips": "Most travelers fly into Providenciales International Airport (PLS) first, then arrange a short charter flight to Pine Cay through the resort or a local operator. Ground transport on Pine Cay is usually pre-arranged by the resort, as there are no taxis or rental cars available on the island. Be prepared for flexible scheduling, as charter flights to small islands can be affected by weather conditions.",
+  "local_tip": "Pack light and in soft-sided luggage—charter planes to small island airstrips like Pine Cay often have strict weight and size limits, and golf carts (the island's primary mode of transport) have limited cargo space.",
+  "generatedAt": "2026-06-28T05:38:47.041Z",
+  "model": "MiniMax-M3"
+}

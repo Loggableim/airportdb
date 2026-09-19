@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "COR",
+    "icao": "SACO",
+    "name": "Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport",
+    "country": "Argentina",
+    "city": "Cordoba",
+    "lat": -31.3123,
+    "lon": -64.2083,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Ingeniero Aeronáutico Ambrosio L.V. Taravella International Airport, commonly known as Pajas Blancas, is the principal airport serving Córdoba, Argentina's second-largest city. Named after a pioneering Argentine aviation engineer, it ranks as the third-busiest airport in the country and serves as a key hub for domestic and regional flights in central Argentina. The airport is situated roughly 10 kilometers north of downtown Córdoba, offering convenient access to the Sierras Chicas mountain range and surrounding wine-producing regions.",
+  "faqs": "Q: How far is Taravella Airport from Córdoba city center?\nA: The airport is approximately 10 km (6 miles) north of downtown Córdoba, typically a 20-30 minute drive depending on traffic.\n\nQ: Which airlines operate from this airport?\nA: Aerolíneas Argentinas, LATAM, Flybondi, JetSMART, and several regional carriers operate regular domestic and international flights, with services to destinations across South America.\n\nQ: Does the airport have international flights?\nA: Yes, it offers international flights to neighboring countries including Chile, Brazil, Peru, Bolivia, and Panama, as well as seasonal routes.\n\nQ: Are there lounges available at the airport?\nA: Yes, the airport features VIP lounges and airline-specific lounges accessible to premium ticket holders or through lounge programs.",
+  "transport_tips": "Official taxis and remis (private hire cars) are available at the designated stands outside the terminal and offer fixed rates to the city center. Local buses operated by TAM and Coniferal provide affordable connections to Córdoba's main bus terminal and downtown areas, running throughout the day. Rental car agencies including Hertz, Avis, and local providers have counters inside the terminal for travelers exploring the surrounding region.",
+  "local_tip": "Frequent visitors recommend timing flights for early morning or late evening to avoid Córdoba's notorious midday heat, and consider stopping at a local café in the terminal for a medialuna (Argentine croissant) before heading to the city—it's the quintessential Cordobés breakfast experience.",
+  "generatedAt": "2026-06-28T21:01:16.653Z",
+  "model": "MiniMax-M3"
+}

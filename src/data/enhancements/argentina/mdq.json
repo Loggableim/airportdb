@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MDQ",
+    "icao": "SAZM",
+    "name": "Ástor Piazzola International Airport",
+    "country": "Argentina",
+    "city": "Mar del Plata",
+    "lat": -37.9342,
+    "lon": -57.5733,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ástor Piazzola International Airport (MDQ) serves Mar del Plata, one of Argentina's most popular Atlantic coastal resort cities. Named after the legendary Argentine tango composer and bandoneonist Ástor Piazzolla, the airport connects the Buenos Aires Province beach destination with major cities across the country. It functions as a key gateway for summer tourism, handling significant seasonal traffic to the 'Happy City.'",
+  "faqs": "Q: How far is the airport from Mar del Plata city center?\nA: The airport is located approximately 7 kilometers (about 4 miles) northwest of downtown Mar del Plata, a short drive of 15-20 minutes depending on traffic.\n\nQ: Which airlines operate at Ástor Piazzola International Airport?\nA: The airport is served primarily by Aerolíneas Argentinas and several low-cost carriers, offering flights to Buenos Aires and other Argentine destinations.\n\nQ: Does the airport have international flights?\nA: While classified as an international airport, most scheduled operations are domestic. Seasonal international charter flights occasionally operate during the summer tourist season.\n\nQ: What facilities are available at the terminal?\nA: The terminal provides standard amenities including a café, car rental counters, and basic passenger services, though the facility is modest in size.",
+  "transport_tips": "Taxis and remise (private car) services are available at the terminal and offer fixed rates to most destinations in Mar del Plata, typically taking 15-20 minutes to reach the city center. Ride-hailing apps operate in the area, though availability can be limited compared to Buenos Aires. Renting a car at the airport is a popular option for travelers planning to explore the surrounding Atlantic coast.",
+  "local_tip": "If traveling during the Argentine summer (December-February), book flights and accommodations well in advance—Mar del Plata is the country's top beach destination and the airport gets very busy during January and February holidays.",
+  "generatedAt": "2026-06-29T09:21:36.196Z",
+  "model": "MiniMax-M3"
+}

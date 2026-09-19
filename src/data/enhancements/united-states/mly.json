@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLY",
+    "icao": "PAML",
+    "name": "Manley Hot Springs Airport",
+    "country": "United States",
+    "city": "Manley Hot Springs",
+    "lat": 64.9919,
+    "lon": -150.6441,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Manley Hot Springs Airport is a small public-use airport serving the remote village of Manley Hot Springs in interior Alaska, situated along the Tanana River about 80 miles northwest of Fairbanks. The airport provides a vital transportation link for this isolated community, which is best known for its natural hot springs that have drawn visitors for generations. The single-runway facility primarily supports bush planes and small charter operations connecting residents to larger hubs.",
+  "faqs": "Q: What is the main purpose of Manley Hot Springs Airport?\nA: The airport serves as a critical lifeline for the small community of Manley Hot Springs, providing passenger, mail, and cargo services connecting residents to Fairbanks and other interior Alaska destinations.\n\nQ: Are there scheduled commercial flights to MLY?\nA: Scheduled service is limited; most travelers reach the airport via small charter or bush plane operations from Fairbanks, as the airport primarily serves general aviation.\n\nQ: What facilities are available at the airport?\nA: As a small rural airport, facilities are minimal—expect a basic gravel runway, limited tie-down areas, and no terminal building with extensive amenities.\n\nQ: Can I fly into Manley Hot Springs year-round?\nA: The airport is generally operational year-round, though winter conditions with snow and ice can affect operations, and summer thaws may impact the unpaved runway surface.",
+  "transport_tips": "There is no public bus service to Manley Hot Springs, so visitors typically arrange ground transportation in advance or coordinate pickup with lodge operators. The road connection from Fairbanks (the Elliott Highway) is unpaved for much of the route and can be challenging, especially in winter. Most visitors either fly in via charter or drive an equipped vehicle, with the drive taking roughly 2.5 to 3 hours from Fairbanks.",
+  "local_tip": "If flying in, coordinate with your lodge or hot springs operator ahead of time—many will arrange pickup at the airport since rental cars and taxis are not readily available in this remote community.",
+  "generatedAt": "2026-06-26T20:17:06.712Z",
+  "model": "MiniMax-M3"
+}

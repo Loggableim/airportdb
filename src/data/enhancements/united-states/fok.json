@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FOK",
+    "icao": "KFOK",
+    "name": "Francis S Gabreski Airport",
+    "country": "United States",
+    "city": "Westhampton Beach",
+    "lat": 40.8437,
+    "lon": -72.6318,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Francis S. Gabreski Airport is a public-use general aviation facility on Long Island's South Fork in Westhampton Beach, New York, serving the Hamptons region. Originally established as Suffolk County Air Force Base during World War II, it was renamed in 1991 to honor Colonel Francis S. Gabreski, the top American fighter ace in the European Theater and Korean War veteran. Today it primarily handles private, corporate, and recreational flights, with no scheduled commercial airline service.",
+  "faqs": "Q: Is there commercial airline service at Francis S. Gabreski Airport?\nA: No, FOK is a general aviation airport without scheduled commercial flights. It primarily serves private, charter, and corporate aircraft.\n\nQ: Who was Francis S. Gabreski?\nA: Colonel Francis Stanley Gabreski was the highest-scoring American fighter ace in the European Theater during WWII and a Korean War combat veteran. The airport was renamed in his honor in 1991.\n\nQ: How far is the airport from New York City?\nA: The airport is approximately 70-80 miles east of Manhattan, accessible via the Long Island Expressway (I-495) and local roads through the Hamptons.\n\nQ: Does the airport have a control tower?\nA: Yes, the airport operates a control tower during published hours and is equipped with instrument approach procedures for pilots.",
+  "transport_tips": "Renting a car is the most practical option, as the airport is about 80 miles from Manhattan and public transit service is limited. Hampton Jitney and other shuttle services connect the Hamptons to NYC but do not stop directly at the airport. During summer weekends, traffic on the Long Island Expressway can add significant travel time, so plan extra buffer.",
+  "local_tip": "Weekend pilots flying in should request the Long Island Sound transition early—summer weekend traffic into the Hamptons airspace can be heavy, and FOK's tower often sequences multiple GA arrivals during peak Friday and Sunday afternoon periods.",
+  "generatedAt": "2026-06-27T00:21:52.824Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IOW",
+    "icao": "KIOW",
+    "name": "Iowa City Municipal Airport",
+    "country": "United States",
+    "city": "Iowa City",
+    "lat": 41.6392,
+    "lon": -91.5465,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Iowa City Municipal Airport (IOW) is a small general aviation airport located just southwest of downtown Iowa City, serving the region surrounding the University of Iowa. The airport primarily handles private, charter, and corporate aircraft, with occasional commercial service, and has been a key aviation gateway for eastern Iowa since the mid-20th century. Its convenient proximity to the city center and the University of Iowa campus makes it a popular choice for business travelers and visiting academics.",
+  "faqs": "Q: What types of flights operate from Iowa City Municipal Airport?\nA: The airport primarily serves general aviation traffic, including private planes, charter flights, and corporate jets. Scheduled commercial service is limited or nonexistent, so most travelers use nearby larger airports for airline flights.\n\nQ: How far is the airport from downtown Iowa City?\nA: The airport is located only a few miles southwest of downtown Iowa City, typically a 10-15 minute drive depending on traffic and final destination.\n\nQ: Does the airport have car rental services?\nA: Rental cars can typically be arranged in advance, and rideshare services like Uber and Lyft are available for pickup and drop-off at the terminal area.\n\nQ: Is there on-site parking at Iowa City Municipal Airport?\nA: Yes, the airport offers free or low-cost parking near the terminal, making it convenient for those dropping off or picking up passengers.\n\n",
+  "transport_tips": "The airport is just a short drive southwest of downtown Iowa City via local roads, making taxi or rideshare trips quick and affordable. Rental cars are available by arrangement and are recommended for travelers planning to explore the broader eastern Iowa region. Since commercial airline service is limited, many passengers drive to larger hubs like Cedar Rapids (CID) or Moline (MLI) for scheduled flights.",
+  "local_tip": "If you have time before your flight, consider stopping by the University of Iowa campus just minutes from the airport—Old Capitol Mall and the Iowa Riverwalk offer a pleasant stroll and a quick taste of the city's collegiate character.",
+  "generatedAt": "2026-06-27T00:23:53.664Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ALA",
+    "icao": "UAAA",
+    "name": "Almaty International Airport",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.3543,
+    "lon": 77.0428,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Almaty International Airport is the largest and busiest airport in Kazakhstan, serving the country's former capital and largest city. Situated about 15 km northeast of Almaty at an elevation of approximately 683 meters, it operates as a key hub for Air Astana and connects Central Asia to Europe, Asia, and the Middle East. The airport features a modernized terminal complex and handles over 5 million passengers annually.",
+  "faqs": "Q: How far is Almaty Airport from the city center?\nA: The airport is approximately 15 km (about 9 miles) northeast of central Almaty, with a typical drive taking 30-45 minutes depending on traffic.\n\nQ: What airlines operate from Almaty Airport?\nA: Air Astana, SCAT Airlines, Qazaq Air, and flyArystan are the main domestic carriers. International airlines include Turkish Airlines, Lufthansa, Aeroflot, Emirates, and many others serving Europe, Asia, and the Middle East.\n\nQ: Does the airport operate 24 hours?\nA: Yes, Almaty International Airport operates 24 hours a day, though some services and shops may have limited availability during late-night hours.\n\nQ: Is there a lounge available for passengers?\nA: Yes, the airport offers business class lounges and a paid lounge accessible to all passengers regardless of airline class.",
+  "transport_tips": "Taxis and ride-hailing apps like Yandex Go are the most convenient way to reach the city, with fixed-rate options available at official taxi counters in the arrivals hall. Public bus routes 92 and 122 connect the airport to central Almaty at very low cost, though they are slower. The ride-hailing pickup area is located outside the terminal; avoid unofficial drivers offering rides inside.",
+  "local_tip": "Almaty sits in a mountainous valley, so weather can shift rapidly—flights occasionally experience delays in winter due to fog and snow, so building in buffer time on connections is wise. The airport's location near the Trans-Ili Alatau mountains also means you can see stunning snow-capped peaks from the runway during takeoff on clear days.",
+  "generatedAt": "2026-06-28T16:45:32.222Z",
+  "model": "MiniMax-M3"
+}

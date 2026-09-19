@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BEP",
+    "icao": "VOBI",
+    "name": "Bellary Airport",
+    "country": "India",
+    "city": "Bellary",
+    "lat": 15.1628,
+    "lon": 76.8828,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Bellary Airport (BEP/VOBI) is a medium-sized airport serving Bellary (also spelled Ballari), an industrial city in the state of Karnataka, India, known for its extensive iron ore mining operations and steel production. The airport primarily handles domestic flights and serves as a convenient gateway for business travelers connected to the region's mining and metallurgy industries. Its location in central Karnataka makes it a useful access point for visitors to nearby Hampi, a UNESCO World Heritage Site.",
+  "faqs": "Q: What is Bellary Airport's IATA code?\nA: The IATA code for Bellary Airport is BEP, and its ICAO code is VOBI.\n\nQ: Which airlines operate at Bellary Airport?\nA: The airport is primarily served by regional and domestic carriers, with flight availability subject to seasonal schedules and demand.\n\nQ: Is Bellary Airport close to Hampi?\nA: Yes, Bellary Airport is approximately 60-70 km from Hampi, the UNESCO World Heritage Site featuring the ruins of the Vijayanagara Empire, making it a preferred entry point for heritage tourists.\n\nQ: Does the airport operate 24 hours?\nA: Operating hours are limited and based on scheduled flight arrivals and departures, so travelers should confirm timings with their airline in advance.",
+  "transport_tips": "Pre-paid taxi and cab services are available outside the terminal for travel into Bellary city, which is roughly 15 km away. Travelers heading to Hampi can arrange a private taxi at the airport or book through hotels in advance for a more comfortable journey. Rental car services are limited, so booking transportation ahead is recommended, especially for late arrivals.",
+  "local_tip": "If visiting Hampi, consider hiring a local guide upon arrival rather than at the monuments — guides from nearby Kamalapur or Hospet villages often provide richer historical context and can arrange access to lesser-known ruins not typically covered by standard tours.",
+  "generatedAt": "2026-06-26T11:07:40.415Z",
+  "model": "MiniMax-M3"
+}

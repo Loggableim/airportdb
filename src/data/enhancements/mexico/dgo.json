@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DGO",
+    "icao": "MMDO",
+    "name": "General Guadalupe Victoria International Airport",
+    "country": "Mexico",
+    "city": "Durango",
+    "lat": 24.1255,
+    "lon": -104.5279,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "General Guadalupe Victoria International Airport (DGO) is the main gateway to Durango, the capital of Durango state in north-central Mexico. Named after Guadalupe Victoria, the first president of independent Mexico, the airport sits on a high-altitude plateau at roughly 1,860 meters above sea level. It handles domestic flights primarily connecting Durango to Mexico City, Tijuana, and other major Mexican destinations, serving both business travelers and tourists heading to the Sierra Madre region.",
+  "faqs": "Q: How far is the airport from downtown Durango?\nA: The airport is located approximately 15 kilometers (about 9 miles) southeast of Durango's city center, typically a 20-25 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: It primarily handles domestic routes, though seasonal or charter international services have operated occasionally. Most international travelers connect through Mexico City.\n\nQ: What facilities are available at the terminal?\nA: The terminal features restaurants, car rental counters, a small duty-free area, ATMs, and basic passenger amenities typical of a medium-sized Mexican airport.\n\nQ: Is the airport affected by weather delays?\nA: Due to its high elevation and proximity to the Sierra Madre, fog and thunderstorms can occasionally cause delays, particularly during the rainy season from June to September.",
+  "transport_tips": "Official taxi services and authorized shuttles are available at the terminal and offer fixed rates to central Durango. Rental cars from national agencies like Hertz, Budget, and local providers are available on-site and recommended for travelers planning to explore the surrounding region. Ride-hailing apps such as Uber operate in the Durango area and can be requested from designated pickup zones.",
+  "local_tip": "If you have a morning flight, request a hotel near the terminal rather than downtown; the earlier you depart, the more likely you are to encounter clear skies, as afternoon clouds and thermal turbulence from the Sierra Madre are common in this high-plateau region.",
+  "generatedAt": "2026-06-29T09:18:19.424Z",
+  "model": "MiniMax-M3"
+}

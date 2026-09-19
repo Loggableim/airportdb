@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SWD",
+    "icao": "PAWD",
+    "name": "Seward Airport",
+    "country": "United States",
+    "city": "Seward",
+    "lat": 60.1305,
+    "lon": -149.4186,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Seward Airport is a small public-use airport located on the eastern shore of the Kenai Peninsula in Seward, Alaska, serving the community of roughly 2,700 residents. It functions primarily as a gateway for visitors heading to Kenai Fjords National Park and the Resurrection Bay area, offering scheduled commuter service and general aviation facilities. The airport sits at a low elevation along the scenic coastline, providing striking approaches over forested terrain and nearby waterways.",
+  "faqs": "Q: What airlines serve Seward Airport?\nA: Seward Airport is primarily served by small commuter and charter operators, with scheduled flights typically connecting through Anchorage. Service availability can vary by season.\n\nQ: How far is Seward Airport from the town center?\nA: The airport is conveniently located only a few miles from downtown Seward, making it a quick drive to the harbor and main commercial areas.\n\nQ: Is the airport open year-round?\nA: Yes, the airport operates year-round, though winter weather can occasionally affect flight schedules due to snow and icing conditions.\n\nQ: Does Seward Airport have an air traffic control tower?\nA: No, the airport operates as an uncontrolled field, requiring pilots to use the common traffic advisory frequency (CTAF) for coordination.",
+  "transport_tips": "Rental cars are available in Seward but should be reserved in advance, especially during the summer tourist season. Taxi services and ride shares can be limited, so arranging ground transport ahead of arrival is recommended. Many visitors arriving by air are met by tour operators offering direct transfers to Kenai Fjords cruises or lodging.",
+  "local_tip": "If you're flying in for a day trip, check tide tables before booking — low tide at Lowell Point and the tidal flats near the airport can affect wildlife viewing and hiking access along the coastal trails.",
+  "generatedAt": "2026-06-26T09:20:47.348Z",
+  "model": "MiniMax-M3"
+}

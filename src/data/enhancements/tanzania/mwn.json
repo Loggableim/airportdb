@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MWN",
+    "icao": "HTMD",
+    "name": "Mwadui Airport",
+    "country": "Tanzania",
+    "city": "Mwadui",
+    "lat": -3.5213,
+    "lon": 33.6155,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mwadui Airport serves the remote mining community of Mwadui in Tanzania's Shinyanga Region, primarily supporting the operations of the nearby Williamson Diamond Mine, one of the world's largest diamond mines by area. The small airfield handles charter and private flights connecting workers and supplies to this isolated settlement in northwestern Tanzania. Its remote location and connection to diamond mining make it a strategically important but rarely visited facility for general aviation travelers.",
+  "faqs": "Q: Who primarily uses Mwadui Airport?\nA: The airport mainly serves personnel and contractors working at the Williamson Diamond Mine, one of the oldest continuously operating diamond mines in the world.\n\nQ: Is Mwadui Airport open to commercial passengers?\nA: No scheduled commercial flights operate here. Access is generally restricted to charter flights and authorized mine-related travel.\n\nQ: Where exactly is Mwadui located?\nA: Mwadui is in the Shinyanga Region of northwestern Tanzania, roughly 150 km south of Lake Victoria.\n\nQ: What facilities are available at the airport?\nA: As a small airfield, it has minimal infrastructure—primarily a runway and basic handling for light aircraft, with no passenger amenities.\n\n",
+  "transport_tips": "Ground transport from Mwadui Airport is limited and should be arranged in advance, typically through the mining company. The nearest major town with broader transport connections is Shinyanga, accessible by rough road. Travelers should plan for self-arranged 4x4 transport as regular taxi services are not reliably available.",
+  "local_tip": "If you're visiting the Williamson Diamond Mine area, request a mine tour through official channels well in advance—it's one of the few places in the world where visitors can see large-scale kimberlite pipe diamond mining up close, and security clearance takes time to process.",
+  "generatedAt": "2026-06-28T04:26:55.078Z",
+  "model": "MiniMax-M3"
+}

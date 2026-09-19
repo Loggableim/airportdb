@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PMR",
+    "icao": "NZPM",
+    "name": "Palmerston North Airport",
+    "country": "New Zealand",
+    "city": "Palmerston North",
+    "lat": -40.3206,
+    "lon": 175.617,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Palmerston North Airport (PMR) is a regional airport serving the Manawatū region on New Zealand's North Island, located approximately 5 kilometres north of the city centre. It primarily handles domestic flights connecting Palmerston North with major hubs including Auckland, Wellington, and Christchurch. The airport acts as a key gateway for the surrounding agricultural heartland and for visitors to Massey University, one of New Zealand's largest tertiary institutions.",
+  "faqs": "Q: What airlines operate from Palmerston North Airport?\nA: Air New Zealand is the main carrier, offering regular domestic services to Auckland, Wellington, and Christchurch.\n\nQ: How far is the airport from Palmerston North city centre?\nA: The airport is roughly 5 kilometres north of the central business district, making it a short drive of about 10 minutes.\n\nQ: Does Palmerston North Airport have international flights?\nA: No, the airport operates domestic services only. International travellers must connect through Auckland, Wellington, or Christchurch.\n\nQ: Is the airport open 24 hours?\nA: No, the terminal operates during scheduled flight hours and is not a 24-hour facility.",
+  "transport_tips": "Taxis and rideshare services are readily available outside the terminal and provide a quick trip into the city. Several rental car companies have desks on-site, which is useful given the region's spread-out attractions. Limited scheduled bus services also connect the airport with central Palmerston North, though frequency can be modest outside peak times.",
+  "local_tip": "If you have a wait between flights, the café on the landside offers good coffee and a view of the apron — a relaxed spot to watch regional aircraft come and go, which frequent travellers often appreciate as a calm alternative to busier terminals.",
+  "generatedAt": "2026-06-29T07:39:11.593Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ANN",
+    "icao": "PANT",
+    "name": "Annette Island Airport",
+    "country": "United States",
+    "city": "Metlakatla",
+    "lat": 55.0377,
+    "lon": -131.5726,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Annette Island Airport serves Metlakatla, Alaska's only Native American reservation community, home to the Tsimshian people who settled on the island in 1887 under missionary William Duncan. Located on a small island in the Alexander Archipelago near Ketchikan, the airport provides essential connectivity for this remote coastal community. The facility, originally developed as a military airfield during World War II, now primarily supports regional passenger service and cargo operations.",
+  "faqs": "Q: What airlines serve Annette Island Airport?\nA: Alaska Airlines (and its Horizon Air subsidiary) operates scheduled passenger service, typically using Bombardier Q400 turboprop aircraft connecting to Ketchikan.\n\nQ: How do I get from the airport to Metlakatla?\nA: The airport is located about 15 miles from Metlakatla. Car rental, taxi, and shuttle services are available, though options are limited and advance arrangements are recommended.\n\nQ: Is Annette Island open to visitors?\nA: The island is part of the Annette Island Indian Reserve and visitors are generally welcome, though the Tsimshian community asks guests to respect local customs and land.\n\nQ: How long is the ferry crossing from Ketchikan to Annette Island?\nA: The Inter-Island Ferry Authority operates a ferry between Ketchikan and Annette Island, with crossings taking approximately 25-30 minutes across the Clarence Strait.",
+  "transport_tips": "Ferry service via the Inter-Island Ferry Authority connects Annette Island to Ketchikan and is a popular alternative to flying. Rental cars should be reserved well in advance as availability on the island is limited. Many visitors coordinate travel through Ketchikan International Airport and take the short connecting flight or ferry over.",
+  "local_tip": "Plan grocery and supply runs carefully before arriving on Annette Island, as stores in Metlakatla have limited hours and selection, and the last ferry back to Ketchikan departs in the early evening.",
+  "generatedAt": "2026-06-29T12:46:57.562Z",
+  "model": "MiniMax-M3"
+}

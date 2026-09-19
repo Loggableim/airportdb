@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RLD",
+    "icao": "KRLD",
+    "name": "Richland Airport",
+    "country": "United States",
+    "city": "Richland",
+    "lat": 46.3056,
+    "lon": -119.304,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Richland Airport (RLD) is a small general aviation facility serving the Tri-Cities region of southeastern Washington, including Richland, Kennewick, and Pasco. Located in the Columbia Basin near the confluence of the Snake and Columbia Rivers, it primarily supports private aircraft, flight training, and corporate operations. The airport sits near the Hanford Site, providing convenient access for the area's nuclear research and technology workforce.",
+  "faqs": "Q: What type of aircraft does Richland Airport primarily serve?\nA: The airport serves general aviation traffic, including single-engine planes, small business jets, and flight training operations. Commercial airline service is not available at RLD.\n\nQ: Where is Richland Airport located relative to the city of Richland?\nA: The airport is situated on the north side of Richland, just off State Route 240, providing quick access to the city center and the broader Tri-Cities metropolitan area.\n\nQ: Are there car rental services available at Richland Airport?\nA: On-site rental car availability is limited, so visitors typically arrange rentals in advance or use services from the larger Tri-Cities Airport (PSC) about 20 miles away.\n\nQ: Can I fly commercially into Richland?\nA: No, Richland Airport does not offer commercial airline service. Travelers flying commercially typically use Tri-Cities Airport (PSC) in Pasco, Washington.",
+  "transport_tips": "The airport is easily reached via State Route 240, with the terminal just a short drive from central Richland. Taxi and rideshare services are limited, so arranging ground transportation in advance is recommended. Most visitors find having a personal vehicle most convenient for navigating the Tri-Cities area.",
+  "local_tip": "Aviation enthusiasts should check out the nearby Hanford Reach National Monument or the B Reactor tour, which are unique to the Tri-Cities area and not available anywhere else in the United States.",
+  "generatedAt": "2026-06-27T05:04:26.950Z",
+  "model": "MiniMax-M3"
+}

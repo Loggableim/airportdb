@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JAV",
+    "icao": "BGJN",
+    "name": "Ilulissat Airport",
+    "country": "Greenland",
+    "city": "Ilulissat",
+    "lat": 69.2432,
+    "lon": -51.0571,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Ilulissat Airport serves as the main aerial gateway to the Ilulissat Icefjord, a UNESCO World Heritage Site renowned for its massive calving glaciers. Located on the west coast of Greenland, just a few kilometers from the town of Ilulissat, the airport plays a vital role in connecting this remote Arctic community to Nuuk, Kangerlussuaq, and Reykjavik. Operations are dominated by regional turboprop flights adapted to the demanding polar environment.",
+  "faqs": "Q: How do I get from Ilulissat Airport to the town?\nA: The airport is only about 5 minutes by road from Ilulissat town center. Taxis typically wait outside the small terminal, and most hotels offer pre-arranged pickup services.\n\nQ: Which airlines operate flights to Ilulissat?\nA: Air Greenland is the primary carrier, offering scheduled service from Kangerlussuaq and Nuuk, as well as seasonal international flights from Reykjavik in Iceland.\n\nQ: When is the best time to visit Ilulissat?\nA: Summer (June to August) brings the midnight sun and excellent iceberg viewing",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T20:49:05.279Z",
+  "model": "MiniMax-M3"
+}

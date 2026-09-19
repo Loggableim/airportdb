@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PED",
+    "icao": "LKPD",
+    "name": "Pardubice Airport",
+    "country": "Czech Republic",
+    "city": "Pardubice",
+    "lat": 50.015,
+    "lon": 15.7398,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Pardubice Airport (PED/LKPD) is a public and military airport located approximately 4 km southwest of the city center of Pardubice in the central Czech Republic. It serves as a base for the Czech Air Force and also handles limited civilian traffic, including seasonal charter flights and general aviation. The airport sits in the Elbe River lowland region and has historically been an important military airfield dating back to the early 20th century.",
+  "faqs": "Q: How far is Pardubice Airport from the city center?\nA: The airport is about 4 km southwest of Pardubice's city center, making it roughly a 10-minute drive.\n\nQ: Does Pardubice Airport offer regular commercial flights?\nA: Commercial scheduled service is limited; the airport primarily handles seasonal charter flights, general aviation, and military operations. Travelers should check current schedules as routes vary by season.\n\nQ: Is there a military presence at Pardubice Airport?\nA: Yes, the airport is jointly used as a Czech Air Force base, and it has a long history of military aviation operations.\n\nQ: Are there customs and immigration services available?\nA: As an international airport, PED can handle flights from Schengen and non-Schengen destinations, though services may be limited outside scheduled operations.",
+  "transport_tips": "The most convenient way to reach the airport from Pardubice city center is by taxi or private car, which takes around 10 minutes. Local bus services also connect the airport to the city, and travelers arriving by train can easily transfer at Pardubice hlavní nádraží main station, which is well connected to Prague and other major Czech cities. Driving offers flexibility, with parking available on-site.",
+  "local_tip": "If you have a few hours to spare, visit the nearby Kunětická Hora Castle just east of Pardubice—it's a striking medieval fortress set on a volcanic hill and rarely crowded, offering a memorable glimpse into Bohemian history.",
+  "generatedAt": "2026-06-28T22:29:21.006Z",
+  "model": "MiniMax-M3"
+}

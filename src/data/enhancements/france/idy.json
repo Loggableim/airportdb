@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IDY",
+    "icao": "LFEY",
+    "name": "Île d'Yeu Airport",
+    "country": "France",
+    "city": "Île d'Yeu",
+    "lat": 46.7176,
+    "lon": -2.3925,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Île d'Yeu Airport is a small regional airfield located on the Île d'Yeu, a picturesque island off the Atlantic coast of the Vendée region in western France. The airport primarily serves seasonal domestic flights, providing a quick alternative to the ferry crossings that connect the island to the mainland. Its modest infrastructure reflects the island's tranquil character and limited year-round traffic.",
+  "faqs": "Q: What is the IATA code for Île d'Yeu Airport?\nA: The IATA code is IDY, and the ICAO code is LFEY.\n\nQ: Are there regular commercial flights to Île d'Yeu?\nA: The airport primarily operates seasonal and charter flights, with service frequency varying throughout the year. Ferry services are generally more common for year-round access.\n\nQ: Where is Île d'Yeu located?\nA: The island lies off the Atlantic coast of France in the Vendée department, roughly 20 kilometers from the mainland port of Fromentine.\n\nQ: Can I fly to Île d'Yeu from Paris?\nA: Connections are limited and typically seasonal; many travelers choose to fly into Nantes or other regional airports and continue by ferry.\n\n",
+  "transport_tips": "Car rentals are not available at the airport, so arranging bicycle or taxi transport in advance is recommended for getting around the island. The ferry from Fromentine on the mainland is a popular and reliable alternative, especially outside peak flight schedules. If staying overnight, confirm ground transport options with your accommodation before arrival.",
+  "local_tip": "Pack light and bring a windbreaker—even in summer, the Atlantic breeze on the island can be noticeably cooler than on the mainland, especially during morning flights.",
+  "generatedAt": "2026-06-26T15:08:09.480Z",
+  "model": "MiniMax-M3"
+}

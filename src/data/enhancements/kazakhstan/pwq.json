@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PWQ",
+    "icao": "UASP",
+    "name": "Pavlodar International Airport",
+    "country": "Kazakhstan",
+    "city": "Pavlodar",
+    "lat": 52.195,
+    "lon": 77.0731,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Pavlodar International Airport serves the city of Pavlodar in northeastern Kazakhstan, located near the Irtysh River. As a large airport with significant infrastructure, it functions as an important regional hub connecting Pavlodar to other Kazakh cities and select international destinations. The airport supports both passenger and cargo operations for this industrially significant region of Kazakhstan.",
+  "faqs": "Q: Where is Pavlodar International Airport located?\nA: It is located approximately 10 km southeast of Pavlodar city center in northeastern Kazakhstan, near the Irtysh River.\n\nQ: What is the airport's IATA and ICAO code?\nA: The IATA code is PWQ and the ICAO code is UASP.\n\nQ: Does the airport offer international flights?\nA: Yes, Pavlodar International Airport handles both domestic flights within Kazakhstan and select international flights to neighboring countries.\n\nQ: How large is Pavlodar Airport?\nA: It is classified as a large airport with a runway capable of accommodating medium to large jet aircraft.",
+  "transport_tips": "Taxis are the most common way to reach the airport from Pavlodar city center, with the journey typically taking 20-30 minutes. Some hotels offer airport transfer services that can be arranged in advance. Public minibuses (marshrutkas) also run along routes passing near the airport area.",
+  "local_tip": "Pack warm layers even in summer, as Pavlodar's airport terminal can get notably chilly due to the city's continental climate, and having local currency (tenge) ready for taxis saves time since not all drivers accept card payments.",
+  "generatedAt": "2026-06-29T00:46:36.970Z",
+  "model": "MiniMax-M3"
+}

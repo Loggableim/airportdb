@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SGA",
+    "icao": "OASN",
+    "name": "Sheghnan Airport",
+    "country": "Afghanistan",
+    "city": "Shiveh",
+    "lat": 37.4976,
+    "lon": 71.5085,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Sheghnan Airport is a small regional airstrip serving the remote Sheghnan District in Badakhshan Province, northeastern Afghanistan. Situated in the rugged Pamir Mountains near the Tajik border, it provides a vital air link for one of the most isolated communities in the country. The facility primarily supports humanitarian missions, medical evacuations, and limited scheduled flights operated by Afghan airlines using small turboprop aircraft suited to the challenging mountain terrain and short runway.",
+  "faqs": "Q: What is Sheghnan Airport used for?\nA: It primarily serves humanitarian flights, medical evacuations, and occasional passenger services connecting the remote Sheghnan region to larger Afghan cities like Kabul and Faizabad.\n\nQ: Are there regular commercial flights to Sheghnan?\nA: Scheduled service is limited and often weather-dependent due to the mountainous terrain. Flights are typically operated by small turboprop aircraft when conditions allow.\n\nQ: What is the runway like at Sheghnan Airport?\nA: The airport has a short unpaved or minimally surfaced runway suitable only for small aircraft, with approaches complicated by surrounding mountain peaks.\n\nQ: Is Sheghnan Airport safe for travel?\nA: The remote location and challenging approach conditions require experienced pilots, and flights are frequently delayed or cancelled due to weather. Travelers should check current security and aviation advisories.\n\n",
+  "transport_tips": "The airport has no public bus or taxi service, so ground transportation must typically be arranged in advance with local contacts or aid organizations operating in the area. Travelers should expect to walk or use local 4x4 vehicles on unpaved mountain roads connecting Shiveh to nearby villages. Given the unreliability of flights, it is wise to build extra days into any travel plan and carry essential supplies in case of extended delays.",
+  "local_tip": "Frequent visitors recommend packing warm clothing year-round, as Sheghnan sits at high elevation in the Pamirs where temperatures drop sharply even in summer, and the mountain winds funneling through the valley can make the airstrip significantly colder than nearby lower areas.",
+  "generatedAt": "2026-06-27T14:37:32.729Z",
+  "model": "MiniMax-M3"
+}

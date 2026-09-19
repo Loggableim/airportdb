@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CKG",
+    "icao": "ZUCK",
+    "name": "Chongqing Jiangbei International Airport",
+    "country": "China",
+    "city": "Chongqing",
+    "lat": 29.7123,
+    "lon": 106.6519,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Chongqing Jiangbei International Airport (CKG) is the main aviation gateway to Chongqing, one of China's largest municipalities and a major industrial center in the southwest. The airport features three terminals—T1, T2, and the expansive T3A opened in 2017—and serves as a key hub for China Southern Airlines, Chongqing Airlines, and several other carriers. It ranks among the busiest airports in China and is strategically positioned to support the broader western China region.",
+  "faqs": "Q: How far is the airport from Chongqing city center?\nA: Jiangbei Airport is located roughly 19–21 km (about 12–13 miles) north of downtown Chongqing, depending on the route taken.\n\nQ: Is there metro access to the airport?\nA: Yes, Chongqing Rail Transit Line 3 connects the airport to the city center, and Line 10 also serves Terminal T3A.\n\nQ: How many terminals does the airport have?\nA: The airport has three main terminals: T1, T2, and T3A, with T3A being the largest and primarily handling major domestic and international flights.\n\nQ: Are there international flights from CKG?\nA: Yes, the airport offers direct international and regional flights to destinations across Southeast Asia, East Asia, Europe, the Middle East, and Oceania.",
+  "transport_tips": "The metro is the most reliable and affordable option; Line 3 runs to Terminal T2 area while Line 10 serves Terminal T3A. Official airport taxis and ride-hailing apps like Didi are readily available at designated pickup zones outside each terminal. Allow at least 45–60 minutes for the journey during peak hours, as Chongqing's hilly terrain and traffic can extend travel times.",
+  "local_tip": "If you have a layover or extra time, try the airport's local Chongqing-style hot pot or small noodle shops in the terminal",
+  "generatedAt": "2026-06-28T19:36:34.865Z",
+  "model": "MiniMax-M3"
+}

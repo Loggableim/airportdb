@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AER",
+    "icao": "URSS",
+    "name": "Sochi International Airport",
+    "country": "Russia",
+    "city": "Sochi",
+    "lat": 43.4499,
+    "lon": 39.9566,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "Sochi International Airport is the main aviation gateway to Russia's Black Sea coast, serving the resort city of Sochi and the surrounding Krasnodar Krai region. The airport underwent a major modernization ahead of the 2014 Winter Olympics, which were hosted in Sochi, and it now functions as a key hub for both leisure tourism to the subtropical coastline and access to the nearby Caucasus Mountains. It is one of the busiest airports in southern Russia and handles a mix of domestic flights and international services from CIS and Middle Eastern destinations.",
+  "faqs": "Q: How far is Sochi International Airport from the city center?\nA: The airport is located approximately 30 km southeast of central Sochi, in the Adler district near the Black Sea coast.\n\nQ: Does the airport operate international flights?\nA: Yes, AER handles both domestic Russian flights and limited international services, primarily to CIS countries, Turkey, and select Middle Eastern destinations.\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard amenities including restaurants, duty-free shops, currency exchange, car rental desks, and free Wi-Fi throughout the passenger areas.\n\nQ: Is the airport open 24 hours?\nA: Operating hours can vary by season, but the airport generally opens well before the first morning departure and closes after the last evening arrival; night flights are uncommon.",
+  "transport_tips": "The Aeroexpress train connects the airport to Sochi's main railway station in Adler and onward to central Sochi, offering the most reliable scheduled option. Marshrutka (minibus) routes 105 and 124 also run between the airport and central Sochi, while official taxis and ride-hailing apps can be booked at designated ranks outside the terminal. During the summer holiday season and peak winter ski periods, allow extra time for ground transport as traffic along the coastal highway can be heavy.",
+  "local_tip": "If you have a long layover or early arrival, the Adler district surrounding the airport has walkable access to the Olympic Park from the 2014 Games, which is pleasant to explore on foot and rarely crowded outside of major events.",
+  "generatedAt": "2026-06-28T17:02:30.001Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CEK",
+    "icao": "USCC",
+    "name": "Kurchatov Chelyabinsk International Airport",
+    "country": "Russia",
+    "city": "Chelyabinsk",
+    "lat": 55.3031,
+    "lon": 61.5049,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kurchatov Chelyabinsk International Airport serves the industrial heart of Russia's Ural region, providing essential air connectivity for one of the country's major metallurgical and manufacturing centers. Named after Igor Kurchatov, the renowned Soviet nuclear physicist who led the USSR's atomic program, the airport handles domestic routes across Russia plus limited international connections. The facility sits on the doorstep of the Ural Mountains, making it a key gateway for both business travelers and tourists exploring this historic region.",
+  "faqs": "Q: What is Kurchatov Airport named after?\nA: The airport honors Igor Kurchatov, a famous Soviet nuclear physicist who led the Soviet atomic bomb project and is considered the father of the Soviet nuclear industry.\n\nQ: Where exactly is the airport located?\nA: It is situated approximately 18 km northwest of Chelyabinsk city center, in Chelyabinsk Oblast in Russia's Ural Mountains region.\n\nQ: Does the airport handle international flights?\nA: Yes, though its international service is limited, primarily covering CIS countries and select seasonal destinations alongside a broader domestic network.\n\nQ:",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T22:46:21.549Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BMN",
+    "icao": "ORBB",
+    "name": "Bamarni Airport",
+    "country": "Iraq",
+    "city": "Bamarni",
+    "lat": 37.0988,
+    "lon": 43.2666,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Bamarni Airport is a small airfield serving the town of Bamarni in Iraq's Kurdistan Region, within Duhok Governorate near the Turkish and Syrian borders. The facility primarily supports limited regional and charter operations rather than scheduled commercial service, reflecting the area's rugged mountainous terrain and border-zone character.",
+  "faqs": "Q: Where is Bamarni Airport located?\nA: Bamarni Airport is located in the Kurdistan Region of northern Iraq, in Duhok Governorate, near the town of Bamarni close to the Turkish and Syrian borders.\n\nQ: Does Bamarni Airport offer scheduled commercial flights?\nA: The airport primarily handles limited civilian and charter operations; scheduled commercial airline service is not regularly available.\n\nQ: What are the IATA and ICAO codes for Bamarni Airport?\nA: The IATA code is BMN and the ICAO code is ORBB.\n\nQ: What is the nearest major city to Bamarni Airport?\nA: Duhok is the nearest major city, located roughly 80–100 km southeast of the airport.\n\n",
+  "transport_tips": "Most travelers reach Bamarni Airport by private car or hired taxi from Duhok, as public transport options are limited. Road conditions in the surrounding mountain region can be variable, so daytime travel and a",
+  "local_tip": "",
+  "generatedAt": "2026-06-27T17:54:16.387Z",
+  "model": "MiniMax-M3"
+}

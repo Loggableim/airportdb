@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SJN",
+    "icao": "KSJN",
+    "name": "St Johns Industrial Air Park",
+    "country": "United States",
+    "city": "St Johns",
+    "lat": 34.5186,
+    "lon": -109.379,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "St Johns Industrial Air Park (SJN/KSJN) is a small general aviation airport serving the town of St Johns in Apache County, northeastern Arizona. Situated at an elevation of approximately 5,800 feet, it primarily supports private aviation, agricultural operations, and occasional business flights to this rural high-desert community near the New Mexico border. The facility features a single paved runway and limited commercial infrastructure, making it a typical example of Arizona's small-town aviation gateways.",
+  "faqs": "Q: What type of airport is St Johns Industrial Air Park?\nA: It is a small general aviation airport primarily serving private pilots, agricultural aviation, and local business travel with no scheduled commercial service.\n\nQ: Are there fuel services available at SJN?\nA: Basic fuel services may be available, but pilots should confirm availability and operating hours with the airport manager before arrival, as services at small air parks can be limited or by appointment only.\n\nQ: What is the elevation of the airport?\nA: The airport sits at approximately 5,800 feet above sea level, which pilots should factor into aircraft performance calculations, especially during summer months when higher temperatures can reduce density altitude margins.\n\nQ: Does the airport have an instrument approach?\nA: Pilots should consult current FAA charts for approach information, as small airports may only offer visual or limited GPS-based approaches.",
+  "transport_tips": "Ground transportation options at SJN are limited, so arranging a rental car or coordinating a pickup in advance is strongly recommended. The airport is located just a few miles from downtown St Johns, making it a short drive by car or taxi if available. There is no regular public transit serving the airport, so visitors flying in should plan for private ground arrangements.",
+  "local_tip": "If you're flying in for outdoor recreation, the surrounding White Mountains region offers excellent hiking, fishing, and wildlife viewing, with Lyman Lake State Park and the Apache-Sitgreaves National Forest both within a reasonable drive of the airport.",
+  "generatedAt": "2026-06-27T01:47:21.787Z",
+  "model": "MiniMax-M3"
+}

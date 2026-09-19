@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LIN",
+    "icao": "LIML",
+    "name": "Milano Linate Airport",
+    "country": "Italy",
+    "city": "Segrate (MI)",
+    "lat": 45.4451,
+    "lon": 9.2767,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Milano Linate Airport (LIN/LIML) is Milan's city airport, situated in Segrate just 7 km east of the city center, making it the most convenient of Milan's three airports for accessing the Lombard capital. Originally opened in the 1930s and named after Italian aviation pioneer Enrico Forlanini, Linate primarily handles domestic flights plus short- and medium-haul European routes, serving as a key hub for ITA Airways. The airport has undergone major modernization, including a new terminal, expanded apron, and a dedicated metro connection that has transformed passenger access.",
+  "faqs": "Q: How far is Linate Airport from central Milan?\nA: Linate is approximately 7 km east of Milan's city center, making it the closest of Milan's three airports. The journey typically takes 20-30 minutes by car or bus.\n\nQ: Does Linate Airport have a metro station?\nA: Yes, the M4 Blue Line connects Linate Airport directly to central Milan, with the Linate Aeroporto station located adjacent to the terminal. The line links to San Babila in the city center.\n\nQ: Which airlines operate from Linate?\nA: Linate is a primary base for ITA Airways and is also served by major carriers including Lufthansa, Air France, British Airways, and easyJet, focusing on domestic and European routes.\n\nQ: Is Linate open 24 hours?\nA: No, Linate has operating hours restrictions and typically closes overnight, with limited overnight aircraft movements permitted under strict regulations.",
+  "transport_tips": "The M4 Blue Line metro is the most reliable and cost-effective option, reaching San Babila in central Milan in roughly 15 minutes. The Starfly and ATM 73 bus services also connect Linate to Milano Centrale railway station and the city center. Taxis to central Milan cost a fixed supplement fee and are metered for the journey.",
+  "local_tip": "Frequent travelers prefer the M4 metro over taxis during rush hour,",
+  "generatedAt": "2026-06-28T17:58:09.088Z",
+  "model": "MiniMax-M3"
+}

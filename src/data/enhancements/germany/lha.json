@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LHA",
+    "icao": "EDTL",
+    "name": "Lahr Airport",
+    "country": "Germany",
+    "city": "Lahr/Schwarzwald",
+    "lat": 48.3693,
+    "lon": 7.8277,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Lahr Airport serves the Black Forest region of southwestern Germany, situated between Freiburg and Strasbourg in the Upper Rhine Valley near the French border. The airfield originated as a military installation and was operated as Canadian Forces Base Lahr by NATO from 1967 until 1994, after which it transitioned to civilian use. Today it primarily handles general aviation, flight training, and charter flights, with a single main runway supporting regional air traffic.",
+  "faqs": "Q: What is the current status of Lahr Airport?\nA: It operates as a civilian regional airport handling general aviation, flight training, and occasional charter flights following its transition from a former NATO military base.\n\nQ: Are there scheduled commercial passenger flights at Lahr Airport?\nA: Scheduled commercial service is very limited. Travelers typically use this airport for general aviation or charter operations rather than regular airline routes.\n\nQ: Where is Lahr Airport located relative to major cities?\nA: It sits roughly midway between Freiburg to the south and Strasbourg to the northwest, making it a useful gateway for visitors to the Black Forest and the tri-border region.\n\nQ: Does the airport have its own military presence?\nA: No active military units are currently stationed at the airport, though the surrounding area retains aviation infrastructure from its former military past.",
+  "transport_tips": "The airport is reached by car via the A5 motorway, with the Lahr exit providing direct access in about 10 minutes. From Lahr town center, taxi services and rental cars are available, though there is no scheduled public transit directly serving the terminal. Visitors traveling onward to Strasbourg or Freiburg may find a rental car most convenient, as connections by public transit require multiple transfers.",
+  "local_tip": "Visit the old Canadian military housing area and chapel grounds just outside the airfield to see preserved Cold War-era relics and learn about the base's 27-year NATO history at the small on-site museum.",
+  "generatedAt": "2026-06-30T03:08:44.235Z",
+  "model": "MiniMax-M3"
+}

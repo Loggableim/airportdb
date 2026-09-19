@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UNA",
+    "icao": "SBTC",
+    "name": "Una-Comandatuba Airport",
+    "country": "Brazil",
+    "city": "Una",
+    "lat": -15.3544,
+    "lon": -38.9987,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Una-Comandatuba Airport serves the pristine Comandatuba Island, a luxury resort destination off the southern coast of Bahia, Brazil. The airport primarily caters to tourists visiting the renowned Transamerica Resort Comandatuba and other upscale properties on the island. Its remote coastal location and limited commercial service make it a gateway to some of Brazil's most exclusive beach getaways along the Atlantic rainforest coastline.",
+  "faqs": "Q: What is Una-Comandatuba Airport primarily used for?\nA: It mainly serves tourists visiting the luxury resorts on Comandatuba Island, with charter and seasonal scheduled flights connecting to major Brazilian cities.\n\nQ: Are there regular commercial flights to UNA?\nA: Scheduled service is limited and often seasonal; many visitors arrive via charter flights or by booking through resort packages that include air transfers.\n\nQ: How far is the airport from the main resort areas?\nA: The airport is located directly on Comandatuba Island, making transfers to local resorts quick, typically under 15 minutes.\n\nQ: Is the airport accessible to the general public?\nA: While technically public, access is practically oriented toward resort guests, and ground transportation is usually pre-arranged through accommodations.\n\n",
+  "transport_tips": "Most travelers arrange ground transport through their resort, as public options are scarce on the island. Pre-booked private transfers are the most reliable way to reach your hotel from the small terminal. If arriving by car, the nearest mainland access requires a ferry crossing from Una to the island.",
+  "local_tip": "Pack light and bring reef-safe sunscreen, as the surrounding coral reefs and mangrove ecosystems are protected, and guided eco-tours to nearby islands like Pedrão are best booked directly through your hotel concierge.",
+  "generatedAt": "2026-06-26T21:45:26.333Z",
+  "model": "MiniMax-M3"
+}

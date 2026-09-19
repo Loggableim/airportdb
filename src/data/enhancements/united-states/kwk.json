@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KWK",
+    "icao": "PAGG",
+    "name": "Kwigillingok Airport",
+    "country": "United States",
+    "city": "Kwigillingok",
+    "lat": 59.8765,
+    "lon": -163.169,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Kwigillingok Airport (KWK) is a small public-use airport serving the remote Yup'ik village of Kwigillingok in the Yukon-Kuskokwim Delta of western Alaska. The airport provides essential air access to a community that lacks road connections to the rest of the state, making it a vital lifeline for residents, mail delivery, and medical transport. It features a single gravel runway suited to the rugged subarctic environment of the Bering Sea coast.",
+  "faqs": "Q: What is Kwigillingok Airport primarily used for?\nA: The airport primarily serves the local Yup'ik community, providing passenger transport, mail delivery, and medical evacuation services since the village has no road access.\n\nQ: Are there scheduled commercial flights to KWK?\nA: Yes, regional carriers provide scheduled passenger service connecting Kwigillingok to Bethel and other hub communities in the region.\n\nQ: What facilities are available at the airport?\nA: As a small rural airport, Kwigillingok has basic infrastructure including a gravel runway and minimal terminal facilities. There are no large amenities typical of urban airports.\n\nQ: Is the airport open year-round?\nA: Yes, the airport operates throughout the year, though weather conditions in the delta can occasionally cause flight delays or cancellations, particularly during winter storms and summer fog.",
+  "transport_tips": "Getting to and from Kwigillingok Airport typically requires a short ride arranged locally, as there is no public transit in the village. Passengers should coordinate ground transportation with their host or lodge in advance, as taxi services are not formally established. Since the village has no road link to other communities, the airport is effectively the main gateway in and out.",
+  "local_tip": "Pack layers and expect variable weather even in summer—the coastal delta location means fog can roll in quickly, so building flexibility into your travel plans is essential for catching a flight out.",
+  "generatedAt": "2026-06-26T21:25:36.356Z",
+  "model": "MiniMax-M3"
+}

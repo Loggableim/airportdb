@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FAM",
+    "icao": "KFAM",
+    "name": "Farmington Regional Airport",
+    "country": "United States",
+    "city": "Farmington",
+    "lat": 37.7611,
+    "lon": -90.4286,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Farmington Regional Airport (FAM/KFAM) is a small public-use airport serving Farmington, Missouri, and the surrounding St. Francois County area in the eastern Ozarks region. It primarily accommodates general aviation traffic, private aircraft, and limited charter operations. The airport supports local business travel, recreational flying, and serves as a convenient gateway to the scenic mineral springs, state parks, and historic sites of southeastern Missouri.",
+  "faqs": "Q: What kind of aircraft does Farmington Regional Airport handle?\nA: The airport primarily serves general aviation, including single-engine and light twin-engine aircraft, with occasional charter and private jets.\n\nQ: Are there commercial airline flights at FAM?\nA: No scheduled commercial service operates from Farmington Regional Airport; it is used for private and general aviation purposes.\n\nQ: What facilities are available at the airport?\nA: The airport offers a terminal area, tie-down and hangar parking, fueling services, and basic pilot amenities typical of a regional general aviation facility.\n\nQ: Is the airport open to the public?\nA: Yes, Farmington Regional Airport is a public-use facility and welcomes visiting pilots and passengers, though it is unattended at times.",
+  "transport_tips": "The airport is located just a few miles southeast of downtown Farmington, with easy road access via local highways. Rental cars are limited, so arranging ground transportation in advance through a local rental agency or hotel shuttle is recommended. Visitors without a vehicle will likely need to rely on taxi services or pre-arranged rides from the Farmington area.",
+  "local_tip": "If you have downtime between flights, the nearby St. Joe State Park offers excellent off-road cycling trails on former mining land—it's a unique Ozarks experience you won't find near most other regional airports.",
+  "generatedAt": "2026-06-27T03:54:49.817Z",
+  "model": "MiniMax-M3"
+}

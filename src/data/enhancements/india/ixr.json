@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IXR",
+    "icao": "VERC",
+    "name": "Birsa Munda Airport",
+    "country": "India",
+    "city": "Ranchi",
+    "lat": 23.3143,
+    "lon": 85.3217,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Birsa Munda Airport serves Ranchi, the capital of Jharkhand state in eastern India, and is named after the legendary tribal freedom fighter Birsa Munda. Situated approximately 7 km from the city center, it functions as the primary aviation gateway for the Chota Nagpur Plateau region. The airport handles a growing mix of domestic flights connecting Ranchi to major Indian cities like Delhi, Mumbai, and Kolkata.",
+  "faqs": "Q: Which airlines operate from Birsa Munda Airport?\nA: Major carriers including IndiGo, Air India, SpiceJet, and Vistara operate regular domestic services to cities such as Delhi, Mumbai, Bengaluru, Hyderabad, and Kolkata.\n\nQ: How far is the airport from Ranchi city center?\nA: The airport is located about 7 km from central Ranchi, typically a 20-30 minute drive depending on traffic.\n\nQ: Does the airport have international flights?\nA: International connectivity is limited; most services are domestic, with occasional charter or regional international operations.\n\nQ: Are there facilities like lounges and food options?\nA: Yes, the terminal has basic amenities including a small food court, retail shops, and a paid lounge for passengers seeking more comfort.",
+  "transport_tips": "Pre-paid taxi counters and app-based ride services like Ola and Uber are available outside the terminal for travel into Ranchi. Auto-rickshaws are a budget-friendly option for short distances, though negotiating the fare in advance is recommended. The airport is well-connected by road via the National Highway, and parking is available for those arriving by private vehicle.",
+  "local_tip": "If you have a morning flight, consider staying at a hotel near the Main Road or Kanke Road area the night before—traffic in Ranchi can be unpredictable, especially during monsoons when waterlogging on city roads may add significant travel time to the airport.",
+  "generatedAt": "2026-06-29T11:01:32.049Z",
+  "model": "MiniMax-M3"
+}

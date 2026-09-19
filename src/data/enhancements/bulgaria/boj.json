@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BOJ",
+    "icao": "LBBG",
+    "name": "Burgas Airport",
+    "country": "Bulgaria",
+    "city": "Burgas",
+    "lat": 42.5699,
+    "lon": 27.5152,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Burgas Airport (BOJ) is Bulgaria's second-busiest airport and the primary international gateway to the country's southern Black Sea coast, serving major resort areas including Sunny Beach, Nessebar, and Sozopol. The airport experiences intense seasonal traffic, handling a high volume of charter and low-cost flights during the summer tourist season. It features a single modern terminal that has been expanded in recent years to accommodate growing passenger numbers.",
+  "faqs": "Q: How far is Burgas Airport from Sunny Beach resort?\nA: Sunny Beach is approximately 25-30 km north of the airport, typically a 30-45 minute drive depending on traffic.\n\nQ: Which airlines operate from Burgas Airport?\nA: The airport is served by a mix of low-cost carriers such as Wizz Air and Ryanair alongside numerous seasonal charter flights from UK, German, and Scandinavian tour operators.\n\nQ: Does Burgas Airport operate year-round?\nA: Yes, the airport operates year-round but with a significantly reduced schedule in winter months, as the vast majority of flights are seasonal summer services.\n\nQ: How long does it take to reach Nessebar from the airport?\nA: The historic town of Nessebar is about 20 km north and reachable in roughly 25-30 minutes by car or shuttle.",
+  "transport_tips": "Public bus line 15 connects the airport to Burgas city center and the central bus station, where you can transfer to coaches heading north toward Sunny Beach and Nessebar. Pre-booked private transfers and shared shuttles are widely available and recommended during peak season when taxi queues can be long. Renting a car at the airport is a convenient option for exploring the southern coast, with the E87 highway providing direct access to northern resorts.",
+  "local_tip": "If you have a long layover or early arrival, the nearby Atanasovsko Lake salt pans are a short drive away and offer excellent birdwatching opportunities, including flamingos in certain seasons—something most",
+  "generatedAt": "2026-06-28T17:05:40.861Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WLR",
+    "icao": "",
+    "name": "Loring Seaplane Base",
+    "country": "United States",
+    "city": "Loring",
+    "lat": 55.6013,
+    "lon": -131.637,
+    "type": "seaplane_base",
+    "size": 25
+  },
+  "summary": "Loring Seaplane Base (WLR) is a small floatplane facility serving the remote community of Loring on Revillagigedo Island in Southeast Alaska. Located within the Tongass National Forest, it provides essential access to a settlement that is otherwise reachable only by boat or air. The base primarily supports local transportation, mail delivery, and connections to nearby Ketchikan.",
+  "faqs": "Q: What is the main purpose of Loring Seaplane Base?\nA: The base primarily serves the small community of Loring, providing passenger, mail, and cargo transport via float-equipped aircraft, as the area lacks road access.\n\nQ: Are there scheduled commercial flights to Loring?\nA: Scheduled service is limited or nonexistent; most flights are charter operations arranged through regional carriers based in Ketchikan.\n\nQ: What aircraft typically use this seaplane base?\nA: Single-engine floatplanes such as the de Havilland Beaver and Cessna 206 are commonly used due to their ability to operate from the sheltered waters of Naha Bay.\n\nQ: What facilities are available at the seaplane base?\nA: Facilities are minimal, typical of remote Alaskan floatplane docks, with a small boarding area and tie-down space for visiting aircraft.",
+  "transport_tips": "Access to the seaplane base is typically by boat from Ketchikan, which is roughly 20 miles to the south. Visitors should coordinate charter flights in advance through Ketchikan-based operators. Weather in Southeast Alaska can change rapidly, so flexible scheduling is essential for both arrival and departure.",
+  "local_tip": "Arrange your return flight to Ketchikan early in the day to avoid afternoon weather systems that frequently roll in from the Pacific, and bring waterproof gear for the short boat transfer between the floatplane dock and shore.",
+  "generatedAt": "2026-06-28T13:00:52.305Z",
+  "model": "MiniMax-M3"
+}

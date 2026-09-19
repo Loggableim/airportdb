@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OME",
+    "icao": "PAOM",
+    "name": "Nome Airport",
+    "country": "United States",
+    "city": "Nome",
+    "lat": 64.5122,
+    "lon": -165.445,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Nome Airport (OME/PAOM) is a medium-sized regional airport serving Nome, Alaska, a historic city on the western coast of the Seward Peninsula overlooking the Bering Sea. Originally established to support gold rush-era transportation in the early 20th century, it remains a vital hub for the Bering Strait region, connecting remote villages across western Alaska. The airport handles commercial jet service, bush planes, and serves as a key gateway for travelers visiting Nome and the surrounding Arctic communities.",
+  "faqs": "Q: What airlines serve Nome Airport?\nA: Nome is primarily served by Alaska Airlines and Bering Air, with Alaska Airlines providing jet service to Anchorage and regional carriers offering flights to surrounding villages.\n\nQ: How far is the airport from Nome city center?\nA: Nome Airport is located approximately 2 miles west of the city center, making it a quick drive or taxi ride from downtown.\n\nQ: Does Nome Airport have an IFR tower?\nA: Yes, Nome Airport is a towered facility with both flight service station and air traffic control services available during operating hours.\n\nQ: Can I fly to remote villages from Nome?\nA: Yes, regional carriers like Bering Air, Ravn Alaska, and various bush plane operators offer scheduled and charter flights to nearby villages across the Seward Peninsula and Bering Strait region.",
+  "transport_tips": "Taxis and shuttle services are available outside the terminal for transport into Nome, though it's advisable to arrange pickup in advance during winter months when weather can delay ground travel. Rental cars are available at the airport and provide flexibility for exploring the Seward Peninsula. Walking into town is possible in summer but not recommended during winter due to extreme cold and limited road lighting.",
+  "local_tip": "If you're connecting through Nome, bring extra snacks and a good book—weather delays are common in this region, and the terminal can feel quiet during long layovers, especially in winter when flights may be rerouted due to blizzard conditions.",
+  "generatedAt": "2026-06-29T05:53:27.353Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FTY",
+    "icao": "KFTY",
+    "name": "Fulton County Airport Brown Field",
+    "country": "United States",
+    "city": "Atlanta",
+    "lat": 33.7791,
+    "lon": -84.5214,
+    "type": "medium_airport",
+    "size": 400
+  },
+  "summary": "Fulton County Airport Brown Field (KFTY) is a medium-sized general aviation reliever airport serving the Atlanta metropolitan area, located approximately 8 miles west of downtown Atlanta in unincorporated Fulton County, Georgia. Originally established in the 1940s, it functions as one of the busiest general aviation airports in Georgia, handling corporate jets, flight training, and private aircraft to relieve congestion at Hartsfield-Jackson Atlanta International Airport. The airport is well-known for its mix of flight schools, aviation businesses, and as a hub for corporate and recreational flying in the region.",
+  "faqs": "Q: What is Fulton County Airport primarily used for?\nA: It is a general aviation reliever airport, handling corporate jets, private aircraft, flight training, and aviation-related businesses rather than scheduled commercial airline service.\n\nQ: How far is Fulton County Airport from downtown Atlanta?\nA: The airport is located about 8 miles west of downtown Atlanta in unincorporated Fulton County, typically a 15-20 minute drive depending on traffic.\n\nQ: Does Fulton County Airport have scheduled commercial flights?\nA: No, the airport does not offer scheduled commercial passenger service. All commercial airline traffic in the Atlanta area is handled by Hartsfield-Jackson Atlanta International Airport (ATL).\n\nQ: What facilities and services are available at FTY?\nA: The airport hosts multiple FBOs (Fixed Base Operators), flight schools, aircraft maintenance providers, fuel services, and hangars. It also has customs clearance available for international general aviation arrivals.",
+  "transport_tips": "Reaching the airport by car is the most convenient option, with direct access from GA-14 Spur and proximity to I-285, though Atlanta-area traffic can be significant during rush hours. Rideshare services like Uber and Lyft are readily available for trips to and from the airport. Taxis can be arranged in advance, as they are less commonly hailed directly at this general aviation facility compared to commercial airports.",
+  "local_tip": "If visiting for a flight school tour or to pick up a student pilot, check the airport's AWOS frequency (119.475) ahead of time—Atlanta's variable weather and surrounding terrain can create different conditions on the field than what regional forecasts suggest.",
+  "generatedAt": "2026-06-30T00:51:53.643Z",
+  "model": "MiniMax-M3"
+}

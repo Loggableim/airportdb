@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NCU",
+    "icao": "UZNN",
+    "name": "Nukus International Airport",
+    "country": "Uzbekistan",
+    "city": "Nukus",
+    "lat": 42.4884,
+    "lon": 59.6233,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Nukus International Airport serves Nukus, the capital of the autonomous Republic of Karakalpakstan in northwestern Uzbekistan. Located near the shrinking Aral Sea region, it functions as the main aerial gateway for travelers visiting this remote and culturally distinct part of Uzbekistan, known for its unique Karakalpak heritage and the famous Savitsky Museum in Nukus. The airport handles domestic flights to Tashkent and select international routes connecting the region to neighboring countries.",
+  "faqs": "Q: What airlines operate from Nukus International Airport?\nA: Uzbekistan Airways is the primary carrier, offering regular flights to Tashkent and seasonal or scheduled services to other regional destinations.\n\nQ: How far is the airport from Nukus city center?\nA: The airport is located just a few kilometers from central Nukus, making it a short drive of approximately 10-15 minutes by car or taxi.\n\nQ: Is Nukus Airport international?\nA: Yes, it has international status and can handle cross-border flights, though most scheduled operations are domestic with occasional international services.\n\nQ: What facilities are available at the airport?\nA: The terminal offers basic amenities including a waiting area, check-in counters, and a small café, though services are more limited compared to major international hubs.",
+  "transport_tips": "Taxis and pre-arranged hotel transfers are the most common ways to reach the city center, as public transport options directly serving the airport are limited. Travelers arriving from Tashkent should confirm their flight schedule in advance, as Nukus flights can be subject to seasonal changes. Having local currency (Uzbekistani som) on hand is useful for paying taxi fares upon arrival.",
+  "local_tip": "If you have a layover or extra time, the Savitsky Museum in Nukus city is world-renowned for its banned Soviet-era art collection and is absolutely worth a visit—few tourists make it to this remote region, making it one of Central Asia's hidden cultural treasures.",
+  "generatedAt": "2026-06-28T23:55:07.478Z",
+  "model": "MiniMax-M3"
+}

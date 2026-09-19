@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AGB",
+    "icao": "EDMA",
+    "name": "Augsburg Airport",
+    "country": "Germany",
+    "city": "Augsburg",
+    "lat": 48.4253,
+    "lon": 10.9317,
+    "type": "medium_airport",
+    "size": 375
+  },
+  "summary": "Augsburg Airport (AGB/EDMA) is a regional airport located approximately 7 kilometers northeast of Augsburg city center in Bavaria, Germany. Originally established as a military airfield, it now primarily serves general aviation, business flights, flight training, and occasional charter operations. It is one of the few remaining operational airfields in the greater Munich area.",
+  "faqs": "Q: Does Augsburg Airport have scheduled commercial flights?\nA: No, the airport does not offer regular scheduled commercial service. It primarily handles general aviation, private jets, flight training, and occasional charter flights.\n\nQ: How far is Augsburg Airport from the city center?\nA: The airport is located about 7 km northeast of central Augsburg, typically a 15-20 minute drive by car.\n\nQ: What facilities are available at the airport?\nA: The airport features a terminal building, fuel services, aircraft maintenance facilities, flight schools, and hangar space for private and business aircraft.\n\nQ: Is there a control tower at Augsburg Airport?\nA: Yes, the airport is tower-controlled during operating hours, ensuring safe coordination of arriving and departing traffic.",
+  "transport_tips": "The most convenient way to reach Augsburg Airport is by car via the B2 federal road, with ample parking available near the terminal. Taxi services and ride-shares from Augsburg city center are readily available and typically cost around 20-30 euros. Public bus connections are limited, so arranging private transport in advance is recommended for time-sensitive travel.",
+  "local_tip": "If you have time before or after your flight, the airfield's edge offers a pleasant spot for plane spotting, especially during weekends when flight schools are most active and you can watch a variety of training aircraft taking off and landing.",
+  "generatedAt": "2026-06-30T01:28:51.721Z",
+  "model": "MiniMax-M3"
+}

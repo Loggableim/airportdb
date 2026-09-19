@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GWD",
+    "icao": "OPGW",
+    "name": "New Gwadar International Airport",
+    "country": "Pakistan",
+    "city": "Gurandani",
+    "lat": 25.2967,
+    "lon": 62.4988,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "New Gwadar International Airport (GWD/OPGW) is a large modern facility in coastal Balochistan, Pakistan, developed primarily to serve the strategic deep-water port of Gwadar and the broader China-Pakistan Economic Corridor (CPEC). It represents one of the largest aviation infrastructure investments in the region, designed to handle wide-body international flights and support the economic development of southwestern Pakistan. The airport sits in an arid coastal landscape near the Iran border, providing a vital air link to a previously underserved area.",
+  "faqs": "Q: What is New Gwadar International Airport primarily used for?\nA: It serves the Gwadar port region in Balochistan, supporting both passenger travel and the logistics needs tied to CPEC-related trade and development.\n\nQ: Which airlines operate at GWD?\nA: Scheduled commercial service is still developing, with Pakistan International Airlines historically providing connectivity; additional carriers are expected as international demand grows.\n\nQ: Is Gwadar airport open to international flights?\nA: It was constructed as a full international facility with customs and immigration capabilities, though international route availability has been limited by regional security conditions and demand.\n\nQ: How far is the airport from Gwadar city?\nA: The airport is located in Gurandani, situated a considerable distance from Gwadar city itself, requiring ground transport over local roads.",
+  "transport_tips": "Ground transportation options are limited; pre-arranging a private vehicle or hotel transfer is strongly recommended, as public transit and ride-hailing services are not reliably available. The drive from Gwadar city involves desert and coastal roads, so travel during daylight hours is advisable for safety. Visitors should carry sufficient fuel, water, and supplies, as services along the route are sparse.",
+  "local_tip": "If traveling to or from Gwadar city, request a local Baloch driver familiar with the area through your hotel or sponsor, as road checkpoints are common",
+  "generatedAt": "2026-06-29T01:04:26.402Z",
+  "model": "MiniMax-M3"
+}

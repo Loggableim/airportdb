@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ARR",
+    "icao": "SAVR",
+    "name": "D. Casimiro Szlapelis Airport",
+    "country": "Argentina",
+    "city": "Alto Rio Senguerr",
+    "lat": -45.0136,
+    "lon": -70.8122,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "D. Casimiro Szlapelis Airport (ARR) is a small airport serving Alto Río Senguer, a remote town in the Chubut Province of Argentine Patagonia. The airport provides essential connectivity to this isolated Patagonian community nestled near the Andes mountains and close to the Chilean border. It primarily handles general aviation and occasional charter flights serving the local population and visitors to the surrounding scenic region.",
+  "faqs": "Q: What is the IATA code for D. Casimiro Szlapelis Airport?\nA: The IATA code is ARR and the ICAO code is SAVR.\n\nQ: Where is Alto Río Senguer located?\nA: It is in the Chubut Province of southwestern Argentine Patagonia, near the Andes and the Chilean border.\n\nQ: Does the airport offer commercial scheduled flights?\nA: No, the airport is classified as a small facility serving primarily general aviation and charter operations.\n\nQ: What is the airport used for?\nA: It connects the remote Patagonian town to the national air network, supporting tourism, local travel, and occasional government and medical flights.\n\n",
+  "transport_tips": "Given the airport's remote Patagonian location, ground transportation options are limited; arranging a vehicle in advance through the town or your accommodation is recommended. The airport is situated a short drive from the center of Alto Río Senguer. Rental cars or pre-arranged transfers are the most reliable way to reach the airport, as taxi availability can be inconsistent.",
+  "local_tip": "Pack layered clothing year-round—Patagonian weather at this latitude can shift dramatically within hours, with strong winds being common even in summer due to the proximity of the Andes.",
+  "generatedAt": "2026-06-27T16:58:10.691Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RFR",
+    "icao": "MRRF",
+    "name": "Rio Frio / Progreso Airport",
+    "country": "Costa Rica",
+    "city": "Rio Frio / Progreso",
+    "lat": 10.3274,
+    "lon": -83.8876,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Rio Frio / Progreso Airport is a small airfield serving the rural northern Caribbean lowlands of Costa Rica, near the town of Rio Frio in the Heredia province region. The facility primarily supports general aviation, agricultural operations, and charter flights serving the surrounding farming communities and eco-tourism destinations. Its remote location makes it a convenient gateway for visitors exploring the nearby wetlands, rivers, and tropical forests close to the Nicaraguan border.",
+  "faqs": "Q: What type of airport is Rio Frio / Progreso Airport?\nA: It is a small regional airport primarily handling general aviation, private flights, and occasional charter services rather than scheduled commercial passenger service.\n\nQ: Are there scheduled flights to Rio Frio / Progreso Airport?\nA: No regular scheduled commercial routes operate here. Travelers typically reach the airport via private charters or general aviation from Costa Rica's main hubs.\n\nQ: Where is the airport located?\nA: It sits in the northern Caribbean lowlands near the border region with Nicaragua, close to the San Juan River basin and surrounding agricultural areas.\n\nQ: What is the airport best used for?\nA: It serves visitors heading to nearby eco-lodges, river lodges, and rural agricultural communities, as well as pilots accessing the region's tropical terrain.\n\n",
+  "transport_tips": "Ground transportation options are limited, so arranging a private vehicle, taxi, or pre-booked shuttle in advance is strongly recommended. The airport is accessible via local roads connecting to nearby towns, and driving times can be long due to rural routes. Rental car services are not typically available on-site, so coordinating transportation from San Jose or the nearest town before arrival is advisable.",
+  "local_tip": "Carry cash in small denominations, as nearby rural establishments and informal transport options often do not accept cards, and fuel stops can be sparse in this remote region.",
+  "generatedAt": "2026-06-28T06:13:12.818Z",
+  "model": "MiniMax-M3"
+}

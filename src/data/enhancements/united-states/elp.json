@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ELP",
+    "icao": "KELP",
+    "name": "El Paso International Airport",
+    "country": "United States",
+    "city": "El Paso",
+    "lat": 31.8099,
+    "lon": -106.3756,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "El Paso International Airport serves the bi-national El Paso-Juárez metropolitan area, one of the largest cross-border communities in North America, situated just six miles east of downtown El Paso, Texas. The airport operates as a key gateway between the United States and Mexico, supporting both civilian travel and regional commerce along the US-Mexico border. It features modernized terminal facilities and serves as a hub for several major US carriers.",
+  "faqs": "Q: How far is El Paso International Airport from downtown El Paso?\nA: The airport is approximately 6 miles east of downtown El Paso, typically a 15-20 minute drive depending on traffic.\n\nQ: Does the airport offer international flights to Mexico?\nA: While the airport primarily serves domestic routes, travelers can easily connect to Mexico via ground transportation to nearby border crossings like Bridge of the Americas.\n\nQ: What airlines operate from El Paso International Airport?\nA: Major carriers including Southwest, American, United, Delta, Frontier, and Alaska Airlines offer regular service to destinations across the US.\n\nQ: Is there a military presence at the airport?\nA: The airport is adjacent to Biggs Army Airfield, which supports Fort Bliss and military operations in the region.",
+  "transport_tips": "Taxis and rideshare services like Uber and Lyft are readily available at the terminal and offer quick access to downtown El Paso or across the border to Juárez. Rental car agencies are located on-site and provide convenient options for exploring West Texas, New Mexico, and northern Mexico. The airport is also served by Sun Metro bus routes for budget-conscious travelers heading into the city.",
+  "local_tip": "Time your flight connections carefully around border crossing traffic—rush hours at the Zaragoza and Bridge of the Americas ports can add significant delays if you're planning to cross into Juárez after landing.",
+  "generatedAt": "2026-06-28T18:11:20.568Z",
+  "model": "MiniMax-M3"
+}

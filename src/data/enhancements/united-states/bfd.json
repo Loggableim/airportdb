@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BFD",
+    "icao": "KBFD",
+    "name": "Bradford Regional Airport",
+    "country": "United States",
+    "city": "Bradford",
+    "lat": 41.8031,
+    "lon": -78.6401,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Bradford Regional Airport is a public-use airport located in McKean County, northwestern Pennsylvania, serving the city of Bradford and surrounding communities. The airport features a single main runway and has historically supported general aviation, air charter services, and occasional commercial flights to the region. It plays an important role in connecting the remote Allegheny Plateau area to broader aviation networks.",
+  "faqs": "Q: What is the main runway at Bradford Regional Airport?\nA: The airport features a primary asphalt runway designated 14/32, which accommodates most general aviation and regional aircraft.\n\nQ: Does Bradford Regional Airport offer commercial passenger service?\nA: Commercial service has been limited and intermittent; the airport primarily supports general aviation, charter flights, and corporate operations.\n\nQ: Are there fuel services available at BFD?\nA: Yes, the airport provides aviation fuel services for transient and based aircraft, typically including both AvGas and jet fuel.\n\nQ: What facilities are available for pilots and passengers?\nA: The airport has a terminal building, pilot amenities, and aircraft parking. Services may be limited, so contacting the airport in advance is recommended.\n\n",
+  "transport_tips": "The airport is located just south of Bradford along Route 219, making it easily accessible by car from the city center in about 10 minutes. Rental car services should be arranged in advance, as on-site availability may be limited. Visitors can also use local taxi services or pre-arranged shuttles from Bradford and nearby communities.",
+  "local_tip": "If visiting during winter months, check runway and road conditions in advance—the airport sits in the Allegheny highlands where snow and ice are common, and de-icing services should be confirmed before arrival.",
+  "generatedAt": "2026-06-29T06:47:12.649Z",
+  "model": "MiniMax-M3"
+}

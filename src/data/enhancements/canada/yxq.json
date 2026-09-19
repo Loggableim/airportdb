@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YXQ",
+    "icao": "CYXQ",
+    "name": "Beaver Creek Airport",
+    "country": "Canada",
+    "city": "Beaver Creek",
+    "lat": 62.4103,
+    "lon": -140.867,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Beaver Creek Airport (YXQ) is a small public airport serving the remote community of Beaver Creek in the Yukon Territory of northwestern Canada, situated near the Alaska border along the Alaska Highway. Despite its medium-airport classification, it primarily serves a tiny population in one of Canada's most isolated regions, providing a vital link for residents, travelers, and emergency services. The airport's location makes it a gateway for visitors exploring Kluane National Park and the surrounding wilderness.",
+  "faqs": "Q: What is Beaver Creek Airport used for?\nA: The airport primarily serves the small community of Beaver Creek and supports regional travel, charter flights, and emergency medical evacuations in this remote part of the Yukon.\n\nQ: Are there commercial flights to Beaver Creek Airport?\nA: Scheduled commercial service is limited; most flights are charter or bush plane operations connecting the community to larger hubs like Whitehorse.\n\nQ: Where is Beaver Creek Airport located?\nA: It is located in the western Yukon Territory in Canada, very close to the Alaska border and along the Alaska Highway.\n\nQ: What is there to do near Beaver Creek Airport?\nA: The area is popular for wildlife viewing, access to Kluane National Park, and as a stopover for travelers driving the Alaska Highway.",
+  "transport_tips": "The airport is just a short drive from the village of Beaver Creek, with the town center only minutes away. Most visitors arrive by car via the Alaska Highway, and rental vehicles or shuttle arrangements should be planned in advance given the remote location. Fuel and supplies are limited in the area, so travelers should stock up before arriving.",
+  "local_tip": "If you're flying in, keep in mind that weather in the Yukon can change rapidly; build flexibility into your travel plans and check forecasts, as flight delays are common during winter storms.",
+  "generatedAt": "2026-06-26T09:23:52.026Z",
+  "model": "MiniMax-M3"
+}

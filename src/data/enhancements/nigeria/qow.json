@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "QOW",
+    "icao": "DNIM",
+    "name": "Sam Mbakwe International Cargo Airport",
+    "country": "Nigeria",
+    "city": "Owerri",
+    "lat": 5.4271,
+    "lon": 7.206,
+    "type": "medium_airport",
+    "size": 550
+  },
+  "summary": "Sam Mbakwe International Cargo Airport (QOW/DNIM) serves Owerri, the capital of Imo State in southeastern Nigeria. Originally known as Owerri Airport, it was renamed in honor of Sam Mbakwe, a former civilian governor of Imo State who championed its development. The facility handles both scheduled passenger flights and cargo operations, serving as an important aviation gateway for the Igbo-speaking southeastern region.",
+  "faqs": "Q: How far is the airport from Owerri city center?\nA: The airport is located approximately 15-20 km southeast of Owerri's central business district, with typical travel times of 25-40 minutes depending on traffic.\n\nQ: Which airlines operate from Sam Mbakwe International Airport?\nA: The airport primarily serves domestic Nigerian carriers including Air Peace, Arik Air, and Dana Air, with flights to Lagos, Abuja, and Port Harcourt.\n\nQ: Does the airport have international flights?\nA: The airport has international-capable facilities but currently focuses mainly on domestic passenger traffic and cargo operations, despite its 'international' designation.\n\nQ: Is there a cargo terminal at the airport?\nA: Yes, the airport features dedicated cargo handling facilities consistent with its 'International Cargo Airport' designation, supporting trade in the southeastern region.",
+  "transport_tips": "Taxis and ride-hailing services are the most common ways to reach the airport from Owerri. Pre-arranging airport pickup through your hotel or a trusted local driver is recommended, as local taxi availability near the terminal can be inconsistent. Allow extra time during rainy season, as road conditions on the route to the airport can deteriorate significantly.",
+  "local_tip": "If you have a connecting flight, Owerri's airport is relatively compact with one terminal, so security and boarding processes typically go quickly. However, keep some local cash handy, as some vendors and ground transport services may not accept card payments.",
+  "generatedAt": "2026-06-29T17:54:59.711Z",
+  "model": "MiniMax-M3"
+}

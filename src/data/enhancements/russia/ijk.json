@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IJK",
+    "icao": "USII",
+    "name": "Izhevsk Airport",
+    "country": "Russia",
+    "city": "Izhevsk",
+    "lat": 56.8345,
+    "lon": 53.4622,
+    "type": "medium_airport",
+    "size": 550
+  },
+  "summary": "Izhevsk Airport (IJK) is a regional airport serving Izhevsk, the capital of Russia's Udmurt Republic, located approximately 15 km east of the city center. It functions as a medium-sized hub primarily handling domestic flights within Russia. The airport connects this industrially significant city, renowned for its defense and firearms manufacturing heritage, to major Russian destinations including Moscow and St. Petersburg.",
+  "faqs": "Q: How far is Izhevsk Airport from the city center?\nA: The airport is located roughly 15 km east of central Izhevsk, with a typical drive taking around 25-35 minutes depending on traffic conditions.\n\nQ: What are the main destinations served from IJK?\nA: Izhevsk Airport primarily offers domestic flights to major Russian cities, with Moscow being the most frequent route operated by multiple carriers.\n\nQ: Does the airport offer international flights?\nA: International services are limited; passengers typically connect through Moscow or other major hubs for international travel.\n\nQ: What facilities are available at the terminal?\nA: The terminal provides standard amenities including check-in counters, a small waiting area, basic refreshments, and car parking, though options are more limited than at larger Russian airports.",
+  "transport_tips": "The most convenient way to reach the airport is by taxi or pre-booked transfer, which typically costs around 400-600 rubles and takes 25-35 minutes from central Izhevsk. Marshrutka (fixed-route minibus) and bus services also connect the airport to the city, offering a budget-friendly alternative. During winter months, allow extra time for travel as snow can slow road conditions significantly.",
+  "local_tip": "If you have time before your flight, visit the Mikhail Kalashnikov Museum in central Izhevsk to learn about the city's famous firearms manufacturing heritage—the AK-47 and other world-renowned weapons were designed and produced here, and the museum offers surprising context about Izhevsk's role in 20th-century history.",
+  "generatedAt": "2026-06-29T17:38:41.344Z",
+  "model": "MiniMax-M3"
+}

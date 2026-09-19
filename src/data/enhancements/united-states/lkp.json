@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LKP",
+    "icao": "KLKP",
+    "name": "Lake Placid Airport",
+    "country": "United States",
+    "city": "Lake Placid",
+    "lat": 44.2645,
+    "lon": -73.9619,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lake Placid Airport is a small public-use general aviation facility serving the famous Olympic village of Lake Placid in New York's Adirondack Mountains. The airport provides convenient access to year-round recreation including skiing at Whiteface Mountain, Olympic training facilities, and the scenic High Peaks region. Its mountain valley location makes it a popular gateway for private and charter pilots visiting the resort community.",
+  "faqs": "Q: What type of aircraft can use Lake Placid Airport?\nA: The airport primarily serves small general aviation aircraft, private planes, and charter flights; it is not equipped for large commercial jets.\n\nQ: Are there scheduled commercial flights to Lake Placid?\nA: No, the airport does not offer scheduled commercial service; travelers typically fly in via private aircraft or arrange charter flights.\n\nQ: Does the airport offer fuel and other services?\nA: Yes, the airport provides basic general aviation services including fuel, parking, and tie-downs, though availability should be confirmed ahead of arrival.\n\nQ: Is the airport open year-round?\nA: Yes, but mountain weather can cause closures in winter; pilots should check current conditions before flying in.",
+  "transport_tips": "Rental cars are the most practical option for getting to and from Lake Placid Airport, as the airport is located a few miles outside the village center. Taxi services and pre-arranged shuttles can be requested, but rideshare availability is limited in this rural area. During winter months, plan for additional travel time due to potential snow and mountain road conditions.",
+  "local_tip": "If you're flying in during winter, request a spot near the heated hangar if available—Adirondack temperatures can drop well below zero, and a cold-soaked engine can make startup difficult the next morning.",
+  "generatedAt": "2026-06-27T01:11:35.741Z",
+  "model": "MiniMax-M3"
+}

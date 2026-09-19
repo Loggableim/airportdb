@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PUS",
+    "icao": "RKPK",
+    "name": "Gimhae International Airport",
+    "country": "South Korea",
+    "city": "Busan",
+    "lat": 35.1795,
+    "lon": 128.938,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Gimhae International Airport (PUS) is the primary air gateway to Busan, South Korea's second-largest city and largest port. Located in the neighboring city of Gimhae, about 15 km west of central Busan, it serves as the main hub for southeastern Korea and operates under a historical name referencing the ancient Gaya confederacy. The airport handles both domestic and international flights across a single integrated terminal complex.",
+  "faqs": "Q: How far is Gimhae International Airport from central Busan?\nA: The airport is approximately 15 km west of central Busan, typically a 30-45 minute drive depending on traffic.\n\nQ: Which airlines operate from Gimhae Airport?\nA: Korean Air, Air Busan, and Asiana Airlines all maintain hubs here, along with numerous international carriers serving routes across Asia and beyond.\n\nQ: Does the airport have a rail connection to Busan?\nA: Yes, the Busan-Gimhae Light Rail Transit connects the airport directly to the Busan Metro system, with a journey to central Busan taking around 45 minutes.\n\nQ: Is Gimhae Airport a 24-hour facility?\nA: The airport operates extended hours for international flights, but most services and shops follow scheduled flight timetables rather than round-the-clock availability.",
+  "transport_tips": "The Busan-Gimhae Light Rail Transit is the most reliable and affordable option, connecting directly to Sasang Station where you can transfer to Busan Metro Line 2. Limousine buses run frequently to major Busan districts and hotels, while taxis are readily available at clearly marked ranks outside the terminal. Allow extra time during rush hours, as the western Busan corridor can experience significant congestion.",
+  "local_tip": "The airport's domestic-to-international connections are unusually efficient here—if you're transferring from a domestic flight to an international departure, the walk between gates is short and security is typically quick, making Gimhae a smoother transit point than Incheon for travelers continuing within Korea.",
+  "generatedAt": "2026-06-28T16:46:04.345Z",
+  "model": "MiniMax-M3"
+}

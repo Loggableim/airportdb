@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TRY",
+    "icao": "HUTO",
+    "name": "Tororo Airport",
+    "country": "Uganda",
+    "city": "Tororo",
+    "lat": 0.683,
+    "lon": 34.167,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Tororo Airport (TRY/HUTO) is a small regional airfield serving the eastern Ugandan town of Tororo, located near the international border with Kenya. The airport primarily handles light aircraft and charter flights, supporting the agricultural and trade activities of the surrounding region. Its proximity to the iconic Tororo Rock, a prominent volcanic plug rising above the town, makes it a notable landmark for arriving visitors.",
+  "faqs": "Q: What type of flights operate from Tororo Airport?\nA: The airport mainly handles light aircraft, private charters, and occasional regional flights, as it is not served by major commercial airlines.\n\nQ: Does Tororo Airport have immigration facilities for international travelers?\nA: As a small domestic airfield, Tororo Airport typically does not offer full international customs and immigration services, so international travelers usually enter through Entebbe International Airport.\n\nQ: Are there scheduled passenger services to Tororo?\nA: Scheduled commercial service is limited; travelers should check with local operators for current flight availability or consider overland transport.\n\nQ: What facilities are available at the airport?\nA: The airport has basic terminal facilities and is suitable for general aviation operations rather than large-scale commercial travel.\n\n",
+  "transport_tips": "The airport is located just a few kilometers from Tororo town center, making taxi or motorcycle (boda-boda) rides the most common way to reach it. Travelers coming from Kenya can cross the border at Malaba, which is approximately 20 kilometers away. Road connections to Jinja and Kampala are available, though journey times can vary significantly based on road conditions.",
+  "local_tip": "If you have time before or after your flight, ask a local guide to take you to the base of Tororo Rock — the climb to the top rewards visitors with panoramic views of the surrounding plains and, on clear days, views extending toward Lake Victoria.",
+  "generatedAt": "2026-06-28T09:37:17.004Z",
+  "model": "MiniMax-M3"
+}

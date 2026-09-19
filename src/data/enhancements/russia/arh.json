@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ARH",
+    "icao": "ULAA",
+    "name": "Talagi Airport",
+    "country": "Russia",
+    "city": "Archangelsk",
+    "lat": 64.6003,
+    "lon": 40.7167,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Talagi Airport serves the historic port city of Archangelsk in northwestern Russia, situated on the eponymous island in the Northern Dvina River delta. The airport has notable historical significance, having served as a key transit point during World War II for Allied lend-lease aircraft arriving from the Western Arctic. Today, it functions as the main air gateway to the Arkhangelsk Oblast and handles flights primarily to Moscow, St. Petersburg, and other Russian destinations.",
+  "faqs": "Q: How far is Talagi Airport from central Archangelsk?\nA: The airport is approximately 11 km northeast of the city center, with a typical drive taking around 25-30 minutes depending on traffic and road conditions.\n\nQ: What are the main airlines operating from Talagi Airport?\nA: The airport is primarily served by Russian carriers including Aeroflot, Nordavia, S7 Airlines, and RusLine, offering regular domestic connections.\n\nQ: Does Talagi Airport have international flights?\nA: International service is limited; the airport primarily handles domestic flights, with most international travel routed through Moscow or St. Petersburg.\n\nQ: What facilities are available at the airport?\nA: The terminal offers basic amenities including cafes, a small duty-free area on international departures, currency exchange, and free Wi-Fi in passenger areas.\n\n",
+  "transport_tips": "Taxis and marshrutka (fixed-route minibuses) are the most common ways to reach the city; pre-booking a taxi through a local service or hotel is recommended, especially in winter. Public bus routes connect the airport to central Archangelsk and nearby Talagi village, though schedules can be infrequent. During winter months, allow extra travel time as snow and ice can significantly impact road conditions.",
+  "local_tip": "If you have a long layover or early morning arrival, the small cafeteria before security often serves hot tea and traditional Russian pirozhki (savory pastries) — a much warmer welcome than the usual airport coffee, especially during the freezing Arctic-influenced winters.",
+  "generatedAt": "2026-06-29T08:42:45.856Z",
+  "model": "MiniMax-M3"
+}

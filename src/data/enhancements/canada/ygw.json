@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YGW",
+    "icao": "CYGW",
+    "name": "Kuujjuarapik Airport",
+    "country": "Canada",
+    "city": "Kuujjuarapik",
+    "lat": 55.2819,
+    "lon": -77.7653,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kuujjuarapik Airport (YGW) serves the small dual community of Kuujjuarapik and Whapmagoostui on the eastern shore of Hudson Bay in northern Quebec. The airport is a vital lifeline for residents of this remote subarctic settlement, where road access is limited and air travel is the primary connection to southern Canada. It operates as a key hub for regional flights operated by carriers such as Air Inuit.",
+  "faqs": "Q: Where is Kuujjuarapik Airport located?\nA: The airport is situated near the village of Kuujjuarapik in Nunavik, northern Quebec, on the coast of Hudson Bay at the mouth of the Great Whale River.\n\nQ: Which airlines serve Kuujjuarapik Airport?\nA: Air Inuit is the primary carrier, providing scheduled flights connecting the community with Montreal and other northern Quebec destinations.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, it offers essential services including a terminal building, waiting area, and basic check-in facilities, typical of remote northern Canadian airports.\n\nQ: Is the airport used for charter and medical flights?\nA: Yes, in addition to scheduled service, the airport handles charter flights and is an important link for medical evacuations to larger medical centers.",
+  "transport_tips": "Ground transportation to and from the airport is limited; the airport is located a short distance from the village center, and visitors typically arrange pickup in advance with local accommodations or hosts. Taxi services are minimal or informal, so coordinating transport ahead of arrival is advisable. The community is not connected by road to southern Quebec, making air travel essentially the only practical way to reach Kuujjuarapik.",
+  "local_tip": "Weather in Hudson Bay can change rapidly and affect flights, so always build a buffer day or two into your travel schedule, especially during winter months when delays due to snow or low visibility are common.",
+  "generatedAt": "2026-06-29T09:21:15.379Z",
+  "model": "MiniMax-M3"
+}

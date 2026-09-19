@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KKP",
+    "icao": "YKLB",
+    "name": "Koolburra Airport",
+    "country": "Australia",
+    "city": "Koolburra",
+    "lat": -15.3189,
+    "lon": 143.955,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Koolburra Airport is a small community airstrip serving the remote Aboriginal community of Koolburra in Far North Queensland's Cape York Peninsula. Located in a sparsely populated tropical region, it primarily supports light aircraft operations, charter flights, and essential services such as medical evacuations and mail delivery. The airport provides a vital lifeline for residents of this isolated area, where road access can be challenging, especially during the wet season.",
+  "faqs": "Q: What is the airport code for Koolburra Airport?\nA: Koolburra Airport is designated KKP by IATA and YKLB by ICAO.\n\nQ: Where is Koolburra Airport located?\nA: It is situated in the Cape York Peninsula region of Far North Queensland, Australia, near the small community of Koolburra.\n\nQ: What type of aircraft use this airport?\nA: The airport primarily serves small single and twin-engine propeller aircraft, including those used for charter flights, aerial work, and medical transport.\n\nQ: Are there scheduled commercial flights to Koolburra?\nA: No scheduled commercial airline service operates to Koolburra; flights are typically charter or private operations arranged through regional operators.\n\n",
+  "transport_tips": "Access to Koolburra Airport is typically by private or chartered vehicle, as there is no public transport infrastructure serving the airstrip. Visitors should arrange ground transport in advance with the local community or charter operator. The road connecting to the airport may become impassable during the tropical wet season (approximately November to April), making air travel the most reliable option during that period.",
+  "local_tip": "Fly during the dry season (May to October) whenever possible, as tropical storms and flooding frequently disrupt operations and road access during the wet season months.",
+  "generatedAt": "2026-06-28T01:53:35.867Z",
+  "model": "MiniMax-M3"
+}

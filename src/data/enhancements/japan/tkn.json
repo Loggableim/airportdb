@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TKN",
+    "icao": "RJKN",
+    "name": "Tokunoshima Airport",
+    "country": "Japan",
+    "city": "Amagi",
+    "lat": 27.8364,
+    "lon": 128.8814,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tokunoshima Airport serves Amagi town on Tokunoshima, a subtropical island in the Amami archipelago of Kagoshima Prefecture, Japan. The airport provides essential air connectivity for residents and visitors traveling between the island and mainland cities like Kagoshima and Osaka. As a medium-sized regional facility, it plays a vital role in supporting the island's tourism, known for its sugar cane fields, bullfighting tradition, and pristine beaches.",
+  "faqs": "Q: Which airlines operate flights from Tokunoshima Airport?\nA: Japan Air Commuter (JAL group) is the primary carrier, offering routes to Kagoshima and Amami-Oshima, with seasonal or occasional services to other destinations.\n\nQ: How far is the airport from Amagi town center?\nA: The airport is located just a few kilometers from central Amagi, making it a quick 10-15 minute drive.\n\nQ: Are there car rental services at the airport?\nA: Yes, several rental car companies operate counters at or near the terminal, which is the most convenient way to explore the island.\n\nQ: Is the airport terminal open early for morning departures?\nA: The terminal opens approximately 1-1.5 hours before scheduled flights; travelers should check their airline's recommended check-in time.",
+  "transport_tips": "Rental cars are the most popular option and can be arranged in advance or at the terminal counters upon arrival. Limited local bus service connects the airport to Amagi town and other key island destinations, though schedules may not align well with flight arrivals. Taxis are available but limited, so booking in advance or pre-arranging transport is advisable during off-peak hours.",
+  "local_tip": "Rent a car early—Tokunoshima's main attractions like Cape Akirakannon and the bullfighting arena are spread across the island, and public transport between them is sparse. The island's scenic coastal drives are an underrated highlight of any visit.",
+  "generatedAt": "2026-06-29T14:45:22.207Z",
+  "model": "MiniMax-M3"
+}

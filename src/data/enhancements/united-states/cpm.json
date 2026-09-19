@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CPM",
+    "icao": "KCPM",
+    "name": "Compton Woodley Airport",
+    "country": "United States",
+    "city": "Compton",
+    "lat": 33.89,
+    "lon": -118.244,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Compton Woodley Airport is a small general aviation facility situated in the heart of the Los Angeles metropolitan area, serving as one of the few remaining public-use airports in densely populated Southern California. The airport primarily supports flight training, private aviation, and aircraft storage, offering pilots convenient access to the greater LA region. Its urban location makes it a notable example of a general aviation field operating within a major city environment.",
+  "faqs": "Q: What type of airport is Compton Woodley?\nA: It is a small, publicly owned general aviation airport serving private pilots, flight schools, and small aircraft operations rather than commercial airlines.\n\nQ: Does Compton Woodley Airport offer commercial flights?\nA: No, the airport does not have scheduled commercial airline service. It is used exclusively for general aviation purposes.\n\nQ: What activities are available at the airport?\nA: The airport supports flight training, aircraft rentals, fuel services, and hangar storage for private aircraft owners.\n\nQ: Where exactly is Compton Woodley located?\nA: The airport is in the city of Compton in Los Angeles County, California, just south of downtown Los Angeles near major regional freeways.",
+  "transport_tips": "The airport is easily accessed by car via nearby Interstate 105 (Century Freeway) and Interstate 110, making it convenient for visitors traveling from anywhere in the LA basin. Public transit options include nearby Metro bus routes, though a personal vehicle is recommended for ease of access. Ample free parking is typically available on-site for those visiting the airport.",
+  "local_tip": "If you're picking up or dropping off a pilot, arrive during daylight hours if possible—the airport has limited after-hours facilities and is surrounded by busy urban streets that are easier to navigate when visibility is good.",
+  "generatedAt": "2026-06-27T01:29:55.757Z",
+  "model": "MiniMax-M3"
+}

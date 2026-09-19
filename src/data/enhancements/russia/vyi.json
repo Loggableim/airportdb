@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VYI",
+    "icao": "UENW",
+    "name": "Vilyuisk Airport",
+    "country": "Russia",
+    "city": "Vilyuisk",
+    "lat": 63.7567,
+    "lon": 121.6933,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Vilyuisk Airport (VYI/UENW) is a medium-sized regional airport serving the town of Vilyuisk in the Sakha Republic (Yakutia) in eastern Siberia, Russia. It functions as a vital transport link for the remote Lena River basin community, providing scheduled passenger service primarily to Yakutsk. The airport operates under challenging subarctic conditions, with extreme winter temperatures that frequently influence flight schedules.",
+  "faqs": "Q: What is the main destination served from Vilyuisk Airport?\nA: The primary route connects Vilyuisk to Yakutsk, the capital of the Sakha Republic, with regional carrier Polar Airlines historically operating this service.\n\nQ: When is the best time to fly to Vilyuisk?\nA: Summer months from June to August offer the most reliable flying conditions, as winter temperatures can drop below -40°C, sometimes causing delays or cancellations.\n\nQ: Are there facilities at Vilyuisk Airport?\nA: The terminal provides basic passenger amenities typical of a regional Russian airport, including a small waiting area, but full-service facilities are limited.\n\nQ: Is Vilyuisk Airport open year-round?\nA: Yes, the airport operates throughout the year, though winter operations are subject to weather-related disruptions common to Siberian airfields.",
+  "transport_tips": "The airport is located just a few kilometers from the town center, making taxi or private car the most convenient transfer option, typically a 10-15 minute drive. Public transport options are limited, so arranging ground transport in advance is advisable, especially in winter when road conditions can be difficult. During the river navigation season, ferry services across the Vilyuy River offer an alternative route into town.",
+  "local_tip": "Always carry layered clothing even in summer, as temperatures can shift dramatically between the warm midday sun and chilly evenings, and the airport terminal may not be heated as comfortably as larger facilities.",
+  "generatedAt": "2026-06-30T00:30:37.471Z",
+  "model": "MiniMax-M3"
+}

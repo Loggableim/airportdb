@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SWF",
+    "icao": "KSWF",
+    "name": "New York Stewart International Airport",
+    "country": "United States",
+    "city": "Newburgh",
+    "lat": 41.5042,
+    "lon": -74.1089,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "New York Stewart International Airport (SWF) is located in Newburgh, New York, in the scenic Hudson Valley about 60 miles north of Manhattan. Originally established as a military airfield known as Stewart Air Force Base, it transitioned to civilian use and has been operated by the Port Authority of New York and New Jersey since 2007. The airport serves as a convenient alternative for travelers heading to the northern NYC metro area and the Catskills region, offering a less congested experience than the larger city airports.",
+  "faqs": "Q: How far is Stewart Airport from Manhattan?\nA: The airport is approximately 60 miles (95 km) north of New York City, with typical driving times of 90 to 120 minutes depending on traffic.\n\nQ: Does Stewart Airport offer international flights?\nA: Yes, SWF has customs and border protection facilities and handles select international flights, though its international service has varied over the years.\n\nQ: Why is it called Stewart Airport?\nA: The airport derives its name from its origins as Stewart Air Force Base, a military installation that operated until the late 20th century before being redeveloped for civilian aviation.\n\nQ: Who operates Stewart International Airport?\nA: The Port Authority of New York and New Jersey has operated the airport since 2007, following acquisition from the prior local authority.",
+  "transport_tips": "The Shortline Bus and Coach USA operate scheduled bus services connecting SWF to Manhattan's Port Authority Bus Terminal, which is often more affordable than a taxi. Rental cars are available onsite and are recommended for travelers heading to Hudson Valley, Catskills, or Connecticut destinations. Ride-share services like Uber and Lyft operate at the airport, though availability can be limited during off-peak hours.",
+  "local_tip": "If you have a long layover or early arrival, the Hudson Valley offers excellent day-trip options including Storm King Art Center, West Point, and the Walkway Over the Hudson State Park in Poughkeepsie, all within an hour's drive.",
+  "generatedAt": "2026-06-29T02:13:20.043Z",
+  "model": "MiniMax-M3"
+}

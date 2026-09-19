@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IGO",
+    "icao": "SKIG",
+    "name": "Jaime Ortiz Betancourt Airport",
+    "country": "Colombia",
+    "city": "Chigorodó",
+    "lat": 7.6776,
+    "lon": -76.6832,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Jaime Ortiz Betancourt Airport serves the municipality of Chigorodó in Colombia's Urabá region of Antioquia Department. As a small regional airfield, it primarily handles domestic flights and supports connectivity to this important agricultural area known for banana and plantain production. The airport plays a key role in linking remote Urabá communities to larger Colombian cities.",
+  "faqs": "Q: What is the IATA code for Jaime Ortiz Betancourt Airport?\nA: The IATA code is IGO, and the ICAO code is SKIG.\n\nQ: Where is the airport located?\nA: It is situated near Chigorodó, in the Antioquia Department of Colombia, in the northwestern Urabá subregion.\n\nQ: What type of flights does the airport handle?\nA: It primarily serves small commercial domestic flights and general aviation, connecting the region to other Colombian cities.\n\nQ: Is the airport suitable for international flights?\nA: No, it is a small regional airport without the infrastructure required for international operations.",
+  "transport_tips": "Ground transportation to and from the airport is typically arranged by taxi or private vehicle, as public transit options are limited in this rural area. The airport is located a short distance from Chigorodó's town center, making transfers relatively quick. Travelers heading to nearby municipalities like Turbo or Apartadó should arrange transport in advance, as services may be infrequent.",
+  "local_tip": "Frequent visitors recommend keeping some cash on hand for taxis and local transport, as card payment infrastructure can be unreliable in Chigorodó. Mosquito repellent is also advisable, given the region's tropical climate and proximity to rainforest areas.",
+  "generatedAt": "2026-06-27T20:13:13.296Z",
+  "model": "MiniMax-M3"
+}

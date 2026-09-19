@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OKP",
+    "icao": "AYOJ",
+    "name": "Oksapmin Airport",
+    "country": "Papua New Guinea",
+    "city": "Oksapmin",
+    "lat": -5.2261,
+    "lon": 142.2259,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Oksapmin Airport (OKP/AYOJ) is a remote highland airstrip serving the small town of Oksapmin in Papua New Guinea's Sandaun Province. Nestled in the rugged Star Mountains, it functions as a critical transport lifeline for isolated mountain communities that rely on air travel due to the absence of road infrastructure. The small airport primarily handles light aircraft operated by mission and charter services connecting to larger hubs like Mount Hagen.",
+  "faqs": "Q: Are there scheduled commercial flights to Oksapmin Airport?\nA: There are no major commercial airline routes; flights are typically operated by mission aviation services such as MAF or charter operators on an as-needed basis.\n\nQ: Does Oksapmin Airport have a terminal building?\nA: No formal terminal exists; the airstrip features a basic grass or short paved runway with minimal infrastructure typical of remote PNG highlands strips.\n\nQ: What is the runway length and what aircraft can land?\nA: The short runway is suitable only for small STOL (Short Takeoff and Landing) aircraft like the Cessna Caravan or Britten-Norman Islander.\n\nQ: Is the airport usable in all weather conditions?\nA: Operations are frequently affected by mountain weather, particularly fog and rain, and flights may be delayed or cancelled during poor conditions.",
+  "transport_tips": "There are no public transport links from the airport; travellers should arrange pickup in advance with a local contact or mission station. The airstrip is a short walk from Oksapmin town, but the surrounding terrain is steep and mountainous, requiring sturdy footwear. Luggage porters are often available at the strip to help carry goods to and from the village.",
+  "local_tip": "Carry small kina notes for porter fees and any informal landing or departure charges, and always build at least a one-day buffer into your travel schedule as weather delays at this remote strip are very common.",
+  "generatedAt": "2026-06-28T05:04:31.714Z",
+  "model": "MiniMax-M3"
+}

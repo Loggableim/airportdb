@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JTI",
+    "icao": "SWJW",
+    "name": "Jataí Airport",
+    "country": "Brazil",
+    "city": "Jataí",
+    "lat": -17.8299,
+    "lon": -51.773,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Jataí Airport is a small regional airfield serving the municipality of Jataí in the southwestern part of Goiás state, Brazil. The airport supports the region's strong agricultural economy, particularly soybean and corn production, and handles general aviation and limited commercial traffic. Its location in the interior Cerrado biome makes it a key access point for agribusiness operations and rural travelers.",
+  "faqs": "Q: What is the IATA code for Jataí Airport?\nA: The IATA code is JTI, and its ICAO code is SWJW.\n\nQ: Are there commercial flights to Jataí?\nA: Scheduled commercial service is very limited; most operations are general aviation and charter flights connected to agribusiness.\n\nQ: Where is Jataí located?\nA: Jataí is in the state of Goiás in central-western Brazil, near the border with Mato Grosso do Sul.\n\nQ: Does the airport operate at night?\nA: As a small regional airport, operations are primarily during daylight hours, and facilities are modest.\n\n",
+  "transport_tips": "The airport is located just a few kilometers from Jataí's city center, making taxi or rideshare rides quick and affordable. Rental cars can be arranged in advance for traveling to nearby farms and ranches throughout the region. There is no rail or metro service, so road transport is the only option for onward travel.",
+  "local_tip": "If visiting during the soybean harvest season (roughly February to May), book accommodations and ground transport well in advance, as the town fills up with agricultural workers and freight operators.",
+  "generatedAt": "2026-06-27T06:12:28.366Z",
+  "model": "MiniMax-M3"
+}

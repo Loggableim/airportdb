@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ESR",
+    "icao": "SCES",
+    "name": "Ricardo García Posada Airport",
+    "country": "Chile",
+    "city": "El Salvador",
+    "lat": -26.3111,
+    "lon": -69.7652,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ricardo García Posada Airport (ESR) is a medium-sized airport serving El Salvador, a small mining community in Chile's hyper-arid Atacama Region. Situated at high altitude in the Andes foothills, the facility primarily supports the regional copper and gold mining industry, with limited scheduled commercial traffic. It functions as a vital link for workers traveling to nearby operations such as the former Potrerillos copper mine.",
+  "faqs": "Q: What is the elevation of Ricardo García Posada Airport?\nA: The airport sits at a high altitude in the Atacama Desert, approximately 1,500 meters (about 4,920 feet) above sea level in the Andean foothills.\n\nQ: Does ESR have scheduled passenger flights?\nA: Scheduled commercial service is very limited; the airport primarily handles charter and mining-industry flights rather than regular airline routes.\n\nQ: What is El Salvador, Chile known for?\nA: El Salvador is a historic copper mining town in the Atacama Region, home to the long-running Potrerillos mine operated by Codelco. The area is also near the La Coipa gold mine.\n\nQ: Are there customs and immigration facilities at the airport?\nA: As a domestic-oriented field with minimal international traffic, formal immigration processing is generally not available; travelers should verify requirements before transit.",
+  "transport_tips": "Ground transportation is limited, so pre-arranging a vehicle through your hotel or mining contact is strongly recommended. Local taxis serve the airport but availability can be inconsistent, especially outside scheduled charter arrivals. Rental cars are uncommon in El Salvador, so most visitors rely on company or hotel transport for the drive into town or to remote mine sites.",
+  "local_tip": "Pack strong sun protection—even at this elevation, the dry Atacama air delivers intense UV exposure year-round, and temperatures swing dramatically between sun-warmed afternoons and cold, clear nights.",
+  "generatedAt": "2026-06-29T15:02:15.157Z",
+  "model": "MiniMax-M3"
+}

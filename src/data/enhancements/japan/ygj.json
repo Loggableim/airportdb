@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YGJ",
+    "icao": "RJOH",
+    "name": "Yonago Kitaro Airport / JASDF Miho Air Base",
+    "country": "Japan",
+    "city": "Yonago",
+    "lat": 35.4922,
+    "lon": 133.236,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Yonago Kitaro Airport is a shared civil-military facility in Tottori Prefecture, Japan, co-located with the Japan Air Self-Defense Force's Miho Air Base. The airport is named after Kitaro, the yokai character from the famous manga 'GeGeGe no Kitaro' by Shigeru Mizuki, whose hometown of Sakaiminato is nearby. It serves as a key gateway to the San'in coastal region and offers themed decor inspired by the manga throughout the terminal.",
+  "faqs": "Q: How far is the airport from central Yonago?\nA: Yonago city center is approximately 15 km away, with bus and taxi services connecting the airport to the city and Sakaiminato.\n\nQ: Why is the airport named after Kitaro?\nA: The airport is named after the manga character Kitaro from 'GeGeGe no Kitaro' by Shigeru Mizuki, honoring the author's nearby hometown of Sakaiminato.\n\nQ: Can civilians access the military base area?\nA: No, the JASDF Miho Air Base portion is restricted to authorized military personnel; civilian operations are confined to the separate airport terminal.\n\nQ: What airlines operate at Yonago Kitaro Airport?\nA: The airport primarily serves domestic flights connecting to Tokyo Haneda and other major Japanese cities.\n\n",
+  "transport_tips": "Airport buses run regularly between the terminal and Yonago Station, taking roughly 25 minutes. Taxis are available outside the terminal and are a good option for reaching Sakaiminato or nearby coastal destinations. Rental car services are also offered at the airport for travelers exploring the wider San'in region.",
+  "local_tip": "Visit Sakaiminato's Mizuki Shigeru Road, just a short drive from the airport, where over 100 bronze yokai statues line the street and the airport's namesake manga character comes vividly to life.",
+  "generatedAt": "2026-06-29T13:20:16.292Z",
+  "model": "MiniMax-M3"
+}

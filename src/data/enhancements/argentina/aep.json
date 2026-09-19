@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AEP",
+    "icao": "SABE",
+    "name": "Aeroparque Jorge Newbery",
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "lat": -34.5594,
+    "lon": -58.4155,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Aeroparque Jorge Newbery is Buenos Aires's main domestic airport, located just 2 km from the city's downtown along the Río de la Plata. Originally opened in 1947 on landfill reclaimed from the river, it serves as the primary hub for domestic flights and some regional routes to neighboring countries. Its unique urban waterfront location offers passengers spectacular views of the city skyline and river on approach and departure.",
+  "faqs": "Q: How far is Aeroparque from central Buenos Aires?\nA: The airport is approximately 2 km from downtown Buenos Aires, making it one of the closest major airports to any capital city center in the world.\n\nQ: Does Aeroparque handle international flights?\nA: Yes, it handles regional international flights primarily to Uruguay, Brazil, Chile, Paraguay, and Bolivia, while most long-haul international flights operate from Ezeiza International Airport.\n\nQ: What terminal facilities are available at AEP?\nA: The airport has a single main terminal building with domestic and regional sections, offering typical amenities including restaurants, duty-free shops, car rental services, and lounges.\n\nQ: Is there a public transport connection to the city?\nA: Yes, the airport is accessible by city buses and is also connected via a short taxi or rideshare ride to nearby subway stations.",
+  "transport_tips": "Taxis and rideshares are readily available outside the terminal and can reach most central Buenos Aires neighborhoods in under 20 minutes depending on traffic. The Manuel Tienda León shuttle service offers transfers to Ezeiza International Airport for connecting passengers. During rush hours, allow extra time as traffic in central Buenos Aires can be unpredictable.",
+  "local_tip": "If you have a short layover or a few hours to spare, take a taxi to the nearby Costanera Norte waterfront promenade for a quick walk with views of the river and the distinctive Buenos Aires skyline, just minutes from the terminal.",
+  "generatedAt": "2026-06-28T17:22:32.808Z",
+  "model": "MiniMax-M3"
+}

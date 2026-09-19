@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GMQ",
+    "icao": "ZLGL",
+    "name": "Golog Maqên Airport",
+    "country": "China",
+    "city": "Golog (Maqên)",
+    "lat": 34.4181,
+    "lon": 100.3011,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Golog Maqên Airport (GMQ) is a regional airport serving Golog Tibetan Autonomous Prefecture in the highlands of Qinghai Province, China. Situated on the eastern edge of the Tibetan Plateau at a high elevation, it provides vital air access to one of China's most remote and sparsely populated regions. The airport supports both civilian transport and connects the area's Tibetan communities to larger hubs such as Xining and other major cities.",
+  "faqs": "Q: Where is Golog Maqên Airport located?\nA: It is located in Maqên County, within Golog Tibetan Autonomous Prefecture, Qinghai Province, in western China.\n\nQ: How high is the airport?\nA: The airport sits at a high elevation on the Tibetan Plateau, typically around 3,700 meters above sea level, which can affect some passengers.\n\nQ: Which airlines operate from Golog Maqên Airport?\nA: The airport is primarily served by regional Chinese carriers operating short-haul flights to and from Qinghai and other nearby provinces.\n\nQ: Can the airport handle large international aircraft?\nA: As a medium-sized regional facility with a single runway, it primarily handles smaller turboprop and narrow-body jets suited to high-altitude operations.\n",
+  "transport_tips": "Getting to and from the airport typically requires a pre-arranged vehicle, as public transit options in the region are limited. Taxis and hotel shuttles are the most common ways to reach Maqên town or nearby county centers. Travelers should plan ground transport in advance, especially given the remote setting and limited road infrastructure.",
+  "local_tip": "Allow extra time on the day of your flight and stay well-hydrated, as the high-altitude environment can make even short walks more tiring than usual.",
+  "generatedAt": "2026-06-29T22:30:22.098Z",
+  "model": "MiniMax-M3"
+}

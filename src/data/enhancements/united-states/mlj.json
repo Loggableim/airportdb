@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLJ",
+    "icao": "KMLJ",
+    "name": "Baldwin County Regional Airport",
+    "country": "United States",
+    "city": "Milledgeville",
+    "lat": 33.1542,
+    "lon": -83.2407,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Baldwin County Regional Airport is a small general aviation facility serving Milledgeville, Georgia, a historic city that served as Georgia's state capital from 1804 to 1868. The airport primarily supports private pilots, flight training, and recreational flying for the local community, including nearby Georgia College & State University. Its location in central Georgia makes it a convenient gateway for visitors exploring the region's antebellum heritage and Oconee River attractions.",
+  "faqs": "Q: What types of flights operate from Baldwin County Regional Airport?\nA: The airport primarily serves general aviation, including private aircraft, flight training, and occasional charter operations. There are no scheduled commercial airline services.\n\nQ: Is there an air traffic control tower at MLJ?\nA: No, MLJ is an uncontrolled airport. Pilots communicate on the common CTAF frequency to coordinate arrivals and departures.\n\nQ: How far is the airport from downtown Milledgeville?\nA: The airport is located a short drive from central Milledgeville, making it convenient for visitors heading to Georgia College & State University or the historic downtown district.\n\nQ: Are there fuel services available at the airport?\nA: Yes, the airport typically offers fuel services for general aviation aircraft, though hours may vary by operator.\n\n",
+  "transport_tips": "Renting a car in advance is the most practical option, as there is no public transit serving the airport. Taxi services and ride-shares from Milledgeville can be arranged but should be scheduled ahead of time. The short drive into downtown Milledgeville takes only a few minutes via local roads.",
+  "local_tip": "Visit the Old Governor's Mansion, Georgia's oldest governor's residence and one of the few original antebellum governor's mansions still standing in the South—it's a must-see that most tourists overlook when passing through Milledgeville.",
+  "generatedAt": "2026-06-27T02:05:57.799Z",
+  "model": "MiniMax-M3"
+}

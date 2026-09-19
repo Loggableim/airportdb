@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LED",
+    "icao": "ULLI",
+    "name": "Pulkovo Airport",
+    "country": "Russia",
+    "city": "St. Petersburg",
+    "lat": 59.8003,
+    "lon": 30.2625,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "Pulkovo Airport (LED) is the main international gateway to St. Petersburg, Russia, located approximately 23 km south of the city center near the Pulkovo Heights. Originally established in 1932, it was substantially rebuilt between 2008 and 2014 into a modern terminal complex serving millions of passengers annually. The airport serves as a major hub for Rossiya Airlines and offers connections across Russia, Europe, the Middle East, and Asia.",
+  "faqs": "Q: How far is Pulkovo Airport from central St. Petersburg?\nA: The airport is approximately 23 km (14 miles) south of the city center, with typical travel times of 30-60 minutes depending on traffic.\n\nQ: Does Pulkovo Airport have direct public transport to the city?\nA: Yes, city buses and marshrutka (minibus) routes connect the airport to Moskovskaya metro station, which provides access to the rest of St. Petersburg.\n\nQ: Are there facilities for overnight stays at the airport?\nA: The airport operates 24 hours a day, and there are nearby hotels including a capsule hotel and several options within a short shuttle ride.\n\nQ: Is there a train connection to Pulkovo Airport?\nA: A rail link has been planned and discussed for years; as of recent years, passengers rely primarily on buses, taxis, and ride-hailing services.",
+  "transport_tips": "The most economical option is the city bus or marshrutka to Moskovskaya metro station, which connects to Line 2 of the St. Petersburg Metro. Official taxis and ride-hailing apps like Yandex Go offer fixed or metered fares and are recommended over unofficial drivers. Allow extra time during rush hours and winter weather, as the route to the city can experience significant delays.",
+  "local_tip": "If you have a long layover or a few hours to spare, head to the observation deck or a window seat in the terminal—on clear days you can see the domes of St. Petersburg's historic skyline in the distance, giving you a preview of the city's famous architecture before you even land in the center.",
+  "generatedAt": "2026-06-28T16:48:37.725Z",
+  "model": "MiniMax-M3"
+}

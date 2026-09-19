@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RER",
+    "icao": "MGRT",
+    "name": "Retalhuleu Airport",
+    "country": "Guatemala",
+    "city": "Retalhuleu",
+    "lat": 14.5214,
+    "lon": -91.697,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Retalhuleu Airport serves the southwestern Guatemalan department of Retalhuleu, situated in the warm Pacific lowlands known for sugar cane agriculture and proximity to popular tourist destinations. The airport primarily handles general aviation, charter flights, and occasional domestic services, functioning as a gateway to nearby attractions such as the IRTRA amusement parks and Takalik Abaj archaeological site.",
+  "faqs": "Q: What is Retalhuleu Airport primarily used for?\nA: Retalhuleu Airport mainly serves general aviation, private charters, and occasional domestic flights, with limited scheduled commercial service.\n\nQ: How far is the airport from Retalhuleu city center?\nA: The airport is located only a few kilometers south of downtown Retalhuleu, making it a quick drive from the city.\n\nQ: Are there attractions near the airport?\nA: Yes, the famous IRTRA theme parks (Xetulul and Xocomil), the Takalik Abaj Mayan ruins, and the Pacific beach town of Champerico are all within reasonable driving distance.\n\nQ: Does the airport have customs and immigration facilities?\nA: The airport has limited international handling capability and is best suited for flights within Central America or private international arrivals with prior arrangement.\n\n",
+  "transport_tips": "Private taxis and pre-arranged hotel transfers are the most reliable way to reach the airport, as public transportation options are limited. The airport lies just off the main highway connecting Retalhuleu to the Pacific coast, making it easily accessible by car. Renting a vehicle in advance is recommended for visitors planning to explore nearby attractions like the IRTRA parks or Champerico beach.",
+  "local_tip": "Coordinate your arrival or departure with a visit to Takalik Abaj, one of Guatemala's oldest and most important Olmec-Maya archaeological sites, located just minutes from the airport and often overlooked by tourists heading to the more famous Tikal.",
+  "generatedAt": "2026-06-29T21:41:55.740Z",
+  "model": "MiniMax-M3"
+}

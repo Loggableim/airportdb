@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IXJ",
+    "icao": "VIJU",
+    "name": "Jammu Airport",
+    "country": "India",
+    "city": "Jammu",
+    "lat": 32.6888,
+    "lon": 74.8382,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Jammu Airport (IXJ) is a domestic airport serving Jammu, the winter capital of the Jammu and Kashmir union territory in northern India. Located approximately 8 km southwest of the city center, it serves as the primary air gateway for the region and handles significant pilgrimage traffic heading to the Vaishno Devi shrine. The airport supports both civilian flights and limited military operations, reflecting its strategic location near the India-Pakistan border.",
+  "faqs": "Q: Which airlines operate from Jammu Airport?\nA: Several domestic carriers including IndiGo, SpiceJet, Air India, and Air India Express operate regular flights connecting Jammu to major Indian cities like Delhi, Mumbai, Srinagar, and Bengaluru.\n\nQ: How far is Jammu Airport from the city center?\nA: The airport is located approximately 8 km from central Jammu, with a typical drive taking around 20-30 minutes depending on traffic conditions.\n\nQ: Does Jammu Airport operate international flights?\nA: Jammu Airport primarily handles domestic flights. The nearest major international gateway is Indira Gandhi International Airport in Delhi, about 600 km away.\n\nQ: Is the airport close to Vaishno Devi?\nA: The Vaishno Devi shrine is roughly 45-50 km from Jammu Airport, with Katra (the base town) accessible by road in about 1.5-2 hours.",
+  "transport_tips": "Pre-paid taxi counters and app-based cab services like Ola are available outside the terminal for the short trip into Jammu city. Shared taxis and state transport buses also serve the airport route, offering budget-friendly options. During winter months, fog can occasionally affect flight schedules, so build in buffer time for onward connections.",
+  "local_tip": "If visiting the Vaishno Devi shrine, arrange a helicopter booking directly from Jammu or Katra in advance through the official Shrine Board website to avoid long queues, and start early morning to avoid heavy daytime crowds at the temple.",
+  "generatedAt": "2026-06-29T10:42:52.311Z",
+  "model": "MiniMax-M3"
+}

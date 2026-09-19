@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SAP",
+    "icao": "MHLM",
+    "name": "Ramón Villeda Morales International Airport",
+    "country": "Honduras",
+    "city": "San Pedro Sula",
+    "lat": 15.4526,
+    "lon": -87.9236,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Ramón Villeda Morales International Airport (SAP) is the primary international gateway serving San Pedro Sula, the industrial and commercial capital of Honduras. Named after the Honduran president who served from 1957 to 1963, it is the country's second-busiest airport after Toncontín in Tegucigalpa. The airport connects the Sula Valley region with destinations across the Americas and handles significant cargo traffic supporting Honduras's maquila industry.",
+  "faqs": "Q: How far is the airport from San Pedro Sula city center?\nA: The airport is located approximately 15 km (9 miles) east of downtown San Pedro Sula, typically a 20–30 minute drive depending on traffic.\n\nQ: Which airlines operate at Ramón Villeda Morales International Airport?\nA: Major carriers serving the airport include American Airlines, Copa Airlines, Delta, Spirit, United, Avianca, and several Central American regional airlines.\n\nQ: Does the airport have international and domestic terminals?\nA: Yes, the airport has separate terminal facilities for domestic and international flights, both within a single main terminal complex.\n\nQ: Is the airport open 24 hours?\nA: The airport generally operates from early morning until late evening, with limited or no services during overnight hours.",
+  "transport_tips": "Taxis and authorized shuttle services are readily available outside the terminal and offer fixed rates to San Pedro Sula. Ride-hailing apps like Uber operate in the area but availability can vary. Rental car agencies have counters in the arrivals hall, useful for travelers heading to nearby industrial parks or the Bay Islands connections via La Ceiba.",
+  "local_tip": "The airport sits in a hot, humid lowland region, so dress in light layers and bring water — even short walks from the terminal to parking areas can be uncomfortable during midday heat. Arrive at least 2 hours before international flights, as security and check-in lines can be unpredictable.",
+  "generatedAt": "2026-06-28T19:56:48.634Z",
+  "model": "MiniMax-M3"
+}

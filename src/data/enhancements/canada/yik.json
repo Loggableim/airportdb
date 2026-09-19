@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YIK",
+    "icao": "CYIK",
+    "name": "Ivujivik Airport",
+    "country": "Canada",
+    "city": "Ivujivik",
+    "lat": 62.4173,
+    "lon": -77.9253,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Ivujivik Airport (YIK) is a small regional airport serving the remote Inuit community of Ivujivik in Nunavik, northern Quebec. It is one of the northernmost communities in Quebec and provides a vital transportation link for residents who rely on air service for travel, supplies, and medical evacuations. The airport operates as a key gateway connecting this Arctic hamlet to larger hubs in the region.",
+  "faqs": "Q: What airlines serve Ivujivik Airport?\nA: Air Inuit is the primary carrier operating scheduled flights from Ivujivik, connecting the community to Kuujjuaq and other Nunavik destinations.\n\nQ: Are there car rentals available at the airport?\nA: No, car rentals are not available at Ivujivik Airport. The community is small enough that ground transport is typically arranged locally or through the host.\n\nQ: Does the airport have a terminal building?\nA: Yes, the airport has a small terminal building, but facilities are basic given the community's remote location and small passenger volumes.\n\nQ: Is the airport operational year-round?\nA: Yes, the airport operates year-round, though weather conditions can occasionally cause delays, particularly during winter storms.",
+  "transport_tips": "There is no road access to Ivujivik; the community is only reachable by air. Taxis are not generally available, so passengers typically arrange pickup with local contacts, accommodation providers, or the airline in advance. Visitors should plan their onward ground transportation before arriving, as options are extremely limited.",
+  "local_tip": "Pack snacks and entertainment for potentially long weather-related delays, as flights to remote Nunavik communities are frequently affected by fog, wind, and blowing snow, and the small terminal has very limited amenities.",
+  "generatedAt": "2026-06-26T16:00:26.677Z",
+  "model": "MiniMax-M3"
+}

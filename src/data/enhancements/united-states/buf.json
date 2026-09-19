@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BUF",
+    "icao": "KBUF",
+    "name": "Buffalo Niagara International Airport",
+    "country": "United States",
+    "city": "Buffalo",
+    "lat": 42.9405,
+    "lon": -78.7322,
+    "type": "large_airport",
+    "size": 1475
+  },
+  "summary": "Buffalo Niagara International Airport (BUF) is the primary commercial airport serving the Buffalo-Niagara region of western New York, located in Cheektowaga about 10 miles east of downtown Buffalo. It serves as a convenient gateway to both the city of Buffalo and nearby Niagara Falls, one of North America's most popular natural attractions. The airport features a single modern terminal and handles several million passengers annually.",
+  "faqs": "Q: How far is the airport from Niagara Falls?\nA: The airport is approximately 20 miles (32 km) from Niagara Falls, typically a 25-35 minute drive via I-190 N.\n\nQ: Does the airport offer international flights?\nA: BUF primarily handles domestic flights, but it has customs facilities and occasional seasonal international service, mostly to Canada and Caribbean destinations.\n\nQ: How early should I arrive before my flight?\nA: TSA recommends arriving 2 hours before domestic flights and 3 hours before international flights, though BUF is typically less crowded than major hub airports.\n\nQ: Is there a hotel near the airport?\nA: Yes, several hotels are located within a short drive, including the Buffalo Airport Hotel directly adjacent to the terminal and other chain hotels along the nearby Route 33 corridor.",
+  "transport_tips": "The airport is easily accessible via the Kensington Expressway (NY-33), which connects directly to I-90 and I-190. Taxi, rideshare services like Uber and Lyft, and rental cars are available at the terminal. NFTA Metro Bus Route 24 provides affordable public transit service between the airport and downtown Buffalo.",
+  "local_tip": "If you have a layover or early arrival, try to visit Anchor Bar near downtown, credited as the birthplace of the original Buffalo chicken wing—a regional culinary tradition worth experiencing.",
+  "generatedAt": "2026-06-28T16:12:29.115Z",
+  "model": "MiniMax-M3"
+}

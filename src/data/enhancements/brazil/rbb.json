@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RBB",
+    "icao": "SWBR",
+    "name": "Borba Airport",
+    "country": "Brazil",
+    "city": "Borba",
+    "lat": -4.4063,
+    "lon": -59.6024,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Borba Airport is a small public airfield serving the municipality of Borba in Amazonas state, Brazil, located along the Madeira River upstream from Manaus. The airport primarily handles regional flights and charter operations connecting remote Amazon communities to larger Brazilian hubs. Its riverside location places it within one of the most biodiverse regions on Earth, serving both residents and eco-tourism visitors exploring the central Amazon basin.",
+  "faqs": "Q: What is the airport code for Borba Airport?\nA: The IATA code is RBB and the ICAO code is SWBR.\n\nQ: Are there commercial flights to Borba Airport?\nA: Scheduled commercial service is limited and typically operated by small regional carriers using turboprop aircraft, with schedules varying by season.\n\nQ: Does Borba Airport have facilities for passengers?\nA: As a small rural airfield, it offers basic terminal amenities with limited services; passengers should bring their own food and water.\n\nQ: Can private aircraft land at Borba?\nA: Yes, the airport accepts general aviation and charter flights with prior coordination with airport administration.",
+  "transport_tips": "Getting to Borba by river is common, as the town sits along the Madeira River and passenger boats connect it to Manaus, taking roughly 24-36 hours depending on the vessel. Road access is limited due to dense Amazon forest, so most travelers rely on a combination of flight and boat transport. Taxis and motorized rickshaws (mototaxis) are typically available near the small terminal for short trips into town.",
+  "local_tip": "If flying in, request a window seat on the approach—catch the spectacular view of the Madeira River's meandering curves through the unbroken Amazon rainforest just before landing.",
+  "generatedAt": "2026-06-26T20:50:38.241Z",
+  "model": "MiniMax-M3"
+}

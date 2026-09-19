@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KLW",
+    "icao": "PAKW",
+    "name": "Klawock Airport",
+    "country": "United States",
+    "city": "Klawock",
+    "lat": 55.5792,
+    "lon": -133.076,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Klawock Airport is a state-owned public-use airport located on Prince of Wales Island in Southeast Alaska, serving the small community of Klawock and nearby Craig. The airport provides essential air access to the region, supporting commercial flights, medevac operations, and general aviation in a remote island area. It features a single asphalt runway and operates without a control tower, typical of many rural Alaskan airports.",
+  "faqs": "Q: How do I get to Klawock Airport?\nA: The airport is located just north of the town of Klawock on Prince of Wales Island, accessible by a short drive from the community center or from neighboring Craig.\n\nQ: Are there commercial flights to Klawock?\nA: Yes, the airport receives scheduled passenger service operated by regional carriers connecting to larger Southeast Alaska hubs like Ketchikan and Juneau.\n\nQ: Does Klawock Airport have a control tower?\nA: No, the airport operates as an uncontrolled field, with pilots using the common traffic advisory frequency (CTAF) to coordinate arrivals and departures.\n\nQ: What facilities are available at the airport?\nA: The airport has a small terminal area, paved parking, and basic amenities, but limited services are available compared to larger airports in the region.\n\n",
+  "transport_tips": "Rental cars are limited on Prince of Wales Island, so arranging ground transportation in advance through a local lodge or tour operator is recommended. The Island Air Express and Alaska Seaplanes serve the airport with connections to Ketchikan. If traveling by ferry, Klawock is accessible via the Alaska Marine Highway, though having a vehicle is useful for exploring the island.",
+  "local_tip": "Weather in Southeast Alaska can change rapidly; fog and low ceilings frequently affect flights, so build flexibility into your schedule and check conditions with your carrier the morning of departure.",
+  "generatedAt": "2026-06-29T21:38:48.797Z",
+  "model": "MiniMax-M3"
+}

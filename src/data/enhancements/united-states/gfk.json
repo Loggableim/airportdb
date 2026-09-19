@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GFK",
+    "icao": "KGFK",
+    "name": "Grand Forks International Airport",
+    "country": "United States",
+    "city": "Grand Forks",
+    "lat": 47.9493,
+    "lon": -97.1761,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Grand Forks International Airport (GFK) is a joint-use facility serving the city of Grand Forks, North Dakota, and the broader Red River Valley region. Located adjacent to Grand Forks Air Force Base, it uniquely supports both civilian commercial service and military operations, including the base's association with unmanned aerial systems. The airport is a key gateway for the University of North Dakota and northern Minnesota/North Dakota travelers, offering flights primarily to Minneapolis-St. Paul.",
+  "faqs": "Q: Which airlines serve Grand Forks International Airport?\nA: Delta Air Lines, operated through Delta Connection, is the primary carrier offering regular service to Minneapolis-St. Paul (MSP). Allegiant Air has also historically provided seasonal or limited service to destinations such as Las Vegas.\n\nQ: Is GFK a military airport?\nA: GFK operates as a joint-use civilian-military airport. The runways and airfield are shared with Grand Forks Air Force Base, which hosts the 319th Reconnaissance Wing focused on remotely piloted aircraft operations.\n\nQ: How far is the airport from downtown Grand Forks?\nA: Grand Forks International Airport is approximately 7 miles northwest of the city center, typically a 15-minute drive via US-2 and Gateway Drive.\n\nQ: Does the airport have TSA security screening?\nA: Yes, GFK has a TSA checkpoint with standard screening procedures. Due to its smaller size, wait times are generally short, but travelers should arrive at least 90 minutes before departure.",
+  "transport_tips": "Rental cars are the most convenient option for ground transportation at GFK, with counters located in the terminal. Taxis and rideshare services like Uber and Lyft are available but may require a short wait given limited demand. The city also operates infrequent public transit routes that do not directly serve the airport, so arranging a rental or pre-booked ride is recommended.",
+  "local_tip": "If you have a longer layover or flight delay, consider visiting the adjacent Grand Forks Air Force Base viewing area or driving 10 minutes to the University of North Dakota campus for a quick bite at one of the local eateries near campus; the small terminal itself has limited dining options.",
+  "generatedAt": "2026-06-29T03:21:21.506Z",
+  "model": "MiniMax-M3"
+}

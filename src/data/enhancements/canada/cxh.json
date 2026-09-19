@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CXH",
+    "icao": "CYHC",
+    "name": "Vancouver Harbour Water Aerodrome",
+    "country": "Canada",
+    "city": "Vancouver",
+    "lat": 49.2913,
+    "lon": -123.1172,
+    "type": "seaplane_base",
+    "size": 325
+  },
+  "summary": "Vancouver Harbour Water Aerodrome (CXH) is a busy floatplane terminal located on Coal Harbour in the heart of downtown Vancouver, directly adjacent to Stanley Park. It serves as the primary hub for seaplane operators connecting the British Columbia coast, with frequent scheduled service to Victoria, Nanaimo, the Gulf Islands, and other destinations. The aerodrome is one of the busiest water-based aviation facilities in North America and is operated by the Vancouver Airport Authority.",
+  "faqs": "Q: What is Vancouver Harbour Water Aerodrome used for?\nA: It serves scheduled and charter floatplane flights, primarily connecting Vancouver with coastal British Columbia communities such as Victoria, Nanaimo, Comox, and the Gulf Islands, as well as scenic tour flights.\n\nQ: Which airlines operate from Vancouver Harbour?\nA: Harbour Air is the dominant operator at this terminal, running the largest fleet of seaplanes in North America, with additional charter and tour operators using the facility.\n\nQ: What types of aircraft land here?\nA: The aerodrome primarily handles single and twin-engine floatplanes, most commonly the de Havilland DHC-3 Otter and DHC-6 Twin Otter, designed specifically for water takeoffs and landings.\n\nQ: Is this the same as Vancouver International Airport?\nA: No. Vancouver Harbour (CXH) is a downtown water-based facility, while Vancouver International (YVR) is the main land-based airport located on Sea Island in Richmond, about 15 km away.",
+  "transport_tips": "The terminal is within walking distance of most downtown Vancouver hotels, Stanley Park, and the cruise ship terminal at Canada Place. Public transit is available via nearby SeaBus, bus routes, and the SkyTrain network at Waterfront Station, just a short walk away. Taxi and rideshare pickup zones are located steps from the terminal entrance.",
+  "local_tip": "For a quiet pre-flight coffee, head to the Coal Harbour seawall path one block behind the terminal — you can watch floatplanes take off against the North Shore mountains while avoiding the terminal crowds.",
+  "generatedAt": "2026-06-30T01:50:31.893Z",
+  "model": "MiniMax-M3"
+}

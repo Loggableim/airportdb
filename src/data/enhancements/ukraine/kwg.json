@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KWG",
+    "icao": "UKDR",
+    "name": "Kryvyi Rih International Airport",
+    "country": "Ukraine",
+    "city": "Kryvyi Rih",
+    "lat": 48.0433,
+    "lon": 33.21,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kryvyi Rih International Airport (KWG) is a medium-sized regional airport serving the industrial city of Kryvyi Rih in central Ukraine, a major center for iron ore mining and steel production. The airport is situated in the Dnipropetrovsk Oblast and handles primarily domestic and charter flights. Its location makes it a key gateway for business travelers connected to the region's mining and metallurgical industries.",
+  "faqs": "Q: Where is Kryvyi Rih International Airport located?\nA: The airport is located near Kryvyi Rih in central Ukraine, in the Dnipropetrovsk Oblast, approximately 17 km northwest of the city center.\n\nQ: Does the airport operate international flights?\nA: It is designated as an international airport, though scheduled service has historically been limited, with operations fluctuating in line with regional conditions and airline decisions.\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard passenger amenities including check-in counters, a waiting area, and basic concessions typical of a regional Ukrainian airport.\n\nQ: Are there alternative airports nearby?\nA: Dnipropetrovsk International Airport (DNK) is the nearest alternative, located roughly 150 km away, and offers a broader range of scheduled flights.",
+  "transport_tips": "The airport is accessible by road via the route connecting Kryvyi Rih city center, with taxi and private transfer services being the most reliable options for travelers. Public marshrutka (minibus) and bus connections operate between the terminal and the city depending on flight schedules. Travelers should arrange return transport in advance, especially for early morning or late evening flights.",
+  "local_tip": "If you're visiting the region for business related to mining or metallurgy, request a hotel or guesthouse with early breakfast service—factory and site visits in Kryvyi Rih often start before 7 AM, and on-site dining options near industrial facilities can be limited.",
+  "generatedAt": "2026-06-29T16:27:51.113Z",
+  "model": "MiniMax-M3"
+}

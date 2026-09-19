@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LMP",
+    "icao": "LICD",
+    "name": "Lampedusa Airport",
+    "country": "Italy",
+    "city": "Lampedusa",
+    "lat": 35.4979,
+    "lon": 12.6181,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Lampedusa Airport serves as the main gateway to Italy's southernmost inhabited island, located in the Mediterranean Sea between Sicily and Tunisia. The airport connects the remote Pelagie Islands to mainland Italy via scheduled flights from major cities including Rome, Milan, Palermo, and Catania. Its single-runway facility handles seasonal tourism traffic while also playing a strategic role in Mediterranean maritime operations.",
+  "faqs": "Q: Which airlines operate flights to Lampedusa Airport?\nA: The airport is primarily served by Italian carriers including DAT, Volotea, and easyJet, with routes connecting to mainland Italian cities. Most flights operate seasonally with peak frequency during summer months.\n\nQ: How far is the airport from Lampedusa town center?\nA: The airport is approximately 1.5 km from the main town of Lampedusa, making it one of the most conveniently located airports relative to its settlement.\n\nQ: Is Lampedusa Airport open year-round?\nA: Yes, the airport operates throughout the year, though flight schedules are reduced significantly in winter months when tourism drops.\n\nQ: Does the airport have international flights?\nA: Direct international scheduled flights are limited; most travelers connect through Italian mainland airports to reach Lampedusa.",
+  "transport_tips": "The airport is small with a single terminal, so walking from aircraft to the building is common. Taxis are available outside the terminal for the short ride into Lampedusa town. Rental car and scooter agencies operate at the airport, which is recommended for exploring the island's beaches and coves.",
+  "local_tip": "Visit between July and September to witness loggerhead sea turtle hatchlings making their way to the sea at the island's protected beaches, particularly at Isola dei Conigli, one of the Mediterranean's last major nesting sites.",
+  "generatedAt": "2026-06-29T12:45:10.916Z",
+  "model": "MiniMax-M3"
+}

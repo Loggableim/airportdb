@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SHD",
+    "icao": "KSHD",
+    "name": "Shenandoah Valley Regional Airport",
+    "country": "United States",
+    "city": "Weyers Cave",
+    "lat": 38.2638,
+    "lon": -78.8964,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Shenandoah Valley Regional Airport serves the Shenandoah Valley region of Virginia, located in the small community of Weyers Cave between Staunton and Harrisonburg. The airport provides commercial and general aviation services to the surrounding region, offering a convenient alternative to larger hubs like Charlottesville or Washington Dulles. Its location along Interstate 81 makes it easily accessible for travelers exploring the historic Shenandoah Valley and Blue Ridge Mountains.",
+  "faqs": "Q: What cities does Shenandoah Valley Regional Airport serve?\nA: The airport primarily serves Staunton, Waynesboro, Harrisonburg, and the broader Shenandoah Valley region in Virginia.\n\nQ: How far is the airport from downtown Staunton?\nA: The airport is approximately 10 miles northeast of downtown Staunton, roughly a 15-20 minute drive via I-81.\n\nQ: Does the airport offer commercial airline service?\nA: Yes, the airport historically has offered limited commercial service through regional carriers, though availability can vary.\n\nQ: Are there car rental services at SHD?\nA: Car rental services are typically available at the airport, though options may be more limited than at larger airports.",
+  "transport_tips": "The airport is conveniently located right off Interstate 81 at Exit 235, making ground transportation straightforward by car. Rental cars are available on-site, and taxi or rideshare services can be arranged in advance given the rural setting. Plan for limited public transit options; renting a car is the most reliable way to reach surrounding destinations.",
+  "local_tip": "If you have time between flights, take a short drive to nearby Grand Caverns in Grottoes—one of the oldest continuously operating show caves in the United States and a unique geological attraction just minutes from the airport.",
+  "generatedAt": "2026-06-29T18:29:58.712Z",
+  "model": "MiniMax-M3"
+}

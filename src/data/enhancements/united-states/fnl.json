@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FNL",
+    "icao": "KFNL",
+    "name": "Northern Colorado Regional Airport",
+    "country": "United States",
+    "city": "Loveland",
+    "lat": 40.4497,
+    "lon": -105.0113,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Northern Colorado Regional Airport (FNL) is a public-use airport situated between Fort Collins and Loveland, Colorado, serving the broader Northern Colorado region. Originally known as Fort Collins-Loveland Municipal Airport, it was renamed to reflect its regional role. The airport supports general aviation, flight training, and limited commercial operations, and is home to several aviation businesses and the Colorado Skies flight school.",
+  "faqs": "Q: Where is Northern Colorado Regional Airport located?\nA: The airport is located between Fort Collins and Loveland, Colorado, approximately 10 miles south of Fort Collins and a few miles east of Loveland along the Interstate 25 corridor.\n\nQ: Does FNL offer commercial airline service?\nA: The airport has historically offered limited commercial service, though its primary role is general aviation, flight training, and corporate operations.\n\nQ: How many runways does FNL have?\nA: The airport has two runways, with the primary runway being Runway 15/33, which is the longest at over 8,500 feet.\n\nQ: Who operates Northern Colorado Regional Airport?\nA: The airport is jointly owned and operated by the cities of Fort Collins and Loveland through the Northern Colorado Regional Airport Commission.\n\n",
+  "transport_tips": "The airport is conveniently accessed via Exit 259 (Crossroads Boulevard) from Interstate 25, making it a short drive from both Fort Collins and Loveland. Rental cars are the most practical option for ground transportation, as there is no regular public transit service to the terminal. Taxis and rideshare services like Uber and Lyft are available but may have limited availability in this area.",
+  "local_tip": "If you're picking up or dropping off passengers, plan to wait in the free parking area near the terminal rather than idling at the curb—Northern Colorado winters can bring sudden cold snaps and snow, so bundling up is wise even in transitional seasons.",
+  "generatedAt": "2026-06-30T05:04:33.694Z",
+  "model": "MiniMax-M3"
+}

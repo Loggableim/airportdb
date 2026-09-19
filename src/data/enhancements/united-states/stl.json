@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "STL",
+    "icao": "KSTL",
+    "name": "St. Louis Lambert International Airport",
+    "country": "United States",
+    "city": "St Louis",
+    "lat": 38.7487,
+    "lon": -90.37,
+    "type": "large_airport",
+    "size": 1047075
+  },
+  "summary": "St. Louis Lambert International Airport (STL) is the largest and busiest airport in Missouri, located about 14 miles northwest of downtown St. Louis. Named after Albert Bond Lambert, a pioneering aviator and the city's first licensed pilot, the airport served as a major hub for Trans World Airlines (TWA) for decades. It features one of the longest civilian runways in the United States, Runway 12R/30L at over 11,000 feet, which is sometimes called the 'Highway to Heaven.'",
+  "faqs": "Q: How far is STL from downtown St. Louis?\nA: The airport is approximately 14 miles northwest of downtown St. Louis, typically a 20-30 minute drive depending on traffic.\n\nQ: How many terminals does Lambert-St. Louis International Airport have?\nA: The airport has two terminals: Terminal 1 (Main Terminal) and Terminal 2 (East Terminal), connected by a complimentary shuttle.\n\nQ: What major airlines operate at STL?\nA: Southwest Airlines is the largest carrier at STL, along with American, Delta, United, and several other major airlines.\n\nQ: Is there a hotel on-site at the airport?\nA: Yes, the Hilton St. Louis Airport is located directly on airport property, with several other hotels available within a short shuttle ride.",
+  "transport_tips": "The Metrolink light rail system provides affordable service between the airport and downtown St. Louis for a fraction of the cost of a taxi. Rental cars are available on-site and offer the most flexibility for exploring the greater St. Louis region. Ride-share services like Uber and Lyft have designated pickup areas, though wait times can be longer during peak travel periods.",
+  "local_tip": "If you have a long layover or early arrival, take the Metrolink to the Forest Park-DeBaliviere station and visit the nearby Saint Louis Art",
+  "generatedAt": "2026-06-28T14:43:32.919Z",
+  "model": "MiniMax-M3"
+}

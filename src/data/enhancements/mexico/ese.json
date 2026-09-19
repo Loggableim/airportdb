@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ESE",
+    "icao": "MMES",
+    "name": "Ensenada International Airport / El Ciprés Air Base",
+    "country": "Mexico",
+    "city": "Ensenada",
+    "lat": 31.7945,
+    "lon": -116.6024,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Ensenada International Airport (ESE), also known as El Ciprés Air Base, is a dual-use civilian and military facility located on Mexico's Baja California Pacific coast. It serves the port city of Ensenada, a popular destination known for its coastal scenery, Valle de Guadalupe wine region, and cruise port. Commercial flight service is limited, with most travelers reaching the area via road from Tijuana or by cruise ship.",
+  "faqs": "Q: How far is Ensenada International Airport from the city center?\nA: The airport is located approximately 10 km southeast of downtown Ensenada, typically a 15-20 minute drive depending on traffic.\n\nQ: Does the airport have international flights?\nA: International service is very limited. Most international visitors fly into Tijuana International Airport and drive south to Ensenada.\n\nQ: Is the airport shared with the military?\nA: Yes, El Ciprés Air Base operates alongside the civilian terminal, serving Mexican military aviation as well.\n\nQ: Are there car rental services at the airport?\nA: Car rental availability is limited; it is recommended to arrange a vehicle in advance or use taxi services from the terminal.",
+  "transport_tips": "Taxis and pre-arranged shuttles are the most common ways to reach the city from the airport, as public transit options are limited. Many visitors opt to drive from Tijuana International Airport (about 90 minutes north) for greater flight availability and rental car options. Pre-booking a private transfer is advisable, especially for arrival during evening hours.",
+  "local_tip": "If you have a flexible schedule, consider flying into Tijuana and renting a car to drive south along the scenic coastal highway — you'll pass through stunning desert landscapes and the famous Valle de Guadalupe wine country along the way.",
+  "generatedAt": "2026-06-26T07:43:25.698Z",
+  "model": "MiniMax-M3"
+}

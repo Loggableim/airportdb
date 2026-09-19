@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FEP",
+    "icao": "KFEP",
+    "name": "Albertus Airport",
+    "country": "United States",
+    "city": "Freeport",
+    "lat": 42.2462,
+    "lon": -89.582,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Albertus Airport (FEP) is a small general aviation airport serving Freeport, Illinois, located in the northwestern part of the state. It primarily accommodates private aircraft, flight training, and recreational flying rather than commercial service. The airport is named after a local figure and serves as a convenient aviation gateway for Stephenson County.",
+  "faqs": "Q: Does Albertus Airport offer commercial airline service?\nA: No, FEP is a general aviation facility with no scheduled commercial flights.\n\nQ: What is the airport primarily used for?\nA: The airport supports private aviation, flight instruction, recreational flying, and occasional business aircraft operations.\n\nQ: Are there fuel services available at FEP?\nA: As a small general aviation airport, fuel services for piston aircraft are typically available during operating hours, though pilots should confirm in advance.\n\nQ: Is there an air traffic control tower at Albertus Airport?\nA: No, FEP operates as a non-towered airport, so pilots use common traffic advisory frequency procedures.",
+  "transport_tips": "Freeport is a small city, so having a personal vehicle or rental car is the most practical way to reach Albertus Airport. The airport is located a short drive from downtown Freeport via local roads. Taxi and rideshare options may be limited, so arranging ground transport in advance is recommended.",
+  "local_tip": "Freeport is known for its connection to the Lincoln-Douglas debates; if you have time before or after your flight, a quick stop at one of the local historic debate site markers makes for an interesting visit.",
+  "generatedAt": "2026-06-27T04:14:50.427Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PDX",
+    "icao": "KPDX",
+    "name": "Portland International Airport",
+    "country": "United States",
+    "city": "Portland",
+    "lat": 45.5887,
+    "lon": -122.598,
+    "type": "large_airport",
+    "size": 1015775
+  },
+  "summary": "Portland International Airport (PDX) is the largest airport in Oregon, serving the Portland metropolitan area as its primary commercial hub. Known for its distinctive rooftop carpet and locally inspired amenities, PDX has repeatedly topped passenger satisfaction surveys in North America. The airport features a single main terminal with multiple concourses, blending efficient operations with Pacific Northwest character.",
+  "faqs": "Q: How many terminals does PDX have?\nA: Portland International Airport operates from a single main terminal building with five concourses (A, B, C, D, and E), all connected post-security.\n\nQ: What is PDX known for?\nA: PDX is famous for its quirky 'PDX carpet,' outstanding passenger satisfaction rankings, and strong local food and shopping options reflecting Portland's culture.\n\nQ: Does PDX have international flights?\nA: Yes, PDX offers international flights primarily to destinations in Canada, Mexico, and seasonal routes to Europe and Asia, handled through Concourse D.\n\nQ: Is there free Wi-Fi at Portland International Airport?\nA: Yes, PDX provides free Wi-Fi throughout the terminal for all passengers.",
+  "transport_tips": "The MAX Red Line light rail provides direct service between PDX and downtown Portland in approximately 40 minutes, making it the most affordable option. Taxis and rideshares typically take 20-30 minutes depending on traffic, and rental car facilities are located near the terminal with a short walk or shuttle connection. If driving, allow extra time during rush hours on I-205.",
+  "local_tip": "Visit the Concourse E observation area for great plane-spotting views, and don't miss trying a Voodoo Doughnut or a local Stumptown coffee before boarding — these are iconic Portland experiences easily found airside.",
+  "generatedAt": "2026-06-28T15:14:41.302Z",
+  "model": "MiniMax-M3"
+}

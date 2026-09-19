@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "API",
+    "icao": "SKAP",
+    "name": "Gomez Nino Apiay Air Base",
+    "country": "Colombia",
+    "city": "Apiay",
+    "lat": 4.0761,
+    "lon": -73.5627,
+    "type": "medium_airport",
+    "size": 325
+  },
+  "summary": "Gomez Nino Apiay Air Base (API/SKAP) is a Colombian Air Force (Fuerza Aérea Colombiana) military installation located in the Meta department, near the city of Villavicencio. Situated in the eastern plains (Llanos) region of Colombia, it serves as an important operational hub for air defense and aerial operations in the country's eastern territories. The base occasionally accommodates limited civilian and charter flights, supplementing the region's air connectivity.",
+  "faqs": "Q: Is Gomez Nino Apiay Air Base open to civilian passengers?\nA: The facility primarily operates as a military installation, but it handles some civilian and charter flights, particularly when commercial options at nearby La Vanguardia Airport are limited.\n\nQ: Which city does this airport serve?\nA: The base is located in Apiay, a municipality in the Meta department of Colombia, just south of Villavicencio, the capital of Meta.\n\nQ: What is the ICAO code for this airport?\nA: The ICAO code is SKAP, and its IATA code is API.\n\nQ: Are there scheduled commercial flights from Apiay?\nA: Scheduled commercial service is very limited; travelers to the Villavicencio region typically use La Vanguardia Airport instead, which offers more regular flights.",
+  "transport_tips": "Villavicencio is only about 15-20 km north of the base, and taxis or private transfers are the most practical ways to reach the facility. Public transportation along the road connecting Apiay to Villavicencio is available but may not run directly to the airbase gates. Renting a car in Villavicencio provides the most flexibility, as rideshare services are not widely established in the area.",
+  "local_tip": "The Llanos region experiences significant heat and humidity year-round, so if you're visiting the base for a military-related event or transit, plan for early morning or late afternoon movements and carry plenty of water.",
+  "generatedAt": "2026-06-30T02:04:22.529Z",
+  "model": "MiniMax-M3"
+}

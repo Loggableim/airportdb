@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DMK",
+    "icao": "VTBD",
+    "name": "Don Mueang International Airport",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "lat": 13.9126,
+    "lon": 100.607,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Don Mueang International Airport (DMK) is one of the world's oldest operating airports, originally established in 1914 as a Royal Thai Air Force base. Located about 24 km north of central Bangkok, it now functions as the primary hub for low-cost carriers in Southeast Asia, handling over 40 million passengers annually. After Suvarnabhumi Airport opened in 2006, Don Mueang was renovated and reopened for commercial flights, primarily serving budget airlines such as AirAsia, Nok Air, and Thai Lion Air.",
+  "faqs": "Q: How far is Don Mueang from central Bangkok?\nA: The airport is approximately 24 km north of Bangkok's city center, with typical journey times of 30-60 minutes depending on traffic.\n\nQ: Which airlines use Don Mueang Airport?\nA: It is the main hub for low-cost carriers including AirAsia, Nok Air, Thai Lion Air, and Thai VietJet, along with some Thai Airways domestic services.\n\nQ: Does Don Mueang have overnight sleeping facilities?\nA: Yes, the airport is well-known for being 24-hour friendly, with many travelers sleeping on benches overnight. Air-conditioned rest zones, showers, and capsule hotels are available for a fee.\n\nQ: Is there a transit connection between DMK and Suvarnabhumi Airport (BKK)?\nA: There is no direct rail connection between the two airports, but free shuttle buses, taxis, and the ARL (Airport Rail Link) at nearby Don Mueang Station provide transfer options.",
+  "transport_tips": "The SRT Dark Red Line commuter train connects Don Mueang directly to central Bangkok, terminating at Krung Thep Aphiwat station, which links to the BTS and MRT systems. Metered taxis and Grab are available outside the terminals, though Bangkok's notorious traffic can make journeys unpredictable. For budget travelers, public buses and the A1 bus to Mo Chit BTS station offer affordable alternatives.",
+  "local_tip": "Visit",
+  "generatedAt": "2026-06-28T17:57:32.105Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SNT",
+    "icao": "SKRU",
+    "name": "Las Cruces Airport",
+    "country": "Colombia",
+    "city": "Sabana de Torres",
+    "lat": 7.3832,
+    "lon": -73.5054,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Las Cruces Airport serves the town of Sabana de Torres in the Santander Department of Colombia, functioning as a small regional airfield primarily supporting general aviation and limited charter operations. The airport provides important access to a municipality known for its petroleum industry and proximity to the Magdalena River, as well as nearby natural attractions like the Serranía de los Yariguíes foothills. Its modest infrastructure reflects its role as a gateway rather than a commercial hub.",
+  "faqs": "Q: What kind of flights operate from Las Cruces Airport?\nA: The airport primarily handles general aviation, charter flights, and occasional regional flights rather than scheduled commercial service.\n\nQ: How far is the airport from Sabana de Torres town center?\nA: The airport is located just a few kilometers from the town, making it a short drive to most local destinations.\n\nQ: Are there facilities for passengers at the terminal?\nA: As a small regional airport, facilities are basic, typically limited to a waiting area and minimal services.\n\nQ: Can private pilots land at Las Cruces Airport?\nA: Yes, the airport accommodates private and general aviation traffic, though pilots should verify current conditions and any required permissions in advance.\n\n",
+  "transport_tips": "Taxis and local transport are typically available near the airport for short trips into Sabana de Torres. Travelers heading further afield, such as to Bucaramanga, often arrange ground transport in advance as public bus connections may require transfers. If you require a specific vehicle or rental, booking before arrival is recommended given the limited availability at this small facility.",
+  "local_tip": "Frequent visitors recommend flying in during dry season months (December through February) when visibility and runway conditions are at their best, and pairing the trip with a visit to the Magdalena River wetlands nearby, which offer excellent birdwatching opportunities.",
+  "generatedAt": "2026-06-28T06:27:47.095Z",
+  "model": "MiniMax-M3"
+}

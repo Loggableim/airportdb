@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ITH",
+    "icao": "KITH",
+    "name": "Ithaca Tompkins Regional Airport",
+    "country": "United States",
+    "city": "Ithaca",
+    "lat": 42.491,
+    "lon": -76.4584,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Ithaca Tompkins Regional Airport serves the city of Ithaca, New York, home to Cornell University and Ithaca College, situated in the scenic Finger Lakes region. The single-terminal facility completed a major modernization and expansion project in 2019, significantly upgrading passenger amenities. It functions as a vital regional link for one of New York's most renowned college towns.",
+  "faqs": "Q: How far is Ithaca Tompkins Regional Airport from downtown Ithaca?\nA: The airport is approximately 4 miles northeast of downtown Ithaca, typically a 10-15 minute drive by car.\n\nQ: Which airlines operate at Ithaca Tompkins Regional Airport?\nA: The airport is served by regional carriers including American Eagle,",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T18:13:30.341Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MAH",
+    "icao": "LEMH",
+    "name": "Menorca Airport",
+    "country": "Spain",
+    "city": "Mahón (Maó)",
+    "lat": 39.8626,
+    "lon": 4.2187,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Menorca Airport (MAH/LEMH) is the main international gateway to the Balearic Island of Menorca, located approximately 4.5 km southwest of Mahón (Maó), the island's capital. The airport handles seasonal charter and scheduled traffic primarily from European destinations, serving millions of passengers each year during the busy summer tourism season. It features a single modern terminal that has been expanded and refurbished to accommodate the island's growing visitor numbers.",
+  "faqs": "Q: How far is Menorca Airport from Mahón city center?\nA: The airport is about 4.5 km southwest of Mahón, roughly a 10-minute drive depending on traffic.\n\nQ: Does Menorca Airport have international flights?\nA: Yes, it operates numerous international flights, predominantly from UK, German, Italian, and other European cities, especially during the summer season.\n\nQ: Are there duty-free shops at the airport?\nA: Yes, the terminal offers duty-free shopping along with cafes, restaurants, and souvenir shops typical of Spanish tourist airports.\n\nQ: Is the airport open year-round?\nA: The airport operates year-round but sees significantly reduced flight schedules in winter compared to the busy summer months.\n\n",
+  "transport_tips": "Regular bus lines connect the airport to Mahón and other island towns, with Line 10 providing service to the city center. Taxis are available outside the terminal and offer fixed rates to popular destinations like Mahón, Ciutadella, and various resort areas. Renting a car is highly recommended for visitors planning to explore the island, with several rental agencies located in or near the terminal.",
+  "local_tip": "If you have time before departure, visit the small aviation viewing area near the terminal where you can watch aircraft movements while enjoying Menorcan gin (Gin Xoriguer), the island's signature spirit produced locally in Mahón.",
+  "generatedAt": "2026-06-28T18:48:37.140Z",
+  "model": "MiniMax-M3"
+}

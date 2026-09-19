@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AAL",
+    "icao": "EKYT",
+    "name": "Aalborg Airport",
+    "country": "Denmark",
+    "city": "Aalborg",
+    "lat": 57.0948,
+    "lon": 9.8499,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Aalborg Airport (AAL) is the third-largest airport in Denmark and the main gateway to the North Jutland region, located about 6 km northwest of Aalborg city center. Originally established in 1938, it serves both civilian and limited military operations and handles around 1.5 million passengers annually. The airport offers domestic flights to Copenhagen plus seasonal and year-round routes to European destinations.",
+  "faqs": "Q: How far is Aalborg Airport from the city center?\nA: The airport is approximately 6 km northwest of central Aalborg, with a typical taxi or bus ride taking 15-20 minutes depending on traffic.\n\nQ: Does the airport have international flights?\nA: Yes, alongside frequent SAS flights to Copenhagen, Aalborg offers seasonal and scheduled services to several European destinations including Oslo, London, and Mediterranean holiday routes operated by various carriers.\n\nQ: Are there hotels near the airport?\nA: Yes, several hotels are within a short drive, including options in Aalborg's city center and a few closer to the airport itself offering parking packages.\n\nQ: Can I use euros at the airport?\nA: Denmark uses the Danish krone (DKK). Most shops and restaurants accept major credit and debit cards, and ATMs are available in the terminal.",
+  "transport_tips": "Route 12 and Route 13 city buses connect the airport to Aalborg city center and the main train station, with journey times of roughly 20-25 minutes. Taxis are readily available outside the terminal and offer a faster option, especially with luggage. Car rental agencies operate from the airport, and the E45 motorway is just minutes away for drivers heading further into Jutland.",
+  "local_tip": "If you have a short layover or arrival delay, head to the observation deck area on the upper floor for views of the runway and surrounding Limfjord countryside—a quiet spot most travelers overlook.",
+  "generatedAt": "2026-06-28T19:36:00.159Z",
+  "model": "MiniMax-M3"
+}

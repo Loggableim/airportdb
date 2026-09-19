@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "POU",
+    "icao": "KPOU",
+    "name": "Dutchess County Airport",
+    "country": "United States",
+    "city": "Poughkeepsie",
+    "lat": 41.6266,
+    "lon": -73.8842,
+    "type": "medium_airport",
+    "size": 475
+  },
+  "summary": "Dutchess County Airport (POU) is a medium-sized public airport situated in the Hudson Valley of New York, roughly 70 miles north of New York City. It serves as a convenient gateway for the mid-Hudson region, accommodating general aviation, corporate traffic, and limited commercial service. The airport is owned and operated by Dutchess County and features a single primary runway, making it a popular alternative to the busier New York metropolitan airports.",
+  "faqs": "Q: What airlines fly into Dutchess County Airport?\nA: The airport has historically seen scheduled service from regional carriers, but commercial offerings vary; check current schedules for the latest airline information.\n\nQ: How far is POU from New York City?\nA: The airport is approximately 70 miles north of Manhattan, with typical driving times of 1.5 to 2 hours depending on traffic.\n\nQ: Does the airport offer rental cars on site?\nA: Yes, rental car services are typically available at the terminal, though availability may vary by season and demand.\n\nQ: Is there public transportation to the airport?\nA: Public transit options are limited; renting a car or arranging a rideshare is the most practical way to reach POU.",
+  "transport_tips": "The airport is most easily reached by car via Route 376 or the Taconic State Parkway, and ample parking is available near the terminal. Since public transit options are limited, rideshare services and rental cars are recommended for travelers without a vehicle. Allow extra time during peak Hudson Valley traffic, especially on summer weekends and holiday travel periods.",
+  "local_tip": "Frequent flyers recommend grabbing a meal at the Beacon Bagel or exploring the nearby Walkway Over the Hudson in Poughkeepsie if you have a layover or delay—it is the longest elevated pedestrian bridge in the world.",
+  "generatedAt": "2026-06-30T00:33:42.322Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IBA",
+    "icao": "DNIB",
+    "name": "Ibadan Airport",
+    "country": "Nigeria",
+    "city": "Ibadan",
+    "lat": 7.3625,
+    "lon": 3.9783,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ibadan Airport is a medium-sized regional airport serving Ibadan, the capital of Oyo State and one of Nigeria's largest cities. Located approximately 10 km southeast of the city center, it serves as an important gateway for southwestern Nigeria and primarily handles domestic flights. The airport has historically played a role in connecting the region to other major Nigerian cities including Lagos and Abuja.",
+  "faqs": "Q: What is the airport code for Ibadan Airport?\nA: The IATA code is IBA and the ICAO code is DNIB.\n\nQ: Which airlines operate from Ibadan Airport?\nA: The airport is primarily served by domestic Nigerian carriers offering scheduled flights to Lagos, Abuja, and other major cities within the country.\n\nQ: How far is Ibadan Airport from the city center?\nA: The airport is located roughly 10 km (about 6 miles) southeast of central Ibadan, typically a 20-30 minute drive depending on traffic.\n\nQ: Does Ibadan Airport have international flights?\nA: The airport primarily handles domestic operations, with passengers typically using Lagos or Abuja for international connections.",
+  "transport_tips": "Taxis and ride-hailing services are the most common ways to reach the airport from Ibadan city center. Allow extra time during peak traffic hours, particularly on Lagos-Ibadan expressway approaches. Car rental services can be arranged in advance for travelers planning to explore the wider Oyo State region.",
+  "local_tip": "Frequent visitors recommend arriving early during the rainy season (April to October), as flight delays due to weather are common, and having local currency (naira) on hand for taxi fares as card payment options may be limited.",
+  "generatedAt": "2026-06-29T11:36:03.298Z",
+  "model": "MiniMax-M3"
+}

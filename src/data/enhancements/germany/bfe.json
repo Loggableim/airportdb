@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BFE",
+    "icao": "EDLI",
+    "name": "Bielefeld Airport",
+    "country": "Germany",
+    "city": "Bielefeld",
+    "lat": 51.9647,
+    "lon": 8.5444,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Bielefeld Airport is a regional airport serving the city of Bielefeld in the eastern Westphalia region of North Rhine-Westphalia, Germany. Originally developed from a former military airfield, it primarily handles general aviation, private flights, flight training, and a small number of scheduled and charter services. The airport provides a convenient alternative to larger hubs like Paderborn or Hannover for travelers in the Ostwestfalen-Lippe region.",
+  "faqs": "Q: What types of flights operate from Bielefeld Airport?\nA: The airport mainly serves general aviation, business flights, flight training operations, and a limited number of scheduled and seasonal charter flights.\n\nQ: How far is the airport from Bielefeld city center?\nA: The airport is located approximately 8 to 10 kilometers southwest of the city center, typically a 15 to 20 minute drive depending on traffic.\n\nQ: Are there customs and immigration facilities at BFE?\nA: As a smaller regional airport, customs and border control services are generally available on request for international flights rather than on a continuous basis.\n\nQ: Can I park long-term at Bielefeld Airport?\nA: Yes, the airport offers on-site parking options for passengers, though capacity is more limited than at major international airports.",
+  "transport_tips": "Taxis and rental cars are the most convenient ways to reach the airport, with a typical journey from the city center taking around 15 to 20 minutes. The airport is well connected to the A2 and A33 motorways, making it easily accessible by",
+  "local_tip": "",
+  "generatedAt": "2026-06-26T08:19:32.680Z",
+  "model": "MiniMax-M3"
+}

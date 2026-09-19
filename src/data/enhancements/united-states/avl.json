@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AVL",
+    "icao": "KAVL",
+    "name": "Asheville Regional Airport",
+    "country": "United States",
+    "city": "Asheville",
+    "lat": 35.4355,
+    "lon": -82.5419,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Asheville Regional Airport (AVL) is a medium-sized public airport located in Fletcher, North Carolina, approximately 15 miles south of downtown Asheville. Nestled in the Blue Ridge Mountains, it serves as the primary gateway to Western North Carolina, a region known for the Biltmore Estate, the Blue Ridge Parkway, and a thriving craft beer and arts scene. The airport has experienced steady growth in recent years, expanding its route network to accommodate the area's booming tourism industry.",
+  "faqs": "Q: How far is Asheville Regional Airport from downtown Asheville?\nA: The airport is approximately 15 miles south of downtown Asheville, typically a 20-25 minute drive via I-26 depending on traffic.\n\nQ: What airlines serve Asheville Regional Airport?\nA: AVL is served by major carriers including American, Delta, United, Southwest, and Allegiant, offering nonstop flights to numerous domestic destinations.\n\nQ: Does the airport have rental cars available?\nA: Yes, rental car counters are located on-site and include major brands such as Enterprise, Hertz, Avis, Budget, and National.\n\nQ: Is there a hotel shuttle or public transit option at AVL?\nA: Limited hotel shuttle services are available, and there is no direct public bus route, so rental cars, rideshares, or pre-arranged shuttles are the most common options.\n\n",
+  "transport_tips": "Renting a car is highly recommended for visiting the Asheville region, as many attractions like the Biltmore Estate and Blue Ridge Parkway are spread across mountainous terrain not easily accessible by transit. Rideshare services like Uber and Lyft are available but can experience longer wait times and surge pricing during peak travel periods. If driving yourself, note that the airport sits at a higher elevation, so expect cooler temperatures and occasional winter weather delays from November through March.",
+  "local_tip": "If you have a layover or early arrival, head to the airfield observation area just outside the terminal, which offers excellent plane spotting with the Blue Ridge Mountains as a scenic backdrop—something frequent travelers say is one of the most picturesque airport views in the Southeast.",
+  "generatedAt": "2026-06-29T01:55:00.182Z",
+  "model": "MiniMax-M3"
+}

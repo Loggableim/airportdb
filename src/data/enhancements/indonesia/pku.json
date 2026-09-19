@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PKU",
+    "icao": "WIBB",
+    "name": "Sultan Syarif Kasim II International Airport / Roesmin Nurjadin AFB",
+    "country": "Indonesia",
+    "city": "Pekanbaru",
+    "lat": 0.4586,
+    "lon": 101.4443,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sultan Syarif Kasim II International Airport is a dual-use civilian and military facility serving Pekanbaru, the capital of Riau Province on the Indonesian island of Sumatra. The civilian terminal operates alongside Roesmin Nurjadin Air Force Base, making it a key gateway for the region's oil, gas, and palm oil industries as well as tourism to nearby attractions. The airport handles domestic flights to major Indonesian cities and limited international routes, particularly to Malaysia and Singapore.",
+  "faqs": "Q: How far is the airport from Pekanbaru city center?\nA: The airport is located approximately 7-10 kilometers southeast of downtown Pekanbaru, typically a 20-30 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, the airport serves several international routes, primarily to Kuala Lumpur and Singapore, in addition to its extensive domestic network.\n\nQ: Are there currency exchange services available?\nA: Yes, money changers and ATMs are available in the terminal for converting to Indonesian Rupiah.\n\nQ: Is the airport suitable for connecting flights?\nA: Connections are mainly domestic-to-domestic; international connections may require transit through Jakarta (CGK) for most travelers.",
+  "transport_tips": "Taxis and ride-hailing services like Grab are readily available outside the terminal for the trip into Pekanbaru city. Damri airport buses operate scheduled services to several points in the city at affordable rates. Allow extra travel time during rainy season, as flooding in low-lying areas around the airport can slow ground transportation.",
+  "local_tip": "If you have a layover or early flight, the warung (small eateries) just outside the terminal often serve fresher, cheaper Padang-style nasi goreng than the in-terminal food courts—locals prefer grabbing a quick plate there before heading to check-in.",
+  "generatedAt": "2026-06-29T07:19:40.280Z",
+  "model": "MiniMax-M3"
+}

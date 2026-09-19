@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UMB",
+    "icao": "",
+    "name": "Kalumbila Airport",
+    "country": "Zambia",
+    "city": "Kalumbila",
+    "lat": -12.2536,
+    "lon": 25.4443,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Kalumbila Airport is a medium-sized regional airport in Zambia's North-Western Province, primarily serving the mining communities and operations in the Kalumbila area. It provides vital air connectivity for workers and visitors associated with the nearby Sentinel copper mine operated by First Quantum Minerals. The airport facilitates charter and scheduled flights linking the remote mining district to major Zambian hubs such as Lusaka and Solwezi.",
+  "faqs": "Q: What is Kalumbila Airport primarily used for?\nA: The airport mainly serves the mining industry in the region, particularly the Sentinel copper mine, and provides transport for workers and business travelers.\n\nQ: Are there commercial passenger flights to Kalumbila?\nA: Scheduled commercial flights are limited; most services are operated by charter or company-arranged flights supporting mining operations.\n\nQ: Where is Kalumbila Airport located?\nA: It is situated in the North-Western Province of Zambia, near the town of Kalumbila and relatively close to the border with the Democratic Republic of the Congo.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers basic terminal services, a short runway suitable for regional turboprop aircraft, and limited passenger amenities.\n\n",
+  "transport_tips": "Ground transport options are limited, so travelers typically rely on pre-arranged mine shuttles, company transport, or private transfers arranged through their employer or accommodation. The town of Kalumbila and the mining site are a short drive from the airport, but there is no public bus service. Visitors should confirm pickup arrangements in advance, as taxi availability on-site can be unreliable.",
+  "local_tip": "If visiting the area for the first time, coordinate your flight arrival with your host's transport schedule, as the airport has limited staff outside of scheduled charter arrivals and can feel very quiet at off-peak times.",
+  "generatedAt": "2026-06-26T13:07:12.260Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RIC",
+    "icao": "KRIC",
+    "name": "Richmond International Airport",
+    "country": "United States",
+    "city": "Richmond",
+    "lat": 37.5052,
+    "lon": -77.3197,
+    "type": "large_airport",
+    "size": 1475
+  },
+  "summary": "Richmond International Airport (RIC) is the primary aviation gateway for Virginia's capital region, located about 7 miles southeast of downtown Richmond in Sandston. Originally established as a military airfield during World War II, it was renamed in honor of Admiral Richard E. Byrd, the famed polar explorer and Virginia native. Today it operates a single modern terminal serving major domestic carriers with nonstop service to numerous U.S. destinations.",
+  "faqs": "Q: How far is Richmond International Airport from downtown Richmond?\nA: The airport is approximately 7 miles southeast of downtown Richmond, typically a 15-20 minute drive depending on traffic.\n\nQ: Does RIC have any nonstop international flights?\nA: RIC primarily offers domestic service, though some seasonal flights to international destinations in Mexico and the Caribbean have been available.\n\nQ: How many terminals does Richmond International Airport have?\nA: RIC operates a single terminal building divided into two concourses (A and B), making navigation straightforward for travelers.\n\nQ: Is there on-site parking available at RIC?\nA: Yes, the airport offers multiple parking options including short-term, long-term, and economy lots with shuttle service.",
+  "transport_tips": "Ride-share services like Uber and Lyft are available at designated pickup zones outside baggage claim and offer the fastest option to downtown. The GRTC Transit bus system provides affordable public transportation, and rental car counters are conveniently located on-site. Taxis also queue outside the terminal, and I-64 and I-295 provide direct highway access to the airport.",
+  "local_tip": "If you have time before your flight, stop by the Virginia is for Lovers gift shop or grab a meal at one of the local Virginia-themed restaurants in the terminal—it's a nice way to sample regional flavors like Virginia ham or craft sodas without leaving the airport.",
+  "generatedAt": "2026-06-28T16:12:59.680Z",
+  "model": "MiniMax-M3"
+}

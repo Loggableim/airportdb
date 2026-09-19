@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FSP",
+    "icao": "LFVP",
+    "name": "Saint-Pierre Pointe-Blanche Airport",
+    "country": "Saint Pierre and Miquelon",
+    "city": "Saint-Pierre",
+    "lat": 46.7627,
+    "lon": -56.175,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Saint-Pierre Pointe-Blanche Airport (FSP/LFVP) is the sole commercial airport serving the French overseas collectivity of Saint Pierre and Miquelon, a small archipelago located in the North Atlantic Ocean off the southern coast of Newfoundland, Canada. The airport sits on Pointe Blanche, on the eastern side of Saint-Pierre island, and handles all scheduled air traffic for the territory's roughly 6,000 residents. It serves as a vital lifeline connecting this remote French-administered territory to Canada and occasionally to mainland France.",
+  "faqs": "Q: How do you get to Saint Pierre and Miquelon?\nA: The only practical way to reach Saint-Pierre is by air via Pointe-Blanche Airport, with regular flights connecting to St. John's, Newfoundland, Canada. There are no passenger ferry services and no road connections to the outside world.\n\nQ: Are there direct flights from France to Saint-Pierre?\nA: Direct flights from mainland France are rare and seasonal. Most travelers connect through St. John's, Newfoundland, which offers the most reliable scheduled service.\n\nQ: How long is the runway at Pointe-Blanche Airport?\nA: The runway is relatively short, limiting it to smaller regional turboprop aircraft. Larger jets cannot operate there.\n\nQ: Does Saint-Pierre use euros even though it's near Canada?\nA: Yes, Saint Pierre and Miquelon is officially part of France, so the euro is the official currency, though Canadian dollars are often accepted by local businesses.",
+  "transport_tips": "The airport is just a few minutes' drive from the town of Saint-Pierre, so taxis and rental cars are readily available curbside on arrival. Since there is no public transit system on the island, pre-booking a rental car or arranging hotel pickup is recommended, especially during the winter months. Note that flights are weather-dependent and can be delayed by fog, which is common in the North Atlantic.",
+  "local_tip": "If you have a few hours to spare between flights or before check-in, walk the short coastal path from the airport toward the town center — it offers excellent views across the harbor and a chance to spot seabirds and the occasional passing whale during summer months.",
+  "generatedAt": "2026-06-29T09:34:00.540Z",
+  "model": "MiniMax-M3"
+}

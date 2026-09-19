@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LBG",
+    "icao": "LFPB",
+    "name": "Paris-Le Bourget International Airport",
+    "country": "France",
+    "city": "Paris",
+    "lat": 48.9623,
+    "lon": 2.4365,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Paris-Le Bourget Airport, located about 7 km northeast of central Paris, is Europe's busiest dedicated business aviation airport and a historic aviation landmark. It was here that Charles Lindbergh completed his legendary 1927 solo transatlantic crossing, and the airfield later became the traditional venue for the Paris Air Show. Today, LBG serves exclusively private, charter, and governmental flights, with no scheduled commercial airline service.",
+  "faqs": "Q: Does Paris-Le Bourget have commercial airline service?\nA: No. LBG is dedicated to business aviation, private jets, and government flights. Commercial passengers should use Charles de Gaulle (CDG) or Orly (ORY).\n\nQ: What is the Paris Air Show and is it held at Le Bourget?\nA: The Paris Air Show (Salon International de l'Aéronautique et de l'Espace) is the world's largest aerospace trade event, held biennially in odd years at Le Bourget.\n\nQ: Is there a museum at the airport?\nA: Yes, the Musée de l'Air et de l'Espace (Air and Space Museum) is located on the airfield, featuring historic aircraft including early aviation milestones.\n\nQ: How far is Le Bourget from central Paris?\nA: It is approximately 10-12 km from central Paris, typically a 30-45 minute drive depending on traffic.\n\n",
+  "transport_tips": "The RER B train does not stop at Le Bourget itself, but the nearby Le Bourget RER station on Line B is connected to the airport area. Taxis and pre-booked private transfers are the most common choices for passengers arriving by private jet. Expect significantly longer travel times during peak hours and avoid the Boulevard Périphérique during rush periods.",
+  "local_tip": "If you have time between flights or during a visit, stop by the Musée de l'Air et de l'Espace on the airfield grounds—it houses an exceptional collection of historic aircraft, including a Concorde prototype, and entrance is often accessible to the public without terminal clearance.",
+  "generatedAt": "2026-06-28T19:02:48.257Z",
+  "model": "MiniMax-M3"
+}

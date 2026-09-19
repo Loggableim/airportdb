@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IRI",
+    "icao": "HTIR",
+    "name": "Iringa Airport",
+    "country": "Tanzania",
+    "city": "Nduli",
+    "lat": -7.6686,
+    "lon": 35.7521,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Iringa Airport is a regional airport serving the city of Iringa in Tanzania's Southern Highlands. It functions primarily as a gateway for visitors heading to Ruaha National Park, Tanzania's largest national park and one of the most important wildlife reserves in East Africa. The airport handles domestic charter and scheduled flights, supporting the region's growing tourism and agricultural economy.\n\n",
+  "faqs": "Q: What airlines fly to Iringa Airport?\nA: Iringa Airport is primarily served by domestic charter and scheduled operators, including Auric Air and Coastal Aviation, which connect it with Dar es Salaam and other regional hubs.\n\nQ: How far is the airport from Iringa city center?\nA: The airport is located in Nduli, approximately 10-12 kilometers from Iringa's town center, typically a 20-25 minute drive by road.\n\nQ: Is Iringa Airport a common entry point for safari tourists?\nA: Yes, it is the main air gateway to Ruaha National Park, offering a much shorter transfer time compared to overland travel from Dar es Salaam or other major cities.\n\nQ: Does the airport have international flights?\nA: No, Iringa Airport handles domestic flights only.\n\n",
+  "transport_tips": "Taxis and pre-arranged hotel transfers are the most reliable ways to reach Iringa town or Ruaha National Park from the airport. Roads connecting the airport to Iringa are paved but can be in variable condition, so allow extra time during the rainy season. It is advisable to arrange ground transport in advance, especially for safari connections.\n\n",
+  "local_tip": "If you're connecting onward to Ruaha National Park, schedule your flight for early morning — this gives you the best chance of a same-day game drive, as the park entrance is roughly 2-3 hours by road from the airport.",
+  "generatedAt": "2026-06-26T10:32:54.478Z",
+  "model": "MiniMax-M3"
+}

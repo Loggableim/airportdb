@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PGM",
+    "icao": "",
+    "name": "Port Graham Airport",
+    "country": "United States",
+    "city": "Port Graham",
+    "lat": 59.3484,
+    "lon": -151.83,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Port Graham Airport (PGM) is a small public-use airstrip serving the remote Sugpiaq community of Port Graham on Alaska's Kenai Peninsula. The airport features a single gravel runway and provides a critical transportation link for residents, mail delivery, medical evacuations, and supplies, as the village has no road connection to the outside world. It primarily supports general aviation and commuter flights connecting the community to nearby Homer and Anchorage.",
+  "faqs": "Q: How do you get to Port Graham?\nA: Most visitors arrive by small aircraft or by boat, as Port Graham is not connected to Alaska's road system. The airport is the primary means of year-round access to the community.\n\nQ: Are there commercial flights to Port Graham Airport?\nA: Scheduled commercial service is limited; most flights are operated by small regional carriers or on-demand charter services from nearby Homer or Anchorage.\n\nQ: What facilities are available at PGM?\nA: The airport is a basic, unattended facility with a gravel runway and minimal infrastructure. There is no terminal building, so passengers typically wait outdoors near the aircraft parking area.\n\nQ: Can I drive to the airport?\nA: There is no road access to Port Graham, so all travel to the airport is on foot within the village or by small boat from surrounding waters.",
+  "transport_tips": "Arrange transportation well in advance, as flights to Port Graham are infrequent and weather-dependent, especially during winter months. Small aircraft typically land on the gravel runway, so pack light and prepare for a minimal-amenity arrival. Boat or skiff service from nearby Nanwalek or Seldovia can serve as an alternative when weather grounds flights.",
+  "local_tip": "Tide charts matter as much as flight schedules here—ferry and boat connections from neighboring communities are heavily influenced by tidal conditions in Kachemak Bay, so always check local tide times before planning ground or water transfers.",
+  "generatedAt": "2026-06-26T22:55:36.053Z",
+  "model": "MiniMax-M3"
+}

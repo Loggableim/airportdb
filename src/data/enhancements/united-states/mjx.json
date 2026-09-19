@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MJX",
+    "icao": "KMJX",
+    "name": "Ocean County Airport",
+    "country": "United States",
+    "city": "Toms River",
+    "lat": 39.9275,
+    "lon": -74.2924,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Ocean County Airport (MJX) is a small general aviation facility located in Berkeley Township near Toms River, New Jersey, serving as a convenient gateway to the Jersey Shore region. The airport primarily supports private aircraft, flight training, and corporate aviation, easing traffic from larger hubs like Atlantic City and Newark. Its location provides easy access to popular shore destinations including Island Beach State Park and Seaside Heights.",
+  "faqs": "Q: What type of airport is Ocean County Airport?\nA: It is a small general aviation airport primarily serving private pilots, flight schools, and corporate aircraft, with no scheduled commercial service.\n\nQ: How far is MJX from the Jersey Shore beaches?\nA: The airport is just a short drive from popular shore destinations including Seaside Heights, Lavallette, and Island Beach State Park.\n\nQ: Are there car rental services at the airport?\nA: Rental cars are typically available through nearby providers in Toms River, but it is recommended to arrange rentals in advance as on-site counters are limited.\n\nQ: Does the airport offer fuel services?\nA: Yes, the airport provides both avgas and jet fuel services for general aviation pilots.",
+  "transport_tips": "The airport is best reached by car, located off US Route 9 and near the Garden State Parkway, making it accessible from much of central New Jersey. Parking is available on-site, and rental cars or rideshare services can be arranged in nearby Toms River. Public transit options are limited, so driving is the most practical choice for visitors.",
+  "local_tip": "Visit Robert J. Miller Air Park, the recreational area adjacent to the airport, which features walking trails, sports fields, and a dog park—a great way to spend time between flights or while waiting for passengers.",
+  "generatedAt": "2026-06-27T01:47:39.864Z",
+  "model": "MiniMax-M3"
+}

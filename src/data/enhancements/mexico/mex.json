@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MEX",
+    "icao": "MMMX",
+    "name": "Mexico City Benito Juárez International Airport",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "lat": 19.4358,
+    "lon": -99.0703,
+    "type": "large_airport",
+    "size": 1025275
+  },
+  "summary": "Mexico City Benito Juárez International Airport (MEX) is the busiest airport in Mexico and Latin America, serving as the primary gateway to the country's capital. Originally opened in 1929, it has grown into a major hub for Aeroméxico and serves over 50 million passengers annually. The airport features two terminals and sits just east of downtown Mexico City at an elevation of approximately 7,300 feet.",
+  "faqs": "Q: How far is the airport from Mexico City's historic center?\nA: The airport is approximately 8-10 km (5-6 miles) east of the Zócalo and historic center, typically a 20-40 minute drive depending on traffic.\n\nQ: Does the airport have free Wi-Fi?\nA: Yes, free Wi-Fi is available throughout both terminals, though connection speeds may vary during peak hours.\n\nQ: Are there currency exchange services available?\nA: Yes, multiple currency exchange counters and ATMs are available in both Terminal 1 and Terminal 2, including 24-hour options in some areas.\n\nQ: Can I walk between Terminal 1 and Terminal 2?\nA: No, the terminals are not connected by foot. A free Aerotrén monorail shuttle operates between Terminal 1 and Terminal 2, running every few minutes.",
+  "transport_tips": "The authorized taxi desk inside the terminal offers fixed-rate rides to designated zones, which is safer and more predictable than hailing street taxis. The Metro system has a station (Terminal Aérea) connected to Terminal 1 via a walkway, providing a budget-friendly option to reach downtown for around 5 MXN. Ride-sharing services like Uber and DiDi operate at the airport but require walking to designated pickup areas outside the terminals.",
+  "local_tip": "Terminal 1 is significantly larger and older with more chaotic energy, while Terminal 2 is modern and primarily serves Aeroméxico and SkyTeam alliance flights—check your airline's terminal in advance to avoid a costly and time-consuming transfer between them during Mexico City's notorious traffic.",
+  "generatedAt": "2026-06-28T14:58:02.067Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CKZ",
+    "icao": "LTBH",
+    "name": "Çanakkale Airport",
+    "country": "Turkey",
+    "city": "Çanakkale",
+    "lat": 40.1377,
+    "lon": 26.4268,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Çanakkale Airport (CKZ) serves the historic city of Çanakkale in northwestern Turkey, situated near the Dardanelles Strait. The airport primarily functions as a gateway to key historical sites including the Gallipoli battlefields, the ancient ruins of Troy, and the Gallipoli Peninsula. It handles scheduled domestic flights and sees increased seasonal traffic during commemorative events such as ANZAC Day.",
+  "faqs": "Q: How far is Çanakkale Airport from the city center?\nA: The airport is approximately 3 km north of central Çanakkale, making it a short drive by taxi or shuttle.\n\nQ: Are there international flights from Çanakkale Airport?\nA: The airport predominantly operates domestic flights, mainly to Istanbul. International visitors typically connect through Istanbul or other major Turkish hubs.\n\nQ: Which airlines operate from Çanakkale Airport?\nA: Turkish Airlines and AJet (formerly Anadolu Jet) operate regular scheduled services, primarily connecting Çanakkale with Istanbul.\n\nQ: Does the airport operate at night?\nA: Flight operations are generally limited to daylight hours, with most scheduled services running during the morning and afternoon.",
+  "transport_tips": "Taxis are readily available outside the terminal and offer the most convenient transfer to the city center or ferry terminal for cross-strait trips. Havaş airport shuttle buses connect the airport with central Çanakkale on flight days. Renting a car is recommended if you plan to visit Gallipoli or Troy, as public transport to these sites from the city is limited.",
+  "local_tip": "If visiting Gallipoli battlefields or the Gallipoli Peninsula, consider booking a guided tour from Çanakkale town rather than the airport — operators often include ferry crossings and offer richer historical context that enhances the experience.",
+  "generatedAt": "2026-06-29T20:47:22.318Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BCD",
+    "icao": "RPVB",
+    "name": "Bacolod-Silay International Airport",
+    "country": "Philippines",
+    "city": "Bacolod City",
+    "lat": 10.7762,
+    "lon": 123.0189,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Bacolod-Silay International Airport (BCD) serves as the main gateway to Bacolod City and the province of Negros Occidental in the Philippines. Opened in 2008, it replaced the older Bacolod City Domestic Airport and features architecture inspired by the sugar haciendas that historically defined the region. The airport handles both domestic flights and limited international services, connecting the Visayas to Manila, Cebu, and select international destinations.",
+  "faqs": "Q: How far is Bacolod-Silay Airport from Bacolod City center?\nA: The airport is located in Silay City, approximately 15-20 kilometers north of downtown Bacolod, with travel times of around 30-45 minutes depending on traffic.\n\nQ: Does the airport have international flights?\nA: Yes, BCD handles a small number of international flights, primarily to destinations in Southeast Asia, though the majority of operations are domestic routes to Manila and Cebu.\n\nQ: Are there food and shopping options at the airport?\nA: The terminal offers a modest selection of restaurants, cafes, and duty-free shops for departing international passengers, though options are limited compared to larger Philippine airports.\n\nQ: Is the airport accessible for passengers with disabilities?\nA: The terminal provides wheelchair accessibility, ramps, and assistance services for passengers with reduced mobility.",
+  "transport_tips": "Taxis and ride-hailing apps like Grab are readily available outside the terminal for the trip into Bacolod City. Pre-booking a hotel transfer or arranging pickup with accommodations is recommended during peak travel periods. Public jeepneys also serve the route between Silay and Bacolod, offering a budget-friendly but slower option.",
+  "local_tip": "Time your arrival or departure to catch a sunset over the sugarcane fields surrounding the airport—the approach and takeoff offer some of the best views of Negros' iconic rural landscape.",
+  "generatedAt": "2026-06-28T22:46:16.301Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PPA",
+    "icao": "KPPA",
+    "name": "Perry Lefors Field",
+    "country": "United States",
+    "city": "Pampa",
+    "lat": 35.613,
+    "lon": -100.996,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Perry Lefors Field is a small general aviation airport serving Pampa, a city in the Texas Panhandle's Gray County. Named after a notable local figure, the facility primarily supports private aircraft, flight training, and occasional business aviation in the region. The airport provides essential air access to the rural communities of the northern Texas plains.",
+  "faqs": "Q: What type of airport is Perry Lefors Field?\nA: It is a small general aviation airport with no scheduled commercial service.\n\nQ: Who was Perry Lefors?\nA: The airport is named after Perry Lefors, a Texas native who became a renowned military test pilot, particularly recognized for his role in pioneering dive-bombing techniques.\n\nQ: Does the airport have commercial flights?\nA: No, Perry Lefors Field does not offer scheduled commercial airline service; it caters primarily to private and general aviation.\n\nQ: What facilities are available at the airport?\nA: The airport features runways suitable for small to mid-sized aircraft, along with basic services such as fuel and tie-down parking for general aviation users.\n\n",
+  "transport_tips": "The airport is located on the western edge of Pampa, just a short drive from the city center via local roads. Travelers will need a personal vehicle, rental car, or taxi service, as public transit options to the airport are limited. Commercial air travelers from the region typically use larger airports such as Amarillo's Rick Husband International (AMA) or Lubbock's Preston Smith International (LBB).",
+  "local_tip": "If you're flying in for a visit, remember that Pampa sits at over 3,000 feet of elevation, so expect slightly longer takeoff rolls and reduced aircraft performance compared to sea-level planning charts.",
+  "generatedAt": "2026-06-27T14:01:08.178Z",
+  "model": "MiniMax-M3"
+}

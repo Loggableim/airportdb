@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BZV",
+    "icao": "FCBB",
+    "name": "Maya-Maya International Airport",
+    "country": "Republic of the Congo",
+    "city": "Brazzaville",
+    "lat": -4.2517,
+    "lon": 15.253,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Maya-Maya International Airport is the primary international gateway to Brazzaville, the capital of the Republic of the Congo. Located just a few kilometers from the city center on the north bank of the Congo River, it serves as a key hub for Central African air travel and offers direct connections to several regional and intercontinental destinations. The airport is named after the 'Maya-Maya,' a term historically associated with Congolese resistance and independence movements.",
+  "faqs": "Q: How far is Maya-Maya Airport from central Brazzaville?\nA: The airport is approximately 5 kilometers northwest of Brazzaville's city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines operate from Maya-Maya International Airport?\nA: Major carriers serving BZV include Air France, Royal Air Maroc, Ethiopian Airlines, Turkish Airlines, and regional operators like Air Congo, ASKY Airlines, and RwandAir.\n\nQ: Can I cross to Kinshasa from Maya-Maya Airport?\nA: No, the airport is on the Brazzaville side of the Congo River. To reach Kinshasa, you would need to cross via the Kinshasa-DRC border and travel to N'Djili International Airport separately.\n\nQ: Does the airport offer international connections to Europe?\nA: Yes, there are direct flights to Paris operated by Air France, typically the longest nonstop route available from Brazzaville.\n\n",
+  "transport_tips": "Taxis are the most common way to reach the city center; agree on a fare before departure as meters are rarely used. Official airport taxis and pre-booked hotel shuttles are the safest options, especially after dark. Allow extra time during peak hours and rainy seasons, as road congestion around the airport can be significant.",
+  "local_tip": "If traveling onward to Kinshasa across the Congo River, consider taking a ferry from the city port rather than attempting the land route via the border bridge, as it is often faster and avoids heavy congestion.",
+  "generatedAt": "2026-06-28T20:47:06.082Z",
+  "model": "MiniMax-M3"
+}

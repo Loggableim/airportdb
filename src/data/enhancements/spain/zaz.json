@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZAZ",
+    "icao": "LEZG",
+    "name": "Zaragoza Airport",
+    "country": "Spain",
+    "city": "Zaragoza",
+    "lat": 41.6662,
+    "lon": -1.0415,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Zaragoza Airport is a joint civilian-military airport located approximately 10 km southwest of Zaragoza city centre in the Aragon region of northeastern Spain. It has historical significance dating back to the Spanish Civil War and currently serves as a dual-use facility hosting both commercial passenger flights and a Spanish Air Force base. The airport has grown into an important logistics hub, notably serving as a key distribution point for major Spanish retailers.",
+  "faqs": "Q: How far is Zaragoza Airport from the city centre?\nA: The airport is located about 10 km southwest of Zaragoza's city centre, with typical transfer times of 15-25 minutes by car.\n\nQ: Does Zaragoza Airport serve both civilian and military purposes?\nA: Yes, it is a joint-use airport, sharing facilities with the Zaragoza Air Base, which is home to several Spanish Air Force units.\n\nQ: Are there international flights from Zaragoza?\nA: The airport offers a mix of domestic Spanish routes and seasonal or scheduled flights to several European destinations, though its network is more limited than Spain's larger hubs.\n\nQ: Is the airport significant for cargo operations?\nA: Yes, Zaragoza Airport has become a notable air cargo hub in southern Europe, particularly supporting e-commerce and fashion logistics operations.",
+  "transport_tips": "The most convenient option to reach the city is by taxi, which takes roughly 15-20 minutes and costs around €20-25. A regular bus line connects the airport with Zaragoza's central bus station, offering an affordable alternative for budget-conscious travellers. Renting a car is also straightforward, with several agencies operating at the terminal and direct access to the A-2 motorway linking to Madrid and Barcelona.",
+  "local_tip": "Visit the airport's observation area near the Air Base perimeter on weekends—you can often watch military aircraft and occasional airshow rehearsals from the public viewing zones, a unique feature you won't find at most civilian airports.",
+  "generatedAt": "2026-06-28T20:12:45.182Z",
+  "model": "MiniMax-M3"
+}

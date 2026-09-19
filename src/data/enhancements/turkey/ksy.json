@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KSY",
+    "icao": "LTCF",
+    "name": "Kars Airport",
+    "country": "Turkey",
+    "city": "Kars",
+    "lat": 40.5622,
+    "lon": 43.115,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kars Airport serves the remote northeastern Turkish city of Kars, a high-altitude region known for its harsh winters, Soviet-era architecture, and proximity to the medieval ruins of Ani. The medium-sized facility primarily handles domestic flights connecting this eastern Anatolian hub to Istanbul and Ankara, serving both business travelers and tourists heading to the region's ski resorts.",
+  "faqs": "Q: What airlines fly to Kars Airport?\nA: Turkish Airlines operates regular scheduled domestic flights to Kars, primarily from Istanbul Airport and Ankara Esenboğa, with frequencies increasing during the winter ski season.\n\nQ: How far is Kars Airport from the city center?\nA: The airport is approximately 6-8 kilometers south of central Kars, with a typical transfer time of 10-15 minutes by road.\n\nQ: Does Kars Airport handle international flights?\nA: The airport is primarily a domestic facility, though its cross-border proximity has historically led to occasional charter or seasonal regional services.\n\nQ: When is the best time to fly to Kars?\nA: Winter (December through March) is popular for skiing at Sarıkamış, while summer and early autumn offer easier travel and access to the UNESCO-listed Ani ruins nearby.\n\n",
+  "transport_tips": "Taxis and shared shuttle services (servis) are available outside the terminal and can be arranged in advance through hotels, as ride-hailing apps have limited availability in the region. Renting a car is recommended if you plan to visit Sarıkamış ski resort or the Ani ruins, which are roughly 50 km and 42 km away respectively. Winter road conditions can be severe, so allow extra travel time between November and March.",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T11:36:56.955Z",
+  "model": "MiniMax-M3"
+}

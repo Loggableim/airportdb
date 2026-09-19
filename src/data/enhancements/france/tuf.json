@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TUF",
+    "icao": "LFOT",
+    "name": "Tours Val de Loire Airport",
+    "country": "France",
+    "city": "Tours, Indre-et-Loire",
+    "lat": 47.4322,
+    "lon": 0.7276,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tours Val de Loire Airport (TUF) is a regional airport serving the historic city of Tours in central France, gateway to the renowned Loire Valley. The airport primarily handles seasonal and low-cost European flights, providing convenient access to the region's famous Renaissance châteaux and wine country. Its location makes it a popular entry point for tourists exploring the UNESCO-listed Loire Valley.",
+  "faqs": "Q: How far is Tours Val de Loire Airport from the city center?\nA: The airport is located approximately 6 km (3.7 miles) northeast of Tours city center, with a journey time of around 15-20 minutes by car or shuttle.\n\nQ: Which airlines operate from Tours Airport?\nA: The airport is primarily served by low-cost and seasonal carriers offering flights to destinations across Europe, with Ryanair historically being a main operator.\n\nQ: Are there direct train connections from the airport to Paris?\nA: There is no train station at the airport itself, but Tours' main railway station (Tours Centre) offers frequent direct TGV services to Paris Montparnasse taking about 1 hour 15 minutes.\n\nQ: Can I rent a car at Tours Airport?\nA: Yes, several car rental agencies operate at the airport, making it convenient for travelers planning to explore the Loire Valley châteaux independently.",
+  "transport_tips": "The Fil Bleu bus network operates route 30 connecting the airport to Tours city center, with services timed to flight arrivals. Taxis are available outside the terminal, and booking in advance for departure is recommended during peak season. For visiting the châteaux, renting a car from the airport offers the greatest flexibility to explore the Loire Valley at your own pace.",
+  "local_tip": "If you have a long layover or early arrival, consider visiting the Tours city center's Place Plumereau for a quick coffee and to admire the medieval half-timbered houses — it's only a 15-minute taxi ride from the airport and the perfect way to stretch your legs in authentic Touraine atmosphere.",
+  "generatedAt": "2026-06-29T05:20:48.631Z",
+  "model": "MiniMax-M3"
+}

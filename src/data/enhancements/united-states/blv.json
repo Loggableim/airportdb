@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BLV",
+    "icao": "KBLV",
+    "name": "Scott AFB/Midamerica Airport",
+    "country": "United States",
+    "city": "Belleville",
+    "lat": 38.5452,
+    "lon": -89.8352,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Scott AFB/Midamerica Airport (BLV) is a joint civilian-military airfield located in Belleville, Illinois, approximately 20 miles east of downtown St. Louis. It shares its runway with Scott Air Force Base, headquarters of U.S. Transportation Command and Air Mobility Command, making it a strategic hub for both military logistics and limited commercial service. The airport serves as a low-cost alternative to St. Louis Lambert International for travelers in the Metro East region.",
+  "faqs": "Q: Does Scott AFB/Midamerica Airport share facilities with an active military base?\nA: Yes, the airport operates alongside Scott Air Force Base. Military and civilian traffic share the same runway, though they use separate terminals and facilities.\n\nQ: Which airlines fly out of BLV?\nA: BLV is primarily served by low-cost carriers offering nonstop leisure routes, most notably Allegiant Air. Flight options are limited compared to larger nearby airports.\n\nQ: Is Scott AFB/Midamerica Airport the same as St. Louis Lambert?\nA: No, BLV is a separate, smaller airport located in Illinois across the Mississippi River from St. Louis. It is roughly 45 minutes from downtown St. Louis by car.\n\nQ: Does the airport offer international flights?\nA: No, BLV currently handles domestic flights only and does not have customs and border protection facilities on-site.",
+  "transport_tips": "The airport is most easily reached via Interstate 64, with exits leading directly to the terminal area. Travelers coming from downtown St. Louis should allow at least 45-60 minutes for the drive, depending on traffic crossing the Mississippi River. On-site parking is available close to the small terminal, making walk-to-gate times very short compared to larger hub airports.",
+  "local_tip": "Frequent flyers know that arriving 60-90 minutes before departure is more than enough time — the terminal is compact, lines move quickly, and you'll often be parked within steps of the check-in counter,",
+  "generatedAt": "2026-06-29T05:52:01.555Z",
+  "model": "MiniMax-M3"
+}

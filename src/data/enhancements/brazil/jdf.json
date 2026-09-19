@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JDF",
+    "icao": "SBJF",
+    "name": "Francisco de Assis Airport",
+    "country": "Brazil",
+    "city": "Juiz de Fora",
+    "lat": -21.7915,
+    "lon": -43.3861,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Francisco de Assis Airport (JDF/SBJF) serves Juiz de Fora, a major industrial and university city in the Zona da Mata region of Minas Gerais, Brazil. As a medium-sized regional facility, it supports domestic connections primarily linking the area to other parts of southeastern Brazil. The airport plays a key role for the local economy, facilitating travel for business professionals and the university's large academic community.",
+  "faqs": "Q: What airlines operate at Francisco de Assis Airport?\nA: The airport is primarily served by regional and domestic Brazilian carriers, with flights typically connecting to major hubs like São Paulo and Belo Horizonte.\n\nQ: How far is the airport from Juiz de Fora city center?\nA: The airport is located within the metropolitan area of Juiz de Fora, generally a short drive from downtown.\n\nQ: Does the airport operate international flights?\nA: No, Francisco de Assis Airport primarily handles domestic regional flights and does not currently offer international service.\n\nQ: Are there car rental services at the airport?\nA: Yes, car rental agencies typically operate at the airport, providing convenient options for travelers exploring the region.\n\n",
+  "transport_tips": "Taxis and ride-hailing apps such as Uber and 99 are commonly used for transfers between the airport and Juiz de Fora city center. The airport's proximity to the BR-040 highway makes road access straightforward for those arriving by car. Travelers should confirm return transport options in advance, as availability may be limited during late-night hours.",
+  "local_tip": "If you have time between flights, ask for a recommendation at the terminal for a local Minas Gerais snack—cheese bread (pão de queijo) and a fresh cup of Brazilian coffee are regional staples and widely loved by frequent visitors.",
+  "generatedAt": "2026-06-29T10:42:58.739Z",
+  "model": "MiniMax-M3"
+}

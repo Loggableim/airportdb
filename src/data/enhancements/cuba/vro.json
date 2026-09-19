@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VRO",
+    "icao": "MUKW",
+    "name": "Kawama Airport",
+    "country": "Cuba",
+    "city": "Santa Marta",
+    "lat": 23.124,
+    "lon": -81.3016,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Kawama Airport is a small regional airfield situated on the Hicacos Peninsula near Varadero, Cuba's premier beach resort destination. It primarily handles domestic flights, private aviation, and occasional charter operations, serving as a secondary gateway to the popular Matanzas Province coastline. The airport features a single runway and modest terminal facilities catering mostly to tourist traffic heading to the area's all-inclusive resorts.",
+  "faqs": "Q: How far is Kawama Airport from Varadero beach resorts?\nA: The airport is located on the Hicacos Peninsula just a few kilometers from Varadero's main hotel strip, making transfers to most resorts quite short.\n\nQ: Does Kawama Airport handle international flights?\nA: It primarily serves domestic routes within Cuba and some charter or private operations, with most international travelers using Juan Gualberto Gómez Airport (VRA) nearby.\n\nQ: Are there car rental services at Kawama Airport?\nA: Rental car availability is limited; most visitors arrange ground transportation through their hotels or pre-booked transfers.\n\nQ: What facilities are available inside the terminal?\nA: The terminal is small with basic amenities including a check-in area, waiting lounge, and limited snack options.\n\n",
+  "transport_tips": "Most travelers arrange pre-booked hotel transfers or taxis to reach Varadero resorts, as public transportation to the airport is limited. Private taxi services are the most reliable option for the short journey to nearby hotels. Confirming return transport arrangements in advance is recommended, as on-demand taxis can be scarce at the terminal.",
+  "local_tip": "Keep small Cuban pesos on hand for tipping porters and taxi drivers, as the airport area has limited access to currency exchange services compared to larger Cuban airports.",
+  "generatedAt": "2026-06-26T09:56:21.398Z",
+  "model": "MiniMax-M3"
+}

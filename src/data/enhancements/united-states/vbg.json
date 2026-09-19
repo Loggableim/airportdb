@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VBG",
+    "icao": "KVBG",
+    "name": "Vandenberg Space Force Base",
+    "country": "United States",
+    "city": "Lompoc",
+    "lat": 34.7373,
+    "lon": -120.584,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Vandenberg Space Force Base (VBG/KVBG) is a military installation located on California's Central Coast near Lompoc, serving as a critical launch facility for placing satellites into polar and sun-synchronous orbits. Redesignated from Vandenberg Air Force Base to a Space Force Base in 2021, it is one of the primary U.S. government space launch sites and operates Space Launch Complexes for rockets such as the Falcon 9, Atlas V, and Delta IV. The on-base airfield supports military transport, search-and-rescue operations, and occasional civilian charter flights, making it a unique hybrid of aviation and space operations.",
+  "faqs": "Q: Is Vandenberg Space Force Base open to civilian flights?\nA: No, VBG is a military airfield with restricted access. Only authorized military, government, and pre-approved civilian aircraft may land here, and prior permission from base operations is required.\n\nQ: Can visitors watch rocket launches from the base?\nA: Public viewing is limited due to security requirements, but several designated public viewing areas exist near the base, including along Highway 1 and other nearby coastal locations.\n\nQ: What is the closest commercial airport?\nA: Santa Maria Public Airport (SMX) is the nearest commercial airport, located approximately 20 miles northeast of the base, offering regular regional service.\n\nQ: Why is Vandenberg important for space launches?\nA: Its geographic location on the California coast allows rockets to launch southward over open ocean, making it ideal for placing satellites into polar orbits that pass over the Earth's poles.",
+  "transport_tips": "There is no commercial passenger service at VBG, so most travelers fly into Santa Maria Public Airport (SMX) or Santa Barbara Airport (SBA) and drive approximately 30 to 60 minutes to reach the base. Base access requires a valid military ID or pre-arranged visitor pass coordinated through a sponsoring unit. Rental cars are available at the nearby commercial airports, though rideshare services are limited in the Lompoc area.",
+  "local_tip": "If you're visiting for a launch event, plan to arrive at Lompoc the day before, as viewing areas fill early and base perimeter roads often close hours before liftoff for safety reasons.",
+  "generatedAt": "2026-06-29T10:44:33.321Z",
+  "model": "MiniMax-M3"
+}

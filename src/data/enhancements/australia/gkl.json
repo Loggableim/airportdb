@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GKL",
+    "icao": "YGKL",
+    "name": "Great Keppel Is Airport",
+    "country": "Australia",
+    "city": "Great Keppel Island",
+    "lat": -23.1846,
+    "lon": 150.9416,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Great Keppel Island Airport is a small aerodrome located on Great Keppel Island, a tropical island off the Capricorn Coast of Central Queensland, Australia, approximately 15 km from the mainland. It primarily serves general aviation and charter flights, providing aerial access to one of the most accessible islands on the Southern Great Barrier Reef. The airport is a key gateway for tourists visiting the island's renowned white-sand beaches and reef environments.",
+  "faqs": "Q: What airlines fly into Great Keppel Island Airport?\nA: The airport is primarily served by charter and private flights rather than scheduled commercial airlines, with services typically arranged through tour operators or private charter companies.\n\nQ: Is there an alternative way to reach Great Keppel Island?\nA: Yes, passenger and vehicle ferries operate from Rosslyn Bay Harbour near Yeppoon on the mainland, which is the most common and affordable way to reach the island.\n\nQ: Does the airport have a terminal with standard facilities?\nA: As a small general aviation airfield, the airport has minimal passenger infrastructure, with no large terminal building, just basic amenities for charter and private pilots.\n\nQ: How far is the airport from the island's main beaches and resorts?\nA: The airport is situated in the island's interior, and visitors typically require ground transport or a short walk to reach the main accommodation areas and beaches.\n\n",
+  "transport_tips": "Most travelers reach Great Keppel Island by ferry from Rosslyn Bay, about a 30-minute drive from Rockhampton or a short drive from Yeppoon. Charter flights can be arranged from Rockhampton Airport, which is the nearest major airport with regular scheduled services. Taxis and shuttle services connect Rosslyn Bay Harbour to surrounding towns.",
+  "local_tip": "Check tide times before booking ferry crossings, as services can be affected during low tide, and consider flying in via charter if you want to avoid potential weather-related ferry cancellations during the wet season.",
+  "generatedAt": "2026-06-27T09:24:43.721Z",
+  "model": "MiniMax-M3"
+}

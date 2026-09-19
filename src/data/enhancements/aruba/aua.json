@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AUA",
+    "icao": "TNCA",
+    "name": "Queen Beatrix International Airport",
+    "country": "Aruba",
+    "city": "Oranjestad",
+    "lat": 12.5011,
+    "lon": -70.0143,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Queen Beatrix International Airport is the main gateway to the Dutch Caribbean island of Aruba, located on the coast just minutes from the capital, Oranjestad. Named after Queen Beatrix of the Netherlands, the airport features a single modern terminal decorated with local artwork celebrating Aruban heritage. It serves as one of the busiest airports in the Dutch Caribbean, handling the majority of the island's tourism traffic.",
+  "faqs": "Q: How far is Queen Beatrix International Airport from Oranjestad?\nA: The airport is located approximately 2.5 km (1.5 miles) from downtown Oranjestad, typically a 5-10 minute drive.\n\nQ: How many terminals does the airport have?\nA: The airport has a single main terminal building that handles both international and domestic flights.\n\nQ: What languages are commonly spoken at the airport?\nA: English, Dutch, Spanish, and Papiamento are commonly spoken, reflecting Aruba's multilingual culture.\n\nQ: Is the airport open 24 hours?\nA: The airport's terminal hours vary, with the building typically opening early morning and closing late at night to match scheduled flight operations.",
+  "transport_tips": "Taxis are readily available outside the terminal and offer fixed rates to most resort areas on the island. Public buses also serve the airport with routes connecting to Oranjestad and other major destinations. Renting a car is a popular option, with several rental agency counters located in the arrivals hall, though note that a valid driver's license or international permit is required.",
+  "local_tip": "If you have a short layover or early arrival, the airport is one of the few in the Caribbean with public art galleries and rotating local exhibitions inside the terminal, making it worth exploring beyond the typical duty-free shops while waiting for your flight.",
+  "generatedAt": "2026-06-28T17:23:00.643Z",
+  "model": "MiniMax-M3"
+}

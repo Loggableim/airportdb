@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GIB",
+    "icao": "LXGB",
+    "name": "Gibraltar Airport",
+    "country": "Gibraltar",
+    "city": "Gibraltar",
+    "lat": 36.1517,
+    "lon": -5.3498,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Gibraltar Airport (GIB) is a British Overseas Territory airport uniquely positioned at the southern tip of the Iberian Peninsula, sharing a border with Spain. Its most famous feature is Winston Churchill Avenue, the main road linking Gibraltar to Spain, which crosses directly over the runway and is stopped by traffic lights whenever aircraft take off or land. The single runway is flanked by the Rock of Gibraltar on one side and the Mediterranean Sea on the other, making approaches dramatic and visually striking.",
+  "faqs": "Q: Why does road traffic stop near Gibraltar Airport?\nA: Winston Churchill Avenue, the main road between Gibraltar and Spain, crosses the airport runway. Traffic lights halt vehicles whenever an aircraft is taking off or landing, with barriers closing the road.\n\nQ: Which airlines fly into Gibraltar Airport?\nA: British Airways and easyJet are the primary carriers, with regular flights to London Gatwick and London Luton, as well as seasonal services to other UK cities.\n\nQ: Is Gibraltar Airport difficult to fly into?\nA: The airport can be challenging due to strong crosswinds from the surrounding mountains and sea, as well as its relatively short runway. Pilots require special qualification to land there.\n\nQ: Can you walk from Gibraltar Airport into Spain?\nA: Yes, the airport is just a short walk from the land border with Spain, making it one of the few airports where you can cross an international border on foot.",
+  "transport_tips": "The airport is only about 1 km from the city center and the Spanish land border, so walking is feasible with light luggage. Taxis are readily available outside the terminal and the journey to central Gibraltar takes just a few minutes. There is no direct train service, but buses link the airport to various points in Gibraltar.",
+  "local_tip": "If you have time before your flight, walk along the airport perimeter road for spectacular views of aircraft landing with the Rock of Gibraltar as a backdrop—it's a favourite spot among aviation photographers and a uniquely Gibraltarian experience.",
+  "generatedAt": "2026-06-28T19:19:07.803Z",
+  "model": "MiniMax-M3"
+}

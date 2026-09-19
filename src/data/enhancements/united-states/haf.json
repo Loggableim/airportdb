@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HAF",
+    "icao": "KHAF",
+    "name": "Half Moon Bay Airport",
+    "country": "United States",
+    "city": "Half Moon Bay",
+    "lat": 37.5134,
+    "lon": -122.501,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Half Moon Bay Airport is a small general aviation facility located on the scenic San Mateo County coastline in Northern California, offering pilots stunning coastal views and convenient access to the Pacific Ocean. Originally established in the 1940s, the airport primarily serves private aviation, flight training, and recreational flying rather than commercial operations. Its proximity to Pillar Point Harbor and the charming coastal town of Half Moon Bay makes it a popular destination for fly-in visitors exploring the Bay Area's rugged shoreline.",
+  "faqs": "Q: Does Half Moon Bay Airport have commercial airline service?\nA: No, HAF is a general aviation airport with no scheduled commercial flights. It serves private pilots, flight schools, and recreational flyers.\n\nQ: Are there flight training schools available at the airport?\nA: Yes, the airport is home to flight training operations that take advantage of the coastal airspace, though availability may vary by operator.\n\nQ: What are the airport's operating hours?\nA: The airport is generally open during daylight hours for general aviation operations. Pilots should check current NOTAMs and field conditions before arrival.\n\nQ: Can visitors walk around the airport to watch aircraft?\nA: Yes, the airport is known among aviation enthusiasts as a pleasant spot for plane spotting, particularly on weekends when flight activity increases.",
+  "transport_tips": "Reaching Half Moon Bay Airport by car is straightforward via Highway 1, with the airport located just minutes from the town center. There is no public transportation directly serving the airport, so renting a car or arranging a rideshare from nearby El Camino Real is recommended. Visitors can also take SamTrans bus service to Half Moon Bay town and then arrange a short taxi or rideshare to the airfield.",
+  "local_tip": "After flying in, take a short drive to Pillar Point Harbor just down the coast—you can enjoy fresh seafood, watch the fishing fleet, and even catch a glimpse of Mavericks, the famous big-wave surf break that draws the world's top surfers in winter months.",
+  "generatedAt": "2026-06-26T23:46:11.236Z",
+  "model": "MiniMax-M3"
+}

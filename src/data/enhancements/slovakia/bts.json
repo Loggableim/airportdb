@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BTS",
+    "icao": "LZIB",
+    "name": "M. R. Štefánik Airport",
+    "country": "Slovakia",
+    "city": "Bratislava",
+    "lat": 48.1702,
+    "lon": 17.2127,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "M. R. Štefánik Airport (BTS) is the principal international airport of Slovakia, named after Milan Rastislav Štefánik, a Slovak astronomer, politician, and WWI-era statesman. Located approximately 9 km northeast of Bratislava's city center, it serves as the country's main aviation gateway despite its modest size, handling a mix of scheduled, charter, and low-cost flights. The compact single-terminal layout makes it one of the easiest medium-sized European airports to navigate.",
+  "faqs": "Q: How far is M. R. Štefánik Airport from Bratislava's city center?\nA: The airport is about 9 km northeast of the Old Town, with typical journey times of 20-30 minutes depending on traffic.\n\nQ: Is there public transportation to the airport?\nA: Yes, Bratislava public transit (DPMB) operates bus line 61 directly between the airport and the main railway station in the city center.\n\nQ: Does the airport operate 24 hours?\nA: No, the airport has limited nighttime operations. Check with your airline for early morning or late-night flight availability.\n\nQ: Are there currency exchange and ATM facilities at BTS?\nA: Yes, ATMs and currency exchange counters are available in the terminal, though using a debit card for cash withdrawals often offers better rates.",
+  "transport_tips": "Bus line 61 operated by Bratislava's public transit (DPMK) runs between the main railway station and the airport and is the most affordable option. Official airport taxis and rideshare services are available outside the terminal, offering fixed or metered fares to the city center. For travelers heading to Vienna, Austria, the airport is roughly 80 km away and bus or shuttle connections are available.",
+  "local_tip": "The airport's small size means you can arrive about 60-75 minutes before departure for most European flights, but during peak summer or holiday periods the single security checkpoint can develop queues, so give yourself an extra 30 minutes just in case.",
+  "generatedAt": "2026-06-28T16:34:12.007Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VIG",
+    "icao": "SVVG",
+    "name": "Juan Pablo Pérez Alfonso Airport",
+    "country": "Venezuela",
+    "city": "El Vigía",
+    "lat": 8.6241,
+    "lon": -71.6727,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Juan Pablo Pérez Alfonso Airport (VIG) serves the city of El Vigía in western Venezuela, near the state of Mérida. Named after the distinguished Venezuelan politician and diplomat known for his role in founding OPEC, the airport acts as an important regional gateway connecting the Andean foothills to the rest of the country. It handles domestic flights and supports both commercial and general aviation operations.",
+  "faqs": "Q: What is the IATA code for Juan Pablo Pérez Alfonso Airport?\nA: The IATA code is VIG, and its ICAO code is SVVG.\n\nQ: Where is the airport located?\nA: It is located in El Vigía, in the state of Mérida, western Venezuela.\n\nQ: Does the airport handle international flights?\nA: No, it primarily handles domestic flights within Venezuela.\n\nQ: Who is the airport named after?\nA: It is named after Juan Pablo Pérez Alfonso, a prominent Venezuelan lawyer, politician, and one of the founders of OPEC.\n\n",
+  "transport_tips": "Taxis are the most common way to reach the airport from El Vigía, with the city center just a short drive away. Travelers should arrange ground transportation in advance, as public transit options to the airport are limited. Car rentals may be available but should be booked ahead due to limited on-site availability.",
+  "local_tip": "El Vigía sits along Venezuela's Pan-American Highway, so if you have extra time, consider combining your trip with a drive to nearby Mérida city to explore its beautiful Andean scenery and cable car system.",
+  "generatedAt": "2026-06-29T13:40:01.350Z",
+  "model": "MiniMax-M3"
+}

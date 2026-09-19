@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TUC",
+    "icao": "SANT",
+    "name": "Teniente Benjamín Matienzo International Airport",
+    "country": "Argentina",
+    "city": "San Miguel de Tucumán",
+    "lat": -26.8374,
+    "lon": -65.1042,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Teniente Benjamín Matienzo International Airport serves San Miguel de Tucumán, the capital of Tucumán Province in northwestern Argentina. Named after Argentine aviator Lieutenant Benjamín Matienzo, it is the main gateway to a region historically significant as the cradle of Argentine independence, declared in 1816. The airport handles domestic flights connecting Tucumán to Buenos Aires and other major Argentine cities, along with occasional international services to neighboring countries.",
+  "faqs": "Q: How far is the airport from downtown San Miguel de Tucumán?\nA: The airport is approximately 10 km (6 miles) east of the city center, typically a 20-30 minute drive depending on traffic.\n\nQ: Does the airport have international flights?\nA: Yes, it has limited international services, primarily to neighboring countries like Bolivia, and seasonal flights. Most operations are domestic.\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard amenities including car rental counters, a café, duty-free shop for international departures, and basic passenger services.\n\nQ: Which airlines operate from TUC?\nA: Aerolíneas Argentinas is the primary carrier, with regular flights to Buenos Aires (Aeroparque and Ezeiza). Other airlines occasionally serve regional destinations.",
+  "transport_tips": "Taxis and remise (private hire cars with meters) are available outside the terminal and offer fixed rates to the city center; confirm the fare before departing. Public bus line 121 connects the airport to central Tucumán at a low cost, though service may be infrequent. Many hotels offer airport shuttle services, which can be arranged in advance for convenience.",
+  "local_tip": "If you have a long layover or early arrival, the nearby town of Yerba Buena offers pleasant cafés and is closer to the airport than the historic city center, making it a good spot to wait comfortably.",
+  "generatedAt": "2026-06-28T23:37:23.758Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TCL",
+    "icao": "KTCL",
+    "name": "Tuscaloosa National Airport",
+    "country": "United States",
+    "city": "Tuscaloosa",
+    "lat": 33.2206,
+    "lon": -87.6114,
+    "type": "medium_airport",
+    "size": 475
+  },
+  "summary": "Tuscaloosa National Airport is a medium-sized public-use airport located approximately 3 miles northwest of downtown Tuscaloosa, Alabama, serving the wider west-central Alabama region. The airport is owned and operated by the City of Tuscaloosa and primarily supports general aviation along with limited commercial service. Its proximity to the University of Alabama makes it a popular gateway for Crimson Tide football fans and university-related travelers.",
+  "faqs": "Q: How far is Tuscaloosa National Airport from downtown Tuscaloosa?\nA: The airport is located about 3 to 4 miles northwest of the city center, typically a 10-minute drive.\n\nQ: Does Tuscaloosa National Airport offer commercial airline service?\nA: Yes, the airport has historically hosted limited scheduled commercial flights; current service should be confirmed with individual carriers as routes change frequently.\n\nQ: What facilities are available at the airport?\nA: The terminal offers basic amenities including a waiting area, restrooms, and car rental counters. General aviation services such as fueling and hangar space are also available.\n\nQ: Is the airport close to the University of Alabama campus?\nA: Yes, it is only a few miles from Bryant-Denny Stadium, making it a convenient arrival point on home football game weekends.",
+  "transport_tips": "Rental cars are available on-site and are the most convenient option for reaching the University of Alabama campus or downtown Tuscaloosa. Rideshare services and local taxi companies also serve the airport, though availability may be limited for late-night or early-morning arrivals. Because the airport is small, booking ground transportation in advance is recommended during university events and game days.",
+  "local_tip": "If you're traveling on a University of Alabama home football Saturday, arrive early and pre-book your rental car—the airport gets significantly busier than usual, and ground transportation options can be overwhelmed by the influx of visitors.",
+  "generatedAt": "2026-06-30T00:34:03.496Z",
+  "model": "MiniMax-M3"
+}

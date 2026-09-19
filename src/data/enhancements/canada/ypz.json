@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YPZ",
+    "icao": "CYPZ",
+    "name": "Burns Lake Airport",
+    "country": "Canada",
+    "city": "Burns Lake",
+    "lat": 54.3764,
+    "lon": -125.951,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Burns Lake Airport (YPZ) is a medium-sized regional airport serving the town of Burns Lake in northern British Columbia's Lakes District. The airport provides essential air access to the community, which is otherwise connected primarily by Highway 16. It supports general aviation, charter operations, and serves as a gateway for visitors exploring the region's lakes, forests, and outdoor recreation opportunities.",
+  "faqs": "Q: What airlines operate at Burns Lake Airport?\nA: The airport primarily serves charter flights and general aviation, with no scheduled commercial airline service. Private aircraft and medevac flights are common.\n\nQ: Where is Burns Lake Airport located relative to the town?\nA: The airport is located a short distance from the town center of Burns Lake, easily accessible by road.\n\nQ: Does the airport have customs or immigration facilities?\nA: No, Burns Lake Airport does not have customs or immigration services for international flights.\n\nQ: What is the runway like at YPZ?\nA: The airport features a single asphalt runway suitable for small to mid-sized aircraft, typical of regional northern Canadian airports.",
+  "transport_tips": "Renting a car in advance is the most reliable way to get from Burns Lake Airport, as there is no public transit serving the facility. Taxi services and pre-arranged hotel shuttles are limited, so coordinating ground transport before arrival is recommended. The drive to Burns Lake town center takes only a few minutes via local roads.",
+  "local_tip": "If visiting during winter, check current road conditions on Highway 16 before flying in, as the airport's reliability can be affected by surrounding weather systems even when local conditions appear clear.",
+  "generatedAt": "2026-06-29T19:55:23.363Z",
+  "model": "MiniMax-M3"
+}

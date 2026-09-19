@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KVX",
+    "icao": "USKK",
+    "name": "Pobedilovo Airport",
+    "country": "Russia",
+    "city": "Kirov",
+    "lat": 58.5039,
+    "lon": 49.3478,
+    "type": "medium_airport",
+    "size": 550
+  },
+  "summary": "Pobedilovo Airport is a regional airport serving Kirov, a city in western Russia's Kirov Oblast, situated along the Vyatka River. The airport handles primarily domestic flights connecting Kirov to major Russian hubs such as Moscow and Saint Petersburg. Its single main runway serves medium-sized aircraft typical of regional operations across Russia's vast interior.",
+  "faqs": "Q: What is the IATA code for Pobedilovo Airport?\nA: The IATA code is KVX, and its ICAO code is USKK.\n\nQ: How far is the airport from Kirov city center?\nA: The airport is located approximately 22 km southwest of central Kirov, accessible by road in around 30-40 minutes.\n\nQ: Which airlines operate from Pobedilovo Airport?\nA: The airport is primarily served by Russian carriers including Aeroflot, S7 Airlines, and Pobedа, offering regular connections to Moscow and other major cities.\n\nQ: Does the airport operate 24 hours?\nA: Pobedilovo operates during scheduled flight hours, which typically cover daytime and early evening services; it does not maintain 24-hour operations.",
+  "transport_tips": "The most common way to reach the airport from Kirov is by taxi or private car, taking roughly 30-40 minutes depending on traffic. Public bus and marshrutka (minibus) services also connect the city to the airport area. During winter months, allow extra travel time as road conditions in the Kirov region can be affected by snow and ice.",
+  "local_tip": "Bring snacks and entertainment for your journey, as the terminal amenities are limited; regular visitors recommend packing a thermos with hot tea, which is especially welcome during the long, cold winters typical of the Kirov region.",
+  "generatedAt": "2026-06-29T17:39:40.627Z",
+  "model": "MiniMax-M3"
+}

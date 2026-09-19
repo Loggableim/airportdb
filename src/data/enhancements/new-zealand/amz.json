@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AMZ",
+    "icao": "NZAR",
+    "name": "Ardmore Airport",
+    "country": "New Zealand",
+    "city": "Manurewa",
+    "lat": -37.0297,
+    "lon": 174.973,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Ardmore Airport is a medium-sized general aviation facility located in Manurewa, a southern suburb of Auckland, New Zealand. Originally developed as a Royal New Zealand Air Force base during World War II, it now serves as one of the country's busiest general aviation airports, hosting flight training, private aviation, and aircraft maintenance operations. The airport is a key hub for recreational flying in the Auckland region and features multiple flight schools and charter operators.",
+  "faqs": "Q: Does Ardmore Airport handle commercial airline flights?\nA: No, Ardmore is a general aviation airport with no scheduled commercial passenger service. It primarily serves private pilots, flight training, and charter operations.\n\nQ: What facilities are available at Ardmore Airport?\nA: The airport hosts multiple flight schools, aircraft maintenance providers, refuelling services, and hangars. There is a small terminal area but limited passenger amenities.\n\nQ: Is there a control tower at Ardmore Airport?\nA: Yes, Ardmore has an operating control tower that manages traffic during operational hours, handling a significant volume of general aviation movements.\n\nQ: How far is Ardmore Airport from central Auckland?\nA: Ardmore is approximately 30 kilometres south of Auckland's city centre, located within the Manurewa suburb in the Franklin ward.\n\n",
+  "transport_tips": "Getting to Ardmore Airport by car is the most practical option, with the facility accessible via the Southern Motorway and local roads through Manurewa. Public transport options are limited, though some bus routes serve the broader Manurewa area requiring a short taxi ride to reach the airport. Parking is generally available on-site for those visiting by car or being dropped off.",
+  "local_tip": "If you're visiting for a scenic flight or flight training experience, book early in the morning when Auckland's weather is typically clearest, and check in advance as many operators have limited weekend availability due to high demand from recreational pilots.",
+  "generatedAt": "2026-06-26T08:35:25.813Z",
+  "model": "MiniMax-M3"
+}

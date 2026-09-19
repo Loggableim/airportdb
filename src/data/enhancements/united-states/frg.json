@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FRG",
+    "icao": "KFRG",
+    "name": "Republic Airport",
+    "country": "United States",
+    "city": "East Farmingdale",
+    "lat": 40.7286,
+    "lon": -73.4143,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Republic Airport is a general aviation facility located in East Farmingdale on Long Island, New York, historically significant as the site of Republic Aviation Corporation, which produced iconic WWII fighter aircraft including the P-47 Thunderbolt. Today it serves as a key reliever airport for the New York metropolitan area, handling corporate jets, flight training, and private aviation. It hosts the American Airpower Museum on its grounds, preserving the site's aviation heritage.",
+  "faqs": "Q: What type of airport is Republic Airport?\nA: Republic Airport is a medium-sized general aviation airport primarily serving private, corporate, and recreational flights rather than commercial airline service.\n\nQ: Does Republic Airport offer commercial flights?\nA: No, Republic Airport does not offer scheduled commercial airline service. It focuses on general aviation, charter operations, and flight training.\n\nQ: Is there a museum at Republic Airport?\nA: Yes, the American Airpower Museum is located on the airport grounds and features restored military aircraft and exhibits about Republic Aviation's wartime production history.\n\nQ: How far is Republic Airport from New York City?\nA: Republic Airport is located approximately 35 miles east of Manhattan, on western Long Island, typically a 45-minute to one-hour drive depending on traffic.",
+  "transport_tips": "The airport is most easily reached by car via the Southern State Parkway or Route 110, with ample on-site parking available. Rideshare services like Uber and Lyft operate in the area, though pre-booking is recommended during peak hours. The Long Island Rail Road's Farmingdale station is roughly two miles away, providing commuter rail access to Manhattan via the Ronkonkoma Branch.",
+  "local_tip": "If you're waiting for a pickup or flight, head to the observation area near the main terminal—it's a great spot to watch diverse general aviation traffic, from vintage warbirds on fly-ins to modern corporate jets, especially on weekends.",
+  "generatedAt": "2026-06-30T02:06:53.802Z",
+  "model": "MiniMax-M3"
+}

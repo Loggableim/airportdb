@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLB",
+    "icao": "KMLB",
+    "name": "Melbourne Orlando International Airport",
+    "country": "United States",
+    "city": "Melbourne",
+    "lat": 28.102,
+    "lon": -80.6411,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Melbourne Orlando International Airport (MLB) is a public airport located in Melbourne, Florida, on the state's Space Coast. It serves the Brevard County region, including nearby Cape Canaveral and Kennedy Space Center, and offers a convenient alternative to the larger Orlando airports. The facility features a modern terminal and supports both commercial service and general aviation operations.",
+  "faqs": "Q: How far is Melbourne Orlando International Airport from Orlando?\nA: MLB is approximately 70 miles southeast of Orlando, offering an alternative to Orlando International Airport (MCO) for travelers heading to Florida's Space Coast.\n\nQ: Does the airport have international flights?\nA: The airport primarily handles domestic flights, though it is designated as an international airport with customs capabilities for occasional international general aviation arrivals.\n\nQ: What airlines operate at MLB?\nA: The airport is typically served by a small number of regional carriers providing nonstop service to a few U.S. hubs, though specific airlines and routes can change seasonally.\n\nQ: Is the airport close to the beach?\nA: Yes, MLB is just a few miles from the Atlantic coast and the beaches of Melbourne, Indialantic, and other Space Coast communities.\n\n",
+  "transport_tips": "Rental cars are the most popular option for getting to and from MLB, with several agencies available on-site. Rideshare services like Uber and Lyft operate in the area, and local taxi companies provide service, though advance booking is recommended. The airport is conveniently located near US Route 1 and Interstate 95, making ground transportation straightforward.",
+  "local_tip": "If you have time before your flight, consider visiting the nearby Kennedy Space Center Visitor Complex, which is only about 30 minutes south of the airport and offers an unforgettable experience for space enthusiasts.",
+  "generatedAt": "2026-06-29T02:27:01.361Z",
+  "model": "MiniMax-M3"
+}

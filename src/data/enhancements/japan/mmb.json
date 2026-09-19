@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MMB",
+    "icao": "RJCM",
+    "name": "Memanbetsu Airport",
+    "country": "Japan",
+    "city": "Ōzora",
+    "lat": 43.8806,
+    "lon": 144.164,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Memanbetsu Airport (MMB) is a regional airport in eastern Hokkaido, serving as the primary air gateway to the Abashiri and Kitami regions. It plays a key role in winter tourism, providing access to the famous drift ice (ryuhyo) cruises on the Sea of Okhotsk and the Abashiri Prison Museum. The airport handles domestic flights connecting eastern Hokkaido with Tokyo and other major Japanese cities.",
+  "faqs": "Q: What destinations can I fly to from Memanbetsu Airport?\nA: The airport offers regular domestic flights to Tokyo Haneda, with seasonal services occasionally added. It's the main air link between eastern Hokkaido and Japan's capital region.\n\nQ: How far is the airport from Abashiri city center?\nA: Memanbetsu Airport is approximately 25-30 minutes by road from Abashiri, making it a convenient entry point for visitors heading to the coastal city.\n\nQ: Does the airport have international flights?\nA: No, Memanbetsu currently operates domestic flights only. International travelers typically connect through New Chitose Airport near Sapporo.\n\nQ: Are there facilities for overnight stays at the airport?\nA: The terminal has basic amenities including a small shop and waiting areas, but it is not designed for overnight stays. Nearby hotels offer shuttle services for travelers with early flights.",
+  "transport_tips": "Rental cars are available at the airport and are the most convenient way to explore the Abashiri and Kitami regions, as public transport options are limited outside city centers. Airport buses connect to Abashiri Station and Kitami, with schedules aligned to flight arrivals. During winter, allow extra travel time as snow conditions can affect road and rail transport.",
+  "local_tip": "If visiting during the drift ice season (February to March), book an Abashiri icebreaker cruise in advance, as these tours fill up quickly and the airport becomes notably busier with winter tourists during peak weekends.",
+  "generatedAt": "2026-06-29T09:55:07.384Z",
+  "model": "MiniMax-M3"
+}

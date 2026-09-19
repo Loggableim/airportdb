@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VNS",
+    "icao": "VEBN",
+    "name": "Lal Bahadur Shastri International Airport",
+    "country": "India",
+    "city": "Varanasi",
+    "lat": 25.4522,
+    "lon": 82.8625,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Lal Bahadur Shastri International Airport (VNS) serves Varanasi, one of the world's oldest continuously inhabited cities and the spiritual capital of India. Named after India's second Prime Minister, the airport acts as the primary aerial gateway for millions of Hindu pilgrims visiting the sacred ghats of the Ganges River. It supports both domestic connectivity across India and select international routes to nearby Asian destinations.",
+  "faqs": "Q: How far is Lal Bahadur Shastri International Airport from Varanasi city center?\nA: The airport is located approximately 26 km (16 miles) northwest of the city center, with travel times of 45-75 minutes depending on traffic.\n\nQ: Does the airport operate international flights?\nA: Yes, it has limited international connections to destinations such as Kathmandu, Colombo, and Bangkok, alongside extensive domestic service.\n\nQ: Are there lounges and facilities for transit passengers?\nA: The terminal offers basic amenities including food outlets, retail shops, ATMs, and prepaid taxi counters, though lounge access is limited.\n\nQ: What is the best time to fly into VNS for the Ganga Aarti?\nA: The evening Ganga Aarti at Dashashwamedh Ghat takes place nightly after sunset, so arriving on a late afternoon or early evening flight is ideal for same-day attendance.",
+  "transport_tips": "Prepaid taxi counters and app-based cab services like Ola and Uber are available outside the terminal for the journey into Varanasi. Shared autos and government buses also serve the route but are slower and less convenient with luggage. Allow extra travel time during festival seasons like Dev Deepawali and Mahashivratri, when roads become heavily congested.",
+  "local_tip": "If you have a long layover or early arrival, consider visiting the nearby Sarnath archaeological site, where Buddha gave his first sermon—it is only about 10 km from the airport and far less crowded than the main ghats.",
+  "generatedAt": "2026-06-28T20:28:10.851Z",
+  "model": "MiniMax-M3"
+}

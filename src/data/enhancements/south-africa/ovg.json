@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OVG",
+    "icao": "FAOB",
+    "name": "Overberg Airport",
+    "country": "South Africa",
+    "city": "Overberg",
+    "lat": -34.5635,
+    "lon": 20.2524,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Overberg Airport (OVG/FAOB) is a small regional airfield located in the Western Cape province of South Africa, serving the Overberg district near Bredasdorp. It primarily supports general aviation, private charters, and occasional flight training activity rather than scheduled commercial service. The airport provides convenient access to the scenic southern Overberg region, including Cape Agulhas, the southernmost point of the African continent.",
+  "faqs": "Q: Does Overberg Airport have scheduled commercial flights?\nA: No, Overberg Airport does not currently operate scheduled commercial passenger service. It primarily serves general aviation, private aircraft, and charter flights.\n\nQ: What facilities are available at the airport?\nA: The airport features a basic terminal with limited amenities. Pilots and passengers should arrange fuel, catering, and ground services in advance as the facility is small and not continuously staffed.\n\nQ: Which towns does Overberg Airport serve?\nA: It serves the Overberg region including Bredasdorp, Arniston, Struisbaai, and provides access to Cape Agulhas, the southernmost tip of Africa.\n\nQ: Is the airport suitable for private jet or turboprop arrivals?\nA: Yes, the runway accommodates small to mid-size private aircraft and turboprops, making it a popular choice for visitors heading to the southern Cape coast.\n\n",
+  "transport_tips": "Renting a car is essential as there is no public transport serving the airport. Bredasdorp is approximately a 10-minute drive away, while Cape Agulhas and Struisbaai can be reached within 30-40 minutes by road. Self-drive visitors from Cape Town should expect roughly 2.5 to 3 hours via the N2 highway south.",
+  "local_tip": "Time your visit between June and November for land-based whale watching at Cape Agulhas and De Hoop Nature Reserve, both within easy reach of the airport.",
+  "generatedAt": "2026-06-27T10:13:29.914Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YAO",
+    "icao": "FKKY",
+    "name": "Yaoundé Ville Airport",
+    "country": "Cameroon",
+    "city": "Yaoundé",
+    "lat": 3.836,
+    "lon": 11.5235,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Yaoundé Ville Airport (YAO/FKKY) is a medium-sized domestic airport located just minutes from the center of Yaoundé, Cameroon's political capital. Also known as Yaoundé City Airport, it primarily handles domestic regional flights and general aviation, complementing the larger international Nsimalen Airport about 25 km outside the city. Its convenient proximity to downtown Yaoundé makes it a preferred choice for travelers heading to northern Cameroon and other domestic destinations.",
+  "faqs": "Q: What is the difference between Yaoundé Ville Airport and Yaoundé Nsimalen Airport?\nA: Yaoundé Ville Airport is a smaller, city-based airport serving mostly domestic flights, while Nsimalen International Airport is the main international gateway located roughly 25 km south of the city center.\n\nQ: Which airlines operate at Yaoundé Ville Airport?\nA: Domestic carriers such as Camair-Co and other regional operators typically use the airport for routes connecting Yaoundé to cities like Douala, Garoua, and Maroua.\n\nQ: Does Yaoundé Ville Airport have international flights?\nA: The airport primarily handles domestic and regional flights. Most international travelers arrive through Yaoundé Nsimalen International Airport.\n\nQ: What facilities are available at Yaoundé Ville Airport?\nA: As a medium-sized facility, it offers basic passenger amenities including a small terminal, check-in counters, and limited concessions appropriate for short domestic hops.",
+  "transport_tips": "The airport is located within Yaoundé city limits, making taxi rides to the central administrative and business districts typically under 15 minutes depending on traffic. Shared taxis and motorcycle taxis (bend-skins) are commonly available outside the terminal for affordable onward travel. Passengers should confirm fares in advance and carry small local currency, as card payment is rarely accepted by informal drivers.",
+  "local_tip": "If you're connecting onward to northern Cameroon, flights from Yaoundé Ville often have shorter check-in and boarding times than larger airports, but arrive at least 90 minutes early during the rainy season, as tropical storms can cause sudden delays or diversions.",
+  "generatedAt": "2026-06-29T15:57:08.191Z",
+  "model": "MiniMax-M3"
+}

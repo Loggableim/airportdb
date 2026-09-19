@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SVB",
+    "icao": "FMNS",
+    "name": "Sambava Airport",
+    "country": "Madagascar",
+    "city": "Sambava",
+    "lat": -14.2786,
+    "lon": 50.1747,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sambava Airport (SVB/FMNS) is a regional airport serving the coastal town of Sambava on the northeastern coast of Madagascar, an area renowned for producing some of the world's finest vanilla. The airport acts as a key gateway for travelers visiting the vanilla plantations, lush rainforests, and stunning beaches of the SAVA region. It primarily handles domestic flights connecting Sambava to Antananarivo and other regional Malagasy destinations.",
+  "faqs": "Q: What airlines operate at Sambava Airport?\nA: Domestic carriers such as Tsaradia, the regional subsidiary of Air Madagascar, typically operate scheduled flights connecting Sambava to Antananarivo and other regional cities.\n\nQ: How far is the airport from Sambava town center?\nA: The airport is located just a few kilometers from the town center, usually a short drive of around 10-15 minutes depending on local road conditions.\n\nQ: Are there international flights at Sambava Airport?\nA: No, Sambava Airport primarily handles domestic flights. International travelers would need to connect through Antananarivo's Ivato International Airport.\n\nQ: Is the airport suitable for night operations?\nA: Sambava Airport generally operates during daylight hours, and flight schedules are typically limited to daytime operations due to limited navigation infrastructure.",
+  "transport_tips": "Taxis and local transport (taxi-brousse) are commonly available at the airport to reach the town center and surrounding areas. Pre-arranging pickup through your hotel or tour operator is recommended, as transportation options can be limited outside of scheduled flight times. Note that road conditions in the region can vary, especially during the rainy season.",
+  "local_tip": "If you're visiting for the famous SAVA region vanilla, plan your trip between June and September when the vanilla curing and preparation process is in full swing—you may be able to arrange a plantation tour directly through local contacts in town.",
+  "generatedAt": "2026-06-29T15:39:59.372Z",
+  "model": "MiniMax-M3"
+}

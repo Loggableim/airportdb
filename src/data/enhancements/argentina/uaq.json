@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UAQ",
+    "icao": "SANU",
+    "name": "Domingo Faustino Sarmiento Airport",
+    "country": "Argentina",
+    "city": "San Juan",
+    "lat": -31.5715,
+    "lon": -68.4182,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Domingo Faustino Sarmiento Airport serves the city of San Juan in western Argentina, named after the renowned Argentine president, educator, and writer. Located just a few kilometers southeast of the city center, it functions as the main gateway to the Cuyo region, supporting both domestic tourism and the area's growing wine industry. The airport handles medium-volume traffic and connects San Juan primarily to Buenos Aires.",
+  "faqs": "Q: How far is the airport from San Juan city center?\nA: The airport is located approximately 10-12 kilometers southeast of downtown San Juan, typically a 15-20 minute drive depending on traffic.\n\nQ: What airlines operate from Domingo Faustino Sarmiento Airport?\nA: The airport is primarily served by Aerolíneas Argentinas and LADE, with regular flights connecting to Buenos Aires and other regional destinations.\n\nQ: Does the airport have international flights?\nA: The airport primarily handles domestic flights, with occasional international charter services, particularly to neighboring Chile.\n\nQ: Are there dining or shopping options at the airport?\nA: As a medium-sized regional airport, it offers basic amenities including a small café and limited retail, so travelers are advised to eat before arriving.\n\n",
+  "transport_tips": "Taxis and remise (private hire cars) are readily available outside the terminal and are the most convenient way to reach central San Juan. Ride-hailing apps may have limited availability, so booking a remise in advance through your hotel is recommended. Car rental agencies operate at the airport for travelers exploring the broader Cuyo region.",
+  "local_tip": "If you have a morning flight, ask your remise driver to arrive early and take advantage of the local bakery tradition—San Juan is famous for its facturas (pastries), and grabbing a few before heading to the airport is a local custom worth adopting.",
+  "generatedAt": "2026-06-29T13:03:44.942Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YAH",
+    "icao": "CYAH",
+    "name": "La Grande-4 Airport",
+    "country": "Canada",
+    "city": "La Grande-4",
+    "lat": 53.7547,
+    "lon": -73.6753,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "La Grande-4 Airport (YAH) is a remote medium-sized airport in northern Quebec, Canada, primarily serving the La Grande-4 hydroelectric generating station operated by Hydro-Québec as part of the massive James Bay Project. Situated near the La Grande River, the airport functions as a vital transportation link for workers and personnel accessing the isolated generating facility in the subarctic wilderness. The surrounding landscape features vast boreal forest and tundra typical of the James Bay lowlands.",
+  "faqs": "Q: What is the primary purpose of La Grande-4 Airport?\nA: The airport primarily serves the La Grande-4 hydroelectric generating station and its workforce, providing essential air access to this remote northern Quebec location.\n\nQ: Where exactly is La Grande-4 Airport located?\nA: It is situated in the James Bay region of northern Quebec, near the La Grande River, deep within Quebec's boreal wilderness.\n\nQ: Are there scheduled commercial flights to La Grande-4?\nA: Scheduled service is limited; most flights are charter or corporate operations linked to Hydro-Québec's activities at the generating station.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic infrastructure suited to industrial and worker transport, with no commercial amenities typical of urban airports.",
+  "transport_tips": "Access to La Grande-4 Airport is almost exclusively by air, as the facility is located in a remote area of northern Quebec with no major road connections. Charter flights and Hydro-Québec-operated services are the primary means of reaching the airport. Travelers should coordinate transportation well in advance, as commercial airline options to this destination are extremely limited or nonexistent.",
+  "local_tip": "Pack layered clothing regardless of season—temperatures in the James Bay region can swing dramatically, and weather can shift rapidly between bright sunshine, rain, and even snow during the shoulder seasons.",
+  "generatedAt": "2026-06-26T10:30:13.352Z",
+  "model": "MiniMax-M3"
+}

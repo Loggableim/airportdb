@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AGC",
+    "icao": "KAGC",
+    "name": "Allegheny County Airport",
+    "country": "United States",
+    "city": "Pittsburgh",
+    "lat": 40.3544,
+    "lon": -79.9302,
+    "type": "medium_airport",
+    "size": 599
+  },
+  "summary": "Allegheny County Airport serves as a key general aviation and corporate gateway for the Pittsburgh metropolitan area, located in West Mifflin just southeast of the city. Originally built in the 1930s, it once handled scheduled airline traffic before being succeeded by Pittsburgh International Airport as the region's primary commercial hub. Today it functions as a reliever airport, supporting corporate jets, flight training, and air cargo operations.",
+  "faqs": "Q: Does Allegheny County Airport offer commercial airline service?\nA: No, AGC primarily serves general aviation, corporate flights, and air cargo. Commercial passengers should use Pittsburgh International Airport (PIT).\n\nQ: What facilities are available at AGC?\nA: The airport features runways suitable for corporate jets, FBOs (fixed-base operators) with fuel and hangar services, flight schools, and air cargo handling.\n\nQ: Where exactly is Allegheny County Airport located?\nA: It is situated in West Mifflin, Pennsylvania, approximately 8 miles southeast of downtown Pittsburgh along the Monongahela River.\n\nQ: Can private pilots land at AGC?\nA: Yes, the airport welcomes general aviation traffic and has appropriate runway lengths and services for piston and turbine aircraft.\n\n",
+  "transport_tips": "The airport is most easily reached by car via Route 837 or the Pennsylvania Turnpike, with ample parking available on-site for private and rental vehicles. Taxi and rideshare services operate in the area, though pre-booking is recommended. Public transit options are limited, so arranging ground transportation in advance is advisable.",
+  "local_tip": "If you're visiting on a clear day, request a flight path that passes over the Monongahela River valley—the aerial views of Pittsburgh's iconic three rivers and downtown skyline are exceptional and not commonly offered from larger commercial airports.",
+  "generatedAt": "2026-06-29T17:21:51.252Z",
+  "model": "MiniMax-M3"
+}

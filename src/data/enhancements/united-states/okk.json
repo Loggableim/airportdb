@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OKK",
+    "icao": "KOKK",
+    "name": "Kokomo Municipal Airport",
+    "country": "United States",
+    "city": "Kokomo",
+    "lat": 40.5282,
+    "lon": -86.059,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Kokomo Municipal Airport (OKK) is a small general aviation facility serving Kokomo, Indiana, located about three miles northwest of the city center. The airport supports private, recreational, and corporate flying in north-central Indiana, with no scheduled commercial service. It features a single main runway and is popular for flight training and aircraft storage in the region.",
+  "faqs": "Q: Does Kokomo Municipal Airport have commercial airline service?\nA: No, OKK is a general aviation airport with no scheduled commercial passenger flights.\n\nQ: How far is the airport from downtown Kokomo?\nA: The airport is approximately three miles northwest of downtown Kokomo, typically a 10-minute drive.\n\nQ: Are there aircraft rental or flight instruction services available?\nA: Yes, flight training, aircraft rental, and charter services are commonly available at the airport through fixed-base operators.\n\nQ: How many runways does Kokomo Municipal Airport have?\nA: The airport has a single primary runway (Runway 5/23) used for most operations.",
+  "transport_tips": "Driving is the most practical way to reach the airport, with rental cars available from local providers or via prior arrangement. Taxi and rideshare services are available in Kokomo but should be booked in advance due to limited local availability. The airport offers ample free parking adjacent to the terminal area for both short visits and longer stays.",
+  "local_tip": "If you're flying in for business at one of Kokomo's manufacturing plants, consider arranging ground transportation ahead of time since rideshare availability can be limited, especially during early morning or late evening hours.",
+  "generatedAt": "2026-06-27T03:22:15.577Z",
+  "model": "MiniMax-M3"
+}

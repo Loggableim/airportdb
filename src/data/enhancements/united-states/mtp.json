@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MTP",
+    "icao": "KMTP",
+    "name": "Montauk Airport",
+    "country": "United States",
+    "city": "Montauk",
+    "lat": 41.0765,
+    "lon": -71.9208,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Montauk Airport is a small general aviation airfield situated at the easternmost tip of Long Island, New York, serving the popular resort communities of Montauk and the Hamptons. The airport primarily handles private aircraft, recreational flights, and seasonal traffic tied to the area's summer tourism boom. Its scenic coastal location makes it a favorite for pilots flying into the Hamptons while avoiding the busier East Hampton airport.",
+  "faqs": "Q: What is Montauk Airport primarily used for?\nA: It serves general aviation, private aircraft, and recreational flying, with no scheduled commercial airline service.\n\nQ: Does Montauk Airport have commercial flights?\nA: No, it is a small general aviation airport without scheduled commercial service.\n\nQ: Where is Montauk Airport located relative to the town?\nA: It sits just west of Montauk village, near the southern shore of the Montauk peninsula.\n\nQ: Is the airport busy year-round?\nA: Activity peaks during the summer tourist season when the Hamptons and Montauk attract large numbers of visitors by private aircraft.\n\n",
+  "transport_tips": "Ground transportation from Montauk Airport is typically by car, with taxi services and rental cars available, though options are limited compared to larger airports. Renting a vehicle in advance is recommended, especially during peak summer season. The drive to Montauk village center is only a few minutes, and the Hamptons are accessible via the local road network.",
+  "local_tip": "Pilots should note that Montauk's coastal location can produce sudden fog and shifting crosswinds, particularly in the early morning and late afternoon, so check current conditions and arrive with alternate airports in mind.",
+  "generatedAt": "2026-06-26T19:25:08.477Z",
+  "model": "MiniMax-M3"
+}

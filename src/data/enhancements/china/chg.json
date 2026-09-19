@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CHG",
+    "icao": "ZYCY",
+    "name": "Chaoyang Airport",
+    "country": "China",
+    "city": "Shuangta, Chaoyang",
+    "lat": 41.5381,
+    "lon": 120.435,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Chaoyang Airport is a medium-sized regional airport serving Chaoyang City in western Liaoning Province, China. Located in the Shuangta District, it provides essential air connectivity for this inland area of northeastern China, which is otherwise far from major aviation hubs. The airport primarily handles domestic flights and serves as an important gateway for both business travelers and tourists visiting the historic Chaoyang region, known for its ancient Buddhist sites and paleontological discoveries.",
+  "faqs": "Q: What airlines operate from Chaoyang Airport?\nA: The airport is primarily served by Chinese domestic carriers, with flights typically connecting to major hubs such as Beijing, Shanghai, and Dalian.\n\nQ: How far is Chaoyang Airport from the city center?\nA: The airport is located within Shuangta District and is approximately 5-10 km from central Chaoyang, making it a short drive from most parts of the city.\n\nQ: Does Chaoyang Airport have international flights?\nA: The airport mainly handles domestic routes, with limited or no scheduled international service.\n\nQ: Are there facilities for overnight stays near the airport?\nA: Several hotels in central Chaoyang offer convenient accommodations, though there are limited options immediately adjacent to the airport terminal.",
+  "transport_tips": "Taxis are the most common way to reach the airport from central Chaoyang, with the journey typically taking 15-20 minutes depending on traffic. There is limited public bus service connecting the airport to the city, so arranging a taxi or pre-booked car in advance is recommended, especially for early morning departures. Parking is available at the airport for those arriving by private vehicle.",
+  "local_tip": "Visit the Chaoyang Beita Museum nearby to see the famous White Pagoda, a Liao Dynasty-era Buddhist structure and one of the oldest surviving pagodas in northern China—perfect for filling a layover or arrival-day afternoon.",
+  "generatedAt": "2026-06-29T23:06:27.792Z",
+  "model": "MiniMax-M3"
+}

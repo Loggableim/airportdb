@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DIJ",
+    "icao": "LFSD",
+    "name": "Dijon Longvic airport",
+    "country": "France",
+    "city": "Dijon",
+    "lat": 47.2689,
+    "lon": 5.09,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Dijon Longvic Airport (DIJ/LFSD) is a medium-sized airfield located approximately 7 km southeast of Dijon, the historic capital of the Burgundy region in eastern France. The airport serves primarily general aviation, business flights, and limited commercial operations, and shares its grounds with a French Air Force base. It provides convenient access to Burgundy's renowned wine country and cultural attractions.",
+  "faqs": "Q: What types of flights operate from Dijon Longvic Airport?\nA: The airport mainly handles general aviation, private and business jets, with a small number of scheduled commercial services to select European destinations.\n\nQ: Does the airport have immigration and customs facilities?\nA: As a small regional airport handling limited international flights, customs and border services are typically available on request or for scheduled international services.\n\nQ: How far is the airport from Dijon city center?\nA: The airport is approximately 7 km southeast of the city center, reachable in roughly 15-20 minutes by car depending on traffic.\n\nQ: Are there car rental services available at the airport?\nA: Limited car rental options are typically available, though it is advisable to book in advance given the airport's smaller size.\n\n",
+  "transport_tips": "The most convenient way to reach Dijon Longvic Airport is by car or taxi, as public transport connections are limited. Rental cars from Dijon city center or the train station can be a flexible option for exploring the surrounding Burgundy region. Visitors arriving by high-speed TGV rail from Paris can easily transfer to the airport via a short taxi ride.",
+  "local_tip": "If you have time before your flight, visit Dijon's city center to pick up authentic Burgundy mustard and pain d'épices from local shops near the Palais des Ducs — these make excellent gifts and are unavailable elsewhere of the same quality.",
+  "generatedAt": "2026-06-29T19:39:40.028Z",
+  "model": "MiniMax-M3"
+}

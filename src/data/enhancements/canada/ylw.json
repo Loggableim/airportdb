@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YLW",
+    "icao": "CYLW",
+    "name": "Kelowna International Airport",
+    "country": "Canada",
+    "city": "Kelowna",
+    "lat": 49.9561,
+    "lon": -119.378,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kelowna International Airport (YLW) is the primary air gateway to British Columbia's Okanagan Valley, serving a region renowned for its wineries, orchards, and lake-based recreation. Situated approximately 10 km north of downtown Kelowna on the western shore of Okanagan Lake, it is one of the busiest airports in British Columbia outside of the Lower Mainland. The airport has experienced significant passenger growth in recent years, reflecting the increasing popularity of the Okanagan as a year-round tourism destination.",
+  "faqs": "Q: How far is Kelowna International Airport from downtown Kelowna?\nA: The airport is approximately 10 km (6 miles) north of downtown Kelowna, with a typical drive time of 15-20 minutes depending on traffic.\n\nQ: Does Kelowna Airport offer direct flights to international destinations?\nA: YLW primarily serves domestic Canadian routes and select U.S. destinations, with seasonal flights to Mexico and other sun destinations. International long-haul flights typically connect through Vancouver (YVR) or Calgary (YYC).\n\nQ: Is there parking available at Kelowna International Airport?\nA: Yes, the airport offers several parking options including short-term, long-term, and economy lots, all located within walking distance or via shuttle of the terminal building.\n\nQ: Are there car rental services at YLW?\nA: Yes, multiple major car rental agencies operate on-site at the airport, making it convenient to rent a vehicle for exploring the Okanagan Valley.",
+  "transport_tips": "Taxi and rideshare services are readily available at the curb outside the arrivals area, with fares to downtown Kelowna typically around $30-40 CAD. Several shuttle services and hotel shuttles also serve the airport, and pre-booking is recommended during peak summer months. Public transit Route 23 connects the airport to the Kelowna transit network, providing an affordable option for budget-conscious travelers.",
+  "local_tip": "If you have time before your flight, consider visiting the Airport Coffee shop on the landside or taking a short 5-minute drive to the Okanagan Lake shore at Sunset Beach, where you can enjoy a final glimpse of the lake and mountains that make this region so special.",
+  "generatedAt": "2026-06-28T18:31:48.266Z",
+  "model": "MiniMax-M3"
+}

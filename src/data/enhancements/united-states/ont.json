@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ONT",
+    "icao": "KONT",
+    "name": "Ontario International Airport",
+    "country": "United States",
+    "city": "Ontario",
+    "lat": 34.056,
+    "lon": -117.601,
+    "type": "large_airport",
+    "size": 1475
+  },
+  "summary": "Ontario International Airport (ONT) is a large airport located in San Bernardino County, California, about 35 miles east of downtown Los Angeles, serving the Inland Empire metropolitan area. Originally established as an Army Air Field during World War II, it transitioned to civilian use and was transferred from Los Angeles World Airports to the Ontario International Airport Authority in 2016. Today it serves as a convenient alternative to LAX, handling millions of passengers annually across two terminals.",
+  "faqs": "Q: How far is Ontario International Airport from Los Angeles?\nA: ONT is approximately 35 miles east of downtown Los Angeles, typically a 45-60 minute drive depending on traffic conditions.\n\nQ: Does Ontario Airport have its own authority?\nA: Yes, the Ontario International Airport Authority has owned and operated the airport since 2016, when control was transferred from Los Angeles World Airports.\n\nQ: How many terminals does ONT have?\nA: Ontario International Airport has two passenger terminals, Terminal 2 and Terminal 4, with airlines split between them.\n\nQ: Is ONT a good alternative to LAX?\nA: Yes, ONT is often less crowded than LAX and serves the Inland Empire region, offering shorter wait times and easier access for travelers in eastern Los Angeles County, San Bernardino County, and Riverside County.",
+  "transport_tips": "Driving is the most common way to reach ONT, with multiple parking options including short-term, long-term, and economy lots available at competitive rates. Metrolink commuter rail provides service to nearby stations with bus connections to the airport terminals. Ride-share services like Uber and Lyft operate at designated pickup zones outside both terminals.",
+  "local_tip": "If you're heading to or from the Inland Empire communities like Rancho Cucamonga, Riverside, or Fontana, Ontario Airport is significantly closer than LAX—often saving 60-90 minutes of driving time depending on your exact destination and time of day.",
+  "generatedAt": "2026-06-28T16:13:11.627Z",
+  "model": "MiniMax-M3"
+}

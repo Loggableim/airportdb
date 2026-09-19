@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PES",
+    "icao": "ULPB",
+    "name": "Petrozavodsk Airport",
+    "country": "Russia",
+    "city": "Petrozavodsk",
+    "lat": 61.8852,
+    "lon": 34.1547,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Petrozavodsk Airport serves the capital of the Republic of Karelia in northwestern Russia, situated on the shores of Lake Onega. As a regional medium-sized airport, it primarily handles domestic flights connecting the area with Moscow, St. Petersburg, and other Russian cities. It serves as an important gateway for travelers visiting the famous Kizhi Pogost, a UNESCO World Heritage Site located on Lake Onega.",
+  "faqs": "Q: What airlines operate from Petrozavodsk Airport?\nA: The airport is mainly served by Russian carriers such as Aeroflot, S7 Airlines, and RusLine, offering regular domestic connections.\n\nQ: How far is the airport from Petrozavodsk city center?\nA: The airport is located approximately 12 kilometers northwest of the city center, with a typical drive time of 20-30 minutes depending on traffic.\n\nQ: Does Petrozavodsk Airport offer international flights?\nA: International service is very limited; the airport focuses primarily on domestic routes, with most international travel routed through Moscow or St. Petersburg.\n\nQ: What facilities are available at the terminal?\nA: The terminal provides basic amenities including a café, small shops, and standard passenger services typical of a regional Russian airport.",
+  "transport_tips": "Bus route 101 connects the airport to central Petrozavodsk, with departures timed to flight schedules. Taxis are readily available outside the terminal and ride-hailing apps like Yandex.Taxi operate in the area. Renting a car locally can be useful for exploring the wider Karelia region.",
+  "local_tip": "If you have a layover or extra time, ask about boat tours to Kizhi Island from the city—the UNESCO-listed open-air museum featuring historic wooden churches is one of Russia's most remarkable cultural landmarks and only accessible via Lake Onega.",
+  "generatedAt": "2026-06-29T15:37:31.612Z",
+  "model": "MiniMax-M3"
+}

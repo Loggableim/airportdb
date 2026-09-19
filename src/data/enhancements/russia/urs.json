@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "URS",
+    "icao": "UUOK",
+    "name": "Kursk East Airport",
+    "country": "Russia",
+    "city": "Kursk",
+    "lat": 51.7506,
+    "lon": 36.2956,
+    "type": "medium_airport",
+    "size": 650
+  },
+  "summary": "Kursk East Airport serves the historic city of Kursk in western Russia, located approximately 7 km east of the city center. It functions as a regional airport providing connections primarily to other Russian cities. The airport plays a supporting role in the transport infrastructure of Kursk Oblast, a region famous for the World War II Battle of Kursk.",
+  "faqs": "Q: How far is Kursk East Airport from the city center?\nA: The airport is located roughly 7 km east of central Kursk, making it a quick trip by car or taxi.\n\nQ: Does Kursk East Airport offer international flights?\nA: The airport primarily handles domestic routes within Russia, with international service being limited or seasonal.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers standard amenities including a waiting hall, check-in counters, and a small café area, though services are modest compared to larger Russian airports.\n\nQ: Is there parking available at the airport?\nA: Yes, there is a small parking area adjacent to the terminal for short-term and long-term stays.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are the most convenient way to reach the airport from Kursk, typically taking 15-20 minutes depending on traffic. Marshrutka (fixed-route minibus) services also connect the airport with various points in the city at lower cost. During winter months, allow extra travel time as snow can affect road conditions in the region.",
+  "local_tip": "If you have a layover or a few hours to spare, ask a local taxi driver to take you to the Kursk State Regional Museum, which houses artifacts from the famous WWII Battle of Kursk including a recreated German T-3 tank.",
+  "generatedAt": "2026-06-29T17:02:43.513Z",
+  "model": "MiniMax-M3"
+}

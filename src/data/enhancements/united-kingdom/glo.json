@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GLO",
+    "icao": "EGBJ",
+    "name": "Gloucestershire Airport",
+    "country": "United Kingdom",
+    "city": "Staverton, Gloucestershire",
+    "lat": 51.8942,
+    "lon": -2.1672,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Gloucestershire Airport (GLO/EGBJ), also known as Staverton, is a general aviation airport located between Gloucester and Cheltenham near the M5. It has roots in the 1930s and served as RAF Staverton during WWII, and today handles flight training, business aviation, helicopter operations and maintenance rather than scheduled airline services. Its runway layout and compact terminal make it a convenient base for private and training flights in the South West and Midlands.",
+  "faqs": "Q: Does Gloucestershire Airport have scheduled passenger flights?\nA: No. It is primarily a general aviation airport for private, business, training and helicopter flights; there are no regular scheduled airline services.\n\nQ: How far is Gloucestershire Airport from Gloucester and Cheltenham?\nA: It is about 4 miles from Gloucester city centre and 5 miles from Cheltenham, typically a 10–15 minute drive depending on traffic.\n\nQ: What facilities are available at the airport?\nA: Facilities include a terminal with café, flying schools, aircraft maintenance, handling for business aircraft, parking and fuel services. Some operators require prior booking.\n\nQ: Can I park at Gloucestershire Airport?\nA: Yes, there is parking at the terminal and near some operators; check with your flight school or handling agent for the correct car park and any fees.",
+  "transport_tips": "By road, access is via the A40 and M5 junction 11, with the airport signposted at Staverton; driving is the most straightforward option. There is no railway station at the airport—Gloucester and Cheltenham Spa are the nearest mainline stations, both a short taxi ride away. Local bus links are limited, so pre-book a taxi or arrange a lift if you are not driving.",
+  "local_tip": "The on-site café overlooking the apron is a favourite with local pilots for plane spotting; it’s busiest at lunchtime, so mid-afternoon visits are usually quieter.",
+  "generatedAt": "2026-09-19T23:07:03.746Z",
+  "model": "deepseek-v4.1-flash"
+}

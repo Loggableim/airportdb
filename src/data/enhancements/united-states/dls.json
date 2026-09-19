@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DLS",
+    "icao": "KDLS",
+    "name": "Columbia Gorge Regional Airport",
+    "country": "United States",
+    "city": "Dallesport / The Dalles",
+    "lat": 45.621,
+    "lon": -121.1708,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Columbia Gorge Regional Airport (DLS/KDLS) is a public general-aviation airport in Dallesport, Washington, just across the Columbia River from The Dalles, Oregon. It sits in the scenic Columbia River Gorge and serves private, business, and emergency aircraft, with no scheduled commercial airline service. Its location makes it a convenient gateway for exploring the gorge, Hood River, and the surrounding Oregon-Washington region.",
+  "faqs": "Q: What airlines fly to Columbia Gorge Regional Airport?\nA: No major airlines provide scheduled passenger service; DLS is primarily a general aviation airport for private and business aircraft.\n\nQ: How far is the airport from The Dalles, Oregon?\nA: It is about 3 to 5 miles across the Columbia River via US-197 and The Dalles Bridge, typically a 10-minute drive.\n\nQ: What facilities are available at KDLS?\nA: Expect basic general-aviation services such as parking, hangars, and fuel; nearby full services, dining, and lodging are in The Dalles.\n\nQ: Is there car rental or public transit at the airport?\nA: On-site rental cars are limited or unavailable, and public transit does not typically serve the airport directly; arrange a taxi, rideshare, or rental car in The Dalles in advance.",
+  "transport_tips": "By road, take US-197 across The Dalles Bridge; downtown The Dalles is about 10 minutes away. From Portland, follow I-84 east to The Dalles and then cross into Dallesport, roughly 1.5 hours total. Parking is generally available, but rideshare and taxi coverage can be sparse, so pre-arrange ground transport.",
+  "local_tip": "Afternoon winds through the Columbia Gorge can be strong and gusty, so check the latest wind and crosswind runway conditions before landing or departing; early morning usually offers the calmest air.",
+  "generatedAt": "2026-09-19T23:08:06.598Z",
+  "model": "deepseek-v4.1-flash"
+}

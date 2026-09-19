@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YFC",
+    "icao": "CYFC",
+    "name": "Fredericton International Airport",
+    "country": "Canada",
+    "city": "Fredericton",
+    "lat": 45.8687,
+    "lon": -66.5299,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Fredericton International Airport (YFC) is the primary air gateway to New Brunswick's capital city, located approximately 13 km southeast of downtown Fredericton in Lincoln, New Brunswick. It serves as a key regional hub connecting the Maritimes to major Canadian destinations including Toronto, Montreal, and Ottawa, with seasonal links to sun destinations. The airport has historically played an important role in serving the province's government, university, and tourism traffic.",
+  "faqs": "Q: How far is Fredericton International Airport from downtown Fredericton?\nA: The airport is approximately 13 km (8 miles) southeast of downtown Fredericton, with a typical drive time of 15-20 minutes depending on traffic.\n\nQ: Which airlines operate from YFC?\nA: Air Canada and Porter Airlines are the primary carriers, offering scheduled service to Toronto, Montreal, and Ottawa, with additional seasonal routes operated by other carriers.\n\nQ: Does the airport have customs and immigration facilities?\nA: Yes, YFC is an international airport with Canada Border Services Agency (CBSA) facilities to process arriving international flights.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers both short-term and long-term parking options directly adjacent to the terminal building.",
+  "transport_tips": "Taxi and rideshare services are available at the terminal, with a typical fare to downtown Fredericton around CAD $20-25. Rental car counters operate inside the arrivals hall, and booking in advance is recommended during peak travel periods. Public transit options are limited, so arranging ground transport ahead of arrival is advisable.",
+  "local_tip": "The airport sits near the Saint John River valley, and on clear days passengers seated on the right side of northbound departures get an excellent aerial view of downtown Fredericton's riverfront before takeoff.",
+  "generatedAt": "2026-06-29T02:45:51.385Z",
+  "model": "MiniMax-M3"
+}

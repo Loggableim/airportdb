@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WDR",
+    "icao": "KWDR",
+    "name": "Barrow County Airport",
+    "country": "United States",
+    "city": "Winder",
+    "lat": 33.9829,
+    "lon": -83.6674,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Barrow County Airport is a general aviation facility serving Winder, the county seat of Barrow County in northeast Georgia, approximately 50 miles east of Atlanta. The airport supports private pilots, flight training, corporate aircraft, and recreational flying with a single asphalt runway. It plays a key role in the local aviation community and occasionally accommodates military training operations due to its proximity to regional training routes.",
+  "faqs": "Q: What is Barrow County Airport primarily used for?\nA: The airport serves general aviation activities including private flying, flight instruction, corporate transport, and recreational aircraft operations.\n\nQ: Does Barrow County Airport offer commercial airline service?\nA: No, WDR is a general aviation airport with no scheduled commercial airline service.\n\nQ: Are there aircraft rental or flight training services available?\nA: Yes, the airport hosts flight schools and FBOs that provide aircraft rental, instruction, and pilot certifications.\n\nQ: How far is the airport from downtown Winder?\nA: Barrow County Airport is located just a few miles southwest of downtown Winder, making it a short drive from the city center.\n\n",
+  "transport_tips": "The airport is most easily reached by personal vehicle, with a short drive southwest from downtown Winder along local roads. Rental cars and rideshare services are the primary ground transport options, as no public transit directly serves the airfield. Visitors coming from Atlanta can reach the airport via I-85 and local highways in roughly an hour.",
+  "local_tip": "Frequent visitors recommend coordinating with the on-site FBO in advance for after-hours access, as the unattended terminal has limited evening staffing, and bring your own snacks since nearby dining options require a short drive into Winder.",
+  "generatedAt": "2026-06-27T01:14:59.412Z",
+  "model": "MiniMax-M3"
+}

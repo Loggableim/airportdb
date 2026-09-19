@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KAL",
+    "icao": "PAKV",
+    "name": "Kaltag Airport",
+    "country": "United States",
+    "city": "Kaltag",
+    "lat": 64.3186,
+    "lon": -158.742,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Kaltag Airport is a small public-use airstrip serving the remote Yup'ik village of Kaltag on the Yukon River in western Alaska. It provides a vital lifeline for this isolated community, supporting passenger travel, mail delivery, and medical evacuations across the vast interior Alaskan wilderness. The airport reflects the bush aviation culture that defines transportation in rural Alaska.",
+  "faqs": "Q: What type of aircraft serve Kaltag Airport?\nA: The airport primarily serves small commuter and bush aircraft operated by regional carriers, as it lacks infrastructure for larger jets.\n\nQ: Are there scheduled commercial flights to Kaltag?\nA: Yes, scheduled passenger service is provided by regional bush carriers connecting Kaltag to hub airports like Fairbanks and other Yukon River villages.\n\nQ: What facilities are available at the airport?\nA: Facilities are minimal, typical of rural Alaskan airstrips, with a small terminal, basic parking, and gravel runway surfaces suited to bush operations.\n\nQ: Is Kaltag Airport used for emergency medical evacuations?\nA: Yes, medevac flights are an essential function, providing critical transport for residents needing urgent care at larger medical facilities.\n\n",
+  "transport_tips": "Reaching Kaltag Airport typically requires a connecting flight from Fairbanks on a bush or commuter aircraft, as the village is not connected to the road system. Travel by river boat or snowmachine is possible during warmer and winter months respectively, but air travel remains the most reliable year-round option. Travelers should arrange ground transport in advance, as taxi and rental services are not readily available.",
+  "local_tip": "Pack layers and expect highly variable weather conditions, as Kaltag's interior Alaska location brings extreme winter cold and summer heat, with potential flight delays common during fog or icing conditions.",
+  "generatedAt": "2026-06-26T20:16:28.759Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HFT",
+    "icao": "ENHF",
+    "name": "Hammerfest Airport",
+    "country": "Norway",
+    "city": "Hammerfest",
+    "lat": 70.6797,
+    "lon": 23.6686,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Hammerfest Airport (HFT/ENHF) is a regional airport serving Hammerfest, one of the northernmost towns in the world, located in Finnmark county above the Arctic Circle. The airport plays a vital role in supporting the town's fishing heritage and the offshore oil and gas operations in the Barents Sea. Its remote Arctic location makes it a gateway for travelers seeking the experience of midnight sun in summer and northern lights in winter.",
+  "faqs": "Q: How far is Hammerfest Airport from the town center?\nA: The airport is located approximately 3 km north of Hammerfest town center, with a drive of about 5-10 minutes.\n\nQ: Which airlines operate flights to Hammerfest Airport?\nA: Widerøe is the main carrier operating scheduled flights, primarily connecting to Tromsø and other regional Norwegian destinations.\n\nQ: When does the midnight sun occur in Hammerfest?\nA: Hammerfest experiences the midnight sun from mid-May to late July, with 24-hour daylight during this period.\n\nQ: Is the airport affected by extreme winter weather?\nA: Yes, flights can be delayed or cancelled due to Arctic weather conditions including snow, strong winds, and polar low-pressure systems, particularly between November and March.\n\n",
+  "transport_tips": "Taxi services are available at the terminal and provide the most convenient transfer to Hammerfest town center. Rental cars can be arranged in advance, though availability is limited, so booking ahead is recommended. Local buses also connect the airport to the town, though service is infrequent outside peak hours.",
+  "local_tip": "If visiting during winter, check the northern lights forecast (KP index) and arrive on a clear evening—the airport area has minimal light pollution, making it an excellent spot to catch the aurora borealis shortly after landing or before departure.",
+  "generatedAt": "2026-06-29T19:02:44.647Z",
+  "model": "MiniMax-M3"
+}

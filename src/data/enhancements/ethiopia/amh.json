@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AMH",
+    "icao": "HAAM",
+    "name": "Arba Minch Airport",
+    "country": "Ethiopia",
+    "city": "Arba Minch",
+    "lat": 6.0394,
+    "lon": 37.5905,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Arba Minch Airport (AMH/HAAM) is a medium-sized domestic airport serving the southern Ethiopian city of Arba Minch, situated in the Gamo Gofa Zone near the Great Rift Valley lakes. The airport acts as a key gateway for travelers heading to Nechisar National Park and the wider Omo Valley region, both renowned for their wildlife and diverse cultural heritage. It primarily handles scheduled domestic flights connecting Arba Minch with Addis Ababa.",
+  "faqs": "Q: Which airlines operate from Arba Minch Airport?\nA: Ethiopian Airlines operates regular domestic flights connecting Arba Minch to Addis Ababa Bole International Airport.\n\nQ: How far is the airport from Arba Minch city center?\nA: The airport is located a short drive from the city, roughly 5-10 kilometers from the town center.\n\nQ: Are there international flights from Arba Minch?\nA: No, Arba Minch Airport handles domestic flights only; international travelers must connect through Addis Ababa.\n\nQ: What is the airport primarily used for?\nA: Beyond scheduled passenger service, the airport supports tourism access to nearby Nechisar National Park and Lake Chamo.\n\n",
+  "transport_tips": "Taxis and minibuses are typically available at the airport for the short transfer into Arba Minch town; arranging transport in advance through a hotel is recommended. Roads connecting the airport to the city and onward to national parks are paved but can vary in condition, so allow extra travel time during the rainy season. Rental car services are limited, so most visitors rely on local drivers familiar with the area.",
+  "local_tip": "If visiting Nechisar National Park, book your park entrance and any boat trips on Lake Chamo (famous for crocodile and hippo sightings) through your hotel a day in advance, as services at the airport itself are minimal.",
+  "generatedAt": "2026-06-29T10:12:29.780Z",
+  "model": "MiniMax-M3"
+}

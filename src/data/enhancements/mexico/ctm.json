@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CTM",
+    "icao": "MMCM",
+    "name": "Chetumal International Airport",
+    "country": "Mexico",
+    "city": "Chetumal",
+    "lat": 18.505,
+    "lon": -88.328,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Chetumal International Airport (CTM) is a medium-sized airport serving the capital city of Quintana Roo state in southeastern Mexico, near the Belizean border. It functions as a key gateway for travelers heading to the southern Yucatan Peninsula, including the popular Bacalar Lagoon and the lesser-visited Maya archaeological sites of the region. The airport handles a mix of domestic flights and occasional international connections, supporting both tourism and cross-border travel to Central America.",
+  "faqs": "Q: What airlines operate at Chetumal International Airport?\nA: The airport is primarily served by Mexican carriers including Viva Aerobus, Volaris, and occasionally Aeroméxico, with routes mainly to Mexico City and other domestic destinations.\n\nQ: How far is the airport from Chetumal city center?\nA: The airport is located approximately 2-3 kilometers northwest of central Chetumal, making it a quick 10-15 minute drive to most hotels and the waterfront malecón.\n\nQ: Are there international flights from Chetumal?\nA: International service is limited but flights to Belize City have historically been available, reflecting the airport's role as a regional cross-border hub.\n\nQ: Is the airport open 24 hours?\nA: No, the airport operates during scheduled flight hours only and closes between flights, so travelers should verify their arrival and departure times in advance.",
+  "transport_tips": "Taxis and rideshare services are the most reliable options for getting to and from the airport, with authorized taxi booths located outside the terminal. Rental car agencies are available on-site and are recommended for travelers planning to explore Bacalar, Kohunlich, or the Costa Maya region. Shared shuttle services to nearby hotels and the Belize border can sometimes be arranged through local tour operators.",
+  "local_tip": "If you have a layover or extra time, the nearby Cenote Azul and Bacalar Lagoon are roughly 30-60 minutes from the airport and offer a stunning alternative to waiting in the terminal—ask your taxi driver about a short sightseeing stop before your flight.",
+  "generatedAt": "2026-06-29T09:39:09.179Z",
+  "model": "MiniMax-M3"
+}

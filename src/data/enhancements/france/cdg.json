@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CDG",
+    "icao": "LFPG",
+    "name": "Charles de Gaulle International Airport",
+    "country": "France",
+    "city": "Paris (Roissy-en-France, Val-d'Oise)",
+    "lat": 49.009,
+    "lon": 2.5541,
+    "type": "large_airport",
+    "size": 1127475
+  },
+  "summary": "Charles de Gaulle International Airport (CDG) is France's largest and busiest airport, located about 25 km northeast of central Paris in the commune of Roissy-en-France. Opened in 1974 and named after former President Charles de Gaulle, it serves as Air France's primary hub and is one of Europe's principal gateways, handling over 60 million passengers annually. The airport features three main terminals connected by the automated CDGVal people mover and a shuttle system.",
+  "faqs": "Q: How far is Charles de Gaulle Airport from central Paris?\nA: CDG is approximately 25 km (15 miles) northeast of central Paris, with journey times of 45-60 minutes by RER B train or 30-45 minutes by taxi depending on traffic.\n\nQ: How many terminals does CDG have?\nA: The airport has three main terminals (1, 2, and 3). Terminal 2 is subdivided into seven halls (2A through 2G), and the free CDGVal shuttle connects all terminals.\n\nQ: Is there a direct train between CDG and Paris?\nA: Yes, the RER B commuter train connects the airport to central Paris (with stops at Gare du Nord and Châtelet-Les Halles). A new direct CDG Express service is also planned.\n\nQ: Can I walk between terminals at CDG?\nA: No, terminals are not within walking distance. Use the free CDGVal automated shuttle, which runs every 4 minutes between terminals, or free shuttle buses.",
+  "transport_tips": "The RER B train is the most cost-effective way to reach central Paris, with tickets available from machines at any station. Allow extra time during rush hours as the train gets crowded. If traveling with heavy luggage or arriving late at night, a taxi or pre-booked shuttle offers more comfort and a fixed fare to central Paris.",
+  "local_tip": "For a smoother experience, check your terminal assignment carefully before leaving for the airport—CDG's terminals are far apart, and the wrong one can cost you an extra 30 minutes. Frequent travelers recommend using Terminal 2E or 2F for Air France flights as they offer the best amenities and fastest connections.",
+  "generatedAt": "2026-06-28T14:40:51.386Z",
+  "model": "MiniMax-M3"
+}

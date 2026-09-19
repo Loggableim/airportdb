@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AAM",
+    "icao": "FAMD",
+    "name": "Malamala Airport",
+    "country": "South Africa",
+    "city": "Malamala",
+    "lat": -24.8169,
+    "lon": 31.5441,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Malamala Airport (AAM) is a private safari airstrip serving the renowned Malamala Game Reserve and surrounding lodges in South Africa's Mpumalanga province. Situated near the southwestern boundary of Kruger National Park, it primarily handles charter flights and private aircraft transporting visitors to some of Africa's most exclusive wildlife destinations. The airport offers a uniquely streamlined arrival experience where guests often transition directly from aircraft to safari vehicles.",
+  "faqs": "Q: What is Malamala Airport primarily used for?\nA: It mainly serves charter and private flights bringing guests to luxury safari lodges in and around the Sabi Sands Game Reserve, adjacent to Kruger National Park.\n\nQ: Are there scheduled commercial flights to Malamala?\nA: No, the airport has no scheduled commercial service. Flights are typically arranged through safari operators or charter companies from Johannesburg.\n\nQ: How close is the airport to Kruger National Park?\nA: The airstrip sits just outside the western boundary of Kruger National Park, with many lodges reachable within a short game drive transfer.\n\nQ: Is there a terminal building at Malamala?\nA: Facilities are minimal, reflecting its role as a dedicated safari airstrip. Passengers typically wait in a small lounge before being collected by lodge representatives.",
+  "transport_tips": "Most visitors arrive via charter flight from Johannesburg's Lanseria or OR Tambo airports, with the journey taking roughly 75-90 minutes. Ground transfers from the airstrip to lodges are usually pre-arranged by your safari operator and combine road travel with game viewing. Driving from Johannesburg is possible but takes approximately 5-6 hours and is generally not recommended for first-time visitors.",
+  "local_tip": "Bring a small soft-sided bag rather than hard luggage, as many safari lodges have strict luggage weight limits for small charter aircraft, and soft bags fit more easily in the confined cargo holds of safari planes.",
+  "generatedAt": "2026-06-29T12:46:16.745Z",
+  "model": "MiniMax-M3"
+}

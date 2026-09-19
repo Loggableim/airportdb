@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UIN",
+    "icao": "KUIN",
+    "name": "Quincy Regional Airport Baldwin Field",
+    "country": "United States",
+    "city": "Quincy",
+    "lat": 39.9427,
+    "lon": -91.1946,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Quincy Regional Airport Baldwin Field (UIN) is a medium-sized public-use airport serving Quincy, Illinois, a historic city on the Mississippi River. The airport supports general aviation, commercial service, and air cargo operations, serving as a key transportation link for the tri-state region of western Illinois, northeast Missouri, and southeast Iowa. It features multiple runways and facilities capable of handling a variety of aircraft, making it an important regional hub.",
+  "faqs": "Q: Where is Quincy Regional Airport located?\nA: The airport is located in Quincy, Illinois, a few miles north of the city center near the Mississippi River.\n\nQ: What is the airport's IATA and ICAO code?\nA: The IATA code is UIN and the ICAO code is KUIN.\n\nQ: Does the airport offer commercial passenger service?\nA: UIN has historically offered regional commercial service, though its primary focus today is general aviation and corporate traffic.\n\nQ: How many runways does the airport have?\nA: The airport has multiple runways to accommodate various aircraft types and weather conditions.\n\n",
+  "transport_tips": "The airport is best reached by rental car or taxi, as public transit options are limited. It is located just off US Route 36 and is a short drive from downtown Quincy. Rideshare services may be available but can be inconsistent, so arranging ground transportation in advance is recommended.",
+  "local_tip": "If you have time between flights, take a quick drive into downtown Quincy to see the city's stunning 19th-century architecture and the scenic views along the Mississippi River — the riverfront bluffs are a signature feature of the area.",
+  "generatedAt": "2026-06-29T05:19:39.429Z",
+  "model": "MiniMax-M3"
+}

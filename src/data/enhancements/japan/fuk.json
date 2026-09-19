@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FUK",
+    "icao": "RJFF",
+    "name": "Fukuoka Airport",
+    "country": "Japan",
+    "city": "Fukuoka",
+    "lat": 33.5859,
+    "lon": 130.451,
+    "type": "large_airport",
+    "size": 1022275
+  },
+  "summary": "Fukuoka Airport is one of Japan's busiest airports and uniquely situated just minutes from central Fukuoka, making it one of the most conveniently located major airports in the country. Serving the Kyushu region, it handles both extensive domestic flights and a growing number of international routes across Asia. The airport was partially constructed on a reclaimed island in Hakata Bay, with terminals connected by free shuttle buses.",
+  "faqs": "Q: How far is Fukuoka Airport from the city center?\nA: The airport is approximately 3-5 km from central Fukuoka, making it one of the closest major airports to a downtown area in Japan.\n\nQ: How do I travel between the domestic and international terminals?\nA: Free shuttle buses run frequently between the two terminals, and the Fukuoka City Subway connects both terminals directly.\n\nQ: Which subway line serves the airport?\nA: The Fukuoka City Subway Kuko (Airport) Line serves both terminals and connects to Tenjin, Hakata Station, and the downtown area in about 10-15 minutes.\n\nQ: Is Fukuoka Airport a 24-hour operation?\nA: The airport generally operates from early morning until late night, though flight schedules vary by airline and destination.",
+  "transport_tips": "The Fukuoka City Subway is the fastest and most affordable way to reach the city center, with direct service to Hakata Station (the main Shinkansen hub) and Tenjin (the shopping and business district). Taxis are readily available outside both terminals and offer a quick ride to central Fukuoka in about 15-20 minutes depending on traffic. Rental cars are available for those planning to explore Kyushu, though parking at the airport is limited and city driving can be congested.",
+  "local_tip": "If you have a long layover, take the subway just one stop to Higashi-Hie and explore the nearby Ohori Park or visit the Fukuoka Castle ruins—both are easily reachable and give you a taste of the city without committing to a full day trip.",
+  "generatedAt": "2026-06-28T14:59:37.827Z",
+  "model": "MiniMax-M3"
+}

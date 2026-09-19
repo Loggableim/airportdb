@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HHN",
+    "icao": "EDFH",
+    "name": "Frankfurt-Hahn Airport",
+    "country": "Germany",
+    "city": "Frankfurt am Main (Lautzenhausen)",
+    "lat": 49.9464,
+    "lon": 7.2617,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Frankfurt-Hahn Airport (HHN), despite its misleading name, is located in Lautzenhausen in the Hunsrück region of Rhineland-Palatinate, approximately 120 km northwest of Frankfurt am Main. Originally a US Air Force military base during the Cold War, it was converted to civilian use in the 1990s and became a major hub for low-cost carriers, particularly Ryanair. The airport features a single runway and serves as a gateway to the greater Frankfurt and Rhine-Main region.",
+  "faqs": "Q: Why is it called Frankfurt-Hahn if it's not in Frankfurt?\nA: The airport uses the Frankfurt name for marketing purposes due to its association with the major Frankfurt metropolitan area, but it is actually located near the small village of Lautzenhausen in the Hunsrück mountains.\n\nQ: How far is the airport from Frankfurt city center?\nA: It is approximately 120 km (75 miles) from Frankfurt am Main, requiring about 1.5 to 2 hours by road or bus.\n\nQ: Which airlines operate from Frankfurt-Hahn?\nA: The airport has historically been dominated by Ryanair, though it also serves various other low-cost and charter carriers.\n\nQ: How can I travel from the airport to Frankfurt?\nA: Direct shuttle buses operate between the airport and Frankfurt Hauptbahnhof (central station), with journey times of around 2 hours.",
+  "transport_tips": "Direct bus services connect Frankfurt-Hahn Airport to Frankfurt Hauptbahnhof and other nearby cities; booking in advance online is usually cheaper than buying onboard. A car via the A61 motorway offers the most flexibility, though the drive takes around 1.5 hours. Taxi and rental car services are available at the terminal for travelers heading to destinations in the Hunsrück region or along the Moselle valley.",
+  "local_tip": "If you have a long layover, consider visiting the nearby Moselle wine region, which is only about 30 minutes away by car—many local wineries offer tastings and tours that can be arranged in just a few hours.",
+  "generatedAt": "2026-06-28T18:29:08.047Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SMD",
+    "icao": "KSMD",
+    "name": "Smith Field",
+    "country": "United States",
+    "city": "Fort Wayne",
+    "lat": 41.1434,
+    "lon": -85.1528,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Smith Field is one of Indiana's oldest operating airports, established in the 1920s on the north side of Fort Wayne. It serves as a general aviation reliever airport for Fort Wayne International Airport, supporting private pilots, flight training, and recreational flying. The field holds historical significance and is home to the Fort Wayne Aviation Museum.",
+  "faqs": "Q: Does Smith Field offer commercial airline service?\nA: No, Smith Field is a general aviation airport and does not provide scheduled commercial flights.\n\nQ: What services are available at Smith Field?\nA: The airport offers aviation fuel, hangar rentals, tie-downs, aircraft maintenance, and flight training through local operators.\n\nQ: Can the public visit Smith Field?\nA: Yes, the airport is publicly accessible, and the on-site Fort Wayne Aviation Museum is open to visitors interested in regional aviation history.\n\nQ: Is there an air traffic control tower at Smith Field?\nA: The airport operates without a staffed control tower; pilots use self-announce procedures on the CTAF frequency.",
+  "transport_tips": "Smith Field is located about 10 miles north of downtown Fort Wayne, with convenient access via Lima Road (US-27). Rental cars and rideshare services such as Uber and Lyft operate in the Fort Wayne area to reach the airport. Free parking is available on-site for visitors and pilots.",
+  "local_tip": "Stop by the Fort Wayne Aviation Museum housed at Smith Field to see vintage aircraft and learn about the airport's role in Indiana's early aviation history—it's a hidden gem most travelers overlook.",
+  "generatedAt": "2026-06-27T03:55:08.012Z",
+  "model": "MiniMax-M3"
+}

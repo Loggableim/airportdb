@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GAI",
+    "icao": "KGAI",
+    "name": "Montgomery County Airpark",
+    "country": "United States",
+    "city": "Gaithersburg",
+    "lat": 39.1683,
+    "lon": -77.166,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Montgomery County Airpark (GAI) is a general aviation reliever airport situated in Gaithersburg, Maryland, serving the densely populated suburbs northwest of Washington, D.C. Owned and operated by the Montgomery County Revenue Authority, it functions as an important hub for business aviation, flight training, and private pilots in the National Capital Region. The airport provides a convenient alternative to the larger Ronald Reagan Washington National and Dulles International airports for corporate and general aviation traffic.",
+  "faqs": "Q: Does Montgomery County Airpark have commercial airline service?\nA: No, GAI is a general aviation airport with no scheduled commercial flights. It primarily serves private, corporate, and flight training aircraft.\n\nQ: What is the airport primarily used for?\nA: The airport supports business aviation, private flying, flight schools, and aerial services such as charter and air taxi operations for the greater Washington, D.C. metropolitan area.\n\nQ: Are there flight training schools at GAI?\nA: Yes, the airport hosts one or more FAA-certified flight schools offering pilot training, aircraft rentals, and discovery flights.\n\nQ: How far is GAI from downtown Washington, D.C.?\nA: The airpark is located approximately 25 miles northwest of the U.S. Capitol, with typical drive times of 45 minutes to an hour depending on traffic.",
+  "transport_tips": "Driving is the most practical way to reach the airport, with easy access from Interstate 270 via Fieldcrest Road. Ride-share services like Uber and Lyft are readily available in the Gaithersburg area, though scheduling in advance is wise during peak D.C. commute hours. Public transit options are limited, so renting a car or arranging a private car service is recommended for visitors without a vehicle.",
+  "local_tip": "Before flying in, check the airport's noise abatement procedures and preferred traffic patterns—GAI sits in a noise-sensitive residential area and pilots are expected to follow specific arrival and departure routes to minimize impact on surrounding neighborhoods.",
+  "generatedAt": "2026-06-27T00:37:20.492Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TCN",
+    "icao": "MMHC",
+    "name": "Tehuacán National Airport",
+    "country": "Mexico",
+    "city": "Tehuacán",
+    "lat": 18.4972,
+    "lon": -97.4201,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Tehuacán National Airport (TCN/MMHC) is a small regional airport serving the city of Tehuacán in the state of Puebla, Mexico. Nestled in the Tehuacán-Cuicatlán Valley, a UNESCO Biosphere Reserve known for its arid landscapes and biodiversity, the airport provides access to a region rich in pre-Hispanic history and natural springs. It primarily handles general aviation and occasional domestic flights, supporting the local economy and tourism to nearby archaeological sites.",
+  "faqs": "Q: What is the IATA code for Tehuacán National Airport?\nA: The IATA code is TCN, and the ICAO code is MMHC.\n\nQ: Does Tehuacán National Airport offer international flights?\nA: No, it is primarily a domestic regional airport handling general aviation and limited scheduled domestic services.\n\nQ: What is the nearest major city to the airport?\nA: Tehuacán city center is just a short drive from the airport, located in the southern part of Puebla state.\n\nQ: Are there car rental services available at the airport?\nA: Given its small size, rental car options may be limited; arranging transportation in advance is recommended.\n\n",
+  "transport_tips": "The airport is located only about 10 km from Tehuacán's city center, making taxi rides quick and affordable, typically taking 15-20 minutes. Local buses and colectivo vans also connect the airport area to the city. Renting a car in Tehuacán city and driving to the airport is often the most flexible option for travelers exploring the broader Puebla region.",
+  "local_tip": "Visit the nearby Tehuacán-Cuicatlán Biosphere Reserve, a UNESCO site home to ancient columnar cacti and the legendary Tehuacán water—considered some of the purest in the world and exported internationally.",
+  "generatedAt": "2026-06-27T10:32:46.608Z",
+  "model": "MiniMax-M3"
+}

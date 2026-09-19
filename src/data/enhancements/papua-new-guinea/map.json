@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MAP",
+    "icao": "",
+    "name": "Mamai Airport",
+    "country": "Papua New Guinea",
+    "city": "Mamai",
+    "lat": -10.2908,
+    "lon": 149.5192,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mamai Airport (IATA: MAP) is a small airfield serving the village of Mamai in Papua New Guinea, a country known for its vast network of remote airstrips connecting isolated communities. Situated in a tropical region, it primarily supports light aircraft operations typical of Papua New Guinea's bush aviation network, which is vital for accessing areas with limited road infrastructure. The airport functions as an important link for local travel, cargo, and access to essential services in the surrounding region.",
+  "faqs": "Q: What type of aircraft typically operates at Mamai Airport?\nA: The airport mainly handles small turboprop aircraft, such as those operated by regional carriers like PNG Air, which serve Papua New Guinea's remote airstrips.\n\nQ: Are there regular scheduled flights to Mamai Airport?\nA: Scheduled service is typically limited and may vary; many small Papua New Guinea airstrips rely on chartered or infrequent scheduled flights.\n\nQ: Is there terminal infrastructure at Mamai Airport?\nA: As a small rural airfield, facilities are generally minimal, with basic shelter rather than a full terminal building.\n\nQ: What is the airport primarily used for?\nA: It serves the local community by providing access for passengers, mail, medical evacuations, and supplies, which is essential in Papua New Guinea's geographically challenging terrain.",
+  "transport_tips": "Travelers typically reach Mamai Airport via connecting flights from larger hubs like Port Moresby or Alotau, as road access to many PNG airstrips is limited or non-existent. Ground transport to and from the airport is usually arranged locally, often involving 4WD vehicles on rough tracks. Booking flexible tickets is recommended, as flight schedules to remote airstrips can change due to weather conditions.",
+  "local_tip": "Bring cash in small denominations for any local transport or fees, as card payment facilities are rare in Papua New Guinea's remote areas, and confirm return flight arrangements well in advance given the limited service frequency.",
+  "generatedAt": "2026-06-28T03:04:07.594Z",
+  "model": "MiniMax-M3"
+}

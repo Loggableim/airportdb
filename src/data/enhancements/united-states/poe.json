@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "POE",
+    "icao": "KPOE",
+    "name": "Polk Army Air Field",
+    "country": "United States",
+    "city": "Fort Polk",
+    "lat": 31.0448,
+    "lon": -93.1917,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Polk Army Air Field is a military airfield situated at Fort Johnson (formerly Fort Polk) in central Louisiana, serving the U.S. Army installation that hosts the Joint Readiness Training Center (JRTC). The airfield primarily supports military training operations, troop transport, and official Army aviation activities rather than scheduled commercial service. Its location in the forested Piney Hills region of western Louisiana provides a strategic platform for rapid deployment and training exercises.",
+  "faqs": "Q: Does Polk Army Air Field offer commercial flights?\nA: No, this is a military airfield and does not provide scheduled commercial passenger service.\n\nQ: Can civilians access the airport?\nA: Access is generally restricted to military personnel, authorized contractors, and visitors with proper clearance to enter Fort Johnson.\n\nQ: What is the nearest civilian airport?\nA: Alexandria International Airport (AEX) is the closest commercial-service airport, located roughly 60 miles northeast of the base.\n\nQ: What training operations take place here?\nA: The airfield supports the Joint Readiness Training Center, which conducts large-scale light infantry and airborne training rotations.",
+  "transport_tips": "Personal vehicle is the most common way to reach the installation, with Highway 171 providing the main access route to Fort Johnson. Visitors must stop at the base gate with valid military ID or prior visitor clearance arranged through a sponsor. Rideshare services and taxis are generally unavailable on or near the base due to its restricted-access nature.",
+  "local_tip": "If coordinating a visit, confirm gate access procedures with your sponsor well in advance, as Fort Johnson enforces strict installation entry requirements and random vehicle inspections at all times.",
+  "generatedAt": "2026-06-26T10:15:45.433Z",
+  "model": "MiniMax-M3"
+}

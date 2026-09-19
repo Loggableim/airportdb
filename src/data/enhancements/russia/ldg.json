@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LDG",
+    "icao": "ULAL",
+    "name": "Leshukonskoye Airport",
+    "country": "Russia",
+    "city": "Leshukonskoye",
+    "lat": 64.896,
+    "lon": 45.723,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Leshukonskoye Airport is a small regional airfield serving the remote Leshukonsky District in Arkhangelsk Oblast, northern Russia. Situated deep in the taiga far above the Arctic Circle, it functions as a vital transport link for the surrounding rural communities that lack year-round road access. The airport primarily handles short-haul flights connecting the area to Arkhangelsk and other regional centers.",
+  "faqs": "Q: Where is Leshukonskoye Airport located?\nA: The airport is located in the village of Leshukonskoye in Arkhangelsk Oblast, northern Russia, at approximately 64.9°N latitude, well above the Arctic Circle.\n\nQ: What is the airport code for Leshukonskoye Airport?\nA: Its IATA code is LDG and its ICAO code is ULAL.\n\nQ: What types of flights operate from Leshukonskoye Airport?\nA: The airport primarily serves regional scheduled passenger flights, mainly connecting Leshukonskoye with Arkhangelsk and a few other Russian cities.\n\nQ: Is Leshukonskoye Airport open year-round?\nA: Yes, it operates throughout the year, though harsh winter weather with heavy snow and extreme cold can occasionally cause delays or cancellations.",
+  "transport_tips": "The airport is located on the outskirts of Leshukonskoye village and is a short drive from the town center. There are no rail services in the district, so the airport and seasonal roads are the primary means of reaching the outside world. Given the remoteness, travelers should arrange ground transport in advance, as taxi availability is limited. During winter, expect possible weather-related disruptions to both road and air connections.",
+  "local_tip": "Pack warm layers even in summer; temperatures can drop unexpectedly in this sub-Arctic location, and mornings in the surrounding taiga often bring heavy mosquitoes during the warmer months.",
+  "generatedAt": "2026-06-26T22:38:16.959Z",
+  "model": "MiniMax-M3"
+}

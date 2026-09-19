@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CPS",
+    "icao": "KCPS",
+    "name": "St Louis Downtown Airport",
+    "country": "United States",
+    "city": "Cahokia/St Louis",
+    "lat": 38.5707,
+    "lon": -90.1562,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "St. Louis Downtown Airport (KCPS/CPS) is a general aviation reliever airport located in Cahokia, Illinois, just across the Mississippi River from downtown St. Louis, Missouri. Originally established in the late 1920s, it serves as one of the busiest general aviation facilities in the St. Louis metropolitan area, easing traffic from nearby Lambert–St. Louis International Airport. The airport hosts corporate aviation, flight training, charter operations, and a mix of recreational flying.",
+  "faqs": "Q: What is St. Louis Downtown Airport primarily used for?\nA: It serves as a general aviation reliever airport, handling corporate jets, private aircraft, flight training, charter flights, and recreational flying rather than scheduled commercial service.\n\nQ: How far is the airport from downtown St. Louis?\nA: The airport sits in Cahokia, Illinois, just across the Mississippi River, making it roughly 10–15 minutes' drive from downtown St. Louis depending on traffic and bridge conditions.\n\nQ: Does KCPS offer fuel and maintenance services?\nA: Yes, the airport provides both Avgas and Jet-A fuel services, and there are several fixed-base operators (FBOs) on-site offering aircraft maintenance, hangar rentals, and charter bookings.\n\nQ: Are there flight schools at KCPS?\nA: The airport is home to at least one established flight school offering pilot training, aircraft rental, and discovery flights for aspiring aviators.\n\n",
+  "transport_tips": "Driving is the most practical way to reach the airport, with easy access via I-255 and routes connecting to the Poplar Street Bridge into downtown St. Louis. Rideshare services such as Uber and Lyft operate in the area, though wait times can be longer than at larger commercial airports. Parking is generally available on-site at the FBOs and terminal area without advance booking.",
+  "local_tip": "Check wind direction before your flight—KCPS's runway configuration and its proximity to the Mississippi River valley can create noticeable crosswinds and shifting conditions, so dressing in layers and giving yourself buffer time for any approach changes is well worth it.",
+  "generatedAt": "2026-06-26T23:49:01.192Z",
+  "model": "MiniMax-M3"
+}

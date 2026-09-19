@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YQT",
+    "icao": "CYQT",
+    "name": "Thunder Bay International Airport",
+    "country": "Canada",
+    "city": "Thunder Bay",
+    "lat": 48.3719,
+    "lon": -89.3239,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Thunder Bay International Airport serves as the primary air gateway to Northwestern Ontario, situated on the northern shore of Lake Superior. The facility has historical significance dating back to the 1940s when it supported transatlantic ferrying operations during World War II. Today, it functions as a vital hub connecting Thunder Bay and surrounding remote communities to major Canadian cities.",
+  "faqs": "Q: What airlines operate at Thunder Bay International Airport?\nA: The airport is served by Air Canada, Porter Airlines, WestJet, and Flair Airlines, offering flights to Toronto, Winnipeg, Calgary, and other Canadian destinations.\n\nQ: How far is the airport from downtown Thunder Bay?\nA: The airport is located approximately 7 kilometers (4 miles) southwest of downtown Thunder Bay, with a typical drive time of 10-15 minutes.\n\nQ: Does the airport have customs and immigration services?\nA: Yes, the airport is a designated port of entry with Canada Border Services Agency (CBSA) facilities available for international flights.\n\nQ: Are there parking facilities available?\nA: Yes, the airport offers short-term and long-term parking options directly adjacent to the terminal building.",
+  "transport_tips": "Taxi and rideshare services are readily available at the terminal and provide the most convenient access to downtown Thunder Bay. Rental car agencies operate on-site for travelers exploring the Lake Superior region. Thunder Bay Transit also serves the airport via scheduled bus routes.",
+  "local_tip": "If you have a layover or arrive early, head to the observation area to watch aircraft operations against the backdrop of Lake Superior—the terminal's hilltop location offers some of the best plane-spotting views in Northern Ontario.",
+  "generatedAt": "2026-06-29T02:27:19.447Z",
+  "model": "MiniMax-M3"
+}

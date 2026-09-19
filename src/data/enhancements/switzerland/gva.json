@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GVA",
+    "icao": "LSGG",
+    "name": "Geneva International Airport",
+    "country": "Switzerland",
+    "city": "Geneva",
+    "lat": 46.2381,
+    "lon": 6.109,
+    "type": "large_airport",
+    "size": 51275
+  },
+  "summary": "Geneva International Airport (GVA) is Switzerland's second-busiest airport and a major gateway to both the French-speaking part of Switzerland and the neighboring French Alps. Situated just 5 km northwest of the city center and only minutes from the French border, it uniquely serves the cross-border Geneva metropolitan area. The airport features an integrated railway station, making it one of the most rail-connected airports in Europe.",
+  "faqs": "Q: How far is Geneva Airport from the city center?\nA: The airport is approximately 5 km (3 miles) northwest of downtown Geneva, with a typical journey time of 10-15 minutes by train or taxi.\n\nQ: Does the airport have a train station?\nA: Yes, Geneva Airport has its own railway station located directly beneath the terminal, offering free CFF/FFA train tickets for passengers staying at hotels in Geneva.\n\nQ: Can I access the airport from France easily?\nA: Yes, the airport's cross-border location makes it convenient for travelers from France, with direct trains from Lyon, Paris, and other French cities, plus French customs facilities on-site.\n\nQ: Is Geneva Airport a hub for any major airlines?\nA: The airport serves as an important hub for Swiss International Air Lines and easyJet Switzerland, with extensive connections across Europe and intercontinental flights.",
+  "transport_tips": "The most efficient way to reach central Geneva is via the free CFF train from the airport's underground station, which arrives at Geneva Cornavin main station in about 7 minutes. For travelers heading to France, including Chamonix or Annecy, direct trains and coaches depart from the airport. Taxis to the city center are metered and typically cost around 35-50 CHF.",
+  "local_tip": "If you have a long layover, take the short train ride to Geneva Cornavin and walk to the Jet d'Eau on Lake Geneva—the iconic 140-meter water fountain is just 15 minutes from the station and offers a quick dose of Swiss scenery without needing a visa or extra transport.",
+  "generatedAt": "2026-06-28T15:41:36.013Z",
+  "model": "MiniMax-M3"
+}

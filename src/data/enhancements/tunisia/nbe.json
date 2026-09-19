@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NBE",
+    "icao": "DTNH",
+    "name": "Enfidha - Hammamet International Airport",
+    "country": "Tunisia",
+    "city": "Enfidha",
+    "lat": 36.0758,
+    "lon": 10.4386,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Enfidha - Hammamet International Airport (NBE) is a modern facility located on Tunisia's central Mediterranean coast, opened in 2009 to handle growing tourist traffic to the Hammamet and Sousse resort areas. Positioned roughly midway between Tunis and Sousse, it primarily serves European charter and seasonal scheduled flights catering to Tunisia's beach tourism market. The airport features a single terminal designed to process several million passengers annually.",
+  "faqs": "Q: How far is the airport from Hammamet?\nA: Hammamet is approximately 60 km north of the airport, with typical transfer times of 50-70 minutes by road.\n\nQ: Does the airport offer direct flights year-round?\nA: Scheduled service peaks during summer months with charter flights from European cities, while winter schedules are more limited.\n\nQ: Are there currency exchange facilities at NBE?\nA: Yes, banks and ATMs are available in the arrivals hall for exchanging major currencies into Tunisian Dinar.\n\nQ: Is the airport suitable for overnight layovers?\nA: The terminal closes between flights, so it is not designed for overnight stays; nearby hotels offer shuttle services.\n\n",
+  "transport_tips": "Pre-booked taxi transfers and shuttle services are the most reliable way to reach Hammamet, Sousse, or Port El Kantaoui, as public transport options are limited. Rental car agencies operate from the arrivals area, though booking in advance is recommended during peak season. Avoid unlicensed drivers at the terminal exit; use the official taxi desk inside the arrivals hall.",
+  "local_tip": "The airport has limited dining options after the last evening flights, so grab a bite or stock up on snacks at the small cafe before clearing security, especially if arriving late from Europe.",
+  "generatedAt": "2026-06-29T04:47:08.373Z",
+  "model": "MiniMax-M3"
+}

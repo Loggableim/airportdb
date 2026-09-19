@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TIJ",
+    "icao": "MMTJ",
+    "name": "General Abelardo L. Rodriguez International Airport",
+    "country": "Mexico",
+    "city": "Tijuana",
+    "lat": 32.541,
+    "lon": -116.97,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "General Abelardo L. Rodriguez International Airport (TIJ) is the primary airport serving Tijuana, Baja California, and one of Mexico's busiest aviation hubs, named after the Mexican general and former president who governed Sonora in the 1920s. Strategically positioned just south of the US-Mexico border, it is famously linked to San Diego via the Cross Border Xpress (CBX) bridge, allowing passengers to walk directly between the airport and a US-side terminal. The airport serves as a major gateway for both domestic Mexican travel and cross-border traffic to Southern California.",
+  "faqs": "Q: How far is the airport from the US border?\nA: The airport sits approximately 5 km (3 miles) south of the US-Mexico border, and the unique Cross Border Xpress (CBX) skybridge connects it directly to a terminal on the American side in San Diego.\n\nQ: What airlines operate at TIJ?\nA: TIJ is served by major Mexican carriers including Volaris, VivaAerobus, Aeromexico, and Magnicharters, along with some international carriers serving routes across Latin America.\n\nQ: Can US citizens use this airport to fly domestically within Mexico?\nA: Yes, US citizens can fly out of TIJ to domestic Mexican destinations. The CBX bridge also allows them to park in San Diego and walk across into the Mexican terminal.\n\nQ: Does the airport have 24-hour operations?\nA: The airport generally operates during extended hours, but flight schedules vary by airline. Terminal hours may be limited, so travelers should confirm with their carrier.",
+  "transport_tips": "Taxis and rideshare services (Uber, Didi) are readily available at designated pickup zones outside the terminals and offer affordable transfers into central Tijuana. For travelers heading to San Diego, the CBX bridge provides a seamless pedestrian connection; shuttle services and cross-border taxi options also operate frequently. Renting a car is straightforward, but be aware that crossing back into the US by vehicle requires waiting at the border inspection lanes, which can be time-consuming.",
+  "local_tip": "If you're flying out of TIJ and live in the San Diego area, use the CBX bridge and park on the US side rather than driving across the border—it saves significant time at customs and lets you walk directly into the Mexican terminal in minutes.",
+  "generatedAt": "2026-06-28T17:06:03.904Z",
+  "model": "MiniMax-M3"
+}

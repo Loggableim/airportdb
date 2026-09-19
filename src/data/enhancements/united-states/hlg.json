@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HLG",
+    "icao": "KHLG",
+    "name": "Wheeling Ohio County Airport",
+    "country": "United States",
+    "city": "Wheeling",
+    "lat": 40.175,
+    "lon": -80.6463,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Wheeling Ohio County Airport (HLG/KHLG) is a public general-aviation airport serving Wheeling and West Virginia’s Northern Panhandle from a hilltop site east of the city. It supports private, corporate, and emergency aircraft with paved runways and basic services, but no scheduled commercial airline flights. The field is a convenient reliever and gateway for the Ohio Valley, roughly an hour from Pittsburgh.",
+  "faqs": "Q: Does Wheeling Ohio County Airport have commercial passenger flights?\nA: No. HLG is a general-aviation airport with no scheduled airline service; passengers typically connect via Pittsburgh International Airport (PIT) or other larger regional airports.\n\nQ: What services are available at KHLG?\nA: Expect basic general-aviation services such as fuel, tiedowns, and hangars; availability can vary, so confirm current hours, fuel, and any maintenance or courtesy-car options with the airport or FBO before arrival.\n\nQ: How far is the airport from downtown Wheeling?\nA: It is about 10–15 miles east/northeast of downtown Wheeling, typically a 15–25 minute drive depending on route and traffic.\n\nQ: What are the airport codes?\nA: IATA: HLG; ICAO: KHLG; FAA LID: HLG. The field elevation is approximately 1,194 feet MSL.",
+  "transport_tips": "A car is the most practical way to get to and from HLG, as the airport sits in a rural area east of Wheeling. From I-70, follow US-40/National Road or local roads; use GPS because signage is limited. Taxi, rideshare, and rental-car availability is limited, so arrange your return ride or rental before you arrive.",
+  "local_tip": "Because the airport sits on high, hilly terrain, expect variable winds and mechanical turbulence on approach; check the AWOS and plan a stabilized final, especially in summer when density altitude is high.",
+  "generatedAt": "2026-09-19T23:09:45.568Z",
+  "model": "deepseek-v4.1-flash"
+}

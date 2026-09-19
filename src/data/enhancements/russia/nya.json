@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NYA",
+    "icao": "USHN",
+    "name": "Nyagan Airport",
+    "country": "Russia",
+    "city": "Nyagan",
+    "lat": 62.11,
+    "lon": 65.615,
+    "type": "medium_airport",
+    "size": 550
+  },
+  "summary": "Nyagan Airport serves the city of Nyagan in the Khanty-Mansi Autonomous Okrug of western Siberia, a region known for its significant oil and gas industry. As a medium-sized regional airport, it primarily connects this remote industrial community with larger Russian hubs, supporting both business travel and local passenger needs. The airport operates in a subarctic climate zone, where winter operations are a defining feature of daily activity.",
+  "faqs": "Q: What is the main purpose of Nyagan Airport?\nA: It serves the city of Nyagan and surrounding areas in the Khanty-Mansi Autonomous Okrug, primarily facilitating passenger travel and supporting the regional oil and gas industry workforce.\n\nQ: Which airlines operate from Nyagan Airport?\nA: The airport is served by regional Russian carriers offering flights mainly to larger connecting hubs such as Moscow and other major Russian cities.\n\nQ: Is Nyagan Airport open year-round?\nA: Yes, the airport operates year-round, though winter weather conditions common to western Siberia can occasionally affect flight schedules.\n\nQ: How large is Nyagan Airport?\nA: It is classified as a medium-sized airport with a single terminal and limited runway infrastructure suited for regional aircraft.",
+  "transport_tips": "The airport is located just a few kilometers from central Nyagan, making taxi or private car the most practical option for reaching the terminal. Local marshrutka (minibus) services also connect the airport area with the city, though schedules can be limited. During winter months, allow extra travel time due to snow and ice conditions on local roads.",
+  "local_tip": "Book ground transportation in advance during the harsh winter months, as taxi availability can be limited and temperatures in Nyagan regularly drop well below minus 30°C.",
+  "generatedAt": "2026-06-29T17:54:53.740Z",
+  "model": "MiniMax-M3"
+}

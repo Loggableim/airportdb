@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DST",
+    "icao": "",
+    "name": "Dubai Seaplane Terminal",
+    "country": "United Arab Emirates",
+    "city": "",
+    "lat": 25.263,
+    "lon": 55.272,
+    "type": "seaplane_base",
+    "size": 0
+  },
+  "summary": "Dubai Seaplane Terminal (DST) is a dedicated seaplane base located along Dubai Creek, serving as the primary hub for scenic aerial tours and inter-emirate seaplane shuttle services. The terminal supports float-equipped aircraft that operate from the water, offering passengers unique aerial views of Dubai's iconic skyline, coastline, and landmarks such as the Burj Al Arab and Palm Jumeirah. It functions as a complement to Dubai's larger commercial airports, providing a boutique travel experience for tourists and business travelers seeking quick connections to nearby destinations like Abu Dhabi.",
+  "faqs": "Q: What is the Dubai Seaplane Terminal used for?\nA: It serves as a base for seaplane operators offering scenic flights over Dubai and shuttle services to other emirates, primarily Abu Dhabi.\n\nQ: Which airlines operate from this terminal?\nA: The terminal is best known for Seawings, which has historically operated the majority of seaplane flights from this location.\n\nQ: How long before departure should passengers arrive?\nA: Passengers are typically advised to arrive at least 45 minutes to one hour before scheduled seaplane departure for check-in and safety briefings.\n\nQ: Can passengers bring standard luggage on seaplane flights?\nA: Baggage allowances are limited compared to commercial airlines, with soft-sided bags generally recommended due to weight and space constraints on floatplanes.\n\n",
+  "transport_tips": "The terminal is located along Dubai Creek and is best reached by taxi or rideshare services from central Dubai areas such as Downtown or Dubai Marina. Parking at the facility is limited, so arriving by taxi or pre-booked transfer is generally recommended. Public transport options include nearby metro stations with short taxi connections to the waterfront facility.",
+  "local_tip": "Book a morning seaplane flight for the clearest views of Dubai's skyline and coastline—afternoon haze and heat shimmer can reduce visibility, while golden hour departures offer the best photography conditions over landmarks like the World Islands.",
+  "generatedAt": "2026-06-28T13:30:46.939Z",
+  "model": "MiniMax-M3"
+}

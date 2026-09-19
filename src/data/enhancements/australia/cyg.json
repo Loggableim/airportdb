@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CYG",
+    "icao": "YCRG",
+    "name": "Corryong Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -36.1828,
+    "lon": 147.888,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Corryong Airport (CYG/YCRG) is a regional airport serving the small town of Corryong in northeastern Victoria, Australia, nestled in the foothills of the Australian Alps near the upper Murray River. It acts as a gateway to the High Country and the Snowy Mountains region, an area steeped in the folklore of Banjo Paterson's 'The Man from Snowy River.' The facility primarily supports general aviation, recreational flying, and occasional emergency services operations given its proximity to remote alpine terrain.",
+  "faqs": "Q: What is Corryong Airport used for?\nA: It primarily serves general aviation, private aircraft, and occasional emergency or firefighting operations due to its location near alpine wilderness areas.\n\nQ: Are there scheduled commercial flights to Corryong?\nA: No scheduled commercial passenger services operate from Corryong Airport; travelers typically fly into larger regional airports such as Albury and drive the remaining distance.\n\nQ: Where is Corryong located?\nA: Corryong is a small town in the Towong Shire of northeastern Victoria, Australia, near the border with New South Wales and close to Kosciuszko National Park.\n\nQ: What is the airport's runway suitable for?\nA: The airport accommodates light to medium general aviation aircraft, with its sealed runway capable of handling small twin-engine planes common in regional Australian aviation.\n\n",
+  "transport_tips": "The airport is located just a few kilometers outside Corryong town center, making access by car straightforward with limited public transport options. Most visitors arrive via Albury Airport, which is approximately 130 kilometers away, followed by a scenic drive along the Murray Valley Highway. Rental cars are recommended as the area's attractions are spread across rural landscapes with minimal taxi or rideshare availability.",
+  "local_tip": "If flying in during the warmer months, plan your arrival early in the day—afternoon mountain breezes from the Snowy Mountains can create challenging crosswind conditions on the single runway, and local pilots often prefer morning slots for smoother operations.",
+  "generatedAt": "2026-06-26T09:57:12.932Z",
+  "model": "MiniMax-M3"
+}

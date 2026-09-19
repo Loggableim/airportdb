@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SBW",
+    "icao": "WBGS",
+    "name": "Sibu Airport",
+    "country": "Malaysia",
+    "city": "Sibu",
+    "lat": 2.2616,
+    "lon": 111.985,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sibu Airport (SBW) is a medium-sized regional airport serving the city of Sibu in central Sarawak, Malaysian Borneo. It functions as a key domestic gateway connecting the Rajang River basin with major Malaysian destinations such as Kuala Lumpur, Kuching, and Kota Kinabalu. The airport supports both passenger traffic and regional connectivity to interior Sarawak communities accessible via the river network.",
+  "faqs": "Q: What is the airport code for Sibu Airport?\nA: Sibu Airport is designated SBW by IATA and WBGS by ICAO.\n\nQ: Which airlines operate at Sibu Airport?\nA: Malaysia Airlines and AirAsia are the primary carriers operating regular scheduled flights, with routes mainly connecting to Kuala Lumpur, Kuching, Miri, and Kota Kinabalu.\n\nQ: Is Sibu Airport an international airport?\nA: No, Sibu Airport operates as a domestic airport handling flights within Malaysia, with no scheduled international services.\n\nQ: How far is Sibu Airport from the city center?\nA: Sibu Airport is located approximately 5 km from Sibu town center, making it a quick 10-15 minute drive under normal traffic conditions.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are available outside the terminal and offer the most convenient transfer to Sibu town. Local buses and airport shuttle vans also serve the route, though schedules can be limited. For passengers continuing onward to upriver towns along the Rajang, express boats depart from Sibu's town waterfront, which is easily reached from the airport.",
+  "local_tip": "If you have a morning flight, book a stay near the airport the night before; central Sibu hotels are affordable and many offer early transfer arrangements, avoiding last-minute rush through ferry traffic.",
+  "generatedAt": "2026-06-29T08:08:51.470Z",
+  "model": "MiniMax-M3"
+}

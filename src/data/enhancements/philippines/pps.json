@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PPS",
+    "icao": "RPVP",
+    "name": "Puerto Princesa International Airport / PAF Antonio Bautista Air Base",
+    "country": "Philippines",
+    "city": "Puerto Princesa",
+    "lat": 9.742,
+    "lon": 118.7591,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Puerto Princesa International Airport (PPS) is the main gateway to Palawan, the Philippines' largest island province, serving both civilian passengers and military operations as it shares its runway with PAF Antonio Bautista Air Base. The airport is the primary access point for travelers heading to the UNESCO-listed Puerto Princesa Subterranean River and El Nido's world-famous limestone cliffs. Its location on the western side of Puerto Princesa city places visitors just minutes from the urban center.",
+  "faqs": "Q: How far is the airport from Puerto Princesa city center?\nA: The airport is approximately 2 kilometers from downtown Puerto Princesa, typically a 10-15 minute drive.\n\nQ: Are there international flights at this airport?\nA: Yes, PPS handles limited international flights, primarily from regional Asian destinations, alongside its extensive domestic network.\n\nQ: What destinations are served from PPS?\nA: Domestic routes connect to Manila, Cebu, Clark, and other Philippine cities, with international service to select Asian destinations.\n\nQ: Is the airport shared with a military facility?\nA: Yes, the airport operates jointly with the Philippine Air Force's Antonio Bautista Air Base, sharing runway and taxiway infrastructure.",
+  "transport_tips": "Tricycles, multicabs, and ride-hailing apps like Grab are available outside the terminal for short trips into Puerto Princesa city. For longer journeys to El Nido or Sabang, arrange private vans or book shuttle services in advance, typically offered by hotels and tour operators. Airport taxis operate on a fixed-rate coupon system purchased at the desk inside the arrivals hall.",
+  "local_tip": "If you have a long layover or early arrival, the Baywalk promenade along Puerto Princesa Bay is just a short tricycle ride away and offers a refreshing sea breeze, local seafood stalls, and stunning sunset views over Honda Bay.",
+  "generatedAt": "2026-06-28T20:44:41.001Z",
+  "model": "MiniMax-M3"
+}

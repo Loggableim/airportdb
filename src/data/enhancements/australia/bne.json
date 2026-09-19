@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BNE",
+    "icao": "YBBN",
+    "name": "Brisbane International Airport",
+    "country": "Australia",
+    "city": "Brisbane",
+    "lat": -27.3842,
+    "lon": 153.117,
+    "type": "large_airport",
+    "size": 1013175
+  },
+  "summary": "Brisbane International Airport (BNE) is the primary aviation gateway to Queensland, serving the state's capital and the broader Brisbane metropolitan area. As Australia's third-busiest airport by passenger movements, it operates two main terminals—Domestic and International—located approximately 13 km northeast of the Brisbane CBD. The airport features a parallel runway system and supports both domestic connections across Australia and international routes to Asia, the Pacific, and beyond.",
+  "faqs": "Q: How far is Brisbane Airport from the city centre?\nA: The airport is roughly 13 km (8 miles) northeast of Brisbane's CBD, with typical travel times of 20–30 minutes depending on traffic and transport mode.\n\nQ: Does Brisbane Airport have a train connection to the city?\nA: Yes, the Airtrain connects both terminals to Brisbane's central business district and onward to the Gold Coast, with services running frequently throughout the day.\n\nQ: Are the domestic and international terminals at BNE connected?\nA: The terminals are separate buildings located near each other but are not directly walkable airside; passengers transferring between them typically need to allow extra time and may require transport between terminals.\n\nQ: What is the main international carrier operating from Brisbane?\nA: Qantas uses Brisbane as a major hub, alongside other international carriers such as Virgin Australia, Singapore Airlines, Emirates, and Cathay Pacific.",
+  "transport_tips": "The Airtrain is often the fastest and most reliable option to reach the CBD, avoiding peak-hour motorway congestion. Ride-share and taxi services are available at designated ranks outside each terminal, while dedicated airport parking options include short-term, long-term, and premium facilities. For travellers heading south to the Gold Coast, the Airtrain offers a direct connection without needing to change services.",
+  "local_tip": "If you have a long layover, the nearby Skygate precinct offers dining and shopping options within walking distance of the terminals via the Airport Link footbridge—no need to clear security again.",
+  "generatedAt": "2026-06-28T15:16:49.519Z",
+  "model": "MiniMax-M3"
+}

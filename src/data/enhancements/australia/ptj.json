@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PTJ",
+    "icao": "YPOD",
+    "name": "Portland Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -38.3181,
+    "lon": 141.471,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Portland Airport (PTJ/YPOD) is a regional airport serving the coastal city of Portland in southwestern Victoria, Australia. Located near the shores of Bass Strait, it supports general aviation and charter operations for this important port and fishing community. The airport provides vital connectivity for the Glenelg Shire region, including access to nearby maritime, agricultural, and tourism industries.",
+  "faqs": "Q: Where is Portland Airport located?\nA: Portland Airport is situated near the city of Portland in southwestern Victoria, Australia, close to the South Australian border along the Bass Strait coast.\n\nQ: What type of flights operate from Portland Airport?\nA: The airport primarily handles general aviation, charter flights, and small commercial services rather than scheduled major airline routes.\n\nQ: How large is Portland Airport?\nA: It is classified as a medium-sized airport with a single main runway serving regional and private aircraft.\n\nQ: Is there public transport available to the airport?\nA: Transport options are limited; visitors typically rely on private vehicles, taxis, or pre-arranged transfers to reach the airport from Portland town centre.",
+  "transport_tips": "Portland town centre is only a short drive from the airport, making taxi or private car the most convenient option. Rental car services are available in town and can be arranged in advance for airport pickup. There are no regular bus services directly serving the terminal, so arranging ground transport ahead of time is recommended.",
+  "local_tip": "If you have time before your flight, visit the Portland Maritime Discovery Centre in town to learn about the region's rich whaling and shipping history — it's a uniquely local experience you won't find at larger airports.",
+  "generatedAt": "2026-06-29T12:12:52.931Z",
+  "model": "MiniMax-M3"
+}

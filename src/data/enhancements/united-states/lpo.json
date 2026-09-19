@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LPO",
+    "icao": "KPPO",
+    "name": "La Porte Municipal Airport",
+    "country": "United States",
+    "city": "La Porte",
+    "lat": 41.5725,
+    "lon": -86.7345,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "La Porte Municipal Airport (LPO/KPPO) is a small general aviation facility serving the city of La Porte in northern Indiana, conveniently located near the Indiana-Michigan border. The airport primarily supports recreational flying, flight training, and private aircraft operations for the local community. Its modest infrastructure makes it a convenient hub for pilots visiting the scenic region surrounding the Indiana Dunes and Lake Michigan's southern shore.",
+  "faqs": "Q: What type of airport is La Porte Municipal Airport?\nA: It is a small general aviation airport primarily serving private, recreational, and training flights with no scheduled commercial service.\n\nQ: Where is La Porte Municipal Airport located?\nA: The airport is situated in La Porte, Indiana, in the northwestern part of the state near the Indiana-Michigan border, roughly 30 miles west of South Bend.\n\nQ: What facilities are available at LPO?\nA: The airport features runways, hangars, tie-down areas, and basic services for general aviation aircraft, including fuel and maintenance support.\n\nQ: Can commercial airlines fly into La Porte?\nA: No, La Porte Municipal Airport does not offer commercial airline service; travelers seeking commercial flights typically use South Bend International Airport or Chicago-area airports.",
+  "transport_tips": "Reaching La Porte Municipal Airport is easiest by car, as the airport is located a short drive from downtown La Porte and is accessible via local roads. There is no public transit directly serving the airport, so arranging a rental car, taxi, or rideshare in advance is recommended. Visitors flying in will find ample on-site parking near the terminal and hangar facilities.",
+  "local_tip": "If you're visiting the area, take advantage of the airport's proximity to Indiana Dunes National Park along Lake Michigan—it's a short drive away and offers some of the most beautiful shoreline scenery in the Midwest, perfect for a post-flight visit.",
+  "generatedAt": "2026-06-27T03:56:03.352Z",
+  "model": "MiniMax-M3"
+}

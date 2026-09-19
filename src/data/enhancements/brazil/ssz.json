@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SSZ",
+    "icao": "SBST",
+    "name": "Santos Nero Moura Air Base / Guarujá Airport",
+    "country": "Brazil",
+    "city": "Guarujá",
+    "lat": -23.9282,
+    "lon": -46.3002,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Santos Nero Moura Air Base (SSZ/SBST) is a shared military and civilian airport located in Guarujá, a popular beach resort city on the coast of São Paulo state in southeastern Brazil. The facility is named after Santos Nero Moura, a distinguished Brazilian aviation officer and former Minister of Aeronautics. The airport primarily serves general aviation and limited commercial flights, while also functioning as an important air base for the Brazilian Air Force.",
+  "faqs": "Q: What is the difference between SSZ and SBST?\nA: SSZ is the IATA code and SBST is the ICAO code for the same airport; IATA codes are used commercially while ICAO codes are used for air traffic control.\n\nQ: Does the airport serve commercial passenger flights?\nA: The airport handles mostly general aviation and charter operations, with limited scheduled commercial service.\n\nQ: Is it a military or civilian airport?\nA: It operates as a shared facility, serving both Brazilian Air Force military operations and civilian aviation needs.\n\nQ: Where exactly is Guarujá located?\nA: Guarujá is a coastal beach resort city in São Paulo state, situated on an island near the port city of Santos, about 80 km southeast of São Paulo city.",
+  "transport_tips": "The airport is conveniently located near the BR-101 highway, making it accessible by car from both Santos and São Paulo. Taxi and ride-share services are the most practical options for reaching the airport, as public transit connections are limited. Visitors should allow extra travel time during summer months when Guarujá experiences heavy tourist traffic.",
+  "local_tip": "If visiting Guarujá, plan your trip outside of Brazilian summer holidays (December-February) and long weekends to avoid heavy beach traffic; the nearby Tombo Beach is a local favorite known for its surfing conditions and is less crowded than the main beaches.",
+  "generatedAt": "2026-06-26T09:39:17.454Z",
+  "model": "MiniMax-M3"
+}

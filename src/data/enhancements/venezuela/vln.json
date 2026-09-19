@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VLN",
+    "icao": "SVVA",
+    "name": "Arturo Michelena International Airport",
+    "country": "Venezuela",
+    "city": "Valencia",
+    "lat": 10.1497,
+    "lon": -67.9284,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Arturo Michelena International Airport (VLN/SVVA) is the main airport serving Valencia, Venezuela's third-largest city, located in the Carabobo state in the country's central-northern region. Named after the 19th-century Venezuelan painter and independence patriot Arturo Michelena, the airport serves as a key gateway to the industrial heartland of Venezuela. It handles both domestic and limited international flights, connecting Valencia to major cities across Latin America.",
+  "faqs": "Q: How far is the airport from downtown Valencia?\nA: The airport is located approximately 6 km (about 4 miles) east of Valencia's city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, it serves a limited number of international destinations mainly within South America and the Caribbean, though its primary role is handling domestic traffic to Caracas and other Venezuelan cities.\n\nQ: Is there public transportation available to the airport?\nA: Local taxi services and ride options are the most reliable way to reach the airport, as public bus connections can be irregular. Many visitors arrange hotel pickup or pre-book transfers.\n\nQ: Are there facilities for overnight stays?\nA: The airport operates limited hours with reduced nighttime service, so travelers with early morning or late-night flights should plan accommodations near the terminal.",
+  "transport_tips": "The most convenient way to reach the airport is by taxi or pre-arranged transfer from Valencia, as rideshare apps may have limited availability. Allow extra time during peak hours, as Valencia's traffic can be unpredictable. If arriving by intercity bus, the terminal is a short taxi ride from most major bus stations in the city center.",
+  "local_tip": "Carry small denominations of Venezuelan bolívars or US dollars in cash for taxis and tips, as credit card acceptance is limited and airport ATMs may not always be reliable for foreign cards.",
+  "generatedAt": "2026-06-28T23:02:34.723Z",
+  "model": "MiniMax-M3"
+}

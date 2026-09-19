@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MER",
+    "icao": "KMER",
+    "name": "Castle Airport",
+    "country": "United States",
+    "city": "Merced",
+    "lat": 37.3805,
+    "lon": -120.568,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Castle Airport (MER/KMER) is a medium-sized public airport located in Merced, California, situated in the state's Central Valley. Originally established as Castle Army Air Field during World War II, it later became Castle Air Force Base, serving as a Strategic Air Command installation until its closure in 1995. Today it operates as a general aviation and industrial airport, home to the renowned Castle Air Museum featuring over 50 restored military aircraft.",
+  "faqs": "Q: What was Castle Airport originally?\nA: Castle Airport began as Castle Army Air Field in 1941 during World War II and later served as Castle Air Force Base until 1995.\n\nQ: Does the airport have commercial passenger service?\nA: No, Castle Airport currently does not offer scheduled commercial passenger service and primarily handles general aviation, cargo, and industrial operations.\n\nQ: What is the Castle Air Museum?\nA: The Castle Air Museum is located adjacent to the airport and features a collection of over 50 historic military aircraft, including B-52 bombers and SR-71 Blackbirds.\n\nQ: How far is the airport from Yosemite National Park?\nA: Castle Airport is approximately 80 miles west of Yosemite National Park, making it a popular gateway for visitors driving to the park.",
+  "transport_tips": "The airport is located about 6 miles northwest of downtown Merced, easily reached via Highway 99 and State Route 140. Rental cars are available on-site or in nearby Merced, and taxi and rideshare services serve the area. Visitors heading to Yosemite National Park often use Castle Airport as an alternative to busier Fresno or Sacramento airports.",
+  "local_tip": "Stop by the Castle Air Museum next door before your flight—pilots and aviation enthusiasts can enjoy viewing the aircraft collection, and the museum's observation area offers excellent plane-spotting opportunities at the adjacent runway.",
+  "generatedAt": "2026-06-30T02:08:13.691Z",
+  "model": "MiniMax-M3"
+}

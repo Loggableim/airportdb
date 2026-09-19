@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LAZ",
+    "icao": "SBLP",
+    "name": "Bom Jesus da Lapa Airport",
+    "country": "Brazil",
+    "city": "Bom Jesus da Lapa",
+    "lat": -13.2621,
+    "lon": -43.4081,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Bom Jesus da Lapa Airport (LAZ/SBLP) is a regional airport serving Bom Jesus da Lapa in the western Bahia state of Brazil. It primarily supports tourism tied to the famous Bom Jesus da Lapa Sanctuary, a major Catholic pilgrimage destination carved into limestone cliffs overlooking the São Francisco River. The airport plays a key role during annual religious festivals when visitor numbers surge significantly.",
+  "faqs": "Q: What is Bom Jesus da Lapa Airport primarily used for?\nA: The airport mainly serves visitors traveling to the Bom Jesus da Lapa Sanctuary, one of Brazil's most important Catholic pilgrimage sites, especially during the annual feast in August.\n\nQ: Are there regular commercial flights to LAZ?\nA: Scheduled service is limited; flights are often seasonal or charter-based, with connections typically routed through Salvador or other Bahia cities.\n\nQ: Is the airport open to international flights?\nA: No, Bom Jesus da Lapa Airport handles only domestic flights within Brazil.\n\nQ: What facilities are available at the terminal?\nA: The terminal is small and offers basic amenities including a waiting area, restrooms, and car rental counters; passengers should arrive early as services are limited.\n\n",
+  "transport_tips": "The airport is located just a few kilometers from the city center, with taxi and rideshare services being the most common options for reaching the sanctuary area. Renting a car locally is recommended for exploring the broader São Francisco River region. During the August pilgrimage season, book ground transport in advance as demand increases substantially.",
+  "local_tip": "Visit the Gruta do Bom Jesus (Sanctuary Cave) at sunrise or sunset to avoid the intense midday heat and the largest crowds, and pair it with a boat trip on the São Francisco River to see the cliffs from the water.",
+  "generatedAt": "2026-06-26T09:24:13.219Z",
+  "model": "MiniMax-M3"
+}

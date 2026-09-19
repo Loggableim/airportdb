@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MDW",
+    "icao": "KMDW",
+    "name": "Chicago Midway International Airport",
+    "country": "United States",
+    "city": "Chicago",
+    "lat": 41.786,
+    "lon": -87.7524,
+    "type": "large_airport",
+    "size": 1015475
+  },
+  "summary": "Chicago Midway International Airport (MDW) is one of the busiest airports in the United States, located on the southwest side of Chicago about 10 miles from downtown. Originally established in 1926 as a municipal airfield, it became a major hub for Southwest Airlines and is the smaller of Chicago's two primary commercial airports. The airport retains a classic art deco terminal design and serves as a popular alternative to the larger O'Hare International Airport.",
+  "faqs": "Q: How far is Midway Airport from downtown Chicago?\nA: Midway is approximately 10 miles (16 km) southwest of downtown Chicago, typically a 25-40 minute drive depending on traffic.\n\nQ: Which airlines operate from Midway?\nA: Midway is a major focus city for Southwest Airlines, which operates the majority of flights. Other carriers include Delta, Frontier, Porter, and Allegiant.\n\nQ: Does Midway have public transit access to downtown?\nA: Yes, the Chicago Transit Authority (CTA) Orange Line train runs directly from Midway to downtown Chicago's Loop in about 25 minutes.\n\nQ: How many terminals does Midway have?\nA: Midway has a single terminal building with three concourses (A, B, and C), making navigation relatively simple compared to larger airports.\n\n",
+  "transport_tips": "The CTA Orange Line is the most affordable and reliable way to reach downtown Chicago, running frequently from the airport station. Taxis and rideshares are available at designated pickup areas and typically cost $30-$50 to downtown, though surge pricing during rush hour can increase fares. If driving, the airport is accessible via Interstate 55 (Stevenson Expressway), and both short-term and economy parking lots are available on-site.",
+  "local_tip": "If you have a layover or early arrival, head to the third-floor atrium of the terminal for some of the best views of the airfield and Chicago skyline—and check out the concessions there, which include local Chicago favorites like deep-dish pizza and Garrett Popcorn.",
+  "generatedAt": "2026-06-28T15:15:00.503Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LYN",
+    "icao": "LFLY",
+    "name": "Lyon Bron Airport",
+    "country": "France",
+    "city": "Chassieu, Lyon",
+    "lat": 45.7279,
+    "lon": 4.944,
+    "type": "medium_airport",
+    "size": 475
+  },
+  "summary": "Lyon Bron Airport (LYN/LFLY) is a medium-sized general and business aviation airport located in Chassieu, on the eastern outskirts of Lyon in France's Auvergne-Rhône-Alpes region. Serving as Lyon's secondary airfield alongside the larger Lyon-Saint Exupéry International Airport, it primarily handles business jets, charter flights, training operations, and some regional commercial services. The airport has a long aviation heritage tied to the industrial and economic activity of greater Lyon.",
+  "faqs": "Q: What is the difference between Lyon Bron (LYN) and Lyon-Saint Exupéry (LYS) airports?\nA: LYS is Lyon's main international airport handling scheduled commercial flights, while LYN (Lyon Bron) is a smaller secondary airport focused on business aviation, general aviation, charter flights, and pilot training.\n\nQ: Does Lyon Bron Airport handle scheduled passenger flights?\nA: It primarily serves business and general aviation, though some seasonal charter and regional flights operate from the airport.\n\nQ: How far is Lyon Bron Airport from central Lyon?\nA: The airport is approximately 10 km (6 miles) east of Lyon's city center, in the commune of Chassieu.\n\nQ: Are there facilities for private and business jets?\nA: Yes, Lyon Bron is a major hub for business aviation in the region, with FBOs (Fixed-Base Operators) offering handling, fueling, and hangar services for private and corporate aircraft.",
+  "transport_tips": "The airport is easily reached by car via the A43 motorway (exit 6 toward Chassieu) with on-site parking available. Public transport options include TCL bus line that connects to Lyon's metro and tram network. Taxi and ride-share services are readily available, and the journey to central Lyon typically takes 20-30 minutes depending on traffic.",
+  "local_tip": "If you have flexibility, consider scheduling flights outside weekday rush hours (7-9 AM and 5-7 PM) to avoid congestion on the A43 motorway, and note that nearby Eurexpo exhibition center often increases traffic during major trade events.",
+  "generatedAt": "2026-06-30T00:35:08.391Z",
+  "model": "MiniMax-M3"
+}

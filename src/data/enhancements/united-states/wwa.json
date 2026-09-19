@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WWA",
+    "icao": "PAWS",
+    "name": "Wasilla Airport",
+    "country": "United States",
+    "city": "Wasilla",
+    "lat": 61.5717,
+    "lon": -149.54,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Wasilla Airport is a general aviation facility serving the Matanuska-Susitna Borough in southcentral Alaska, located near the towns of Wasilla and Palmer about 40 miles north of Anchorage. The airport primarily supports recreational flying, flight training, and private aircraft operations in a region known for its dramatic mountain scenery and proximity to Denali. It features paved runways suited for small to medium general aviation aircraft and is a popular base for pilots exploring Alaska's vast backcountry.",
+  "faqs": "Q: What types of aircraft use Wasilla Airport?\nA: The airport primarily serves single-engine and twin-engine general aviation aircraft, with occasional use by small charter operations and medevac flights.\n\nQ: Are there commercial airline services at WWA?\nA: No, Wasilla Airport does not offer scheduled commercial airline service. Most travelers in the region use Ted Stevens Anchorage International Airport for commercial flights.\n\nQ: Is the airport open year-round?\nA: Yes, the airport operates year-round, though winter conditions can occasionally affect operations with snow and ice management on the runway.\n\nQ: Are there on-site amenities such as fuel or hangars?\nA: The airport has tiedown spaces and hangar facilities, along with fuel availability for based and visiting pilots through on-field services.\n\n",
+  "transport_tips": "Wasilla Airport is located a short drive from downtown Wasilla via local roads, with rental cars typically arranged in advance as on-site rental counters are limited. Taxi and rideshare services are available but may require scheduling ahead due to the airport's general aviation focus. Many visiting pilots arrange ground transport directly with local FBOs or fixed-base operators.",
+  "local_tip": "Frequent visitors recommend checking in with local pilots at the FBO before planning flights into nearby backcountry strips, as conditions on Alaska's remote airstrips can change rapidly and locals often have the most current weather intel.",
+  "generatedAt": "2026-06-26T07:55:35.253Z",
+  "model": "MiniMax-M3"
+}

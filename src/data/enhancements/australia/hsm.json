@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HSM",
+    "icao": "YHSM",
+    "name": "Horsham Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -36.6697,
+    "lon": 142.173,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Horsham Airport (HSM/YHSM) is a regional airport serving the city of Horsham in the Wimmera region of western Victoria, Australia. It primarily supports general aviation, aerial agricultural operations, and serves as a base for emergency services including the Air Ambulance Victoria network. The airport features a single sealed runway and plays an important role in connecting this rural agricultural hub to Melbourne and other regional centres.",
+  "faqs": "Q: What is the main purpose of Horsham Airport?\nA: The airport primarily serves general aviation, agricultural aviation (crop dusting), and emergency medical flights, including fixed-wing air ambulance services for the Wimmera region.\n\nQ: Are there commercial passenger flights at Horsham Airport?\nA: Scheduled commercial passenger services are limited; travellers typically rely on road transport to larger regional airports like Mildura or Melbourne for regular commercial flights.\n\nQ: Where is Horsham Airport located relative to the city?\nA: The airport is situated a short distance north of Horsham's town centre, providing easy access to the surrounding agricultural districts.\n\nQ: Does the airport have navigation aids for instrument approaches?\nA: Basic navigation facilities are available, though pilots should check current NOTAMs and aerodrome information before planning instrument flights.",
+  "transport_tips": "Hiring a car is the most practical option for reaching Horsham Airport, as the facility is located just outside the town centre with limited public transport connections. The drive from central Horsham takes only a few minutes via the Western Highway connection roads. Taxis and local shuttle services can be arranged in advance for departures, as they are not always readily available on demand.",
+  "local_tip": "If visiting during the Wimmera region events, book any ground transport well in advance—Horsham's accommodation and taxi services fill up quickly during the annual Agricultural Show and major motorsport events at nearby Lake Dooen.",
+  "generatedAt": "2026-06-26T09:22:33.052Z",
+  "model": "MiniMax-M3"
+}

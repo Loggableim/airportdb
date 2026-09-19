@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CME",
+    "icao": "MMCE",
+    "name": "Ciudad del Carmen International Airport",
+    "country": "Mexico",
+    "city": "Ciudad del Carmen",
+    "lat": 18.6515,
+    "lon": -91.7994,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ciudad del Carmen International Airport serves Ciudad del Carmen, an island city in the Laguna de Términos off the coast of Campeche, Mexico. It functions as a key hub for the offshore oil and gas industry operating in the Campeche Sound, one of Mexico's most productive petroleum regions. The airport primarily handles domestic flights connecting the city to Mexico City and other major Mexican destinations.",
+  "faqs": "Q: Where is Ciudad del Carmen International Airport located?\nA: The airport is situated on the mainland side of the Laguna de Términos, just across the bridge from Isla del Carmen, roughly 10 km northeast of the city center.\n\nQ: Which airlines operate from Ciudad del Carmen Airport?\nA: The airport is served by Mexican carriers including Aeromexico, VivaAerobus, and occasionally other domestic airlines operating flights to Mexico City and regional destinations.\n\nQ: Does the airport have international flights?\nA: The airport is primarily focused on domestic service, though its IATA code (CME) is recognized internationally and it has limited cross-border charter operations.\n\nQ: Is the airport connected to offshore oil platforms?\nA: Yes, the airport plays a critical role in transporting workers and supplies for the offshore oil industry in the Bay of Campeche.",
+  "transport_tips": "Taxis are available outside the terminal and offer fixed rates to various points in Ciudad del Carmen; confirm the fare before departure. The bridge crossing from the airport to the island takes approximately 15 minutes, and rental cars can be arranged for travelers exploring the Campeche region. Shared shuttle services operate during peak flight times and are an economical option for solo travelers.",
+  "local_tip": "Visit the nearby Laguna de Términos for exceptional birdwatching and dolphin spotting—flamingos, herons, and bottlenose dolphins are commonly seen, and the best tours depart early from the city waterfront, just a short ride from the airport.",
+  "generatedAt": "2026-06-29T09:39:58.241Z",
+  "model": "MiniMax-M3"
+}

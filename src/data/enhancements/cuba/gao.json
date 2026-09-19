@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GAO",
+    "icao": "MUGT",
+    "name": "Mariana Grajales Airport",
+    "country": "Cuba",
+    "city": "Guantánamo",
+    "lat": 20.0853,
+    "lon": -75.1583,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mariana Grajales Airport serves the eastern Cuban city of Guantánamo, one of the country's largest provinces. Named after the matriarch of the Maceo family, a heroine of Cuba's independence wars, the airport provides essential connectivity for the remote eastern region. It operates as the main gateway for visitors heading to Baracoa and the rugged eastern coast, though it remains modest in scale compared to Havana's main hubs.",
+  "faqs": "Q: Where is Mariana Grajales Airport located?\nA: The airport is situated just outside the city of Guantánamo in far eastern Cuba, approximately 12 kilometers south of the city center.\n\nQ: Who was Mariana Grajales?\nA: She was a Cuban independence heroine and the mother of legendary general Antonio Maceo, known as the 'Bronze Titan.' She is celebrated as a symbol of maternal courage during the wars of independence from Spain.\n\nQ: Are there international flights from Guantánamo?\nA: The airport primarily handles domestic flights, with occasional charter and regional connections. Most international travelers connect through Havana's José Martí International Airport.\n\nQ: Is there public transport to the airport?\nA: Limited public transport options exist, so arranging a taxi or pre-booked transfer in advance is strongly recommended, especially for early morning departures.\n\n",
+  "transport_tips": "Taxis are the most reliable option for reaching the airport, and it's advisable to arrange a return pickup in advance as ride services are scarce in Guantánamo. The drive from the city center takes roughly 20–25 minutes. If staying in Baracoa, shared taxis or pre-booked transfers from Guantánamo are the most practical way to connect.",
+  "local_tip": "Pack light snacks and water, as the airport's food and beverage options are extremely limited—many travelers bring their own provisions, especially for early morning flights when nothing is open.",
+  "generatedAt": "2026-06-29T13:41:11.435Z",
+  "model": "MiniMax-M3"
+}

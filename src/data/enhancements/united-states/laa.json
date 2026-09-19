@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LAA",
+    "icao": "KLAA",
+    "name": "Southeast Colorado Regional Airport",
+    "country": "United States",
+    "city": "Lamar",
+    "lat": 38.0664,
+    "lon": -102.6914,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Southeast Colorado Regional Airport (LAA) serves Lamar, Colorado, and the surrounding southeast Colorado region. Originally opened as Lamar Municipal Airport, it was renamed to reflect its regional role. The airport primarily supports general aviation, charter flights, and emergency services, with no major commercial airline service currently.",
+  "faqs": "Q: What airlines serve LAA?\nA: There are currently no scheduled commercial airlines serving Southeast Colorado Regional Airport. It primarily handles general aviation, charter, and emergency flights.\n\nQ: How far is the airport from downtown Lamar?\nA: The airport is about 3 miles southwest of downtown Lamar, a short drive via local roads.\n\nQ: What facilities are available at the airport?\nA: The airport offers a terminal with pilot lounge, self-serve fuel, hangars, and tie-downs. It is open 24 hours for operations, but the terminal may be unstaffed at night.\n\nQ: Is there rental car service at LAA?\nA: Rental cars are not available on-site. Visitors should arrange transportation in advance or use a taxi from Lamar.",
+  "transport_tips": "The airport is best reached by car via U.S. Highway 50 or Colorado State Highway 196. There is no public transit or rideshare service in the immediate area, so arrange a taxi or rental car in Lamar before arrival. Free parking is available adjacent to the terminal.",
+  "local_tip": "The airport's self-serve fuel is available 24/7 with a major credit card, but the terminal building is typically unlocked only during business hours. Pilots can often borrow the courtesy car for short errands, but it's best to call ahead to confirm availability.",
+  "generatedAt": "2026-09-19T23:08:44.606Z",
+  "model": "deepseek-v4.1-flash"
+}

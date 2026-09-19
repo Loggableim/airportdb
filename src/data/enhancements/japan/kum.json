@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KUM",
+    "icao": "RJFC",
+    "name": "Yakushima Airport",
+    "country": "Japan",
+    "city": "Yakushima",
+    "lat": 30.3856,
+    "lon": 130.659,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Yakushima Airport (KUM) serves Yakushima Island, a UNESCO World Heritage Site located off the southern tip of Kyushu in Kagoshima Prefecture, Japan. The airport provides the main air access to the island's ancient cedar forests, including the famous Jōmon Sugi tree estimated to be over 2,000 years old. It is a small regional airport that handles domestic flights primarily connecting travelers to the mainland.",
+  "faqs": "Q: What airlines operate at Yakushima Airport?\nA: JAL (Japan Airlines) operates the majority of flights, with regular service to Kagoshima, Fukuoka, and seasonal routes to Osaka Itami. Flight frequency is weather-dependent due to the island's mountainous terrain.\n\nQ: Is Yakushima Airport affected by weather?\nA: Yes, flights can be delayed or cancelled due to fog, typhoons, and strong winds, particularly during the summer typhoon season. Travelers should build flexibility into their schedules, especially in June through September.\n\nQ: How long does it take to fly from Kagoshima to Yakushima?\nA: The flight from Kagoshima Airport to Yakushima takes approximately 35-40 minutes, making it the fastest way to reach the island compared to the 2-hour high-speed ferry.\n\nQ: Are there international flights at Yakushima Airport?\nA: No, Yakushima Airport only handles domestic flights. International travelers must connect through Kagoshima or another major Japanese airport.",
+  "transport_tips": "The airport is located about 15-20 minutes by car or bus from Miyanoura Port, the island's main ferry terminal and gateway to hiking routes. Rental cars are available at the airport and are strongly recommended for exploring Yakushima's dispersed attractions, as public bus service is limited. If you have heavy luggage or arrive on a late flight, arranging accommodation transfer in advance is advisable since taxi availability is limited.",
+  "local_tip": "Check the ferry schedule before booking your return flight—if you have extra time and good weather, taking the high-speed boat (Toppy) back to Kagoshima offers spectacular coastal views and saves a potentially weather-cancelled flight, giving you a built-in backup plan during typhoon season.",
+  "generatedAt": "2026-06-29T21:07:35.664Z",
+  "model": "MiniMax-M3"
+}

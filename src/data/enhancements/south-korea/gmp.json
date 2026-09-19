@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GMP",
+    "icao": "RKSS",
+    "name": "Gimpo International Airport",
+    "country": "South Korea",
+    "city": "Seoul",
+    "lat": 37.5583,
+    "lon": 126.791,
+    "type": "large_airport",
+    "size": 51675
+  },
+  "summary": "Gimpo International Airport (GMP) is Seoul's second major airport, historically serving as South Korea's primary international gateway until Incheon International Airport opened in 2001. Located just 15 km west of central Seoul in the Gangseo District, it now focuses on domestic routes and short-haul international flights to destinations in East Asia. The airport has been continuously modernized and features the Gimpo Goldline, a driverless metro connecting it to the broader Seoul transit network.",
+  "faqs": "Q: How far is Gimpo Airport from central Seoul?\nA: Gimpo is approximately 15 km west of central Seoul, making it significantly closer to the city center than Incheon International Airport.\n\nQ: What airlines operate from Gimpo International Airport?\nA: Korean Air, Asiana Airlines, and most domestic carriers operate here, along with several regional carriers serving routes to Japan, China, and Taiwan.\n\nQ: Does Gimpo Airport have international flights?\nA: Yes, although primarily domestic, Gimpo handles a limited number of international flights to nearby Asian cities including Tokyo, Shanghai, Beijing, and Taipei.\n\nQ: Is there a train connection from Gimpo to Incheon Airport?\nA: Yes, the AREX (Airport Railroad Express) connects Gimpo to Incheon International Airport, with the journey taking roughly 30-40 minutes.",
+  "transport_tips": "Seoul Subway Lines 5, 9, and the AREX all serve Gimpo, with Gimpo Goldline providing a free automated people-mover between the domestic and international terminals. Taxis from central Seoul typically take 30-45 minutes depending on traffic, and the airport is easily accessible via the Olympic-daero expressway. For travelers connecting to Incheon, the AREX offers a convenient transfer with luggage-friendly cars available.",
+  "local_tip": "The rooftop garden on the fourth floor of the international terminal offers a surprisingly peaceful spot with views of the Han River and Seoul skyline—a great escape from busy gate areas during long layovers.",
+  "generatedAt": "2026-06-28T15:38:46.101Z",
+  "model": "MiniMax-M3"
+}

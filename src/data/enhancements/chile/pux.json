@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PUX",
+    "icao": "SCPV",
+    "name": "El Mirador Airport",
+    "country": "Chile",
+    "city": "Puerto Varas",
+    "lat": -41.3494,
+    "lon": -72.9467,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "El Mirador Airport (PUX/SCPV) is a small airfield serving Puerto Varas, a picturesque town in Chile's Los Lagos Region known for its German colonial architecture and breathtaking views of the Osorno and Calbuco volcanoes. The airport primarily handles general aviation and limited regional flights, providing convenient access for travelers heading to the Lake District. Its scenic location near Llanquihue Lake makes it a popular gateway for adventure tourism and nature enthusiasts.",
+  "faqs": "Q: What is El Mirador Airport primarily used for?\nA: The airport mainly serves general aviation, private aircraft, and limited regional flights connecting Puerto Varas with other Chilean destinations.\n\nQ: Are there commercial passenger flights to and from El Mirador Airport?\nA: Commercial service is limited; most travelers fly into larger nearby airports and then transfer by ground to Puerto Varas.\n\nQ: What attractions are near the airport?\nA: Puerto Varas sits on the shores of Llanquihue Lake, with stunning views of the Osorno and Calbuco volcanoes, and is a gateway to Vicente Pérez Rosales National Park.\n\nQ: Does the airport have customs and immigration facilities?\nA: As a small regional airfield, El Mirador does not have full international customs facilities; international travelers typically clear customs at larger airports first.\n\n",
+  "transport_tips": "Ground transportation from El Mirador to Puerto Varas town center is typically arranged by pre-booked taxi or transfer, as the airport is small with limited on-site services. Rental cars can be arranged in advance through agencies in Puerto Varas. The drive to the town center takes approximately 20-30 minutes depending on traffic and weather conditions.",
+  "local_tip": "Visit on a clear morning to enjoy unobstructed views of both Osorno and Calbuco volcanoes during takeoff or landing, and ask pilots for a quick detour flight over the volcanoes if arranging a chartered scenic tour.",
+  "generatedAt": "2026-06-27T14:17:35.140Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CBV",
+    "icao": "MGCB",
+    "name": "Coban Airport",
+    "country": "Guatemala",
+    "city": "Coban",
+    "lat": 15.469,
+    "lon": -90.4067,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Coban Airport (CBV/MGCB) is a medium-sized regional airport serving Coban, the capital of Guatemala's Alta Verapaz department in the central highlands. The airport provides essential air access to a region renowned for its premium coffee production, cloud forests, and ecotourism destinations such as Semuc Champey and the Lanquin Caves. It primarily handles domestic flights and serves as a gateway for visitors exploring the lush, biodiverse landscape of northern Guatemala.",
+  "faqs": "Q: What is the airport code for Coban Airport?\nA: The IATA code is CBV and the ICAO code is MGCB.\n\nQ: Are there international flights from Coban Airport?\nA: No, Coban Airport primarily handles domestic flights within Guatemala.\n\nQ: What attractions are near Coban Airport?\nA: The airport is close to popular destinations including Semuc Champey natural bridge, Lanquin Caves, and the surrounding cloud forests and coffee plantations of Alta Verapaz.\n\nQ: Is the airport suitable for large commercial aircraft?\nA: As a medium-sized airport with a size score of 250, it accommodates regional turboprop aircraft but is not designed for large jets.",
+  "transport_tips": "Taxis and shuttle services are typically available outside the terminal for the short ride into central Coban, located only a few kilometers away. Arranging ground transport in advance is recommended, especially during the rainy season when road conditions in the highlands can be challenging. Rental cars can also be arranged in Coban for travelers exploring the broader Alta Verapaz region.",
+  "local_tip": "Pack a light rain jacket even in the dry season, as Coban's highland cloud forest microclimate can produce sudden afternoon showers that affect both outdoor plans and visibility for arriving flights.",
+  "generatedAt": "2026-06-26T11:22:06.990Z",
+  "model": "MiniMax-M3"
+}

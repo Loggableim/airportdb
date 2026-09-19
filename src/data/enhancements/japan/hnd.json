@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HND",
+    "icao": "RJTT",
+    "name": "Tokyo Haneda International Airport",
+    "country": "Japan",
+    "city": "Tokyo",
+    "lat": 35.5497,
+    "lon": 139.787,
+    "type": "large_airport",
+    "size": 1168475
+  },
+  "summary": "Tokyo Haneda International Airport (HND) is one of the two primary airports serving the Greater Tokyo Area, located just 14 km south of Tokyo Station in Ota City. Opened in 1931, it is Japan's busiest airport and a major hub for Japan Airlines and All Nippon Airways. Built largely on reclaimed land in Tokyo Bay, Haneda is known for its efficiency, cleanliness, and proximity to the city center.",
+  "faqs": "Q: How do I get from Haneda Airport to central Tokyo?\nA: The fastest options are the Tokyo Monorail (to Hamamatsucho) and the Keikyu Line (to Shinagawa), both connecting to the JR Yamanote Line. Limousine buses also serve major hotels and stations. Taxis are available but expensive.\n\nQ: What terminals does Haneda have?\nA: Haneda has three terminals: Terminal 1 for Japan Airlines domestic flights, Terminal 2 for All Nippon Airways domestic flights, and Terminal 3 for international flights. Free shuttle buses connect the terminals.\n\nQ: Is there luggage storage or forwarding at Haneda?\nA: Yes, there are coin lockers and baggage storage counters in all terminals. You can also use same-day luggage delivery to hotels or other airports via Yamato Transport.\n\nQ: Does Haneda have a hotel inside the airport?\nA: Yes, the Royal Park Hotel Tokyo Haneda is located in Terminal 3, and there are also capsule hotels and transit hotels in Terminals 1 and 2. Some lounges offer shower facilities.\n\n",
+  "transport_tips": "The Tokyo Monorail runs from Haneda to Hamamatsucho in about 13 minutes, while the Keikyu Line connects to Shinagawa in 11 minutes; both link to the JR Yamanote loop. For late-night arrivals, limousine buses and taxis are available, but note that trains stop around midnight. Suica or Pasmo IC cards work on all trains and buses, and can be purchased at the airport.",
+  "local_tip": "For a unique pre-flight experience, visit the Haneda Airport Garden complex connected to Terminal 3, which features a natural hot spring (Izumi Tenku no Yu), a rooftop garden, and diverse shops—a relaxing retreat frequent travelers appreciate.",
+  "generatedAt": "2026-09-19T23:18:28.040Z",
+  "model": "deepseek-v4.1-flash"
+}

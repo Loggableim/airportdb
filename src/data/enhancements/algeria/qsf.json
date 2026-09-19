@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "QSF",
+    "icao": "DAAS",
+    "name": "Ain Arnat Airport",
+    "country": "Algeria",
+    "city": "Sétif",
+    "lat": 36.1785,
+    "lon": 5.3299,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Ain Arnat Airport serves the city of Sétif in northeastern Algeria, located in the Hauts Plateaux region. It functions as a key gateway for travelers visiting this historically significant area known for its ancient Berber, Roman, and French colonial heritage. The airport handles domestic flights primarily connecting Sétif to Algiers and other Algerian cities.",
+  "faqs": "Q: Where is Ain Arnat Airport located relative to Sétif city center?\nA: The airport is situated approximately 7-10 km southeast of Sétif, near the town of Ain Arnat.\n\nQ: What airlines operate at Ain Arnat Airport?\nA: The airport primarily serves domestic flights operated by Air Algérie and other Algerian carriers, with routes mainly connecting to Algiers.\n\nQ: Does Ain Arnat Airport offer international flights?\nA: The airport mainly handles domestic flights, though select regional routes have operated seasonally. For most international travel, Houari Boumediene Airport in Algiers is the primary gateway.\n\nQ: Are there facilities for overnight stays near the airport?\nA: Several hotels are available in Sétif city, though options immediately adjacent to the terminal are limited.",
+  "transport_tips": "Taxis and rental cars are the most common ways to reach Sétif from the airport, with the journey into the city typically taking around 15-20 minutes. Shared taxis and shuttle services are also available outside the terminal. Travelers should confirm fares in advance, as metered taxis are not always the standard.",
+  "local_tip": "Visit Sétif's archaeological museum, which houses one of Algeria's most important collections of Roman mosaics discovered in the region, including pieces from the nearby Djémila archaeological site.",
+  "generatedAt": "2026-06-29T23:05:44.110Z",
+  "model": "MiniMax-M3"
+}

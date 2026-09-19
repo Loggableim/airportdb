@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IDH",
+    "icao": "KGIC",
+    "name": "Idaho County Airport",
+    "country": "United States",
+    "city": "Grangeville",
+    "lat": 45.9426,
+    "lon": -116.123,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Idaho County Airport (IDH/KGIC) is a small general aviation facility serving Grangeville, the seat of Idaho County in north-central Idaho. Nestled in the rugged terrain near the Camas Prairie and the Bitterroot Mountains, it provides essential access for the rural community and visitors heading to nearby wilderness areas. The airport is a popular gateway for hunters, fishermen, and outdoor enthusiasts exploring the Selway-Bitterroot Wilderness and Hells Canyon.",
+  "faqs": "Q: What airlines fly into Idaho County Airport?\nA: No commercial airlines serve this airport; it operates primarily for general aviation, private aircraft, and charter flights.\n\nQ: Is there a restaurant or terminal at IDH?\nA: The airport has a small terminal with basic amenities, but travelers should plan to find food and services in nearby Grangeville.\n\nQ: Can I rent a car at the airport?\nA: Rental car availability is limited; arranging transportation in advance through a local provider in Grangeville is recommended.\n\nQ: What is the airport mainly used for?\nA: It serves private pilots, air ambulance services, and recreational travelers visiting north-central Idaho's outdoor destinations.",
+  "transport_tips": "The airport is located just a few miles north of downtown Grangeville, making taxi or short rental car drives quick and easy. Since commercial service is unavailable, visitors typically drive or arrange private ground transport from larger airports in Lewiston or Pullman. Pilots should note the mountain-surrounded terrain can produce challenging wind conditions, especially in the afternoons.",
+  "local_tip": "Plan your arrival outside the peak summer afternoon thunderstorm window, and consider coordinating with local pilots or FBO staff for the most current field conditions, as mountain weather here can change faster than forecasts predict.",
+  "generatedAt": "2026-06-27T04:47:11.906Z",
+  "model": "MiniMax-M3"
+}

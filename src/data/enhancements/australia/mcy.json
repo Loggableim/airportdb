@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MCY",
+    "icao": "YBSU",
+    "name": "Sunshine Coast Airport",
+    "country": "Australia",
+    "city": "Maroochydore",
+    "lat": -26.5933,
+    "lon": 153.0832,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Sunshine Coast Airport (MCY) is the main aviation gateway to Queensland's Sunshine Coast region, located in Marcoola between Maroochydore and Coolum. The airport underwent a major transformation with the completion of a new 2.45km runway in 2020, enabling larger aircraft and new domestic routes. It serves as a key access point for popular destinations including Noosa, Mooloolaba, and the broader hinterland.",
+  "faqs": "Q: How far is Sunshine Coast Airport from Maroochydore?\nA: The airport is approximately 10 km north of Maroochydore's town centre, with a drive time of around 15-20 minutes depending on traffic.\n\nQ: What airlines operate from Sunshine Coast Airport?\nA: Major carriers include Qantas, Virgin Australia, and Jetstar, offering domestic flights to Sydney, Melbourne, Brisbane, and Adelaide, along with select international services.\n\nQ: Does the airport have international flights?\nA: Historically, seasonal international flights have operated, including routes to New Zealand. Check current schedules as international services vary by season and demand.\n\nQ: Are there customs and immigration facilities?\nA: Yes, the airport has biosecurity and border facilities capable of processing international arrivals when international flights are scheduled.",
+  "transport_tips": "The airport is well-connected by road via the Sunshine Motorway, with car rental counters and rideshare pickup zones located at the terminal. Pre-booked shuttle services and taxis are available at the designated ranks outside arrivals. For budget-conscious travellers, bus route 622 connects the airport to Maroochydore and key Sunshine Coast destinations.",
+  "local_tip": "If you have a long layover or early arrival, the airport's beachside location means you can walk to Marcoola Beach in under five minutes from the terminal, perfect for a quick surf or sunset stroll before your flight.",
+  "generatedAt": "2026-06-28T20:13:38.366Z",
+  "model": "MiniMax-M3"
+}

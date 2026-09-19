@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KXK",
+    "icao": "UHKK",
+    "name": "Komsomolsk-on-Amur Airport",
+    "country": "Russia",
+    "city": "Komsomolsk-on-Amur",
+    "lat": 50.409,
+    "lon": 136.934,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Komsomolsk-on-Amur Airport (KXK) is a regional airport serving the industrial city of Komsomolsk-on-Amur in the Russian Far East, within Khabarovsk Krai. The city itself is a major center for Russian aerospace manufacturing, home to the Komsomolsk-on-Amur Aircraft Plant (KnAAZ), which produces Sukhoi combat aircraft. The airport primarily handles domestic flights connecting this remote Far Eastern region with other Russian hubs.",
+  "faqs": "Q: How far is Komsomolsk-on-Amur Airport from the city center?\nA: The airport is located approximately 15-20 km southwest of central Komsomolsk-on-Amur, typically a 25-35 minute drive depending on traffic.\n\nQ: What destinations can I fly to from KXK?\nA: The airport primarily serves domestic routes, with regular flights to Khabarovsk and Moscow, and occasional seasonal or charter service to other Russian cities.\n\nQ: Are there international flights from Komsomolsk-on-Amur Airport?\nA: No, the airport does not currently offer scheduled international service; travelers must connect through larger hubs like Khabarovsk or Moscow for international flights.\n\nQ: Is the airport open 24 hours?\nA: Operating hours align with scheduled flight arrivals and departures; the terminal generally closes between flight operations, so check your flight time in advance.\n\n",
+  "transport_tips": "The most practical way to reach the airport is by taxi or pre-arranged transfer, as there is no dedicated rail link or regular public bus service. Ride-hailing apps and local taxi services operate in the city, but booking ahead is recommended given the limited flight schedule. If driving, allow extra time during winter months, as heavy snowfall in the Far East can affect road conditions.",
+  "local_tip": "Komsomolsk-on-Amur is a closed-access industrial city with significant military aerospace facilities, so have your passport and any required permits ready when traveling in or out, as security checkpoints may be encountered on surrounding roads.",
+  "generatedAt": "2026-06-29T16:27:43.807Z",
+  "model": "MiniMax-M3"
+}

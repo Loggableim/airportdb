@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JMS",
+    "icao": "KJMS",
+    "name": "Jamestown Regional Airport",
+    "country": "United States",
+    "city": "Jamestown",
+    "lat": 46.9297,
+    "lon": -98.6782,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Jamestown Regional Airport (JMS/KJMS) is a public-use airport serving Jamestown, North Dakota, a city best known for the World's Largest Buffalo monument. The airport supports general aviation and provides scheduled regional service, playing a key role in connecting this central North Dakota community to larger hubs. It operates under the North Dakota Airport System as a medium-sized facility.",
+  "faqs": "Q: What airlines serve Jamestown Regional Airport?\nA: The airport is primarily served by regional carrier United Express (operated by SkyWest), providing connections to Denver International Airport.\n\nQ: Where is the airport located relative to downtown Jamestown?\nA: Jamestown Regional Airport is located a few miles north of the city center, just off Interstate 94, making it easily accessible by car.\n\nQ: Does the airport offer car rental services?\nA: Rental car services may be available on-site or by arrangement; visitors are advised to book in advance given the limited options at regional airports.\n\nQ: Are there customs or international flight capabilities?\nA: No, Jamestown Regional Airport handles domestic flights only and does not have customs or border protection facilities.",
+  "transport_tips": "The airport is conveniently located near Interstate 94, making ground transportation by car or rideshare straightforward. On-site parking is available and typically free or low-cost compared to larger airports. Taxi and shuttle services may be limited, so arranging ground transport in advance is recommended.",
+  "local_tip": "Time your visit to also stop at the National Buffalo Museum, home to the famous World's Largest Buffalo statue, which is just a short drive from the airport—a uniquely North Dakota experience you won't find elsewhere.",
+  "generatedAt": "2026-06-29T06:13:26.624Z",
+  "model": "MiniMax-M3"
+}

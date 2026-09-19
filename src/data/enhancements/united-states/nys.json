@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NYS",
+    "icao": "",
+    "name": "New York Skyports Inc Seaplane Base",
+    "country": "United States",
+    "city": "New York",
+    "lat": 40.7351,
+    "lon": -73.9728,
+    "type": "seaplane_base",
+    "size": 25
+  },
+  "summary": "New York Skyports Inc Seaplane Base (NYS) is a historic seaplane facility situated on the East River at the foot of East 23rd Street in Manhattan. Established in the mid-20th century, it has long served as a launch point for floatplane and amphibious aircraft operations in New York City. The base remains one of the few active seaplane operations along Manhattan's waterfront, offering a distinctive aviation experience amid the urban skyline.",
+  "faqs": "Q: Where exactly is New York Skyports located?\nA: The base sits on the East River at the foot of East 23rd Street in Manhattan, adjacent to the East 23rd Street Marina.\n\nQ: What types of aircraft operate from NYS?\nA: The facility primarily accommodates seaplanes and float-equipped aircraft, including single-engine amphibians used for charter and recreational flights.\n\nQ: Is NYS open to the public?\nA: Access is generally limited to pilots, passengers, and marina visitors. The adjacent Skyport Marina and terminal area serve as the main public-facing facilities.\n\nQ: Can passengers take scheduled flights from this seaplane base?\nA: Scheduled commercial service has been historically limited and varies; most current operations involve charter flights and private aircraft rather than regular scheduled routes.\n\n",
+  "transport_tips": "The base is easily reached via the NYC Subway, with the 6 train stopping at 23rd Street and the L train at 1st Avenue, both within a short walk. Taxis and rideshares can drop off directly along the FDR Drive service road near the marina entrance. Visitors arriving by boat can use the adjacent marina slips, which connect directly to the seaplane ramp area.",
+  "local_tip": "Visit the terminal observation deck near dusk to watch seaplanes take off and land against the backdrop of the Manhattan and Williamsburg Bridges—an underrated photo opportunity that most tourists miss.",
+  "generatedAt": "2026-06-28T13:02:12.101Z",
+  "model": "MiniMax-M3"
+}

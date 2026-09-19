@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MQK",
+    "icao": "SLTI",
+    "name": "San Matías Airport",
+    "country": "Bolivia",
+    "city": "San Matías",
+    "lat": -16.3392,
+    "lon": -58.4019,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "San Matías Airport (MQK/SLTI) is a small regional airstrip serving the frontier town of San Matías in Bolivia's Santa Cruz Department, near the border with Brazil. The airport provides vital air access to this remote lowland community in the Chiquitania region, where overland travel can be lengthy and challenging due to the surrounding wetlands and seasonal flooding. It primarily handles light aircraft and occasional charter flights connecting the town to larger Bolivian cities.",
+  "faqs": "Q: What types of aircraft operate at San Matías Airport?\nA: The airport mainly serves small propeller aircraft and occasional charter flights, as it is not equipped for large commercial jets.\n\nQ: How far is San Matías from the Brazilian border?\nA: San Matías sits directly on the Bolivia-Brazil border, making it a key crossing point between the two countries.\n\nQ: Are there scheduled commercial flights to MQK?\nA: Scheduled service is limited; travelers should confirm current schedules with local carriers as flights may be seasonal or charter-based.\n\nQ: What facilities are available at the airport?\nA: Facilities are minimal, typical of small Bolivian regional airstrips, with basic terminal services and limited amenities.\n\n",
+  "transport_tips": "Taxis and motorbike taxis (mototaxis) are the primary means of transport between the airport and San Matías town center, which is just a short ride away. Travelers heading to Brazil can arrange onward transport to the nearby border crossing. Given the remote location, arranging ground transportation in advance is recommended, especially during the rainy season when roads can become difficult to navigate.",
+  "local_tip": "If you're crossing into Brazil, the nearby border post at San Matías connects to Cáceres in Mato Grosso, so having your documents ready and knowing Brazilian entry requirements in advance will save significant time at this small but busy frontier crossing.",
+  "generatedAt": "2026-06-28T06:30:28.579Z",
+  "model": "MiniMax-M3"
+}

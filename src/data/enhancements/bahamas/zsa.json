@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZSA",
+    "icao": "MYSM",
+    "name": "San Salvador International Airport",
+    "country": "Bahamas",
+    "city": "San Salvador",
+    "lat": 24.063,
+    "lon": -74.5232,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "San Salvador International Airport (ZSA) serves San Salvador Island, a small but historically significant island in the southeastern Bahamas often cited as the first landfall of Christopher Columbus in 1492. The airport provides essential access to this remote island, which is known for its quiet beaches, clear waters, and Columbus-themed monuments. Despite its large_airport classification and high size score, it primarily handles general aviation and occasional commercial service, with the island itself hosting only a handful of small resorts and settlements.",
+  "faqs": "Q: Where is San Salvador International Airport located?\nA: The airport is situated on San Salvador Island in the southeastern Bahamas, approximately 24.063°N, 74.523°W.\n\nQ: Does San Salvador International Airport have scheduled commercial flights?\nA: Scheduled commercial service is limited and infrequent. Most visitors arrive via small charter or inter-island flights, often from Nassau or other Bahamian hubs.\n\nQ: What facilities are available at the airport?\nA: The terminal is small and basic, offering limited amenities typical of a remote island airport. There are no jet bridges, and passengers typically walk to and from the aircraft on the tarmac.\n\nQ: Why is San Salvador historically important?\nA: The island is widely recognized as the probable first landing site of Christopher Columbus during his 1492 voyage to the New World, and it features several monuments and landmarks commemorating this event.",
+  "transport_tips": "Rental cars are available at the airport but are limited in number, so booking in advance is strongly recommended. Taxis can be arranged upon arrival to reach nearby resorts, most of which are within a short 15-20 minute drive. There is no public bus service on the island, so arranging ground transportation ahead of time is essential.",
+  "local_tip": "Bring cash in small denominations, as ATM availability on San Salvador is extremely limited and many small businesses and vendors may not accept credit cards.",
+  "generatedAt": "2026-06-28T23:02:11.579Z",
+  "model": "MiniMax-M3"
+}

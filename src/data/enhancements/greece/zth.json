@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZTH",
+    "icao": "LGZA",
+    "name": "Zakynthos International Airport Dionysios Solomos",
+    "country": "Greece",
+    "city": "Zakynthos",
+    "lat": 37.7509,
+    "lon": 20.8843,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Zakynthos International Airport 'Dionysios Solomos' (ZTH) is the principal gateway to the Greek Ionian island of Zakynthos, named after the celebrated 19th-century poet and island native who authored the Greek national anthem. The airport handles predominantly seasonal tourist traffic from European charter and low-cost carriers, with flights concentrated in the summer months when the island draws beachgoers to destinations like Laganas, Tsilivi, and Navagio Beach. Its compact single-terminal layout keeps transit times short, and its location on the island's southeast coast means passengers often enjoy scenic low-altitude approaches over turquoise Ionian waters.",
+  "faqs": "Q: What is the airport named after?\nA: It is named after Dionysios Solomos (1798–1857), the renowned Greek Romantic poet born on Zakynthos who wrote 'Hymn to Liberty,' which became the Greek national anthem.\n\nQ: How far is Zakynthos Airport from the main resort areas?\nA: The airport is roughly 4 km from Zakynthos Town, about 10 km from Laganas, and approximately 7 km from Tsilivi, with transfer times typically under 20 minutes by car.\n\nQ: Does the airport operate year-round?\nA: Scheduled service is highly seasonal, with most flights running from late April to late October; in winter the terminal operates on a reduced schedule.\n\nQ: Are car rentals available on site?\nA: Yes, several international and local rental agencies have desks in the arrivals hall, though booking ahead during peak summer is strongly advised.",
+  "transport_tips": "Pre-booked transfers and taxis are available outside the terminal, with fixed fares to most resort areas; agree on or confirm the price before departure. Public KTEL buses run to Zakynthos Town and some coastal villages but are limited in frequency and timetable. Renting a car or scooter is the most flexible option for exploring the island's beaches and mountain villages",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T03:55:23.727Z",
+  "model": "MiniMax-M3"
+}

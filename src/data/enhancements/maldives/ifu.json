@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IFU",
+    "icao": "VREI",
+    "name": "Ifuru Airport",
+    "country": "Maldives",
+    "city": "Ifuru Island",
+    "lat": 5.7083,
+    "lon": 73.025,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Ifuru Airport is a small domestic airport located on Ifuru Island in the northern Maldives, serving the Raa Atoll region. It primarily functions as a gateway for guests of the nearby Ifuru Island Resort and supports inter-island connectivity in this remote area of the Indian Ocean. The airport features a single runway and caters to short-haul domestic flights operated by smaller turboprop aircraft.",
+  "faqs": "Q: What is the IATA code for Ifuru Airport?\nA: The IATA code is IFU, and the ICAO code is VREI.\n\nQ: How do I get to Ifuru Island Resort from the airport?\nA: The resort is located on the same island as the airport, making transfers quick and convenient—typically just a few minutes by golf cart or short walk from the terminal.\n\nQ: What type of aircraft fly into Ifuru Airport?\nA: Small to medium turboprop aircraft such as the Dash 8 typically operate domestic routes to Ifuru, as the short runway is suited for these aircraft types.\n\nQ: Are there international flights to Ifuru Airport?\nA: No, Ifuru is a domestic-only airport. International travelers must first arrive at Velana International Airport in Malé and then take a connecting domestic flight.\n\n",
+  "transport_tips": "Most travelers reach Ifuru Airport via a connecting domestic flight from Velana International Airport (MLE) in Malé, with a flight time of approximately 45 minutes. Resort guests are typically met at the small terminal and transferred directly to the property on the same island. Since the airport is remote and limited, pre-arranging transport through your resort or guesthouse is highly recommended.",
+  "local_tip": "Bring minimal luggage if possible—domestic flights to Ifuru often have strict weight allowances (usually 20kg checked plus 5kg carry-on), and excess baggage fees on small Maldivian carriers can be significant.",
+  "generatedAt": "2026-06-27T23:12:22.957Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MVQ",
+    "icao": "UMOO",
+    "name": "Mogilev Airport",
+    "country": "Belarus",
+    "city": "Mogilev",
+    "lat": 53.9549,
+    "lon": 30.0951,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mogilev Airport (MVQ/UMOO) is a medium-sized regional airport serving the city of Mogilev in eastern Belarus, located several kilometers northeast of the city center. The airport primarily handles domestic flights within Belarus and occasional regional charter services. It serves as a convenient gateway for travelers visiting the historic Dnieper River city of Mogilev, known for its industrial heritage and Soviet-era architecture.",
+  "faqs": "Q: Where is Mogilev Airport located relative to the city?\nA: The airport is situated approximately 15-20 km northeast of Mogilev city center, making it accessible within a 20-30 minute drive depending on traffic.\n\nQ: Does Mogilev Airport offer international flights?\nA: The airport primarily serves domestic routes within Belarus, with international services being limited and mainly seasonal or charter-based.\n\nQ: What facilities are available at the terminal?\nA: As a medium-sized regional airport, the terminal offers basic amenities including a waiting area, check-in counters, and a small café, though services are more limited compared to Minsk's main airport.\n\nQ: Are there customs and immigration services at Mogilev Airport?\nA: Yes, border control facilities are available for international flights, though passengers should verify current requirements with their airline before travel.",
+  "transport_tips": "Taxis and pre-booked transfer services are the most reliable way to reach Mogilev Airport, as public transport options directly serving the terminal are limited. Renting a car in Mogilev and driving to the airport via the M8 highway is straightforward, with parking available near the terminal. Travelers flying into MVQ should arrange return transport in advance, as ride-hailing apps are not widely used in the region.",
+  "local_tip": "If you have a long layover or early flight, the nearby town offers few amenities, so consider bringing snacks and water—mornings can be particularly quiet at the terminal with limited food service available.",
+  "generatedAt": "2026-06-29T16:31:18.565Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JAD",
+    "icao": "YPJT",
+    "name": "Perth Jandakot Airport",
+    "country": "Australia",
+    "city": "Perth",
+    "lat": -32.0975,
+    "lon": 115.881,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Perth Jandakot Airport is a major general aviation hub located approximately 20 kilometres southeast of Perth's central business district in Western Australia. Established in the 1920s, it serves as one of the busiest general aviation airports in Australia, hosting numerous flight training schools and private aviation operators. The airport features two runways and is known for its concentration of charter, flight training, and recreational flying activity.",
+  "faqs": "Q: What is Perth Jandakot Airport primarily used for?\nA: Jandakot Airport is primarily a general aviation facility, hosting flight training schools, charter operators, private aircraft, and emergency services rather than commercial airline traffic.\n\nQ: Does Perth Jandakot Airport have scheduled commercial flights?\nA: No, commercial passenger airlines operate from Perth Airport (PER) instead. Jandakot exclusively handles general aviation, flight training, and private aircraft operations.\n\nQ: How far is Jandakot Airport from Perth's city centre?\nA: The airport is located roughly 20 kilometres southeast of Perth's central business district, typically a 25-30 minute drive depending on traffic.\n\nQ: Are there flight training schools at Jandakot Airport?\nA: Yes, Jandakot is home to multiple flight training organisations, making it one of Australia's most important airports for pilot training.\n\n",
+  "transport_tips": "Driving is the most convenient way to reach Jandakot Airport, with ample parking available on-site. The airport is accessible via the Kwinana Freeway and Roe Highway, providing straightforward connections from central Perth. Taxi and rideshare services are readily available, though no direct public transport serves the airport terminal.",
+  "local_tip": "Visit the Jandakot Airport Cafe, a popular spot among pilots and aviation enthusiasts, where you can watch aircraft movements up close while enjoying a meal—it's become something of a community hub for Perth's general aviation scene.",
+  "generatedAt": "2026-06-26T07:21:53.655Z",
+  "model": "MiniMax-M3"
+}

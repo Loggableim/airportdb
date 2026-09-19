@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MRK",
+    "icao": "KMKY",
+    "name": "Marco Island Executive Airport",
+    "country": "United States",
+    "city": "Marco Island",
+    "lat": 25.995,
+    "lon": -81.6725,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Marco Island Executive Airport is a small general aviation facility serving the upscale resort community of Marco Island on Florida's Gulf Coast. Originally established to support the region's growing tourism and private aviation needs, it primarily caters to private and corporate aircraft visiting the barrier island. The airport provides convenient access to one of southwest Florida's most affluent coastal destinations without the congestion of larger regional airports.",
+  "faqs": "Q: What type of airport is Marco Island Executive Airport?\nA: It is a small general aviation airport that primarily serves private, corporate, and charter flights rather than commercial airline service.\n\nQ: Are there commercial airline flights available at MRK?\nA: No, Marco Island Executive does not offer scheduled commercial airline service. Travelers flying commercially typically use Southwest Florida International Airport in Fort Myers.\n\nQ: Does the airport have customs or immigration facilities?\nA: No, the airport does not have US Customs and Border Protection facilities, so it cannot directly process international arrivals.\n\nQ: What facilities are available at the airport?\nA: The airport features a terminal building, fuel services for general aviation, aircraft parking, and tie-down spaces, along with basic amenities for pilots and passengers.\n\n",
+  "transport_tips": "Getting to and from Marco Island Executive Airport is easiest by car, as the facility is located just off San Marco Road with easy access to the island's main thoroughfares. Rental cars and rideshare services can be arranged, though options may be more limited than at larger airports. Taxis and pre-arranged private shuttles are commonly used by visitors heading to the island's resorts and residences.",
+  "local_tip": "If you're flying in to visit Marco Island's famous beaches like Tigertail Beach, consider arranging a rental car in advance, as the island has limited public transportation and the airport is about a 10-minute drive from the main beach areas and resorts.",
+  "generatedAt": "2026-06-27T00:05:47.407Z",
+  "model": "MiniMax-M3"
+}

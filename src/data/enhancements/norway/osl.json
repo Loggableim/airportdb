@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OSL",
+    "icao": "ENGM",
+    "name": "Oslo-Gardermoen International Airport",
+    "country": "Norway",
+    "city": "Oslo (Gardermoen)",
+    "lat": 60.1939,
+    "lon": 11.1004,
+    "type": "large_airport",
+    "size": 1015675
+  },
+  "summary": "Oslo-Gardermoen (OSL) is Norway's principal international gateway, situated approximately 35 km north of Oslo near the village of Gardermoen. Opened in 1998, it replaced the older Fornebu Airport and now serves as the main hub for Scandinavian Airlines, Norwegian Air Shuttle, and Widerøe. The airport features two parallel runways and is among the largest and busiest in Scandinavia, handling both domestic and long-haul intercontinental traffic.",
+  "faqs": "Q: How far is Oslo Airport from the city center?\nA: Oslo Airport is located about 35-40 km north of central Oslo, roughly a 40-50 minute drive depending on traffic conditions.\n\nQ: What is the fastest way to travel between the airport and Oslo?\nA: The Flytoget Airport Express Train is the quickest option, reaching Oslo Central Station in approximately 19-22 minutes with departures every 10-20 minutes.\n\nQ: Which airlines operate major hubs at Oslo Airport?\nA: Scandinavian Airlines (SAS), Norwegian Air Shuttle, and Widerøe all maintain significant operations, with Norwegian using OSL as a primary base.\n\nQ: Does the airport operate 24 hours?\nA: The terminal buildings generally open around 04:00 and close shortly after the last flight, though flight schedules span early morning to late evening.\n\n",
+  "transport_tips": "The Flytoget Airport Express Train is the fastest and most reliable option to central Oslo, with a journey time under 25 minutes and trains running frequently throughout the day. NSB regional trains and Vy express buses also serve the airport, offering cheaper alternatives, though with longer travel times. If driving, the E6 motorway provides direct access, but expect significant rush-hour congestion between 07:00-09:00 and 15:00-17:00 on weekdays.",
+  "local_tip": "Frequent travelers should download the Flytoget app for mobile tickets and consider the 10-trip pass if commuting regularly, as the train station is located directly beneath the terminal, making it the most weatherproof and quickest way to reach the city regardless of Norwegian winter conditions.",
+  "generatedAt": "2026-06-28T15:14:52.836Z",
+  "model": "MiniMax-M3"
+}

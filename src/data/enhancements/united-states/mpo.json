@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MPO",
+    "icao": "KMPO",
+    "name": "Pocono Mountains Municipal Airport",
+    "country": "United States",
+    "city": "Mount Pocono",
+    "lat": 41.136,
+    "lon": -75.3796,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Pocono Mountains Municipal Airport is a general aviation facility serving the Pocono Mountains resort region of northeastern Pennsylvania. Situated in Mount Pocono at an elevation of roughly 1,915 feet, the airport primarily handles private, recreational, and corporate flights rather than scheduled commercial service. Its single runway (13/31) accommodates small to mid-size aircraft visiting the area's ski resorts, lakes, and outdoor recreation destinations.",
+  "faqs": "Q: Does Pocono Mountains Municipal Airport have scheduled commercial flights?\nA: No, MPO is a general aviation airport with no scheduled airline service. It primarily serves private, corporate, and recreational pilots.\n\nQ: What is the airport mainly used for?\nA: The airport supports private aviation, flight training, corporate travel, and tourism flights into the Pocono Mountains region.\n\nQ: Where exactly is the airport located?\nA: It sits in Mount Pocono, Monroe County, Pennsylvania, about 35 miles southeast of Scranton and roughly 90 miles northwest of New York City.\n\nQ: Are there customs or immigration facilities?\nA: No, MPO does not have a CBP facility, so international arrivals must clear customs at a designated port of entry first.",
+  "transport_tips": "Rental cars are the most convenient way to reach the airport, though availability should be arranged in advance given the small footprint of the facility. Rideshare services like Uber and Lyft operate in the area but pickup reliability can vary at this smaller airfield. Taxi and local shuttle services can be pre-booked for transfers to nearby resorts in the Poconos.",
+  "local_tip": "Mountain weather can change quickly at this elevation, so pilots and visitors should check conditions in advance—afternoon fog and gusty winds off the ridge tops are common in shoulder seasons.",
+  "generatedAt": "2026-06-27T01:13:55.780Z",
+  "model": "MiniMax-M3"
+}

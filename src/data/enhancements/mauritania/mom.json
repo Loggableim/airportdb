@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MOM",
+    "icao": "GQNL",
+    "name": "Letfotar Airport",
+    "country": "Mauritania",
+    "city": "Moudjeria",
+    "lat": 17.75,
+    "lon": -12.5,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Letfotar Airport is a small regional airport serving Moudjeria, a town in the Tagant region of central Mauritania. It primarily functions as a domestic connection point, linking remote Saharan communities to the national capital Nouakchott. The airport's modest size reflects the sparse population of the surrounding desert region, where it plays an important role for humanitarian, governmental, and limited commercial travel.",
+  "faqs": "Q: What is the IATA code for Letfotar Airport?\nA: The IATA code is MOM and the ICAO code is GQNL.\n\nQ: Are there commercial flights to Letfotar Airport?\nA: Scheduled commercial service is extremely limited. Most flights are operated by Mauritanian carriers on an as-needed basis, often serving government, NGO, or charter purposes.\n\nQ: Where is Moudjeria located?\nA: Moudjeria is the capital of the Tagant region in central Mauritania, situated in a semi-arid area south of the Adrar plateau.\n\nQ: What facilities are available at the airport?\nA: As a small airport, facilities are minimal. Travelers should expect basic infrastructure with limited amenities, no major retail, and infrequent service.\n\n",
+  "transport_tips": "Ground transportation from the airport to Moudjeria town center is typically arranged in advance, as taxis and shared vehicles are not always readily available at the terminal. Many visitors arrange pickup through local contacts or their accommodation before arrival. The road journey from Nouakchott to Moudjeria by vehicle takes approximately 6-8 hours, so flights are a significant time-saver when available.",
+  "local_tip": "Carry sufficient water and sun protection, as the Tagant region experiences extreme heat for much of the year, and shade or waiting areas at the airport are minimal. If traveling in cooler months between November and February, bring a light jacket for early morning departures, as desert temperatures can drop sharply at dawn.",
+  "generatedAt": "2026-06-28T04:10:04.435Z",
+  "model": "MiniMax-M3"
+}

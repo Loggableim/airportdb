@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SOL",
+    "icao": "",
+    "name": "Solomon State Field",
+    "country": "United States",
+    "city": "Solomon",
+    "lat": 64.5605,
+    "lon": -164.4457,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Solomon State Field is a small public-use airport serving the remote village of Solomon on Alaska's Seward Peninsula, situated near the Bering Sea coast. The airport provides essential access for this isolated community, which is largely populated by Alaska Native residents and has a historical legacy tied to the early Nome Gold Rush era. Its gravel runway accommodates small bush planes, which are the primary mode of transport in this roadless stretch of western Alaska.",
+  "faqs": "Q: What is the airport code for Solomon State Field?\nA: The airport is designated by the IATA code SOL. It does not have an ICAO code.\n\nQ: What types of aircraft use Solomon State Field?\nA: The airport primarily serves small bush planes and commuter aircraft suited to its gravel surface and remote location.\n\nQ: Are there scheduled commercial flights to Solomon?\nA: Scheduled service is limited or unavailable; most visitors and residents arrange charter or on-demand air transportation to and from the field.\n\nQ: Is the airport open year-round?\nA: Yes, but operations are highly weather-dependent, as the Bering Sea region experiences harsh winter conditions that can restrict flights.",
+  "transport_tips": "There is no road connection to Solomon, so all travel to and from the airport is by air or, seasonally, by boat along the coast. Most travelers fly in via a connecting flight from Nome, which is the nearest hub with regular jet service. Charter operators in Nome can typically arrange on-demand flights to Solomon State Field on short notice.",
+  "local_tip": "If you're visiting Solomon, plan to arrive with all the fuel, food, and gear you'll need, as the village has very limited services and most supplies must",
+  "generatedAt": "2026-06-28T07:23:56.365Z",
+  "model": "MiniMax-M3"
+}

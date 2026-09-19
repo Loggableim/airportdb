@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JCU",
+    "icao": "GECE",
+    "name": "Ceuta Heliport",
+    "country": "Spain",
+    "city": "Ceuta",
+    "lat": 35.8927,
+    "lon": -5.3063,
+    "type": "heliport",
+    "size": 625
+  },
+  "summary": "Ceuta Heliport (IATA: JCU, ICAO: GECE) serves the Spanish autonomous city of Ceuta, located on the north African coast across the Strait of Gibraltar from mainland Spain. Because Ceuta has no conventional airport, this heliport is a critical transport link, primarily operating helicopter shuttle services connecting the enclave with mainland Spain. The facility sits on a small footprint overlooking the Mediterranean and serves both civilian passengers and occasional official/government flights.",
+  "faqs": "Q: Why does Ceuta only have a heliport and not a full airport?\nA: Ceuta is a small Spanish territory on the African coast with very limited land area, making a conventional airport impractical. Helicopter services efficiently handle passenger demand given the short hop to the Iberian Peninsula.\n\nQ: Where do helicopters from Ceuta typically fly to?\nA: Flights generally connect Ceuta with airports and heliports in southern mainland Spain, most notably Málaga and Algeciras, providing onward connections to the rest of Spain and Europe.\n\nQ: Who operates flights from Ceuta Heliport?\nA: Helicopter operations are commonly run by regional carriers serving the Ceuta–mainland route, with schedules designed around ferry and commuter traffic patterns.\n\nQ: Is Ceuta Heliport used for any purpose besides passenger travel?\nA: Yes, the heliport also accommodates official government flights, medical evacuations, and security operations relevant to Ceuta's position as a European border city in Africa.",
+  "transport_tips": "Access to the heliport is straightforward as Ceuta is small and compact—local taxis and walking can reach most points quickly. Passengers connecting onward typically use nearby ferry services from Ceuta's port to mainland Morocco or combine with bus routes into the city center. Because helicopter schedules can be weather-dependent, especially across the Strait of Gibraltar winds, allow buffer time when planning onward connections.",
+  "local_tip": "Bring valid passport documentation even for the short helicopter hop—border formalities apply since you are essentially crossing between two continents, and customs checks can occasionally be required on arrival in mainland Spain.",
+  "generatedAt": "2026-06-29T17:05:14.268Z",
+  "model": "MiniMax-M3"
+}

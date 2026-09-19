@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CDC",
+    "icao": "KCDC",
+    "name": "Cedar City Regional Airport",
+    "country": "United States",
+    "city": "Cedar City",
+    "lat": 37.701,
+    "lon": -113.099,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Cedar City Regional Airport serves the scenic southern Utah region, acting as a key gateway for travelers heading to nearby national parks including Zion, Bryce Canyon, and Cedar Breaks National Monument. Located in Iron County, the airport supports both commercial service and general aviation operations in an area known for its dramatic red rock landscapes and outdoor recreation. It also serves visitors to Southern Utah University and the renowned Utah Shakespeare Festival held annually in Cedar City.",
+  "faqs": "Q: What airlines serve Cedar City Regional Airport?\nA: The airport has historically been served by SkyWest Airlines with regional jet connections, typically linking Cedar City to Salt Lake City. Service availability can vary seasonally.\n\nQ: How far is the airport from downtown Cedar City?\nA: Cedar City Regional Airport is conveniently located just a few miles from the city center, making the drive approximately 10 minutes.\n\nQ: What national parks are accessible from Cedar City?\nA: Cedar City is a popular base for exploring Zion National Park (about 60 miles south), Bryce Canyon National Park, and Cedar Breaks National Monument, which is only about 20 miles east.\n\nQ: Does the airport have rental car services?\nA: Yes, rental car agencies typically operate at or near the airport, providing essential transportation for visitors planning to explore the surrounding region.\n\n",
+  "transport_tips": "Rental cars are the most practical option for reaching Cedar City and exploring the surrounding national parks, as public transportation in the area is limited. The short drive from the airport into town takes only a few minutes via local roads. Travelers planning park visits should arrange transportation in advance, especially during peak summer and fall festival seasons.",
+  "local_tip": "Time your visit to coincide with the Utah Shakespeare Festival, held annually from late June through October—flights and accommodations fill up quickly during this beloved cultural event that transforms the small college town into a vibrant arts destination.",
+  "generatedAt": "2026-06-29T03:20:13.648Z",
+  "model": "MiniMax-M3"
+}

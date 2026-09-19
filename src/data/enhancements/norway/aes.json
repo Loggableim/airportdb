@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AES",
+    "icao": "ENAL",
+    "name": "Ålesund Airport",
+    "country": "Norway",
+    "city": "Ålesund",
+    "lat": 62.5604,
+    "lon": 6.1108,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Ålesund Airport, Vigra (AES/ENAL) is an Avinor-operated international airport on the island of Vigra, about 10 km north of Ålesund in Møre og Romsdal, Norway. Opened in 1958, it serves as the main gateway to the Sunnmøre region and the Geirangerfjord area. Its island setting and compact terminal make it known for scenic approaches over fjords and coastal landscapes.",
+  "faqs": "Q: How far is Ålesund Airport from the city centre?\nA: The airport is on Vigra island, about 10 km north of Ålesund; by road it takes roughly 20–30 minutes via undersea tunnels, depending on traffic.\n\nQ: Which airlines and destinations are served from AES?\nA: Norwegian, SAS, Widerøe, and KLM are among the airlines serving AES, with domestic routes to Oslo, Bergen, and Trondheim plus international links to Copenhagen, Amsterdam, and other cities.\n\nQ: Is there public transport between the airport and Ålesund?\nA: Yes, the Flybussen airport express bus connects the terminal with Ålesund city centre and nearby areas, timed to meet many arrivals; taxis are also available.\n\nQ: What facilities are available at Ålesund Airport?\nA: The terminal offers car rental, taxis, bus stops, a café, duty-free shopping, and free Wi-Fi; it is small and easy to navigate.",
+  "transport_tips": "The Flybussen express bus is the main public transport link, running between the airport and Ålesund city centre with departures timed to flights. Driving from Ålesund takes about 20–30 minutes via the undersea tunnels, and rental cars are available at the terminal. Taxis are available outside arrivals, but they are pricier; check bus times if you arrive late.",
+  "local_tip": "If you're heading to Geiranger or the fjords, pre-book your rental car or bus transfer; summer demand at this small airport can quickly exhaust on-site availability.",
+  "generatedAt": "2026-09-19T23:21:40.008Z",
+  "model": "deepseek-v4.1-flash"
+}

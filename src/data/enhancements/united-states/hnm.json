@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HNM",
+    "icao": "PHHN",
+    "name": "Hana Airport",
+    "country": "United States",
+    "city": "Hana",
+    "lat": 20.7956,
+    "lon": -156.014,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Hana Airport (HNM) is a small regional airport tucked into the lush rainforest on the eastern tip of Maui, Hawaii. It primarily serves the remote town of Hana, which is otherwise accessed via the winding Road to Hana. The airport is renowned for its dramatic approach, which passes over ocean cliffs, dense tropical foliage, and the rugged Hana coastline, making it a favorite among pilots and aviation enthusiasts.",
+  "faqs": "Q: What airlines fly into Hana Airport?\nA: Scheduled commuter service is primarily offered by Mokulele Airlines and Pacific Air Charters, using small turboprop aircraft such as the Cessna Caravan.\n\nQ: How long is the runway at Hana Airport?\nA: The single paved runway is approximately 3,000 feet long, restricting operations to small propeller aircraft only.\n\nQ: Can I fly to Hana from Honolulu?\nA: There is no direct inter-island jet service. Most travelers reach Hana by flying from Kahului Airport (OGG) on Maui's main island, a flight of about 25-30 minutes.\n\nQ: Is Hana Airport dangerous to fly into?\nA: The approach is considered visually spectacular and weather-dependent, as pilots navigate ocean cliffs and tropical terrain. Conditions are usually safe in good weather but can be challenging in strong winds.",
+  "transport_tips": "Ground transportation options are limited, so renting a car in advance is strongly recommended to explore the Hana area and return via the Road to Hana. A few shuttle services and taxi operators serve the airport, but availability is limited and should be pre-arranged. Parking is available on-site and is generally straightforward given the small number of daily flights.",
+  "local_tip": "Book the earliest morning flight if possible, as afternoon clouds and rain frequently roll in from the ocean and can cause delays or cancellations at this weather-sensitive airport.",
+  "generatedAt": "2026-06-29T06:30:09.891Z",
+  "model": "MiniMax-M3"
+}

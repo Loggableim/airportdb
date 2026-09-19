@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TUD",
+    "icao": "GOTT",
+    "name": "Tambacounda Airport",
+    "country": "Senegal",
+    "city": "Tambacounda",
+    "lat": 13.7368,
+    "lon": -13.6531,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tambacounda Airport (TUD) is a medium-sized regional airport serving the city of Tambacounda in southeastern Senegal, situated in the country's Sahel transition zone. It functions as an important gateway for travelers heading to the Niokolo-Koba National Park, a UNESCO World Heritage Site known for its diverse wildlife. The airport primarily supports domestic flights, connecting this remote eastern region with Senegal's capital, Dakar.",
+  "faqs": "Q: What is the IATA code for Tambacounda Airport?\nA: The IATA code is TUD, and the ICAO code is GOTT.\n\nQ: Does Tambacounda Airport have international flights?\nA: The airport primarily handles domestic flights, mainly connecting Tambacounda with Dakar. International visitors typically arrive through Dakar's Blaise Diagne International Airport.\n\nQ: Is Tambacounda Airport served by scheduled airlines?\nA: Scheduled domestic service has historically been operated by regional carriers, though flight availability can vary. Travelers should check current schedules with local airlines.\n\nQ: How far is the airport from Tambacounda city center?\nA: The airport is located a short drive from the city center, making it convenient for arriving travelers.\n\n",
+  "transport_tips": "Taxis and shared transport are the most common ways to reach the airport from Tambacounda town center, with the journey taking only a few minutes. Pre-arranging a hotel pickup is advisable for early morning or late evening flights, as taxi availability can be limited at those hours. For travelers continuing onward to Niokolo-Koba National Park, overland transport arrangements can typically be coordinated through local tour operators.",
+  "local_tip": "If heading to Niokolo-Koba National Park, consider arranging your park permit and guide services in Tambacounda before flying in, as the small town's limited infrastructure means these logistics are easier to organize in town than at the park entrance.",
+  "generatedAt": "2026-06-29T15:54:22.896Z",
+  "model": "MiniMax-M3"
+}

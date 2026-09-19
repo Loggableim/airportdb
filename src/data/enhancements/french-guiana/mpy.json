@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MPY",
+    "icao": "SOOA",
+    "name": "Maripasoula Airport",
+    "country": "French Guiana",
+    "city": "Maripasoula",
+    "lat": 3.6559,
+    "lon": -54.0394,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Maripasoula Airport (MPY/SOOA) serves the remote commune of Maripasoula in the interior of French Guiana, an overseas region of France bordering Suriname and Brazil. Nestled deep within the Amazon rainforest, the airport provides a vital aerial link for the isolated Amerindian and Maroon communities of the Lawa and Maroni river basins. As one of the few reliable transport connections in the region, it plays a critical role in healthcare access, government services, and tourism to nearby nature reserves.",
+  "faqs": "Q: What is Maripasoula Airport primarily used for?\nA: It serves as the main access point to the remote interior town of Maripasoula, supporting passenger travel, medical evacuations, and government services to outlying communities.\n\nQ: Are there regular flights to Maripasoula Airport?\nA: Yes, scheduled flights operate primarily between Maripasoula and Cayenne Félix Eboué Airport, the main hub for French Guiana, typically operated with small turboprop aircraft.\n\nQ: How far is Maripasoula from the capital Cayenne?\nA: The town and airport are located deep in the rainforest, roughly 250 km (155 miles) south of Cayenne as the crow flies, but the journey requires a flight since overland travel is extremely difficult and time-consuming.\n\nQ: Is Maripasoula Airport suitable for large aircraft?\nA: No, it is a medium-sized regional airport designed for small turboprop aircraft; it cannot accommodate large jets due to its runway length and remote jungle location.\n\n",
+  "transport_tips": "There is no public bus service to the airport; travelers typically arrange ground transport in advance through their accommodation or a local contact. The town center is only a short drive from the airfield, but 4x4 vehicles are commonly needed due to unpaved roads. Taxis and shared transport may be limited, so booking ahead is highly recommended, especially for early or late flights.",
+  "local_tip": "Pack light and bring insect repellent and a light rain jacket in your carry-on, as baggage handling on the apron can expose luggage to tropical humidity and sudden rainforest showers.",
+  "generatedAt": "2026-06-30T00:00:25.038Z",
+  "model": "MiniMax-M3"
+}

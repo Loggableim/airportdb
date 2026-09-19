@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VDC",
+    "icao": "SBVC",
+    "name": "Glauber de Andrade Rocha Airport",
+    "country": "Brazil",
+    "city": "Vitória da Conquista",
+    "lat": -14.9079,
+    "lon": -40.9148,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Glauber de Andrade Rocha Airport (VDC) serves Vitória da Conquista, the third-largest city in the state of Bahia, Brazil. The airport is named after the renowned Brazilian filmmaker Glauber Rocha, a pioneer of the Cinema Novo movement who was born in the region. It functions as a key regional hub connecting southwestern Bahia to major Brazilian cities.",
+  "faqs": "Q: What airlines operate at Glauber de Andrade Rocha Airport?\nA: The airport is primarily served by domestic Brazilian carriers including GOL Linhas Aéreas and LATAM, with regular flights to São Paulo and Salvador.\n\nQ: How far is the airport from Vitória da Conquista city center?\nA: The airport is located approximately 7 km (about 4 miles) from the downtown area, typically a 15-20 minute drive depending on traffic.\n\nQ: Does the airport operate 24 hours?\nA: No, the airport operates during daylight and evening hours aligned with scheduled commercial flights. There are no overnight operations.\n\nQ: Are there international flights from VDC?\nA: No, VDC is a domestic-only airport. International travelers must connect through Salvador (SSA) or other major Brazilian hubs.\n\n",
+  "transport_tips": "Taxis and ride-hailing apps (such as 99 and Uber) are the most reliable ways to reach the airport from central Vitória da Conquista. The airport has limited public bus service, so pre-arranging ground transport is recommended, especially for early morning departures.",
+  "local_tip": "Visit the nearby Museu Regional de Vitória da Conquista or the Casa de Cultura Glauber Rocha to learn about the city's famous filmmaker namesake and the rich cultural heritage of southwestern Bahia.",
+  "generatedAt": "2026-06-29T23:23:15.492Z",
+  "model": "MiniMax-M3"
+}

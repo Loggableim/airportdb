@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DLI",
+    "icao": "VVDL",
+    "name": "Lien Khuong Airport",
+    "country": "Vietnam",
+    "city": "Da Lat",
+    "lat": 11.7506,
+    "lon": 108.367,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Lien Khuong Airport (DLI) is the main air gateway to Da Lat, the highland resort city in Vietnam's Lam Dong Province, situated about 30 km south of the city center on the Langbiang Plateau at an elevation of roughly 960 meters. Originally developed from a French colonial-era airfield and later used as a military base during the Vietnam War, it now operates as a medium-sized domestic airport serving the Central Highlands' tourism industry. The airport is the primary entry point for travelers visiting Da Lat's cool climate, pine-forested hills, and French colonial architecture.",
+  "faqs": "Q: How far is Lien Khuong Airport from Da Lat city center?\nA: The airport is located approximately 30 km (about 19 miles) south of Da Lat, with a typical taxi or shuttle ride taking 45-60 minutes depending on traffic and weather.\n\nQ: Which airlines operate at Lien Khuong Airport?\nA: Vietnamese carriers including Vietnam Airlines, VietJet Air, and Bamboo Airways operate domestic flights primarily to Ho Chi Minh City, Hanoi, Da Nang, and Hai Phong.\n\nQ: Does the airport have international flights?\nA: Lien Khuong mainly handles domestic routes, though occasional charter services have connected to regional destinations such as Bangkok and Singapore.\n\nQ: Is the airport affected by weather delays?\nA: Fog, mist, and low clouds common in the Central Highlands can occasionally cause delays, particularly during the rainy season from May to October.",
+  "transport_tips": "Taxis from Lien Khuong Airport to Da Lat typically cost around 350,000-450,000 VND and can be arranged at the official taxi counter inside the terminal. Shared minibus shuttles are a cheaper option for solo travelers, usually departing once enough passengers have arrived. For the return trip, it's wise to book your transport the day before and allow at least 90 minutes of buffer time given the winding mountain road.",
+  "local_tip": "Pack a light jacket even in summer—Da Lat's elevation keeps temperatures significantly cooler than the rest of Vietnam, and the airport sits even higher than the city, so mornings can be surprisingly chilly.",
+  "generatedAt": "2026-06-29T19:23:16.427Z",
+  "model": "MiniMax-M3"
+}

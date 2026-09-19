@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MDH",
+    "icao": "KMDH",
+    "name": "Southern Illinois Airport",
+    "country": "United States",
+    "city": "Murphysboro",
+    "lat": 37.7781,
+    "lon": -89.252,
+    "type": "medium_airport",
+    "size": 375
+  },
+  "summary": "Southern Illinois Airport (MDH) is a medium-sized regional airport located in Murphysboro, Illinois, serving the Southern Illinois region including nearby Carbondale. It functions primarily as a general aviation facility supporting private aircraft, flight training, and occasional commercial or charter operations. The airport is an important aviation gateway for Jackson County and the surrounding communities in the southernmost part of the state.",
+  "faqs": "Q: What is the airport code for Southern Illinois Airport?\nA: The IATA code is MDH and the ICAO code is KMDH.\n\nQ: Where is Southern Illinois Airport located?\nA: It is located in Murphysboro, Illinois, in Jackson County, serving the Southern Illinois region.\n\nQ: Does Southern Illinois Airport offer commercial flights?\nA: The airport primarily supports general aviation, private aircraft, flight training, and charter operations rather than scheduled commercial airline service.\n\nQ: What cities does Southern Illinois Airport serve?\nA: It serves Murphysboro, Carbondale, and the broader Southern Illinois region, providing access for travelers in the area.",
+  "transport_tips": "The airport is located just outside Murphysboro and is accessible by car via local and regional roads, with parking available on-site. Rideshare services and taxi companies from nearby Carbondale can provide ground transportation. Travelers without a vehicle should arrange ground transport in advance, as public transit options serving the airport are limited.",
+  "local_tip": "If visiting the area, take time to explore nearby Carbondale, home to Southern Illinois University, and enjoy the Shawnee National Forest, which offers stunning natural landscapes just a short drive south of the airport.",
+  "generatedAt": "2026-06-30T01:29:30.397Z",
+  "model": "MiniMax-M3"
+}

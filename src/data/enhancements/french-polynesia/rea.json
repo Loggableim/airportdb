@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "REA",
+    "icao": "NTGE",
+    "name": "Reao Airport",
+    "country": "French Polynesia",
+    "city": "Reao",
+    "lat": -18.4665,
+    "lon": -136.4385,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Reao Airport (REA) is a medium-sized airport serving the remote Reao atoll in the Tuamotu Archipelago of French Polynesia. The atoll is one of the most isolated inhabited islands in French Polynesia, located in the southeastern Tuamotus. The airport provides a vital air link for the small local population, supporting economic activities such as pearl farming and copra production.",
+  "faqs": "Q: What is the best way to reach Reao Airport?\nA: The airport is primarily served by Air Tahiti flights from Papeete, typically with a stopover in other Tuamotu atolls. Schedules are limited and can change with weather conditions.\n\nQ: Are there accommodations near the airport?\nA: There are a few small guesthouses and family-run pensions on Reao atoll. Visitors should arrange accommodation in advance due to limited options.\n\nQ: What facilities are available at the terminal?\nA: The airport has a small terminal with basic amenities. There is no jet bridge; passengers typically walk to/from the aircraft on the tarmac.\n\nQ: Is the airport affected by weather?\nA: Yes, flights can be delayed or cancelled due to tropical weather, strong winds, or heavy rain common to the region.",
+  "transport_tips": "There is no public transportation on Reao atoll; the airport is a short drive from the main village and accommodations typically arrange pickup for arriving guests. Taxis or pre-arranged transfers are the primary ways to reach the settlement from the airport. Renting a bicycle is also a common option for getting around the atoll once you arrive.",
+  "local_tip": "Bring cash in CFP francs, as there are no ATMs on the atoll and card acceptance is very limited at local shops and pensions.",
+  "generatedAt": "2026-06-26T13:26:28.007Z",
+  "model": "MiniMax-M3"
+}

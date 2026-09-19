@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VGO",
+    "icao": "LEVX",
+    "name": "Vigo Airport",
+    "country": "Spain",
+    "city": "Vigo",
+    "lat": 42.2318,
+    "lon": -8.6268,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Vigo Airport (VGO/LEVX) is a regional airport serving the city of Vigo in the Galicia region of northwestern Spain. Located on the southern shore of the Vigo estuary, it acts as a key gateway to the Rías Baixas coastline and connects Galicia to domestic hubs like Madrid and Barcelona, along with seasonal European routes. The airport features a single modern terminal that handles both passenger and limited cargo operations.",
+  "faqs": "Q: How far is Vigo Airport from the city center?\nA: The airport is approximately 9 km (5.6 miles) southeast of central Vigo, with a typical drive time of around 15-20 minutes depending on traffic.\n\nQ: What airlines operate from Vigo Airport?\nA: Major carriers serving VGO include Iberia, Vueling, Air Europa, Ryanair, and Binter, offering routes primarily to Spanish cities and select European destinations.\n\nQ: Does the airport have international flights?\nA: Yes, Vigo Airport offers some international connections, mostly seasonal routes to cities in Portugal, Italy, the UK, and other European leisure destinations.\n\nQ: Are there facilities like lounges or car rentals at the airport?\nA: Yes, the terminal provides car rental desks from major providers, a café-restaurant, duty-free shopping, and basic passenger services, though lounge options are limited.",
+  "transport_tips": "The most convenient way to reach the city is by taxi or rideshare, which costs around €15-20 and takes roughly 15 minutes. A regular bus service operated by Vitrasa (line 9A) connects the airport to central Vigo at an affordable fare. If driving, the AP-9 motorway provides quick access to Vigo and other Galician cities, including a route to Portugal.",
+  "local_tip": "If you have time before a flight, head to the airport's upper-level viewing terrace for panoramic views of the Vigo estuary and the Cíes Islands on clear days—a surprisingly scenic spot that most travelers overlook.",
+  "generatedAt": "2026-06-29T04:29:52.946Z",
+  "model": "MiniMax-M3"
+}

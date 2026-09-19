@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YJF",
+    "icao": "CYJF",
+    "name": "Fort Liard Airport",
+    "country": "Canada",
+    "city": "Fort Liard",
+    "lat": 60.2358,
+    "lon": -123.469,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Fort Liard Airport (YJF/CYJF) is a regional airport serving the small community of Fort Liard in the Northwest Territories of Canada, located near the Liard River and the borders of British Columbia and Yukon. The airport provides essential air access for this remote Dehcho Region community, which is otherwise connected only by the historic Liard Highway. It primarily supports general aviation, charter flights, and medical evacuation services vital to the local population.",
+  "faqs": "Q: What is the main purpose of Fort Liard Airport?\nA: The airport primarily serves the remote community of Fort Liard, providing passenger charter flights, freight services, and medevac capabilities for residents of the Dehcho Region.\n\nQ: Are there scheduled commercial flights to Fort Liard Airport?\nA: Scheduled service is very limited; most flights are charter or private operations. Air travelers typically connect through larger hubs like Yellowknife or Fort Nelson.\n\nQ: What facilities are available at the airport?\nA: The airport has a basic terminal and gravel runway, with limited amenities. Travelers should arrange ground transport and supplies in advance, as services are minimal.\n\nQ: When is the airport typically operational?\nA: The airport operates year-round, though winter conditions can occasionally affect flight schedules, and summer wildfire smoke sometimes reduces visibility.",
+  "transport_tips": "There is no public transit to Fort Liard Airport; travelers must arrange private vehicle pickup or coordinate with local accommodations in advance. The airport is a short drive from the village center along the Liard Highway. Taxis are limited or unavailable, so booking a rental car or arranging a ride with a local contact is strongly recommended.",
+  "local_tip": "If visiting Fort Liard, take time to explore the nearby Nahanni National Park Reserve access routes or enjoy world-class fishing on the Liard River, but always confirm fuel availability and weather updates before departing, as services in this remote region are sparse.",
+  "generatedAt": "2026-06-26T09:38:37.148Z",
+  "model": "MiniMax-M3"
+}

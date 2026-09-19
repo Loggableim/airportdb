@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PXH",
+    "icao": "YPMH",
+    "name": "Prominent Hill Airport",
+    "country": "Australia",
+    "city": "Mount Eba",
+    "lat": -29.716,
+    "lon": 135.5244,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Prominent Hill Airport is a remote private airstrip in northern South Australia, primarily serving the Prominent Hill copper-gold mining operation in the arid outback. The airport supports fly-in fly-out (FIFO) workers and is one of several mining aerodromes scattered across South Australia's mineral-rich landscape. Its location deep in the desert, roughly 130 km southeast of Coober Pedy, makes it one of the more isolated airfields in the region.",
+  "faqs": "Q: Is Prominent Hill Airport open to the public?\nA: No, it is a private airport primarily serving the Prominent Hill mine and its workforce. Public access is not permitted.\n\nQ: What airlines fly into Prominent Hill?\nA: Charter and FIFO operators provide regular flights, typically connecting to Adelaide. There are no scheduled commercial passenger services.\n\nQ: Are there any nearby towns or services?\nA: The airport is in a very remote area; the nearest significant settlement is Coober Pedy, roughly 130 km to the northwest.\n\nQ: What is the airport mainly used for?\nA: It primarily supports the mining industry, transporting workers and limited freight to and from the Prominent Hill mine site.",
+  "transport_tips": "Access is essentially limited to charter or FIFO flights from Adelaide, as the airport is deep in outback South Australia with no connecting road transport links to the terminal. Ground transport to the mine camp is typically arranged by the operating company. Travellers should coordinate transfers through their employer or charter operator in advance.",
+  "local_tip": "Given the extreme remoteness and desert climate, always carry extra water and sun protection, even for short ground transfers, as temperatures can soar well above 40°C in summer.",
+  "generatedAt": "2026-06-26T20:17:19.483Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GLF",
+    "icao": "MRGF",
+    "name": "Golfito Airport",
+    "country": "Costa Rica",
+    "city": "Golfito",
+    "lat": 8.654,
+    "lon": -83.1822,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Golfito Airport serves the southern Pacific coast town of Golfito, situated along the scenic Golfo Dulce in Costa Rica's Puntarenas Province. The area has deep roots in the banana trade, once hosting a United Fruit Company enclave, and the airport now primarily serves eco-tourists heading to nearby Corcovado National Park and the Osa Peninsula. It acts as a vital gateway to one of the most biodiverse regions on Earth.",
+  "faqs": "Q: What is Golfito Airport primarily used for?\nA: It mainly serves domestic travelers, particularly tourists visiting Corcovado National Park, the Osa Peninsula, and the Golfo Dulce region.\n\nQ: Are there international flights to Golfito?\nA: No, only domestic flights typically operate here. International travelers usually connect through San José's airports and then fly or drive south.\n\nQ: How long is the runway at Golfito Airport?\nA: The airport has a single asphalt runway roughly 1,400 meters long, suited for small to medium regional aircraft.\n\nQ: What is the closest major attraction?\nA: The Osa Peninsula and Corcovado National Park, often called one of the most biodiverse places on the planet, are accessed via Golfito.",
+  "transport_tips": "Ground transportation options are limited; taxis typically meet arriving flights and are the most reliable way to reach town or nearby lodges. Rental cars can sometimes be arranged in advance, though selection is smaller than at larger Costa Rican airports. If driving from San José, allow roughly 5-6 hours as the route descends through mountainous terrain to the Pacific coast.",
+  "local_tip": "Pack light and bring a dry bag—Golfo Dulce is famous for sport fishing and dolphin watching, and many lodges arrange boat transfers directly from the waterfront rather than additional road travel.",
+  "generatedAt": "2026-06-29T13:40:42.197Z",
+  "model": "MiniMax-M3"
+}

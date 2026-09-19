@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BTQ",
+    "icao": "HRYI",
+    "name": "Butare Airport",
+    "country": "Rwanda",
+    "city": "Butare",
+    "lat": -2.5958,
+    "lon": 29.7367,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Butare Airport (BTQ/HRYI) is a small regional airport serving Butare (officially renamed Huye), a city in southern Rwanda known for the National University of Rwanda and the renowned Ethnographic Museum. The facility primarily handles light aircraft and charter flights, supporting the region's educational and tourism sectors. It sits at an elevation typical of Rwanda's rolling southern highlands, roughly 5,800 feet above sea level.",
+  "faqs": "Q: What is the official city served by Butare Airport?\nA: The airport serves Butare, which was officially renamed Huye in 2006 as part of Rwanda's broader renaming initiative.\n\nQ: What type of aircraft can Butare Airport handle?\nA: As a small airport with a modest runway, it primarily accommodates light aircraft, small turboprops, and charter flights rather than large commercial jets.\n\nQ: Are there scheduled commercial flights at Butare Airport?\nA: Scheduled commercial service is very limited or nonexistent; travelers typically fly into Kigali International Airport and travel overland to Butare.\n\nQ: Is Butare Airport paved?\nA: The airport features a paved runway suitable for small aircraft operations, though facilities are minimal compared to Kigali International Airport.",
+  "transport_tips": "Most travelers reach Butare via Kigali International Airport, followed by a 2.5 to 3-hour drive south along well-maintained RN1 highway. Moto taxis and shared taxis are common for local transport within Butare once you arrive. Private car hire from Kigali is recommended for comfort, especially given the hilly terrain.",
+  "local_tip": "Visit the nearby Ethnographic Museum, one of the finest in East Africa, to learn about Rwandan culture—it's just a short drive from the airport and offers a rewarding experience during any layover in the area.",
+  "generatedAt": "2026-06-27T18:46:45.609Z",
+  "model": "MiniMax-M3"
+}

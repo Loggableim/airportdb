@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LJN",
+    "icao": "KLBX",
+    "name": "Texas Gulf Coast Regional Airport",
+    "country": "United States",
+    "city": "Angleton",
+    "lat": 29.1086,
+    "lon": -95.4621,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Texas Gulf Coast Regional Airport (LJN/KLBX) is a public-use airport located in Angleton, Texas, serving Brazoria County and the greater Houston–Galveston region. Situated about 50 miles south of downtown Houston near the Gulf Coast, it primarily supports general aviation, corporate flights, and flight training. The airport is publicly owned by Brazoria County and features a control tower, multiple runways, and modern facilities for transient and based aircraft.",
+  "faqs": "Q: What is the main purpose of Texas Gulf Coast Regional Airport?\nA: The airport primarily serves general aviation, including private, corporate, and recreational flying, along with flight training operations.\n\nQ: How far is the airport from Houston?\nA: It is located approximately 50 miles south of downtown Houston, making it a convenient alternative for travelers in the southern Houston metro area.\n\nQ: Does the airport have a control tower?\nA: Yes, the airport operates a staffed control tower during published hours, providing services to arriving and departing aircraft.\n\nQ: Are there rental cars available at the airport?\nA: Rental car availability may be limited; visitors are encouraged to arrange ground transportation in advance or contact local providers in Angleton.",
+  "transport_tips": "The airport is easily accessed via State Highway 288, connecting it to Houston and the surrounding communities. Since commercial airline service does not operate here, travelers typically arrange private ground transportation, drive their own vehicles, or rent from nearby providers. Parking on-site is generally available and convenient for both pilots and visitors.",
+  "local_tip": "If you're flying in for a visit, consider timing your arrival around sunset—the airport's open layout offers excellent views of the flat coastal Texas landscape and colorful Gulf Coast skies, a favorite among transient pilots.",
+  "generatedAt": "2026-06-26T07:24:54.260Z",
+  "model": "MiniMax-M3"
+}

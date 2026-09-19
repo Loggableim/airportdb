@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AUC",
+    "icao": "SKUC",
+    "name": "Santiago Perez Airport",
+    "country": "Colombia",
+    "city": "Arauca",
+    "lat": 7.0689,
+    "lon": -70.7369,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Santiago Perez Airport (AUC) serves Arauca, the capital of the Arauca Department in the eastern llanos region of Colombia, near the Venezuelan border. As a medium-sized facility, it connects this remote oil-producing frontier region to major Colombian hubs like Bogotá. The airport plays a vital role for the local energy industry and provides essential access to a region historically served primarily by river transport.",
+  "faqs": "Q: What airlines operate from Santiago Perez Airport?\nA: The airport is primarily served by domestic Colombian carriers offering flights mainly to Bogotá.\n\nQ: How far is the airport from Arauca city center?\nA: The airport is located just a few kilometers from downtown Arauca, making access quick and convenient.\n\nQ: Is the airport busy year-round?\nA: Traffic tends to be steady due to the region's oil industry, with occasional increases during local festivals and holidays.\n\nQ: Are there international flights from AUC?\nA: Santiago Perez Airport primarily handles domestic flights, as nearby Venezuela is currently reached by land routes only.\n\n",
+  "transport_tips": "Taxis and motorcycle taxis (mototaxis) are commonly available outside the terminal for short trips into Arauca town. Pre-arranging ground transport is recommended during peak travel times or late arrivals. Rental car services are limited, so booking in advance is wise if you need independent transport.",
+  "local_tip": "Pack lightweight clothing and insect repellent—the llanos region's tropical climate is hot and humid, and mosquitoes are common, especially during the rainy season (April to November).",
+  "generatedAt": "2026-06-29T14:45:43.941Z",
+  "model": "MiniMax-M3"
+}

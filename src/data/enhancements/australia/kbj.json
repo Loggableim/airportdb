@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KBJ",
+    "icao": "YKCA",
+    "name": "Kings Canyon Airport",
+    "country": "Australia",
+    "city": "Petermann",
+    "lat": -24.2602,
+    "lon": 131.4889,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Kings Canyon Airport serves as the primary air gateway to the iconic Kings Canyon (Watarrka National Park) in Australia's Red Centre. The small regional airport handles mostly tourist flights and charter services, offering visitors a dramatic aerial arrival over rugged desert escarpments and ancient sandstone formations. Its remote location in the Northern Territory makes it a vital access point for one of Australia's most visited outback destinations.",
+  "faqs": "Q: What is Kings Canyon Airport primarily used for?\nA: The airport mainly serves tourist and charter flights bringing visitors to Kings Canyon and Watarrka National Park, with limited general aviation activity.\n\nQ: Are there scheduled commercial flights to Kings Canyon Airport?\nA: Scheduled commercial service is very limited; most visitors arrive via charter flights from Ayers Rock or Alice Springs rather than regular airline routes.\n\nQ: How far is the airport from Kings Canyon itself?\nA: The airport is located roughly 20 kilometres from the Kings Canyon rim, requiring a short road transfer to reach the main park attractions.\n\nQ: Is there public transport available from the airport?\nA: Public transport options are minimal; most travelers rely on pre-arranged hotel shuttles, tour group transfers, or rental vehicles.",
+  "transport_tips": "Most visitors pre-book shuttle or coach transfers through their accommodation or tour operator, as there is no regular public bus service. Rental cars are available but should be arranged in advance, and driving distances to nearby resorts can exceed 30 minutes on unsealed roads. Charter flights from Ayers Rock Airport are the fastest and most scenic option for reaching Kings Canyon.",
+  "local_tip": "Pack a light jacket for the descent—temperatures at Kings Canyon Airport can drop quickly after sunset due to the open desert terrain, even in warmer months.",
+  "generatedAt": "2026-06-27T14:03:17.826Z",
+  "model": "MiniMax-M3"
+}

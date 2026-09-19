@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZQN",
+    "icao": "NZQN",
+    "name": "Queenstown Airport",
+    "country": "New Zealand",
+    "city": "Queenstown",
+    "lat": -45.0192,
+    "lon": 168.7464,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Queenstown Airport (ZQN) is the main gateway to New Zealand's adventure capital and the wider Otago region on the South Island. Dramatically surrounded by alpine scenery including The Remarkables mountain range, it serves millions of passengers heading to ski resorts, Central Otago wineries, and fiordland. The airport is renowned among aviation enthusiasts for its challenging approach, requiring specially certified pilots due to the surrounding mountainous terrain.",
+  "faqs": "Q: What is Queenstown Airport's IATA code?\nA: ZQN\n\nQ: Does Queenstown Airport have international flights?\nA: Yes, primarily seasonal services to and from Australian cities such as Sydney, Melbourne, and Brisbane.\n\nQ: How far is the airport from Queenstown town centre?\nA: Approximately 8 kilometres, roughly a 10-15 minute drive.\n\nQ: Why are landings at Queenstown Airport considered challenging?\nA: The surrounding mountainous terrain and short runway require pilots to hold a special qualification (RNAV approach) to operate there.\n\n",
+  "transport_tips": "Taxis, rideshares, and shuttle services are readily available outside the terminal and reach Queenstown centre in about 10-15 minutes. Rental car desks are located",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T19:03:32.738Z",
+  "model": "MiniMax-M3"
+}

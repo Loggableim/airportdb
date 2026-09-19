@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ACH",
+    "icao": "LSZR",
+    "name": "Sankt Gallen Altenrhein Airport",
+    "country": "Switzerland",
+    "city": "St. Gallen",
+    "lat": 47.485,
+    "lon": 9.5608,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sankt Gallen Altenrhein Airport (ACH/LSZR) is a small regional airport serving eastern Switzerland, situated in the municipality of Altenrhein near the shores of Lake Constance. It functions as a convenient gateway for the St. Gallen and Appenzell regions, handling primarily business aviation and limited scheduled services to destinations like Vienna. The airport's compact size allows for quick passenger processing and easy access to the tri-border area of Switzerland, Austria, and Germany.",
+  "faqs": "Q: How far is Sankt Gallen Altenrhein Airport from St. Gallen city center?\nA: The airport is approximately 20 kilometers northeast of St. Gallen, with a typical driving time of around 25-30 minutes depending on traffic.\n\nQ: What airlines operate from Altenrhein Airport?\nA: Scheduled service has historically been provided by People's Viennaline offering flights to Vienna, while the airport also supports business and general aviation operations.\n\nQ: Are there customs and immigration facilities at ACH?\nA: Yes, the airport has customs facilities due to its proximity to the Austrian and German borders, allowing it to handle international flights within the Schengen area.\n\nQ: How long is the runway at LSZR?\nA: The airport features a single asphalt runway approximately 1,500 meters long, which limits it to smaller regional aircraft.\n\n",
+  "transport_tips": "Renting a car is the most flexible option, as the airport is well-connected via the A1 motorway and local Swiss roads, with parking available on-site. Taxis can be arranged in advance, though availability is limited given the airport's small size. Several bus services connect the airport to nearby towns including Rorschach, from where trains provide onward connections to St. Gallen and beyond.",
+  "local_tip": "If you have time before your flight, take a short walk to the nearby Altenrhein harbor on Lake Constance for stunning Alpine views across the water toward Austria and Germany.",
+  "generatedAt": "2026-06-29T04:27:53.724Z",
+  "model": "MiniMax-M3"
+}

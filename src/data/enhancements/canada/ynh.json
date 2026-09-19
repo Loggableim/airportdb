@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YNH",
+    "icao": "CYNH",
+    "name": "Hudson's Hope Airport",
+    "country": "Canada",
+    "city": "Hudson's Hope",
+    "lat": 56.0351,
+    "lon": -121.9783,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Hudson's Hope Airport is a small regional airstrip serving the remote community of Hudson's Hope in northeastern British Columbia, Canada. Nestled in the Peace River valley, the airport primarily supports general aviation, charter flights, and provides access to an area known for its hydroelectric infrastructure, including the W.A.C. Bennett Dam and Peace Canyon Dam. The facility plays a vital role in connecting this isolated northern community to larger centers like Fort St. John and Prince George.",
+  "faqs": "Q: What is the main purpose of Hudson's Hope Airport?\nA: The airport primarily serves general aviation, charter flights, and occasional medevac operations for the Hudson's Hope community and surrounding Peace River region.\n\nQ: Are there scheduled commercial flights at YNH?\nA: No scheduled commercial passenger service operates at this airport. Travelers typically rely on charter flights or drive to larger airports such as Fort St. John (YXJ).\n\nQ: What facilities are available at the airport?\nA: The airport features a basic runway and apron area suitable for small aircraft, with limited on-site amenities. There is no terminal building with passenger services.\n\nQ: Can the airport accommodate larger aircraft?\nA: The airport is designed for small aircraft and bush planes. Its runway length and facilities are not suitable for large commercial jets.",
+  "transport_tips": "Getting to Hudson's Hope Airport typically requires a personal vehicle, as it is located a short drive from the town center. The nearest major airport with commercial service is Fort St. John (YXJ), approximately 90 km southeast, accessible via Highway 29. Visitors without a vehicle should arrange ground transportation in advance, as taxi and rideshare services are extremely limited in this remote area.",
+  "local_tip": "If flying in, fuel availability is limited, so plan your fuel stops carefully and confirm arrangements with the airport operator in advance. The nearby Peace Canyon Dam viewpoint offers a spectacular photo opportunity just minutes from the airfield.",
+  "generatedAt": "2026-06-27T23:11:11.262Z",
+  "model": "MiniMax-M3"
+}

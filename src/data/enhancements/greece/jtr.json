@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JTR",
+    "icao": "LGSR",
+    "name": "Santorini International Airport",
+    "country": "Greece",
+    "city": "Santorini Island",
+    "lat": 36.4,
+    "lon": 25.4786,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Santorini International Airport (JTR), officially known as Thira National Airport, is the main gateway to the iconic Greek island of Santorini in the Aegean Sea. Located on the southeastern part of the island near Kamari, it handles millions of seasonal passengers each year, primarily tourists visiting the island's famous caldera and whitewashed villages. Despite its 'international' designation, the airport's relatively short runway limits it to narrow-body aircraft, and it is one of the busiest in Greece during the summer months.",
+  "faqs": "Q: How far is Santorini Airport from Fira, the island's main town?\nA: The airport is approximately 5 km (3 miles) from Fira, the island's capital, with a drive time of around 15-20 minutes depending on traffic.\n\nQ: Are there direct international flights to Santorini?\nA: During peak summer season, there are direct flights from many European cities. In the off-season, most travelers connect through Athens (ATH) or other Greek hubs.\n\nQ: Does the airport operate year-round?\nA: Yes, but flight frequency drops significantly in winter. Most routes operate from April to October, with reduced schedules in the cooler months.\n\nQ: Is the airport runway long enough for large aircraft?\nA: No, the runway is relatively short (around 2,200 meters), which restricts operations to narrow-body jets and regional aircraft only.",
+  "transport_tips": "Public buses run regularly between the airport and Fira, the main town, and from Fira you can connect to other villages. Taxis are available outside the terminal but can be limited in number, especially during peak arrival times—pre-booking a private transfer is recommended during summer. Rental car agencies are located at the airport, though driving on Santorini's narrow roads can be challenging for first-time visitors.",
+  "local_tip": "If you have a wait between flights, the beach at Kamari—about 2 km from the terminal—is a great spot to stretch your legs, with black volcanic sand, tavernas, and shaded areas right along the seafront.",
+  "generatedAt": "2026-06-28T18:44:46.097Z",
+  "model": "MiniMax-M3"
+}

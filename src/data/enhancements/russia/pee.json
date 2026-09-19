@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PEE",
+    "icao": "USPP",
+    "name": "Perm International Airport",
+    "country": "Russia",
+    "city": "Perm",
+    "lat": 57.9145,
+    "lon": 56.0212,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Perm International Airport (Bolshoye Savino) serves the city of Perm, a major industrial and cultural center in Russia's Ural Mountains region. It functions as one of the key aviation hubs for Perm Krai, handling both domestic flights to Moscow and other Russian cities as well as select international destinations. The airport operates from a single terminal complex situated about 16 km southwest of the city center.",
+  "faqs": "Q: How far is Perm International Airport from the city center?\nA: The airport is located approximately 16 km southwest of central Perm, with typical transfer times of 30-45 minutes depending on traffic.\n\nQ: What airlines operate from Perm Airport?\nA: The airport is served by major Russian carriers including Aeroflot, S7 Airlines, and Pobeda, offering frequent connections to Moscow and other domestic destinations.\n\nQ: Are there direct international flights from Perm?\nA: International service is limited but historically has included seasonal or charter flights to CIS countries and some international destinations, with most international connections requiring a transfer in Moscow.\n\nQ: Does the airport operate 24 hours?\nA: The airport generally operates during scheduled flight hours, though some early morning and late evening flights are common, especially to and from Moscow.",
+  "transport_tips": "Trolleybus and bus routes connect the airport to central Perm, providing an affordable option though less convenient with luggage. Official taxis and ride-hailing services are readily available at the terminal and offer the most comfortable transfer. Many hotels in Perm offer airport shuttle services, which can be arranged in advance for a fixed price.",
+  "local_tip": "If you have a long layover or arrive late, the nearby area has few amenities, so consider arranging ground transport and eating options before arriving—the terminal's food and shopping options become limited after evening hours.",
+  "generatedAt": "2026-06-28T23:19:03.111Z",
+  "model": "MiniMax-M3"
+}

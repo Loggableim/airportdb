@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ATI",
+    "icao": "SUAG",
+    "name": "Artigas International Airport",
+    "country": "Uruguay",
+    "city": "Artigas",
+    "lat": -30.4007,
+    "lon": -56.5079,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Artigas International Airport (ATI/SUAG) is a small regional airport serving the city of Artigas in northern Uruguay, near the Brazilian border. The airport provides essential air connectivity for this remote department, supporting both passenger travel and occasional general aviation activity. Its location makes it a useful gateway for visitors exploring Uruguay's northern interior or crossing into southern Brazil.",
+  "faqs": "Q: What is the IATA code for Artigas International Airport?\nA: The IATA code is ATI, and the ICAO code is SUAG.\n\nQ: Does Artigas Airport have scheduled international flights?\nA: As a small regional airport, international service is limited and typically consists of occasional or seasonal flights rather than regular scheduled international routes.\n\nQ: What facilities are available at the airport?\nA: Being a small airport, facilities are basic and include a small terminal building. Passengers should not expect extensive dining or retail options.\n\nQ: How far is the airport from Artigas city center?\nA: The airport is located a short drive from the city center, typically within 5-10 kilometers.",
+  "transport_tips": "The most practical way to reach the airport is by taxi or private car from Artigas city center, as there is no regular public bus service to the terminal. Rental cars are available in town and can be a convenient option for exploring the broader region. Travelers crossing from Brazil should note that the border town of Quaraí is just a short drive away.",
+  "local_tip": "Visit the nearby Parque Batoví, an ancient archaeological site with rock paintings and historical remains, as it's one of the area's most unique attractions and rarely crowded with tourists.",
+  "generatedAt": "2026-06-27T17:35:33.598Z",
+  "model": "MiniMax-M3"
+}

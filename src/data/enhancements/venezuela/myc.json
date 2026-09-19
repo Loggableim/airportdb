@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MYC",
+    "icao": "SVBS",
+    "name": "Escuela Mariscal Sucre Airport",
+    "country": "Venezuela",
+    "city": "Maracay",
+    "lat": 10.25,
+    "lon": -67.6494,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Escuela Mariscal Sucre Airport (MYC/SVBS) is a medium-sized airport serving Maracay, the capital of Aragua state in Venezuela. Named after Antonio José de Sucre, a prominent Venezuelan independence leader, the airport primarily supports general aviation and flight training operations. Its convenient location near central Maracay makes it a key regional aviation facility in the northern-central region of the country.",
+  "faqs": "Q: Where is Escuela Mariscal Sucre Airport located?\nA: The airport is situated in Maracay, the capital of Aragua state in north-central Venezuela, just a few kilometers from the city center.\n\nQ: Does the airport handle commercial passenger flights?\nA: It primarily serves general aviation, private flights, and flight training activity, with limited scheduled commercial service compared to larger Venezuelan hubs like Caracas or Valencia.\n\nQ: Who is the airport named after?\nA: It is named after Mariscal Antonio José de Sucre, a key figure in South American independence and a Venezuelan national hero.\n\nQ: How far is the airport from Maracay's city center?\nA: The airport is located very close to Maracay's downtown area, typically reachable within a short drive depending on local traffic conditions.\n\n",
+  "transport_tips": "Taxis and ride services are the most practical options for reaching the airport, as Maracay does not have a dedicated airport rail link. Travelers coming from Caracas or Valencia can use intercity buses arriving at the Maracay terminal, then transfer to a short taxi ride to the airport. It's advisable to arrange ground transport in advance, as on-demand taxi availability near the airport can be limited.",
+  "local_tip": "Pack light and carry Venezuelan bolívar notes in small denominations for taxis and local purchases, as card payment infrastructure can be unreliable and change for larger bills is often unavailable.",
+  "generatedAt": "2026-06-29T15:21:53.992Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YQS",
+    "icao": "CYQS",
+    "name": "St Thomas Municipal Airport",
+    "country": "Canada",
+    "city": "St Thomas",
+    "lat": 42.77,
+    "lon": -81.1108,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "St Thomas Municipal Airport (YQS) is a general aviation facility serving the city of St Thomas in southwestern Ontario, Canada. Located a short distance north of the city centre near the north shore of Lake Erie, it primarily supports recreational flying, flight training, and private aircraft operations. The airport features a single main runway and serves as a convenient alternative to the busier London International Airport for local aviators.",
+  "faqs": "Q: Does St Thomas Municipal Airport offer scheduled commercial flights?\nA: No, the airport does not offer scheduled commercial passenger service and operates primarily for general aviation, flight training, and private aircraft.\n\nQ: What is the main runway at St Thomas Municipal Airport?\nA: The airport features a paved runway suitable for small to medium general aviation aircraft, commonly used by single and twin-engine planes.\n\nQ: Is there an on-site restaurant or lounge?\nA: A small terminal building is available for pilots and passengers, but amenities are limited compared to commercial airports; visitors typically plan accordingly.\n\nQ: Can flight training be done at YQS?\nA: Yes, the airport is home to flight training organizations that provide pilot certification and recreational flying lessons.",
+  "transport_tips": "The airport is located just minutes from downtown St Thomas, easily reached by car via Highway 3 or local roads. Taxi and rideshare services are available, though booking in advance is recommended as options can be limited in this smaller community. Rental cars provide the most flexibility for visitors exploring the surrounding Elgin County region.",
+  "local_tip": "St Thomas is home to the North America Railway Hall of Fame and the historic Elgin County Railway Museum, making it a worthwhile stop for rail enthusiasts arriving by private aircraft.",
+  "generatedAt": "2026-06-30T05:04:56.162Z",
+  "model": "MiniMax-M3"
+}

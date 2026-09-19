@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BML",
+    "icao": "KBML",
+    "name": "Berlin Regional Airport",
+    "country": "United States",
+    "city": "Berlin",
+    "lat": 44.5754,
+    "lon": -71.1759,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Berlin Regional Airport is a small public-use airport located in Berlin, New Hampshire, serving the rural northern White Mountains region. The airport supports general aviation, flight training, and occasional recreational flights, providing essential air access for the Coos County community. Its single runway sits among the forested landscape characteristic of northern New England.",
+  "faqs": "Q: What is the main purpose of Berlin Regional Airport?\nA: The airport primarily serves general aviation, including private aircraft, flight training, and recreational flying for the local community in northern New Hampshire.\n\nQ: Does Berlin Regional Airport offer commercial passenger service?\nA: No, BML does not have scheduled commercial airline service. It functions as a general aviation facility.\n\nQ: What are the airport's operating hours?\nA: The airport is publicly accessible, but operations are typically unattended. Pilots should check current conditions and coordinate with fixed-base operators for fuel and services.\n\nQ: Can pilots land at BML in winter?\nA: Yes, the airport operates year-round, though winter conditions in the White Mountains region can present challenges including snow removal requirements and reduced visibility.",
+  "transport_tips": "The airport is located a few miles outside downtown Berlin, NH, so renting a car or arranging a local taxi in advance is recommended, as ride-share services may be limited in this rural area. The nearest major highways are Route 16 and Route 110, which connect to surrounding towns in Coos County.",
+  "local_tip": "Pilots visiting BML should note that the airport sits in a valley surrounded by higher terrain, so careful attention to approach minimums and weather conditions is essential, especially during the cooler months when mountain weather can change quickly.",
+  "generatedAt": "2026-06-27T04:12:37.676Z",
+  "model": "MiniMax-M3"
+}

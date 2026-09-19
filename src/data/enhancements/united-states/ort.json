@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ORT",
+    "icao": "PAOR",
+    "name": "Northway Airport",
+    "country": "United States",
+    "city": "Northway",
+    "lat": 62.9613,
+    "lon": -141.929,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Northway Airport (ORT/PAOR) is a medium-sized public-use airport serving the small community of Northway in eastern interior Alaska, near the border with Canada's Yukon Territory. Situated along the historic Alaska Highway corridor, the airport provides essential connectivity for this remote subarctic community, which experiences extreme temperature variations ranging from deep winter freezes to mild summer highs. It primarily supports general aviation, charter operations, and serves as a useful refueling stop for cross-border and interior Alaska flights.",
+  "faqs": "Q: What is the airport code for Northway Airport?\nA: The IATA code is ORT and the ICAO code is PAOR.\n\nQ: Where is Northway Airport located?\nA: It is located in Northway, Alaska, in the eastern interior of the state near the Canadian border, approximately 50 miles southeast of Tok.\n\nQ: Does Northway Airport have commercial airline service?\nA: No scheduled commercial service operates at Northway; the airport primarily handles general aviation, charter flights, and small cargo operations.\n\nQ: Is the airport accessible year-round?\nA: Yes, the airport remains operational throughout the year, though extreme winter weather can occasionally affect flight schedules.",
+  "transport_tips": "Getting to Northway from the airport typically requires a personal vehicle, rental car, or local taxi service, as there is no public transit serving the area. The town is small enough that the airport is only a short drive from most accommodations and facilities. Visitors driving from Tok or along the Alaska Highway will find the airport conveniently close to the main road.",
+  "local_tip": "Frequent visitors recommend calling ahead to check on fuel availability, as Northway is a popular refueling stop for bush pilots traveling between Fairbanks and the Yukon, and pumps can occasionally run low during busy travel periods.",
+  "generatedAt": "2026-06-29T19:21:44.791Z",
+  "model": "MiniMax-M3"
+}

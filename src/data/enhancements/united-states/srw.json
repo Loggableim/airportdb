@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SRW",
+    "icao": "KRUQ",
+    "name": "Mid-Carolina Regional Airport",
+    "country": "United States",
+    "city": "Salisbury",
+    "lat": 35.6459,
+    "lon": -80.5203,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mid-Carolina Regional Airport (SRW/KRUQ) is a small general aviation facility located in Salisbury, North Carolina, serving Rowan County and the broader Charlotte metropolitan region. The airport provides essential services for private, corporate, and recreational aviation, including flight training, aircraft rental, and maintenance. Its convenient location near Interstate 85 makes it a popular alternative to Charlotte Douglas International Airport for regional pilots and business travelers.",
+  "faqs": "Q: Where is Mid-Carolina Regional Airport located?\nA: The airport is situated in Salisbury, North Carolina, in Rowan County, approximately 40 miles northeast of Charlotte.\n\nQ: What services does the airport offer?\nA: The airport offers general aviation services including fuel, hangar rentals, aircraft maintenance, flight training, and tie-down space for based and transient aircraft.\n\nQ: Is there scheduled commercial airline service at SRW?\nA: No, Mid-Carolina Regional Airport does not offer scheduled commercial airline service. It primarily serves general aviation, private, and corporate flights.\n\nQ: Can the airport accommodate business jets?\nA: Yes, the airport's runway can accommodate a range of business and general aviation aircraft, making it suitable for corporate operations in the region.\n\n",
+  "transport_tips": "The airport is conveniently located just off Interstate 85, providing easy driving access from Salisbury and surrounding areas. Rental cars are the most practical option for ground transportation, as there is no public transit directly serving the facility. Charlotte Douglas International Airport is approximately 50 miles southwest for those needing commercial airline connections.",
+  "local_tip": "While visiting, take time to explore downtown Salisbury, which features well-preserved historic architecture and is home to the North Carolina Transportation Museum, located in the former Spencer Shops rail yard.",
+  "generatedAt": "2026-06-27T06:29:24.511Z",
+  "model": "MiniMax-M3"
+}

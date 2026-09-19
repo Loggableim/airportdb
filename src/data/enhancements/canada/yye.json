@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YYE",
+    "icao": "CYYE",
+    "name": "Fort Nelson Airport",
+    "country": "Canada",
+    "city": "Fort Nelson",
+    "lat": 58.8364,
+    "lon": -122.597,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Fort Nelson Airport (YYE) serves the small community of Fort Nelson in northeastern British Columbia, situated along the historic Alaska Highway in the Northern Rockies region. The airport acts as a vital transportation hub for the area's natural gas industry, supporting workers traveling to remote field operations. Its location makes it an important gateway linking northern communities to larger urban centers in the province.",
+  "faqs": "Q: What is Fort Nelson Airport primarily used for?\nA: The airport serves the Fort Nelson community and supports the natural gas industry that drives much of the regional economy, in addition to scheduled passenger flights.\n\nQ: Are there ground transportation options available at the airport?\nA: Ground transport is limited; rental cars, taxis, and shuttle services serve the airport but should be booked in advance given the remote location.\n\nQ: How far is the airport from Fort Nelson town center?\nA: The airport is just a short drive from the town center, typically around 10 minutes by road.\n\nQ: Does the airport operate year-round despite harsh winters?\nA: Yes, the airport operates throughout the year, though winter snowstorms can occasionally delay or cancel flights.",
+  "transport_tips": "Rental vehicles should be reserved",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T05:34:46.183Z",
+  "model": "MiniMax-M3"
+}

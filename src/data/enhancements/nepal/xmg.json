@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XMG",
+    "icao": "VNMN",
+    "name": "Mahendranagar Airport",
+    "country": "Nepal",
+    "city": "Mahendranagar",
+    "lat": 28.9632,
+    "lon": 80.1479,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mahendranagar Airport (XMG/VNMN) is a small domestic airport serving Mahendranagar, the headquarters of Kanchanpur District in Nepal's far-western Terai region, near the Indian border. The airport provides vital air connectivity to the remote far-western development area, linking it to Kathmandu and other regional destinations. It also serves visitors heading to the nearby Shuklaphanta Wildlife Reserve, home to the endangered swamp deer.",
+  "faqs": "Q: What is the IATA code for Mahendranagar Airport?\nA: The IATA code is XMG and the ICAO code is VNMN.\n\nQ: Which airlines operate flights to Mahendranagar Airport?\nA: Domestic carriers including Buddha Air and Yeti Airlines have historically served this route with connections primarily to Kathmandu, though schedules can be limited.\n\nQ: Is Mahendranagar Airport near any tourist attractions?\nA: Yes, it is the closest airport to Shuklaphanta National Park, one of Nepal's important wildlife reserves known for swamp deer and Bengal tigers.\n\nQ: Does Mahendranagar Airport have night operations?\nA: No, like most small regional airports in Nepal, it operates only during daylight hours and is subject to weather-related disruptions.\n\n",
+  "transport_tips": "The airport is located just a few kilometers from Mahendranagar town center, making taxi or auto-rickshaw rides quick and inexpensive. From the Indian border at Banbasa/Gaddachauki, the airport is roughly 10 km away. Pre-booking a local driver is advisable if traveling onward to Shuklaphanta National Park, which lies about 20 km southwest.",
+  "local_tip": "Carry small denomination Nepalese rupees in cash, as ATMs in the far-western Terai can be unreliable and not all local drivers accept digital payments.",
+  "generatedAt": "2026-06-28T03:01:12.917Z",
+  "model": "MiniMax-M3"
+}

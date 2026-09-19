@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PIP",
+    "icao": "PAPN",
+    "name": "Pilot Point Airport",
+    "country": "United States",
+    "city": "Pilot Point",
+    "lat": 57.5804,
+    "lon": -157.572,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Pilot Point Airport (PIP/PAPN) is a small public-use airport serving the remote Yup'ik community of Pilot Point on the Alaska Peninsula. The airport sits near Bristol Bay, a region renowned for world-class salmon fishing, and serves as a critical transportation link for this isolated village with no road access to the rest of Alaska. Scheduled and chartered flights connect residents to larger hubs like Dillingham and Anchorage.",
+  "faqs": "Q: Where is Pilot Point Airport located?\nA: It is situated in Pilot Point, a small community on the Alaska Peninsula near Bristol Bay in southwestern Alaska.\n\nQ: Does Pilot Point Airport have scheduled commercial service?\nA: The airport primarily handles small charter and bush plane operations, serving as a vital link for the remote community.\n\nQ: What is the airport primarily used for?\nA: It supports passenger travel, mail delivery, medical evacuations, and supply shipments for the village.\n\nQ: Are there alternative ways to reach Pilot Point besides flying?\nA: Limited boat access via Bristol Bay is possible, but air travel is the most reliable and commonly used method year-round.",
+  "transport_tips": "There is no road access to Pilot Point, so flying is essentially the only practical way to reach the village. Travelers typically book flights through regional carriers or charter operators from Anchorage or Dillingham. Be prepared for flexible scheduling, as weather in the Bristol Bay region can cause delays, especially during foggy summer months.",
+  "local_tip": "If visiting during salmon season (typically June through July), book lodging and flights well in advance, as Bristol Bay draws commercial and sport fishermen from around the world, and charter availability becomes extremely limited.",
+  "generatedAt": "2026-06-26T21:28:39.777Z",
+  "model": "MiniMax-M3"
+}

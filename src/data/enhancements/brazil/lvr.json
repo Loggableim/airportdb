@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LVR",
+    "icao": "SILC",
+    "name": "Municipal Bom Futuro Airport",
+    "country": "Brazil",
+    "city": "Lucas do Rio Verde",
+    "lat": -13.0379,
+    "lon": -55.9502,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Municipal Bom Futuro Airport (LVR/SILC) is a small public airport serving Lucas do Rio Verde, a thriving agricultural city in the state of Mato Grosso, Brazil. The region is a major center for soybean and corn production, and the airport primarily supports regional connectivity and general aviation, including agribusiness-related travel. Its modest infrastructure reflects the rural-industrial character of the surrounding area.",
+  "faqs": "Q: What is the IATA code for Municipal Bom Futuro Airport?\nA: The IATA code is LVR, and the ICAO code is SILC.\n\nQ: Where is the airport located?\nA: It is located in Lucas do Rio Verde, in the state of Mato Grosso, central-western Brazil.\n\nQ: What kind of airport is Bom Futuro?\nA: It is a small public municipal airport primarily handling general aviation and regional flights, with no scheduled commercial service.\n\nQ: Why does this airport exist in an agricultural region?\nA: Lucas do Rio Verde is one of Brazil's leading agribusiness hubs, so the airport supports business travel, aerial crop management, and regional transport for the farming industry.\n\n",
+  "transport_tips": "The airport is located just a few kilometers from Lucas do Rio Verde's city center, making taxi or rideshare the most practical way to reach it. Car rentals are available in town and offer flexibility for travelers exploring the surrounding agricultural areas. Public bus service to the airport is limited, so arranging ground transport in advance is recommended.",
+  "local_tip": "If you have a few extra hours, visit a local soybean or corn processing facility—many offer guided tours showcasing the region's role as one of Brazil's most productive agricultural corridors.",
+  "generatedAt": "2026-06-27T09:56:57.512Z",
+  "model": "MiniMax-M3"
+}

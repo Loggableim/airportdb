@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JOE",
+    "icao": "EFJO",
+    "name": "Joensuu Airport",
+    "country": "Finland",
+    "city": "Joensuu",
+    "lat": 62.6588,
+    "lon": 29.6194,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Joensuu Airport (JOE/EFJO) is a regional airport serving the city of Joensuu in the North Karelia region of eastern Finland. Located approximately 7 km northwest of the city center, it primarily handles domestic flights, connecting the region with Helsinki-Vantaa. The airport supports both scheduled commercial services and general aviation, serving as a key gateway to eastern Finland's lake district and forested landscapes near the Russian border.",
+  "faqs": "Q: How far is Joensuu Airport from the city center?\nA: The airport is located about 7 km northwest of downtown Joensuu, typically a 10-15 minute drive by car or taxi.\n\nQ: Which airlines operate from Joensuu Airport?\nA: Scheduled passenger services are mainly operated by Finnair (often through Norra) with direct flights to Helsinki-Vantaa.\n\nQ: Does the airport have international flights?\nA: The airport primarily handles domestic flights, though charter and occasional international services do operate, especially during holiday seasons.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic amenities including a café, car rental desks, and parking, reflecting its role as a regional airport.",
+  "transport_tips": "Taxis are readily available outside the terminal and offer the most convenient transfer to Joensuu city center. Local bus services connect the airport to the city, though schedules may be limited, so checking timetables in advance is recommended. Renting a car is a practical option for travelers planning to explore the broader North Karelia region.",
+  "local_tip": "Pack layers—Joensuu experiences significant temperature swings between seasons, with cold winters dropping well below -20°C, so connecting flights from Helsinki can mean stepping off the plane into very different weather than your departure point.",
+  "generatedAt": "2026-06-29T06:30:40.211Z",
+  "model": "MiniMax-M3"
+}

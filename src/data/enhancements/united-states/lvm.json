@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LVM",
+    "icao": "KLVM",
+    "name": "Mission Field",
+    "country": "United States",
+    "city": "Livingston",
+    "lat": 45.6994,
+    "lon": -110.448,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Mission Field is a medium-sized public airport serving Livingston, Montana, situated in the scenic Paradise Valley between the Absaroka and Crazy Mountain ranges. The airport provides convenient access to Yellowstone National Park's northern entrance and serves as a gateway for visitors exploring southwestern Montana's outdoor recreation areas. It also supports general aviation, flight training, and seasonal wildfire response operations common to the region.",
+  "faqs": "Q: What is the airport code for Mission Field?\nA: Mission Field uses IATA code LVM and ICAO code KLVM.\n\nQ: Where is Mission Field located?\nA: It is located in Livingston, Montana, in the United States, in Park County just north of Yellowstone National Park.\n\nQ: Does Mission Field offer commercial airline service?\nA: Mission Field primarily serves general aviation and does not typically have scheduled commercial airline service; travelers usually use Bozeman Yellowstone International Airport (BZN) for commercial flights.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, hangars, fuel services, and tie-down areas for general aviation aircraft.\n\n",
+  "transport_tips": "The airport is located just a few miles east of downtown Livingston along Interstate 90, making it a short drive from town. Rental cars are typically the most convenient option, as public transportation in this rural area is limited. Visitors combining a trip to Yellowstone National Park can reach the park's northern Gardiner entrance in approximately 30 minutes by car.",
+  "local_tip": "If flying in during summer months, be prepared for afternoon thunderstorms common in the Paradise Valley—early morning arrivals typically offer the smoothest conditions and clearest views of the surrounding mountain ranges.",
+  "generatedAt": "2026-06-26T07:44:06.889Z",
+  "model": "MiniMax-M3"
+}

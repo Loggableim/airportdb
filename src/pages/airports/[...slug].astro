@@ -17,17 +17,25 @@ import airportContent from '../../../data/airport-content.json' assert { type: '
 import { existsSync, readFileSync } from 'fs';
 
 // Helper: load AI enhancement data for an airport (if it exists)
+// Note: Windows-reserved filenames (aux, prn, con, nul) are stored with a "_" prefix
 const enhancementCache = {};
 function loadEnhancement(airport) {
   if (!airport.iata) return null;
   const key = airport.iata;
   if (key in enhancementCache) return enhancementCache[key];
   const cs = makeSlug(airport.country);
-  const file = 'src/data/enhancements/' + cs + '/' + key.toLowerCase() + '.json';
+  const code = key.toLowerCase();
+  const reserved = ['aux', 'prn', 'con', 'nul', 'com1', 'com2', 'com3', 'com4', 'com5', 'com6', 'com7', 'com8', 'com9', 'lpt1', 'lpt2', 'lpt3', 'lpt4', 'lpt5', 'lpt6', 'lpt7', 'lpt8', 'lpt9'];
+  const candidates = reserved.includes(code)
+    ? ['src/data/enhancements/' + cs + '/_' + code + '.json']
+    : ['src/data/enhancements/' + cs + '/' + code + '.json', 'src/data/enhancements/' + cs + '/_' + code + '.json'];
   let result = null;
   try {
-    if (existsSync(file)) {
-      result = JSON.parse(readFileSync(file, 'utf-8'));
+    for (const file of candidates) {
+      if (existsSync(file)) {
+        result = JSON.parse(readFileSync(file, 'utf-8'));
+        break;
+      }
     }
   } catch (e) {
     result = null;

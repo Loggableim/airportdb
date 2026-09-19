@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OLC",
+    "icao": "SDCG",
+    "name": "Senadora Eunice Micheles Airport",
+    "country": "Brazil",
+    "city": "São Paulo De Olivença",
+    "lat": -3.4691,
+    "lon": -68.9211,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Senadora Eunice Micheles Airport (OLC) is a small regional airport serving São Paulo de Olivença, an isolated municipality on the Amazon River in western Amazonas state, Brazil. Named after a local political figure, it functions primarily as a lifeline for the riverside community, connecting residents to Manaus and other regional hubs. The airport handles limited scheduled traffic and plays a vital role in supporting local commerce, healthcare access, and government services in this remote rainforest region.",
+  "faqs": "Q: What is the IATA code for Senadora Eunice Micheles Airport?\nA: The IATA code is OLC, and its ICAO code is SDCG.\n\nQ: Where is the airport located?\nA: It is located in São Paulo de Olivença, in the Amazonas state of Brazil, near the Peru border in the western Amazon.\n\nQ: Are there commercial flights to this airport?\nA: Yes, small regional carriers operate scheduled flights, primarily connecting São Paulo de Olivença to Manaus.\n\nQ: What facilities are available at the airport?\nA: As a small regional facility, it offers basic terminal amenities suitable for short-haul turboprop operations.",
+  "transport_tips": "The airport is located close to the town center of São Paulo de Olivença, typically reachable within 10 minutes by motorcycle taxi or local van. Given the town's remote location, flights are often the most practical option for reaching larger cities like Manaus. River boats also serve the region but take considerably longer than air travel.",
+  "local_tip": "Bring cash in small denominations, as ATMs are scarce in São Paulo de Olivença and most local businesses, including taxi drivers, may not accept cards.",
+  "generatedAt": "2026-06-28T06:47:00.134Z",
+  "model": "MiniMax-M3"
+}

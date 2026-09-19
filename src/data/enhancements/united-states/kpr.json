@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KPR",
+    "icao": "",
+    "name": "Port Williams Seaplane Base",
+    "country": "United States",
+    "city": "Port Williams",
+    "lat": 58.4901,
+    "lon": -152.582,
+    "type": "seaplane_base",
+    "size": 25
+  },
+  "summary": "Port Williams Seaplane Base (KPR) is a small public-use seaplane facility located on Kodiak Island in southern Alaska. It primarily serves the remote community of Port Williams, providing essential floatplane access for residents, fishermen, and travelers in this rugged coastal region. The base supports general aviation and charter operations common throughout the Kodiak archipelago, where seaplanes are a vital transportation link.",
+  "faqs": "Q: What type of facility is Port Williams Seaplane Base?\nA: It is a public-use seaplane base equipped with a water landing area, primarily serving floatplane and amphibious aircraft operations.\n\nQ: Where is the seaplane base located?\nA: It is situated on Kodiak Island in southern Alaska, near the community of Port Williams along the island's coastline.\n\nQ: Who typically uses this seaplane base?\nA: The base is used by local residents, commercial fishermen, charter operators, and visitors traveling to and from remote areas of Kodiak Island.\n\nQ: Are there scheduled airline services at KPR?\nA: No scheduled commercial service operates from Port Williams; flights are typically on-demand charter or private operations common in rural Alaska.\n\n",
+  "transport_tips": "Access to Port Williams Seaplane Base is primarily by boat or air, as the surrounding area has limited road infrastructure typical of Kodiak Island's remote coast. Travelers typically arrange floatplane or charter flights from Kodiak or other regional hubs. Plan for flexible scheduling, as weather conditions in the Gulf of Alaska can frequently affect flight availability.",
+  "local_tip": "Always confirm tide and weather conditions before booking a flight, as the coastal waters around Kodiak Island can produce sudden swells and fog that affect seaplane takeoffs and landings.",
+  "generatedAt": "2026-06-28T11:23:59.763Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SRN",
+    "icao": "YSRN",
+    "name": "Strahan Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -42.155,
+    "lon": 145.292,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Strahan Airport (SRN/YSRN) is a small regional airport serving the remote town of Strahan on the west coast of Tasmania, Australia. It functions primarily as a gateway for tourists visiting the Tasmanian Wilderness World Heritage Area, including the Gordon River, Macquarie Harbour, and nearby national parks. The airport handles a limited number of scheduled and charter flights, with operations typically conducted by small aircraft suited to its short runway.",
+  "faqs": "Q: How do I get from Strahan Airport to the town center?\nA: The airport is located a short drive from Strahan township. Rental cars and pre-booked shuttle or taxi services are the most common options, as public transport is limited in this remote area.\n\nQ: Are there scheduled commercial flights to Strahan Airport?\nA: Scheduled services are limited and may be seasonal. Most visitors check current schedules with regional operators such as Par Avion, which runs flights from Hobart or Cambridge, as availability can change.\n\nQ: What facilities are available at the airport?\nA: Strahan Airport is a very small facility with minimal amenities. There is generally no large terminal building, so passengers should arrive close to departure time and bring essentials they may need before flying.\n\nQ: Can I fly directly from Melbourne or Sydney to Strahan?\nA: No direct commercial flights operate from mainland capitals. Travelers typically fly into Hobart, Launceston, or Cambridge airports and connect to a smaller aircraft for the final leg.",
+  "transport_tips": "Rental a car is the most flexible option for exploring the surrounding wilderness region, including Queenstown and Zeehan. Pre-booking airport transfers or taxi pickup is strongly recommended, as there is no regular public bus service to the airport. If driving yourself, allow extra time on the winding roads through Tasmania's west coast, especially in wet weather.",
+  "local_tip": "Book scenic flights early in your trip rather than the last day, as Tasmania's west coast weather is notoriously changeable and afternoon cancellations due to cloud or wind are common during summer afternoons.",
+  "generatedAt": "2026-06-26T15:44:18.867Z",
+  "model": "MiniMax-M3"
+}

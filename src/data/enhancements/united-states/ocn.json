@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OCN",
+    "icao": "KOKB",
+    "name": "Oceanside Municipal Airport",
+    "country": "United States",
+    "city": "Oceanside",
+    "lat": 33.2179,
+    "lon": -117.3517,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Oceanside Municipal Airport is a medium-sized general aviation facility serving the coastal city of Oceanside in northern San Diego County, California. Situated just a few miles inland from the Pacific Ocean, it primarily supports recreational flying, flight training, and private aviation rather than scheduled commercial service. The airport has long served as a convenient gateway for private pilots visiting Southern California's beach communities.",
+  "faqs": "Q: Does Oceanside Municipal Airport offer commercial flights?\nA: No, OCN primarily serves general aviation, private aircraft, and flight training operations rather than scheduled commercial airlines.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, hangars, tie-down areas, a terminal building, and services for private pilots including fueling and aircraft maintenance.\n\nQ: How far is the airport from the Oceanside coast?\nA: The airport is located approximately 3-4 miles inland from the Pacific Ocean and Oceanside Harbor.\n\nQ: Can I rent a car at Oceanside Municipal Airport?\nA: Rental car availability may be limited compared to larger airports, so it's advisable to arrange transportation in advance.",
+  "transport_tips": "The airport is conveniently located near Interstate 5, making ground transportation straightforward. Rideshare services like Uber and Lyft typically serve the area, though wait times may be longer than at larger commercial airports. Visitors can also arrange taxi service or rental cars in advance, and the nearby Coaster commuter rail line connects Oceanside to San Diego and other coastal communities.",
+  "local_tip": "If visiting the area, plan to explore Oceanside's iconic pier and the nearby Harbor District, which are just minutes from the airport and offer some of the best coastal dining and beaches in Southern California.",
+  "generatedAt": "2026-06-30T05:07:05.796Z",
+  "model": "MiniMax-M3"
+}

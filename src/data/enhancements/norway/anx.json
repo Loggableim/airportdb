@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ANX",
+    "icao": "ENAN",
+    "name": "Andøya Airport, Andenes",
+    "country": "Norway",
+    "city": "Andenes",
+    "lat": 69.2952,
+    "lon": 16.1394,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Andøya Airport (ANX) is a regional airport serving Andenes, a fishing town on the northern tip of the Vesterålen archipelago in Nordland, Norway, located well above the Arctic Circle. It supports both civilian flights and operates in proximity to Andøya's military air station. The airport is the main gateway for visitors heading to one of Europe's premier whale-watching destinations and the surrounding Arctic landscapes.",
+  "faqs": "Q: Which airlines operate from Andøya Airport?\nA: Widerøe is the primary airline providing scheduled passenger service, typically connecting Andenes to Bodø and other regional Norwegian destinations.\n\nQ: Is Andøya Airport located above the Arctic Circle?\nA: Yes, the airport sits at approximately 69°N latitude, placing it well within the Arctic Circle, which means visitors can experience the midnight sun in summer and the northern lights in winter.\n\nQ: How far is the airport from Andenes town center?\nA: The airport is located just a few kilometers from Andenes town center, making it a short taxi or drive into town.\n\nQ: Can I visit Andøya Space Center from this airport?\nA: Andøya Space Center is located on the island as well and is accessible by ground transport, though it is some distance from the airport itself.",
+  "transport_tips": "Car rental is available at the airport and is the most convenient option for exploring the scattered communities of the Vesterålen archipelago. Taxi services operate from the terminal but should be pre-arranged for late arrivals, as public transportation is limited in this remote Arctic region. Many visitors arrange transfers through their hotels or pre-book private shuttles, especially during the winter months.",
+  "local_tip": "If you have a few hours between flights or after landing, head directly to the harbor in Andenes for a whale-watching safari—sperm whales are resident year-round",
+  "generatedAt": "2026-06-29T08:10:53.102Z",
+  "model": "MiniMax-M3"
+}

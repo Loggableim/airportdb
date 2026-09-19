@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YBF",
+    "icao": "",
+    "name": "Bamfield Seaplane Base",
+    "country": "Canada",
+    "city": "Bamfield",
+    "lat": 48.836,
+    "lon": -125.1375,
+    "type": "seaplane_base",
+    "size": 25
+  },
+  "summary": "Bamfield Seaplane Base (YBF) is a small water aerodrome serving the remote coastal community of Bamfield on the west coast of Vancouver Island, British Columbia. It provides essential air access to a settlement otherwise reached by a long, rugged logging road, serving visitors heading to the West Coast Trail, Barkley Sound, and the Bamfield Marine Sciences Centre. Scheduled and charter floatplane services connect the community with Vancouver and Victoria.",
+  "faqs": "Q: How do I get to Bamfield Seaplane Base?\nA: The base is accessed by floatplane, typically departing from Vancouver International Airport South Terminal or Victoria's Inner Harbour, with flight times of roughly 45 minutes to one hour.\n\nQ: Are there regular scheduled flights?\nA: Yes, regional carriers operate scheduled services, but schedules are seasonal and weather-dependent, so bookings should be confirmed in advance.\n\nQ: What facilities are available at the base?\nA: The seaplane base is a minimal facility with a dock and tie-down area for floats; there is no terminal building, so passengers check in directly at the dock or with their carrier.\n\nQ: Can private floatplanes land at YBF?\nA: Yes, the base is publicly available and licensed, and prior permission or a PPR from the operator is recommended for non-scheduled arrivals.",
+  "transport_tips": "Passengers typically arrive directly from downtown Vancouver or Victoria via floatplane, which is far faster than the 4-hour drive via Port Alberni's logging road. The dock is located in Bamfield Inlet near the community's east side; the village's two halves are connected by a wooden footbridge. Ground transport on arrival is usually arranged in advance with a local lodge or guesthouse, as taxi services are limited.",
+  "local_tip": "Plan your trip around the tides—Bamfield's famous footbridge to the west side rises on a schedule, and missing the last opening can leave you stranded until the next cycle.",
+  "generatedAt": "2026-06-28T11:26:27.091Z",
+  "model": "MiniMax-M3"
+}

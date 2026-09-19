@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CBI",
+    "icao": "",
+    "name": "Cape Barren Island Airport",
+    "country": "Australia",
+    "city": "Cape Barren Island",
+    "lat": -40.3905,
+    "lon": 148.0169,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Cape Barren Island Airport (CBI) is a small remote airstrip serving Cape Barren Island, part of the Furneaux Group in the Bass Strait between Tasmania and mainland Australia. The airport primarily supports the island's small population of around 60–80 residents, many of whom are Aboriginal Tasmanians, by providing essential transport links and serving as a critical hub for medical evacuations. Its isolated location makes air access vital for connecting the community to larger centres like Launceston or Flinders Island.",
+  "faqs": "Q: Where is Cape Barren Island Airport located?\nA: The airport is on Cape Barren Island in the Furneaux Group, Bass Strait, approximately 200 km northeast of Tasmania, Australia.\n\nQ: Are there regular scheduled flights to CBI?\nA: Scheduled services are very limited; flights are typically charter-based, and the airport primarily supports medical evacuations and occasional passenger flights operated by smaller regional carriers.\n\nQ: What facilities are available at the airport?\nA: The airport has minimal infrastructure with a basic runway and no terminal building. Passengers typically arrange transport and accommodation directly with island residents or local contacts.\n\nQ: Who uses Cape Barren Island Airport?\nA: The airport mainly serves local residents, visiting healthcare workers, government officials, and occasional tourists exploring the island's Aboriginal heritage and wildlife reserves.\n\n",
+  "transport_tips": "Access to Cape Barren Island is primarily by air, with charter flights being the most reliable option since scheduled services are minimal. There are no public transport options on the island, so visitors should arrange a 4WD vehicle or local pickup in advance through their accommodation host. Travelers should also consider chartering from Moorabbin or Launceston via Flinders Island, as connections may be required.",
+  "local_tip": "Bring cash and any essential supplies with you, as there are no shops or ATMs on the island — locals are welcoming but resources are extremely limited, and the nearest major services are on Flinders Island or mainland Tasmania.",
+  "generatedAt": "2026-06-27T11:59:51.596Z",
+  "model": "MiniMax-M3"
+}

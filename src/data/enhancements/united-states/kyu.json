@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KYU",
+    "icao": "PFKU",
+    "name": "Koyukuk Airport",
+    "country": "United States",
+    "city": "Koyukuk",
+    "lat": 64.8761,
+    "lon": -157.727,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Koyukuk Airport (KYU/PFKU) serves the small Yup'ik village of Koyukuk, located on the Yukon River in western Alaska. As a remote bush airstrip, it provides a vital transportation link for residents and supplies in a region with no road access to the outside world. The airport supports essential services, mail delivery, and travel to and from nearby hubs like Fairbanks and Galena.",
+  "faqs": "Q: Where is Koyukuk Airport located?\nA: Koyukuk Airport is located in the village of Koyukuk, Alaska, on the north bank of the Yukon River in the Yukon-Koyukuk Census Area.\n\nQ: What type of aircraft serve Koyukuk Airport?\nA: The airport primarily serves small commuter and bush planes, including single-engine aircraft suited for short gravel runways.\n\nQ: Are there commercial flights to Koyukuk Airport?\nA: Scheduled commercial service is limited or nonexistent; travel is typically arranged through charter or bush plane operators serving Interior Alaska villages.\n\nQ: What facilities are available at the airport?\nA: The airport has a single gravel runway and minimal infrastructure, typical of remote Alaskan village airstrips, with no terminal building or on-site services.",
+  "transport_tips": "There are no roads connecting Koyukuk to other communities, so access is almost exclusively by air or river boat during summer months. Travelers typically book flights from Fairbanks or Galena via bush plane operators. In winter, snowmobiles and the frozen Yukon River provide alternative ground access to nearby villages.",
+  "local_tip": "If you're planning a visit, coordinate with a bush pilot ahead of time and build in a buffer day—weather in Interior Alaska can ground flights with little notice, especially during winter fog and summer thunderstorms.",
+  "generatedAt": "2026-06-26T21:25:22.136Z",
+  "model": "MiniMax-M3"
+}

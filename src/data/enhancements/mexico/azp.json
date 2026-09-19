@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AZP",
+    "icao": "MMJC",
+    "name": "Jorge Jiménez Cantú National Airport",
+    "country": "Mexico",
+    "city": "Atizapán de Zaragoza",
+    "lat": 19.5742,
+    "lon": -99.2912,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Jorge Jiménez Cantú National Airport is a small regional airport located in Atizapán de Zaragoza, in the State of Mexico, serving the northern suburbs of the Mexico City metropolitan area. Named after Jorge Jiménez Cantú, a former Governor of the State of Mexico, it primarily handles general aviation, private flights, and limited commercial operations. The airport provides a convenient alternative to the larger, busier airports in central Mexico City for travelers in the northern metropolitan zone.",
+  "faqs": "Q: What is the airport code for Jorge Jiménez Cantú National Airport?\nA: The IATA code is AZP and the ICAO code is MMJC.\n\nQ: Where is the airport located?\nA: It is situated in Atizapán de Zaragoza, in the State of Mexico, approximately northwest of Mexico City.\n\nQ: What type of flights operate from this airport?\nA: The airport primarily serves general aviation, private aircraft, and limited regional commercial flights.\n\nQ: How far is the airport from central Mexico City?\nA: It is located roughly 30-40 kilometers northwest of central Mexico City, depending on the route taken.\n\n",
+  "transport_tips": "The airport is best reached by private vehicle or taxi, as public transit options in the area are limited. Travel times to Mexico City's main business districts can vary significantly depending on traffic, so allow extra time during peak hours. Ride-sharing services like Uber and Didi are widely available in the surrounding area for onward travel.",
+  "local_tip": "Frequent visitors recommend scheduling early morning or late evening flights to avoid the notorious Mexico City traffic on the Periférico and Autopista México-Querétaro, which can add hours to your travel time during rush hour.",
+  "generatedAt": "2026-06-27T05:55:10.100Z",
+  "model": "MiniMax-M3"
+}

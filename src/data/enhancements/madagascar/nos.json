@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NOS",
+    "icao": "FMNN",
+    "name": "Nosy Be International Airport",
+    "country": "Madagascar",
+    "city": "Nosy Be",
+    "lat": -13.3121,
+    "lon": 48.3148,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Nosy Be International Airport is the main gateway to Madagascar's most popular island destination, located on the northern coast of Nosy Be off the country's northwest coast. The airport serves as the primary entry point for international tourists visiting the island's beaches, wildlife reserves, and diving spots. It handles a mix of domestic flights connecting to Antananarivo and regional international services from Europe and neighboring Indian Ocean nations.",
+  "faqs": "Q: How far is Nosy Be International Airport from the main tourist areas?\nA: The airport is conveniently located near Hell-Ville (Andoany), the island's main town, with most beach resorts within a 30-60 minute drive.\n\nQ: Are there direct international flights to Nosy Be?\nA: Yes, seasonal and year-round direct flights operate from several European cities and regional hubs, though many travelers connect through Antananarivo's Ivato International Airport.\n\nQ: Is there a terminal for international and domestic flights?\nA: The airport has separate facilities for international and domestic arrivals, though the infrastructure is relatively modest compared to major international hubs.\n\nQ: What facilities are available at the airport?\nA: The terminal offers basic amenities including cafes, duty-free shops, currency exchange, and car rental counters, though services are limited compared to larger airports.\n\n",
+  "transport_tips": "Taxis are available outside the terminal and are the most common way to reach hotels and resorts; agree on a fare before departure as meters are rarely used. Many resorts offer pre-arranged shuttle services, which can be more convenient and cost-effective than taxis. Shared minibuses and hotel transfers are popular options for budget travelers heading to various parts of the island.",
+  "local_tip": "Book your airport transfer or taxi pickup in advance through your hotel, especially during peak season (July-September), as the small terminal can get crowded and local taxis may charge premium rates to walk-up tourists.",
+  "generatedAt": "2026-06-28T23:18:49.795Z",
+  "model": "MiniMax-M3"
+}

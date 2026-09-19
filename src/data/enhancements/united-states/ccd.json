@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CCD",
+    "icao": "",
+    "name": "Century City Heliport",
+    "country": "United States",
+    "city": "Los Angeles",
+    "lat": 34.0608,
+    "lon": -118.418,
+    "type": "heliport",
+    "size": 25
+  },
+  "summary": "Century City Heliport (CCD) is a rooftop heliport located in the heart of Century City, one of Los Angeles' premier business and commercial districts on the west side of the city. The facility primarily serves corporate executives, entertainment industry professionals, and emergency services, offering rapid aerial access to the dense urban core between Beverly Hills and Westwood. Situated atop a building at an elevation that provides excellent visibility over the Los Angeles basin, it has long been a key asset for time-sensitive travel in the LA area.",
+  "faqs": "Q: What is Century City Heliport used for?\nA: The heliport primarily serves corporate and executive transport, charter flights, and emergency services including medical evacuations. It is a key facility for business travelers needing quick access to Century City's office towers and nearby areas.\n\nQ: Where exactly is the heliport located?\nA: It sits atop a building in the Century City commercial district, bordered roughly by Beverly Hills to the east, Westwood to the west, and the larger Westside neighborhoods of Los Angeles.\n\nQ: Can the public use Century City Heliport?\nA: Public access is limited; the heliport is generally reserved for authorized commercial, charter, and emergency operations rather than walk-in or private general aviation use.\n\nQ: How does this heliport differ from Santa Monica or Van Nuys airports?\nA: Unlike those full-service fixed-wing airports, CCD is exclusively a heliport designed for short-range rotary-wing operations into the dense urban core, eliminating the need for lengthy ground commutes from larger airports.",
+  "transport_tips": "Travelers arriving at Century City Heliport are already within walking distance of the Century City business district and shopping centers. Ground transportation including taxis, rideshares, and private car services are readily available in the area. Due to the heliport's rooftop location, passengers should coordinate pickup points with their ground transport in advance.",
+  "local_tip": "If you're being picked up, note that the heliport is elevated; arrange to meet your driver at the building's ground-level entrance rather than attempting curbside pickup at street level.",
+  "generatedAt": "2026-06-28T13:01:01.967Z",
+  "model": "MiniMax-M3"
+}

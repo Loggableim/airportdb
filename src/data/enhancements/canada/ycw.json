@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YCW",
+    "icao": "CYCW",
+    "name": "Chilliwack Airport",
+    "country": "Canada",
+    "city": "Chilliwack",
+    "lat": 49.1532,
+    "lon": -121.9393,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Chilliwack Airport is a small general aviation facility serving the Fraser Valley region of British Columbia, located just outside the city of Chilliwack approximately 100 km east of Vancouver. The airport primarily supports flight training, recreational flying, and charter operations, with no scheduled commercial passenger service. It features a single asphalt runway and is home to several flying clubs and aviation businesses catering to the local pilot community.",
+  "faqs": "Q: Does Chilliwack Airport have scheduled commercial flights?\nA: No, YCW does not offer scheduled passenger service. It is used exclusively for general aviation, flight training, and private charters.\n\nQ: What facilities are available at the airport?\nA: The airport has a terminal building, fuel services, aircraft parking, and hangars operated by local aviation businesses and flying clubs.\n\nQ: Can I rent a car at Chilliwack Airport?\nA: Car rentals are not typically available on-site, so visitors should arrange ground transportation in advance through local rental agencies in Chilliwack.\n\nQ: Is there a control tower at YCW?\nA: No, Chilliwack Airport operates as an uncontrolled field, and pilots use the common frequency to coordinate traffic.\n\n",
+  "transport_tips": "The airport is located a short drive south of downtown Chilliwack with easy access via Highway 1 (Trans-Canada Highway). Taxis and rideshare services are available from Chilliwack, though booking in advance is recommended. Having a personal vehicle is the most convenient way to reach the airport, and parking is available on-site.",
+  "local_tip": "If you're visiting to watch aircraft, the airport's location near the Fraser Valley offers spectacular views of the surrounding mountains, and weekends tend to be the busiest with flight training activity and visiting aircraft.",
+  "generatedAt": "2026-06-27T00:03:06.092Z",
+  "model": "MiniMax-M3"
+}

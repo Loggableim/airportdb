@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YEG",
+    "icao": "CYEG",
+    "name": "Edmonton International Airport",
+    "country": "Canada",
+    "city": "Edmonton",
+    "lat": 53.3097,
+    "lon": -113.58,
+    "type": "large_airport",
+    "size": 1475
+  },
+  "summary": "Edmonton International Airport (YEG) is the primary aviation gateway for the Edmonton metropolitan area and the busiest airport in Alberta by passenger volume. Located approximately 26 km south of downtown Edmonton in Leduc County, it serves as a key hub for northern Alberta's oil, gas, and resource industries. The airport features a modern single-terminal complex with extensive domestic, transborder, and international connections across North America and beyond.",
+  "faqs": "Q: How far is Edmonton International Airport from downtown Edmonton?\nA: The airport is located approximately 26 km (16 miles) south of downtown Edmonton in Leduc County, typically a 30-40 minute drive depending on traffic and route.\n\nQ: Does YEG offer direct international flights?\nA: Yes, the airport offers direct flights to several international destinations, including Mexico, the Caribbean, Europe, and other points abroad, in addition to numerous U.S. transborder routes.\n\nQ: Is there public transit available between the airport and Edmonton?\nA: Yes, the Edmonton LRT Valley Line connects Century Park station to downtown Edmonton, and Route 747 provides express bus service between the airport and the Century Park LRT station.\n\nQ: What facilities are available at YEG for long layovers?\nA: The terminal offers a wide range of dining, shopping, and lounge options, free Wi-Fi throughout, and several quiet zones. There are also nearby hotel options with shuttle services for extended stays.",
+  "transport_tips": "Route 747 is an express bus that connects the airport to the Century Park LRT station, offering affordable transit access to downtown Edmonton. Rideshare services like Uber and Lyft operate at designated pickup zones, while taxis are available curbside outside the arrivals level. For those driving, the airport offers multiple parking options including short-term, long-term, and value parking lots with shuttle service to the terminal.",
+  "local_tip": "If you have a long layover, consider visiting the Premium Outlet Collection at EIA, located just minutes from the terminal—it's one of the few outlet malls directly accessible from an airport in Canada, and many",
+  "generatedAt": "2026-06-28T16:12:50.278Z",
+  "model": "MiniMax-M3"
+}

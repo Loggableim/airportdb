@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ADF",
+    "icao": "LTCP",
+    "name": "Adıyaman Airport",
+    "country": "Turkey",
+    "city": "Adıyaman",
+    "lat": 37.7314,
+    "lon": 38.4689,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Adıyaman Airport (ADF) is a regional airport in southeastern Turkey serving the city of Adıyaman and the surrounding Şanlıurfa region. It functions as a key gateway for visitors traveling to Mount Nemrut (Nemrut Dağı), a UNESCO World Heritage Site famous for its monumental 1st-century BCE royal tomb sanctuary and colossal stone head statues. The airport features a single terminal and runway, handling primarily domestic flights with seasonal increases during the spring and autumn tourism seasons.",
+  "faqs": "Q: How far is Adıyaman Airport from the city center?\nA: The airport is approximately 20 km northwest of Adıyaman city center, with a typical drive taking around 20-30 minutes depending on traffic.\n\nQ: Which airlines operate flights to Adıyaman Airport?\nA: Turkish Airlines and other domestic carriers operate regular scheduled flights, primarily connecting Adıyaman with Istanbul and Ankara.\n\nQ: Is the airport open 24 hours?\nA: No, Adıyaman Airport operates during scheduled flight hours only. There are no overnight facilities, so plan arrival outside operating times carefully.\n\nQ: Are there car rental services at the airport?\nA: Yes, several local and national car rental companies have counters in the terminal, which is highly recommended for those planning to visit Mount Nemrut and surrounding historical sites.",
+  "transport_tips": "The most convenient way to reach the city is by taxi or pre-booked private transfer, as public bus service is limited. Havaş airport shuttle buses operate on flight schedules and offer an affordable option into town. Renting a car at the airport is strongly recommended if you plan to visit Mount Nemrut or other archaeological sites in the broader region.",
+  "local_tip": "Visit the airport café early if you have a morning flight—options inside the terminal are limited and tend to open later than the first departures, so grabbing a tea and breakfast at the small terminal restaurant before security can save you time and money.",
+  "generatedAt": "2026-06-29T15:59:00.357Z",
+  "model": "MiniMax-M3"
+}

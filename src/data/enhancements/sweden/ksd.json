@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KSD",
+    "icao": "ESOK",
+    "name": "Karlstad Airport",
+    "country": "Sweden",
+    "city": "Karlstad",
+    "lat": 59.4447,
+    "lon": 13.3374,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Karlstad Airport (KSD) is a regional airport serving the city of Karlstad in Värmland County, western Sweden, located approximately 16 km southwest of the city center. It functions as the primary air gateway for the Värmland region and supports both scheduled domestic flights and seasonal charter services, particularly to Mediterranean destinations. The airport features a single terminal and serves as an important link for the region's business travel and tourism.",
+  "faqs": "Q: How far is Karlstad Airport from the city center?\nA: The airport is located about 16 km southwest of Karlstad's city center, with a typical journey taking around 20-25 minutes by car.\n\nQ: Are there international flights from Karlstad Airport?\nA: The airport primarily handles domestic flights to Stockholm, but also operates seasonal charter flights to popular vacation destinations in southern Europe during summer months.\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard amenities including a café, car rental services, free parking, and basic passenger services, keeping in line with its role as a regional airport.\n\nQ: Which airlines operate from Karlstad Airport?\nA: Scandinavian Airlines (SAS) is the main carrier providing regular scheduled service, primarily connecting Karlstad with Stockholm Arlanda Airport.",
+  "transport_tips": "The most convenient way to reach the airport is by car or taxi, which takes about 20 minutes from central Karlstad. Airport buses (Flygbuss) operate on scheduled flight days, providing affordable transfers between the city center and the terminal. Car rental services are available at the airport, useful for exploring the wider Värmland region.",
+  "local_tip": "If you have a longer layover or arrive early, the nearby Löfbergs Arena area offers coffee shops and restaurants, and the drive into Karlstad along Route 61 provides scenic views of Lake Vänern, Europe's third-largest lake.",
+  "generatedAt": "2026-06-29T05:37:37.391Z",
+  "model": "MiniMax-M3"
+}

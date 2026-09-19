@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLT",
+    "icao": "KMLT",
+    "name": "Millinocket Municipal Airport",
+    "country": "United States",
+    "city": "Millinocket",
+    "lat": 45.6478,
+    "lon": -68.6856,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Millinocket Municipal Airport (MLT/KMLT) is a small public-use airport located in Millinocket, Maine, serving the Katahdin region of northern Maine. The airport provides essential access to the remote wilderness area near Baxter State Park and Mount Katahdin, the northern terminus of the Appalachian Trail. It primarily supports general aviation, charter flights, and seasonal traffic related to outdoor recreation tourism.",
+  "faqs": "Q: What is Millinocket Municipal Airport primarily used for?\nA: The airport primarily serves general aviation, private aircraft, and charter flights, with seasonal traffic related to outdoor recreation in the Katahdin region.\n\nQ: Are there commercial airline services at MLT?\nA: No scheduled commercial airline service operates at Millinocket Municipal Airport; it is used mainly for private and charter aviation.\n\nQ: What recreational destinations are near the airport?\nA: Baxter State Park and Mount Katahdin are nearby, making the airport a gateway for hikers, climbers, and outdoor enthusiasts.\n\nQ: Is the airport open year-round?\nA: Yes, the airport operates year-round, though winter conditions can affect operations and visibility.\n\n",
+  "transport_tips": "The airport is located just a few miles from downtown Millinocket, making ground transportation quick and easy by rental car or taxi. Limited rideshare availability means arranging ground transport in advance is recommended. The nearest larger commercial airport is Bangor International Airport, about 70 miles south.",
+  "local_tip": "If flying in for a Katahdin hike, confirm your return flight well in advance as the small terminal has limited staff and weather-related delays are common in this mountainous region.",
+  "generatedAt": "2026-06-27T05:25:15.298Z",
+  "model": "MiniMax-M3"
+}

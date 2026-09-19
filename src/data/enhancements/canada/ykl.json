@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YKL",
+    "icao": "CYKL",
+    "name": "Schefferville Airport",
+    "country": "Canada",
+    "city": "Schefferville",
+    "lat": 54.8053,
+    "lon": -66.8053,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Schefferville Airport serves the remote subarctic town of Schefferville in northern Quebec, near the Labrador border, providing a vital air link for a community otherwise largely cut off from the rest of Canada. The airport was originally developed to support the region's significant iron ore mining operations, which once made Schefferville a major industrial hub. Today it remains an essential lifeline for the local Inuit and First Nations population, as well as for researchers, workers, and visitors to the surrounding tundra and boreal landscapes.",
+  "faqs": "Q: Where is Schefferville Airport located?\nA: The airport is situated in Schefferville, Quebec, in the subarctic region of northern Canada, close to the border with Labrador.\n\nQ: How do you get to Schefferville Airport?\nA: Most travelers reach the airport by connecting flights through Montreal or Quebec City, as road access is limited and the rail service to the town is seasonal.\n\nQ: What is the airport mainly used for?\nA: It primarily serves the local community, providing passenger transport, cargo, and medevac services, and historically supported iron ore mining operations in the region.\n\nQ: What are the weather conditions like at the airport?\nA: The airport experiences a harsh subarctic climate with long, extremely cold winters and short, mild summers, which can occasionally affect flight schedules.\n\n",
+  "transport_tips": "There are no major highways connecting Schefferville to the rest of Quebec; most visitors arrive via Air Inuit or PAL Airlines flights from Montreal or Quebec City. Ground transportation options are limited, so arranging a vehicle or pickup with a local contact in advance is strongly recommended. During winter months, flights can be delayed by severe weather, so building buffer days into your itinerary is wise.",
+  "local_tip": "Pack layered clothing even in summer—temperatures can swing dramatically from warm afternoons near 20°C to near-freezing nights, and a windproof outer layer is essential on the open tundra surrounding the town.",
+  "generatedAt": "2026-06-29T07:20:13.259Z",
+  "model": "MiniMax-M3"
+}

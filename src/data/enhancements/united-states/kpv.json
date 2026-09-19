@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KPV",
+    "icao": "PAPE",
+    "name": "Perryville Airport",
+    "country": "United States",
+    "city": "Perryville",
+    "lat": 55.9065,
+    "lon": -159.1609,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Perryville Airport is a small public-use airport serving the remote community of Perryville, located on the southern coast of the Alaska Peninsula. The facility primarily supports general aviation and provides essential access for residents of this isolated village, which is not connected to the road system. Its coastal Alaska Peninsula location offers dramatic scenery but also exposes it to challenging weather conditions typical of the region.",
+  "faqs": "Q: Where is Perryville Airport located?\nA: Perryville Airport is situated near the community of Perryville on the Alaska Peninsula in southwestern Alaska, United States.\n\nQ: What type of aircraft use this airport?\nA: The airport primarily serves small general aviation aircraft, including bush planes and small commuter aircraft that connect the village to larger hubs.\n\nQ: Are there commercial airline services at Perryville Airport?\nA: Scheduled commercial service is very limited; most flights are charter or on-demand operations serving the local community.\n\nQ: What weather challenges should travelers expect?\nA: The airport frequently experiences fog, high winds, and rapidly changing weather due to its coastal location near the Pacific Ocean and North Pacific weather systems.\n\n",
+  "transport_tips": "Perryville is not connected by road to other communities, so access is primarily by air or by boat. Travelers typically arrange flights from Anchorage via larger regional airports such as King Salmon. Ground transportation in Perryville is generally limited to local arrangements with residents or the charter operator.",
+  "local_tip": "Book flexible tickets and allow extra days in your itinerary—Alaska Peninsula weather frequently grounds small aircraft, and rescheduling the next available flight can take a day or two during poor conditions.",
+  "generatedAt": "2026-06-26T21:28:31.119Z",
+  "model": "MiniMax-M3"
+}

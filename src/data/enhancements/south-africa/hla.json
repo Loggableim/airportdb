@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HLA",
+    "icao": "FALA",
+    "name": "Lanseria International Airport",
+    "country": "South Africa",
+    "city": "Johannesburg",
+    "lat": -25.939,
+    "lon": 27.9266,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Lanseria International Airport is a privately-owned international airport situated in the northern outskirts of Johannesburg, serving as a popular alternative to the busier O.R. Tambo International Airport. It handles commercial scheduled flights, charter operations, and a significant volume of general aviation traffic. The airport is conveniently positioned near the Hartbeespoort Dam area and major business hubs in northern Johannesburg, Pretoria, and the West Rand.",
+  "faqs": "Q: How far is Lanseria Airport from central Johannesburg?\nA: Lanseria is approximately 32 km north-west of Johannesburg's city centre, typically a 35-50 minute drive depending on traffic.\n\nQ: Which airlines fly from Lanseria Airport?\nA: Lanseria hosts several low-cost and regional carriers, including FlySafair and CemAir, along with various charter operators.\n\nQ: Does Lanseria have international flights?\nA: Yes, Lanseria operates a limited number of international and regional flights, but most international long-haul services use O.R. Tambo International Airport.\n\nQ: Is Lanseria a public or private airport?\nA: Lanseria is one of the few privately-owned international airports in the world, operated by Lanseria Airport (Pty) Ltd.",
+  "transport_tips": "The most convenient way to reach Lanseria is by private car or rental vehicle via the N14 highway from Johannesburg or Pretoria. Ride-hailing services like Uber and Bolt operate at the airport, though availability can be limited compared to central areas. Several shuttle and door-to-door transfer services also run between Lanseria and major hotels in Sandton, Pretoria, and the West Rand.",
+  "local_tip": "If you have time between flights, the airport is just a short drive from the Cradle of Humankind UNESCO World Heritage Site and the Hartbeespoort Dam, both excellent for a quick local excursion.",
+  "generatedAt": "2026-06-28T19:39:06.675Z",
+  "model": "MiniMax-M3"
+}

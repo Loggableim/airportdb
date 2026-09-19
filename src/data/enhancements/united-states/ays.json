@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AYS",
+    "icao": "KAYS",
+    "name": "Waycross Ware County Airport",
+    "country": "United States",
+    "city": "Waycross",
+    "lat": 31.2491,
+    "lon": -82.3955,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Waycross Ware County Airport is a small general aviation facility serving Waycross, a city in southeastern Georgia often referred to as the 'Crossroads of the Great South' due to its historic role as a railroad junction. The airport primarily handles private aircraft, flight training, and recreational flying rather than scheduled commercial service. It provides convenient air access for visitors heading to the nearby Okefenokee Swamp and the broader Ware County region.",
+  "faqs": "Q: Does Waycross Ware County Airport offer commercial flights?\nA: No, AYS does not offer scheduled commercial airline service. It operates as a general aviation airport serving private pilots and aircraft.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, hangars, and tie-down areas for general aviation use, along with limited services for transient pilots.\n\nQ: How far is the airport from downtown Waycross?\nA: The airport is located a short drive from central Waycross, making it convenient for visitors to most areas of the city.\n\nQ: Can I fly into AYS for a visit to the Okefenokee Swamp?\nA: Yes, pilots frequently use the airport as a base for visiting the Okefenokee National Wildlife Refuge, which is one of Georgia's most notable natural attractions.",
+  "transport_tips": "Renting a car is the most practical way to reach the airport since there is no scheduled public transit directly serving it. The airport is just a few miles south of downtown Waycross, accessible via local roads. Taxi services and rideshares may be limited, so arranging ground transport in advance is recommended.",
+  "local_tip": "Plan a visit to the Okefenokee National Wildlife Refuge while in the area—it's one of the largest intact freshwater ecosystems in the world and only a short drive from the airport, offering canoeing, wildlife viewing, and photography opportunities.",
+  "generatedAt": "2026-06-27T01:12:25.808Z",
+  "model": "MiniMax-M3"
+}

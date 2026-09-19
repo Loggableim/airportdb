@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MBC",
+    "icao": "FOGG",
+    "name": "M'Bigou Airport",
+    "country": "Gabon",
+    "city": "M'Bigou",
+    "lat": -1.8931,
+    "lon": 11.9125,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "M'Bigou Airport is a small regional airfield serving the town of M'Bigou in the Ngounié Province of south-central Gabon. Nestled in a hilly, forested area of the Chaillu Mountains, it primarily supports light aircraft operations connecting remote interior communities to larger hubs such as Libreville and Franceville. The airport plays a vital role in regional access, medical evacuations, and charter flights rather than scheduled commercial service.",
+  "faqs": "Q: Does M'Bigou Airport have scheduled commercial flights?\nA: No, the airport primarily handles charter, private, and light aircraft operations rather than regular scheduled commercial service.\n\nQ: What facilities are available at M'Bigou Airport?\nA: As a small regional airfield, it offers basic infrastructure with a single runway and limited terminal amenities. Travelers should expect minimal services on site.\n\nQ: Can private or charter planes land at M'Bigou?\nA: Yes, the airport commonly accommodates charter and private aircraft, which are the main way visitors reach M'Bigou by air.\n\nQ: Is the airport suitable for medical evacuations?\nA: Yes, the airport supports medevac operations, which are essential for the remote Ngounié region.",
+  "transport_tips": "Reaching M'Bigou Airport typically requires arranging a charter or private flight in advance, as commercial service is not available. From the airfield, travelers can reach M'Bigou town center via short road transfers, usually by 4x4 vehicle or motorcycle taxi. Travelers coming from Libreville or Franceville should coordinate onward ground transport before arrival.",
+  "local_tip": "Flights to M'Bigou often operate best in the early morning, when the surrounding mountain valley fog tends to clear, so plan your arrival for before midday to avoid potential weather-related delays.",
+  "generatedAt": "2026-06-27T13:24:55.658Z",
+  "model": "MiniMax-M3"
+}

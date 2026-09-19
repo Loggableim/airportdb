@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KOI",
+    "icao": "EGPA",
+    "name": "Kirkwall Airport",
+    "country": "United Kingdom",
+    "city": "Kirkwall, Orkney Islands",
+    "lat": 58.9579,
+    "lon": -2.9051,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kirkwall Airport is the main aviation gateway to the Orkney Islands, located about 2.5 miles southeast of Kirkwall town centre on the archipelago's Mainland. It serves as a vital transport link for both residents and visitors travelling between Scotland's northern islands and the mainland, handling scheduled flights to destinations including Edinburgh, Glasgow, Aberdeen, Inverness, and Sumburgh in Shetland. The airport is particularly notable for its role in supporting inter-island connectivity and tourism to Orkney's renowned Neolithic heritage sites.",
+  "faqs": "Q: What airlines operate from Kirkwall Airport?\nA: Loganair is the primary airline serving Kirkwall, offering scheduled flights to several Scottish mainland cities and Sumburgh in Shetland.\n\nQ: How far is Kirkwall Airport from the town centre?\nA: The airport is approximately 2.5 miles (4 km) southeast of Kirkwall town centre, typically a 10-minute drive.\n\nQ: Are there car hire facilities at the airport?\nA: Yes, several car rental companies operate from Kirkwall Airport, and booking in advance is recommended, especially during the summer tourist season.\n\nQ: Can I fly directly to international destinations from Kirkwall?\nA: No, Kirkwall does not offer international flights; passengers must connect via Scottish mainland airports for overseas travel.",
+  "transport_tips": "Taxis are readily available outside the terminal and provide quick access to Kirkwall town or ferry terminals. There is no direct rail service to Orkney, so the airport and ferry terminals remain the primary arrival points for visitors. If driving, the airport offers on-site parking and easy access via the A961 road.",
+  "local_tip": "If visiting during summer, allow extra time for day trips to Ork",
+  "generatedAt": "2026-06-29T05:04:04.406Z",
+  "model": "MiniMax-M3"
+}

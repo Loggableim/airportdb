@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CFG",
+    "icao": "MUCF",
+    "name": "Jaime Gonzalez Airport",
+    "country": "Cuba",
+    "city": "Cienfuegos",
+    "lat": 22.15,
+    "lon": -80.4142,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Jaime Gonzalez Airport serves Cienfuegos, a coastal city in central-southern Cuba often called 'La Perla del Sur' (The Pearl of the South) for its elegant French-inspired neoclassical architecture. The airport, named after a notable Cuban aviator, handles primarily domestic flights and limited international charter operations. It provides the most convenient air access to Cienfuegos' UNESCO-listed historic center and the nearby Bay of Cienfuegos.",
+  "faqs": "Q: What airlines operate at Jaime Gonzalez Airport?\nA: The airport primarily serves Cuban domestic carriers such as Cubana de Aviación, with seasonal and charter international flights on select foreign carriers.\n\nQ: How far is the airport from Cienfuegos city center?\nA: Jaime Gonzalez Airport is located approximately 5-7 kilometers southeast of central Cienfuegos, typically a short 15-20 minute drive.\n\nQ: Does the airport have international flights?\nA: Yes, it receives limited international flights, mainly seasonal charters from Canada and European destinations, though Havana's José Martí International handles most international traffic to Cuba.\n\nQ: Are there customs and immigration facilities at CFG?\nA: Basic customs and immigration services are available for arriving international charter flights, though processing times may be longer than at larger Cuban airports.",
+  "transport_tips": "Taxis are the most practical option for getting to and from the airport, with official taxi ranks located outside the terminal building; it's advisable to agree on a fare before departure. Pre-arranging a hotel pickup or private transfer is recommended, especially for late arrivals, as public transport options are limited. Rental cars are available in Cienfuegos city rather than at the airport itself.",
+  "local_tip": "If you have time before your flight, visit the Palacio de Valle nearby the bay in Cienfuegos for sunset views and a final taste of Cuban cuisine—it's a short detour from the airport route and offers one of the best panoramas in southern Cuba.",
+  "generatedAt": "2026-06-29T11:21:11.521Z",
+  "model": "MiniMax-M3"
+}

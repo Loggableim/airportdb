@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SUS",
+    "icao": "KSUS",
+    "name": "Spirit of St Louis Airport",
+    "country": "United States",
+    "city": "St Louis",
+    "lat": 38.6621,
+    "lon": -90.652,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Spirit of St Louis Airport (SUS) is a medium-sized reliever airport located in Chesterfield, Missouri, approximately 25 miles west of downtown St Louis. Opened in 1964, it was named in honor of Charles Lindbergh's iconic aircraft and serves as a primary general aviation and corporate aviation gateway for the St Louis metropolitan area, easing congestion from Lambert–St. Louis International Airport. The airport features one of the longest civilian runways in the region and is home to a notable Vietnam Veterans Memorial.",
+  "faqs": "Q: What is Spirit of St Louis Airport primarily used for?\nA: It serves mainly as a reliever airport for Lambert–St. Louis International, handling general aviation, corporate jets, flight training, and charter operations rather than scheduled commercial airline service.\n\nQ: How far is the airport from downtown St Louis?\nA: The airport is located about 25 miles west of downtown St Louis in Chesterfield, Missouri, typically a 30-40 minute drive depending on traffic.\n\nQ: Are there commercial airlines that fly into SUS?\nA: No scheduled major commercial airline service operates at Spirit of St Louis; travelers typically use it for private aviation, charter flights, and flight schools.\n\nQ: What notable attractions are near the airport?\nA: The Greater St. Louis Air & Space Museum is located adjacent to the airport, and a Vietnam Veterans Memorial is on airport grounds.",
+  "transport_tips": "Rental cars are the most practical option since no public transit directly serves the airport, though rideshare services like Uber and Lyft do operate in the area. The airport is conveniently located near Interstate 64 (US-40), providing easy road access to both downtown St Louis and the western suburbs. On-site parking is available and generally ample, even during peak general aviation events.",
+  "local_tip": "If you have time before a flight, visit the Greater St. Louis Air & Space Museum right next to the airport—it features historic aircraft, space artifacts, and exhibits on Missouri's aviation heritage, and admission is typically free or low-cost.",
+  "generatedAt": "2026-06-29T03:04:10.416Z",
+  "model": "MiniMax-M3"
+}

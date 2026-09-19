@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DIA",
+    "icao": "OTBD",
+    "name": "Doha International Airport",
+    "country": "Qatar",
+    "city": "Doha",
+    "lat": 25.2594,
+    "lon": 51.5655,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Doha International Airport served as Qatar's primary aviation gateway for decades until commercial operations transferred to Hamad International Airport in 2014. Located just minutes from central Doha, the airport played a pivotal role in establishing Qatar Airways as a global carrier before its successor facility took over. Today, the airfield retains limited operations while the surrounding infrastructure has been repurposed.",
+  "faqs": "Q: Is Doha International Airport still in use?\nA: DIA handled its last commercial flights in May 2014 when operations moved to the new Hamad International Airport. It currently sees very limited activity, primarily for special aviation purposes.\n\nQ: What replaced Doha International Airport?\nA: Hamad International Airport (IATA: DOH), located about 4 km east of DIA, now serves as Qatar's main international hub.\n\nQ: Can travelers still fly from DIA?\nA: No scheduled commercial passenger services operate from DIA. All civilian flights now use Hamad International Airport.\n\nQ: Where is DIA located relative to Doha city center?\nA: The airport sits approximately 3-4 km from central Doha, making it one of the closest former international airports to a capital city center in the region.",
+  "transport_tips": "Since DIA no longer serves commercial passengers, travelers heading to Qatar should fly into Hamad International Airport instead. From Hamad, the Doha Metro Red Line provides a fast, affordable connection to the city center in under 20 minutes. Taxis and ride-hailing services like Karwa and Uber are also readily available at the new airport's arrivals level.",
+  "local_tip": "If you're visiting Qatar, book your arrival at Hamad International Airport and use the Doha Metro—it connects directly to major attractions like the Souq Waqif, Msheireb Downtown, and Katara Cultural Village without the hassle of traffic on the Corniche.",
+  "generatedAt": "2026-06-28T18:45:50.008Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DNS",
+    "icao": "KDNS",
+    "name": "Denison Municipal Airport",
+    "country": "United States",
+    "city": "Denison",
+    "lat": 41.9864,
+    "lon": -95.3807,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Denison Municipal Airport (DNS/KDNS) is a small general aviation facility serving Denison, Iowa, in the western part of the state. It primarily supports private aircraft, flight training, and recreational flying for the Crawford County region. The airport features a single runway and provides essential air access to this rural community known for its agricultural heritage and proximity to the Boyer River valley.",
+  "faqs": "Q: What type of airport is Denison Municipal Airport?\nA: It is a small general aviation airport primarily serving private pilots, recreational flyers, and local business aircraft rather than commercial airlines.\n\nQ: Are there commercial flights at DNS?\nA: No, Denison Municipal Airport does not offer scheduled commercial service. Travelers needing commercial flights typically use larger airports such as Eppley Airfield in Omaha, Nebraska.\n\nQ: What facilities are available at the airport?\nA: The airport offers a paved runway, basic pilot amenities, and tie-down areas for transient aircraft, along with self-service fuel for general aviation.\n\nQ: How can I find transportation from the airport?\nA: Since commercial service is not available, visitors typically arrange rental cars, taxi services, or rides from local contacts in Denison in advance.",
+  "transport_tips": "Renting a car is the most practical option for getting to and from Denison Municipal Airport, as public transportation in this rural area is limited. The airport is located just a few miles from downtown Denison, making ground transport a short trip. Contacting local taxi services or rideshare drivers ahead of time is recommended, as on-demand availability can be scarce.",
+  "local_tip": "If you're flying in for a visit, consider timing your trip with the Crawford County Fair, one of Iowa's oldest county fairs held annually in Denison in late July—it's a memorable showcase of the region's agricultural roots and small-town culture.",
+  "generatedAt": "2026-06-27T05:57:18.010Z",
+  "model": "MiniMax-M3"
+}

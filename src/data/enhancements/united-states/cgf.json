@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CGF",
+    "icao": "KCGF",
+    "name": "Cuyahoga County Airport",
+    "country": "United States",
+    "city": "Cleveland",
+    "lat": 41.5651,
+    "lon": -81.4864,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Cuyahoga County Airport (CGF/KCGF) is a medium-sized general aviation reliever airport serving the eastern suburbs of Cleveland, Ohio. Operated by the Cuyahoga County Airport Authority, it primarily handles business jets, private aircraft, flight training, and corporate aviation, helping to relieve congestion at the larger Cleveland Hopkins International Airport. The airport features multiple runways and is a key hub for regional private and corporate air travel in Northeast Ohio.",
+  "faqs": "Q: What type of airport is Cuyahoga County Airport?\nA: It is a general aviation reliever airport primarily serving private, corporate, and flight training aircraft rather than commercial airlines.\n\nQ: Does Cuyahoga County Airport offer commercial flights?\nA: No, it does not host scheduled commercial airline service. Cleveland Hopkins International Airport handles all commercial passenger flights in the Cleveland area.\n\nQ: What services are available at the airport?\nA: The airport provides fueling, aircraft maintenance, hangar rentals, flight instruction, and transient parking for private and business aircraft.\n\nQ: How can I access the airport from downtown Cleveland?\nA: The airport is located about 15 miles east of downtown Cleveland and is reachable by car via I-90 and local roads, taking roughly 25-35 minutes depending on traffic.",
+  "transport_tips": "A private vehicle, taxi, or rideshare service is the most practical way to reach the airport, as there is no public transit directly serving it. The facility is conveniently located near I-90, making it accessible from most parts of the Cleveland metro area. Rental cars and on-site pickup/drop-off are common for passengers arriving by chartered or private aircraft.",
+  "local_tip": "If you're flying in for business and have extra time, the nearby suburb of Highland Heights offers several good dining options just minutes from the airport, making it easy to grab a meal before or after your flight without driving into downtown Cleveland.",
+  "generatedAt": "2026-06-30T03:07:24.644Z",
+  "model": "MiniMax-M3"
+}

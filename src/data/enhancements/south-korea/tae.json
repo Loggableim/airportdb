@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TAE",
+    "icao": "RKTN",
+    "name": "Daegu International Airport",
+    "country": "South Korea",
+    "city": "Daegu",
+    "lat": 35.8944,
+    "lon": 128.657,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Daegu International Airport (TAE) is the primary gateway to South Korea's fourth-largest city, Daegu, and the broader North Gyeongsang Province. Situated in the western part of Daegu, roughly 10 km from the city center, it handles both domestic routes to Jeju and Seoul and a selection of international flights to destinations in East and Southeast Asia. The airport serves as a convenient alternative for travelers heading to the historic Gyeongsang region, known for Palgongsan Mountain, traditional temples, and Daegu's textile heritage.",
+  "faqs": "Q: How far is Daegu International Airport from the city center?\nA: The airport is approximately 10 km northwest of central Daegu, typically a 20-30 minute drive depending on traffic.\n\nQ: Does Daegu Airport have international flights?\nA: Yes, it operates limited international routes to cities in China, Japan, and Southeast Asia, alongside frequent domestic flights to Seoul Gimpo and Jeju.\n\nQ: Are there dining and shopping options at the airport?\nA: The terminal offers a modest selection of cafes, Korean restaurants, and convenience stores, though options are more limited than at Seoul's larger airports.\n\nQ: Is there a subway connection to Daegu Airport?\nA: Yes, Daegu Subway Line 2 connects to a station near the airport, providing affordable access to the city.",
+  "transport_tips": "Daegu Subway Line 2 stops near the airport, offering the most affordable route into the city in roughly 30 minutes. Airport limousine buses and city buses also serve major downtown destinations, including Dongdaegu Station for KTX high-speed rail transfers. Taxis are readily available at the curb and provide a fast, direct option, with fares to central Daegu typically reasonable.",
+  "local_tip": "If you have a short layover or early arrival, head to nearby Palgongsan Mountain—it's just a quick taxi ride away and offers temples, hiking trails, and the iconic Gatbawi Buddha statue for a uniquely Daegu experience.",
+  "generatedAt": "2026-06-28T23:00:17.065Z",
+  "model": "MiniMax-M3"
+}

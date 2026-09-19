@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FMO",
+    "icao": "EDDG",
+    "name": "Münster Osnabrück Airport",
+    "country": "Germany",
+    "city": "Greven",
+    "lat": 52.1338,
+    "lon": 7.6885,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Münster Osnabrück Airport (FMO) is a regional international airport located in Greven, serving both the city of Münster in North Rhine-Westphalia and Osnabrück in Lower Saxony. Named after the two cities it connects, it functions as a key gateway for the Münsterland region and handles both scheduled leisure flights and cargo operations. The airport sits roughly 25 km north of Münster and 35 km south of Osnabrück, making it a convenient shared facility for two mid-sized German urban centers.",
+  "faqs": "Q: Which cities does Münster Osnabrück Airport serve?\nA: It primarily serves Münster and Osnabrück, two university cities in northwestern Germany, along with the surrounding Münsterland and Osnabrücker Land regions.\n\nQ: How far is the airport from Münster city center?\nA: The airport is approximately 25 km north of Münster, reachable in about 30-40 minutes by car or express bus.\n\nQ: What airlines operate from FMO?\nA: The airport is served by several carriers including Lufthansa, SunExpress, Ryanair, and various seasonal charter airlines offering flights across Europe and to Mediterranean holiday destinations.\n\nQ: Does the airport operate 24 hours?\nA: No, FMO has limited operating hours with no flights typically scheduled during nighttime hours.",
+  "transport_tips": "The Airport Shuttle Bus (S50) connects the airport directly to Münster's main train station, with services also running to Osnabrück and Greven. Taxis and rideshare options are available outside the terminal, and the airport offers extensive parking facilities including short-term and long-term lots. Renting a car is straightforward with several agencies located in the terminal area, which is often the most convenient option for reaching destinations in the surrounding countryside.",
+  "local_tip": "If you have a long layover or early arrival, head to the airport's viewing terrace for plane spotting — the single-runway setup makes it easy to see all movements, and on clear days you can watch gliders from nearby Münster-Osnabrück airspace sharing the skies.",
+  "generatedAt": "2026-06-28T19:38:53.097Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ABA",
+    "icao": "UNAA",
+    "name": "Abakan International Airport",
+    "country": "Russia",
+    "city": "Abakan",
+    "lat": 53.74,
+    "lon": 91.385,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Abakan International Airport serves the capital city of the Republic of Khakassia in southern Siberia, Russia. Located just a few kilometers from the city center, it functions as the primary air gateway for the region and supports both domestic flights and seasonal international services. The airport plays a key role in connecting this remote Siberian area with major Russian cities like Moscow and Novosibirsk.",
+  "faqs": "Q: Where is Abakan International Airport located?\nA: The airport is situated near the city of Abakan, the capital of the Republic of Khakassia in southern Siberia, Russia, approximately 5-6 kilometers northwest of the city center.\n\nQ: Which airlines operate from Abakan Airport?\nA: The airport is primarily served by Russian carriers including S7 Airlines, Aeroflot, and regional operators providing domestic flights to cities such as Moscow, Novosibirsk, and Krasnoyarsk.\n\nQ: Does Abakan Airport handle international flights?\nA: Yes, it is classified as an international airport and has historically supported seasonal or charter international services, though most scheduled traffic is domestic.\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard amenities including a waiting hall, check-in counters, a small cafe, and basic passenger services typical of regional Russian airports.",
+  "transport_tips": "Taxis and marshrutka (fixed-route minibuses) are the most common ways to reach the airport from Abakan city center, with the journey taking roughly 15-20 minutes. Pre-booking a taxi through a local dispatcher or mobile app is recommended for reliability. Public bus routes also connect the airport to the city, though schedules may be infrequent, especially on weekends.",
+  "local_tip": "Khakassia is known for its ancient megalithic and kurgan sites, so if you have a long layover or early arrival, ask locals about nearby historical attractions rather than waiting at the terminal—many travelers overlook the region's rich archaeological heritage.",
+  "generatedAt": "2026-06-29T00:11:47.670Z",
+  "model": "MiniMax-M3"
+}

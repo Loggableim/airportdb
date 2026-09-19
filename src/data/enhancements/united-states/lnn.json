@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LNN",
+    "icao": "KLNN",
+    "name": "Lake County Executive Airport",
+    "country": "United States",
+    "city": "Willoughby",
+    "lat": 41.684,
+    "lon": -81.3897,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lake County Executive Airport is a general aviation facility situated in Willoughby, Ohio, serving the eastern suburbs of Cleveland and the broader Lake County region. Originally established as a local airfield, it has grown into a key reliever airport for Cleveland Hopkins, handling private, corporate, and flight training traffic. Its proximity to Lake Erie and easy access to Interstate 90 make it a convenient gateway for business and recreational flyers visiting Northeast Ohio.",
+  "faqs": "Q: What type of airport is Lake County Executive?\nA: It is a small public-use general aviation airport serving private, corporate, and flight training operations.\n\nQ: Does the airport offer commercial airline service?\nA: No, LNN does not have scheduled commercial flights; it is primarily used by general aviation and business aircraft.\n\nQ: Are there on-site amenities for pilots and passengers?\nA: Yes, the airport provides fueling services, hangar space, tie-downs, and basic pilot facilities including a terminal area.\n\nQ: What is the nearest major city?\nA: The airport is about 20 miles northeast of downtown Cleveland, in the heart of Lake County.",
+  "transport_tips": "The airport is easily reached via Interstate 90, with the Willoughby/Lake County exit providing direct access to the airfield. Rental cars are the most practical option for onward travel, as there is no public transit serving the airport directly. Rideshare services like Uber and Lyft are available but may have limited availability in this suburban area.",
+  "local_tip": "If you're visiting on a clear day, take a short drive north to Lake Erie's shoreline at nearby Headlands Beach State Park—it's one of the largest natural sand beaches in Ohio and a favorite spot for pilots stopping in for a break.",
+  "generatedAt": "2026-06-27T01:51:02.532Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SDM",
+    "icao": "KSDM",
+    "name": "Brown Field Municipal Airport",
+    "country": "United States",
+    "city": "San Diego",
+    "lat": 32.5726,
+    "lon": -116.98,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Brown Field Municipal Airport is a general aviation facility located in the Otay Mesa community of southern San Diego, near the U.S.-Mexico border. Originally established in the early 20th century and named after a pioneering local aviator, it serves as a reliever airport for San Diego International. The airport supports corporate jets, flight training, military operations, and is home to several aviation museums and skydiving operations.",
+  "faqs": "Q: Where is Brown Field Municipal Airport located relative to downtown San Diego?\nA: It is situated approximately 16 miles southeast of downtown San Diego in the Otay Mesa neighborhood, close to the U.S.-Mexico border crossing at Otay Mesa.\n\nQ: Does Brown Field offer commercial passenger service?\nA: No, Brown Field is a general aviation airport and does not handle scheduled commercial flights. It primarily serves private, corporate, and recreational aircraft.\n\nQ: What facilities are available at Brown Field?\nA: The airport offers fuel services, aircraft maintenance, hangars, tie-down parking, flight schools, and customs/border clearance facilities for international general aviation arrivals.\n\nQ: Is there a museum at Brown Field?\nA: Yes, the airport hosts the San Diego Air & Space Museum's Gillespie Annex and other aviation-related collections showcasing historic aircraft.",
+  "transport_tips": "The airport is most easily reached by car via Interstate 805 and State Route 905, with ample free parking available on the airfield. Rideshare services like Uber and Lyft operate in the area, though wait times can be longer than at San Diego International. Cross-border travelers can quickly reach Tijuana's Rodriguez International Airport, located just a few miles south.",
+  "local_tip": "Frequent visitors recommend timing arrivals for early morning to enjoy spectacular views of the Pacific and Laguna Mountains during approach, and to note that the airport's customs facility requires advance coordination through the CBP Decal program for international general aviation arrivals.",
+  "generatedAt": "2026-06-30T05:03:07.488Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BNO",
+    "icao": "KBNO",
+    "name": "Burns Municipal Airport",
+    "country": "United States",
+    "city": "Burns",
+    "lat": 43.5905,
+    "lon": -118.9552,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Burns Municipal Airport serves the remote high desert community of Burns, the seat of Harney County in eastern Oregon. It functions primarily as a general aviation facility, supporting ranching, wildlife management, and tourism access to nearby natural attractions such as the Malheur National Wildlife Refuge and Steens Mountain. The airport plays a vital role in connecting this geographically isolated region to broader air transport networks.",
+  "faqs": "Q: What is Burns Municipal Airport primarily used for?\nA: It serves general aviation, supporting private aircraft, charter flights, and air access for ranching, recreation, and emergency services in the region.\n\nQ: Are there commercial passenger flights available?\nA: Burns Municipal Airport does not typically offer scheduled commercial passenger service; visitors generally arrive via private aircraft or driving from larger regional airports.\n\nQ: What destinations can visitors reach from the airport by ground transportation?\nA: Travelers can drive to nearby attractions including the Malheur National Wildlife Refuge, Steens Mountain, and the John Day Fossil Beds National Monument.\n\nQ: Is the airport open to public use?\nA: Yes, it is a public-use facility available to general aviation pilots and passengers year-round.\n\n",
+  "transport_tips": "Renting a car in Burns is advisable since commercial ground transport options are limited in this rural area. The airport is located a short drive from downtown Burns, where visitors can find lodging, fuel, and basic supplies. Most travelers to the region either fly in privately or make the several-hour drive from larger airports in Bend or Boise.",
+  "local_tip": "Pilots flying in should note that the high desert location means summer afternoons can produce strong thermal activity, while winter brings occasional fog and icing conditions, so early morning arrivals often provide the smoothest experience.",
+  "generatedAt": "2026-06-26T07:40:37.500Z",
+  "model": "MiniMax-M3"
+}

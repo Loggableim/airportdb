@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DFW",
+    "icao": "KDFW",
+    "name": "Dallas Fort Worth International Airport",
+    "country": "United States",
+    "city": "Dallas-Fort Worth",
+    "lat": 32.8968,
+    "lon": -97.038,
+    "type": "large_airport",
+    "size": 1203175
+  },
+  "summary": "Dallas Fort Worth International Airport (DFW) is one of the largest and busiest airports in the world by passenger traffic, spanning over 17,000 acres between the cities of Dallas and Fort Worth in North Texas. Opened in 1974 as a modern replacement for older regional airports, it serves as the primary hub for American Airlines and the largest hub of any airline globally. The airport features five terminals connected by the Skylink, one of the fastest people-mover systems in the world, and is the only commercial airport in the United States with its own designated ZIP code (75261).",
+  "faqs": "Q: How many terminals does DFW have and how are they connected?\nA: DFW has five terminals labeled A through E. All terminals are connected post-security by the Skylink high-speed train, which runs every two minutes and completes a full loop in about 9 minutes. Terminals A, B, and C handle domestic and some international flights, while D and E primarily serve international routes.\n\nQ: Is DFW Airport in Dallas or Fort Worth?\nA: DFW is located in neither city proper but sits roughly equidistant between them in unincorporated territory. The mailing address uses the city designation of DFW Airport, Texas, and the airport has its own unique ZIP code.\n\nQ: How early should I arrive before my flight?\nA: For domestic flights, arriving 2 hours early is recommended; for international flights, allow at least 3 hours. DFW is a massive facility, so travelers should account for walking time between parking, check-in, and gates, especially if switching terminals.\n\nQ: Does DFW offer free Wi-Fi?\nA: Yes, DFW provides complimentary Wi-Fi throughout all terminals. Connect to the \"DFW Airport\" network and accept the terms; no password or payment is required for basic browsing.",
+  "transport_tips": "The Trinity Railway Express (TRE) commuter rail connects DFW directly to downtown Fort Worth and downtown Dallas for around $5, with stations at Terminal A and Terminal B. DART Orange Line light rail service runs between the airport and downtown Dallas via Terminal A, offering an affordable alternative to taxis and rideshares. For drivers, the airport offers multiple parking options including Terminal Parking, Express Parking with shuttle service, and remote lots with competitive daily rates.",
+  "local_tip": "If you have a long layover, consider visiting the Founders' Plaza observation area on the airport's north side, which offers free public outdoor viewing of aircraft operations and is especially spectacular during sunrise or sunset. Bring binoculars for the best views of takeoffs and landings from a spot that locals consider one of the best-kept secrets at DFW.",
+  "generatedAt": "2026-06-28T14:40:06.559Z",
+  "model": "MiniMax-M3"
+}

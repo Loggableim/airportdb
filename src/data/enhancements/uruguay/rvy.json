@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RVY",
+    "icao": "SURV",
+    "name": "Pres. Gral. Óscar D. Gestido Binational Airport",
+    "country": "Uruguay",
+    "city": "Rivera/Santana do Livramento",
+    "lat": -30.9746,
+    "lon": -55.4762,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Presidente General Óscar D. Gestido Binational Airport serves the twin cities of Rivera, Uruguay, and Santana do Livramento, Brazil, making it one of the few truly binational airports in South America. The airport supports regional connectivity across the Uruguay-Brazil border and is named after the Uruguayan president who served briefly in 1967. It handles a modest mix of domestic flights within Uruguay and limited cross-border services.",
+  "faqs": "Q: Which cities does this airport serve?\nA: The airport serves both Rivera (Uruguay) and Santana do Livramento (Brazil), as the two cities share an international border and function as a single urban area.\n\nQ: Are there flights to Brazil from this airport?\nA: Some regional operators have offered limited cross-border services historically, but most flights connect Rivera to Montevideo. Check current schedules as cross-border routes can be infrequent.\n\nQ: How large is Óscar D. Gestido Airport?\nA: It is classified as a medium-sized regional airport with a modest terminal and a single runway, handling primarily domestic and general aviation traffic.\n\nQ: Is the airport near the city center?\nA: Yes, the airport is located very close to the urban areas of both Rivera and Santana do Livramento, making transfers quick.",
+  "transport_tips": "Taxis are the most common way to reach either Rivera or Santana do Livramento from the airport, with short travel times due to the airport's proximity to the urban areas. Crossing the border on foot is straightforward, so visitors staying in the Brazilian side can cross easily. Rental cars are available but limited, so booking in advance is recommended for longer stays.",
+  "local_tip": "Because the two cities share a border with no physical separation, you can walk freely between Uruguay and Brazil here — grab a coffee in Rivera and lunch in Santana do Livramento without crossing a checkpoint.",
+  "generatedAt": "2026-06-29T21:42:01.740Z",
+  "model": "MiniMax-M3"
+}

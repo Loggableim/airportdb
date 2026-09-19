@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LNK",
+    "icao": "KLNK",
+    "name": "Lincoln Airport",
+    "country": "United States",
+    "city": "Lincoln",
+    "lat": 40.8449,
+    "lon": -96.7618,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Lincoln Airport (LNK) serves Nebraska's capital city and is the state's second-busiest airport, sitting approximately five miles northwest of downtown Lincoln. The airport serves as a key regional hub and hosts the Nebraska Air National Guard's 155th Air Refueling Wing, contributing to both civilian and military aviation activity. It provides scheduled commercial service and supports the surrounding community, including the nearby University of Nebraska.",
+  "faqs": "Q: How far is Lincoln Airport from downtown Lincoln?\nA: The airport is approximately 5 miles (8 km) northwest of downtown Lincoln, typically a 15-minute drive.\n\nQ: Does Lincoln Airport have military operations?\nA: Yes, it is home to the 155th Air Refueling Wing of the Nebraska Air National Guard, which operates KC-135 aircraft.\n\nQ: Are there nonstop flights to major cities from LNK?\nA: Lincoln Airport offers nonstop service to several hubs including Chicago, Denver, and other regional destinations, though routes vary by season.\n\nQ: Is there a restaurant or lounge at the airport?\nA: The terminal includes a small cafe and snack options, though amenities are limited compared to larger airports.",
+  "transport_tips": "Rental cars and taxis are the most common ground transport options at LNK, as there is no direct public bus service to the terminal. Rideshare services like Uber and Lyft are available and generally provide the most cost-effective and flexible way to reach the city. The airport is conveniently located near Interstate 80, making connections to Omaha and other regional destinations straightforward.",
+  "local_tip": "If you have time before your flight, visit the Lincoln Airpark on the airport's south side—a public outdoor area where you can watch aircraft operations and view historic military displays, including an A-7 Corsair II.",
+  "generatedAt": "2026-06-29T02:26:35.100Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DRG",
+    "icao": "PADE",
+    "name": "Deering Airport",
+    "country": "United States",
+    "city": "Deering",
+    "lat": 66.0689,
+    "lon": -162.7669,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Deering Airport is a small public-use airport serving the remote Iñupiat community of Deering on the Seward Peninsula in northwestern Alaska. It provides essential access for residents of this isolated village, located near the Bering Land Bridge National Preserve and the Chukchi Sea. The airport primarily supports passenger and cargo flights connecting the community to larger regional hubs.",
+  "faqs": "Q: What is the main purpose of Deering Airport?\nA: The airport primarily serves the local community of approximately 100 residents, providing essential passenger and mail/cargo transport to and from larger Alaskan cities like Nome and Kotzebue.\n\nQ: Are there scheduled commercial flights to Deering?\nA: Scheduled service is typically provided by small regional bush carriers operating aircraft suited for short, unpaved runways common in rural Alaska.\n\nQ: What is the climate like for flights into Deering?\nA: The airport is subject to harsh Arctic weather conditions including strong winds, fog, and snow, which can cause flight delays or cancellations, especially during winter months.\n\nQ: Are there rental cars or ground transportation at the airport?\nA: No commercial rental car services operate at the airport; ground transportation is typically arranged locally or through the airline.\n\n",
+  "transport_tips": "There are no public transportation options; visitors should coordinate ground transport with their local host or contact the airline in advance. The village is small enough that most destinations are within walking distance, and ATVs are common local transport. Plan for possible weather-related delays, particularly between October and April.",
+  "local_tip": "Bring all essential supplies with you since the nearest stores are in Nome, over 50 miles away, and local shops have very limited inventory.",
+  "generatedAt": "2026-06-29T22:15:48.216Z",
+  "model": "MiniMax-M3"
+}

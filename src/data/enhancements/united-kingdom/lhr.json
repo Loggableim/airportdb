@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LHR",
+    "icao": "EGLL",
+    "name": "London Heathrow Airport",
+    "country": "United Kingdom",
+    "city": "London",
+    "lat": 51.4707,
+    "lon": -0.4599,
+    "type": "large_airport",
+    "size": 1251675
+  },
+  "summary": "London Heathrow Airport is the busiest airport in the United Kingdom and one of the largest international aviation hubs in the world, located about 14 miles west of central London in the Borough of Hillingdon. Originally a small private airfield in the 1920s and a Royal Air Force base during World War II, it was renamed Heathrow in 1966 and now operates four passenger terminals serving over 60 million passengers annually. As the main hub for British Airways and a primary long-haul gateway for many global carriers, Heathrow connects London to more than 200 destinations across six continents.",
+  "faqs": "Q: How many terminals does London Heathrow have?\nA: Heathrow currently operates four passenger terminals: Terminal 2 (The Queen's Terminal), Terminal 3, Terminal 4, and Terminal 5. Terminal 1 was permanently closed in 2015.\n\nQ: What is the fastest way to get from Heathrow to central London?\nA: The Heathrow Express train is the fastest option, reaching London Paddington in about 15 minutes. The Elizabeth Line and the Piccadilly Line on the London Underground are cheaper alternatives, taking 30–45 minutes.\n\nQ: How early should I arrive at Heathrow before a flight?\nA: For short-haul flights, arrive at least 2 hours early; for long-haul flights, allow 3 hours. During peak travel periods, build in additional time for terminal access and security.\n\nQ: Is there free Wi-Fi at Heathrow Airport?\nA: Yes, Heathrow offers free Wi-Fi throughout all terminals. Connect to the 'Heathrow Wi-Fi' network and register with your email to browse for up to 4 hours per session.\n\n",
+  "transport_tips": "The Heathrow Express to Paddington is the quickest rail link but also",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T14:39:49.699Z",
+  "model": "MiniMax-M3"
+}

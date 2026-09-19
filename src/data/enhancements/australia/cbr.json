@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CBR",
+    "icao": "YSCB",
+    "name": "Canberra Airport",
+    "country": "Australia",
+    "city": "Canberra",
+    "lat": -35.3069,
+    "lon": 149.195,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Canberra Airport (CBR) is the primary aviation gateway to Australia's capital city, serving the Australian Capital Territory and surrounding regions. It operates as a dual-use facility alongside the adjacent Royal Australian Air Force (RAAF) base Fairbairn, sharing one of the longest runways in the Southern Hemisphere. The airport features a modern terminal with growing international connections, primarily serving government, business, and leisure travelers visiting Canberra.",
+  "faqs": "Q: How far is Canberra Airport from the city center?\nA: The airport is approximately 8 kilometers (5 miles) east of Canberra's city center, with a typical drive time of 10-15 minutes depending on traffic.\n\nQ: Does Canberra Airport have international flights?\nA: Yes, Canberra Airport offers international services to destinations such as Singapore and select Pacific routes, alongside its extensive domestic network.\n\nQ: Which airlines operate from Canberra Airport?\nA: Major carriers include Qantas, Virgin Australia, and Rex, with international services operated by airlines such as Singapore Airlines.\n\nQ: Is there public transport available to the airport?\nA: Yes, ACTION bus route 200 connects the airport to the city center, and several shuttle services and taxi ranks are available at the terminal.",
+  "transport_tips": "Renting a car is the most convenient option for exploring Canberra and surrounding regions, with multiple rental agencies located at the terminal. Taxi and rideshare services are readily available outside the arrivals hall, with fares to the city center typically around AUD $25-35. Pre-booked airport transfers are recommended during peak parliamentary sitting days when demand can surge.",
+  "local_tip": "Take advantage of the airport's outdoor viewing area near the terminal, where aviation enthusiasts can watch both civilian aircraft and RAAF military planes taking off and landing on the expansive runway.",
+  "generatedAt": "2026-06-29T03:02:20.697Z",
+  "model": "MiniMax-M3"
+}

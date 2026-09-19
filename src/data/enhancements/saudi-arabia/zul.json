@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZUL",
+    "icao": "OEZL",
+    "name": "Zilfi Airport",
+    "country": "Saudi Arabia",
+    "city": "Zilfi",
+    "lat": 26.35,
+    "lon": 44.833,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Zilfi Airport (IATA: ZUL, ICAO: OEZL) is a small regional airport serving the town of Az Zilfi in the Al-Qassim Region of central Saudi Arabia. Located in the heart of the Najd, it primarily supports general aviation and limited domestic operations. The airport provides convenient air access to this agricultural and trading community situated roughly between the larger regional centers of Buraidah and Al-Kharj.",
+  "faqs": "Q: What type of airport is Zilfi Airport?\nA: Zilfi Airport is classified as a small regional airport, primarily serving general aviation and limited domestic flights within Saudi Arabia.\n\nQ: Where is Zilfi Airport located?\nA: The airport is located near the town of Az Zilfi in the Al-Qassim Region of central Saudi Arabia, at coordinates 26.350°N, 44.833°E.\n\nQ: Does Zilfi Airport offer commercial passenger services?\nA: Commercial scheduled passenger service is very limited or unavailable. Travelers typically use larger airports such as Prince Naif bin Abdulaziz International Airport in Buraidah for commercial flights.\n\nQ: Who operates Zilfi Airport?\nA: As a domestic Saudi airport, it falls under the regulatory oversight of the General Authority of Civil Aviation (GACA) of Saudi Arabia.\n\n",
+  "transport_tips": "Travelers reaching Zilfi Airport should arrange ground transportation in advance, as the facility is small and on-demand taxi or private car services are the most common options. The airport is connected to Az Zilfi town and surrounding villages via regional highways, with road access typically being the primary means of onward travel. For those flying commercially, routing through Buraidah's Prince Naif bin Abdulaziz International Airport is usually more practical.",
+  "local_tip": "Frequent visitors recommend coordinating with local contacts for ground transport before arrival, as the airport does not have a dedicated ride-share pickup zone or regular public transit connections to the town center.",
+  "generatedAt": "2026-06-28T10:52:21.796Z",
+  "model": "MiniMax-M3"
+}

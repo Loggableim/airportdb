@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HLZ",
+    "icao": "NZHN",
+    "name": "Hamilton International Airport",
+    "country": "New Zealand",
+    "city": "Hamilton",
+    "lat": -37.867,
+    "lon": 175.332,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Hamilton International Airport (HLZ) serves the Waikato region on New Zealand's North Island, located approximately 10 km south of Hamilton's city center. Originally established as a Royal New Zealand Air Force base during World War II, it retains the 'International' designation from its military heritage. Today it primarily handles domestic flights and serves as a convenient alternative to the larger Auckland Airport, which is about 130 km to the north.",
+  "faqs": "Q: What airlines fly from Hamilton Airport?\nA: Air New Zealand operates regular domestic services to Auckland, Wellington, and Christchurch, providing key connections for Waikato region travelers.\n\nQ: How far is the airport from Hamilton city center?\nA: The airport is approximately 10 km south of the city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Does Hamilton Airport have international flights?\nA: The airport retains international-capable infrastructure from its military origins, though it currently focuses on domestic operations with occasional regional charter services.\n\nQ: Is parking available at the airport?\n",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T06:48:10.926Z",
+  "model": "MiniMax-M3"
+}

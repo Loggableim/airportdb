@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ASW",
+    "icao": "HESN",
+    "name": "Aswan International Airport",
+    "country": "Egypt",
+    "city": "Aswan",
+    "lat": 23.9611,
+    "lon": 32.8204,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Aswan International Airport (ASW/HESN) is the main air gateway to Egypt's southern Upper Egypt region, situated just a few kilometers from the Nile River and the city center. It serves as the primary access point for travelers visiting the UNESCO-listed Philae Temple, the Aswan High Dam, and the rock-cut temples of Abu Simbel. The airport handles a mix of domestic flights from Cairo and seasonal international charter services from Europe and the Middle East.",
+  "faqs": "Q: How far is Aswan Airport from the city center?\nA: The airport is located approximately 16 km southwest of central Aswan, typically a 20-30 minute drive depending on traffic.\n\nQ: Are there direct international flights to Aswan?\nA: Most international travelers connect through Cairo International Airport, though seasonal charter flights operate directly from several European cities during the winter tourist season.\n\nQ: Can I visit Abu Simbel from Aswan Airport?\nA: Yes, but most visitors travel to Abu Simbel by road (about 3 hours) or via short connecting flights from Aswan, often as part of organized day tours.\n\nQ: Is the airport open 24 hours?\nA: Operating hours vary by season and flight schedule; it's generally open during scheduled flight times rather than around the clock.",
+  "transport_tips": "Taxis and pre-arranged hotel transfers are the most common ways to reach central Aswan, with the journey taking roughly 20-30 minutes. Ride-hailing apps have limited availability in Aswan, so booking through your hotel or a reputable local taxi service is recommended. Car rental counters are available in the terminal but renting a driver is often more practical given local driving conditions.",
+  "local_tip": "If you have a layover or short stopover, the airport is conveniently close to the Nubian villages on the west bank, which offer authentic cultural experiences, traditional food, and colorful painted houses just a short drive across the river.",
+  "generatedAt": "2026-06-28T20:11:04.286Z",
+  "model": "MiniMax-M3"
+}

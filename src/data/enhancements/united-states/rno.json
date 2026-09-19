@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RNO",
+    "icao": "KRNO",
+    "name": "Reno Tahoe International Airport",
+    "country": "United States",
+    "city": "Reno",
+    "lat": 39.4991,
+    "lon": -119.768,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Reno Tahoe International Airport (RNO) serves as the primary gateway to Reno, Nevada, and the Lake Tahoe region, one of North America's most popular year-round outdoor recreation destinations. Located in the high desert just minutes from downtown Reno, the airport offers travelers easy access to world-class ski resorts, Lake Tahoe's scenic shores, and the city's renowned gaming and entertainment scene. It is one of the busiest airports in Nevada, accommodating millions of passengers annually.",
+  "faqs": "Q: How far is Reno Tahoe International Airport from downtown Reno?\nA: The airport is approximately 2 miles southeast of downtown Reno, typically a 10-15 minute drive depending on traffic.\n\nQ: Does the airport offer direct flights to international destinations?\nA: RNO primarily serves domestic routes, with most international travelers connecting through major hub airports in cities like Los Angeles, Denver, or San Francisco.\n\nQ: Is the airport open 24 hours?\nA: The terminal building hours vary by airline operations, but the airport facilities generally accommodate early morning and late night flights. Check with your airline for specific terminal hours.\n\nQ: Are there ski equipment storage facilities available?\nA: Yes, the airport provides convenient luggage and ski/snowboard storage options, especially useful during winter months when many travelers head to nearby Tahoe resorts.",
+  "transport_tips": "Taxis, rideshare services like Uber and Lyft, and rental car agencies are available at the terminal, making ground transportation straightforward. The RTC Bus Route 19 provides affordable public transit service between the airport and downtown Reno. For travelers heading to Lake Tahoe, rental cars are the most flexible option, as public transit to the resorts is limited.",
+  "local_tip": "If you're heading to ski resorts at Lake Tahoe, pack your gear in a bag that can handle both airport handling and mountain conditions—many locals swear by hard-sided ski cases to protect equipment on connecting flights.",
+  "generatedAt": "2026-06-28T17:20:08.929Z",
+  "model": "MiniMax-M3"
+}

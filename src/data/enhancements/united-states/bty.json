@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BTY",
+    "icao": "KBTY",
+    "name": "Beatty Airport",
+    "country": "United States",
+    "city": "Beatty",
+    "lat": 36.8611,
+    "lon": -116.787,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Beatty Airport is a small general aviation airfield serving the town of Beatty in Nye County, Nevada. Located near the eastern gateway to Death Valley National Park, it primarily accommodates private and recreational aircraft visiting the desert region. The airport operates as an unattended facility with basic infrastructure suited to light aircraft operations.",
+  "faqs": "Q: Is Beatty Airport open to the public?\nA: Yes, it is a public-use airport available for general aviation traffic, though it is unattended.\n\nQ: Does Beatty Airport have commercial airline service?\nA: No, it is a small general aviation airport with no scheduled commercial flights.\n\nQ: What facilities are available at the airport?\nA: The airport offers a basic runway and minimal amenities; pilots should arrange their own fuel and services in advance.\n\nQ: How close is the airport to Death Valley National Park?\nA: Beatty is one of the closest communities to the park's eastern entrance, located roughly 8 miles from the park boundary.",
+  "transport_tips": "Ground transportation is limited, so arranging a rental car or shuttle in advance is recommended. The town center is only a few miles from the airport and can be reached by a short taxi ride. Visitors flying in should coordinate pickup with local accommodations, as rideshare services are not reliably available in this remote area.",
+  "local_tip": "Pilots visiting Death Valley should fuel up and check weather conditions thoroughly before arrival, as Beatty's desert location means summer temperatures can severely impact aircraft performance and climb rates.",
+  "generatedAt": "2026-06-27T05:07:16.467Z",
+  "model": "MiniMax-M3"
+}

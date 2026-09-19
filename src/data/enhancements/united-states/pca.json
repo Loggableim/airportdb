@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PCA",
+    "icao": "PAOC",
+    "name": "Portage Creek Airport",
+    "country": "United States",
+    "city": "Portage Creek",
+    "lat": 58.9065,
+    "lon": -157.714,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Portage Creek Airport is a small public-use airport serving the remote village of Portage Creek in southwestern Alaska's Bristol Bay region. The airport provides essential air access to a small Yup'ik community situated near the Nushagak River, where road connections are limited or nonexistent. It primarily supports general aviation, mail delivery, and passenger services typical of rural Alaskan bush airports.",
+  "faqs": "Q: What is the main purpose of Portage Creek Airport?\nA: The airport serves as a vital transportation link for the small remote community of Portage Creek, supporting passenger travel, mail delivery, and cargo transport, as the village has limited road access.\n\nQ: What kind of aircraft typically use this airport?\nA: Small single-engine propeller aircraft and bush planes are the most common, as the airport is designed for general aviation operations typical of remote Alaskan communities.\n\nQ: Are there regular commercial flights to Portage Creek Airport?\nA: Scheduled commercial service is very limited; most flights are operated by regional bush carriers on demand or on infrequent schedules.\n\nQ: What is the closest larger town with more flight options?\nA: Dillingham, located nearby in the Bristol Bay region, has a larger airport with more frequent commercial service and connections to Anchorage.",
+  "transport_tips": "Access to the airport typically requires arranging transportation with a local bush carrier or charter service in advance, as regular scheduled service is limited. Visitors should plan for weather-related delays, as fog, low clouds, and strong winds in the Bristol Bay region frequently affect flight operations. Bringing essential supplies and allowing flexibility in travel plans is recommended, as the airport has minimal ground transportation infrastructure.",
+  "local_tip": "Pack waterproof gear and bear spray even for short visits—the surrounding tundra and river areas near Portage Creek are known for frequent rainfall and active brown bear populations, especially during salmon runs.",
+  "generatedAt": "2026-06-28T05:53:17.319Z",
+  "model": "MiniMax-M3"
+}

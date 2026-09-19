@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MUD",
+    "icao": "FQMD",
+    "name": "Mueda Airport",
+    "country": "Mozambique",
+    "city": "Mueda",
+    "lat": -11.6729,
+    "lon": 39.5631,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Mueda Airport is a medium-sized regional airport serving the town of Mueda in the Cabo Delgado Province of northern Mozambique. Situated in a plateau area of the province, it supports domestic connectivity for the local community and the surrounding agricultural region. The airport plays a role in linking this remote part of Mozambique to larger transport hubs in the country.",
+  "faqs": "Q: What type of airport is Mueda Airport?\nA: It is classified as a medium-sized regional airport serving domestic flights within Mozambique.\n\nQ: Where is Mueda Airport located?\nA: It is located near the town of Mueda in the Cabo Delgado Province of northern Mozambique, at coordinates approximately -11.673, 39.563.\n\nQ: Does Mueda Airport handle international flights?\nA: No, Mueda Airport primarily serves domestic regional traffic and is not a major international gateway.\n\nQ: What facilities are available at Mueda Airport?\nA: As a smaller regional airport, facilities are limited to basic terminal services typical of rural Mozambican airfields.",
+  "transport_tips": "Ground transport from the airport is typically arranged by local taxis or pre-booked transfers, as public transport options are limited. The town of Mueda is within a short drive of the airport, usually under 30 minutes depending on road conditions. Travelers heading to more distant destinations in Cabo Delgado Province should arrange private transport in advance, as road infrastructure in the region can be challenging.",
+  "local_tip": "Frequent visitors recommend carrying cash in Mozambican meticais for local transport and services, as card payment facilities and ATMs are scarce in the Mueda area.",
+  "generatedAt": "2026-06-26T10:32:41.236Z",
+  "model": "MiniMax-M3"
+}

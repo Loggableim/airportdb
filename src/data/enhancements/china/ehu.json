@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EHU",
+    "icao": "ZHEC",
+    "name": "Ezhou Huahu International Airport",
+    "country": "China",
+    "city": "Ezhou",
+    "lat": 30.3412,
+    "lon": 115.0393,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Ezhou Huahu International Airport (EHU) opened in July 2022, making it one of China's newest major airports. Located in Hubei Province roughly 100 km east of Wuhan, it was purpose-built as a dedicated air cargo and logistics hub, complementing Wuhan's passenger-focused airports. Its strategic position in central China has positioned it as a key freight gateway for the Yangtze River economic belt.",
+  "faqs": "Q: How far is Ezhou Huahu Airport from Wuhan?\nA: The airport is approximately 100 km east of central Wuhan, about a 90-minute drive depending on traffic.\n\nQ: Is Ezhou Huahu primarily a cargo or passenger airport?\nA: It is designed as a dual-purpose airport but is particularly significant as a cargo hub, developed in partnership with SF Express as a dedicated logistics gateway.\n\nQ: Are there public transport options from the airport to Ezhou city center?\nA: Yes, shuttle buses connect the airport to downtown Ezhou and to Wuhan, and taxi services are available.\n\nQ: What facilities does the airport offer for travelers?\nA: The terminal features standard amenities including dining, retail, lounges, and Wi-Fi, though it remains relatively modest given its newer and cargo-focused development.",
+  "transport_tips": "Taxi and ride-hailing services are the most convenient options for reaching downtown Ezhou, typically taking 30-40 minutes. Travelers heading to Wuhan should plan for a longer journey and consider pre-arranged transport, as the airport sits outside both city centers. A high-speed rail station is accessible from the broader Ezhou area, useful for onward connections.",
+  "local_tip": "If you're transiting through or visiting, keep in mind that the airport is built around cargo operations, so its flight schedule and terminal activity can be very different from typical passenger airports — check flight status in advance, especially for early morning or late evening departures.",
+  "generatedAt": "2026-06-29T00:44:35.753Z",
+  "model": "MiniMax-M3"
+}

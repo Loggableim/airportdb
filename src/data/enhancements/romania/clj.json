@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CLJ",
+    "icao": "LRCL",
+    "name": "Avram Iancu Cluj International Airport",
+    "country": "Romania",
+    "city": "Cluj-Napoca",
+    "lat": 46.786,
+    "lon": 23.6857,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Avram Iancu Cluj International Airport (CLJ) is the main gateway to Transylvania and the second-busiest airport in Romania, serving the vibrant university city of Cluj-Napoca. Named after the 19th-century Romanian revolutionary leader Avram Iancu, the airport sits roughly 7 km east of the city center and acts as a key hub for both domestic routes and seasonal European connections.",
+  "faqs": "Q: How far is Avram Iancu Cluj International Airport from the city center?\nA: The airport is approximately 7 km east of Cluj-Napoca's city center, with a typical drive taking 15-25 minutes depending on traffic.\n\nQ: Does the airport operate 24 hours?\nA: The terminal has limited overnight hours, but flight schedules generally cover early morning to late evening. Check with your airline for specific operating times.\n\nQ: What transportation options are available from the airport?\nA: Public bus line 5 connects the airport to the city center, and taxis and ride-hailing services are readily available outside the terminal.\n\nQ: Are there food and shopping options inside the terminal?\nA: Yes, the terminal features a small selection of cafes, snack bars, and duty-free shops, though options are more limited compared to major European hubs.",
+  "transport_tips": "Public bus line 5 runs between the airport and central Cluj-Napoca on a regular schedule and is the most affordable option. Taxis and ride-hailing services like Bolt are also available at the curb outside arrivals and offer a quick 15-minute ride into the city. If renting a car, allow extra time during rush hours as the route into central Cluj can get congested.",
+  "local_tip": "Frequent travelers recommend grabbing a coffee and a covrigi (Romanian pretzel) from one of the small kiosks just outside arrivals before heading into the city, the pretzels are a local favorite and much cheaper than terminal prices.",
+  "generatedAt": "2026-06-28T19:35:52.791Z",
+  "model": "MiniMax-M3"
+}

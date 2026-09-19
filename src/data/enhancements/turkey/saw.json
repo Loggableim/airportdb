@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SAW",
+    "icao": "LTFJ",
+    "name": "Istanbul Sabiha Gökçen International Airport",
+    "country": "Turkey",
+    "city": "Pendik, Istanbul",
+    "lat": 40.8986,
+    "lon": 29.3092,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Istanbul Sabiha Gökçen International Airport (SAW) is the secondary international gateway serving Istanbul, located on the Asian side in the Pendik district. Named after Sabiha Gökçen, the world's first female combat pilot and adopted daughter of Mustafa Kemal Atatürk, the airport opened in 2001 and has grown into a major hub for low-cost carriers, particularly Pegasus Airlines. It serves as a vital link between Istanbul and numerous destinations across Europe, the Middle East, and beyond.",
+  "faqs": "Q: How far is Sabiha Gökçen Airport from central Istanbul?\nA: The airport is located on the Asian side in Pendik, roughly 40-50 km from the historic city center on the European side, and about 30 km from Kadıköy on the Asian side, depending on traffic.\n\nQ: Does Sabiha Gökçen have a metro connection?\nA: Yes, the M4 metro line connects the airport to Kadıköy on the Asian side, with connections onward to other parts of Istanbul via ferry and other transit lines.\n\nQ: Which airlines operate from Sabiha Gökçen?\nA: Pegasus Airlines has its main hub here, and the airport also serves Turkish Airlines, AnadoluJet, and numerous international carriers including easyJet, Wizz Air, and others.\n\nQ: Is there a difference between Sabiha Gökçen and Istanbul Airport?\nA: Yes, Istanbul Airport (IST) on the European side is the larger primary hub, while Sabiha Gökçen (SAW) is the secondary airport, popular with low-cost and regional carriers.\n\n",
+  "transport_tips": "The M4 metro line provides a reliable and traffic-free connection to Kadıköy in about 45-50 minutes, making it the preferred option during rush hour. HAVATAŞ shuttle buses run to Taksim on the European side and to several Asian-side locations, with journey times varying significantly based on Istanbul's notorious traffic. Taxis are available 24/7 but agree on a fare or insist on using the meter, as long distances and bridge crossings can make fares unpredictable.",
+  "local_tip": "If you have a long layover or early arrival, the nearby Viaport Marina shopping complex is just a short taxi ride away and offers restaurants, shops, and waterfront views—a much more pleasant way to spend time than the terminal if you have luggage storage secured.",
+  "generatedAt": "2026-06-28T16:30:33.239Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OES",
+    "icao": "SAVN",
+    "name": "Antoine de Saint Exupéry Airport",
+    "country": "Argentina",
+    "city": "San Antonio Oeste",
+    "lat": -40.7512,
+    "lon": -65.0343,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Antoine de Saint Exupéry Airport (OES) is a small regional airport serving San Antonio Oeste, a coastal city in Río Negro Province, Argentina. The airport is named after the celebrated French aviator and author of 'The Little Prince,' a fitting tribute given Saint Exupéry's legacy in aviation. It primarily handles general aviation and limited regional flights, supporting the local fishing industry and tourism to the nearby Atlantic coast.",
+  "faqs": "Q: What is the airport named after?\nA: The airport is named after Antoine de Saint Exupéry, the French writer and pioneering aviator best known for authoring 'The Little Prince' and for his historic mail flights.\n\nQ: Which airlines operate at this airport?\nA: OES is primarily used by general aviation and occasional charter or regional services, with no major scheduled commercial carriers operating regularly.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, facilities are basic, typically including a small terminal building, limited parking, and minimal passenger services.\n\nQ: Is the airport near the coast?\nA: Yes, San Antonio Oeste sits along the Atlantic coast of Patagonia, and the airport is just a short distance from the waterfront and nearby beaches.\n\n",
+  "transport_tips": "The airport is located very close to the city center of San Antonio Oeste, typically reachable in under 10 minutes by taxi or remise (local taxi service). Rental cars are limited, so arranging ground transport in advance is advisable. There is no public bus service directly connecting the airport to the city.",
+  "local_tip": "If you have time before or after your flight, visit the nearby Las Grutas salt flats and coastal lagoons — the region around San Antonio Oeste is a hidden gem for birdwatching, especially flamingos, and far less crowded than Patagonia's better-known destinations.",
+  "generatedAt": "2026-06-26T17:26:48.583Z",
+  "model": "MiniMax-M3"
+}

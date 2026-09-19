@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NKG",
+    "icao": "ZSNJ",
+    "name": "Nanjing Lukou International Airport",
+    "country": "China",
+    "city": "Nanjing",
+    "lat": 31.735,
+    "lon": 118.8659,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Nanjing Lukou International Airport (NKG) is the primary aviation gateway for Nanjing, the historic capital of Jiangsu Province in eastern China. Opened in 1997 to replace the older Dajiaochang Airport, it sits approximately 35 km south of the city center in the Lukou area and features two passenger terminals serving both domestic and international routes. It functions as a major hub for China Eastern Airlines and connects Nanjing to destinations across Asia, Europe, and beyond.",
+  "faqs": "Q: How far is Nanjing Lukou International Airport from the city center?\nA: The airport is approximately 35 km south of downtown Nanjing, with typical travel times of 45-60 minutes by taxi or airport shuttle depending on traffic.\n\nQ: Does the airport have metro or rail service?\nA: Yes, Nanjing Metro Line S1 (Airport Line) connects the airport directly to the city center and Nanjing South Railway Station, providing a fast and affordable option.\n\nQ: How many terminals does NKG have?\nA: The airport operates two terminals: Terminal 1, which primarily handles domestic flights, and Terminal 2, which serves both domestic and international flights.\n\nQ: Is the airport open 24 hours?\nA: Terminal facilities operate according to flight schedules rather than 24 hours, though the airport generally accommodates early morning and late-night departures and arrivals.",
+  "transport_tips": "The Nanjing Metro Line S1 (Airport Line) is the most economical way to reach the city center, with trains running frequently and connecting to Nanjing South Railway Station. Taxis are readily available outside the terminals, but expect higher fares due to the distance. For intercity travel, the airport is well-connected to expressways, and many hotels offer shuttle services worth checking in advance.",
+  "local_tip": "If you have a long layover, consider visiting Nanjing's Confucius Temple (Fuzimiao) area in the city center via the metro line for an authentic taste of Ming Dynasty-era architecture and local snacks like duck blood soup, but make sure to allow at least 4-5 hours round trip including security and transit time.",
+  "generatedAt": "2026-06-28T20:26:51.571Z",
+  "model": "MiniMax-M3"
+}

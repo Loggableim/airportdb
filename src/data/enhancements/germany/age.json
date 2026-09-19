@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AGE",
+    "icao": "EDWG",
+    "name": "Wangerooge Airport",
+    "country": "Germany",
+    "city": "Wangerooge",
+    "lat": 53.7825,
+    "lon": 7.9196,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Wangerooge Airport (AGE/EDWG) is a small regional airfield serving the car-free East Frisian Island of Wangerooge in Germany's North Sea. It provides essential air connectivity for the island's roughly 1,300 residents and seasonal tourist traffic, complementing the regular ferry service from the mainland. The short runway and modest facilities reflect the island's small scale and environmentally sensitive surroundings within the Wadden Sea National Park.",
+  "faqs": "Q: Where is Wangerooge Airport located?\nA: The airport is situated on Wangerooge, one of the East Frisian Islands off Germany's North Sea coast in Lower Saxony.\n\nQ: Are there commercial flights to Wangerooge Airport?\nA: Yes, small regional aircraft operate scheduled and seasonal flights, typically connecting with airports on the German mainland such as Bremen or Harle.\n\nQ: Can I bring a car to Wangerooge?\nA: No, Wangerooge is a car-free island. Visitors arriving by air reach the village on foot, by bicycle, or via the island's narrow-gauge railway after landing.\n\nQ: Are there other transport options to the island?\nA: Passenger ferries run from Harlesiel on the mainland to Wangerooge's island port, offering an alternative to flying.\n\n",
+  "transport_tips": "Flights to Wangerooge are short but weather-dependent, as North Sea fog can cause delays or cancellations. After landing, the village center, beaches, and accommodations are within walking or cycling distance of the airfield, so heavy luggage should be manageable on foot. If your flight is cancelled, ferry service from Harlesiel is the most reliable backup route.",
+  "local_tip": "Pack a small daypack instead of checked luggage if possible, since you'll be walking from the apron to your hotel and the island's paths are best explored on foot or by rented bicycle.",
+  "generatedAt": "2026-06-26T19:39:38.427Z",
+  "model": "MiniMax-M3"
+}

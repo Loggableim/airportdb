@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VKG",
+    "icao": "VVRG",
+    "name": "Rach Gia Airport",
+    "country": "Vietnam",
+    "city": "Rach Gia",
+    "lat": 9.958,
+    "lon": 105.1324,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Rach Gia Airport (VKG) is a regional airport serving Rach Gia, the capital of Kien Giang Province in Vietnam's Mekong Delta region. It functions as an important gateway for travelers heading to the delta's coastal destinations, including Ha Tien and ferries onward to Phu Quoc Island. The airport features a single terminal handling primarily domestic flights and supports the area's growing tourism economy.",
+  "faqs": "Q: Which airlines operate from Rach Gia Airport?\nA: The airport is primarily served by Vietnam Airlines and VietJet Air, offering domestic connections to major Vietnamese cities.\n\nQ: How long does a flight from Ho Chi Minh City to Rach Gia take?\nA: The flight typically takes around one hour, making it a convenient alternative to the long overland journey through the Mekong Delta.\n\nQ: Does Rach Gia Airport have international flights?\nA: No, the airport currently handles domestic flights only. International travelers typically connect through Ho Chi Minh City or Hanoi.\n\nQ: Is there a lounge available at the terminal?\nA: The terminal is relatively small with limited amenities, so lounge facilities are minimal compared to larger Vietnamese airports.\n\n",
+  "transport_tips": "The airport is located approximately 7-10 km from central Rach Gia, with taxis and ride-hailing services readily available outside the terminal for the short journey into town. Motorbike taxis (xe om) are also an option for solo travelers with light luggage, and most hotels in the area can arrange airport pickup upon request.",
+  "local_tip": "If you're continuing to Phu Quoc Island, ask your hotel to arrange a combined taxi-plus-fast-ferry transfer rather than booking separately, as this is often cheaper and ensures ferry timing is coordinated with your arrival.",
+  "generatedAt": "2026-06-29T21:41:47.044Z",
+  "model": "MiniMax-M3"
+}

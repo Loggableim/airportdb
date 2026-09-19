@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CRD",
+    "icao": "SAVC",
+    "name": "General Enrique Mosconi International Airport",
+    "country": "Argentina",
+    "city": "Comodoro Rivadavia",
+    "lat": -45.7869,
+    "lon": -67.4634,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "General Enrique Mosconi International Airport serves Comodoro Rivadavia, the 'National Capital of Oil' in Patagonia, Argentina. Named after the founder of YPF (Argentina's state oil company), the airport is a vital gateway to southern Patagonia and the Chubut Province. Its location on the windswept Atlantic coast makes it a key hub for travelers heading to or from the Patagonia region, where weather can be notably challenging.",
+  "faqs": "Q: What is the main city served by CRD airport?\nA: The airport serves Comodoro Rivadavia, the largest city in Chubut Province and a major oil industry center in Argentine Patagonia.\n\nQ: How long does it take to fly from Buenos Aires to Comodoro Rivadavia?\nA: Direct flights from Buenos Aires typically take around 2.5 to 3 hours, depending on the departure airport.\n\nQ: Is the airport affected by weather delays?\nA: Yes, the region is known for strong Patagonian winds, which can occasionally cause flight delays or schedule changes, especially during winter months.",
+  "transport_tips": "The airport is located about 11 km (7 miles) north of central Comodoro Rivadavia, and taxis or remise services are the most convenient options, taking roughly 15 minutes to reach downtown. Rental cars are available at the terminal and are recommended for travelers planning to explore Patagonia's wider region. Public bus routes also connect the airport to the city center at a lower cost.",
+  "local_tip": "Pack a windproof jacket even in summer—Comodoro Rivadavia is famous for its gusty conditions year-round, and the airport's open-air parking and approach areas can be particularly exposed to sudden strong winds.",
+  "generatedAt": "2026-06-28T22:43:51.094Z",
+  "model": "MiniMax-M3"
+}

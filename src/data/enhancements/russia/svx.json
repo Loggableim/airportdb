@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SVX",
+    "icao": "USSS",
+    "name": "Koltsovo Airport",
+    "country": "Russia",
+    "city": "Yekaterinburg",
+    "lat": 56.7431,
+    "lon": 60.8027,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Koltsovo Airport (SVX) is the largest airport in Russia's Ural region and a key aviation hub serving Yekaterinburg, the country's fourth-largest city. Originally established in 1943 as a military airfield, it transitioned to civilian operations after World War II and has grown into a major international gateway. The airport serves as the primary hub for Ural Airlines and handles flights connecting Russia to destinations across Europe, Asia, and the Middle East.",
+  "faqs": "Q: How far is Koltsovo Airport from Yekaterinburg city center?\nA: The airport is located approximately 16 km (10 miles) southeast of the city center, typically a 30-40 minute drive depending on traffic.\n\nQ: Does Koltsovo Airport have a metro connection?\nA: Yes, the airport is served by the 'Koltsovo' station on the northern terminus of the Yekaterinburg Metro's Line 1, providing a direct rail link to the city.\n\nQ: Which airlines use Koltsovo as a hub?\nA: Ural Airlines has its main hub at Koltsovo, along with several other carriers including Pobeda and RusLine operating significant routes from the airport.\n\nQ: Does the airport have international flights?\nA: Yes, Koltsovo operates flights to numerous international destinations across Europe, Central Asia, the Middle East, and select African and Asian countries.\n\n",
+  "transport_tips": "The Yekaterinburg Metro Line 1 terminates at Koltsovo station, offering the most affordable and traffic-free route into the city in about 25 minutes. Buses and marshrutkas (route taxis) also connect the airport to various parts of Yekaterinburg, while official",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T17:06:59.362Z",
+  "model": "MiniMax-M3"
+}

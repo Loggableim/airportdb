@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VKV",
+    "icao": "",
+    "name": "Vaskovo Airport",
+    "country": "Russia",
+    "city": "Arkhangelsk",
+    "lat": 64.4417,
+    "lon": 40.4217,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Vaskovo Airport (VKV) is a regional airport serving Arkhangelsk, a major port city in northwestern Russia situated on the Northern Dvina River near the White Sea. It functions as a secondary airfield complementing the larger Talagi Airport, primarily handling regional and seasonal routes including flights to remote northern destinations such as the Solovetsky Islands. The airport supports connectivity for the Arkhangelsk Oblast, an area known for its Arctic timber industry and historic maritime heritage.",
+  "faqs": "Q: What is Vaskovo Airport primarily used for?\nA: Vaskovo Airport mainly serves regional and domestic flights within Russia, including routes to northern communities and island destinations like the Solovetsky Islands.\n\nQ: How does Vaskovo Airport relate to Talagi Airport?\nA: Vaskovo serves as a secondary airfield to Talagi Airport, handling some regional traffic while Talagi manages the bulk of scheduled commercial flights to Arkhangelsk.\n\nQ: When is the best time to fly to/from Vaskovo?\nA: Summer months (June through August) offer the most reliable weather and the widest selection of regional routes, as Arctic winter conditions can cause delays or cancellations.\n\nQ: Are there international flights from Vaskovo?\nA: No, Vaskovo is primarily a domestic regional airport with no scheduled international service.",
+  "transport_tips": "The airport is located relatively close to central Arkhangelsk, typically reachable by taxi or private car in around 20-30 minutes depending on traffic. Public bus services connect parts of Arkhangelsk to the Vaskovo area, though schedules may be limited. Travelers heading to remote northern destinations should arrange onward transport in advance.",
+  "local_tip": "If flying onward to the Solovetsky Islands or other remote northern monasteries and settlements, pack warm layers even in summer, as ferry and connecting transport at the destination can involve significant waiting in cold, windy conditions.",
+  "generatedAt": "2026-06-29T22:00:33.742Z",
+  "model": "MiniMax-M3"
+}

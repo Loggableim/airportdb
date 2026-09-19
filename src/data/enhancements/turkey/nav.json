@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NAV",
+    "icao": "LTAZ",
+    "name": "Nevşehir Kapadokya Airport",
+    "country": "Turkey",
+    "city": "Nevşehir",
+    "lat": 38.7719,
+    "lon": 34.5345,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Nevşehir Kapadokya Airport (NAV/LTAZ) is the primary gateway to Turkey's world-famous Cappadocia region, known for its surreal fairy chimneys, ancient cave dwellings, and underground cities. Located near the town of Gülşehir, the airport serves the central Anatolian plateau and handles a mix of domestic and seasonal international flights catering to the area's heavy tourism demand. The terminal, though relatively compact, is modern and efficiently designed to manage the steady flow of visitors heading to nearby destinations such as Göreme, Ürgüp, and Avanos.",
+  "faqs": "Q: How far is the airport from Göreme, the main tourist hub of Cappadocia?\nA: Göreme is approximately 30-40 km from the airport, typically a 30-45 minute drive depending on traffic and road conditions.\n\nQ: Which airlines operate flights to Nevşehir Kapadokya Airport?\nA: Turkish Airlines operates regular domestic flights from Istanbul, and several European carriers provide seasonal charter and scheduled services, particularly during peak tourist months.\n\nQ: Are there currency exchange and ATM services at the airport?\nA: Yes, the terminal offers ATMs and currency exchange offices, though rates may be less favorable than those in larger cities.\n\nQ: Does the airport have car rental counters?\nA: Yes, several international and local car rental agencies have desks inside the terminal, making it convenient to explore the Cappadocia region independently.",
+  "transport_tips": "Pre-booked shuttle services and private transfers are the most popular options, with shared shuttles available to Göreme, Ürgüp, and Avanos for a reasonable fee. Taxis are available outside the terminal but it's wise to confirm the fare to your destination before departure. Renting a car at the airport is highly recommended for travelers planning to explore multiple valleys and attractions across the region at their own pace.",
+  "local_tip": "If you're visiting during summer, opt for early morning or late afternoon flights and ground transfers—the midday heat in Cappadocia's open valleys can be intense, and arriving earlier lets you catch a stunning sunrise over a hot air balloon-filled sky from a panoramic viewpoint in Göreme.",
+  "generatedAt": "2026-06-28T21:36:37.112Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IAO",
+    "icao": "RPNS",
+    "name": "Siargao Airport",
+    "country": "Philippines",
+    "city": "Del Carmen",
+    "lat": 9.8591,
+    "lon": 126.014,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Siargao Airport (IAO) is a small domestic airport located in Del Carmen on Siargao Island in Surigao del Norte province, Philippines. It serves as the primary gateway to the island, which is internationally renowned as the 'Surfing Capital of the Philippines' thanks to the famous Cloud 9 surf break. The airport has undergone upgrades in recent years to accommodate growing tourist demand, though it remains a modest single-terminal facility.",
+  "faqs": "Q: What airlines fly to Siargao Airport?\nA: The airport is served primarily by Cebu Pacific and Philippine Airlines, with regular flights from Manila and Cebu.\n\nQ: How far is the airport from General Luna, the main tourist hub?\nA: General Luna, home to Cloud 9 and most surf resorts, is approximately 30-40 kilometers from the airport, requiring a 45-60 minute drive.\n\nQ: Is the airport open 24 hours?\nA: No, Siargao Airport operates during daylight hours only, with flights typically scheduled between early morning and late afternoon.\n\nQ: Are there ATMs and facilities at the airport?\nA: The terminal is small with basic amenities; it is advisable to bring Philippine pesos in advance as ATM availability can be limited.",
+  "transport_tips": "Tricycles and jeepneys are available outside the terminal for short-distance travel, but most visitors arrange pre-booked vans or motorcycles to reach General Luna and Cloud 9. Shared shuttle services and private car hires can be arranged through hotels or booking apps in advance. Roads on Siargao are mostly paved on main routes but can be bumpy in some areas, so plan for longer travel times during rainy weather.",
+  "local_tip": "Book your airport transfer before arrival—last-minute rides can be scarce during peak surf season (August-November), and shared vans leaving the airport fill up quickly when multiple flights land simultaneously.",
+  "generatedAt": "2026-06-26T20:15:42.258Z",
+  "model": "MiniMax-M3"
+}

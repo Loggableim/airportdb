@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BYR",
+    "icao": "EKLS",
+    "name": "Læsø Airport",
+    "country": "Denmark",
+    "city": "Læsø",
+    "lat": 57.2772,
+    "lon": 11.0001,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Læsø Airport (BYR/EKLS) is a small regional airfield serving Læsø, a remote Danish island in the Kattegat between Jutland and Sweden. The airport provides essential air connectivity for the island's small community and seasonal visitors, complementing the ferry service from Frederikshavn on the Danish mainland. Its modest infrastructure reflects the island's quiet, nature-focused character.",
+  "faqs": "Q: Which airlines operate flights to Læsø Airport?\nA: The airport has historically been served by small regional carriers offering limited scheduled and charter flights; service availability is typically seasonal and should be checked with local operators.\n\nQ: How far is the airport from Læsø's main town?\nA: The airport is located a short drive from Byrum, the island's main settlement, making ground transfers quick and straightforward.\n\nQ: Can private aircraft land at Læsø Airport?\nA: Yes, the airport accommodates general aviation and private flights, though prior coordination with the airfield is recommended due to limited staffing.\n\nQ: Is there an alternative way to reach Læsø?\nA: Yes, a regular ferry operates between Frederikshavn on the Jutland mainland and the island, which is the most common means of access.",
+  "transport_tips": "Ground transport options at the airport are limited, so arranging a rental car, bicycle, or taxi in advance is advisable, especially outside scheduled flight times. The ferry terminal at Vesterø Havn is the island's main link to mainland Denmark and operates year-round. For visitors combining air and sea travel",
+  "local_tip": "",
+  "generatedAt": "2026-06-26T19:40:06.289Z",
+  "model": "MiniMax-M3"
+}

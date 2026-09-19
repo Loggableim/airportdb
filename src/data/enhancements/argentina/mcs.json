@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MCS",
+    "icao": "SARM",
+    "name": "Monte Caseros Airport",
+    "country": "Argentina",
+    "city": "Monte Caseros",
+    "lat": -30.2719,
+    "lon": -57.6402,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Monte Caseros Airport is a medium-sized regional airport serving the city of Monte Caseros in Corrientes Province, northeastern Argentina. Located near the Uruguay River border, it primarily supports general aviation and occasional commercial flights connecting the remote province with larger Argentine hubs. The airport plays an important role for the local community in a region known for citrus production and proximity to Uruguayan border crossings.",
+  "faqs": "Q: What is the IATA code for Monte Caseros Airport?\nA: The IATA code is MCS, and the ICAO code is SARM.\n\nQ: Where is Monte Caseros Airport located?\nA: It is situated near the city of Monte Caseros in Corrientes Province, Argentina, close to the Uruguay border.\n\nQ: Does Monte Caseros Airport offer commercial flights?\nA: Scheduled commercial service is limited; the airport primarily serves general aviation and private aircraft, with occasional regional flights.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers basic passenger amenities and aviation services typical of small Argentine provincial airports.",
+  "transport_tips": "The airport is located a short drive from downtown Monte Caseros, making taxi or remise services the most practical option for transfers. Renting a car locally is advisable if you plan to explore the surrounding countryside or cross into Uruguay. There is no regular public bus service connecting the airport to the city center.",
+  "local_tip": "If visiting Monte Caseros, take time to explore the historic Plaza Independencia and the nearby Uruguay River waterfront; the town is also a gateway to the Granja Tres Arroyos citrus estates, which are a cornerstone of the local economy.",
+  "generatedAt": "2026-06-26T13:22:03.008Z",
+  "model": "MiniMax-M3"
+}

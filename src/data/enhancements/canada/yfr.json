@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YFR",
+    "icao": "CYFR",
+    "name": "Fort Resolution Airport",
+    "country": "Canada",
+    "city": "Fort Resolution",
+    "lat": 61.1808,
+    "lon": -113.69,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Fort Resolution Airport (YFR/CYFR) is a medium-sized airport serving the small Dene community of Fort Resolution in Canada's Northwest Territories. Located on the shores of Great Slave Lake, it provides essential air access to the remote hamlet, which is otherwise only reachable by ice road in winter or boat in summer. The airport is a vital lifeline for residents, supporting passenger travel, mail delivery, and medical evacuations.",
+  "faqs": "Q: What is Fort Resolution Airport used for?\nA: The airport primarily serves the local community of Fort Resolution, providing passenger flights, cargo, and medical evacuation services. It connects residents to larger hubs like Yellowknife.\n\nQ: Are there scheduled commercial flights to Fort Resolution?\nA: Scheduled air service is limited but available through regional carriers serving northern communities. Flights are often weather-dependent due to the remote subarctic location.\n\nQ: How far is the airport from the town of Fort Resolution?\nA: The airport is located a short distance from the hamlet center, making it easily accessible by vehicle or local transportation.\n\nQ: What facilities are available at Fort Resolution Airport?\nA: The airport is a basic facility with a small terminal building. There are no extensive amenities, so travelers should bring any necessary supplies with them.",
+  "transport_tips": "Most travelers reach the airport by personal vehicle, as Fort Resolution is a small community with limited taxi services. Parking is available near the terminal. Given the remote location, it's advisable to confirm flights in advance and arrange ground transportation before arrival.",
+  "local_tip": "Check weather forecasts carefully before traveling to Fort Resolution, as fog and changing conditions on Great Slave Lake frequently cause flight delays or cancellations, even in summer months.",
+  "generatedAt": "2026-06-26T08:50:08.894Z",
+  "model": "MiniMax-M3"
+}

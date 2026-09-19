@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GII",
+    "icao": "GUSI",
+    "name": "Siguiri Airport",
+    "country": "Guinea",
+    "city": "Siguiri",
+    "lat": 11.3998,
+    "lon": -9.1884,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Siguiri Airport (GII) is a small regional airport serving Siguiri, a town in northeastern Guinea renowned as the country's largest gold-mining hub. It primarily supports charter and corporate flights linked to the mining industry rather than scheduled commercial service. The airport sits on the outskirts of the town, providing essential air access to this remote part of Guinea near the Mali border.",
+  "faqs": "Q: What airlines operate at Siguiri Airport?\nA: Siguiri Airport is mainly used by charter and corporate flights tied to the gold mining industry, with limited or no regular scheduled passenger service.\n\nQ: How far is the airport from Siguiri town center?\nA: The airport is located on the outskirts of Siguiri, typically a short drive from the town center.\n\nQ: Does Siguiri Airport have immigration facilities?\nA: As a small regional airstrip, it has limited infrastructure and is primarily suited for domestic and charter operations.\n\nQ: What is Siguiri best known for?\nA: Siguiri is best known for its extensive gold mining operations, being home to one of West Africa's largest open-pit gold mines.\n\n",
+  "transport_tips": "Ground transport from the airport is typically by private car or hotel-arranged shuttle, as public transport options to the small terminal are limited. The road into Siguiri town is generally accessible, though conditions can vary during the rainy season. Visitors traveling for mining business usually have transport pre-arranged through their company or accommodation.",
+  "local_tip": "Always confirm your flight status directly with your operator before traveling, as charter schedules in this mining region can shift with little notice based on operational needs.",
+  "generatedAt": "2026-06-28T07:07:30.394Z",
+  "model": "MiniMax-M3"
+}

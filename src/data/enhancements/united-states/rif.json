@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RIF",
+    "icao": "KRIF",
+    "name": "Richfield Municipal Airport",
+    "country": "United States",
+    "city": "Richfield",
+    "lat": 38.7341,
+    "lon": -112.1016,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Richfield Municipal Airport (RIF) is a small general aviation airport serving Richfield, Utah, and the surrounding Sevier County region in central Utah. The airport provides a vital link for recreational flyers, business travel, and emergency services in this rural part of the state, situated near the scenic Fishlake National Forest and along Interstate 70. It features a single runway and basic facilities typical of community-owned municipal airports.",
+  "faqs": "Q: What facilities are available at Richfield Municipal Airport?\nA: As a small general aviation facility, RIF offers a single asphalt runway, tie-down parking, basic fuel services, and a small terminal area. There are no scheduled commercial airline services.\n\nQ: Is there commercial airline service at RIF?\nA: No, Richfield Municipal Airport does not offer scheduled commercial flights. It serves primarily private pilots, charter operations, and general aviation traffic.\n\nQ: What is the airport commonly used for?\nA: The airport supports private aviation, flight training, recreational flying, air ambulance operations, and serves as a convenient stopover for cross-country flights through central Utah.\n\nQ: Are there any nearby attractions for visitors flying into RIF?\nA: Yes, the area is close to Fishlake National Forest, Capitol Reef National Park, and several scenic byways, making it a popular gateway for outdoor recreation enthusiasts.",
+  "transport_tips": "Since the airport has no commercial service, visitors typically arrive by private aircraft or drive via Interstate 70, which passes directly through Richfield. Rental cars may need to be arranged in advance from larger nearby cities, as on-site rental services are limited. Taxi and rideshare options are minimal in this rural community, so coordinating ground transport in advance is recommended.",
+  "local_tip": "Pilots flying into RIF should note that the airport's elevation and surrounding terrain can affect performance calculations, especially in summer's warmer temperatures. The nearby Fishlake National Forest offers spectacular fall colors and uncrowded camping if you have a few extra hours to explore.",
+  "generatedAt": "2026-06-27T02:06:52.319Z",
+  "model": "MiniMax-M3"
+}

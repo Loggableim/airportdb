@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YYQ",
+    "icao": "CYYQ",
+    "name": "Churchill Airport",
+    "country": "Canada",
+    "city": "Churchill",
+    "lat": 58.7392,
+    "lon": -94.065,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Churchill Airport (YYQ) is a medium-sized regional airport serving the remote subarctic town of Churchill, Manitoba, on the western shore of Hudson Bay. It functions as the primary gateway for visitors drawn to the area's world-famous polar bear and beluga whale tourism, as well as Northern Lights viewing. The airport has grown in strategic importance since the suspension of rail service to Churchill in 2017, making it the main year-round link to this isolated community.",
+  "faqs": "Q: What is Churchill Airport primarily used for?\nA: It serves as the main access point for Churchill, Manitoba, supporting ecotourism, research, and supply flights to one of Canada's most remote northern communities.\n\nQ: Which airlines fly into Churchill Airport?\nA: Calm Air operates scheduled passenger flights connecting Churchill with Winnipeg and other Manitoba destinations.\n\nQ: Why is Churchill such a popular destination?\nA: Churchill is known as the 'Polar Bear Capital of the World' and attracts visitors for polar bear viewing in autumn, beluga whale watching in summer, and aurora borealis viewing year-round.\n\nQ: Is the airport open year-round?\nA: Yes, Churchill Airport operates throughout the year, though weather conditions can occasionally disrupt flights during severe winter storms.\n\n",
+  "transport_tips": "Churchill is accessible mainly by air, with regular Calm Air flights connecting to Winnipeg James Armstrong Richardson International Airport. There is no all-weather road to Churchill, and passenger rail service has been suspended since 2017 due to track damage. Visitors should book flights well in advance during peak polar bear season in October and November.",
+  "local_tip": "Pack a warm layer in your carry-on even in summer—tarmac walks to small aircraft can be chilly and windy on the Hudson Bay coast",
+  "generatedAt": "2026-06-29T05:02:28.717Z",
+  "model": "MiniMax-M3"
+}

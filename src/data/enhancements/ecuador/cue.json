@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CUE",
+    "icao": "SECU",
+    "name": "Mariscal Lamar Airport",
+    "country": "Ecuador",
+    "city": "Cuenca",
+    "lat": -2.8895,
+    "lon": -78.9844,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mariscal Lamar Airport serves Cuenca, Ecuador's third-largest city, situated in the southern Andes at roughly 2,500 meters elevation. Named after the 19th-century Ecuadorian president and poet Vicente Rocafuerte's contemporary, the poet Juan Leon Mera's contemporary figure (Mariscal Lamar), the airport is the main aerial gateway to the Azuay region and its UNESCO-listed colonial city center. It handles domestic flights primarily connecting Cuenca with Quito and Guayaquil, and serves as an important hub for tourism to the nearby Cajas National Park.",
+  "faqs": "Q: How far is Mariscal Lamar Airport from Cuenca's historic center?\nA: The airport is approximately 3 km (about 2 miles) northeast of Cuenca's downtown area, typically a 10-15 minute drive depending on traffic.\n\nQ: Which airlines operate at Mariscal Lamar Airport?\nA: Domestic carriers including LATAM Ecuador and Avianca Ecuador operate regular flights, mainly connecting Cuenca with Quito (UIO) and Guayaquil (GYE).\n\nQ: Does the airport have international flights?\nA: Mariscal Lamar primarily handles domestic flights. Travelers seeking international connections typically fly through Quito's Mariscal Sucre International Airport.\n\nQ: Are there altitude considerations for travelers arriving at CUE?\nA: Yes, Cuenca sits at about 2,500 meters (8,200 feet) above sea level, so visitors may experience mild altitude effects and should stay hydrated upon arrival.",
+  "transport_tips": "Taxis and rideshares are the most common way to reach the airport, with the short trip to central Cuenca costing only a few dollars and taking roughly 10-15 minutes. The airport has limited public bus service, so arranging private transport in advance is advisable, especially for early morning departures. Several hotels in Cuenca offer airport shuttle services, which can be a convenient option for travelers with heavy luggage.",
+  "local_tip": "Pack a light jacket even in summer—Cuenca's high-altitude Andean climate means mornings and evenings can be surprisingly cool year-round, and the airport itself is not heated, so dressing in layers makes early flights much more comfortable.",
+  "generatedAt": "2026-06-29T06:11:27.077Z",
+  "model": "MiniMax-M3"
+}

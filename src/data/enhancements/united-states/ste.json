@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "STE",
+    "icao": "KSTE",
+    "name": "Stevens Point Municipal Airport",
+    "country": "United States",
+    "city": "Stevens Point",
+    "lat": 44.5452,
+    "lon": -89.5303,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Stevens Point Municipal Airport (STE) is a small general aviation airport serving the city of Stevens Point in central Wisconsin. Located just south of the city, it primarily handles private aircraft, flight training, and recreational flying, and supports the broader Portage County region. The airport is publicly owned and provides essential aviation access for a community known for the University of Wisconsin-Stevens Point and the surrounding natural beauty of central Wisconsin.",
+  "faqs": "Q: What type of airport is Stevens Point Municipal Airport?\nA: It is a small, publicly owned general aviation airport serving primarily private and recreational aircraft.\n\nQ: Does Stevens Point Municipal Airport offer commercial airline service?\nA: No, the airport does not offer scheduled commercial flights and is used mainly for general aviation, flight training, and private operations.\n\nQ: Are there aircraft rental or flight training services available at STE?\nA: Yes, the airport hosts flight training and aircraft-related services typical of a community general aviation facility.\n\nQ: What is the nearest major commercial airport to Stevens Point?\nA: Central Wisconsin Airport (CWA) in Mosinee is the closest airport offering commercial airline service, located roughly 25 miles northwest of Stevens Point.\n\n",
+  "transport_tips": "The airport is a short drive south of downtown Stevens Point, making it convenient for those using private or chartered aircraft. Rental cars and rideshare services are available in the city, though on-site rental counters are limited. Visitors arriving from outside the region typically connect through Central Wisconsin Airport (CWA) in Mosinee for commercial flights.",
+  "local_tip": "If you're flying into STE, plan your fuel stops in advance—Stevens Point is a popular refueling point for pilots traveling through central Wisconsin, and the friendly local pilots are often happy to share tips on the best restaurants downtown, especially the legendary locally brewed beers the city is known for.",
+  "generatedAt": "2026-06-27T03:38:07.102Z",
+  "model": "MiniMax-M3"
+}

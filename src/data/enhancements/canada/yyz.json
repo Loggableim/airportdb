@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YYZ",
+    "icao": "CYYZ",
+    "name": "Toronto Pearson International Airport",
+    "country": "Canada",
+    "city": "Toronto",
+    "lat": 43.6759,
+    "lon": -79.6294,
+    "type": "large_airport",
+    "size": 1040275
+  },
+  "summary": "Toronto Pearson International Airport (YYZ) is Canada's largest and busiest airport, serving as the primary hub for Air Canada and a major gateway for international travel. Located in Mississauga, approximately 22 km west of downtown Toronto, it is named after Lester B. Pearson, the former Canadian Prime Minister and Nobel Peace Prize laureate. Originally opened in 1939 as Malton Airport, it now handles over 40 million passengers annually across two main terminals.",
+  "faqs": "Q: How far is Toronto Pearson from downtown Toronto?\nA: The airport is located about 22 km (14 miles) west of downtown Toronto, typically a 25-40 minute drive depending on traffic.\n\nQ: Does Toronto Pearson have a train connection to the city?\nA: Yes, the UP Express connects Terminal 1 to Union Station in downtown Toronto in about 25 minutes, with trains running every 15 minutes.\n\nQ: Which terminals does Toronto Pearson have?\nA: The airport operates two main terminals: Terminal 1 (primarily Air Canada and Star Alliance carriers) and Terminal 3 (used by other airlines including WestJet and most international carriers).\n\nQ: Is there a hotel connected to Toronto Pearson?\nA: Yes, the Sheraton Gateway Hotel is directly connected to Terminal 1, and there is also a Hyatt Regency and Alt Hotel near the airport grounds.",
+  "transport_tips": "The UP Express train is the fastest and most reliable way to reach downtown Toronto, avoiding traffic congestion. Taxis and rideshares to downtown typically cost $50-70 CAD and can take significantly longer during rush hour. If driving, the airport is accessible via Highways 427, 401, and 407, with several parking options including a Value Park Lot with shuttle service.",
+  "local_tip": "If you have a long layover, take the UP Express to Union Station and enjoy a quick visit to the CN Tower or the Harbourfront area, both within walking distance of the station—the round-trip train ticket is often cheaper than an airport meal.",
+  "generatedAt": "2026-06-28T14:44:24.381Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MAM",
+    "icao": "MMMA",
+    "name": "General Servando Canales International Airport",
+    "country": "Mexico",
+    "city": "Matamoros",
+    "lat": 25.7699,
+    "lon": -97.5253,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "General Servando Canales International Airport (MAM/MMMA) serves the border city of Matamoros in the northeastern Mexican state of Tamaulipas, sitting directly across the Rio Grande from Brownsville, Texas. Named in honor of General Servando Canales, a 19th-century Mexican military leader and governor of Nuevo León and Tamaulipas, the airport functions primarily as a regional gateway with domestic flights connecting to Mexico City and other major hubs. Its strategic border location makes it a convenient alternative for travelers in the Lower Rio Grande Valley seeking access to Mexican destinations.",
+  "faqs": "Q: How far is General Servando Canales International Airport from downtown Matamoros?\nA: The airport is located approximately 10 kilometers (about 6 miles) southeast of downtown Matamoros, a short 15-20 minute drive depending on traffic.\n\nQ: Are there international flights from this airport?\nA: The airport primarily handles domestic flights within Mexico, with most routes connecting to Mexico City. Despite its border location, scheduled cross-border flights to the United States are limited or unavailable.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers basic passenger amenities including a terminal building, car rental counters, taxi services, and small food and retail concessions typical of regional Mexican airports.\n\nQ: Is it easy to cross into the United States from this airport?\nA: Yes, the airport's proximity to the Brownsville-Matamoros International Bridge and other border crossings makes it convenient for travelers continuing into South Texas. The Gateway International Bridge is just a short drive away.",
+  "transport_tips": "Taxis and app-based ride services are readily available outside the terminal and offer the most convenient way to reach Matamoros or the US border. Rental cars are available at the airport for those planning to explore the Tamaulipas region or drive into South Texas. If heading to Brownsville or the Rio Grande Valley, factor in potential border crossing wait times, which can vary significantly by time of day.",
+  "local_tip": "If you have a flight in the morning, consider staying at a hotel in Matamoros the night before rather than crossing from Brownsville early—border wait times can be unpredictable and you don't want to risk missing your flight due to a long line at the bridge.",
+  "generatedAt": "2026-06-29T09:53:45.936Z",
+  "model": "MiniMax-M3"
+}

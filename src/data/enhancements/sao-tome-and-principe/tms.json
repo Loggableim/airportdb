@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TMS",
+    "icao": "FPST",
+    "name": "São Tomé International Airport",
+    "country": "São Tomé and Principe",
+    "city": "São Tomé",
+    "lat": 0.3782,
+    "lon": 6.7122,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "São Tomé International Airport (TMS) is the primary international gateway to the island nation of São Tomé and Príncipe, located on the northeastern coast of São Tomé Island in the Gulf of Guinea. As the country's only major airport handling international flights, it serves as the main entry point for visitors exploring the archipelago's volcanic landscapes, cocoa plantations, and biodiverse rainforests. The airport supports both scheduled regional flights to nearby African destinations and limited intercontinental connections.",
+  "faqs": "Q: How far is São Tomé International Airport from the city center?\nA: The airport is located approximately 5 km north of São Tomé city and typically takes 10-15 minutes by car.\n\nQ: What airlines operate at São Tomé International Airport?\nA: TAP Air Portugal, TAAG Angola Airlines, CEIBA Intercontinental, and Afrijet are among the carriers serving TMS, with connections primarily to Lisbon, Luanda, Libreville, and other regional African capitals.\n\nQ: Are there duty-free shops at the airport?\nA: Yes, there is a small duty-free area offering local products such as cocoa, coffee, and spirits, though the selection is limited compared to larger international airports.\n\nQ: Is the airport open 24 hours?\nA: The airport operates during scheduled flight hours and is not a 24-hour facility, so late-night or early-morning arrivals should be confirmed in advance.",
+  "transport_tips": "Taxis are readily available outside the terminal and are the most common way to reach the city; agree on a fare before departing as meters are rarely used. Many hotels and guesthouses offer airport pickup services, which can be arranged in advance for added convenience. Rental cars are available but driving conditions on the island can be challenging, with narrow roads and occasional unpaved sections.",
+  "local_tip": "Bring small denominations of dobra (the local currency) or euros for tips and small purchases, as change for larger bills can be hard to find at the airport and many local vendors prefer cash transactions.",
+  "generatedAt": "2026-06-28T21:52:26.413Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RSI",
+    "icao": "OERS",
+    "name": "Red Sea International Airport",
+    "country": "Saudi Arabia",
+    "city": "Hanak",
+    "lat": 25.628,
+    "lon": 37.0889,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Red Sea International Airport is a purpose-built aviation gateway serving Saudi Arabia's ambitious Red Sea tourism megaproject, designed to welcome visitors to a chain of luxury island and coastal resorts along the Red Sea coastline. Opened in 2024 as part of the Kingdom's Vision 2030 diversification plan, the airport sits in a remote desert location near the town of Hanak, roughly midway between the cities of Tabuk and Yanbu. The terminal is notable for its sustainable design and integration with the surrounding landscape, reflecting the eco-conscious ethos of the broader Red Sea Global development.",
+  "faqs": "Q: When did Red Sea International Airport open?\nA: The airport commenced commercial operations in 2024, making it one of the newest international airports in Saudi Arabia and a key element of the country's Vision 2030 tourism expansion plans.\n\nQ: What destinations does the airport serve?\nA: The airport primarily serves passengers traveling to the Red Sea resort islands and coastal developments, with airline routes expanding as the tourism project develops. Initial flights connect it to major Saudi hubs.\n\nQ: How far is the airport from the resort developments?\nA: The airport is situated inland near Hanak, while most resort islands are accessed by boat from coastal marinas. Overland transfers and seaplane services are being developed as the destination matures.\n\nQ: Is the airport designed with sustainability in mind?\nA: Yes, the airport follows sustainable design principles aligned with the Red Sea Global project's environmental commitments, aiming to be powered significantly by renewable energy.",
+  "transport_tips": "Ground transportation options are currently limited given the airport's remote location and early operational stage, with most travelers relying on pre-arranged hotel transfers or private vehicles. The drive from Tabuk takes approximately 1.5 to 2 hours via desert highways, while Yanbu is reachable in a similar timeframe to the south. Travelers should confirm transfer arrangements with their resort in advance, as public transport and ride-hailing services are not yet established in this area.",
+  "local_tip": "Pack light, breathable clothing and sun protection—the airport and surrounding region experience extreme desert heat, and the contrast with the cooler resort islands can be stark, so having layers for boat transfers is advisable.",
+  "generatedAt": "2026-06-29T01:35:10.787Z",
+  "model": "MiniMax-M3"
+}

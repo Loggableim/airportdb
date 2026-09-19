@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TLN",
+    "icao": "LFTH",
+    "name": "Toulon-Hyères Airport",
+    "country": "France",
+    "city": "Hyères, Var",
+    "lat": 43.0973,
+    "lon": 6.146,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Toulon-Hyères Airport (TLN/LFTH) is a medium-sized regional airport located on the French Riviera, serving the Toulon-Hyères metropolitan area in the Var department of southeastern France. Situated near the Mediterranean coast, it provides convenient access to popular destinations including the Giens peninsula, the Îles d'Hyères (including Porquerolles), and the wider Provence region. The airport shares its grounds with a French Navy airbase, reflecting the area's long military aviation history.",
+  "faqs": "Q: How far is Toulon-Hyères Airport from the city of Toulon?\nA: The airport is approximately 18 km southeast of Toulon, about a 25-minute drive via the A570 motorway.\n\nQ: Are there direct flights from TLN to Paris?\nA: Historically, seasonal flights to Paris and other French cities have been offered by regional carriers, though service varies by season.\n\nQ: Can I reach the Îles d'Hyères from the airport?\nA: Yes, the ferry terminals for the Îles d'Hyères, including Porquerolles, are located in Hyères just a short drive from the airport.\n\nQ: Is the airport open 24 hours?\nA: No, TLN operates during scheduled flight hours only and is not a 24-hour facility.",
+  "transport_tips": "The most convenient way to reach the airport is by car via the A570 motorway from Toulon or the A57 from the wider Var region. Public bus services connect Hyères town and nearby areas to the airport, though service frequency may be limited. Taxi and ride-share options are available but should be booked in advance, especially during off-peak hours.",
+  "local_tip": "If you have time before your flight, visit the nearby Villa Noailles in Hyères, a striking modernist landmark designed by Robert Mallet-Stevens and a key site in the history of 20th-century art and architecture.",
+  "generatedAt": "2026-06-29T05:34:55.294Z",
+  "model": "MiniMax-M3"
+}

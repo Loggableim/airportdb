@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DPO",
+    "icao": "YDPO",
+    "name": "Devonport Airport",
+    "country": "Australia",
+    "city": "Devonport",
+    "lat": -41.1697,
+    "lon": 146.43,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Devonport Airport (DPO) is a regional airport on the northwest coast of Tasmania, serving the port city of Devonport. It functions as a key gateway for travelers connecting with the Spirit of Tasmania ferry terminal, which links the island state to mainland Australia. The airport handles primarily domestic flights to Melbourne and is a vital link for Tasmania's tourism and agricultural export regions.",
+  "faqs": "Q: What airlines fly from Devonport Airport?\nA: QantasLink operates regular services to Melbourne, with Sharp Airlines providing flights to King Island and Burnie (Wynyard).\n\nQ: How far is Devonport Airport from the Spirit of Tasmania ferry terminal?\nA: The airport is approximately 10 km east of the ferry terminal, about a 15-minute drive.\n\nQ: Does Devonport Airport have international flights?\nA: No, it is a domestic-only airport. International travelers typically arrive via Hobart or Launceston airports.\n\nQ: Are there car rental services at the airport?\nA: Yes, several major car rental companies have counters or desks at the terminal, including Hertz, Budget, and Thrifty.\n\n",
+  "transport_tips": "Taxis and pre-booked shuttles are available at the terminal for the short trip into Devonport or to the Spirit of Tasmania ferry terminal. Hiring a car is highly recommended for exploring northwest Tasmania's attractions, including Cradle Mountain. The airport has free short-term parking directly outside the small terminal building.",
+  "local_tip": "If you're catching the Spirit of Tasmania ferry, ask your airline about through-ticketing options or pre-book a shuttle in advance—ferry sailings and flight schedules don't always align perfectly, so arriving a day early avoids any connection stress.",
+  "generatedAt": "2026-06-29T08:44:22.734Z",
+  "model": "MiniMax-M3"
+}

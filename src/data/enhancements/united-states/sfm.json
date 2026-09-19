@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SFM",
+    "icao": "KSFM",
+    "name": "Sanford Seacoast Regional Airport",
+    "country": "United States",
+    "city": "Sanford",
+    "lat": 43.3939,
+    "lon": -70.708,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Sanford Seacoast Regional Airport is a small public-use general aviation facility located in Sanford, Maine, serving the southern coastal region of the state. The airport sits in York County, approximately 40 miles southwest of Portland, and historically supported regional air travel and flight training operations. It features a single main runway and is popular among private pilots and recreational flyers exploring the New England coastline.",
+  "faqs": "Q: What type of airport is Sanford Seacoast Regional?\nA: It is a small general aviation airport primarily serving private, recreational, and flight training aircraft rather than commercial airlines.\n\nQ: Are there commercial flights available at SFM?\nA: No scheduled commercial passenger service operates at this airport; it is used mainly for general aviation purposes.\n\nQ: What facilities does the airport offer?\nA: The airport provides runway access, aircraft parking, and basic services for general aviation users, along with flight training opportunities.\n\nQ: How close is the airport to popular coastal destinations?\nA: The airport is within easy driving distance of Maine's southern beaches, Kennebunkport, and Portsmouth, New Hampshire.",
+  "transport_tips": "The airport is best reached by private vehicle, as there is no public transit directly serving the facility. Taxis and rideshare services are limited in the Sanford area, so arranging ground transportation in advance is recommended. The airport is conveniently located near Route 109, providing straightforward access to nearby towns and the Maine and New Hampshire coastlines.",
+  "local_tip": "Frequent visitors recommend stopping by the nearby Sanford shopping district or taking a short drive to the coast for fresh seafood after flying in, as the seacoast region offers some of Maine's most scenic dining spots within a 30-minute drive.",
+  "generatedAt": "2026-06-27T00:20:44.983Z",
+  "model": "MiniMax-M3"
+}

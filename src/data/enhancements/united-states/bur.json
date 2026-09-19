@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BUR",
+    "icao": "KBUR",
+    "name": "Hollywood Burbank/Bob Hope Airport",
+    "country": "United States",
+    "city": "Burbank",
+    "lat": 34.2028,
+    "lon": -118.3581,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Hollywood Burbank/Bob Hope Airport (BUR) is a compact, convenient gateway serving the Greater Los Angeles area, situated closer to downtown LA and Hollywood than LAX. Named after legendary entertainer Bob Hope, the airport sits in the heart of Burbank's media district and has long been favored by travelers seeking a faster, less hectic alternative to larger Southern California hubs. It offers a notably easy in-and-out experience with a single terminal layout and shorter walking distances.",
+  "faqs": "Q: How far is Hollywood Burbank Airport from downtown Los Angeles?\nA: The airport is approximately 12 miles northwest of downtown Los Angeles, typically a 25-40 minute drive depending on traffic.\n\nQ: Which airlines operate from Hollywood Burbank Airport?\nA: BUR is served by Southwest, Alaska Airlines, Spirit, JetBlue, American, Delta, and United, offering primarily domestic routes.\n\nQ: Is Hollywood Burbank Airport smaller than LAX?\nA: Yes, BUR is significantly smaller and handles far fewer passengers, making it faster for check-in, security, and baggage claim.\n\nQ: Does the airport operate 24 hours?\nA: No, BUR has historically enforced nighttime curfew restrictions to limit noise impact on surrounding residential neighborhoods.\n\n",
+  "transport_tips": "Renting a car is highly recommended as public transit options to BUR are limited compared to LAX. The Metrolink commuter rail has a station near the airport via a short shuttle connection, and Amtrak's Burbank station is nearby for rail travelers. Ride-shares and taxis are readily available at the terminal curb, though LA traffic can add significant time during rush hours.\n\n",
+  "local_tip": "Pack noise-canceling headphones—BUR's single runway sees a steady stream of regional jets departing over residential streets, and the open-air parking shuttle ride gives you a close-up look at planes landing just overhead, which locals find charming but first-timers often find startling.",
+  "generatedAt": "2026-06-28T18:10:36.744Z",
+  "model": "MiniMax-M3"
+}

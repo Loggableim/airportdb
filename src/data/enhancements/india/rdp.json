@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RDP",
+    "icao": "VEDG",
+    "name": "Kazi Nazrul Islam Airport",
+    "country": "India",
+    "city": "Durgapur",
+    "lat": 23.6225,
+    "lon": 87.243,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Kazi Nazrul Islam Airport (RDP/VEDG) is a domestic airport serving Durgapur, an industrial city in the Paschim Bardhaman district of West Bengal, India. Named after the celebrated Bengali revolutionary poet Kazi Nazrul Islam, the airport primarily supports the region's steel, cement, and manufacturing industries. It functions as a convenient alternative to the larger Kolkata airport for travelers heading to western Bengal and parts of Jharkhand.",
+  "faqs": "Q: Which airlines operate from Kazi Nazrul Islam Airport?\nA: The airport is primarily served by regional carriers operating domestic flights, with schedules varying by season and demand.\n\nQ: How far is the airport from Durgapur city center?\nA: The airport is located approximately 15 kilometers from central Durgapur, making it accessible within 30-40 minutes by road under normal traffic conditions.\n\nQ: Are there international flights from this airport?\nA: No, the airport currently operates only domestic flights.\n\nQ: Does the airport operate 24 hours?\nA: Flight operations are generally limited to daylight hours, with scheduled arrivals and departures aligned to daytime service windows.\n\n",
+  "transport_tips": "Prepaid taxi counters and app-based cab services (such as Ola and Uber) are available at the arrivals area for travel to Durgapur or nearby Asansol. Hiring a local cab for the return journey is often more economical than booking through hotel desks. The airport is well-connected via the Grand Trunk Road, making road transfers to Asansol, Raniganj, or Dhanbad straightforward.",
+  "local_tip": "Carry some cash in small denominations, as smaller shops and transport counters near the airport may not always accept digital payments or large notes, especially during off-peak hours.",
+  "generatedAt": "2026-06-29T21:22:56.316Z",
+  "model": "MiniMax-M3"
+}

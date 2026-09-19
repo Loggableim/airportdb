@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CMI",
+    "icao": "KCMI",
+    "name": "University of Illinois Willard Airport",
+    "country": "United States",
+    "city": "Savoy",
+    "lat": 40.0398,
+    "lon": -88.2762,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "University of Illinois Willard Airport (CMI) is a medium-sized public airport located in Savoy, Illinois, serving the Champaign-Urbana metropolitan area and the University of Illinois at Urbana-Champaign campus. Named after Arthur Cutts Willard, the university's eleventh president who served from 1934 to 1946, the airport has been a key regional aviation hub since the 1940s. It offers commercial passenger service, general aviation facilities, and serves as a reliever airport for the broader central Illinois region.",
+  "faqs": "Q: What airlines serve University of Illinois Willard Airport?\nA: Willard Airport is primarily served by American Eagle with regional flights to Chicago O'Hare and Dallas/Fort Worth, with service levels varying by season and demand.\n\nQ: How far is the airport from the University of Illinois campus?\nA: The airport is located approximately 5 miles south of the main University of Illinois at Urbana-Champaign campus, with a typical drive time of 15-20 minutes.\n\nQ: Does Willard Airport have rental cars available?\nA: Yes, rental car services are available on-site, including major brands like Enterprise, Hertz, and National, located in the terminal area.\n\nQ: Is there a restaurant or food service in the terminal?\nA: The terminal offers limited food and beverage options, so travelers are advised to eat before arriving, especially during early morning departures.",
+  "transport_tips": "The airport is conveniently accessed via US Route 45 and Interstate 57, with clear signage directing travelers from Champaign and Urbana. Taxis, rideshare services like Uber and Lyft, and hotel shuttles are available for ground transportation. The Champaign-Urbana Mass Transit District (MTD) also provides limited service near the airport, though a personal vehicle or rideshare is typically the most reliable option.",
+  "local_tip": "If you have time before your flight, visit the Airport's observation area or take a short drive to Champaign's downtown for a meal at one of the locally-owned restaurants on Main Street—the area is known for its vibrant college-town atmosphere and is worth exploring if your schedule allows.",
+  "generatedAt": "2026-06-29T03:01:53.145Z",
+  "model": "MiniMax-M3"
+}

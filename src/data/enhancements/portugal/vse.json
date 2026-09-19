@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VSE",
+    "icao": "LPVZ",
+    "name": "Aerodromo Goncalves Lobato (Viseu Airport)",
+    "country": "Portugal",
+    "city": "Viseu",
+    "lat": 40.7255,
+    "lon": -7.889,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Aerodromo Goncalves Lobato, commonly known as Viseu Airport, is a regional airfield serving the historic city of Viseu in Portugal's Beira Alta region. Named after Portuguese aviation pioneer José Augusto Gonçalves Lobato, the airport primarily supports general aviation, flight training, and occasional charter operations. Located in the rolling hills of central Portugal, it provides convenient access to the Douro wine region and Serra da Estrela mountains.",
+  "faqs": "Q: Does Viseu Airport handle commercial passenger flights?\nA: The airport primarily serves general aviation and private flights, with limited or no scheduled commercial passenger service. Travelers typically use Porto or Lisbon for commercial connections.\n\nQ: Are there car rental services at Viseu Airport?\nA: Transportation services at this regional airport are limited, so arranging a rental car or transfer in advance is recommended.\n\nQ: What is the nearest major city to Viseu Airport?\nA: The airport is located just a few kilometers from Viseu, a city of around 100,000 residents known for its medieval cathedral and historic old town.\n\nQ: Can private jets land at Viseu Airport?\nA: Yes, the airport accommodates private aviation and is useful for visitors heading to the Douro Valley wine region.",
+  "transport_tips": "The airport is located just outside Viseu city, roughly 10 minutes by car from the town center. Having a rental car or pre-arranged transfer is essential, as public transport options are minimal. The drive from Porto Airport takes approximately 1.5 hours via the A25 motorway.",
+  "local_tip": "Use Viseu Airport as a gateway to the Serra da Estrela Natural Park or the Douro Valley wine estates—both are within easy driving distance and far less crowded than tours departing from Porto.",
+  "generatedAt": "2026-06-29T19:39:04.764Z",
+  "model": "MiniMax-M3"
+}

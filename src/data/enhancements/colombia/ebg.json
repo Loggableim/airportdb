@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EBG",
+    "icao": "SKEB",
+    "name": "El Bagre Airport",
+    "country": "Colombia",
+    "city": "El Bagre",
+    "lat": 7.5965,
+    "lon": -74.8089,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "El Bagre Airport (EBG/SKEB) is a medium-sized regional airport serving the municipality of El Bagre in the Antioquia department of Colombia. The airport primarily supports the region's significant gold mining industry, providing vital air connectivity to this remote area along the Nechí River. It functions as an important transportation link for mining personnel, local residents, and occasional tourists visiting the Bajo Cauca subregion.",
+  "faqs": "Q: Are there commercial passenger flights to El Bagre Airport?\nA: El Bagre Airport primarily handles charter and regional flights, with limited scheduled commercial service. Most passengers are mining industry workers traveling to support operations in the area.\n\nQ: What is the nearest major city to El Bagre Airport?\nA: The airport is located in El Bagre itself, in the Bajo Cauca subregion of Antioquia. Medellín, the departmental capital, is approximately 250 kilometers away.\n\nQ: Does the airport operate at night?\nA: The airport typically operates during daylight hours only, as it lacks extensive nighttime navigation infrastructure common to larger airports.\n\nQ: Is there a terminal building at El Bagre Airport?\nA: The airport has a modest terminal facility suitable for its regional operations, with basic passenger amenities typical of small Colombian domestic airports.",
+  "transport_tips": "Taxis and mototaxis (motorcycle taxis) are the primary means of ground transportation from El Bagre Airport to the town center, which is just a short ride away. Travelers should arrange ground transport in advance, as ride-sharing services are not available in this remote region. Road access to El Bagre from other parts of Antioquia can be challenging and is often affected by weather conditions, making air travel the preferred option.",
+  "local_tip": "If visiting for the mining industry, book accommodations in El Bagre town well in advance during shift-change periods, as the town's limited hotels fill up quickly with workers. Carry cash in Colombian pesos, as ATM availability is limited and many local businesses do not accept cards.",
+  "generatedAt": "2026-06-26T12:50:11.559Z",
+  "model": "MiniMax-M3"
+}

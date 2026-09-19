@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SQA",
+    "icao": "KIZA",
+    "name": "Santa Ynez Airport",
+    "country": "United States",
+    "city": "Santa Ynez",
+    "lat": 34.6068,
+    "lon": -120.076,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Santa Ynez Airport (SQA) is a small general aviation airport serving the picturesque Santa Ynez Valley in Santa Barbara County, California. Located near the charming town of Santa Ynez, it provides convenient access to the renowned wine country of the Santa Ynez Valley, including nearby Solvang, Los Olivos, and Buellton. The airport primarily serves private pilots, recreational flyers, and visitors exploring one of California's premier wine and equestrian regions.",
+  "faqs": "Q: What type of airport is Santa Ynez Airport?\nA: It is a small general aviation airport with no scheduled commercial airline service, primarily serving private and recreational aircraft.\n\nQ: Where is Santa Ynez Airport located?\nA: The airport is situated in the Santa Ynez Valley in Santa Barbara County, California, near the towns of Santa Ynez, Solvang, and Los Olivos.\n\nQ: Does Santa Ynez Airport offer fuel and services?\nA: As a general aviation facility, it typically offers basic services for pilots, but specific amenities should be confirmed directly with the airport or Fixed-Base Operator (FBO).\n\nQ: Can I fly commercially into Santa Ynez?\nA: No, Santa Ynez Airport does not offer commercial airline service. The nearest commercial airport is Santa Barbara Airport (SBA), approximately 30 miles south.",
+  "transport_tips": "Since Santa Ynez Airport has no commercial service, visitors typically arrive via private aircraft or drive from Santa Barbara Airport, which is about 45 minutes away via US-101 and CA-154. Rental cars are the most practical way to explore the Santa Ynez Valley's wine country and surrounding communities. Several local taxi and ride services also operate in the area, though advance booking is recommended.",
+  "local_tip": "If flying in, request a landing to the east in the morning—the approach offers stunning aerial views of the vineyards, rolling hills, and the Danish-themed village of Solvang just minutes away.",
+  "generatedAt": "2026-06-27T00:23:58.709Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ONY",
+    "icao": "KONY",
+    "name": "Olney Municipal Airport",
+    "country": "United States",
+    "city": "Olney",
+    "lat": 33.3509,
+    "lon": -98.8192,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Olney Municipal Airport (ONY/KONY) is a small general aviation facility serving the city of Olney in north-central Texas. The airport features a single asphalt runway and primarily supports private aviation, agricultural operations, and local flight training. Olney itself is widely recognized as the 'Collie Capital of the World' and hosts the annual Collie Dog Festival.",
+  "faqs": "Q: What is the main runway at Olney Municipal Airport?\nA: The airport has a single asphalt runway, suitable for small to mid-size general aviation aircraft.\n\nQ: Does Olney Municipal Airport offer commercial airline service?\nA: No, ONY is a general aviation airport with no scheduled commercial flights.\n\nQ: Are fuel services available at the airport?\nA: General aviation airports like ONY typically offer limited fuel services; pilots should confirm availability directly with the airport before arrival.\n\nQ: Is there an air traffic control tower at ONY?\nA: No, Olney Municipal Airport is an uncontrolled field operating under CTAF procedures.",
+  "transport_tips": "The airport is located just north of Olney's city center along State Highway 79, making it a short drive from downtown. Rental car services are not available on-site, so visitors should arrange ground transportation in advance. The nearest major commercial airport is Wichita Falls Municipal (SPS), roughly 60 miles north.",
+  "local_tip": "If visiting during October, plan your trip around the Collie Festival and Reunion weekend — the town fills up quickly, and the parade and dog shows are a uniquely Olney experience you won't find anywhere else.",
+  "generatedAt": "2026-06-27T06:14:31.442Z",
+  "model": "MiniMax-M3"
+}

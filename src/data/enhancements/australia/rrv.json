@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RRV",
+    "icao": "",
+    "name": "Robinson River Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -16.7183,
+    "lon": 136.945,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Robinson River Airport (RRV) is a small regional airstrip serving the remote Aboriginal community of Robinson River in Australia's Northern Territory, near the western shore of the Gulf of Carpentaria. The airport primarily supports fly-in fly-out operations, government services, medical evacuations, and supply flights to this isolated settlement. Its location in tropical savanna country makes it an important lifeline for one of the region's most remote communities.",
+  "faqs": "Q: Where is Robinson River Airport located?\nA: The airport is situated in the Northern Territory of Australia, near the Gulf of Carpentaria coastline, serving the small Robinson River Aboriginal community.\n\nQ: Are there scheduled commercial flights to Robinson River Airport?\nA: No scheduled commercial service operates; flights are typically charter, government, or medical transport services arranged as needed.\n\nQ: What facilities are available at the airport?\nA: As a small remote airstrip, facilities are minimal, typically consisting of a basic runway and small terminal/shelter area with no retail or dining services.\n\nQ: Can private aircraft land at Robinson River?\nA: Yes, the airport can accommodate private aircraft, but prior permission and proper coordination with local authorities is essential due to its remote nature.",
+  "transport_tips": "There are no public transport options at Robinson River Airport; visitors must arrange private charter flights or coordinate transportation through the local community beforehand. The nearest major airports with commercial service are located several hundred kilometers away, requiring connecting charter flights. Four-wheel-drive vehicles are recommended for any ground transport in the surrounding region due to rough, unpaved roads.",
+  "local_tip": "Wet season visits (roughly November to April) can make surrounding roads impassable, so if you must travel during this period, fly directly in and confirm your return charter well in advance, as weather disruptions are common and accommodation options are extremely limited.",
+  "generatedAt": "2026-06-27T08:34:18.949Z",
+  "model": "MiniMax-M3"
+}

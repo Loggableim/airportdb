@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LIM",
+    "icao": "SPJC",
+    "name": "Jorge Chávez International Airport",
+    "country": "Peru",
+    "city": "Lima",
+    "lat": -12.0219,
+    "lon": -77.1143,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Jorge Chávez International Airport (LIM/SPJC) is Peru's main international gateway, located in Callao about 11 km from central Lima. Named after Peruvian aviation pioneer Jorge Chávez, it is a major hub for LATAM Airlines and the busiest airport in Peru. The airport has undergone significant expansion and modernization to handle growing international and domestic traffic.",
+  "faqs": "Q: How far is Jorge Chávez International Airport from Lima?\nA: It is about 11 km (7 mi) from central Lima and roughly 30-60 minutes by car to Miraflores or San Isidro, depending on traffic.\n\nQ: What transport options are available from the airport?\nA: Official taxis, ride-hailing apps, and the Airport Express Lima bus are common; avoid unlicensed taxis and agree on fares or use apps.\n\nQ: How early should I arrive for my flight?\nA: For international flights, arrive at least 3 hours before departure; for domestic flights, 2 hours is usually recommended.\n\nQ: Are there ATMs and currency exchange at the airport?\nA: Yes, ATMs and exchange houses are available in arrivals and departures, but rates are often better in Lima city center.",
+  "transport_tips": "Use official taxi counters or ride-hailing apps rather than accepting offers from touts in the arrivals hall. The Airport Express Lima bus runs to Miraflores and San Isidro, but allow extra time during Lima's rush hours (roughly 7-10 a.m. and 5-8 p.m.). If you take a taxi, confirm the fare or ensure the meter is used before departing.",
+  "local_tip": "Frequent visitors know the airport is in Callao, not Lima proper, so tell drivers 'Jorge Chávez' or 'aeropuerto' and use the designated app pickup zone-drivers generally cannot wait at the arrivals curb.",
+  "generatedAt": "2026-09-19T23:20:45.055Z",
+  "model": "deepseek-v4.1-flash"
+}

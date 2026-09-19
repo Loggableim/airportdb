@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RJL",
+    "icao": "",
+    "name": "Logroño-Agoncillo Airport",
+    "country": "Spain",
+    "city": "Logroño",
+    "lat": 42.461,
+    "lon": -2.3222,
+    "type": "medium_airport",
+    "size": 450
+  },
+  "summary": "Logroño-Agoncillo Airport is a small regional airport serving the city of Logroño, the capital of Spain's renowned La Rioja wine region. Situated along the Ebro River valley in northern Spain, it primarily handles seasonal and domestic flights connecting the region to other parts of Spain. The airport serves as a gateway to La Rioja's celebrated vineyards, medieval villages, and culinary traditions.",
+  "faqs": "Q: How far is Logroño-Agoncillo Airport from the city center?\nA: The airport is located approximately 10 km east of Logroño, with a typical drive taking around 15-20 minutes depending on traffic.\n\nQ: Does the airport offer international flights?\nA: The airport primarily operates domestic and seasonal flights, with services mainly connecting to Madrid and select holiday destinations. International travelers typically use Bilbao or Madrid airports.\n\nQ: Are there car rental services at the airport?\nA: Yes, several car rental agencies operate at the airport, which is highly recommended given the dispersed nature of wine region attractions throughout La Rioja.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic amenities including a café, car rental desks, and parking, consistent with its role as a small regional facility.",
+  "transport_tips": "The most convenient way to reach the airport is by car via the N-232 or AP-68 highway, with taxi services available from Logroño city center. Limited bus services connect the airport to Logroño, so checking schedules in advance is advisable. Renting a car at the airport is recommended for visitors planning to explore the surrounding wine region and rural areas.",
+  "local_tip": "Arrange a wine tour in advance through a local bodega or tour operator in Logroño before or after your flight—many Rioja wineries offer pickup services from the airport or city, and the region's famous Calle Laurel tapas street is just minutes from the center.",
+  "generatedAt": "2026-06-30T00:51:26.124Z",
+  "model": "MiniMax-M3"
+}

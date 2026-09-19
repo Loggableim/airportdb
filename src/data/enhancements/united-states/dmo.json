@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DMO",
+    "icao": "KDMO",
+    "name": "Sedalia Memorial Airport",
+    "country": "United States",
+    "city": "Sedalia",
+    "lat": 38.7074,
+    "lon": -93.1759,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Sedalia Memorial Airport is a small general aviation airport serving the city of Sedalia in central Missouri. It provides facilities for private pilots, flight training, and recreational flying in the Pettis County region. The airport features a single primary runway and supports both local aviation activity and transient pilots visiting the area.",
+  "faqs": "Q: What is the airport code for Sedalia Memorial Airport?\nA: The IATA code is DMO and the ICAO code is KDMO.\n\nQ: Does Sedalia Memorial Airport offer commercial airline service?\nA: No, this is a general aviation airport and does not provide scheduled commercial flights.\n\nQ: What facilities are available at the airport?\nA: The airport offers tie-down parking, hangar rentals, fuel services, and basic amenities for pilots and visitors.\n\nQ: Can I fly into Sedalia for a visit to the Missouri State Fair?\nA: Yes, the airport is commonly used by visitors traveling to Sedalia for the annual Missouri State Fair held each August.\n\n",
+  "transport_tips": "The airport is located a short drive from downtown Sedalia, typically reachable within 10 minutes by car. Rental cars are not available on-site, so arranging ground transportation in advance is recommended. Taxis and rideshare options may be limited in this area, so visitors often coordinate with local hotels for pickup services.",
+  "local_tip": "If you're flying in for the Missouri State Fair, book hangar or tie-down space well in advance, as the airport sees a significant increase in transient traffic during the event each August.",
+  "generatedAt": "2026-06-27T02:49:10.832Z",
+  "model": "MiniMax-M3"
+}

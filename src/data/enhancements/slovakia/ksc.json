@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KSC",
+    "icao": "LZKZ",
+    "name": "Košice International Airport",
+    "country": "Slovakia",
+    "city": "Košice",
+    "lat": 48.6631,
+    "lon": 21.2411,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Košice International Airport (KSC) is the principal air gateway to eastern Slovakia, serving the country's second-largest city and the broader Košice Region. Originally developed from a military airfield, it now operates as a medium-sized civilian airport offering scheduled and seasonal flights to several European destinations. Its location near the city center makes it one of the more conveniently positioned regional airports in Central Europe.",
+  "faqs": "Q: How far is Košice International Airport from the city center?\nA: The airport is located approximately 6 km south of Košice's city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines operate from Košice International Airport?\nA: Several European carriers serve the airport, including low-cost and regional airlines offering routes to destinations across Europe.\n\nQ: Does the airport operate 24 hours a day?\nA: No, the airport operates during scheduled flight hours only, so passengers should confirm their flight times in advance.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers short-term and long-term parking options directly adjacent to the terminal building.",
+  "transport_tips": "Bus line 23 connects the airport with Košice's main bus station and city center, offering an affordable and reliable option for travelers. Taxis and ride-hailing services are also readily available outside the terminal, typically completing the journey to the center in under 20 minutes. For those driving, the airport is easily reached via the main road network south of the city.",
+  "local_tip": "If you have a layover or early arrival, head into Košice's historic center to visit St. Elisabeth Cathedral, the largest church in Slovakia and one of the easternmost Gothic cathedrals in Europe.",
+  "generatedAt": "2026-06-29T05:53:01.734Z",
+  "model": "MiniMax-M3"
+}

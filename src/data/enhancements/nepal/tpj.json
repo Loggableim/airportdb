@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TPJ",
+    "icao": "VNTJ",
+    "name": "Taplejung Airport",
+    "country": "Nepal",
+    "city": "Taplejung",
+    "lat": 27.3509,
+    "lon": 87.6953,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Taplejung Airport (TPJ) is a domestic airport serving the remote Taplejung District in eastern Nepal's Koshi Province, nestled deep within the Himalayan foothills. The airfield plays a vital role in connecting this isolated mountainous region to Kathmandu and other lowland hubs, as road journeys can take many hours over difficult terrain. Operations are weather-dependent and typically handled by small turboprop aircraft suited to the short, challenging runway.",
+  "faqs": "Q: Which airlines operate flights to Taplejung Airport?\nA: Flights are primarily operated by Nepal-based carriers such as Tara Air and Summit Air using small STOL aircraft like the DHC-6 Twin Otter and Let L-410, though schedules are irregular and weather-dependent.\n\nQ: How long is the runway at Taplejung?\nA: The airport has a short unpaved or partially paved runway approximately 1,000 meters long, which limits operations to smaller aircraft and requires skilled short-field landings.\n\nQ: Why are flights to Taplejung frequently delayed or cancelled?\nA: The airport sits in a valley surrounded by high mountains, making it highly susceptible to low clouds, fog, and turbulent crosswinds, particularly during the monsoon season from June to September.\n\nQ: What facilities are available at the terminal?\nA: The terminal is very basic, offering only essential services such as a small waiting area and ticket counters, with no extensive amenities, catering, or baggage services beyond the minimum required.",
+  "transport_tips": "Taxis and shared jeeps are typically available at the airport to reach Taplejung town center, roughly a short drive away. Travelers heading further into the district should arrange private jeeps in advance, as public transport is limited in this remote region. Many visitors prefer to fly in and trek out, using the airport as a starting point for hikes toward Kanchenjunga.",
+  "local_tip": "Book flights early in the morning whenever possible — afternoon weather in the surrounding valleys often deteriorates with cloud cover, and morning departures statistically have the highest chance of operating on schedule.",
+  "generatedAt": "2026-06-29T23:21:49.038Z",
+  "model": "MiniMax-M3"
+}

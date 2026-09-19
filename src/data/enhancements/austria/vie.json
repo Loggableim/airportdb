@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VIE",
+    "icao": "LOWW",
+    "name": "Vienna International Airport",
+    "country": "Austria",
+    "city": "Vienna",
+    "lat": 48.1103,
+    "lon": 16.5697,
+    "type": "large_airport",
+    "size": 1013675
+  },
+  "summary": "Vienna International Airport (VIE) is Austria's largest and busiest airport, located in Schwechat approximately 18 km southwest of central Vienna. Originally opened in 1938 and redeveloped in the postwar era, it serves as the main hub for Austrian Airlines and a key gateway between Western and Eastern Europe. The airport features modern terminals, extensive shopping and dining, and consistently ranks among Europe's most passenger-friendly facilities.",
+  "faqs": "Q: How far is Vienna Airport from the city center?\nA: The airport is located about 18 km (11 miles) southwest of central Vienna, in the town of Schwechat.\n\nQ: What is the fastest way to get from the airport to Vienna city center?\nA: The City Airport Train (CAT) connects the airport to Wien Mitte station in just 16 minutes. The S-Bahn S7 line and regional trains are cheaper alternatives taking about 25 minutes.\n\nQ: Which airlines operate from Vienna Airport?\nA: Austrian Airlines has its main hub here, and the airport serves numerous carriers including Lufthansa, Ryanair, Wizz Air, Emirates, and many others covering European and intercontinental routes.\n\nQ: Does the airport operate 24 hours?\nA: Yes, Vienna Airport operates 24 hours, though most flight activity is concentrated during daytime hours. Some overnight noise restrictions apply to certain aircraft types.",
+  "transport_tips": "The CAT (City Airport Train) is the fastest option at 16 minutes to Wien Mitte but costs more; the S7 S-Bahn is a budget-friendly alternative taking around 25 minutes. Taxis and ride-shares to central Vienna typically cost €35-50 and take 20-40 minutes depending on traffic. If driving, the A4 motorway connects directly to the airport, with short-term and long-term parking available on-site.",
+  "local_tip": "For a quick pre-flight meal without the typical airport markup, check out the food stalls and bakeries in the arrivals area on Level 0, which are accessible without a boarding pass and offer authentic Austrian pastries and snacks at regular prices.",
+  "generatedAt": "2026-06-28T15:16:31.692Z",
+  "model": "MiniMax-M3"
+}

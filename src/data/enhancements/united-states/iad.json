@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IAD",
+    "icao": "KIAD",
+    "name": "Washington Dulles International Airport",
+    "country": "United States",
+    "city": "Dulles",
+    "lat": 38.9445,
+    "lon": -77.4558,
+    "type": "large_airport",
+    "size": 1023875
+  },
+  "summary": "Washington Dulles International Airport (IAD) is a major U.S. gateway located about 26 miles west of downtown Washington, D.C., in Virginia's Loudoun and Fairfax counties. Opened in 1962 and designed by famed architect Eero Saarinen, it serves as a primary East Coast hub for United Airlines and one of the largest airports in the country by land area. Its distinctive main terminal, original Mobile Lounge system, and underground Aerotrain make it architecturally unique among American airports.",
+  "faqs": "Q: How far is Dulles from Washington, D.C.?\nA: Dulles is approximately 26 miles (42 km) west of downtown Washington, D.C., typically a 45-minute to one-hour drive depending on traffic.\n\nQ: Does Dulles have a Metro station?\nA: Yes, the Washington Metrorail Silver Line has an extension that serves the airport with a dedicated station on the airport's grounds.\n\nQ: Which airlines operate major hubs at Dulles?\nA: United Airlines operates its largest East Coast hub at Dulles, with hundreds of daily departures to domestic and international destinations.\n\nQ: How do passengers get between concourses at Dulles?\nA: Passengers use the underground Aerotrain, walking pathways, or the historic Mobile Lounge people movers to travel between the main terminal and the midfield concourses.",
+  "transport_tips": "The Silver Line Metro extension provides direct rail access between the airport and downtown D.C., making it the most cost-effective option. Taxis and rideshares are available at designated zones outside baggage claim, and the Dulles Toll Road (Route 267) connects the airport to the Capital Beltway (I-495) and Washington, D.C. Rental car facilities are consolidated at a separate facility accessible by shuttle.",
+  "local_tip": "Take a moment to admire the Eero Saarinen-designed main terminal from the upper-level roadway at sunset; the sweeping suspended roof is best appreciated in",
+  "generatedAt": "2026-06-28T14:59:13.843Z",
+  "model": "MiniMax-M3"
+}

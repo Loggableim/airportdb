@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FTU",
+    "icao": "FMSD",
+    "name": "Tôlanaro Airport",
+    "country": "Madagascar",
+    "city": "Tôlanaro",
+    "lat": -25.0381,
+    "lon": 46.9561,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tôlanaro Airport (FTU) is a regional airport serving the coastal city of Tôlanaro (formerly Fort Dauphin) in southeastern Madagascar, one of the country's most remote yet ecologically rich areas. It functions as the primary aerial gateway to the surrounding Anosy region, including the renowned beach town of Libanona and the wild landscapes of Berenty Reserve. The airport supports both passenger service and limited charter operations, playing a vital role in connecting this isolated peninsula to Antananarivo.",
+  "faqs": "Q: Which airlines operate flights from Tôlanaro Airport?\nA: Domestic carrier Tsaradia, a subsidiary of Air Madagascar, typically operates scheduled services between Tôlanaro and Antananarivo.\n\nQ: How far is Tôlanaro Airport from the city center?\nA: The airport is located just a few kilometers from central Tôlanaro, usually a short 10–15 minute drive by taxi.\n\nQ: Does the airport have international flights?\nA: No, Tôlanaro Airport handles domestic flights only; international travelers must transit through Antananarivo's Ivato Airport.\n\nQ: Is the airport equipped for night operations?\nA: The airport has limited lighting and operations are primarily conducted during daylight hours.\n\n",
+  "transport_tips": "Taxis and shared minibuses (taxi-brousses) are available near the terminal and are the most common ways to reach the city or nearby beaches. Arrangements for return transport should ideally be made in advance, as vehicles can be limited outside of scheduled flight arrivals. Hiring a private 4x4 transfer is recommended for travelers heading to remote reserves or coastal lodges south of the airport.",
+  "local_tip": "Flights are frequently delayed or rescheduled due to weather, so always buffer at least a day before any onward international connection from Antananarivo.",
+  "generatedAt": "2026-06-29T14:28:26.605Z",
+  "model": "MiniMax-M3"
+}

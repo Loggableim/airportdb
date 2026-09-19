@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KSW",
+    "icao": "LLKS",
+    "name": "Kiryat Shmona Airport",
+    "country": "Israel",
+    "city": "Kiryat Shmona",
+    "lat": 33.2163,
+    "lon": 35.5962,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Kiryat Shmona Airport is a small regional airport serving the northernmost city in Israel, located in the Upper Galilee near the Lebanese border. The airport primarily supports general aviation and occasional domestic flights, serving as a convenient gateway to the scenic Galilee region. Its position near the Hula Valley makes it a useful entry point for visitors exploring northern Israel's natural attractions.",
+  "faqs": "Q: What is Kiryat Shmona Airport primarily used for?\nA: It mainly serves general aviation, private flights, and occasional regional domestic services rather than commercial passenger traffic.\n\nQ: Where is the airport located relative to the city?\nA: The airport is situated on the outskirts of Kiryat Shmona, within the Upper Galilee region near Israel's northern border with Lebanon.\n\nQ: Are there regular commercial flights from Kiryat Shmona Airport?\nA: Scheduled commercial service is limited; travelers typically fly into larger airports like Ben Gurion or Haifa for regular service.\n\nQ: What attractions are accessible from the airport?\nA: The Hula Valley, Tel Dan Nature Reserve, Mount Hermon, and the Galilee panhandle are all within driving distance.\n\n",
+  "transport_tips": "Renting a car is the most practical option for reaching Kiryat Shmona Airport, as public transport connections are limited in this northern region. The airport is a short drive from Kiryat Shmona city center and accessible via local roads connecting to Route 90. Taxi services from nearby towns can be arranged in advance for pickup and drop-off.",
+  "local_tip": "If visiting, check current security advisories before traveling, as the airport's proximity to the Lebanese border means regional conditions can occasionally affect access and operations.",
+  "generatedAt": "2026-06-27T07:05:07.402Z",
+  "model": "MiniMax-M3"
+}

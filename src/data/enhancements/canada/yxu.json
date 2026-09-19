@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YXU",
+    "icao": "CYXU",
+    "name": "London International Airport",
+    "country": "Canada",
+    "city": "London",
+    "lat": 43.0328,
+    "lon": -81.149,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "London International Airport (YXU) is the primary air gateway to southwestern Ontario's largest city, located about 10 km northeast of downtown London. The medium-sized facility serves as a convenient alternative to Toronto Pearson for travelers heading to the London-St. Thomas corridor and surrounding region. It has historically hosted scheduled service to Toronto and seasonal sun destinations, while also supporting significant general aviation and flight training activity.",
+  "faqs": "Q: How far is London International Airport from downtown London, Ontario?\nA: The airport is approximately 10 km (6 miles) northeast of the city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines operate at YXU?\nA: Air Canada Express operates scheduled passenger service, with seasonal routes offered by other carriers such as WestJet Link and Sunwing depending on the time of year.\n\nQ: Does the airport have customs and immigration for international flights?\nA: Yes, YXU is a designated port of entry with Canada Border Services Agency (CBSA) facilities available for processing international arrivals.\n\nQ: Is there long-term parking available at the airport?\nA: Yes, the airport offers on-site parking lots including short-term, long-term, and economy options within walking distance of the terminal.\n\n",
+  "transport_tips": "The airport is conveniently accessed via Airport Road off Highway 401, making it a quick drive from anywhere in the London area. Taxi and rideshare services are available, though pre-booking is recommended for early morning departures. Several car rental agencies operate from the terminal for travelers exploring southwestern Ontario.",
+  "local_tip": "If you have a layover or extra time, the airport's observation area is popular with aviation enthusiasts watching flight training activity from the busy general aviation side of the field.",
+  "generatedAt": "2026-06-29T01:55:08.296Z",
+  "model": "MiniMax-M3"
+}

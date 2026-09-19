@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SIN",
+    "icao": "WSSS",
+    "name": "Singapore Changi Airport",
+    "country": "Singapore",
+    "city": "Singapore",
+    "lat": 1.3502,
+    "lon": 103.994,
+    "type": "large_airport",
+    "size": 1034575
+  },
+  "summary": "Singapore Changi Airport (SIN) is Southeast Asia's premier aviation hub, consistently ranked the World's Best Airport by Skytrax. Opened in 1981 on the site of a former military airfield, it serves as the main base for Singapore Airlines and is renowned for its lush indoor gardens, the Jewel Changi complex, and the record-breaking Rain Vortex indoor waterfall.",
+  "faqs": "Q: How many terminals does Changi Airport have?\nA: Changi has four main passenger terminals (T1, T2, T3, and T4), connected by the free Skytrain and shuttle bus services, plus the Jewel Changi entertainment complex linked to T1.\n\nQ: Is there a train connection to the city center?\nA: Yes, the MRT (Mass Rapid Transit) connects directly to the airport via the Changi Airport station on the East-West Line, reaching the city in roughly 30–45 minutes for under S$3.\n\nQ: What free attractions are available for transit passengers?\nA: Transit passengers can enjoy the Butterfly Garden, Cactus Garden, sunflower and orchid displays, free movie theaters, and the Forest Valley and Canopy Park at Jewel — without clearing immigration.\n\nQ: Does Changi offer free Singapore city tours for long layovers?\nA: Yes, eligible transit passengers with layovers of 5.5 hours or more can join free guided city tours operated by the airport, subject to availability and passport requirements.",
+  "transport_tips": "The MRT is the cheapest and most reliable option to central Singapore, running roughly every 8–12 minutes. Taxis and",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T14:44:50.665Z",
+  "model": "MiniMax-M3"
+}

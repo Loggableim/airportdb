@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YOH",
+    "icao": "CYOH",
+    "name": "Oxford House Airport",
+    "country": "Canada",
+    "city": "Oxford House",
+    "lat": 54.9333,
+    "lon": -95.2789,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Oxford House Airport (YOH/CYOH) is a small public airport serving the remote Oxford House Cree Nation community in northern Manitoba, Canada. The airport provides a vital transportation link for this fly-in community, located along the Oxford River near its junction with the Hudson Bay coastline watershed. It primarily supports scheduled passenger services and medical evacuations for the surrounding region.",
+  "faqs": "Q: What is the main purpose of Oxford House Airport?\nA: The airport primarily serves the Oxford House Cree Nation community, providing essential passenger air service, cargo delivery, and medical evacuation access for this remote northern Manitoba settlement.\n\nQ: Are there car rental services at Oxford House Airport?\nA: No, the airport does not have car rental facilities. Visitors typically arrange transportation through the community or rely on local contacts.\n\nQ: Does Oxford House Airport have scheduled commercial flights?\nA: Yes, the airport receives scheduled passenger service from regional carriers connecting it to Winnipeg and other Manitoba communities.\n\nQ: What facilities are available at the airport?\nA: The airport has basic facilities typical of small northern airports, including a small terminal building, but limited amenities. Travellers should bring their own food and supplies.\n\n",
+  "transport_tips": "Getting to Oxford House Airport typically requires a regional flight from Winnipeg, as the community is remote and not connected by permanent road. Booking flights in advance is recommended, especially during winter months. The community is also accessible via a winter road when conditions permit, though air travel remains the most reliable year-round option.",
+  "local_tip": "Pack warm clothing even in summer, as temperatures in this subarctic region can drop significantly, and the small terminal offers limited shelter during weather delays.",
+  "generatedAt": "2026-06-26T15:10:31.290Z",
+  "model": "MiniMax-M3"
+}

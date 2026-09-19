@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MMX",
+    "icao": "ESMS",
+    "name": "Malmö Sturup Airport",
+    "country": "Sweden",
+    "city": "Malmö",
+    "lat": 55.5356,
+    "lon": 13.3763,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Malmö Sturup Airport (MMX) is the main airport serving Malmö and the Skåne region in southern Sweden, located approximately 28 km east of Malmö city center. Opened in 1972, it primarily handles domestic and European low-cost flights, serving as a complement to the much larger Copenhagen Airport across the Øresund strait in Denmark. Despite its relatively modest traffic, Sturup remains an important gateway for Sweden's third-largest city and the wider Øresund region.",
+  "faqs": "Q: How far is Malmö Sturup Airport from Malmö city center?\nA: The airport is approximately 28 km east of Malmö, with a typical drive taking around 25-35 minutes depending on traffic.\n\nQ: Which airlines operate from Malmö Airport?\nA: The airport primarily serves low-cost carriers such as Ryanair and Wizz Air, with routes mainly to other European destinations.\n\nQ: Is there a direct train connection to the airport?\nA: No, there is no direct rail link to the terminal, but bus services connect the airport to Malmö and other regional destinations.\n\nQ: Should I fly into Malmö or Copenhagen instead?\nA: Copenhagen Airport is significantly larger with far more flight options, but Malmö Sturup can offer cheaper fares and shorter queues for travelers heading to southern Sweden.",
+  "transport_tips": "The most convenient option is the Flygbussarna airport coach, which runs frequently between Malmö Central Station and the airport terminal. Taxis are readily available but can be costly for the 28 km journey; pre-booking through apps like Bolt or Uber often provides better rates. Renting a car is also practical given the airport's location near the E22 motorway.",
+  "local_tip": "If you have a longer layover or early arrival, the Öresund Bridge connection to Copenhagen is just a short drive away, making it feasible to pop over to Denmark for a meal or quick sightseeing trip before continuing your journey.",
+  "generatedAt": "2026-06-28T18:47:42.262Z",
+  "model": "MiniMax-M3"
+}

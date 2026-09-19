@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SLQ",
+    "icao": "PASL",
+    "name": "Sleetmute Airport",
+    "country": "United States",
+    "city": "Sleetmute",
+    "lat": 61.7005,
+    "lon": -157.166,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Sleetmute Airport is a small public-use airport serving the remote village of Sleetmute, located along the Kuskokwim River in western Alaska. It provides essential air access for this isolated community, which is otherwise reachable primarily by river or snowmobile. The facility supports general aviation, mail delivery, and passenger transport for residents of the Bethel Census Area.",
+  "faqs": "Q: What is the main purpose of Sleetmute Airport?\nA: The airport primarily serves the local community of Sleetmute, providing passenger transport, mail delivery, and medevac services to this remote Alaskan village.\n\nQ: Does Sleetmute Airport have scheduled commercial service?\nA: It sees limited scheduled cargo and passenger service primarily operated by regional bush carriers serving rural Alaskan communities.\n\nQ: What facilities are available at the airport?\nA: The airport is a basic public-use facility with a single gravel runway and minimal infrastructure, typical of remote Alaskan airports.\n\nQ: Can private pilots land at Sleetmute Airport?\nA: Yes, the airport is open to public use, though pilots should check current conditions and weather before flying in, as rural Alaska weather can change rapidly.",
+  "transport_tips": "Getting to and from Sleetmute Airport typically requires arranging a ride with a local resident or the arriving airline, as there are no taxis or rental car services. The airport is located near the village center, making walks feasible in warmer months. Many travelers use this airport in combination with river boat travel along the Kuskokwim River.",
+  "local_tip": "Pack layers and be prepared for variable weather—Sleetmute is far inland and experiences extreme temperature swings between summer and winter, so dress for conditions that can change quickly.",
+  "generatedAt": "2026-06-26T23:11:39.225Z",
+  "model": "MiniMax-M3"
+}

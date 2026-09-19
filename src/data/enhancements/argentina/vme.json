@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VME",
+    "icao": "SAOR",
+    "name": "Villa Reynolds Airport",
+    "country": "Argentina",
+    "city": "Villa Mercedes",
+    "lat": -33.7299,
+    "lon": -65.3874,
+    "type": "medium_airport",
+    "size": 375
+  },
+  "summary": "Villa Reynolds Airport serves the city of Villa Mercedes in San Luis Province, central Argentina, situated in the productive Cuyo region. The facility originated as a military airbase and continues to operate as a dual-use airport, supporting both civilian and limited military aviation. It provides essential air access to this agricultural and industrial hub located in the heart of Argentina's interior.",
+  "faqs": "Q: Where is Villa Reynolds Airport located?\nA: The airport is situated near the town of Villa Reynolds, approximately 15 kilometers south of Villa Mercedes in San Luis Province, Argentina.\n\nQ: Does the airport serve commercial passenger flights?\nA: The airport primarily operates as a military and general aviation facility, with limited scheduled commercial service. Travelers should verify current airline schedules before planning trips.\n\nQ: What is the elevation of the airport?\nA: Villa Reynolds sits at approximately 1,591 feet (485 meters) above sea level, in the flat terrain of central Argentina.\n\nQ: Are there facilities for private aircraft?\nA: Yes, the airport accommodates general aviation and private flights, though services may be limited compared to major international airports.",
+  "transport_tips": "The airport's location near Villa Mercedes means ground transportation options are limited; arranging a rental car or pre-booked transfer in advance is strongly recommended. Taxis and ride services from Villa Mercedes city center to the airport typically take around 20-30 minutes depending on traffic. Travelers connecting from Buenos Aires should plan on additional ground transport from San Luis or Mercedes airports if no direct flights are available.",
+  "local_tip": "Villa Mercedes hosts the annual Festival Nacional de la Calle Angosta in January, one of Argentina's largest folk music festivals—schedule your visit then to experience authentic regional culture, but book accommodations well in advance as the small city fills up quickly.",
+  "generatedAt": "2026-06-30T01:48:46.759Z",
+  "model": "MiniMax-M3"
+}

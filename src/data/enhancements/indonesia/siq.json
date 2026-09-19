@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SIQ",
+    "icao": "WIDS",
+    "name": "Dabo Airport",
+    "country": "Indonesia",
+    "city": "Pasirkuning-Singkep Island",
+    "lat": -0.4796,
+    "lon": 104.5795,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Dabo Airport serves the town of Dabo on Singkep Island, part of Indonesia's Lingga Islands Regency in the Riau Archipelago. The small regional facility primarily handles flights connecting the island to Padang and other Sumatran destinations. Historically, Singkep was an important tin mining center, and the airport supports both local residents and visitors to the island's beaches and tin-mining heritage sites.",
+  "faqs": "Q: What airlines operate from Dabo Airport?\nA: Small regional carriers such as Susi Air typically operate propeller aircraft routes connecting Singkep to Padang and other Sumatran cities, with schedules that can change seasonally.\n\nQ: How long is the runway at Dabo Airport?\nA: The airport features a single short runway suitable primarily for small turboprop aircraft, reflecting its role as a regional facility serving the Lingga Islands.\n\nQ: Are there customs and immigration facilities at Dabo Airport?\nA: No, Dabo Airport is a domestic-only facility with no international or customs services available.\n\nQ: What facilities are available inside the terminal?\nA: As a small rural airport, terminal amenities are limited to basic services including a small waiting area, ticket counter, and minimal refreshment options.\n\n",
+  "transport_tips": "The airport is located in Pasirkuning, about 10-15 minutes by road from Dabo town center, and ojek (motorcycle taxis) or small minivans (travel) are the most common transport options. Ferry connections from Singkep to other Riau Islands destinations operate from the nearby ports of Dabo and Jagoh. Allow extra time for travel as roads on the island can be narrow and unpaved in some sections.",
+  "local_tip": "Carry cash in small Indonesian rupiah denominations, as ATMs are limited on Singkep Island and many small shops, ojek drivers, and local vendors do not accept card payments.",
+  "generatedAt": "2026-06-27T14:02:31.478Z",
+  "model": "MiniMax-M3"
+}

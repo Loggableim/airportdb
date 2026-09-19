@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CYR",
+    "icao": "SUCA",
+    "name": "Colonia Laguna de Los Patos International Airport",
+    "country": "Uruguay",
+    "city": "Colonia del Sacramento",
+    "lat": -34.4564,
+    "lon": -57.7706,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Colonia Laguna de Los Patos International Airport (CYR) is a small regional airport serving Colonia del Sacramento, a UNESCO World Heritage city renowned for its colonial-era architecture on Uruguay's southwestern coast. Despite its 'international' designation, the airport primarily handles limited regional flights and private aviation, with most international travelers arriving via the nearby Buenos Aires–Colonia ferry terminal. Its modest infrastructure reflects the quiet, historic character of the city it serves.",
+  "faqs": "Q: Does Colonia del Sacramento Airport have international flights?\nA: The airport holds international status but currently handles very few scheduled international flights, with most cross-border travel routed through the nearby ferry terminal connecting to Buenos Aires.\n\nQ: What airlines operate at CYR?\nA: Scheduled service is limited; flights have historically been operated by small regional carriers, and private aviation accounts for a significant share of activity.\n\nQ: Are there customs and immigration facilities at the airport?\nA: Basic customs facilities exist for occasional international arrivals, though processing capacity is limited compared to Uruguay's main airports.\n\nQ: How far is the airport from Colonia del Sacramento's historic center?\nA: The airport is located a short drive from the old town, typically around 15–20 minutes by road.",
+  "transport_tips": "Taxis and pre-arranged transfers are the most reliable way to reach central Colonia del Sacramento from the airport, as public bus service is infrequent. Rental cars are available but not always guaranteed on arrival, so booking in advance is advisable. Many travelers combine the airport with the nearby ferry port for onward connections to Buenos Aires, Argentina.",
+  "local_tip": "If flying in, time your arrival for late afternoon so you can check into a hotel in the historic Barrio Histórico and catch the golden-hour light over the cobblestone streets and the Río de la Plata waterfront—it's when Colonia's colonial charm feels most alive.",
+  "generatedAt": "2026-06-27T09:05:58.501Z",
+  "model": "MiniMax-M3"
+}

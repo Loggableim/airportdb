@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CSV",
+    "icao": "KCSV",
+    "name": "Crossville Memorial Airport Whitson Field",
+    "country": "United States",
+    "city": "Crossville",
+    "lat": 35.9513,
+    "lon": -85.085,
+    "type": "medium_airport",
+    "size": 400
+  },
+  "summary": "Crossville Memorial Airport (Whitson Field) is a general aviation airport situated on the Cumberland Plateau in Cumberland County, Tennessee, serving the city of Crossville and surrounding communities. The facility was named Whitson Field in honor of local aviator Ted Whitson and features a single asphalt runway suitable for general aviation, corporate, and recreational aircraft. It primarily supports private pilots, flight training, and emergency medical flights rather than scheduled commercial service.",
+  "faqs": "Q: Does Crossville Memorial Airport offer commercial airline service?\nA: No, CSV is a general aviation airport with no scheduled commercial flights; travelers needing commercial service typically use larger airports such as Knoxville (TYS) or Nashville (BNA).\n\nQ: What runway facilities are available at the airport?\nA: The airport features a primary asphalt runway (Runway 8/26) approximately 5,500 feet long, equipped with lighting for nighttime operations and instrument approaches.\n\nQ: Is fuel available at the airport?\nA: Yes, the on-site fixed-base operator (FBO) provides both 100LL avgas and Jet-A fuel services during operating hours.\n\nQ: Can I rent a car or arrange ground transportation at the airport?\nA: Car rental services require advance arrangement, and taxi or rideshare availability is limited, so visitors are encouraged to coordinate ground transportation before arrival.",
+  "transport_tips": "The airport is located just a few miles south of downtown Crossville, making it a short drive via local roads to hotels and the city center. Rental cars are the most reliable way to reach the airport, as public transportation and rideshare services are limited in the rural Cumberland Plateau area. Visitors should confirm transportation arrangements in advance, especially for early morning or late evening flights.",
+  "local_tip": "Frequent visitors recommend timing your arrival during daylight hours to enjoy the airport's scenic location overlooking the Cumberland Plateau, and stopping by the nearby Cumberland Mountain State Park for a meal at the historic Homestead restaurant before or after your flight.",
+  "generatedAt": "2026-06-30T01:12:39.694Z",
+  "model": "MiniMax-M3"
+}

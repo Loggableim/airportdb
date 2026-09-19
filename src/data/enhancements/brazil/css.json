@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CSS",
+    "icao": "SSCL",
+    "name": "Cassilândia Airport",
+    "country": "Brazil",
+    "city": "Cassilândia",
+    "lat": -19.1469,
+    "lon": -51.6769,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Cassilândia Airport (IATA: CSS, ICAO: SSCL) is a small regional airport serving the municipality of Cassilândia in the state of Mato Grosso do Sul, Brazil. Located in the central-western part of the country, it primarily supports general aviation and limited regional connectivity for the local community. The airport features a single runway and serves as an important access point for travelers visiting this agricultural region near the border with Goiás and Minas Gerais states.",
+  "faqs": "Q: What is the IATA code for Cassilândia Airport?\nA: The IATA code is CSS, and its ICAO code is SSCL.\n\nQ: Where is Cassilândia Airport located?\nA: It is located in the municipality of Cassilândia in the state of Mato Grosso do Sul, Brazil, at coordinates approximately -19.147°S, -51.677°W.\n\nQ: Does Cassilândia Airport offer commercial flights?\nA: As a small regional airport, it primarily supports general aviation and may have limited or no scheduled commercial service.\n\nQ: How large is Cassilândia Airport?\nA: It is classified as a small airport with a single runway, serving primarily general aviation traffic in the region.",
+  "transport_tips": "The airport is located just outside the city of Cassilândia, making taxi or rideshare the most convenient option for reaching the terminal. Rental cars may be available through prior arrangement, as on-site rental services are limited at this small facility. Travelers should arrange ground transportation in advance, as the airport does not have extensive public transit connections.",
+  "local_tip": "Visit during the harvest season (typically March to September) to experience the region's vibrant agricultural activity and enjoy fresh local produce at nearby markets and restaurants.",
+  "generatedAt": "2026-06-27T12:00:34.661Z",
+  "model": "MiniMax-M3"
+}

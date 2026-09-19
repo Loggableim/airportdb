@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BIO",
+    "icao": "LEBB",
+    "name": "Bilbao Airport",
+    "country": "Spain",
+    "city": "Bilbao",
+    "lat": 43.3011,
+    "lon": -2.9106,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Bilbao Airport (BIO) is the main international gateway to the Basque Country in northern Spain, located approximately 12 km north of Bilbao city center. Originally opened in 1928 and relocated to its current site in 1948, the airport underwent a major expansion in the late 1990s and handles both domestic and European flights. It serves as a key hub for travelers visiting the cultural and culinary attractions of Bilbao and the wider Basque region.",
+  "faqs": "Q: How far is Bilbao Airport from the city center?\nA: The airport is approximately 12 km (7.5 miles) north of downtown Bilbao, with a typical journey time of 15–20 minutes by road.\n\nQ: Is there public transport between the airport and Bilbao?\nA: Yes, BizkaiBus operates the A3247 line connecting the airport to Bilbao city center roughly every 20 minutes during the day.\n\nQ: Does Bilbao Airport have a single terminal?\nA: Yes, the airport operates from one main terminal building handling all arrivals and departures.\n\nQ: Are there direct flights to Bilbao from the UK?\nA: Yes, several airlines including easyJet, Vueling, and British Airways operate direct routes from UK cities such as London, Edinburgh, and Manchester.",
+  "transport_tips": "The BizkaiBus A3247 service is the most affordable option into the city, running frequently from early morning until around midnight. Taxis are available outside the terminal and cost approximately €25–30 to central Bilbao. If renting a car, the airport has easy access to the BI-631 road, connecting quickly to the AP-8 motorway.",
+  "local_tip": "If you have a layover or early arrival, head to the Arrivals level café for a proper Basque experience—order a 'pintxo' (the Basque take on tapas) with a glass of txakolí wine, which you won't easily find elsewhere in Spain.",
+  "generatedAt": "2026-06-28T18:45:34.793Z",
+  "model": "MiniMax-M3"
+}

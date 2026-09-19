@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PHS",
+    "icao": "VTPP",
+    "name": "Phitsanulok Airport",
+    "country": "Thailand",
+    "city": "Phitsanulok",
+    "lat": 16.7829,
+    "lon": 100.279,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Phitsanulok Airport (PHS/VTPP) is a regional airport serving the historic city of Phitsanulok in lower northern Thailand. It functions as a key gateway for travelers visiting Sukhothai Historical Park, a UNESCO World Heritage Site located about 60 km to the south. The airport handles domestic flights, primarily connecting Phitsanulok with Bangkok, and supports tourism to one of Thailand's culturally richest regions.",
+  "faqs": "Q: What airlines operate at Phitsanulok Airport?\nA: Thai AirAsia and Nok Air operate regular domestic flights between Phitsanulok and Bangkok (Don Mueang).\n\nQ: How far is the airport from Phitsanulok city center?\nA: The airport is approximately 5 km south of the city center, making it a quick 10-15 minute drive.\n\nQ: Can I travel directly to Sukhothai from Phitsanulok Airport?\nA: There are no direct flights to Sukhothai. Travelers typically take ground transport from Phitsanulok, with bus and minivan services available from the city.\n\nQ: Does the airport have international flights?\nA: No, Phitsanulok Airport primarily handles domestic flights only.\n\n",
+  "transport_tips": "Taxis and songthaews (shared pickup trucks) are available outside the terminal for the short trip into the city. For travel to Sukhothai Historical Park, arrange a private driver or take a bus from Phitsanulok town, as airport-based options are limited. Pre-booking a car through your hotel is often the most convenient option for longer distances.",
+  "local_tip": "Visit Wat Phra Si Rattana Mahathat in Phitsanulok city to see the revered Phra Buddha Chinnarat, considered one of the most beautiful Buddha images in Thailand — most travelers fly into PHS specifically for this temple before continuing to Sukhothai.",
+  "generatedAt": "2026-06-29T11:00:29.303Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YSP",
+    "icao": "CYSP",
+    "name": "Marathon Airport",
+    "country": "Canada",
+    "city": "Marathon",
+    "lat": 48.7553,
+    "lon": -86.3444,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Marathon Airport (YSP) is a medium-sized regional airport serving the town of Marathon in northwestern Ontario, situated along the rugged north shore of Lake Superior. The facility primarily supports general aviation, charter operations, and serves as a key access point for the surrounding wilderness and forestry industries. Its remote location near the Trans-Canada Highway makes it an important gateway for visitors exploring the Lake Superior region.",
+  "faqs": "Q: What is the IATA code for Marathon Airport?\nA: The IATA code is YSP, and its ICAO code is CYSP.\n\nQ: Where is Marathon Airport located?\nA: It is located in Marathon, Ontario, Canada, on the north shore of Lake Superior.\n\nQ: What types of flights operate from Marathon Airport?\nA: The airport primarily handles general aviation, charter flights, and emergency medical air transport, with no scheduled commercial service.\n\nQ: How far is the airport from Marathon town center?\nA: The airport is located a short drive from the town center, typically within a few kilometers of the community's main areas.",
+  "transport_tips": "Having a personal vehicle is the most practical way to reach Marathon Airport, as there is no public transit serving the facility. Taxi services from Marathon town are available but should be arranged in advance. The airport's proximity to the Trans-Canada Highway makes it easily accessible by road.",
+  "local_tip": "Pack warm layers even in summer—Lake Superior's maritime climate keeps Marathon noticeably cooler than inland Ontario, and morning fog can roll in quickly off the lake, sometimes affecting flight schedules.",
+  "generatedAt": "2026-06-26T07:24:15.156Z",
+  "model": "MiniMax-M3"
+}

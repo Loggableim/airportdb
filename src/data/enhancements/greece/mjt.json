@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MJT",
+    "icao": "LGMT",
+    "name": "Mytilene International Airport",
+    "country": "Greece",
+    "city": "Mytilene",
+    "lat": 39.0574,
+    "lon": 26.5986,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mytilene International Airport (MJT), officially named Odysseas Elytis Airport after the Nobel Prize-winning Greek poet born on Lesbos, serves as the main aerial gateway to the island of Lesbos in the eastern Aegean. Located approximately 8 km from Mytilene town, it connects the North Aegean islands to mainland Greece and several European destinations. The airport underwent major terminal upgrades in the 2010s to handle increasing seasonal tourism traffic.",
+  "faqs": "Q: How far is the airport from Mytilene town center?\nA: The airport is about 8 km southeast of Mytilene, with a drive of roughly 15-20 minutes depending on traffic.\n\nQ: Which airlines operate flights to Mytiline?\nA: Olympic Air, Aegean Airlines, and Sky Express operate domestic flights, while seasonal charter flights connect to various European cities during summer months.\n\nQ: Does the airport have international flights?\nA: Yes, primarily seasonal charter flights from Germany, the UK, the Netherlands, and Scandinavia during the summer tourist season.\n\nQ: Is the airport open 24 hours?\nA: No, the airport operates during scheduled flight hours only, with services typically aligned with arrivals and departures throughout the day.",
+  "transport_tips": "A taxi from the airport to Mytilene town typically costs around €10-15 and takes about 15 minutes. Local KTEL buses also run between the airport and the city center on a limited schedule. Renting a car at the airport is recommended for visitors planning to explore the island, as Lesbos is the third largest Greek island and has many scattered attractions.",
+  "local_tip": "If you have a long wait between flights, visit the nearby salt pans of Kalloni, one of the most important wetland habitats in Europe, where you can spot flamingos and other migratory birds, especially in spring and autumn.",
+  "generatedAt": "2026-06-29T09:54:29.267Z",
+  "model": "MiniMax-M3"
+}

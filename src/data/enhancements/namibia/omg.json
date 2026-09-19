@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OMG",
+    "icao": "FYOE",
+    "name": "Omega Airport",
+    "country": "Namibia",
+    "city": "Omega",
+    "lat": -18.0303,
+    "lon": 22.1897,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Omega Airport (OMG/FYOE) is a small regional airstrip serving the community of Omega in northeastern Namibia, within the Kavango region near the Okavango River basin. It primarily supports light aircraft operations, charter flights, and serves as an access point for safari operators and travelers exploring the surrounding wilderness areas. The facility supports general aviation and is commonly used for tourism-related flights to nearby lodges and conservation areas.",
+  "faqs": "Q: What type of aircraft can use Omega Airport?\nA: The airport primarily handles small turboprop and light aircraft typical of bush and charter operations in northern Namibia.\n\nQ: Are there scheduled commercial flights to Omega?\nA: Scheduled commercial service is limited; most visitors arrive via charter or private aircraft from Windhoek or regional hubs.\n\nQ: Is the airport suitable for private aviation?\nA: Yes, it accommodates private and charter flights, though pilots should verify current runway conditions and fuel availability before arrival.\n\nQ: Does the airport have customs and immigration facilities?\nA: As a small regional strip, formal customs and immigration services are generally not available; international arrivals typically clear at larger airports first.\n\n",
+  "transport_tips": "Ground transport from Omega Airport is limited and should be arranged in advance, usually through your lodge or tour operator, as there is no regular taxi or shuttle service. Rental vehicles may be available through pre-booking from larger towns in the region. The nearby main roads connect to Rundu and other northern Namibian destinations, though distances can be considerable.",
+  "local_tip": "If traveling to nearby lodges, confirm in advance whether your accommodation includes airstrip transfers, as most remote camps in this region provide this service and the drive can take several hours on gravel roads.",
+  "generatedAt": "2026-06-28T05:05:06.573Z",
+  "model": "MiniMax-M3"
+}

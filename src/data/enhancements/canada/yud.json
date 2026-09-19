@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YUD",
+    "icao": "CYMU",
+    "name": "Umiujaq Airport",
+    "country": "Canada",
+    "city": "Umiujaq",
+    "lat": 56.5361,
+    "lon": -76.5183,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Umiujaq Airport (YUD) is a small regional airport serving the Inuit community of Umiujaq in Nunavik, northern Quebec, Canada. Situated along the eastern coast of Hudson Bay, the airport provides a vital transportation link for this remote Arctic village, connecting residents to larger hubs in the region. The facility primarily handles turboprop commuter flights operated by regional carriers serving Nunavik communities.",
+  "faqs": "Q: What airlines serve Umiujaq Airport?\nA: Regional carriers operating in Nunavik typically provide scheduled passenger service to Umiujaq, connecting the village to larger hubs such as Kuujjuaq and Montreal.\n\nQ: Is Umiujaq Airport open year-round?\nA: Yes, the airport generally operates throughout the year, though weather conditions in the Hudson Bay region can occasionally cause delays or cancellations, especially during winter storms and summer fog.\n\nQ: Are there facilities at the airport for passengers?\nA: As a small community airport, facilities are basic, with limited services. Passengers typically check in shortly before departure with minimal waiting areas.\n\nQ: How do I get from the airport to the village of Umiujaq?\nA: The airport is located near the community, and local transportation options or pre-arranged pickups are the usual way to reach the village, as taxi services are limited.",
+  "transport_tips": "The airport is located a short distance from the village of Umiujaq, so ground transportation is usually arranged locally rather than through ride-share services. Travelers flying into YUD should coordinate pickup in advance with their hosts or local contacts, as the community has limited on-demand transport. Visitors should also be prepared for the possibility of schedule changes, as Nunavik flights are weather-dependent.",
+  "local_tip": "If you're visiting during summer, plan outdoor excursions to nearby Tursujuq National Park, one of Quebec's largest national parks, featuring dramatic landscapes, caribou, and the stunning Lake Guillaume-Delisle.",
+  "generatedAt": "2026-06-26T16:32:38.196Z",
+  "model": "MiniMax-M3"
+}

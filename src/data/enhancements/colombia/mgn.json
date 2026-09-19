@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MGN",
+    "icao": "SKMG",
+    "name": "Baracoa Airport",
+    "country": "Colombia",
+    "city": "Magangué",
+    "lat": 9.2847,
+    "lon": -74.8461,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Baracoa Airport (MGN/SKMG) serves the riverside city of Magangué in Colombia's Bolívar Department, providing essential air connectivity to the broader Caribbean region. Situated near the Magdalena River, the airport functions as a convenient gateway for travelers exploring the historic Mompox area and the surrounding lowland communities. It handles primarily domestic regional flights, supporting both commercial and general aviation traffic.",
+  "faqs": "Q: What is the airport code for Baracoa Airport?\nA: The IATA code is MGN and the ICAO code is SKMG.\n\nQ: Where is Baracoa Airport located?\nA: It is located in Magangué, in the Bolívar Department of Colombia, near the Magdalena River.\n\nQ: Are there international flights from Baracoa Airport?\nA: No, the airport primarily serves domestic regional routes within Colombia.\n\nQ: What destinations can I reach from Magangué airport?\nA: It mainly connects to other Colombian cities, with services historically linking to Bogotá and other regional hubs.",
+  "transport_tips": "Taxis and motorcycle taxis (mototaxis) are commonly available at the airport and offer inexpensive rides into Magangué's town center. Given the city's riverside location, many travelers also combine air travel with boat connections along the Magdalena River. It's advisable to arrange ground transportation in advance, as public transit options near the airport are limited.",
+  "local_tip": "If visiting the area, consider extending your trip to nearby Mompox—a UNESCO World Heritage town accessible by a short bus or boat ride from Magangué—where you can explore colonial architecture and enjoy traditional river cuisine.",
+  "generatedAt": "2026-06-26T11:41:21.171Z",
+  "model": "MiniMax-M3"
+}

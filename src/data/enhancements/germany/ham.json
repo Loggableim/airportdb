@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HAM",
+    "icao": "EDDH",
+    "name": "Hamburg Helmut Schmidt Airport",
+    "country": "Germany",
+    "city": "Hamburg",
+    "lat": 53.6304,
+    "lon": 9.9882,
+    "type": "large_airport",
+    "size": 1012575
+  },
+  "summary": "Hamburg Helmut Schmidt Airport (HAM/EDDH) is located in Fuhlsbüttel, about 8.5 km north of central Hamburg. Opened in 1911, it is one of Germany's oldest civil airports and was renamed in 2016 after Hamburg-born former Chancellor Helmut Schmidt. It serves as a base for Eurowings and offers direct S-Bahn service to the city.",
+  "faqs": "Q: How do I get from Hamburg Airport to the city center?\nA: Take the S-Bahn S1 from Hamburg Airport station to Hamburg Hauptbahnhof; the journey takes about 25 minutes and trains run frequently.\n\nQ: Which terminals does Hamburg Airport have?\nA: HAM has Terminal 1 and Terminal 2, linked by the central Airport Plaza. Both handle domestic and international flights; check screens for your check-in and gate.\n\nQ: Is there luggage storage at Hamburg Airport?\nA: Yes, left-luggage and luggage storage services are available in the terminal area; hours and prices can vary, so check with the airport information desk.\n\nQ: What airlines fly from Hamburg Airport?\nA: Airlines include Eurowings, Lufthansa, Ryanair, easyJet, Condor, and others, with a mix of European and selected leisure routes. Check the airport website for current destinations.",
+  "transport_tips": "The S-Bahn S1 is the fastest and most reliable link to central Hamburg, running every 10 minutes to Hauptbahnhof in about 25 minutes. Taxis and ride-hailing are available outside the terminals and take 25–40 minutes depending on traffic. Several local bus lines also serve the airport, including night buses, but the S-Bahn is usually the best option.",
+  "local_tip": "A frequent-visitor tip: use the S-Bahn S1 from the city rather than driving, and buy your HVV ticket in the HVV app before boarding—there are no gates, but fare inspectors do check.",
+  "generatedAt": "2026-09-19T23:19:11.237Z",
+  "model": "deepseek-v4.1-flash"
+}

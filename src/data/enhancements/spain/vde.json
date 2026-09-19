@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VDE",
+    "icao": "GCHI",
+    "name": "El Hierro Airport",
+    "country": "Spain",
+    "city": "El Hierro Island",
+    "lat": 27.8148,
+    "lon": -17.8871,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "El Hierro Airport serves the smallest and westernmost of Spain's Canary Islands, a volcanic outpost designated as a UNESCO Biosphere Reserve. The modern terminal, which opened in the early 2010s, reflects the island's pioneering commitment to renewable energy, complementing the dramatic volcanic landscapes that surround it.",
+  "faqs": "Q: Which airlines operate at El Hierro Airport?\nA: Binter Canarias is the primary carrier, running frequent inter-island routes mainly to Tenerife North and Gran Canaria airports.\n\nQ: How long is the runway at VDE?\nA: The runway measures approximately 1,250 meters and handles regional turboprop aircraft sized for short-haul Canary Islands hops.\n\nQ: Are there direct international flights to El Hierro?\nA: No, all scheduled flights are domestic; international visitors typically connect through Tenerife or Gran Canaria.\n\nQ: Can I visit other Canary Islands from El Hierro?\nA: Yes, Binter offers multiple daily connections, making island-hopping across the Canaries straightforward.",
+  "transport_tips": "Taxis wait outside the terminal and reach the island capital Valverde in roughly 15 minutes. Renting a car is strongly recommended for exploring the island's winding mountain roads and remote diving sites, with several rental agencies located at",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T12:29:59.869Z",
+  "model": "MiniMax-M3"
+}

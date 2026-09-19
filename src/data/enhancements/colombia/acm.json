@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ACM",
+    "icao": "",
+    "name": "Arica Airport",
+    "country": "Colombia",
+    "city": "Arica",
+    "lat": -2.1437,
+    "lon": -71.7593,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Arica Airport (ACM) is a small regional airfield serving the remote community of Arica in the Amazon basin of southern Colombia. With a modest size score of 50, it primarily handles light aircraft and serves as an important access point for travelers exploring the surrounding rainforest. The airport provides essential connectivity for the local population and supports limited tourism and charter operations in the region.",
+  "faqs": "Q: What type of aircraft typically uses Arica Airport?\nA: The airport primarily accommodates small regional aircraft and charter planes suited to its limited infrastructure.\n\nQ: Is Arica Airport served by commercial airlines?\nA: Due to its small size, scheduled commercial service is limited, and most passengers rely on charter or on-demand flights.\n\nQ: Are there customs and immigration facilities at the airport?\nA: As a small domestic regional airfield, formal customs services are minimal and primarily handle domestic travel.\n\nQ: What is the best time of year to fly to this region?\nA: The dry season typically offers more reliable flying conditions in the Amazon basin, though flights operate year-round weather permitting.\n\n",
+  "transport_tips": "Ground transportation options are limited at this small airport, so arranging a vehicle or boat transfer in advance is highly recommended. Most visitors coordinate pickup directly with local lodges or tour operators before arrival. Access to the terminal area is best suited for passengers traveling light, as the facilities are minimal.",
+  "local_tip": "Pack all essential medications and supplies with you, as the nearest pharmacies and stores may be hours away by river or road from the airport.",
+  "generatedAt": "2026-06-27T17:21:29.727Z",
+  "model": "MiniMax-M3"
+}

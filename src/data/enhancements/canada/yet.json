@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YET",
+    "icao": "CYET",
+    "name": "Edson Airport",
+    "country": "Canada",
+    "city": "Edson",
+    "lat": 53.5789,
+    "lon": -116.465,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Edson Airport (YET) is a medium-sized regional airport serving the town of Edson in west-central Alberta, Canada. Located in a region known for forestry, oil and gas activity, and outdoor recreation near the eastern slopes of the Rocky Mountains, it primarily supports general aviation, charter operations, and serves as a base for aerial work including forest fire patrols. The facility provides an important transportation link for the community and surrounding Yellowhead County.",
+  "faqs": "Q: What is the main purpose of Edson Airport?\nA: The airport primarily serves general aviation, charter flights, and supports regional industries such as forestry and oil and gas. It also accommodates medevac operations and recreational flying.\n\nQ: Are there scheduled commercial flights at Edson Airport?\nA: Scheduled commercial service is very limited. Travelers typically rely on ground transportation to larger hubs like Edmonton or Hinton for commercial flights.\n\nQ: Where is Edson Airport located relative to the town?\nA: The airport is situated a short distance from the town center of Edson, providing convenient access for local travelers and businesses in Yellowhead County.\n\nQ: Can I rent a car at Edson Airport?\nA: Car rental services are not typically available on-site at this small regional airport, so arranging transportation in advance through local providers is recommended.",
+  "transport_tips": "Renting a vehicle in Edson or arranging a private shuttle in advance is the most reliable way to reach the airport, as there is no regular public transit service. The airport is a short drive from Highway 16 (Yellowhead Highway), making road access straightforward. Many visitors flying in for work in the energy or forestry sectors are met directly by company representatives upon arrival.",
+  "local_tip": "If you're flying in for outdoor activities, Edson serves as a quieter gateway to areas like Jasper National Park and the eastern Rockies—just remember that wildlife sightings along the drive are common, so plan your arrival timing around daylight hours when possible.",
+  "generatedAt": "2026-06-26T07:38:27.988Z",
+  "model": "MiniMax-M3"
+}

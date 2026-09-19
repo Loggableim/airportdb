@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "POD",
+    "icao": "GOSP",
+    "name": "Podor Airport",
+    "country": "Senegal",
+    "city": "Podor",
+    "lat": 16.6782,
+    "lon": -14.965,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Podor Airport is a small regional airport serving the town of Podor in the northern Saint-Louis Region of Senegal, near the Senegal River border with Mauritania. The facility supports limited general aviation and occasional regional flights connecting this remote Sahelian community to other parts of the country. Its modest infrastructure reflects the area's sparse population and the challenging desert-edge environment of the Ferlo region.",
+  "faqs": "Q: What type of flights operate from Podor Airport?\nA: The airport primarily handles small charter and regional flights, as well as general aviation traffic. Commercial scheduled service is limited or intermittent.\n\nQ: Is there a terminal building at Podor Airport?\nA: The airport has basic passenger facilities consistent with its small size, including a modest terminal suited to low passenger volumes.\n\nQ: Where is Podor Airport located relative to the town?\nA: The airport is situated on the outskirts of Podor town, accessible by local road transport.\n\nQ: What is the climate like around Podor Airport?\nA: The area experiences a hot Sahelian climate with a distinct dry season and a brief rainy season, often accompanied by dusty harmattan winds.\n\n",
+  "transport_tips": "Getting to and from the airport typically requires arranging private road transport, as taxi services may not be readily available on demand. The drive from Podor town center is short and straightforward via local roads. Travelers heading onward to Mauritania should note that the nearest border crossing is nearby along the Senegal River.",
+  "local_tip": "Carry sufficient water and sun protection, as the northern Senegal climate is intensely hot and dry, and the airport offers minimal shade or amenities for waiting passengers.",
+  "generatedAt": "2026-06-28T05:40:08.758Z",
+  "model": "MiniMax-M3"
+}

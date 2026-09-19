@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ORO",
+    "icao": "MHYR",
+    "name": "Yoro Airport",
+    "country": "Honduras",
+    "city": "Yoro",
+    "lat": 15.1275,
+    "lon": -87.135,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Yoro Airport (ORO/MHYR) is a small regional airfield serving the town of Yoro in the mountainous interior of northern Honduras. The airport provides essential air access to a region famous for the mysterious 'Lluvia de Peces' (Rain of Fish) phenomenon, a localized meteorological event that draws visitors and researchers each year. With its single runway and modest facilities, it primarily handles general aviation and occasional charter flights.",
+  "faqs": "Q: What is the IATA code for Yoro Airport?\nA: The IATA code is ORO, and the ICAO code is MHYR.\n\nQ: What type of flights operate from Yoro Airport?\nA: The airport primarily serves general aviation, private charters, and occasional small regional flights, as it is not equipped for large commercial service.\n\nQ: Is there scheduled commercial airline service to Yoro?\nA: Scheduled commercial service is very limited or nonexistent; travelers typically reach Yoro via road from larger airports like Toncontín in Tegucigalpa or Ramón Villeda Morales in San Pedro Sula.\n\nQ: Where exactly is the airport located?\nA: The airport is situated near the town of Yoro in the Yoro Department of northern Honduras, at coordinates approximately 15.127°N, 87.135°W.",
+  "transport_tips": "Ground transportation is the primary means of reaching Yoro, with buses and shared taxis (colectivos) connecting the town to Tegucigalpa and San Pedro Sula. Rental cars are not readily available at the airport, so arranging transport in advance through a local hotel is recommended. The road journey from San Pedro Sula takes roughly 3-4 hours through scenic but winding mountain terrain.",
+  "local_tip": "If visiting between May and July, ask locals about the legendary 'Lluvia de Peces'—the Rain of Fish phenomenon that locals say occurs after heavy storms in the area, where small fish reportedly fall from the sky.",
+  "generatedAt": "2026-06-28T10:49:32.366Z",
+  "model": "MiniMax-M3"
+}

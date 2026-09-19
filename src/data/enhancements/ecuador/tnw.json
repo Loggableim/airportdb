@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TNW",
+    "icao": "SEJD",
+    "name": "Jumandy Airport",
+    "country": "Ecuador",
+    "city": "Ahuano",
+    "lat": -1.0602,
+    "lon": -77.5805,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Jumandy Airport (TNW/SEJD) is a regional airport serving Ahuano in Ecuador's Napo Province, providing the primary air link between the Amazon lowlands and the rest of the country. Named after a legendary indigenous resistance leader of the Quijos people, it functions as a key gateway for travelers heading into the Ecuadorian Amazon basin and surrounding rainforest destinations. The airport mainly handles domestic flights, connecting the Oriente region with Quito and supporting ecotourism in nearby Tena and river-based lodges.",
+  "faqs": "Q: What is the main destination served by Jumandy Airport?\nA: The airport primarily connects the Napo Province region with Quito, Ecuador's capital, via short domestic flights operated by regional carriers.\n\nQ: Why is it called Jumandy Airport?\nA: It is named after Jumandy, a 16th-century indigenous Quijos chief who led resistance against Spanish colonizers in the region.\n\nQ: Is the airport used for international flights?\nA: No, Jumandy Airport handles only domestic flights and is not equipped for international services.\n\nQ: What is the airport most useful for accessing?\nA: It is the main air gateway for visitors heading to the Ecuadorian Amazon, including the Napo River area, Tena, and jungle eco-lodges further downstream.",
+  "transport_tips": "Taxis and pre-arranged shuttle services are typically available outside the small terminal to connect passengers with Tena, roughly a short drive away. Road access from Quito involves a winding mountain descent via the Baeza route, which can take several hours, making the flight a popular alternative. Travelers heading to remote jungle lodges often arrange pickup directly through their lodge or tour operator in advance.",
+  "local_tip": "Pack a light rain jacket and quick-dry clothing even for short stays — the Napo region's humidity and afternoon showers catch many visitors off guard, especially after landing.",
+  "generatedAt": "2026-06-26T11:06:09.574Z",
+  "model": "MiniMax-M3"
+}

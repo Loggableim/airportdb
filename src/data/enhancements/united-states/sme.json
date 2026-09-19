@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SME",
+    "icao": "KSME",
+    "name": "Lake Cumberland Regional Airport",
+    "country": "United States",
+    "city": "Somerset",
+    "lat": 37.0534,
+    "lon": -84.6159,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Lake Cumberland Regional Airport (SME) is a public-use airport serving Somerset, Kentucky, and the surrounding Lake Cumberland tourism region in south-central Kentucky. The airport supports general aviation, charter flights, and serves as a gateway for visitors heading to Lake Cumberland, one of the largest man-made lakes in the eastern United States. It features a single main runway and offers services for private and corporate aircraft visiting the area's resorts and marinas.",
+  "faqs": "Q: How far is the airport from downtown Somerset?\nA: The airport is located approximately 5 miles southwest of downtown Somerset, Kentucky, making it a short drive from the city center.\n\nQ: Does Lake Cumberland Regional Airport offer commercial airline service?\nA: The airport primarily serves general aviation, charter operations, and corporate aircraft. Scheduled commercial passenger service is limited or unavailable, so travelers should verify current airline options.\n\nQ: What attractions are near the airport?\nA: Lake Cumberland, one of the largest man-made reservoirs in the U.S., is just a short drive away and offers boating, fishing, and waterfront resorts. The surrounding region also features Daniel Boone National Forest and several state parks.\n\nQ: Are there car rental services at the airport?\nA: Ground transportation options are available but may be limited. Visitors are encouraged to arrange rental cars or transportation in advance, especially during peak tourism season.",
+  "transport_tips": "The airport is located just off US Route 27, providing convenient road access to Somerset and surrounding communities. Since commercial transportation options are limited, renting a car or arranging a shuttle in advance is recommended. Taxi and rideshare availability may be limited, so confirm service before arrival.",
+  "local_tip": "If visiting during summer, plan your flight for early morning or late afternoon to avoid afternoon thunderstorms common in the Kentucky Lake region, and consider booking a waterfront houseboat rental on Lake Cumberland for a truly local experience.",
+  "generatedAt": "2026-06-26T07:55:23.505Z",
+  "model": "MiniMax-M3"
+}

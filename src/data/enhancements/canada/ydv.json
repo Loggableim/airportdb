@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YDV",
+    "icao": "CZTA",
+    "name": "Bloodvein River Airport",
+    "country": "Canada",
+    "city": "Bloodvein River",
+    "lat": 51.7846,
+    "lon": -96.6923,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Bloodvein River Airport (YDV/CZTA) is a small remote airstrip serving the Anishinaabe community of Bloodvein River in eastern Manitoba, Canada. Located along the scenic Bloodvein River near its outlet to Lake Winnipeg, the airport serves as a vital transportation link for this isolated First Nation community, which lacks year-round road access. The facility primarily supports medevac services, passenger charter flights, and supply transport for the local population.",
+  "faqs": "Q: Where is Bloodvein River Airport located?\nA: The airport is situated in Bloodvein River, Manitoba, Canada, in a remote area east of Lake Winnipeg in the Canadian Shield region.\n\nQ: How do you get to Bloodvein River community?\nA: Access is primarily by air through this airport, as the community is only reachable by seasonal gravel roads and a ferry crossing when conditions allow.\n\nQ: What services operate at the airport?\nA: The airport handles scheduled charter passenger flights, medevac emergency services, and cargo flights supplying the remote community.\n\nQ: Is there road access to the airport?\nA: The airport is reachable via a gravel road that connects to the community, but this route is weather-dependent and may be impassable during spring thaw and heavy rain periods.",
+  "transport_tips": "Passengers should arrange flights with charter operators serving the region, as there are no scheduled commercial airline routes. Be prepared for weather-related delays or cancellations, especially during winter storms and spring breakup seasons. Allow extra time for connecting transportation, as ground options in the community are very limited.",
+  "local_tip": "Visitors should pack all essential supplies including groceries, as the community has limited retail options and the local store may have inconsistent stock due to the airport's weather-dependent supply deliveries.",
+  "generatedAt": "2026-06-26T19:57:01.594Z",
+  "model": "MiniMax-M3"
+}

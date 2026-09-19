@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YTQ",
+    "icao": "CYTQ",
+    "name": "Tasiujaq Airport",
+    "country": "Canada",
+    "city": "Tasiujaq",
+    "lat": 58.6678,
+    "lon": -69.9558,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Tasiujaq Airport (YTQ) is a small regional airport serving the Inuit community of Tasiujaq in Nunavik, northern Quebec. Located along the eastern shore of Hudson Bay, the airport provides a vital air link for the remote community, where road access is unavailable. It features a gravel runway and handles scheduled passenger services connecting residents to larger hub airports in the region.",
+  "faqs": "Q: What airlines serve Tasiujaq Airport?\nA: Air Inuit is the primary carrier operating scheduled passenger flights to and from Tasiujaq, connecting the community with Kuujjuaq and other Nunavik destinations.\n\nQ: How do you travel from Tasiujaq Airport to the town?\nA: The airport is located just a few kilometers from the village center, and local transportation or taxi services are typically used for the short trip.\n\nQ: Is there road access to Tasiujaq?\nA: No, Tasiujaq is a fly-in community with no road connections. Air travel is the primary means of transportation for both passengers and cargo.\n\nQ: What facilities are available at the airport?\nA: As a small community airport, facilities are basic, with a small terminal building and minimal services. Travelers should plan accordingly for limited amenities.",
+  "transport_tips": "Arrange ground transportation with the local airline or accommodation provider in advance, as taxi services are limited. Flights are often weather-dependent due to the subarctic climate, so building flexibility into your travel schedule is strongly recommended. Cargo and mail services are also handled through the airport, so passengers may share space with freight.",
+  "local_tip": "Pack for rapidly changing weather conditions, as Tasiujaq experiences significant temperature variations and strong winds off Hudson Bay, even in summer months.",
+  "generatedAt": "2026-06-26T16:31:07.313Z",
+  "model": "MiniMax-M3"
+}

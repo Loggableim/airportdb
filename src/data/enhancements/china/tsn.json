@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TSN",
+    "icao": "ZBTJ",
+    "name": "Tianjin Binhai International Airport",
+    "country": "China",
+    "city": "Tianjin",
+    "lat": 39.1244,
+    "lon": 117.346,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Tianjin Binhai International Airport (TSN) is the primary aviation gateway for Tianjin, serving as a major hub in the Bohai Economic Rim and a popular alternative to Beijing's airports. The facility features two main terminals, with Terminal 2 opened in 2014 to accommodate growing passenger demand. It functions as a base for Tianjin Airlines and Okay Airways, offering connections to domestic destinations and several international cities across Asia and Europe.",
+  "faqs": "Q: How far is Tianjin Binhai Airport from the city center?\nA: The airport is located approximately 15-20 km southeast of central Tianjin in the Binhai New Area, typically a 30-45 minute drive depending on traffic.\n\nQ: Is there a metro or train connection to the airport?\nA: Yes, Tianjin Metro Line 2 connects the airport directly to the city center, with stations at both Terminal 1 and Terminal 2.\n\nQ: Which terminal does international flights use?\nA: Most international flights operate from Terminal 2, though some regional routes use Terminal 1. Always confirm your terminal before traveling.\n\nQ: Are there facilities for overnight stays at the airport?\nA: The airport offers limited hotel facilities and rest zones, but most travelers prefer hotels in the city center accessible via the metro.",
+  "transport_tips": "Tianjin Metro Line 2 provides a fast and affordable connection between the airport and downtown Tianjin, running roughly every 5-8 minutes during peak hours. Taxis are readily available outside both terminals, but insist on using the meter or agree on a fare before departure. For travel to Beijing, dedicated airport shuttle buses and intercity rail via Tianjin Railway Station offer convenient options.",
+  "local_tip": "If you have a long layover, head to the Binhai New Area for the Tianjin's iconic Aerospace Town or take a short trip to see the historic Italian-style district (Wudadao) in the city center via the metro—easily reachable in under an hour.",
+  "generatedAt": "2026-06-28T17:53:52.174Z",
+  "model": "MiniMax-M3"
+}

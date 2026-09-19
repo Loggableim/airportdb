@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CIC",
+    "icao": "KCIC",
+    "name": "Chico Regional Airport",
+    "country": "United States",
+    "city": "Chico",
+    "lat": 39.7956,
+    "lon": -121.8577,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Chico Regional Airport (CIC) is a small public airport located approximately five miles north of downtown Chico in Butte County, Northern California. Originally established in the 1930s, the airport serves general aviation, corporate flights, and limited commercial service, functioning as an important gateway for the north Sacramento Valley. It is also home to the Chico Air Museum and supports flight training operations for nearby aviation programs.",
+  "faqs": "Q: What airlines serve Chico Regional Airport?\nA: The airport has historically seen limited commercial service; travelers should check current carriers as routes change frequently. Most operations are general aviation and charter flights.\n\nQ: How far is the airport from downtown Chico?\nA: Chico Regional Airport is approximately five miles north of the city center, typically a 10-15 minute drive via Highway 99 or Eaton Road.\n\nQ: Does the airport have rental cars available?\nA: Rental car availability is limited; visitors are encouraged to arrange vehicles in advance or use local taxi and rideshare services.\n\nQ: Is there an on-site restaurant or amenities?\nA: The terminal offers basic amenities, but dining and shopping options are limited compared to larger airports. Chico's restaurants are a short drive away.\n\n",
+  "transport_tips": "Renting a car is the most convenient option since public transit service to the airport is minimal. Rideshare apps like Uber and Lyft do serve the area but may have longer wait times. The airport's proximity to Highway 99 makes the drive into Chico or to nearby Paradise and Oroville quick and straightforward.",
+  "local_tip": "If you're picking someone up or waiting for a flight, head into downtown Chico and visit the Sierra Nevada Brewing Co. taproom or take a walk through Bidwell Park, one of the largest municipal parks in the United States.",
+  "generatedAt": "2026-06-27T00:02:45.304Z",
+  "model": "MiniMax-M3"
+}

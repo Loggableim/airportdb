@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BVA",
+    "icao": "LFOB",
+    "name": "Beauvais-Tillé airport",
+    "country": "France",
+    "city": "Beauvais",
+    "lat": 49.4544,
+    "lon": 2.1128,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Beauvais-Tillé Airport (BVA), often marketed as 'Paris-Beauvais,' is a major low-cost carrier hub located in Tillé, approximately 85 km northwest of central Paris. Despite serving a modest regional population, it consistently ranks among the top ten busiest airports in France thanks to heavy use by budget airlines like Ryanair and Wizz Air. The single-terminal facility is purpose-built for high-volume point-to-point European travel, making it a popular gateway for travelers seeking cheaper fares into the Paris region.",
+  "faqs": "Q: Is Beauvais-Tillé Airport actually in Paris?\nA: No, it is located in Tillé, about 85 km (roughly 1 hour 15 minutes by road) northwest of central Paris. The airport is often branded 'Paris-Beauvais' for marketing purposes by low-cost carriers.\n\nQ: Which airlines operate from Beauvais Airport?\nA: Ryanair and Wizz Air account for the majority of flights, with seasonal or occasional services by other carriers connecting to destinations across Europe, North Africa, and the Middle East.\n\nQ: How many terminals does the airport have?\nA: Beauvais has a single passenger terminal that handles both arrivals and departures, which keeps walking distances short and navigation straightforward.\n\nQ: Does the airport operate 24 hours?\nA: No, Beauvais-Tillé has restricted operating hours, typically closing overnight. Flight schedules are concentrated during daytime hours.",
+  "transport_tips": "The official Beauvais Airport Shuttle (Navette) connects the airport to Paris Porte Maillot, taking around 1 hour 15 minutes and is timed to Ryanair and Wizz Air flights. Travelers arriving late or departing early should pre-book transport, as taxi services to Paris can be expensive (typically €100–€150) and ride-sharing availability is limited. Renting a car or arranging a taxi to nearby Beauvais town is straightforward and far cheaper than going directly to Paris.",
+  "local_tip": "Pack snacks and water for your arrival — the airport's food and retail options are minimal and pricier than in Paris, and the long bus ride into the city can feel longer without something to eat, especially on early morning departures when nothing inside may be open yet.",
+  "generatedAt": "2026-06-28T18:29:50.104Z",
+  "model": "MiniMax-M3"
+}

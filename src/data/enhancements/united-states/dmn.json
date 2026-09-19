@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DMN",
+    "icao": "KDMN",
+    "name": "Deming Municipal Airport",
+    "country": "United States",
+    "city": "Deming",
+    "lat": 32.2623,
+    "lon": -107.721,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Deming Municipal Airport (DMN/KDMN) is a city-owned general aviation airport located about three miles southeast of downtown Deming, New Mexico, in the high desert of Luna County. The airfield has roots in the area's 20th-century military aviation history and now serves private, business, and emergency-service aircraft with two asphalt runways. It has no scheduled airline service, but it is a convenient stop near I-10 between El Paso and Tucson.",
+  "faqs": "Q: Does Deming Municipal Airport have commercial airline service?\nA: No. DMN is a general aviation airport with no scheduled passenger airlines; the nearest major commercial service is El Paso International Airport (ELP), about two hours south.\n\nQ: What runway and facilities does KDMN offer?\nA: The field has two asphalt runways, 8/26 and 3/21, plus general aviation parking, hangars, and pilot services; check current fuel hours and NOTAMs before arrival.\n\nQ: How far is the airport from downtown Deming?\nA: It is roughly 3 miles southeast of downtown, typically a 5- to 10-minute drive by car.\n\nQ: Is there U.S. Customs at DMN?\nA: No. International general aviation flights should plan to clear customs at a designated port of entry such as El Paso before continuing to Deming.\n\n",
+  "transport_tips": "The airport is a short drive from downtown Deming via East Pine Street/Country Club Road or NM-549, with I-10 access nearby. Rental cars and rideshare can be limited, so arrange a car or local shuttle in advance. For airline connections, most travelers drive to El Paso (ELP), about 2 hours south.",
+  "local_tip": "Plan around afternoon density altitude and spring winds: early-morning departures from KDMN typically give the best climb performance and smoothest ride in this high-desert environment.",
+  "generatedAt": "2026-09-19T23:09:06.683Z",
+  "model": "deepseek-v4.1-flash"
+}

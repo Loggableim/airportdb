@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BFL",
+    "icao": "KBFL",
+    "name": "Meadows Field",
+    "country": "United States",
+    "city": "Bakersfield",
+    "lat": 35.4336,
+    "lon": -119.057,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Meadows Field is a medium-sized public airport serving Bakersfield and the broader Kern County region in California's southern Central Valley. It functions as a key gateway for travelers heading to the area's oil, agriculture, and aerospace industries, while also supporting general aviation and military operations. The airport is conveniently located just minutes north of downtown Bakersfield, offering an alternative to the larger, busier airports in Los Angeles and Fresno.",
+  "faqs": "Q: What airlines operate at Meadows Field?\nA: Meadows Field is primarily served by regional carriers offering flights to major hubs, including connections to destinations in California and beyond.\n\nQ: How far is Meadows Field from downtown Bakersfield?\nA: The airport is located approximately 7 miles north of downtown Bakersfield, typically a 15-20 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: No, Meadows Field handles domestic flights only, with no scheduled international service.\n\nQ: Is there a military presence at Meadows Field?\nA: Yes, the airport shares its facilities with military units, including California Air National Guard operations.\n\n",
+  "transport_tips": "Rental cars are the most convenient option at Meadows Field, with several agencies operating on-site, though rideshare services like Uber and Lyft also serve the airport. Taxis are available, but booking ahead is recommended. The airport is easily accessible via State Route 99, making it straightforward to reach from anywhere in the Bakersfield area.",
+  "local_tip": "If you have a layover or early arrival, check out the Buck Owens Crystal Palace downtown—a Bakersfield institution combining a restaurant, music venue, and museum honoring the country music legend who helped define the 'Bakersfield Sound.'",
+  "generatedAt": "2026-06-29T18:12:58.474Z",
+  "model": "MiniMax-M3"
+}

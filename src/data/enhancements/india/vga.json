@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VGA",
+    "icao": "VOBZ",
+    "name": "Vijayawada International Airport",
+    "country": "India",
+    "city": "Vijayawada",
+    "lat": 16.53,
+    "lon": 80.8049,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Vijayawada International Airport serves the bustling commercial city of Vijayawada in Andhra Pradesh, India, acting as a key gateway to the Amaravati capital region and the Krishna River delta. The airport has grown in importance as Vijayawada emerged as a major trading and business hub, handling increasing domestic and international traffic. It connects this historically significant region to destinations across India and select international routes.",
+  "faqs": "Q: How far is Vijayawada Airport from the city center?\nA: The airport is located approximately 18 km from downtown Vijayawada, with a typical drive taking around 30-45 minutes depending on traffic.\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard amenities including food courts, retail shops, ATMs, lounges, and free Wi-Fi access for travelers.\n\nQ: Which airlines operate from VGA?\nA: Major domestic carriers including IndiGo, Air India, SpiceJet, and Air India Express operate regular flights, with some international connections to nearby countries.\n\nQ: Is the airport open 24 hours?\nA: The airport operates during scheduled flight hours and is not a 24-hour facility, so confirm your flight timings in advance.\n\n",
+  "transport_tips": "Pre-paid taxi counters are available in the arrivals hall and offer fixed-rate transfers to Vijayawada city center and nearby towns. App-based ride services like Ola and Uber operate in the area but availability can be limited, especially for early morning or late-night arrivals. For budget travelers, APSRTC buses run between the airport and the city during daytime hours.",
+  "local_tip": "If traveling during the Krishna Pushkaralu festival period or major Hindu holidays, book transportation and accommodation well in advance as the airport and city see significant passenger surges.",
+  "generatedAt": "2026-06-28T23:19:49.061Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PRA",
+    "icao": "SAAP",
+    "name": "General Urquiza Airport",
+    "country": "Argentina",
+    "city": "Parana",
+    "lat": -31.7948,
+    "lon": -60.4804,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "General Urquiza Airport serves Paraná, the capital city of Entre Ríos Province in northeastern Argentina. Named after Justo José de Urquiza, the 19th-century Argentine general and former president who governed the region, the airport provides vital air access to this river city on the Paraná River. It functions as a regional hub connecting the province to Buenos Aires and other domestic destinations.",
+  "faqs": "Q: How far is General Urquiza Airport from downtown Paraná?\nA: The airport is located approximately 7-8 kilometers southeast of the city center, a drive of about 15-20 minutes depending on traffic.\n\nQ: Are there direct flights from PRA to Buenos Aires?\nA: The airport primarily handles domestic flights to Buenos Aires, though schedules and carriers vary seasonally.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers standard passenger services including a terminal building, parking, and basic amenities, though services are more limited than major international airports.\n\nQ: Is the airport open 24 hours?\nA: No, the airport operates during scheduled flight hours only and is typically closed overnight.\n\n",
+  "transport_tips": "Taxis and remise (private hire cars) are the most common ways to reach the airport from Paraná; pre-booking a remise is recommended for early morning departures. There is no regular public bus service to the terminal, so arranging ground transport in advance is advisable. Rental cars are also available in the city for those who prefer self-driven options.",
+  "local_tip": "If you have a layover or extra time, ask taxi drivers to take the scenic route along the Paraná River costanera — it offers beautiful views of the waterfront and is a memorable introduction to the city.",
+  "generatedAt": "2026-06-29T12:49:35.521Z",
+  "model": "MiniMax-M3"
+}

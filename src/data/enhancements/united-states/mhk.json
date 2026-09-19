@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MHK",
+    "icao": "KMHK",
+    "name": "Manhattan Regional Airport",
+    "country": "United States",
+    "city": "Manhattan",
+    "lat": 39.141,
+    "lon": -96.6708,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Manhattan Regional Airport is a publicly owned airport located in the Flint Hills region of northeast Kansas, serving the city of Manhattan and the surrounding area. The airport provides commercial air service for Kansas State University students, faculty, and visitors, as well as travelers heading to nearby Fort Riley. It features a modern terminal with relatively short wait times compared to larger hubs, making it a convenient gateway to the Little Apple.",
+  "faqs": "Q: How far is Manhattan Regional Airport from Kansas State University?\nA: The airport is located approximately 7 miles south of downtown Manhattan and the K-State campus, typically a 15-20 minute drive.\n\nQ: Which airlines serve Manhattan Regional Airport?\nA: The airport is primarily served by regional carriers offering flights to Dallas/Fort Worth, with connections to broader domestic networks.\n\nQ: Does the airport have rental car services?\nA: Yes, rental car agencies operate at the airport, and advance reservations are recommended during university move-in and graduation periods.\n\nQ: Is the airport used for military purposes?\nA: The airport shares airspace and coordination with nearby Fort Riley, a major U.S. Army installation, but commercial and general aviation operations are the primary focus.",
+  "transport_tips": "The airport is small enough that curbside pickup and drop-off is quick and convenient, with no need to navigate large parking structures. Rideshare services and local taxi companies are available but can be limited during late-night arrivals, so arranging ground transport in advance is wise. Rental car counters are located inside the terminal, and the short drive into Manhattan follows well-marked roads with minimal traffic outside of weekday rush hours.",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T03:53:35.705Z",
+  "model": "MiniMax-M3"
+}

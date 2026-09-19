@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JED",
+    "icao": "OEJN",
+    "name": "King Abdulaziz International Airport",
+    "country": "Saudi Arabia",
+    "city": "Jeddah",
+    "lat": 21.6802,
+    "lon": 39.1574,
+    "type": "large_airport",
+    "size": 1013075
+  },
+  "summary": "King Abdulaziz International Airport is Saudi Arabia's busiest airport and the principal gateway to the western region, serving Jeddah and the holy cities of Makkah and Madinah. It features the iconic Hajj Terminal, one of the world's largest airport structures, designed to handle millions of pilgrims during Hajj season. Opened in 1981, the airport has grown into a major Middle Eastern hub for both international and domestic flights.",
+  "faqs": "Q: How far is King Abdulaziz International Airport from central Jeddah?\nA: The airport is located approximately 19 km (12 miles) north of Jeddah city center, typically a 30-45 minute drive depending on traffic.\n\nQ: Does the airport have a dedicated terminal for Hajj and Umrah pilgrims?\nA: Yes, Terminal 1 (Hajj Terminal) is one of the largest covered structures in the world and was specifically designed to accommodate the massive influx of pilgrims.\n\nQ: What facilities are available for transit passengers?\nA: The airport offers prayer rooms, free Wi-Fi, lounges, duty-free shopping, and dining options across its terminals, with extensive services for pilgrims including Zamzam water distribution points.\n\nQ: Are there hotels near the airport?\nA: Several hotels are located within the airport complex and in the surrounding area, including options suitable for short layovers and pilgrim accommodation.",
+  "transport_tips": "Taxis and ride-hailing services like Careem and Uber are the most convenient ways to reach Jeddah city center, with a dedicated pickup area outside the terminals. SAPTCO buses operate regular routes connecting the airport to key destinations including Makkah and Madinah. The Haramain High-Speed Railway has a nearby station at King Abdullah Economic City, providing a fast option for pilgrims heading to the holy sites.",
+  "local_tip": "If you're traveling during Hajj season, book ground transportation and accommodation well in advance and allow at least 4-5 hours of buffer time before your flight, as the airport and surrounding roads become extremely congested with millions of pilgrims.",
+  "generatedAt": "2026-06-28T15:17:23.536Z",
+  "model": "MiniMax-M3"
+}

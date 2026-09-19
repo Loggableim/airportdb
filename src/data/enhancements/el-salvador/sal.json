@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SAL",
+    "icao": "MSLP",
+    "name": "El Salvador International Airport Saint Óscar Arnulfo Romero y Galdámez",
+    "country": "El Salvador",
+    "city": "San Salvador (San Luis Talpa)",
+    "lat": 13.4445,
+    "lon": -89.0558,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "El Salvador International Airport Saint Óscar Arnulfo Romero y Galdámez (SAL) is the country's primary international gateway, located about 40 km southeast of San Salvador in San Luis Talpa. Opened in 1979 and renamed in 2019 to honor the beloved Salvadoran archbishop and martyr, it replaced the older Ilopango Airport and serves as a major hub for regional travel in Central America. The single-terminal facility handles millions of passengers annually and functions as the main hub for Avianca El Salvador.",
+  "faqs": "Q: How far is the airport from downtown San Salvador?\nA: The airport is approximately 40 km (25 miles) southeast of San Salvador, with typical transfer times of 45-60 minutes depending on traffic.\n\nQ: What airlines operate from SAL?\nA: The airport serves as a hub for Avianca El Salvador (formerly TACA) and offers flights to major destinations across North, Central, and South America, as well as some European routes.\n\nQ: Is the airport open 24 hours?\nA: Yes, El Salvador International Airport operates 24 hours a day, though most commercial flights operate during daytime and early evening hours.\n\nQ: Are there currency exchange services available?\nA: Yes, currency exchange counters and ATMs are available in the terminal, though exchanging money before arrival or withdrawing from ATMs typically offers better rates.",
+  "transport_tips": "Official yellow taxis and authorized shuttle services are available outside the terminal; agree on a fare before departing as meters are not commonly used. Pre-arranged private transfers or hotel shuttles are recommended for comfort and predictable pricing, especially for first-time visitors. Rental cars from major agencies are available, though driving in San Salvador requires caution due to local traffic conditions.",
+  "local_tip": "If you have a long layover, the airport's Salón Premier lounge offers a comfortable escape with food, drinks, and Wi-Fi for a reasonable day-pass fee, far nicer than waiting at crowded gates.",
+  "generatedAt": "2026-06-28T17:36:49.552Z",
+  "model": "MiniMax-M3"
+}

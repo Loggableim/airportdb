@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IRK",
+    "icao": "KIRK",
+    "name": "Kirksville Regional Airport",
+    "country": "United States",
+    "city": "Kirksville",
+    "lat": 40.0935,
+    "lon": -92.5449,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kirksville Regional Airport (IRK) is a medium-sized public-use airport serving Kirksville, Missouri, and the surrounding rural northeast Missouri region. It plays a vital role in connecting this small community to broader aviation networks and is well known as a hub for flight training in the Midwest. The airport supports general aviation, air charter, and flight instruction operations.",
+  "faqs": "Q: Where is Kirksville Regional Airport located?\nA: It is located approximately 5 miles south of downtown Kirksville, Missouri, in the United States.\n\nQ: Does Kirksville Regional Airport offer commercial airline service?\nA: Scheduled commercial service has historically been limited; the airport primarily serves general aviation, flight training, and charter operations.\n\nQ: What is the airport known for?\nA: The airport is well regarded as a flight training center and supports Truman State University and the Kirksville area's aviation education programs.\n\nQ: Are there car rentals available at the airport?\nA: Rental car availability may be limited; visitors are encouraged to arrange ground transportation in advance with local providers in Kirksville.\n\n",
+  "transport_tips": "The airport is a short drive from Kirksville and is most easily reached by personal vehicle or a pre-arranged taxi or rideshare service. Parking is available on-site and is generally convenient for both short visits and extended stays. Since commercial service is limited, travelers should confirm ground transportation options before arrival.",
+  "local_tip": "If you're flying in for a visit to Truman State University or the Kirksville College of Osteopathic Medicine (ATSU), book your rental car well in advance as local inventory is small and demand spikes during university events.",
+  "generatedAt": "2026-06-29T05:03:55.454Z",
+  "model": "MiniMax-M3"
+}

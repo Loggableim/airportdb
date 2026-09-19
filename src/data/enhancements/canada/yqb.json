@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YQB",
+    "icao": "CYQB",
+    "name": "Quebec Jean Lesage International Airport",
+    "country": "Canada",
+    "city": "Quebec",
+    "lat": 46.7911,
+    "lon": -71.3933,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Quebec Jean Lesage International Airport (YQB) is the principal air gateway to Quebec City, named after Jean Lesage, the former Premier of Quebec whose era of modernization ('Révolution tranquille') reshaped the province in the 1960s. Located in L'Ancienne-Lorette approximately 15 km west of downtown Quebec City, it serves as a key hub for domestic travel and limited transborder flights to the United States. The airport has undergone major terminal modernization and expansion projects to accommodate growing passenger volumes.",
+  "faqs": "Q: How far is YQB from downtown Quebec City?\nA: The airport is roughly 15 km (about 10 miles) west of the city center, typically a 20-25 minute drive depending on traffic.\n\nQ: Does Quebec airport offer international flights?\nA: Yes, YQB offers transborder flights to the United States and seasonal international service, though most long-haul international travelers connect through Montreal or Toronto.\n\nQ: What airlines operate from YQB?\nA: Air Canada, WestJet, Porter, and several regional carriers operate from YQB, with Air Canada being the dominant carrier.\n\nQ: Is there a lounge at Quebec airport?\nA: Yes, an Air Canada Maple Leaf Lounge operates in the domestic/international terminal for eligible passengers.\n\n",
+  "transport_tips": "RTC bus route 76 provides affordable public transit between the airport and downtown Quebec City, with departures timed to flight arrivals. Taxi and rideshare pickup zones are located on the ground level outside the terminal, with fixed rates commonly offered to the Old Quebec area. Several major car rental agencies operate on-site, and the airport is easily accessed via Autoroute 40",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T17:21:44.880Z",
+  "model": "MiniMax-M3"
+}

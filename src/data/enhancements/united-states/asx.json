@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ASX",
+    "icao": "KASX",
+    "name": "John F Kennedy Memorial Airport",
+    "country": "United States",
+    "city": "Ashland",
+    "lat": 46.5485,
+    "lon": -90.919,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "John F. Kennedy Memorial Airport is a small public-use airport serving Ashland, Wisconsin, and the surrounding Chequamegon Bay region along Lake Superior's south shore. Named in honor of President John F. Kennedy following his assassination in 1963, the facility provides general aviation access to northern Wisconsin's outdoor recreation areas and Apostle Islands. The single-runway airport supports private aircraft, charter operations, and limited commercial connectivity to the broader regional transportation network.",
+  "faqs": "Q: What is the main runway length at John F. Kennedy Memorial Airport?\nA: The airport features a single asphalt runway suitable for small to mid-size general aviation aircraft typical of regional airports in northern Wisconsin.\n\nQ: Does the airport offer commercial airline service?\nA: No scheduled commercial service operates from ASX; the airport primarily serves general aviation, private pilots, and occasional charter flights.\n\nQ: Where exactly is the airport located relative to Ashland?\nA: The airport is situated a few miles southwest of downtown Ashland, providing convenient access to the city and nearby Chequamegon Bay communities.\n\nQ: Is the airport open to the public?\nA: Yes, John F. Kennedy Memorial Airport is a public-use facility available to transient pilots and visitors, though hours of operation may vary by season.",
+  "transport_tips": "Renting a car is the most practical option for travelers arriving at ASX, as public transportation options in Ashland are limited and taxi services should be arranged in advance. The short drive into downtown Ashland takes only a few minutes via local roads. Visitors traveling during winter months should check road conditions, as northern Wisconsin can experience significant snowfall that may affect ground transportation timing.",
+  "local_tip": "Frequent visitors recommend calling ahead during winter months, as the airport's smaller operational footprint means de-icing and snow removal can occasionally affect availability, and the nearby Lake Superior snowbelt brings heavier lake-effect precipitation than surrounding regions.",
+  "generatedAt": "2026-06-27T05:07:04.189Z",
+  "model": "MiniMax-M3"
+}

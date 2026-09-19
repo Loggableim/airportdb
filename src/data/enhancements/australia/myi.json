@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MYI",
+    "icao": "YMAE",
+    "name": "Murray Island Airport",
+    "country": "Australia",
+    "city": "Murray Island",
+    "lat": -9.9151,
+    "lon": 144.0546,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Murray Island Airport (MYI/YMAE) is a small regional airport serving Murray Island, also known as Mer, the easternmost inhabited island of the Torres Strait Islands group in Far North Queensland, Australia. The airport provides essential air connectivity for the island's Indigenous Torres Strait Islander community, supporting both passenger services and vital supply links to the mainland. It features a single unsealed runway and operates primarily as a community lifeline rather than a commercial hub.",
+  "faqs": "Q: What is the IATA code for Murray Island Airport?\nA: The IATA code is MYI, and its ICAO code is YMAE.\n\nQ: Where is Murray Island Airport located?\nA: It is located on Murray Island (Mer), the easternmost inhabited island in the Torres Strait Islands of Far North Queensland, Australia, approximately 210 km northeast of Cape York Peninsula.\n\nQ: What airlines serve Murray Island Airport?\nA: The airport is primarily served by regional operators providing scheduled and charter flights connecting to Horn Island and Cairns on the Australian mainland.\n\nQ: What facilities are available at the airport?\nA: As a small community airport, facilities are limited to basic terminal services with no jet bridge or extensive passenger amenities typical of larger airports.",
+  "transport_tips": "Travelers typically reach Murray Island by flying from Cairns to Horn Island (Thursday Island), then taking a connecting flight to Murray Island. There is no road network connecting the airport to the mainland; sea ferry services from Horn Island also operate but are weather-dependent. Ground transport on Murray Island is minimal, with most visitors arranging pickups in advance with local accommodation providers.",
+  "local_tip": "Plan flights with buffer time in Horn Island, as weather conditions in the Torres Strait can change rapidly and may cause delays or cancellations to smaller aircraft operations.",
+  "generatedAt": "2026-06-26T17:24:19.001Z",
+  "model": "MiniMax-M3"
+}

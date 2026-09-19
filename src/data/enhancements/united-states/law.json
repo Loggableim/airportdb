@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LAW",
+    "icao": "KLAW",
+    "name": "Lawton Fort Sill Regional Airport",
+    "country": "United States",
+    "city": "Lawton",
+    "lat": 34.5677,
+    "lon": -98.4166,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Lawton Fort Sill Regional Airport serves the city of Lawton in southwestern Oklahoma and the adjacent Fort Sill military installation, one of the most important U.S. Army posts in the region. Originally established to support Fort Sill's training operations, the airport has grown into a key regional gateway for southwestern Oklahoma. Its strategic location makes it a frequent choice for military personnel, families visiting soldiers, and travelers exploring the Wichita Mountains and Comanche County.",
+  "faqs": "Q: What is the closest military base to Lawton Fort Sill Regional Airport?\nA: Fort Sill is located just a few miles north of the airport and is one of the largest U.S. Army installations, home to the Field Artillery School.\n\nQ: How far is the airport from downtown Lawton?\nA: The airport is approximately 5 miles south of downtown Lawton, making it a short drive from the city center.\n\nQ: Does the airport offer commercial flights to major hubs?\nA: The airport is primarily served by regional carriers providing connections to larger hub airports, with service levels that can vary.\n\nQ: Are there car rental services available at LAW?\nA: Yes, car rental agencies typically operate at the airport, though options may be limited compared to larger airports.\n\n",
+  "transport_tips": "Rental cars and taxis are the most common ways to reach the airport, as there is no direct rail or metro service to Lawton. Visitors heading to Fort Sill should allow extra time, as military base access requires valid ID and vehicle checks at the gate. Ride-sharing services are available but may have limited availability, so booking in advance is recommended.",
+  "local_tip": "If you have a few hours to spare between flights, the Museum of the Great Plains near downtown Lawton offers a fascinating look at Comanche, Kiowa, and Apache history, and the Wichita Mountains Wildlife Refuge is only about 25 miles northwest—great for a quick scenic drive if time permits.",
+  "generatedAt": "2026-06-29T18:49:15.443Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CLQ",
+    "icao": "MMIA",
+    "name": "Licenciado Miguel de la Madrid International Airport",
+    "country": "Mexico",
+    "city": "Colima",
+    "lat": 19.277,
+    "lon": -103.577,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Licenciado Miguel de la Madrid International Airport (CLQ) serves the city of Colima in western Mexico, named after the Mexican president who served from 1982 to 1988. The airport is situated in a region known for the active Volcán de Colima and Pacific coastal beaches, making it a gateway for travelers exploring both the state capital and nearby Jalisco destinations. Despite its medium size, it handles domestic flights primarily connecting Colima to Mexico City and a few regional routes.",
+  "faqs": "Q: What is the airport code for Colima's airport?\nA: The IATA code is CLQ and the ICAO code is MMIA.\n\nQ: How far is the airport from Colima city center?\nA: The airport is located approximately 15-20 kilometers northeast of the city of Colima, with a typical drive time of 25-35 minutes depending on traffic.\n\nQ: Which airlines operate at Licenciado Miguel de la Madrid Airport?\nA: The airport primarily serves domestic flights, with connections mainly to Mexico City operated by carriers such as Aeroméxico and Volaris.\n\nQ: Can travelers reach the beach from this airport?\nA: Yes, the Pacific coast and beach destinations like Manzanillo are accessible within about 1.5 hours by road from the airport.\n\n",
+  "transport_tips": "Taxis and authorized shuttle services are available outside the terminal and are the most common ways to reach Colima city or nearby towns like Villa de Álvarez. Rental car agencies operate at the airport, which can be useful for travelers planning to visit the coast or explore the surrounding volcanic landscape. Pre-arranging transportation is recommended as ride-sharing services have limited availability in the region.",
+  "local_tip": "If you have a layover or extra time, ask about visiting the nearby Nevado de Colima national park area for spectacular views of the active Volcán de Colima—local drivers often know the best viewpoints just a short distance from the airport.",
+  "generatedAt": "2026-06-29T10:27:31.045Z",
+  "model": "MiniMax-M3"
+}

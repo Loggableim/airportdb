@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CBL",
+    "icao": "SVCB",
+    "name": "General Tomas de Heres Airport",
+    "country": "Venezuela",
+    "city": "Ciudad Bolivar",
+    "lat": 8.1222,
+    "lon": -63.537,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "General Tomás de Heres Airport (CBL) serves Ciudad Bolívar, the capital of Bolívar State in southeastern Venezuela, situated on the banks of the Orinoco River. The airport is named after General Tomás de Heres, a notable figure in Venezuelan independence history. It functions as an important regional hub for travelers heading to the Guayana region and serves as a key access point for tourists visiting nearby natural wonders such as Angel Falls and Canaima National Park.",
+  "faqs": "Q: How far is the airport from downtown Ciudad Bolívar?\nA: The airport is located approximately 5 kilometers east of the city center, with a typical drive taking around 10-15 minutes depending on traffic.\n\nQ: Are there direct international flights to CBL?\nA: No, the airport primarily handles domestic flights, with international travelers typically connecting through Caracas or other major Venezuelan hubs.\n\nQ: What airlines operate at General Tomás de Heres Airport?\nA: Domestic carriers such as Conviasa and other regional Venezuelan airlines typically serve this airport, offering connections to Caracas and other domestic destinations.\n\nQ: Can I fly from CBL to Canaima National Park?\nA: Yes, the airport is a common departure point for charter and scheduled flights to Canaima, the gateway to Angel Falls.",
+  "transport_tips": "Taxis and authorized airport shuttles are the most common ways to reach the city center from the airport, with fares typically negotiated in advance. Rental car services are available but limited, so booking ahead is recommended. Public transportation options are minimal at the airport, so arranging ground transport before arrival is advisable.",
+  "local_tip": "If you're visiting Angel Falls, book your Canaima flight directly from Ciudad Bolívar rather than from Caracas—it's often cheaper, and local tour operators can arrange both your flight and a multi-day tour package to the falls and surrounding tepuis.",
+  "generatedAt": "2026-06-26T08:49:13.844Z",
+  "model": "MiniMax-M3"
+}

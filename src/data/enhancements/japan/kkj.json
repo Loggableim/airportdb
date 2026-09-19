@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KKJ",
+    "icao": "RJFR",
+    "name": "Kitakyushu Airport",
+    "country": "Japan",
+    "city": "Kitakyushu",
+    "lat": 33.8459,
+    "lon": 131.035,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kitakyushu Airport (KKJ) is a modern facility built on a man-made island in the Suo Sea, opened in 2006 to replace the older Kokura Airport. It serves the industrial Kitakyushu metropolitan area in Fukuoka Prefecture on Japan's Kyushu island, offering both domestic and select international flights. The airport is connected to the mainland by the scenic Kitakyushu Airport Access Bridge.",
+  "faqs": "Q: How far is Kitakyushu Airport from the city center?\nA: The airport is located approximately 3 km off the coast, with the city center of Kokura about 20-25 km away, reachable in roughly 30-40 minutes by car or bus.\n\nQ: Does Kitakyushu Airport have international flights?\nA: Yes, it offers international services to destinations in East Asia including South Korea, Taiwan, and China, alongside its robust domestic network connecting to Tokyo, Osaka, and other major Japanese cities.\n\nQ: Is there public transportation to the airport?\nA: Yes, shuttle buses connect the airport to Kokura Station and other key locations in Kitakyushu, and there are also taxi services available at the terminal.\n\nQ: When did Kitakyushu Airport open?\nA: The current airport on its artificial island opened in March 2006, replacing the old Kokura Airport which served the region previously.",
+  "transport_tips": "The most convenient way to reach the airport is via the direct shuttle bus from Kokura Station, which takes about 35-40 minutes and runs frequently timed with flight schedules. Renting a car from the airport is straightforward and gives flexibility for exploring northern Kyushu, though note that the access bridge adds scenic driving time. Taxis are available but are significantly more expensive than bus options for the journey to Kitakyushu city.",
+  "local_tip": "The airport's location on a man-made island offers stunning views of the Seto Inland Sea during takeoff and landing—request a window seat on the left side when departing toward Tokyo for the best vistas of the coastline and bridge.",
+  "generatedAt": "2026-06-29T00:45:25.130Z",
+  "model": "MiniMax-M3"
+}

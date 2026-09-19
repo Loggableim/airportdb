@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NLD",
+    "icao": "MMNL",
+    "name": "Quetzalcóatl International Airport",
+    "country": "Mexico",
+    "city": "Nuevo Laredo",
+    "lat": 27.4439,
+    "lon": -99.5705,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Quetzalcóatl International Airport serves Nuevo Laredo, a key border city in the Mexican state of Tamaulipas directly across the Rio Grande from Laredo, Texas. Named after the Aztec feathered serpent deity, the airport supports both regional Mexican travel and cross-border commerce in one of North America's busiest land trade corridors. It functions as a convenient secondary gateway for travelers connecting between northern Mexico and South Texas.",
+  "faqs": "Q: Where is Quetzalcóatl International Airport located?\nA: The airport is situated in Nuevo Laredo, Tamaulipas, Mexico, just south of the U.S.–Mexico border, approximately 10 km from the international bridges connecting to Laredo, Texas.\n\nQ: What is the airport code and how do I identify it?\nA: Its IATA code is NLD and its ICAO code is MMNL.\n\nQ: Does the airport offer international flights?\nA: It primarily handles domestic Mexican routes and some cross-border connections, with Laredo International Airport across the border offering additional U.S. flight options.\n\nQ: Is there customs or immigration service at NLD?\nA: Standard customs and immigration facilities are available for arriving and departing passengers, though the main U.S.–Mexico border crossings are handled at the nearby international bridges.",
+  "transport_tips": "Taxis and ride-hailing services are readily available at the terminal and offer quick access to central Nuevo Laredo, typically within 15–20 minutes. Travelers heading to Laredo, Texas should note that the international bridges are the primary crossing points, with taxi or shuttle options available across the border. The airport is well connected via federal highway 85, providing easy road access to Monterrey and other northern Mexican destinations.",
+  "local_tip": "If you're crossing into Laredo, Texas afterward, check the bridge wait times online before departing the airport—lines at the Colombia Solidarity Bridge are often shorter than at the older downtown International Bridge, saving you significant time during peak crossing hours.",
+  "generatedAt": "2026-06-29T11:55:16.173Z",
+  "model": "MiniMax-M3"
+}

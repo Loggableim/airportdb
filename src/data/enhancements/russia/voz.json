@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VOZ",
+    "icao": "UUOO",
+    "name": "Voronezh International Airport",
+    "country": "Russia",
+    "city": "Voronezh",
+    "lat": 51.8143,
+    "lon": 39.2309,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Voronezh International Airport (VOZ) is the main air gateway to Voronezh, a major industrial and cultural city in southwestern Russia located along the Don River. The airport serves as an important regional hub, handling primarily domestic flights to Moscow, St. Petersburg, Sochi, and other Russian destinations, along with select international connections. It supports travel to a city historically known as the birthplace of the Russian Navy and home to several prominent universities.",
+  "faqs": "Q: How far is Voronezh Airport from the city center?\nA: The airport is located approximately 15 km northeast of central Voronezh, with typical travel times of 25-40 minutes depending on traffic conditions.\n\nQ: What are the main airlines operating at Voronezh Airport?\nA: Russian carriers such as Aeroflot, S7 Airlines, Pobeda, and Rossiya Airlines operate regular flights to Moscow and other major Russian cities from VOZ.\n\nQ: Does Voronezh Airport have international flights?\nA: Yes, the airport handles select international flights, primarily to CIS countries and seasonal charter destinations, though the majority of traffic is domestic.\n\nQ: Are there overnight facilities at the airport?\nA: The terminal has limited overnight amenities, so passengers on early morning flights may prefer to use hotels in the city center or nearby districts.\n\n",
+  "transport_tips": "Trolleybus and marshrutka (minibus) routes connect the airport to central Voronezh, offering an affordable option for budget travelers. Taxis and ride-hailing services like Yandex Taxi are widely available and provide a faster, more comfortable alternative, typically costing around 300-500 rubles to the city center. Renting a car is also possible for those planning to explore the Voronezh Oblast region independently.",
+  "local_tip": "If you have a long layover or a few hours to spare, consider visiting the nearby Voronezh Sea (Voronezhskoye Reservoir) — it's a popular local spot for walking and offers a pleasant contrast to the typical airport experience.",
+  "generatedAt": "2026-06-29T11:03:36.456Z",
+  "model": "MiniMax-M3"
+}

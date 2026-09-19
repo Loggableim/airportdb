@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ORD",
+    "icao": "KORD",
+    "name": "Chicago O'Hare International Airport",
+    "country": "United States",
+    "city": "Chicago",
+    "lat": 41.9786,
+    "lon": -87.9048,
+    "type": "large_airport",
+    "size": 1503175
+  },
+  "summary": "Chicago O'Hare International Airport (ORD) opened in 1944 as Orchard Field and was renamed in 1949 to honor Medal of Honor recipient Edward 'Butch' O'Hare. Located about 17 miles northwest of downtown Chicago, it is one of the world's busiest airports and a major hub for United and American Airlines. The airport features eight runways and an extensive terminal system, including the iconic Terminal 1 designed by Helmut Jahn.",
+  "faqs": "Q: What is the airport code for Chicago O'Hare?\nA: The IATA code is ORD and the ICAO code is KORD.\n\nQ: How far is O'Hare from downtown Chicago?\nA: It is approximately 17 miles (27 km) northwest of the Loop, and the CTA Blue Line train takes about 45 minutes.\n\nQ: Which airlines use O'Hare as a hub?\nA: United Airlines and American Airlines both operate major hubs at O'Hare.\n\nQ: Is there a hotel at O'Hare?\nA: Yes, the Hilton Chicago O'Hare Airport is connected to Terminals 1, 2, and 3 via underground walkways.\n\n",
+  "transport_tips": "The CTA Blue Line train is the most reliable public transit option, running 24/7 from the airport to downtown Chicago in about 45 minutes. Taxis and rideshares are available outside baggage claim, but allow extra time during peak traffic. The airport also offers shuttle services to nearby hotels and remote parking lots.",
+  "local_tip": "Frequent visitors know that Terminal 3's aeroponic garden (near the Rotunda between Concourses G and H) is a quiet, green space where you can relax and see herbs and vegetables growing for airport restaurants. It's rarely crowded and a great spot to recharge.",
+  "generatedAt": "2026-09-19T23:18:20.288Z",
+  "model": "deepseek-v4.1-flash"
+}

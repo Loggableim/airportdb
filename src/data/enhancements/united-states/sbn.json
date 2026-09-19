@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SBN",
+    "icao": "KSBN",
+    "name": "South Bend International Airport",
+    "country": "United States",
+    "city": "South Bend",
+    "lat": 41.7083,
+    "lon": -86.3169,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "South Bend International Airport (SBN) is a medium-sized public airport located in northern Indiana, approximately three miles northwest of downtown South Bend. The airport serves the South Bend-Mishawaka-Elkhart metropolitan area and provides convenient access to the University of Notre Dame. Originally known as Michiana Regional Transportation Center, it was renamed to reflect its growing role as a regional gateway and now handles both passenger and cargo operations.",
+  "faqs": "Q: How far is South Bend International Airport from downtown South Bend?\nA: The airport is approximately three miles northwest of downtown South Bend, typically a 10-15 minute drive depending on traffic.\n\nQ: Does South Bend International Airport offer international flights?\nA: While the airport handles international cargo and has customs facilities, scheduled passenger service is primarily domestic, with seasonal routes to select destinations.\n\nQ: What airlines operate at SBN?\nA: Several major and regional carriers serve the airport, offering nonstop flights to hub cities and select leisure destinations.\n\nQ: Is the airport convenient for visiting Notre Dame?\nA: Yes, the University of Notre Dame is just a short drive from the airport, making SBN the preferred arrival point for many visitors and game-day travelers.\n\n",
+  "transport_tips": "Rental cars are available on-site and are the most flexible option for exploring the region. Taxis, ride-shares, and shuttle services operate from the terminal, and the airport is directly accessible via Lincoln Way West. Ample long-term and short-term parking is available close to the terminal building.",
+  "local_tip": "If traveling during Notre Dame football weekends, book flights and ground transportation well in advance—hotel and rental car availability in the area becomes extremely limited and prices rise sharply.",
+  "generatedAt": "2026-06-29T02:12:11.841Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HLE",
+    "icao": "FHSH",
+    "name": "Saint Helena International Airport",
+    "country": "Saint Helena, Ascension and Tristan da Cunha",
+    "city": "Jamestown",
+    "lat": -15.9589,
+    "lon": -5.6461,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Saint Helena International Airport (HLE/FHSH) is a remote airfield serving the British Overseas Territory of Saint Helena in the South Atlantic Ocean, roughly 1,950 km west of southwest Africa. Opened in 2017 after extensive construction challenges, it replaced the island's only sea connection, the Royal Mail Ship St Helena, and provides the first scheduled air service to one of the world's most isolated populated places. The airport is notable for its dramatic setting among volcanic peaks and for its technical approach, which restricts operations to daylight hours in suitable wind conditions.",
+  "faqs": "Q: Why is air service to Saint Helena so limited?\nA: The airport's surrounding terrain and variable wind conditions make approaches technically demanding, restricting flights to daylight hours and preventing larger widebody aircraft from using the runway year-round.\n\nQ: When did Saint Helena International Airport open?\nA: The airport received its first commercial flight in October 2017, ending centuries of maritime-only access to the island.\n\nQ: Which airlines serve Saint Helena?\nA: Scheduled service has been operated by SA Airlink using Embraer E190 aircraft, connecting the island via Johannesburg.\n\nQ: Is there a flight to Ascension Island from Saint Helena?\nA: No regular commercial flights operate between Saint Helena and Ascension Island; travel between them remains by ship.",
+  "transport_tips": "The airport is about 10 km from Jamestown, and taxis are typically available to meet arriving flights, though scheduling is tied to limited air service. Rental cars can be arranged in advance and are recommended given the island's limited public transport. Because flight times can shift due to weather or operational constraints, travelers should confirm transport bookings close to departure.",
+  "local_tip": "Pre-book your taxi or rental pickup well in advance and build in a buffer day in your itinerary—disruptions to the limited weekly flights are common, and the next service may be days away.",
+  "generatedAt": "2026-06-29T20:49:25.902Z",
+  "model": "MiniMax-M3"
+}

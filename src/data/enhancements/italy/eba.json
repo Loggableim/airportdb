@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EBA",
+    "icao": "LIRJ",
+    "name": "Marina di Campo Airport",
+    "country": "Italy",
+    "city": "Campo nell'Elba (LI)",
+    "lat": 42.7609,
+    "lon": 10.2398,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Marina di Campo Airport (EBA/LIRJ) is a regional airport serving the Island of Elba in the Tuscan Archipelago, located near the coastal town of Marina di Campo on the island's southern coast. The airport primarily handles seasonal tourist traffic, providing a convenient air link to one of Italy's most popular island destinations, known for its beaches, Napoleonic history, and mineral-rich terrain. It features a single runway and operates with limited scheduled service, mostly during the summer months.",
+  "faqs": "Q: Which airlines fly into Marina di Campo Airport?\nA: The airport is primarily served by regional and charter carriers offering seasonal flights, mainly from mainland Italian cities such as Pisa, Florence, and Milan, plus occasional international connections.\n\nQ: How far is the airport from Portoferraio?\nA: Portoferraio, the island's main port town, is approximately 18 km northeast of the airport, a drive of roughly 25-30 minutes via the SP25 road.\n\nQ: When is the airport operational?\nA: Marina di Campo Airport typically operates seasonally, with regular scheduled flights concentrated between May and October, and reduced or charter-only service during the winter months.\n\nQ: Does the airport have car rental services?\nA: Yes, during the operating season several local and international car rental agencies have desks at the airport, though booking in advance is strongly recommended.",
+  "transport_tips": "Rental cars are the most convenient option for exploring the island, and booking in advance is essential during peak summer season. Taxi services are available but limited, so arranging pickup in advance is advisable. Ferry connections from Piombino to Portoferraio remain popular for those combining flights with maritime travel.",
+  "local_tip": "Visit during the shoulder months of May or late September to enjoy the island's hiking trails and historic sites, including Napoleon's residence at Palazzina dei Mulini, with fewer crowds and milder weather than peak summer.",
+  "generatedAt": "2026-06-29T05:55:09.417Z",
+  "model": "MiniMax-M3"
+}

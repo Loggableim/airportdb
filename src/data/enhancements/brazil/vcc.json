@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VCC",
+    "icao": "",
+    "name": "Vacaria Airport",
+    "country": "Brazil",
+    "city": "Vacaria",
+    "lat": -28.4325,
+    "lon": -51.0233,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Vacaria Airport (VCC) is a small general aviation airfield serving the municipality of Vacaria in the highlands of Rio Grande do Sul, southern Brazil. The city sits at an elevation of approximately 960 meters near the scenic Aparados da Serra and Serra Geral national parks, making the airport a potential gateway for adventure tourism and agricultural transport. As a small airport with a high size score relative to typical regional airstrips, it primarily supports private and charter aviation rather than scheduled commercial flights.",
+  "faqs": "Q: Does Vacaria Airport have scheduled commercial flights?\nA: No, VCC operates as a small general aviation airport and does not serve scheduled commercial passenger service.\n\nQ: What is Vacaria known for?\nA: Vacaria is one of Brazil's largest apple-producing regions and serves as a base for exploring the dramatic canyon landscapes of Aparados da Serra National Park.\n\nQ: Are there customs or immigration facilities at VCC?\nA: No, this is a domestic small airport without international customs services.\n\nQ: What type of aircraft can use Vacaria Airport?\nA: The airport accommodates small to mid-size propeller aircraft and business jets commonly used in regional Brazilian aviation.",
+  "transport_tips": "The airport is located just a few kilometers from Vacaria's city center, making taxi or rideshare the most practical option for onward travel. Car rental services may be limited, so arranging ground transport in advance is recommended. The BR-116 highway connects Vacaria to major cities like Caxias do Sul and Porto Alegre.",
+  "local_tip": "If flying in during apple harvest season (February through April), consider scheduling a visit to one of the local orchards—Vacaria produces a significant share of Brazil's apples and many farms welcome visitors for tastings and tours.",
+  "generatedAt": "2026-06-26T21:46:05.753Z",
+  "model": "MiniMax-M3"
+}

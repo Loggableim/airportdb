@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MFM",
+    "icao": "VMMC",
+    "name": "Macau International Airport",
+    "country": "Macau",
+    "city": "Nossa Senhora do Carmo",
+    "lat": 22.1496,
+    "lon": 113.592,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Macau International Airport is built largely on an artificial island reclaimed from the Pearl River Delta, having opened in 1995 as the main gateway to the Macau Special Administrative Region. It serves one of the world's most visited tourism and gaming destinations, handling a mix of regional flights, low-cost carriers, and significant helicopter traffic to Hong Kong and mainland China. The single-terminal facility is notable for its compact layout and panoramic views of the surrounding waterways and reclaimed land.",
+  "faqs": "Q: How far is Macau International Airport from the city center?\nA: The airport is approximately 4 km from the Taipa resort area and about 8 km from the Macau Peninsula historic center, reachable in 15-25 minutes by car depending on traffic.\n\nQ: Does the airport have its own ferry terminal?\nA: The airport itself does not have a ferry terminal, but the nearby Taipa Ferry Terminal and Macau Outer Harbour Ferry Terminal offer frequent service to Hong Kong and mainland Chinese cities like Shenzhen and Zhuhai.\n\nQ: Are there overnight facilities if I have a long layover?\nA: The terminal generally closes to non-passengers at night, so overnight stays are limited; however, nearby hotels in Taipa offer shuttle services and short-term rest packages for transit passengers.\n\nQ: What is the best way to get from the",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T17:05:53.888Z",
+  "model": "MiniMax-M3"
+}

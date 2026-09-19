@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "INQ",
+    "icao": "EIIR",
+    "name": "Inisheer Aerodrome",
+    "country": "Ireland",
+    "city": "Inis Oírr",
+    "lat": 53.0647,
+    "lon": -9.5109,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Inisheer Aerodrome (INQ) is a small airstrip serving Inis Oírr, the smallest of the three Aran Islands located in Galway Bay off Ireland's west coast. The airfield provides a vital air link for the island's residents and visitors, connecting the remote Gaeltacht community to the mainland. Its modest facilities reflect the island's tiny population and unspoiled, rugged character.",
+  "faqs": "Q: Which airlines operate flights to Inisheer Aerodrome?\nA: Scheduled flights are typically operated by Aer Arann Islands (operated under various names historically), connecting Inis Oírr to Connemara Regional Airport on the mainland.\n\nQ: How long is the runway at Inisheer Aerodrome?\nA: The airport has a single short runway suited only to small turboprop aircraft like the Britten-Norman Islander.\n\nQ: Can I take a ferry instead of flying to Inis Oírr?\nA: Yes, ferries run from Rossaveal (near Galway) and seasonally from Doolin in County Clare, making sea travel a popular alternative.\n\nQ: Is Inis Oírr part of the Gaeltacht?\nA: Yes, the island is an official Irish-speaking (Gaeilge) region, and Irish is the everyday language of most residents.\n\n",
+  "transport_tips": "The aerodrome is a short walk from the island's main village and pier, so no additional transport is needed on arrival. Flights are weather-dependent and frequently cancelled due to Atlantic winds, so always check ahead and have a ferry backup plan. Connemara Airport, the mainland departure point, is about a 1.5-hour drive west of Galway city.",
+  "local_tip": "Pack light and bring cash in small denominations, as there is limited luggage handling at the airstrip and the island's few shops may have card connectivity issues.",
+  "generatedAt": "2026-06-26T17:05:14.141Z",
+  "model": "MiniMax-M3"
+}

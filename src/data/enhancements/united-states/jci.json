@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JCI",
+    "icao": "KIXD",
+    "name": "New Century AirCenter Airport",
+    "country": "United States",
+    "city": "New Century",
+    "lat": 38.8309,
+    "lon": -94.8903,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "New Century AirCenter Airport (JCI/KIXD) is a general aviation facility located in Johnson County, Kansas, roughly 20 miles southwest of downtown Kansas City. Originally developed as a U.S. Naval Air Station during World War II, the airfield was later redeveloped into a business and corporate aviation center. Today it serves as a reliever airport for Kansas City's busy aviation system, hosting corporate jets, flight training, and general aviation operations.",
+  "faqs": "Q: What is New Century AirCenter Airport primarily used for?\nA: It functions as a general aviation and corporate aviation airport, supporting flight training, private aircraft, and business jet operations rather than commercial airline service.\n\nQ: Does New Century AirCenter have scheduled airline service?\nA: No, the airport does not host scheduled commercial flights. Travelers looking for commercial airline service typically use Kansas City International Airport (MCI) instead.\n\nQ: What is the history of the airport?\nA: The site was established as a Naval Air Station during World War II and was redeveloped for civilian aviation use after the military departed.\n\nQ: Are there on-site aircraft services available?\nA: Yes, the airport offers typical general aviation services including fueling, hangaring, aircraft maintenance, and tie-down space through fixed-base operators.\n\n",
+  "transport_tips": "The airport is located off Interstate 35 and U.S. Route 169 in Johnson County, making it easily reachable by car from the greater Kansas City metropolitan area. Rental cars and rideshare services are the most practical options for ground transportation since there is no scheduled public transit directly serving the airfield. Driving time to downtown Kansas City is approximately 30 to 40 minutes depending on traffic.",
+  "local_tip": "If visiting the area, consider timing your arrival outside of weekday rush hours (roughly 4-6 PM) since traffic along I-35 through Olathe and Overland Park can significantly extend what should be a quick drive from the airport.",
+  "generatedAt": "2026-06-26T23:49:09.693Z",
+  "model": "MiniMax-M3"
+}

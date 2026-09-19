@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BIG",
+    "icao": "PABI",
+    "name": "Allen Army Airfield",
+    "country": "United States",
+    "city": "Delta Junction Ft Greely",
+    "lat": 63.9945,
+    "lon": -145.722,
+    "type": "medium_airport",
+    "size": 275
+  },
+  "summary": "Allen Army Airfield (BIG/PABI) is a military airfield situated at Fort Greely, a U.S. Army installation near Delta Junction in interior Alaska. The base primarily supports military operations, including the missile defense mission at the nearby Ground-based Midcourse Defense (GMD) facility, but the airfield also accommodates limited civilian and charter traffic. Its remote subarctic location places it among the northernmost active airports on the Alaska road system.",
+  "faqs": "Q: Is Allen Army Airfield open to civilian passengers?\nA: The airfield is primarily a military facility, but it may handle approved civilian and charter flights. Civilian visitors typically need to coordinate access through Fort Greely in advance.\n\nQ: Where is the airport located relative to nearby towns?\nA: It sits on Fort Greely, just a few miles from Delta Junction, the closest community with services and lodging.\n\nQ: Does the airport have scheduled commercial service?\nA: No, there are no scheduled commercial flights. Travelers rely on general aviation, charter services, or the regional airports in Fairbanks for commercial connections.\n\nQ: What weather conditions should pilots and visitors expect?\nA: Interior Alaska experiences extremely cold winters with temperatures dropping well below zero, along with short, mild summers. Weather can change rapidly and visibility may be limited by ice fog and snow in winter months.\n\n",
+  "transport_tips": "Ground transportation is limited, so renting a vehicle in Fairbanks and driving the roughly 95 miles southeast on the Richardson Highway is a common option. Taxi and shuttle services from Delta Junction may be available but should be arranged in advance. Military personnel and authorized visitors can typically use base shuttles after clearing installation security.",
+  "local_tip": "If you are visiting Fort Greely for any reason, carry valid government-issued photo ID at all times and pre-register your vehicle at the visitor center—base access rules in Alaska are strictly enforced due to the strategic missile defense mission.",
+  "generatedAt": "2026-06-30T03:55:06.391Z",
+  "model": "MiniMax-M3"
+}

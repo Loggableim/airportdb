@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AAR",
+    "icao": "EKAH",
+    "name": "Aarhus Airport",
+    "country": "Denmark",
+    "city": "Aarhus",
+    "lat": 56.3033,
+    "lon": 10.6183,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Aarhus Airport (AAR) is the main gateway to Denmark's second-largest city, Aarhus, located in Tirstrup approximately 40 km northeast of the city center. It serves as a vital hub for the eastern Jutland region, offering both domestic flights to Copenhagen and seasonal international routes to European leisure destinations. The single-terminal facility is compact and easy to navigate, making it a convenient alternative to Copenhagen for travelers heading to central Denmark.",
+  "faqs": "Q: How far is Aarhus Airport from the city center?\nA: The airport is located about 40 km (25 miles) northeast of Aarhus in Tirstrup, with a typical drive taking around 40-50 minutes depending on traffic.\n\nQ: What transportation options are available to get to Aarhus?\nA: Travelers can use the Airport Bus (route 43) or dedicated shuttle buses that connect the airport directly to Aarhus city center. Taxis and rental cars are also available at the terminal.\n\nQ: Does Aarhus Airport have international flights?\nA: Yes, the airport operates seasonal flights to popular Mediterranean holiday destinations and some year-round European routes, alongside frequent domestic service to Copenhagen.\n\nQ: Is there public transport available early in the morning or late at night?\nA: Public bus services have limited schedules during very early and late hours, so travelers on unusual flight times should consider booking a taxi or arranging a private transfer in advance.\n\n",
+  "transport_tips": "The easiest and most affordable option to Aarhus is the dedicated airport shuttle bus or public route 43, which runs directly to the city center. If driving, follow the E45 motorway south from the airport for the fastest route into Aarhus. Taxi fares to the city are fixed and reasonably priced, typically around 400-500 DKK.",
+  "local_tip": "The airport has a small but well-regarded café in the departures area serving Danish pastries and open sandwiches (smørrebrød)—grab a coffee and a rugbrød sandwich before your flight, as it's one of the better quick food options in the region.",
+  "generatedAt": "2026-06-28T19:37:29.678Z",
+  "model": "MiniMax-M3"
+}

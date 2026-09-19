@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NOT",
+    "icao": "KDVO",
+    "name": "Marin County Airport - Gnoss Field",
+    "country": "United States",
+    "city": "Novato",
+    "lat": 38.1436,
+    "lon": -122.556,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Marin County Airport - Gnoss Field (NOT/KDVO) is a general aviation airport located in Novato, California, serving Marin County and the North Bay region roughly 30 miles north of San Francisco. Originally established as a military training facility during World War II, the airport was renamed in honor of local aviator Ben Gnoss. Today it functions primarily as a reliever airport for the San Francisco Bay Area's busy commercial hubs, catering to private pilots, corporate aviation, and flight training operations.\n\nQ: What type of aircraft use Marin County Airport?\nA: Gnoss Field primarily serves general aviation traffic, including single-engine private aircraft, twin-engine planes, business jets, and flight training aircraft. Commercial airline service is not available.\n\nQ: Is there an air traffic control tower at KDVO?\nA: Yes, the airport operates a Federal Aviation Administration (FAA) control tower during published hours, which helps manage the steady flow of general aviation traffic in the busy Bay Area airspace.\n\nQ: How close is Gnoss Field to San Francisco?\nA: The airport is approximately 30 miles north of downtown San Francisco, making it a convenient alternative for private pilots seeking easier access to the North Bay while avoiding busier commercial airports.\n\nQ: Are there rental cars available at the airport?\nA: Rental car services are limited at Gnoss Field due to its small size. Visitors typically arrange ground transportation in advance or use ride-sharing services to reach Novato and surrounding areas.\n\n",
+  "faqs": "",
+  "transport_tips": "Since this is a general aviation airport with no commercial service, ground transportation should be arranged in advance. Ride-sharing apps like Uber and Lyft operate in the Novato area, though wait times may be longer than at major airports. The Sonoma-Marin Area Rail Transit (SMART) train has a nearby stop in Novato, offering an alternative for travelers heading south to San Rafael or north to Sonoma County.",
+  "local_tip": "Pilots flying into Gnoss Field should note that the airport sits in a valley surrounded by hills, so be prepared for variable wind patterns and potential marine layer fog in the morning hours, especially during summer. The on-field restaurant, the Aviator's Grill, is a popular gathering spot for local pilots and offers a great way to experience the airport's community atmosphere.",
+  "generatedAt": "2026-06-26T23:48:47.693Z",
+  "model": "MiniMax-M3"
+}

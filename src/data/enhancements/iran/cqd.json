@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CQD",
+    "icao": "OIFS",
+    "name": "Shahrekord Airport",
+    "country": "Iran",
+    "city": "Shahrekord",
+    "lat": 32.2972,
+    "lon": 50.8422,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Shahrekord Airport serves the city of Shahrekord, capital of Chaharmahal and Bakhtiari Province in southwestern Iran, nestled in the Zagros Mountains at roughly 2,070 meters elevation. The regional airport primarily handles domestic flights connecting this highland province to major hubs like Tehran and Isfahan. Its mountainous setting makes it one of the higher-elevation airports in Iran, offering scenic approaches over the Zagros range.",
+  "faqs": "Q: Where is Shahrekord Airport located?\nA: The airport is situated near the city of Shahrekord in Chaharmahal and Bakhtiari Province, southwestern Iran, about 5 km from the city center.\n\nQ: What flights operate from Shahrekord Airport?\nA: The airport primarily serves domestic flights, with connections mainly to Tehran and other major Iranian cities. International flights are limited.\n\nQ: Is the airport affected by weather conditions?\nA: As a high-elevation airport in the Zagros Mountains, operations can occasionally be impacted by fog, snow in winter, and mountain weather conditions.\n\nQ: Does Shahrekord Airport have passenger amenities?\nA: The terminal offers basic amenities including a waiting area, check-in counters, and small refreshment options typical of a medium-sized regional airport.\n\n",
+  "transport_tips": "Taxis are the most common way to reach the airport from Shahrekord city center, with the trip typically taking around 15-20 minutes. Shared taxis and private hire cars can also be arranged from central Shahrekord. Since the airport is small, arriving 1-1.5 hours before domestic departures is generally sufficient.",
+  "local_tip": "If you have time before your flight, ask a local about visiting Shahr-e Sukhteh (Burnt City) or the nearby Zayandeh Rud springs—the Bakhtiari region is famous for its nomadic heritage and stunning mountain landscapes that most travelers miss.",
+  "generatedAt": "2026-06-26T13:39:42.307Z",
+  "model": "MiniMax-M3"
+}

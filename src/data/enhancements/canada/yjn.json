@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YJN",
+    "icao": "CYJN",
+    "name": "St Jean Airport",
+    "country": "Canada",
+    "city": "St Jean",
+    "lat": 45.2944,
+    "lon": -73.2811,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "St Jean Airport (CYJN/YJN) is a general aviation airport serving Saint-Jean-sur-Richelieu, Quebec, about 40 km southeast of Montreal. It has roots as a military training airfield and today supports flight training, private flying, and skydiving. Its two asphalt runways and riverside location make it a convenient reliever field for the Montreal area.",
+  "faqs": "Q: Does St Jean Airport have scheduled commercial flights?\nA: No. YJN is a general aviation airport with no scheduled airline service; it mainly handles private aircraft, flight training, and recreational flying.\n\nQ: How far is St Jean Airport from Montreal?\nA: It is roughly 40 km (25 mi) southeast of Montreal, typically a 35–50 minute drive depending on traffic.\n\nQ: What facilities are available at CYJN?\nA: Expect basic general aviation services such as fuel, parking, and flight-school facilities; terminal amenities are limited, so plan ahead for food and ground transport.\n\nQ: Can I fly internationally into St Jean Airport?\nA: It is not a major port of entry; if you need customs, confirm availability with the airport and CBSA well before arrival.\n\n",
+  "transport_tips": "By car, take Autoroute 35 to Saint-Jean-sur-Richelieu and follow local signs to the airport; driving from Montreal usually takes 35–50 minutes. Taxis and rideshares can be arranged from downtown Saint-Jean-sur-Richelieu, but there is no direct rail or frequent bus service to the terminal. On-site parking is available, and rental cars should be reserved in advance.",
+  "local_tip": "Skydiving and flight-training traffic can be busy on weekends, so monitor the common traffic frequency early and expect rapid runway changes; also check for morning river-valley fog before planning a VFR departure.",
+  "generatedAt": "2026-09-19T23:06:55.135Z",
+  "model": "deepseek-v4.1-flash"
+}

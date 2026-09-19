@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "APA",
+    "icao": "KAPA",
+    "name": "Centennial Airport",
+    "country": "United States",
+    "city": "Denver",
+    "lat": 39.5701,
+    "lon": -104.849,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Centennial Airport is one of the busiest general aviation airports in the United States, located in the city of Centennial approximately 15 miles south-southeast of downtown Denver, Colorado. Originally established in 1963 as Arapahoe County Airport, it serves as a major reliever for Denver International Airport, handling executive jets, flight training, and corporate aviation. The airport features two parallel runways and hosts numerous FBOs, flight schools, and aircraft maintenance facilities.",
+  "faqs": "Q: Is Centennial Airport open to commercial flights?\nA: No, Centennial Airport is exclusively a general aviation facility with no scheduled commercial airline service. It primarily serves private aircraft, corporate jets, and flight training operations.\n\nQ: How far is Centennial Airport from downtown Denver?\nA: The airport is approximately 15 miles south-southeast of downtown Denver, typically a 25-35 minute drive depending on traffic conditions.\n\nQ: What is the size of Centennial Airport?\nA: Centennial Airport sits on roughly 1,400 acres and features two parallel asphalt runways, the longer being 10,000 feet, capable of handling large business jets.\n\nQ: Are there restaurants and amenities at the airport?\nA: Yes, several FBOs and on-site restaurants are available, along with pilot shops, conference facilities, and car rental services for visitors and crew.",
+  "transport_tips": "Rental cars are the most convenient option for ground transportation, as the airport does not have direct public transit service. Ride-sharing services like Uber and Lyft are available but may have longer wait times compared to Denver International Airport. Taxi services and pre-arranged limousine or shuttle transportation can be booked through the FBOs on the field.",
+  "local_tip": "For the best experience, arrange ground transportation and FBO services in advance through your pilot or flight department, as walk-up services at Centennial can be limited compared to larger commercial airports. The nearby Park Meadows Mall and the tech corridor along the I-25 corridor offer convenient dining and business meeting options just minutes from the field.",
+  "generatedAt": "2026-06-30T04:46:57.186Z",
+  "model": "MiniMax-M3"
+}

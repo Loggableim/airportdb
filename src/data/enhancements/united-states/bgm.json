@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BGM",
+    "icao": "KBGM",
+    "name": "Greater Binghamton/Edwin A Link field",
+    "country": "United States",
+    "city": "Binghamton",
+    "lat": 42.2087,
+    "lon": -75.9798,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Greater Binghamton/Edwin A. Link Field (BGM) is a medium-sized public airport serving the Binghamton metropolitan area in upstate New York's Southern Tier region. The airport is named after Edwin A. Link, a renowned aviation pioneer and inventor famous for developing the Link Trainer flight simulator, which became a cornerstone of pilot training during World War II. The facility handles both commercial passenger service and general aviation operations.",
+  "faqs": "Q: What does the airport's full name commemorate?\nA: The airport is named after Edwin A. Link, a Binghamton native who invented the Link Trainer, an early flight simulator that trained hundreds of thousands of Allied pilots during World War II and laid the groundwork for modern flight simulation technology.\n\nQ: Does BGM offer commercial airline service?\nA: Yes, the airport is served by regional carriers offering scheduled flights to connecting hubs, typically serving destinations in the eastern United States.\n\nQ: What facilities are available at the airport?\nA: The airport features standard terminal amenities including a waiting area, rental car services, and parking facilities, along with general aviation services such as fuel, maintenance, and aircraft storage.\n\nQ: Is the airport used for flight training?\nA: Yes, BGM supports flight training activities and is associated with aviation education, fittingly given its connection to Edwin Link's legacy in pilot training technology.",
+  "transport_tips": "The airport is located just north of downtown Binghamton, making it a short drive from the city center and surrounding communities in the Southern Tier. Rental cars are available on-site, and taxi or rideshare services provide convenient transfers to local hotels and the downtown area. Interstate 81 and Route 17 (Future I-86) provide easy highway access to the airport from across the region.",
+  "local_tip": "Visit the nearby Bundy Museum of History and Art in downtown Binghamton to learn more about the region's industrial heritage, including the contributions of the Link family to aviation history.",
+  "generatedAt": "2026-06-29T03:52:48.184Z",
+  "model": "MiniMax-M3"
+}

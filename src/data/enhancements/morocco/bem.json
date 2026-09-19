@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BEM",
+    "icao": "GMMD",
+    "name": "Beni Mellal Airport",
+    "country": "Morocco",
+    "city": "Oulad Yaich",
+    "lat": 32.4019,
+    "lon": -6.3159,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Beni Mellal Airport (BEM) is a regional airport serving the city of Beni Mellal in Morocco's Béni Mellal-Khénifra region. Although technically located in Oulad Yaich, roughly 7 km from the city center, it functions as a key gateway to central Morocco's agricultural heartland and the scenic Atlas Mountain foothills. The airport primarily handles domestic flights and seasonal charter operations to accommodate tourism in the surrounding region.",
+  "faqs": "Q: How far is Beni Mellal Airport from the city center?\nA: The airport is located in Oulad Yaich, approximately 7 km from Beni Mellal's city center, with a typical transfer time of 15-20 minutes by car.\n\nQ: Which airlines operate from BEM?\nA: The airport primarily serves domestic routes operated by Royal Air Maroc, with occasional seasonal charter flights for tourist groups.\n\nQ: Are there facilities available at the airport?\nA: The terminal offers basic amenities including a small café, car rental services, and a modest waiting area, but services are limited compared to larger Moroccan airports like Casablanca or Marrakech.\n\nQ: Can I find direct international flights to Beni Mellal?\nA: Direct international flights are rare; most international travelers connect through Casablanca Mohammed V Airport before flying to BEM.",
+  "transport_tips": "Taxis are the most reliable way to reach Beni Mellal city from the airport, with fixed fares available at the taxi stand outside the terminal. Car rentals can be arranged in advance and are recommended for travelers planning to explore the surrounding region, including nearby attractions like the Aïn Asserdoun springs and Bin El Ouidane dam. Pre-booking a private transfer is advisable during peak travel periods, as public bus service is limited to this airport.",
+  "local_tip": "If you have time before your flight, ask a taxi driver to take you to the nearby weekly souk (market day varies by district) for an authentic glimpse of local Berber culture, handicrafts, and fresh produce — it's a more memorable experience than the airport's basic waiting area.",
+  "generatedAt": "2026-06-29T00:27:58.560Z",
+  "model": "MiniMax-M3"
+}

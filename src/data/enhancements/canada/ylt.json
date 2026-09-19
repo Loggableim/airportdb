@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YLT",
+    "icao": "CYLT",
+    "name": "Alert Airport",
+    "country": "Canada",
+    "city": "Alert",
+    "lat": 82.5173,
+    "lon": -62.283,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Alert Airport (YLT) is a remote military airfield on Ellesmere Island in Nunavut, Canada, serving the northernmost permanently inhabited settlement on Earth. The airport primarily supports Canadian Forces Station Alert, one of the closest land points to the North Pole, and plays a critical logistical role for Arctic defense and scientific operations. It operates in one of the harshest polar environments on the planet.",
+  "faqs": "Q: What is Alert Airport primarily used for?\nA: Alert Airport mainly serves Canadian Forces Station Alert, supporting military personnel, resupply missions, and the nearby Environment and Climate Change Canada weather station. It is a strategic asset for Canada's High Arctic presence.\n\nQ: Are there commercial passenger flights to Alert Airport?\nA: No scheduled commercial airline service operates to Alert. Access is generally restricted to authorized military, government, and scientific personnel.\n\n",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-26T07:42:59.614Z",
+  "model": "MiniMax-M3"
+}

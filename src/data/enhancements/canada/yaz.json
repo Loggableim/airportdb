@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YAZ",
+    "icao": "CYAZ",
+    "name": "Tofino / Long Beach Airport",
+    "country": "Canada",
+    "city": "Tofino",
+    "lat": 49.0798,
+    "lon": -125.7756,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tofino / Long Beach Airport is a regional airport situated on the rugged west coast of Vancouver Island in British Columbia, serving as the primary air gateway to the Pacific Rim National Park Reserve. Surrounded by old-growth temperate rainforest and within minutes of the famed Long Beach, the airport handles primarily turboprop and floatplane traffic from Vancouver. It remains a vital connection for both the local communities of Tofino and Ucluelet and the steady flow of tourists drawn to Canada's surf capital.",
+  "faqs": "Q: What airlines fly into Tofino / Long Beach Airport?\nA: Pacific Coastal Airlines operates scheduled turboprop service primarily from Vancouver International Airport (YVR). Harbour Air also offers floatplane connections to downtown Vancouver.\n\nQ: How long is the flight from Vancouver to Tofino?\nA: The flight from Vancouver (YVR) to Tofino (YAZ) takes approximately 55 minutes by turboprop, while floatplane service from downtown Vancouver's harbour typically takes around 45 minutes.\n\nQ: Is Tofino / Long Beach Airport international?\nA: No, YAZ is a domestic Canadian airport with no scheduled international service. It functions as a regional facility for domestic and private aviation only.\n\nQ: What is the airport used for besides tourism?\nA: Beyond tourism, the airport supports local industries including fishing, forestry, and serves as an important access point for emergency medical evacuations and supplies to remote coastal communities.\n\n",
+  "transport_tips": "Rental cars are available at the airport and are strongly recommended, as Tofino has limited public transit and many of the area's top sites (Long Beach, Pacific Rim National Park, hot springs) are spread out. Most hotels and resorts offer shuttle services if arranged in advance. Taxi services are available but can be limited, so booking ahead is advisable during peak tourist season.",
+  "local_tip": "Book a morning flight in whenever possible, as the airport's coastal location means afternoon marine fog rolling in from the Pacific frequently causes delays or diversions, especially between October and March during the popular storm-watching season.",
+  "generatedAt": "2026-06-29T04:09:43.222Z",
+  "model": "MiniMax-M3"
+}

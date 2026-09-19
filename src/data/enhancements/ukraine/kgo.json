@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KGO",
+    "icao": "UKKG",
+    "name": "Kirovograd Airport",
+    "country": "Ukraine",
+    "city": "Kirovograd",
+    "lat": 48.5428,
+    "lon": 32.285,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Kirovograd Airport (KGO) is a small regional airport serving the central Ukrainian city historically known as Kirovograd, officially renamed Kropyvnytskyi in 2016 though the airport retains its original IATA code. It primarily handles general aviation, charter flights, and limited domestic operations, supporting the Kirovohrad Oblast region. The airport sits on the outskirts of the city and functions mainly as a secondary gateway rather than a commercial hub.",
+  "faqs": "Q: Where is Kirovograd Airport located?\nA: It is located in the Kirovohrad Oblast of central Ukraine, a few kilometers from the city center of Kropyvnytskyi (formerly Kirovograd).\n\nQ: Does Kirovograd Airport offer international flights?\nA: The airport primarily supports domestic and general aviation traffic, with limited scheduled commercial service available.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, it offers basic passenger amenities and limited services typical of regional Ukrainian airfields.\n\nQ: Why is the city called Kropyvnytskyi but the airport still uses KGO?\nA: The city was renamed in 2016, but the IATA code KGO remained unchanged since airport codes are not automatically updated with city name changes.",
+  "transport_tips": "Taxis and private car hire are the most reliable way to reach the airport, as public transport options to the terminal are limited. The drive from central Kropyvnytskyi typically takes around 20 to 30 minutes depending on traffic conditions. Pre-booking a return transfer is recommended, as taxi availability near the airport can be sparse.",
+  "local_tip": "Confirm your flight status directly with your airline before traveling, as small regional airports like KGO sometimes experience last-minute schedule changes with limited notice.",
+  "generatedAt": "2026-06-28T01:37:08.097Z",
+  "model": "MiniMax-M3"
+}

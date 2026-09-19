@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HRM",
+    "icao": "DAFH",
+    "name": "Hassi R'Mel Airport",
+    "country": "Algeria",
+    "city": "Hassi R'Mel",
+    "lat": 32.9304,
+    "lon": 3.3115,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Hassi R'Mel Airport (HRM/DAFH) is a medium-sized regional airport serving the important oil and gas hub of Hassi R'Mel in central Algeria. Located in the Sahara Desert region, it primarily facilitates the transport of energy industry personnel to one of Algeria's largest natural gas fields. The airport plays a vital role in supporting the operations of Algeria's national hydrocarbon industry in this remote desert location.",
+  "faqs": "Q: Where is Hassi R'Mel Airport located?\nA: The airport is located near the town of Hassi R'Mel in central Algeria, approximately 32.93°N, 3.31°E, within the Saharan desert region of the country.\n\nQ: What is the main purpose of this airport?\nA: The airport primarily serves the oil and gas industry, transporting workers to the nearby Hassi R'Mel gas field, which is one of Algeria's most important hydrocarbon production sites.\n\nQ: Are there regular commercial passenger flights to HRM?\nA: Scheduled commercial service is limited; flights are mostly charter or company-operated, serving personnel working in the energy sector.\n\nQ: What facilities are available at the airport?\nA: As a regional airport focused on industrial operations, facilities are basic but adequate for passenger transit, with limited amenities typical of remote desert airfields.",
+  "transport_tips": "Ground transportation from the airport is typically arranged through employer shuttles or contracted vehicles, as public transport options are minimal in this remote area. Visitors should arrange transport in advance, usually through their sponsoring oil and gas company or hotel. The nearest major city with broader transport connections is Laghouat, located several hours away by road.",
+  "local_tip": "Given the extreme desert climate, carry plenty of water and sun protection when traveling to or from the airport, as waiting areas and outdoor transport connections can expose you to harsh midday temperatures, especially in summer months.",
+  "generatedAt": "2026-06-29T15:04:31.967Z",
+  "model": "MiniMax-M3"
+}

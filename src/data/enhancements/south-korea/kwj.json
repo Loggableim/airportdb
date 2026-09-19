@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KWJ",
+    "icao": "RKJJ",
+    "name": "Gwangju Airport",
+    "country": "South Korea",
+    "city": "Gwangju",
+    "lat": 35.1232,
+    "lon": 126.8054,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Gwangju Airport (KWJ) is a regional airport serving Gwangju, the largest city in the Jeollanam-do province of southwestern South Korea. Located in the Gwangsan District, it primarily facilitates domestic flights to Seoul (Gimpo) and Jeju, along with select international routes. Originally a military airfield, it transitioned to civilian use and remains an important gateway for business travelers visiting the region's industrial and automotive sectors.",
+  "faqs": "Q: What airlines operate from Gwangju Airport?\nA: Korean Air and Asiana Airlines are the main carriers, operating frequent domestic flights to Seoul Gimpo and Jeju International Airport.\n\nQ: Does Gwangju Airport offer international flights?\nA: Yes, the airport handles limited international routes, primarily to Japan and China, though its main focus is domestic service.\n\nQ: How far is the airport from downtown Gwangju?\nA: The airport is located approximately 7 kilometers west of central Gwangju, making it a short 20-30 minute drive from the city center.\n\nQ: Are there duty-free shops at Gwangju Airport?\nA: Yes, a modest duty-free shopping area is available in the international terminal for departing passengers.",
+  "transport_tips": "The most convenient way to reach central Gwangju is by taxi, which takes roughly 20-25 minutes and costs a reasonable fare. Limousine buses connect the airport to major downtown locations including Gwangju Songjeong Station and the express bus terminal. Renting a car on-site is also straightforward if you plan to explore the surrounding Jeollanam-do region.",
+  "local_tip": "If you have time before your flight, visit the Gwangju Biennale exhibition space or the Mudeungsan National Park trailhead—both are within 20 minutes of the airport and offer a rewarding taste of the city's cultural and natural highlights.",
+  "generatedAt": "2026-06-29T09:19:36.161Z",
+  "model": "MiniMax-M3"
+}

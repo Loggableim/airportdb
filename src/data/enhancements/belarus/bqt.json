@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BQT",
+    "icao": "UMBB",
+    "name": "Brest International Airport",
+    "country": "Belarus",
+    "city": "Brest",
+    "lat": 52.1081,
+    "lon": 23.8968,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Brest International Airport serves the western Belarusian city of Brest, located just across the Bug River from the Polish border. The airport provides convenient access to the region known for the historic Brest Fortress, a major WWII memorial site. It functions as a regional gateway primarily handling domestic routes and limited international services.",
+  "faqs": "Q: How far is the airport from Brest city center?\nA: The airport is located approximately 15 km east of Brest, with typical transfers taking around 20-30 minutes by road.\n\nQ: Does the airport offer international flights?\nA: The airport is classified as international but primarily operates domestic routes within Belarus, with international charter and seasonal services occasionally available.\n\nQ: Are there facilities for overnight stays near the airport?\nA: Limited on-site amenities are available, though most travelers find better accommodation options in central Brest.\n\nQ: Which airlines operate from Brest Airport?\nA: Belavia, the national carrier, is the primary operator handling scheduled services from this airport.",
+  "transport_tips": "Taxis and pre-booked transfer services are the most reliable way to reach the airport, as public bus connections are infrequent. Renting a car in Brest is straightforward and offers flexibility for travelers planning to explore the surrounding region, including the nearby Belovezhskaya Pushcha forest. Allow extra time during winter months when weather can affect road conditions.",
+  "local_tip": "If you have a layover or extra time, the Brest Fortress complex is a must-visit landmark just a short drive from the city center and offers deep insight into the region's wartime history.",
+  "generatedAt": "2026-06-29T00:44:03.286Z",
+  "model": "MiniMax-M3"
+}

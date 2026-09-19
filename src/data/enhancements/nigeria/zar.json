@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZAR",
+    "icao": "DNZA",
+    "name": "Zaria Airport",
+    "country": "Nigeria",
+    "city": "Zaria",
+    "lat": 11.1302,
+    "lon": 7.6858,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Zaria Airport (ZAR) is a regional airfield serving the historic city of Zaria in Kaduna State, northern Nigeria. It supports general aviation and limited scheduled flights, primarily catering to the large population linked to Ahmadu Bello University, one of Africa's largest institutions by enrollment. The airport provides an alternative to the busier Kaduna Airport located roughly 80 km to the south.",
+  "faqs": "Q: What is the airport code for Zaria Airport?\nA: The IATA code is ZAR and the ICAO code is DNZA.\n\nQ: Does Zaria Airport offer international flights?\nA: No, Zaria primarily handles domestic and general aviation traffic. International travelers typically use Kaduna or Abuja airports.\n\nQ: How far is the airport from Zaria city center?\nA: The airport is located on the outskirts of Zaria, roughly 10–12 km from the main city and Ahmadu Bello University campus.\n\nQ: Which airlines operate from Zaria Airport?\nA: Scheduled service has historically been limited and intermittent; the airport mainly supports charter, private, and occasional domestic flights.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are the most reliable way to reach the airport from Zaria city, with journey times around 20–30 minutes depending on traffic. Pre-arranging transport through a hotel or university contact is advisable, as on-site taxi availability can be limited. The road connecting the airport to the city is paved but can be poorly lit after dark, so plan travel during daylight hours when possible.",
+  "local_tip": "If you're visiting Ahmadu Bello University, ask your local host to arrange pickup directly rather than relying on airport taxis, as university staff drivers know the campus gates and security checkpoints best.",
+  "generatedAt": "2026-06-26T13:59:33.963Z",
+  "model": "MiniMax-M3"
+}

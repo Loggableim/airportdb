@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SOP",
+    "icao": "KSOP",
+    "name": "Moore County Airport",
+    "country": "United States",
+    "city": "Carthage",
+    "lat": 35.2372,
+    "lon": -79.3894,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Moore County Airport is a small general aviation facility serving Carthage, North Carolina, located in the heart of the state's Sandhills region. The airport primarily accommodates private pilots, flight training, and recreational flying, with no scheduled commercial airline service. It provides convenient access to the Pinehurst-Southern Pines area, a well-known destination for golf, equestrian sports, and resort tourism.",
+  "faqs": "Q: Does Moore County Airport have commercial airline service?\nA: No, SOP is a general aviation airport with no scheduled commercial flights. Travelers must use larger airports like Raleigh-Durham International (RDU) or Fayetteville Regional (FAY) for commercial service.\n\nQ: What is the airport commonly used for?\nA: The airport primarily serves private pilots, flight training, corporate aircraft, and recreational flyers visiting the Pinehurst and Southern Pines resort communities.\n\nQ: Are there rental cars available at the airport?\nA: Rental car availability is limited due to the airport's small size. Visitors typically arrange ground transportation in advance through local rental agencies or ride services.\n\nQ: What facilities does the airport offer?\nA: The airport features a single runway, aircraft parking areas, and basic pilot services, but does not have a staffed terminal for commercial passengers.",
+  "transport_tips": "Since the airport has no commercial service, visitors typically arrive by private aircraft or drive from nearby towns. The airport is a short drive from Pinehurst and Southern Pines, with rental cars usually needing to be arranged in advance. Taxi and rideshare services are available but may require scheduling ahead due to the rural location.",
+  "local_tip": "If flying in for a golf trip to Pinehurst, coordinate tee times and transportation well in advance—many local courses offer concierge pickup services for private aviation guests arriving at SOP.",
+  "generatedAt": "2026-06-27T01:48:43.710Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SJL",
+    "icao": "SBUA",
+    "name": "São Gabriel da Cachoeira Airport",
+    "country": "Brazil",
+    "city": "São Gabriel da Cachoeira",
+    "lat": -0.1484,
+    "lon": -66.9855,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "São Gabriel da Cachoeira Airport serves a remote municipality in the far northwest of Brazil's Amazonas state, near the tri-border with Colombia and Venezuela. The airport is a vital link for the upper Rio Negro region, which is largely covered by indigenous territories including the Yanomami and Tikuna reserves. Its location near the equator makes it one of the most northerly airports in Brazil.",
+  "faqs": "Q: How do you get to São Gabriel da Cachoeira?\nA: The most common way is by air from Manaus, as road access is extremely limited. Boat travel via the Negro and Vaupés rivers is also possible but slow.\n\nQ: Does the airport have regular commercial flights?\nA: Yes, the airport receives scheduled regional flights, primarily from Manaus, operated by Brazilian regional carriers.\n\nQ: What is the airport used for besides passenger travel?\nA: It supports government services, military operations, medical evacuations, and supply deliveries to remote indigenous communities in the region.\n\nQ: Are there customs facilities at the airport?\nA: The airport is not a major international hub, but it occasionally handles border-related flights given its proximity to Colombia and Venezuela.",
+  "transport_tips": "Taxis and motorcycle taxis (mototáxis) are the main ways to reach the town center from the airport, which is located just a few kilometers from downtown. Flights to and from Manaus can be delayed or cancelled due to weather conditions common in the Amazon basin, so plan extra time in your itinerary. Boat services to nearby riverside communities depart from the city's waterfront, not from the airport.",
+  "local_tip": "If you have a long layover or delayed flight, the small nearby plaza and local restaurants in the town center offer a chance to try regional Amazonian cuisine, including fish dishes like tambaqui and pirarucu prepared with local ingredients.",
+  "generatedAt": "2026-06-29T20:32:39.388Z",
+  "model": "MiniMax-M3"
+}

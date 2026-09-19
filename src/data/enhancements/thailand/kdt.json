@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KDT",
+    "icao": "VTBK",
+    "name": "Kamphaeng Saen Airport",
+    "country": "Thailand",
+    "city": "Nakhon Pathom",
+    "lat": 14.102,
+    "lon": 99.9172,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Kamphaeng Saen Airport (KDT) is a Royal Thai Air Force base located in Nakhon Pathom Province, central Thailand, approximately 60 km west of Bangkok. It serves primarily as Wing 23 of the RTAF and hosts the Royal Thai Air Force Academy as well as a campus of Kasetsart University. The facility supports military aviation training and occasionally handles limited civilian and charter flights.",
+  "faqs": "Q: Does Kamphaeng Saen Airport handle commercial passenger flights?\nA: No, the airport primarily supports Royal Thai Air Force operations and training flights. Commercial passenger service is not regularly available.\n\nQ: What is the airport mainly used for?\nA: It functions as a military airbase and aviation training facility, home to the Royal Thai Air Force Academy and supporting pilot training programs.\n\nQ: Where exactly is Kamphaeng Saen Airport located?\nA: It is situated in Nakhon Pathom Province, central Thailand, near the town of Kamphaeng Saen, about 60 km west of Bangkok.\n\nQ: Can private or charter aircraft use this airport?\nA: Limited private, charter, and occasional cargo flights can be accommodated with prior permission from the controlling military authority.",
+  "transport_tips": "The airport is accessible by road from Nakhon Pathom city, roughly 20 km away, and from Bangkok via Highway 4 (Phetkasem Road). Private car or taxi are the most practical options, as there is no regular public transit directly serving the airfield. Visitors should arrange transport in advance, especially outside standard operating hours.",
+  "local_tip": "If visiting the nearby Royal Thai Air Force Academy or Kasetsart University campus, confirm entry requirements and visiting hours in advance, as the military-controlled areas require prior authorization for non-military personnel.",
+  "generatedAt": "2026-06-26T13:22:21.111Z",
+  "model": "MiniMax-M3"
+}

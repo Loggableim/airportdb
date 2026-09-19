@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BGR",
+    "icao": "KBGR",
+    "name": "Bangor International Airport",
+    "country": "United States",
+    "city": "Bangor",
+    "lat": 44.8064,
+    "lon": -68.8267,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Bangor International Airport, located in Bangor, Maine, traces its roots to Dow Air Force Base, a Strategic Air Command installation during the Cold War that was converted to civilian use in 1968. Its exceptionally long 11,440-foot runway and strategic position along transatlantic flight paths have made it a key technical stop and diversion airport for long-haul flights crossing the North Atlantic.",
+  "faqs": "Q: Why is Bangor International Airport used by so many international flights?\nA: Its geographic location near great-circle routes between North America and Europe, combined with a runway long enough to handle fully loaded wide-body aircraft, makes it a frequent diversion and refueling point for transatlantic flights.\n\nQ: What was the airport used for before becoming civilian?\nA: It operated as Dow Air Force Base from 1957 to 1968, hosting Strategic Air Command bombers and interceptors during the Cold War, including B-52 and F-106 aircraft.\n\nQ: What services and amenities are available at the terminal?\nA: The single terminal offers restaurants, a gift shop, free Wi-Fi, a business center, and an on-site aviation museum highlighting the airport's military heritage.\n\nQ: Does the airport offer customs and immigration services?\nA: Yes, U.S. Customs and Border Protection is on-site to process international arrivals, particularly diverted flights.\n\n",
+  "transport_tips": "The airport sits about three miles west of downtown Bangor with direct access off Interstate 95, making it a straightforward drive for most travelers in central and eastern Maine. Rental car counters are available in the terminal, while taxis, rideshares, and shuttle services connect passengers to local hotels and the city center. Public transit options are limited, so having your own vehicle or pre-arranging ground transport is recommended.",
+  "local_tip": "If you have a long layover or are stuck overnight due to a diversion, ask at the information desk about a short visit to the on-site Maine Aviation History Museum, which displays artifacts from the base's military era including",
+  "generatedAt": "2026-06-29T01:55:54.146Z",
+  "model": "MiniMax-M3"
+}

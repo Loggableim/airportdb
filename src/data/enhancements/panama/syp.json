@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SYP",
+    "icao": "MPSA",
+    "name": "Ruben Cantu Airport",
+    "country": "Panama",
+    "city": "Santiago",
+    "lat": 8.0856,
+    "lon": -80.9453,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Ruben Cantu Airport (SYP) is a medium-sized domestic airport serving Santiago, the capital of Panama's Veraguas Province in the central part of the country. It functions as an important regional hub connecting the Azuero Peninsula region with Panama City and other domestic destinations. The airport is named in honor of Ruben Cantu, a notable Panamanian figure.",
+  "faqs": "Q: What airlines operate at Ruben Cantu Airport?\nA: The airport primarily serves domestic carriers operating flights within Panama, connecting Santiago with Panama City and other regional destinations.\n\nQ: Is Ruben Cantu Airport an international airport?\nA: No, SYP is a domestic airport handling primarily regional and national flights, with passengers typically connecting through Panama City's Tocumen International Airport for international travel.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers basic passenger services including a terminal building, waiting areas, and ground transportation options. Amenities are limited compared to major international airports.\n\nQ: How far is the airport from Santiago city center?\nA: The airport is located just a few kilometers from downtown Santiago, making it a short and convenient trip for travelers.",
+  "transport_tips": "Taxis are readily available outside the terminal and provide the most convenient way to reach Santiago city center. Rental car services may be limited, so arranging transportation in advance is recommended during peak travel periods. The short distance from the city means travel time is typically under 15 minutes.",
+  "local_tip": "If you have time before your flight, visit Santiago's central plaza area, which is close to the airport and offers a glimpse of authentic Panamanian provincial life with local eateries serving traditional dishes like sancocho.",
+  "generatedAt": "2026-06-26T11:58:46.801Z",
+  "model": "MiniMax-M3"
+}

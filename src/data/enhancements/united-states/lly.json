@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LLY",
+    "icao": "KVAY",
+    "name": "South Jersey Regional Airport",
+    "country": "United States",
+    "city": "Lumberton",
+    "lat": 39.9429,
+    "lon": -74.8457,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "South Jersey Regional Airport (LLY/KVAY) is a small general aviation facility located in Lumberton Township, Burlington County, New Jersey, serving the greater Philadelphia metropolitan area. The airport primarily supports private aircraft, flight training, and recreational flying, providing a convenient alternative to the busier Philadelphia International Airport. Its position in the Pine Barrens region offers pilots a gateway to exploring southern New Jersey's distinctive landscape.",
+  "faqs": "Q: What is South Jersey Regional Airport primarily used for?\nA: The airport primarily serves general aviation activities including private flights, flight training, recreational flying, and small aircraft operations.\n\nQ: Does South Jersey Regional Airport offer commercial airline service?\nA: No, this is a general aviation airport and does not provide scheduled commercial airline service.\n\nQ: How far is the airport from Philadelphia?\nA: The airport is located approximately 25-30 miles east of downtown Philadelphia, making it accessible for pilots and visitors from the greater Philadelphia area.\n\nQ: Are there flight training schools at this airport?\nA: Yes, the airport hosts flight training operations and is a popular location for student pilots learning to fly in the region.\n\n",
+  "transport_tips": "The airport is best reached by personal vehicle, as there is no public transit service directly to the facility. It's located near the intersection of Route 38 and I-295, providing easy road access from Philadelphia and other parts of New Jersey. Rental cars and rideshare services can be arranged for ground transportation, and free parking is typically available on-site.",
+  "local_tip": "If visiting the area, consider exploring the nearby Wharton State Forest, part of the iconic Pine Barrens, where you can enjoy hiking, canoeing, and visiting historic sites like Batsto Village—all just a short drive from the airport.",
+  "generatedAt": "2026-06-27T03:04:28.563Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LWM",
+    "icao": "KLWM",
+    "name": "Lawrence Municipal Airport",
+    "country": "United States",
+    "city": "Lawrence",
+    "lat": 42.7172,
+    "lon": -71.1234,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Lawrence Municipal Airport (LWM) is a public-use general aviation airport located in Lawrence, Massachusetts, serving the Merrimack Valley region north of Boston. Established in the early 20th century, it operates as a medium-sized facility supporting private aviation, flight training, and corporate traffic. The airport features two runways and is home to several FBOs and flying clubs that serve the greater northeastern Massachusetts area.",
+  "faqs": "Q: What services are available at Lawrence Municipal Airport?\nA: LWM offers general aviation services including fuel (100LL and Jet A), aircraft tie-downs and hangars, flight instruction, and aircraft maintenance through on-site FBOs and maintenance shops.\n\nQ: Does LWM have commercial airline service?\nA: No, Lawrence Municipal Airport is a general aviation facility with no scheduled commercial airline service. Commercial travelers in the area typically use Boston Logan International Airport.\n\nQ: What runways does LWM have?\nA: The airport features two asphalt runways: Runway 5/23, the primary runway, and Runway 14/32, which handles crosswind operations.\n\nQ: Is there a control tower at the airport?\nA: Yes, LWM has an air traffic control tower that operates during published hours, providing services to arriving and departing aircraft.",
+  "transport_tips": "The airport is conveniently located just off Route 114 in North Andover/Lawrence, making it easily accessible by car with ample free parking on-site. Rideshare services like Uber and Lyft are available for pickup and drop-off, though wait times can vary. Boston Logan International Airport (BOS) is approximately 30 miles south for those needing commercial connections.",
+  "local_tip": "If you're flying in to pick up or drop off, the Pilot's Pub right near the airport entrance is a popular post-flight spot among local pilots for grabbing a casual meal and swapping flying stories.",
+  "generatedAt": "2026-06-30T02:09:49.495Z",
+  "model": "MiniMax-M3"
+}

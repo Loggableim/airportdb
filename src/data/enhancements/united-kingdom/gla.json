@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GLA",
+    "icao": "EGPF",
+    "name": "Glasgow Airport",
+    "country": "United Kingdom",
+    "city": "Glasgow",
+    "lat": 55.8719,
+    "lon": -4.4331,
+    "type": "large_airport",
+    "size": 51275
+  },
+  "summary": "Glasgow Airport (GLA) is Scotland's busiest long-haul airport and the principal international gateway to the west of Scotland, located about 8 miles west of Glasgow city centre in Paisley, Renfrewshire. Originally opened as Renfrew Airport in 1933 and renamed Glasgow Airport in 1966, it serves as a major hub for airlines including easyJet, Jet2, Loganair, and TUI. The single-terminal facility underwent a major £31 million redevelopment completed in 2016, modernizing the departure lounge and check-in areas.",
+  "faqs": "Q: How far is Glasgow Airport from the city centre?\nA: Glasgow Airport is approximately 8 miles (13 km) west of Glasgow city centre, typically a 20-30 minute drive depending on traffic on the M8 motorway.\n\nQ: Does Glasgow Airport have a railway station?\nA: No, Glasgow Airport does not have a direct rail connection. A planned Glasgow Airport Rail Link was cancelled in 2009 due to budget cuts, so passengers rely on buses, coaches, and taxis.\n\nQ: Which airlines operate from Glasgow Airport?\nA: Glasgow serves a mix of full-service and low-cost carriers including easyJet, Jet2, British Airways, Loganair, Ryanair, TUI, and Wizz Air, offering flights across Europe, North America, and holiday destinations.\n\nQ: Is there a hotel at Glasgow Airport?\nA: Yes, the on-site Holiday Inn Glasgow Airport is directly connected to the terminal, and several other hotels including a Travelodge and Premier Inn are located within a short shuttle ride.",
+  "transport_tips": "The Glasgow Airport Express bus service (route 500) runs 24 hours a day between the airport and Glasgow city centre (Buchanan Bus Station) in around 25 minutes. The M8 motorway provides the main road access, though peak-time congestion can add significantly to journey times. McGill's buses also serve surrounding towns including Paisley and Renfrew, while taxi ranks are located directly outside",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T15:42:36.957Z",
+  "model": "MiniMax-M3"
+}

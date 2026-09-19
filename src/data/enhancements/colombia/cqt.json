@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CQT",
+    "icao": "",
+    "name": "Caquetania Airport",
+    "country": "Colombia",
+    "city": "Caquetania",
+    "lat": 2.0333,
+    "lon": -74.2167,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Caquetania Airport (CQT) is a small regional airfield serving the rural settlement of Caquetania in southeastern Colombia, near the foothills of the Andes transitioning into the Amazon basin. The facility primarily supports light aircraft operations, including charter flights, small commuter services, and occasional humanitarian or medical transport missions. Given its modest infrastructure, the airport serves as a vital connection point for remote communities in the Caquetá region where road access can be limited.",
+  "faqs": "Q: What type of aircraft typically operates at Caquetania Airport?\nA: The airport mainly handles small propeller aircraft and light charter planes suited for short runways typical of remote Colombian airfields.\n\nQ: Are there scheduled commercial flights to Caquetania?\nA: Scheduled service is limited or nonexistent; travelers typically rely on charter operators or small regional carriers.\n\nQ: What facilities are available at the airport?\nA: As a small rural airfield, amenities are minimal, generally consisting of a basic terminal or shelter, a small apron, and limited ground services.\n\nQ: Is the airport open to international flights?\nA: No, Caquetania is a domestic-only facility without customs or immigration services.",
+  "transport_tips": "Ground transportation options from the airport are limited, so arranging a local pickup in advance is strongly recommended. The closest towns may be reached via unpaved rural roads, which can become difficult to navigate during heavy rain. Travelers heading deeper into the Caquetá region should consider coordinating onward charter flights from larger hubs like Florencia or Neiva.",
+  "local_tip": "Pack light and bring insect repellent—the surrounding lowland area is part of Colombia's tropical forest transition zone, so mosquitoes and humidity are common even during brief transit stops.",
+  "generatedAt": "2026-06-27T19:09:09.244Z",
+  "model": "MiniMax-M3"
+}

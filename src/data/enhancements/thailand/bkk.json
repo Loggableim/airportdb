@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BKK",
+    "icao": "VTBS",
+    "name": "Suvarnabhumi Airport",
+    "country": "Thailand",
+    "city": "Bangkok",
+    "lat": 13.6811,
+    "lon": 100.747,
+    "type": "large_airport",
+    "size": 51150
+  },
+  "summary": "Suvarnabhumi Airport (BKK) is Thailand's largest and busiest airport, serving as the main international gateway to Bangkok. Opened in September 2006 on former swampland east of the city, it replaced the older Don Mueang Airport as Bangkok's primary aviation hub. The airport features one of the world's largest single-terminal buildings and serves as the main hub for Thai Airways and Thai Smile.",
+  "faqs": "Q: How far is Suvarnabhumi Airport from central Bangkok?\nA: The airport is located approximately 25 kilometers (15 miles) east of central Bangkok, typically a 30-45 minute drive depending on traffic.\n\nQ: Does Suvarnabhumi Airport have a rail connection to the city?\nA: Yes, the Airport Rail Link (ARL) connects the airport to Phaya Thai station in central Bangkok, with stops at Makkasan and other stations along the way.\n\nQ: How many terminals does Suvarnabhumi Airport have?\nA: The airport operates with a single large terminal building, which is one of the largest in the world, handling both domestic and international flights.\n\nQ: Is Suvarnabhumi Airport a 24-hour facility?\nA: Yes, the airport operates 24 hours a day, though some shops and services may have limited hours during overnight periods.",
+  "transport_tips": "The Airport Rail Link is the most reliable way to avoid Bangkok's notorious traffic, reaching Phaya Thai in about 30 minutes for around 45 baht. Taxis are available but can take 60-90 minutes during peak hours and require a 50-baht airport surcharge plus meter fare. Metered taxis should be arranged at the official taxi stand on the first floor of the arrivals hall to avoid touts.",
+  "local_tip": "If you have a long layover, the Miracle Lounge and other premium lounges on the upper floors of the main terminal offer showers, massage services, and quiet spaces worth the day-pass fee for a refreshing break between flights.",
+  "generatedAt": "2026-06-28T15:55:52.907Z",
+  "model": "MiniMax-M3"
+}

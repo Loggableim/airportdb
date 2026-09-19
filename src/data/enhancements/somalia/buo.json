@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BUO",
+    "icao": "HCMV",
+    "name": "Burao Airport",
+    "country": "Somalia",
+    "city": "Burao",
+    "lat": 9.5275,
+    "lon": 45.5549,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Burao Airport is a small regional airport serving Burao, the capital of the Togdheer region in northern Somalia. It primarily handles domestic flights connecting the city to other regional centers, supporting both passenger travel and the area's vital livestock trade. The facility operates with basic infrastructure typical of Somalia's regional airfields.",
+  "faqs": "Q: What is the IATA code for Burao Airport?\nA: The IATA code is BUO and the ICAO code is HCMV.\n\nQ: What types of flights operate from Burao Airport?\nA: The airport primarily handles domestic and regional flights within Somalia, with limited scheduled service connecting to other regional centers.\n\nQ: Is Burao Airport open to international flights?\nA: No, it is a domestic airport serving mainly regional routes within Somalia.\n\nQ: How large is Burao Airport?\nA: It is classified as a small airport with limited infrastructure and facilities.",
+  "transport_tips": "Taxis and shared minivans (known locally as 'bajaj' or similar) are typically available to transport passengers between the airport and Burao city center. The airport is located a short drive from the city, making ground transfers relatively quick. Travelers should arrange return transport in advance, as taxi availability can be limited outside peak flight times.",
+  "local_tip": "Burao is a major hub for the Somali livestock trade, so flights can occasionally be busy or subject to schedule changes during major trading periods—build flexibility into your travel plans if connecting onward.",
+  "generatedAt": "2026-06-26T16:49:09.586Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LGD",
+    "icao": "KLGD",
+    "name": "La Grande/Union County Airport",
+    "country": "United States",
+    "city": "La Grande",
+    "lat": 45.2902,
+    "lon": -118.007,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "La Grande/Union County Airport serves the city of La Grande in northeastern Oregon, providing a vital gateway to the Grande Ronde Valley and the surrounding Blue Mountains region. The airport supports general aviation, business travel, and recreational flying in a rural area where air service connects remote communities to larger hubs. Its location at the base of the Wallowa Mountains makes it a useful entry point for visitors exploring outdoor recreation in eastern Oregon.",
+  "faqs": "Q: What is the main purpose of La Grande/Union County Airport?\nA: The airport primarily serves general aviation, business travel, and recreational flying for the Grande Ronde Valley and surrounding northeastern Oregon communities.\n\nQ: Are there commercial airline flights at LGD?\nA: Scheduled commercial service is limited; travelers typically rely on general aviation or drive to larger airports like Pendleton or Boise for commercial flights.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, hangars, fuel services, and tie-down areas for general aviation aircraft, along with basic pilot amenities.\n\nQ: Can private aircraft land at La Grande/Union County Airport?\nA: Yes, the airport welcomes private and charter aircraft with prior coordination through flight operations.\n\n",
+  "transport_tips": "The airport is located just a few miles southeast of downtown La Grande, making ground transportation quick and straightforward. Rental cars are typically the most practical option for visitors, though local taxis and rideshares may also be available with advance notice. On-site parking is generally convenient for both short visits and longer stays.",
+  "local_tip": "If you're flying in for outdoor adventures, check the local weather forecast carefully—northeastern Oregon weather can shift quickly due to the surrounding mountains, and morning flights typically offer the calmest conditions for arrival.",
+  "generatedAt": "2026-06-27T08:13:01.945Z",
+  "model": "MiniMax-M3"
+}

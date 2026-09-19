@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GMA",
+    "icao": "FZFK",
+    "name": "Gemena Airport",
+    "country": "Democratic Republic of the Congo",
+    "city": "Gemena",
+    "lat": 3.2354,
+    "lon": 19.7713,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Gemena Airport (GMA/FZFK) is a medium-sized regional airport serving the city of Gemena, the capital of South Ubangi Province in the northwestern Democratic Republic of the Congo. Situated near the Ubangi River, it functions as a key aviation link connecting this remote equatorial region to Kinshasa and other major DRC cities. The airport primarily handles domestic flights operated by Congolese carriers, serving as an essential lifeline for passengers and cargo in this geographically isolated area.",
+  "faqs": "Q: What airlines fly from Gemena Airport?\nA: Gemena Airport is primarily served by domestic Congolese carriers such as CAA, Mwantjet, and other local operators running routes to Kinshasa and regional hubs.\n\nQ: Does Gemena Airport have international flights?\nA: No, GMA operates as a domestic airport. International travelers typically connect through N'Djili International Airport in Kinshasa.\n\nQ: Are there customs and immigration facilities at Gemena?\nA: No formal customs or immigration services are available since the airport handles only domestic flights; all international arrivals must clear formalities in Kinshasa.\n\nQ: Is Gemena Airport safe for travelers?\nA: The airport operates under standard DRC civil aviation oversight. Travelers should verify current security conditions and flight availability in advance due to the region's variable operational environment.",
+  "transport_tips": "Most travelers reach Gemena Airport via shared taxis or moto-taxis from the city center, located just a short ride away. The unpaved roads around the airport can become difficult during heavy rains, so allow extra travel time during the wet season. Cash in Congolese francs is essential for ground transportation as card payments are rarely accepted.",
+  "local_tip": "Flights are frequently delayed or rescheduled in this region, so book flexible accommodations and consider adding a buffer day to your itinerary—locals often refer to scheduled departure times as 'suggestions.'",
+  "generatedAt": "2026-06-29T15:03:55.383Z",
+  "model": "MiniMax-M3"
+}

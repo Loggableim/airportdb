@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ABE",
+    "icao": "KABE",
+    "name": "Lehigh Valley International Airport",
+    "country": "United States",
+    "city": "Allentown/Bethlehem",
+    "lat": 40.6518,
+    "lon": -75.4428,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Lehigh Valley International Airport (ABE) serves the Lehigh Valley region of eastern Pennsylvania, including the cities of Allentown, Bethlehem, and Easton—its IATA code derived from these three communities. Originally established in the 1920s, the airport operates as a convenient alternative to the larger Philadelphia and Newark hubs, offering nonstop service to several major U.S. destinations. Its single-terminal layout makes navigation quick and straightforward for travelers.",
+  "faqs": "Q: What cities does Lehigh Valley International Airport serve?\nA: The airport primarily serves Allentown, Bethlehem, and Easton, collectively known as the Lehigh Valley region in eastern Pennsylvania.\n\nQ: How far is ABE from downtown Allentown and Bethlehem?\nA: The airport is roughly 5-7 miles from downtown Allentown and approximately 10 miles from Bethlehem, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines operate at Lehigh Valley International Airport?\nA: Major carriers serving ABE have included Delta, American, United, and Allegiant, offering flights to hub cities and select leisure destinations.\n\nQ: Does ABE have its own terminal?\nA: Yes, the airport operates from a single main terminal building, making check-in, security, and baggage claim easily accessible on one level.",
+  "transport_tips": "The airport is conveniently located just off Interstate 78 and U.S. Route 22, making it accessible from anywhere in the Lehigh Valley. Rental car counters, taxis, and rideshare services like Uber and Lyft are available curbside at the terminal. Ample free parking is offered in both short-term and long-term lots adjacent to the terminal building.",
+  "local_tip": "Visit the nearby Crayola Experience in downtown Easton or explore the SteelStacks arts and cultural campus on the former Bethlehem Steel site—both are within a 20-minute drive and offer uniquely local experiences that most travelers overlook.",
+  "generatedAt": "2026-06-29T02:27:48.070Z",
+  "model": "MiniMax-M3"
+}

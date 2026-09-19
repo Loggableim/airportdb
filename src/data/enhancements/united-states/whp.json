@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WHP",
+    "icao": "KWHP",
+    "name": "Whiteman Airport",
+    "country": "United States",
+    "city": "Pacoima",
+    "lat": 34.2593,
+    "lon": -118.413,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Whiteman Airport is a general aviation facility located in Pacoima in the San Fernando Valley region of Los Angeles, California. It serves primarily small private aircraft, flight training operations, and recreational pilots in one of the busiest metro areas in the United States. As part of the network of LA County-operated airports, it provides an important reliever function for the larger commercial hubs in the region.",
+  "faqs": "Q: What type of aircraft use Whiteman Airport?\nA: Whiteman primarily handles small single-engine and twin-engine piston aircraft, with some business jets and helicopters. It does not serve commercial airliners.\n\nQ: Is Whiteman Airport open to the public?\nA: Yes, the airport is open to public general aviation traffic, though visitors should check NOTAMs and coordinate with the FBO before arriving.\n\nQ: Does Whiteman Airport have a control tower?\nA: Yes, the airport operates a control tower during published hours, and pilots communicate with Whiteman Ground and Tower on the appropriate frequencies.\n\nQ: Are there flight schools at Whiteman Airport?\nA: Yes, Whiteman has hosted several flight training operations over the years, making it a popular location for student pilots in the greater Los Angeles area.\n\n",
+  "transport_tips": "Whiteman Airport is best reached by private vehicle, with access via the I-5 (Golden State Freeway) and local surface streets in Pacoima. Parking is available on-site near the FBO and tie-down areas. Public transportation options are limited, so rideshare or rental car is recommended for visitors without their own aircraft.",
+  "local_tip": "If visiting during business hours, check out the on-field restaurant, which is a popular gathering spot for local pilots and a convenient way to experience the airport's community atmosphere.",
+  "generatedAt": "2026-06-27T00:37:05.766Z",
+  "model": "MiniMax-M3"
+}

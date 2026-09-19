@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BAL",
+    "icao": "LTCJ",
+    "name": "Batman Airport",
+    "country": "Turkey",
+    "city": "Batman",
+    "lat": 37.929,
+    "lon": 41.1166,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Batman Airport (BAL) is a regional airport serving the city of Batman in southeastern Turkey, located in one of the country's most important oil-producing regions. The airport primarily handles domestic flights, connecting the Batman Province to major Turkish hubs like Istanbul and Ankara. It serves as a gateway for travelers exploring the cultural and historical sites of southeastern Anatolia, including the nearby ancient town of Hasankeyf.",
+  "faqs": "Q: How far is Batman Airport from the city center?\nA: The airport is approximately 7 km from central Batman, with the journey typically taking around 10-15 minutes by car.\n\nQ: Which airlines operate flights from Batman Airport?\nA: Turkish Airlines and other regional carriers operate scheduled domestic flights, primarily connecting to Istanbul and Ankara.\n\nQ: Does Batman Airport have international flights?\nA: No, the airport currently handles domestic flights only.\n\nQ: Is the airport open 24 hours?\nA: Operating hours vary by season and flight schedule, so travelers should confirm with their airline prior to arrival.",
+  "transport_tips": "Taxis and private transfer services are the most common ways to reach the city center, and they are readily available outside the terminal. Rental cars can also be arranged for those wishing to explore the broader Batman Province independently. There is no dedicated rail link, so road transport remains the primary option for onward travel.",
+  "local_tip": "If you have time between flights, the nearby town of Hasankeyf offers a remarkable glimpse into ancient Mesopotamian history, with archaeological sites along the Tigris River—definitely worth a half-day excursion if your schedule allows.",
+  "generatedAt": "2026-06-29T11:19:25.689Z",
+  "model": "MiniMax-M3"
+}

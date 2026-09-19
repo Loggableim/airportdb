@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YPQ",
+    "icao": "CYPQ",
+    "name": "Peterborough Regional Airport",
+    "country": "Canada",
+    "city": "Peterborough",
+    "lat": 44.2323,
+    "lon": -78.3621,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Peterborough Regional Airport (YPQ) is a medium-sized facility serving the city of Peterborough in southern Ontario, Canada, situated approximately 10 km southwest of the downtown core. The airport primarily supports general aviation, flight training, and corporate travel, and serves as an important access point for the Kawartha Lakes tourism region. It features a single asphalt runway and hosts aviation businesses including maintenance facilities and flying schools.",
+  "faqs": "Q: What is the main runway at Peterborough Regional Airport?\nA: The airport has a single asphalt runway designated 09/27, measuring approximately 7,000 feet in length, suitable for a range of general aviation and corporate aircraft.\n\nQ: Are there scheduled commercial flights from YPQ?\nA: Scheduled commercial service is limited or unavailable; the airport primarily handles general aviation, charter flights, and flight training operations.\n\nQ: Does the airport offer fuel services?\nA: Yes, the airport provides aviation fuel services (100LL and Jet A) during operational hours for transient and based aircraft.\n\nQ: Is there an on-site restaurant or amenities?\nA: Basic terminal amenities are available, and nearby businesses in the airport area cater to pilots and visitors, though options are limited compared to larger airports.",
+  "transport_tips": "The airport is about a 15-minute drive from downtown Peterborough via Highway 115 and Airport Road, and rental car services are available with advance booking. Taxi and rideshare options should be arranged in advance as availability can be limited in this area. Visitors driving from Toronto can reach the airport in roughly 90 minutes via Highway 401 and Highway 115.",
+  "local_tip": "Frequent visitors recommend timing flights for daytime arrivals, as the airport's pilot-controlled lighting and limited after-hours staffing can make evening operations less convenient. The nearby Peterborough Aviation Museum and the surrounding Trent-Severn Waterway region make it worthwhile to plan extra time for local exploration.",
+  "generatedAt": "2026-06-29T18:12:09.243Z",
+  "model": "MiniMax-M3"
+}

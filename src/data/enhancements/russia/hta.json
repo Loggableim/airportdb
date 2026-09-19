@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HTA",
+    "icao": "UIAA",
+    "name": "Chita-Kadala International Airport",
+    "country": "Russia",
+    "city": "Chita",
+    "lat": 52.0248,
+    "lon": 113.3058,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Chita-Kadala International Airport (HTA) serves the city of Chita, the capital of Russia's Zabaykalsky Krai in eastern Siberia. Located roughly 18 km from the city center near the Mongolian and Chinese borders, it functions as a key regional hub connecting Transbaikalia with Moscow and other Russian destinations. The airport handles both domestic flights and limited international services, supporting the region's role as a gateway between Russia and East Asia.",
+  "faqs": "Q: How far is Chita-Kadala Airport from the city center?\nA: The airport is located approximately 18 km west of downtown Chita, with typical travel times of 25–40 minutes by road.\n\nQ: Are there direct international flights from Chita?\nA: Yes, the airport operates limited international services, historically including routes to Mongolia, China, and other nearby countries, alongside regular domestic flights.\n\nQ: Which airlines operate from HTA?\nA: Aeroflot, S7 Airlines, and Angara Airlines are among the carriers serving Chita, with connections primarily to Moscow, Irkutsk, and other Russian cities.\n\nQ: Does the airport operate 24 hours?\nA: Chita-Kadala generally operates during daylight and evening hours; flight schedules are largely confined to daytime operations due to regional conditions.",
+  "transport_tips": "Trolleybus and marshrutka (minibus) services connect the airport to central Chita at affordable rates, though they can be infrequent. Official taxis and pre-booked transfer services offer more reliable and faster options, especially during cold Siberian winters when temperatures can drop significantly.",
+  "local_tip": "If traveling onward toward Mongolia, consider arranging onward transportation in advance—Chita is one of the last major Russian hubs before the border crossings at Kyakhta and Buir Lake.",
+  "generatedAt": "2026-06-28T23:53:06.464Z",
+  "model": "MiniMax-M3"
+}

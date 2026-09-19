@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "POZ",
+    "icao": "EPPO",
+    "name": "Poznań-Ławica Airport",
+    "country": "Poland",
+    "city": "Poznań",
+    "lat": 52.4216,
+    "lon": 16.8234,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Poznań-Ławica Airport (POZ/EPPO) is one of Poland's oldest airports, situated approximately 7 km west of Poznań's city center in the Ławica district. Originally established as a military airfield in the early 20th century, it has evolved into the main air gateway for the Wielkopolska region, serving both domestic routes and key European destinations. The airport combines modern passenger facilities with its historical aviation heritage.",
+  "faqs": "Q: How far is Poznań-Ławica Airport from the city center?\nA: The airport is approximately 7 km west of Poznań's city center, with a typical journey taking around 20 minutes by car or bus.\n\nQ: Does the airport operate 24 hours?\nA: No, the airport operates with limited hours and flight schedules vary by season. Check with your airline for specific operating times.\n\nQ: Are there direct train connections to the airport?\nA: No, there is no direct train service. Passengers typically use city buses, taxis, or ride-sharing services to reach the airport.\n\nQ: Can I find car rental services at the airport?\nA: Yes, several international car rental companies have desks in the terminal building, offering vehicles for both short and longer-term rentals.",
+  "transport_tips": "Bus line 159 runs regularly between the airport and Poznań Główny (main railway station), providing an affordable connection to the city center. Taxis and ride-sharing services are readily available outside the terminal, with the journey to the Old Town typically costing around 30-40 PLN. If driving, the airport is well-signposted from the A2 motorway, and both short-term and long-term parking options are available on-site.",
+  "local_tip": "Visit the nearby Ławica cemetery to see the graves of Polish Air Force pilots from World War II, including a notable monument dedicated to aviators—a quiet spot that reflects the area's deep aviation history.",
+  "generatedAt": "2026-06-28T19:21:44.071Z",
+  "model": "MiniMax-M3"
+}

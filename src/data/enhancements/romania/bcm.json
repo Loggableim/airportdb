@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BCM",
+    "icao": "LRBC",
+    "name": "Bacău George Enescu International  Airport",
+    "country": "Romania",
+    "city": "Bacău",
+    "lat": 46.5219,
+    "lon": 26.9103,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Bacău George Enescu International Airport (BCM) is a regional airport serving the city of Bacău in the historical Moldavia region of eastern Romania. Named after Romania's most celebrated composer, George Enescu, it functions as the primary air gateway for several surrounding counties. The airport handles both scheduled and seasonal charter flights, with growth in low-cost carrier operations in recent years.",
+  "faqs": "Q: How far is the airport from Bacău city center?\nA: The airport is approximately 6 km southwest of Bacău's city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines operate from Bacău Airport?\nA: The airport primarily serves low-cost carriers including Wizz Air, along with seasonal charter flights to Mediterranean destinations.\n\nQ: Does the airport operate 24 hours?\nA: Operating hours vary by flight schedule, generally opening for departing flights in the morning and closing after the last arrival. Check with your airline for specific times.\n\nQ: Are there customs and immigration facilities for international flights?\nA: Yes, the airport is equipped with standard border control facilities for Schengen and non-Schengen flights.\n\n",
+  "transport_tips": "The airport is accessible via the DN2 (E85) national road, making it convenient for travelers coming from neighboring cities like Iași, Suceava, or Piatra Neamț. Official taxi services and rideshare options are available outside the terminal, while some hotels offer shuttle transfers with prior arrangement. Parking is available on-site for short and long-term stays.",
+  "local_tip": "If you have a layover or extra time, Bacău's city center offers the George Enescu Memorial Museum, located in the composer's childhood home, which is a unique cultural stop for music enthusiasts visiting the region.",
+  "generatedAt": "2026-06-28T23:20:47.346Z",
+  "model": "MiniMax-M3"
+}

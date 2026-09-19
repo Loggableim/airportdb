@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KMO",
+    "icao": "PAMB",
+    "name": "Manokotak Airport",
+    "country": "United States",
+    "city": "Manokotak",
+    "lat": 58.9321,
+    "lon": -158.9019,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Manokotak Airport is a small public-use airport serving the remote Yup'ik village of Manokotak in the Bristol Bay region of southwestern Alaska. It provides essential air access to a community situated near the Togiak Wilderness, where road connections are absent. The facility primarily supports local passenger transport, mail delivery, and cargo via small bush aircraft.",
+  "faqs": "Q: What airlines serve Manokotak Airport?\nA: The airport is primarily served by regional carriers operating small bush planes, with scheduled passenger flights connecting Manokotak to larger hubs like Dillingham and Anchorage.\n\nQ: Is there a road to Manokotak?\nA: No, the village is not connected to any road network. Access is primarily by air, with boats and snowmachines used seasonally depending on ice and water conditions.\n\nQ: Does the airport have a paved runway?\nA: The airport features a single gravel runway suitable for small aircraft typical of bush operations in rural Alaska.\n\nQ: Are there facilities inside the airport?\nA: As a small rural airport, facilities are minimal, typically limited to a basic shelter or small terminal building, with no commercial services on site.",
+  "transport_tips": "Travelers must arrange air transport in advance, as flights are limited and weather-dependent in this remote region. Ground transportation from the airport into the village is typically informal, so coordinate pickup with a local contact ahead of arrival. Pack lightly and prepare for variable conditions, as baggage handling at remote Alaska airstrips can be hands-on.",
+  "local_tip": "Always check weather forecasts before your flight—Bristol Bay fog and wind can cause sudden delays or cancellations, and building a flexible schedule with a buffer day is essential when traveling through this region.",
+  "generatedAt": "2026-06-26T22:39:00.787Z",
+  "model": "MiniMax-M3"
+}

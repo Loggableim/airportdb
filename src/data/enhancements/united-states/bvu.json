@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BVU",
+    "icao": "PABG",
+    "name": "Beluga Airport",
+    "country": "United States",
+    "city": "Beluga",
+    "lat": 61.1722,
+    "lon": -151.044,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Beluga Airport is a small public-use airfield situated on the western shore of Alaska's Cook Inlet, serving the remote community of Beluga and surrounding areas in the Matanuska-Susitna Borough. The airport supports general aviation activity, including access to nearby natural gas operations and recreational destinations along the Cook Inlet. Its isolated location makes it a useful gateway for travelers exploring the rugged Kenai Peninsula region or working in the area's energy industry.",
+  "faqs": "Q: What type of airport is Beluga Airport?\nA: Beluga Airport is classified as a small public-use airport primarily serving general aviation traffic.\n\nQ: Where is Beluga Airport located?\nA: It is located near the community of Beluga, on the west side of Cook Inlet in south-central Alaska, United States.\n\nQ: Does Beluga Airport offer commercial airline service?\nA: No, the airport does not offer scheduled commercial service; it primarily accommodates private and charter flights.\n\nQ: What facilities are available at Beluga Airport?\nA: As a small rural airfield, it provides basic aviation facilities including a runway, with limited services typical of remote Alaskan airstrips.",
+  "transport_tips": "Access to Beluga Airport typically requires driving along local roads from nearby communities, with the nearest larger settlement being several miles away. Travelers should arrange ground transportation in advance, as there is no public transit serving the airport. Given the remote setting, having a personal vehicle or arranging a charter is recommended.",
+  "local_tip": "Check tide tables before flying in or out, as Beluga sits along Cook Inlet which experiences some of the world's largest tidal ranges and can affect local weather and visibility.",
+  "generatedAt": "2026-06-27T11:43:17.986Z",
+  "model": "MiniMax-M3"
+}

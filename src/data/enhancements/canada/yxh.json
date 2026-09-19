@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YXH",
+    "icao": "CYXH",
+    "name": "Medicine Hat Regional Airport",
+    "country": "Canada",
+    "city": "Medicine Hat",
+    "lat": 50.0189,
+    "lon": -110.721,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Medicine Hat Regional Airport serves the city of Medicine Hat in southeastern Alberta, Canada. The airport supports regional commercial flights, general aviation, and serves as a key gateway for the Cypress County region. It features a single terminal handling modest passenger volumes and hosts flight training and air ambulance services.",
+  "faqs": "Q: What airlines operate at Medicine Hat Regional Airport?\nA: The airport is primarily served by regional carriers offering scheduled flights to Calgary and other connections, along with charter and general aviation operators.\n\nQ: How far is the airport from downtown Medicine Hat?\nA: The airport is located a short drive southwest of the city center, typically around 10 to 15 minutes by car.\n\nQ: Does the airport have customs and immigration services?\nA: The airport does not operate as a designated port of entry for international flights; international travelers typically connect through larger hubs.\n\nQ: Is parking available at the airport?\nA: Yes, the airport provides on-site parking for passengers and visitors near the terminal building.",
+  "transport_tips": "The most convenient way to reach Medicine Hat Regional Airport is by personal vehicle or taxi, with the airport located just off Highway 1 (Trans-Canada Highway). Rental car services are available in the city for those needing independent transport. There is no direct public transit service to the terminal, so arranging a ride in advance is recommended.",
+  "local_tip": "Visitors flying into Medicine Hat should plan for the city's strong prairie winds, especially in fall and winter, as flights can occasionally be affected by weather diversions to Calgary.",
+  "generatedAt": "2026-06-29T04:27:20.432Z",
+  "model": "MiniMax-M3"
+}

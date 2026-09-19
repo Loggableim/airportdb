@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ATC",
+    "icao": "MYCA",
+    "name": "Arthur's Town Airport",
+    "country": "Bahamas",
+    "city": "Arthur's Town",
+    "lat": 24.6294,
+    "lon": -75.6738,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Arthur's Town Airport (ATC) is a small regional airport serving Arthur's Town on Cat Island in the Bahamas. The airport is notably the birthplace connection of Academy Award-winning actor Sidney Poitier, who spent part of his early childhood in the nearby settlement. It functions as a key gateway for travelers visiting this quiet, less-developed Bahamian island known for its pristine beaches and historic colonial-era ruins.",
+  "faqs": "Q: What airlines serve Arthur's Town Airport?\nA: The airport is primarily served by regional Bahamian carriers offering scheduled domestic flights from Nassau and other island hubs.\n\nQ: Where is the airport located on Cat Island?\nA: The airport is situated near Arthur's Town on the northern end of Cat Island, with the runway running along the coast.\n\nQ: Does the airport have customs and immigration facilities?\nA: As a domestic Bahamian airport, it handles internal flights; international travelers typically clear customs in Nassau before connecting.\n\nQ: Is the airport open at night?\nA: No, Arthur's Town Airport operates during daylight hours only, as it lacks nighttime lighting infrastructure.",
+  "transport_tips": "Ground transportation is limited; arrange a rental car or taxi in advance through your accommodation, as there is no public transit on Cat Island. Most resorts and guesthouses offer pickup services, which is the most reliable option for visitors. The drive to New Bight, the island's main settlement in the south, takes roughly 45-60 minutes along the Queen's Highway.",
+  "local_tip": "Ask your taxi driver to stop at the local fish fry near the airport for the freshest conch salad and cracked lobster—it's where islanders gather and a far better meal than any resort restaurant.",
+  "generatedAt": "2026-06-29T13:25:24.413Z",
+  "model": "MiniMax-M3"
+}

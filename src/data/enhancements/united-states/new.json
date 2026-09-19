@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NEW",
+    "icao": "KNEW",
+    "name": "Lakefront Airport",
+    "country": "United States",
+    "city": "New Orleans",
+    "lat": 30.0424,
+    "lon": -90.0283,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Lakefront Airport is a historic medium-sized airport situated on the shores of Lake Pontchartrain in New Orleans, Louisiana. Originally constructed in the 1930s and significantly expanded during World War II as a Naval Air Station, it now serves primarily general aviation, corporate, and private aircraft traffic. Its distinctive Art Deco terminal and scenic lakefront setting make it one of the most visually striking airports in the Gulf Coast region.",
+  "faqs": "Q: Where is Lakefront Airport located relative to New Orleans?\nA: It sits along Lake Pontchartrain, approximately 8 miles northeast of the French Quarter in the Lakeview neighborhood of New Orleans.\n\nQ: Does Lakefront Airport offer commercial airline service?\nA: No, it primarily handles general aviation, private jets, and corporate flights. Commercial airlines operate from Louis Armstrong New Orleans International Airport (MSY).\n\nQ: What is the historical significance of Lakefront Airport?\nA: The airport was built in 1934 and served as a Naval Air Station during World War II, playing a role in coastal defense operations in the Gulf region.\n\nQ: Are there any notable facilities near the airport?\nA: Yes, the UNO Lakefront Arena and the Seabrook Maritime Complex are located adjacent to the airport property.",
+  "transport_tips": "Taxis and rideshare services like Uber and Lyft are readily available and offer a quick 15-20 minute trip to downtown New Orleans and the French Quarter. On-site rental car services and long-term parking lots are available for those needing their own vehicle. The airport's compact size means walking from the parking area to the terminal takes only a few minutes.",
+  "local_tip": "If you have time to spare, take a short walk to the nearby Lakefront Promenade for panoramic views of Lake Pontchartrain and the New Orleans skyline, especially beautiful at sunset.",
+  "generatedAt": "2026-06-30T02:06:11.560Z",
+  "model": "MiniMax-M3"
+}

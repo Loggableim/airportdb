@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BLE",
+    "icao": "ESSD",
+    "name": "Dala Airport",
+    "country": "Sweden",
+    "city": "Borlange",
+    "lat": 60.422,
+    "lon": 15.5152,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Dala Airport (BLE) serves the city of Borlange in the Dalarna region of central Sweden, acting as the main air gateway for this culturally rich area known for its traditional folk art, including the iconic painted Dala horse. The airport primarily handles domestic flights and general aviation, connecting the region to Stockholm and supporting tourism to nearby Lake Siljan and the historic copper mining town of Falun. As a medium-sized regional facility, it plays a vital role in the local economy and provides convenient access to one of Sweden's most picturesque inland regions.",
+  "faqs": "Q: What is the nearest major city to Dala Airport?\nA: The airport is located in Borlange, about 10 km from the city center, and also serves the nearby city of Falun, roughly 25 km away.\n\nQ: Does Dala Airport offer international flights?\nA: The airport primarily operates domestic flights, with the most common route being to Stockholm. International travelers typically connect through larger Swedish airports like Arlanda.\n\nQ: What is the region around Dala Airport known for?\nA: Dalarna is famous for its folk traditions, painted wooden horses (Dalahäst), scenic lakes, and outdoor recreation. It is considered the heart of traditional Swedish culture.\n\nQ: How far is the airport from Lake Siljan?\nA: Lake Siljan, a popular tourist destination in Dalarna, is approximately 70-80 km northwest of the airport, roughly a one-hour drive.\n\n",
+  "transport_tips": "Car rental is available at the airport and is the most convenient way to explore the wider Dalarna region, as public transport between smaller towns can be limited. Taxi services operate to and from Borlange and Falun, and local buses connect the airport to Borlange city center. During winter, allow extra travel time as snow and ice are common in this part of central Sweden.",
+  "local_tip": "If visiting in summer, plan a trip to the Falu Copper Mine (Stora Kopparberget) in nearby Falun, a UNESCO World Heritage Site and one of the world's oldest still-intact mining areas, which offers guided underground tours.",
+  "generatedAt": "2026-06-29T07:22:50.384Z",
+  "model": "MiniMax-M3"
+}

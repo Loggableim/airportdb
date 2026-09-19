@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YSM",
+    "icao": "CYSM",
+    "name": "Fort Smith Airport",
+    "country": "Canada",
+    "city": "Fort Smith",
+    "lat": 60.0203,
+    "lon": -111.962,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Fort Smith Airport (YSM) is a medium-sized regional airport serving the town of Fort Smith in the Northwest Territories of Canada, near the Alberta border along the Slave River. It functions as a vital transportation link for this remote northern community, providing access to larger hubs and supporting local industries including tourism, forestry, and government services. The airport's location near the scenic Slave River and Wood Buffalo National Park makes it a gateway for visitors exploring the surrounding wilderness.",
+  "faqs": "Q: What is the main way to reach Fort Smith Airport?\nA: The airport is primarily accessed by road via the Fort Smith Highway, which connects the town to Fort Fitzgerald, Alberta and Highway 5.\n\nQ: Are there scheduled commercial flights to Fort Smith?\nA: Yes, scheduled flights operate to and from larger hubs, though service may be limited due to the airport's remote northern location.\n\nQ: What facilities are available at the airport?\nA: As a regional medium airport, it offers standard terminal amenities typical of northern Canadian airports, though services are more limited than at major international facilities.\n\nQ: Can the airport handle larger aircraft?\nA: It is classified as a medium airport and can accommodate regional turboprop aircraft commonly used on northern Canadian routes.",
+  "transport_tips": "The airport is located just a short drive from downtown Fort Smith, making taxi or rental car the most practical options. There is no regular public transit connection, so arranging ground transport in advance is recommended. Parking is available on-site for those being picked up or dropped off by private vehicle.",
+  "local_tip": "If visiting Fort Smith, plan a trip to nearby Wood Buffalo National Park, a UNESCO World Heritage Site accessible from town and home to the world's largest free-roaming bison herd.",
+  "generatedAt": "2026-06-29T08:44:40.374Z",
+  "model": "MiniMax-M3"
+}

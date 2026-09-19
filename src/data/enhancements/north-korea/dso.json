@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DSO",
+    "icao": "ZKSD",
+    "name": "Sondok Airport",
+    "country": "North Korea",
+    "city": "Sŏndŏng-ni",
+    "lat": 39.7452,
+    "lon": 127.474,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Sondok Airport is a medium-sized regional airport serving Hamhung, one of North Korea's largest industrial cities in South Hamgyŏng Province. The facility supports both civilian domestic flights and military operations, serving the eastern coastal region of the country. It remains one of the lesser-known operational airfields in North Korea's limited aviation network.",
+  "faqs": "Q: What city does Sondok Airport serve?\nA: The airport primarily serves Hamhung, a major industrial center and the capital of South Hamgyŏng Province in eastern North Korea.\n\nQ: Is Sondok Airport open to international travelers?\nA: Direct foreign access is extremely restricted. Most international visitors to North Korea arrive through Pyongyang Sunan International Airport via approved tour operators.\n\nQ: Does the airport handle both civilian and military flights?\nA: Yes, Sondok Airport has dual civilian and military functions, which is common for several of North Korea's regional airfields.\n\nQ: What types of aircraft typically operate here?\nA: The airport generally handles small to mid-size aircraft used for domestic North Korean flights, including Ilyushin and Antonov models.",
+  "transport_tips": "Ground transportation options around the airport are very limited and are typically arranged through official channels in advance. The facility is situated in a relatively remote coastal area near",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T23:06:57.640Z",
+  "model": "MiniMax-M3"
+}

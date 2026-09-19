@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MGM",
+    "icao": "KMGM",
+    "name": "Montgomery Regional (Dannelly Field) Airport",
+    "country": "United States",
+    "city": "Montgomery",
+    "lat": 32.3006,
+    "lon": -86.394,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Montgomery Regional Airport (Dannelly Field) is a medium-sized public airport located about 6 miles southwest of downtown Montgomery, Alabama's state capital. Named for a local military figure, it serves as a key gateway to central Alabama and the historical heart of the American Civil Rights Movement. The airport offers commercial service connecting the region to major hubs across the southeastern United States.",
+  "faqs": "Q: How far is Montgomery Regional Airport from downtown Montgomery?\nA: The airport is approximately 6 miles (10 km) southwest of downtown Montgomery, typically a 15-20 minute drive via I-65.\n\nQ: Does the airport offer international flights?\nA: No, Montgomery Regional primarily handles domestic flights within the United States, with connections mainly to southeastern hub airports.\n\nQ: Are there car rental services at the airport?\nA: Yes, several major car rental agencies operate on-site at MGM, with counters located in the terminal building.\n\nQ: How many terminals does MGM have?\nA: Montgomery Regional operates a single main terminal that handles all commercial passenger traffic.\n\n",
+  "transport_tips": "Rental cars are the most convenient option for reaching Montgomery and the surrounding region, with all major agencies available on-site. Rideshare services like Uber and Lyft do serve the airport, though availability can be limited compared to larger cities. Taxi services and hotel shuttles are also available, particularly for guests staying at nearby chain hotels along the I-65 corridor.",
+  "local_tip": "If you have a layover or extra time, the airport is remarkably close to the Rosa Parks Museum and the Dexter Avenue King Memorial Baptist Church, where Dr. Martin Luther King Jr. served as pastor—both are within a 20-minute drive and offer profound insight into American history.",
+  "generatedAt": "2026-06-29T03:00:33.486Z",
+  "model": "MiniMax-M3"
+}

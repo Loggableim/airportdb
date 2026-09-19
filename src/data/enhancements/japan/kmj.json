@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KMJ",
+    "icao": "RJFT",
+    "name": "Kumamoto Airport",
+    "country": "Japan",
+    "city": "Kumamoto",
+    "lat": 32.8373,
+    "lon": 130.855,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kumamoto Airport (KMJ) is the primary aviation gateway to Kumamoto Prefecture on the island of Kyushu, Japan, serving the historic castle city of Kumamoto. The airport is situated in the town of Mashiki, approximately 20 km east of the city center, and operates as a key regional hub connecting Kyushu to Tokyo, Osaka, and select international destinations in East Asia. Following significant damage from the 2016 Kumamoto earthquakes, the facility underwent extensive reconstruction and modernization.",
+  "faqs": "Q: How far is Kumamoto Airport from the city center?\nA: The airport is located about 20 km east of central Kumamoto, with typical travel times of 40-60 minutes by bus or taxi depending on traffic.\n\nQ: Are there international flights from Kumamoto Airport?\nA: Yes, the airport has offered international services to destinations such as Seoul and Taipei, though schedules vary by season. Most international connections from Kyushu route through Fukuoka.\n\nQ: Does the airport have a train station?\nA: There is no direct rail connection at the terminal. Passengers typically transfer to nearby Shinkansen stations such as Shin-Yatsushiro or Kumamoto via connecting bus services.\n\nQ: Are there dining and shopping options at the airport?\nA: The terminal features a selection of restaurants, cafes, and shops offering local Kumamoto specialties and souvenirs typical of regional Japanese airports.\n\n",
+  "transport_tips": "Limousine buses run frequently between the airport and Kumamoto city center, with stops at major hotels and Kumamoto Station. Rental cars are available at the terminal and are a popular option for exploring Kyushu's broader region, including Mount Aso. Taxis are available outside the arrivals area, though fares to the city are relatively expensive compared to bus service.",
+  "local_tip": "If you have time before your flight, the observation deck offers excellent views of",
+  "generatedAt": "2026-06-28T23:00:47.804Z",
+  "model": "MiniMax-M3"
+}

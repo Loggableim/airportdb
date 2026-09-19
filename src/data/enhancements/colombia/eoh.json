@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EOH",
+    "icao": "SKMD",
+    "name": "Enrique Olaya Herrera Airport",
+    "country": "Colombia",
+    "city": "Medellín",
+    "lat": 6.2197,
+    "lon": -75.5906,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Enrique Olaya Herrera Airport is one of the few major urban airports in South America, situated just minutes from Medellín's city center along the Medellín River. Named after the Colombian president who served from 1930 to 1934, it primarily handles domestic flights and offers unmatched convenience for travelers heading into the city. The airport is notable for its dramatic approach path through the Aburrá Valley, which makes landing here a memorable experience.",
+  "faqs": "Q: How far is Enrique Olaya Herrera Airport from Medellín's city center?\nA: The airport is located within Medellín itself, approximately 5-6 km from the downtown area, making it one of the most centrally located airports in the region.\n\nQ: Does EOH handle international flights?\nA: No, Enrique Olaya Herrera primarily serves domestic routes within Colombia. Most international traffic is handled by José María Córdova International Airport in Rionegro.\n\nQ: Why do some airlines fly to Rionegro instead of EOH?\nA: Larger aircraft and international carriers typically use José María Córdova International Airport due to its longer runway and expanded facilities, while EOH accommodates smaller regional aircraft.\n\nQ: Is the airport safe to access at night?\nA: The surrounding neighborhood is generally active, but as with any urban airport, travelers should use official taxis or pre-arranged transport, especially during late hours.",
+  "transport_tips": "Official white taxis and ride-sharing apps like Uber and DiDi are readily available outside the terminal and provide quick access to most neighborhoods in the Medellín metropolitan area within 15-30 minutes. The airport's central location means traffic congestion during peak hours can significantly extend travel times, so allow extra buffer. The nearby Estadio metro station on Line A offers an affordable option for connecting to the city's public transit network.",
+  "local_tip": "Ask for a window seat on the left side of the aircraft when arriving from the south—the approach over the Aburrá Valley and final descent along the mountainside offers spectacular views of Medellín's sprawling urban landscape.",
+  "generatedAt": "2026-06-29T08:25:39.702Z",
+  "model": "MiniMax-M3"
+}

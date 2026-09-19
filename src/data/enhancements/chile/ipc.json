@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IPC",
+    "icao": "SCIP",
+    "name": "Mataveri International Airport",
+    "country": "Chile",
+    "city": "Isla De Pascua",
+    "lat": -27.1654,
+    "lon": -109.421,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Mataveri International Airport (IPC) serves Easter Island (Isla de Pascua), the most remote inhabited island in the Pacific, situated over 3,700 km from mainland Chile. It is the island's sole air link to the outside world and is operated by the Chilean Air Force. The airport is renowned for its dramatically extended runway, originally widened in the 1980s with U.S. assistance and capable of handling wide-body aircraft such as the Boeing 787 and Airbus A350.",
+  "faqs": "Q: Why is Mataveri Airport considered one of the most remote airports in the world?\nA: Easter Island is more than 3,700 km from the Chilean mainland, making Mataveri one of the most isolated airports served by commercial jet aircraft. Flights from Santiago typically take around five hours.\n\nQ: Which airlines operate flights to and from Mataveri Airport?\nA: LATAM Airlines is the primary carrier offering scheduled service between Santiago de Chile and Easter Island, with occasional additional routes during peak seasons.\n\nQ: Why was Mataveri's runway so famously extended?\nA: In the 1980s, the U.S. built a temporary emergency landing strip extension alongside the runway, long rumored to serve as a Space Shuttle contingency landing site. NASA later denied this, but the wider runway still allows large aircraft to operate today.\n\nQ: How long is the runway at Mataveri?\nA: The runway is approximately 3,300 meters long, making it one of the longest in the Pacific region.",
+  "transport_tips": "There is no public bus service at Mataveri Airport; most travelers arrange transfers in advance with hotels or guesthouses. Rental cars, scooters, and taxis are available in Hanga Roa, the island's main town just a few kilometers away. Allow extra time for return flights, as weather and mechanical checks on remote island operations can occasionally cause delays.",
+  "local_tip": "The airport café on the ground floor is one of the few spots on the island serving proper espresso coffee before early morning departures—stop by while waiting, as coffee elsewhere on Easter Island tends to be basic.",
+  "generatedAt": "2026-06-28T20:13:59.180Z",
+  "model": "MiniMax-M3"
+}

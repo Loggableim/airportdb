@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CII",
+    "icao": "LTBD",
+    "name": "Aydın Çıldır Airport",
+    "country": "Turkey",
+    "city": "Aydın",
+    "lat": 37.8154,
+    "lon": 27.8876,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Aydın Çıldır Airport (CII/LTBD) is a small regional airport serving the city of Aydın in Turkey's western Aegean region. Located near the historic town of Çıldır, it primarily handles general aviation and limited domestic flights, supporting access to the surrounding agricultural and tourist areas. The airport serves as a convenient gateway for travelers exploring Aydın's ancient sites, including the nearby ruins of Aphrodisias and the Dilek Peninsula-Büyük Menderes Delta National Park.",
+  "faqs": "Q: What is the airport code for Aydın Çıldır Airport?\nA: The IATA code is CII and the ICAO code is LTBD.\n\nQ: Does Aydın Çıldır Airport offer international flights?\nA: As a small regional airport, it primarily handles limited domestic flights and general aviation rather than scheduled international service. Most international travelers use larger nearby airports such as Izmir or Bodrum.\n\nQ: How far is the airport from Aydın city center?\nA: The airport is located a short distance from Aydın's city center, typically reachable within a 15-20 minute drive depending on traffic conditions.\n\nQ: Are there facilities for general aviation at the airport?\nA: Yes, the airport supports general aviation operations including private aircraft, making it useful for private pilots and small charter flights in the region.",
+  "transport_tips": "Taxis and private car hire are the most common ways to reach the airport from Aydın city center. Renting a car in advance is recommended for flexibility, as public transport options directly serving the airport are limited. Visitors arriving from nearby cities like İzmir or Denizli can reach the airport via intercity roads in approximately 1.5 to 2 hours.",
+  "local_tip": "If you're visiting for cultural tourism, consider timing your trip to coincide with a visit to the ancient city of Aphrodisias, located about 100 km southeast of the airport—it's one of Turkey's best-preserved Greco-Roman archaeological sites.",
+  "generatedAt": "2026-06-27T11:40:43.053Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TOJ",
+    "icao": "LETO",
+    "name": "Madrid–Torrejón Airport / Torrejón Air Base",
+    "country": "Spain",
+    "city": "Madrid",
+    "lat": 40.4879,
+    "lon": -3.4568,
+    "type": "medium_airport",
+    "size": 475
+  },
+  "summary": "Madrid–Torrejón Airport, also known as Torrejón Air Base, is located approximately 20 km northeast of central Madrid near the town of Torrejón de Ardoz. It is primarily a Spanish Air Force installation with a long military history, including a period of joint NATO operations and shared use with the United States Air Force until 1992. The facility also handles limited civilian traffic and serves as an important aviation hub for the region.",
+  "faqs": "Q: Is Madrid–Torrejón Airport open to civilian passengers?\nA: The airport operates primarily as a military air base and handles only limited civilian traffic, mostly charter and special flights rather than scheduled commercial service.\n\nQ: How far is Torrejón Air Base from Madrid city center?\nA: It is located about 20 km (12 miles) northeast of central Madrid, typically a 25–35 minute drive depending on traffic.\n\nQ: Can I access the Spanish Air Force museum at Torrejón?\nA: Yes, the Museo del Aire (Spanish Air Force Museum) is situated on the base perimeter and is open to the public, featuring a notable collection of historic aircraft.\n\nQ: Which airlines currently operate at Madrid–Torrejón?\nA: Scheduled commercial service is minimal, so travelers usually fly into Madrid-Barajas Airport (MAD) instead for regular flights.",
+  "transport_tips": "The most convenient way to reach the base from Madrid is by private car or taxi via the A-2 motorway toward Zaragoza, exiting at Torrejón de Ardoz. Public transport is limited, but commuter trains and intercity buses serve Torrejón de Ardoz town, from which a local taxi can complete the journey. Allow extra time if traveling during morning or evening rush hours on the A-2.",
+  "local_tip": "If you're visiting the area, combine your trip with the Museo del Aire on site — it is one of Spain's best aviation museums and often overlooked by travelers heading straight to Barajas.",
+  "generatedAt": "2026-06-30T00:48:17.472Z",
+  "model": "MiniMax-M3"
+}

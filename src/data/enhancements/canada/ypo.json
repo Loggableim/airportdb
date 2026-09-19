@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YPO",
+    "icao": "CYPO",
+    "name": "Peawanuck Airport",
+    "country": "Canada",
+    "city": "Peawanuck",
+    "lat": 54.9879,
+    "lon": -85.4426,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Peawanuck Airport (YPO) serves the remote Cree community of Peawanuck in northern Ontario, situated near the western shore of Hudson Bay. The airport functions as a vital lifeline for the isolated settlement, providing essential passenger, mail, and freight connections to larger hubs in the region. Its remote subarctic location makes it a critical link for medical evacuations, supply deliveries, and year-round access for residents.",
+  "faqs": "Q: Where is Peawanuck Airport located?\nA: Peawanuck Airport is located in the small Cree community of Peawanuck in northern Ontario, Canada, near the coast of Hudson Bay.\n\nQ: Are there scheduled commercial flights to Peawanuck?\nA: Yes, the airport is served by regional carriers operating small aircraft that connect Peawanuck to larger northern Ontario communities such as Moosonee and Timmins.\n\nQ: Is the airport open year-round?\nA: Yes, the airport operates throughout the year, though winter weather can occasionally cause delays or cancellations due to snow and ice conditions.\n\nQ: Does the airport have navigation aids for instrument approaches?\nA: The airport is equipped with basic navigation facilities suitable for small aircraft operations in remote northern conditions.",
+  "transport_tips": "Travelers to Peawanuck typically reach the airport via connecting flights from Timmins or Moosonnee, as there are no road connections to the community. Booking well in advance is recommended, as flight schedules to remote northern destinations can be limited. Ground transportation from the airport is usually arranged through the local community or pre-arranged with accommodation providers.",
+  "local_tip": "Pack light and bring essentials like snacks and warm layers, as the terminal facilities are minimal and the subarctic climate can produce dramatic temperature shifts even between seasons.",
+  "generatedAt": "2026-06-26T14:50:58.177Z",
+  "model": "MiniMax-M3"
+}

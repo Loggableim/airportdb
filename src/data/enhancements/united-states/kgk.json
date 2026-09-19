@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KGK",
+    "icao": "PAJZ",
+    "name": "Koliganek Airport",
+    "country": "United States",
+    "city": "Koliganek",
+    "lat": 59.7266,
+    "lon": -157.259,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Koliganek Airport (KGK/PAJZ) is a small public-use airport serving the remote village of Koliganek in southwestern Alaska's Bristol Bay region. The facility provides essential air access to a community that is otherwise isolated by road, connecting residents to larger hubs like Dillingham and Anchorage. It features a single gravel runway suited to the rugged, subarctic terrain of the Alaska Peninsula.",
+  "faqs": "Q: What is the main purpose of Koliganek Airport?\nA: The airport serves as a vital lifeline for the village of Koliganek, providing passenger, mail, and cargo services since road connections to the community are limited.\n\nQ: Are there scheduled commercial flights to Koliganek?\nA: Yes, small regional carriers operate scheduled passenger flights, typically using small propeller aircraft suited to the gravel runway.\n\nQ: What is the runway like at Koliganek Airport?\nA: The airport has a single gravel runway, which is standard for rural Alaska and requires aircraft equipped for unpaved surfaces.\n\nQ: When is the airport operational?\nA: The airport operates year-round, though winter conditions can affect flight schedules and aircraft performance.",
+  "transport_tips": "Getting to and from Koliganek Airport is primarily done by foot or local vehicle, as the airport sits very close to the village. There is no public transit or taxi service, so arranging a ride with a local contact in advance is essential. Visitors typically arrive via connecting flights from Dillingham or Anchorage.",
+  "local_tip": "Always check the weather forecast before your flight in—southwestern Alaska is notorious for rapidly changing conditions, and gravel runways can become soft or icy depending on temperature and precipitation.",
+  "generatedAt": "2026-06-26T21:11:36.386Z",
+  "model": "MiniMax-M3"
+}

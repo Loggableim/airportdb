@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RTE",
+    "icao": "",
+    "name": "Campo de Marte Airport",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "lat": -23.5091,
+    "lon": -46.6378,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Campo de Marte Airport is a historic medium-sized airfield located in the Santana district of northern São Paulo, Brazil. Once a major hub in the early days of Brazilian aviation, it now primarily serves general aviation, executive flights, flight schools, and helicopter operations. Its central urban location makes it a convenient alternative to the larger Guarulhos International Airport for business and private aviation.",
+  "faqs": "Q: What is Campo de Marte Airport mainly used for?\nA: The airport primarily serves general aviation, executive and private flights, flight training schools, and helicopter operations rather than major commercial airlines.\n\nQ: Where is Campo de Marte Airport located within São Paulo?\nA: It is situated in the Santana neighborhood in the northern part of São Paulo, close to the city center and near the Anhanguera and Dutra highways.\n\nQ: How does Campo de Marte compare to Guarulhos International Airport?\nA: Campo de Marte is much smaller and handles private and executive traffic, while Guarulhos is São Paulo's main international commercial hub located farther from the city center.\n\nQ: Does Campo de Marte have historical significance?\nA: Yes, it was one of the earliest airfields in São Paulo and played an important role in the development of Brazilian aviation during the early 20th century.\n\n",
+  "transport_tips": "Getting to Campo de Marte is easiest by car or taxi, as the airport sits within the urban grid of São Paulo with quick access from the Marginal Tietê expressway. The nearby Santana metro station on Line 1 (Blue Line) provides public transit access, though passengers will still need a short taxi or rideshare ride from the station. Traffic in São Paulo can be heavy, so allow extra time during peak rush hours, especially on the Marginal Tietê corridor.",
+  "local_tip": "If you're arriving for a private or executive flight, arrive early to enjoy a coffee at one of the small cafés in the terminal area, and note that on clear days you can spot views of the Cantareira mountain range to the north from the airfield perimeter.",
+  "generatedAt": "2026-06-26T07:42:23.015Z",
+  "model": "MiniMax-M3"
+}

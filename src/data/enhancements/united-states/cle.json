@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CLE",
+    "icao": "KCLE",
+    "name": "Cleveland Hopkins International Airport",
+    "country": "United States",
+    "city": "Cleveland",
+    "lat": 41.4117,
+    "lon": -81.8498,
+    "type": "large_airport",
+    "size": 1015875
+  },
+  "summary": "Cleveland Hopkins International Airport (CLE) is the largest and busiest airport in the Cleveland metropolitan area, located about 10 miles southwest of downtown Cleveland. Named after former Cleveland mayor Thomas L. Hopkins, it holds the distinction of being the first airport in the United States to offer direct rapid transit rail service between an airport and a downtown area via the RTA Red Line.",
+  "faqs": "Q: How far is Cleveland Hopkins from downtown Cleveland?\nA: The airport is approximately 10 miles southwest of downtown Cleveland, with typical drive times of 20-30 minutes depending on traffic.\n\nQ: Is there public transportation to the airport?\nA: Yes, the Greater Cleveland RTA Red Line provides direct rapid transit service between the airport and downtown Cleveland's Tower City station, making it one of the few U.S. airports with direct rail access.\n\nQ: How many terminals does CLE have?\nA: Cleveland Hopkins has a single main terminal complex with two concourses (A and B/C), making navigation relatively straightforward compared to larger multi-terminal airports.\n\nQ: When was the airport established?\nA: Cleveland Hopkins opened in 1925, making it one of the oldest operating airports in the United States.",
+  "transport_tips": "The RTA Red Line is the most cost-effective option for traveling between the airport and downtown Cleveland, with a journey time of about 25 minutes. Taxis and rideshares are readily available outside the terminal, with fares to downtown typically ranging from $30-$45. If driving, the airport is accessible via I-71 and offers ample short-term and long-term parking options.",
+  "local_tip": "If you have a long layover, hop on the RTA Red Line for a quick trip to the West Side Market in Cleveland's Ohio City neighborhood, just minutes from downtown—it's a historic public market offering local foods, pastries, and Cleveland specialties.",
+  "generatedAt": "2026-06-28T15:14:28.699Z",
+  "model": "MiniMax-M3"
+}

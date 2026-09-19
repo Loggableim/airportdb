@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RLA",
+    "icao": "",
+    "name": "Rolla Downtown Airport",
+    "country": "United States",
+    "city": "Rolla",
+    "lat": 37.9357,
+    "lon": -91.8135,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Rolla Downtown Airport (RLA) is a small general aviation airfield serving the city of Rolla in central Missouri, located within Phelps County near the Ozark Plateau. It primarily supports private aircraft, flight training, and recreational flying, serving the regional community that includes Missouri University of Science and Technology. The airport features a single main runway and basic pilot facilities typical of a small municipal airfield.",
+  "faqs": "Q: What type of airport is Rolla Downtown Airport?\nA: It is a small general aviation airport, primarily serving private, recreational, and flight training aircraft rather than commercial airlines.\n\nQ: Does Rolla Downtown Airport offer commercial flights?\nA: No, the airport does not host scheduled commercial airline service. Travelers needing commercial flights typically use larger regional airports such as St. Louis Lambert International or Springfield-Branson National.\n\nQ: What facilities are available at the airport?\nA: The airport provides basic general aviation amenities including a runway, tie-down areas, and limited pilot services. It does not have a large terminal or commercial passenger infrastructure.\n\nQ: Who typically uses Rolla Downtown Airport?\nA: The airport is commonly used by private pilots, student aviators, and visitors connected to Missouri University of Science and Technology, which is located nearby.",
+  "transport_tips": "The airport is located just a few miles south of downtown Rolla, making it a short drive by car or taxi from most parts of the city. Rental cars and rideshare services are limited in the area, so arranging ground transportation in advance is recommended. Visitors traveling from outside the region typically fly into larger airports and complete the journey by road via Interstate 44.",
+  "local_tip": "If visiting the area, plan a stop at the nearby Missouri University of Science and Technology campus, which is one of Rolla's main attractions and just minutes from the airfield.",
+  "generatedAt": "2026-06-27T10:30:39.176Z",
+  "model": "MiniMax-M3"
+}

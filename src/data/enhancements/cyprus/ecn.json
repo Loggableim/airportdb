@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ECN",
+    "icao": "LCEN",
+    "name": "Ercan International Airport",
+    "country": "Cyprus",
+    "city": "Tymbou (Kirklar)",
+    "lat": 35.1531,
+    "lon": 33.5074,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Ercan International Airport (ECN) is the principal airport serving Northern Cyprus, located in the village of Tymbou (also known as Kirklar) in the island's central Mesaoria plain, roughly 13 km east of Nicosia. Despite its 'international' designation, the airport is primarily used for flights to and from Turkey, as its operations are not universally recognized under international aviation agreements due to the political status of Northern Cyprus. It serves as the main gateway for travelers visiting the northern part of the island.",
+  "faqs": "Q: Why doesn't Ercan have more international destinations?\nA: The airport is located in Northern Cyprus, which is administered by the Turkish Cypriot authorities and is not widely recognized as a separate state. As a result, most airlines only operate routes to and from Turkey, with limited service elsewhere.\n\nQ: Can I enter Northern Cyprus through Ercan and then cross to the south?\nA: Yes, there are several border crossings between the north and south of Cyprus. However, travelers should be aware that entry through Ercan may complicate future travel to Greece or the Republic of Cyprus due to political sensitivities.\n\nQ: How far is Ercan Airport from Nicosia?\nA: Ercan is approximately 13 km east of North Nicosia, with typical transfer times of 20-30 minutes by car or shuttle.\n\nQ: Is there public transportation available at the airport?\nA: Yes, shuttle services and taxis connect the airport to major towns in Northern Cyprus, including Nicosia, Famagusta, Kyrenia, and the Karpaz Peninsula.",
+  "transport_tips": "Taxis are readily available outside the terminal and offer fixed or metered fares to nearby cities; agree on a price before departure. Shared shuttle services (such as those operated by travel agencies) run to Kyrenia, Famagusta, and Nicosia at scheduled times. Renting a car is a popular option for exploring Northern Cyprus, with several rental agencies operating at the airport.",
+  "local_tip": "If you're crossing into the Republic of Cyprus afterward, consider booking flights through Larnaca instead, as entry stamps from Ercan can complicate future entry to Greek Cypriot areas and Greece due to the unresolved political situation.",
+  "generatedAt": "2026-06-28T20:47:53.668Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RGS",
+    "icao": "LEBG",
+    "name": "Burgos Airport",
+    "country": "Spain",
+    "city": "Burgos",
+    "lat": 42.3576,
+    "lon": -3.6208,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Burgos Airport (RGS/LEBG) is a regional airport serving the historic city of Burgos in the Castile and León region of northern Spain. Located approximately 4 km south of the city center, it operates with limited commercial flights, primarily connecting to Madrid and seasonal destinations. The airport shares its facilities with a military air base, reflecting its dual-purpose role in the region.",
+  "faqs": "Q: What airlines operate at Burgos Airport?\nA: Burgos Airport is primarily served by regional carriers operating routes to Madrid-Barajas, with occasional seasonal charter flights. Flight schedules are limited, so travelers should check current timetables in advance.\n\nQ: How far is Burgos Airport from the city center?\nA: The airport is located approximately 4 kilometers south of Burgos city center, typically reachable by car or taxi in around 10-15 minutes depending on traffic.\n\nQ: Does the airport have international flights?\nA: Burgos Airport primarily handles domestic flights within Spain. International connections are generally made via larger hub airports such as Madrid or Bilbao.\n\nQ: Are there facilities for passengers with reduced mobility?\nA: As a small regional airport, basic assistance services are available, but passengers with special needs are advised to request support from their airline at least 48 hours before departure.",
+  "transport_tips": "The most convenient way to reach the airport is by taxi, which takes about 10-15 minutes from the city center and costs roughly €10-15. There is no direct bus service to the terminal, so renting a car or pre-arranging a taxi is recommended. If driving, take the N-120 highway south from Burgos and follow signs for the airport.",
+  "local_tip": "Burgos itself is a UNESCO-recognized city famous for its stunning Gothic cathedral and as a key stop on the Camino de Santiago pilgrimage route—plan an overnight stay to explore the medieval old town and sample the local morcilla (blood sausage) and Ribera del Duero wines if you have a layover or delayed flight.",
+  "generatedAt": "2026-06-29T19:39:23.505Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OKC",
+    "icao": "KOKC",
+    "name": "OKC Will Rogers World Airport",
+    "country": "United States",
+    "city": "Oklahoma City",
+    "lat": 35.3934,
+    "lon": -97.5982,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Will Rogers World Airport (OKC) is the primary commercial airport serving Oklahoma City and the surrounding region, located about six miles southwest of downtown. It was renamed in 1951 in honor of Will Rogers, the beloved Oklahoma-born humorist, actor, and social commentator who perished in a 1935 plane crash. The airport features a single modern terminal complex and serves as a key hub for domestic travel across the Great Plains.",
+  "faqs": "Q: How far is Will Rogers World Airport from downtown Oklahoma City?\nA: The airport is approximately 6 miles southwest of downtown Oklahoma City, typically a 15-20 minute drive depending on traffic.\n\nQ: How many terminals does OKC have?\nA: OKC operates from a single terminal building with two concourses, making navigation straightforward for travelers.\n\nQ: Does the airport offer free Wi-Fi?\nA: Yes, complimentary Wi-Fi is available throughout the terminal for all passengers.\n\nQ: Is there a cell phone lot for waiting passengers?\nA: Yes, OKC has a free cell phone lot near the terminal for drivers waiting to pick up arriving passengers.",
+  "transport_tips": "Embark provides direct bus service between the airport and downtown Oklahoma City's transit center at a low fare, operating throughout the day. Rental car facilities are conveniently located on-site, and rideshare services like Uber and Lyft have designated pickup zones outside baggage claim. For those driving, the airport is easily accessible via Interstate 44 and Southwest 54th Street.",
+  "local_tip": "If you have a long layover or early arrival, head to the upper-level observation area near the main terminal for a quiet spot with runway views—a favorite spot for plane spotters and a relaxing way to pass the time away from crowded gates.",
+  "generatedAt": "2026-06-28T17:57:56.285Z",
+  "model": "MiniMax-M3"
+}

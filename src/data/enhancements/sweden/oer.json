@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OER",
+    "icao": "ESNO",
+    "name": "Örnsköldsvik Airport",
+    "country": "Sweden",
+    "city": "Örnsköldsvik",
+    "lat": 63.4083,
+    "lon": 18.99,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Örnsköldsvik Airport (OER) is a regional airport serving the coastal city of Örnsköldsvik in Västernorrland County, northern Sweden. It provides essential air connectivity for this mid-sized coastal community and the surrounding industrial region, including significant forestry and manufacturing sectors. The airport supports both scheduled domestic services and general aviation operations.",
+  "faqs": "Q: Which airlines operate from Örnsköldsvik Airport?\nA: The airport is primarily served by regional carriers offering domestic flights, mainly connecting Örnsköldsvik with Stockholm Arlanda. Seasonal charter services may also operate.\n\nQ: How far is the airport from Örnsköldsvik city center?\nA: The airport is located approximately 20 km northeast of the city center, with a typical transfer time of around 20-25 minutes by road.\n\nQ: Does the airport have international flights?\nA: The airport mainly handles domestic scheduled services. International connections typically require a transfer at a larger hub like Stockholm Arlanda.\n\nQ: Are there customs and immigration facilities at Örnsköldsvik Airport?\nA: As a small regional airport, formal customs and immigration facilities are limited, and international operations are restricted.",
+  "transport_tips": "Taxis and pre-booked airport transfer services are the most common ways to reach the airport from Örnsköldsvik city. Rental cars are available at the terminal for travelers exploring the wider Västernorrland region. During winter months, allow extra travel time as road conditions along the approach routes can be affected by snow.",
+  "local_tip": "If you have time before your flight, visit the Fjällräven Center nearby in Örnsköldsvik—it's the home arena of MODO Hockey and one of the most atmospheric ice hockey venues in Sweden, even when no game is scheduled.",
+  "generatedAt": "2026-06-29T09:54:55.222Z",
+  "model": "MiniMax-M3"
+}

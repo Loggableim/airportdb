@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LCF",
+    "icao": "MGRD",
+    "name": "Las Vegas Airport",
+    "country": "Guatemala",
+    "city": "Rio Dulce",
+    "lat": 15.6684,
+    "lon": -88.9618,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Las Vegas Airport (LCF/MGRD) is a small regional airfield serving the Rio Dulce area in Guatemala's Izabal Department, a region renowned for its river, rainforest, and proximity to Lake Izabal and the Caribbean coast. It primarily handles general aviation, charter flights, and tourist traffic visiting the nearby Castillo de San Felipe de Lara and the scenic Rio Dulce waterway. The airport provides a convenient gateway for travelers heading to this popular boating and ecotourism destination in eastern Guatemala.",
+  "faqs": "Q: Where is Las Vegas Airport located?\nA: The airport is located near Rio Dulce in the Izabal Department of eastern Guatemala, close to the famous Rio Dulce river and Lake Izabal.\n\nQ: What types of flights operate from Las Vegas Airport?\nA: As a small regional airfield, it primarily handles private aircraft, charter flights, and general aviation rather than scheduled commercial service.\n\nQ: Are there car rentals available at the airport?\nA: Rental car availability is limited; most visitors arrange ground transportation in advance through hotels or local tour operators in Rio Dulce.\n\nQ: What attractions are near the airport?\nA: Nearby attractions include the Rio Dulce river, Lake Izabal, Castillo de San Felipe de Lara, the town of Livingston, and the Caribbean coastline.",
+  "transport_tips": "Pre-arrange ground transportation before arrival, as the airport has limited taxi and shuttle services on-site. Most travelers continue to Rio Dulce town or Livingston via private transfer, which typically takes 30 to 60 minutes. Renting a car from Guatemala City and driving to the region is another option, though the final stretch includes narrow roads through tropical landscape.",
+  "local_tip": "If arriving by private or charter flight, request a window seat on approach—the views of Lake Izabal, the lush river gorge, and the surrounding rainforest canopy are spectacular and rarely seen from typical tourist routes.",
+  "generatedAt": "2026-06-27T07:21:32.641Z",
+  "model": "MiniMax-M3"
+}

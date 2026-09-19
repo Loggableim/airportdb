@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WYS",
+    "icao": "KWYS",
+    "name": "Yellowstone Airport",
+    "country": "United States",
+    "city": "West Yellowstone",
+    "lat": 44.6884,
+    "lon": -111.118,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Yellowstone Airport is a medium-sized public-use airport serving West Yellowstone, Montana, and acts as one of the closest air gateways to Yellowstone National Park's west entrance. Situated at a high elevation of roughly 6,649 feet, it primarily handles seasonal general aviation and scheduled commercial flights during the busy summer tourist season. Its location makes it a popular arrival point for visitors heading directly into the park from the western side.",
+  "faqs": "Q: What is the closest airport to Yellowstone National Park's west entrance?\nA: Yellowstone Airport (WYS) is located just a few miles from the town of West Yellowstone and the park's west entrance, making it the most convenient air gateway for that area.\n\nQ: Does Yellowstone Airport operate year-round?\nA: Scheduled commercial service is largely seasonal, typically running from late spring through early fall to coincide with peak park visitation. General aviation operations are more flexible.\n\nQ: Are there car rentals available at Yellowstone Airport?\nA: Rental car services are available, though availability can be limited during peak summer months, so booking well in advance is recommended.\n\nQ: How high is Yellowstone Airport?\nA: The airport sits at an elevation of approximately 6,649 feet above sea level, which can affect aircraft performance and is worth noting for travelers sensitive to altitude.",
+  "transport_tips": "The town of West Yellowstone is only about 3 miles north of the airport, and rental cars, taxis, and seasonal shuttles provide the main means of onward travel. Public transportation options are limited, so arranging ground transport in advance is advisable, particularly during the busy summer season. Having a personal vehicle is highly recommended for exploring Yellowstone National Park and the surrounding area.",
+  "local_tip": "Pack layers even in summer—morning temperatures at this elevation can dip near freezing, and afternoon thunderstorms are common, so plan park excursions earlier in the day to avoid afternoon weather and wildlife congestion at popular spots.",
+  "generatedAt": "2026-06-29T18:31:34.330Z",
+  "model": "MiniMax-M3"
+}

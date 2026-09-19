@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "COO",
+    "icao": "DBBB",
+    "name": "Cotonou Cadjehoun International Airport",
+    "country": "Benin",
+    "city": "Cotonou",
+    "lat": 6.3572,
+    "lon": 2.3843,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Cotonou Cadjehoun International Airport (COO) is Benin's primary international gateway, serving the bustling economic capital of Cotonou along the Gulf of Guinea coast. As the country's busiest airport, it handles the majority of Benin's international flights, connecting West Africa with European destinations including Paris. The single-terminal facility supports both scheduled regional carriers and major intercontinental airlines.",
+  "faqs": "Q: How far is the airport from Cotonou city center?\nA: Cadjehoun Airport is conveniently located about 5 kilometers west of downtown Cotonou, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines operate international flights from COO?\nA: Major carriers serving Cotonou include Air France (Paris), Royal Air Maroc (Casablanca), Turkish Airlines (Istanbul), ASKY Airlines, and Air Peace, among others.\n\nQ: Does the airport offer direct flights to Europe?\nA: Yes, there are direct connections to Paris-Charles de Gaulle, with seasonal and connecting services to other European cities via Casablanca or Istanbul.\n\nQ: Are there currency exchange facilities at the airport?\nA: Yes, currency exchange bureaus and ATMs are available in the terminal, though rates are generally better in the city.",
+  "transport_tips": "Official yellow taxis are the most reliable way to reach the airport, and it's advisable to agree on a fare before departure or use a hotel-arranged transfer. The short distance from central Cotonou makes ride-sharing and motorcycle taxis (zemidjans) common options for adventurous travelers. Expect heavier traffic during morning and evening rush hours along the Boulevard de la Marina.",
+  "local_tip": "Arrive at least 2-3 hours before international departure as security and check-in procedures can be slow, and keep small CFA franc notes handy for tips and last-minute purchases, as vendors may not have change for larger bills.",
+  "generatedAt": "2026-06-28T20:29:59.767Z",
+  "model": "MiniMax-M3"
+}

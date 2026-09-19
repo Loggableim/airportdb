@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SYS",
+    "icao": "UERS",
+    "name": "Saskylakh Airport",
+    "country": "Russia",
+    "city": "Saskylakh",
+    "lat": 71.9279,
+    "lon": 114.08,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Saskylakh Airport (SYS) is a remote Arctic airfield serving the small settlement of Saskylakh on the Anabar River in the Sakha Republic (Yakutia), Russia. Situated well above the Arctic Circle, it functions as a critical lifeline for the local indigenous Evenk and Dolgan communities engaged in reindeer herding and traditional subsistence activities. The airport primarily handles regional flights and occasional helicopter operations supporting northern logistics.",
+  "faqs": "Q: What is the main purpose of Saskylakh Airport?\nA: The airport provides essential passenger and cargo transport to the remote Arctic settlement of Saskylakh, connecting residents to larger regional hubs like Khatanga and Norilsk.\n\nQ: When is the airport operational?\nA: Given its sub-Arctic location, the airport operates primarily during daylight hours and favorable weather, with schedules often adjusted for polar night conditions and extreme winter cold.\n\nQ: Are there scheduled commercial flights available?\nA: Yes, regional carriers operate limited scheduled flights, but schedules are highly seasonal and subject to weather disruptions, especially during the harsh winter months.\n\nQ: What facilities are available at the terminal?\nA: The airport has minimal passenger facilities typical of remote Arctic airfields, with a small terminal building and basic services; travelers should arrive prepared for limited amenities.",
+  "transport_tips": "The airport is located just outside the settlement of Saskylakh and is accessible by a short walk or vehicle ride along a simple road. There is no public transit network, so arranging transport in advance with local contacts or the airline is strongly recommended. During",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T23:05:37.860Z",
+  "model": "MiniMax-M3"
+}

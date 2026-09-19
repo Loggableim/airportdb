@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PIT",
+    "icao": "KPIT",
+    "name": "Pittsburgh International Airport",
+    "country": "United States",
+    "city": "Pittsburgh",
+    "lat": 40.4915,
+    "lon": -80.2329,
+    "type": "large_airport",
+    "size": 1021875
+  },
+  "summary": "Pittsburgh International Airport (PIT) is located in Findlay Township, about 20 miles west of downtown Pittsburgh. Originally opened in 1952, it became a major hub for US Airways before the airline's merger with American Airlines. The airport recently completed a billion-dollar terminal modernization project that redesigned its formerly unique landside-airside layout into a more traditional single-terminal configuration optimized for post-pandemic travel patterns.",
+  "faqs": "Q: How far is Pittsburgh International Airport from downtown Pittsburgh?\nA: PIT is approximately 20 miles west of downtown Pittsburgh, with typical driving times of 25-35 minutes depending on traffic.\n\nQ: How many terminals does PIT have?\nA: Pittsburgh International operates with a single modernized terminal building following its recent redevelopment, which replaced the previous landside/airside split design that opened in 1992.\n\nQ: Does PIT offer nonstop international flights?\nA: Yes, the airport offers nonstop service to several international destinations, primarily to Canada, Mexico, and Caribbean locations, along with seasonal transatlantic flights.\n\nQ: Is there a cell phone lot at Pittsburgh International?\nA: Yes, PIT has a free cell phone waiting area where drivers can wait until arriving passengers are ready for pickup.",
+  "transport_tips": "The Port Authority of Allegheny County operates Route 28X, an express bus service connecting the airport to downtown Pittsburgh and Oakland approximately every 30 minutes. Rideshare services like Uber and Lyft have designated pickup zones on the ground level of the parking garage. Taxi stands and rental car counters are located on the ground floor of the terminal near baggage claim.",
+  "local_tip": "If you have time before your flight, visit the 'Pittsburgh International Short Film Festival' viewing area or check out the rotating local art exhibits displayed throughout the terminal—PIT showcases work from regional Pennsylvania artists, giving you a taste of the city's creative culture without leaving the airport.",
+  "generatedAt": "2026-06-28T14:59:50.098Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AWK",
+    "icao": "PWAK",
+    "name": "Wake Island Airfield",
+    "country": "United States Minor Outlying Islands",
+    "city": "Wake Island",
+    "lat": 19.2824,
+    "lon": 166.6366,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Wake Island Airfield (AWK/PWAK) is a remote military airstrip situated on Wake Island, a US-administered atoll in the central Pacific Ocean roughly 2,400 miles west of Honolulu. Originally a civilian Pan American Airways stopover in the late 1930s, the facility became a pivotal battleground during World War II when Japanese forces captured it shortly after the attack on Pearl Harbor. Today it operates as a US Air Force installation with a single runway, serving primarily military logistics, emergency trans-Pacific landings, and occasional humanitarian missions.",
+  "faqs": "Q: Is Wake Island Airfield open to commercial flights?\nA: No, Wake Island has no scheduled commercial service. The airfield is restricted to military flights and authorized personnel only.\n\nQ: Why is Wake Island strategically important?\nA: Its central Pacific location makes it a key refueling and emergency landing point for aircraft crossing the vast ocean between the US, Asia, and Australia.\n\nQ: Can civilians visit Wake Island?\nA: Access is highly restricted. Visitors typically need prior military approval, and there are no tourist facilities on the atoll.\n\nQ: How long is the runway at Wake Island?\nA: The main runway (10/28) is approximately 9,800 feet long, capable of handling large military and transport aircraft.",
+  "transport_tips": "There is no public road network or public transportation on Wake Island. Personnel arrive exclusively via military or chartered aircraft landing at the airfield, or by ship during occasional resupply missions. Visitors must arrange authorization through the US Air Force well in advance, as the atoll is an active military installation with no commercial transit options.",
+  "local_tip": "Wake Island operates on Wake Island Time (UTC+12), making it one of the farthest-forward time zones under US administration. Frequent visitors recommend confirming flight times in UTC to avoid confusion, as the time difference with the US mainland is significant and can catch travelers off guard.",
+  "generatedAt": "2026-06-29T19:04:47.073Z",
+  "model": "MiniMax-M3"
+}

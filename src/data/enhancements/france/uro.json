@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "URO",
+    "icao": "LFOP",
+    "name": "Rouen Vallée de Seine Airport",
+    "country": "France",
+    "city": "Boos",
+    "lat": 49.3849,
+    "lon": 1.1791,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Rouen Vallée de Seine Airport serves the historic Normandy capital of Rouen and the surrounding Seine Valley region of northern France. Located in the commune of Boos, approximately 9 km southeast of Rouen city center, it functions as a regional gateway primarily handling business aviation, flight training, and charter operations rather than scheduled commercial service.",
+  "faqs": "Q: What types of flights operate from Rouen Vallée de Seine Airport?\nA: The airport primarily handles business aviation, private flights, flight training, and charter operations, with limited scheduled commercial service.\n\nQ: How far is the airport from Rouen city center?\nA: The airport is located in Boos, approximately 9 km (5.5 miles) southeast of Rouen's historic city center, with typical journey times of 15-20 minutes by car.\n\nQ: Are there car rental services available at URO?\nA: Car rental services are limited, so it is advisable to arrange transportation in advance through hotels or local rental agencies.\n\nQ: Can passengers fly internationally from this airport?\nA: International flights are uncommon, with most international travelers typically using larger nearby airports such as Paris Charles de Gaulle or Beauvais-Tillé.",
+  "transport_tips": "The most convenient way to reach Rouen from the airport is by taxi or pre-booked private transfer, as public transport options are limited. The airport connects to the A13 motorway, providing straightforward road access to Rouen, Paris, and other destinations in Normandy. Renting a car is recommended for travelers planning to explore the broader Seine Valley region, including Giverny and the Normandy coast.",
+  "local_tip": "If you have time before your flight, visit the charming village center of Boos for an authentic taste of rural Norman life, or ask your taxi driver to take the scenic route along the Seine to admire Rouen's iconic skyline dominated by its Gothic cathedral.",
+  "generatedAt": "2026-06-29T08:43:48.121Z",
+  "model": "MiniMax-M3"
+}

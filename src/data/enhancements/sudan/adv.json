@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ADV",
+    "icao": "",
+    "name": "El Daein Airport",
+    "country": "Sudan",
+    "city": "El Daein",
+    "lat": 11.4023,
+    "lon": 26.1186,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "El Daein Airport (ADV) is a small regional airport serving El Daein, the capital of East Darfur state in southwestern Sudan. The airport functions primarily as a domestic connector, supporting humanitarian missions and limited commercial traffic in this remote part of the country. Its modest size reflects the limited infrastructure of the broader region it serves.",
+  "faqs": "Q: What is the IATA code for El Daein Airport?\nA: The IATA code is ADV.\n\nQ: Are there international flights from El Daein Airport?\nA: No, the airport primarily handles domestic and regional flights within Sudan, with no scheduled international service.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, facilities are basic, typically limited to a small terminal building with minimal passenger amenities.\n\nQ: Is prior arrangement needed to fly into El Daein?\nA: Due to the limited scheduled service and regional security considerations, travelers should coordinate flights in advance and check current advisories before planning travel.",
+  "transport_tips": "Getting to and from the airport typically requires a private vehicle or taxi, as public transit options are limited in the area. Roads connecting the airport to El Daein city center are unpaved in sections, so ground transport can take additional time. Travelers are advised to arrange return transport before arrival, as taxi availability near the airport can be inconsistent.",
+  "local_tip": "Travelers visiting the region should check current security advisories before booking, as East Darfur has experienced periods of instability that can affect both flight schedules and road travel.",
+  "generatedAt": "2026-06-27T21:07:04.646Z",
+  "model": "MiniMax-M3"
+}

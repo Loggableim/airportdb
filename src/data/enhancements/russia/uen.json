@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UEN",
+    "icao": "USDU",
+    "name": "Urengoy Airport",
+    "country": "Russia",
+    "city": "Urengoy",
+    "lat": 65.96,
+    "lon": 78.437,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Urengoy Airport (UEN) is a small regional airport serving the town of Urengoy in the Yamalo-Nenets Autonomous Okrug of northwestern Siberia, Russia. It functions primarily as a gateway to one of the world's largest natural gas fields, supporting the energy industry's workforce and local residents. The airport operates in a harsh subarctic climate, making it a critical year-round transport link for the remote community.",
+  "faqs": "Q: What is Urengoy Airport primarily used for?\nA: The airport mainly serves the oil and gas industry workers and residents of Urengoy and surrounding settlements in the Yamalo-Nenets region.\n\nQ: Which airlines operate from Urengoy Airport?\nA: Regional carriers such as Yamal Airlines and other Russian domestic airlines operate flights, primarily connecting to Tyumen, Moscow, and other major Russian cities.\n\nQ: Is Urengoy Airport open year-round?\nA: Yes, the airport operates year-round despite extreme winter conditions, though flights may occasionally be affected by severe weather.\n\nQ: How far is the airport from the town center?\nA: The airport is located on the outskirts of Urengoy, approximately 5-7 kilometers from the main residential areas.",
+  "transport_tips": "Taxis are the most common way to reach the airport from Urengoy town center, typically taking 10-15 minutes. There is no direct rail connection, so road transport is essential for ground access. During winter, allow extra time for travel due to potentially icy road conditions and possible weather-related delays.",
+  "local_tip": "Given the extreme subarctic winters where temperatures can plunge below -40°C, pack thermal layers and confirm your flight status the day before, as weather-related disruptions are common between December and February.",
+  "generatedAt": "2026-06-28T09:55:08.483Z",
+  "model": "MiniMax-M3"
+}

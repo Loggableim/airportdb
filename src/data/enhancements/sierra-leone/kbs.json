@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KBS",
+    "icao": "GFBO",
+    "name": "Bo Airport",
+    "country": "Sierra Leone",
+    "city": "Bo",
+    "lat": 7.9444,
+    "lon": -11.761,
+    "type": "medium_airport",
+    "size": 550
+  },
+  "summary": "Bo Airport serves Bo, the second-largest city in Sierra Leone and capital of the Southern Province. It functions as a key domestic gateway connecting the country's southern region with Freetown, supporting regional commerce, humanitarian missions, and visitor travel. The modest single-runway facility handles light-to-mid-sized aircraft typical of regional operations.",
+  "faqs": "Q: What is the airport code for Bo Airport?\nA: Bo Airport is designated KBS by IATA and GFBO by ICAO.\n\nQ: Does Bo Airport handle international flights?\nA: The airport primarily handles domestic flights, mainly connections to Freetown's Lungi International Airport, with occasional charter and humanitarian operations.\n\nQ: How far is Bo Airport from Bo's city center?\nA: The airport is located only a few kilometers from central Bo, making it a short drive under typical traffic conditions.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic amenities including a small waiting area, check-in counters, and basic refreshments, though services are limited compared to major hubs.",
+  "transport_tips": "Taxis and private hire cars are the most reliable way to reach Bo Airport from the city center,",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T17:54:31.999Z",
+  "model": "MiniMax-M3"
+}

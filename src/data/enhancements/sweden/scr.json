@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SCR",
+    "icao": "ESKS",
+    "name": "Scandinavian Mountains Airport",
+    "country": "Sweden",
+    "city": "Malung-Sälen",
+    "lat": 61.1651,
+    "lon": 12.8335,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Scandinavian Mountains Airport (SCR) is a relatively new facility that opened in December 2019, situated near Malung-Sälen in western Dalarna, Sweden. Built primarily to serve the nearby Sälen and Trysil ski resorts, the airport is notable for being the first new commercial airport in Scandinavia in decades, with a terminal that uniquely straddles the Sweden-Norway border. It operates largely as a seasonal gateway to one of Scandinavia's largest winter sports regions.",
+  "faqs": "Q: Which ski resorts does Scandinavian Mountains Airport serve?\nA: The airport provides direct access to the Sälen ski area in Sweden and the Trysil ski resort in Norway, two of the largest winter sports destinations in Scandinavia.\n\nQ: When was the airport opened?\nA: Scandinavian Mountains Airport opened for commercial traffic in December 2019, making it the first new commercial airport in the region in over 20 years.\n\nQ: Is the airport international?\nA: Yes, despite being in Sweden, the airport was designed for international travel and the terminal straddles the border with Norway, allowing passengers to access the Norwegian side of Trysil quickly.\n\nQ: Does the airport operate year-round?\nA: The airport runs a primarily seasonal schedule with the heaviest traffic during the winter ski season, though charter and limited scheduled flights may operate during summer months.",
+  "transport_tips": "Most travelers reach the airport via pre-booked shuttle buses or coach transfers organized by tour operators, as public transport options are limited. Cars can be rented on-site during peak ski season, and the drive to Sälen takes roughly 30-40 minutes. During winter, allow extra time for travel as snowy mountain roads can slow ground transfers significantly.",
+  "local_tip": "Pack your passport even if you're only staying in Sweden, as the airport terminal itself sits on the Norway-Sweden border and you",
+  "generatedAt": "2026-06-29T00:45:46.707Z",
+  "model": "MiniMax-M3"
+}

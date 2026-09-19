@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IRJ",
+    "icao": "SANL",
+    "name": "Capitan V A Almonacid Airport",
+    "country": "Argentina",
+    "city": "La Rioja",
+    "lat": -29.3816,
+    "lon": -66.7958,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Capitán V. A. Almonacid Airport (IRJ) is the main gateway to La Rioja, the capital city of La Rioja Province in northwestern Argentina. Named after a distinguished Argentine military aviator, this medium-sized airport connects the Andean foothill region with Buenos Aires and other domestic destinations. It serves as a key access point for travelers exploring the province's natural attractions, including Talampaya and Ischigualasto parks.",
+  "faqs": "Q: How far is the airport from downtown La Rioja?\nA: The airport is located approximately 7-8 kilometers east of the city center, making it a short drive of about 15 minutes under normal traffic conditions.\n\nQ: Which airlines operate from Capitan V A Almonacid Airport?\nA: The airport is primarily served by Aerolíneas Argentinas, with regular flights connecting La Rioja to Buenos Aires.\n\nQ: Does the airport have international flights?\nA: No, IRJ is a domestic-only airport handling flights within Argentina, primarily to and from Buenos Aires.\n\nQ: Are there car rental services at the airport?\nA: Yes, local car rental agencies operate at the airport, offering vehicles for exploring La Rioja Province and its surrounding attractions.",
+  "transport_tips": "Taxis and remises (private hire cars) are the most reliable options for reaching the airport; remises can be booked in advance through your hotel and typically charge a fixed rate. The airport is well connected to Ruta Nacional 38, which links La Rioja to other major cities in the region. Allow extra time during summer months, as occasional thunderstorms in the afternoon can cause flight delays.",
+  "local_tip": "If you have a long layover or delayed flight, the airport café offers a decent regional wine selection—La Rioja Province is famous for its Torrontés and Malbec varieties, making it a great opportunity to sample local varietals before exploring the vineyards.",
+  "generatedAt": "2026-06-29T13:55:30.317Z",
+  "model": "MiniMax-M3"
+}

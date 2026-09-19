@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HNL",
+    "icao": "PHNL",
+    "name": "Daniel K. Inouye International Airport",
+    "country": "United States",
+    "city": "Honolulu, Oahu",
+    "lat": 21.3184,
+    "lon": -157.9257,
+    "type": "large_airport",
+    "size": 1029375
+  },
+  "summary": "Daniel K. Inouye International Airport (HNL) is Hawaii's busiest aviation gateway, located on the island of Oahu approximately 5 miles northwest of downtown Honolulu. Originally known as Honolulu International Airport, it was renamed in 2017 to honor the late U.S. Senator Daniel K. Inouye, a decorated World War II veteran and long-time advocate for Hawaii. The airport serves as the primary hub for inter-island travel and a critical link for transpacific flights between the U.S. mainland, Asia, and the Pacific.",
+  "faqs": "Q: How far is the airport from Waikiki?\nA: Approximately 8 miles, typically a 20-30 minute drive depending on traffic.\n\nQ: Does the airport offer free Wi-Fi?\nA: Yes, complimentary Wi-Fi is available throughout all terminals.\n\nQ: Are there inter-island flights from HNL?\nA: Yes, Hawaiian Airlines and other carriers operate frequent flights to neighbor islands from dedicated inter-island terminals.\n\nQ: Can I walk between terminals?\nA: Yes, the terminals are connected within the main complex, though walking times vary by gate location.\n\n",
+  "transport_tips": "Taxis and rideshares are readily available outside the baggage claim areas and offer fixed-rate options to Waikiki. The Route 20 bus provides affordable public transit to downtown Honolulu and Waikiki, though service is less frequent in the evening. Rental car facilities are conveniently located on-airport and recommended for travelers planning to explore beyond the city.",
+  "local_tip": "Visit the Cultural Gardens located between Terminals 2 and 3, which showcase native Hawaiian plants and offer a peaceful open-air space to stretch between flights—a refreshing break from typical sterile terminals.",
+  "generatedAt": "2026-06-28T14:57:05.965Z",
+  "model": "MiniMax-M3"
+}

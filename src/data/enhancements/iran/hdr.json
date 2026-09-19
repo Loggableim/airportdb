@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HDR",
+    "icao": "OIKP",
+    "name": "Havadarya Airport",
+    "country": "Iran",
+    "city": "Bandar Abbas",
+    "lat": 27.1583,
+    "lon": 56.1725,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Havadarya Airport is a small regional airport serving Bandar Abbas, a major port city on Iran's southern coast along the Persian Gulf and the Strait of Hormuz. The airport supports both civil and military aviation, reflecting the strategic importance of the Hormozgan region. It provides domestic connectivity for travelers heading to this key maritime and industrial hub.",
+  "faqs": "Q: What is the main purpose of Havadarya Airport?\nA: It serves as a regional airport for Bandar Abbas, handling domestic flights and also supporting military operations due to its strategic location near the Strait of Hormuz.\n\nQ: Are there international flights from Havadarya Airport?\nA: The airport primarily handles domestic flights, with international travelers typically using the larger Bandar Abbas International Airport nearby.\n\nQ: How far is the airport from Bandar Abbas city center?\nA: Havadarya Airport is located within the Bandar Abbas metropolitan area, making it relatively accessible from most parts of the city.\n\nQ: What facilities are available at the airport?\nA: As a small airport, it offers basic passenger amenities suitable for short domestic flights rather than extensive commercial services.",
+  "transport_tips": "Taxis are the most common way to reach the airport from central Bandar Abbas, with rides typically taking 20-30 minutes depending on traffic. Ride-hailing apps operate in the city and can be a convenient option. Travelers should arrange transportation in advance, as public transit options directly to the airport are limited.",
+  "local_tip": "If you're continuing to the islands of Qeshm or Hormuz, ask locals about ferry schedules at Bandar Abbas port—many drivers at the airport are familiar with these connections and can help coordinate your onward journey.",
+  "generatedAt": "2026-06-27T17:54:52.509Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SCE",
+    "icao": "KUNV",
+    "name": "State College Regional Airport",
+    "country": "United States",
+    "city": "State College",
+    "lat": 40.8494,
+    "lon": -77.8485,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "State College Regional Airport serves State College, Pennsylvania, home to Penn State University, and functions as the primary air gateway for central Pennsylvania. The airport handles regional commercial flights along with significant general aviation activity supporting university travel and visitors to the region. Its single primary runway accommodates regional jets and turboprop aircraft connecting the area to major hub airports.",
+  "faqs": "Q: What airlines operate at State College Regional Airport?\nA: The airport is primarily served by regional carriers offering flights to a few major hub destinations, with service typically provided by regional jet aircraft.\n\nQ: How far is the airport from Penn State University?\nA: The airport is located approximately 5 miles northeast of the Penn State University Park campus, making it a convenient option for students, faculty, and visitors.\n\nQ: Does the airport have TSA security screening?\nA: Yes, the airport has a TSA checkpoint to screen passengers on departing commercial flights.\n\nQ: Are there rental cars available at the airport?\nA: Yes, rental car services are available at the airport for travelers needing ground transportation.",
+  "transport_tips": "Taxi and rideshare services like Uber and Lyft are available at State College Regional Airport, with trips to the Penn State campus typically taking 10-15 minutes. Rental car agencies operate on-site for travelers exploring central Pennsylvania, including nearby state parks and forests. Limited public bus service also connects the airport to the State College area.",
+  "local_tip": "If you're visiting for a Penn State football game or graduation, book flights and ground transportation well in advance—these peak periods can see the airport's small terminal fill up quickly, and parking fills fast.",
+  "generatedAt": "2026-06-29T18:14:19.544Z",
+  "model": "MiniMax-M3"
+}

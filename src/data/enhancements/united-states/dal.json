@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DAL",
+    "icao": "KDAL",
+    "name": "Dallas Love Field",
+    "country": "United States",
+    "city": "Dallas",
+    "lat": 32.8448,
+    "lon": -96.8477,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Dallas Love Field is a city-owned public airport located approximately 6 miles northwest of downtown Dallas, Texas. Originally established in 1917 as a military training field, it served as Dallas's primary airport until the opening of Dallas/Fort Worth International Airport in 1974. Today it is a major hub for Southwest Airlines and one of the busiest single-runway airports in the United States.",
+  "faqs": "Q: How far is Dallas Love Field from downtown Dallas?\nA: Love Field is roughly 6 miles northwest of downtown Dallas, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines operate at Dallas Love Field?\nA: Southwest Airlines is the dominant carrier, operating the majority of flights. Delta, Alaska, and a few other carriers also offer service.\n\nQ: Does Love Field have international flights?\nA: Love Field primarily handles domestic flights. International service is very limited, with most international travelers using Dallas/Fort Worth International Airport instead.\n\nQ: Why is it called Love Field?\nA: The airport is named after U.S. Army aviator Moss Lee Love, who was killed in a crash at the field in 1913 during military training exercises.\n\n",
+  "transport_tips": "Taxis, rideshares, and the DART Orange Line light rail provide direct access to downtown Dallas and surrounding areas. Rental car facilities are located on airport grounds, and the drive to most Dallas neighborhoods is straightforward via Harry Hines Boulevard or Lemmon Avenue. Parking at the airport includes short-term, long-term, and economy options within walking distance of the terminal.",
+  "local_tip": "If you have time between flights, try the famous In-N-Out Burger located just outside baggage claim, or head to the Founders' Plaza observation area on the west side of the airfield for a great spot to watch aircraft operations.",
+  "generatedAt": "2026-06-28T17:56:25.620Z",
+  "model": "MiniMax-M3"
+}

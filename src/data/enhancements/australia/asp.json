@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ASP",
+    "icao": "YBAS",
+    "name": "Alice Springs Airport",
+    "country": "Australia",
+    "city": "Alice Springs",
+    "lat": -23.8066,
+    "lon": 133.9034,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Alice Springs Airport serves the remote town of Alice Springs in the heart of Australia's Northern Territory, acting as the primary gateway to the Red Centre. It is the closest major airport to iconic landmarks such as Uluru, Kata Tjuta, and Kings Canyon, making it a vital hub for outback tourism. The airport also plays a role in connecting remote Indigenous communities and supporting the Royal Flying Doctor Service operations.",
+  "faqs": "Q: How far is Alice Springs Airport from the town centre?\nA: The airport is approximately 14 kilometres south of Alice Springs town centre, about a 15-minute drive.\n\nQ: Which airlines operate flights to Alice Springs?\nA: Qantas and Virgin Australia are the main carriers, offering direct services to Sydney, Melbourne, Adelaide, Darwin, and Cairns.\n\nQ: Can I fly directly to Uluru from Alice Springs Airport?\nA: There are no scheduled commercial flights to Ayers Rock Airport from Alice Springs; visitors typically travel by road or fly to Ayers Rock from other major cities.\n\nQ: Is Alice Springs Airport an international airport?\nA: No, it is a domestic-only airport, though it handles international general aviation and charter flights.\n\n",
+  "transport_tips": "Rental cars are widely available at the airport and are the most popular option for tourists planning to explore the Red Centre independently. Airport shuttle services and taxis operate to the town centre, with metered fares typically around AUD 30-40. There is no rail or public bus service connecting the airport, so pre-booking transport is recommended, especially for late arrivals.",
+  "local_tip": "If you have a long layover, head to the airport viewing area to spot the Royal Flying Doctor Service aircraft, which operates one of its key bases here, or take a short taxi ride into town to explore the Todd Mall and grab a meal at one of",
+  "generatedAt": "2026-06-29T03:38:45.410Z",
+  "model": "MiniMax-M3"
+}

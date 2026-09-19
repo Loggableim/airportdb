@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "REZ",
+    "icao": "SDRS",
+    "name": "Resende Airport",
+    "country": "Brazil",
+    "city": "Resende",
+    "lat": -22.4785,
+    "lon": -44.4803,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Resende Airport (REZ/SDRS) is a small regional airport serving the city of Resende in the state of Rio de Janeiro, Brazil. Located in the Paraíba Valley region, it primarily supports general aviation and limited commercial operations. The airport serves as a convenient gateway to a city known for its industrial base, including automotive manufacturing, and its proximity to Itatiaia National Park.",
+  "faqs": "Q: What is the IATA code for Resende Airport?\nA: The IATA code is REZ, and the ICAO code is SDRS.\n\nQ: Where is Resende Airport located?\nA: It is located in Resende, in the state of Rio de Janeiro, Brazil, in the Paraíba Valley region.\n\nQ: What type of airport is Resende?\nA: It is classified as a small airport, primarily handling general aviation and occasional regional flights.\n\nQ: Are there commercial flights available at Resende Airport?\nA: Commercial service is limited; most traffic consists of general aviation and private flights.\n\n",
+  "transport_tips": "The airport is located close to the city center of Resende, making it a short drive by taxi or rideshare. Visitors can also arrange private transfers through local hotels, which is often the most convenient option given the limited scheduled service. Rental cars are recommended for those planning to explore the surrounding region, including Itatiaia National Park.",
+  "local_tip": "If visiting the area, take advantage of the airport's proximity to Itatiaia National Park, one of Brazil's oldest national parks, known for its hiking trails and the iconic Agulhas Negras peak.",
+  "generatedAt": "2026-06-27T07:21:16.814Z",
+  "model": "MiniMax-M3"
+}

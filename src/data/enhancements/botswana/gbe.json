@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GBE",
+    "icao": "FBSK",
+    "name": "Sir Seretse Khama International Airport",
+    "country": "Botswana",
+    "city": "Gaborone",
+    "lat": -24.5552,
+    "lon": 25.9182,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Sir Seretse Khama International Airport is Botswana's primary international gateway, located in the capital city of Gaborone. Named after Sir Seretse Khama, the country's first president and a unifying national figure, the airport serves as the main hub for travel into and out of Botswana. It connects Gaborone to destinations across southern Africa and handles the majority of the country's international air traffic.",
+  "faqs": "Q: How far is the airport from Gaborone city center?\nA: The airport is approximately 10-15 kilometers north of central Gaborone, typically a 20-25 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, it serves international destinations across southern Africa including South Africa, Namibia, Zimbabwe, and Kenya, with routes operated by airlines such as Air Botswana, South African Airways, and Ethiopian Airlines.\n\nQ: Is the airport open 24 hours?\nA: Operating hours vary by flight schedule. International flights are typically concentrated during morning and evening hours, with the airport generally closing overnight.\n\nQ: Are there currency exchange facilities at the airport?\nA: Yes, currency exchange and ATM services are available in the terminal for converting to Botswana Pula and other major currencies.",
+  "transport_tips": "Taxis are readily available outside the terminal and provide the most convenient transfer to Gaborone city center, typically costing around BWP 100-150. Ride-hailing services also operate in Gaborone and can be arranged in advance. Car rental agencies have counters inside the terminal, which is useful for travelers planning to explore Botswana's wider regions.",
+  "local_tip": "If you have a long layover or early arrival, the Grand Palm Hotel and Casino complex is just a short taxi ride away and offers restaurants, a spa, and pools—a comfortable way to wait out a delay in air-conditioned comfort.",
+  "generatedAt": "2026-06-28T20:30:12.597Z",
+  "model": "MiniMax-M3"
+}

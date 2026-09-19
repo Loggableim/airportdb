@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MSA",
+    "icao": "CZMD",
+    "name": "Muskrat Dam Airport",
+    "country": "Canada",
+    "city": "Muskrat Dam",
+    "lat": 53.4414,
+    "lon": -91.7628,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Muskrat Dam Airport (MSA/CZMD) is a small remote airstrip serving the Muskrat Dam First Nation community in northern Ontario, Canada. Located in a subarctic region surrounded by boreal forest and numerous lakes, the airport serves as a vital lifeline for the isolated community, providing essential access to goods, services, and medical transport. The facility supports scheduled and charter flights, with operations heavily influenced by seasonal weather patterns typical of the Canadian Shield.",
+  "faqs": "Q: What is Muskrat Dam Airport primarily used for?\nA: The airport serves the remote Muskrat Dam First Nation community, providing essential passenger travel, mail delivery, medical evacuations, and supply transport to this isolated fly-in community in northern Ontario.\n\nQ: Are there scheduled airline services at Muskrat Dam Airport?\nA: Yes, the airport is typically served by regional carriers operating flights to and from larger hubs in Ontario, though schedules may be limited and subject to weather conditions.\n\nQ: Can I drive to Muskrat Dam Airport?\nA: No, Muskrat Dam is a remote fly-in community with no road access. The airport is the primary means of reaching the community, along with seasonal winter ice roads.\n\nQ: What weather challenges affect the airport?\nA: The airport frequently experiences harsh winter conditions including heavy snow, ice, and reduced visibility, while summer months can bring fog and thunderstorms that disrupt flight operations.",
+  "transport_tips": "There is no road access to Muskrat Dam; the airport is essentially the only year-round way to reach the community. Passengers should book flights well in advance and prepare for potential weather-related delays or cancellations. Travelers should arrange ground transportation or accommodations within the community in advance, as services are very limited.",
+  "local_tip": "Pack light and bring any essential supplies with you, as the small community has very limited retail options and weather delays can sometimes extend stays unexpectedly. A satellite phone or reliable communication device is also wise given the remote location.",
+  "generatedAt": "2026-06-26T15:40:19.450Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KDO",
+    "icao": "VRMK",
+    "name": "Kadhdhoo Airport",
+    "country": "Maldives",
+    "city": "Kadhdhoo",
+    "lat": 1.8592,
+    "lon": 73.5219,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kadhdhoo Airport (KDO) is a domestic airport located on Kadhdhoo Island in Laamu Atoll, Maldives, serving as a key transportation hub for the central atolls. It primarily handles inter-island flights operated by Maldivian, the national carrier, connecting Laamu and surrounding atolls to Malé and other regional destinations. The airport supports both passenger traffic and tourism to the area's growing number of resort islands.",
+  "faqs": "Q: Which airlines operate from Kadhdhoo Airport?\nA: Maldivian, the national domestic carrier of the Maldives, is the primary airline operating scheduled flights from Kadhdhoo Airport, connecting it to Malé Velana International Airport and other domestic destinations.\n\nQ: What facilities are available at Kadhdhoo Airport?\nA: As a medium-sized domestic airport, it offers basic terminal facilities including a small waiting area, check-in counters, and restrooms. Given the modest traffic, services are limited but adequate for domestic travel.\n\nQ: How far is Kadhdhoo Airport from the nearest resort?\nA: The airport serves multiple resort islands in Laamu Atoll, with most requiring a speedboat transfer ranging from 20 to 60 minutes depending on the specific resort destination.\n\nQ: Can international flights land at Kadhdhoo?\nA: No, Kadhdhoo is a domestic-only airport. All international travelers must clear customs and immigration at Malé's Velana International Airport before connecting to KDO.",
+  "transport_tips": "Speedboat transfers are typically arranged by resorts and can be pre-booked alongside your flight; confirm the schedule in advance as boats often align with specific flight arrivals. Taxis are not available on this small island, so walking or using pre-arranged hotel transfers from the jetty to the airport is the norm. Flights to Malé take approximately 50 minutes and are weather-dependent, particularly during monsoon seasons.",
+  "local_tip": "Pack light if transferring onward to a resort by speedboat, as luggage space aboard the dhoni-style boats is limited and you'll likely need to carry your own bags across the jetty to the vessel.",
+  "generatedAt": "2026-06-29T16:16:38.359Z",
+  "model": "MiniMax-M3"
+}

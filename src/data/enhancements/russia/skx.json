@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SKX",
+    "icao": "UWPS",
+    "name": "Saransk International Airport",
+    "country": "Russia",
+    "city": "Saransk",
+    "lat": 54.1251,
+    "lon": 45.2123,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Saransk International Airport (SKX/UWPS) serves the capital of the Republic of Mordovia in southwestern Russia. The airport underwent a major modernization ahead of the 2018 FIFA World Cup, during which Saransk was one of the host cities, resulting in a new terminal and upgraded runway facilities. It provides regional connections primarily to Moscow and Saint Petersburg, as well as seasonal charter flights.",
+  "faqs": "Q: How far is the airport from Saransk city center?\nA: The airport is located approximately 7 km southwest of central Saransk, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines operate from Saransk International Airport?\nA: The airport is primarily served by Russian carriers including Aeroflot, S7 Airlines, and IrAero, offering regular flights to Moscow and other major Russian cities.\n\nQ: Does the airport have international flights?\nA: International services are limited and mostly seasonal, though the airport has the infrastructure to handle international flights as established during the 2018 FIFA World Cup.\n\nQ: Are there facilities for passengers with overnight layovers?\nA: Limited overnight amenities are available; most travelers arrange accommodations in the city or the nearby hotels along the approach road.",
+  "transport_tips": "Public marshrutka (fixed-route minibus) and taxi services connect the airport to central Saransk, with journey times around 20 minutes. Official airport taxis and ride-hailing apps such as Yandex Go are reliable options and can be pre-booked online. During winter months, allow extra time as road conditions on the approach can be affected by snow.",
+  "local_tip": "Visit the Mordovian Erzia Art Museum in Saransk before or after your flight to see the world's second-largest collection of works by the renowned sculptor Stepan Erzia, a cultural highlight unique to this region.",
+  "generatedAt": "2026-06-29T01:37:05.482Z",
+  "model": "MiniMax-M3"
+}

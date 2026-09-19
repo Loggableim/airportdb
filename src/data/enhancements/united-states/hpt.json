@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HPT",
+    "icao": "KHPT",
+    "name": "Hampton Municipal Airport",
+    "country": "United States",
+    "city": "Hampton",
+    "lat": 42.7237,
+    "lon": -93.2263,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Hampton Municipal Airport (HPT/KHPT) is a small general aviation airport serving the city of Hampton in north-central Iowa. It primarily supports recreational flying, flight training, and local agricultural aviation activities common throughout the region. The airport features basic facilities catering to private pilots and small aircraft operations.",
+  "faqs": "Q: What type of airport is Hampton Municipal Airport?\nA: It is a small general aviation airport serving primarily private, recreational, and training flights.\n\nQ: Does Hampton Municipal Airport offer commercial airline service?\nA: No, this airport does not provide scheduled commercial passenger service.\n\nQ: What facilities are available at HPT?\nA: The airport offers basic general aviation amenities including a runway, tie-down areas, and fueling services for transient and based aircraft.\n\nQ: Who typically uses this airport?\nA: Local pilots, flight instructors, agricultural operators, and occasional transient travelers passing through north-central Iowa.",
+  "transport_tips": "The airport is located just a short drive from downtown Hampton, making ground transportation quick and straightforward. Visitors typically rely on personal vehicles, as no public transit serves the airport directly. Rental cars and rideshare options may be limited, so arranging transportation in advance is recommended.",
+  "local_tip": "Hampton is known for its beautiful Franklin County Fair, so if your visit coincides with the fair dates, plan to stay for the rodeo and local food vendors.",
+  "generatedAt": "2026-06-27T09:25:24.151Z",
+  "model": "MiniMax-M3"
+}

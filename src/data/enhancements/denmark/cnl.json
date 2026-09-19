@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CNL",
+    "icao": "EKSN",
+    "name": "Sindal Airport",
+    "country": "Denmark",
+    "city": "Sindal",
+    "lat": 57.5035,
+    "lon": 10.2294,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sindal Airport (CNL/EKSN) is a regional airport serving northern Jutland, Denmark, located near the town of Sindal in the Hjørring municipality. It primarily handles domestic traffic to Copenhagen and supports general aviation, serving as a gateway to the scenic North Jutland region including the Skagen area and the North Sea coast. The airport features a single runway and modest terminal facilities suited to its regional role.",
+  "faqs": "Q: How far is Sindal Airport from the nearest major town?\nA: The airport is located about 3 km south of Sindal town and roughly 15 km from Hjørring, the largest nearby city.\n\nQ: Does Sindal Airport offer international flights?\nA: The airport primarily handles domestic services, with connections mainly to Copenhagen, though it can accommodate general aviation and charter operations.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, it offers basic terminal services, parking, and refueling, but has limited amenities compared to larger international airports.\n\nQ: When is the airport open?\nA: Sindal Airport generally operates during scheduled flight hours, so visitors should check current timetables as it is not a 24-hour facility.",
+  "transport_tips": "The easiest way to reach the airport is by car, as it sits just off Route 35 in northern Jutland with straightforward road access. Taxis from Hjørring or Sindal town are available but should be booked in advance due to limited availability. There is no direct public bus service to the terminal, so arranging private transport or a rental car is recommended.",
+  "local_tip": "If you have a few hours between flights, consider a short drive to the Tversted dunes or the charming harbor town of Hirtshals along the North Sea coast—both are within 30 minutes of the airport and offer a quintessentially Danish coastal experience.",
+  "generatedAt": "2026-06-29T10:09:28.503Z",
+  "model": "MiniMax-M3"
+}

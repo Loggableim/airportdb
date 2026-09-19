@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HAR",
+    "icao": "KCXY",
+    "name": "Capital City Airport",
+    "country": "United States",
+    "city": "Harrisburg",
+    "lat": 40.2171,
+    "lon": -76.8515,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Capital City Airport is a small general aviation facility located in Fairview Township, serving the Harrisburg metropolitan area in south-central Pennsylvania. Despite its 'Capital City' name, it does not host scheduled commercial airline service, functioning primarily as a reliever airport for Harrisburg International Airport (MDT). The airport has historically supported corporate, recreational, and flight training operations across the Susquehanna Valley.",
+  "faqs": "Q: Does Capital City Airport have commercial flights?\nA: No, Capital City Airport (HAR) does not offer scheduled commercial passenger service. Travelers should use Harrisburg International Airport (MDT) for commercial flights.\n\nQ: What is Capital City Airport primarily used for?\nA: The airport serves general aviation, including private pilots, corporate aircraft, flight training schools, and recreational flying. It operates as a reliever airport for Harrisburg International.\n\nQ: Are there car rental services at the airport?\nA: Rental car availability is limited at this small facility. Visitors typically arrange ground transportation in advance or use ride-sharing services.\n\nQ: How far is Capital City Airport from downtown Harrisburg?\nA: The airport is located approximately 10 miles south of downtown Harrisburg, accessible via Interstate 83 and local roads.\n\n",
+  "transport_tips": "Driving is the most convenient way to reach Capital City Airport, with the facility located just off Interstate 83 near New Cumberland. Ride-sharing services like Uber and Lyft operate in the area but may have longer wait times due to the airport's general aviation status. Taxis can be arranged in advance through local Harrisburg companies for reliable pickup.",
+  "local_tip": "If visiting the Harrisburg area, consider stopping by the nearby Three Mile Island overlook along the Susquehanna River for a unique perspective on Pennsylvania's industrial and natural landscape, just minutes from the airport.",
+  "generatedAt": "2026-06-27T01:30:04.067Z",
+  "model": "MiniMax-M3"
+}

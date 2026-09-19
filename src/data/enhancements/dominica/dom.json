@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DOM",
+    "icao": "TDPD",
+    "name": "Douglas-Charles Airport",
+    "country": "Dominica",
+    "city": "Marigot",
+    "lat": 15.5467,
+    "lon": -61.3011,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Douglas-Charles Airport is the primary international gateway to Dominica, located on the northeastern coast near the village of Marigot. Originally known as Melville Hall Airport, it was renamed in 2015 in honor of two prominent Dominican politicians, Roosevelt 'Rosie' Douglas and Edward LeBlanc Charles. The airport is known for its scenic yet challenging approach, as it sits along the windward coast surrounded by lush rainforest and steep hills.",
+  "faqs": "Q: How far is Douglas-Charles Airport from Roseau, the capital of Dominica?\nA: The airport is approximately 40 miles (64 km) north of Roseau, with a driving time of around 1.5 hours due to winding mountain roads.\n\nQ: Which airlines operate at Douglas-Charles Airport?\nA: Regional carriers such as LIAT, Caribbean Airlines, Air Antilles, and interCaribbean Airways provide scheduled service, primarily connecting Dominica to other Caribbean islands.\n\nQ: Why was the airport renamed from Melville Hall?\nA: It was renamed in 2015 to honor two former Dominican leaders, Roosevelt 'Rosie' Douglas and Edward Charles LeBlanc, recognizing their contributions to the nation.\n\nQ: Is the airport suitable for large aircraft?\nA: Due to its single runway length of about 5,800 feet and surrounding mountainous terrain, it primarily handles regional turboprop aircraft rather than large jets.",
+  "transport_tips": "Taxis and shared shuttle services are available at the airport, but fares to Roseau can be expensive due to the long distance and limited competition, so confirm the price before departure. Renting a car is possible but note that Dominican roads are steep and winding, requiring cautious driving. Several hotels offer pre-arranged pickup services, which is often the most convenient and cost-effective option for travelers.",
+  "local_tip": "Flights are frequently delayed or diverted due to the windward coast's unpredictable weather and challenging approach conditions, so always build in buffer time for onward connections from Dominica.",
+  "generatedAt": "2026-06-29T08:47:43.268Z",
+  "model": "MiniMax-M3"
+}

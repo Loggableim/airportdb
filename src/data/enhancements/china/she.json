@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SHE",
+    "icao": "ZYTX",
+    "name": "Shenyang Taoxian International Airport",
+    "country": "China",
+    "city": "Shenyang",
+    "lat": 41.6398,
+    "lon": 123.4837,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Shenyang Taoxian International Airport is the main aviation gateway to Shenyang, the capital of Liaoning Province in northeastern China and a major industrial hub historically known for heavy manufacturing. It is the largest and busiest airport in Northeast China, serving as an important hub for both domestic and regional international flights. The modern terminal complex handles millions of passengers annually and connects Shenyang to major Asian destinations.",
+  "faqs": "Q: How far is the airport from downtown Shenyang?\nA: The airport is located approximately 20 km (12 miles) south of the city center, typically a 30-45 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, Taoxian operates international and regional flights to destinations across Asia including South Korea, Japan, Thailand, and Singapore.\n\nQ: Are there hotels near the airport?\nA: Yes, several hotels are located in the vicinity, ranging from budget options to full-service hotels offering airport shuttle services.\n\nQ: What facilities are available in the terminal?\nA: The terminals feature duty-free shopping, restaurants, currency exchange, lounges, free Wi-Fi, and business services for travelers.\n\n",
+  "transport_tips": "",
+  "local_tip": "If you have a layover or extra time, try the local Liaoning cuisine at the airport restaurants—particularly the region's famous dumplings and hearty northeastern Chinese noodle dishes that reflect the area's distinctive flavors.",
+  "generatedAt": "2026-06-28T17:54:50.027Z",
+  "model": "MiniMax-M3"
+}

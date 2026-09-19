@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YKJ",
+    "icao": "CYKJ",
+    "name": "Key Lake Airport",
+    "country": "Canada",
+    "city": "Key Lake",
+    "lat": 57.2561,
+    "lon": -105.618,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Key Lake Airport is a remote medium-sized airport in northern Saskatchewan, Canada, primarily serving the Key Lake uranium mining operation, one of the world's largest uranium producers. The facility operates in a subarctic environment and functions mainly as an industrial gateway for mine workers, contractors, and visiting industry personnel. Its remote boreal location makes air travel the most practical way to access the surrounding region.",
+  "faqs": "Q: Who typically uses Key Lake Airport?\nA: The airport primarily serves personnel working at or visiting the nearby Key Lake uranium mine, along with occasional charter and medevac flights.\n\nQ: Are there scheduled commercial flights to Key Lake Airport?\nA: No regular scheduled commercial service operates here; flights are generally charter-based and tied to mine operations.\n\nQ: What is the surrounding environment like?\nA: The airport sits in the boreal forest of northern Saskatchewan, with subarctic conditions, long winters, and short summers.\n\nQ: Is the airport accessible year-round?\nA: Yes, the airport operates throughout the year, though winter operations require cold-weather preparedness typical of northern Canadian airfields.",
+  "transport_tips": "There is no public road transit to or from Key Lake Airport; access is typically arranged through employer or charter services. Most travelers fly in via charter aircraft from larger Saskatchewan hubs such as Saskatoon or Prince Albert. Ground transport from the airport to the mine site is generally coordinated by the operating company in advance.",
+  "local_tip": "If visiting the mine site, bring layered clothing even in summer, as northern Saskatchewan nights can drop significantly in temperature regardless of the season.",
+  "generatedAt": "2026-06-26T08:34:29.925Z",
+  "model": "MiniMax-M3"
+}

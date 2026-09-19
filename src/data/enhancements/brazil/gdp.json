@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GDP",
+    "icao": "SNGD",
+    "name": "Guadalupe Airport",
+    "country": "Brazil",
+    "city": "Guadalupe",
+    "lat": -6.7822,
+    "lon": -43.5822,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Guadalupe Airport (GDP/SNGD) is a small regional airfield serving the municipality of Guadalupe in the state of Maranhão, northeastern Brazil. It primarily handles general aviation and occasional domestic flights, supporting the local community and agricultural industries in this rural area of the cerrado region. The airport features a single runway and minimal infrastructure typical of Brazil's smaller municipal aerodromes.",
+  "faqs": "Q: What type of aircraft does Guadalupe Airport handle?\nA: The airport primarily serves small general aviation aircraft, with occasional regional turboprop flights.\n\nQ: Are there scheduled commercial flights from Guadalupe?\nA: Scheduled commercial service is very limited; most passengers travel to larger airports in Maranhão for regular connections.\n\nQ: Is there a passenger terminal at GDP?\nA: The airport has basic facilities with limited terminal amenities, as it primarily serves general aviation.\n\nQ: What is the nearest major airport to Guadalupe?\nA: The closest major airport is Marechal Cunha Machado International Airport in São Luís, approximately 400 km to the north.",
+  "transport_tips": "Getting to and from Guadalupe Airport typically requires a private vehicle or taxi, as public transportation options are limited. The airport is located just outside the town center, making it a short drive into Guadalupe. Rental cars are not available at the airport, so arranging ground transport in advance is recommended.",
+  "local_tip": "Bring cash in small denominations, as ATMs can be unreliable in Guadalupe and many local businesses prefer physical currency over cards.",
+  "generatedAt": "2026-06-27T22:51:11.796Z",
+  "model": "MiniMax-M3"
+}

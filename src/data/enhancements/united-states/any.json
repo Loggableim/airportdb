@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ANY",
+    "icao": "KANY",
+    "name": "Anthony Municipal Airport",
+    "country": "United States",
+    "city": "Anthony",
+    "lat": 37.1585,
+    "lon": -98.0796,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Anthony Municipal Airport (ANY) is a small general aviation facility serving the city of Anthony in south-central Kansas, near the Oklahoma border. It provides a convenient base for private pilots, agricultural aviation operations, and recreational flying in the region. The airport features a single runway and supports the local community's connection to broader aviation networks.",
+  "faqs": "Q: What is Anthony Municipal Airport used for?\nA: It primarily serves general aviation, including private aircraft, flight training, and occasional agricultural operations common to rural Kansas.\n\nQ: Does the airport offer commercial airline service?\nA: No, Anthony Municipal Airport does not have scheduled commercial flights. Travelers needing commercial service typically use larger airports in Wichita or Oklahoma City.\n\nQ: Are there fuel services available at the airport?\nA: Small municipal airports like this typically offer basic services, but pilots should contact the airport manager in advance to confirm fuel availability and current operating hours.\n\nQ: Can private aircraft land here?\nA: Yes, the airport welcomes transient general aviation traffic, though pilots should review current conditions and any NOTAMs before arrival.",
+  "transport_tips": "The airport is located just a short drive from downtown Anthony, making ground transportation straightforward with a personal vehicle. Rental car services are not available on-site, so arranging transportation in advance is recommended. Visitors flying in should coordinate pickup with local contacts or a rideshare from a nearby town.",
+  "local_tip": "If you're visiting during the warmer months, check with local operators about agricultural flyovers—it's a great opportunity to see Kansas farming from a unique aerial perspective that few tourists experience.",
+  "generatedAt": "2026-06-27T06:32:53.212Z",
+  "model": "MiniMax-M3"
+}

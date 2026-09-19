@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BTH",
+    "icao": "WIDD",
+    "name": "Hang Nadim International Airport",
+    "country": "Indonesia",
+    "city": "Batam",
+    "lat": 1.121,
+    "lon": 104.119,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Hang Nadim International Airport is the main gateway to Batam Island in Indonesia's Riau Islands province, strategically located just 20 km southeast of Singapore. Named after the legendary Malay folklore figure Hang Nadim, the airport features one of the longest runways in Southeast Asia, originally designed to accommodate emergency landings of space shuttles. It serves as a key hub for both domestic flights and regional connections, supporting Batam's role as a major industrial and tourist destination.",
+  "faqs": "Q: How far is Hang Nadim Airport from Batam city center?\nA: The airport is approximately 15-20 minutes from downtown Batam by car or taxi, depending on traffic conditions.\n\nQ: Are there international flights from Hang Nadim Airport?\nA: Yes, the airport serves several international destinations including Singapore, Kuala Lumpur, and various Chinese cities, alongside its robust domestic network.\n\nQ: Is Hang Nadim Airport a major hub for any airline?\nA: It serves as a focus city for Lion Air and is an important base for Sriwijaya Air and other Indonesian carriers.\n\nQ: What is special about the airport's runway?\nA: The runway is approximately 4,000 meters long, making it one of the longest in Southeast Asia and capable of handling the largest commercial aircraft.",
+  "transport_tips": "Taxis and ride-hailing services like Grab are readily available at the airport and offer the most convenient way to reach Batam's main areas. Fixed-rate airport taxis can be booked at official counters inside the terminal for predictable pricing. For travelers heading to Singapore, ferries from nearby Batam Centre or Harbour Bay are typically more economical than flying, though flights are faster.",
+  "local_tip": "If you have a longer layover, consider visiting the nearby Nagoya Hill Shopping Mall, which is only about 10 minutes from the airport and offers dining, shopping, and spa services perfect for killing a few hours comfortably.",
+  "generatedAt": "2026-06-28T21:21:47.368Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TUL",
+    "icao": "KTUL",
+    "name": "Tulsa International Airport",
+    "country": "United States",
+    "city": "Tulsa",
+    "lat": 36.1971,
+    "lon": -95.8862,
+    "type": "large_airport",
+    "size": 1475
+  },
+  "summary": "Tulsa International Airport (TUL) is the primary airport serving Tulsa, Oklahoma, and the surrounding northeastern Oklahoma region. Originally established in the 1920s as a municipal field, it grew into a major regional gateway, especially during the era when American Airlines operated a hub here in the 1980s and 1990s. Today it serves as a key connection point for business travel linked to Tulsa's energy and aerospace industries.",
+  "faqs": "Q: How far is Tulsa International Airport from downtown Tulsa?\nA: The airport is located approximately 8 miles northeast of downtown Tulsa, typically a 15-20 minute drive under normal traffic conditions.\n\nQ: Does TUL have nonstop international flights?\nA: Tulsa International primarily handles domestic flights, though it is designated as an international airport with customs and immigration capabilities for occasional international charters.\n\nQ: How many terminals does TUL have?\nA: Tulsa International operates a single main terminal building with two concourses, making it relatively easy to navigate for travelers.\n\nQ: Is there free Wi-Fi at Tulsa International?\nA: Yes, the airport offers complimentary Wi-Fi throughout the terminal for all passengers.\n\n",
+  "transport_tips": "Rental cars are available on-site and are the most convenient option for reaching destinations across the sprawling Tulsa metro area. Ride-share services like Uber and Lyft operate at designated pickup zones outside baggage claim. Taxi service and hotel shuttles are also available at the ground transportation center on the lower level of the terminal.",
+  "local_tip": "If you have a long layover or early arrival, the Tulsa Air and Space Museum is located right next to the airport and offers an interesting look at Oklahoma's aviation heritage, including vintage aircraft and exhibits about the city's aerospace history.",
+  "generatedAt": "2026-06-28T16:13:20.248Z",
+  "model": "MiniMax-M3"
+}

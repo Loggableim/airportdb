@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DDD",
+    "icao": "VRMU",
+    "name": "Dhaalu Atoll Airport",
+    "country": "Maldives",
+    "city": "Kudahuvadhoo",
+    "lat": 2.6661,
+    "lon": 72.8871,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Dhaalu Atoll Airport (DDD/VRMU) is a small domestic airport on Kudahuvadhoo island, the capital of Dhaalu Atoll in the central Maldives. It primarily serves as a connection point between Velana International Airport in Malé and the resort islands scattered across South Nilandhe Atoll. The airport features a single asphalt runway and operates limited daily flights, supporting the region's growing tourism industry.",
+  "faqs": "Q: Which airlines operate at Dhaalu Atoll Airport?\nA: Maldivian Airlines and Manta Air operate regular domestic flights, primarily connecting to Malé (Velana International Airport).\n\nQ: How far is the airport from the nearest resort islands?\nA: Most Dhaalu Atoll resorts are reachable within 30-60 minutes by speedboat from the airport, though some may require a seaplane transfer.\n\nQ: What facilities are available at the airport?\nA: The terminal is small but functional, offering a check-in counter, basic waiting area, and a small café. Luggage handling is straightforward.\n\nQ: Can I take a seaplane directly to this airport?\nA: No, the airport does not have seaplane operations. Seaplanes only land at designated lagoons near resort islands or at Velana International Airport.",
+  "transport_tips": "Speedboat transfers to nearby resorts must usually be prearranged through your hotel or guesthouse before arrival. After landing, meet your resort representative at the small arrival hall who will guide you to the correct speedboat. Allow at least 3-4 hours between your international arrival in Malé and your domestic connecting flight to DDD.",
+  "local_tip": "Local ferries and dhoni boats occasionally depart from the nearby jetty to neighboring inhabited islands—a budget-friendly way to explore the atoll if you have extra days and",
+  "generatedAt": "2026-06-28T01:55:43.618Z",
+  "model": "MiniMax-M3"
+}

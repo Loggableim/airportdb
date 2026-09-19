@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ACT",
+    "icao": "KACT",
+    "name": "Waco Regional Airport",
+    "country": "United States",
+    "city": "Waco",
+    "lat": 31.6113,
+    "lon": -97.2305,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Waco Regional Airport serves the city of Waco in central Texas, providing commercial and general aviation services to the heart of the Brazos Valley region. Located just a few miles northwest of downtown Waco, the airport has a long history dating back to the mid-20th century and supports both passenger flights and flight training operations. It is also notable for being home to the Texas State Technical College aviation maintenance program.",
+  "faqs": "Q: How far is Waco Regional Airport from downtown Waco?\nA: The airport is located approximately 5 miles northwest of downtown Waco, making it a quick 10-15 minute drive depending on traffic.\n\nQ: Does the airport offer commercial passenger service?\nA: Yes, the airport has limited commercial service with regional carriers connecting Waco to larger hub airports.\n\nQ: Are there car rental services available at the airport?\nA: Yes, rental car counters are available in the terminal building for major providers.\n\nQ: Is there parking available for long-term stays?\nA: Yes, the airport offers both short-term and long-term parking options near the terminal.",
+  "transport_tips": "Taxis and rideshare services like Uber and Lyft are readily available for trips between the airport and Waco. The airport is conveniently located near Interstate 35, providing easy access for those driving in from surrounding communities. Several local hotels offer complimentary shuttle services to and from the terminal, so it's worth checking with your accommodation beforehand.",
+  "local_tip": "If you have time before your flight, the nearby Texas State Technical College hangar occasionally offers tours of its aviation maintenance facility, a great stop for aviation enthusiasts and families.",
+  "generatedAt": "2026-06-29T03:17:37.361Z",
+  "model": "MiniMax-M3"
+}

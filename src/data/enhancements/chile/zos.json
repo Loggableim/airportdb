@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZOS",
+    "icao": "SCJO",
+    "name": "Cañal Bajo Carlos Hott Siebert Airport",
+    "country": "Chile",
+    "city": "Osorno",
+    "lat": -40.6112,
+    "lon": -73.061,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Cañal Bajo Carlos Hott Siebert Airport (ZOS) is a regional airport serving Osorno, a city in Chile's Los Lagos Region known as a gateway to the northern Patagonian lake district and the iconic Osorno Volcano. The airport is named after Carlos Hott Siebert, a pioneer of Chilean commercial aviation. It primarily handles domestic flights connecting the region with Santiago and other Chilean destinations.",
+  "faqs": "Q: What airlines operate at Cañal Bajo Carlos Hott Siebert Airport?\nA: The airport is primarily served by LATAM Airlines and Sky Airline, offering domestic connections mainly to Santiago.\n\nQ: How far is the airport from downtown Osorno?\nA: The airport is located approximately 7 km east of Osorno's city center, a short 10-15 minute drive.\n\nQ: Are there international flights from this airport?\nA: No, ZOS handles domestic flights only. International travelers typically connect through Santiago or other regional hubs like Puerto Montt.\n\nQ: What destinations are accessible from Osorno airport?\nA: Beyond Santiago, travelers can easily reach nearby attractions such as Puyehue National Park, Osorno Volcano, and the lakeside towns of Puerto Varas and Frutillar.",
+  "transport_tips": "Taxis and ride-share services are readily available outside the terminal and offer the most convenient way to reach Osorno's city center. Rental car agencies operate at the airport, which is ideal for visitors planning to explore the surrounding lake district and national parks. There is no rail service to the airport, but intercity buses connecting Osorno to Puerto Montt and other regional cities run frequently from the city center.",
+  "local_tip": "If you have a layover or early morning flight, consider visiting the Centro Cultural Osorno in the city center, which features exhibits on local Mapuche heritage and the German colonization history of the region—Osorno is known for its strong German architectural influence.",
+  "generatedAt": "2026-06-29T12:49:11.453Z",
+  "model": "MiniMax-M3"
+}

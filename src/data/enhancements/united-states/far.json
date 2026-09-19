@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FAR",
+    "icao": "KFAR",
+    "name": "Hector International Airport",
+    "country": "United States",
+    "city": "Fargo",
+    "lat": 46.9207,
+    "lon": -96.8158,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Hector International Airport serves the Fargo-Moorhead metropolitan area in North Dakota's Red River Valley. Named after local civic leader Martin Hector, it functions as the primary commercial gateway for eastern North Dakota and western Minnesota. The medium-sized facility handles a mix of scheduled passenger, cargo, and general aviation operations.",
+  "faqs": "Q: How far is Hector International Airport from downtown Fargo?\nA: The airport is located approximately 3 miles northwest of downtown Fargo, typically a 10-15 minute drive depending on traffic.\n\nQ: What airlines operate at FAR?\nA: Major carriers including Delta, United, American, and Allegiant provide scheduled service, with most routes connecting to hubs like Minneapolis, Denver, and Chicago.\n\nQ: Does the airport offer international flights",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T02:12:58.581Z",
+  "model": "MiniMax-M3"
+}

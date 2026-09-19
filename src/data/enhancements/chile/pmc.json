@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PMC",
+    "icao": "SCTE",
+    "name": "El Tepual International Airport",
+    "country": "Chile",
+    "city": "Puerto Montt",
+    "lat": -41.4431,
+    "lon": -73.0941,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "El Tepual International Airport (PMC) is the principal gateway to Chile's northern Patagonia and the Lake District, serving Puerto Montt in the Los Lagos Region. Located roughly 15 km west of the city along the Reloncaví Sound, it handles domestic flights connecting Santiago with onward travel to Chiloé, Coyhaique, and Argentine Patagonia. The airport is known for its frequent marine fog and changeable weather, which occasionally disrupt operations.",
+  "faqs": "Q: How far is El Tepual Airport from Puerto Montt city center?\nA: The airport is approximately 15 kilometers (about 9 miles) west of downtown Puerto Montt, typically a 25-30 minute drive depending on traffic.\n\nQ: Are there direct international flights from PMC?\nA: International service is limited; most international travelers connect through Santiago's Arturo Merino Benítez Airport. Seasonal or occasional flights to/from Argentine and Brazilian destinations may be available.\n\nQ: Does the airport have services for travelers heading to Chiloé?\nA: Yes, Puerto Montt is the main departure point for ferries to Chiloé Island, and the airport offers car rental counters and ground transport to ferry terminals in the city.\n\nQ: What is the airport like in terms of weather-related delays?\nA: Due to its proximity to the Pacific and Reloncaví Sound, the airport frequently experiences fog and low visibility, which can cause delays, especially in winter months.\n\n",
+  "transport_tips": "Taxis and shared minibuses (micros) are available outside the terminal and are the most common ways to reach Puerto Montt. Major car rental agencies operate on-site, which is ideal for travelers continuing toward Chiloé, the Lake District, or Patagonia. Pre-booking a transfer is recommended during peak summer and holiday periods.",
+  "local_tip": "If you're heading to Chiloé Island, consider flying into PMC and taking an afternoon ferry from Pargua rather than driving all the way around — it saves hours and you can enjoy sunset views across the Chacao Channel.",
+  "generatedAt": "2026-06-28T20:13:45.730Z",
+  "model": "MiniMax-M3"
+}

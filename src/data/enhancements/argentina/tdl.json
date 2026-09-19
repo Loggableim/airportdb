@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TDL",
+    "icao": "SAZT",
+    "name": "Héroes de Malvinas Airport",
+    "country": "Argentina",
+    "city": "Tandil",
+    "lat": -37.2346,
+    "lon": -59.2286,
+    "type": "medium_airport",
+    "size": 325
+  },
+  "summary": "Héroes de Malvinas Airport (TDL) is a medium-sized regional airport serving Tandil, a city in the Buenos Aires Province of Argentina known for its scenic hills, traditional salami production, and outdoor tourism. The airport's name honors the Argentine soldiers who fought in the 1982 Falklands War. It primarily handles general aviation and limited commercial flights, serving as a gateway to the Tandilia mountain range and surrounding pampas region.",
+  "faqs": "Q: What is the IATA code for Héroes de Malvinas Airport?\nA: The IATA code is TDL and the ICAO code is SAZT.\n\nQ: Where is the airport located?\nA: The airport is located near Tandil in Buenos Aires Province, Argentina, approximately 10 km from the city center.\n\nQ: Does the airport handle international flights?\nA: The airport primarily serves domestic and general aviation traffic, with no scheduled international routes.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers basic passenger services including a small terminal, parking, and ground transportation options.\n\n",
+  "transport_tips": "Taxis and remise services are the most reliable way to reach downtown Tandil, with the journey taking roughly 15 minutes. Rental cars can be arranged in advance through local agencies for exploring the broader Buenos Aires Province region. Public bus connections to Tandil are limited, so arranging transport in advance is recommended, especially for arrivals outside peak hours.",
+  "local_tip": "Visit during late autumn or spring to enjoy Tandil's famous hiking trails in the Sierras de Tandilia without the summer crowds, and pair your trip with a tasting of the city's signature artisanal salami at the local Mercado de las Hermanas.",
+  "generatedAt": "2026-06-30T02:03:56.154Z",
+  "model": "MiniMax-M3"
+}

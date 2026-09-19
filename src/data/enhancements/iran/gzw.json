@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GZW",
+    "icao": "OIIK",
+    "name": "Qazvin Airport",
+    "country": "Iran",
+    "city": "Qazvin",
+    "lat": 36.2401,
+    "lon": 50.0471,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Qazvin Airport (GZW/OIIK) is a medium-sized airport serving Qazvin, the capital of Qazvin Province in northwestern Iran. The facility supports both civil aviation and military operations, with Iran Air operating scheduled domestic flights primarily to Tehran-Mehrabad. Qazvin itself is one of Iran's oldest cities, having served as the Safavid Empire's capital in the 16th century, making the airport a gateway to significant historical and cultural attractions.",
+  "faqs": "Q: What airlines operate from Qazvin Airport?\nA: Iran Air and Iran Aseman Airlines operate scheduled domestic flights, primarily connecting Qazvin with Tehran.\n\nQ: Does Qazvin Airport have international flights?\nA: No, the airport primarily handles domestic flights with occasional special or charter international services.\n\nQ: How far is the airport from Qazvin city center?\nA: The airport is located approximately 15 km southwest of downtown Qazvin, reachable in roughly 20-30 minutes by car.\n\nQ: Are there ATMs and currency exchange at the airport?\nA: Basic banking facilities are available in the terminal, though carrying sufficient Iranian rial is recommended as services may be limited.",
+  "transport_tips": "Taxis are the most common way to reach the airport; pre-booking a telephone taxi (snappi or local services) from the city is recommended for reliability. Private car hire through local hotels is also widely available and often more comfortable. Public bus connections to the airport are limited, so arranging ground transport in advance is advisable.",
+  "local_tip": "If your flight is delayed, ask airport staff about access to the small lounge area near the check-in hall; it's often less crowded than the main waiting area and offers a quieter space to rest between announcements.",
+  "generatedAt": "2026-06-26T11:57:54.367Z",
+  "model": "MiniMax-M3"
+}

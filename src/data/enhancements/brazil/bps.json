@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BPS",
+    "icao": "SBPS",
+    "name": "Porto Seguro International Airport",
+    "country": "Brazil",
+    "city": "Porto Seguro",
+    "lat": -16.4384,
+    "lon": -39.0806,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Porto Seguro International Airport (BPS) serves one of Brazil's most popular beach tourism destinations on the southern coast of Bahia. The airport connects visitors to the historic town where Portuguese explorers first landed in 1500, and it operates as a key gateway to the region's extensive resort corridor along the Discovery Coast. It handles both domestic flights and select international charters, with seasonal traffic peaks during the southern summer months.",
+  "faqs": "Q: How far is Porto Seguro Airport from the city center?\nA: The airport is located approximately 5 km north of Porto Seguro's historic center, with typical transfer times of 10-15 minutes by car depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, the airport handles seasonal international charter flights primarily from Argentina and other South American destinations, alongside its regular domestic schedule.\n\nQ: Which airlines operate at Porto Seguro Airport?\nA: Major Brazilian carriers including GOL, LATAM, and Azul serve the airport with regular domestic connections to cities like São Paulo, Salvador, Belo Horizonte, and Brasília.\n\nQ: Are there currency exchange services at the airport?\nA: Yes, currency exchange services and ATMs are available in the terminal for travelers needing Brazilian reais or exchanging foreign currency.",
+  "transport_tips": "Taxis and pre-booked shuttle services are available outside the terminal and are the most common way to reach resorts along the coast. Ride-sharing apps operate in the region, though availability can be limited during peak hours. Rental car agencies are present at the airport, which is useful for exploring nearby beaches like Arraial d'Ajuda and Trancoso.",
+  "local_tip": "If heading to Arraial d'Ajuda, consider taking a taxi to the ferry terminal rather than the longer route over the Buranhém River bridge, especially during busy periods, as the short ferry crossing drops you closer to the main beach and village center.",
+  "generatedAt": "2026-06-28T21:04:22.230Z",
+  "model": "MiniMax-M3"
+}

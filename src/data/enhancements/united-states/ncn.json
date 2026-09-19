@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NCN",
+    "icao": "PFCB",
+    "name": "Chenega Bay Airport",
+    "country": "United States",
+    "city": "Chenega",
+    "lat": 60.0776,
+    "lon": -147.9947,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Chenega Bay Airport (NCN/PFCB) is a small public-use airport serving the remote Alaska Native village of Chenega Bay, located on Evans Island in Prince William Sound. The airport provides a critical transportation link for this isolated coastal community, which is only accessible by boat or air. It plays a vital role in connecting residents to mainland Alaska for supplies, medical services, and travel.",
+  "faqs": "Q: What is the main purpose of Chenega Bay Airport?\nA: The airport primarily serves the local community of Chenega Bay, providing essential access for residents, mail delivery, medical evacuations, and supplies since the village has no road connections to the mainland.\n\nQ: Are there scheduled commercial flights to Chenega Bay Airport?\nA: Scheduled commercial service is limited; most flights are operated by small regional carriers or charter services serving the Prince William Sound region.\n\nQ: What facilities are available at the airport?\nA: As a small rural airport, facilities are minimal, typically including a basic gravel or paved runway without extensive terminal services or amenities.\n\nQ: Can visitors fly directly to Chenega Bay from Anchorage?\nA: Direct flights may be available through charter or regional operators, though connections through Cordova or Valdez are common alternatives.",
+  "transport_tips": "Access to Chenega Bay is limited to air and sea, so planning flights in advance is essential, especially during winter months when weather can cause delays. The Alaska Marine Highway ferry system serves nearby communities but does not stop directly at Chenega Bay. Private boats can reach the village, but docking facilities are limited.",
+  "local_tip": "Visitors should coordinate with local guides or the Chenega Bay tribal government before arrival, as the community has restricted access areas and prefers advance notice from outside guests.",
+  "generatedAt": "2026-06-26T20:51:31.471Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GLT",
+    "icao": "YGLA",
+    "name": "Gladstone Airport",
+    "country": "Australia",
+    "city": "Gladstone",
+    "lat": -23.8698,
+    "lon": 151.2254,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Gladstone Airport (GLT) serves the industrial port city of Gladstone in Central Queensland, one of Australia's most significant export hubs for aluminum, LNG, and coal. Located just a few kilometers southwest of the city center, the airport supports both regular passenger services and a high volume of fly-in fly-out (FIFO) workers bound for nearby resource projects on Curtis Island and the Bowen Basin. The terminal underwent major upgrades in recent years to accommodate growing passenger demand linked to the region's industrial expansion.\n\nFAQs:\nQ: What airlines operate from Gladstone Airport?\nA: QantasLink and Virgin Australia provide regular services, primarily connecting Gladstone to Brisbane with multiple daily flights.\n\nQ: How far is Gladstone Airport from the city center?\nA: The airport is approximately 6 kilometers southwest of Gladstone's central business district, typically a 10-minute drive.\n\nQ: Does the airport have international flights?\nA: No, Gladstone Airport handles domestic flights only. International travelers typically connect through Brisbane Airport.\n\nQ: Is there car parking available at the airport?\nA: Yes, the airport offers both short-term and long-term parking options adjacent to the terminal building.\n\n",
+  "faqs": "",
+  "transport_tips": "Taxis and rideshare services are available outside the terminal and provide the quickest route into town. Car rental desks from major providers operate from the terminal, and booking in advance is recommended during weekday peak hours when FIFO workers frequently transit the airport. Several local shuttle and hotel transfer services can be prearranged for early morning or late evening flights.\n\n",
+  "local_tip": "If you have a few hours between flights, Gladstone's beautiful Tondoon Botanic Gardens are only a short drive from the airport and showcase tropical Queensland plant species in a relaxed setting away from the industrial precinct.\n\n",
+  "generatedAt": "2026-06-29T09:51:48.702Z",
+  "model": "MiniMax-M3"
+}

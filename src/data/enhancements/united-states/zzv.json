@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZZV",
+    "icao": "KZZV",
+    "name": "Zanesville Municipal Airport",
+    "country": "United States",
+    "city": "Zanesville",
+    "lat": 39.9444,
+    "lon": -81.8921,
+    "type": "medium_airport",
+    "size": 400
+  },
+  "summary": "Zanesville Municipal Airport (ZZV/KZZV) is a public-use airport serving Zanesville, a city in east-central Ohio historically known for its pottery and ceramics industry. The facility functions as a general aviation hub for the Muskingum County region, supporting private pilots, business aviation, and flight training operations. Its single main runway accommodates a mix of single-engine, multi-engine, and occasional jet traffic serving the local community and visiting aircraft.",
+  "faqs": "Q: What is the main use of Zanesville Municipal Airport?\nA: The airport primarily serves general aviation, including private aircraft, business flights, and flight training rather than scheduled commercial service.\n\nQ: How far is the airport from downtown Zanesville?\nA: The airport is located a short drive southwest of downtown Zanesville, making it convenient for travelers heading to the city center.\n\nQ: Are there car rental services available at ZZZ?\nA: Rental car availability may be limited, so visitors are encouraged to arrange transportation in advance or coordinate with local providers.\n\nQ: Does the airport have fuel services for private pilots?\nA: Yes, the airport typically offers aviation fuel services for transient and based aircraft, though pilots should confirm hours of operation prior to arrival.\n\n",
+  "transport_tips": "Renting a car in advance is the most reliable way to reach Zanesville and the surrounding area, as rideshare availability can be limited in this region of Ohio. The airport is a short drive from downtown via local roads, with clear signage directing visitors toward Zanesville. Taxi and shuttle services should be pre-arranged, as on-demand options are uncommon at this general aviation facility.",
+  "local_tip": "Visitors passing through Zanesville should take a moment to explore the nearby Y-Bridge, one of the few bridges in the world that splits into three sections, as well as the local pottery studios that reflect the city's centuries-old ceramics heritage.",
+  "generatedAt": "2026-06-30T01:08:56.700Z",
+  "model": "MiniMax-M3"
+}

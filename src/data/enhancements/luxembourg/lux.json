@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LUX",
+    "icao": "ELLX",
+    "name": "Luxembourg-Findel International Airport",
+    "country": "Luxembourg",
+    "city": "Luxembourg",
+    "lat": 49.6268,
+    "lon": 6.2121,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Luxembourg-Findel International Airport (LUX) is the sole international airport serving the Grand Duchy of Luxembourg, located about 6 km east of the capital city in the locality of Findel. It is notably the home base of Cargolux, one of the world's largest all-cargo airlines, making it a major European air freight hub alongside its passenger operations. The single-terminal facility efficiently handles both commercial passenger traffic and significant cargo volumes for the surrounding financial region.",
+  "faqs": "Q: How far is Luxembourg Airport from the city centre?\nA: The airport is approximately 6 km (3.7 miles) east of Luxembourg City, with a typical journey time of 15-20 minutes by car or bus.\n\nQ: Does the airport operate 24 hours?\nA: The airport generally operates from early morning until late evening, though flight schedules vary by season and airline. Check with your carrier for specific operating hours.\n\nQ: Is there public transport available to the airport?\nA: Yes, regular bus routes including line 16 and line 29 connect the airport with Luxembourg City's main transport hubs, including the central railway station.\n\nQ: Are there hotels near the airport?\nA: Yes, several hotels are located in the vicinity, including options within a short shuttle ride, catering to business travellers and those with early flights.",
+  "transport_tips": "Bus line 16 runs frequently between the airport and Luxembourg City's central railway station, offering an affordable and reliable option for the 20-minute journey. Taxis are readily available outside the terminal and provide a quick alternative, typically costing around €25-35 to the city centre. If renting a car, the airport offers good road connections via the A1 motorway, making it easy to reach neighbouring countries like Germany, Belgium, and France.",
+  "local_tip": "If you have a long layover or a few hours to spare, take bus 16 into Luxembourg City and ride the elevator down to the Grund district in the valley below—it's a UNESCO-listed old town with picturesque views and excellent cafés.",
+  "generatedAt": "2026-06-28T16:31:50.077Z",
+  "model": "MiniMax-M3"
+}

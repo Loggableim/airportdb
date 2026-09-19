@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AGH",
+    "icao": "ESTA",
+    "name": "Ängelholm-Helsingborg Airport",
+    "country": "Sweden",
+    "city": "Ängelholm",
+    "lat": 56.2961,
+    "lon": 12.8471,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ängelholm-Helsingborg Airport (AGH/ESTA) is a regional airport in the Skåne province of southwestern Sweden, serving both the town of Ängelholm and the larger coastal city of Helsingborg. Originally established in the mid-20th century, it functions as a convenient alternative to Sweden's larger international hubs for travelers heading to the Bjäre Peninsula, the Kullabygd region, and northern coastal Skåne. The airport handles scheduled domestic flights and seasonal charter traffic to Mediterranean leisure destinations.",
+  "faqs": "Q: Which cities does Ängelholm-Helsingborg Airport serve?\nA: The airport primarily serves the town of Ängelholm, located a few kilometers away, and the larger city of Helsingborg, roughly 35 km to the south. It also caters to visitors heading to the Bjäre Peninsula coastal resorts and northern Skåne.\n\nQ: How far is the airport from Helsingborg?\nA: Helsingborg is approximately 35 km (about 45 minutes by road) south of the airport. Direct bus connections link the airport to Helsingborg and other regional destinations.\n\nQ: Are there international flights from AGH?\nA: The airport mainly operates domestic Swedish flights, but during the summer season it serves charter flights to popular Mediterranean holiday destinations such as Spain, Greece, and Turkey.\n\nQ: Is there public transport to the airport?\nA: Yes, regional buses connect the airport to Ängelholm station and onward connections to Helsingborg and Malmö via train or bus transfers.",
+  "transport_tips": "A direct regional bus connects the airport with Ängelholm railway station, from where Öresundståg trains run south to Helsingborg and onward to Malmö and Copenhagen. Travelers driving from Helsingborg should follow the E6 motorway north and then the E4 toward Ängelholm, allowing about 45 minutes. Taxis are available but should be pre-booked for early morning flights.",
+  "local_tip": "If you have a long layover or early arrival, consider stopping by the nearby Riviera of Skåne—the stretch of coast",
+  "generatedAt": "2026-06-29T06:28:12.237Z",
+  "model": "MiniMax-M3"
+}

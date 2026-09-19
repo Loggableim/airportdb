@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GLW",
+    "icao": "KGLW",
+    "name": "Glasgow Municipal Airport",
+    "country": "United States",
+    "city": "Glasgow",
+    "lat": 37.0318,
+    "lon": -85.9537,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Glasgow Municipal Airport is a small general aviation facility serving Glasgow, a city in Barren County in south-central Kentucky. The airport supports private pilots, recreational flying, and business aviation for the surrounding rural region. Its location makes it a convenient gateway for visitors exploring nearby Mammoth Cave National Park, one of Kentucky's most popular natural attractions.",
+  "faqs": "Q: What type of airport is Glasgow Municipal?\nA: It is a small, publicly owned general aviation airport serving private and recreational flights rather than commercial airline service.\n\nQ: Does Glasgow Municipal offer scheduled commercial flights?\nA: No, the airport does not have scheduled commercial airline service. Travelers must use larger airports such as Nashville International for commercial flights.\n\nQ: What facilities are available at the airport?\nA: The airport features a paved runway, tie-down areas for aircraft, and basic services typical of a small municipal airfield.\n\nQ: Can pilots rent cars or find ground transportation at the airport?\nA: Ground transportation options are limited, so visitors should arrange rental cars or rides in advance through providers in Glasgow.",
+  "transport_tips": "Since the airport is small with limited on-site services, arranging ground transportation in advance is recommended. Rental cars are available in Glasgow and can be booked ahead of time. The airport is located just a few miles from downtown Glasgow, making it a short drive by car or taxi.",
+  "local_tip": "If you're flying in, consider timing your visit to explore Mammoth Cave National Park, which is less than 30 miles from the airport and offers some of the most extensive cave systems in the world.",
+  "generatedAt": "2026-06-27T03:55:23.608Z",
+  "model": "MiniMax-M3"
+}

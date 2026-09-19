@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LEN",
+    "icao": "LELN",
+    "name": "León Airport",
+    "country": "Spain",
+    "city": "La Virgen del Camino",
+    "lat": 42.5907,
+    "lon": -5.6534,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "León Airport (LEN/LELN) is a regional airport serving the historic city of León in northwestern Spain, located in the municipality of La Virgen del Camino approximately 6 km from the city center. The airport primarily supports domestic and seasonal flights, serving as a gateway to the Castilla y León region's cultural attractions, including the famous León Cathedral and the Camino de Santiago pilgrimage route. It operates as a medium-sized facility catering to leisure and business travelers visiting the provincial capital.",
+  "faqs": "Q: How far is León Airport from the city center of León?\nA: The airport is located approximately 6 km (4 miles) west of León's city center, in the municipality of La Virgen del Camino, typically a 15-20 minute drive.\n\nQ: What airlines operate at León Airport?\nA: The airport primarily serves seasonal and domestic routes, with airlines such as Iberia and occasional low-cost carriers offering connections mainly to Spanish destinations like Barcelona and Palma de Mallorca.\n\nQ: Does the airport have customs and immigration facilities?\nA: As a small regional airport, León Airport has limited international operations and primarily handles Schengen-area flights with simplified border procedures.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers on-site parking facilities for both short-term and long-term stays near the terminal building.\n\n",
+  "transport_tips": "The most convenient way to reach León city from the airport is by taxi, which takes around 15 minutes and costs approximately €15-20. Public bus services connect the airport to León's main bus station, though schedules can be limited, so checking timetables in advance is recommended. Rental cars are also available at the terminal for travelers planning to explore the broader Castilla y León region.",
+  "local_tip": "If you have time before your flight, take a short walk in La Virgen del Camino village to visit the Basilica Menor de la Virgen del Camino, a striking 20th-century basilica and an important pilgrimage site just minutes from the airport.",
+  "generatedAt": "2026-06-29T11:37:26.879Z",
+  "model": "MiniMax-M3"
+}

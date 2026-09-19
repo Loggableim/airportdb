@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TPS",
+    "icao": "LICT",
+    "name": "Vincenzo Florio Airport Trapani-Birgi",
+    "country": "Italy",
+    "city": "Trapani (TP)",
+    "lat": 37.9114,
+    "lon": 12.488,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Vincenzo Florio Airport (TPS) is a regional airport in western Sicily named after the legendary Sicilian entrepreneur and motorsport pioneer Vincenzo Florio. It serves the city of Trapani as well as nearby Marsala and acts as the main gateway to the Egadi Islands (Favignana, Levanzo, and Marettimo). The airport handles a mix of scheduled, seasonal, and charter flights, primarily serving leisure travel to this part of Sicily.",
+  "faqs": "Q: Which airlines operate from Trapani Airport?\nA: Ryanair is the dominant carrier with year-round scheduled flights, while several other airlines operate seasonal and charter services, especially during the summer tourist season.\n\nQ: How far is the airport from Trapani city center?\nA: The airport is approximately 15 km south of Trapani, near the coastal area of Birgi, with a typical transfer time of around 20-30 minutes by car.\n\nQ: Can I reach the Egadi Islands from TPS?\nA: Yes. The airport is conveniently located for onward ferry connections from Trapani's port to Favignana, Levanzo, and Marettimo, making it the preferred entry point for these islands.\n\nQ: Does the airport have good public transport links?\nA: There are limited bus services and taxis available, but renting a car is generally the most practical option for exploring western Sicily's many attractions.",
+  "transport_tips": "Bus services operated by AST and other local providers link the airport to Trapani and Marsala, though schedules can be infrequent outside peak hours. Taxis and pre-booked private transfers are available outside the terminal and offer a faster, more reliable option.",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T04:13:59.107Z",
+  "model": "MiniMax-M3"
+}

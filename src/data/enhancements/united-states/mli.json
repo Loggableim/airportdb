@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLI",
+    "icao": "KMLI",
+    "name": "Quad City International Airport",
+    "country": "United States",
+    "city": "Moline",
+    "lat": 41.4485,
+    "lon": -90.5075,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Quad City International Airport (MLI) serves the Quad Cities metropolitan area straddling the Illinois-Iowa border, including Moline, Rock Island, Davenport, and Bettendorf. The airport holds a notable place in aviation history as the starting point of the first scheduled transcontinental airmail service in 1925. It operates as a medium-sized facility offering commercial service to major U.S. hubs and select leisure destinations.",
+  "faqs": "Q: How far is the airport from downtown Moline?\nA: Quad City International Airport is located approximately 5 miles south of downtown Moline, making it a quick 10-15 minute drive.\n\nQ: What airlines operate from MLI?\nA: The airport is served by Allegiant Air, American Airlines, Delta Air Lines, and United Airlines, with nonstop flights to hubs like Chicago O'Hare, Dallas/Fort Worth, Atlanta, and Denver.\n\nQ: Does the airport have dining and shopping options?\nA: Yes, the terminal features a small selection of restaurants, coffee shops, and a gift shop, though options are limited compared to larger airports.\n\nQ: Is there a military presence at the airport?\nA: Yes, the airport shares facilities with the Iowa Air National Guard, which operates KC-135 tankers from the adjacent base.",
+  "transport_tips": "Rental cars are available at the terminal and are the most convenient way to explore the bi-state Quad Cities region. Ride-share services like Uber and Lyft operate at MLI with designated pickup zones outside baggage claim. Taxi service and local bus routes also connect the airport to nearby communities in Illinois and Iowa.",
+  "local_tip": "If you have a layover or early arrival, head to the observation area near the terminal to watch the Iowa Air National Guard tankers practice takeoffs and landings—a unique sight you won't find at most regional airports.",
+  "generatedAt": "2026-06-29T03:01:41.154Z",
+  "model": "MiniMax-M3"
+}

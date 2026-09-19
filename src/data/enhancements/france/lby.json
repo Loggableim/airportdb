@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LBY",
+    "icao": "LFRE",
+    "name": "La Baule-Escoublac Airport",
+    "country": "France",
+    "city": "La Baule-Escoublac",
+    "lat": 47.2894,
+    "lon": -2.3464,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "La Baule-Escoublac Airport (LBY/LFRE) is a medium-sized regional airport serving the prestigious seaside resort town of La Baule on the Atlantic coast of western France. The airport primarily handles general aviation, private flights, and seasonal traffic, supporting the area's tourism economy. It provides convenient access to one of Europe's most celebrated beach destinations, known for its 9-kilometer stretch of fine sand and Belle Époque architecture.",
+  "faqs": "Q: What is La Baule-Escoublac Airport primarily used for?\nA: The airport mainly serves general aviation, private aircraft, business flights, and seasonal tourist traffic rather than scheduled commercial airlines.\n\nQ: Does the airport have scheduled commercial flights?\nA: No regular scheduled commercial service operates from LBY; travelers typically use nearby Nantes Atlantique Airport (NTE) for scheduled flights.\n\nQ: Where exactly is the airport located?\nA: It is situated near the town of La Baule-Escoublac in the Loire-Atlantique department, approximately 5 km from the beachfront and resort center.\n\nQ: Are there customs and immigration facilities available?\nA: Customs services may be available with prior arrangement for international private flights, but pilots should confirm availability in advance with the handling agent.\n\n",
+  "transport_tips": "Taxis are the most reliable way to reach La Baule town center, Escoublac, or nearby Guérande from the airport, with typical journey times of 10-15 minutes. Rental cars can be arranged with advance notice for travelers wanting to explore the surrounding region including the Guérande salt marshes. The TGV station at La Baule-Les-Pins is only a short drive away, offering high-speed rail connections to Paris and other major French cities.",
+  "local_tip": "If you're flying in for the famous La Baule International Jumping Competition or the Royal Thalasso visits, book ground transport well in advance during summer and event weekends, as the small airport sees surges in private aviation traffic and local taxis fill up quickly.",
+  "generatedAt": "2026-06-26T09:09:32.276Z",
+  "model": "MiniMax-M3"
+}

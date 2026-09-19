@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ACD",
+    "icao": "SKAD",
+    "name": "Alcides Fernández Airport",
+    "country": "Colombia",
+    "city": "Acandí",
+    "lat": 8.4978,
+    "lon": -77.2741,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Alcides Fernández Airport (ACD) is a small regional airport serving Acandí, a coastal municipality in Colombia's Chocó Department near the Panama border. Named after a local figure, the airport provides vital air access to this remote Caribbean-coast community, where road connectivity is limited by dense jungle terrain. It primarily handles domestic flights connecting the Darién region with larger Colombian hubs.",
+  "faqs": "Q: What is the main purpose of Alcides Fernández Airport?\nA: The airport primarily serves as a connection point for passengers traveling between Acandí and larger Colombian cities, given the limited road infrastructure in the region.\n\nQ: Are there international flights from this airport?\nA: No, the airport handles domestic flights only, though its proximity to Panama makes it a potential gateway to the Darién Gap region.\n\nQ: How large is Alcides Fernández Airport?\nA: It is classified as a small airport with basic facilities, suitable for regional turboprop aircraft.\n\nQ: When is the best time to fly to Acandí?\nA: The dry season, roughly from December to March, typically offers more reliable flight schedules as the wet season can cause delays due to weather conditions.\n\n",
+  "transport_tips": "Taxis and motorbike taxis (mototaxis) are typically available at the airport to take passengers into Acandí's town center, which is only a short ride away. Arrangements for ground transport should be made in advance, as the small terminal offers limited services. Travelers heading further along the coast or toward the Panamanian border should coordinate onward transport before arrival.",
+  "local_tip": "Bring cash in small Colombian peso denominations, as ATMs in Acandí can be unreliable and many local businesses do not accept cards.",
+  "generatedAt": "2026-06-27T16:41:41.959Z",
+  "model": "MiniMax-M3"
+}

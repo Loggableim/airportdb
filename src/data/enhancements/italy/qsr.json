@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "QSR",
+    "icao": "LIRI",
+    "name": "Salerno Costa d'Amalfi Airport",
+    "country": "Italy",
+    "city": "Salerno",
+    "lat": 40.6204,
+    "lon": 14.9113,
+    "type": "medium_airport",
+    "size": 550
+  },
+  "summary": "Salerno Costa d'Amalfi Airport serves as a convenient gateway to southern Italy's Campania region, providing easy access to the famed Amalfi Coast, Salerno, and nearby archaeological sites like Pompeii and Paestum. Originally developed as a military airfield, it transitioned into civilian operations and was officially reopened for commercial flights in 2016 after extensive upgrades. Despite its modest size, it offers a streamlined alternative to the busier Naples International Airport for travelers heading to coastal destinations.",
+  "faqs": "Q: Which airlines operate from Salerno Costa d'Amalfi Airport?\nA: The airport primarily hosts low-cost carriers including Ryanair and easyJet, with seasonal routes connecting to several European cities.\n\nQ: How far is the airport from the Amalfi Coast?\nA: The airport is approximately 20 km from Salerno city center and roughly 50-60 km from popular Amalfi Coast towns like Positano and Amalfi.\n\nQ: Are there car rental services available at the airport?\nA: Yes, several car rental agencies operate at the airport, though booking in advance is recommended during peak summer season.\n\nQ: Does the airport operate year-round?\nA: Commercial flight schedules are typically reduced in winter months, with expanded seasonal service running roughly from spring through fall.",
+  "transport_tips": "The most convenient way to reach Salerno city center is by the dedicated airport bus service or taxi, with journeys taking around 20-25 minutes. For Amalfi Coast destinations, consider taking a taxi or bus to Salerno's train station and continuing by ferry or regional transport. Renting a car provides the most flexibility for exploring the surrounding region, including Paestum and the Cilento National Park.",
+  "local_tip": "If traveling to the Amalfi Coast in summer, take a ferry from Salerno port rather than the winding coastal road; it's faster, more scenic, and avoids the notorious traffic along the SS163.",
+  "generatedAt": "2026-06-29T17:39:12.052Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KOT",
+    "icao": "PFKO",
+    "name": "Kotlik Airport",
+    "country": "United States",
+    "city": "Kotlik",
+    "lat": 63.0306,
+    "lon": -163.533,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Kotlik Airport is a small public-use airport serving the remote Yup'ik village of Kotlik on the Bering Sea coast in western Alaska. The facility provides a vital transportation link for a community that lacks road access to the rest of the state, relying on aircraft for passengers, mail, and cargo. It features a single gravel runway suited to the small bush planes commonly serving the region's villages.",
+  "faqs": "Q: What is Kotlik Airport used for?\nA: The airport primarily serves the local Yup'ik community of Kotlik, providing passenger, mail, and cargo services to a remote village with no road connection to other Alaskan communities.\n\nQ: Are there scheduled commercial flights to Kotlik?\nA: Scheduled service is typically provided by regional bush carriers using small aircraft, though schedules and availability can be limited due to weather and demand.\n\nQ: What is the runway like at Kotlik Airport?\nA: The airport has a single gravel runway, which is typical for small airports serving rural Alaskan villages and requires aircraft suited to unpaved surfaces.\n\nQ: Can I drive to Kotlik?\nA: No, Kotlik is not connected to the Alaska road system. Travel to and from the village is primarily by air, with boat and snowmobile used seasonally for local and regional movement.",
+  "transport_tips": "Plan flights well in advance, as weather delays are common and service is limited. Be prepared for a short walk or ATV ride from the airport to the village center, as ground transportation options are minimal. Pack light and bring essential supplies, as luggage space on small bush planes is often restricted.",
+  "local_tip": "Bring extra snacks and a warm layer in your carry-on, as flights can be delayed for hours by coastal fog rolling in off the Bering Sea, and the small terminal offers limited amenities.",
+  "generatedAt": "2026-06-26T21:11:49.270Z",
+  "model": "MiniMax-M3"
+}

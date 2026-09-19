@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LLA",
+    "icao": "ESPA",
+    "name": "Luleå Airport",
+    "country": "Sweden",
+    "city": "Luleå",
+    "lat": 65.5438,
+    "lon": 22.122,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Luleå Airport (LLA) is the primary aviation gateway to northern Sweden's Norrbotten County, located roughly 7 km southwest of Luleå city centre. Situated just below the Arctic Circle, it serves as a vital hub for the region's mining, steel, and technology industries while also handling leisure travel to Swedish Lapland. The airport handles a mix of domestic, charter, and limited international traffic, with operations adapted to the demanding subarctic climate.",
+  "faqs": "Q: How far is Luleå Airport from the city centre?\nA: The airport is approximately 7 km southwest of central Luleå, reachable in about 10-15 minutes by car or airport bus.\n\nQ: Is Luleå Airport above the Arctic Circle?\nA: Luleå itself sits just below the Arctic Circle, so while the airport is not technically above it, the surrounding region offers easy access to Arctic experiences including the midnight sun in summer and northern lights in winter.\n\nQ: Which airlines operate from Luleå Airport?\nA: SAS, Norwegian, and Ryanair are among the main carriers, offering regular service to Stockholm and several European destinations.\n\nQ: Does the airport stay open during severe winter weather?\nA: Yes, Luleå Airport is well equipped for harsh subarctic winters with advanced de-icing and snow clearance capabilities, though occasional weather-related delays can still occur.",
+  "transport_tips": "Airport buses (Flygbussarna) connect the terminal to central Luleå with departures timed to flights, typically taking around 15 minutes. Taxis and pre-booked transfer services are readily available outside the terminal, and rental car desks operate on-site for visitors exploring the wider Norrbotten region. In winter, allow extra time for travel as road conditions can be challenging.",
+  "local_tip": "If you have a longer layover, take the airport bus into Luleå and visit Gammelstad Church Town, a UNESCO World Heritage Site of well-preserved 17th-century church village houses just outside the city – it's a",
+  "generatedAt": "2026-06-28T20:30:47.046Z",
+  "model": "MiniMax-M3"
+}

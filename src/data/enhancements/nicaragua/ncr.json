@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NCR",
+    "icao": "MNSC",
+    "name": "San Carlos Airport",
+    "country": "Nicaragua",
+    "city": "San Carlos",
+    "lat": 11.1356,
+    "lon": -84.7687,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "San Carlos Airport (NCR/MNSC) is a small regional airport serving the town of San Carlos, capital of Nicaragua's Río San Juan Department in the country's southern reaches near the Costa Rican border. The facility provides vital air access to this remote riverside community situated at the junction of the San Juan River and Lake Nicaragua. As a low-traffic airstrip, it primarily handles short-hop domestic flights connecting this isolated region to Managua and other Nicaraguan destinations.",
+  "faqs": "Q: Where is San Carlos Airport located?\nA: The airport is located just outside San Carlos town in the Río San Juan Department of southern Nicaragua, near the Costa Rican border and the western shore of Lake Nicaragua.\n\nQ: What airlines serve San Carlos Airport?\nA: The airport is served primarily by small domestic carriers operating regional flights, mainly connecting San Carlos with Managua on a limited schedule.\n\nQ: How large is San Carlos Airport?\nA: It is a small airfield with a single unpaved or simply paved runway, suited to light aircraft and turboprop operations rather than large commercial jets.\n\nQ: What is the area around San Carlos known for?\nA: The region is known for the San Juan River, Lake Nicaragua, the Indio Maíz Biological Reserve, and its proximity to the Solentiname Islands, attracting eco-tourists and nature enthusiasts.\n\n",
+  "transport_tips": "Ground transport to and from the airport is limited, with taxis and informal pickup services typically being the only options available for the short journey into San Carlos town. Travelers should arrange return transport in advance, as on-demand taxis can be difficult to find during off-peak hours. Many visitors also reach San Carlos via river boat from Granada or the Caribbean coast, making the airport just one leg of a longer journey through this river-rich region.",
+  "local_tip": "If your flight gets canceled or delayed, ask locals about the river boat network to El Castillo or the Solentiname Islands—it's often a more scenic and reliable way to explore the Río San Juan region than relying solely on small aircraft schedules.",
+  "generatedAt": "2026-06-27T14:20:27.512Z",
+  "model": "MiniMax-M3"
+}

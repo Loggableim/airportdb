@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RUH",
+    "icao": "OERK",
+    "name": "King Khalid International Airport",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "lat": 24.9576,
+    "lon": 46.6988,
+    "type": "large_airport",
+    "size": 51600
+  },
+  "summary": "King Khalid International Airport (RUH) is Saudi Arabia's largest airport by land area, covering approximately 225 square kilometers north of Riyadh. Opened in 1983 and named after the late King Khalid bin Abdulaziz, the airport showcases distinctive Islamic architectural design with geometric patterns and triangular windows. It serves as the main hub for Saudia, the national carrier, and handles the majority of international traffic to the Saudi capital.",
+  "faqs": "Q: How far is King Khalid International Airport from central Riyadh?\nA: The airport is located approximately 35 kilometers north of downtown Riyadh, typically a 30-45 minute drive depending on traffic.\n\nQ: How many terminals does RUH have?\nA: The airport has five terminals, with Terminals 1 and 2 serving international flights and Terminal 5 primarily handling domestic routes.\n\nQ: Is there a metro or train connection to the airport?\nA: The Riyadh Metro is being developed with plans to connect to the airport, but currently most travelers rely on taxis, ride-hailing apps, or private cars.\n\nQ: What facilities are available for transit passengers?\nA: The airport offers prayer rooms, duty-free shopping, lounges, restaurants serving halal cuisine, and hotels for longer layovers.",
+  "transport_tips": "Taxis and ride-hailing services like Careem and Uber are the most convenient options for getting to and from the airport, with dedicated pickup zones outside each terminal. Pre-booking a private transfer is recommended for business travelers, as it ensures a fixed price and avoids queueing. Keep in mind that Riyadh traffic can be heavy during rush hours (7-9 AM and 4-7 PM), so plan extra time for arrivals and departures.",
+  "local_tip": "If you have a long layover, the airport's Terminal 1 features a quiet mosque and meditation spaces that are often overlooked by travelers rushing to gates; these offer a peaceful retreat during the busy travel day.",
+  "generatedAt": "2026-06-28T15:39:45.295Z",
+  "model": "MiniMax-M3"
+}

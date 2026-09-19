@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OMA",
+    "icao": "KOMA",
+    "name": "Eppley Airfield",
+    "country": "United States",
+    "city": "Omaha",
+    "lat": 41.3032,
+    "lon": -95.8941,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Eppley Airfield (OMA) is the primary commercial airport serving Omaha, Nebraska, and the greater mid-Plains region. Named after hotel magnate and Omaha benefactor Eugene C. Eppley, the airport sits just across the Missouri River from downtown Omaha. It functions as a key hub for southwestern Iowa and eastern Nebraska, handling roughly 5 million passengers annually.",
+  "faqs": "Q: How far is Eppley Airfield from downtown Omaha?\nA: The airport is located about 5 miles northeast of downtown Omaha, across the Missouri River, typically a 15-20 minute drive depending on traffic.\n\nQ: Does Eppley Airfield offer direct flights to major cities?\nA: Yes, OMA offers nonstop service to numerous major destinations including Chicago, Denver, Dallas, Atlanta, Minneapolis, and Phoenix, with carriers like Southwest, American, Delta, and United.\n\nQ: Are there lounges available at OMA?\nA: Yes, Eppley Airfield has a USO lounge for military members and offers a few airline-affiliated lounges accessible to eligible passengers.\n\nQ: Does the airport have a cell phone waiting lot?\nA: Yes, there is a free cell phone lot located near the terminal for drivers waiting to pick up arriving passengers.",
+  "transport_tips": "Taxis and rideshares like Uber and Lyft are readily available at designated pickup zones outside the terminal. Rental car counters are located on-site at the lower level of the parking garage. The airport is easily accessed via Interstate 29 and Abbott Drive, with clear signage from the downtown area.",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T18:11:03.719Z",
+  "model": "MiniMax-M3"
+}

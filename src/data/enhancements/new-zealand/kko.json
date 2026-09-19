@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KKO",
+    "icao": "NZKO",
+    "name": "Kaikohe Airport",
+    "country": "New Zealand",
+    "city": "Kaikohe",
+    "lat": -35.4511,
+    "lon": 173.817,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Kaikohe Airport is a small regional airfield serving the Far North District of New Zealand's North Island, situated near the town of Kaikohe in Northland. The airport primarily supports general aviation and has historically hosted occasional scheduled services to Auckland. It serves as a convenient gateway for visitors exploring the Bay of Islands, Ninety Mile Beach, and the historic Far North region.",
+  "faqs": "Q: What type of aircraft operations does Kaikohe Airport handle?\nA: The airport primarily serves general aviation, private aircraft, and occasional charter flights, with no scheduled commercial air service currently operating.\n\nQ: Where is Kaikohe Airport located relative to the town?\nA: The airport is located just a few kilometers northwest of Kaikohe town center, making it a quick drive from most local accommodations.\n\nQ: Are there aviation fuel services available at KKO?\nA: Basic refueling services for general aviation aircraft may be available, but pilots should confirm arrangements in advance as this is a small unattended airfield.\n\nQ: Can I fly commercially to Kaikohe Airport?\nA: Currently there are no regular scheduled commercial flights; travelers typically fly into Kerikeri or Whangarei airports for commercial service.",
+  "transport_tips": "The airport is only a short 5-minute drive from Kaikohe township, and a rental car or taxi is the most practical way to reach it. Kerikeri Airport (KKE), about 40 minutes north, offers more commercial flight options if flying commercially. There is no public bus service directly serving the airport, so arranging ground transport in advance is recommended.",
+  "local_tip": "If visiting by private aircraft, plan a day trip to the nearby Waitangi Treaty Grounds or a scenic flight over the Bay of Islands—the airfield's central Far North location makes it an ideal base for exploring this historic region.",
+  "generatedAt": "2026-06-27T23:46:49.122Z",
+  "model": "MiniMax-M3"
+}

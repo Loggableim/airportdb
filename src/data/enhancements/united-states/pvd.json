@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PVD",
+    "icao": "KPVD",
+    "name": "Rhode Island T. F. Green International Airport",
+    "country": "United States",
+    "city": "Providence/Warwick",
+    "lat": 41.725,
+    "lon": -71.4257,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Rhode Island T. F. Green International Airport (PVD) is the primary commercial airport serving Providence and the broader Rhode Island region, named after Theodore Francis Green, a former governor and U.S. senator. Located in Warwick about six miles south of downtown Providence, it also draws passengers from southeastern Massachusetts and eastern Connecticut. The airport was notable as one of the first in the United States to feature a direct commuter rail station, offering seamless transit to Boston and Providence.",
+  "faqs": "Q: How far is PVD from downtown Providence?\nA: The airport is approximately 6 miles south of Providence, typically a 15-20 minute drive depending on traffic.\n\nQ: Does PVD have public transportation options?\nA: Yes, the MBTA commuter rail and RIPTA bus services connect the airport to Providence and Boston via a station adjacent to the terminal.\n\nQ: Which airlines operate from T. F. Green Airport?\nA: Major carriers include Southwest, Delta, American, United, JetBlue, and Allegiant, offering domestic flights and limited international service.\n\nQ: Is there parking available at the airport?\nA: Yes, PVD offers short-term, long-term, and economy parking options on-site, as well as off-site parking facilities nearby.\n\n",
+  "transport_tips": "Driving via Interstate 95 is the most direct route, with the airport just off Exit 13. The MBTA commuter rail station is located directly across from the terminal, providing an affordable alternative to driving into Providence or Boston. Rideshare services and taxis are available at designated pickup zones outside baggage claim.",
+  "local_tip": "If you have time between flights, the airport is minutes from historic Apponaug village and the scenic Rhode Island coastline—consider a quick ride to nearby Narragansett for fresh seafood rather than airport dining.",
+  "generatedAt": "2026-06-28T17:19:59.196Z",
+  "model": "MiniMax-M3"
+}

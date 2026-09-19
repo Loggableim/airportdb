@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ABQ",
+    "icao": "KABQ",
+    "name": "Albuquerque International Sunport",
+    "country": "United States",
+    "city": "Albuquerque",
+    "lat": 35.04,
+    "lon": -106.6089,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Albuquerque International Sunport (ABQ) is the largest commercial airport in New Mexico, serving the Albuquerque metropolitan area and the greater Southwest region. Its name is a portmanteau of 'sun' and 'airport,' reflecting the city's reputation for abundant sunshine and high-desert climate. The airport sits at an elevation of roughly 5,300 feet above sea level and operates from a single main terminal with two concourses.",
+  "faqs": "Q: How far is the airport from downtown Albuquerque?\nA: The Sunport is approximately 5 miles southeast of downtown Albuquerque, typically a 10-15 minute drive depending on traffic.\n\nQ: Does the airport have a rail connection to the city?\nA: Yes, the ABQ Rail Runner commuter train station is adjacent to the terminal and provides affordable service between the airport and downtown Albuquerque, with connections extending north to Santa Fe.\n\nQ: What is the airport's elevation and does it affect flights?\nA: The Sunport sits at about 5,355 feet above sea level. The thin air can lengthen takeoff rolls and reduce aircraft performance, especially on hot summer days, though operations are routine year-round.\n\nQ: Is there a single terminal at ABQ?\nA: Yes, the airport operates from one main terminal building divided into two concourses (A and B) housing gates for all commercial flights.",
+  "transport_tips": "The ABQ Rail Runner commuter rail is one of the most convenient ways to reach downtown Albuquerque, with the station located steps from the terminal. Rental cars, taxis, and rideshare services like Uber and Lyft are readily available at the ground transportation center just outside baggage claim. For travelers heading to Santa Fe, the Rail Runner offers a direct connection without needing a car.",
+  "local_tip": "If visiting in October, plan your return flight timing carefully around the Albuquerque International Balloon Fiesta—the city's skies fill with hundreds of hot air balloons and hotel availability across the metro area becomes extremely tight, so book accommodations well in advance.",
+  "generatedAt": "2026-06-28T17:56:53.832Z",
+  "model": "MiniMax-M3"
+}

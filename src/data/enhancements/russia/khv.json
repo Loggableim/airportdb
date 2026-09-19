@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KHV",
+    "icao": "UHHH",
+    "name": "Khabarovsk Novy Airport",
+    "country": "Russia",
+    "city": "Khabarovsk",
+    "lat": 48.5283,
+    "lon": 135.1886,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Khabarovsk Novy Airport is the primary international gateway to Russia's Far East, serving the regional capital of Khabarovsk along the Amur River near the Chinese border. It operates as a strategic hub for domestic routes connecting Moscow, Vladivostok, Yuzhno-Sakhalinsk, and other Pacific-facing cities, while offering a limited but useful selection of international flights to East Asian destinations. The airport's location makes it a key node for both civilian travel and regional connectivity in the Asia-Pacific corridor.",
+  "faqs": "Q: How far is Khabarovsk Novy Airport from the city center?\nA: The airport is located roughly 10 km east of central Khabarovsk,",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T07:35:54.818Z",
+  "model": "MiniMax-M3"
+}

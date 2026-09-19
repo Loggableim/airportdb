@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YBK",
+    "icao": "CYBK",
+    "name": "Baker Lake Airport",
+    "country": "Canada",
+    "city": "Baker Lake",
+    "lat": 64.2989,
+    "lon": -96.0778,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Baker Lake Airport (YBK) is a medium-sized airport serving the remote Inuit hamlet of Baker Lake in the Kivalliq Region of Nunavut, Canada. Situated near the shoreline of Baker Lake in the Canadian Arctic, it functions as a vital transportation link for this isolated community, connecting residents to southern Canada and other Nunavut settlements. The airport is especially critical during the long winter months when alternative transportation options are extremely limited.",
+  "faqs": "Q: What airlines serve Baker Lake Airport?\nA: Baker Lake Airport is primarily served by Calm Air and First Air (or its successor), which operate scheduled flights connecting to Winnipeg and other Nunavut communities like Rankin Inlet and Iqaluit.\n\nQ: How far is the airport from Baker Lake town center?\nA: The airport is located just a few kilometers from the hamlet center, typically a short taxi ride away.\n\nQ: When is the best time to fly to Baker Lake?\nA: Summer months (June through August) offer the most reliable weather, though flights operate year-round. Winter operations can sometimes be affected by extreme cold and visibility issues.\n\nQ: Is there a terminal building at Baker Lake Airport?\nA: Yes, there is a modest terminal building that handles check-in, baggage, and waiting areas for passengers.\n\n",
+  "transport_tips": "Taxis and local vehicles are the primary means of getting to and from the airport, as public transportation options are limited. Travelers should arrange ground transport in advance, especially during winter months when weather can affect flight schedules. The short distance to town means transfer times are generally quick once you have your luggage.",
+  "local_tip": "Book morning flights whenever possible—afternoon weather in the Arctic can shift quickly with fog rolling off Baker Lake, causing delays or diversions that are less common earlier in the day.",
+  "generatedAt": "2026-06-29T07:52:34.141Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CAE",
+    "icao": "KCAE",
+    "name": "Columbia Metropolitan Airport",
+    "country": "United States",
+    "city": "Columbia",
+    "lat": 33.9382,
+    "lon": -81.123,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Columbia Metropolitan Airport (CAE) is the primary commercial airport serving Columbia, South Carolina, and the surrounding Midlands region. Situated in West Columbia approximately 6 miles southwest of the state capital's downtown, it features a single modern terminal handling regional and select national flights. The airport plays a key role in connecting central South Carolina to major U.S. hubs and supports general aviation and military operations.",
+  "faqs": "Q: How far is Columbia Metropolitan Airport from downtown Columbia?\nA: The airport is approximately 6 miles southwest of downtown Columbia, typically a 15-20 minute drive depending on traffic.\n\nQ: Does CAE have a single terminal?\nA: Yes, Columbia Metropolitan Airport operates from one main terminal building that houses all commercial airline services.\n\nQ: Which airlines serve Columbia Metropolitan Airport?\nA: CAE is served by several major regional carriers offering connections to hubs like Atlanta, Charlotte, Dallas, and Chicago.\n\nQ: Is there a military presence at CAE?\nA: Yes, the airport shares facilities with the South Carolina Army National Guard and supports general aviation and military flight operations alongside commercial service.",
+  "transport_tips": "The airport is conveniently accessed via I-26 and I-77, making it a straightforward drive from most areas in the Columbia metro. Rideshare services and taxis are available curbside at the terminal, while rental car counters are located inside the baggage claim area. Several local hotels offer shuttle pickup services, which is worth confirming when booking accommodations.",
+  "local_tip": "If you have a short layover or extra time, the downtown Columbia Soda City Market held on Main Street every Saturday morning offers an authentic taste of local food, crafts, and culture just a quick rideshare from the airport.",
+  "generatedAt": "2026-06-29T02:09:24.893Z",
+  "model": "MiniMax-M3"
+}

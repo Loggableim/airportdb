@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AMW",
+    "icao": "KAMW",
+    "name": "Ames Municipal Airport",
+    "country": "United States",
+    "city": "Ames",
+    "lat": 41.992,
+    "lon": -93.6218,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Ames Municipal Airport is a small general aviation facility serving Ames, Iowa, home to Iowa State University. It primarily handles private, charter, and corporate aircraft, supporting the university's research and business travel needs. The airport features a single main runway and serves as a convenient alternative to larger regional airports in central Iowa.",
+  "faqs": "Q: What is the main use of Ames Municipal Airport?\nA: The airport primarily serves general aviation, including private aircraft, corporate flights, and charter operations supporting Iowa State University and the local community.\n\nQ: Does Ames Municipal Airport offer commercial passenger service?\nA: No, AMW does not have scheduled commercial passenger flights; travelers typically use nearby Des Moines International Airport for commercial service.\n\nQ: How far is the airport from downtown Ames?\nA: The airport is located just a few miles northeast of central Ames, making it a short drive to Iowa State University and the city center.\n\nQ: Are there aviation services available at AMW?\nA: Yes, the airport provides fueling, hangar rentals, aircraft maintenance, and other general aviation services for based and visiting pilots.",
+  "transport_tips": "The airport is conveniently located about 3 miles northeast of downtown Ames and Iowa State University, accessible via US Highway 69 and local roads. Rental cars and rideshare services are available, though booking in advance is recommended given the limited on-site options. For commercial flights, Des Moines International Airport is approximately 40 miles south.",
+  "local_tip": "Visitors attending Iowa State University events should book charter or private flights well in advance during football weekends and graduation, as hangar space and ground services fill up quickly during peak university activities.",
+  "generatedAt": "2026-06-27T00:39:34.197Z",
+  "model": "MiniMax-M3"
+}

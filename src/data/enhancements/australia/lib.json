@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LIB",
+    "icao": "",
+    "name": "Limbunya Airport",
+    "country": "Australia",
+    "city": "Limbunya",
+    "lat": -17.2356,
+    "lon": 129.882,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Limbunya Airport is a small, remote airstrip serving the Limbunya cattle station in the Northern Territory of Australia. Situated in the semi-arid Victoria River region, it primarily supports pastoral operations, charter flights, and occasional aerial services for the surrounding outback stations. The facility features a single unsealed runway suited to light aircraft typical of remote Australian stations.",
+  "faqs": "Q: What is Limbunya Airport primarily used for?\nA: The airport mainly supports cattle station operations, including freight, mail delivery, and charter flights for station staff and visitors.\n\nQ: Are there scheduled commercial flights to Limbunya Airport?\nA: No scheduled passenger services operate to Limbunya. Access is typically arranged through charter flights from larger NT centres like Katherine or Darwin.\n\nQ: What type of aircraft can use Limbunya Airport?\nA: The runway generally accommodates small-to-medium aircraft such as Cessna Caravans and similar light turboprops commonly used in outback operations.\n\nQ: Is fuel available at Limbunya Airport?\nA: Fuel availability is limited and typically needs to be arranged in advance through the station management or charter operator.",
+  "transport_tips": "Reaching Limbunya Airport requires arranging a charter flight, as there is no road access directly to the airstrip suitable for general travellers. Most visitors arrive via Katherine, roughly 300 km to the northeast, or through connections from Darwin. Ground transport from the airport to the station homestead is usually provided by the station upon prior arrangement.",
+  "local_tip": "Contact the station manager well in advance before flying in, as the strip is remote and may be unserviceable after heavy rain during the tropical wet season from November to March.",
+  "generatedAt": "2026-06-28T02:29:54.764Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SUG",
+    "icao": "RPMS",
+    "name": "Surigao Airport",
+    "country": "Philippines",
+    "city": "Surigao City",
+    "lat": 9.7558,
+    "lon": 125.4809,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Surigao Airport (SUG) is a medium-sized regional airport serving Surigao City in northeastern Mindanao, Philippines. It functions as the primary mainland gateway for travelers heading to Siargao Island, one of the country's premier surfing destinations. The airport handles domestic flights connecting the region to Manila, Cebu, and other key Philippine cities.",
+  "faqs": "Q: How far is Surigao Airport from the ferry terminal to Siargao?\nA: The airport is approximately 10-15 minutes by car from the Surtida Terminal in Surigao City, where ferries depart for Siargao Island.\n\nQ: Which airlines operate at Surigao Airport?\nA: Philippine Airlines and Cebu Pacific operate regular domestic flights, primarily connecting to Manila and Cebu.\n\nQ: Is the airport open 24 hours?\nA: No, Surigao Airport operates during scheduled flight hours only, typically opening a few hours before the first departure and closing after the last arrival.\n\nQ: Are there ATMs and food options at the airport?\nA: Basic facilities are available, including a small selection of snacks and drinks, though options are limited compared to larger airports. ATMs can be found nearby in the city.\n\n",
+  "transport_tips": "Tricycles and jeepneys are readily available outside the terminal for short trips into Surigao City, which is only a few minutes away. For onward travel to Siargao, pre-arranged vans or multicabs can take you directly to the ferry terminal. Multicabs and jeepneys operate routes to nearby destinations like Del Carmen and Dapa during daytime hours.",
+  "local_tip": "Pack light if heading onward to Siargao—the ferry terminal can get crowded during weekends, and rolling small bags makes the boat transfer much easier. Also, bring a rain jacket as the region experiences sudden tropical showers.",
+  "generatedAt": "2026-06-29T10:09:43.665Z",
+  "model": "MiniMax-M3"
+}

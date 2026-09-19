@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SNE",
+    "icao": "GVSN",
+    "name": "Preguiça Airport",
+    "country": "Cape Verde",
+    "city": "Preguiça",
+    "lat": 16.5889,
+    "lon": -24.2841,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Preguiça Airport (SNE) serves the island of São Nicolau in Cape Verde's Barlavento archipelago, providing essential inter-island connections for residents and visitors. Located near the small coastal settlement of Preguiça on the southern part of the island, it functions primarily as a domestic hub with flights linking São Nicolau to other Cape Verdean islands. The modest single-runway facility reflects the island's quiet, off-the-beaten-path character compared to busier Cape Verdean destinations like Sal or Boa Vista.",
+  "faqs": "Q: What airlines fly to Preguiça Airport?\nA: The airport is primarily served by domestic Cape Verdean carriers offering inter-island flights, most commonly TACV (Cabo Verde Airlines) and Binter Cabo Verde, connecting São Nicolau to Santiago (Praia), Sal, and São Vicente.\n\nQ: How far is the airport from the main town of Ribeira Brava?\nA: Preguiça Airport is located on the southern coast, while Ribeira Brava, the island's historic capital, is roughly 20-25 km north across mountainous terrain, requiring a scenic drive of about 45-60 minutes.\n\nQ: Does the airport operate international flights?\nA: No, Preguiça Airport handles domestic flights only. International travelers typically arrive at Amílcar Cabral International Airport on Sal or Nelson Mandela International Airport on Santiago and connect onward.\n\nQ: Are there facilities at the airport?\nA: The terminal is small with basic amenities including a check-in counter, waiting area, and minimal refreshments, consistent with its role as a regional domestic facility.\n\n",
+  "transport_tips": "Taxis and shared transfers are typically available outside the small terminal to reach Ribeira Brava or other island destinations, though arranging a rental car in advance is recommended for exploring São Nicolau's remote beaches and hiking trails. Roads between the airport and northern towns wind through mountainous landscapes, so allow extra time and travel during daylight when possible. Public transport (aluguer minibuses) passes through the area but follows irregular schedules.",
+  "local_tip": "Time your visit around the ferry dock adjacent to the airport—the Caminho Velho viewpoint and nearby Carbeirinho Beach are just minutes away and offer some of São Nicolau's most striking coastal scenery without the crowds found on busier Cape Verdean islands.",
+  "generatedAt": "2026-06-29T15:38:02.986Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "THN",
+    "icao": "ESGT",
+    "name": "Trollhättan-Vänersborg Airport",
+    "country": "Sweden",
+    "city": "Trollhättan",
+    "lat": 58.3181,
+    "lon": 12.345,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Trollhättan-Vänersborg Airport (THN/ESGT) is a regional airport serving the Trollhättan-Vänersborg area in Västra Götaland County, western Sweden. Situated near the Göta älv river and the famous Trollhätte canal locks, the airport primarily supports domestic flights and general aviation, providing convenient access to the industrial cities of Trollhättan and Vänersborg. The facility is notable for serving the historical automotive and aerospace hub of Trollhättan, home to the former Saab Automobile plant.",
+  "faqs": "Q: What is the main purpose of Trollhättan-Vänersborg Airport?\nA: The airport primarily serves as a regional hub for domestic flights and general aviation, connecting the Trollhättan-Vänersborg area to other parts of Sweden.\n\nQ: How far is the airport from Trollhättan city center?\nA: The airport is located a few kilometers outside Trollhättan's city center, making it a short drive of approximately 10-15 minutes.\n\nQ: Does the airport offer international flights?\nA: International scheduled flights are limited; the airport mainly handles domestic routes and charter flights, with the nearest major international gateway being Gothenburg Landvetter Airport.\n\nQ: Are there car rental services at the airport?\nA: Yes, car rental services are typically available, though it's advisable to book in advance given the airport's smaller size.",
+  "transport_tips": "The most convenient way to reach the airport is by car or taxi, with the E45 highway providing direct access to the area. Local bus services connect Trollhättan and Vänersborg to nearby stops, though they may not run directly to the terminal. Driving from Gothenburg takes roughly one hour via the E45 northbound.",
+  "local_tip": "If you have time before your flight, visit the Trollhättan Falls and the historic canal locks, which are among Sweden's most impressive engineering landmarks and just a short drive from the airport.",
+  "generatedAt": "2026-06-29T07:21:06.859Z",
+  "model": "MiniMax-M3"
+}

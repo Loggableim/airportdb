@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RNS",
+    "icao": "LFRN",
+    "name": "Rennes-Saint-Jacques Airport",
+    "country": "France",
+    "city": "Saint-Jacques-de-la-Lande, Ille-et-Vilaine",
+    "lat": 48.0695,
+    "lon": -1.7348,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Rennes-Saint-Jacques Airport (RNS) is a regional airport serving Rennes, the capital of Brittany in northwestern France. Located in the commune of Saint-Jacques-de-la-Lande just southwest of the city center, it operates as a dual-use civilian and military airfield. The airport primarily handles domestic flights to Paris and seasonal European routes, serving as the main gateway to Brittany's largest urban area.",
+  "faqs": "Q: How far is Rennes Airport from the city center?\nA: The airport is approximately 7 km southwest of Rennes city center, typically a 15-20 minute drive.\n\nQ: Does the airport have public transport connections?\nA: Yes, bus line 57 connects the airport to Rennes city center and the main train station (Gare de Rennes) regularly throughout the day.\n\nQ: Are there flights from Rennes to Paris?\nA: Yes, Rennes has frequent daily flights to Paris, operated primarily by Air France and other carriers with multiple rotations per day.\n\nQ: Is there car rental available at Rennes Airport?\nA: Several major car rental companies operate desks in the terminal, including international and local providers.",
+  "transport_tips": "Taking the dedicated airport bus (Line 57) to the train station is the most economical option for city center access. A taxi from the airport to central Rennes typically costs around 20-30 euros depending on traffic and exact destination. If driving, the airport is easily reached via the N136 ring road surrounding Rennes.",
+  "local_tip": "If you have a few hours to spare during a layover or early flight, head into Rennes to visit Les Halles centrales, the city's covered market just a short walk from the train station—it's an authentic taste of Breton food culture.",
+  "generatedAt": "2026-06-29T04:29:27.359Z",
+  "model": "MiniMax-M3"
+}

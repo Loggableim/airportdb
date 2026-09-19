@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OLM",
+    "icao": "KOLM",
+    "name": "Olympia Regional Airport",
+    "country": "United States",
+    "city": "Olympia",
+    "lat": 46.9694,
+    "lon": -122.903,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Olympia Regional Airport (OLM) is a medium-sized public-use airport located in Washington State's capital city, just southwest of downtown Olympia. Originally established as a military training airfield during World War II, it now primarily serves general aviation, corporate flights, and limited charter operations. Its position near the southern end of Puget Sound places it within easy reach of both the Cascade Range and the Pacific coast.",
+  "faqs": "Q: Where is Olympia Regional Airport located relative to the city?\nA: The airport sits approximately 5 miles southwest of downtown Olympia, making it a short drive from the state capitol and the waterfront district along Budd Inlet.\n\nQ: Does Olympia Regional Airport offer commercial passenger service?\nA: Scheduled commercial service is extremely limited or unavailable; the airport is primarily used for general aviation, private aircraft, charter flights, and flight training.\n\nQ: What is the airport's history?\nA: The airfield was originally developed as a military training base during World War II and was later converted for civilian and general aviation use.\n\nQ: Are there FBO services available at OLM?\nA: Yes, fixed-base operator services are available, including fuel, aircraft maintenance, hangar rental, and pilot amenities.\n\n",
+  "transport_tips": "The airport is most easily reached by rental car, as taxi and rideshare availability can be limited and should be arranged in advance. From downtown Olympia, take I-5 to the Tumwater Boulevard exit and follow signs south to the airport terminal area. Driving time from the state capitol campus is typically 15 minutes depending on traffic.",
+  "local_tip": "If you have time before or after a flight, the airport is just minutes from the historic Hands On Children's Museum and the Washington State Capitol campus, where the ornate dome offers free tours on weekdays.",
+  "generatedAt": "2026-06-29T18:30:44.297Z",
+  "model": "MiniMax-M3"
+}

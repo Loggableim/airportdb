@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PHQ",
+    "icao": "YTMO",
+    "name": "The Monument Airport",
+    "country": "Australia",
+    "city": "Phosphate Hill",
+    "lat": -21.8111,
+    "lon": 139.924,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "The Monument Airport (PHQ/YTMO) is a small regional airfield serving the remote mining town of Phosphate Hill in outback Queensland, Australia. The airport primarily supports fly-in/fly-out (FIFO) operations for the nearby Incitec Pivot phosphate mining facility, one of Australia's key phosphate resources. Located in the arid Gulf Country region, it provides a vital transport link for workers and supplies in an otherwise isolated area.",
+  "faqs": "Q: What is The Monument Airport primarily used for?\nA: The airport mainly serves the phosphate mining industry in Phosphate Hill, supporting FIFO worker movements and limited charter flights to this remote outback location.\n\nQ: Are there scheduled commercial flights to PHQ?\nA: No scheduled commercial services operate here. Access is typically through charter flights or company-arranged transport for mining personnel.\n\nQ: What facilities are available at the airport?\nA: As a small remote airfield, facilities are minimal, consisting essentially of a runway and basic apron. Passengers should arrange ground transport and supplies in advance.\n\nQ: How far is the airport from the town centre?\nA: The airport is located just a few kilometres from the Phosphate Hill township, with the mining operation situated nearby.",
+  "transport_tips": "Ground transport options are extremely",
+  "local_tip": "",
+  "generatedAt": "2026-06-27T10:14:29.741Z",
+  "model": "MiniMax-M3"
+}

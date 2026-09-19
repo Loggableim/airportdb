@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IAH",
+    "icao": "KIAH",
+    "name": "George Bush Intercontinental Airport",
+    "country": "United States",
+    "city": "Houston",
+    "lat": 29.9844,
+    "lon": -95.3414,
+    "type": "large_airport",
+    "size": 1055675
+  },
+  "summary": "George Bush Intercontinental Airport (IAH) is Houston's primary international gateway, located approximately 23 miles north of downtown Houston. Named after the 41st U.S. President, it opened in 1969 and serves as United Airlines' largest hub. The sprawling campus encompasses five terminals connected by an underground people-mover system and handles more than 40 million passengers annually.",
+  "faqs": "Q: How far is IAH from downtown Houston?\nA: The airport is about 23 miles north of downtown Houston, typically a 30-45 minute drive depending on traffic.\n\nQ: How do I travel between terminals at IAH?\nA: The TerminaLink subway system connects all five terminals and operates continuously between the terminals and parking areas.\n\nQ: Is IAH a major hub for any airline?\nA: Yes, IAH is the largest hub for United Airlines, offering extensive domestic and international connections.\n\nQ: Are there lounges available for non-elite passengers?\nA: Several independent lounges are available for purchase, including in Terminal D near gate D8, plus airline-specific lounges for premium travelers.",
+  "transport_tips": "The most convenient option for reaching downtown Houston is the official METRO Bus 102, which provides direct service to downtown for a low fare. Rideshares and taxis are readily available but expect higher fares due to the airport's distance from the city center. For those with luggage or heading to the Energy Corridor or Galleria area, pre-booked shuttle services or rental cars often provide better value.",
+  "local_tip": "The Flight Crew Wine Bar in Terminal D near gate D12 is a hidden gem offering Texas wines and local craft beers, and the 'Wonder Wall' digital art installation in Terminal D is worth a quick look between flights—most travelers walk right past it.",
+  "generatedAt": "2026-06-28T14:42:53.577Z",
+  "model": "MiniMax-M3"
+}

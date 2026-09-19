@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RMU",
+    "icao": "LEMI",
+    "name": "Region of Murcia International Airport",
+    "country": "Spain",
+    "city": "Corvera",
+    "lat": 37.8029,
+    "lon": -1.1249,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Region of Murcia International Airport is a modern facility that opened in January 2019, replacing the former Murcia-San Javier Airport to serve Spain's Costa Cálida region. Located in Corvera, approximately 30 km southwest of Murcia city, it was developed to boost tourism and economic activity in southeastern Spain. The airport features a single terminal designed to handle several million passengers annually, serving both leisure routes to northern European destinations and seasonal charter flights.",
+  "faqs": "Q: How far is the airport from Murcia city center?\nA: The airport is approximately 30 km southwest of Murcia, with a typical driving time of around 30-35 minutes via the RM-1 and A-30 motorways.\n\nQ: Does the airport operate 24 hours?\nA: Operating hours vary by season and flight schedule. The airport primarily handles daytime and early evening flights, with limited overnight operations.\n\nQ: Are there direct bus services from the airport to Murcia?\nA: Yes, the Línea Express bus (operated by LAT) connects the airport with Murcia city center and Cartagena, with journey times of around 35-45 minutes depending on destination.\n\nQ: Can I find car rental services at RMU?\nA: Yes, several major car rental companies operate desks in the terminal arrivals area, offering vehicles for exploring the Murcia region and Costa Cálida coastline.",
+  "transport_tips": "The most economical way to reach Murcia city is the LAT bus service, which runs regular timetables aligned with flight arrivals. Taxis are available outside the terminal but can be expensive for the 30+ km journey; pre-booking a transfer is often better value. Rental cars are recommended for travelers planning to visit coastal resorts like Mazarrón or Águilas, as public transport to these areas is limited.",
+  "local_tip": "If you have a long wait between flights, the nearby Corvera Golf & Country Club is just minutes from the terminal and welcomes non-members for meals, making it a relaxing spot to pass time with views of the surrounding Murcian countryside.",
+  "generatedAt": "2026-06-28T22:27:34.192Z",
+  "model": "MiniMax-M3"
+}

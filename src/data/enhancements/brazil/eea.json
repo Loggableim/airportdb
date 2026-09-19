@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EEA",
+    "icao": "SNCP",
+    "name": "Planalto Serrano Regional Airport",
+    "country": "Brazil",
+    "city": "Correia Pinto",
+    "lat": -27.6341,
+    "lon": -50.3583,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Planalto Serrano Regional Airport serves Correia Pinto in the highlands of Santa Catarina state, southern Brazil. Situated on the Serrano Plateau, it provides air access to a region known for its cool climate, rolling hills, and proximity to scenic mountain roads like Serra do Rio do Rastro. The airport primarily handles general aviation and regional flights, supporting tourism and local business in the interior of Santa Catarina.",
+  "faqs": "Q: Where is Planalto Serrano Regional Airport located?\nA: It is located in Correia Pinto, a municipality in the interior of Santa Catarina state in southern Brazil, on the Serrano Plateau.\n\nQ: What type of flights does the airport handle?\nA: The airport primarily serves general aviation and regional flights, with occasional scheduled services connecting the region to other parts of Brazil.\n\nQ: How far is the airport from major cities in Santa Catarina?\nA: Correia Pinto is roughly 130 km from Florianópolis and around 50 km from Lages, the largest city in the Serrana region.\n\nQ: What is the climate like around the airport?\nA: Due to its elevation on the plateau, the area experiences cooler temperatures than coastal Santa Catarina, with occasional frost in winter.\n\n",
+  "transport_tips": "The airport is located just a few kilometers from the center of Correia Pinto, making ground transportation straightforward. Taxis and ride-hailing services are the most practical options, as there is no fixed public bus route serving the terminal. Visitors traveling to nearby destinations like Lages or the Serra do Rio do Rastro should arrange a rental car in advance, as local availability is limited.",
+  "local_tip": "If visiting during winter (June–August), pack warm clothing—the Serrano Plateau regularly drops near or below freezing, and frost is common, which is unusual for Brazil but characteristic of this highland region.",
+  "generatedAt": "2026-06-26T11:22:17.303Z",
+  "model": "MiniMax-M3"
+}

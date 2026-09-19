@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MHG",
+    "icao": "EDFM",
+    "name": "Mannheim-City Airport",
+    "country": "Germany",
+    "city": "Mannheim",
+    "lat": 49.4731,
+    "lon": 8.5142,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mannheim-City Airport (MHG) is a regional airfield situated in the Rhine-Neckar metropolitan region of Baden-Württemberg, Germany. Originally developed from a historical airfield, it now primarily serves general aviation, flight training, and business aviation rather than scheduled commercial traffic. Its central location near the city center makes it a convenient hub for corporate and private flights in one of Germany's economically strongest regions.",
+  "faqs": "Q: Does Mannheim-City Airport handle scheduled commercial flights?\nA: The airport has largely transitioned away from scheduled passenger service and now focuses on general aviation, business flights, and flight training operations.\n\nQ: What is the closest major international airport?\nA: Frankfurt Airport (FRA), one of Europe's largest hubs, is located approximately 70 kilometers north and offers extensive global connections.\n\nQ: Is the airport used for flight training?\nA: Yes, MHG hosts several flight schools and is actively used for pilot training due to its regional setting and manageable traffic.\n\nQ: Can private jets land at Mannheim-City Airport?\nA: Yes, the airport accommodates business and private aviation, with handling services available for general aviation aircraft.",
+  "transport_tips": "The airport is just a short drive from Mannheim's city center via the A6 autobahn, typically reached in 10-15 minutes by car or taxi. Public transport connections include local bus lines that link the airfield to Mannheim Hauptbahnhof and the city's tram network. Ample on-site parking is available for those driving their own vehicles.",
+  "local_tip": "If you have time before a flight, take a quick detour to the nearby Luisenpark or the iconic Mannheim Water Tower (Wasserturm) — both are within a few kilometers and showcase the city's distinctive grid layout, known as the 'Quadrate'.",
+  "generatedAt": "2026-06-29T06:09:39.118Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SET",
+    "icao": "SNHS",
+    "name": "Santa Magalhães Airport",
+    "country": "Brazil",
+    "city": "Serra Talhada",
+    "lat": -8.0614,
+    "lon": -38.3289,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Santa Magalhães Airport (IATA: SET) is a small regional airport serving Serra Talhada, a municipality in the Sertão region of Pernambuco state in northeastern Brazil. The airport provides essential air connectivity to this semi-arid interior region, supporting both civilian travel and occasional general aviation activities. It plays a key role in connecting the remote Sertão area to larger urban centers in the Northeast.",
+  "faqs": "Q: What is the IATA code for Santa Magalhães Airport?\nA: The IATA code is SET, and the ICAO code is SNHS.\n\nQ: What type of airport is Santa Magalhães Airport?\nA: It is classified as a small airport, primarily serving regional and general aviation traffic.\n\nQ: Where is Santa Magalhães Airport located?\nA: The airport is located near Serra Talhada in the state of Pernambuco, northeastern Brazil, in the Sertão region.\n\nQ: Does Santa Magalhães Airport offer commercial scheduled flights?\nA: As a small regional facility, it has limited scheduled commercial service and primarily handles general aviation and occasional regional flights.\n\n",
+  "transport_tips": "The airport is located just outside Serra Talhada's urban center, making it accessible by car or local taxi within a short drive. Renting a vehicle in advance is advisable, as on-site rental services may be limited. Road access via BR-232 and state highways connects Serra Talhada to other cities in Pernambuco.",
+  "local_tip": "If visiting Serra Talhada, take time to explore the region's unique Caatinga biome and the nearby Saco archaeological site, which features ancient rock engravings predating European colonization.",
+  "generatedAt": "2026-06-26T20:32:53.084Z",
+  "model": "MiniMax-M3"
+}

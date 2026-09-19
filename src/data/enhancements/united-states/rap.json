@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RAP",
+    "icao": "KRAP",
+    "name": "Rapid City Regional Airport",
+    "country": "United States",
+    "city": "Rapid City",
+    "lat": 44.0453,
+    "lon": -103.057,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Rapid City Regional Airport (RAP) serves as the primary air gateway to western South Dakota and the Black Hills region, including Mount Rushmore National Memorial, Crazy Horse Memorial, and Badlands National Park. The airport supports a mix of commercial service, general aviation, and military operations, with the South Dakota Air National Guard's 114th Fighter Wing based on the field. Its location makes it a popular arrival point for travelers exploring the natural and cultural landmarks of the northern Great Plains.",
+  "faqs": "Q: How far is Rapid City Regional Airport from Mount Rushmore?\nA: The airport is approximately 35 miles northeast of Mount Rushmore National Memorial, typically a 45-minute drive via US-16A.\n\nQ: What airlines serve Rapid City Regional Airport?\nA: The airport is served by several major carriers offering nonstop flights to hubs like Denver, Minneapolis, Chicago, and Dallas-Fort Worth, along with seasonal routes.\n\nQ: Does the airport have military facilities?\nA: Yes, the South Dakota Air National Guard's 114th Fighter Wing operates from the field, flying F-16 aircraft.\n\nQ: Are there car rentals available on-site?\nA: Yes, multiple car rental agencies operate from the terminal, and rental counters are located inside the arrivals area for convenient access.",
+  "transport_tips": "The airport is located about 8 miles southeast of downtown Rapid City, easily reached via US-16B. Rental cars and rideshare services are available at the terminal, and taxi services can be arranged through the ground transportation desks. During winter months, allow extra travel time as Black Hills weather can affect road conditions.",
+  "local_tip": "If you have a layover or early arrival, the airport's observation area offers views of F-16 fighter jets from the adjacent Air National Guard base, which are a rare sight at most regional airports.",
+  "generatedAt": "2026-06-29T01:54:42.097Z",
+  "model": "MiniMax-M3"
+}

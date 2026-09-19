@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VVO",
+    "icao": "UHWW",
+    "name": "Vladivostok International Airport",
+    "country": "Russia",
+    "city": "Artyom",
+    "lat": 43.3963,
+    "lon": 132.1482,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Vladivostok International Airport (VVO) is the main aviation gateway to the Russian Far East, located in the city of Artyom roughly 38 km northeast of Vladivostok along the coast of the Sea of Japan. The airport was significantly modernized ahead of the 2012 APEC Leaders' Summit and serves as an important hub connecting the Russian Far East with domestic cities as well as regional destinations in Asia-Pacific countries such as China, Japan, South Korea, and Vietnam. It features a single integrated terminal handling both domestic and international flights.",
+  "faqs": "Q: How far is Vladivostok Airport from the city center?\nA: The airport is located in Artyom, approximately 38-40 km northeast of downtown Vladivostok. Travel time by car or bus is typically 40-60 minutes depending on traffic.\n\nQ: Does the airport have a railway connection?\nA: Yes, an aeroexpress rail service connects the airport to Vladivostok's central station, providing a reliable alternative to road transport.\n\nQ: How many terminals does VVO have?\nA: The airport operates with a single modern terminal building that handles both domestic and international flights, with separate areas for each.\n\nQ: Which airlines operate from Vladivostok Airport?\nA: The airport serves as a hub for Aurora Airlines and is served by major Russian carriers including Aeroflot, S7, and Ural Airlines, along with several Asian regional carriers.",
+  "transport_tips": "The aeroexpress train is",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T21:02:38.263Z",
+  "model": "MiniMax-M3"
+}

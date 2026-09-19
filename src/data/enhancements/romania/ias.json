@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IAS",
+    "icao": "LRIA",
+    "name": "Iaşi International Airport",
+    "country": "Romania",
+    "city": "Iaşi",
+    "lat": 47.1796,
+    "lon": 27.6214,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Iaşi International Airport is the main air gateway to northeastern Romania, serving the historic city of Iaşi, which was once the capital of the Principality of Moldavia. Located about 8 km east of the city center, it has operated since the 1920s and is one of Romania's oldest airports. It handles both domestic flights and an expanding network of low-cost European routes.",
+  "faqs": "Q: How far is Iaşi Airport from the city center?\nA: The airport is approximately 8 km east of central Iaşi, with a typical transfer time of 15-25 minutes by car or taxi.\n\nQ: Which airlines operate from Iaşi International Airport?\nA: TAROM, Wizz Air, and seasonal/charter carriers serve the airport, connecting Iaşi with Bucharest and various European cities.\n\nQ: Does the airport operate 24 hours?\nA: No, Iaşi Airport has limited operating hours aligned with scheduled flight times and is not a 24-hour facility.\n\nQ: Is there a duty-free shop at Iaşi Airport?\nA: Yes, there is a duty-free area in the international departures terminal offering standard items.",
+  "transport_tips": "The most convenient option is a taxi or rideshare from the airport to central Iaşi, typically costing around 30-50 RON. Public bus route 50 connects the airport to the city center and is an affordable alternative. Car rental counters are available in the arrivals hall for those planning to explore the Moldavia region.",
+  "local_tip": "If you have a layover or early arrival, visit the Copou Park and the nearby Bojdeuca lui Creangă (Ion Creangă's Hut), Romania's first literary museum, just a short ride from the airport—it's a uniquely Moldavian cultural experience most tourists miss.",
+  "generatedAt": "2026-06-28T21:35:52.249Z",
+  "model": "MiniMax-M3"
+}

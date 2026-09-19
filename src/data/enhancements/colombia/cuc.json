@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CUC",
+    "icao": "SKCC",
+    "name": "Camilo Daza International Airport",
+    "country": "Colombia",
+    "city": "Cúcuta",
+    "lat": 7.9276,
+    "lon": -72.5115,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Camilo Daza International Airport (CUC) is the main air gateway to Cúcuta, the capital of Colombia's Norte de Santander department, named after Camilo Daza, a pioneering Colombian military aviator. Situated just minutes from the Venezuelan border, the airport plays a vital role in cross-border travel and commerce between the two countries. It serves as an important hub for domestic connectivity to Bogotá and other Colombian cities.",
+  "faqs": "Q: How far is Camilo Daza International Airport from downtown Cúcuta?\nA: The airport is located approximately 5 km (about 3 miles) north of the city center, making it a quick 10-15 minute drive.\n\nQ: Does the airport offer international flights?\nA: Yes, it handles some international flights, primarily to destinations in Venezuela and Panama, reflecting the region's cross-border importance.\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard amenities including restaurants, shops, car rental services, and basic passenger services for a medium-sized regional airport.\n\nQ: Which airlines operate from CUC?\nA: Several Colombian carriers serve the airport, including Avianca and LATAM Colombia, with regular flights primarily to Bogotá.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are readily available outside the terminal and offer the most convenient transport to Cúcuta's city center, typically costing a modest fare. Shared minibus services (colectivos) also operate along the main route into town for budget-conscious travelers. Due to the airport's proximity to the Venezuelan border, travelers should allow extra time if continuing overland across the Simón Bolívar International Bridge.",
+  "local_tip": "If you have a layover or early arrival, grab a coffee or snack at one of the small cafés on the airport's upper level, which offers a pleasant view of the surrounding Andean foothills—a nice way to acclimate before heading into the bustling border city.",
+  "generatedAt": "2026-06-29T10:28:07.807Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SUQ",
+    "icao": "SESC",
+    "name": "Sucúa Airport",
+    "country": "Ecuador",
+    "city": "Sucúa",
+    "lat": -2.4742,
+    "lon": -78.169,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Sucúa Airport is a small regional airport serving the town of Sucúa in Ecuador's Morona Santiago Province, nestled in the Amazon basin at the foothills of the Andes. It primarily handles general aviation and limited commercial flights, providing vital air access to this remote part of southeastern Ecuador. The airport supports connectivity for local communities, missionaries, and visitors exploring the nearby Sangay National Park and indigenous Shuar territories.",
+  "faqs": "Q: What is the airport code for Sucúa Airport?\nA: The IATA code is SUQ and the ICAO code is SESC.\n\nQ: What type of flights operate from Sucúa Airport?\nA: The airport primarily handles small commercial and charter flights, along with general aviation, connecting the region to other parts of Ecuador.\n\nQ: Where is Sucúa located?\nA: Sucúa is in Morona Santiago Province in southeastern Ecuador, in the Amazon region near the Andes foothills.\n\nQ: How large is Sucúa Airport?\nA: It is a small regional airport with a single runway, serving light aircraft and limited traffic.\n\n",
+  "transport_tips": "Ground transport to and from the airport typically relies on taxis and local pickup trucks, as Sucúa is a small town with limited public transit options. Travelers should arrange transportation in advance, especially for early morning or late evening flights. The town center is just a short drive from the airfield, and most local accommodations can help coordinate airport transfers.",
+  "local_tip": "If you're visiting Sucúa, bring cash in small denominations, as ATMs can be unreliable in the area, and many local businesses only accept cash payments in US dollars, Ecuador's official currency.",
+  "generatedAt": "2026-06-28T08:31:50.262Z",
+  "model": "MiniMax-M3"
+}

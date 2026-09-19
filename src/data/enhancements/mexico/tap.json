@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TAP",
+    "icao": "MMTP",
+    "name": "Tapachula International Airport",
+    "country": "Mexico",
+    "city": "Tapachula",
+    "lat": 14.7945,
+    "lon": -92.3699,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tapachula International Airport serves the southern Mexican city of Tapachula in Chiapas state, near the Guatemala border. It functions as a key gateway for the Pacific coast region, connecting travelers to the Soconusco area, the Coffee Route, and onward journeys into Central America. The airport handles domestic flights primarily, with some international connections to neighboring countries.",
+  "faqs": "Q: What is the airport code for Tapachula International Airport?\nA: The IATA code is TAP and the ICAO code is MMTP.\n\nQ: Where is Tapachula Airport located?\nA: It is located approximately 20 km west of the city of Tapachula, Chiapas, in southern Mexico, close to the border with Guatemala.\n\nQ: Are there international flights from Tapachula Airport?\nA: Yes, the airport offers some international connections, primarily to Guatemala and other Central American destinations, alongside its domestic Mexican routes.\n\nQ: What destinations can I reach from Tapachula?\nA: Popular domestic routes include Mexico City, and the airport also provides access to tourist destinations in the Chiapas coast and coffee-growing highlands.",
+  "transport_tips": "Taxis and authorized shuttle services are available outside the terminal and provide the most convenient way to reach Tapachula city center, roughly 20 km away. Pre-arranged private transfers are recommended if heading to coastal resorts or crossing into Guatemala. Public buses occasionally serve the airport area, but schedules may be infrequent, so ground transport should be confirmed in advance.",
+  "local_tip": "If traveling onward to Guatemala, exchange currency before leaving the airport since the Tapachula-Guatemala border crossing area offers better rates than the airport, and ground transportation to the border is easily arranged from Tapachula city.",
+  "generatedAt": "2026-06-29T07:40:38.419Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DLA",
+    "icao": "FKKD",
+    "name": "Douala International Airport",
+    "country": "Cameroon",
+    "city": "Douala",
+    "lat": 4.0061,
+    "lon": 9.7195,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Douala International Airport (DLA) is the busiest and largest airport in Cameroon, serving as the primary international gateway to the country's economic capital. Located approximately 6 km southeast of central Douala near the Atlantic coast, it functions as the main hub for Camair-Co and handles a significant share of Central African air traffic. The airport plays a vital role in connecting Cameroon to destinations across Africa, Europe, and the Middle East.",
+  "faqs": "Q: How far is Douala International Airport from the city center?\nA: The airport is located about 6 km (roughly 15-20 minutes by car) from downtown Douala, though travel times can vary significantly with traffic.\n\nQ: Which airlines operate from Douala International Airport?\nA: Major carriers serving DLA include Camair-Co, Air France, Brussels Airlines, Turkish Airlines, Royal Air Maroc, Ethiopian Airlines, and several African regional airlines.\n\nQ: Does the airport offer international flights?\nA: Yes, DLA operates numerous international routes to destinations across Europe, Africa, and the Middle East, alongside domestic flights to cities like Yaoundé and Garoua.\n\nQ: What facilities are available at the airport?\nA: The terminal includes restaurants, duty-free shops, currency exchange counters, car rental services, and VIP lounges for premium passengers.\n\n",
+  "transport_tips": "Official yellow taxis are available outside the terminal and offer fixed fares to central Douala; agree on the price before departing. Shared shuttles and hotel transfer services are common options for travelers with prior arrangements. The main road connecting the airport to the city can experience heavy congestion during peak hours, so allow extra time for departures and arrivals.",
+  "local_tip": "Have small denominations of CFA francs (Central African Francs) ready for taxi fares and tipping, as drivers and vendors often cannot break larger notes.",
+  "generatedAt": "2026-06-28T21:07:46.210Z",
+  "model": "MiniMax-M3"
+}

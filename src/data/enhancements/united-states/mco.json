@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MCO",
+    "icao": "KMCO",
+    "name": "Orlando International Airport",
+    "country": "United States",
+    "city": "Orlando",
+    "lat": 28.4294,
+    "lon": -81.309,
+    "type": "large_airport",
+    "size": 1044075
+  },
+  "summary": "Orlando International Airport (MCO) is one of the busiest airports in the United States, serving as the primary gateway to Central Florida's world-famous theme parks including Walt Disney World and Universal Orlando Resort. Originally established as McCoy Air Force Base in 1942, it transitioned to civilian use and grew into a major international hub. The airport features four passenger terminals (A, B, C, and the newer Terminal C opened in 2022) connected by an automated people mover system.",
+  "faqs": "Q: How far is MCO from Walt Disney World?\nA: Walt Disney World is approximately 20 miles southwest of the airport, typically a 25-35 minute drive depending on traffic.\n\nQ: Does MCO have a people mover between terminals?\nA: Yes, the airport operates an automated people mover (APM) system that connects all four terminals and the parking garages.\n\nQ: How early should I arrive for a domestic flight at MCO?\nA: TSA recommends arriving at least 2 hours before domestic flights and 3 hours before international flights, though the airport is known for occasional long security lines.\n\nQ: Is there free Wi-Fi at Orlando International Airport?\nA: Yes, MCO offers free Wi-Fi throughout all terminals; connect to the 'MCO-Free-WiFi' network.",
+  "transport_tips": "SunRail commuter rail service connects the airport to downtown Orlando and points north, though it does not reach the theme parks directly. Rideshare services like Uber and Lyft have designated pickup zones on each terminal's Ground Level. The Beachline Expressway (SR-528) toll road provides the most direct route to the coastal areas and Cape Canaveral.",
+  "local_tip": "Terminal C, the newest addition opened in 2022, features impressive architecture, local dining options, and generally shorter security lines than the older terminals, making it worth checking if your airline operates from there.",
+  "generatedAt": "2026-06-28T14:43:59.789Z",
+  "model": "MiniMax-M3"
+}

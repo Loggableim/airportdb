@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CYI",
+    "icao": "RCKU",
+    "name": "Chiayi Airport",
+    "country": "Taiwan",
+    "city": "Shuishang",
+    "lat": 23.4626,
+    "lon": 120.3905,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Chiayi Airport (CYI) is a regional airport in Shuishang Township, serving the Chiayi metropolitan area in southwestern Taiwan. It functions primarily as a domestic gateway, with regular flights connecting to Taipei and offshore islands, while also serving as the most convenient air access point for travelers heading to the Alishan mountain region. The single-terminal facility is compact and efficiently designed for the moderate passenger traffic typical of Taiwan's regional airports.",
+  "faqs": "Q: What destinations are served by Chiayi Airport?\nA: Chiayi Airport primarily handles domestic flights, with regular service to Taipei Songshan Airport and occasional connections to other regional destinations and offshore islands.\n\nQ: How far is Chiayi Airport from Chiayi city center?\nA: The airport is located in Shuishang Township, approximately 15 kilometers southeast of central Chiayi City, about a 20-25 minute drive.\n\nQ: Are there flights from Chiayi Airport to Alishan?\nA: There are no direct flights to Alishan. Travelers headed to Alishan typically fly into Chiayi and then take a bus or train to the mountain area.\n\nQ: What are the airport's operating hours?\nA: The airport generally operates during scheduled flight hours, with the terminal opening well before the first departure and closing after the last arrival of the day.",
+  "transport_tips": "Taxis and ride-hailing services are readily available outside the terminal and offer a direct route into Chiayi city or to Chiayi High Speed Rail Station. Public bus routes connect the airport to downtown Chiayi and Chiayi TRA Station, providing affordable access to onward rail connections. For travelers heading to Alishan, the BRT (Bus Rapid Transit) to Chiayi High Speed Rail Station is convenient for reaching the mountain trailheads.",
+  "local_tip": "If you're planning a trip to Alishan, arrange your visit for at least two days and consider booking flights on different days—the mountain sunrise experience requires an early morning bus departure that doesn't align well with same-day flights. The airport's small size makes it easy to arrive just 45 minutes before departure for domestic flights.",
+  "generatedAt": "2026-06-29T15:40:40.582Z",
+  "model": "MiniMax-M3"
+}

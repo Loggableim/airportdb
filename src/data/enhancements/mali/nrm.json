@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NRM",
+    "icao": "GANK",
+    "name": "Nara Airport",
+    "country": "Mali",
+    "city": "Keibane",
+    "lat": 15.2291,
+    "lon": -7.262,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Nara Airport is a small regional airfield serving the town of Nara in western Mali's Koulikoro Region. It functions primarily as a local aviation facility supporting general aviation and limited regional connectivity in the Sahel zone. The airport sits in a sparsely populated area near the Mauritanian border, reflecting Mali's broader network of remote airfields that link isolated communities.",
+  "faqs": "Q: What type of aircraft typically use Nara Airport?\nA: The airport primarily serves small turboprop aircraft and general aviation flights, given its classification as a small regional airfield.\n\nQ: Are there scheduled commercial passenger flights from NRM?\nA: Scheduled commercial service is very limited; most activity consists of charter, humanitarian, and private aviation operations typical of remote Malian airfields.\n\nQ: Is the airport paved?\nA: Runway surface conditions vary, and pilots should consult current NOTAMs and local reports before operating at this remote Sahelian field.\n\nQ: What facilities are available at the terminal?\nA: Passenger facilities are minimal, reflecting the airport's small size and limited traffic volume.\n\n",
+  "transport_tips": "Ground transport to and from Nara Airport typically relies on road vehicles, as the area lacks dedicated airport shuttle services. Travelers should arrange private transport in advance, as taxi availability near the airfield is limited. The roads connecting to Nara town may be unpaved, so a 4x4 vehicle is advisable, especially during the rainy season.",
+  "local_tip": "Carry sufficient drinking water and sun protection when flying into Nara, as the surrounding Sahelian climate is hot and dry for most of the year, and on-site amenities are minimal.",
+  "generatedAt": "2026-06-28T00:21:43.615Z",
+  "model": "MiniMax-M3"
+}

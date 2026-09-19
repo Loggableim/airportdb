@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FRC",
+    "icao": "SIMK",
+    "name": "Tenente Lund Pressoto Airport",
+    "country": "Brazil",
+    "city": "Franca",
+    "lat": -20.5922,
+    "lon": -47.3829,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Tenente Lund Pressoto Airport (FRC/SIMK) is a small regional airport serving Franca, a city in the northeastern part of São Paulo state, Brazil. The airport supports general aviation and limited commercial operations, serving a region well known for its footwear and coffee industries. It provides an important air link for business travelers connecting Franca to other parts of Brazil.",
+  "faqs": "Q: What is the IATA code for Tenente Lund Pressoto Airport?\nA: The IATA code is FRC, and its ICAO code is SIMK.\n\nQ: Where is the airport located?\nA: It is located in Franca, in the state of São Paulo, Brazil.\n\nQ: What kind of flights operate from FRC?\nA: The airport primarily handles general aviation and regional flights, as it is a small airport with limited scheduled commercial service.\n\nQ: Is the airport near the city center?\nA: Yes, Tenente Lund Pressoto Airport is situated close to Franca's urban area, making access relatively straightforward.\n\n",
+  "transport_tips": "The airport is only a short drive from Franca's city center, typically reachable in around 15 minutes by car. Taxis and ride-hailing apps are the most common ways to get to and from the terminal, as there is no rail or metro service. Visitors are advised to arrange ground transport in advance, especially since flight schedules at this small airport can be irregular.",
+  "local_tip": "If you have a long wait between flights, head into Franca's downtown to try a pastel de calafate at a local padaria—a sweet treat made from a regional fruit that is hard to find outside the area.",
+  "generatedAt": "2026-06-27T05:23:44.762Z",
+  "model": "MiniMax-M3"
+}

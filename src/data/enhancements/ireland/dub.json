@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DUB",
+    "icao": "EIDW",
+    "name": "Dublin Airport",
+    "country": "Ireland",
+    "city": "Dublin",
+    "lat": 53.4287,
+    "lon": -6.2621,
+    "type": "large_airport",
+    "size": 1014475
+  },
+  "summary": "Dublin Airport (DUB/EIDW) is Ireland's largest and busiest airport, located approximately 10 km north of Dublin city centre along the country's east coast. Serving as the primary hub for Aer Lingus and Ryanair, it operates two terminals and handles over 30 million passengers annually, making it a key gateway between Europe, North America, and the rest of the world. The airport has been operating since 1940 and underwent significant expansion with the opening of Terminal 2 in 2010.",
+  "faqs": "Q: How far is Dublin Airport from the city centre?\nA: Dublin Airport is located about 10 km (6 miles) north of Dublin city centre, typically a 25-40 minute drive depending on traffic.\n\nQ: Does Dublin Airport have multiple terminals?\nA: Yes, Dublin Airport has two terminals: Terminal 1, which is the older and larger terminal, and Terminal 2, which opened in 2010 and primarily serves Aer Lingus and transatlantic flights.\n\nQ: Are there direct public transport options to the airport?\nA: Yes, Dublin Airport is served by Dublin Bus routes, the Aircoach private coach service, and taxi services. The city centre can be reached directly by bus routes 16, 41, and 102.\n\nQ: Is there a railway connection to Dublin Airport?\nA: No, Dublin Airport does not currently have a direct rail connection, though MetroLink, a planned metro line, is expected to connect the airport to the city centre in the coming years.\n\n",
+  "transport_tips": "Dublin Bus routes 16, 41, and 102 provide direct and affordable connections between the airport and Dublin city centre, with journey times of around 45-60 minutes. The Aircoach and Dublin Express coach services offer faster, more comfortable alternatives with onboard Wi-Fi. Taxis are readily available outside both terminals and the journey to the city centre typically costs €25-35.",
+  "local_tip": "If you have a long layover, head to Terminal 2's viewing terrace on the upper level for a great spot to watch aircraft movements and spot rare transatlantic arrivals without a boarding pass.",
+  "generatedAt": "2026-06-28T15:15:39.531Z",
+  "model": "MiniMax-M3"
+}

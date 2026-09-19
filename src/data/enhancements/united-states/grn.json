@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GRN",
+    "icao": "KGRN",
+    "name": "Gordon Municipal Airport",
+    "country": "United States",
+    "city": "Gordon",
+    "lat": 42.806,
+    "lon": -102.175,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Gordon Municipal Airport is a small general aviation facility serving the city of Gordon in the Nebraska Sandhills region of northwestern Nebraska. The airport supports local aviation needs, including recreational flying, agricultural operations, and emergency medical transport for the rural surrounding area. Its remote setting makes it a convenient gateway for visitors exploring the Pine Ridge region and nearby natural attractions.",
+  "faqs": "Q: What type of airport is Gordon Municipal Airport?\nA: It is a small public-use general aviation airport serving private, recreational, and business aircraft.\n\nQ: Does Gordon Municipal Airport offer commercial airline service?\nA: No, there is no scheduled commercial airline service. The airport handles only general aviation traffic.\n\nQ: Are fuel services available at the airport?\nA: Fuel availability may be limited, so pilots should coordinate refueling arrangements with the airport operator prior to arrival.\n\nQ: What is the airport used for most often?\nA: It primarily supports private pilots, agricultural aviation, medical evacuation flights, and visitors traveling to the Gordon area.",
+  "transport_tips": "The airport is located just a few miles from downtown Gordon, making ground transportation straightforward. Visitors typically rely on personal vehicles, rental cars arranged in advance, or local taxi services. Since there is no public transit serving the airport, arranging a pickup in advance is recommended for travelers without their own transportation.",
+  "local_tip": "Pilots flying in should note that Gordon is a popular stopping point for cross-country flights across the northern Great Plains, so notifying the local operator ahead of arrival can help secure hangar space during busy summer months.",
+  "generatedAt": "2026-06-27T09:24:33.208Z",
+  "model": "MiniMax-M3"
+}

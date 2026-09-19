@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DLC",
+    "icao": "ZYTL",
+    "name": "Dalian Zhoushuizi International Airport",
+    "country": "China",
+    "city": "Dalian (Ganjingzi)",
+    "lat": 38.9657,
+    "lon": 121.5385,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Dalian Zhoushuizi International Airport (DLC) is one of China's oldest airports, with origins dating back to 1924 as a military airfield on the Liaodong Peninsula. Located in the Ganjingzi district roughly 10 km northwest of downtown Dalian, it serves as the primary aviation gateway for this major northeastern port city and seaside resort destination. The airport handles both domestic routes across China and international connections to destinations in East and Southeast Asia.",
+  "faqs": "Q: How far is Dalian Zhoushuizi Airport from the city center?\nA: The airport is approximately 10 km northwest of central Dalian, with typical transfer times of 30-45 minutes by taxi depending on traffic.\n\nQ: Does the airport have metro access?\nA: Yes, Dalian Metro Line 2 terminates at the airport, providing a convenient and affordable connection to the city center and Dalian Railway Station.\n\nQ: What international destinations are served from DLC?\nA: The airport offers flights to several international destinations including Tokyo, Seoul, Osaka, Bangkok, Singapore, and various other Asian cities, primarily operated by Chinese and East Asian carriers.\n\nQ: Is the airport open 24 hours?\nA: The terminal operates extended hours aligned with flight schedules, but overnight stays inside the terminal are generally restricted; travelers with early flights should confirm lounge or hotel options nearby.",
+  "transport_tips": "The metro (Line 2) is the most reliable and economical option, taking around 40 minutes to reach the city center for just a few yuan. Taxis are readily available outside the terminal and are metered, though expect higher fares during peak hours. Airport express buses connect the terminal to major downtown hotels and Dalian Railway Station for travelers with luggage.",
+  "local_tip": "If you have a long lay",
+  "generatedAt": "2026-06-28T20:13:03.526Z",
+  "model": "MiniMax-M3"
+}

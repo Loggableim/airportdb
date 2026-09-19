@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FYU",
+    "icao": "PFYU",
+    "name": "Fort Yukon Airport",
+    "country": "United States",
+    "city": "Fort Yukon",
+    "lat": 66.5717,
+    "lon": -145.25,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Fort Yukon Airport (FYU) is a medium-sized public-use airport serving the remote community of Fort Yukon, Alaska, located just north of the Arctic Circle at the confluence of the Yukon and Porcupine Rivers. The airport is a vital lifeline for the predominantly Gwich'in Athabascan community, as no roads connect Fort Yukon to the rest of the state's road network—air travel is essentially the only year-round transportation option. It features a single asphalt runway and handles regional cargo, mail, and passenger flights.",
+  "faqs": "Q: Why is Fort Yukon Airport so important to the community?\nA: Fort Yukon has no road access to the rest of Alaska, making the airport the primary year-round link for passengers, mail, groceries, fuel, and medical evacuations.\n\nQ: What airlines serve Fort Yukon Airport?\nA: Regional carriers such as Warbelow's Air and Wright Air typically provide scheduled passenger service to Fairbanks and nearby villages.\n\nQ: Is Fort Yukon above the Arctic Circle?\nA: Yes, Fort Yukon sits just north of the Arctic Circle at approximately 66.5°N latitude, and the airport experiences extremes of daylight and darkness throughout the year.\n\nQ: What is the airport's runway like?\nA: The airport has a single asphalt runway (designated 4/22) suitable for small to medium regional aircraft operating in interior Alaska conditions.",
+  "transport_tips": "",
+  "local_tip": "Book the earliest morning flight whenever possible—winter temperatures at Fort Yukon routinely plunge below -40°F, and afternoon weather delays or icing are more common later in the day during the cold season.",
+  "generatedAt": "2026-06-29T20:48:36.264Z",
+  "model": "MiniMax-M3"
+}

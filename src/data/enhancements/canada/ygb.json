@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YGB",
+    "icao": "CYGB",
+    "name": "Texada Gillies Bay Airport",
+    "country": "Canada",
+    "city": "Texada",
+    "lat": 49.6943,
+    "lon": -124.5181,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Texada Gillies Bay Airport (YGB) is a small community airport serving Texada Island, located in the northern Strait of Georgia between Vancouver Island and the British Columbia mainland in Canada. The airport primarily supports general aviation, connecting the island's residents and supporting industries including forestry, mining heritage, and tourism. Its coastal setting offers scenic approaches over the island's rugged terrain and forested landscapes.",
+  "faqs": "Q: Where is Texada Gillies Bay Airport located?\nA: The airport is situated on Texada Island in British Columbia, Canada, roughly halfway between Vancouver and the northern end of Vancouver Island in the Strait of Georgia.\n\nQ: What type of flights operate from YGB?\nA: YGB primarily handles general aviation traffic, including private aircraft, charter flights, and occasional medevac operations. Scheduled commercial service is very limited.\n\nQ: Are there facilities for pilots and passengers?\nA: The airport offers basic amenities typical of a small community aerodrome, including a runway and parking area, but services are minimal and travelers should plan accordingly.\n\nQ: Can I fly directly from YGB to Vancouver?\nA: Direct commercial flights are uncommon; travelers typically use private or charter aircraft, or reach the mainland by ferry from nearby terminals on the island.\n\n",
+  "transport_tips": "Reaching Texada Island typically involves a combination of ferry travel from the BC mainland combined with a drive from the ferry terminal at Gillies Bay to the airport. Vehicle rental or local taxi arrangements are advisable as there is no public transit directly serving the small terminal. Pilots flying in should file flight plans in advance and check weather conditions, as the coastal mountain terrain can produce variable conditions.",
+  "local_tip": "If visiting the island, combine your trip with a stop at one of Texada's quiet lakes or explore the historic mining trails — locals say the best aerial views of the island's limestone karst formations are visible from the approach to runway 30 on a clear day.",
+  "generatedAt": "2026-06-26T14:17:42.579Z",
+  "model": "MiniMax-M3"
+}

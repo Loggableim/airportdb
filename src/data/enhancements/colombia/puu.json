@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PUU",
+    "icao": "SKAS",
+    "name": "Tres De Mayo Airport",
+    "country": "Colombia",
+    "city": "Puerto Asís",
+    "lat": 0.5052,
+    "lon": -76.5008,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tres De Mayo Airport (PUU/SKAS) serves Puerto Asís, a key city in Colombia's Putumayo department in the southwestern Amazon region. The airport provides essential air connectivity for this oil-rich but geographically isolated area, where overland travel can be slow due to the rugged terrain and limited road infrastructure. It primarily handles domestic flights linking Puerto Asís with major Colombian hubs such as Bogotá and Cali.",
+  "faqs": "Q: What is the airport code for Tres De Mayo Airport?\nA: The IATA code is PUU and the ICAO code is SKAS.\n\nQ: Where is Tres De Mayo Airport located?\nA: It is located in Puerto Asís, in the Putumayo department of southwestern Colombia, near the Ecuadorian border.\n\nQ: What airlines operate at this airport?\nA: The airport is served mainly by regional domestic carriers operating flights to and from Bogotá and other Colombian cities.\n\nQ: Is the airport used for international flights?\nA: No, Tres De Mayo Airport handles domestic flights only, serving as an internal Colombian connector.",
+  "transport_tips": "The airport is located just a few kilometers from Puerto Asís town center, making taxi rides quick and inexpensive. Official taxis and mototaxis are readily available outside the terminal for short trips into town. Given the limited road network in the Putumayo region, flying is often the most practical option for travelers heading to or from this area.",
+  "local_tip": "Pack a light rain jacket — Puerto Asís sits in the Amazon foothills, where sudden downpours are common year-round and humidity stays high even during drier months.",
+  "generatedAt": "2026-06-29T15:38:09.678Z",
+  "model": "MiniMax-M3"
+}

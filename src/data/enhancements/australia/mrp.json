@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MRP",
+    "icao": "YALA",
+    "name": "Marla Airport",
+    "country": "Australia",
+    "city": "Marla",
+    "lat": -27.3343,
+    "lon": 133.6277,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Marla Airport (MRP/YALA) is a small regional airport serving the remote community of Marla in northern South Australia, near the Anangu Pitjantjatjara Yankunytjatjara (APY) Lands. The airport functions primarily as a gateway for travelers visiting the outback region, supporting tourism, Indigenous community access, and fly-in fly-out workers. Its isolated location along the Stuart Highway makes it an important link for one of Australia's most sparsely populated corridors.",
+  "faqs": "Q: What is Marla Airport primarily used for?\nA: The airport mainly supports general aviation, tourism to the surrounding outback, charter flights, and access to remote Indigenous communities in the APY Lands region.\n\nQ: Are there scheduled commercial flights to Marla Airport?\nA: Scheduled commercial service is limited; most flights operate on a charter basis. Travelers should check with regional operators for current availability.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, facilities are basic, typically including a terminal building, parking area, and refueling services for general aviation aircraft.\n\nQ: Is Marla Airport open to the public?\nA: Yes, the airport operates as a public-use facility, though travelers should confirm operating hours with local authorities before visiting.\n\n",
+  "transport_tips": "Access to Marla Airport is typically by road via the Stuart Highway, which runs between Adelaide and Alice Springs; the town of Marla is a well-known roadhouse stop for travelers crossing the outback. Having a personal vehicle is essential, as rental cars and rideshare services are not readily available in this remote area. Visitors should carry extra fuel, water, and supplies, especially when traveling between Marla and other remote communities.",
+  "local_tip": "If you're using Marla as a base for exploring the APY Lands, secure permits well in advance through the relevant Aboriginal organizations, as access to many traditional lands requires formal authorization.",
+  "generatedAt": "2026-06-28T03:21:04.891Z",
+  "model": "MiniMax-M3"
+}

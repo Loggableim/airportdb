@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LFT",
+    "icao": "KLFT",
+    "name": "Lafayette Regional Airport",
+    "country": "United States",
+    "city": "Lafayette",
+    "lat": 30.2053,
+    "lon": -91.9876,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Lafayette Regional Airport (LFT) serves as the primary air gateway to Louisiana's Acadiana region, an area renowned for its rich Cajun and Creole cultural heritage. Situated just southeast of downtown Lafayette, the airport connects this culturally vibrant region to major hub destinations across the United States. The facility supports both commercial passenger service and general aviation, playing a key role in regional connectivity for southwest Louisiana.",
+  "faqs": "Q: What airlines operate at Lafayette Regional Airport?\nA: LFT is primarily served by regional carriers offering flights to major hub cities, with connections to national and international destinations through partners.\n\nQ: How far is the airport from downtown Lafayette?\nA: The airport is conveniently located approximately 3 miles southeast of downtown Lafayette, making it a quick drive from the city center.\n\nQ: Does the airport offer international flights?\nA: Lafayette Regional handles primarily domestic flights, with international travel typically requiring connections through larger hub airports.\n\nQ: Is there parking available at LFT?\nA: Yes, the airport provides on-site parking options including short-term and long-term lots within walking distance of the terminal.",
+  "transport_tips": "Rental cars are available at the terminal and are the most convenient option for exploring the broader Acadiana region beyond Lafayette's city limits. Taxi services and rideshare apps like Uber and Lyft also serve the airport, offering quick transfers to downtown or nearby destinations. The airport's proximity to Interstate 49 and US-90 makes ground transportation straightforward for those heading to other parts of southwest Louisiana.",
+  "local_tip": "Pack an empty bag or extra luggage space if visiting during festival season—Lafayette hosts renowned events like Festival International de Louisiane and Festival Acadiens et Créoles that draw visitors from around the world seeking authentic Cajun music, food, and culture.",
+  "generatedAt": "2026-06-29T03:35:31.285Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IGU",
+    "icao": "SBFI",
+    "name": "Cataratas International Airport",
+    "country": "Brazil",
+    "city": "Foz do Iguaçu",
+    "lat": -25.5942,
+    "lon": -54.4894,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Cataratas International Airport (IGU) serves Foz do Iguaçu, the Brazilian gateway to the spectacular Iguazu Falls, one of the New Seven Wonders of Nature. Located in the tri-border area where Brazil, Argentina, and Paraguay meet, the airport is a major hub for international tourism and has undergone significant modernization to handle growing passenger volumes. Its strategic position makes it the primary access point for visitors exploring both the Brazilian and Argentine sides of the falls.",
+  "faqs": "Q: How far is the airport from Iguazu Falls?\nA: The Brazilian entrance to Iguazu National Park is approximately 15 km (about 30 minutes by car) from the airport.\n\nQ: Does the airport offer international flights?\nA: Yes, Cataratas International Airport operates flights to neighboring countries including Argentina, and handles many international charter and seasonal routes from Europe and other South American destinations.\n\nQ: Are there currency exchange facilities at the airport?\nA: Yes, currency exchange counters and ATMs are available in the terminal for converting to Brazilian Real, Argentine Peso, or Paraguayan Guaraní.\n\nQ: Can I cross into Argentina or Paraguay from Foz do Iguaçu easily?\nA: Yes, Foz do Iguaçu has multiple border crossings with Argentina (Puerto Iguazú) and Paraguay (Ciudad del Este), making the city a popular multi-country destination.",
+  "transport_tips": "Official taxis and pre-booked transfer services are available at the terminal and offer fixed rates to the main hotel districts and Iguazu National Park. Renting a car is also straightforward, though most visitors find guided tours or transfers more convenient for accessing the falls. Shared shuttle services run between the airport and major hotels in Foz do Iguaçu.",
+  "local_tip": "If you plan to visit both the Brazilian and Argentine sides of Iguazu Falls, consider taking a short flight from Foz do Iguaçu to Buenos Aires or arriving via Puerto Iguazú — crossing the border by land is also quick, but having a small amount of Argentine Pesos in cash before reaching the Argentine park entrance will save you time at the exchange counters.",
+  "generatedAt": "2026-06-28T19:36:09.539Z",
+  "model": "MiniMax-M3"
+}

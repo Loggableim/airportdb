@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WSI",
+    "icao": "YSWS",
+    "name": "[Duplicate] Western Sydney International Airport",
+    "country": "Australia",
+    "city": "Sydney",
+    "lat": -33.8881,
+    "lon": 150.7147,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Western Sydney International Airport (WSI), officially named Western Sydney International (Nancy-Bird Walton) Airport after the pioneering Australian aviator, is a new large-scale airport under development at Badgerys Creek, approximately 44 km west of Sydney's CBD. It is being built to relieve pressure on Sydney Kingsford Smith Airport and will operate 24 hours a day without a curfew. The airport is a centerpiece of the Western Sydney Aerotropolis, a planned urban and economic precinct designed around aviation and aerospace industries.",
+  "faqs": "Q: When is Western Sydney International Airport expected to open?\nA: The airport is targeted to commence operations in late 2026, with construction progressing toward first-flight milestones in 2025–2026.\n\nQ: Why was a second Sydney airport needed?\nA: Sydney Kingsford Smith Airport operates under a strict curfew and capacity constraints, limiting growth. Western Sydney International will provide additional capacity and operate around the clock.\n\nQ: Who is the airport named after?\nA: It is named after Nancy-Bird Walton (1915–2009), a celebrated Australian aviator who became the youngest woman in the British Empire to earn a pilot's license and founded the Australian Women's Pilot Association.\n\nQ: How will passengers reach the airport from central Sydney?\nA: The Sydney Metro Western Sydney Airport rail line will connect the airport to the broader Sydney rail network, with stations planned at the terminal precinct and the nearby Aerotropolis.\n\n",
+  "transport_tips": "The airport will be served by the Sydney Metro Western Sydney Airport line, providing a fast rail connection from central Sydney and connections to the future Western Sydney Aerotropolis.",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T01:37:23.090Z",
+  "model": "MiniMax-M3"
+}

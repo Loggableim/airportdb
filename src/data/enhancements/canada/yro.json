@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YRO",
+    "icao": "CYRO",
+    "name": "Ottawa / Rockcliffe Airport",
+    "country": "Canada",
+    "city": "Ottawa",
+    "lat": 45.4605,
+    "lon": -75.644,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Ottawa/Rockcliffe Airport is a medium-sized general aviation airport situated along the Ottawa River in the eastern part of Canada's capital city. Originally established as a military airfield (RCAF Station Rockcliffe), it transitioned to civilian use and now primarily serves private aircraft, flight training, and recreational flying. Its location near the Canada Aviation and Space Museum and the Rockcliffe Park neighbourhood makes it a notable urban aviation facility.",
+  "faqs": "Q: What kind of flights operate from Ottawa/Rockcliffe Airport?\nA: YRO is used primarily for general aviation, private aircraft, flight training, and recreational flying. It does not serve scheduled commercial passenger flights.\n\nQ: Is there a terminal building for passengers?\nA: The airport has modest facilities catering mainly to private pilots and aircraft owners. There are no commercial airline terminal services.\n\nQ: Are flight tours available from this airport?\nA: Some operators use YRO for sightseeing flights over Ottawa. The nearby Canada Aviation and Space Museum also offers occasional aviation experiences.\n\nQ: What is the airport's historical significance?\nA: It was formerly a Royal Canadian Air Force station, and in later years was used for research-related test flights by the National Research Council of Canada.",
+  "transport_tips": "The airport is located within Ottawa, roughly 15 minutes by car from downtown. Driving is the most practical option as there is no public transit directly serving the airfield. Visitors can also access it via Aviation Parkway, which runs alongside the Ottawa River and connects to both downtown and the Rockcliffe Park area.",
+  "local_tip": "If visiting the area, combine a stop at YRO with a trip to the nearby Canada Aviation and Space Museum, which showcases Canada's aviation heritage and is just a few minutes from the airfield.",
+  "generatedAt": "2026-06-29T18:12:51.022Z",
+  "model": "MiniMax-M3"
+}

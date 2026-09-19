@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BFG",
+    "icao": "",
+    "name": "Bullfrog Basin Airport",
+    "country": "United States",
+    "city": "Bullfrog",
+    "lat": 37.5478,
+    "lon": -110.7129,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Bullfrog Basin Airport is a small public-use airstrip serving the Bullfrog Basin area on the western shore of Lake Powell in southern Utah, within the Glen Canyon National Recreation Area. The airport primarily facilitates general aviation and tourist access to one of the most remote sections of the Colorado Plateau, with dramatic red rock scenery surrounding the runway. It is especially valuable as an entry point for visitors heading to Lake Powell's Wahweap and Bullfrog marinas.",
+  "faqs": "Q: What is Bullfrog Basin Airport primarily used for?\nA: It serves general aviation and tourist flights providing access to the Bullfrog Basin area of Lake Powell and Glen Canyon National Recreation Area, with no scheduled commercial service.\n\nQ: Are there commercial flights to Bullfrog Basin Airport?\nA: No, the airport does not offer scheduled commercial airline service. Visitors typically arrive via private aircraft, charter flights, or by driving.\n\nQ: What is nearby the airport?\nA: The Bullfrog Marina and launch ramp on Lake Powell are just minutes away, along with lodging, a visitor center, restaurants, and the ferry terminal connecting to Halls Crossing.\n\nQ: Is the airport open year-round?\nA: Yes, it operates year-round, though conditions can be affected by summer monsoon thunderstorms and winter weather typical of the high desert.",
+  "transport_tips": "Rental cars are available near the airport through local providers, though advance reservations are strongly recommended due to limited fleet size. The Bullfrog Ferry terminal is a short drive away and provides car crossings across Lake Powell to Halls Crossing on the Utah side. Most visitors arriving by air also coordinate ground transport with their lodging or marina in advance, as taxi services are essentially nonexistent in this remote area.",
+  "local_tip": "If you're flying in, plan to arrive in the morning when canyon winds are typically calmest, and coordinate your schedule with the Bullfrog Ferry crossing times if you plan to visit the Escalante area or Halls Crossing.",
+  "generatedAt": "2026-06-27T04:45:50.256Z",
+  "model": "MiniMax-M3"
+}

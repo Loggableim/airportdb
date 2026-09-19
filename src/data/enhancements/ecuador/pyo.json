@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PYO",
+    "icao": "SEPT",
+    "name": "Putumayo Airport",
+    "country": "Ecuador",
+    "city": "Puerto Putumayo",
+    "lat": 0.1159,
+    "lon": -75.8502,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Putumayo Airport (PYO/SEPT) is a small regional airfield serving Puerto El Carmen de Putumayo, a remote border town in Ecuador's Sucumbíos Province deep in the Amazon Basin. The airport provides vital air access to a region otherwise reachable only by long overland routes through rainforest or by river travel along the Putumayo River, which forms the border with Colombia. It primarily handles light aircraft and charter flights connecting the area to Quito and other Ecuadorian cities.",
+  "faqs": "Q: What airlines operate at Putumayo Airport?\nA: The airport primarily serves small regional and charter operators, with light aircraft being the norm rather than commercial jets.\n\nQ: Does the airport have an ILS or instrument approach?\nA: As a small rural airfield in the Amazon region, operations are typically conducted under visual flight rules, with weather conditions frequently influencing scheduling.\n\nQ: Is the airport open at night?\nA: Published operating hours are limited; flights generally operate during daylight hours only.\n\nQ: Are there customs and immigration facilities for the nearby Colombian border?\nA: Customs services are generally handled at larger border crossings; travelers crossing into Colombia should verify requirements in advance.",
+  "transport_tips": "Ground transport from the airport to Puerto Putumayo town center is typically by taxi or mototaxi, as the airfield is located a short distance from town. Long-distance overland connections to Quito involve multi-hour bus journeys, making air travel the preferred option for most visitors. Local river transport along the Putumayo River is also a common way to reach surrounding indigenous communities and settlements.",
+  "local_tip": "The region around Puerto Putumayo receives heavy rainfall year-round, so flights are frequently delayed or rescheduled due to low visibility—build at least a one-day buffer into any tight travel itinerary connecting onward flights from Quito or Lago Agrio.",
+  "generatedAt": "2026-06-28T05:55:56.798Z",
+  "model": "MiniMax-M3"
+}

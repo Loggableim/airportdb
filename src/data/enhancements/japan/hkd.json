@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HKD",
+    "icao": "RJCH",
+    "name": "Hakodate Airport",
+    "country": "Japan",
+    "city": "Hakodate",
+    "lat": 41.77,
+    "lon": 140.822,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Hakodate Airport (HKD) serves the historic port city of Hakodate on the southern tip of Hokkaido, Japan's northernmost main island. Perched on the Yokotsu Peninsula, it offers dramatic coastal scenery with views of the Tsugaru Strait and surrounding mountains. The airport primarily handles domestic flights, with Tokyo Haneda being its busiest route, and serves as a gateway to Hokkaido's popular southern tourism region.",
+  "faqs": "Q: How far is Hakodate Airport from the city center?\nA: The airport is approximately 7 km (4.3 miles) east of Hakodate's city center, with travel times of about 20 minutes by car or bus.\n\nQ: What airlines operate from Hakodate Airport?\nA: JAL, ANA, and Air Do are the primary carriers, with frequent flights to Tokyo Haneda, and additional services to Osaka, Sapporo, and Nagoya.\n\nQ: Are there international flights at Hakodate Airport?\nA: International services are limited but include seasonal and charter flights, primarily to nearby Asian destinations such as Taipei and Seoul.\n\nQ: Does the airport have facilities for overnight stays?\nA: The terminal is not open 24 hours, but several hotels are located nearby, including options connected by free shuttle services.\n\n",
+  "transport_tips": "The Hakodate Liner train runs between the airport and Hakodate Station in about 36 minutes and is the fastest option. Limousine buses connect the airport to major hotels and",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T21:53:35.357Z",
+  "model": "MiniMax-M3"
+}

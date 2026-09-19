@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CYA",
+    "icao": "MTCA",
+    "name": "Antoine-Simon International Airport",
+    "country": "Haiti",
+    "city": "Les Cayes",
+    "lat": 18.2711,
+    "lon": -73.7883,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Antoine-Simon International Airport serves Les Cayes, the largest city in Haiti's southern Sud department and an important regional port. The airport provides a vital air link for the southwestern peninsula, handling domestic flights and occasional regional international services. It is named after a local figure and remains a key gateway for travelers visiting the southern coast and its beaches.",
+  "faqs": "Q: What airlines operate from Antoine-Simon International Airport?\nA: The airport is primarily served by domestic carriers connecting Les Cayes to Port-au-Prince, with occasional charter and regional international flights.\n\nQ: How far is the airport from downtown Les Cayes?\nA: The airport is located just a few kilometers from central Les Cayes, making it a short drive into the city.\n\nQ: Does the airport have customs and immigration facilities?\nA: As an international airport, it has basic customs and immigration processing for international arrivals, though services are limited compared to larger hubs.\n\nQ: Are there car rental services at the airport?\nA: Rental options are limited; most visitors arrange transportation through hotels or local drivers in advance.\n\n",
+  "transport_tips": "Taxis and tap-taps (local shared transport) are the most common ways to reach the airport from Les Cayes. It is advisable to arrange a return trip with a trusted driver in advance, as taxi availability near the airport can be limited outside of scheduled flight times. Roads in the region can be rough, so allow extra travel time during the rainy season.",
+  "local_tip": "Carry cash in Haitian gourdes or US dollars for ground transportation and any airport fees, as card payment facilities at the airport are unreliable or unavailable.",
+  "generatedAt": "2026-06-29T20:49:56.409Z",
+  "model": "MiniMax-M3"
+}

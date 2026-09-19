@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "END",
+    "icao": "KEND",
+    "name": "Vance Air Force Base",
+    "country": "United States",
+    "city": "Enid",
+    "lat": 36.3392,
+    "lon": -97.9165,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Vance Air Force Base is a United States Air Force installation in Enid, Oklahoma, serving as the home of the 71st Flying Training Wing. It is one of the Air Force's primary undergraduate pilot training bases, where student pilots learn to fly the T-6 Texan II and T-1 Jayhawk aircraft. Named after Medal of Honor recipient Lieutenant Colonel Leon Robert Vance Jr., the base has produced thousands of Air Force aviators since its establishment during World War II.",
+  "faqs": "Q: What is the primary mission of Vance Air Force Base?\nA: Vance AFB is a primary undergraduate pilot training base for the United States Air Force, where students learn fundamental flying skills before advancing to specialized aircraft training.\n\nQ: Can civilians visit or use Vance Air Force Base?\nA: Vance is an active military installation with restricted access. Visitors without military credentials typically need to be sponsored and pass base security checks before entering.\n\nQ: What aircraft are based at Vance?\nA: The base primarily operates the Beechcraft T-6 Texan II for primary training and the T-1 Jayhawk for advanced jet training pipelines.\n\nQ: How is Vance related to Enid Woodring Regional Airport?\nA: Vance shares runways and air traffic facilities with the adjacent Enid Woodring Regional Airport, allowing both military and limited civilian flight operations.",
+  "transport_tips": "Enid is located in north-central Oklahoma along US-412 and US-64, roughly 90 miles northwest of Oklahoma City. The closest major commercial airports are Will Rogers World Airport in Oklahoma City and Wichita Dwight D. Eisenhower National Airport in Kansas. Most visitors and personnel arrive by personal vehicle, as public transportation options in Enid are limited.",
+  "local_tip": "If you're picking up or dropping off a pilot trainee, the base's main gate on the west side is the most reliable entry point, but check current gate",
+  "generatedAt": "2026-06-29T10:28:53.421Z",
+  "model": "MiniMax-M3"
+}

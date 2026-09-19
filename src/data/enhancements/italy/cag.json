@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CAG",
+    "icao": "LIEE",
+    "name": "Cagliari Elmas Airport",
+    "country": "Italy",
+    "city": "Cagliari",
+    "lat": 39.2515,
+    "lon": 9.0543,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Cagliari Elmas Airport (CAG) is the principal international gateway to the island of Sardinia, located in the municipality of Elmas approximately 7 kilometers northwest of Cagliari's historic center. Serving as the busiest airport in Sardinia, it connects the island's southern region with mainland Italy, Europe, and select intercontinental destinations. The single-terminal facility handles both seasonal tourist traffic to the popular Costa del Sud beaches and year-round regional flights.",
+  "faqs": "Q: How far is Cagliari Elmas Airport from the city center?\nA: The airport is approximately 7 km (4.3 miles) northwest of central Cagliari, with typical transfer times of 15 to 25 minutes by car or taxi.\n\nQ: Are there direct flights to other European cities from CAG?\nA: Yes, the airport offers direct year-round and seasonal flights to major European hubs including Rome, Milan, London, Frankfurt, Paris, and Barcelona, among others.\n\nQ: Does the airport operate 24 hours?\nA: No, Cagliari Elmas Airport has limited operating hours, typically closing in the late evening and reopening early in the morning. Scheduled flights are concentrated during daytime hours.\n\nQ: Is there a duty-free shop available?\nA: Yes, the single terminal features duty-free shopping along with cafes, restaurants, and car rental desks in both the landside and airside areas.\n\n",
+  "transport_tips": "The CTM Line 1 city bus connects the airport directly to Cagliari's Piazza Matteotti in the city center, with departures roughly every 20 to 30 minutes and a journey time of around 20 minutes. Taxis are available outside the terminal with fixed rates to central Cagliari. Car rental agencies including major international brands operate from the airport, which is the most practical option for exploring southern Sardinia's beaches and inland areas.",
+  "local_tip": "If traveling in summer, book early morning or late evening flights when possible to avoid the worst of the intense Sardinian heat, which can make the un-air-conditioned walk between the terminal and parked aircraft quite uncomfortable.",
+  "generatedAt": "2026-06-28T17:26:59.311Z",
+  "model": "MiniMax-M3"
+}

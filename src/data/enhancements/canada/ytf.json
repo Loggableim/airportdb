@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YTF",
+    "icao": "CYTF",
+    "name": "Alma Airport",
+    "country": "Canada",
+    "city": "Alma",
+    "lat": 48.5089,
+    "lon": -71.6419,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Alma Airport (YTF) is a regional airport serving the city of Alma in Quebec's Saguenay–Lac-Saint-Jean region. It functions primarily as a general aviation facility with limited scheduled commercial service, supporting the surrounding forestry, aluminum, and tourism industries. The airport features a single main runway and plays a key role in connecting this remote northern Quebec community to larger hubs.",
+  "faqs": "Q: What is the IATA code for Alma Airport?\nA: The IATA code is YTF, and the ICAO code is CYTF.\n\nQ: Does Alma Airport have scheduled commercial flights?\nA: Scheduled commercial service is very limited; the airport primarily serves general aviation, charter flights, and medevac operations.\n\nQ: Where is Alma Airport located?\nA: It is located near the city of Alma, Quebec, in the Saguenay–Lac-Saint-Jean region of central Quebec, Canada.\n\nQ: What is the main runway at Alma Airport?\nA: The airport has a primary asphalt runway suitable for small to mid-sized aircraft, including turboprops and light jets.\n\n",
+  "transport_tips": "The airport is located a short drive from downtown Alma, typically reachable within 10-15 minutes by car. Since scheduled airline service is limited, most travelers arrange ground transport in advance or rent a vehicle from Saguenay, about 75 km south. Taxi and shuttle services from Alma are available but should be booked ahead due to limited availability.",
+  "local_tip": "If you're visiting during winter, check runway conditions and flight status well in advance—Saguenay–Lac-Saint-Jean experiences heavy snowfall that can occasionally disrupt general aviation operations.",
+  "generatedAt": "2026-06-29T19:39:10.318Z",
+  "model": "MiniMax-M3"
+}

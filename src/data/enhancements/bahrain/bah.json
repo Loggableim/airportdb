@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BAH",
+    "icao": "OBBI",
+    "name": "Bahrain International Airport",
+    "country": "Bahrain",
+    "city": "Manama",
+    "lat": 26.2673,
+    "lon": 50.6376,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Bahrain International Airport serves the Kingdom of Bahrain from its location on the island of Muharraq, just northeast of the capital Manama. It is one of the oldest airports in the Gulf region, with origins dating back to 1927 when it began as a simple airstrip. Following a major modernization completed in 2021, the terminal now serves as a major Gulf hub with connections to destinations across the Middle East, Asia, and Europe.",
+  "faqs": "Q: How far is Bahrain International Airport from Manama city center?\nA: The airport is approximately 7 kilometers northeast of central Manama, on the island of Muharraq, typically a 15-20 minute drive.\n\nQ: Does Bahrain International Airport offer free transit visas?\nA: Yes, passengers with confirmed onward tickets are eligible for free transit visas of up to 72 hours, available at the airport.\n\nQ: Is the airport a hub for Gulf Air?\nA: Yes, Gulf Air, the national carrier of Bahrain, uses BAH as its main hub, along with several other regional carriers.\n\nQ: Are there duty-free shops at Bahrain International Airport?\nA: Yes, the duty-free area is one of the largest in the region, offering extensive shopping, dining, and lounge options.",
+  "transport_tips": "Official taxis are available 24/7 at clearly marked ranks outside the arrivals hall and offer fixed fares to Manama and other locations. The airport is connected to Manama via King Faisal Highway, with journey times varying by traffic but generally quick. Ride-hailing apps such as Uber operate in Bahrain and can be used for pickup at designated zones.",
+  "local_tip": "The airport's premium Marhaba Lounge offers day passes for travelers without airline lounge access, and it's worth booking in advance during peak hours for quieter space to relax between flights.",
+  "generatedAt": "2026-06-28T16:34:20.034Z",
+  "model": "MiniMax-M3"
+}

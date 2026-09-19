@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AKX",
+    "icao": "UATT",
+    "name": "Aktobe International Airport",
+    "country": "Kazakhstan",
+    "city": "Aktobe",
+    "lat": 50.2481,
+    "lon": 57.2041,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Aktobe International Airport serves the city of Aktobe in western Kazakhstan, functioning as a key gateway for the Aktobe Region and a hub for both domestic flights and regional international connections. The airport handles a mix of scheduled passenger services, charter flights, and cargo operations, supporting the area's oil and mining industries. Its location makes it an important transit point for travelers exploring the Caspian basin and surrounding steppe regions.",
+  "faqs": "Q: What is the IATA code for Aktobe International Airport?\nA: The IATA code is AKX, and the ICAO code is UATT.\n\nQ: How far is the airport from Aktobe city center?\nA: The airport is located approximately 5-7 kilometers southwest of the city center, making it a short drive.\n\nQ: Which airlines operate from Aktobe Airport?\nA: Air Astana, SCAT, and Bek Air are among the carriers that have operated domestic routes to cities like Almaty and Astana, along with seasonal international services.\n\nQ: Does the airport offer international flights?\nA: Yes, the airport handles limited international flights to nearby destinations including Russia and other Central Asian countries.",
+  "transport_tips": "Taxis are the most convenient option, with official taxi ranks available outside the terminal and ride-hailing apps like Yandex Go operating in the city. Bus routes connect the airport to central Aktobe, offering an affordable alternative for budget travelers. Pre-arranging a hotel transfer is recommended for late-night arrivals when taxi availability may be limited.",
+  "local_tip": "Exchange Kazakh tenge (KZT) before arriving at the airport, as currency exchange rates inside the terminal tend to be less favorable than in the city center.",
+  "generatedAt": "2026-06-28T23:20:16.689Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "POR",
+    "icao": "EFPO",
+    "name": "Pori Airport",
+    "country": "Finland",
+    "city": "Pori",
+    "lat": 61.4617,
+    "lon": 21.8,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Pori Airport (IATA: POR, ICAO: EFPO) is a regional airport serving the city of Pori on Finland's west coast in the Satakunta region. The airport primarily operates scheduled domestic flights to Helsinki-Vantaa and supports general aviation traffic. Its compact terminal and short walking distances make it one of Finland's more traveler-friendly small airports.",
+  "faqs": "Q: What airlines operate from Pori Airport?\nA: Finnair (via Nordic Regional Airlines/Finnpilot) has historically operated the main scheduled route between Pori and Helsinki-Vantaa. Charter and general aviation flights also use the facility.\n\nQ: How far is Pori Airport from the city center?\nA: The airport is located approximately 8 km northeast of central Pori, with a typical taxi or bus ride taking around 15 minutes.\n\nQ: Does the airport have international flights?\nA: International scheduled service is limited; most international connections require a transfer via Helsinki. The airport can handle seasonal charter flights.\n\nQ: What facilities are available at the terminal?\nA: The small terminal offers basic amenities including a café, free parking close to the building, and minimal wait times typical of regional Finnish airports.",
+  "transport_tips": "A taxi from Pori city center to the airport costs roughly €20-30 and takes about 15 minutes; booking in advance is recommended during early morning flights. Local bus services connect the airport to Pori's central station, but schedules are limited, so checking timetables in advance is essential. Rental cars are available in town rather than at the airport itself, so arranging pickup in the city may be more practical.",
+  "local_tip": "If you have time before your flight, visit the nearby Kirjurinluoto area just across the Kokemäenjoki river — it's home to Pori's beautiful island park and the historic Kirjurinluoto mansion, perfect for a quick pre-flight walk.",
+  "generatedAt": "2026-06-29T07:01:36.851Z",
+  "model": "MiniMax-M3"
+}

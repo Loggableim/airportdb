@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MCN",
+    "icao": "KMCN",
+    "name": "Middle Georgia Regional Airport",
+    "country": "United States",
+    "city": "Macon",
+    "lat": 32.6928,
+    "lon": -83.6492,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Middle Georgia Regional Airport (MCN) is a medium-sized public airport serving Macon in central Georgia, situated approximately 10 miles south of downtown. Originally known as Lewis B. Wilson Municipal Airport, it has served the region since the early 20th century and supports general aviation, military training, and limited commercial charter operations. The facility lies near Robins Air Force Base, making it an important aviation hub for both civilian and defense-related activity.",
+  "faqs": "Q: What is the airport code for Middle Georgia Regional Airport?\nA: The IATA code is MCN and the ICAO code is KMCN.\n\nQ: How far is the airport from downtown Macon?\nA: The airport is located approximately 10 miles south of downtown Macon, typically a 15-20 minute drive.\n\nQ: Does MCN offer scheduled commercial airline service?\nA: Scheduled commercial service is very limited; the airport primarily supports general aviation, charter flights, and military training operations.\n\nQ: Are there rental cars available at the airport?\nA: Rental car services are available on-site or nearby, though it is advisable to book in advance given the limited commercial traffic.",
+  "transport_tips": "The airport is conveniently located near the intersection of I-75 and I-16, providing easy road access to Macon, Atlanta, and Savannah. Taxi and rideshare services",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T04:46:16.328Z",
+  "model": "MiniMax-M3"
+}

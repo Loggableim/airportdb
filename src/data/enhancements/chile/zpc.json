@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZPC",
+    "icao": "SCPC",
+    "name": "Pucón Airport",
+    "country": "Chile",
+    "city": "Pucon",
+    "lat": -39.2928,
+    "lon": -71.9159,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Pucón Airport (ZPC/SCPC) is a small regional airfield serving the adventure tourism hub of Pucón in Chile's Araucanía Region. It primarily handles general aviation and charter flights, providing the closest air access to Villarrica Volcano and Lake Villarrica. The airport sits in a stunning Andean lake district setting, making it a popular entry point for outdoor enthusiasts visiting Patagonia's northern gateway.",
+  "faqs": "Q: What airlines fly into Pucón Airport?\nA: Pucón Airport mainly handles charter and private flights rather than scheduled commercial service. Most visitors arrive via larger airports like Temuco (ZCO) or Valdivia (ZAL) and transfer by road.\n\nQ: How far is the airport from downtown Pucón?\nA: The airport is located just a few kilometers south of Pucón's town center, making the transfer quick and straightforward.\n\nQ: Does the airport have customs and immigration facilities?\nA: As a small domestic field, Pucón Airport does not have international customs. International travelers must clear immigration at a larger Chilean international airport first.\n\nQ: Is the airport open year-round?\nA: Yes, the airport operates throughout the year, though winter weather from surrounding volcanoes can occasionally cause temporary disruptions.",
+  "transport_tips": "Taxis and pre-arranged transfers are the most common ways to reach Pucón town from the airport, as public transit is limited. Rental cars can be arranged through agencies in Pucón itself rather than at the airfield. The drive into town is short, and the well-maintained roads make self-driving straightforward.",
+  "local_tip": "Pack layers even in summer — the proximity to Villarrica Volcano means weather can shift quickly from sunny to cold and windy, especially if you plan to hike or visit the ski center.",
+  "generatedAt": "2026-06-26T16:17:20.614Z",
+  "model": "MiniMax-M3"
+}

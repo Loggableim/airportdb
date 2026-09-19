@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MVC",
+    "icao": "KMVC",
+    "name": "Monroe County Aeroplex Airport",
+    "country": "United States",
+    "city": "Monroeville",
+    "lat": 31.458,
+    "lon": -87.351,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Monroe County Aeroplex Airport is a small general aviation facility serving Monroeville in southwestern Alabama. The airport supports private, corporate, and recreational flying in a rural region best known as the hometown of literary icons Harper Lee and Truman Capote. With a single main runway, it provides convenient access to Monroe County's agricultural and timber industries.",
+  "faqs": "Q: What type of airport is Monroe County Aeroplex?\nA: It is a small general aviation airport primarily serving private pilots, business aircraft, and flight training.\n\nQ: Are there commercial flights available at MVC?\nA: No scheduled commercial passenger service operates at this airport; travelers must use ground transportation to reach larger hubs like Mobile or Montgomery.\n\nQ: Does the airport have fuel and maintenance services?\nA: General aviation facilities like this typically offer basic fuel and limited aircraft services, but pilots should confirm availability before arrival.\n\nQ: How far is the airport from downtown Monroeville?\nA: The airport is located just a short drive from the Monroeville city center.",
+  "transport_tips": "Renting a car is the most practical option for visitors, as public transit is limited in this rural area. Mobile Regional Airport, about 90 miles to the southwest, is the closest commercial airport for those needing scheduled airline service. The town is easily reached by US Highway 84 and State Route 21.",
+  "local_tip": "If you have time between flights, visit the Monroe County Heritage Museums in Monroeville, which preserve the legacy of Harper Lee's 'To Kill a Mockingbird' and Truman Capote's early life—the town offers a literary pilgrimage you won't find at most airports.",
+  "generatedAt": "2026-06-27T05:25:25.413Z",
+  "model": "MiniMax-M3"
+}

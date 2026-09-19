@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DAM",
+    "icao": "OSDI",
+    "name": "Damascus International Airport",
+    "country": "Syria",
+    "city": "Damascus",
+    "lat": 33.4115,
+    "lon": 36.5156,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Damascus International Airport (DAM/OSDI) is Syria's primary international gateway, located about 25 km southeast of central Damascus. Opened in the early 1970s, it has long served as a hub for Syrian Air and remains the country's largest airport. Its service levels have fluctuated significantly with the Syrian conflict, so schedules and facilities can change with little notice.",
+  "faqs": "Q: What airlines fly to Damascus International Airport?\nA: Service varies; Syrian Air and Cham Wings have operated there, but many international carriers have suspended flights. Check current schedules with the airline or a reliable booking source.\n\nQ: How far is the airport from downtown Damascus?\nA: It is roughly 25 km southeast of the city center, typically a 30–45 minute drive depending on traffic and checkpoints.\n\nQ: Is public transportation available from the airport?\nA: Public buses are limited or irregular; taxis and pre-arranged private transfers are the most common options.\n\nQ: What facilities are at the airport?\nA: The terminal offers basic services such as duty-free, cafes, and currency exchange, but availability can be inconsistent, so do not rely on them for essential needs.",
+  "transport_tips": "The most reliable way to reach or leave Damascus International Airport is a pre-arranged taxi, hotel shuttle, or private transfer, as public buses are infrequent. Allow extra time for traffic and security checkpoints on the Airport Road. Confirm your fare or transfer details in advance and keep your passport and ticket accessible.",
+  "local_tip": "Frequent visitors always confirm their flight status directly with the airline before heading to the airport, since schedules can change at short notice and terminal services may be limited.",
+  "generatedAt": "2026-09-19T23:20:58.462Z",
+  "model": "deepseek-v4.1-flash"
+}

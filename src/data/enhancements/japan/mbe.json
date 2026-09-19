@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MBE",
+    "icao": "RJEB",
+    "name": "Monbetsu Airport",
+    "country": "Japan",
+    "city": "Monbetsu",
+    "lat": 44.3039,
+    "lon": 143.404,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Monbetsu Airport (MBE) is a regional airport located in Monbetsu City on the northeastern coast of Hokkaido, Japan, overlooking the Sea of Okhotsk. It serves as the main gateway for travelers visiting the Okhotsk region, which is renowned for its dramatic drift ice (ryuhyo) that flows in from Russia during winter months. The airport provides essential connections for both tourism and local commerce in this sparsely populated but scenically striking part of Japan.",
+  "faqs": "Q: What airlines operate from Monbetsu Airport?\nA: Monbetsu Airport is primarily served by domestic regional flights, typically connecting to Sapporo's New Chitose Airport. Service frequency varies by season.\n\nQ: When is the best time to visit Monbetsu?\nA: Winter (January to February) is the iconic season for viewing drift ice along the Sea of Okhotsk coast, while summer offers milder weather for exploring the region's natural landscapes.\n\nQ: How far is the airport from central Monbetsu?\nA: The airport is located a short drive from the city center, roughly 10-15 minutes by car depending on traffic.\n\nQ: Are there international flights from Monbetsu Airport?\nA: No, the airport handles domestic flights only and does not provide international service.",
+  "transport_tips": "Taxis are typically available outside the terminal and offer a quick option for reaching central Monbetsu. Rental car services at the airport are convenient for travelers planning to explore the broader Okhotsk coastline and surrounding attractions. Bus services may operate on a limited timetable, so checking schedules in advance, especially during winter, is recommended.",
+  "local_tip": "If visiting in winter, time your arrival for sunrise or sunset",
+  "generatedAt": "2026-06-29T11:53:47.880Z",
+  "model": "MiniMax-M3"
+}

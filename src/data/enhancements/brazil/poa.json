@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "POA",
+    "icao": "SBPA",
+    "name": "Porto Alegre-Salgado Filho International Airport",
+    "country": "Brazil",
+    "city": "Porto Alegre",
+    "lat": -29.994,
+    "lon": -51.1675,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Porto Alegre-Salgado Filho International Airport is the main air gateway to Rio Grande do Sul state in southern Brazil, named after Senator Joaquim Pedro Salgado Filho. Located approximately 7 km northeast of Porto Alegre's city center, it serves as a vital hub for domestic flights and select international routes to South American destinations. The airport suffered significant damage during the historic May 2024 floods that devastated the region, leading to an extended closure for repairs and reconstruction.",
+  "faqs": "Q: How far is Salgado Filho Airport from Porto Alegre city center?\nA: The airport is located about 7 km northeast of downtown Porto Alegre, typically a 15-25 minute drive depending on traffic conditions.\n\nQ: Does the airport offer international flights?\nA: Yes, it operates international flights primarily to neighboring South American countries such as Argentina, Uruguay, Chile, and Paraguay, alongside extensive domestic connections.\n\nQ: What facilities are available at the terminal?\nA: The terminal features restaurants, cafes, duty-free shops, ATMs, currency exchange, car rental services, and VIP lounges for passenger convenience.\n\nQ: Was the airport affected by the 2024 floods?\nA: Yes, severe flooding in May 2024 caused major damage to the terminal and runway infrastructure, resulting in a prolonged closure for restoration work.",
+  "transport_tips": "The airport is well-connected by the BR-290 highway, making taxi and rideshare trips straightforward. Public bus routes operated by Carris and ATP also serve the terminal with affordable connections to central Porto Alegre. Allow extra time during rush hours, as the access road can become congested.",
+  "local_tip": "If you have time before your flight, visit the observation deck area or try a chimarrão (traditional mate tea) at one of the local-themed cafes in the terminal — it's the signature drink of Rio Grande do Sul and a nice cultural touch before departing.",
+  "generatedAt": "2026-06-28T19:22:17.936Z",
+  "model": "MiniMax-M3"
+}

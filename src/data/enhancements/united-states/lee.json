@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LEE",
+    "icao": "KLEE",
+    "name": "Leesburg International Airport",
+    "country": "United States",
+    "city": "Leesburg",
+    "lat": 28.8231,
+    "lon": -81.8087,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Leesburg International Airport is a public-use airport located in Leesburg, Florida, serving the Lake County region with general aviation and flight training operations. Originally established as a military training base during World War II, the airfield transitioned to civilian use and has grown into a regional hub for recreational flying, aircraft maintenance, and pilot education. The airport features multiple runways and is known for hosting the annual Leesburg Air Show, drawing aviation enthusiasts from across central Florida.",
+  "faqs": "Q: How far is Leesburg International Airport from downtown Leesburg?\nA: The airport is conveniently located approximately 4 miles northeast of downtown Leesburg, making it a quick drive from the city center.\n\nQ: Does Leesburg International Airport offer commercial airline service?\nA: No, the airport primarily serves general aviation, private flights, and flight training. There are no scheduled commercial airline operations.\n\nQ: Are there aircraft rental or flight training services available?\nA: Yes, the airport hosts several flight schools and FBOs that offer aircraft rental, pilot training, and aviation services.\n\nQ: Can visitors attend the air show at the airport?\nA: Yes, the airport hosts an annual air show that is open to the public and features aerobatic performances and static aircraft displays.\n\n",
+  "transport_tips": "Reaching the airport is easiest by car, with rental vehicles available from nearby agencies in Leesburg or The Villages. Taxis and rideshare services like Uber and Lyft operate in the area but may require advance booking due to limited availability. The airport is situated near US Highway 441 and State Road 44, providing straightforward road access from Orlando and surrounding communities.",
+  "local_tip": "Visit the on-site restaurant at the airport for a classic Florida aviator experience—grabbing a meal with runway views is a favorite tradition among visiting pilots and aviation enthusiasts.",
+  "generatedAt": "2026-06-30T05:05:14.135Z",
+  "model": "MiniMax-M3"
+}

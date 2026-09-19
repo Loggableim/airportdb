@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HWR",
+    "icao": "VIHX",
+    "name": "Halwara International Airport",
+    "country": "India",
+    "city": "Halwara",
+    "lat": 30.7485,
+    "lon": 75.6298,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Halwara International Airport is located in the Ludhiana district of Punjab, India, and has historically served as an Indian Air Force base. It is being developed as a civil enclave to provide commercial air connectivity to Ludhiana, one of India's largest industrial hubs and the economic capital of Punjab. The airport's strategic inland location supports both regional passenger travel and potential cargo operations linked to Punjab's manufacturing sector.",
+  "faqs": "Q: Where is Halwara International Airport located relative to Ludhiana?\nA: The airport is situated in Halwara, approximately 30 km south of Ludhiana city center, making it the primary air gateway for the Ludhiana metropolitan area.\n\nQ: Was Halwara always a civilian airport?\nA: No, Halwara has primarily operated as an Indian Air Force airfield. Development of civil aviation infrastructure has been undertaken to expand its role to include scheduled commercial flights.\n\nQ: What city does Halwara International Airport primarily serve?\nA: It mainly serves Ludhiana, the largest city in Punjab and a major center for textiles, hosiery, bicycles, and industrial manufacturing.\n\nQ: Does the airport operate regular scheduled flights?\nA: Commercial flight operations have been planned and are being introduced in phases; travelers should check with airlines for the latest scheduled service availability.\n\n",
+  "transport_tips": "The most common way to reach the airport from Ludhiana is by private car or prepaid taxi, with the journey typically taking 45 to 60 minutes depending on traffic. Travelers from other Punjab cities such as Jalandhar, Phagwara, or Moga can also access the airport via state highways, though public bus connections are limited. Booking a return taxi in advance is advisable, as on-site transport options at the airport may be sparse during early operational phases.",
+  "local_tip": "Since the airport is positioned near an active military area, carry valid government-issued photo identification at all times, as security protocols on and around the airfield can be stricter than at purely civilian airports.",
+  "generatedAt": "2026-06-29T01:35:04.036Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YIF",
+    "icao": "CYIF",
+    "name": "St Augustin Airport",
+    "country": "Canada",
+    "city": "St-Augustin",
+    "lat": 51.2117,
+    "lon": -58.6583,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "St Augustin Airport (YIF) is a medium-sized regional airport serving the remote coastal community of St-Augustin on the Lower North Shore of Quebec, along the Gulf of St. Lawrence. The airport provides a vital transportation link for this isolated fishing village, connecting residents to larger hubs in the region. It primarily supports scheduled regional flights and serves as an important access point for medical evacuations and essential services to the North Shore communities.",
+  "faqs": "Q: What airlines operate at St Augustin Airport?\nA: The airport is primarily served by regional carriers offering scheduled passenger flights connecting St-Augustin to larger Quebec destinations like Sept-Îles and Quebec City.\n\nQ: How far is the airport from the town of St-Augustin?\nA: The airport is located a short drive from the village center, making it easily accessible for local residents and visitors.\n\nQ: Does the airport have customs and immigration facilities?\nA: As a domestic regional airport, St Augustin Airport does not have permanent customs and immigration services.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic amenities suitable for a small regional airport, including a waiting area and essential passenger services.",
+  "transport_tips": "Ground transportation to and from the airport is limited, so arranging a vehicle in advance with a local contact or accommodation provider is highly recommended. Taxi services are available but may need to be pre-booked, especially for early or late flights. Visitors without private transport should coordinate pickup arrangements with their host or lodging before arrival.",
+  "local_tip": "Given the remote location and unpredictable coastal weather along the Lower North Shore, always build in a buffer day for return travel, as fog and low ceilings frequently delay or cancel regional flights in this area.",
+  "generatedAt": "2026-06-29T20:15:14.407Z",
+  "model": "MiniMax-M3"
+}

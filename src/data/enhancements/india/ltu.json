@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LTU",
+    "icao": "VALT",
+    "name": "Murod Kond Airport",
+    "country": "India",
+    "city": "Latur",
+    "lat": 18.4115,
+    "lon": 76.4647,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Murod Kond Airport (IATA: LTU) is a domestic airport serving the city of Latur in the Marathwada region of Maharashtra, India. Located approximately 12 km from the city center, it operates as a medium-sized facility providing vital air connectivity to this otherwise road- and rail-dependent region. The airport is named after the nearby Murod Kond hill and has historically supported limited commercial operations, primarily serving regional routes to Mumbai.",
+  "faqs": "Q: How far is Murod Kond Airport from Latur city center?\nA: The airport is located about 12 km southwest of Latur city, with typical travel times of 25–35 minutes by road depending on traffic conditions.\n\nQ: Which airlines operate flights from Latur Airport?\nA: Commercial service has historically been limited and intermittent, with routes typically connecting to Mumbai. Travelers should check current schedules as service availability changes periodically.\n\nQ: Does the airport operate 24 hours?\nA: No, the airport operates during daylight hours only, with flight schedules aligned to scheduled commercial service windows.\n\nQ: Are there facilities like food and parking at the airport?\nA: The terminal offers basic amenities including a small waiting area, restrooms, and parking. Dining and retail options are minimal given the airport's modest traffic volume.",
+  "transport_tips": "Pre-paid taxi and auto-rickshaw services are the most reliable ways to reach the airport from Latur city. Since flight schedules can be irregular, it is advisable to pre-book ground transport in advance and allow extra buffer time for the rural road approach. Private car hires are also available from the city, and many hotels can arrange airport pickups upon request.",
+  "local_tip": "Carry sufficient cash, as digital payment infrastructure and ATM availability at the airport terminal can be inconsistent—using Latur city for currency exchange or cash withdrawal before heading to the airport is a smart move.",
+  "generatedAt": "2026-06-29T23:59:23.102Z",
+  "model": "MiniMax-M3"
+}

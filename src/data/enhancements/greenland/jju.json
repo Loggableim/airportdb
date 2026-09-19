@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JJU",
+    "icao": "BGQO",
+    "name": "Qaqortoq Airport",
+    "country": "Greenland",
+    "city": "Qaqortoq",
+    "lat": 60.7638,
+    "lon": -46.065,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Qaqortoq Airport (JJU/BGQO) is a regional airport serving Qaqortoq, the largest town in southern Greenland and the capital of the Kujalleq municipality. Located on a plateau above the town, the airport provides essential connectivity for residents and visitors exploring the scenic fjords and Norse historical sites of the region. It primarily handles domestic flights operated by Air Greenland, linking the remote community to Nuuk and other Greenlandic destinations.",
+  "faqs": "Q: What airlines fly into Qaqortoq Airport?\nA: Air Greenland is the primary airline serving Qaqortoq Airport, operating regular domestic flights to Nuuk and other Greenlandic towns.\n\nQ: How long is the runway at Qaqortoq Airport?\nA: The airport has a relatively short runway suitable for regional turboprop aircraft, reflecting the challenging terrain of southern Greenland.\n\nQ: When was Qaqortoq Airport built?\nA: The airport was developed to replace earlier helicopter-based transport in the region, with scheduled fixed-wing service significantly improving access to southern Greenland in the late 20th century.\n\nQ: Is there public transportation from the airport to Qaqortoq town?\nA: Yes, taxis and shuttle services connect the airport to the town center, which is only a short distance away down the hillside.",
+  "transport_tips": "The airport sits on a plateau roughly 5 km north of Qaqortoq town center, so arranging a taxi or pre-booked shuttle in advance is recommended, especially given limited local transport options. Flights are weather-dependent and can be delayed by fog or strong winds common to the fjord region. Travelers continuing onward should book connecting flights with buffer time, as Greenland's domestic network is sensitive to disruptions.",
+  "local_tip": "Visit the airport café upon arrival for a glimpse of the stunning fjord views from the plateau, and consider asking the staff about current road conditions to nearby sheep farms and Norse ruins, which are sometimes only accessible by local 4WD vehicles.",
+  "generatedAt": "2026-06-30T00:15:32.133Z",
+  "model": "MiniMax-M3"
+}

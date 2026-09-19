@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HLP",
+    "icao": "WIHH",
+    "name": "Halim Perdanakusuma International Airport",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "lat": -6.267,
+    "lon": 106.8903,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Halim Perdanakusuma International Airport (HLP) is a dual-use civilian and military airfield located in East Jakarta, serving as the Indonesian capital's secondary commercial gateway alongside the much larger Soekarno-Hatta International Airport. Named after Air Marshal Halim Perdanakusuma, an Indonesian Air Force pioneer, the facility functioned as Jakarta's primary international airport until 1985 before transitioning to domestic, low-cost carrier, and charter operations. Today it handles significant domestic traffic and occasional regional flights, particularly benefiting travelers heading to central or eastern Jakarta.",
+  "faqs": "Q: What is the difference between Halim (HLP) and Soekarno-Hatta (CGK) airports?\nA: Halim is Jakarta's secondary airport, closer to the city center and mainly used for domestic flights and low-cost carriers. Soekarno-Hatta is the primary international hub, located about 35 km west of the city and handles most international and long-haul flights.\n\nQ: Which airlines operate from Halim Perdanakusuma?\nA: Several Indonesian carriers use HLP, including Citilink, Batik Air, and occasionally Lion Air, primarily on domestic trunk routes to cities like Surabaya, Medan, and Bali, as well as some regional Southeast Asian destinations.\n\nQ: Is Halim a military airport?\nA: Yes, it is a shared military-civilian facility operated by the Indonesian Air Force (TNI AU). Civilian operations coexist with military activities on the same airfield.\n\nQ: How far is Halim from central Jakarta?\nA: The airport is approximately 10-12 km from central Jakarta, making it considerably closer and faster to reach than Soekarno-Hatta for travelers staying in the eastern or central parts of the city.",
+  "transport_tips": "Taxis and ride-hailing apps like Grab and Gojek are readily available at the terminal and offer a quick 20-40 minute journey to central Jakarta depending on traffic. The airport connects to the Jakarta LRT (Light Rail Transit) system via Halim Station, which provides access to the broader Jabodebek rail network. Travelers should allow extra time during rush hours, as Jakarta's notorious traffic congestion can significantly affect travel times.",
+  "local_tip": "If you're connecting to or from a hotel in central or south Jakarta, consider Halim over Soekarno-Hatta—you can save 1-2 hours of road time each way, which is a major advantage for short business",
+  "generatedAt": "2026-06-28T19:55:15.135Z",
+  "model": "MiniMax-M3"
+}

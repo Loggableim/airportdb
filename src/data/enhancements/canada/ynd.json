@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YND",
+    "icao": "CYND",
+    "name": "Ottawa / Gatineau Airport",
+    "country": "Canada",
+    "city": "Gatineau",
+    "lat": 45.5217,
+    "lon": -75.5636,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Ottawa/Gatineau Airport (YND) is a medium-sized airport located in Gatineau, Quebec, just across the Ottawa River from Canada's capital city. It serves as a convenient alternative to Ottawa's larger Macdonald-Cartier International Airport, primarily handling regional flights, private aviation, and general aviation. The airport is also home to several flight schools and aircraft maintenance facilities, making it a hub for aviation training in the National Capital Region.",
+  "faqs": "Q: How far is Ottawa/Gatineau Airport from downtown Ottawa?\nA: The airport is approximately 20 km from downtown Ottawa, accessible via the Macdonald-Cartier Bridge or the Alexandra Bridge across the Ottawa River. Travel time typically ranges from 25 to 40 minutes depending on traffic and border crossing conditions.\n\nQ: Does the airport offer international flights?\nA: The airport primarily serves domestic regional routes and general aviation. Most international travelers use Ottawa Macdonald-Cartier International Airport (YOW) instead, which is located about 20 km to the south.\n\nQ: Are there customs services available at YND?\nA: The airport has limited customs facilities and primarily handles cross-border general aviation flights. Commercial international passengers should use the larger YOW airport for full customs and immigration services.\n\nQ: What amenities are available at the terminal?\nA: The terminal offers basic amenities including a small lounge area and parking facilities. Dining and retail options are limited compared to larger airports, so travelers are advised to plan accordingly.",
+  "transport_tips": "The airport is best accessed by car via Highway 5 and the Alexandre-Taché Boulevard in Gatineau. Public transit options are limited, so taxi services or rideshare apps are recommended for those without a vehicle. Parking is available on-site and is generally more affordable than at the larger Ottawa airport.",
+  "local_tip": "Frequent visitors recommend timing your trip to avoid rush hour on the bridges crossing the Ottawa River, which can add significant delays. Also, consider checking in early as the smaller terminal can get congested with flight school activity during peak training hours.",
+  "generatedAt": "2026-06-29T18:14:48.674Z",
+  "model": "MiniMax-M3"
+}

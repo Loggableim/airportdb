@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NYO",
+    "icao": "ESKN",
+    "name": "Stockholm Skavsta Airport",
+    "country": "Sweden",
+    "city": "Nyköping",
+    "lat": 58.7897,
+    "lon": 16.9115,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Stockholm Skavsta Airport (NYO) is located about 100 km southwest of central Stockholm near the city of Nyköping in Södermanland County, Sweden. Originally a Swedish Air Force base known as F 11 Nyköping, it was converted to civilian use and opened for commercial flights in 1998. The airport gained international prominence as a major low-cost carrier hub, particularly for Ryanair, which operated a significant base there for many years.",
+  "faqs": "Q: How far is Stockholm Skavsta Airport from central Stockholm?\nA: The airport is approximately 100 km (62 miles) southwest of Stockholm city center, typically a 1 to 1.5 hour journey by car or train.\n\nQ: What is the best way to travel between the airport and Stockholm?\nA: The most convenient option is the Svealandsbanan train from Nyköping station, about 7 km from the airport, or the dedicated Skavsta airport bus which runs directly to Stockholm City terminal.\n\nQ: Are there hotels near Stockholm Skavsta Airport?\nA: Yes, there are a few hotels in the immediate vicinity of the airport and additional options in Nyköping town, roughly 10 minutes away by car.\n\nQ: Does the airport operate 24 hours?\nA: No, Stockholm Skavsta operates during scheduled flight hours only and is not a 24-hour facility, so check operating hours before planning ground transportation.",
+  "transport_tips": "The Svealandsbanan rail link between Stockholm Central Station and Nyköping C station is the most reliable option, with trains running frequently throughout the day. Airport shuttle buses, known as Skavsta flygbussarna, provide direct service between Stockholm and the airport terminal. If driving, follow the E4 motorway south toward Nyköping and take the Skavsta exit; parking is available at competitive rates compared to other Stockholm airports.",
+  "local_tip": "If you have a long layover or early morning flight, consider staying in Nyköping's charming old town instead of traveling in from Stockholm. The town offers a medieval castle (Nyköpingshus), cozy cafés, and waterfront restaurants along the Nyköpingsån river, making it a much more pleasant way to spend time than rushing back and forth to",
+  "generatedAt": "2026-06-28T18:45:13.932Z",
+  "model": "MiniMax-M3"
+}

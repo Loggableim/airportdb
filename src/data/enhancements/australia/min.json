@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MIN",
+    "icao": "YMPA",
+    "name": "Minnipa Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -32.8433,
+    "lon": 135.145,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Minnipa Airport (MIN/YMPA) is a small general aviation airfield serving the rural community of Minnipa on South Australia's Eyre Peninsula. It primarily supports private aviation, agricultural operations, and emergency services including the Royal Flying Doctor Service. The airport sits in a sparsely populated agricultural region known for wheat farming and sheep grazing.",
+  "faqs": "Q: What is Minnipa Airport used for?\nA: It primarily serves general aviation, private aircraft, agricultural aviation, and emergency medical flights for the surrounding Eyre Peninsula community.\n\nQ: Are there commercial flights to Minnipa?\nA: No, Minnipa Airport does not have scheduled commercial passenger service. Travelers must use larger airports like Port Lincoln or Ceduna for commercial flights.\n\nQ: What facilities are available at the airport?\nA: As a small rural airfield, facilities are minimal with no terminal building or scheduled services. Pilots should arrange their own ground transport and fuel.\n\nQ: Is prior permission required to land?\nA: It is advisable to check current aerodrome status and any local requirements before flying in, as small outback airfields may have limited operational hours or seasonal restrictions.",
+  "transport_tips": "Getting to and from Minnipa Airport requires a private vehicle, as there are no public transport links serving the airfield. The town of Minnipa is a short drive from the airport, and car rental or pickup arrangements should be made in advance. The nearest major airports with commercial service are Port Lincoln and Ceduna, both several hours' drive away.",
+  "local_tip": "If flying into Minnipa, contact the local shire or airfield manager beforehand, as the airport is unattended and runway conditions can vary with weather, especially during the dry summer months when dust and heat can affect operations.",
+  "generatedAt": "2026-06-27T15:52:09.524Z",
+  "model": "MiniMax-M3"
+}

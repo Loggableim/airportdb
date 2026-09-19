@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TDX",
+    "icao": "VTBO",
+    "name": "Trat Airport",
+    "country": "Thailand",
+    "city": "Laem Ngop",
+    "lat": 12.2746,
+    "lon": 102.319,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Trat Airport (TDX) is a small but important regional gateway in eastern Thailand, serving Trat Province and acting as the primary air link for travelers heading to Koh Chang and the Trat archipelago. Located in Laem Ngop district near the Gulf of Thailand coast, it handles short-haul domestic flights primarily from Bangkok. The airport plays a vital role in supporting tourism to one of Thailand's less-crowded coastal destinations.",
+  "faqs": "Q: How far is Trat Airport from Koh Chang?\nA: The airport is roughly 20 km from the mainland ferry piers at Laem Ngop and Ao Saparot, with ferries to Koh Chang taking about 30-45 minutes depending on the pier.\n\nQ: Are there international flights at Trat Airport?\nA: Trat primarily handles domestic routes from Bangkok, though some seasonal charter services have operated to regional destinations.\n\nQ: What facilities are available at the terminal?\nA: The terminal is compact and offers basic amenities including a small café, car rental counters, and tourist information desks.\n\nQ: Is the airport open 24 hours?\nA: No, Trat Airport operates only during scheduled flight hours, with limited service outside of arrival and departure times.",
+  "transport_tips": "The most convenient onward connection is a pre-arranged minivan or taxi to the Laem Ngop ferry piers for boats to Koh Chang. Shared minibuses to Trat town and surrounding areas are available but should be booked in advance. Rental cars and motorbikes can be hired at the terminal for travelers exploring the mainland Trat coastline.",
+  "local_tip": "Many frequent visitors skip the standard taxi queue and pre-book a minivan through their Koh Chang accommodation—it usually includes the ferry ticket and door-to-door service for a better combined price than arranging each leg separately.",
+  "generatedAt": "2026-06-29T20:13:19.920Z",
+  "model": "MiniMax-M3"
+}

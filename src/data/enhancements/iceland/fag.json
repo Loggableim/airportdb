@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FAG",
+    "icao": "BIFM",
+    "name": "Fagurhólsmýri Airport",
+    "country": "Iceland",
+    "city": "Fagurhólsmýri",
+    "lat": 63.8747,
+    "lon": -16.6411,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Fagurhólsmýri Airport is a small regional airfield located in the remote southeast of Iceland, serving the tiny village of Fagurhólsmýri and the surrounding Hornafjörður region. It primarily functions as a gateway for travelers visiting Iceland's southeastern coast, including nearby Vatnajökull National Park and the dramatic Jökulsárlón glacier lagoon. The airport's modest infrastructure reflects the sparse population of the area, with scheduled flights connecting it to Reykjavík.",
+  "faqs": "Q: What is the airport code for Fagurhólsmýri Airport?\nA: The IATA code is FAG and the ICAO code is BIFM.\n\nQ: Are there regular commercial flights to Fagurhólsmýri Airport?\nA: Scheduled flights are limited; service is primarily provided by small regional aircraft connecting to Reykjavík, with availability varying by season.\n\nQ: Is the airport open year-round?\nA: Yes, but weather conditions in southeast Iceland can affect flight schedules, especially during winter months.\n\nQ: What facilities are available at the airport?\nA: As a small rural airfield, facilities are minimal, typically limited to basic waiting areas rather than extensive amenities.\n\n",
+  "transport_tips": "Reaching the airport typically requires a rental car or local transfer, as public transport options in this remote part of Iceland are very limited. The small village of Fagurhólsmýri is walkable from the airfield, but reaching popular destinations like Höfn or Jökulsárlón requires a vehicle along Route 1. Road conditions can be challenging in winter, so check weather and road status before traveling.",
+  "local_tip": "If you're visiting for glacier tours or Jökulsárlón, arrange your ground transport and accommodations in advance—services in this remote corner of Iceland are sparse and book up quickly during peak summer season.",
+  "generatedAt": "2026-06-27T12:32:12.270Z",
+  "model": "MiniMax-M3"
+}

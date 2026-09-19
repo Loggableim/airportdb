@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IOM",
+    "icao": "EGNS",
+    "name": "Isle of Man Airport",
+    "country": "Isle of Man",
+    "city": "Castletown",
+    "lat": 54.0831,
+    "lon": -4.6239,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Isle of Man Airport (IOM/EGNS), also known as Ronaldsway Airport, is the principal aviation gateway to the Isle of Man, a self-governing British Crown dependency situated in the Irish Sea between Great Britain and Ireland. Located near the historic town of Castletown on the island's southern coast, the airport is a vital link for residents and a key access point during the famous Isle of Man TT motorcycle races held annually in late May and early June. The facility handles scheduled flights to numerous UK and Irish destinations, along with private and charter traffic.",
+  "faqs": "Q: Where exactly is Isle of Man Airport located?\nA: The airport sits at Ronaldsway on the southern tip of the Isle of Man, approximately 2 miles northeast of Castletown and about 10 miles southwest of the capital, Douglas.\n\nQ: Which airlines operate from Isle of Man Airport?\nA: Several regional carriers serve the airport, including Loganair, easyJet, and Aer Lingus Regional, with scheduled flights to UK cities like London, Manchester, and Birmingham, as well as Dublin.\n\nQ: Does the airport have facilities for the TT races?\nA: Yes, the airport sees a significant increase in traffic during the Isle of Man TT fortnight, with extra flights and ground services arranged to accommodate the influx of visitors.\n\nQ: Is the airport used for international flights beyond the UK and Ireland?\nA: Most scheduled routes are to UK and Irish destinations, though seasonal charter flights occasionally serve European leisure markets.\n\n",
+  "transport_tips": "Bus service 8A/8C connects the airport to Douglas and Castletown, with journey times of roughly 30-40 minutes. Taxis are available outside the terminal, and rental car desks operate within the arrivals hall, which is recommended for travelers planning to explore the island's scenic roads.",
+  "local_tip": "If you have a layover or a few hours to spare, head up to the nearby South Barrule or take the short drive to the Calf of Man ferry point—the airport's coastal location",
+  "generatedAt": "2026-06-28T19:54:43.405Z",
+  "model": "MiniMax-M3"
+}

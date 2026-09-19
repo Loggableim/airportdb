@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MAD",
+    "icao": "LEMD",
+    "name": "Adolfo Suárez Madrid–Barajas Airport",
+    "country": "Spain",
+    "city": "Madrid",
+    "lat": 40.4934,
+    "lon": -3.5722,
+    "type": "large_airport",
+    "size": 1041675
+  },
+  "summary": "Adolfo Suárez Madrid–Barajas Airport is Spain's largest and busiest aviation hub, located approximately 12 km northeast of central Madrid. Originally opened in 1928, it was renamed in 2014 in honor of Spain's first democratically elected prime minister. The airport serves as the main hub for Iberia and Air Europa and features five terminals, including the architecturally striking Terminal 4 designed by Richard Rogers.",
+  "faqs": "Q: How far is the airport from Madrid city center?\nA: It is about 12 km northeast of central Madrid, typically a 20-30 minute drive depending on traffic.\n\nQ: What are the transport options to reach the city?\nA: You can take the Metro Line 8, the Cercanías commuter train, the airport express bus, or a taxi. The metro and train are usually the fastest and most economical options.\n\nQ: Which terminals does the airport have?\nA: The airport has five terminals: T1, T2, T3, T4, and T4S (the satellite terminal connected to T4 by an automated train). Iberia and its partners mainly use T4 and T4S.\n\nQ: Is there free Wi-Fi available?\nA: Yes, the airport offers free Wi-Fi throughout all terminals for a limited duration per session.\n\n",
+  "transport_tips": "The Metro Line 8 connects directly to the city center and runs from around 6:00 AM to 1:30 AM, making it a reliable and affordable option. The Cercanías commuter trains (C-1 and C-10 lines) also serve the airport and integrate with Madrid's broader rail network. Taxis are available 24/7 at designated ranks outside each terminal, with a flat-rate supplement applied for airport trips.",
+  "local_tip": "If you have a long layover, take the Metro Line 8 from the airport to Nuevos Ministerios and enjoy a walk through the nearby Castellana area for a quick taste of Madrid without going all the way into the historic center.",
+  "generatedAt": "2026-06-28T14:44:08.558Z",
+  "model": "MiniMax-M3"
+}

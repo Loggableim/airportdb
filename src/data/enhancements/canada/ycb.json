@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YCB",
+    "icao": "CYCB",
+    "name": "Cambridge Bay Airport",
+    "country": "Canada",
+    "city": "Cambridge Bay",
+    "lat": 69.1081,
+    "lon": -105.138,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Cambridge Bay Airport serves the hamlet of Cambridge Bay on Victoria Island in Nunavut's Kitikmeot Region, well above the Arctic Circle. It functions as a vital transportation hub for this remote Inuit community, supporting both passenger travel and cargo operations across the High Arctic. The airport plays a key role in connecting northern Canada to southern supply chains and medical evacuation services.",
+  "faqs": "Q: What airlines fly into Cambridge Bay Airport?\nA: Canadian North operates scheduled passenger service connecting Cambridge Bay to Yellowknife and Iqaluit, with connections to Ottawa and Edmonton.\n\nQ: Does the airport operate year-round in Arctic conditions?\nA: Yes, the airport runs year-round with specialized cold-weather operations, though weather conditions can occasionally cause delays or cancellations, especially in winter.\n\nQ: Are there facilities for overnight stays at the airport?\nA: The terminal has basic waiting areas, but for overnight accommodations travelers typically need to arrange lodging in the hamlet itself.\n\nQ: Is Cambridge Bay Airport used for cargo?\nA: Yes, it handles significant cargo volumes, as most goods destined for the community arrive by air year-round due to the brief sealift season.",
+  "transport_tips": "The airport is located just minutes from the hamlet center, so a short taxi ride is the typical option, though arranging pickup in advance is recommended given limited local transport. Rental vehicles are generally not available, so coordinating transfers through your hotel or local host is advisable. Visitors should confirm return flights well in advance, as weather-related disruptions are common in the Arctic.",
+  "local_tip": "Pack layered clothing even in summer—temperatures at this latitude can shift dramatically, and the terminal can feel quite cool during long waits between flights.",
+  "generatedAt": "2026-06-29T07:23:13.096Z",
+  "model": "MiniMax-M3"
+}

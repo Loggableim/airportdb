@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TIX",
+    "icao": "KTIX",
+    "name": "Space Coast Regional Airport",
+    "country": "United States",
+    "city": "Titusville",
+    "lat": 28.5148,
+    "lon": -80.7992,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Space Coast Regional Airport (TIX) is a medium-sized general aviation airport located in Titusville, Florida, on the state's famous Space Coast. The airport sits near the Kennedy Space Center and Cape Canaveral, making it a popular gateway for visitors attending rocket launches and space-related tourism. It serves as an important hub for general aviation, flight training, and corporate aircraft in the region.",
+  "faqs": "Q: Where is Space Coast Regional Airport located?\nA: The airport is located in Titusville, Florida, on the state's east-central coast, approximately 40 miles east of Orlando.\n\nQ: What is the airport primarily used for?\nA: It serves mainly general aviation, flight training, corporate aviation, and air charter operations, with no scheduled commercial passenger service.\n\nQ: Can I view rocket launches from the airport?\nA: Yes, the airport's proximity to Kennedy Space Center makes it a favored viewing location for space shuttle and rocket launches.\n\nQ: Does the airport have an FAA control tower?\nA: Yes, the airport operates an FAA-staffed control tower during published hours.\n\n",
+  "transport_tips": "The airport is just off Interstate 95 and State Road 407, providing easy car access from Orlando and surrounding areas. Rental car services are available on-site, and taxis or rideshares can be arranged in advance since Titusville is a smaller city with limited public transit. Plan for approximately a 45-minute drive from Orlando International Airport (MCO).",
+  "local_tip": "If visiting for a rocket launch, check the airport's NOTAMs and arrival procedures in advance—launch events cause significant increases in traffic, and the airport often coordinates special VFR routes for sightseeing flights.",
+  "generatedAt": "2026-06-30T02:07:24.390Z",
+  "model": "MiniMax-M3"
+}

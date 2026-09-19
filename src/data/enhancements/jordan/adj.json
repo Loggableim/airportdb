@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ADJ",
+    "icao": "OJAM",
+    "name": "Marka International (Amman Civil) Airport",
+    "country": "Jordan",
+    "city": "Amman",
+    "lat": 31.9727,
+    "lon": 35.9916,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Marka International Airport, also known as Amman Civil Airport, is located in eastern Amman, Jordan, and has historically served as the city's main civilian gateway before Queen Alia International Airport took over most commercial operations. It now primarily handles general aviation, private jets, charter flights, and some scheduled regional services. Its hillside position near downtown Amman offers passengers quick access to the city center compared to the larger Queen Alia Airport.",
+  "faqs": "Q: How far is Marka Airport from central Amman?\nA: The airport is located approximately 5 km east of downtown Amman, making it one of the most conveniently located airports in the region.\n\nQ: Does Marka Airport handle international commercial flights?\nA: Commercial international traffic has largely moved to Queen Alia International Airport, but Marka still handles some regional scheduled flights, charters, private aviation, and royal/government flights.\n\nQ: Are there customs and immigration facilities at ADJ?\nA: Yes, the airport has customs and immigration services available for international arrivals, though on a smaller scale than Queen Alia.\n\nQ: Is there public transport available to the airport?\nA: Taxis are the most common option; visitors can also arrange private transfers or rental cars for the short journey into the city.",
+  "transport_tips": "Taxis and ride-hailing services are the most practical way to reach Marka Airport given its short distance from downtown Amman. The drive typically takes 15-25 minutes depending on traffic. Amman can experience significant congestion during rush hours, so allow extra time for departures.",
+  "local_tip": "Frequent visitors prefer Marka over Queen Alia for its proximity to Amman's downtown hotels, restaurants, and the historic citadel area, saving a 30+ minute drive to the south of the city.",
+  "generatedAt": "2026-06-28T22:46:08.806Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FPR",
+    "icao": "KFPR",
+    "name": "Treasure Coast International Airport",
+    "country": "United States",
+    "city": "Fort Pierce",
+    "lat": 27.4951,
+    "lon": -80.3683,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Treasure Coast International Airport (FPR) is a medium-sized public-use airport located in Fort Pierce, Florida, serving the Treasure Coast region along the state's Atlantic coast. Originally known as St. Lucie County International Airport, it was renamed to better reflect the broader Treasure Coast area it serves. The airport primarily supports general aviation, corporate flights, flight training, and air charter operations rather than commercial passenger service.",
+  "faqs": "Q: Does Treasure Coast International Airport offer commercial passenger flights?\nA: No, FPR does not currently provide scheduled commercial passenger service. It primarily serves general aviation, private aircraft, charter flights, and flight training operations.\n\nQ: What facilities are available at FPR?\nA: The airport features runways, FBOs (Fixed-Base Operators) with fuel services, aircraft hangars, tie-down parking, and basic pilot amenities. It does not have a large commercial terminal.\n\nQ: How many runways does the airport have?\nA: Treasure Coast International Airport has two runways, including a primary runway suitable for a range of general aviation and small to mid-size business jets.\n\nQ: Who owns and operates the airport?\nA: The airport is publicly owned and operated by the St. Lucie County Board of County Commissioners through the county's airport authority.",
+  "transport_tips": "The airport is located just off U.S. Highway 1 in Fort Pierce, making it easily accessible by car. Ride-sharing services and local taxi companies can be arranged in advance, though availability may be limited compared to larger commercial airports. Rental cars are typically the most convenient option for travelers arriving by private or charter aircraft.",
+  "local_tip": "Plan fuel stops in advance through the on-site FBO and consider dining at one of Fort Pierce's waterfront restaurants along the Indian River Lagoon after landing—the local seafood and sunset views are a favorite among visiting pilots.",
+  "generatedAt": "2026-06-30T04:48:30.545Z",
+  "model": "MiniMax-M3"
+}

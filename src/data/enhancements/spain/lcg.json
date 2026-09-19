@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LCG",
+    "icao": "LECO",
+    "name": "A Coruña Airport",
+    "country": "Spain",
+    "city": "Culleredo",
+    "lat": 43.3021,
+    "lon": -8.3773,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "A Coruña Airport is a regional airport serving the northwestern Spanish province of Galicia, located in the municipality of Culleredo just outside the coastal city of A Coruña. Opened in 1952, it primarily handles domestic flights to Madrid and seasonal routes to other European destinations, serving as the main gateway to the Atlantic-facing Costa da Morte and Costa Ártabra regions. The airport is notable for its compact single-terminal design and its role supporting tourism to one of Spain's most distinctive coastal areas.",
+  "faqs": "Q: How far is A Coruña Airport from the city center?\nA: The airport is located about 8 km (5 miles) southeast of central A Coruña, with a typical transfer time of 15-20 minutes by car.\n\nQ: What airlines operate from A Coruña Airport?\nA: Iberia operates regular flights to Madrid-Barajas, with seasonal and year-round routes to Barcelona, the Balearic Islands, and various European cities operated by Vueling, Air Europa, and Binter.\n\nQ: Does the airport have international flights?\nA: Yes, the airport offers seasonal international services primarily to UK destinations and some European cities during summer months.\n\nQ: Is there a designated terminal for special services?\nA: The single terminal provides standard facilities including a VIP lounge, assistance for passengers with reduced mobility, and typical passenger amenities.",
+  "transport_tips": "The most convenient way to reach the airport is by taxi, which takes around 15 minutes from central A Coruña and costs approximately €15-20. A regular bus service connects the airport with A Coruña city center, operating on schedules aligned with flight arrivals and departures. For travelers with cars, the airport offers both short-term and long-term parking options adjacent to the terminal.",
+  "local_tip": "If you have time before your flight, ask for directions to the small viewing area where you can watch Atlantic weather roll in over the runway—a frequent visitor ritual given Galicia's famously changeable skies.",
+  "generatedAt": "2026-06-29T05:52:18.096Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NOJ",
+    "icao": "USRO",
+    "name": "Noyabrsk Airport",
+    "country": "Russia",
+    "city": "Noyabrsk",
+    "lat": 63.1833,
+    "lon": 75.27,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Noyabrsk Airport is a regional hub serving the city of Noyabrsk in the Yamalo-Nenets Autonomous Okrug of Western Siberia, a critical oil and gas production region. The airport primarily supports domestic traffic and is essential for connecting the remote northern workforce to larger Russian cities such as Moscow, Tyumen, and Yekaterinburg. Its operations are closely tied to the energy industry that drives the local economy.",
+  "faqs": "Q: What is the airport code for Noyabrsk Airport?\nA: Noyabrsk Airport is designated NOJ by IATA and USRO by ICAO.\n\nQ: How far is Noyabrsk Airport from the city center?\nA: The airport is located approximately 7-8 kilometers southeast of Noyabrsk city center, typically a 15-20 minute drive.\n\nQ: Which airlines fly from Noyabrsk Airport?\nA: The airport is served mainly by Russian carriers including S7 Airlines, UTair, and Aeroflot operating domestic routes.\n\nQ: Are there international flights from Noyabrsk Airport?\nA: No, Noyabrsk Airport handles domestic flights only; international travelers typically connect through larger hubs like Moscow or Tyumen.\n\n",
+  "transport_tips": "The most practical way to reach the airport is by taxi or pre-booked transfer, as public transport options are limited in this remote region. During winter months, allow extra travel time due to harsh weather conditions including heavy snow and low visibility. Several local taxi services operate on fixed fares to and from the city.",
+  "local_tip": "Pack extra layers in your carry-on even for short flights—the airport and surrounding area can experience rapid temperature drops well below -30°C in winter, and layered clothing makes the transition between the warm terminal and frozen tarmac much more comfortable.",
+  "generatedAt": "2026-06-29T16:45:03.708Z",
+  "model": "MiniMax-M3"
+}

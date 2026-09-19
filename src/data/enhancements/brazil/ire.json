@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IRE",
+    "icao": "SNIC",
+    "name": "Irecê Airport",
+    "country": "Brazil",
+    "city": "Irecê",
+    "lat": -11.3399,
+    "lon": -41.847,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Irecê Airport is a small regional airport serving the city of Irecê in the central-northern part of Bahia state, Brazil. Situated in the semi-arid sertão region, it primarily supports general aviation and limited regional connectivity to the surrounding Caatinga biome area. The airport provides important access for this inland municipality, which is a regional hub for agriculture and commerce in the Chapada Diamantina foothills.",
+  "faqs": "Q: What is the IATA code for Irecê Airport?\nA: The IATA code for Irecê Airport is IRE, and its ICAO code is SNIC.\n\nQ: What type of airport is Irecê Airport?\nA: It is classified as a small airport, primarily serving general aviation and occasional regional flights.\n\nQ: Where is Irecê Airport located?\nA: The airport is located near the city of Irecê in the state of Bahia, Brazil, at coordinates approximately 11.34°S, 41.85°W.\n\nQ: Does Irecê Airport offer commercial passenger service?\nA: Scheduled commercial passenger service is limited; travelers should check with local operators or airlines for current flight availability.\n\n",
+  "transport_tips": "The airport is located just a few kilometers from central Irecê, making ground transportation relatively straightforward. Local taxis and ride services are typically available to transport passengers to and from the city center. Travelers flying in or out should arrange ground transportation in advance, as services may be limited due to the airport's small size.",
+  "local_tip": "Irecê is known as a gateway to the Chapada Diamantina region's northern access points, so travelers using the airport often pair their visit with excursions to nearby natural attractions in Bahia's interior sertão.",
+  "generatedAt": "2026-06-27T12:52:11.050Z",
+  "model": "MiniMax-M3"
+}

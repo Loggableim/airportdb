@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CDU",
+    "icao": "YSCN",
+    "name": "Camden Airport",
+    "country": "Australia",
+    "city": "Cobbitty",
+    "lat": -34.0383,
+    "lon": 150.6864,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Camden Airport is a medium-sized general aviation facility located in Cobbitty, New South Wales, approximately 60 km southwest of Sydney's CBD. Originally established as RAAF Station Camden during World War II, the site retains its aviation heritage and is home to the Camden Museum of Aviation. Today it serves pilot training, recreational flying, aircraft maintenance, and occasional private charter operations, making it an important hub for the greater Sydney region's general aviation community.",
+  "faqs": "Q: What is Camden Airport primarily used for?\nA: Camden Airport is mainly used for general aviation activities including pilot training, recreational flying, aircraft storage and maintenance, and private charter flights. It does not handle scheduled commercial passenger services.\n\nQ: Does Camden Airport have scheduled commercial flights?\nA: No, Camden Airport does not operate scheduled commercial passenger services. It is dedicated to general aviation, flight training schools, and private aircraft operations.\n\nQ: Is there an aviation museum at Camden Airport?\nA: Yes, the Camden Museum of Aviation is located at the airport and showcases the site's rich RAAF and general aviation history, featuring historic aircraft and memorabilia from the WWII era onward.\n\nQ: Are there flight training schools at Camden Airport?\nA: Yes, Camden Airport hosts several flight training organisations that provide pilot training from recreational certificates through to commercial pilot qualifications, taking advantage of the airport's dedicated training airspace.\n\n",
+  "transport_tips": "Camden Airport is most easily accessed by car, located about a one-hour drive southwest of Sydney CBD via the M5 and M31 motorways, with ample free parking available on-site. There is no direct public transport to the airport terminal, though bus services run to nearby Camden township from where a taxi or rideshare can be arranged. Rideshare services like Uber do operate in the area but may have longer wait times due to the semi-rural location.",
+  "local_tip": "If visiting the on-site Camden Museum of Aviation, call ahead or check their website for opening days, as volunteer-run museums often have limited hours and may be closed on public holidays or weekends during winter.",
+  "generatedAt": "2026-06-26T07:40:48.767Z",
+  "model": "MiniMax-M3"
+}

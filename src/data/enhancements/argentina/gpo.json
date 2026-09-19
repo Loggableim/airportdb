@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GPO",
+    "icao": "SAZG",
+    "name": "General Pico Airport",
+    "country": "Argentina",
+    "city": "General Pico",
+    "lat": -35.6962,
+    "lon": -63.7583,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "General Pico Airport serves the city of General Pico in the central Argentine Pampas, the agricultural heartland of La Pampa Province. As a medium-sized regional facility, it primarily handles domestic flights and general aviation, supporting the area's strong farming and livestock economy. The airport provides an important link for travelers heading to this inland region known for its rural landscapes and gaucho culture.",
+  "faqs": "Q: What is the IATA code for General Pico Airport?\nA: The IATA code is GPO, and its ICAO code is SAZG.\n\nQ: Does General Pico Airport handle international flights?\nA: No, it primarily serves domestic flights and general aviation traffic within Argentina.\n\nQ: Where is the airport located relative to the city?\nA: The airport is situated on the outskirts of General Pico, a short drive from the city center in La Pampa Province.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic terminal facilities suitable for regional travel, with limited services compared to major Argentine airports.",
+  "transport_tips": "Taxis and remise (pre-booked private car services) are the most common ways to reach the airport from General Pico city center, typically taking around 10-15 minutes. Rental cars can also be arranged in advance for those exploring the wider La Pampa region. There is no direct public bus service to the terminal, so arranging ground transport ahead of time is recommended.",
+  "local_tip": "If you have time before your flight, visit the Museo Marciano Martínez to see artifacts from the region's indigenous heritage and gaucho history—it captures the spirit of the Pampas far better than any guidebook.",
+  "generatedAt": "2026-06-26T12:51:47.588Z",
+  "model": "MiniMax-M3"
+}

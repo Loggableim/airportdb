@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ADQ",
+    "icao": "PADQ",
+    "name": "Kodiak Airport",
+    "country": "United States",
+    "city": "Kodiak",
+    "lat": 57.75,
+    "lon": -152.494,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kodiak Airport (ADQ) serves Kodiak Island, the second-largest island in the United States, located in the Gulf of Alaska approximately 250 miles southwest of Anchorage. The airport is a vital transportation link for the island's fishing industry, military personnel, and remote communities across the Kodiak Archipelago. It features a single asphalt runway capable of handling regional jets and serves as an important hub for both commercial and Coast Guard operations.",
+  "faqs": "Q: What airlines fly into Kodiak Airport?\nA: Alaska Airlines and Island Air Service operate scheduled passenger flights, primarily connecting Kodiak with Anchorage.\n\nQ: How far is the airport from downtown Kodiak?\nA: The airport is located about 5 miles southwest of Kodiak's city center, roughly a 10-minute drive.\n\nQ: Does the airport have rental cars available?\nA: Yes, rental car agencies operate at the terminal, though availability is limited and booking in advance is recommended.\n\nQ: Is Kodiak Airport prone to weather delays?\nA: Yes, the maritime climate frequently brings fog, rain, and strong winds, which can cause flight delays or cancellations, especially in winter months.\n\n",
+  "transport_tips": "Rental cars and taxis are available at the terminal, but options are limited compared to mainland airports. The airport is connected to Kodiak city by a short drive along Rezanof Drive, and shuttle services may be available through local hotels. During winter, allow extra time for travel as road conditions can be affected by ice and snow.",
+  "local_tip": "If you have time between flights, visit the Kodiak National Wildlife Refuge Visitor Center near the airport for exhibits on the island's famous brown bears, bald eagles, and marine wildlife—it's a free and uniquely Alaskan experience.",
+  "generatedAt": "2026-06-29T07:36:26.009Z",
+  "model": "MiniMax-M3"
+}

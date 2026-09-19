@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XSD",
+    "icao": "KTNX",
+    "name": "Tonopah Test Range Airport",
+    "country": "United States",
+    "city": "Tonopah",
+    "lat": 37.7988,
+    "lon": -116.781,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Tonopah Test Range Airport is a remote military airfield in central Nevada, serving the adjacent Tonopah Test Range, a facility historically used for weapons testing and aerial combat training. The airport supports military operations, test flights, and occasional civilian access, sitting amid the high desert landscape at roughly 5,390 feet elevation. Its single long runway makes it suitable for a wide variety of aircraft, including large military transports.",
+  "faqs": "Q: Is Tonopah Test Range Airport open to civilian pilots?\nA: Access is primarily limited to military and authorized personnel, though civilian pilots may request PPR (prior permission required) for certain operations.\n\nQ: How high is the airport above sea level?\nA: The field sits at approximately 5,390 feet elevation, which should be factored into aircraft performance calculations.\n\nQ: What facilities are available at the airport?\nA: As a military-associated facility, amenities are minimal; pilots should plan for self-sufficiency, including fuel arrangements confirmed in advance.\n\nQ: Are there nearby alternative airports?\nA: Tonopah Airport (TPH) is located roughly 25 miles to the northeast and offers more public-access services.",
+  "transport_tips": "Ground transportation is extremely limited at this remote desert facility, so arranging a vehicle in advance is essential. The nearest town with services is Tonopah, which is a significant drive away over desert roads. Most visitors arrive via military or contractor aircraft, so coordinate logistics through your sponsoring organization before traveling.",
+  "local_tip": "Cell phone coverage is unreliable in this part of Nevada, so download offline maps and communicate arrival times before entering the area. Bring extra water and sun protection, as desert temperatures and isolation make self-sufficiency critical for any ground time.",
+  "generatedAt": "2026-06-27T15:11:56.137Z",
+  "model": "MiniMax-M3"
+}

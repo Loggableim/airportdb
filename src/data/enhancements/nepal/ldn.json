@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LDN",
+    "icao": "VNLD",
+    "name": "Lamidanda Airport",
+    "country": "Nepal",
+    "city": "Lamidanda",
+    "lat": 27.2531,
+    "lon": 86.67,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lamidanda Airport (LDN/VNLD) is a small domestic airfield serving the remote hill communities of eastern Nepal's Khotang District. Nestled in the hilly terrain of the Sagarmatha Zone at an elevation of roughly 4,500 feet, it primarily provides vital air access for local residents, traders, and aid workers in an area where road connectivity is limited. The airport plays a key role in Nepal's STOL (Short Take-Off and Landing) network, serving small twin-engine aircraft that connect isolated highland villages to larger hubs like Kathmandu.",
+  "faqs": "Q: What is the airport code for Lamidanda Airport?\nA: The IATA code is LDN and the ICAO code is VNLD.\n\nQ: What type of aircraft can land at Lamidanda Airport?\nA: As a small STOL airport, it primarily accommodates small turboprop aircraft such as the Dornier Do-228 and similar short take-off and landing planes commonly used by Nepalese carriers.\n\nQ: Are there regular scheduled flights to Lamidanda?\nA: Scheduled domestic service is limited and can be subject to weather-related cancellations due to the mountainous terrain and frequent cloud cover in eastern Nepal.\n\nQ: Is the airport open to international flights?\nA: No, Lamidanda is a domestic-only airport with no customs or immigration facilities.\n\n",
+  "transport_tips": "Ground transport from the airport is informal; passengers typically arrange pickup with a local guesthouse or hire a shared jeep in advance, as taxis are rarely waiting on site. The airport is connected to surrounding villages via narrow, winding hill roads that can become impassable during the monsoon season. Travelers flying in should be prepared for a short walk or short jeep ride to their final destination rather than expecting bus or taxi services on demand.",
+  "local_tip": "Pack a light waterproof jacket and arrive early — eastern Nepal's hill weather can shift quickly from clear skies to low cloud cover, and flights are often retimed or consolidated with other small-airport services based on conditions.",
+  "generatedAt": "2026-06-27T13:11:18.882Z",
+  "model": "MiniMax-M3"
+}

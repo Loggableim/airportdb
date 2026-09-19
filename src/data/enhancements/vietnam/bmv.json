@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BMV",
+    "icao": "VVBM",
+    "name": "Buon Ma Thuot Airport",
+    "country": "Vietnam",
+    "city": "Buon Ma Thuot",
+    "lat": 12.6683,
+    "lon": 108.12,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Buon Ma Thuot Airport (BMV) serves as the primary air gateway to Vietnam's Central Highlands, located in the capital of Dak Lak Province. The airport connects the region, famous for its coffee plantations and diverse ethnic cultures, to major cities including Hanoi and Ho Chi Minh City. It is a key access point for visitors exploring the surrounding lake district and the world-renowned Buon Ma Thuot coffee region.",
+  "faqs": "Q: What is the distance from Buon Ma Thuot Airport to the city center?\nA: The airport is located approximately 8-10 km east of Buon Ma Thuot city center, with a typical transfer time of around 15-20 minutes by road.\n\nQ: Which airlines operate flights to Buon Ma Thuot Airport?\nA: The airport is primarily served by Vietnam Airlines, VietJet Air, and Bamboo Airways, with regular scheduled flights to Hanoi and Ho Chi Minh City.\n\nQ: Does the airport offer international flights?\nA: No, Buon Ma Thuot Airport currently operates domestic flights only, as it serves primarily domestic travel demand.\n\nQ: What facilities are available at Buon Ma Thuot Airport?\nA: The terminal provides standard amenities including a small dining area, basic retail shops, a VIP lounge, and currency exchange services for travelers.",
+  "transport_tips": "Taxis are readily available outside the terminal building, with the journey to the city center typically costing around 150,000-200,000 VND. Ride-hailing apps like Grab also operate in the area and often offer more transparent pricing. Hotel pickup services can be arranged in advance and are recommended for travelers carrying heavy luggage or arriving late at night.",
+  "local_tip": "Bring a light jacket even in warmer months, as the Central Highlands can be surprisingly cool in the early mornings and evenings due to the higher elevation.",
+  "generatedAt": "2026-06-29T12:27:47.532Z",
+  "model": "MiniMax-M3"
+}

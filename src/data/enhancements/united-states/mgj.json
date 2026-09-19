@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MGJ",
+    "icao": "KMGJ",
+    "name": "Orange County Airport",
+    "country": "United States",
+    "city": "Montgomery",
+    "lat": 41.51,
+    "lon": -74.2646,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Orange County Airport (MGJ) is a public general aviation facility serving Montgomery, New York, in the heart of the Hudson Valley region roughly 60 miles north of New York City. The airport has long supported flight training, corporate aviation, and recreational flying for Orange County and surrounding communities. It features a single main runway and a mix of hangars and tie-down areas catering primarily to private and charter operations.",
+  "faqs": "Q: Does Orange County Airport offer commercial airline service?\nA: No, MGJ is a general aviation airport with no scheduled commercial passenger flights; travelers typically use it for private, charter, or flight training purposes.\n\nQ: What is the main runway at MGJ?\nA: The airport has a primary asphalt runway designated 4/22, which accommodates most single-engine and light twin-engine aircraft, along with smaller turf and secondary surfaces for lighter traffic.\n\nQ: Is there an on-site Fixed Base Operator (FBO)?\nA: Yes, the airport provides FBO services including fueling, hangar rentals, aircraft parking, and basic pilot amenities through its management by the Orange County Department of Aviation.\n\nQ: How far is MGJ from New York City?\nA: The airport is approximately 60 miles northwest of Manhattan, typically reached by car in about 90 minutes depending on traffic via I-84 or Route 17K.",
+  "transport_tips": "Renting a car is the most practical way to reach Orange County Airport, as there is no scheduled public transit directly serving the facility. The airport is conveniently located near State Route 17K and within a short drive of I-84, making road access straightforward for pilots and passengers alike. Ride-sharing services are available but can be limited in this semi-rural area, so arranging ground transport in advance is recommended.",
+  "local_tip": "If you have downtime between flights, the nearby village of Montgomery offers a charming walkable downtown with locally owned cafes and the historic Montgomery Cemetery, one of the oldest in the Hudson Valley.",
+  "generatedAt": "2026-06-27T00:22:52.287Z",
+  "model": "MiniMax-M3"
+}

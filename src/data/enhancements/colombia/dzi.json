@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DZI",
+    "icao": "",
+    "name": "Las Flores Airport",
+    "country": "Colombia",
+    "city": "Codazzi",
+    "lat": 10.0966,
+    "lon": -73.2337,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Las Flores Airport (DZI) is a small regional airfield serving Agustín Codazzi, a municipality in the Cesar Department of northern Colombia. It provides essential air access to the Serranía del Perijá foothills region, supporting local commerce, agricultural transport, and general aviation in an area otherwise reliant on lengthy road journeys. The airport features a single unpaved or semi-paved runway typical of Colombia's secondary airfields.",
+  "faqs": "Q: What is the IATA code for Las Flores Airport?\nA: The IATA code is DZI.\n\nQ: Where is Las Flores Airport located?\nA: It is located in Agustín Codazzi, Cesar Department, northern Colombia, near the Serranía del Perijá mountain range.\n\nQ: Does the airport handle commercial passenger flights?\nA: As a small regional airfield, it primarily serves charter, private, and general aviation rather than scheduled commercial service.\n\nQ: What is the nearest major city to the airport?\nA: Agustín Codazzi is the closest town, while Valledupar, the capital of Cesar Department, lies to the north and serves as the main regional hub.\n\n",
+  "transport_tips": "Ground transportation from Las Flores Airport is typically arranged by pre-booking a taxi or relying on hotel pickups, as formal taxi ranks are limited. The town center of Codazzi is just a short drive from the airfield along local roads. Travelers heading further afield can connect to Valledupar or La Jagua del Pilar via infrequent regional bus services from Codazzi's main terminal.",
+  "local_tip": "Arrange ground transport and any onward connections (especially to Valledupar or La Jagua del Pilar) before arrival, as cellular signal and ride-hailing apps are unreliable in this rural area.",
+  "generatedAt": "2026-06-27T20:15:22.549Z",
+  "model": "MiniMax-M3"
+}

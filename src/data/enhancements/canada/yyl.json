@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YYL",
+    "icao": "CYYL",
+    "name": "Lynn Lake Airport",
+    "country": "Canada",
+    "city": "Lynn Lake",
+    "lat": 56.8639,
+    "lon": -101.076,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Lynn Lake Airport (YYL/CYYL) is a medium-sized airport serving the remote northern Manitoba community of Lynn Lake, located in the subarctic region of central Canada. The airport primarily supports the local population, which has historical ties to nickel mining, and provides vital air access to this isolated region. It functions as an essential lifeline connecting residents to larger Manitoba centers, especially given the limited road infrastructure in the area.",
+  "faqs": "Q: What is the main purpose of Lynn Lake Airport?\nA: The airport primarily serves the remote community of Lynn Lake in northern Manitoba, providing scheduled passenger flights and supporting medical evacuations, charter operations, and general aviation needs for a region with limited road access.\n\nQ: Are there regular scheduled flights to Lynn Lake?\nA: Yes, scheduled air service operates to Lynn Lake, typically connecting the community with larger hubs like Winnipeg and Thompson in Manitoba, though flight frequency is limited due to the small population.\n\nQ: What facilities are available at the airport?\nA: The airport offers standard facilities for a northern Canadian airport including a terminal building, fuel services, and basic amenities, though services are limited compared to larger airports.\n\nQ: Is there overnight accommodation near the airport?\nA: Limited lodging options are available in the town of Lynn Lake itself, which is a short drive from the airport. Visitors should arrange accommodations in advance due to the remote location.",
+  "transport_tips": "Rental cars are generally not available at the airport, so arrange ground transportation with your hotel or local contacts before arrival. Taxi services and hotel shuttles, where available, should be booked in advance. Be prepared for potentially long waits or limited options if arriving on delayed flights, as this is a small remote airport with minimal services.",
+  "local_tip": "Pack layers and bring snacks—the airport terminal is small with limited food options, and temperatures in Lynn Lake can be dramatically colder than southern Manitoba, especially from October through April.",
+  "generatedAt": "2026-06-29T09:53:08.024Z",
+  "model": "MiniMax-M3"
+}

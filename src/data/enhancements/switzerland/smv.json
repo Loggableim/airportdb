@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SMV",
+    "icao": "LSZS",
+    "name": "Engadin Airport",
+    "country": "Switzerland",
+    "city": "Samedan",
+    "lat": 46.5341,
+    "lon": 9.8841,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Engadin Airport (IATA: SMV, ICAO: LSZS) sits at about 1,707 m (5,600 ft) in the Upper Engadin valley near Samedan, Switzerland, making it one of Europe’s highest airports. It serves St. Moritz and the Engadin ski region, handling general and business aviation with a runway set against dramatic alpine terrain. Its high-altitude location and mountain approaches demand careful performance planning, especially in winter.",
+  "faqs": "Q: What are the airport codes for Engadin Airport?\nA: The IATA code is SMV and the ICAO code is LSZS.\n\nQ: How high is Engadin Airport?\nA: It is located at approximately 1,707 m (5,600 ft) above sea level, making it one of the highest airports in Europe.\n\nQ: Does Engadin Airport have scheduled airline service?\nA: The airport primarily handles general and business aviation, with seasonal charter and private flights; scheduled service is limited or seasonal, so check current operators before planning.\n\nQ: How far is Engadin Airport from St. Moritz?\nA: It is about 8 km (5 miles) from St. Moritz, typically a 15–20 minute drive depending on traffic and weather.\n\n",
+  "transport_tips": "The airport is about 8 km from St. Moritz and roughly 15–20 minutes by car or taxi; buses also connect Samedan station and nearby villages. Samedan railway station is on the RhB line with connections to St. Moritz and Zernez, but you will still need a short taxi or bus ride to the terminal. In winter, allow extra time for snow, ice, and mountain road conditions.",
+  "local_tip": "During peak ski season and major Engadin events like the White Turf, slots, handling, and hangar space are in high demand—book well in advance. Also plan around daylight operations, as the airport is not open for night arrivals.",
+  "generatedAt": "2026-09-19T23:06:20.514Z",
+  "model": "deepseek-v4.1-flash"
+}

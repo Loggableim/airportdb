@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BEG",
+    "icao": "LYBE",
+    "name": "Belgrade Nikola Tesla Airport",
+    "country": "Serbia",
+    "city": "Belgrade",
+    "lat": 44.8184,
+    "lon": 20.3091,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Belgrade Nikola Tesla Airport (BEG) is Serbia's busiest international gateway, named in honor of the renowned Serbian-American inventor Nikola Tesla. Located in the Surčin municipality approximately 18 km west of central Belgrade, it serves as the main hub for Air Serbia and connects the country to destinations across Europe, the Middle East, and beyond. The airport features a modern terminal complex that was significantly upgraded in the early 2000s, handling millions of passengers annually.",
+  "faqs": "Q: How far is Belgrade Nikola Tesla Airport from the city center?\nA: The airport is located approximately 18 km (11 miles) west of central Belgrade, with typical journey times of 25-40 minutes depending on traffic conditions.\n\nQ: Which airlines operate from Belgrade Nikola Tesla Airport?\nA: Air Serbia uses BEG as its main hub, while numerous carriers including Lufthansa, Turkish Airlines, Austrian Airlines, Ryanair, Wizz Air, and easyJet offer regular scheduled and seasonal services.\n\nQ: Is there public transportation between the airport and Belgrade city center?\nA: Yes, city bus line 72 runs between the airport and central Belgrade, and the airport also offers dedicated shuttle services to key locations in the city.\n\nQ: Are there hotels near the airport?\nA: Several hotels are located near the airport and along the route to the city, including options offering shuttle services for travelers with early or late flights.",
+  "transport_tips": "Bus line 72 connects the airport to central Belgrade's Zeleni Venac area and is the most affordable public transport option, running roughly every 20-30 minutes. Taxis and ride-hailing services are readily available at the official taxi stand outside arrivals, though it's advisable to insist on the meter or agree on a fare in advance. The A1 highway provides a direct and well-main",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T16:16:26.225Z",
+  "model": "MiniMax-M3"
+}

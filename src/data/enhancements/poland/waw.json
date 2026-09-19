@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WAW",
+    "icao": "EPWA",
+    "name": "Warsaw Chopin Airport",
+    "country": "Poland",
+    "city": "Warsaw",
+    "lat": 52.1657,
+    "lon": 20.9671,
+    "type": "large_airport",
+    "size": 51275
+  },
+  "summary": "Warsaw Chopin Airport (WAW/EPWA) is Poland's largest and busiest airport, serving as the main hub for LOT Polish Airlines and a key gateway for Central and Eastern Europe. Named after renowned composer Frédéric Chopin, the airport sits approximately 10 km southwest of Warsaw's city center. It features two main terminals handling millions of passengers annually and offers connections to destinations across Europe, the Middle East, and beyond.",
+  "faqs": "Q: How far is Warsaw Chopin Airport from the city center?\nA: The airport is about 10 km southwest of central Warsaw, typically a 20-30 minute drive depending on traffic.\n\nQ: Is there a train connection from the airport to Warsaw?\nA: Yes, the S2 and S3 suburban train lines connect the airport to Warsaw city center in roughly 25 minutes, with stations at Warsaw Centralna and other key stops.\n\nQ: Are there good food and shopping options at WAW?\nA: The airport offers a wide range of Polish and international restaurants, cafes, and duty-free shopping in both Schengen and non-Schengen zones.\n\nQ: Can I use euros at Warsaw Chopin Airport?\nA: While Poland uses the Polish złoty (PLN), many shops, restaurants, and exchange bureaus at the airport accept euros, though you'll typically get better value paying in złoty.",
+  "transport_tips": "The SKM train (S2/S3 lines) is the fastest and most affordable option to central Warsaw, with departures every few minutes. Taxis and ride-hailing services like Uber and Bolt are readily available at designated ranks, but allow extra time during rush hours. If driving, the airport is accessible via the S2 expressway with several parking options including short-term and long-term garages.",
+  "local_tip": "Frequent travelers recommend heading to the observation deck on Terminal A's upper level, which offers a great view of aircraft operations and is a hidden gem often missed by casual passengers.",
+  "generatedAt": "2026-06-28T15:42:12.288Z",
+  "model": "MiniMax-M3"
+}

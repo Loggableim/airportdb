@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MPH",
+    "icao": "RPVE",
+    "name": "Godofredo P. Ramos Airport",
+    "country": "Philippines",
+    "city": "Caticlan",
+    "lat": 11.9245,
+    "lon": 121.954,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Godofredo P. Ramos Airport (MPH) serves as the primary gateway to the world-famous Boracay island, located in the coastal town of Caticlan on the Philippine island of Panay. Named after a pioneering Filipino aviator, the airport is known for having one of the shortest commercial runways in Asia, requiring precision approaches over the Sibuyan Sea. Despite its modest size, it handles significant tourist traffic year-round as the most convenient air access point to Boracay.",
+  "faqs": "Q: How far is the airport from Boracay?\nA: The airport is approximately 1-2 kilometers from the Caticlan jetty port, where passengers take a 15-20 minute ferry ride to Boracay Island.\n\nQ: Why is this airport considered challenging to fly into?\nA: The runway is relatively short and the approach path passes over water and residential areas, requiring skilled pilots and limiting aircraft size.\n\nQ: Which airlines operate at MPH?\nA: Philippine Airlines, Cebu Pacific, AirAsia Philippines, and other carriers operate regular domestic flights, mainly from Manila and Cebu.\n\nQ: Are there international flights at this airport?\nA: MPH primarily handles domestic flights, though some charter and regional international services have operated historically.\n\n",
+  "transport_tips": "Tricycles and multicabs are readily available outside the terminal for short trips to Caticlan town or the jetty port. Most travelers heading to Boracay take a short tricycle ride to the Caticlan jetty terminal, then transfer to a ferry. Allow at least 30-45 minutes of transit time between your flight arrival and the Boracay ferry departure.",
+  "local_tip": "Keep small bills and pesos ready for the terminal fee, environmental fee, and tricycle fare — these are typically paid separately in cash, and there are no ATMs inside the departure area.",
+  "generatedAt": "2026-06-29T05:17:58.563Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SJA",
+    "icao": "SPJN",
+    "name": "San Juan de Marcona Airport",
+    "country": "Peru",
+    "city": "San Juan de Marcona",
+    "lat": -15.3575,
+    "lon": -75.135,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "San Juan de Marcona Airport is a small regional airfield serving the coastal town of San Juan de Marcona in Peru's Ica Region. The airport primarily supports the local iron ore mining industry operated by Shougang Hierro Peru, along with limited general aviation and charter flights. Its location along the southern Pacific coast also makes it a convenient entry point for travelers exploring the Marcona peninsula and nearby natural attractions.",
+  "faqs": "Q: What is San Juan de Marcona Airport mainly used for?\nA: The airport primarily serves the iron ore mining operations in the area, along with general aviation and occasional charter flights. Commercial passenger service is very limited.\n\nQ: Are there regular commercial flights to SJA?\nA: Scheduled commercial flights are infrequent or unavailable at this time. Most visitors reach the area via overland travel from Nazca or by charter aircraft.\n\nQ: How far is the airport from the town center?\nA: The airport is located a short drive from central San Juan de Marcona, making transfers relatively quick by taxi or private vehicle.\n\nQ: What is the best way to reach San Juan de Marcona?\nA: Most travelers arrive by bus or car from Nazca, approximately 2 hours away, as road access is more reliable than air service.",
+  "transport_tips": "Ground transportation options are limited, so arrange a taxi or pickup in advance through your hotel or mining company contact before arrival. The airport has minimal infrastructure, so rental car services are generally not available on-site. Travelers coming from Lima typically connect through Nazca by bus before continuing overland to Marcona.",
+  "local_tip": "If visiting the area, request permission and arrange a tour to the nearby Marcona peninsula, home to unique coastal desert landscapes and the famous \"Tres Hermanas\" (Three Sisters) rock formations visible from the air.",
+  "generatedAt": "2026-06-28T06:29:36.336Z",
+  "model": "MiniMax-M3"
+}

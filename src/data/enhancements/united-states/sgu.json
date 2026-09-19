@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SGU",
+    "icao": "KSGU",
+    "name": "St George Regional Airport",
+    "country": "United States",
+    "city": "St George",
+    "lat": 37.0364,
+    "lon": -113.5103,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "St. George Regional Airport serves the southwestern Utah city of St. George, providing commercial air service to a popular gateway for national parks including Zion and Bryce Canyon. Opened in 2011, it replaced the older St. George Municipal Airport to accommodate the region's rapid population growth and tourism demand. The airport sits on a high-desert plateau about 5 miles southeast of downtown St. George.",
+  "faqs": "Q: What airlines serve St George Regional Airport?\nA: The airport is served by several major carriers offering nonstop flights to cities in the western United States, including connections to major hubs like Salt Lake City, Denver, and Phoenix.\n\nQ: How far is the airport from downtown St. George?\nA: The airport is located approximately 5 to 6 miles southeast of the city center, typically a 10 to 15 minute drive.\n\nQ: Are there flights to Las Vegas from SGU?\nA: Direct flights to Las Vegas have been offered historically, though schedules vary seasonally. Las Vegas is also about a 2-hour drive from St. George.\n\nQ: Is the airport open 24 hours?\nA: The terminal operates during scheduled flight times. Travelers should check with their airline for terminal hours outside of standard operating periods.",
+  "transport_tips": "Rental cars are the most common way to reach the airport and are essential for exploring the surrounding region, as public transit options are limited. Taxi and rideshare services like Uber and Lyft are available but may have longer wait times in this smaller market. The airport is easily reached via State Route 7 from the city center.",
+  "local_tip": "If you have a layover or extra time, the airport is less than an hour's drive from the entrance to Zion National Park, making it possible to catch sunset over the canyon walls on the same day you arrive.",
+  "generatedAt": "2026-06-29T18:13:10.396Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YUX",
+    "icao": "CYUX",
+    "name": "Hall Beach Airport",
+    "country": "Canada",
+    "city": "Sanirajak",
+    "lat": 68.7761,
+    "lon": -81.2425,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Hall Beach Airport (YUX) is a medium-sized Arctic airport serving the Inuit hamlet of Sanirajak on the Melville Peninsula in Nunavut, Canada. Situated at latitude 68.776°N, it functions as a vital transportation link for one of Canada's most remote northern communities, supporting both passenger travel and cargo operations. The airport plays an essential role in connecting residents to larger regional hubs such as Iqaluit.",
+  "faqs": "Q: What is the official name of the community served by Hall Beach Airport?\nA: The airport serves Sanirajak, an Inuit hamlet formerly known as Hall Beach, located on the Melville Peninsula in Nunavut.\n\nQ: When is the best time to fly to Hall Beach Airport?\nA: Summer months (July and August) typically offer the most reliable weather, though the airport operates year-round with specialized cold-weather procedures.\n\nQ: Are there rental cars available at the airport?\nA: No, rental car services are not available at this remote Arctic airport. Visitors typically arrange ground transportation through local contacts or the hamlet office.\n\nQ: What facilities are available at the terminal?\nA: The terminal is small and basic, offering essential services for travelers including a waiting area, but limited amenities compared to larger airports.",
+  "transport_tips": "Local taxi services and pre-arranged pickup through community contacts are the primary ways to travel between the airport and the hamlet. There is no public transit system serving the airport due to the small size of the community. Visitors should coordinate ground transportation in advance, as services are limited and not always available on demand.",
+  "local_tip": "Pack extra snacks and warm layers in your carry-on—flights to Hall Beach can occasionally be diverted or delayed due to Arctic weather, and the small terminal has very limited food service.",
+  "generatedAt": "2026-06-29T10:09:09.536Z",
+  "model": "MiniMax-M3"
+}

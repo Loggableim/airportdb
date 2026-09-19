@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BDV",
+    "icao": "FZRB",
+    "name": "Moba Airport",
+    "country": "Democratic Republic of the Congo",
+    "city": "Moba",
+    "lat": -7.0849,
+    "lon": 29.7371,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Moba Airport is a small domestic airfield serving the town of Moba in the Tanganyika Province of the Democratic Republic of the Congo. Situated on the western shore of Lake Tanganyika, it provides essential air access to a region otherwise reached by long overland routes or lake transport. The airport primarily supports light aircraft operations serving local communities, humanitarian missions, and limited commercial traffic in this remote part of eastern Congo.",
+  "faqs": "Q: What is the airport code for Moba Airport?\nA: Moba Airport is designated BDV by IATA and FZRB by ICAO.\n\nQ: Are there scheduled commercial flights to Moba?\nA: Scheduled commercial service is very limited; most flights are operated by charter or humanitarian aircraft serving the Tanganyika region.\n\nQ: What kind of aircraft can use Moba Airport?\nA: The runway accommodates small turboprop aircraft and light planes suited to short, regional operations.\n\nQ: Is the airport suitable for night operations?\nA: Operations are generally limited to daylight hours, consistent with most small airfields in rural DRC.",
+  "transport_tips": "Ground transport from the airport to Moba town center is typically arranged informally through local drivers or mission operators, as formal taxi services are limited. Travelers should confirm return arrangements in advance, as onward transport options can be scarce outside regular flight days. Reaching the airport by road can be slow during the rainy season when unpaved routes deteriorate.",
+  "local_tip": "Lake Tanganyika boat services connect Moba to other lakeside towns like Kalemie and Uvira, so consider combining a flight with a ferry crossing for a more scenic and practical route through the region.",
+  "generatedAt": "2026-06-27T13:42:40.245Z",
+  "model": "MiniMax-M3"
+}

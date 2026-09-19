@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DLF",
+    "icao": "KDLF",
+    "name": "Laughlin Air Force Base",
+    "country": "United States",
+    "city": "Del Rio",
+    "lat": 29.3595,
+    "lon": -100.778,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Laughlin Air Force Base is a United States Air Force installation in Del Rio, Texas, serving as the home of the 47th Flying Training Wing and one of the Air Force's primary Specialized Undergraduate Pilot Training (SUPT) bases. The airfield is shared with Del Rio International Airport, accommodating both military flight operations and limited civilian traffic. Located along the US-Mexico border near the Amistad Reservoir, it features a single main runway and supports a high volume of training sorties.",
+  "faqs": "Q: What is Laughlin Air Force Base primarily used for?\nA: It is a major USAF pilot training base, hosting the 47th Flying Training Wing which conducts Specialized Undergraduate Pilot Training (SUPT) for both Air Force and allied nation students.\n\nQ: Is Laughlin AFB the same as Del Rio International Airport?\nA: They share the same runway and facilities, but Laughlin AFB is the military designation while Del Rio International Airport is the civilian side with its own FAA code.\n\nQ: Can civilians fly into Laughlin Air Force Base?\nA: Civilian flights are handled through Del Rio International Airport which shares the runway. Military and government aircraft use the AFB designation.\n\nQ: What is the ICAO code for Laughlin AFB?\nA: The ICAO code is KDLF and the IATA code is DLF.",
+  "transport_tips": "Del Rio is a small city and rental cars are typically the most practical option for ground transportation, as public transit is limited. The base and airport are located just a few miles east of downtown Del Rio via US Highway 90. Visitors should expect to pass through security checkpoints when entering the military installation.",
+  "local_tip": "If visiting during pilot training graduations, plan well in advance as the base population swells and accommodations in Del Rio fill up quickly—booking a hotel months ahead is strongly recommended.",
+  "generatedAt": "2026-06-29T09:18:01.163Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ETS",
+    "icao": "KEDN",
+    "name": "Enterprise Municipal Airport",
+    "country": "United States",
+    "city": "Enterprise",
+    "lat": 31.2997,
+    "lon": -85.8999,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Enterprise Municipal Airport (ETS/KEDN) is a small general aviation facility serving the city of Enterprise in Coffee County, southeastern Alabama. The airport supports recreational flying, business aviation, and occasional military-related traffic, given its proximity to Fort Novosel (formerly Fort Rucker), a major U.S. Army aviation training installation. Its single runway and modest infrastructure make it a convenient gateway for pilots and visitors to the Wiregrass region.",
+  "faqs": "Q: What is the main use of Enterprise Municipal Airport?\nA: The airport primarily serves general aviation, including private, recreational, and business flights. It does not offer scheduled commercial airline service.\n\nQ: Where is the airport located relative to the city?\nA: Enterprise Municipal Airport is situated just outside the city of Enterprise, Alabama, providing easy access for local pilots and visitors traveling to the Wiregrass region.\n\nQ: Are there car rental services at the airport?\nA: Rental car availability is limited; visitors are encouraged to arrange ground transportation in advance or use local rental agencies in Enterprise.\n\nQ: How far is the airport from Fort Novosel?\nA: Enterprise Municipal Airport is located only a few miles from Fort Novosel, making it a convenient alternative for visitors to the military installation.",
+  "transport_tips": "The airport is best accessed by private vehicle or taxi, as public transit options are limited in the Enterprise area. Renting a car in Enterprise or arranging a ride through a local service is the most practical way to reach the airport. Pilots flying in should coordinate fuel and hangar needs with the airport operator in advance, as services may have limited hours.",
+  "local_tip": "If you have time before or after your flight, visit the Enterprise Depot Museum, which commemorates the Boll Weevil Monument—a unique statue honoring the insect that, by devastating local cotton crops, inadvertently led farmers to diversify into peanuts and transform the region's economy.",
+  "generatedAt": "2026-06-27T05:58:04.979Z",
+  "model": "MiniMax-M3"
+}

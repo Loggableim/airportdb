@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SWT",
+    "icao": "UNSS",
+    "name": "Strezhevoy Airport",
+    "country": "Russia",
+    "city": "Strezhevoy",
+    "lat": 60.7094,
+    "lon": 77.66,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Strezhevoy Airport (SWT/UNSS) is a regional airport serving the city of Strezhevoy in Tomsk Oblast, Western Siberia, Russia. The airport primarily supports the oil and gas industry that drives the local economy, connecting workers and residents to larger hubs like Tomsk and Moscow. Its remote Siberian location makes it an important link for this otherwise isolated industrial community.",
+  "faqs": "Q: What is the airport code for Strezhevoy Airport?\nA: The IATA code is SWT and the ICAO code is UNSS.\n\nQ: Where is Strezhevoy Airport located?\nA: It is located in the city of Strezhevoy, Tomsk Oblast, in Western Siberia, Russia, at coordinates 60.709°N, 77.660°E.\n\nQ: What type of airport is Strezhevoy?\nA: It is classified as a medium-sized regional airport primarily serving domestic flights and oil and gas industry operations.\n\nQ: Does Strezhevoy Airport offer international flights?\nA: No, the airport primarily handles domestic regional flights, with most service connecting to other Russian cities.",
+  "transport_tips": "The airport is located on the outskirts of Strezhevoy, with the city center just a short drive away. Taxis and local transport are typically available to meet arriving flights, though scheduling them in advance is recommended. During harsh Siberian winters, allow extra time for travel as weather conditions can affect road transport.",
+  "local_tip": "Pack warm layers even in summer—Strezhevoy's subarctic climate can bring sudden temperature drops, and the airport terminal may be cooler than expected during long waits between infrequent flights.",
+  "generatedAt": "2026-06-26T12:00:21.669Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MCL",
+    "icao": "PAIN",
+    "name": "Denali National Park Airport",
+    "country": "United States",
+    "city": "Denali Park",
+    "lat": 63.7325,
+    "lon": -148.9113,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Denali National Park Airport (MCL) is a small public-use airport located within Alaska's Denali National Park and Preserve, serving as a gateway for visitors to one of North America's most iconic wilderness areas. The airport provides essential access for tourists, park staff, and researchers traveling to the park interior, where Denali (formerly Mt. McKinley), the continent's tallest peak, dominates the landscape. Its remote subarctic setting and proximity to park headquarters make it a key entry point for adventure tourism and backcountry exploration.",
+  "faqs": "Q: What airlines fly into Denali National Park Airport?\nA: The airport is primarily served by small regional and charter carriers, with no scheduled major airline service. Visitors typically fly via small aircraft from Anchorage or Fairbanks.\n\nQ: How far is the airport from Denali Park entrance?\nA: The airport is located near the park's main entrance area, just a few miles from the Denali National Park visitor center and headquarters.\n\nQ: Does the airport operate year-round?\nA: Yes, but flight schedules may be reduced in winter months due to weather conditions and lower tourism demand in the off-season.\n\nQ: Are there rental cars available at the airport?\nA: Rental car availability is limited; most visitors arrange transportation through park shuttle services, tour operators, or pre-booked ground transfers.",
+  "transport_tips": "Most visitors arrive via small aircraft from Anchorage (ANC) or Fairbanks (FAI), with flight times roughly 1 hour from Anchorage. Ground transportation options are limited, so arrange shuttle services, rental vehicles, or tour pickups in advance, especially during the peak summer season. The park's road system restricts private vehicle access beyond a certain point, making the park shuttle bus a popular option for exploring deeper into the park.",
+  "local_tip": "Book early-morning flights when possible, as afternoon weather in the Alaska Range can develop clouds and turbulence that sometimes cause delays or cancellations later in the day.",
+  "generatedAt": "2026-06-27T05:21:32.790Z",
+  "model": "MiniMax-M3"
+}

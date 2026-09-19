@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KKR",
+    "icao": "NTGK",
+    "name": "Kaukura Airport",
+    "country": "French Polynesia",
+    "city": "Raitahiti",
+    "lat": -15.6633,
+    "lon": -146.885,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kaukura Airport is a small regional airport serving the island of Kaukura, a coral atoll in the Tuamotu Archipelago of French Polynesia. Located near the village of Raitahiti, the airport provides essential connectivity for residents and visitors traveling to this remote atoll. The single-runway facility supports inter-island flights operated by Air Tahiti, the main domestic carrier of French Polynesia.",
+  "faqs": "Q: Which airlines fly to Kaukura Airport?\nA: Air Tahiti operates regular scheduled flights connecting Kaukura to Papeete on Tahiti and other islands in the Tuamotu group.\n\nQ: How long is the runway at Kaukura?\nA: The airport has a single paved runway suitable for small to medium turboprop aircraft commonly used for inter-island service in French Polynesia.\n\nQ: Is there a terminal at Kaukura Airport?\nA: The airport has a modest terminal facility consistent with its role as a small regional airport serving a remote atoll community.\n\nQ: How far is the airport from Raitahiti village?\nA: The airport is located on Kaukura atoll near the village of Raitahiti, with the short distance typically covered by local transport arrangements.",
+  "transport_tips": "There is no public bus service on Kaukura, so visitors should arrange transportation in advance, typically through their guesthouse or hotel. Rental cars, scooters, and bicycles are commonly available for exploring the narrow atoll road. Taxis and local shuttles usually meet arriving flights, but booking ahead is recommended.",
+  "local_tip": "The runway itself functions as the island's main road and gathering spot, so don't be surprised to see locals walking or cycling across it outside flight times.",
+  "generatedAt": "2026-06-29T15:38:54.393Z",
+  "model": "MiniMax-M3"
+}

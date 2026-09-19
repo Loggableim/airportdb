@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JDG",
+    "icao": "RKPD",
+    "name": "Jeongseok Airport",
+    "country": "South Korea",
+    "city": "Jeju Island",
+    "lat": 33.3996,
+    "lon": 126.712,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Jeongseok Airport (JDG/RKPD) is a regional airport serving the southern portion of Jeju Island, South Korea, including the city of Seogwipo and surrounding areas. It functions as a secondary gateway to Jeju Island, complementing the much larger Jeju International Airport on the island's northern coast. The airport primarily handles domestic flights and is popular with travelers heading directly to Jeju's southern attractions, including Hallasan National Park and coastal scenery.",
+  "faqs": "Q: How does Jeongseok Airport differ from Jeju International Airport?\nA: Jeongseok Airport is smaller and located in the south of Jeju Island near Seogwipo, while Jeju International Airport (CJU) is the island's main hub on the northern coast with far more flights and international service. Jeongseok mainly serves domestic routes.\n\nQ: Which airlines operate at Jeongseok Airport?\nA: Korean domestic carriers, including low-cost airlines, operate flights connecting Jeongseok to mainland South Korean cities such as Seoul and Busan.\n\nQ: Are there international flights from Jeongseok?\nA: No, Jeongseok Airport handles domestic flights only. International travelers should use Jeju International Airport (CJU).\n\nQ: How far is the airport from major Jeju attractions?\nA: It is close to Seogwipo city, Cheonjiyeon Waterfall, and the southern climbing trails of Hallasan Mountain, making it convenient for visitors exploring the island's southern half.\n\n",
+  "transport_tips": "Rental cars are widely available and often the most convenient option, as public transport on Jeju is limited and many scenic spots are spread across the island. Taxi services are available at the terminal but can be costly for longer distances. If continuing to the northern part of Jeju,",
+  "local_tip": "",
+  "generatedAt": "2026-06-26T10:17:16.133Z",
+  "model": "MiniMax-M3"
+}

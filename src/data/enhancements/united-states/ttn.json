@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TTN",
+    "icao": "KTTN",
+    "name": "Trenton Mercer Airport",
+    "country": "United States",
+    "city": "Ewing Township",
+    "lat": 40.2767,
+    "lon": -74.8135,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Trenton Mercer Airport (TTN) is a medium-sized public airport located in Ewing Township, New Jersey, serving the greater Trenton and Princeton region of central New Jersey. Originally developed as a Naval Air Station in the mid-20th century, it now functions as a convenient alternative to the region's larger international gateways. The airport is well positioned for travelers heading to New Jersey's capital, Princeton University, or southern portions of the Philadelphia metropolitan area.",
+  "faqs": "Q: What airlines serve Trenton Mercer Airport?\nA: TTN is primarily served by low-cost carriers, most notably Frontier Airlines, which uses the airport as a focus city for budget-friendly domestic routes. Service offerings have fluctuated over the years based on demand.\n\nQ: How far is TTN from Trenton and Princeton?\nA: The airport is about 8 miles north of downtown Trenton and roughly 12 miles southwest of Princeton, typically a 15 to 25 minute drive depending on traffic.\n\nQ: Is Trenton Mercer Airport a good alternative to Philadelphia or Newark?\nA: Yes, travelers in central New Jersey often prefer TTN for its shorter security lines, easy parking, and quick access compared to Philadelphia International (PHL) or Newark Liberty (EWR), provided the routes they need are offered.\n\nQ: Does the airport have on-site parking?\nA: Yes, TTN offers both short-term and long-term parking lots adjacent to the terminal, generally at lower rates than larger metropolitan airports.",
+  "transport_tips": "Driving is the most practical way to reach TTN; the airport sits just off I-95/I-295, with quick connections from the New Jersey Turnpike and Route 1. Rideshare services like Uber and Lyft are available, while public transit options are limited given the airport's suburban setting. Allowing extra time during rush hour on Route 1 or I-295 is advisable for travelers heading south toward Philadelphia.",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T03:01:19.604Z",
+  "model": "MiniMax-M3"
+}

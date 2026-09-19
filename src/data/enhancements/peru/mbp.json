@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MBP",
+    "icao": "SPBB",
+    "name": "Moyobamba Airport",
+    "country": "Peru",
+    "city": "Moyobamba",
+    "lat": -6.0189,
+    "lon": -76.9883,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Moyobamba Airport (MBP) is a small regional airfield serving Moyobamba, the capital of the San Martín region in northern Peru's high jungle (selva alta). Known as the 'City of Orchids,' Moyobamba sits at approximately 860 meters elevation in the upper Amazon basin and serves as a gateway to cloud forest reserves and archaeological sites. The airport handles limited commercial flights, primarily connecting the region to Lima and other Peruvian destinations.",
+  "faqs": "Q: What airlines fly to Moyobamba Airport?\nA: The airport is primarily served by small domestic carriers operating regional flights, though service schedules can be infrequent. Travelers should confirm current routes directly with airlines as offerings change regularly.\n\nQ: How far is the airport from Moyobamba city center?\nA: The airport is located just a short drive from the city center, typically reachable within 10-15 minutes by taxi or mototaxi.\n\nQ: Does the airport have international flights?\nA: No, Moyobamba Airport handles domestic flights only, with no scheduled international service.\n\nQ: What facilities are available at the terminal?\nA: As a small regional airport, facilities are basic, including a small terminal building with limited amenities. Passengers should arrive with their own snacks and entertainment.\n\n",
+  "transport_tips": "Taxis and mototaxis (three-wheeled motorcycle taxis) are the primary means of transport to and from the airport. Negotiate fares before departing, as there are no official taxi meters at small Peruvian regional airports. Rental cars are generally not available at the airport itself, so arrange ground transport in Moyobamba town if needed.",
+  "local_tip": "If visiting during orchid season (typically October to November), the nearby Tarapoto region hosts orchid festivals worth attending—ask locals about the best day trips combining the airport area with cloud forest excursions to viewpoints like Mirador de Quintecocha.",
+  "generatedAt": "2026-06-28T04:11:21.249Z",
+  "model": "MiniMax-M3"
+}

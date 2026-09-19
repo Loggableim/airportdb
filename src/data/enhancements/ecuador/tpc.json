@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TPC",
+    "icao": "SETR",
+    "name": "Tarapoa Airport",
+    "country": "Ecuador",
+    "city": "Tarapoa",
+    "lat": -0.123,
+    "lon": -76.3378,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Tarapoa Airport (TPC) is a medium-sized airport serving the town of Tarapoa in Ecuador's Sucumbíos Province, located in the country's northeastern Amazon region near the Colombian border. It primarily supports regional connectivity and oil-industry operations, which are vital to the local economy. The airport provides an essential gateway for travelers heading to this remote part of the Oriente.",
+  "faqs": "Q: What is the airport code for Tarapoa Airport?\nA: The IATA code is TPC and the ICAO code is SETR.\n\nQ: Where is Tarapoa Airport located?\nA: It is located in Tarapoa, Sucumbíos Province, in northeastern Ecuador, close to the Colombian border.\n\nQ: What type of flights operate at Tarapoa Airport?\nA: The airport primarily serves regional domestic flights and general aviation, including charter and oil-industry related operations.\n\nQ: Are there international flights from Tarapoa Airport?\nA: No, Tarapoa Airport mainly handles domestic regional flights within Ecuador.\n\n",
+  "transport_tips": "Ground transportation from the airport is typically arranged through local taxis or pre-booked transport, as public transit options are limited. The town of Tarapoa is small and close to the airport, making transfers generally quick. Travelers heading to oil field sites or the Colombian border should arrange transport in advance.",
+  "local_tip": "Pack light and bring rain gear — the Amazon climate is hot and humid year-round, with frequent rainfall that can affect flight schedules and road travel in the area.",
+  "generatedAt": "2026-06-26T13:43:29.224Z",
+  "model": "MiniMax-M3"
+}

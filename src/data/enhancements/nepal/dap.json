@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DAP",
+    "icao": "VNDL",
+    "name": "Darchula Airport",
+    "country": "Nepal",
+    "city": "Darchula",
+    "lat": 29.6686,
+    "lon": 80.5482,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Darchula Airport (DAP/VNDL) is a small domestic airport serving the remote Darchula District in far-western Nepal, near the border with India. It provides vital air connectivity for this mountainous and historically isolated region, where road access can be challenging due to rugged Himalayan terrain. The airport primarily handles short-haul flights connecting the district to other parts of Nepal.",
+  "faqs": "Q: What is Darchula Airport primarily used for?\nA: It serves as a domestic airport connecting the remote Darchula District to other regions of Nepal, primarily for passenger travel.\n\nQ: Are there regular commercial flights to Darchula?\nA: Scheduled flights are limited and can be subject to weather-related disruptions due to the mountainous terrain. Travelers should check current schedules with local carriers.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, facilities are minimal, typically limited to a basic terminal building. Passengers should arrive prepared for limited amenities.\n\nQ: Is the airport safe to fly into?\nA: The airport is served by experienced domestic carriers operating in Nepal's challenging mountain conditions, though flights can be affected by weather and visibility.",
+  "transport_tips": "Getting to and from Darchula Airport typically requires a short local drive, as it is located near the district headquarters. Roads connecting to the airport may be rough, particularly during monsoon season. Travelers often coordinate ground transport locally in advance, as formal taxi services may be limited.",
+  "local_tip": "Pack light and bring snacks and water, as the airport has minimal concessions and flight schedules in this remote region can shift with little notice due to mountain weather conditions.",
+  "generatedAt": "2026-06-27T20:47:04.211Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PHX",
+    "icao": "KPHX",
+    "name": "Phoenix Sky Harbor International Airport",
+    "country": "United States",
+    "city": "Phoenix",
+    "lat": 33.4353,
+    "lon": -112.0059,
+    "type": "large_airport",
+    "size": 1060875
+  },
+  "summary": "Phoenix Sky Harbor International Airport (PHX) is one of the busiest airports in the United States and serves as a major hub for both American Airlines and Southwest Airlines. Located just three miles southeast of downtown Phoenix, it sits in the heart of the Sonoran Desert and operates 24 hours a day. The airport features three terminals connected by the automated PHX Sky Train, serving as the primary gateway to the Phoenix metropolitan area.",
+  "faqs": "Q: How many terminals does Phoenix Sky Harbor have?\nA: PHX currently operates three terminals (Terminal 3, Terminal 4, and the Rental Car Center), with Terminal 4 being the largest. The former Terminal 1 and Terminal 2 were demolished to make way for future expansion.\n\nQ: Is there a way to travel between terminals?\nA: Yes, the PHX Sky Train is a free automated people mover that connects Terminal 3, Terminal 4, the Rental Car Center, and the East Economy parking area, running every few minutes.\n\nQ: How far is the airport from downtown Phoenix?\nA: Phoenix Sky Harbor is approximately 3 miles (5 km) southeast of downtown Phoenix, making it one of the most conveniently located major airports in the country.\n\nQ: What airlines have hubs at PHX?\nA: American Airlines and Southwest Airlines both maintain major hubs at Phoenix Sky Harbor, with Southwest historically operating more flights there than any other airline.",
+  "transport_tips": "The Valley Metro Rail offers a convenient and affordable light rail connection between the airport and downtown Phoenix, with the 44th Street/Washington station serving Terminal 4 via a free shuttle. Rideshare services like Uber and Lyft have designated pickup zones at each terminal, typically requiring a short walk from baggage claim. Taxi stands are also available curbside at all terminals, and rental car facilities are located at the dedicated Rental Car Center accessible via the Sky Train.",
+  "local_tip": "If you have a long layover, consider visiting the Sky Harbor Airport Museum, which has rotating exhibits on Arizona history and aviation displayed throughout the terminals — most travelers don't realize it's there. Also, the airport's air conditioning is notably powerful due to Phoenix's extreme summer heat (often exceeding 110°F/43°C), so keep a light layer handy even when traveling between terminals via the Sky Train.",
+  "generatedAt": "2026-06-28T14:42:40.589Z",
+  "model": "MiniMax-M3"
+}

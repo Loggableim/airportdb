@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MEC",
+    "icao": "SEMT",
+    "name": "Eloy Alfaro International Airport",
+    "country": "Ecuador",
+    "city": "Manta",
+    "lat": -0.9461,
+    "lon": -80.6788,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Eloy Alfaro International Airport (MEC) serves the coastal city of Manta in Ecuador's Manabí Province, one of the country's most important Pacific port cities. Named after the influential Ecuadorian president Eloy Alfaro, the airport provides a key gateway for tourism, business travel, and the region's significant tuna fishing industry. Its proximity to the waterfront and downtown Manta makes it one of the most conveniently located airports in coastal Ecuador.",
+  "faqs": "Q: How far is Eloy Alfaro International Airport from downtown Manta?\nA: The airport is approximately 5 km (3 miles) east of Manta's city center, typically a 10-15 minute drive depending on traffic.\n\nQ: What airlines operate at Manta airport?\nA: The airport is served primarily by domestic Ecuadorian carriers, with regular flights connecting Manta to Quito and Guayaquil.\n\nQ: Does the airport offer international flights?\nA: While officially classified as international, most regular scheduled service is domestic; international charter or seasonal flights have operated historically.\n\nQ: Is the airport open 24 hours?\nA: Operating hours are tied to scheduled flight arrivals and departures, so the terminal is generally only open during flight operation times.",
+  "transport_tips": "Taxis are readily available outside the terminal and offer fixed or metered fares to central Manta and nearby beach areas like Tarqui. Ride-hailing apps have limited coverage in Manta, so arranging a taxi in advance or upon arrival is recommended. If renting a car, booking ahead is advised as on-site rental counters may have limited availability.",
+  "local_tip": "Pack a light layer even in summer—Manta's coastal location means cool ocean breezes in the evenings, especially near the waterfront promenade where the famous fresh ceviche and tuna dishes are served at family-run restaurants.",
+  "generatedAt": "2026-06-29T10:45:19.594Z",
+  "model": "MiniMax-M3"
+}

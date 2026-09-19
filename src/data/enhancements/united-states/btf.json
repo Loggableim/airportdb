@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BTF",
+    "icao": "KBTF",
+    "name": "Skypark Airport",
+    "country": "United States",
+    "city": "Bountiful",
+    "lat": 40.8694,
+    "lon": -111.927,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Skypark Airport is a small general aviation airfield serving Bountiful, a suburb just north of Salt Lake City along Utah's Wasatch Front. It primarily supports recreational flying, flight training, and private aircraft operations, making it a convenient alternative to the larger Salt Lake City International Airport for local pilots. The airport sits near the base of the Wasatch Mountains, offering scenic approaches and easy access to the greater Salt Lake Valley.",
+  "faqs": "Q: What type of airport is Skypark?\nA: Skypark is a small general aviation airport that primarily serves private pilots, flight schools, and recreational aircraft rather than commercial airlines.\n\nQ: Does Skypark Airport offer commercial flights?\nA: No, Skypark does not have scheduled commercial airline service. It is used for private, charter, and training flights.\n\nQ: How close is Skypark to Salt Lake City?\nA: Skypark is located in Bountiful, roughly 10-15 miles north of downtown Salt Lake City, making it a quick drive from the metropolitan area.\n\nQ: Are there flight training schools at Skypark?\nA: Yes, the airport is home to flight training operations and is a popular base for student pilots in the region.",
+  "transport_tips": "The airport is best reached by car, with easy access via Interstate 15 and local Bountiful surface streets. Street parking and small on-site parking areas are typically available for visitors and pilots. Rideshare services and taxis from the Salt Lake City area are options but may have limited availability for such a small facility.",
+  "local_tip": "Frequent visitors recommend checking the winds before flying in—Skypark's proximity to the Wasatch Mountains can create challenging wind conditions, especially during afternoon thermal activity, so early morning arrivals tend to offer the calmest experience.",
+  "generatedAt": "2026-06-27T02:31:17.910Z",
+  "model": "MiniMax-M3"
+}

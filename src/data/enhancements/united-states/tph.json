@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TPH",
+    "icao": "KTPH",
+    "name": "Tonopah Airport",
+    "country": "United States",
+    "city": "Tonopah",
+    "lat": 38.0602,
+    "lon": -117.087,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Tonopah Airport (TPH/KTPH) is a county-owned public-use airport in Nye County, Nevada, located about three miles east of Tonopah's central business district. Situated at roughly 5,430 feet in the high desert between Las Vegas and Reno, it primarily serves general aviation, charter, and military-related traffic rather than scheduled airlines. Its long runway and remote location make it a useful fuel and weather stop for pilots crossing central Nevada.",
+  "faqs": "Q: Does Tonopah Airport have scheduled commercial flights?\nA: No, TPH is primarily a general aviation airport; there is no regular scheduled airline service. Travelers typically connect via Las Vegas or Reno and drive or arrange charter.\n\nQ: What services are available at KTPH?\nA: Expect basic general aviation services such as fuel, tiedowns, and a pilot lounge or terminal area; check current hours and fuel availability before arrival, as staffing may be limited.\n\nQ: How far is the airport from Tonopah?\nA: It is about 3 miles east of downtown Tonopah, roughly a 5- to 10-minute drive by car.\n\nQ: What should pilots know about the airport?\nA: It sits at high elevation, approximately 5,430 feet, so density altitude can affect performance; weather can change quickly in the high desert, and services may be self-serve or limited outside business hours.\n\n",
+  "transport_tips": "The airport is a short drive east of Tonopah via US 6 and US 95; a rental car or pre-arranged shuttle is the most practical way to reach town, as rideshare coverage is sparse. Many visitors drive from Las Vegas in about 3 to 4 hours or from Reno in about 4 hours and use TPH as a fuel or overnight stop. Confirm ground transportation in advance, especially for late arrivals.",
+  "local_tip": "Frequent visitors check NOTAMs and fuel hours before landing because Tonopah's remote location means alternatives are far apart and after-hours services can be limited. Also watch for transient military traffic linked to nearby ranges and be ready for strong high-desert winds.",
+  "generatedAt": "2026-09-19T23:07:11.479Z",
+  "model": "deepseek-v4.1-flash"
+}

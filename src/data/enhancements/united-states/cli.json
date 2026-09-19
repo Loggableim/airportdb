@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CLI",
+    "icao": "KCLI",
+    "name": "Clintonville Municipal Airport",
+    "country": "United States",
+    "city": "Clintonville",
+    "lat": 44.6138,
+    "lon": -88.7313,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Clintonville Municipal Airport is a small general aviation facility serving the city of Clintonville in Waupaca County, Wisconsin. The airport supports local pilot training, recreational flying, and serves as a convenient gateway to northeastern Wisconsin's outdoor recreation areas. Its single runway accommodates primarily single-engine and light twin-engine aircraft.",
+  "faqs": "Q: What is the airport primarily used for?\nA: Clintonville Municipal Airport serves general aviation purposes including private flying, pilot training, and recreational flights, with no scheduled commercial service.\n\nQ: Are there fuel services available?\nA: Yes, the airport typically offers aviation fuel for transient and based pilots, though hours may vary.\n\nQ: How long is the runway?\nA: The airport features a single asphalt runway suitable for small to medium general aviation aircraft.\n\nQ: Is there an on-site restaurant or pilot amenities?\nA: Visitors should check with the airport office for current availability of pilot lounge and other amenities.",
+  "transport_tips": "The airport is located just a short drive from downtown Clintonville, making ground transportation straightforward. Rideshare services may be limited, so arranging a rental car or pre-booked pickup in advance is recommended. Visitors can reach the airport via local roads from Highway 22 or Highway 45.",
+  "local_tip": "Frequent visitors recommend timing flights around the local farmers market schedule in nearby Waupaca, which offers a great taste of the region's agricultural heritage on summer Saturdays.",
+  "generatedAt": "2026-06-27T06:48:04.134Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ICL",
+    "icao": "KICL",
+    "name": "Schenck Field",
+    "country": "United States",
+    "city": "Clarinda",
+    "lat": 40.7218,
+    "lon": -95.0264,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Schenck Field is a small general aviation airport serving Clarinda, a small city in Page County in southwestern Iowa. The airport provides a vital link for the local community, supporting recreational flying, flight training, and occasional business travel for this rural region. As a county-owned facility, it features a single asphalt runway and is operated primarily for the benefit of local pilots and visitors to the area.",
+  "faqs": "Q: What type of airport is Schenck Field?\nA: Schenck Field is a small, publicly owned general aviation airport serving the Clarinda area in southwestern Iowa.\n\nQ: Are there commercial flights available at Schenck Field?\nA: No, Schenck Field does not offer scheduled commercial airline service. It is used primarily for general aviation, private flights, and flight training.\n\nQ: What facilities are available at the airport?\nA: The airport features a single runway suitable for small to medium general aviation aircraft, along with basic amenities typical of a small municipal airfield.\n\nQ: How can pilots get current weather and runway information?\nA: Pilots can obtain current conditions through the FAA, flight service stations, or aviation weather resources using the airport identifier KICL.",
+  "transport_tips": "Clarinda is a small community, so the airport is just a short drive from the town center, typically within a few minutes. Rental cars or local taxi services may be limited, so arranging ground transportation in advance is recommended. Visitors flying in should coordinate pickup or transportation ahead of arrival since the airport has minimal on-site services.",
+  "local_tip": "Clarinda is the birthplace and boyhood home of Meriwether Lewis of the Lewis and Clark Expedition, and the nearby Wabash Trace Nature Trail is a popular hiking and biking route converted from an old railroad corridor—worth exploring if you have downtime during your visit.",
+  "generatedAt": "2026-06-27T04:46:04.903Z",
+  "model": "MiniMax-M3"
+}

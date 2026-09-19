@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MEB",
+    "icao": "YMEN",
+    "name": "Melbourne Essendon Airport",
+    "country": "Australia",
+    "city": "Essendon Fields",
+    "lat": -37.7281,
+    "lon": 144.902,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Melbourne Essendon Airport is a historic general aviation airport located in Essendon Fields, in Melbourne's northern suburbs. Established in the 1920s, it served as Melbourne's primary airport before Tullamarine (Melbourne Airport) opened in 1970. Today it handles charter flights, corporate jets, flight training, and general aviation, and is home to the Australian National Aviation Museum.",
+  "faqs": "Q: How far is Essendon Airport from Melbourne's CBD?\nA: Approximately 11 kilometres north of the central business district, roughly a 20-minute drive depending on traffic.\n\nQ: Does Essendon Airport offer international flights?\nA: No scheduled international services operate here; it primarily handles domestic charter, corporate, and general aviation traffic.\n\nQ: Is there an on-site aviation museum?\nA: Yes, the Australian National Aviation Museum is located at the airport and displays historic aircraft and aviation artifacts.\n\nQ: Can I rent a car at Essendon Airport?\nA: Yes, several car rental companies operate from the airport, along with taxi and rideshare services.\n\n",
+  "transport_tips": "The airport is well connected by the Tullamarine Freeway (M2), making car travel the most convenient option. Melbourne's Skybus operates airport shuttle services that can connect passengers to the CBD. Rideshare options like Uber and local taxis are readily available at the terminal.",
+  "local_tip": "If you have time before your flight, visit the Australian National Aviation Museum on-site to see rare aircraft including a Blackhawk helicopter and a full-size Catalina flying boat replica — it's a hidden gem often missed by casual travelers.",
+  "generatedAt": "2026-06-29T19:04:08.785Z",
+  "model": "MiniMax-M3"
+}

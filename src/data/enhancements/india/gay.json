@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GAY",
+    "icao": "VEGY",
+    "name": "Gaya Airport",
+    "country": "India",
+    "city": "Gaya",
+    "lat": 24.7443,
+    "lon": 84.9512,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Gaya Airport (GAY/VEGY) serves the historic city of Gaya in the Indian state of Bihar, situated near the revered Buddhist pilgrimage site of Bodh Gaya. The airport primarily caters to pilgrims visiting the Mahabodhi Temple, a UNESCO World Heritage Site where the Buddha is said to have attained enlightenment, and also handles visitors to Hindu sacred sites along the Ganges. It operates as a domestic airport with occasional seasonal international charter flights from Buddhist-majority countries in Southeast Asia.",
+  "faqs": "Q: What is the main purpose of Gaya Airport?\nA: Gaya Airport primarily serves Buddhist pilgrims visiting Bodh Gaya, the site of Buddha's enlightenment, as well as Hindu pilgrims visiting Gaya's sacred sites.\n\nQ: Does Gaya Airport have international flights?\nA: The airport mainly handles domestic flights, but seasonal charter flights from countries like Thailand, Myanmar, and Sri Lanka operate during peak pilgrimage periods.\n\nQ: How far is the airport from Bodh Gaya?\nA: Gaya Airport is approximately 7-8 km from Bodh Gaya and about 10 km from Gaya city center, with taxis readily available.\n\nQ: What facilities are available at Gaya Airport?\nA: The airport offers basic amenities including a terminal building, parking, waiting areas, and limited food and beverage options typical of a regional Indian airport.\n\n",
+  "transport_tips": "Pre-paid taxi counters are available inside the terminal and offer fixed rates to both Gaya city and Bodh Gaya, which is more reliable than negotiating with outside drivers. Auto-rickshaws can also be hired from outside the terminal for shorter trips. For larger groups, hiring a car through a hotel arrangement is often more economical than airport taxis.",
+  "local_tip": "Visit the airport during early morning hours for the smoothest experience, as later midday flights often see increased passenger traffic from tour groups arriving for the Buddhist pilgrimage season (October to March).",
+  "generatedAt": "2026-06-29T13:40:31.000Z",
+  "model": "MiniMax-M3"
+}

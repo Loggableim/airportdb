@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DYL",
+    "icao": "KDYL",
+    "name": "Doylestown Airport",
+    "country": "United States",
+    "city": "Doylestown",
+    "lat": 40.333,
+    "lon": -75.1223,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Doylestown Airport (DYL) is a small, public-use general aviation facility located in Bucks County, Pennsylvania, about 35 miles north of Philadelphia. The airport primarily serves private pilots, flight training, and recreational flying in the densely populated suburban corridor between Philadelphia and New York. It features a single asphalt runway and operates without scheduled commercial service, making it a convenient gateway for business and leisure travelers using private aircraft.",
+  "faqs": "Q: Does Doylestown Airport offer commercial flights?\nA: No, DYL is a general aviation airport with no scheduled commercial airline service.\n\nQ: What is the main runway at Doylestown Airport?\nA: The airport has one asphalt runway, designated 5/23, which is approximately 3,000 feet long.\n\nQ: Are flight training services available at DYL?\nA: Yes, the airport is home to flight schools and offers training, aircraft rental, and pilot certifications.\n\nQ: What facilities are available for visiting pilots?\nA: The airport provides fuel services (100LL avgas and Jet A), tie-downs, hangars, and a terminal/FBO for transient pilots.\n\n",
+  "transport_tips": "The airport is located just off Route 202 in Doylestown, making it easily accessible by car from Philadelphia (about 45 minutes) and Trenton (about 30 minutes). Ride-sharing services like Uber and Lyft are available but may have longer wait times than in urban areas, so pre-booking is recommended. Taxis and rental cars can be arranged through local providers, and many visitors coordinate ground transport in advance since the airport does not have on-site rental counters.",
+  "local_tip": "For a truly local experience, stop by one of the nearby Bucks County farms or the historic Mercer Museum in downtown Doylestown after your flight—the area is known for its charming small-town atmosphere, antique shops, and scenic countryside just minutes from the airport.",
+  "generatedAt": "2026-06-27T03:54:08.836Z",
+  "model": "MiniMax-M3"
+}

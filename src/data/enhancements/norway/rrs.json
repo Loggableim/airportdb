@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RRS",
+    "icao": "ENRO",
+    "name": "Røros Airport",
+    "country": "Norway",
+    "city": "Røros",
+    "lat": 62.5784,
+    "lon": 11.3423,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Røros Airport (RRS/ENRO) is a regional Norwegian airport serving the historic mining town of Røros, a UNESCO World Heritage Site renowned for its preserved 17th-century wooden architecture and copper mining heritage. Located on a high plateau in Trøndelag county at roughly 625 meters above sea level, the airport primarily accommodates Widerøe turboprop flights and acts as a key gateway for heritage tourism in central Norway. Its compact single-runway setup handles a modest but steady flow of passengers year-round, with seasonal peaks tied to winter festivals and summer cultural events.\n\n",
+  "faqs": "Q: What airlines operate at Røros Airport?\nA: Widerøe is the primary carrier, operating Dash 8 turboprop flights connecting Røros with Oslo and other Norwegian destinations.\n\nQ: How far is the airport from Røros town center?\nA: The airport is located about 2 km east of the town center, with a short transfer time of roughly 5 minutes by car.\n\nQ: Does Røros Airport have scheduled international flights?\nA: No, the airport handles only domestic Norwegian routes; international travelers typically connect through Oslo Gardermoen.\n\nQ: When is the best time to fly to Røros?\nA: Winter (December–March) is popular for the Røros Winter Market festival, while summer offers long daylight hours for exploring the UNESCO heritage area.\n\n",
+  "transport_tips": "Taxi and pre-booked shuttle services are available at the small terminal and reach the town center in under 10 minutes. Rental cars can be arranged in advance through agencies serving the region, which is useful for exploring surrounding areas like the Dovrefjell mountains. Public bus connections are limited and infrequent, so arranging ground transport ahead of arrival is recommended, especially outside peak summer hours.\n\n",
+  "local_tip": "Pack layered clothing regardless of season—Røros sits on a high inland plateau where winter temperatures can drop below minus 30°C",
+  "generatedAt": "2026-06-29T05:04:35.566Z",
+  "model": "MiniMax-M3"
+}

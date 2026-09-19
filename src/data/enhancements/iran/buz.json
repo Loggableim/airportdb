@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BUZ",
+    "icao": "OIBB",
+    "name": "Bushehr Airport",
+    "country": "Iran",
+    "city": "Bushehr",
+    "lat": 28.9448,
+    "lon": 50.8346,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Bushehr Airport (BUZ/OIBB) is a medium-sized regional airport serving the coastal city of Bushehr in southwestern Iran, situated along the Persian Gulf. The airport primarily handles domestic flights and serves a region known for its strategic port facilities and the Bushehr Nuclear Power Plant. It functions as an important gateway for travelers visiting this historic port city and the surrounding coastal areas.",
+  "faqs": "Q: What is the IATA code for Bushehr Airport?\nA: The IATA code is BUZ, and the ICAO code is OIBB.\n\nQ: Does Bushehr Airport offer international flights?\nA: The airport primarily operates domestic flights, with occasional regional services. Travelers seeking extensive international options typically connect through larger Iranian hubs like Tehran or Isfahan.\n\nQ: What is the airport's distance from the city center?\nA: Bushehr Airport is located a short drive from the city center, generally reachable within 15-20 minutes depending on traffic conditions.\n\nQ: Are there facilities for overnight stays near the airport?\nA: Limited accommodation is available at the airport itself, but several hotels and guesthouses in Bushehr city offer convenient options for travelers with early or late flights.\n\n",
+  "transport_tips": "Taxis are the most common and reliable way to reach Bushehr Airport from the city center, and it's advisable to arrange a return ride in advance, especially for early morning departures. Shared taxis (savari) are also available at lower cost and can be found near the main bus terminal in town. Car rental services are limited, so booking in advance through a local agency is recommended if you plan to drive yourself.",
+  "local_tip": "Bushehr's climate is hot and humid for much of the year, so pack a light jacket for the airport terminal, which tends to be heavily air-conditioned compared to the outside temperature.",
+  "generatedAt": "2026-06-29T12:27:58.241Z",
+  "model": "MiniMax-M3"
+}

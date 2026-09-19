@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VBY",
+    "icao": "ESSV",
+    "name": "Visby Airport",
+    "country": "Sweden",
+    "city": "Visby",
+    "lat": 57.6628,
+    "lon": 18.3462,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Visby Airport (VBY) serves as the main gateway to Gotland, Sweden's largest island in the Baltic Sea. The airport is located about 4 km northeast of the medieval walled town of Visby, a UNESCO World Heritage Site renowned for its well-preserved medieval architecture and historic city wall. The airport sees significant seasonal traffic variation, with summer being peak season as tourists flock to the island's beaches, cultural festivals, and medieval week celebrations.",
+  "faqs": "Q: How far is Visby Airport from the town center?\nA: The airport is approximately 4 km northeast of Visby town center, and a taxi or bus ride typically takes around 10-15 minutes.\n\nQ: Which airlines operate at Visby Airport?\nA: The airport is primarily served by domestic carriers including SAS and BRA, with regular flights mainly to and from Stockholm and other Swedish cities.\n\nQ: Does Visby Airport have international flights?\nA: The airport primarily handles domestic flights, with some seasonal charter services during the summer tourist season.\n\nQ: Is Visby Airport busy year-round?\nA: Traffic is highly seasonal, with summer months seeing significantly more flights and passengers compared to the quieter winter period.",
+  "transport_tips": "Bus service connects the airport to Visby town center, with regular departures timed to match flight schedules. Taxis are readily available outside the terminal and offer a quick way to reach the town or nearby accommodations. Car rental agencies operate at the airport, which is convenient for exploring the rest of Gotland.",
+  "local_tip": "If visiting during summer, book flights and accommodation well in advance as the island fills up quickly, especially during Medieval Week in August when the town comes alive with costumed performers and markets.",
+  "generatedAt": "2026-06-28T20:12:37.984Z",
+  "model": "MiniMax-M3"
+}

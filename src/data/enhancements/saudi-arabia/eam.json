@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EAM",
+    "icao": "OENG",
+    "name": "Najran Domestic Airport",
+    "country": "Saudi Arabia",
+    "city": "Najran",
+    "lat": 17.6114,
+    "lon": 44.4192,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Najran Domestic Airport (EAM) serves the historic city of Najran in southwestern Saudi Arabia, near the Yemeni border. The airport functions as a key regional gateway, connecting this culturally rich oasis city to other major Saudi destinations including Riyadh and Jeddah. It supports both civilian travel and limited general aviation in a region known for its ancient mud-brick architecture and archaeological heritage.",
+  "faqs": "Q: How far is Najran Domestic Airport from the city center?\nA: The airport is located approximately 25 km northeast of downtown Najran, with a typical drive taking around 25-30 minutes depending on traffic.\n\nQ: Which airlines operate from Najran Domestic Airport?\nA: Saudia and flynas are the primary carriers serving scheduled domestic flights to Riyadh and Jeddah.\n\nQ: Does the airport offer international flights?\nA: No, Najran Domestic Airport handles only domestic flights within Saudi Arabia. International travelers typically connect through larger hubs like Riyadh or Jeddah.\n\nQ: Is the airport open 24 hours?\nA: Operating hours generally align with scheduled flight times rather than 24-hour service, so passengers should confirm timings with their airline in advance.\n\n",
+  "transport_tips": "Taxis and ride-hailing apps like Careem and Uber are the most convenient ways to reach the airport from Najran city. Pre-booking a private car is recommended for early morning or late-night flights when taxi availability may be limited. Several local hotels also offer airport shuttle services upon request.",
+  "local_tip": "Visit the nearby Al-Aan Palace ruins and the Najran Museum before or after your flight to experience the region's unique pre-Islamic and Islamic heritage, including artifacts from the ancient Kingdom of Najran.",
+  "generatedAt": "2026-06-29T12:48:02.281Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SCF",
+    "icao": "KSDL",
+    "name": "Scottsdale Airport",
+    "country": "United States",
+    "city": "Scottsdale",
+    "lat": 33.6229,
+    "lon": -111.911,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Scottsdale Airport (SCF/KSDL) is a busy general aviation facility located about 9 miles north of downtown Scottsdale, Arizona, serving as a reliever airport for Phoenix Sky Harbor. It primarily caters to business and private aviation, hosting a high concentration of based jets and serving the affluent Scottsdale community and the adjacent Scottsdale Airpark business district. The airport is owned and operated by the City of Scottsdale and is one of the busiest general aviation airports in the United States by aircraft operations.",
+  "faqs": "Q: Does Scottsdale Airport have commercial airline service?\nA: No, Scottsdale Airport is a general aviation facility with no scheduled commercial flights. It primarily serves private, corporate, and charter aircraft.\n\nQ: How busy is Scottsdale Airport?\nA: It is consistently ranked among the top general aviation airports in the U.S. by number of based aircraft and annual operations, with tens of thousands of takeoffs and landings each year.\n\nQ: Who operates Scottsdale Airport?\nA: The airport is owned and operated by the City of Scottsdale.\n\nQ: What facilities are available at the airport?\nA: Scottsdale Airport offers multiple full-service Fixed-Base Operators (FBOs) providing fuel, hangar space, aircraft maintenance, and concierge services for private and corporate flyers.",
+  "transport_tips": "Ground transportation is typically arranged in advance, as the airport has no commercial transit service. Rental cars, rideshare apps, and pre-booked private car services are the most common options for reaching Scottsdale's resorts, golf courses, and the Airpark business district. The drive to downtown Scottsdale takes roughly 20-25 minutes depending on traffic.",
+  "local_tip": "If you have time before your flight, the Scottsdale Airport has a public observation area with views of the runways and surrounding desert landscape, plus several locally owned restaurants nearby that are popular with pilots and Airpark employees.",
+  "generatedAt": "2026-06-26T23:30:44.207Z",
+  "model": "MiniMax-M3"
+}

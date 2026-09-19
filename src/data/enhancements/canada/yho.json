@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YHO",
+    "icao": "CYHO",
+    "name": "Hopedale Airport",
+    "country": "Canada",
+    "city": "Hopedale",
+    "lat": 55.4488,
+    "lon": -60.2281,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Hopedale Airport (YHO) is a small regional airport serving the remote Inuit community of Hopedale on the northern coast of Labrador, Newfoundland and Labrador, Canada. It provides a vital transportation link for residents of this isolated coastal settlement, which is otherwise accessible mainly by boat or seasonal winter road. The airport primarily handles turboprop aircraft operated by regional carriers connecting to larger hubs like Goose Bay and Happy Valley-Goose Bay.",
+  "faqs": "Q: What airlines fly into Hopedale Airport?\nA: Air Labrador operates scheduled passenger flights to Hopedale, connecting the community primarily with Goose Bay Airport.\n\nQ: Does Hopedale Airport have an instrument landing system?\nA: As a small remote airport, YHO has limited navigation aids, and operations can be affected by Labrador's unpredictable coastal weather and fog.\n\nQ: How long is the runway at Hopedale Airport?\nA: The airport features a single gravel runway suitable for turboprop aircraft serving the local community.\n\nQ: Is there a terminal building at YHO?\nA: The airport has a small terminal building with basic amenities, consistent with its role as a community airport serving modest passenger volumes.",
+  "transport_tips": "There is no public transit serving the airport; arrange ground transportation in advance through your hotel or a local contact in Hopedale. Taxis are the most common option for the short trip into the village, though availability is limited. Given the small size of the airport, plan to arrive well before your flight as check-in processes are straightforward but staff availability may be limited.",
+  "local_tip": "Book accommodations and flights well in advance, especially if traveling in summer when weather is most favorable for flights, as cancellations due to fog and coastal storms are common even during peak season.",
+  "generatedAt": "2026-06-26T15:59:24.059Z",
+  "model": "MiniMax-M3"
+}

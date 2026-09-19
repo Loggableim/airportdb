@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CGE",
+    "icao": "KCGE",
+    "name": "Cambridge Dorchester Airport",
+    "country": "United States",
+    "city": "Cambridge",
+    "lat": 38.5393,
+    "lon": -76.0304,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Cambridge Dorchester Airport is a small public-use general aviation facility serving Cambridge, Maryland, on the state's Eastern Shore near the Chesapeake Bay. The airport primarily supports private aircraft, flight training, and recreational flying for the Dorchester County region. Its modest size and rural setting make it a convenient gateway for visitors exploring Maryland's waterfront communities and Chesapeake Bay attractions.",
+  "faqs": "Q: What type of airport is Cambridge Dorchester Airport?\nA: It is a small general aviation airport serving private, recreational, and training flights rather than scheduled commercial service.\n\nQ: Where is Cambridge Dorchester Airport located?\nA: The airport is situated in Cambridge, Maryland, in Dorchester County, on the Eastern Shore of the Chesapeake Bay.\n\nQ: Does the airport offer commercial airline service?\nA: No, Cambridge Dorchester Airport does not provide scheduled commercial flights; it is used primarily for general aviation purposes.\n\nQ: Are there on-site facilities for pilots and passengers?\nA: The airport typically provides basic amenities such as parking and tie-down areas, though services are limited compared to larger airports.",
+  "transport_tips": "Renting a car is the most practical way to reach the airport, as there is no public transit directly serving the facility and rideshare options may be limited in this rural area. The airport is a short drive from downtown Cambridge and easily accessible via local roads. Visitors should arrange ground transportation in advance, especially since taxi services are sparse in Dorchester County.",
+  "local_tip": "Plan your visit around Cambridge's waterfront dining and historic district tours; the airport's proximity to the Choptank River makes it easy to combine a flight with a sunset harbor cruise or visit to the Harriet Tubman Underground Railroad National Historical Park nearby.",
+  "generatedAt": "2026-06-27T00:57:48.532Z",
+  "model": "MiniMax-M3"
+}

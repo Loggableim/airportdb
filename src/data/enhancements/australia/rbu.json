@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RBU",
+    "icao": "YROE",
+    "name": "Roebourne Airport",
+    "country": "Australia",
+    "city": "Roebourne",
+    "lat": -20.7639,
+    "lon": 117.1552,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Roebourne Airport is a small regional airfield serving the historic Pilbara town of Roebourne in Western Australia's remote northwest. The airport primarily supports charter flights, general aviation, and connections to nearby mining operations in the resource-rich Pilbara region. With limited commercial scheduled service, it functions mainly as a gateway for the local Aboriginal community, government services, and fly-in fly-out workers.",
+  "faqs": "Q: Does Roebourne Airport have scheduled commercial flights?\nA: No, the airport primarily handles charter, private, and general aviation flights, with most travelers using nearby Karratha Airport for scheduled services.\n\nQ: Where is Roebourne located?\nA: Roebourne is in the Pilbara region of Western Australia, approximately 1,550 km north of Perth and about 40 km east of Karratha.\n\nQ: What facilities are available at the airport?\nA: As a small regional airfield, facilities are limited, with basic services catering primarily to general aviation and charter operators.\n\nQ: Is there public transport to the airport?\nA: There is no public transport service directly to the airport; visitors typically require a private vehicle or pre-arranged transport.",
+  "transport_tips": "Most travelers reach Roebourne via Karratha Airport (KTA), which has regular flights from Perth, and then drive approximately 40 km east along the North West Coastal Highway. Rental cars are available in Karratha, though pre-booking is recommended due to limited local supply. Taxi or shuttle services to Roebourne should be arranged in advance as they are not readily available on demand.",
+  "local_tip": "Plan your travel around the extreme Pilbara heat, which can exceed 45°C from October to March, and always carry extra water as services and rest stops between Roebourne and Karratha are sparse.",
+  "generatedAt": "2026-06-27T14:19:10.575Z",
+  "model": "MiniMax-M3"
+}

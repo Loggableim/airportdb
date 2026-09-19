@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MIE",
+    "icao": "KMIE",
+    "name": "Delaware County Johnson Field",
+    "country": "United States",
+    "city": "Muncie",
+    "lat": 40.2423,
+    "lon": -85.3959,
+    "type": "medium_airport",
+    "size": 375
+  },
+  "summary": "Delaware County Johnson Field is a publicly owned general aviation airport serving Muncie, Indiana, and the surrounding East Central Indiana region. Named after a local aviation pioneer, it supports corporate, recreational, and flight training activity and is a key transportation asset near Ball State University. The airfield features multiple runways and modern facilities catering to business jets and private aircraft.",
+  "faqs": "Q: Where is Delaware County Johnson Field located relative to Muncie?\nA: The airport is situated on the northwest side of Muncie, roughly five miles from downtown, making it convenient for travelers heading to Ball State University or the city's industrial corridor.\n\nQ: Does MIE offer commercial airline service?\nA: No, Delaware County Johnson Field is a general aviation airport with no scheduled commercial passenger flights. It primarily serves private, corporate, and flight training operations.\n\nQ: What facilities are available at the airport?\nA: The airport features runways suited for business jets, a fixed-base operator (FBO) with fueling services, aircraft maintenance, hangars, and tie-down parking.\n\nQ: Can flight training be done at MIE?\nA: Yes, the airport hosts flight training operations and is home to aviation education programs associated with local institutions.",
+  "transport_tips": "Renting a car is the most practical option for arriving passengers, as no public transit directly serves the airport. Taxis and rideshare services like Uber and Lyft are available but may have limited availability. The drive to downtown Muncie typically takes 10 to 15 minutes via local roads.",
+  "local_tip": "If visiting Ball State University, ask the FBO staff about the campus-adjacent landing spot used by university athletics recruits and visiting scholars — they often know the quietest times to access the field and can recommend the most efficient route into town.",
+  "generatedAt": "2026-06-30T01:28:44.597Z",
+  "model": "MiniMax-M3"
+}

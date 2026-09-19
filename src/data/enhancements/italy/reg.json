@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "REG",
+    "icao": "LICR",
+    "name": "Reggio Calabria Airport",
+    "country": "Italy",
+    "city": "Reggio Calabria",
+    "lat": 38.0712,
+    "lon": 15.6516,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Reggio Calabria Airport, officially named Aeroporto dello Stretto Tito Minniti, sits on the toe of Italy's boot overlooking the Strait of Messina, serving both Calabria and the neighboring Sicilian city of Messina. Established in the 1930s, it is one of Italy's older airports, and its runway famously extends partly out over the Tyrrhenian Sea, offering dramatic low-altitude views of the strait on takeoff and landing. Despite its medium size and limited route network, it is a strategic gateway for travelers exploring southern Italy's lesser-known coastlines and mountain villages.",
+  "faqs": "Q: How far is the airport from Reggio Calabria city center?\nA: The airport is approximately 4-5 km north of the city center, making it a quick 10-15 minute drive depending on traffic.\n\nQ: Are there direct flights from Reggio Calabria to other Italian cities?\nA: Yes, the airport offers regular domestic connections, primarily to Rome, Milan, and Turin operated by major Italian carriers.\n\nQ: Can I reach Sicily from this airport?\nA: While the airport itself doesn't offer flights to Sicily, ferries from Reggio Calabria's port cross to Messina, and the airport's proximity makes it a convenient entry point for exploring both sides of the strait.\n\nQ: Does the airport have facilities for overnight stays?\nA: Limited hotel options exist near the airport, but most travelers stay in central Reggio Calabria for a wider choice of accommodations.",
+  "transport_tips": "ATAM and private shuttle buses connect the airport to Reggio Calabria's central station and key points in the city, typically timed to flight arrivals. Taxis are readily available outside the terminal and offer a fixed-fare journey into the center, generally completing the trip in under 15 minutes. R",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T08:08:30.115Z",
+  "model": "MiniMax-M3"
+}

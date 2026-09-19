@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SFB",
+    "icao": "KSFB",
+    "name": "Orlando Sanford International Airport",
+    "country": "United States",
+    "city": "Orlando",
+    "lat": 28.7743,
+    "lon": -81.2346,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Orlando Sanford International Airport (SFB) is a popular secondary gateway to Central Florida, located about 30 miles northeast of downtown Orlando in Seminole County. Originally established as a naval air station during World War II, it transitioned to civilian use in the 1970s and now primarily serves low-cost and leisure carriers. It offers a less crowded alternative to Orlando International (MCO), particularly for travelers heading to nearby theme parks and the Space Coast.",
+  "faqs": "Q: How far is Orlando Sanford International Airport from Walt Disney World?\nA: SFB is approximately 45 miles northwest of Walt Disney World, typically a 60-75 minute drive depending on traffic.\n\nQ: Which airlines operate from SFB?\nA: The airport is dominated by Allegiant Air, which uses it as a focus city, along with a few international charter and seasonal carriers.\n\nQ: Does SFB have international flights?\nA: Yes, the airport handles some international and charter flights, with customs and immigration services available.\n\nQ: Is there a military presence at SFB?\nA: While no longer an active naval station, the airport retains ties to its military heritage and shares runway facilities with general aviation and flight training operations.",
+  "transport_tips": "Renting a car is the most flexible option for reaching Orlando attractions, as SFB is located well outside the city center with limited public transit. Several shuttle and bus services, including offerings from major theme park companies, provide direct transfers to area resorts. Ride-share services like Uber and Lyft are available but can be pricier than at MCO due to the distance.",
+  "local_tip": "If you're flying Allegiant, check in online early and download their app—their curbside bag drop at SFB moves fast, but the terminal can get busy during peak morning departures to leisure destinations.",
+  "generatedAt": "2026-06-28T16:33:22.963Z",
+  "model": "MiniMax-M3"
+}

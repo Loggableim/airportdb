@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XLU",
+    "icao": "DFCL",
+    "name": "Leo Airport",
+    "country": "Burkina Faso",
+    "city": "Leo",
+    "lat": 11.1,
+    "lon": -2.1,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Leo Airport is a small regional airfield serving the town of Leo in southern Burkina Faso, near the border with Ghana. The facility supports light aircraft and charter operations primarily serving the local community and surrounding agricultural region. As a modest rural airport with a moderate size score, it functions mainly as a hub for general aviation rather than commercial scheduled service.",
+  "faqs": "Q: Does Leo Airport offer commercial passenger flights?\nA: No regular scheduled commercial service operates from Leo Airport; it primarily handles private, charter, and light general aviation flights.\n\nQ: What is the runway surface like at Leo Airport?\nA: Leo Airport typically features an unpaved or lightly surfaced runway suitable for small propeller aircraft common to West African regional operations.\n\nQ: Are there passenger terminal facilities at Leo Airport?\nA: Facilities are minimal, consistent with a small regional airstrip, offering basic shelter rather than a full commercial terminal.\n\nQ: What is the best way to reach Leo from the airport?\nA: Ground transportation options are limited, so arranging a vehicle in advance through local contacts is recommended for onward travel into Leo town.",
+  "transport_tips": "There is no public transit serving the airport, so travelers should arrange private ground transport in advance. The drive from the airport to central Leo is relatively short, though road conditions may vary by season. Visitors flying in should coordinate pickup with local hosts or charter operators.",
+  "local_tip": "Carry sufficient cash in CFA francs, as ATMs and card payment options are scarce in this part of Burkina Faso, and the airport itself has no banking facilities.",
+  "generatedAt": "2026-06-28T02:27:21.809Z",
+  "model": "MiniMax-M3"
+}

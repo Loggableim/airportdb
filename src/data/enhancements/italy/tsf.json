@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TSF",
+    "icao": "LIPH",
+    "name": "Treviso Airport",
+    "country": "Italy",
+    "city": "Treviso (TV)",
+    "lat": 45.6484,
+    "lon": 12.1944,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Treviso Airport (TSF), officially named Antonio Canova Airport, is located about 3 km southwest of Treviso city center in Italy's Veneto region. It primarily serves as a low-cost carrier hub, particularly for Ryanair, and functions as a convenient alternative gateway to Venice, which lies roughly 30 km to the south. The single-terminal airport handles millions of passengers annually, making it one of northeastern Italy's busiest regional airports.",
+  "faqs": "Q: How do I get from Treviso Airport to Venice?\nA: The ACTT bus line 6 connects the airport to Venice (Piazzale Roma) in about 40-60 minutes, and Ryanair runs dedicated coach services timed to its flights. Trains from Treviso Centrale station, reachable by connecting bus or taxi, also offer a fast route into Venice.\n\nQ: Which airlines fly from Treviso Airport?\nA: Ryanair dominates traffic at TSF with numerous European routes. Other carriers operating seasonal or scheduled service include Wizz Air, Lufthansa, and several leisure/charter airlines.\n\nQ: How far is Treviso Airport from the city center?\nA: The airport is approximately 3 km from Treviso's historic center, easily reachable in 10-15 minutes by taxi, bus, or even on foot via a dedicated cycling-pedestrian path along the Canale dei Fiumicelli.\n\nQ: Does Treviso Airport have its own train station?\nA: No, there is no train station at the airport itself. The nearest railway station is Treviso Centrale, about 5 km away, served by frequent connecting buses.",
+  "transport_tips": "The ACTT Mobilità bus line 6 runs regularly between the airport, Treviso city center, and Venice Piazzale Roma, making it the most economical transfer option. Taxis are readily available outside the terminal and offer fixed rates to Venice and Mestre; booking ahead is recommended during peak hours. If renting a car, the A27 motorway connects directly to the airport, providing quick access to the Dolomites and",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T18:32:10.768Z",
+  "model": "MiniMax-M3"
+}

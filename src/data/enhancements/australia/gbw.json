@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GBW",
+    "icao": "YGIA",
+    "name": "Ginbata Airport",
+    "country": "Australia",
+    "city": "Ginbata",
+    "lat": -22.5812,
+    "lon": 120.0355,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Ginbata Airport is a small regional airfield serving the Pilbara region of Western Australia, supporting mining operations and remote community travel in this arid outback area. The airport primarily facilitates fly-in fly-out (FIFO) workers servicing nearby iron ore mines operated by major resource companies. Its remote location in the rugged Pilbara landscape makes it an important logistical link for the resources sector.",
+  "faqs": "Q: What is Ginbata Airport primarily used for?\nA: The airport mainly supports fly-in fly-out (FIFO) workers traveling to and from nearby mining operations in the Pilbara region.\n\nQ: Are there commercial passenger flights to Ginbata Airport?\nA: Scheduled passenger services are limited; most flights are charter or company-operated shuttles for mining personnel.\n\nQ: Where is Ginbata located?\nA: Ginbata is situated in the Pilbara region of Western Australia, an area known for its iron ore extraction and remote desert terrain.\n\nQ: What facilities are available at the terminal?\nA: As a small regional airfield, facilities are basic, typically limited to a waiting area and check-in services for charter flights.",
+  "transport_tips": "Access to the airport is primarily by company-arranged transport or private vehicle, as public transport options are virtually nonexistent in this remote area. Workers are typically transported directly to and from the airstrip by mine-site buses or shuttles. Visitors should coordinate ground transportation with their employer or sponsoring company well in advance.",
+  "local_tip": "The Pilbara region experiences extreme heat, so even brief waits on the tarmac can be intense—always carry water and sun protection, and expect flight schedules to occasionally shift due to weather conditions common to the area.",
+  "generatedAt": "2026-06-27T09:23:57.858Z",
+  "model": "MiniMax-M3"
+}

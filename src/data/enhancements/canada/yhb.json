@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YHB",
+    "icao": "CYHB",
+    "name": "Hudson Bay Airport",
+    "country": "Canada",
+    "city": "Hudson Bay",
+    "lat": 52.8167,
+    "lon": -102.311,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Hudson Bay Airport (YHB) is a small regional airport serving the town of Hudson Bay in northeastern Saskatchewan, Canada. The facility primarily supports general aviation, charter flights, and limited scheduled service connecting this remote boreal community to larger prairie hubs. Its location places it near the forested lake region that gives the town its name, making it a useful gateway for outdoor tourism and resource industry travel.",
+  "faqs": "Q: Does Hudson Bay Airport have scheduled commercial service?\nA: The airport primarily handles general aviation, charter, and medevac flights, with any scheduled commercial service typically being limited and subject to change. Travelers should check current carriers for up-to-date routes.\n\nQ: What facilities are available at the airport?\nA: As a small community airport, YHB offers basic amenities including a terminal building, parking, and refueling services, but does not provide extensive retail or dining options.\n\nQ: Can private aircraft land at Hudson Bay Airport?\nA: Yes, the airport welcomes private and general aviation aircraft, with pilots encouraged to coordinate arrangements in advance through the local operator or Flight Service Station.\n\nQ: Is the airport used for medical evacuations?\nA: Yes, medevac flights operate from YHB to transport patients to larger medical centers in Saskatoon or Prince Albert for urgent care.",
+  "transport_tips": "Getting to Hudson Bay Airport typically requires a vehicle, as the town has no public transit and taxi service is limited. The airport is located a short drive from the town center along Highway 3. Travelers flying in should arrange ground transportation and accommodations in advance, as options in Hudson Bay are modest.",
+  "local_tip": "Pack a light jacket even in summer—Hudson Bay sits in a transition zone between prairie and boreal forest, so evenings can be surprisingly cool compared to southern Saskatchewan, and mosquitoes near the surrounding lakes can be intense.",
+  "generatedAt": "2026-06-27T09:26:17.900Z",
+  "model": "MiniMax-M3"
+}

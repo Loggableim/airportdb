@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SQV",
+    "icao": "",
+    "name": "Sequim Valley Airport",
+    "country": "United States",
+    "city": "Sequim",
+    "lat": 48.0981,
+    "lon": -123.187,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Sequim Valley Airport (SQV) is a small general aviation airfield serving the Sequim area on Washington's Olympic Peninsula. It caters primarily to private pilots, recreational flyers, and small aircraft operations, with no scheduled commercial service. The airport benefits from Sequim's location in the Olympic Mountain rain shadow, giving the area notably drier weather than surrounding regions.",
+  "faqs": "Q: Does Sequim Valley Airport have commercial airline service?\nA: No, SQV is a general aviation-only facility with no scheduled commercial flights.\n\nQ: What facilities are available at the airport?\nA: The airport features a single runway and basic general aviation amenities suitable for small aircraft, with tie-downs and limited services for private pilots.\n\nQ: Is the airport open to the public?\nA: Yes, Sequim Valley Airport is open to public use, though it is best suited for experienced pilots familiar with small-field operations.\n\nQ: Are there any nearby airports with commercial service?\nA: Yes, the closest airports with commercial service include William R. Fairchild International Airport in Port Angeles and the larger Seattle-Tacoma International Airport across Puget Sound.\n\n",
+  "transport_tips": "Reaching Sequim Valley Airport requires a personal vehicle or taxi, as there is no public transit directly serving the airfield. The airport is a short drive from downtown Sequim via local roads. Rental cars are available in Sequim or nearby Port Angeles for visitors needing transportation.",
+  "local_tip": "Pilots visiting Sequim should take advantage of the area's famously dry microclimate—the Olympic rain shadow means Sequim gets only about 15 inches of rain per year, making it one of the most reliable flying destinations in the Pacific Northwest, especially compared to wetter nearby airports.",
+  "generatedAt": "2026-06-27T05:04:46.116Z",
+  "model": "MiniMax-M3"
+}

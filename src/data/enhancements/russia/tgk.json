@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TGK",
+    "icao": "URRT",
+    "name": "Taganrog Yuzhny Airport",
+    "country": "Russia",
+    "city": "Taganrog",
+    "lat": 47.1983,
+    "lon": 38.8492,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Taganrog Yuzhny Airport (TGK/URRT) is a regional airfield serving the historic port city of Taganrog on the northern shore of Russia's Sea of Azov. The airport primarily handles general aviation, charter operations, and occasional regional flights, supporting a city renowned as the birthplace of writer Anton Chekhov. Located just a few kilometers from the city center, it functions as an important secondary gateway to Rostov Oblast.",
+  "faqs": "Q: What is the main function of Taganrog Yuzhny Airport?\nA: The airport primarily serves regional aviation, general aviation traffic, and occasional charter flights rather than regular commercial passenger service.\n\nQ: How far is the airport from Taganrog city center?\nA: Taganrog Yuzhny Airport is located only a short drive from the city center, making ground transfers quick and straightforward.\n\nQ: Are there scheduled commercial flights from TGK?\nA: Scheduled commercial service is limited or intermittent. Travelers should check current schedules as availability may vary seasonally.\n\nQ: What attractions are near the airport in Taganrog?\nA: The city is famous for the Chekhov Birthplace Museum, the historic city theater, scenic Sea of Azov waterfront, and well-preserved 19th-century architecture.",
+  "transport_tips": "Reaching the airport from central Taganrog typically takes only 15–20 minutes by car or taxi, given its close proximity to the city. Public transport options such as marshrutka (minibus) routes connect various parts of the city to the airport area. Travelers arriving by train from Rostov-on-Don or other regional hubs can take a connecting taxi for the roughly 60 km journey.",
+  "local_tip": "If you have a layover or extra time, visit the Anton Chekhov Birthhouse Museum just a few kilometers from the airport—it's one of southern Russia's most visited literary landmarks and offers a fascinating look at the writer's early life.",
+  "generatedAt": "2026-06-30T00:18:45.481Z",
+  "model": "MiniMax-M3"
+}

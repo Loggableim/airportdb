@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OGG",
+    "icao": "PHOG",
+    "name": "Kahului International Airport",
+    "country": "United States",
+    "city": "Kahului",
+    "lat": 20.8963,
+    "lon": -156.4318,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kahului International Airport (OGG) is the primary commercial airport serving the island of Maui and is the second-busiest airport in Hawaii after Honolulu International Airport. Located on the northern coast of Maui in the town of Kahului, it serves as the main gateway for visitors heading to popular destinations like Wailea, Lahaina, and Kaanapali. The airport's IATA code 'OGG' honors Bertram J. Hogg, a former Hawaii territorial aviation administrator.",
+  "faqs": "Q: How far is Kahului Airport from the major resort areas?\nA: It's about 15-20 minutes (roughly 10 miles) from Paia, 30-40 minutes from Kaanapali and Lahaina, and 25-35 minutes from Wailea depending on traffic.\n\nQ: Does Kahului Airport offer international flights?\nA: Yes, it handles some international and transpacific flights, primarily from Canada and select Asian routes, in addition to extensive domestic mainland and inter-island service.\n\nQ: Are there multiple terminals at OGG?\nA: The airport operates as a single terminal complex with separate areas for inter-island and mainland/international flights, though they are connected.\n\nQ: Can you see the ocean from the airport?\nA: Yes, the airport is located directly on Maui's coastline, and ocean views are visible from many parts of the terminal and runway areas.",
+  "transport_tips": "Rental cars are the most popular option for getting around Maui and all major companies have counters at the airport, though booking in advance is strongly recommended. Taxis and rideshares like Uber and Lyft are available but can be pricier on Maui than the mainland. Many hotels and resorts offer shuttle services, particularly in the Wailea and Kaanapali areas.",
+  "local_tip": "Visit the small but well-curated cultural displays in the main terminal that feature Hawaiian history and Maui-specific exhibits—they're often overlooked by rushing travelers and provide great context before exploring the island.",
+  "generatedAt": "2026-06-28T17:57:50.353Z",
+  "model": "MiniMax-M3"
+}

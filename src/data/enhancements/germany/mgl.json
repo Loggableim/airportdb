@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MGL",
+    "icao": "EDLN",
+    "name": "Mönchengladbach Airport",
+    "country": "Germany",
+    "city": "Mönchengladbach",
+    "lat": 51.2303,
+    "lon": 6.5044,
+    "type": "medium_airport",
+    "size": 575
+  },
+  "summary": "Mönchengladbach Airport (MGL/EDLN) is a regional airfield situated in the Lower Rhine region of North Rhine-Westphalia, serving the city of Mönchengladbach and surrounding areas. The airport primarily caters to general aviation, business flights, and flight training, with occasional seasonal scheduled services. Its proximity to the Dutch border and major cities like Düsseldorf makes it a convenient alternative for private and corporate aviation in the Rhine-Ruhr metropolitan area.",
+  "faqs": "Q: What types of flights operate from Mönchengladbach Airport?\nA: The airport mainly handles general aviation, private and business flights, flight training, and occasional seasonal scheduled services to leisure destinations.\n\nQ: How far is the airport from Mönchengladbach city center?\nA: The airport is located approximately 4 kilometers west of the city center, making it a quick drive.\n\nQ: Does Mönchengladbach Airport have international scheduled flights?\nA: Scheduled international flights are limited; the airport is primarily used for private and charter operations rather than regular commercial routes.\n\nQ: Are there customs and immigration facilities at MGL?\nA: Limited customs services are available upon prior arrangement for international general aviation flights.",
+  "transport_tips": "The airport is best accessed by car, with ample parking available on-site and straightforward connections via the A61 motorway. Public transport options include regional buses connecting to Mönchengladbach Hauptbahnhof, from where trains link to Düsseldorf and other major cities. Taxis from the city center typically take around 10 minutes.",
+  "local_tip": "If you're visiting for flight training or a business meeting, consider stopping by the on-site restaurant or bistro area, which is a popular gathering spot for local pilots and aviation enthusiasts and offers views of the apron activity.",
+  "generatedAt": "2026-06-29T17:24:46.493Z",
+  "model": "MiniMax-M3"
+}

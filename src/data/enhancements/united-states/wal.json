@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WAL",
+    "icao": "KWAL",
+    "name": "Wallops Flight Facility Airport",
+    "country": "United States",
+    "city": "Wallops Island",
+    "lat": 37.9408,
+    "lon": -75.4623,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Wallops Flight Facility Airport (WAL) is a small NASA-operated airfield located on Wallops Island along Virginia's Eastern Shore, primarily supporting the adjacent NASA Goddard Space Flight Center's Wallops Flight Facility. Since 1945, it has served as a key hub for suborbital rocket launches, scientific balloon flights, and aerospace research. The airport plays a vital role in U.S. space and atmospheric science missions while also accommodating limited general aviation traffic.",
+  "faqs": "Q: Who operates Wallops Flight Facility Airport?\nA: The airport is operated by NASA's Goddard Space Flight Center as part of the broader Wallops Flight Facility complex.\n\nQ: Can the public use Wallops Flight Facility Airport?\nA: Public access is limited due to its role as a NASA research installation, but it occasionally hosts visitors for special events like rocket launches and educational programs.\n\nQ: What is the airport best known for?\nA: It is best known as a launch site for sounding rockets, scientific balloons, and small commercial payloads bound for orbit or suborbital trajectories.\n\nQ: Are there regular commercial flights at Wallops?\nA: No, Wallops Flight Facility does not offer scheduled commercial passenger service and is not served by major airlines.",
+  "transport_tips": "The airport is accessible by car via Route 175 from the mainland, with the journey from Salisbury, Maryland taking roughly 45 minutes. There is no public transit directly serving the facility, so arranging a personal or rental vehicle in advance is recommended. Visitors attending rocket launches should check the NASA Wallops website for road closure schedules and viewing area information.",
+  "local_tip": "If you're visiting, check the Wallops Flight Facility visitor center schedule in advance and consider timing your trip around a scheduled rocket launch for a memorable experience you cannot get at most other small airports.",
+  "generatedAt": "2026-06-27T15:15:49.225Z",
+  "model": "MiniMax-M3"
+}

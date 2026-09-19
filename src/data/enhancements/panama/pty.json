@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PTY",
+    "icao": "MPTO",
+    "name": "Tocumen International Airport",
+    "country": "Panama",
+    "city": "Tocumen",
+    "lat": 9.0714,
+    "lon": -79.3835,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Tocumen International Airport is Panama's primary international gateway and the busiest airport in Central America, serving as the main hub for Copa Airlines. Located about 24 kilometers east of Panama City, it connects North, Central, and South America with extensive regional and transcontinental routes. The airport complex includes Terminal 1, Terminal 2 (opened in 2019), and a dedicated cargo terminal, making it one of the most modern facilities in Latin America.",
+  "faqs": "Q: How far is Tocumen International Airport from Panama City center?\nA: The airport is approximately 24 kilometers (15 miles) east of downtown Panama City, typically a 30-45 minute drive depending on traffic.\n\nQ: Is Tocumen Airport a major hub for any airline?\nA: Yes, it serves as the primary hub for Copa Airlines, which uses Panama City as its main connecting point for routes throughout the Americas.\n\nQ: How many terminals does Tocumen Airport have?\nA: The airport has two main passenger terminals (T1 and T2) plus a cargo terminal, with T2 primarily handling Copa Airlines and other Star Alliance carriers.\n\nQ: Does the airport operate 24 hours?\nA: Yes, Tocumen operates around the clock, with many international flights departing and arriving during late-night and early-morning hours.",
+  "transport_tips": "Official yellow taxis from authorized ranks are the most reliable option, though rideshare apps like Uber also serve the airport and often offer better rates. The Panama Metro Line 2 connects to the nearby area, with a planned extension expected to reach the airport in the future. For those with early flights or late arrivals, booking a taxi in advance through your hotel is recommended.",
+  "local_tip": "The airport's duty-free shops near the gates offer excellent prices on Panamanian coffee (geisha variety) and rum, so consider arriving a bit early if you want to browse before boarding.",
+  "generatedAt": "2026-06-28T17:20:23.816Z",
+  "model": "MiniMax-M3"
+}

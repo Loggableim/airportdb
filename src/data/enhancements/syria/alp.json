@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ALP",
+    "icao": "OSAP",
+    "name": "Aleppo International Airport",
+    "country": "Syria",
+    "city": "Aleppo",
+    "lat": 36.1813,
+    "lon": 37.2269,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Aleppo International Airport serves Syria's historic northern commercial capital and was once a key hub for domestic and regional air travel. The airport lies east of the city center and has operated with dual civilian and military functions throughout its history. Operations have been significantly affected by regional conflict, with service levels fluctuating over the years.",
+  "faqs": "Q: Where exactly is Aleppo International Airport located?\nA: The airport is situated approximately 10 kilometers east of Aleppo's city center in northern Syria.\n\nQ: Which airlines operate from ALP?\nA: Syrian Air has historically been the primary carrier, with limited regional and international service depending on current conditions.\n\nQ: Is the airport currently open to international flights?\nA: Commercial operations have been limited due to ongoing regional issues; travelers should verify the latest status with their airline before planning a trip.\n\nQ: Does the airport serve both civilian and military purposes?\nA: Yes, Aleppo International Airport has historically accommodated both civilian commercial flights and military operations.\n\n",
+  "transport_tips": "Taxis and private hire cars are the",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T23:20:25.837Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PSC",
+    "icao": "KPSC",
+    "name": "Tri Cities Airport",
+    "country": "United States",
+    "city": "Pasco",
+    "lat": 46.2647,
+    "lon": -119.119,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tri-Cities Airport (PSC) is a regional airport serving the Tri-Cities metropolitan area in southeastern Washington State, which includes the cities of Pasco, Kennewick, and Richland. Located in the Columbia Basin, the airport provides convenient access to the region's renowned wineries, the Hanford Site, and the Pacific Northwest's outdoor recreation opportunities. It functions as an important gateway for both business travelers connected to the area's nuclear and agricultural industries and tourists exploring the wine country.",
+  "faqs": "Q: What cities does Tri-Cities Airport serve?\nA: The airport serves the Tri-Cities metropolitan area, which includes Pasco, Kennewick, and Richland in southeastern Washington State.\n\nQ: How far is the airport from the Tri-Cities downtown areas?\nA: The airport is located just a few miles from downtown Pasco and approximately 10-15 miles from Kennewick and Richland, accessible via Interstate 182.\n\nQ: What airlines operate at PSC?\nA: Tri-Cities Airport is served by several major regional carriers, including Alaska Airlines, Delta Connection, and United Express, offering connections to hubs like Seattle, Salt Lake City, Denver, and San Francisco.\n\nQ: Does the airport have amenities like food and shops?\nA: Yes, the terminal offers a small selection of restaurants, coffee shops, and convenience stores, along with free Wi-Fi throughout the facility.\n\n",
+  "transport_tips": "The airport is conveniently located just off Interstate 182, making it a quick drive from any of the Tri-Cities. Rental car agencies are available on-site, and rideshare services like Uber and Lyft operate in the area. Taxis and local shuttles are also available outside the terminal for transportation to nearby hotels and cities.",
+  "local_tip": "If you have a short layover or extra time, visit nearby Howard Amon Park in Richland along the Columbia River, or stop by one of the many tasting rooms in the Red Mountain AVA, one of Washington's most acclaimed wine-growing regions, just a short drive from the airport.",
+  "generatedAt": "2026-06-29T03:36:15.328Z",
+  "model": "MiniMax-M3"
+}

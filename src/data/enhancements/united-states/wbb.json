@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WBB",
+    "icao": "",
+    "name": "Stebbins Airport",
+    "country": "United States",
+    "city": "Stebbins",
+    "lat": 63.516,
+    "lon": -162.278,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Stebbins Airport (WBB) is a small public-use airport serving the remote Yup'ik village of Stebbins on the western coast of Alaska, along the Bering Sea's Norton Sound. The airport provides a critical transportation lifeline for the community, as the village is not connected to Alaska's road system. It primarily handles general aviation, mail delivery, and passenger flights connecting residents to larger hubs like Nome and Anchorage.",
+  "faqs": "Q: What is the main purpose of Stebbins Airport?\nA: The airport primarily provides essential passenger, mail, and cargo service to the remote village of Stebbins, connecting it to larger regional hubs in Alaska.\n\nQ: Are there scheduled commercial flights to Stebbins?\nA: Yes, regional bush carriers provide scheduled passenger service, typically using small aircraft suited for short gravel runways.\n\nQ: What is the runway surface like?\nA: The runway is a single gravel strip, which is typical of rural Alaska airports serving small communities.\n\nQ: When is the airport most affected by weather?\nA: Winter storms and coastal fog from the Bering Sea can cause delays and cancellations, particularly from October through April.",
+  "transport_tips": "There are no roads connecting Stebbins to other communities, so air travel is the primary means of access year-round. Travelers should plan for flexible schedules, as weather delays are common. Snowmobiles and ATVs are often used to reach the airport from the village during winter and summer months respectively.",
+  "local_tip": "Pack patience and layer your clothing—Bering Sea weather can shift quickly, and the small terminal offers limited shelter, so travelers frequently wait outside for aircraft arrival announcements.",
+  "generatedAt": "2026-06-26T20:33:24.961Z",
+  "model": "MiniMax-M3"
+}

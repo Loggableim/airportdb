@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MTR",
+    "icao": "SKMR",
+    "name": "Los Garzones Airport",
+    "country": "Colombia",
+    "city": "Montería",
+    "lat": 8.8237,
+    "lon": -75.8258,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Los Garones Airport serves Montería, the capital of Colombia's Córdoba department and a major center for cattle ranching and agriculture in the country's Caribbean region. Located southeast of the city center in the Los Garzones district, it functions as the primary air gateway connecting this northwestern region to Bogotá, Medellín, and other Colombian cities. The airport primarily handles domestic commercial flights and occasional charter operations.",
+  "faqs": "Q: What airlines operate at Los Garzones Airport?\nA: Major Colombian carriers including Avianca, LATAM Colombia, and low-cost airlines like Viva Air and Ultra Air have historically served this airport with domestic routes.\n\nQ: How far is the airport from Montería's city center?\nA: The airport is located approximately 7-10 kilometers southeast of downtown Montería, with typical taxi rides taking 15-20 minutes depending on traffic.\n\nQ: Does the airport have international flights?\nA: No, Los Garzones Airport primarily handles domestic flights. Travelers connecting internationally typically route through Bogotá or Medellín.\n\nQ: Are there ATMs and currency exchange at the airport?\nA: Basic banking services are available, though it's advisable to exchange currency or withdraw Colombian pesos in Montería's city center for better rates.",
+  "transport_tips": "Official airport taxis are recommended over unlicensed drivers for safety and fixed pricing; arrange your return trip through your hotel in advance as ride-hailing apps have limited coverage. Public buses and shared minibuses (colectivos) pass near the airport entrance and offer inexpensive connections to the city center. Car rental agencies operate at the terminal for those planning to explore Córdoba department's surrounding areas.",
+  "local_tip": "Visit during the annual Festival de la Cultura y el Río in late May or early June to experience Montería's vibrant celebration of river culture, traditional music like porro and gaita, and authentic Caribbean Colombian cuisine—the airport gets busy during this period, so book flights and accommodations well in advance.",
+  "generatedAt": "2026-06-29T12:47:30.743Z",
+  "model": "MiniMax-M3"
+}

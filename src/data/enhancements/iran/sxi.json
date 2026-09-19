@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SXI",
+    "icao": "OIBS",
+    "name": "Siri Airport",
+    "country": "Iran",
+    "city": "Siri",
+    "lat": 25.9089,
+    "lon": 54.5394,
+    "type": "medium_airport",
+    "size": 275
+  },
+  "summary": "Siri Airport is a medium-sized airport serving Siri Island, a small island in the Persian Gulf that falls within Iran's Hormozgan Province. The island is primarily known for its offshore oil terminal operations, making the airport an important transport link for energy sector workers visiting the island's petroleum facilities. Due to the island's remote location and geopolitical sensitivities, the airport handles a limited number of scheduled flights, mostly connecting to mainland Iran.",
+  "faqs": "Q: Where is Siri Airport located?\nA: Siri Airport is located on Siri Island in the Persian Gulf, off the southern coast of Iran in the Hormozgan Province.\n\nQ: What is the main purpose of Siri Airport?\nA: The airport primarily serves the offshore oil terminal operations on the island, accommodating energy sector personnel and limited passenger traffic.\n\nQ: Are there regular commercial flights to Siri Airport?\nA: Scheduled flights are limited and infrequent due to the island's small population and specialized industrial use, so travelers should check current schedules in advance.\n\nQ: Is Siri Island accessible to tourists?\nA: Access is restricted due to the island's strategic and industrial importance, so visitors typically require special authorization to travel there.\n\n",
+  "transport_tips": "Reaching Siri Airport requires a connecting flight from mainland Iran, typically via Bandar Abbas or other southern airports serving the Persian Gulf region. Ground transportation on the island is limited, so arranging transfers in advance through your host or employer is advisable. Ferry services between nearby islands occasionally operate but should not be relied upon as a primary transport option.",
+  "local_tip": "Given the island's industrial nature and security restrictions, always carry valid identification and any required permits when traveling through Siri Airport, and coordinate your visit with your sponsoring organization well in advance.",
+  "generatedAt": "2026-06-30T04:44:42.825Z",
+  "model": "MiniMax-M3"
+}

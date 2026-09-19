@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "APC",
+    "icao": "KAPC",
+    "name": "Napa County Airport",
+    "country": "United States",
+    "city": "Napa",
+    "lat": 38.2132,
+    "lon": -122.281,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Napa County Airport (APC) is a general aviation facility located in the heart of California's renowned Napa Valley wine region, approximately three miles south of downtown Napa. It serves as a popular gateway for private and charter flights visiting the area's celebrated vineyards and resorts. The airport is publicly owned by Napa County and functions as a reliever for busy Bay Area airports, accommodating corporate jets and recreational flyers alike.",
+  "faqs": "Q: Does Napa County Airport offer commercial airline service?\nA: No, APC is a general aviation airport and does not provide scheduled commercial passenger service. It primarily handles private aircraft, charter flights, and corporate jets.\n\nQ: How far is the airport from downtown Napa?\nA: The airport is located approximately 3 miles south of downtown Napa, making it a short drive to the city's restaurants, hotels, and tasting rooms.\n\nQ: Are there rental cars available at the airport?\nA: Rental car services are typically available on-site or by arrangement, though options are more limited than at larger commercial airports. Visitors are encouraged to book in advance.\n\nQ: Can I store or fuel my private aircraft there?\nA: Yes, the airport offers aircraft parking, tie-downs, and fueling services for transient and based aircraft through its fixed-base operators.\n\n",
+  "transport_tips": "Rideshare services like Uber and Lyft serve the airport and can be requested via app for trips into Napa or to nearby wine country destinations. Many visitors arrange rental cars in advance, as on-site availability can be limited. Several local hotels and wineries offer private shuttle or car service for guests arriving by private aircraft.",
+  "local_tip": "If you're flying in to explore the wineries, ask your FBO about preferred limo or shuttle partners—many Napa Valley tasting rooms require reservations and can arrange pickup directly from the airport for a seamless wine country experience.",
+  "generatedAt": "2026-06-26T23:30:54.804Z",
+  "model": "MiniMax-M3"
+}

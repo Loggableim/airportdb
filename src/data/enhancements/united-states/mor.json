@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MOR",
+    "icao": "KMOR",
+    "name": "Morristown Regional Airport",
+    "country": "United States",
+    "city": "Morristown",
+    "lat": 36.1794,
+    "lon": -83.3755,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Morristown Regional Airport is a small general aviation airport serving Morristown, Tennessee, located in the northeastern part of the state near the foothills of the Great Smoky Mountains. It primarily supports private, corporate, and recreational aircraft rather than scheduled commercial service. The airport provides a convenient alternative to larger hubs for travelers visiting East Tennessee and the surrounding Appalachian region.",
+  "faqs": "Q: Does Morristown Regional Airport offer commercial flights?\nA: No, MOR is a general aviation airport without scheduled commercial airline service. It primarily serves private pilots, corporate jets, and flight training.\n\nQ: What is the nearest major airport with commercial service?\nA: McGhee Tyson Airport (TYS) in Knoxville is approximately 45 miles southwest, offering the closest commercial airline options to Morristown.\n\nQ: Are there car rental services available at the airport?\nA: Rental car availability is limited at this small airport, so visitors typically arrange rentals in nearby Morristown or coordinate with local providers in advance.\n\nQ: Is the airport open to the public?\nA: Yes, the airport is publicly owned and operated, though it primarily caters to general aviation activities rather than walk-in travelers.",
+  "transport_tips": "Having a personal vehicle is the most practical way to reach and depart from Morristown Regional Airport, as public transportation options are minimal. The airport is located just a few miles south of downtown Morristown, making taxi or rideshare services relatively quick to arrange. Visitors driving in will find straightforward access via local roads connecting to nearby Interstate 81 and US-25E.",
+  "local_tip": "If you're flying in for a visit to the Great Smoky Mountains National Park, this airport puts you about an hour closer to the park's northern entrances than Knoxville, saving significant drive time for a day hike or scenic visit.",
+  "generatedAt": "2026-06-27T06:13:49.096Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SXQ",
+    "icao": "PASX",
+    "name": "Soldotna Airport",
+    "country": "United States",
+    "city": "Soldotna",
+    "lat": 60.4749,
+    "lon": -151.0385,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Soldotna Airport is a general aviation facility on Alaska's Kenai Peninsula, serving the city of Soldotna and surrounding communities. It functions as an important gateway for tourism, particularly sport fishing, flightseeing, and access to remote lodges across the peninsula. The airport also supports regional industries including oil and gas operations and serves as a reliever for general aviation traffic in southcentral Alaska.",
+  "faqs": "Q: Does Soldotna Airport have scheduled commercial airline service?\nA: The airport primarily serves general aviation, air taxi, and small commuter operators rather than large commercial carriers. Travelers typically connect through Anchorage for major airline service.\n\nQ: What is Soldotna Airport best known for?\nA: It is widely used as an access point for world-class sport fishing on the Kenai River, as well as flightseeing, hunting trips, and remote lodge transfers across the Kenai Peninsula.\n\nQ: How far is the airport from downtown Soldotna?\nA: The airport is located just a few miles from the city center, making it a quick drive to hotels, restaurants, and the Kenai River.\n\nQ: Are there rental cars available at the airport?\nA: Rental car services, taxis, and pre-arranged shuttles serve the airport, though advance booking is recommended during the busy summer tourist season.\n\n",
+  "transport_tips": "A rental car is the most convenient way to",
+  "local_tip": "",
+  "generatedAt": "2026-06-26T08:19:01.151Z",
+  "model": "MiniMax-M3"
+}

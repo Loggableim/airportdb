@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OSR",
+    "icao": "LKMT",
+    "name": "Leoš Janáček Airport Ostrava",
+    "country": "Czech Republic",
+    "city": "Mošnov",
+    "lat": 49.6963,
+    "lon": 18.1111,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Leoš Janáček Airport Ostrava (OSR/LKMT) is a modern international airport serving the Ostrava metropolitan area in the northeastern Czech Republic. Named after the renowned Moravian composer Leoš Janáček, it operates from Mošnov and serves as the primary air gateway for the Moravian-Silesian Region. The airport handles scheduled, charter, and cargo flights, supporting both business travel and tourism to the industrial heartland of the country.",
+  "faqs": "Q: How far is the airport from Ostrava city center?\nA: The airport is located in Mošnov, approximately 20 km south of Ostrava's city center, typically a 25-30 minute drive depending on traffic.\n\nQ: Does the airport operate 24 hours?\nA: No, the airport operates during scheduled hours aligned with its flight timetable. It generally handles flights during daytime and early evening hours.\n\nQ: Is there public transportation available to the airport?\nA: Yes, regular bus services connect the airport with Ostrava and nearby towns. Several regional bus lines serve the terminal.\n\nQ: Are there car rental services at the airport?\nA: Yes, multiple car rental agencies have counters in the terminal offering vehicles for exploring the Moravian-Silesian region.",
+  "transport_tips": "The most convenient way to reach the airport is by car via the D1 motorway or Route 58, both of which provide direct access to Mošnov. Taxis and ride-share services are available but should be booked in advance as availability can be limited. Regional bus services offer an affordable alternative, with frequent connections to Ostrava's main transit hubs.",
+  "local_tip": "If you have a longer layover or early arrival, visit the observation area near the terminal where aviation enthusiasts can watch aircraft operations. The surrounding Moravian countryside also features excellent restaurants serving traditional regional cuisine, particularly hearty dishes like 'frgály' and local beers from nearby microbreweries.",
+  "generatedAt": "2026-06-28T21:54:30.558Z",
+  "model": "MiniMax-M3"
+}

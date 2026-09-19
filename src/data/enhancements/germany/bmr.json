@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BMR",
+    "icao": "EDWZ",
+    "name": "Baltrum Airport",
+    "country": "Germany",
+    "city": "Baltrum",
+    "lat": 53.7249,
+    "lon": 7.3733,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Baltrum Airport (BMR/EDWZ) is a tiny airstrip serving the car-free East Frisian Island of Baltrum off Germany's North Sea coast. The airport features a single very short runway and primarily handles small aircraft and seasonal commuter flights connecting the island to the mainland. It functions as a convenient alternative to the ferry from Neßmersiel for travelers visiting this small but popular holiday destination within the Lower Saxon Wadden Sea National Park.",
+  "faqs": "Q: What is Baltrum Airport primarily used for?\nA: The airport mainly serves seasonal passenger flights and small private aircraft transporting visitors to and from the car-free island of Baltrum, a popular destination in the East Frisian Islands.\n\nQ: Are there scheduled commercial flights to Baltrum?\nA: Scheduled services are limited and mostly seasonal, typically operated by small regional carriers during the tourist season. Flight availability should be checked well in advance.\n\nQ: How long is the runway at Baltrum Airport?\nA: The runway is quite short, approximately 500 meters, limiting operations to small propeller aircraft only.\n\nQ: What is the alternative to flying into Baltrum?\nA: Most visitors reach Baltrum via a ferry from Neßmersiel on the German mainland, which is the more common and generally more affordable transport option.",
+  "transport_tips": "Flights to Baltrum typically connect through regional airports on the mainland, with onward transfer required to reach the departure airstrip. Travelers should arrange ground transport to the departure airport in advance, as connecting services can be infrequent. Upon arrival on Baltrum, the entire island is easily walkable or reachable by bicycle, as no cars are permitted.",
+  "local_tip": "Book flights early for the summer season and confirm baggage allowances, as the small aircraft operating into Baltrum have strict weight and size limits for luggage.",
+  "generatedAt": "2026-06-26T20:49:29.406Z",
+  "model": "MiniMax-M3"
+}

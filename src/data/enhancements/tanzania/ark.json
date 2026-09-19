@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ARK",
+    "icao": "HTAR",
+    "name": "Arusha Airport",
+    "country": "Tanzania",
+    "city": "Arusha",
+    "lat": -3.3678,
+    "lon": 36.6333,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Arusha Airport (ARK/HTAR) is a regional airport serving Arusha, a major city in northern Tanzania nestled at the foot of Mount Meru. It functions as a key gateway for travelers heading to the country's renowned northern safari circuit, including the Serengeti, Ngorongoro Crater, Tarangire, and Lake Manyara national parks. The airport primarily handles domestic and charter flights catering to the region's thriving tourism industry.",
+  "faqs": "Q: What is Arusha Airport primarily used for?\nA: It mainly serves domestic and charter flights, acting as a convenient entry point for tourists visiting northern Tanzania's national parks and safari destinations.\n\nQ: How far is Arusha Airport from the city center?\nA: The airport is located just a few kilometers from central Arusha, making it a quick drive into town.\n\nQ: Are there international flights at Arusha Airport?\nA: Most international travelers fly into Julius Nyerere International Airport in Dar es Salaam or Kilimanjaro International Airport, then connect to Arusha via domestic flight or ground transfer.\n\nQ: What facilities are available at the airport?\nA: The terminal offers basic amenities including a small waiting area, check-in counters, and a café. Facilities are modest compared to larger international airports.",
+  "transport_tips": "Taxis and pre-arranged hotel shuttles are the most common ways to reach Arusha town center or nearby lodges from the airport. Many safari operators include airport pickup as part of their package, so coordinating transfers in advance is recommended. The short distance to the city means journey times are typically under 20 minutes depending on traffic.",
+  "local_tip": "Pack a light jacket even during warm months—Arusha's elevation near Mount Meru means temperatures can drop surprisingly cool in the early mornings and evenings, and the airport terminal can feel chilly before sunrise flights.",
+  "generatedAt": "2026-06-29T07:22:38.231Z",
+  "model": "MiniMax-M3"
+}

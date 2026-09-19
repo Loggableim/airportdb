@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KWN",
+    "icao": "PAQH",
+    "name": "Quinhagak Airport",
+    "country": "United States",
+    "city": "Quinhagak",
+    "lat": 59.7551,
+    "lon": -161.845,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Quinhagak Airport is a small public-use airport serving the remote Yup'ik village of Quinhagak on the Kanektok River in southwestern Alaska's Yukon-Kuskokwim Delta. The village sits near the Bering Sea coast and is accessible only by air and seasonal waterway, making the airport a vital lifeline for passenger travel, mail, and cargo. The facility supports scheduled regional flights connecting the community to Bethel and onward to Anchorage.",
+  "faqs": "Q: How do you get to Quinhagak Airport?\nA: Travelers typically fly from Bethel on a small regional carrier, as the village has no road connection to the rest of Alaska.\n\nQ: Are there car rentals available at Quinhagak Airport?\nA: No, car rentals are not available. The village is small enough to walk or use local ATV transportation.\n\nQ: When is the airport most affected by weather delays?\nA: Winter months frequently bring low visibility, freezing fog, and whiteout conditions that can delay or cancel flights.\n\nQ: Does Quinhagak Airport have a terminal building?\nA: The airport has a small, basic terminal suited to the low volume of regional traffic serving the community.",
+  "transport_tips": "The village has no road access, so arriving passengers arrange pickup in advance with a local resident, lodge, or use the community's informal taxi services. ATVs are the primary mode of local transport in Quinhagak. Expect luggage to be hand-loaded onto small aircraft, so pack light and use soft-sided bags when possible.",
+  "local_tip": "Weather in the delta can change rapidly, so build a buffer day into your itinerary around scheduled flights—being stuck an extra night in Bethel is common during the winter months.",
+  "generatedAt": "2026-06-26T21:42:28.573Z",
+  "model": "MiniMax-M3"
+}

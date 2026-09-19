@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XQP",
+    "icao": "MRQP",
+    "name": "Quepos Managua Airport",
+    "country": "Costa Rica",
+    "city": "Quepos",
+    "lat": 9.4432,
+    "lon": -84.1298,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Quepos Managua Airport (XQP) is a small but vital domestic gateway on Costa Rica's central Pacific coast, serving as the primary air link for travelers heading to Manuel Antonio National Park, one of the country's most visited wildlife reserves. The airport handles short-haul flights mainly from San José and offers a quick alternative to the winding coastal drive. Its open-air terminal and jungle-adjacent runway make arrivals feel distinctly tropical.",
+  "faqs": "Q: Which airlines fly into Quepos Managua Airport?\nA: The airport is primarily served by domestic carriers offering short flights from San José (Juan Santamaría and Tobías Bolaños airports), including Nature Air and Sansa Regional.\n\nQ: How far is the airport from Manuel Antonio National Park?\nA: The park entrance is roughly 15-20 minutes by road, with the airport located just outside Quepos town.\n\nQ: Are there international flights at XQP?\nA: No, XQP is a domestic-only airport; international travelers must first arrive at San José and connect on a regional flight.\n\nQ: Is the airport open at night?\nA: Operations are limited to daylight hours due to the short, unpaved-feel runway and minimal lighting infrastructure.",
+  "transport_tips": "Taxis and pre-arranged shared shuttles are the most common options and meet every arriving flight, with fares to Manuel Antonio hotels typically ranging from $15 to $30 USD. Rental cars are available at the terminal and are useful for exploring nearby beaches and the coastal highway south toward Dominical. Road conditions are paved but winding, so allow extra time if driving after dark.",
+  "local_tip": "Pack your swimsuit in your carry-on—Marina Pez Vela beach and the quepos waterfront are just a five-minute drive from the terminal, perfect for a quick dip before or after your flight.",
+  "generatedAt": "2026-06-29T09:56:18.815Z",
+  "model": "MiniMax-M3"
+}

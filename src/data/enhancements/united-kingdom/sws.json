@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SWS",
+    "icao": "EGFH",
+    "name": "Swansea Airport",
+    "country": "United Kingdom",
+    "city": "Swansea",
+    "lat": 51.6014,
+    "lon": -4.071,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Swansea Airport (SWS) is a medium-sized regional airport situated in Fairwood Common, approximately 6 miles west of Swansea city centre in South Wales. Originally established as a Royal Air Force station during World War II, it transitioned to civilian use and has since served general aviation, charter flights, and occasional scheduled services. The airport sits along the scenic Gower Peninsula approach, offering one of the most visually striking landings in the UK.",
+  "faqs": "Q: How far is Swansea Airport from the city centre?\nA: The airport is located roughly 6 miles (10 km) west of Swansea city centre, typically a 15-20 minute drive depending on traffic.\n\nQ: Does Swansea Airport offer scheduled commercial flights?\nA: Scheduled commercial services have been intermittent over the years. Passengers should check current airline listings as routes vary. The airport primarily serves general aviation, business jets, and charter operations.\n\nQ: Is there public transport access to the airport?\nA: There is no direct rail link; however, local bus services connect nearby Fairwood with Swansea. Many travellers opt for taxi or private transfer due to limited public transport options.\n\nQ: What facilities are available at the terminal?\nA: The terminal is modest, offering basic amenities including a small café, car hire desks, and a passenger waiting area suitable for the airport's general aviation focus.",
+  "transport_tips": "Taxis from Swansea city centre typically cost £15-£25 and take around 20 minutes. Renting a car is recommended for exploring the Gower Peninsula and broader South Wales region. Travellers flying private or charter aircraft can arrange direct apron access through their operator or FBO.",
+  "local_tip": "If you have time before your flight, take a short drive east to the Gower Peninsula—the UK's first designated Area of Outstanding Natural Beauty—where Rhossili Bay offers some of the most spectacular coastal views in Britain.",
+  "generatedAt": "2026-06-26T09:21:00.981Z",
+  "model": "MiniMax-M3"
+}

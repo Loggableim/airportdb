@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YKN",
+    "icao": "KYKN",
+    "name": "Chan Gurney Municipal Airport",
+    "country": "United States",
+    "city": "Yankton",
+    "lat": 42.9167,
+    "lon": -97.3859,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Chan Gurney Municipal Airport serves the city of Yankton in southeastern South Dakota, situated along the Missouri River near the Nebraska border. The airport is a general aviation facility supporting private, recreational, and business flights for the region. It provides a convenient alternative to larger commercial airports in nearby Sioux Falls and Omaha.",
+  "faqs": "Q: Does Chan Gurney Municipal Airport offer commercial airline service?\nA: The airport primarily serves general aviation and does not host scheduled commercial passenger service; travelers typically use Sioux Falls Regional Airport for commercial flights.\n\nQ: What facilities are available at YKN?\nA: The airport features runways suitable for small to mid-size aircraft, fueling services, and hangar space for based aircraft.\n\nQ: Is there an on-site restaurant or amenities?\nA: Amenities are limited at this general aviation facility; visitors should plan to bring essentials as on-site concessions may be minimal.\n\nQ: Can pilots use the airport for overnight stays?\nA: Transient pilots should coordinate arrangements in advance, as services and crew accommodations are typical of a smaller municipal field.",
+  "transport_tips": "The airport is located just a few miles north of Yankton's city center, making it a quick drive by rental car or taxi. Public transportation options to the airport are limited, so arranging a personal vehicle in advance is advisable. Visitors driving in will find straightforward access via US Highway 81.",
+  "local_tip": "Visit nearby Meridian Bridge, a historic double-decker truss bridge crossing the Missouri River, which was once the longest of its type in the United States and offers panoramic views of the river valley.",
+  "generatedAt": "2026-06-30T03:10:06.081Z",
+  "model": "MiniMax-M3"
+}

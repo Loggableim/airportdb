@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PDL",
+    "icao": "LPPD",
+    "name": "João Paulo II Airport",
+    "country": "Portugal",
+    "city": "Ponta Delgada",
+    "lat": 37.7412,
+    "lon": -25.6979,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "João Paulo II Airport (PDL) serves Ponta Delgada on São Miguel Island in the Azores archipelago, Portugal. Named after Pope John Paul II, who visited the islands in 1991, it is the busiest airport in the Azores and a key gateway between mainland Portugal, Europe, and North America. The single-terminal facility handles both inter-island flights and transatlantic connections.",
+  "faqs": "Q: How far is João Paulo II Airport from Ponta Delgada city center?\nA: The airport is approximately 3 km (1.9 miles) west of the city center, reachable in about 10 minutes by car.\n\nQ: Which airlines operate from PDL?\nA: SATA Air Açores, TAP Air Portugal, Ryanair, easyJet, and Azores Airlines are among the carriers serving the airport, with connections to Lisbon, Porto, the other Azorean islands, and several European cities.\n\nQ: Does the airport have facilities for inter-island flights?\nA: Yes, PDL is the main hub for inter-island connections throughout the Azores, with frequent short flights to other islands like Terceira, Faial, and Flores.\n\nQ: Is there a tourist information desk at the airport?\nA: Yes, a tourist information point is typically available in the arrivals hall to assist visitors with local accommodations and excursions.\n\n",
+  "transport_tips": "Taxis and rideshares are readily available outside the terminal and offer a quick 10-minute ride into Ponta Delgada. Buses operated by the regional transport company also connect the airport to the city center on a regular schedule. Rental car agencies are well represented at the airport, which is recommended for travelers planning to explore São Miguel's scenic roads.",
+  "local_tip": "If you have a few hours to spare between flights, the seafront promenade and historic Portas da Cidade gates in central Ponta Delgada are only a short taxi ride away and make for a rewarding quick visit to soak in the island's charm.",
+  "generatedAt": "2026-06-28T19:03:24.427Z",
+  "model": "MiniMax-M3"
+}

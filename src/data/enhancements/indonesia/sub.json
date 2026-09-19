@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SUB",
+    "icao": "WARR",
+    "name": "Juanda International Airport",
+    "country": "Indonesia",
+    "city": "Surabaya",
+    "lat": -7.3798,
+    "lon": 112.787,
+    "type": "large_airport",
+    "size": 51150
+  },
+  "summary": "Juanda International Airport (SUB) is the main aviation gateway to Surabaya, Indonesia's second-largest city and the capital of East Java. Situated on the eastern edge of the city along the Madura Strait, it serves as a key hub for domestic travel across the Indonesian archipelago and offers connections to several international destinations in Asia and the Middle East. The airport's strategic location makes it a common departure point for travelers exploring eastern Indonesia, including Bali and the surrounding islands.",
+  "faqs": "Q: What is the distance from Juanda Airport to Surabaya city center?\nA: The airport is located approximately 15-20 km east of central Surabaya, with travel times varying from 30 minutes to over an hour depending on traffic conditions.\n\nQ: Does Juanda International Airport offer international flights?\nA: Yes, the airport handles international flights to destinations across Asia and the Middle East, including Singapore, Kuala Lumpur, Hong Kong, and Jeddah, alongside its extensive domestic network.\n\nQ: How many terminals does Juanda Airport have?\nA: The airport operates two main terminals, with Terminal 1 primarily serving domestic flights and Terminal 2 handling both domestic and international operations.\n\nQ: Is there Wi-Fi available at the airport?\nA: Free Wi-Fi is available throughout the terminals, though connection speeds can vary during peak travel periods.",
+  "transport_tips": "",
+  "local_tip": "If you have a layover or early arrival, the nearby seafood restaurants along the coastal road to the airport are known for fresh catches and offer a more authentic East Javanese",
+  "generatedAt": "2026-06-28T15:57:41.990Z",
+  "model": "MiniMax-M3"
+}

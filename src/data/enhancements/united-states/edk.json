@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EDK",
+    "icao": "KEQA",
+    "name": "Captain Jack Thomas El Dorado Airport",
+    "country": "United States",
+    "city": "El Dorado",
+    "lat": 37.7741,
+    "lon": -96.8176,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Captain Jack Thomas El Dorado Airport (EDK/KEQA) is a small general aviation airport serving El Dorado, a city in Butler County, south-central Kansas. The facility honors Captain Jack Thomas, a local aviation figure, and primarily supports private pilots, recreational flying, and local business travel. Its convenient location near the Flint Hills makes it a useful gateway for visitors exploring the region’s oil heritage and prairie landscapes.",
+  "faqs": "Q: What type of airport is EDK?\nA: EDK is a small general aviation airport, primarily serving private and recreational flights rather than commercial airline service.\n\nQ: Are there commercial flights available at Captain Jack Thomas El Dorado Airport?\nA: No, this airport does not offer scheduled commercial airline service. Travelers typically use nearby larger airports for commercial flights.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic general aviation amenities including a runway, tie-down areas, and limited pilot services typical of small municipal airports.\n\nQ: Can aircraft be chartered from this airport?\nA: Private charters and air taxi services may be arranged through local operators or fixed-base operators serving the field.",
+  "transport_tips": "The airport is located just a few miles from downtown El Dorado, making it a quick drive via local roads. Rental cars are the most convenient option for onward travel, as public transportation options in the area are limited. Visitors flying in should coordinate ground transportation in advance, as taxi and rideshare availability is sparse.",
+  "local_tip": "When visiting El Dorado, take a short drive to the historic Kansas Oil Museum—it offers a fascinating look at the region’s role in the early petroleum boom and is a favorite stop for pilots stopping over at EDK.",
+  "generatedAt": "2026-06-27T02:44:49.912Z",
+  "model": "MiniMax-M3"
+}

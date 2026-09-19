@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LGB",
+    "icao": "KLGB",
+    "name": "Long Beach International Airport",
+    "country": "United States",
+    "city": "Long Beach",
+    "lat": 33.8165,
+    "lon": -118.1499,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Long Beach International Airport (LGB) is a publicly owned airport located about 5 miles northeast of downtown Long Beach, California, in the greater Los Angeles metropolitan area. Historically significant as the former home of Douglas Aircraft Company and the long-time residence of Howard Hughes' famous Spruce Goose flying boat, the airport today primarily serves as a JetBlue Airways focus city. Despite its 'international' designation, scheduled flights are predominantly domestic, and the airport is known for its short, convenient layout that allows passengers to move quickly between check-in and gates.",
+  "faqs": "Q: What airlines operate from Long Beach Airport?\nA: JetBlue Airways is the dominant carrier at LGB, operating most of its flights. Other carriers include Southwest, Delta, and Hawaiian Airlines, offering nonstop service to numerous U.S. cities.\n\nQ: Does Long Beach Airport have international flights?\nA: Despite its name, LGB currently offers only domestic scheduled passenger service, though it is officially designated as an international airport.\n\nQ: How far is the airport from downtown Long Beach?\nA: The airport is approximately 5 miles (8 km) northeast of downtown Long Beach, typically a 10-15 minute drive depending on traffic.\n\nQ: What is Long Beach Airport historically known for?\nA: The airport was the original home of Douglas Aircraft Company, one of the most important aircraft manufacturers in American history, and housed Howard Hughes' famous Spruce Goose (H-4 Hercules) for decades.\n\n",
+  "transport_tips": "The airport is conveniently located near Interstate 405, making it accessible by car from Los Angeles, Orange County, and the South Bay. Long Beach Transit offers local bus service, and taxis, rideshares (Uber and Lyft), and rental cars are available curbside. Parking is generally easier and cheaper than at LAX, with several on-site lots and a nearby economy parking option.",
+  "local_tip": "Visit the Long Beach Airport Historic Plaque near the terminal, which commemorates the airport's aviation heritage, including its role as the birthplace of the DC-3 and home of the Spruce Goose—and then take the short drive to the Aquarium of the Pacific on Rainbow Harbor, one of Southern California's most underrated attractions.",
+  "generatedAt": "2026-06-28T18:11:42.388Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PGV",
+    "icao": "KPGV",
+    "name": "Pitt-Greenville Airport",
+    "country": "United States",
+    "city": "Greenville",
+    "lat": 35.6355,
+    "lon": -77.3843,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Pitt-Greenville Airport (PGV) is a public-use regional airport serving Greenville, North Carolina, and the surrounding Pitt County area in the state's eastern coastal plain. It supports general aviation, flight training, and limited commercial service, playing a key role for business and leisure travel in a region anchored by East Carolina University. The airport offers a convenient alternative to the larger Piedmont Triad or Raleigh-Durham airports for travelers in eastern North Carolina.",
+  "faqs": "Q: Does Pitt-Greenville Airport offer commercial airline service?\nA: Yes, the airport has historically offered regional commercial service, though flight options are limited compared to larger North Carolina airports. Check current schedules for the latest carrier and route information.\n\nQ: What facilities are available at PGV?\nA: The airport provides standard regional terminal amenities including car rental services, parking, and basic passenger services. It also supports general aviation with FBO services for private and charter aircraft.\n\nQ: How far is the airport from downtown Greenville?\nA: The airport is conveniently located a short drive from downtown Greenville, East Carolina University's campus, and Pitt County's main business districts, typically within a 10-15 minute drive.\n\nQ: Can pilots rent aircraft or get flight training at PGV?\nA: Yes, the airport supports general aviation operations and is known to host flight training activities and aircraft rental through on-site operators.",
+  "transport_tips": "Rental cars are available on-site and are the most practical option for getting to and from Pitt-Greenville Airport, as the facility is located outside the main urban transit network. Taxi and rideshare services such as Uber and Lyft do serve the airport but availability may be limited, so advance booking is recommended. Ample parking is available for both short-term and long-term stays near the terminal.",
+  "local_tip": "If you have time before your flight, the airport's location makes it a quick drive to ECU's campus and downtown Greenville's restaurants—consider arriving a bit early to enjoy a meal at a local spot rather than rushing from the city.",
+  "generatedAt": "2026-06-29T18:49:08.369Z",
+  "model": "MiniMax-M3"
+}

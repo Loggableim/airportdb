@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ARW",
+    "icao": "LRAR",
+    "name": "Arad International Airport",
+    "country": "Romania",
+    "city": "Arad",
+    "lat": 46.1761,
+    "lon": 21.2643,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Arad International Airport (ARW) is a medium-sized regional airport serving the city of Arad in western Romania's historical Banat region, close to the Hungarian and Serbian borders. It operates as both a civilian and military airfield, with its military heritage dating back decades. The airport primarily handles seasonal charter flights and low-cost scheduled services, serving as an alternative entry point to western Transylvania and the broader Banat area.",
+  "faqs": "Q: How far is the airport from Arad city center?\nA: The airport is located approximately 4 km west of Arad's city center, making it a quick 10-15 minute drive.\n\nQ: Are there direct flights from Arad to other European cities?\nA: Arad has limited scheduled service, primarily seasonal and charter flights, with connections varying by season. Bucharest and select other destinations are typically available.\n\nQ: Does the airport operate 24 hours?\nA: No, the airport operates during scheduled flight hours only. Passengers should confirm operating times with their airline before traveling.\n\nQ: Is there a duty-free shop at the airport?\nA: Given the airport's small size, retail and dining options are limited compared to major hubs, with services available mainly during active flight periods.\n\n",
+  "transport_tips": "The most convenient way to reach the city center is by taxi, which typically costs around 20-30 Romanian Lei for the short journey. Local bus routes also connect the airport to Arad's main areas, though schedules may be infrequent. Renting a car is a good option for travelers planning to explore the wider Banat region or cross into Hungary or Serbia.",
+  "local_tip": "If you have a long wait between flights, head into Arad's old town to visit the stunning Art Nouveau-style buildings along Bulevardul Revolutiei, which is a 10-minute taxi ride and offers excellent cafes and restaurants.",
+  "generatedAt": "2026-06-29T12:13:22.991Z",
+  "model": "MiniMax-M3"
+}

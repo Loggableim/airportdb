@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OSI",
+    "icao": "LDOS",
+    "name": "Osijek Airport",
+    "country": "Croatia",
+    "city": "Osijek(Klisa)",
+    "lat": 45.4624,
+    "lon": 18.8113,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Osijek Airport (OSI/LDOS) is a regional airport serving Osijek, the largest city in Croatia's eastern Slavonia region. Located in the village of Klisa about 20 km southeast of the city center, it functions as the main air gateway for eastern Croatia, supporting both scheduled services and general aviation. The airport has historically been linked to Croatia Airlines flights to Zagreb and has hosted low-cost carriers serving seasonal routes.",
+  "faqs": "Q: How far is Osijek Airport from the city center?\nA: The airport is approximately 20 km southeast of Osijek, near the village of Klisa, with a drive time of around 25-30 minutes depending on traffic.\n\nQ: Which airlines fly from Osijek Airport?\nA: Scheduled service has historically been provided by Croatia Airlines, with seasonal and occasional routes operated by low-cost carriers. Flight availability varies, so checking current schedules is recommended.\n\nQ: Does the airport have customs and immigration facilities?\nA: As an international airport with a passport control, OSI can handle flights to and from Schengen and non-Schengen destinations.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers on-site parking close to the terminal building for short and long-term stays.",
+  "transport_tips": "Taxis and pre-booked shuttle services are the most common ways to reach Osijek from the airport, with fares typically costing around 25-35 EUR for the 20 km journey. Renting a car at the airport is also an option for travelers exploring the wider Slavonia region. Public bus connections are limited, so arranging ground transport in advance is advisable.",
+  "local_tip": "If you have a long layover or a delayed flight, ask staff about visiting the nearby Kopački Rit Nature Park, one of Europe's largest preserved wetland areas and a hidden gem of the region, just a short drive from the airport.",
+  "generatedAt": "2026-06-29T20:31:37.688Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LIL",
+    "icao": "LFQQ",
+    "name": "Lille Airport",
+    "country": "France",
+    "city": "Lesquin",
+    "lat": 50.5666,
+    "lon": 3.1024,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Lille Airport serves the Hauts-de-France region in northern France, situated near the Belgian border. Originally developed from a former military airfield, it provides convenient access to Lille, one of France's major cultural and economic centers. The airport offers a more relaxed alternative to the busier Paris hubs for travelers heading to the region or crossing into Belgium.",
+  "faqs": "Q: How far is Lille Airport from the city center?\nA: Lille Airport is located approximately 7-8 km southeast of Lille's city center in the commune of Lesquin, typically a 15-20 minute drive.\n\nQ: What transportation options are available from the airport?\nA: Travelers can reach Lille via shuttle buses, taxis, and rental cars. The airport is well-connected by road to the A1 motorway.\n\n",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T19:53:11.261Z",
+  "model": "MiniMax-M3"
+}

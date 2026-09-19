@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YSV",
+    "icao": "",
+    "name": "Saglek Airport",
+    "country": "Canada",
+    "city": "Saglek",
+    "lat": 58.4743,
+    "lon": -62.654,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Saglek Airport (YSV) is a small remote airfield situated in the far north of Labrador, Canada, within the rugged Torngat Mountains region. It primarily serves the small Inuit community of Saglek and supports charter flights, general aviation, and occasional logistical operations. The surrounding landscape features dramatic Arctic terrain, making it one of the more isolated airports in eastern Canada.",
+  "faqs": "Q: Where is Saglek Airport located?\nA: Saglek Airport is located in northern Labrador, Canada, near the small Inuit settlement of Saglek and the Torngat Mountains National Park area.\n\nQ: What type of airport is Saglek?\nA: It is a small regional airport primarily handling general aviation and charter flights, with no scheduled commercial passenger service.\n\nQ: Who typically uses Saglek Airport?\nA: The airport is used by local residents, charter operators, researchers, park visitors, and occasional government or military flights.\n\nQ: What are the weather conditions like at Saglek?\nA: The airport experiences harsh subarctic conditions with long, cold winters, strong winds, and limited daylight in winter months, which can affect flight operations.\n\n",
+  "transport_tips": "Access to Saglek Airport is typically arranged through charter flights from larger hubs such as Goose Bay (YYR), as there are no scheduled commercial services. Ground transportation in the area is limited, so travelers should coordinate pickups in advance with local operators. Weather-related delays are common, so flexible scheduling is strongly recommended.",
+  "local_tip": "If visiting the nearby Torngat Mountains National Park, coordinate your Saglek flights well in advance as the park is only accessible by air, and the weather window for safe landings can be very short.",
+  "generatedAt": "2026-06-27T14:20:00.062Z",
+  "model": "MiniMax-M3"
+}

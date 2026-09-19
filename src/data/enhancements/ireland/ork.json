@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ORK",
+    "icao": "EICK",
+    "name": "Cork International Airport",
+    "country": "Ireland",
+    "city": "Cork",
+    "lat": 51.8413,
+    "lon": -8.4911,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Cork International Airport (ORK) is Ireland's second-busiest airport, situated about 6 km south of Cork city centre. Originally established as a military airfield in 1957, it now serves as a key gateway to the south of Ireland with extensive European connections, particularly through its Aer Lingus base. The single-terminal facility handles millions of passengers annually and offers a compact, easy-to-navigate travel experience.",
+  "faqs": "Q: How far is Cork Airport from the city centre?\nA: The airport is approximately 6 km (4 miles) south of Cork city centre, with a typical journey time of 15-20 minutes by car or bus.\n\nQ: Does Cork Airport have public transport to the city?\nA: Yes, Bus Éireann operates the 226 route connecting the airport to Cork city centre, Parnell Place bus station, and Kent Railway Station, running frequently throughout the day.\n\nQ: Are there car rental services at Cork Airport?\nA: Major car rental companies including Avis, Hertz, Europcar, Budget, and Enterprise have desks within the terminal building, with vehicles collected from on-site car parks.\n\nQ: What destinations can I fly to directly from Cork?\nA: Cork Airport offers direct flights to numerous European destinations including London, Amsterdam, Paris, Barcelona, and seasonal transatlantic services, along with several regional UK routes.",
+  "transport_tips": "Bus Éireann route 226 is the most affordable way to reach Cork city centre, with journey times around 20 minutes. Taxis are readily available outside the terminal and cost approximately €15-20 to the city centre. If driving, follow signs for the N27 southbound, and note that the airport's short-stay and long-stay car parks are within walking distance of the terminal.",
+  "local_tip": "The viewing terrace on the upper level of the terminal offers excellent plane-spotting opportunities and panoramic views of the surrounding Munster countryside—perfect for aviation enthusiasts during longer layovers.",
+  "generatedAt": "2026-06-28T18:45:42.963Z",
+  "model": "MiniMax-M3"
+}

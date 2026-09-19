@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VAB",
+    "icao": "",
+    "name": "Yavarate Airport",
+    "country": "Colombia",
+    "city": "Yavarate",
+    "lat": 0.6118,
+    "lon": -69.2074,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Yavarate Airport (VAB) is a small airstrip serving the remote indigenous community of Yavarate in Colombia's Vaupés Department, deep within the Amazon rainforest near the Brazilian border. The airport functions as a vital lifeline for the local Tikuna and other indigenous populations, providing essential access to medical care, supplies, and connectivity with larger regional cities. It primarily accommodates small propeller aircraft capable of operating on its short runway surrounded by dense jungle.",
+  "faqs": "Q: What type of aircraft can land at Yavarate Airport?\nA: The airport primarily handles small propeller aircraft and regional turboprops suited for short, unpaved or lightly paved runways typical of remote Amazonian airstrips.\n\nQ: Are there commercial flights to Yavarate?\nA: Scheduled commercial service is limited; flights are typically operated by small regional carriers on infrequent schedules serving remote Vaupés communities.\n\nQ: Is Yavarate Airport safe for travelers?\nA: The airport operates under standard Colombian civil aviation authority oversight, though weather and visibility in the Amazon region can occasionally affect operations.\n\nQ: What facilities are available at the airport?\nA: Facilities are minimal, reflecting the airport's small size and remote location; travelers should expect basic infrastructure rather than modern terminal amenities.\n\n",
+  "transport_tips": "Access to Yavarate is almost exclusively by air, as the community is reachable only via river routes or through dense rainforest, making the airstrip the most practical option for visitors. Travelers should arrange flights through regional operators based in cities like Mitú or Leticia, and confirm schedules in advance due to limited service frequency. Upon arrival, ground transport consists of walking or local boat services since road infrastructure is essentially absent.",
+  "local_tip": "Bring cash in small Colombian peso denominations, as the remote community has no ATMs or card payment infrastructure, and respect local indigenous customs by asking permission before photographing residents or cultural sites.",
+  "generatedAt": "2026-06-28T10:35:41.767Z",
+  "model": "MiniMax-M3"
+}

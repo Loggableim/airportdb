@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OKT",
+    "icao": "UWUK",
+    "name": "Oktyabrskiy Airport",
+    "country": "Russia",
+    "city": "Kzyl-Yar",
+    "lat": 54.44,
+    "lon": 53.3883,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Oktyabrskiy Airport (OKT/UWUK) is a small regional airfield serving the village of Kzyl-Yar in the Republic of Bashkortostan, Russia. Located in a rural area along the border between Bashkortostan and Tatarstan, the airport primarily supports limited general aviation and regional flight activity. Its modest infrastructure reflects its role as a local transportation hub rather than a major commercial facility.",
+  "faqs": "Q: What is the IATA code for Oktyabrskiy Airport?\nA: The IATA code is OKT, and the ICAO code is UWUK.\n\nQ: What type of airport is Oktyabrskiy?\nA: It is classified as a small airport, primarily serving regional and general aviation needs.\n\nQ: Where is the airport located?\nA: It is situated near the village of Kzyl-Yar in the Republic of Bashkortostan, Russia, at coordinates 54.440°N, 53.388°E.\n\nQ: Does the airport handle international flights?\nA: No, Oktyabrskiy Airport is a small domestic airfield and does not serve international commercial routes.\n\n",
+  "transport_tips": "Access to the airport typically requires private transport or a taxi from nearby towns, as public transit options are limited in this rural area. Visitors should arrange ground transportation in advance, especially during winter months when road conditions can be challenging. The nearest larger towns providing more transport connections include Tuymazy and Oktyabrsky.",
+  "local_tip": "If visiting during the colder months, dress in heavy layers as the region experiences harsh continental winters with temperatures frequently dropping well below freezing.",
+  "generatedAt": "2026-06-28T02:09:38.268Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LAS",
+    "icao": "KLAS",
+    "name": "Harry Reid International Airport",
+    "country": "United States",
+    "city": "Las Vegas",
+    "lat": 36.0834,
+    "lon": -115.1518,
+    "type": "large_airport",
+    "size": 1068475
+  },
+  "summary": "Harry Reid International Airport (LAS) is the primary airport serving Las Vegas, located approximately 5 miles south of the Strip. Originally named McCarran International Airport, it was renamed in 2021 in honor of the late U.S. Senator Harry Reid. It ranks among the busiest airports in the United States, handling over 50 million passengers annually and serving as a major gateway to one of the world's top tourist destinations.",
+  "faqs": "Q: How far is the airport from the Las Vegas Strip?\nA: The airport is located about 5 miles south of the Strip, with most major hotels reachable in 10-20 minutes by car depending on traffic.\n\nQ: Does the airport have multiple terminals?\nA: Yes, LAS has two main terminals (Terminal 1 and Terminal 3) connected by a free shuttle bus and an underground tram system.\n\nQ: Are there slot machines in the airport?\nA: Yes, LAS is famous for having slot machines throughout its terminals, making it one of the few airports in the world where you can gamble while waiting for your flight.\n\nQ: How early should I arrive before my flight?\nA: It is recommended to arrive at least 2 hours before domestic flights and 3 hours before international flights, especially during peak travel times.\n\n",
+  "transport_tips": "Taxis and rideshares are available 24/7 at designated pickup areas outside both terminals, with typical fares to the Strip ranging from $15-$25. The RTC public bus Route 108 and 109 provide affordable connections to the Strip and downtown Las Vegas for just a few dollars. Many hotels offer complimentary shuttle services, so check with your accommodation before booking other transportation.",
+  "local_tip": "If you have a long layover, take advantage of the airport's convenient location and grab a quick taxi to the Welcome to Fabulous Las Vegas sign for a classic photo op—it's less than 10 minutes away and makes for a memorable break between flights.",
+  "generatedAt": "2026-06-28T14:42:14.526Z",
+  "model": "MiniMax-M3"
+}

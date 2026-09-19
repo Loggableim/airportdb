@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NYE",
+    "icao": "HKNI",
+    "name": "Nyeri Airport",
+    "country": "Kenya",
+    "city": "Nyeri",
+    "lat": -0.3644,
+    "lon": 36.9785,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Nyeri Airport is a small regional airfield serving the town of Nyeri in Kenya's Central Highlands, approximately 175 km north of Nairobi. The airport primarily handles light aircraft, charter flights, and small private operations rather than scheduled commercial service. It provides important access to the scenic Aberdare region and nearby Mt. Kenya, supporting both tourism and local connectivity.",
+  "faqs": "Q: Does Nyeri Airport have scheduled commercial flights?\nA: No, the airport primarily supports charter, private, and light aircraft operations rather than regular scheduled commercial service.\n\nQ: What is Nyeri Airport mainly used for?\nA: It serves general aviation, charter flights, and tourist access to the Aberdare National Park and Mt. Kenya region.\n\nQ: Are there any facilities at the airport?\nA: As a small regional airfield, Nyeri Airport offers basic facilities suitable for general aviation and small aircraft operations.\n\nQ: Can private jets land at Nyeri Airport?\nA: Yes, the airport can accommodate private and charter aircraft, making it a convenient option for visitors heading to the Aberdare conservancies.",
+  "transport_tips": "The airport is located just a few kilometers from Nyeri town center, with taxis and private car hire readily available for arriving passengers. Road access via the Nyeri-Nairobi highway connects travelers to the capital in roughly two to three hours by car. Many visitors arrange transfers through their lodges or tour operators in advance.",
+  "local_tip": "If visiting the Aberdare region, coordinate your flight with your lodge's safari schedule—many conservancies offer airstrip transfers, and flying in saves several hours of winding mountain road travel from Nairobi.",
+  "generatedAt": "2026-06-28T05:02:38.836Z",
+  "model": "MiniMax-M3"
+}

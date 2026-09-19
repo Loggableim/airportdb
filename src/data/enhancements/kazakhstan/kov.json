@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KOV",
+    "icao": "UACK",
+    "name": "Kokshetau International Airport",
+    "country": "Kazakhstan",
+    "city": "Kokshetau",
+    "lat": 53.3291,
+    "lon": 69.5946,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kokshetau International Airport (KOV/UACK) serves the city of Kokshetau, the administrative center of Kazakhstan's Akmola Region in the northern part of the country. The airport provides scheduled passenger service connecting this regional hub to other destinations in Kazakhstan. Located in the steppe landscape of northern Kazakhstan, it supports both domestic travel and occasional international flights, serving as an important gateway to the region known for its lakes and natural reserves.",
+  "faqs": "Q: Where is Kokshetau International Airport located?\nA: The airport is located near the city of Kokshetau in the Akmola Region of northern Kazakhstan, at coordinates 53.329°N, 69.595°E.\n\nQ: What is the airport's IATA and ICAO codes?\nA: The airport uses the IATA code KOV and the ICAO code UACK.\n\nQ: Does the airport handle international flights?\nA: Yes, as an international airport it is equipped to handle both domestic and international flights, though service levels and destinations may vary by season.\n\nQ: What facilities are available at the airport?\nA: The airport provides standard passenger amenities including a terminal building, check-in counters, and waiting areas typical of a regional international airport.",
+  "transport_tips": "The airport is located a short drive from central Kokshetau, making taxi or rideshare services the most convenient option for travelers. Local marshrutka (minibus) routes also connect the airport to various parts of the city. Pre-arranging transportation through a hotel or local contact is advisable, especially for arrivals during off-peak hours.",
+  "local_tip": "If you have a layover or a few hours to spare, ask a local about the nearby Burabai (Borovoe) resort area, which is a popular nature destination with scenic lakes, pine forests, and hiking trails—often called the 'Kazakh Switzerland' and within driving distance of the airport.",
+  "generatedAt": "2026-06-29T01:36:01.336Z",
+  "model": "MiniMax-M3"
+}

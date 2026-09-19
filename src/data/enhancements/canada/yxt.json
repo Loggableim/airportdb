@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YXT",
+    "icao": "CYXT",
+    "name": "Northwest Regional Airport Terrace-Kitimat",
+    "country": "Canada",
+    "city": "Terrace",
+    "lat": 54.4685,
+    "lon": -128.576,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Northwest Regional Airport Terrace-Kitimat (YXT) is a regional airport serving the communities of Terrace and Kitimat in northwestern British Columbia, Canada. The airport supports the region's resource-based economy, including aluminum smelting, forestry, and mining operations, as well as tourism to the surrounding wilderness. It functions as a key transportation link for the Skeena region, connecting residents and workers to larger hubs like Vancouver.",
+  "faqs": "Q: What airlines operate at Northwest Regional Airport Terrace-Kitimat?\nA: The airport is primarily served by regional carriers including Air Canada Express and WestJet Encore, offering scheduled flights to Vancouver.\n\nQ: How far is the airport from Terrace city center?\nA: The airport is located approximately 5 kilometers southwest of Terrace, with a short drive of around 10 minutes.\n\nQ: Does the airport have international flights?\nA: No, YXT primarily handles domestic regional flights, with no scheduled international service.\n\nQ: Are there car rental services available at the airport?\nA: Yes, car rental agencies operate at the airport, providing convenient ground transportation options for travelers.",
+  "transport_tips": "Rental cars are the most flexible option for exploring the Terrace-Kitimat region, as public transit is limited. Taxi services and pre-arranged shuttle rides are available for transfers to both Terrace and Kitimat, which are roughly 60 km apart. During winter months, allow extra travel time as Highway 16 and surrounding roads can experience heavy snow and icy conditions.",
+  "local_tip": "If traveling to Kitimat, consider coordinating your ground transport in advance as the drive between the two communities takes about an hour, and taxi availability for the full route can be limited, especially during off-peak hours.",
+  "generatedAt": "2026-06-29T05:51:40.142Z",
+  "model": "MiniMax-M3"
+}

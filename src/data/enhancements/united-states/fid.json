@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FID",
+    "icao": "",
+    "name": "Elizabeth Field",
+    "country": "United States",
+    "city": "Fishers Island",
+    "lat": 41.2521,
+    "lon": -72.0322,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Elizabeth Field (IATA: FID) is a small general aviation airport serving Fishers Island, a remote island community located in the Town of Southold, Suffolk County, New York, situated in Long Island Sound approximately two miles off the Connecticut coast. The airport provides a vital transportation link for the island's residents and seasonal visitors, as the island is otherwise accessible primarily by ferry. Its modest size and scenic island setting make it a charming gateway to one of the most exclusive island communities in the northeastern United States.",
+  "faqs": "Q: What is Elizabeth Field used for?\nA: Elizabeth Field primarily serves general aviation traffic, including private and recreational flights to and from Fishers Island. It does not typically handle scheduled commercial airline service.\n\nQ: Do I need to book a flight in advance to Fishers Island?\nA: Private pilots can typically arrange landing permissions in advance, but travelers without aircraft usually rely on the ferry from New London, Connecticut, or charter services.\n\nQ: Are there customs or immigration facilities at FID?\nA: As a small domestic U.S. airfield, Elizabeth Field does not have customs facilities, so it only serves flights within the United States.\n\nQ: How long is the runway at Elizabeth Field?\nA: Elizabeth Field has a single asphalt runway suitable for small to mid-sized general aviation aircraft; pilots should consult current FAA charts for exact dimensions and weight limits.",
+  "transport_tips": "Most visitors reach Fishers Island via the Fishers Island Ferry from New London, Connecticut, with a typical crossing of about 45 minutes. Private aircraft can land at Elizabeth Field with prior coordination, though the airport has limited services and no control tower. Rental cars, bicycles, and local taxis are the primary ways to get around the island once you arrive.",
+  "local_tip": "If flying in, plan your arrival for daylight hours — the island has limited nighttime facilities and the ferry is the only alternative if weather forces you to divert.",
+  "generatedAt": "2026-06-27T04:46:51.000Z",
+  "model": "MiniMax-M3"
+}

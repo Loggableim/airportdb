@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BOD",
+    "icao": "LFBD",
+    "name": "Bordeaux–Mérignac Airport",
+    "country": "France",
+    "city": "Bordeaux",
+    "lat": 44.8287,
+    "lon": -0.7154,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Bordeaux–Mérignac Airport (BOD) is the main international gateway to France's Nouvelle-Aquitaine region, located about 10 km west of Bordeaux city center. Opened in 1910 as a military airfield, it has grown into a modern facility with two terminals serving over 7 million passengers annually. The airport is known for its efficient layout and easy access to the city via public bus.",
+  "faqs": "Q: How far is Bordeaux–Mérignac Airport from the city center?\nA: The airport is approximately 10 km (6 miles) west of Bordeaux city center. By car or taxi, the journey takes 20-30 minutes depending on traffic; by bus, it takes 30-45 minutes.\n\nQ: What public transport options are available from the airport?\nA: TBM bus line 1 runs between the airport and Bordeaux city center (Place des Quinconces) and Gare Saint-Jean. The bus stop is located outside the terminal, and tickets can be purchased on board or at machines.\n\nQ: Which airlines operate at Bordeaux–Mérignac Airport?\nA: The airport serves major airlines including Air France, easyJet, Ryanair, Volotea, and British Airways, with flights to destinations across Europe, North Africa, and domestic French cities.\n\nQ: Are there car rental services at the airport?\nA: Yes, several car rental companies (Hertz, Avis, Europcar, Sixt) have desks in the terminal, and the rental car park is a short walk away. It's advisable to book in advance during peak season.\n\n",
+  "transport_tips": "The airport is well-connected by TBM bus line 1, which runs every 10-15 minutes to Bordeaux city center and Gare Saint-Jean. Taxis and ride-shares are readily available outside the arrivals hall, with fixed fares to the city center (around €30-40). If driving, follow the A630 ring road and take exit 11 for the airport; short-term parking P0 offers 10 minutes free for drop-offs.",
+  "local_tip": "Frequent visitors know that the security line at the main terminal (Hall B) is often shorter than at Hall A (low-cost terminal). Also, the airport's free WiFi is fast, and there are plenty of charging points near the gates. For a quieter wait, head to the upper-level café.",
+  "generatedAt": "2026-09-19T23:20:11.212Z",
+  "model": "deepseek-v4.1-flash"
+}

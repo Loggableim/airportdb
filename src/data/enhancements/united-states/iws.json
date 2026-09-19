@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IWS",
+    "icao": "KIWS",
+    "name": "West Houston Airport",
+    "country": "United States",
+    "city": "Houston",
+    "lat": 29.8182,
+    "lon": -95.6726,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "West Houston Airport is a general aviation reliever airport serving the western suburbs of Houston, Texas. Operated by the West Houston Airport Corporation, it caters primarily to private pilots, flight training, and business aviation, helping reduce congestion at the city's larger commercial hubs. The facility features a single asphalt runway and supports a community of aviation enthusiasts in one of the nation's most aviation-dense metropolitan areas.",
+  "faqs": "Q: What is West Houston Airport primarily used for?\nA: West Houston Airport is a general aviation facility that primarily serves private pilots, flight schools, business aircraft, and recreational flying rather than commercial airlines.\n\nQ: Does West Houston Airport offer commercial flights?\nA: No, the airport does not have scheduled commercial airline service. It is designed for private and general aviation operations.\n\nQ: How does West Houston Airport relate to Houston's other airports?\nA: It functions as a reliever airport, helping to divert smaller aircraft traffic away from George Bush Intercontinental (IAH) and William P. Hobby (HOU) airports.\n\nQ: What runway facilities does the airport have?\nA: The airport has a single main runway suitable for small to mid-size general aviation aircraft, along with supporting taxiways and ramp areas.",
+  "transport_tips": "The airport is located off Interstate 10 in west Houston, making it easily accessible by car from the Energy Corridor and surrounding suburbs. Rideshare services and taxis are the most practical options since there is no public transit directly serving the facility. On-site parking is generally available for pilots, passengers, and visitors.",
+  "local_tip": "If you're visiting for a flight lesson or to pick up a passenger, plan extra time during weekday rush hours as traffic on I-10 and the surrounding Westheimer Road corridor can be unpredictable.",
+  "generatedAt": "2026-06-27T00:40:09.032Z",
+  "model": "MiniMax-M3"
+}

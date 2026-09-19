@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FNC",
+    "icao": "LPMA",
+    "name": "Cristiano Ronaldo International Airport",
+    "country": "Portugal",
+    "city": "Funchal",
+    "lat": 32.6978,
+    "lon": -16.7746,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Cristiano Ronaldo International Airport (FNC), formerly known as Madeira Airport, serves the island of Madeira and was renamed in 2016 in honor of the legendary Portuguese footballer born on the island. The airport is renowned for its dramatic engineering, including a runway extension built on a series of stilts over the Atlantic Ocean, completed in 2000 to accommodate larger aircraft. Its approach is considered one of the most challenging in Europe, with mountainous terrain, strong crosswinds, and oceanic surroundings requiring specialized pilot training.",
+  "faqs": "Q: Why was the airport renamed after Cristiano Ronaldo?\nA: The airport was renamed in 2016 to honor Cristiano Ronaldo, one of the world's most famous footballers, who was born in Funchal, Madeira in 1985.\n\nQ: What makes the airport's runway unique?\nA: The runway extension was constructed on 180 columns over the Atlantic Ocean to allow larger aircraft to land safely, addressing the shortage of flat terrain on the mountainous island.\n\nQ: Is the airport difficult to land at?\nA: Yes, it is widely regarded as one of Europe's most challenging airports due to strong crosswinds, surrounding mountains, and the ocean approach, requiring pilots to complete specific certification.\n\nQ: Are there direct international flights to FNC?\nA: Yes, the airport receives direct flights from many European cities including Lisbon, London, Frankfurt, and several seasonal charter routes during summer.\n\n",
+  "transport_tips": "The airport is located about 13 km east of Funchal city center, and travelers can reach downtown via the Aerobus, which runs regularly and takes roughly 30 minutes. Taxis and ride-hailing services are available outside the terminal, with fixed fares to most Funchal destinations. Renting a car is a popular option for exploring Madeira, with several rental agencies located within the airport terminal.",
+  "local_tip": "If you have a short layover, head to the airport's viewing terrace for spectacular views of the dramatic runway perched over the ocean and the mountainous Madeiran landscape—a favorite spot for aviation enthusiasts watching the famously tricky landings.",
+  "generatedAt": "2026-06-28T18:46:46.721Z",
+  "model": "MiniMax-M3"
+}

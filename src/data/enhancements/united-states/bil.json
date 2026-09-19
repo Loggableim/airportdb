@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BIL",
+    "icao": "KBIL",
+    "name": "Billings Logan International Airport",
+    "country": "United States",
+    "city": "Billings",
+    "lat": 45.8089,
+    "lon": -108.5412,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Billings Logan International Airport is the largest and busiest airport in Montana, serving the south-central region of the state and northern Wyoming. Located on the western edge of Billings, the state's largest city, it provides essential commercial service to the Yellowstone region and surrounding agricultural areas. The airport is named after former Billings mayor and U.S. Senator Frank Logan and has operated at its current site since 1947.",
+  "faqs": "Q: How far is the airport from downtown Billings?\nA: The airport is approximately 3 miles northwest of downtown Billings, typically a 10-15 minute drive depending on traffic.\n\nQ: What airlines serve Billings Logan International Airport?\nA: Major carriers serving BIL include Alaska Airlines, American, Delta, Southwest, and United, with nonstop flights to several hub cities.\n\nQ: Does the airport offer nonstop flights to international destinations?\nA: International nonstop service is limited; most international connections are made through major hubs like Denver, Salt Lake City, Minneapolis, or Dallas.\n\nQ: Are there car rental services available at the airport?\nA: Yes, several major car rental agencies operate on-site at Billings Logan, with counters located in the terminal or adjacent facilities.",
+  "transport_tips": "Rental cars are the most convenient option for exploring Montana and Wyoming, and most major agencies have counters directly in the terminal. Ride-sharing services like Uber and Lyft operate at BIL but may experience limited availability outside peak hours. The local Met Transit bus system also serves the airport, providing an affordable option for travelers heading into downtown Billings.",
+  "local_tip": "If you're traveling during winter months, check flight status proactively—Montana weather can cause delays even when the destination forecast looks clear, and booking earlier flights in the day typically offers better on-time performance.",
+  "generatedAt": "2026-06-29T02:13:26.226Z",
+  "model": "MiniMax-M3"
+}

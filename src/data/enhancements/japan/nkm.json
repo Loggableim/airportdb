@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NKM",
+    "icao": "RJNA",
+    "name": "Nagoya Airport / JASDF Komaki Air Base",
+    "country": "Japan",
+    "city": "Nagoya",
+    "lat": 35.2558,
+    "lon": 136.9241,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Nagoya Airport (Komaki Air Base) is a dual-use facility in Komaki City, north of Nagoya, jointly operated by civilian aviation and the Japan Air Self-Defense Force (JASDF). Originally serving as Nagoya's main commercial gateway, it was largely replaced by Chubu Centrair International Airport in 2005 and now focuses on general aviation, business jets, select domestic services, and military operations. The airport retains a single terminal with a quieter, low-traffic atmosphere compared to Centrair.",
+  "faqs": "Q: Is Nagoya Airport the same as Chubu Centrair International Airport?\nA: No. They are two separate airports. Since 2005, Chubu Centrair (NGO) on a man-made island handles most commercial flights, while Nagoya Airport (NKM) at Komaki now serves general aviation, charter flights, and JASDF military aircraft.\n\nQ: Can I fly commercially from Nagoya Airport?\nA: Limited commercial service is available, mainly seasonal charters and select domestic routes operated by smaller carriers. Most travelers should use Chubu Centrair for scheduled flights.\n\nQ: Is there a military presence at Nagoya Airport?\nA: Yes. It shares the airfield with JASDF Komaki Air Base, which is the headquarters of the Chubu Air Defense Force and hosts fighter and transport units.\n\nQ: How far is Nagoya Airport from central Nagoya?\nA: The airport is approximately 10 km north of Nagoya Station, accessible by road in roughly 25-40 minutes depending on traffic.",
+  "transport_tips": "The most convenient options are taxi or rental car, as no direct train serves the airport. The Aonami Line connects to nearby suburbs, and bus services run between Komaki Station and central Nagoya. Driving is straightforward via the Meitetsu Komaki Line area or the Higashi-Meihan Expressway.",
+  "local_tip": "If you have time before a flight, visit the Komaki City Museum of History nearby or stop by one of the local udon shops in Komaki's old town area, which are favorites among visiting pilots and aviation enthusiasts.",
+  "generatedAt": "2026-06-29T05:38:13.294Z",
+  "model": "MiniMax-M3"
+}

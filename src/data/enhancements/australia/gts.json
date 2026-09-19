@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GTS",
+    "icao": "YTGT",
+    "name": "The Granites Airport",
+    "country": "Australia",
+    "city": "The Granites Gold Mine",
+    "lat": -20.5483,
+    "lon": 130.347,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "The Granites Airport (GTS/YTGT) is a small remote airstrip serving the Granites Gold Mine, one of Newmont Corporation's key operations in Australia's Tanami Desert. Located deep in central-northern Australia near the Northern Territory–Western Australia border, it primarily facilitates fly-in fly-out (FIFO) workers and supplies for the surrounding mining community. The airport is essential for accessing one of Australia's most isolated gold mining regions.",
+  "faqs": "Q: What is The Granites Airport primarily used for?\nA: It serves the Granites Gold Mine, mainly handling charter and FIFO (fly-in fly-out) flights transporting mine workers and personnel to this remote desert location.\n\nQ: Does The Granites Airport handle commercial passenger flights?\nA: No regular scheduled commercial service operates here. Flights are typically chartered or operated on mining company rosters for employees.\n\nQ: Where exactly is the airport located?\nA: It is situated in the Tanami Desert region near the Northern Territory–Western Australia border, approximately 540 km northwest of Alice Springs.\n\nQ: Are there passenger facilities at The Granites Airport?\nA: Facilities are minimal, typical of a remote mining airstrip, with basic shelter and limited amenities for FIFO workers.",
+  "transport_tips": "Access to The Granites Airport is generally arranged through employer charter flights from Alice Springs or other regional hubs, as there are no public transport options. Visitors must typically be authorized by the mining company, with prior approval and security clearance required. Self-drive access involves long unsealed desert roads and is generally not recommended without proper preparation and permissions.",
+  "local_tip": "FIFO workers should pack light layers—Tanami Desert temperatures can swing dramatically from over 40°C in the day to near freezing at night, even during the warmer months.",
+  "generatedAt": "2026-06-28T09:22:17.013Z",
+  "model": "MiniMax-M3"
+}

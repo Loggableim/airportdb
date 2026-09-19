@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YFS",
+    "icao": "CYFS",
+    "name": "Fort Simpson Airport",
+    "country": "Canada",
+    "city": "Fort Simpson",
+    "lat": 61.7602,
+    "lon": -121.237,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Fort Simpson Airport (YFS) is a regional airport serving the hamlet of Fort Simpson in Canada's Northwest Territories, situated near the confluence of the Mackenzie and Liard Rivers. As a key gateway to this remote subarctic community, it supports scheduled passenger flights as well as charter and medevac operations. The airport plays a critical role in connecting residents and visitors to Yellowknife and other northern destinations.",
+  "faqs": "Q: How far is Fort Simpson Airport from the town center?\nA: The airport is located just a few kilometers from the hamlet of Fort Simpson, typically a short 5-10 minute drive by taxi or shuttle.\n\nQ: Which airlines serve Fort Simpson Airport?\nA: The airport is primarily served by regional carriers operating flights to and from Yellowknife and other northern communities.\n\nQ: Does the airport have navigation aids for poor weather conditions?\nA: Yes, the airport is equipped with instrument approach procedures to assist with operations during low-visibility conditions common in the subarctic region.\n\nQ: Is the airport open year-round?\nA: Yes, Fort Simpson Airport operates throughout the year, though winter operations may occasionally be affected by severe weather and blowing snow.\n\n",
+  "transport_tips": "The airport is a short drive from Fort Simpson village, with taxi and shuttle services typically available to meet incoming flights. Rental cars are limited, so arranging ground transport in advance is recommended during peak travel periods. There is no public transit connection to the terminal.",
+  "local_tip": "If you're visiting in winter, pack extra warm layers in your carry-on—temperatures in Fort Simpson can plunge well below -30°C, and deplaning outdoors onto the tarmac is common at this small regional airport.",
+  "generatedAt": "2026-06-29T07:34:56.634Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TLC",
+    "icao": "MMTO",
+    "name": "Adolfo López Mateos International Airport",
+    "country": "Mexico",
+    "city": "Toluca",
+    "lat": 19.3369,
+    "lon": -99.5658,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Adolfo López Mateos International Airport (TLC) is the secondary airport serving the Mexico City metropolitan area, located in Toluca about 40 km west of the capital. Named after the Mexican president who served from 1958 to 1964, it sits at one of the highest elevations of any commercial airport in the world. The facility primarily serves low-cost carriers, charter flights, and significant cargo operations, offering an alternative to the often-congested Benito Juárez International Airport.",
+  "faqs": "Q: How far is TLC from Mexico City city center?\nA: The airport is approximately 40 km (25 miles) west of central Mexico City, with travel times of 60–90 minutes depending on traffic.\n\nQ: Which airlines operate from Adolfo López Mateos Airport?\nA: TLC is mainly used by low-cost Mexican carriers and charter operators, with occasional international services to the United States.\n\nQ: Why is Toluca Airport at such a high elevation?\nA: It sits in the Toluca Valley at roughly 2,680 meters (8,793 feet) above sea level, requiring longer runway distances and affecting aircraft performance.\n\nQ: Is TLC a good alternative to Mexico City's main airport?\nA: Yes, it offers shorter security lines and fewer crowds, making it appealing for travelers heading to western Mexico City, Toluca, or nearby regions.",
+  "transport_tips": "The most convenient option is a private taxi or pre-booked shuttle to Mexico City, which typically costs around 500–800 MXN and takes 60–90 minutes. Several bus services connect the airport to Toluca's city center and the Mexico City metro system, though schedules can be infrequent. Renting a car is possible but traffic leaving the airport toward Mexico City can be heavy during rush hours.",
+  "local_tip": "Bring a light jacket—the high-altitude terminal can feel surprisingly cool, especially in the early morning hours, even when Mexico City is warm.",
+  "generatedAt": "2026-06-28T20:27:00.169Z",
+  "model": "MiniMax-M3"
+}

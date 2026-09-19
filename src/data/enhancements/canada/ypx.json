@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YPX",
+    "icao": "CYPX",
+    "name": "Puvirnituq Airport",
+    "country": "Canada",
+    "city": "Puvirnituq",
+    "lat": 60.0506,
+    "lon": -77.2869,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Puvirnituq Airport (YPX) is a regional airport serving the Inuit community of Puvirnituq in the Nunavik region of northern Quebec, located on the eastern shore of Hudson Bay. As one of the key transportation hubs in Nunavik, it provides essential air connectivity to a remote area that lacks year-round road access to southern Quebec. The airport supports both passenger travel and the transport of goods vital to this fly-in community.",
+  "faqs": "Q: What airlines fly to Puvirnituq Airport?\nA: Air Inuit operates scheduled passenger flights connecting Puvirnituq to Montreal and other Nunavik communities such as Kuujjuaq and Inukjuak.\n\nQ: How far is the airport from the town center?\nA: The airport is located just a few kilometers from the village of Puvirnituq, with taxi services typically available to transport passengers into town.\n\nQ: Is there road access to Puvirnituq?\nA: No permanent road connects Puvirnituq to southern Quebec. The community is primarily accessible by air year-round, with seasonal sea and winter ice road access along the Hudson Bay coast.\n\nQ: What facilities are available at the airport?\nA: The terminal offers basic services including a waiting area and check-in counters. Travelers should plan for limited amenities typical of remote northern airports.\n\n",
+  "transport_tips": "Local taxis are the most common way to travel between the airport and Puvirnituq, and it is advisable to arrange pickup in advance. There is no public transit or rental car service at the airport, so coordinate ground transportation with your hotel or local contacts before arrival. Given the airport's remote location, flight delays due to weather are common, so build flexibility into travel plans.",
+  "local_tip": "Flights are heavily weather-dependent in Nunavik, so book early-morning departures when possible, as afternoon fog and snow showers frequently roll in off Hudson Bay and disrupt later flights.",
+  "generatedAt": "2026-06-29T20:32:06.775Z",
+  "model": "MiniMax-M3"
+}

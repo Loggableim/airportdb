@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IKK",
+    "icao": "KIKK",
+    "name": "Greater Kankakee Airport",
+    "country": "United States",
+    "city": "Kankakee",
+    "lat": 41.0714,
+    "lon": -87.8463,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Greater Kankakee Airport (IKK/KIKK) is a public-use general aviation airport located just south of Kankakee, Illinois, roughly 60 miles south of Chicago. It has two paved runways and supports private, business, and training aircraft with fuel, hangars, and maintenance services. The field is a convenient, low-traffic alternative for pilots traveling to or from the southern Chicago metropolitan area.",
+  "faqs": "Q: Does Greater Kankakee Airport have commercial airline service?\nA: No. IKK is a general aviation airport; the closest major commercial service is at Chicago Midway, O'Hare, or Central Illinois Regional Airport in Bloomington.\n\nQ: What runway facilities does IKK offer?\nA: The airport has two paved runways, including a primary runway around 5,000 feet and a shorter crosswind runway. Both support light to midsize general aviation aircraft.\n\nQ: Is there fuel and parking at IKK?\nA: Yes, self-serve and full-service fuel are typically available, along with tie-downs and hangar parking. Call the airport authority ahead for after-hours or large-aircraft needs.\n\nQ: How far is IKK from downtown Kankakee and Chicago?\nA: The airport is about 3 miles south of downtown Kankakee and roughly 60 miles south of downtown Chicago via I-57. Drive times vary with Chicago traffic.\n\n",
+  "transport_tips": "By car, take I-57 to the Kankakee exits or use Illinois Route 50, then follow airport signs to the terminal area. There is no scheduled bus or rail service directly to the airport; taxis, rideshares, and rental cars are the most practical options. If you need a ride, arrange it before arrival, as the airport can be quiet in the evening.",
+  "local_tip": "Frequent visitors know IKK is a non-towered field, so monitor CTAF and self-announce; weekend traffic often includes student pilots and transient aircraft, so keep your head on a swivel in the pattern.",
+  "generatedAt": "2026-09-19T23:05:43.918Z",
+  "model": "deepseek-v4.1-flash"
+}

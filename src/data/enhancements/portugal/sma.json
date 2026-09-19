@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SMA",
+    "icao": "LPAZ",
+    "name": "Santa Maria Airport",
+    "country": "Portugal",
+    "city": "Vila do Porto",
+    "lat": 36.9714,
+    "lon": -25.1706,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Santa Maria Airport serves Vila do Porto on Santa Maria Island, the easternmost island of the Portuguese Azores archipelago in the mid-Atlantic. The airport has notable historical significance as a former key refueling stop for transatlantic flights before the jet age and was used by US forces during World War II. It also serves as one of the designated emergency landing sites for NASA Space Shuttle missions and remains an important hub for inter-island Azores connections.",
+  "faqs": "Q: What is the main purpose of Santa Maria Airport?\nA: The airport primarily connects Santa Maria Island with other Azores islands and mainland Portugal, handling both scheduled regional flights and general aviation.\n\nQ: Does Santa Maria Airport handle international flights?\nA: Yes, it can accommodate international flights, though most scheduled services are regional routes operated by SATA Air Açores within the Azores and TAP Air Portugal to Lisbon.\n\nQ: What is the historical importance of this airport?\nA: Santa Maria was a critical refueling point for transatlantic flights in the propeller era and served as a US military base during WWII. It is also designated as a transoceanic abort landing site for NASA Space Shuttle missions.",
+  "transport_tips": "Taxis are available outside the terminal and offer the most convenient way to reach Vila do Porto, located roughly 5 km from the airport. Rental cars can be arranged in advance and are recommended for exploring the island's scenic coastal roads. There is no regular public bus service operating between the airport and the main town, so pre-arranging ground transport is advisable.",
+  "local_tip": "Due to Santa Maria's frequent fog and rapidly changing weather, flights are occasionally delayed or diverted—check conditions in advance and allow buffer time if connecting through other Azores islands, as inter-island schedules can be disrupted by weather.",
+  "generatedAt": "2026-06-29T07:03:57.014Z",
+  "model": "MiniMax-M3"
+}

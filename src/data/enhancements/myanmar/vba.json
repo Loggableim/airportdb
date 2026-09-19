@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VBA",
+    "icao": "VYAN",
+    "name": "Ann Airport",
+    "country": "Myanmar",
+    "city": "Aeng",
+    "lat": 19.7692,
+    "lon": 94.0261,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Ann Airport is a small regional airfield serving the town of Aeng in Rakhine State, western Myanmar. The airport primarily handles short domestic flights connecting this remote area with larger hubs like Yangon and Sittwe. It functions as an important transportation link for a region otherwise challenged by mountainous terrain and limited road infrastructure.",
+  "faqs": "Q: What is the airport code for Ann Airport?\nA: The IATA code is VBA and the ICAO code is VYAN.\n\nQ: What type of aircraft typically uses this airport?\nA: As a small regional airport, it generally serves small turboprop aircraft suitable for short-haul domestic routes.\n\nQ: Is Ann Airport available for international flights?\nA: No, it operates as a domestic airport handling flights within Myanmar only.\n\nQ: What facilities are available at the airport?\nA: Facilities are basic, typical of small regional airstrips, with limited passenger amenities.\n\n",
+  "transport_tips": "Ground transport options are limited, so arranging a vehicle in advance through your hotel or a local contact is highly recommended. The road network in Rakhine State can be challenging, especially during the monsoon season. Allow extra travel time to and from the airport as services may be infrequent.",
+  "local_tip": "Carry cash in small denominations in Myanmar kyat, as ATMs and card acceptance are scarce in this part of Rakhine State, and the airport itself has very limited services.",
+  "generatedAt": "2026-06-27T16:42:56.902Z",
+  "model": "MiniMax-M3"
+}

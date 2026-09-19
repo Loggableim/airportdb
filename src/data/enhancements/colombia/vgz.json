@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VGZ",
+    "icao": "SKVG",
+    "name": "Villa Garzón Airport",
+    "country": "Colombia",
+    "city": "Villa Garzón",
+    "lat": 0.9788,
+    "lon": -76.6056,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Villa Garzón Airport is a small regional airport serving the municipality of Villa Garzón in the Putumayo department of southwestern Colombia. It functions as an important gateway to the Putumayo region, supporting local communities involved in agriculture, livestock, and the oil industry. The airport provides essential connectivity to this remote area near the Ecuadorian border, where road access can be challenging due to the surrounding Andean foothills and Amazonian landscape.",
+  "faqs": "Q: What is the airport code for Villa Garzón Airport?\nA: The IATA code is VGZ and the ICAO code is SKVG.\n\nQ: Where is Villa Garzón Airport located?\nA: It is located near the municipality of Villa Garzón in the Putumayo department of southwestern Colombia, close to the border with Ecuador.\n\nQ: What airlines operate at Villa Garzón Airport?\nA: The airport primarily serves regional domestic flights, typically operated by small carriers connecting Putumayo to other Colombian cities such as Bogotá and Cali.\n\nQ: Is Villa Garzón Airport suitable for international travel?\nA: No, it is a small domestic regional airport and does not offer scheduled international flights, though it is located near the Ecuadorian border.",
+  "transport_tips": "Ground transportation from the airport is typically by taxi or motorcycle taxi, as Villa Garzón is a small town with limited public transit infrastructure. The airport is located a short distance from the town center, making transfers quick and inexpensive. Rental cars are generally not available at the airport, so arranging local transport in advance or relying on hotel pickups is recommended.",
+  "local_tip": "If traveling to nearby indigenous communities or nature reserves in Putumayo, ask locally about weather conditions first—rain can make unpaved roads difficult to navigate, and flights occasionally get delayed due to morning fog in the surrounding valleys.",
+  "generatedAt": "2026-06-28T10:09:57.893Z",
+  "model": "MiniMax-M3"
+}

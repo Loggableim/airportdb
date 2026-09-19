@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IWJ",
+    "icao": "RJOW",
+    "name": "Iwami Airport",
+    "country": "Japan",
+    "city": "Masuda",
+    "lat": 34.6764,
+    "lon": 131.79,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Iwami Airport (IWJ) is a regional airport located in Masuda, Shimane Prefecture, serving the western San'in region of Honshu. It primarily provides domestic connectivity, with regular flights linking the area to Tokyo Haneda. The airport serves as a convenient gateway to cultural attractions including the UNESCO-listed Iwami Ginzan Silver Mine and the historic townscape of Hagi across the prefecture border.",
+  "faqs": "Q: Which airlines operate from Iwami Airport?\nA: ANA (All Nippon Airways) is the primary carrier, operating multiple daily flights to Tokyo Haneda.\n\nQ: How far is Iwami Airport from Masuda city center?\nA: The airport is located approximately 5 km northeast of Masuda city center, with a typical drive time of around 15 minutes.\n\nQ: Does the airport serve any international destinations?\nA: No, Iwami Airport is a domestic-only facility with no scheduled international flights.\n\nQ: Is the airport accessible to the historic town of Hagi?\nA: Yes, although Hagi is in neighboring Yamaguchi Prefecture, it is reachable by car in roughly 1.5 to 2 hours via coastal and inland routes.",
+  "transport_tips": "Rental cars are the most convenient option for exploring the wider region, as public transport connections to the airport are limited. Taxi services are available at the terminal but should be arranged in advance for early morning departures. The San'in Expressway provides a fast link to the airport from neighboring prefectures for those driving in.",
+  "local_tip": "If you have a long layover or early arrival, the nearby Masuda city area offers excellent local seafood, particularly fresh rockfish and snow crab during winter months, at small restaurants that are rarely visited by tourists.",
+  "generatedAt": "2026-06-29T13:56:50.131Z",
+  "model": "MiniMax-M3"
+}

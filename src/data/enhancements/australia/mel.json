@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MEL",
+    "icao": "YMML",
+    "name": "Melbourne Airport",
+    "country": "Australia",
+    "city": "Melbourne",
+    "lat": -37.6707,
+    "lon": 144.8379,
+    "type": "large_airport",
+    "size": 1016075
+  },
+  "summary": "Melbourne Airport (MEL), located in Tullamarine approximately 23 km northwest of Melbourne's central business district, is Australia's second-busiest airport and the primary international gateway to Victoria. Opened in 1970 to replace the smaller Essendon Airport, it has grown into a major hub serving Qantas, Virgin Australia, and numerous international carriers across four terminals. The airport handles over 37 million passengers annually and features extensive cargo operations, making it one of the most important aviation facilities in the Southern Hemisphere.",
+  "faqs": "Q: How far is Melbourne Airport from the city center?\nA: Melbourne Airport is approximately 23 km (14 miles) northwest of Melbourne's CBD, with typical travel times of 20-40 minutes depending on traffic.\n\nQ: What public transport options serve Melbourne Airport?\nA: The SkyBus operates a 24/7 express service between the airport and Southern Cross Station in the city, with frequent departures throughout the day. Taxis, rideshare services, and rental cars are also readily available.\n\nQ: How many terminals does Melbourne Airport have?\nA: The airport has four terminals: T1 and T2 handle domestic flights, T3 serves some domestic and regional services, and T4 is used by Qantas and Jetstar for domestic operations. International flights depart from T2.\n\nQ: Is there a hotel at Melbourne Airport?\nA: Yes, several accommodation options are available on or near the airport grounds, including the PARKROYAL Melbourne Airport, Holiday Inn Melbourne Airport, and the budget-friendly ibis Budget Melbourne Airport.",
+  "transport_tips": "The SkyBus is the most cost-effective option at around AUD 22 one-way, with free Wi-Fi onboard and a journey time of roughly 30-45 minutes to Southern Cross Station. If taking a taxi or rideshare, expect to pay around AUD 55-75 for the trip into the city and allow extra time during morning and evening rush hours. Rental car facilities from major providers are located at the airport, and the drive via the M2 Tullamarine Freeway is generally straightforward.",
+  "local_tip": "If you have a long layover or early arrival, head to the observation deck area or the upper levels of the multi-story car park, which offer surprisingly good views of aircraft movements and the surrounding countryside—popular with aviation enthusiasts who travel specifically for plane spotting at MEL.",
+  "generatedAt": "2026-06-28T15:14:21.044Z",
+  "model": "MiniMax-M3"
+}

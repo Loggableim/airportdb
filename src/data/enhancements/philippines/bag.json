@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BAG",
+    "icao": "RPUB",
+    "name": "Loakan Airport",
+    "country": "Philippines",
+    "city": "Baguio",
+    "lat": 16.375,
+    "lon": 120.6199,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Loakan Airport (BAG) is a medium-sized domestic airport serving Baguio, the famous summer capital of the Philippines, located in the mountainous Cordillera region of northern Luzon. Situated at a relatively high elevation, the airport is known for its scenic approach but is also prone to weather-related disruptions, particularly fog and low clouds. It primarily handles short-haul domestic flights connecting Baguio to Manila and other Philippine destinations.",
+  "faqs": "Q: What is the airport code for Loakan Airport?\nA: The IATA code is BAG and the ICAO code is RPUB.\n\nQ: Which airlines operate at Loakan Airport?\nA: Loakan Airport has historically been served by domestic carriers such as Philippine Airlines and Cebu Pacific, though commercial flight availability can be limited.\n\nQ: Why do flights get cancelled at Loakan Airport?\nA: Due to Baguio's highland location and surrounding mountainous terrain, the airport frequently experiences fog and low visibility, leading to flight delays or cancellations.\n\nQ: How far is Loakan Airport from Baguio city center?\nA: The airport is located within Baguio itself, approximately 5-6 kilometers southeast of the city center, making access relatively quick.\n\n",
+  "transport_tips": "Taxis and jeepneys are the primary means of transport from Loakan Airport to Baguio's city center, with the short journey typically taking 15-25 minutes depending on traffic. Travelers should arrange ground transport in advance, as ride-hailing availability can be inconsistent in the area. Parking is available on-site for those being dropped off or picked up by private vehicle.",
+  "local_tip": "Pack a light jacket even during summer months—Baguio's elevation keeps temperatures noticeably cooler than the lowlands, and the airport itself can feel chilly due to its open-air design.",
+  "generatedAt": "2026-06-29T09:04:42.023Z",
+  "model": "MiniMax-M3"
+}

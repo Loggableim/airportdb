@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KRN",
+    "icao": "ESNQ",
+    "name": "Kiruna Airport",
+    "country": "Sweden",
+    "city": "Kiruna",
+    "lat": 67.822,
+    "lon": 20.3368,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kiruna Airport (KRN) is the northernmost major airport in Sweden, located just above the Arctic Circle in the heart of Swedish Lapland. It serves as the primary gateway to one of Europe's premier destinations for Northern Lights viewing, Arctic wilderness tourism, and the Icehotel in nearby Jukkasjärvi. The airport also plays a critical role in supporting the LKAB iron ore mining operations, which is the largest underground iron ore mine in the world.",
+  "faqs": "Q: How far is Kiruna Airport from the town center?\nA: The airport is located approximately 7 km southeast of Kiruna town center, a short drive of about 10 minutes.\n\nQ: When is the best time to visit Kiruna for Northern Lights?\nA: The Northern Lights season runs from late September through late March, with peak darkness and clear skies typically in December through February.\n\nQ: Are there direct flights from Stockholm?\nA: Yes, regular scheduled flights operate between Stockholm Arlanda (ARN) and Kiruna, with a flight time of approximately 1 hour and 50 minutes.\n\nQ: Does the airport operate in extreme winter conditions?\nA: Yes, Kiruna Airport is well-equipped to handle Arctic winter conditions with de-icing facilities and experienced ground crews, though weather-related delays can occasionally occur.\n\n",
+  "transport_tips": "Taxis and pre-booked airport shuttles are available outside the terminal for transfers to Kiruna town or Jukkasjärvi. Rental cars can be picked up at the airport and are recommended for exploring the wider Lapland region. During peak winter season, booking ground transportation in advance is highly advisable as availability can be limited.",
+  "local_tip": "If visiting during winter, ask your accommodation or shuttle driver about aurora forecast alerts — local guides often know the best viewing spots within 30 minutes of the airport that tourists typically miss, including less-visited locations away from light pollution in the surrounding fells.",
+  "generatedAt": "2026-06-28T20:27:25.264Z",
+  "model": "MiniMax-M3"
+}

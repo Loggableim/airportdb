@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XSE",
+    "icao": "DFES",
+    "name": "Sebba Airport",
+    "country": "Burkina Faso",
+    "city": "Sebba",
+    "lat": 13.45,
+    "lon": 0.517,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Sebba Airport is a small regional airfield serving the town of Sebba in the Yagha Province of Burkina Faso, located in the country's northern Sahel region near the borders with Niger and Mali. The facility primarily handles light aircraft and occasional humanitarian or charter flights, as it lacks scheduled commercial service. It serves as an important link for the remote community, supporting local connectivity in an area where road travel can be challenging.",
+  "faqs": "Q: Does Sebba Airport have scheduled commercial flights?\nA: No, the airport does not currently offer scheduled commercial service. It mainly accommodates charter, humanitarian, and private flights.\n\nQ: What type of aircraft can use Sebba Airport?\nA: The airfield is suited for small to medium turboprop aircraft and light planes typical of regional operations in West Africa.\n\nQ: Are there aviation facilities at the airport?\nA: The airport has basic infrastructure with a runway and minimal terminal facilities. There are no jet bridges or extensive passenger amenities.\n\nQ: Is prior permission required to land at Sebba Airport?\nA: Operators should coordinate with local aviation authorities in Burkina Faso, as coordination with regional officials is typically necessary for non-emergency flights.",
+  "transport_tips": "Ground transport from the airport to Sebba town center is usually arranged by local taxi or motorbike, and the journey takes only a few minutes given the airport's proximity to town. Travelers should arrange return transport in advance, as formal taxi services are limited. During the rainy season, road conditions in the region can deteriorate, making air travel a more reliable option.",
+  "local_tip": "Carry sufficient cash in CFA francs, as ATMs and card payment facilities are rare in Sebba, and the airport itself has no commercial concessions or currency exchange services.",
+  "generatedAt": "2026-06-28T06:48:24.933Z",
+  "model": "MiniMax-M3"
+}

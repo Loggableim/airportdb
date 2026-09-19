@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MST",
+    "icao": "EHBK",
+    "name": "Maastricht Aachen Airport",
+    "country": "Netherlands",
+    "city": "Maastricht",
+    "lat": 50.9111,
+    "lon": 5.7694,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Maastricht Aachen Airport (MST), also known as Beek Airport, is a dual-use civilian and military airfield situated in the South Limburg region of the Netherlands. Its unique cross-border name reflects its role serving both the Dutch city of Maastricht and the nearby German city of Aachen. Today it ranks as the Netherlands' second-largest cargo airport and historically hosted scheduled passenger services across Europe.",
+  "faqs": "Q: Why is it called Maastricht Aachen Airport if it's in the Netherlands?\nA: The airport's name reflects its cross-border service area, catering to passengers and businesses from both Maastricht in the Netherlands and Aachen in western Germany, located just a short drive away.\n\nQ: Does Maastricht Aachen Airport have scheduled passenger flights?\nA: Scheduled passenger services have been limited in recent years. The airport primarily handles cargo operations, charter flights, and general aviation, so travelers should check current route availability before planning a trip.\n\nQ: Is there a military presence at the airport?\nA: Yes, the airport shares its runway with a Dutch Air Force base, and military aircraft regularly use the facilities alongside civilian operations.\n\nQ: How far is the airport from Maastricht city center?\nA: The airport is located approximately 10 kilometers north of Maastricht city center, near the town of Beek.",
+  "transport_tips": "The airport is easily reached by car via the A2 motorway, with ample on-site parking available for short and long stays. Bus line 30 connects the airport directly to Maastricht Central Station in roughly 20 minutes. Travelers coming from Aachen, Germany can reach the airport in about 45 minutes by car or regional bus connections.",
+  "local_tip": "If you have a layover or early arrival, take a short taxi ride to the nearby hilltop village of Valkenburg, famous for its medieval ruins, marl caves, and the only hill railway in the Netherlands, a uniquely different Dutch experience compared to the country's typical flat landscapes.",
+  "generatedAt": "2026-06-28T19:21:03.020Z",
+  "model": "MiniMax-M3"
+}

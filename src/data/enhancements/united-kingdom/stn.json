@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "STN",
+    "icao": "EGSS",
+    "name": "London Stansted Airport",
+    "country": "United Kingdom",
+    "city": "London, Essex",
+    "lat": 51.885,
+    "lon": 0.235,
+    "type": "large_airport",
+    "size": 1012275
+  },
+  "summary": "London Stansted Airport (STN) is the third-busiest airport serving London, located approximately 40 miles northeast of the city centre in Essex. Opened in its current form in 1991 with a terminal designed by architect Sir Norman Foster, the site originated as a WWII RAF base before becoming a major hub for low-cost European carriers, particularly Ryanair. It operates a single terminal and runway, handling around 28 million passengers annually.",
+  "faqs": "Q: Which airlines use London Stansted as a main hub?\nA: Ryanair is by far the dominant carrier, operating the majority of flights. Other notable airlines include easyJet, Jet2, TUI, and Pegasus Airlines for select routes.\n\nQ: How long does it take to travel from Stansted to central London?\nA: The Stansted Express train reaches London Liverpool Street in roughly 45–50 minutes. By car or coach via the M11 motorway, the journey typically takes 60–90 minutes depending on traffic.\n\nQ: Does Stansted Airport operate 24 hours?\nA: No, Stansted has a strict night flight curfew. No scheduled flights operate between approximately 11:30 PM and 6:00 AM, though some delayed arrivals and emergency landings are permitted.\n\nQ: When was the current Stansted terminal building completed?\nA: The Norman Foster-designed terminal opened in March 1991, replacing the older wartime-era buildings on the same site.",
+  "transport_tips": "The Stansted Express train is the fastest and most reliable option to central London, with departures every 15–30 minutes to Liverpool Street station. National Express and Airport Bus Express coaches offer budget-friendly alternatives connecting to Stratford, Victoria, and other key London locations. If driving, allow extra",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T15:18:36.779Z",
+  "model": "MiniMax-M3"
+}

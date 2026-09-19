@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WLO",
+    "icao": "YWTL",
+    "name": "Waterloo Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -16.63,
+    "lon": 129.32,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Waterloo Airport (WLO) is a small regional airfield serving the remote community of Waterloo in Australia's Northern Territory. Situated in the Victoria River District, it primarily supports general aviation, charter flights, and essential services for this sparsely populated outback region. The airport plays a vital role in connecting isolated residents to larger centres like Katherine and Darwin.",
+  "faqs": "Q: What is Waterloo Airport primarily used for?\nA: The airport mainly serves general aviation, private charters, and provides essential connectivity for the remote Waterloo community and surrounding cattle stations.\n\nQ: Are there commercial passenger services at Waterloo Airport?\nA: No scheduled commercial passenger services operate here. Most flights are charter-based or private aviation movements.\n\nQ: Where is Waterloo Airport located?\nA: It is located in the Northern Territory of Australia, in the Victoria River District, near the small settlement of Waterloo.\n\nQ: What facilities are available at the airport?\nA: As a small rural airfield, facilities are minimal and typically include a basic runway, apron area, and limited refuelling services. There are no terminal buildings for commercial passengers.\n\n",
+  "transport_tips": "Access to Waterloo Airport is almost exclusively by road or air, as the area is extremely remote with no public transport infrastructure. Visitors typically arrange private vehicles or 4WD transport in advance, as the roads surrounding the airport can be rough and unpaved. Most travellers flying in arrange ground transport through their accommodation or charter operator.",
+  "local_tip": "When planning a visit, always carry extra fuel and supplies—services in the Waterloo area are extremely limited, and the nearest major town with full services (Katherine) is several hours' drive away.",
+  "generatedAt": "2026-06-27T16:08:33.896Z",
+  "model": "MiniMax-M3"
+}

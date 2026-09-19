@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BOG",
+    "icao": "SKBO",
+    "name": "El Dorado International Airport",
+    "country": "Colombia",
+    "city": "Bogota",
+    "lat": 4.7016,
+    "lon": -74.1469,
+    "type": "large_airport",
+    "size": 51275
+  },
+  "summary": "El Dorado International Airport (BOG) is Colombia's primary gateway and one of the busiest airports in Latin America, named after the legendary city of gold sought by Spanish conquistadors. Situated at approximately 2,548 meters (8,360 feet) above sea level in the Andean highlands west of central Bogota, it serves as the main hub for Avianca and handles millions of passengers annually. The airport features modern terminals with extensive domestic and international connectivity, making it the principal air link between Colombia and the rest of the world.",
+  "faqs": "Q: How far is El Dorado Airport from central Bogota?\nA: The airport is located approximately 15 kilometers (9 miles) west of downtown Bogota, with typical travel times of 30 to 60 minutes depending on traffic.\n\nQ: Does El Dorado Airport have multiple terminals?\nA: Yes, the airport operates two main terminals: Terminal 1 (El Dorado) handles most flights including international arrivals, while Terminal 2 (Puente Aéreo) primarily serves Avianca's domestic and some regional flights.\n\nQ: Is the airport affected by its high altitude?\nA: At roughly 2,548 meters elevation, the airport operates normally but passengers with respiratory conditions may notice thinner air. Flights are not significantly affected, though aircraft performance calculations account for the altitude.\n\nQ: Are there currency exchange and ATM services at BOG?\nA: Yes, multiple ATMs and currency exchange counters are available in both terminals, and Colombian pesos can be easily obtained upon arrival.",
+  "transport_tips": "Taxis and ride-hailing apps like Uber and DiDi are readily available and are the most convenient ways to reach central Bogota, though travelers should use official airport services or app-based pickups at designated zones to ensure safety. The SITP city buses and TransMilenio system offer budget-friendly options with routes connecting to the airport area. Allow extra time during rush hours (7-9 AM and 5-7 PM) as Bogota's notorious traffic can significantly extend travel times.",
+  "local_tip": "Bogota's altitude can cause mild altitude sickness, so drink plenty of water, avoid heavy meals upon arrival, and consider arriving with time to acclimatize before any connecting flights or busy schedules.",
+  "generatedAt": "2026-06-28T15:54:29.294Z",
+  "model": "MiniMax-M3"
+}

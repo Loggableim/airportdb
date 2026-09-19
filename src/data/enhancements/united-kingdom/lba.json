@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LBA",
+    "icao": "EGNM",
+    "name": "Leeds Bradford Airport",
+    "country": "United Kingdom",
+    "city": "Leeds, West Yorkshire",
+    "lat": 53.8659,
+    "lon": -1.6606,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Leeds Bradford Airport (LBA) is the principal international gateway for West Yorkshire, located in Yeadon approximately 9 miles northwest of Leeds city centre. Originally established in 1931 as Yeadon Aerodrome, it serves a catchment area covering Leeds, Bradford, Harrogate, and the broader Yorkshire region. The airport is known for its single terminal layout and is particularly popular as a base for Jet2 and other low-cost carriers serving European leisure destinations.",
+  "faqs": "Q: How far is Leeds Bradford Airport from Leeds city centre?\nA: The airport is approximately 9 miles (14 km) northwest of Leeds city centre, with a typical journey time of 30-45 minutes by car or bus depending on traffic.\n\nQ: Does the airport have its own train station?\nA: No, there is no direct rail connection. Passengers typically use the bus services or taxi to reach the nearest mainline stations in Leeds or Bradford.\n\nQ: Why does Leeds Bradford have a reputation for weather disruptions?\nA: The airport's elevated position on the edge of the Pennines means it frequently experiences low cloud, fog, and strong crosswinds, making it one of the most weather-affected airports in the UK.\n\nQ: How many terminals does LBA have?\nA: The airport operates a single terminal that handles all departures, arrivals, and check-in services.",
+  "transport_tips": "The A1 and A65 buses provide regular direct service between Leeds Bradford Airport and Leeds city centre, while the 737 route connects to Bradford. Taxis are available outside the terminal with a typical fare to Leeds costing around £25-35. Driving is straightforward via the A658 from the M1 or A1(M), and the airport offers both short-stay and long-stay parking options on-site.",
+  "local_tip": "If you have time before your flight, head up to the Yorkshire Dales or drive to nearby Otley and Ilkley for stunning moorland scenery, or visit Saltaire, a UNESCO World Heritage village, all within 30 minutes of the airport.",
+  "generatedAt": "2026-06-28T18:30:32.728Z",
+  "model": "MiniMax-M3"
+}

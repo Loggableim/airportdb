@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BGW",
+    "icao": "ORBI",
+    "name": "Baghdad International Airport / New Al Muthana Air Base",
+    "country": "Iraq",
+    "city": "Baghdad",
+    "lat": 33.2625,
+    "lon": 44.2346,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Baghdad International Airport (BGW/ORBI) is Iraq's largest and busiest airport, situated approximately 16 km southwest of the capital. Originally opened as Saddam International Airport in the 1980s, it was renamed after 2003 and shares its grounds with New Al Muthana Air Base, supporting both commercial and military operations. The facility features three passenger terminals serving as the country's primary international gateway.",
+  "faqs": "Q: How far is the airport from Baghdad city center?\nA: The airport is roughly 16 km southwest of central Baghdad, typically a 30 to 45 minute drive depending on traffic and security conditions.\n\nQ: What airlines operate from Baghdad International Airport?\nA: Iraqi Airways is the main carrier, with international service also provided by Emirates, Turkish Airlines, Qatar Airways, Gulf Air, Royal Jordanian, and several other regional Middle Eastern airlines.\n\nQ: Is the airport safe for civilian travelers?\nA: The airport operates under heightened security measures with controlled access zones, and travelers should expect thorough screening and ID verification at all entry and exit points.\n\nQ: Does the airport offer currency exchange and Wi-Fi?\nA: Limited banking and currency exchange services are available in the terminal, and Wi-Fi connectivity has been improving but can be inconsistent in some areas.\n\n",
+  "transport_tips": "Official airport taxis and pre-arranged hotel pickups are the most reliable transport options, as standard street hailing is not recommended due to security considerations. Allow extra time for the journey as checkpoints along the route can cause delays. Arranging transportation through your hotel or a verified local contact in advance is strongly advised.",
+  "local_tip": "Keep your passport and a printed copy of your visa accessible at all times inside the terminal, as security personnel frequently request documentation, and mobile phone cameras are restricted in certain secure areas.",
+  "generatedAt": "2026-06-28T17:06:50.673Z",
+  "model": "MiniMax-M3"
+}

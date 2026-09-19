@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KBP",
+    "icao": "UKBB",
+    "name": "Boryspil International Airport",
+    "country": "Ukraine",
+    "city": "Boryspil",
+    "lat": 50.345,
+    "lon": 30.8947,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Boryspil International Airport (KBP) is Ukraine's largest and busiest airport, serving as the primary international gateway for Kyiv from a location about 29 km (18 miles) east of the capital in the city of Boryspil. Established in 1959 and developed extensively over the decades, it features two parallel runways and handles the majority of Ukraine's commercial air traffic. The airport complex includes multiple passenger terminals connected by covered walkways and an integrated rail station.",
+  "faqs": "Q: How far is Boryspil Airport from central Kyiv?\nA: The airport is approximately 29 km (18 miles) east of central Kyiv, with typical journey times ranging from 40 to 75 minutes depending on traffic and mode of transport.\n\nQ: What terminals does KBP currently operate?\nA: Terminal D is the main international terminal, while Terminal B handles some regional and charter operations; Terminal F historically served domestic flights but has had limited use in recent years.\n\nQ: Is there a train connection between the airport and Kyiv?\nA: Yes, an airport rail link serves Terminal D, providing direct connections to Kyiv's central railway station with journey times of around 40 minutes.\n\nQ: Is Boryspil Airport currently operating regular flights?\nA: Commercial operations have been significantly reduced due to the security situation in Ukraine since February 2022, with scheduled passenger services largely suspended; travelers should check current advisories before planning trips.",
+  "transport_tips": "The airport rail link from Terminal D offers the most reliable connection to central Kyiv, avoiding road traffic. Licensed taxis and official airport transfer services are available outside the terminals, though",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T01:55:23.747Z",
+  "model": "MiniMax-M3"
+}

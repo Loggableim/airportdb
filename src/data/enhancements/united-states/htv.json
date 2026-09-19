@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HTV",
+    "icao": "KUTS",
+    "name": "Huntsville Regional Airport",
+    "country": "United States",
+    "city": "Huntsville",
+    "lat": 30.7469,
+    "lon": -95.5872,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Huntsville Regional Airport (IATA: HTV, ICAO: KUTS), also known as Bruce Brothers Field, is a city-owned general aviation airport about three miles north of downtown Huntsville, Texas. It has two asphalt runways and primarily serves private, business, flight-training, and emergency aircraft rather than scheduled airlines. Its location near Sam Houston State University and Huntsville State Park makes it a convenient gateway for visitors to Walker County.",
+  "faqs": "Q: Does Huntsville Regional Airport have commercial airline service?\nA: No. HTV is a general aviation airport with no scheduled passenger airline flights; travelers needing commercial service typically use Houston's IAH/HOU or College Station's CLL.\n\nQ: What facilities and services are available at HTV?\nA: The airport offers runway access, fuel (typically 100LL and Jet A), hangars, tie-downs, and FBO services; check current hours and availability before arrival.\n\nQ: How far is Huntsville Regional Airport from Houston?\nA: It is roughly 60–75 miles north of Houston, depending on destination, via I-45; drive times vary with traffic.\n\nQ: Can I rent a car or get a taxi at the airport?\nA: Rental car options are limited, and rideshare/taxi availability can vary; arrange ground transportation in advance or ask the FBO for local recommendations.",
+  "transport_tips": "The airport is reached by car via I-45 and local roads, about 10 minutes north of downtown Huntsville; there is no direct public transit service to the terminal. Rental cars are limited, so pre-arrange a taxi, rideshare, or courtesy car through the FBO if needed. For airline connections, allow 1–1.5 hours to reach Houston IAH/HOU or about 45–60 minutes to College Station CLL.",
+  "local_tip": "Frequent visitors know to call ahead for fuel and after-hours access—HTV is quiet and staffed hours can be limited, especially on weekends. Downtown Huntsville's square is the best nearby spot for meals, so plan to eat in town rather than at the airport.",
+  "generatedAt": "2026-09-19T23:08:33.473Z",
+  "model": "deepseek-v4.1-flash"
+}

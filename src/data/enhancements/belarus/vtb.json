@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VTB",
+    "icao": "UMII",
+    "name": "Vitebsk Vostochny Airport",
+    "country": "Belarus",
+    "city": "Vitebsk",
+    "lat": 55.1265,
+    "lon": 30.3496,
+    "type": "medium_airport",
+    "size": 275
+  },
+  "summary": "Vitebsk Vostochny Airport is a regional aviation facility serving the historic city of Vitebsk in northeastern Belarus. As the country's northernmost major airport, it connects this culturally significant city—birthplace of artist Marc Chagall—with other regional destinations. The airport handles primarily domestic flights and occasional regional charter operations.",
+  "faqs": "Q: Where is Vitebsk Vostochny Airport located in relation to the city?\nA: The airport is situated on the eastern outskirts of Vitebsk, roughly within driving distance of the city center, making it accessible for travelers heading to or from the urban area.\n\nQ: What type of flights operate from VTB?\nA: The airport primarily handles domestic flights within Belarus, along with occasional charter and regional services. International commercial service is limited.\n\nQ: Are there facilities available for passengers with overnight layovers?\nA: As a smaller regional airport, facilities are modest. Travelers with extended waits typically find limited amenities, so planning ahead is advisable.\n\nQ: Does the airport operate year-round?\nA: Yes, Vitebsk Vostochny operates throughout the year, though flight schedules can be seasonal with reduced frequency during winter months.",
+  "transport_tips": "Reaching the airport is most convenient by taxi or pre-arranged private transfer, as public transportation options directly serving the terminal are limited. The drive from central Vitebsk typically takes around 15-20 minutes depending on traffic. Travelers should arrange return transport in advance, as taxi availability at the airport can be sparse during off-peak hours.",
+  "local_tip": "If you have time before your flight, request your taxi to take a brief detour through Vitebsk's historic center—Marc Chagall's artwork adorns the city's main street and several local museums, and even a short walk near the Dyana River offers a glimpse of the city's charming old architecture that most transit passengers never see.",
+  "generatedAt": "2026-06-30T04:46:20.178Z",
+  "model": "MiniMax-M3"
+}

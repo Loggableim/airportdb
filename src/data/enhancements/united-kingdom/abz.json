@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ABZ",
+    "icao": "EGPD",
+    "name": "Aberdeen International Airport",
+    "country": "United Kingdom",
+    "city": "Aberdeen",
+    "lat": 57.2019,
+    "lon": -2.1978,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Aberdeen International Airport is located in Dyce, approximately 7 miles northwest of Aberdeen city centre, serving as the principal gateway to northeast Scotland. It is renowned as the main helicopter and fixed-wing hub for the North Sea oil and gas industry, earning Aberdeen its reputation as the energy capital of Europe. The airport features a single modern terminal handling around 3 million passengers annually.",
+  "faqs": "Q: How far is Aberdeen Airport from the city centre?\nA: The airport is located about 7 miles (11 km) northwest of Aberdeen city centre in Dyce, typically a 20-30 minute drive depending on traffic.\n\nQ: Does Aberdeen Airport have rail connections?\nA: Yes, Dyce railway station is located near the airport and offers regular ScotRail services to Aberdeen city centre and onward connections to Inverness and the rest of Scotland.\n\nQ: What airlines operate from Aberdeen Airport?\nA: Major carriers include British Airways, easyJet, Loganair, KLM, Ryanair, and Wizz Air, offering domestic, European, and some long-haul routes.\n\nQ: Is there a direct bus service to the airport?\nA: Yes, Stagecoach and other operators run regular bus services connecting the airport to Aberdeen city centre and surrounding areas.",
+  "transport_tips": "The 727 Stagecoach bus provides a direct and affordable link between the airport and Aberdeen city centre, running frequently throughout the day. Taxis and ride-share services are readily available outside the terminal, typically costing £15-20 to the city centre. For those driving, the airport is just off the A96 and offers short-term and long-term parking options with online pre-booking discounts.",
+  "local_tip": "If you have a layover or arrive early, the airport's Executive Lounge offers stunning views of the airfield and is an ideal spot for helicopter-spotting, as Aberdeen handles more helicopter movements than almost any other UK airport due to its oil and gas connections.",
+  "generatedAt": "2026-06-28T18:45:56.479Z",
+  "model": "MiniMax-M3"
+}

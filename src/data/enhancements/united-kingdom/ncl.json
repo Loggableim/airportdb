@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NCL",
+    "icao": "EGNT",
+    "name": "Newcastle International Airport",
+    "country": "United Kingdom",
+    "city": "Newcastle upon Tyne, Tyne and Wear",
+    "lat": 55.038,
+    "lon": -1.6896,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Newcastle International Airport (NCL) opened in 1935 at Woolsington, about 6 miles northwest of Newcastle city centre. It is the primary airport for North East England and one of the few UK airports with a direct Metro link to the city. The airport handles millions of passengers annually on a single runway with a modern terminal.",
+  "faqs": "Q: How do I get from Newcastle Airport to the city centre?\nA: The Tyne and Wear Metro provides a direct service from the airport terminal to Newcastle city centre in about 25 minutes, running every 12-15 minutes. Taxis and buses are also available.\n\nQ: What airlines operate from Newcastle Airport?\nA: Airlines include British Airways, easyJet, Ryanair, Loganair, Emirates, and KLM, offering domestic and international flights to destinations across Europe, the Middle East, and North America.\n\nQ: Is there parking at Newcastle Airport?\nA: Yes, the airport offers short-stay, long-stay, and meet-and-greet parking options. Pre-booking online is usually cheaper than paying on arrival.\n\nQ: What facilities are available at Newcastle Airport?\nA: The terminal has shops, restaurants, bars, a duty-free area, free Wi-Fi, and a lounge. There is also a prayer room and special assistance services.\n\n",
+  "transport_tips": "The Tyne and Wear Metro is the fastest and cheapest way to reach Newcastle city centre, with trains every 12-15 minutes and a journey time of around 25 minutes. Taxis are available outside the terminal, and several bus routes connect the airport to nearby towns. If driving, the airport is just off the A696, about 6 miles from the city centre.",
+  "local_tip": "To avoid drop-off charges, use the free drop-off zone at the Long Stay car park; a free shuttle bus runs to the terminal every few minutes.",
+  "generatedAt": "2026-09-19T23:21:22.240Z",
+  "model": "deepseek-v4.1-flash"
+}

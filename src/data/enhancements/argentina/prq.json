@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PRQ",
+    "icao": "SARS",
+    "name": "Termal Airport",
+    "country": "Argentina",
+    "city": "Presidencia Roque Sáenz Peña",
+    "lat": -26.7536,
+    "lon": -60.4922,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Termal Airport (PRQ/SARS) is a small regional airport serving Presidencia Roque Sáenz Peña, a key commercial and agricultural hub in the Chaco Province of northeastern Argentina. The airport primarily supports general aviation and occasional commercial flights connecting the Chaco region to other parts of the country. Located in the humid subtropical lowlands of the Gran Chaco, it provides access to an area known for cotton, soybean, and sunflower production.",
+  "faqs": "Q: What is Termal Airport primarily used for?\nA: The airport mainly serves general aviation, private flights, and occasional regional commercial services for Presidencia Roque Sáenz Peña and surrounding areas in Chaco Province.\n\nQ: Are there regular commercial flights from PRQ?\nA: Commercial service is limited and infrequent. Travelers should check with regional carriers for current schedules, as routes may be seasonal.\n\nQ: Where is the airport located relative to the city?\nA: The airport is situated on the outskirts of Presidencia Roque Sáenz Peña, within a short drive of the city center.\n\nQ: What is the nearest major airport with more flight options?\nA: Resistencia International Airport (RES), the capital of Chaco Province, is the closest airport offering broader domestic connections.",
+  "transport_tips": "Ground transportation options are limited, so arranging a taxi or private transfer in advance is recommended. Rental cars may be available through local agencies in the city rather than at the airport terminal. The drive to the city center is short and straightforward via local roads.",
+  "local_tip": "If visiting during the warmer months (October to March), plan for high humidity and occasional heavy thunderstorms, which can affect flight schedules and visibility at the airport.",
+  "generatedAt": "2026-06-28T05:53:45.607Z",
+  "model": "MiniMax-M3"
+}

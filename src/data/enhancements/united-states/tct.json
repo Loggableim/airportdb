@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TCT",
+    "icao": "PPCT",
+    "name": "Takotna Airport",
+    "country": "United States",
+    "city": "Takotna",
+    "lat": 62.9932,
+    "lon": -156.029,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Takotna Airport is a small public-use airport serving the remote village of Takotna in interior Alaska, located along the Takotna River. The airport primarily supports general aviation and provides essential connectivity for residents of this small Yukon-Koyukuk Census Area community, which is otherwise isolated by road. Its single runway handles small propeller aircraft typical of bush aviation operations in rural Alaska.",
+  "faqs": "Q: What is the main purpose of Takotna Airport?\nA: The airport serves the small village of Takotna, providing vital air access for residents, mail delivery, medical evacuations, and supply transport in this remote part of Alaska.\n\nQ: Are there commercial airline services at Takotna Airport?\nA: No scheduled commercial airline service operates at Takotna Airport. Travelers typically rely on charter flights or bush plane services to reach the community.\n\nQ: What type of aircraft can use this airport?\nA: The airport primarily accommodates small single-engine and twin-engine propeller aircraft, including bush planes equipped with skis or tundra tires for various seasonal conditions.\n\nQ: What are the operating conditions like at Takotna Airport?\nA: The airport operates in a subarctic climate with long, cold winters and short summers. Pilots should be prepared for snow operations, limited navigation aids, and weather that can change rapidly in interior Alaska.",
+  "transport_tips": "There is no public transportation to or from Takotna Airport; travelers must arrange charter flights or have local pickup arranged in advance. The airport is located adjacent to the village, so most accommodations and services are within walking distance once you arrive. During winter months, snow-covered terrain may require specialized ground transport such as snowmobiles or tracked vehicles.",
+  "local_tip": "If visiting during the Iditarod Trail Sled Dog Race, Takotna serves as a popular checkpoint village, and the airport sees increased charter traffic in late February and early March—book flights well in advance during this period.",
+  "generatedAt": "2026-06-26T20:33:45.813Z",
+  "model": "MiniMax-M3"
+}

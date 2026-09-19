@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SJT",
+    "icao": "KSJT",
+    "name": "San Angelo Regional Mathis Field",
+    "country": "United States",
+    "city": "San Angelo",
+    "lat": 31.3577,
+    "lon": -100.496,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "San Angelo Regional Mathis Field is a medium-sized public airport serving the Concho Valley region of West Texas. Located in Tom Green County, it provides commercial passenger service to San Angelo and surrounding communities. The airport supports general aviation, military training operations, and scheduled airline flights.",
+  "faqs": "Q: What airlines operate from San Angelo Regional Airport?\nA: The airport has historically been served by regional carriers offering connections to Dallas/Fort Worth and other Texas hubs, though service can vary over time.\n\nQ: How far is the airport from downtown San Angelo?\nA: The airport is located on the southwest side of the city, roughly a 15-minute drive from downtown San Angelo.\n\nQ: Does the airport have car rental services?\nA: Yes, rental car counters are typically available inside the terminal for travelers needing ground transportation.\n\nQ: Is there parking available at the airport?\nA: The airport provides on-site parking options including short-term and long-term lots near the terminal building.\n\n",
+  "transport_tips": "The airport is located southwest of San Angelo, accessible via US-67 and Knickerbocker Road. Rental cars, taxis, and rideshare services are the most common ways to reach the city. Because commercial service is limited, travelers should confirm flight schedules in advance and arrange ground transportation ahead of arrival.",
+  "local_tip": "If you have a layover or extra time, Fort Concho National Historic Landmark is a short drive from the airport and offers a glimpse into 19th-century frontier military life unique to West Texas.",
+  "generatedAt": "2026-06-29T03:19:05.185Z",
+  "model": "MiniMax-M3"
+}

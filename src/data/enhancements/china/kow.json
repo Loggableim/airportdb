@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KOW",
+    "icao": "ZSGZ",
+    "name": "Ganzhou Huangjin Airport",
+    "country": "China",
+    "city": "Ganzhou",
+    "lat": 25.8533,
+    "lon": 114.7789,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Ganzhou Huangjin Airport (KOW) is a small regional airport serving Ganzhou, a historic city in southern Jiangxi Province, China. The name 'Huangjin' translates to 'Golden,' reflecting the region's nickname as the 'Cradle of the Hakka People.' The airport primarily handles domestic flights connecting Ganzhou to major Chinese hubs like Beijing, Shanghai, and Guangzhou.",
+  "faqs": "Q: How far is Ganzhou Huangjin Airport from the city center?\nA: The airport is located approximately 20 km southeast of central Ganzhou, with typical taxi rides taking around 30-40 minutes depending on traffic.\n\nQ: Does the airport offer international flights?\nA: No, Ganzhou Huangjin Airport primarily handles domestic flights to major Chinese cities. International travelers typically connect through larger hubs like Guangzhou or Shenzhen.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, it offers basic amenities including a small selection of shops, dining options, and lounges, though services are more limited compared to major international airports.\n\nQ: When is the airport busiest?\nA: Peak travel times typically coincide with Chinese holidays such as Spring Festival (Chinese New Year) and National Day Golden Week, when flights to and from Ganzhou see significant demand from returning Hakka natives.",
+  "transport_tips": "Taxis and ride-hailing services like Didi are the most convenient options for reaching central Ganzhou, with metered fares generally affordable. Airport shuttle buses also operate on limited schedules connecting the airport to key points in the city. Travelers should allow extra time during peak travel seasons as road congestion can significantly increase travel times.",
+  "local_tip": "Pack some snacks before arriving — dining options inside the terminal are limited and may close early on late-night flights, and the small airport does not have a wide variety of food vendors like larger Chinese airports.",
+  "generatedAt": "2026-06-26T18:15:38.608Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SFO",
+    "icao": "KSFO",
+    "name": "San Francisco International Airport",
+    "country": "United States",
+    "city": "San Francisco",
+    "lat": 37.6198,
+    "lon": -122.3748,
+    "type": "large_airport",
+    "size": 1112475
+  },
+  "summary": "San Francisco International Airport (SFO) is one of the busiest airports in the United States, located about 13 miles south of downtown San Francisco on the shores of San Francisco Bay. Originally established in 1927, it has grown into a major international gateway and the primary hub for United Airlines. The airport is renowned for its award-winning terminal amenities, including rotating art exhibitions, a dedicated aviation museum in the International Terminal, and the iconic cylindrical control tower that has become a Bay Area landmark.",
+  "faqs": "Q: How far is SFO from downtown San Francisco?\nA: SFO is approximately 13 miles (21 km) south of downtown San Francisco, typically a 25-40 minute drive depending on traffic.\n\nQ: How many terminals does SFO have?\nA: SFO has four terminals: Terminals 1, 2, and 3 serve domestic flights, while the International Terminal handles international arrivals and departures.\n\nQ: Is there a way to travel between terminals?\nA: Yes, SFO offers a free AirTrain that connects all terminals, parking areas, and the BART/Caltrain station 24 hours a day.\n\nQ: Does SFO have free Wi-Fi?\nA: Yes, SFO provides complimentary Wi-Fi throughout all terminals; connect to the '#SFO Free WiFi' network.",
+  "transport_tips": "BART (Bay Area Rapid Transit) is the most affordable and reliable option, connecting SFO directly to downtown San Francisco and the East Bay in about 30 minutes. Rideshares and taxis are available curbside at designated pickup zones on the arrivals level of each terminal. If driving, allow extra time during rush hours (7-10 AM and 4-7 PM) as traffic on US-101 can be heavy.",
+  "local_tip": "Frequent travelers swear by the airport's yoga room located in Terminal 2—it offers a quiet space with mats to stretch and decompress between flights, a feature rarely found at other major airports. Also, check out the rotating exhibits at the SFO Museum in the International Terminal, which holds the distinction of being the only accredited museum inside an airport.",
+  "generatedAt": "2026-06-28T14:41:01.533Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GDQ",
+    "icao": "HAGN",
+    "name": "Gondar Airport",
+    "country": "Ethiopia",
+    "city": "Azezo",
+    "lat": 12.5199,
+    "lon": 37.434,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Gondar Airport (GDQ) serves the historic city of Gondar in northern Ethiopia, located in the Azezo area just outside the city center. It functions as a key gateway for travelers visiting the UNESCO World Heritage-listed Fasil Ghebbi palace complex and the surrounding Amhara region's cultural landmarks. The airport primarily handles domestic flights connecting Gondar with Addis Ababa and other Ethiopian destinations.",
+  "faqs": "Q: What airlines operate from Gondar Airport?\nA: Ethiopian Airlines is the primary carrier operating domestic flights from Gondar Airport, mainly connecting with Addis Ababa Bole International Airport.\n\nQ: How far is the airport from Gondar city center?\nA: Gondar Airport is located in Azezo, approximately 7 kilometers from the main city center where the famous castles are located.\n\nQ: Does the airport have international flights?\nA: No, Gondar Airport primarily handles domestic flights. International travelers typically connect through Addis Ababa.\n\nQ: Are there ATMs and currency exchange at the airport?\nA: Facilities at Gondar Airport are limited; it is advisable to obtain Ethiopian Birr in Addis Ababa or from ATMs in Gondar city before traveling.",
+  "transport_tips": "Taxis and minibuses are available outside the terminal for the short journey into Gondar city center. Pre-arranging a hotel pickup is recommended, as formal taxi services may be limited. The drive to the city typically takes around 15-20 minutes depending on traffic.",
+  "local_tip": "Visit the Fasil Ghebbi castle complex early in the morning to avoid crowds and the midday heat; the Royal Enclosure is best experienced with a local guide who can share the rich history of the 17th-century Ethiopian emperors.",
+  "generatedAt": "2026-06-29T09:04:32.565Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XAI",
+    "icao": "ZHXY",
+    "name": "Xinyang Minggang Airport",
+    "country": "China",
+    "city": "Xinyang",
+    "lat": 32.5408,
+    "lon": 114.0791,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Xinyang Minggang Airport is a medium-sized regional airport serving Xinyang city in southern Henan Province, China. Located in the town of Minggang, it provides domestic connectivity for this region known for its tea production and proximity to the Jiugong Mountains. The airport operates as a civil aviation facility supporting regional travel needs in central China.",
+  "faqs": "Q: What does the airport code XAI stand for?\nA: XAI is the IATA code assigned to Xinyang Minggang Airport, used for airline ticketing and baggage handling.\n\nQ: Is Xinyang Minggang Airport an international airport?\nA: No, it is a domestic regional airport serving flights within mainland China.\n\nQ: How far is the airport from Xinyang city center?\nA: The airport is located in Minggang town, approximately 40-50 kilometers from central Xinyang, requiring ground transport time.\n\nQ: Are there dining options at the airport?\nA: As a medium-sized regional airport, basic dining and refreshment facilities are available for passengers in the terminal.",
+  "transport_tips": "The most common way to reach the airport from Xinyang city center is by private car or airport shuttle bus, which typically takes around one hour depending on traffic. Taxi services are available but it's advisable to arrange return transport in advance due to limited on-demand options at the airport. Rental cars and pre-booked hotel transfers offer the most reliable journey times.",
+  "local_tip": "Since the airport is located in Minggang rather than central Xinyang, plan at least 2-3 hours of buffer time for your journey, as local roads can be slower than expected and ride-hailing app availability is limited in this area.",
+  "generatedAt": "2026-06-29T23:23:47.375Z",
+  "model": "MiniMax-M3"
+}

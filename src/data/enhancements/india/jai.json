@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JAI",
+    "icao": "VIJP",
+    "name": "Jaipur International Airport",
+    "country": "India",
+    "city": "Jaipur",
+    "lat": 26.8242,
+    "lon": 75.8122,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Jaipur International Airport (JAI) is the primary air gateway to the Pink City of Jaipur, the capital of Rajasthan and a major heritage tourism destination. Originally known as Sanganeer Airport, it was India's first airport to be constructed entirely with public investment when it opened in 1969. The airport handles a mix of domestic flights and limited international services, serving as a key entry point for travelers visiting the region's forts, palaces, and cultural landmarks.",
+  "faqs": "Q: How far is Jaipur International Airport from the city center?\nA: The airport is located approximately 10 kilometers (6 miles) south of Jaipur's city center, with typical travel times of 20 to 40 minutes depending on traffic.\n\nQ: Does Jaipur Airport offer international flights?\nA: Yes, Terminal 2 handles international flights to destinations in the Middle East and select other regions, while Terminal 1 primarily serves domestic routes.\n\nQ: What facilities are available at the airport?\nA: The airport provides standard amenities including lounges, food outlets, currency exchange, duty-free shopping in the international terminal, and prepaid taxi counters.\n\nQ: Which airlines operate the most flights from Jaipur?\nA: Major domestic carriers including IndiGo, Air India, SpiceJet, and Vistara operate regular services connecting Jaipur to Delhi, Mumbai, and other Indian cities.",
+  "transport_tips": "Prepaid taxi counters and app-based ride services like Ola and Uber are available at the arrivals area for reliable transport into the city. Auto-rickshaws can be hired from designated stands just outside the terminal for a more budget-friendly option. If traveling during peak tourist season, pre-booking your ride is recommended to avoid waiting times.",
+  "local_tip": "Visit the airport's small souvenir and handicraft shop near the departure area to pick up authentic Rajasthani items like miniature paintings or block-printed textiles, which make compact gifts and are easier to carry than market purchases.",
+  "generatedAt": "2026-06-28T19:54:04.990Z",
+  "model": "MiniMax-M3"
+}

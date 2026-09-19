@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SRC",
+    "icao": "KSRC",
+    "name": "Searcy Municipal Airport",
+    "country": "United States",
+    "city": "Searcy",
+    "lat": 35.2106,
+    "lon": -91.7375,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Searcy Municipal Airport (SRC) is a small general aviation facility serving the city of Searcy in central Arkansas, located in White County. It primarily supports private aviation, flight training, and recreational flying for the local community, which is also home to Harding University. The airport features a single asphalt runway and operates without scheduled commercial service.",
+  "faqs": "Q: Does Searcy Municipal Airport offer commercial flights?\nA: No, SRC is a general aviation airport with no scheduled commercial airline service.\n\nQ: What is the airport mainly used for?\nA: The airport primarily serves private pilots, flight training, recreational flying, and corporate aviation needs in the Searcy area.\n\nQ: How many runways does SRC have?\nA: Searcy Municipal Airport has one asphalt-paved runway suitable for small to mid-size aircraft.\n\nQ: Are there aircraft rental or charter services available?\nA: Limited flight services may be available through local operators; contact the airport directly for current offerings.\n\n",
+  "transport_tips": "The airport is located just a few miles northwest of downtown Searcy, making it a short drive by car. Rental cars and rideshare services are typically the most convenient options for ground transportation. Visitors arriving by general aviation should arrange pickup in advance as on-site rental counters are limited.",
+  "local_tip": "If you are visiting Harding University or attending a campus event, the airport is only about 10 minutes from campus, making it a convenient alternative to driving from Little Rock's larger airports.",
+  "generatedAt": "2026-06-27T03:37:21.992Z",
+  "model": "MiniMax-M3"
+}

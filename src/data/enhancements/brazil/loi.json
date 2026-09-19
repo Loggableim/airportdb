@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LOI",
+    "icao": "SSLN",
+    "name": "Helmuth Baungarten Airport",
+    "country": "Brazil",
+    "city": "Lontras",
+    "lat": -27.16,
+    "lon": -49.5425,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Helmuth Baungarten Airport serves the small municipality of Lontras in the state of Santa Catarina, southern Brazil. It functions primarily as a general aviation facility supporting regional connectivity in the Itajaí Valley region. The airport handles light aircraft operations and occasional charter flights serving the local agricultural and tourism industries.",
+  "faqs": "Q: What type of aircraft does Helmuth Baungarten Airport handle?\nA: The airport primarily accommodates small general aviation aircraft and light planes, with no scheduled commercial passenger service.\n\nQ: Is there scheduled commercial service at this airport?\nA: No, Helmuth Baungarten Airport does not offer scheduled commercial flights. Travelers typically use larger airports in the region for commercial connections.\n\nQ: What facilities are available at the airport?\nA: As a small regional airstrip, it offers basic infrastructure including a terminal building and runway, suited for private and charter operations.\n\nQ: Can private pilots land at this airport?\nA: Yes, the airport is available for private pilots, though prior permission and a flight plan filing may be advisable for non-local operators.",
+  "transport_tips": "Reaching the airport from Lontras town center typically requires a short taxi or rideshare trip. Given the limited public transport options in this rural area, arranging a private vehicle in advance is recommended. The nearest major airport with commercial connections is in Navegantes, approximately 50 kilometers away.",
+  "local_tip": "Pilots visiting the region should note that the airport sits in a valley surrounded by hills, so morning flights often offer the most reliable visibility and smoother approach conditions before afternoon weather develops.",
+  "generatedAt": "2026-06-27T09:56:19.242Z",
+  "model": "MiniMax-M3"
+}

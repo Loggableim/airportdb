@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WAY",
+    "icao": "KWAY",
+    "name": "Greene County Airport",
+    "country": "United States",
+    "city": "Waynesburg",
+    "lat": 39.9011,
+    "lon": -80.1307,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Greene County Airport (WAY/KWAY) is a small general aviation facility serving Waynesburg, the county seat of Greene County in southwestern Pennsylvania. Located in the rolling hills of the Appalachian Plateau, the airport primarily supports private pilots, recreational flying, and occasional corporate or medical transport flights. Its rural setting makes it a convenient gateway for visitors to Greene County and the surrounding region.",
+  "faqs": "Q: Does Greene County Airport offer commercial airline service?\nA: No, this is a general aviation airport with no scheduled commercial flights. Private and charter aircraft are the primary users.\n\nQ: What facilities are available at the airport?\nA: The airport features a runway, tie-down areas, and basic services for general aviation aircraft. Pilots should verify available amenities and fuel availability before arrival.\n\nQ: Can I fly into Greene County Airport for a visit to Waynesburg?\nA: Yes, with appropriate aircraft and prior permission or arrangement, pilots can fly in. Contact the airport or local fixed-base operator for details on landing and parking.\n\nQ: What is the airport's identifier?\nA: The FAA location identifier is WAY, and the ICAO code is KWAY.",
+  "transport_tips": "Since the airport has no commercial service, ground transportation is best arranged in advance. Rental cars from larger nearby airports in Pittsburgh (about 60 miles northeast) are a common option for visitors. Local taxi services or ride-hailing may be limited, so having a personal vehicle or pre-arranged transport is recommended.",
+  "local_tip": "If you're visiting in the fall, plan your trip around the Greene County Covered Bridge Festival, one of Pennsylvania's oldest and largest fall festivals celebrating the region's historic covered bridges and Appalachian heritage.",
+  "generatedAt": "2026-06-27T15:29:55.140Z",
+  "model": "MiniMax-M3"
+}

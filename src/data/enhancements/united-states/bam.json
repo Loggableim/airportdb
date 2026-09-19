@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BAM",
+    "icao": "KBAM",
+    "name": "Battle Mountain Airport",
+    "country": "United States",
+    "city": "Battle Mountain",
+    "lat": 40.599,
+    "lon": -116.874,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Battle Mountain Airport (BAM) is a small general aviation facility serving the remote mining community of Battle Mountain in north-central Nevada. Situated along Interstate 80 between Winnemucca and Elko, it primarily supports private aircraft, flight training, and occasional charter operations tied to the region's gold mining industry. The airport features a single asphalt runway and is operated by Lander County.",
+  "faqs": "Q: What is Battle Mountain Airport primarily used for?\nA: The airport mainly serves general aviation, private pilots, and charter flights supporting the local gold mining operations, with no scheduled commercial service.\n\nQ: Are there rental cars available at the airport?\nA: No on-site rental car counters are available. Visitors typically need to arrange ground transportation in advance with local services or hotels in Battle Mountain.\n\nQ: How long is the runway at KBAM?\nA: The airport has a single asphalt runway approximately 7,300 feet long, suitable for most general aviation aircraft and small to mid-size business jets.\n\nQ: Is fuel available at Battle Mountain Airport?\nA: Fuel services may be available but should be confirmed ahead of arrival, as the airport is unattended for much of the day.\n\n",
+  "transport_tips": "The airport is located just a few miles south of Battle Mountain's town center, easily reached via a short drive along State Route 305. Since no commercial shuttle or taxi service is regularly available, renting a car in a larger nearby city like Elko or Winnemucca is recommended. Many visitors arrange pickup with a local contact or hotel in advance.",
+  "local_tip": "If you're flying in during summer, be prepared for afternoon thunderstorms that commonly develop over the surrounding mountain ranges—early morning arrivals typically offer the smoothest conditions and clearest views of the dramatic high desert landscape.",
+  "generatedAt": "2026-06-27T02:30:59.000Z",
+  "model": "MiniMax-M3"
+}

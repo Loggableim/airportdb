@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VDR",
+    "icao": "SAOD",
+    "name": "Villa Dolores Airport",
+    "country": "Argentina",
+    "city": "Villa Dolores",
+    "lat": -31.9452,
+    "lon": -65.1463,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Villa Dolores Airport (VDR) is a medium-sized regional airport serving Villa Dolores, a city in the Traslasierra Valley of Córdoba Province, Argentina. It functions as an important gateway for tourists visiting the western Córdoba region, including popular destinations like Mina Clavero, Nono, and the Sierras de Córdoba. The airport primarily handles domestic regional flights, supporting the area's growing tourism and local connectivity.",
+  "faqs": "Q: What is the main purpose of Villa Dolores Airport?\nA: The airport primarily serves as a regional gateway for travelers visiting the Traslasierra Valley in Córdoba Province, including tourist destinations in the surrounding Sierras.\n\nQ: Does Villa Dolores Airport offer international flights?\nA: No, the airport handles domestic regional flights only, connecting Villa Dolores with other cities within Argentina.\n\nQ: How far is the airport from the city center of Villa Dolores?\nA: The airport is located a short drive from central Villa Dolores, typically reachable in around 10-15 minutes by car.\n\nQ: Are there car rental services at the airport?\nA: Rental car services and taxis are generally available at the airport, though options may be limited compared to larger hubs.",
+  "transport_tips": "Taxis and remise services are the most reliable way to reach the airport from Villa Dolores or nearby towns like Mina Clavero. Renting a car in advance is recommended for travelers planning to explore the Traslasierra Valley, as public transportation between towns can be infrequent. The airport is well-connected by paved roads, making transfers straightforward.",
+  "local_tip": "Frequent visitors recommend scheduling flights for daytime arrival, as the scenic drive from the airport through the Sierras de Córdoba is far more enjoyable in daylight and helps with orientation if heading to smaller villages like Nono or Las Rabonas.",
+  "generatedAt": "2026-06-26T13:57:46.444Z",
+  "model": "MiniMax-M3"
+}

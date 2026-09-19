@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AQJ",
+    "icao": "OJAQ",
+    "name": "King Hussein International Airport",
+    "country": "Jordan",
+    "city": "Aqaba",
+    "lat": 29.6116,
+    "lon": 35.0181,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "King Hussein International Airport (AQJ) is Jordan's southernmost airport, serving the Red Sea port city of Aqaba and providing access to major tourist destinations including Petra and Wadi Rum. Named after the late King Hussein bin Talal, the facility handles both civilian and military operations. It serves as the primary gateway for travelers heading to Jordan's coastal resorts and southern archaeological sites.",
+  "faqs": "Q: How far is the airport from Aqaba city center?\nA: The airport is located approximately 10 km (6 miles) north of downtown Aqaba, typically a 15-20 minute drive depending on traffic.\n\nQ: Can I reach Petra from King Hussein International Airport?\nA: Yes, Petra is about 130 km north of the airport, roughly a 2-hour drive. Many visitors use AQJ as their entry point for southern Jordan.\n\nQ: Does the airport offer international flights?\nA: Yes, AQJ receives seasonal and scheduled international flights from various European and Middle Eastern destinations, though Amman's Queen Alia International Airport handles most international traffic.\n\nQ: Are there customs and immigration facilities at AQJ?\nA: Yes, the airport has full customs, immigration, and duty-free services for arriving and departing international passengers.",
+  "transport_tips": "Taxis and ride-hailing services are readily available outside the terminal and are the most convenient way to reach Aqaba city or cross into Eilat, Israel via the nearby border crossing. Renting a car at the airport is a good option for those planning to visit Wadi Rum or Petra, as public transport in southern Jordan is limited. Pre-arranging hotel transfers is recommended during peak tourist seasons.",
+  "local_tip": "If you have a layover or early arrival, consider visiting the Aqaba Fort or taking a quick dip at the South Beach — both are within 20 minutes of the airport and offer a great taste of the Red Sea coast before continuing your journey.",
+  "generatedAt": "2026-06-28T21:00:55.394Z",
+  "model": "MiniMax-M3"
+}

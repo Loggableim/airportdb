@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NDD",
+    "icao": "FNSU",
+    "name": "Sumbe Airport",
+    "country": "Angola",
+    "city": "Sumbe",
+    "lat": -11.1679,
+    "lon": 13.8475,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Sumbe Airport (NDD) is a medium-sized regional airport serving the coastal city of Sumbe, the capital of Angola's Cuanza Sul Province. Situated along the Atlantic coast in west-central Angola, the airport supports domestic connectivity and serves as an important gateway for the province. The facility primarily handles regional flights and charter operations supporting the local community and surrounding agricultural region.",
+  "faqs": "Q: What is the IATA code for Sumbe Airport?\nA: The IATA code is NDD, and the ICAO code is FNSU.\n\nQ: Are there international flights from Sumbe Airport?\nA: Sumbe Airport primarily handles domestic and regional flights within Angola rather than long-haul international services.\n\nQ: How far is the airport from Sumbe city center?\nA: The airport is located relatively close to Sumbe, making it a convenient gateway for travelers heading to and from the provincial capital.\n\nQ: What facilities are available at Sumbe Airport?\nA: As a medium-sized regional airport, it offers basic terminal facilities suited to domestic operations and smaller aircraft.\n\n",
+  "transport_tips": "Taxis and private transfers are typically the most reliable way to reach Sumbe city from the airport, as public transport options directly serving the terminal are limited. Travelers arriving without pre-arranged transport can negotiate with local taxi drivers at the terminal. Renting a vehicle in advance is recommended for those planning to explore Cuanza Sul Province beyond the city.",
+  "local_tip": "Sumbe is known for its beautiful Atlantic beaches and the nearby Kalandula Falls is one of Africa's largest waterfalls, so consider extending your trip to explore the province's natural attractions beyond just the city.",
+  "generatedAt": "2026-06-26T13:41:53.069Z",
+  "model": "MiniMax-M3"
+}

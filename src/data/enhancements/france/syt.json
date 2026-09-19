@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SYT",
+    "icao": "LFLN",
+    "name": "Saint-Yan Airport",
+    "country": "France",
+    "city": "L'Hôpital-le-Mercier, Saône-et-Loire",
+    "lat": 46.414,
+    "lon": 4.0142,
+    "type": "medium_airport",
+    "size": 575
+  },
+  "summary": "Saint-Yan Airport is a medium-sized airfield in the Burgundy region of central France, situated in the commune of L'Hôpital-le-Mercier in Saône-et-Loire. The site has a notable aviation history, having previously operated as a French Air Force base before transitioning to civilian and training use. Today it primarily serves general aviation, flight training, and occasional charter operations in the Charolais countryside.",
+  "faqs": "Q: What is Saint-Yan Airport mainly used for today?\nA: The airport primarily supports general aviation, recreational flying, and flight training activities, with occasional charter and business flights.\n\nQ: Is there scheduled commercial passenger service at Saint-Yan?\nA: No regular scheduled commercial service operates from Saint-Yan; travelers typically use larger regional airports such as Lyon or Clermont-Ferrand for commercial flights.\n\nQ: What facilities are available at the airfield?\nA: The airport features runway infrastructure suitable for medium-sized aircraft, along with hangars, fueling services, and basic pilot amenities.\n\nQ: Can private pilots land at Saint-Yan?\nA: Yes, the airport welcomes general aviation traffic, though pilots should check current operating hours and PPR requirements before arrival.",
+  "transport_tips": "The airport is accessed by road via the D979 and surrounding rural routes, with the nearest major highway being the A6 autoroute to the east. Having a rental car is strongly recommended, as public transport options to the airfield are very limited. The nearest towns with accommodation and services are Paray-le-Monial and Digoin, both within roughly 15 kilometers.",
+  "local_tip": "If you are visiting for a flight lesson or aviation event, plan a stop in nearby Paray-le-Monial to see the magnificent Romanesque Basilica of the Sacred Heart, one of the finest examples of Cluniac architecture in Burgundy.",
+  "generatedAt": "2026-06-29T17:36:54.798Z",
+  "model": "MiniMax-M3"
+}

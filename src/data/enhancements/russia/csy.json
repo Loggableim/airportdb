@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CSY",
+    "icao": "UWKS",
+    "name": "Cheboksary Airport",
+    "country": "Russia",
+    "city": "Cheboksary",
+    "lat": 56.0903,
+    "lon": 47.3473,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Cheboksary Airport (CSY/UWKS) is a medium-sized regional airport serving Cheboksary, the capital of the Chuvash Republic in central European Russia. It sits on the northern bank of the Volga River, providing essential air connectivity for this Volga-region city of around 500,000 residents. The airport primarily handles domestic flights to Moscow and other Russian destinations.",
+  "faqs": "Q: What is the IATA code for Cheboksary Airport?\nA: The IATA code is CSY and the ICAO code is UWKS.\n\nQ: Where is Cheboksary Airport located?\nA: It is located in Cheboksary, the capital city of the Chuvash Republic in central Russia, near the Volga River.\n\nQ: What destinations can I fly to from Cheboksary Airport?\nA: The airport primarily serves domestic routes, with regular flights to Moscow (Sheremetyevo and other airports) and occasional seasonal or charter services.\n\nQ: How far is the airport from Cheboksary city center?\nA: The airport is located roughly 7-8 km from the city center, making it a short drive away.\n\n",
+  "transport_tips": "The airport is connected to the city center by taxi and marshrutka (fixed-route minibus) services, typically taking 15-25 minutes depending on traffic. Pre-booking a taxi via a local app or hotel is recommended, especially for early morning departures. Public bus routes also serve the airport area at lower cost.",
+  "local_tip": "If you have a layover or extra time, visit the Chuvash National Museum in central Cheboksary to learn about the unique Chuvash culture and language, one of the distinct ethnic traditions of the Volga region.",
+  "generatedAt": "2026-06-29T14:48:02.942Z",
+  "model": "MiniMax-M3"
+}

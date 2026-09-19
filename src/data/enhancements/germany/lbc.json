@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LBC",
+    "icao": "EDHL",
+    "name": "Lübeck Blankensee Airport",
+    "country": "Germany",
+    "city": "Lübeck",
+    "lat": 53.8054,
+    "lon": 10.7192,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Lübeck Blankensee Airport (LBC) is a regional airport serving the Hanseatic city of Lübeck in Schleswig-Holstein, northern Germany. Originally established in the early 20th century, it has historically supported both civilian and general aviation in the Baltic region. The airport sits south of the city center and primarily handles general aviation, charter, and seasonal flights.",
+  "faqs": "Q: How far is Lübeck Blankensee Airport from the city center?\nA: The airport is located approximately 8 km south of Lübeck's historic Altstadt (Old Town), typically a 15-20 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Scheduled commercial international service has been limited in recent years; most current operations involve general aviation, charter flights, and occasional seasonal routes.\n\nQ: What facilities are available at the terminal?\nA: The terminal is modest in size and offers standard amenities including a café, car rental desks, and basic passenger services suited to a regional airport.\n\nQ: Are there overnight accommodation options near the airport?\nA: Yes, several hotels are located within a short drive, particularly along the main access road leading toward the city.\n\n",
+  "transport_tips": "The easiest way to reach the airport is by car via the A1 motorway, taking the Lübeck-Süd exit. Taxi services from Lübeck city center typically cost a moderate fare and take around 15 minutes. Bus connections are available but may run on limited schedules, especially outside peak hours.",
+  "local_tip": "If you have time before your flight, take a quick detour into Lübeck's Altstadt to sample authentic marzipan at Café Niederegger — the city is famously the marzipan capital of Germany.",
+  "generatedAt": "2026-06-29T03:54:17.293Z",
+  "model": "MiniMax-M3"
+}

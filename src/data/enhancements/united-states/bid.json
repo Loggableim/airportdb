@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BID",
+    "icao": "KBID",
+    "name": "Block Island State Airport",
+    "country": "United States",
+    "city": "Block Island",
+    "lat": 41.1684,
+    "lon": -71.5786,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Block Island State Airport (BID) is a small public-use airport located on Block Island, Rhode Island, approximately 12 miles off the mainland coast in the Atlantic Ocean. It serves as a key gateway to this popular New England summer vacation destination, offering a faster alternative to the passenger ferry from Point Judith. The airport is known for its short single runway and scenic island approach, making it a memorable arrival experience.",
+  "faqs": "Q: How long is the runway at Block Island State Airport?\nA: The airport features a single asphalt runway (10/28) approximately 2,502 feet long, one of the shortest commercial runways in the region, which limits operations to small aircraft.\n\nQ: Are there scheduled commercial flights to Block Island?\nA: Yes, seasonal scheduled commercial service is typically available, with small carrier aircraft connecting to mainland airports like Westerly and Providence. Private and charter flights are common year-round.\n\nQ: What is Block Island known for?\nA: Block Island is a popular tourist destination known for its pristine beaches, the Southeast Lighthouse, 32 miles of protected hiking trails, cycling, and a charming New England harbor village.\n\nQ: Does the airport operate year-round?\nA: The airport operates year-round, but commercial service is largely seasonal, concentrated during the summer tourist season when visitor demand is highest.",
+  "transport_tips": "The airport is located just a few miles from Block Island's main settlement and Old Harbor, with taxi service and rental cars typically available on-site for arriving passengers. Many visitors also use the Block Island Shuttle or simply walk or bike to nearby accommodations. As an alternative, the Block Island Ferry from Point Judith, Rhode Island, is a popular and scenic option that runs year-round with increased frequency in summer.",
+  "local_tip": "Pack light and confirm your return flight well in advance—Block Island's weather can change rapidly, and the short runway means flights are frequently delayed or diverted to Westerly during fog or high winds,",
+  "generatedAt": "2026-06-26T19:24:58.101Z",
+  "model": "MiniMax-M3"
+}

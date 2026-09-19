@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GCJ",
+    "icao": "FAGC",
+    "name": "Grand Central Airport",
+    "country": "South Africa",
+    "city": "Midrand",
+    "lat": -25.9863,
+    "lon": 28.1401,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Grand Central Airport is a general aviation airfield situated in Midrand, the urban hub located roughly halfway between Johannesburg and Pretoria in Gauteng province, South Africa. Established in the mid-20th century, it has long served as a popular base for private aviation, flight training, charter operations, and recreational flying rather than scheduled commercial service. The airport is well known within the South African general aviation community and continues to host flying schools, aircraft maintenance facilities, and aviation events.",
+  "faqs": "Q: Does Grand Central Airport handle scheduled commercial flights?\nA: No, GCJ is primarily a general aviation airport catering to private aircraft, charter flights, flight training, and recreational flying rather than scheduled airline service.\n\nQ: How far is Grand Central Airport from OR Tambo International Airport?\nA: Grand Central is located in Midrand, roughly 30-40 km north of OR Tambo, typically a 30-45 minute drive depending on traffic.\n\nQ: Are there flight training schools operating at the airport?\nA: Yes, Grand Central has historically hosted multiple flying schools and is considered one of the key training airfields in the Gauteng region.\n\nQ: Can the public visit or watch aircraft at Grand Central?\nA: As a general aviation field, Grand Central is relatively accessible to aviation enthusiasts, with a terminal area and viewing spots often welcoming visitors and spotters.\n\n",
+  "transport_tips": "The airport is conveniently located just off the N1 highway between Johannesburg and Pretoria, making it easily accessible by car from either city. Taxis and ride-hailing services such as Uber operate in the area, though booking in advance is recommended given the airport's specialized nature. Ample on-site parking is available for those being dropped off or picking up private aircraft passengers.",
+  "local_tip": "Frequent visitors recommend calling ahead to confirm refueling availability and tie-down arrangements, as Grand Central's general aviation focus means services operate on slightly different rhythms than major commercial airports, and weekdays tend to be quieter for training slots.",
+  "generatedAt": "2026-06-26T07:26:13.005Z",
+  "model": "MiniMax-M3"
+}

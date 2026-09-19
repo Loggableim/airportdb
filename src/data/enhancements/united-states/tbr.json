@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TBR",
+    "icao": "KTBR",
+    "name": "Statesboro Bulloch County Airport",
+    "country": "United States",
+    "city": "Statesboro",
+    "lat": 32.4827,
+    "lon": -81.7369,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Statesboro Bulloch County Airport (TBR) is a small general aviation facility serving Statesboro, Georgia, and the surrounding Bulloch County region in southeastern Georgia. The airport primarily supports private aviation, flight training, and business travel, and is closely associated with Georgia Southern University located nearby. It features a single asphalt runway and modest infrastructure suited to light aircraft operations.",
+  "faqs": "Q: What types of flights operate from Statesboro Bulloch County Airport?\nA: The airport primarily handles general aviation traffic, including private aircraft, flight training, and occasional charter flights. Commercial scheduled service is not available.\n\nQ: Does the airport have an air traffic control tower?\nA: The airport operates as a non-towered field, requiring pilots to use common traffic advisory procedures on the CTAF frequency.\n\nQ: Are there car rental services available at the airport?\nA: Rental car availability is limited; visitors are advised to arrange ground transportation in advance or use rideshare services.\n\nQ: How far is the airport from downtown Statesboro?\nA: The airport is located a short drive from central Statesboro, typically within 10 to 15 minutes depending on traffic.",
+  "transport_tips": "Renting a car is the most convenient option for reaching the airport, as public transit options are limited in this rural area. Rideshare services may be available but can have longer wait times, so pre-booking is recommended. The airport's proximity to Statesboro means most destinations in the city are only a short drive away.",
+  "local_tip": "If visiting Georgia Southern University, check ahead for football game days—traffic into Statesboro can be heavy, so arriving well before your scheduled flight is wise.",
+  "generatedAt": "2026-06-27T03:57:46.977Z",
+  "model": "MiniMax-M3"
+}

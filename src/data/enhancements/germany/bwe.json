@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BWE",
+    "icao": "EDVE",
+    "name": "Braunschweig-Wolfsburg Airport",
+    "country": "Germany",
+    "city": "Braunschweig",
+    "lat": 52.3192,
+    "lon": 10.5561,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Braunschweig-Wolfsburg Airport (BWE) is a regional airport in Lower Saxony, Germany, serving the industrial cities of Braunschweig and Wolfsburg, the latter being the headquarters of Volkswagen. Originally established in the 1930s, it primarily handles general aviation, business charter flights, and limited scheduled services. The airport features a single main runway and is also a hub for flight training and aircraft maintenance in the region.",
+  "faqs": "Q: What is Braunschweig-Wolfsburg Airport mainly used for?\nA: The airport primarily serves general aviation, business aviation, flight training, and a small number of scheduled regional flights, with no major commercial airline hub operations.\n\nQ: Which cities does the airport serve?\nA: It serves Braunschweig and Wolfsburg, as well as the broader Brunswick-Wolfsburg metropolitan region in Lower Saxony.\n\nQ: Are there scheduled passenger flights from BWE?\nA: Scheduled passenger services are limited and may vary seasonally; travelers should check current airline listings for the latest route availability.\n\nQ: How far is the airport from Wolfsburg?\nA: Wolfsburg is approximately 25 km northeast of the airport, reachable by car in around 30 minutes.\n\n",
+  "transport_tips": "The airport is located about 6 km north of Braunschweig city center and is best reached by car via the A2 motorway. Public transport options include regional buses connecting to Braunschweig Hauptbahnhof, though services can be infrequent. Taxi and rental car services are available on-site for convenient transfers to either Braunschweig or Wolfsburg.",
+  "local_tip": "If you're visiting Wolfsburg, rent a car at the airport to easily access the Autostadt complex and Volkswagen factory tours, which are a unique highlight of the region and not directly served by public transport from the airfield.",
+  "generatedAt": "2026-06-29T06:28:22.834Z",
+  "model": "MiniMax-M3"
+}

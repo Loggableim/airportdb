@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TDD",
+    "icao": "SLTR",
+    "name": "Teniente Av. Jorge Henrich Arauz Airport",
+    "country": "Bolivia",
+    "city": "Trinidad",
+    "lat": -14.8187,
+    "lon": -64.918,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Teniente Av. Jorge Henrich Arauz Airport serves Trinidad, the capital of Bolivia's Beni Department and a primary gateway to the Bolivian Amazon lowlands. Named after a Bolivian military aviator, the airport connects this remote eastern region with major Bolivian cities and supports tourism into the surrounding wetlands and jungle. It is the main air link for travelers heading to the Moxos plains and the Madidi National Park region.",
+  "faqs": "Q: What is the main city served by TDD airport?\nA: TDD serves Trinidad, the capital city of the Beni Department in northeastern Bolivia, located in the Amazon basin.\n\nQ: Are there international flights from TDD?\nA: No, TDD primarily handles domestic flights connecting Trinidad with other Bolivian cities such as La Paz, Santa Cruz, and Cochabamba.\n\nQ: What is the best time of year to visit Trinidad via TDD?\nA: The dry season from May to October is generally most favorable, offering easier road access and lower humidity, though year-round flights operate.\n\nQ: Is the airport busy throughout the day?\nA: Flight schedules are typically concentrated in morning and afternoon hours, with limited late-night operations.",
+  "transport_tips": "Taxis and mototaxis are the most common ways to reach the city center, which is only a short 10-15 minute drive from the terminal. Pre-arranged hotel pickups are recommended during the rainy season when roads can flood. Rental cars are available but exploring the city on foot is also feasible given its compact layout.",
+  "local_tip": "Pack a light rain jacket even in the dry season—Trinidad's tropical climate brings sudden downpours year-round, and the airport's open-air waiting areas offer limited shelter before boarding.",
+  "generatedAt": "2026-06-29T20:33:24.381Z",
+  "model": "MiniMax-M3"
+}

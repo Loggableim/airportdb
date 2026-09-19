@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MWZ",
+    "icao": "HTMW",
+    "name": "Mwanza International Airport",
+    "country": "Tanzania",
+    "city": "Mwanza",
+    "lat": -2.4466,
+    "lon": 32.936,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Mwanza International Airport serves as the primary gateway to Tanzania's second-largest city, situated on the rocky southern shores of Lake Victoria. The airport supports both domestic routes connecting to Dar es Salaam, Arusha, and other regional centers, as well as limited international services. Its location makes it a key access point for visitors heading to Serengeti National Park's western corridor and Rubondo Island National Park.",
+  "faqs": "Q: How far is the airport from Mwanza city center?\nA: The airport is approximately 10 km from downtown Mwanza, typically a 20-30 minute drive depending on traffic.\n\nQ: Are there direct international flights to Mwanza?\nA: International flights are limited; most travelers connect through Dar es Salaam (Julius Nyerere International Airport) for long-haul arrivals.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic amenities including a small café, car rental desks, and currency exchange, though services are limited compared to major hubs.\n\nQ: Can I fly directly to safari destinations from Mwanza?\nA: While scheduled safaris typically depart from Arusha, charter flights to nearby parks including Rubondo Island and Grumeti can sometimes be arranged from Mwanza.",
+  "transport_tips": "Taxis are readily available outside the terminal and offer fixed or negotiated fares to the city center; agree on the price before departure. Several lodges and tour operators offer pre-arranged airport transfers, which are recommended for first-time visitors. Local daladala minibuses also serve the airport route for budget travelers, though they can be crowded and slow.",
+  "local_tip": "If visiting during the dry season, ask your hotel about boat excursions to nearby islands on Lake Victoria—mornings offer the calmest waters and best chances of spotting hippos near the shoreline.",
+  "generatedAt": "2026-06-29T00:27:38.793Z",
+  "model": "MiniMax-M3"
+}

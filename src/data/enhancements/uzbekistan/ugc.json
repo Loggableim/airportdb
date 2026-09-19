@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UGC",
+    "icao": "UZNU",
+    "name": "Urgench International Airport",
+    "country": "Uzbekistan",
+    "city": "Urgench",
+    "lat": 41.5827,
+    "lon": 60.6434,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Urgench International Airport serves as the primary air gateway to the UNESCO World Heritage city of Khiva and the historic Khorezm region of western Uzbekistan. Located near the Turkmenistan border, it handles domestic flights from Tashkent and a growing number of international connections, making it the main entry point for tourists exploring the ancient Silk Road. The airport features a modern terminal designed to accommodate increasing visitor traffic to one of Central Asia's most celebrated historical destinations.",
+  "faqs": "Q: How far is Urgench Airport from Khiva?\nA: The airport is approximately 30-35 km from Khiva's old city, with taxi and shuttle transfers typically taking 35-45 minutes depending on traffic.\n\nQ: Are there direct international flights to Urgench?\nA: International service is limited but growing, with seasonal and charter flights from Russia, Turkey, and other regional destinations. Most international travelers connect through Tashkent.\n\nQ: Does the airport have currency exchange facilities?\nA: Yes, there are currency exchange counters and ATMs available in the terminal for converting to Uzbekistani som.\n\nQ: Is there a left luggage facility at the airport?\nA: The terminal offers basic passenger services, but luggage storage options may be limited; it is advisable to check with the information desk upon arrival.",
+  "transport_tips": "Pre-booked taxi transfers or hotel-arranged pickups are the most reliable way to reach Khiva, as local taxi availability at the airport can be inconsistent. Shared minibuses (marshrutkas) occasionally run to Urgench city center, where you can connect onward transport. Negotiate taxi fares in advance or insist on using the meter if available, as fixed pricing is uncommon.",
+  "local_tip": "If arriving late or departing early, consider staying overnight in Urgench rather than rushing to Khiva, as the old city gates close to non-residents at night and pre-dawn flights make city exploration impractical.",
+  "generatedAt": "2026-06-28T21:18:29.012Z",
+  "model": "MiniMax-M3"
+}

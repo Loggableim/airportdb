@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FWA",
+    "icao": "KFWA",
+    "name": "Fort Wayne International Airport",
+    "country": "United States",
+    "city": "Fort Wayne",
+    "lat": 40.9789,
+    "lon": -85.1945,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Fort Wayne International Airport (FWA) is a medium-sized commercial airport located approximately 8 miles southwest of downtown Fort Wayne, Indiana, serving the northeastern Indiana region. Originally established as Baer Field in 1939 and named after local World War I flying ace Paul Baer, the airport operates as the second-busiest airport in Indiana. It offers a convenient alternative to larger hubs for travelers in the Fort Wayne metropolitan area, which has a population of roughly 400,000.",
+  "faqs": "Q: How far is Fort Wayne International Airport from downtown Fort Wayne?\nA: The airport is approximately 8 miles southwest of downtown Fort Wayne, typically a 15-20 minute drive depending on traffic.\n\nQ: What airlines serve Fort Wayne International Airport?\nA: The airport is served by several major carriers including American Airlines, Delta Air Lines, and United Airlines, offering nonstop flights to hub cities like Chicago, Detroit, Atlanta, and Charlotte.\n\nQ: Does FWA have any historical significance?\nA: Yes, the airport was originally known as Baer Field, named after Paul Frank Baer, a Fort Wayne native who was one of America's earliest fighter aces during World War I. The military operated the airfield during World War II.\n\nQ: Is there long-term parking available at FWA?\nA: Yes, the airport offers both short-term and long-term parking options with shuttle service available between the parking areas and the terminal building.",
+  "transport_tips": "Rental cars are available at the terminal and are the most convenient way to reach Fort Wayne and surrounding areas, as public transit options to the airport are limited. Taxi services and rideshare apps like Uber and Lyft operate at FWA with designated pickup zones outside baggage claim. Hotel shuttles serve many of the nearby chain hotels located along the airport corridor on Airport Expressway.",
+  "local_tip": "If you have a longer layover or early arrival, the nearby Glenbrook Square Mall and Jefferson Pointe shopping center are within a 10-15 minute drive and offer plenty of dining and shopping options away from the typical airport fare.",
+  "generatedAt": "2026-06-29T02:11:56.516Z",
+  "model": "MiniMax-M3"
+}

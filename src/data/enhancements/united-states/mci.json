@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MCI",
+    "icao": "KMCI",
+    "name": "Kansas City International Airport",
+    "country": "United States",
+    "city": "Kansas City",
+    "lat": 39.3017,
+    "lon": -94.7139,
+    "type": "large_airport",
+    "size": 1015075
+  },
+  "summary": "Kansas City International Airport (MCI) opened in 1972 and was historically famous for its innovative drive-to-gate terminal layout, which allowed passengers to park steps from their gates. In 2023, a new modern single-terminal complex replaced the original three-terminal design, marking one of the largest airport terminal rebuilds in U.S. history. Located about 15 miles northwest of downtown Kansas City, MCI serves as the primary aviation hub for the bi-state metropolitan area spanning Missouri and Kansas.",
+  "faqs": "Q: Why is the airport code MCI if the city is Kansas City?\nA: The code MCI comes from the airport's original name, Mid-Continent International Airport, which it kept even after being renamed Kansas City International.\n\nQ: Does Kansas City International Airport have a train or rail connection?\nA: No, MCI does not currently have a direct rail link to downtown Kansas City. Travelers rely on cars, buses, taxis, and rideshare services.\n\nQ: How far is the airport from downtown Kansas City?\nA: The airport is approximately 15 miles northwest of downtown Kansas City, typically a 20 to 30 minute drive depending on traffic.\n\nQ: When did the new terminal at MCI open?\nA: The new single terminal at MCI opened in February 2023, replacing the original three horseshoe-shaped terminals that had operated since 1972.",
+  "transport_tips": "The airport is easily accessed via Interstate 29 from downtown Kansas City. Travelers can use the Kansas City Area Transportation Authority (KCATA) Route 101 bus or shared shuttle services for budget-friendly options. Rideshare apps like Uber and Lyft, along with taxis and rental car facilities, are available on-site for direct connections to the city.",
+  "local_tip": "Don't leave without trying Kansas City's legendary barbecue — Arthur Bryant's, Gates, and Joe's Kansas City (originally Oklahoma Joe's)",
+  "generatedAt": "2026-06-28T15:15:28.204Z",
+  "model": "MiniMax-M3"
+}

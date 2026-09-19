@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IGD",
+    "icao": "LTCT",
+    "name": "Iğdır Airport",
+    "country": "Turkey",
+    "city": "Iğdır",
+    "lat": 39.9766,
+    "lon": 43.8766,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Iğdır Airport is a regional airport serving the eastern Turkish city of Iğdır, located in a strategically significant area near the borders with Armenia and the Nakhchivan exclave of Azerbaijan. It provides essential air connectivity for the remote far-eastern Anatolia region, supporting both domestic travel and limited cross-border activity. The airport features a single runway and modest terminal facilities typical of Turkey's medium-sized regional airports.",
+  "faqs": "Q: What airlines fly to Iğdır Airport?\nA: Iğdır Airport is primarily served by Turkish Airlines, with scheduled domestic flights mainly to Istanbul. Routes and carriers may vary seasonally.\n\nQ: How far is Iğdır Airport from the city center?\nA: The airport is located approximately 12-15 kilometers from central Iğdır, typically a 15-20 minute drive by car or taxi.\n\nQ: Are there international flights from Iğdır Airport?\nA: International flights are limited, but the airport has historically supported occasional cross-border services to Nakhchivan given its proximity to Azerbaijan's exclave.\n\nQ: Does the airport operate 24 hours?\nA: The airport generally operates during scheduled flight hours rather than around the clock, so travelers should confirm timings in advance.",
+  "transport_tips": "Taxis are the most common way to reach the airport from Iğdır city center and are readily available outside the terminal. There is no dedicated rail link, but intercity buses serving the region stop in the city with connections by taxi to the airport. Renting a car in Iğdır can be useful for travelers planning to explore the wider region, including Mount Ararat.",
+  "local_tip": "If you have a layover or extra time, consider visiting the nearby ruins of Ani or the İshak Paşa Palace—both are within driving distance and offer remarkable views of the tri-border landscape where Turkey meets Armenia and Nakhchivan.",
+  "generatedAt": "2026-06-29T21:24:21.581Z",
+  "model": "MiniMax-M3"
+}

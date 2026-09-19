@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BUG",
+    "icao": "FNBG",
+    "name": "Benguela Airport",
+    "country": "Angola",
+    "city": "Benguela",
+    "lat": -12.609,
+    "lon": 13.4037,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Benguela Airport (BUG/FNBG) is a medium-sized regional airport serving the coastal city of Benguela in southwestern Angola. It functions as an important gateway for Benguela Province, supporting both domestic flights and regional connectivity along Angola's Atlantic coastline. The airport plays a key role in linking the province's commercial and agricultural sectors to Luanda and other major Angolan cities.",
+  "faqs": "Q: What is the IATA code for Benguela Airport?\nA: The IATA code is BUG, and the ICAO code is FNBG.\n\nQ: How far is the airport from Benguela city center?\nA: Benguela Airport is located a short drive from the city center, typically reachable within 15-20 minutes depending on traffic.\n\nQ: Are there international flights from Benguela Airport?\nA: The airport primarily handles domestic flights, mainly connecting to Luanda. International services are limited and typically routed through Luanda's Quatro de Fevereiro Airport.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers standard terminal facilities including check-in counters, a waiting area, and basic passenger services.\n\n",
+  "transport_tips": "Taxis are the most common way to reach the airport from Benguela city, and it's advisable to arrange transport in advance or use a hotel-recommended driver. The airport is located along a main route, making road access straightforward. Rental car services are available in the city if you prefer independent travel.",
+  "local_tip": "Benguela's coastal location means the city enjoys a milder climate than inland Angola, so pack a light layer even when flying in—the airport's terminal can feel cool due to sea breezes.",
+  "generatedAt": "2026-06-26T09:24:03.548Z",
+  "model": "MiniMax-M3"
+}

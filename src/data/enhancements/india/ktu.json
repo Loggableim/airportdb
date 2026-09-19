@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KTU",
+    "icao": "VIKO",
+    "name": "Kota Airport",
+    "country": "India",
+    "city": "Kota",
+    "lat": 25.1602,
+    "lon": 75.8456,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Kota Airport (KTU/VIKO) is a medium-sized domestic airport serving Kota, a major industrial and educational hub in the southeastern part of Rajasthan, India. Located near the Chambal River region, it primarily handles scheduled domestic flights connecting the city to metropolitan hubs. The airport supports travel to one of India's most prominent coaching centers, drawing lakhs of students annually for engineering and medical entrance exam preparation.",
+  "faqs": "Q: Which airlines operate from Kota Airport?\nA: Kota Airport is served by regional carriers operating scheduled flights, primarily connecting Kota to Delhi and other major Indian cities. Flight schedules may vary by season.\n\nQ: How far is Kota Airport from the city center?\nA: The airport is located approximately 7-10 km from Kota's main city area, making it a relatively short drive to most parts of the city.\n\nQ: Does Kota Airport have facilities for overnight stays?\nA: The airport offers basic terminal amenities including a waiting area, but for overnight stays, hotels in Kota city are recommended as the airport has limited passenger facilities.\n\nQ: Is Kota Airport suitable for international travel?\nA: No, Kota Airport is a domestic-only facility. Travelers requiring international connections typically fly from Jaipur or Delhi airports.",
+  "transport_tips": "Pre-paid taxi counters and auto-rickshaws are available outside the terminal for the short journey into Kota city. Ride-hailing apps like Ola and Uber operate in the area but availability can be limited, so booking in advance is advisable. Private car rentals can also be arranged through hotels for a more comfortable transfer.",
+  "local_tip": "If visiting during the academic season (April to July), book accommodations and transport well in advance, as Kota sees a massive influx of students and parents, causing hotel rates and traffic to spike significantly.",
+  "generatedAt": "2026-06-26T11:39:32.061Z",
+  "model": "MiniMax-M3"
+}

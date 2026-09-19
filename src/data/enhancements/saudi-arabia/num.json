@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NUM",
+    "icao": "OENN",
+    "name": "Neom Bay Airport",
+    "country": "Saudi Arabia",
+    "city": "Sharma",
+    "lat": 27.9243,
+    "lon": 35.2936,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Neom Bay Airport (NUM/OENN) is a purpose-built facility serving the NEOM mega-project, a futuristic sustainable development on Saudi Arabia's Red Sea coast. Opened in 2019, it represents one of the key access points to the ambitious Vision 2030 initiative, handling both commercial passengers and construction traffic for the giga-project. The airport sits in the Tabuk Province near Sharma, providing the first aviation gateway to the NEOM development zone.",
+  "faqs": "Q: What is Neom Bay Airport primarily used for?\nA: It serves as the main aviation gateway to the NEOM mega-project, accommodating both construction personnel and visitors to the development area on the Red Sea coast.\n\nQ: Are there regular commercial flights to NUM?\nA: Yes, Saudi Arabian Airlines operates scheduled services connecting Neom Bay Airport to Riyadh and other domestic destinations, though flight frequencies may vary.\n\nQ: Can tourists visit NEOM through this airport?\nA: Access to the NEOM project area is currently restricted, with most travelers being project workers, business visitors, or those with specific permits.\n\nQ: How far is the airport from the NEOM development site?\nA: The airport is located within the broader NEOM zone in northwestern Saudi Arabia, providing direct access to the project's coastal areas.\n\n",
+  "transport_tips": "Ground transport options from Neom Bay Airport are limited due to the developing nature of the region, so pre-arranged transportation through your hotel, employer, or NEOM sponsorship is strongly recommended. Taxis and ride services may be available but should be booked in advance. If driving yourself, ensure you have the appropriate NEOM access permits before arriving, as the surrounding region has controlled entry points.",
+  "local_tip": "Pack light and dress for warm, dry weather—Sharma's coastal desert climate means significant temperature swings between day and night, even in winter months.",
+  "generatedAt": "2026-06-29T01:20:10.814Z",
+  "model": "MiniMax-M3"
+}

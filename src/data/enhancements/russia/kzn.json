@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KZN",
+    "icao": "UWKD",
+    "name": "Kazan International Airport",
+    "country": "Russia",
+    "city": "Kazan",
+    "lat": 55.6062,
+    "lon": 49.2787,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kazan International Airport (KZN/UWKD) is the main gateway to Kazan, the capital of the Republic of Tatarstan in Russia, located approximately 25 km southeast of the city center. Originally established in 1972, the airport underwent a major reconstruction completed in 2013 in preparation for the Summer Universiade, transforming it into a modern facility with a capacity of over 3 million passengers annually. It operates as both a civilian and military airfield and serves as an important regional hub connecting Tatarstan with domestic Russian cities and international destinations across Europe, the Middle East, and Central Asia.",
+  "faqs": "Q: How far is Kazan International Airport from the city center?\nA: The airport is approximately 25 km southeast of central Kazan, with typical transfer times of 30-45 minutes depending on traffic.\n\nQ: What transport options are available from the airport?\nA: Passengers can use the Aeroexpress train, official taxis, ride-hailing apps, and bus routes to reach the city center and surrounding areas.\n\nQ: Does the airport offer international flights?\nA: Yes, KZN serves numerous international destinations across Europe, the Middle East, Central Asia, and CIS countries, alongside a wide range of domestic Russian routes.\n\nQ: Is the airport accessible for passengers with reduced mobility?\nA: Yes, the modern terminal provides full accessibility features including ramps, elevators, and dedicated assistance services for passengers with disabilities.",
+  "transport_tips": "The Aeroexpress train is the most reliable and traffic-free option, connecting the airport to Kazan's central railway station in roughly 30 minutes with regular departures. Official airport taxis and Yandex ride-hailing services offer convenient door-to-door transfers, though prices can surge during peak hours. If traveling light, bus route 97 provides an economical connection to several points in the city.",
+  "local_tip": "If you have a long layover or early arrival, the Aeroexpress train station is right at the terminal and a quick ride puts you near the Kazan Kremlin — visit early morning for stunning golden-hour photos of this UNESCO World Heritage Site before returning for your flight.",
+  "generatedAt": "2026-06-28T21:19:30.066Z",
+  "model": "MiniMax-M3"
+}

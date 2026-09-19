@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GUB",
+    "icao": "MMGR",
+    "name": "Guerrero Negro Airport",
+    "country": "Mexico",
+    "city": "San Quintín",
+    "lat": 28.0261,
+    "lon": -114.024,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Guerrero Negro Airport is a small regional airstrip serving the remote town of Guerrero Negro in Baja California, Mexico. It functions primarily as a gateway for ecotourists visiting the nearby Vizcaíno Biosphere Reserve and the famous gray whale breeding lagoons of Ojo de Liebre and San Ignacio. The surrounding area is also home to the world's largest saltworks operation, Exportadora de Sal.",
+  "faqs": "Q: What is Guerrero Negro Airport primarily used for?\nA: The airport mainly serves tourism traffic, particularly visitors heading to the Ojo de Liebre and San Ignacio lagoons during the annual gray whale watching season from January to April.\n\nQ: Are there scheduled commercial flights to Guerrero Negro?\nA: Scheduled commercial service is very limited; most visitors fly into the airport via small charter or regional operators, or drive in from other airports along the Baja peninsula.\n\nQ: What facilities are available at the airport?\nA: As a small regional airfield, the airport has minimal passenger amenities, so travelers should bring their own food, water, and supplies, especially for connections to remote destinations.\n\nQ: Is the airport near the whale watching lagoons?\nA: Yes, it is the closest airport to the UNESCO-listed Ojo de Liebre Lagoon, roughly 25 kilometers from town, making it the most convenient entry point for whale watching tours.",
+  "transport_tips": "Ground transportation options from the airport are limited, so arranging a hotel pickup or rental car in advance is strongly recommended. Taxi services are available but not always waiting on arrival, and the long-distance Highway 1 connects Guerrero Negro to other Baja California destinations. Self-driving or guided transport is the most practical way to reach the whale watching lagoons and the saltworks.",
+  "local_tip": "If visiting during gray whale season, book your panga boat tour to Ojo de Liebre Lagoon a day or two in advance through your hotel rather than at the last minute, as morning departures offer the calmest seas and best wildlife visibility.",
+  "generatedAt": "2026-06-26T14:34:44.530Z",
+  "model": "MiniMax-M3"
+}

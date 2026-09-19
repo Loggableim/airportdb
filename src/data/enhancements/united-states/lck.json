@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LCK",
+    "icao": "KLCK",
+    "name": "Rickenbacker International Airport",
+    "country": "United States",
+    "city": "Columbus",
+    "lat": 39.8138,
+    "lon": -82.9278,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Rickenbacker International Airport (LCK) is a medium-sized facility on the south side of Columbus, Ohio, named after World War I flying ace Eddie Rickenbacker. Originally developed as a U.S. Army Air Forces base during World War II, it later served as Lockbourne Air Force Base before transitioning to a joint civil-military airport. Today it is a major air cargo hub, most notably serving as a primary node for Amazon Air's domestic express freight network, and it operates as a designated Foreign Trade Zone.",
+  "faqs": "Q: Why is the airport named Rickenbacker?\nA: It honors Captain Eddie Rickenbacker, America's top fighter ace of World War I and a pioneering aviation executive.\n\nQ: Does Rickenbacker Airport offer commercial passenger flights?\nA: Scheduled passenger service is very limited; most flights are cargo operations, though some charter and seasonal services operate periodically.\n\nQ: How far is Rickenbacker from downtown Columbus?\nA: The airport is roughly 15 miles south of downtown Columbus, accessible via Interstate 270 and US Route 23.\n\nQ: Is Rickenbacker a military base as well as a civilian airport?\nA: Yes, it shares runways with the Rickenbacker Air National Guard Base, hosting Ohio Air National Guard units.",
+  "transport_tips": "The most convenient route is via I-270 to US-23 South, with typical drive times of 20 to 30 minutes from downtown Columbus depending on traffic. Ride-share services and rental cars are available but on a more limited scale than at John Glenn International Airport. Long-term parking is available on-site, and the facility is well suited for trucking access given its cargo focus.",
+  "local_tip": "If you're picking up or dropping off freight, request access through the dedicated cargo entrance off Alum Creek Drive rather than the main passenger terminal area to save time and avoid congestion.",
+  "generatedAt": "2026-06-29T03:39:12.000Z",
+  "model": "MiniMax-M3"
+}

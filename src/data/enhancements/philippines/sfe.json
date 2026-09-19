@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SFE",
+    "icao": "RPUS",
+    "name": "San Fernando Airport",
+    "country": "Philippines",
+    "city": "San Fernando",
+    "lat": 16.5956,
+    "lon": 120.303,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "San Fernando Airport (SFE/RPUS) is a medium-sized regional airport serving San Fernando City in the province of La Union, Philippines. Located on the western coast of Luzon in the Ilocos Region, it functions as an important gateway connecting the northern Philippines to Manila and other domestic destinations. The airport supports both commercial and general aviation operations, serving tourists visiting the region's beaches and heritage sites.",
+  "faqs": "Q: Where is San Fernando Airport located?\nA: The airport is situated in San Fernando City, La Union province, on the western coast of Luzon in the northern Philippines.\n\nQ: What type of flights operate from San Fernando Airport?\nA: The airport primarily handles domestic flights, with most services connecting to Manila, along with occasional general aviation activity.\n\nQ: How far is the airport from San Fernando City center?\nA: The airport is located a short drive from the city center of San Fernando, making it convenient for travelers heading into town or to nearby coastal destinations.\n\nQ: Is San Fernando Airport open to international flights?\nA: No, San Fernando Airport is currently a domestic-only facility serving regional routes within the Philippines.\n\n",
+  "transport_tips": "Tricycles and jeepneys are commonly available near the terminal for short trips into San Fernando City proper. For longer journeys to nearby provinces like Ilocos Sur or Pangasinan, travelers can arrange private vans or buses from the city center. Ride-hailing services may have limited availability, so arranging ground transport in advance is recommended.",
+  "local_tip": "If you have a layover or extra time, visit the nearby Ma-Cho Temple, a colorful Chinese-inspired Taoist temple overlooking the West Philippine Sea—it's one of the few temples of its kind in the region and offers stunning coastal views.",
+  "generatedAt": "2026-06-29T08:29:49.582Z",
+  "model": "MiniMax-M3"
+}

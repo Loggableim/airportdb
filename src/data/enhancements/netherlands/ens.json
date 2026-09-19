@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ENS",
+    "icao": "EHTW",
+    "name": "Twente Airport",
+    "country": "Netherlands",
+    "city": "Enschede",
+    "lat": 52.2758,
+    "lon": 6.8892,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Twente Airport, located in Enschede in the eastern Netherlands near the German border, is a medium-sized regional airport that operates from a former Royal Netherlands Air Force base. The facility transitioned from military to civilian use and now primarily serves general aviation, business flights, and limited scheduled services. It is a key transportation asset for the Twente region's business and technology communities.",
+  "faqs": "Q: How far is Twente Airport from Enschede city center?\nA: The airport is approximately 7-8 kilometers south of Enschede's city center, making it a short drive of around 15 minutes by car.\n\nQ: Does Twente Airport have scheduled commercial flights?\nA: Scheduled commercial services have been limited and have varied over the years; travelers should check current airline schedules, as the airport primarily handles general and business aviation.\n\nQ: What is the airport's history?\nA: Twente Airport was originally developed as a military airbase (Vliegbasis Twente) used by the Royal Netherlands Air Force before being decommissioned and converted to civilian operations.\n\nQ: Are there customs and immigration facilities at the airport?\nA: As a former military facility, the airport can handle international flights and has customs capabilities, though they may need to be arranged in advance for general aviation arrivals.",
+  "transport_tips": "The airport is best reached by car, with easy access via the A35 motorway connecting Enschede to Hengelo and the wider region. Public bus services operate in the vicinity, though they are not as frequent as in larger cities, so checking schedules in advance is recommended. Taxi services from Enschede and Hengelo are available, and parking is straightforward on-site.",
+  "local_tip": "If you have time before your flight, visit the nearby Techniekmuseum Heim in Hengelo, which showcases Dutch industrial and aviation heritage, or take a short drive to the German border town of Gronau for a quick cross-border experience.",
+  "generatedAt": "2026-06-26T07:23:57.497Z",
+  "model": "MiniMax-M3"
+}

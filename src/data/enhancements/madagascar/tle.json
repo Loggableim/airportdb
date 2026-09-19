@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TLE",
+    "icao": "FMST",
+    "name": "Toliara Airport",
+    "country": "Madagascar",
+    "city": "Toliara",
+    "lat": -23.3834,
+    "lon": 43.7285,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Toliara Airport (TLE) serves as the main air gateway to southwestern Madagascar, a region known for its dry spiny forests, baobab-lined landscapes, and the Mozambique Channel coastline. The airport handles domestic flights primarily connecting the remote city of Toliara to Antananarivo and other regional hubs like Antsiranana. It is a key access point for travelers heading to nearby attractions such as the Tsimanampetsotse National Park and the coral reefs off Anakao.",
+  "faqs": "Q: What airlines operate from Toliara Airport?\nA: Tsaradia, the domestic subsidiary of Air Madagascar, operates the primary scheduled services at Toliara Airport, with regular flights to and from Antananarivo.\n\nQ: How far is the airport from Toliara city center?\nA: The airport is located just a few kilometers north of the city center, typically a 15 to 20 minute drive by taxi or private vehicle.\n\nQ: Does Toliara Airport have international flights?\nA: No, Toliara Airport primarily handles domestic flights. International travelers must connect through Ivato International Airport in Antananarivo.\n\nQ: Are there ATMs or currency exchange facilities at the airport?\nA: Facilities at Toliara Airport are basic; travelers are advised to exchange currency or withdraw Malagasy Ariary in Toliara city before heading to the airport.\n\n",
+  "transport_tips": "Taxis and hotel-arranged transfers are the most reliable way to reach Toliara city center from the airport, as there is no public bus service serving the terminal. Pre-arranging a pickup through your accommodation is recommended, especially for late arrivals. For onward travel to destinations like Anakao or Ifaty, shared taxis or 4x4 vehicles can be hired in town.",
+  "local_tip": "Bring small denominations of Malagasy Ariary in cash, as card payment infrastructure is unreliable in southwestern Madagascar and even the airport may not accept cards for smaller purchases like bottled water or local snacks.",
+  "generatedAt": "2026-06-29T14:28:37.691Z",
+  "model": "MiniMax-M3"
+}

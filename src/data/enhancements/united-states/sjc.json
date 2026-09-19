@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SJC",
+    "icao": "KSJC",
+    "name": "Norman Y. Mineta San Jose International Airport",
+    "country": "United States",
+    "city": "San Jose",
+    "lat": 37.3625,
+    "lon": -121.9292,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Norman Y. Mineta San Jose International Airport (SJC) is the largest airport in Silicon Valley, serving the South Bay region of the San Francisco Bay Area. Named after former U.S. Secretary of Transportation and San Jose Mayor Norman Y. Mineta, the airport has undergone major terminal modernization in the 2010s and is known for being less congested than neighboring SFO. It offers a convenient gateway for both business travelers visiting tech companies and tourists heading to the greater Bay Area.",
+  "faqs": "Q: How far is SJC from San Francisco?\nA: SJC is approximately 40 miles southeast of downtown San Francisco, typically a 45-75 minute drive depending on traffic.\n\nQ: Does SJC have public transportation to downtown San Jose?\nA: Yes, the VTA (Santa Clara Valley Transportation Authority) operates a free Airport Flyer shuttle that connects to the Santa Clara Caltrain station, and the VTA light rail Green Line stops near the airport.\n\nQ: How many terminals does SJC have?\nA: SJC has two passenger terminals: Terminal A and Terminal B, connected by a walkway.\n\nQ: Is SJC a hub for any major airline?\nA: SJC has historically served as a focus city for Alaska Airlines and Southwest Airlines, with Southwest operating a significant number of flights there.",
+  "transport_tips": "The VTA's free Airport Flyer shuttle (Route 60) connects the airport to the Santa Clara Caltrain and light rail stations, providing easy access to destinations throughout Silicon Valley. Rideshare services and taxis are available at designated pickup areas outside both terminals. If driving to SJC, allow extra time during rush hours as traffic on US-101 and I-880 can be heavy.",
+  "local_tip": "Visit the 'San Jose Mineta' exhibit near Terminal B baggage claim to see historical displays about local aviation history and the airport's namesake, Norman Y. Mineta.",
+  "generatedAt": "2026-06-28T17:56:10.671Z",
+  "model": "MiniMax-M3"
+}

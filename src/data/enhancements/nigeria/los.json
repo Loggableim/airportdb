@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LOS",
+    "icao": "DNMM",
+    "name": "Murtala Muhammed International Airport",
+    "country": "Nigeria",
+    "city": "Lagos",
+    "lat": 6.5774,
+    "lon": 3.3212,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Murtala Muhammed International Airport (LOS) is Nigeria's largest and busiest airport, serving the megacity of Lagos and functioning as the primary aviation gateway for West Africa. Named after General Murtala Muhammed, the Nigerian head of state assassinated in 1976, the airport features two main terminals handling domestic and international traffic. As a major hub for airlines including Arik Air, Air Peace, and several regional carriers, it handles millions of passengers annually despite ongoing infrastructure modernization efforts.",
+  "faqs": "Q: How far is the airport from Lagos city center?\nA: The airport is located in Ikeja, approximately 20 km (12 miles) north of Lagos Island. Travel times vary significantly depending on traffic, typically ranging from 30 minutes to over an hour.\n\nQ: Which terminal handles international flights?\nA: International flights operate from Terminal 2 (MMA2), which is managed by Bi-Courtney Aviation Services, while the older Terminal 1 handles some international operations alongside domestic flights operated by various Nigerian carriers.\n\nQ: Are there currency exchange facilities at the airport?\nA: Yes, bureau de change counters and ATMs are available in both terminals, though rates are generally better in the city. It is advisable to exchange only small amounts at the airport.\n\nQ: Is the airport accessible 24 hours?\nA: Yes, the airport operates around the clock, though certain facilities like shops and restaurants may have limited hours during late night and early morning periods.",
+  "transport_tips": "Taxis and ride-hailing services like Uber and Bolt are available but can experience surge pricing; pre-booking hotel transfers is recommended during peak hours. The Lagos BRT (Bus Rapid Transit) system connects Ikeja to parts of the city, though luggage space may be limited. Plan for heavy traffic, especially during weekday rush hours (7-10 AM and 4-8 PM), and allow extra time if heading to the airport.",
+  "local_tip": "Keep small denominations of naira handy for tips and informal parking attendants, and consider downloading offline maps of Lagos before arrival as mobile data coverage inside the terminal can be inconsistent.",
+  "generatedAt": "2026-06-28T16:45:55.382Z",
+  "model": "MiniMax-M3"
+}

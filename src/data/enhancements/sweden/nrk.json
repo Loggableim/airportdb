@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NRK",
+    "icao": "ESSP",
+    "name": "Norrköping Airport",
+    "country": "Sweden",
+    "city": "Norrköping",
+    "lat": 58.5863,
+    "lon": 16.2506,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Norrköping Airport (NRK/ESSP) is a regional airport serving Norrköping and the wider Östergötland region in southeastern Sweden, located approximately 5 km southwest of the city center. The facility combines civilian commercial operations with military use, reflecting its long-standing role in Swedish aviation. It serves as an important gateway for the region, offering domestic connections and seasonal international routes.",
+  "faqs": "Q: Where is Norrköping Airport located relative to the city?\nA: The airport is situated about 5 km southwest of Norrköping's city center, making it a quick drive from downtown.\n\nQ: Does the airport handle both civilian and military flights?\nA: Yes, Norrköping Airport has a dual role, supporting both commercial civilian operations and military aviation activities.\n\nQ: Are there international flights from Norrköping Airport?\nA: The airport primarily serves domestic routes, with seasonal international services typically offered to popular leisure destinations during summer months.\n\nQ: How large is Norrköping Airport?\nA: It is classified as a medium-sized regional airport, serving the Östergötland region of Sweden.",
+  "transport_tips": "The most convenient way to reach the airport is by taxi or private car, with the journey from central Norrköping taking roughly 10-15 minutes. Public bus services also connect the airport to the city center, offering an affordable alternative for travelers. Car rental services are available at the terminal for those wishing to explore the surrounding region independently.",
+  "local_tip": "If you have time before your flight, consider visiting the nearby Kolmården Zoo, one of Sweden's most popular attractions, located along the route between the city and the airport.",
+  "generatedAt": "2026-06-29T06:31:38.995Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DTW",
+    "icao": "KDTW",
+    "name": "Detroit Metropolitan Wayne County Airport",
+    "country": "United States",
+    "city": "Detroit",
+    "lat": 42.2138,
+    "lon": -83.3538,
+    "type": "large_airport",
+    "size": 1079375
+  },
+  "summary": "Detroit Metropolitan Wayne County Airport (DTW) is one of the largest and busiest airports in the United States, serving as Delta Air Lines' second-largest hub. Located in Romulus, Michigan, roughly 20 miles southwest of downtown Detroit, it features two main terminals: the modern McNamara Terminal and the smaller North Terminal. The airport is notable for its innovative ExpressTram people mover that traverses the exceptionally long McNamara Terminal concourse.",
+  "faqs": "Q: How far is DTW from downtown Detroit?\nA: DTW is located approximately 20 miles southwest of downtown Detroit in the city of Romulus, with typical travel times of 25-40 minutes depending on traffic.\n\nQ: Which airlines have major operations at DTW?\nA: Delta Air Lines operates its second-largest hub at DTW, while other major carriers include Spirit, American, United, and Southwest Airlines.\n\nQ: How do I travel between the McNamara Terminal and the North Terminal?\nA: The two terminals are connected via a free, 24/7 underground people mover called the ExpressTram, with a journey time of about 2-3 minutes.\n\nQ: Is there a light rail or transit connection to Detroit from DTW?\nA: There is no direct rail connection to downtown Detroit, but SMART bus Route 125 operates",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T14:41:54.929Z",
+  "model": "MiniMax-M3"
+}

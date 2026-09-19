@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MZL",
+    "icao": "SKMZ",
+    "name": "La Nubia Airport",
+    "country": "Colombia",
+    "city": "Manizales",
+    "lat": 5.0296,
+    "lon": -75.4647,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "La Nubia Airport serves the city of Manizales in Colombia's coffee-growing Eje Cafetero region, providing essential domestic connectivity to this mountainous Andean city. Situated at approximately 2,087 meters above sea level, the airport is known for its challenging approach conditions due to surrounding terrain and frequent cloud cover. It primarily handles domestic flights, with Bogotá being the main route operated by regional carriers.",
+  "faqs": "Q: What airlines operate at La Nubia Airport?\nA: Regional carriers such as Avianca and LATAM Colombia operate domestic routes, primarily connecting Manizales with Bogotá and other major Colombian cities.\n\nQ: How far is La Nubia Airport from downtown Manizales?\nA: The airport is located approximately 8 kilometers southeast of Manizales city center, with a typical transfer time of 20 to 30 minutes by road.\n\nQ: Does the airport handle international flights?\nA: No, La Nubia is a domestic-only airport. International travelers typically fly into Bogotá's El Dorado International Airport and connect domestically.\n\nQ: Is the airport affected by weather?\nA: Yes, due to its location in the Andes mountains, flights can be delayed or diverted by fog, low visibility, and convective weather, especially during rainy seasons.",
+  "transport_tips": "Taxis and ride-hailing services are readily available outside the terminal and offer the most convenient transfer to Manizales city center. Shared minibus services and private shuttle options also connect the airport with the city and nearby coffee-region towns. Travelers should allow extra time during peak hours and rainy periods, as mountain roads can become congested.",
+  "local_tip": "Pack a light jacket—Manizales sits high in the Andes and temperatures, especially in the early morning and evening, can be noticeably cooler than in lower-altitude Colombian cities.",
+  "generatedAt": "2026-06-29T10:45:10.045Z",
+  "model": "MiniMax-M3"
+}

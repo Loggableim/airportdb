@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GHT",
+    "icao": "HLGT",
+    "name": "Ghat Airport",
+    "country": "Libya",
+    "city": "Ghat",
+    "lat": 25.1456,
+    "lon": 10.1426,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ghat Airport (GHT/HLGT) is a medium-sized airport serving the remote oasis city of Ghat in southwestern Libya, deep within the Fezzan region near the Algerian border. It functions as a vital air link for a sparsely populated Saharan community, where road travel across vast desert distances is otherwise the only alternative. The airport supports both limited scheduled service and general aviation in one of Libya's most isolated populated areas.",
+  "faqs": "Q: Where is Ghat Airport located?\nA: Ghat Airport is located near the city of Ghat in southwestern Libya, close to the border with Algeria, within the Fezzan region of the Sahara Desert.\n\nQ: What type of airport is Ghat?\nA: It is classified as a medium airport with a size score of 750, primarily serving regional and general aviation needs.\n\nQ: Are there regular commercial flights to Ghat?\nA: Scheduled commercial service is limited and can be intermittent due to the airport's remote location and regional conditions; travelers should verify current schedules with airlines.\n\nQ: What is the climate like at Ghat?\nA: Ghat has a hot desert climate with extremely high daytime temperatures, very low humidity, and minimal rainfall throughout the year.\n\n",
+  "transport_tips": "The airport is located a short drive from the town of Ghat, and ground transport typically consists of taxis or pre-arranged hotel pickups. Road connections to other Libyan cities are long and cross largely empty desert terrain, making air travel the preferred option for many visitors. Travelers heading to or from Algeria should coordinate border logistics well in advance.",
+  "local_tip": "Carry plenty of drinking water and sun protection year-round—Ghat's desert location means shade and supplies at the airport can be limited, especially during the peak summer heat.",
+  "generatedAt": "2026-06-29T12:30:57.877Z",
+  "model": "MiniMax-M3"
+}

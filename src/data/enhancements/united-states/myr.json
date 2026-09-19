@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MYR",
+    "icao": "KMYR",
+    "name": "Myrtle Beach International Airport",
+    "country": "United States",
+    "city": "Myrtle Beach",
+    "lat": 33.6797,
+    "lon": -78.9283,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Myrtle Beach International Airport (MYR) is a coastal South Carolina gateway serving the popular Grand Strand tourist region. Originally established as Myrtle Beach Army Air Field during World War II and later operated as Myrtle Beach Air Force Base until 1993, it was redeveloped as a civilian airport in the 1970s while still sharing facilities with the military. Today it features a single, easy-to-navigate terminal and handles a significant volume of seasonal leisure traffic.",
+  "faqs": "Q: How far is the airport from downtown Myrtle Beach?\nA: The airport is approximately 5 miles southwest of downtown Myrtle Beach, typically a 15-minute drive depending on traffic.\n\nQ: Does the airport have its own military base?\nA: No. The adjacent Myrtle Beach Air Force Base was officially closed in 1993 through the BRAC process, and the land was redeveloped into The Market Common district and other civilian uses.\n\nQ: How many terminals does MYR have?\nA: The airport operates a single terminal building, making navigation straightforward for travelers.\n\nQ: Is the airport busy year-round?\nA: Traffic peaks during the summer tourist season and spring break periods, while winter months see significantly fewer flights and passengers.",
+  "transport_tips": "Rental cars are the most convenient option as there is no direct rail or metro service, and the airport's location near Highway 17 and US-501 provides quick access to Myrtle Beach, North Myrtle Beach, and surrounding coastal towns. Rideshare services like Uber and Lyft are available, and taxi queues are located curbside at the terminal. Several hotels in the area offer shuttle services, so travelers should check with their accommodations in advance.",
+  "local_tip": "The former base area around the airport has been transformed into The Market Common, a walkable district with restaurants, shops, and parks—worth a visit if you have a long layover or early arrival, as it's just minutes away.",
+  "generatedAt": "2026-06-28T18:31:06.263Z",
+  "model": "MiniMax-M3"
+}

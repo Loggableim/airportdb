@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TAY",
+    "icao": "EETU",
+    "name": "Tartu Airport",
+    "country": "Estonia",
+    "city": "Tartu",
+    "lat": 58.3074,
+    "lon": 26.6865,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Tartu Airport (TAY/EETU) is a regional airport serving Estonia's second-largest city, Tartu, a major cultural and academic hub home to the University of Tartu. Located approximately 10 km southeast of the city center in Ülenurme, it provides essential air connectivity to southern Estonia and the Baltic region. The airport primarily handles seasonal and scheduled flights to a limited number of European destinations.",
+  "faqs": "Q: How far is Tartu Airport from Tartu city center?\nA: The airport is located about 10 km southeast of Tartu's city center in Ülenurme, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines operate from Tartu Airport?\nA: The airport has historically been served by carriers including Finnair (via Helsinki) and seasonal operators, though flight schedules may vary throughout the year.\n\nQ: Does Tartu Airport have customs and border control facilities?\nA: As a Schengen-area airport, it handles international flights within the Schengen zone, with border services available for non-Schengen operations when scheduled.\n\nQ: Are there car rental services at Tartu Airport?\nA: Yes, several car rental agencies operate at the airport, though booking in advance is recommended especially during off-peak seasons.",
+  "transport_tips": "Tartu city bus route 24 connects the airport to the city center, with departures timed to flight schedules. Taxis and ride-hailing services are available outside the terminal, and the drive to central Tartu takes roughly 15-20 minutes via the Tartu–Räpina road. Car rental desks in the terminal make it convenient for visitors planning to explore the wider Tartumaa region.",
+  "local_tip": "If you have a layover or extra time, the nearby Estonian Aviation Museum (Eesti Lennundusmuuseum) is located adjacent to the airport and features historic aircraft, making it an easy and worthwhile stop for aviation enthusiasts.",
+  "generatedAt": "2026-06-29T20:15:34.022Z",
+  "model": "MiniMax-M3"
+}

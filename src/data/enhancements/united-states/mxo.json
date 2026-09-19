@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MXO",
+    "icao": "KMXO",
+    "name": "Monticello Regional Airport",
+    "country": "United States",
+    "city": "Monticello",
+    "lat": 42.2204,
+    "lon": -91.1633,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Monticello Regional Airport is a small general aviation facility serving Monticello, Iowa, and the surrounding Jones County region in eastern Iowa. The airport primarily supports private aircraft, flight training, and recreational flying, serving as a convenient alternative to larger commercial hubs in the area. Its modest size and rural setting make it a practical base for local pilots and visitors to the eastern Iowa region.",
+  "faqs": "Q: Does Monticello Regional Airport offer commercial airline service?\nA: No, MXO is a general aviation airport without scheduled commercial passenger flights.\n\nQ: What is the airport primarily used for?\nA: The airport primarily supports private aircraft operations, flight training, and recreational flying activities.\n\nQ: Are there facilities for transient pilots?\nA: General aviation airports like MXO typically offer basic services such as fuel and tie-down space for visiting aircraft, though visitors should confirm availability in advance.\n\nQ: How does Monticello Regional Airport compare to nearby airports?\nA: It is smaller than regional commercial airports like Dubuque Regional Airport (DBQ) and serves a more localized general aviation community.",
+  "transport_tips": "Since MXO is a general aviation facility without commercial service, ground transportation is typically arranged by car rental or private vehicle. The airport is located just outside Monticello, Iowa, with straightforward access via local roads. Visitors should coordinate pickup or rental arrangements ahead of time, as on-site transportation options are limited.",
+  "local_tip": "If flying into MXO, plan your fuel stop carefully—check current fuel availability and pricing before arrival, as smaller regional airports may have limited operating hours for fuel services, especially on weekends.",
+  "generatedAt": "2026-06-27T07:06:21.489Z",
+  "model": "MiniMax-M3"
+}

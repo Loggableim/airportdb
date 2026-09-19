@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ELJ",
+    "icao": "",
+    "name": "El Recreo Airport",
+    "country": "Colombia",
+    "city": "Ruperto Polania",
+    "lat": 2,
+    "lon": -74.1333,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "El Recreo Airport (ELJ) is a small regional airfield serving the rural community of Ruperto Polania in southern Colombia. Located in a sparsely populated area near the Colombian Amazon foothills, it primarily handles light aircraft and charter flights supporting local transport and regional connectivity. The airport serves as an important access point for remote communities in the department, where road infrastructure can be limited.",
+  "faqs": "Q: What is the IATA code for El Recreo Airport?\nA: The IATA code for El Recreo Airport is ELJ. It does not have a published ICAO code.\n\nQ: What type of aircraft operate at El Recreo Airport?\nA: As a small airport, El Recreo primarily handles light aircraft, single-engine planes, and small charter flights typical of rural Colombian airfields.\n\nQ: Where is El Recreo Airport located?\nA: The airport is located near Ruperto Polania in southern Colombia, in a region characterized by tropical terrain and limited road access.\n\nQ: Are there scheduled commercial flights to El Recreo Airport?\nA: Scheduled commercial service is limited or unavailable; flights are typically operated on demand or by charter for passengers needing access to the remote area.\n\n",
+  "transport_tips": "Travelers reaching El Recreo Airport should arrange ground transportation in advance, as the remote location offers few on-demand options. Local pilots and charter operators often coordinate pickup with flight arrivals. Given the limited road network in the surrounding region, flying is often the most reliable way to reach this destination.",
+  "local_tip": "Carry cash in small Colombian peso denominations, as nearby rural establishments may have limited or no card payment facilities, and mobile signal can be unreliable in the surrounding area.",
+  "generatedAt": "2026-06-28T06:27:22.939Z",
+  "model": "MiniMax-M3"
+}

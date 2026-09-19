@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DNL",
+    "icao": "KDNL",
+    "name": "Daniel Field",
+    "country": "United States",
+    "city": "Augusta",
+    "lat": 33.4665,
+    "lon": -82.0394,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Daniel Field (DNL) is a medium-sized general aviation airport located in Augusta, Georgia, serving the Central Savannah River Area. Originally established in 1927, it is one of the oldest airports in the southeastern United States and sits just minutes from downtown Augusta. The airport is publicly owned by the City of Augusta and features both paved runways and a rich aviation heritage tied to the region's history.",
+  "faqs": "Q: What is Daniel Field primarily used for?\nA: Daniel Field serves as a general aviation airport, accommodating private aircraft, business jets, flight training, and air charter operations rather than commercial airline service.\n\nQ: Does Daniel Field have commercial airline flights?\nA: No, Daniel Field does not offer scheduled commercial airline service. Augusta Regional Airport (AGS) handles commercial flights in the area.\n\nQ: Are there aircraft maintenance services available?\nA: Yes, the airport offers various aviation services including fueling, maintenance, and hangar rentals through fixed-base operators on the field.\n\nQ: Can I fly into Daniel Field with a private aircraft?\nA: Yes, the airport welcomes transient general aviation traffic and has facilities for refueling and short-term parking for private pilots.",
+  "transport_tips": "Daniel Field is conveniently located about 3 miles west of downtown Augusta, making it a quick drive via Washington Road or Broad Street. Rental cars and taxi services can be arranged, though advance notice is recommended since the airport primarily caters to general aviation rather than commercial travelers. Rideshare apps like Uber and Lyft also operate in the Augusta area and can serve the airport.",
+  "local_tip": "If visiting during Masters Tournament week in April, book your hangar space and fuel reservations weeks in advance, as Daniel Field becomes a popular alternative to Augusta Regional for private flyers heading to Augusta National Golf Club.",
+  "generatedAt": "2026-06-26T07:25:10.210Z",
+  "model": "MiniMax-M3"
+}

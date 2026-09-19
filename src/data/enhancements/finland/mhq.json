@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MHQ",
+    "icao": "EFMA",
+    "name": "Mariehamn Airport",
+    "country": "Finland",
+    "city": "Mariehamn",
+    "lat": 60.1222,
+    "lon": 19.8982,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Mariehamn Airport (MHQ) serves the capital of the Åland Islands, an autonomous Swedish-speaking archipelago region of Finland. The airport provides essential air connectivity between the islands and mainland Finland as well as Sweden, supporting both tourism and the local economy. Despite its modest size, it is a vital gateway for visitors exploring the Baltic Sea archipelago.",
+  "faqs": "Q: How far is Mariehamn Airport from the city center?\nA: The airport is located approximately 3 kilometers northwest of central Mariehamn, making it a quick 5-10 minute drive.\n\nQ: Which airlines operate from Mariehamn Airport?\nA: The airport is primarily served by regional carriers offering flights to Stockholm and occasionally to mainland Finland.\n\nQ: Does the airport have international flights?\nA: Yes, scheduled services connect Mariehamn with Stockholm Arlanda in Sweden, and seasonal routes to Finnish mainland destinations may also be available.\n\nQ: Are there customs and immigration facilities at the airport?\nA: As a border point, the airport handles Schengen area arrivals, though formal customs procedures are generally streamlined for travelers within the zone.\n\n",
+  "transport_tips": "Taxis are readily available outside the terminal and provide the most convenient transfer to Mariehamn city center. Rental cars can be arranged at the airport, which is useful for exploring the wider Åland Islands. Bus services also connect the airport with the city and ferry terminals, where Viking Line and Tallink Silja ferries arrive from Sweden and Finland.",
+  "local_tip": "If you have a layover or early arrival, the nearby maritime museum and the iconic Pommern tall ship in Mariehamn's western harbour are within walking distance and offer a great introduction to Åland's rich seafaring heritage.",
+  "generatedAt": "2026-06-28T21:38:42.080Z",
+  "model": "MiniMax-M3"
+}

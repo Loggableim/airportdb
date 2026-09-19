@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LHE",
+    "icao": "OPLA",
+    "name": "Allama Iqbal International Airport",
+    "country": "Pakistan",
+    "city": "Lahore",
+    "lat": 31.5216,
+    "lon": 74.4036,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Allama Iqbal International Airport (LHE) is Pakistan's second-busiest airport and the primary international gateway for Lahore, located approximately 15 kilometers south of the city center. Named after Allama Muhammad Iqbal, the celebrated philosopher and national poet of Pakistan, the airport serves as a major hub for Pakistan International Airlines and handles millions of passengers annually. It features modernized terminals supporting both domestic and international flights, with connections across the Middle East, Southeast Asia, Europe, and North America.",
+  "faqs": "Q: How far is the airport from central Lahore?\nA: The airport is approximately 15 km (about 9 miles) from the city center, typically a 30-45 minute drive depending on traffic.\n\nQ: Does the airport have free Wi-Fi?\nA: Yes, complimentary Wi-Fi is available in the terminal buildings, though speeds may vary.\n\nQ: Are there duty-free shops at Lahore airport?\nA: Yes, the international terminal features duty-free shopping with a range of local and international brands.\n\nQ: Can I get a Pakistani SIM card at the airport?\nA: Yes, major telecom operators such as Jazz, Ufone, and Telenor have kiosks in the arrivals area.\n\n",
+  "transport_tips": "Ride-hailing services like Careem and Uber operate at the airport and offer reliable transport to the city center. Official airport taxis and prepaid taxi counters are also available inside the terminal for travelers who prefer fixed-rate fares. Allow extra time during peak hours (5-9 PM) as Lahore traffic can be heavy on the main airport road.",
+  "local_tip": "If you have a long layover or early arrival, the airport's food court area tends to be quieter during late-night hours, and the prayer rooms are well-maintained and open 24/7 for travelers.",
+  "generatedAt": "2026-06-28T17:40:55.574Z",
+  "model": "MiniMax-M3"
+}

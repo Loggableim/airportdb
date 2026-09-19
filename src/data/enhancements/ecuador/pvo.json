@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PVO",
+    "icao": "SEPV",
+    "name": "Reales Tamarindos Airport",
+    "country": "Ecuador",
+    "city": "Portoviejo",
+    "lat": -1.0416,
+    "lon": -80.4722,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Reales Tamarindos Airport (PVO) is a medium-sized regional airport serving Portoviejo, the capital of Manabí Province on Ecuador's Pacific coast. It functions as an important gateway for travelers heading to the beaches of the Manabí coast and nearby attractions like Crucita and San Clemente. The airport handles primarily domestic flights and supports both tourism and regional commerce in this agricultural and coastal area of western Ecuador.",
+  "faqs": "Q: What is the IATA code for Reales Tamarindos Airport?\nA: The IATA code is PVO, and the ICAO code is SEPV.\n\nQ: Where is Reales Tamarindos Airport located?\nA: It is located near Portoviejo in the Manabí Province of Ecuador, on the country's western Pacific coast.\n\nQ: What kind of flights does this airport serve?\nA: The airport primarily handles domestic and regional flights, serving travelers heading to and from the Manabí region.\n\nQ: Does Reales Tamarindos Airport have international flights?\nA: It mainly operates domestic routes; international travelers typically connect through Quito or Guayaquil.",
+  "transport_tips": "The airport is located just a few kilometers from central Portoviejo, making taxi rides into the city quick and affordable. Rideshare options and pre-arranged hotel shuttles are commonly used by visitors. If traveling onward to coastal towns like Manta or Crucita, renting a car or arranging private transport in advance is recommended.",
+  "local_tip": "Portoviejo is famous for its traditional food, especially the local dish 'viche' (a hearty manabita seafood soup) and freshly made bizcochos de Portoviejo—savory cheese pastries best enjoyed at the city's old markets near Plaza El Sol.",
+  "generatedAt": "2026-06-26T13:25:23.475Z",
+  "model": "MiniMax-M3"
+}

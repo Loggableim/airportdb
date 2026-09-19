@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FEN",
+    "icao": "SBFN",
+    "name": "Fernando de Noronha Airport",
+    "country": "Brazil",
+    "city": "Fernando de Noronha",
+    "lat": -3.8545,
+    "lon": -32.423,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Fernando de Noronha Airport (FEN/SBFN) is the sole gateway to the Fernando de Noronha archipelago, a remote volcanic island chain located about 350 km off Brazil's northeastern coast in the Atlantic Ocean. Designated a UNESCO World Heritage Site in 2001, the island is famous for its untouched beaches, rich marine biodiversity, and limited daily visitor quotas, making this small regional airport a crucial access point for eco-tourists. The airport operates with a single runway and limited commercial service, reflecting the archipelago's environmentally protected status.",
+  "faqs": "Q: How do you get to Fernando de Noronha?\nA: Most travelers fly to Recife (REC) or Natal (NAT) on mainland Brazil, then connect to a domestic flight to Fernando de Noronha Airport (FEN). There is no ferry service for passengers.\n\nQ: Are there international flights to Fernando de Noronha?\nA: No, the airport only handles domestic flights, primarily from Recife and Natal. International visitors must clear customs in a mainland Brazilian city first.\n\nQ: Is Fernando de Noronha open to all tourists?\nA: The Brazilian government restricts the number of visitors to protect the environment. A daily environmental fee and tourist tax are required, and visitors must stay at registered accommodations.\n\nQ: When is the best time to visit Fernando de Noronha?\nA: The dry season from August to March offers the calmest seas and best visibility for diving, though the archipelago is a year-round destination.",
+  "transport_tips": "Taxis and pre-booked transfer vans are the main options for reaching hotels after landing, as public transport on the island is very limited. Rental cars, buggies, and scooters can be reserved in advance and are popular for exploring the island's limited road network. Flights should be booked well ahead of travel, as schedules are limited and the airport's capacity constraints reflect the island's visitor cap.",
+  "local_tip": "Pack light and bring reef-safe sunscreen in your carry-on—regular sunscreens containing oxybenzone are banned on the island to protect the marine ecosystem, and they can be confiscated at the airport.",
+  "generatedAt": "2026-06-29T06:47:37.699Z",
+  "model": "MiniMax-M3"
+}

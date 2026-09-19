@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WBO",
+    "icao": "FMSB",
+    "name": "Antsoa Airport",
+    "country": "Madagascar",
+    "city": "Beroroha",
+    "lat": -21.607,
+    "lon": 45.136,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Antsoa Airport (WBO) is a small regional airfield serving the remote town of Beroroha in southwestern Madagascar's Atsimo-Andrefana region. The airport provides essential air access to this isolated community located along the Mangoky River, where road travel can be challenging, especially during the rainy season. Its modest infrastructure reflects the rural character of the surrounding landscape, which is dominated by dry savanna and traditional Malagasy villages.",
+  "faqs": "Q: What is the IATA code for Antsoa Airport?\nA: The IATA code is WBO, and the ICAO code is FMSB.\n\nQ: Where is Antsoa Airport located?\nA: It is located near Beroroha, a town in the southwestern Atsimo-Andrefana region of Madagascar.\n\nQ: Are there regular commercial flights to Antsoa Airport?\nA: The airport handles primarily small charter and regional flights, with limited scheduled service typical of Madagascar's remote airstrips.\n\nQ: Is the airport suitable for large aircraft?\nA: No, as a small airport with limited infrastructure, it primarily serves small propeller aircraft suited to short runway operations.",
+  "transport_tips": "Getting to Antsoa Airport typically requires arranging ground transport in Beroroha town, as taxi",
+  "local_tip": "",
+  "generatedAt": "2026-06-27T18:12:00.393Z",
+  "model": "MiniMax-M3"
+}

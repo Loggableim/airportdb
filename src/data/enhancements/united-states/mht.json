@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MHT",
+    "icao": "KMHT",
+    "name": "Manchester-Boston Regional Airport",
+    "country": "United States",
+    "city": "Manchester",
+    "lat": 42.9326,
+    "lon": -71.4357,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Manchester-Boston Regional Airport (MHT) is New Hampshire's largest commercial airport, located about 3 miles south of downtown Manchester. Originally established as Grenier Field in 1941 during World War II, the airfield transitioned to civilian use in 1982 and was renamed to reflect its role serving the broader Boston metropolitan region. It offers a convenient alternative to Boston Logan with shorter lines and easier access for travelers from New Hampshire, northern Massachusetts, Vermont, and Maine.",
+  "faqs": "Q: How far is Manchester-Boston Regional Airport from downtown Boston?\nA: MHT is approximately 60 miles north of Boston, roughly a 1-hour drive depending on traffic. Many travelers find it faster than dealing with Logan International.\n\nQ: Which airlines serve MHT?\nA: Several major carriers operate from MHT, including Southwest, American, United, and Spirit, offering nonstop flights primarily to East Coast destinations and a few seasonal routes.\n\nQ: Is there military presence at the airport?\nA: Yes, the New Hampshire Air National Guard's 157th Air Refueling Wing is based at MHT, sharing the airfield with civilian operations.\n\nQ: Does the airport have international flights?\nA: MHT primarily handles domestic flights. Travelers seeking international service typically use Boston Logan International Airport.\n\n",
+  "transport_tips": "The airport is just off Interstate 293 and Route 101, making it easily accessible by car with ample long-term and short-term parking options. Taxi, rideshare services (Uber and Lyft), and local bus routes provide ground transportation to Manchester and surrounding areas. Rental car agencies are available on-site for travelers exploring New Hampshire and New England.",
+  "local_tip": "Pack a light jacket year-round—Manchester sits between the White Mountains and the coast, so weather can shift quickly, and the terminal's outdoor walkways between parking and the main building can be surprisingly breezy even in mild months.",
+  "generatedAt": "2026-06-29T01:53:55.972Z",
+  "model": "MiniMax-M3"
+}

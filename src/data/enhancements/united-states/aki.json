@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AKI",
+    "icao": "PFAK",
+    "name": "Akiak Airport",
+    "country": "United States",
+    "city": "Akiak",
+    "lat": 60.9026,
+    "lon": -161.2311,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Akiak Airport (AKI) is a small public-use airport serving the remote Yup'ik village of Akiak in the Bethel Census Area of southwestern Alaska. Situated along the Kuskokwim River, it provides a critical transportation link for residents who rely on air travel due to the absence of road connections to the outside world. The airport features a single gravel runway and primarily supports regional commuter and bush aircraft operations.",
+  "faqs": "Q: What is the main purpose of Akiak Airport?\nA: The airport serves as the primary link between the remote village of Akiak and larger hubs like Bethel, since there are no roads connecting the community to the rest of Alaska.\n\nQ: What type of aircraft typically use Akiak Airport?\nA: Small commuter turboprops and bush planes, including Cessna Caravans and similar aircraft, regularly operate at the facility.\n\nQ: Are there facilities for passengers at Akiak Airport?\nA: The airport has minimal infrastructure typical of rural Alaska airstrips, including a small terminal or waiting shelter, but limited amenities.\n\nQ: How long is the runway at Akiak Airport?\nA: The airport has a single gravel runway approximately 3,400 feet long, suitable for small regional aircraft.",
+  "transport_tips": "There is no road access to Akiak, so all travel to and from the airport is by air or, seasonally, by boat and snowmobile. Most passengers arrange flights through regional carriers serving the Kuskokwim region, often with connections through Bethel. Travelers should confirm flight schedules well in advance, as weather in the Yukon-Kuskokwim Delta frequently causes delays or cancellations.",
+  "local_tip": "Pack layers and be prepared for limited shelter at the airstrip—temperatures in the Kuskokwim Delta can shift dramatically, and waits between flights can be lengthy, especially during winter when flights may be delayed by ice fog or snow.",
+  "generatedAt": "2026-06-26T20:00:23.602Z",
+  "model": "MiniMax-M3"
+}

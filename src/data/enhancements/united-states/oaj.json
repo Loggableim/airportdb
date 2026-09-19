@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OAJ",
+    "icao": "KOAJ",
+    "name": "Albert J Ellis Airport",
+    "country": "United States",
+    "city": "Richlands",
+    "lat": 34.8292,
+    "lon": -77.6121,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Albert J Ellis Airport is a medium-sized public airport located in Richlands, North Carolina, serving the Jacksonville area and nearby Marine Corps Base Camp Lejeune. Named after longtime North Carolina state senator Albert J. Ellis, the airport provides an important transportation link for military personnel, tourists visiting the Crystal Coast, and local residents of Onslow County. It features a single commercial airline terminal alongside significant general aviation operations.",
+  "faqs": "Q: What airlines serve Albert J Ellis Airport?\nA: The airport is primarily served by American Airlines with regional connections, though service offerings can change seasonally.\n\nQ: How far is the airport from Jacksonville, NC?\nA: The airport is located approximately 15 miles northwest of downtown Jacksonville in Richlands.\n\nQ: Is the airport near any military installations?\nA: Yes, it is conveniently located near Marine Corps Base Camp Lejeune, making it a common gateway for military travel and visiting families.\n\nQ: Does the airport offer car rentals?\nA: Yes, car rental services are available on-site for arriving passengers.\n\n",
+  "transport_tips": "Rental cars are the most convenient option for reaching the airport from Jacksonville and surrounding areas, as the location is somewhat rural with limited public transit. Taxis and rideshare services like Uber and Lyft operate in the area but may have longer wait times due to the airport's smaller size. Many military travelers coordinate transport through base shuttle services when visiting Camp Lejeune.",
+  "local_tip": "If you have time before your flight, visit nearby Hofmann Forest or take a short drive to the beaches of Topsail Island or Emerald Isle for a quick taste of the Crystal Coast before heading to the airport.",
+  "generatedAt": "2026-06-29T18:48:50.181Z",
+  "model": "MiniMax-M3"
+}

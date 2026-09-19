@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YHT",
+    "icao": "CYHT",
+    "name": "Haines Junction Airport",
+    "country": "Canada",
+    "city": "Haines Junction",
+    "lat": 60.7892,
+    "lon": -137.546,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Haines Junction Airport (YHT/CYHT) is a small regional airport serving the village of Haines Junction in Canada's Yukon Territory. Situated at the eastern gateway to Kluane National Park and Reserve, home to Mount Logan—Canada's highest peak—the airport primarily handles general aviation and charter flights connecting this remote community to Whitehorse and beyond. Its location makes it a key access point for travelers heading into one of the world's largest non-polar icefields.",
+  "faqs": "Q: What is Haines Junction Airport primarily used for?\nA: The airport mainly serves general aviation, charter flights, and bush planes connecting Haines Junction to Whitehorse and other Yukon communities, as well as supporting tourism and emergency services.\n\nQ: Are there scheduled commercial flights to Haines Junction?\nA: Scheduled commercial service is limited or nonexistent; most visitors arrive via scheduled flights to Whitehorse followed by a roughly 150 km drive or charter connection.\n\nQ: What is the closest major attraction to the airport?\nA: Kluane National Park and Reserve is located right next to Haines Junction, offering access to Mount Logan, massive icefields, and abundant wildlife viewing opportunities.\n\nQ: Does the airport have customs or immigration facilities?\nA: No, the airport does not have customs or immigration services; international travelers must clear customs at Whitehorse before connecting.",
+  "transport_tips": "Ground transportation from the airport is limited, so arranging a rental vehicle or pre-booked shuttle from Haines Junction townsite is strongly recommended. The Alaska Highway connects Haines Junction to Whitehorse (about 150 km east) and to the Alaska border to the west. Most visitors without private transport should coordinate pickup in advance with their accommodation or tour operator.",
+  "local_tip": "Visitors should fill up fuel in town before heading out—the nearest gas station to Kluane National Park's backcountry trailheads is in Haines Junction itself, and prices reflect the remoteness of the region.",
+  "generatedAt": "2026-06-26T10:16:30.348Z",
+  "model": "MiniMax-M3"
+}

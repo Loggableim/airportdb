@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OJC",
+    "icao": "KOJC",
+    "name": "Johnson County Executive Airport",
+    "country": "United States",
+    "city": "Olathe",
+    "lat": 38.8476,
+    "lon": -94.7376,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Johnson County Executive Airport (OJC) is a general aviation reliever airport serving the southwestern Kansas City metropolitan area from Olathe, Kansas. It supports corporate, private, and flight training operations and helps reduce congestion at Kansas City International Airport. The facility features multiple runways and modern amenities for business and recreational aviation users.",
+  "faqs": "Q: What is Johnson County Executive Airport primarily used for?\nA: It serves as a general aviation reliever airport, handling corporate jets, private aircraft, and flight training activity rather than commercial airline service.\n\nQ: Does OJC offer commercial airline flights?\nA: No, the airport does not have scheduled commercial passenger service. It focuses on general aviation and business aviation operations.\n\nQ: Where exactly is the airport located?\nA: It is situated in Olathe, Kansas, within Johnson County, approximately 20 miles southwest of downtown Kansas City, Missouri.\n\nQ: Are there FBO services available on-site?\nA: Yes, fixed-base operators at the airport provide fueling, hangar space, aircraft maintenance, and other pilot services.\n\n",
+  "transport_tips": "Travelers can reach the airport via I-35 and local Olathe roads, with the facility offering ample on-site parking for both short and extended visits. Rideshare services and rental cars are commonly used, as there is no public transit directly serving the terminal area. Having a personal vehicle is the most convenient option for ground transportation.",
+  "local_tip": "If visiting for a flight school or business meeting, consider stopping by one of Olathe's locally owned barbecue spots nearby, as the city is known for Kansas-style smoked meats and a quieter alternative to downtown Kansas City dining.",
+  "generatedAt": "2026-06-27T00:03:48.114Z",
+  "model": "MiniMax-M3"
+}

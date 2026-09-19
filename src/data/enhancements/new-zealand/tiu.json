@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TIU",
+    "icao": "NZTU",
+    "name": "Timaru Airport",
+    "country": "New Zealand",
+    "city": "",
+    "lat": -44.3028,
+    "lon": 171.225,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Timaru Airport (TIU) is a regional airport serving the port city of Timaru on the east coast of New Zealand's South Island, in the Canterbury region. The airport provides essential connectivity for the South Canterbury district, which is known for its agriculture, fishing, and proximity to the Southern Alps. It primarily handles general aviation and occasional scheduled services, with a single main runway suitable for turboprop and light jet operations.",
+  "faqs": "Q: What airlines fly from Timaru Airport?\nA: Scheduled commercial services are limited; the airport is primarily used for general aviation, charter flights, and occasional regional services to destinations like Christchurch. Travelers should check current schedules as service availability changes periodically.\n\nQ: How far is Timaru Airport from the city center?\nA: The airport is located approximately 7-8 km north of Timaru's central business district, making it a short 10-15 minute drive from most parts of the city.\n\nQ: Does Timaru Airport have international flights?\nA: No, the airport does not handle scheduled international flights. The nearest international gateway is Christchurch International Airport, about 160 km to the northeast.\n\nQ: Is there public transport to the airport?\nA: Public transport options are limited; renting a car, booking a taxi, or arranging a shuttle in advance is generally the most practical way to reach the airport.",
+  "transport_tips": "Renting a car from Timaru city is the most flexible option, as the airport has limited regular public transit service. Taxi and shuttle services should be pre-booked, especially for early morning departures, as availability can be restricted. If driving, the airport is easily accessed via State Highway 1 heading north out of Timaru.",
+  "local_tip": "If you have time before your flight, visit the nearby Peel Forest and the scenic Geraldine area about 30 minutes inland — many pilots use Timaru Airport as a gateway to explore the Canterbury high country.",
+  "generatedAt": "2026-06-29T09:36:11.197Z",
+  "model": "MiniMax-M3"
+}

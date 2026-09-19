@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PAP",
+    "icao": "MTPP",
+    "name": "Toussaint Louverture International Airport",
+    "country": "Haiti",
+    "city": "Port-au-Prince",
+    "lat": 18.58,
+    "lon": -72.2926,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Toussaint Louverture International Airport (PAP) is Haiti's primary international gateway, located in the Tabarre district of Port-au-Prince. Named after the revolutionary leader who helped establish Haitian independence in the early 19th century, the airport serves as the main hub for both international and domestic air traffic in the country. It remains one of the few operational international airports in Haiti and plays a critical role in connecting the island nation to the Caribbean, North America, and beyond.",
+  "faqs": "Q: What is the main international airport in Haiti?\nA: Toussaint Louverture International Airport (PAP) in Port-au-Prince is Haiti's main international airport, handling the majority of the country's international flights.\n\nQ: How far is the airport from Port-au-Prince city center?\nA: The airport is located in the Tabarre area, approximately 10 kilometers (6 miles) northeast of central Port-au-Prince.\n\nQ: Which airlines operate from PAP?\nA: Several major carriers serve the airport, including American Airlines, JetBlue, Spirit, and Air Canada, along with regional operators and Haiti's domestic carriers.\n\nQ: Does the airport operate 24 hours a day?\nA: The airport generally operates during daylight and evening hours; travelers should confirm specific flight schedules with their airline, as overnight operations can be limited.",
+  "transport_tips": "Official taxis and pre-arranged hotel transfers are the most reliable ways to reach central Port-au-Prince from the airport, as public transportation options are limited. Travelers are advised to arrange ground transportation in advance through their hotel or a trusted local contact rather than accepting rides from unofficial drivers at the terminal. Road conditions and travel times can vary significantly depending on traffic and local security conditions, so allowing extra buffer time is recommended.",
+  "local_tip": "Keep small denominations of Haitian gourdes and US dollars on hand for tipping porters and small purchases, as larger bills can be difficult to change and many vendors at the airport prefer cash transactions.",
+  "generatedAt": "2026-06-28T19:40:03.267Z",
+  "model": "MiniMax-M3"
+}

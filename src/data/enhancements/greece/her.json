@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HER",
+    "icao": "LGIR",
+    "name": "Heraklion International Nikos Kazantzakis Airport",
+    "country": "Greece",
+    "city": "Heraklion",
+    "lat": 35.3397,
+    "lon": 25.1803,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "Heraklion International Nikos Kazantzakis Airport is the primary gateway to Crete and the second-busiest airport in Greece, serving millions of passengers each year. Named after the renowned Greek philosopher and novelist Nikos Kazantzakis, author of \"Zorba the Greek\" and \"The Last Temptation of Christ,\" it handles both civilian and military operations on a joint-use basis. Located just 5 km east of Heraklion city center, it serves as the main entry point for tourists exploring Crete's ancient Minoan ruins, beaches, and mountain landscapes.",
+  "faqs": "Q: How far is the airport from Heraklion city center?\nA: The airport is approximately 5 km east of the city center, with typical taxi or bus journeys taking around 15-20 minutes depending on traffic.\n\nQ: Does the airport operate 24 hours?\nA: Yes, Heraklion Airport operates around the clock, though flight activity is heavily concentrated during daytime hours, especially in the summer tourist season.\n\nQ: Is there a direct bus to the city center?\nA: Yes, public bus routes operated by KTEL connect the airport with Heraklion city center and other major Cretan destinations like Chania, Rethymno, and Agios Nikolaos.\n\nQ: Are there duty-free shops and restaurants available?\nA: Yes, the terminal offers multiple duty-free outlets, cafes, and restaurants, particularly in the departures area, with expanded services during peak summer months.\n\n",
+  "transport_tips": "Public buses run frequently between the airport and Heraklion city center, offering an economical option for budget travelers. Taxis are readily available outside the terminal and provide a faster alternative, especially for travelers with luggage heading to resorts along the northern coast. Renting a car at the airport is highly recommended for those planning to explore Crete independently, though booking in advance during summer is strongly advised.",
+  "local_tip": "Frequent visitors recommend arriving early during peak July and August weekends, as security and check-in lines can extend significantly, and the small terminal becomes crowded with charter flights. Consider booking early-morning or late-evening flights for a smoother experience.",
+  "generatedAt": "2026-06-28T16:47:41.960Z",
+  "model": "MiniMax-M3"
+}

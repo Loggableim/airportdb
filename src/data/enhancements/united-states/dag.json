@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DAG",
+    "icao": "KDAG",
+    "name": "Barstow Daggett Airport",
+    "country": "United States",
+    "city": "Daggett",
+    "lat": 34.8537,
+    "lon": -116.787,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Barstow Daggett Airport is a medium-sized general aviation facility situated in the Mojave Desert near the town of Daggett in San Bernardino County, California. It serves the Barstow area and supports a mix of private aviation, recreational flying, and occasional military training operations typical of high-desert airports. The airport's clear skies and open terrain make it a popular stopover for cross-country pilots traveling through the southwestern United States.",
+  "faqs": "Q: Where is Barstow Daggett Airport located?\nA: The airport is located in the unincorporated community of Daggett, California, just east of the city of Barstow in San Bernardino County, in the Mojave Desert region.\n\nQ: Does the airport offer commercial passenger service?\nA: No, Barstow Daggett Airport is a general aviation facility and does not provide scheduled commercial airline service.\n\nQ: What is the airport primarily used for?\nA: It primarily supports general aviation activities including private flying, flight training, and transient aircraft, and has historically hosted some military flight operations.\n\nQ: Are there amenities available at the airport?\nA: Basic amenities such as fuel services and pilot facilities are typically available, though travelers should arrange ground transportation in advance as on-site services are limited.\n\n",
+  "transport_tips": "The airport is located a short drive east of Barstow along Interstate 40, making it accessible by car from the town. Rental car services are not available on-site, so visitors typically need to arrange transportation through Barstow-based providers. The nearest major commercial airport is Ontario International Airport, roughly 90 miles to the southwest.",
+  "local_tip": "If you're visiting the area, consider pairing your trip with a drive through nearby Mojave National Preserve, one of the least-visited national park units in California, offering stunning desert landscapes, lava tubes, and the iconic Kelso Dunes.",
+  "generatedAt": "2026-06-30T05:19:07.689Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LGQ",
+    "icao": "SENL",
+    "name": "Nueva Loja Airport",
+    "country": "Ecuador",
+    "city": "Lago Agrio",
+    "lat": 0.0931,
+    "lon": -76.8675,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Nueva Loja Airport (LGQ) serves Lago Agrio, the capital of Sucumbíos Province in northeastern Ecuador's Amazon region. The airport functions as a key gateway for the oil industry hub and travelers heading to nearby Amazonian attractions including the Cuyabeno Wildlife Reserve. Its remote jungle location near the Colombian border makes it a popular entry point for eco-tourism and oil-sector business travel.",
+  "faqs": "Q: What airlines operate at Nueva Loja Airport?\nA: The airport is primarily served by regional domestic carriers offering flights to Quito, with occasional charter and general aviation traffic.\n\nQ: How far is the airport from Lago Agrio city center?\nA: The airport is located just a few kilometers from downtown Lago Agrio, typically reachable within 10-15 minutes by car.\n\nQ: Are there international flights from LGQ?\nA: No, Nueva Loja Airport handles domestic flights only; international travelers typically connect through Quito's Mariscal Sucre International Airport.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, it offers basic passenger amenities including a terminal building, check-in services, and ground transport options, but no extensive retail or dining facilities.\n\n",
+  "transport_tips": "Taxis and mototaxis are readily available outside the terminal and are the most common way to reach Lago Agrio or nearby accommodations. Renting a vehicle in advance is advisable for travelers planning excursions into the surrounding rainforest, as public transport outside the city is limited. Arrange return transportation with your hotel or lodge, as taxis may be scarce during early morning departures.",
+  "local_tip": "Carry cash in small denominations, as many local taxis, restaurants, and shops in Lago Agrio do not accept cards, and ATMs can occasionally be out of service in this remote Amazonian city.",
+  "generatedAt": "2026-06-27T13:11:02.157Z",
+  "model": "MiniMax-M3"
+}

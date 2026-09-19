@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PWT",
+    "icao": "KPWT",
+    "name": "Bremerton National Airport",
+    "country": "United States",
+    "city": "Bremerton",
+    "lat": 47.4902,
+    "lon": -122.765,
+    "type": "medium_airport",
+    "size": 375
+  },
+  "summary": "Bremerton National Airport is a general aviation airport located on the Kitsap Peninsula in western Washington, serving the city of Bremerton and the broader Kitsap County. The facility has historical ties to naval aviation, having operated alongside the nearby Puget Sound Naval Shipyard, which remains one of the region's largest employers. Today, it primarily accommodates private aircraft, flight training, and charter operations, with the airfield offering convenient access for pilots traveling across the Puget Sound region.\n\n",
+  "faqs": "Q: Where is Bremerton National Airport located?\nA: The airport is situated on the Kitsap Peninsula in western Washington, about 8 miles south of downtown Bremerton and across the Puget Sound from Seattle.\n\nQ: Does Bremerton National Airport offer commercial flights?\nA: Scheduled commercial passenger service is very limited; the airport is primarily used for general aviation, private flights, flight training, and charter operations.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, hangars, fuel services, tie-down spaces, and fixed-base operator (FBO) services typical of a regional general aviation facility.\n\n",
+  "transport_tips": "The quickest route from Seattle involves taking the Washington State Ferry from Seattle to Bremerton, followed by a short drive south to the airport. Drivers from the Seattle metro area can also reach the airport via the Tacoma Narrows Bridge across a roughly hour-long route. Rental cars and rideshare services are advisable, as public transit options directly to the airfield are limited.\n\n",
+  "local_tip": "Frequent visitors recommend timing arrivals around the Washington State Ferry schedules if traveling without a car, as ferry gaps during late evenings can leave you stranded on either side of the Sound.\n",
+  "generatedAt": "2026-06-30T01:28:34.933Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HSL",
+    "icao": "PAHL",
+    "name": "Huslia Airport",
+    "country": "United States",
+    "city": "Huslia",
+    "lat": 65.6979,
+    "lon": -156.351,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Huslia Airport (HSL) is a public-use airport serving the remote Koyukon Athabascan village of Huslia, located on the Koyukuk River in interior Alaska. The facility provides a critical transportation link for the small community, which is not connected to the state's road system and relies heavily on air travel for supplies, mail, and passenger access to larger hubs like Fairbanks. The airport features a gravel runway suited to the region's subarctic climate and bush plane operations common throughout rural Alaska.",
+  "faqs": "Q: How do I get to Huslia from Fairbanks?\nA: Most travelers fly into Huslia Airport via regional carriers from Fairbanks, as there are no roads connecting the village to the rest of Alaska.\n\nQ: What facilities are available at Huslia Airport?\nA: The airport is a small, rural facility with a gravel runway and basic services; passengers should arrange ground transportation and accommodations in advance.\n\nQ: When is the best time to fly to Huslia?\nA: Summer months (June through August) offer the most reliable weather and longest daylight hours, while winter flights can be affected by extreme cold and visibility issues.\n\nQ: Is Huslia Airport open year-round?\nA: Yes, the airport operates year-round, though flight schedules may be reduced during severe winter weather conditions.",
+  "transport_tips": "Since Huslia is not accessible by road, all visitors must arrive by air, typically through Fairbanks. Coordinate pickup from the airport with your local host or lodging in advance, as rental cars and taxi services are not available. Bush planes and small regional carriers are the primary options, so baggage allowances may be limited.",
+  "local_tip": "Pack versatile layers even in summer—interior Alaska temperatures can swing dramatically between warm afternoons and chilly evenings, and the nearby Koyukon village offers limited shopping for forgotten essentials.",
+  "generatedAt": "2026-06-29T15:05:21.821Z",
+  "model": "MiniMax-M3"
+}

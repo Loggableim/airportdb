@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CHZ",
+    "icao": "",
+    "name": "Chiloquin State Airport",
+    "country": "United States",
+    "city": "Chiloquin",
+    "lat": 42.5794,
+    "lon": -121.8791,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Chiloquin State Airport (CHZ) is a small general aviation airport serving the town of Chiloquin in Klamath County, southern Oregon. It provides convenient air access to the surrounding region, including Crater Lake National Park, located approximately 30 miles to the north. The airport is owned and operated by the Oregon Department of Aviation and primarily supports recreational flying, flight training, and emergency response operations.",
+  "faqs": "Q: What is the main use of Chiloquin State Airport?\nA: The airport primarily serves general aviation, including recreational flying, flight training, and occasional emergency or firefighting operations due to its proximity to forested public lands.\n\nQ: How far is the airport from Crater Lake National Park?\nA: The airport is located roughly 30 miles south of Crater Lake, making it a convenient staging point for visitors flying into the area before driving to the park.\n\nQ: Does the airport offer commercial service?\nA: No, Chiloquin State Airport does not offer scheduled commercial airline service. It is used exclusively for general aviation and private aircraft.\n\nQ: What facilities are available at the airport?\nA: The airport has a single runway and basic facilities including tie-downs and a small terminal area. Pilots should self-fuel or arrange fuel in advance as services are limited.",
+  "transport_tips": "The airport is located just east of the town of Chiloquin, accessible via short drives on local roads from US-97. Since there is no commercial service, visitors typically arrive by private aircraft or rent a car from Klamath Falls, about 35 miles south. Taxi and rideshare options are very limited in this rural area, so arranging ground transport in advance is recommended.",
+  "local_tip": "If you're flying in to visit Crater Lake, consider scheduling your trip for early morning or late afternoon to catch stunning views of the caldera from the air, and stop by the Chiloquin Ranger Station for current trail and road conditions before heading north to the park.",
+  "generatedAt": "2026-06-27T03:40:14.193Z",
+  "model": "MiniMax-M3"
+}

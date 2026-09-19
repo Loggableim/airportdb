@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GIF",
+    "icao": "KGIF",
+    "name": "Winter Haven Regional Airport - Gilbert Field",
+    "country": "United States",
+    "city": "Winter Haven",
+    "lat": 28.0629,
+    "lon": -81.7533,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Winter Haven Regional Airport, also known as Gilbert Field, is a small general aviation airport located in Winter Haven, Florida, in the heart of Polk County between Tampa and Orlando. Named after aviation pioneer Jack Gilbert, the airport primarily serves private aircraft, flight training, and corporate aviation. Its central Florida location makes it a convenient gateway for visitors to nearby attractions including Legoland Florida and the region's famous chain of lakes.",
+  "faqs": "Q: What type of airport is Winter Haven Regional Airport?\nA: It is a small general aviation airport primarily serving private, corporate, and training aircraft rather than commercial airline service.\n\nQ: Where is the airport located?\nA: It is situated in Winter Haven, Florida, in Polk County, roughly midway between Tampa and Orlando.\n\nQ: Are there commercial flights available at GIF?\nA: No scheduled commercial passenger service operates at this airport. Travelers typically use nearby Orlando International or Tampa International airports.\n\nQ: What facilities does the airport offer?\nA: The airport provides fuel services, hangar rentals, tie-down spaces, flight school operations, and aircraft maintenance facilities for general aviation users.",
+  "transport_tips": "The airport is just a few miles southwest of downtown Winter Haven, easily reachable by rental car or taxi. Since no commercial service operates here, most visitors fly into Orlando International (MCO) or Tampa International (TPA) and drive approximately 45-60 minutes via Interstate 4 or US-27. Rental cars are available at the larger airports and recommended for reaching Winter Haven's attractions.",
+  "local_tip": "If you're flying your own aircraft into GIF, the airport's location near dozens of freshwater lakes means you can easily add a scenic seaplane tour or lakeside dining experience to your visit—Winter Haven is known as the 'Chain of Lakes City.'",
+  "generatedAt": "2026-06-26T23:48:53.607Z",
+  "model": "MiniMax-M3"
+}

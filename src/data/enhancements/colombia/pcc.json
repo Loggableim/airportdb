@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PCC",
+    "icao": "",
+    "name": "Puerto Rico Airport",
+    "country": "Colombia",
+    "city": "Puerto Rico",
+    "lat": 1.9167,
+    "lon": -75.1667,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Puerto Rico Airport (PCC) is a small regional airfield serving the town of Puerto Rico in the Caquetá department of southern Colombia, nestled in the foothills of the Eastern Andes near the Amazon basin. It functions primarily as a gateway for general aviation and occasional commercial flights connecting this remote area to larger Colombian cities. The airport supports regional connectivity for a region known for cattle ranching, agriculture, and its proximity to lush tropical landscapes.",
+  "faqs": "Q: What type of aircraft typically uses Puerto Rico Airport?\nA: As a small regional airfield, it primarily handles light aircraft, small turboprops, and general aviation flights serving the Caquetá region.\n\nQ: Are there scheduled commercial flights from PCC?\nA: Scheduled service is limited and infrequent; travelers should check with local carriers or charter operators for current availability.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic terminal facilities typical of small Colombian regional airports, with limited passenger amenities.\n\nQ: Is the airport used for medical evacuation flights?\nA: Yes, small airports like PCC often serve as important hubs for medical evacuation and humanitarian flights in remote Amazonian regions.",
+  "transport_tips": "Ground transport to and from Puerto Rico Airport is typically arranged via local taxis or private vehicles, as there is no public transit serving the airfield. The town center is a short drive away, and arranging transport in advance is recommended given the limited options. Road conditions in the area can vary, especially during the rainy season.",
+  "local_tip": "If visiting during the dry season (roughly December to March), consider booking a guided excursion into the surrounding Caquetá jungle to experience the region's incredible biodiversity and indigenous culture firsthand.",
+  "generatedAt": "2026-06-28T05:56:08.226Z",
+  "model": "MiniMax-M3"
+}

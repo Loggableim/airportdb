@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KTV",
+    "icao": "SVKM",
+    "name": "Kamarata Airport",
+    "country": "Venezuela",
+    "city": "Kamarata",
+    "lat": 5.7171,
+    "lon": -62.3373,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Kamarata Airport is a small airfield in the remote Gran Sabana region of Bolívar State, Venezuela, serving the indigenous Pemón community of Kamarata. It functions as a key gateway for travelers heading to Angel Falls and Canaima National Park, with most visitors arriving on small propeller aircraft from Ciudad Bolívar or Caracas. The airport's remote location within one of South America's most biodiverse ecosystems makes it a vital link for both tourism and local connectivity.",
+  "faqs": "Q: What is Kamarata Airport mainly used for?\nA: The airport primarily serves the local Pemón community and tourists traveling to Angel Falls and Canaima National Park in the Gran Sabana region.\n\nQ: How do you get to Kamarata Airport?\nA: There are no road connections; visitors must fly in on small charter or scheduled propeller aircraft, typically from Ciudad Bolívar or Caracas.\n\nQ: Are there facilities at the airport?\nA: Facilities are minimal, typical of a remote small airfield, with a basic terminal and limited services. Travelers should bring essentials and expect a rustic experience.\n\nQ: Can you fly directly from Kamarata to Angel Falls?\nA: Direct flights to Angel Falls are not scheduled; most travelers continue by boat and foot through Canaima National Park, often arranged through local tour operators.\n\n",
+  "transport_tips": "All access to Kamarata Airport is by air, as the settlement has no road links to the rest of Venezuela. Charter flights from Ciudad Bolívar are the most common route, and flight schedules can be irregular, so build in buffer days. Local guides and boat transport from Kamarata village are needed to reach Angel Falls and other attractions in Canaima National Park.",
+  "local_tip": "Cash in Venezuelan bolívar soberano is recommended for interacting with local Pemón guides and purchasing handicrafts, and learning a few basic Pemón greetings is warmly received by the community.",
+  "generatedAt": "2026-06-28T00:02:08.461Z",
+  "model": "MiniMax-M3"
+}

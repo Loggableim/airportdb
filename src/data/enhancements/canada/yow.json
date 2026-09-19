@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YOW",
+    "icao": "CYOW",
+    "name": "Ottawa Macdonald-Cartier International Airport",
+    "country": "Canada",
+    "city": "Ottawa",
+    "lat": 45.3225,
+    "lon": -75.6692,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Ottawa Macdonald-Cartier International Airport (YOW) is the primary air gateway to Canada's capital region, located approximately 10 km south of downtown Ottawa in the province of Ontario. Named in honour of two of Canada's founding Fathers and former Prime Ministers, Sir John A. Macdonald and Sir Georges-Étienne Cartier, the airport serves as a key hub for government travel, tourism, and connects the National Capital Region to destinations across North America and internationally. The airport features a modern terminal complex with recently expanded facilities to accommodate growing passenger volumes.",
+  "faqs": "Q: How far is YOW from downtown Ottawa?\nA: The airport is approximately 10 km (6 miles) south of downtown Ottawa, with a typical drive time of 20-30 minutes depending on traffic.\n\nQ: Does Ottawa Airport have public transit service?\nA: Yes, OC Transpo Route 97 provides frequent bus service between the airport and downtown Ottawa, and the newly extended Trillium Line LRT also serves the airport with a dedicated station.\n\nQ: How many terminals does YOW have?\nA: The airport operates a single passenger terminal building that handles both domestic and international flights.\n\nQ: Is there a US preclearance facility at Ottawa Airport?\nA: Yes, YOW has a US Customs and Border Protection preclearance facility, allowing passengers to clear US immigration before departure.",
+  "transport_tips": "The Trillium Line LRT offers a convenient and affordable connection to downtown Ottawa via Bayview Station, where passengers can transfer to other lines. Taxi and rideshare services are available on the arrivals level, with fares to downtown typically ranging from CAD $30-$40. Rental car agencies are located on-site or reachable via a short shuttle from the terminal, and the airport is easily accessed from Highway 417.",
+  "local_tip": "Frequent travellers recommend using the YOW Plus program to earn free parking and rewards, and note that the airport's observation area on the departures level is a great spot to watch aircraft movements away from the crowds.",
+  "generatedAt": "2026-06-28T16:14:54.424Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LNS",
+    "icao": "KLNS",
+    "name": "Lancaster Airport",
+    "country": "United States",
+    "city": "Lancaster",
+    "lat": 40.1217,
+    "lon": -76.2961,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Lancaster Airport is a public-use airport located south of Lancaster, Pennsylvania, serving Lancaster County in the heart of Pennsylvania Dutch Country. The facility is owned and operated by the Lancaster Airport Authority and primarily handles general aviation, with historical ties to scheduled regional commercial service. It provides convenient access to one of the most popular tourist regions in the northeastern United States, known for its Amish heritage, covered bridges, and rolling farmland.",
+  "faqs": "Q: What is the main purpose of Lancaster Airport?\nA: Lancaster Airport primarily serves general aviation operations, including private, corporate, and flight training flights, while also supporting the local tourism economy of Lancaster County.\n\nQ: Does Lancaster Airport offer commercial passenger service?\nA: The airport has historically provided scheduled commercial regional service, though its current scheduled passenger offerings may be limited; travelers should check current airline schedules for the latest information.\n\nQ: Where exactly is the airport located relative to Lancaster city?\nA: The airport sits just south of Lancaster city center, making it a short drive from downtown and easily accessible from surrounding communities in the county.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers standard amenities including parking, rental car access, and waiting areas for passengers and pilots.",
+  "transport_tips": "The airport is best reached by personal vehicle, with on-site parking available near the terminal. Rental car services operate from the facility, which is the recommended way to explore the broader Lancaster County region. Ride-share and taxi services may be limited compared to larger airports, so arranging ground transportation in advance is advisable.",
+  "local_tip": "If you have time between flights, take a short drive into downtown Lancaster to walk the historic streets and grab a meal at one of the Central Market stalls—America's oldest continuously operating farmers market, just minutes from the airport.",
+  "generatedAt": "2026-06-29T03:18:00.917Z",
+  "model": "MiniMax-M3"
+}

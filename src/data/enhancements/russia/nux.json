@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NUX",
+    "icao": "USMU",
+    "name": "Novy Urengoy Airport",
+    "country": "Russia",
+    "city": "Novy Urengoy",
+    "lat": 66.0694,
+    "lon": 76.5203,
+    "type": "medium_airport",
+    "size": 650
+  },
+  "summary": "Novy Urengoy Airport (NUX) serves the gas capital of Russia, located in the Yamalo-Nenets Autonomous Okrug in Western Siberia just below the Arctic Circle. The airport is a critical transport hub for workers serving the vast natural gas fields of the Urengoy deposit, one of the largest in the world. Established alongside the city in the 1970s, it handles a mix of scheduled domestic flights and significant charter traffic linked to the energy industry.",
+  "faqs": "Q: What is Novy Urengoy best known for?\nA: It is the main service city for the Urengoy gas field, one of the world's largest natural gas reserves, making it a key hub for Russia's energy sector.\n\nQ: Does the airport have international flights?\nA: The airport primarily handles domestic Russian flights, with connections mainly to Moscow and other major cities. International services are limited.\n\nQ: What is the climate like at the airport?\nA: Novy Urengoy has a harsh subarctic climate with extremely cold winters that can drop well below -40°C and short, mild summers. Flight delays due to weather are common in winter.\n\nQ: How busy is the airport?\nA: It is a medium-sized regional airport but sees heavy traffic relative to its size due to rotating shift workers traveling to and from remote gas field operations.",
+  "transport_tips": "The airport is located just a few kilometers from the city center, making taxi the most convenient option and typically taking around 15-20 minutes. Official taxi counters are available in the arrivals hall, though ride-hailing apps may also operate. There is no rail connection; long-distance bus services to nearby towns are available from the city rather than the airport itself.",
+  "local_tip": "Pack warm layers even in the connecting airport during winter, as the walk between the terminal and aircraft on the apron can be brutally cold, and always confirm your return flight well in advance, as weather-related cancellations are frequent during the long winter months.",
+  "generatedAt": "2026-06-29T17:01:50.283Z",
+  "model": "MiniMax-M3"
+}

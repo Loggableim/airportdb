@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VEE",
+    "icao": "PAVE",
+    "name": "Venetie Airport",
+    "country": "United States",
+    "city": "Venetie",
+    "lat": 67.0087,
+    "lon": -146.366,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Venetie Airport is a small public-use airport serving the remote Gwich'in community of Venetie in Alaska's Yukon-Koyukuk Census Area. Located just north of the Arctic Circle along the Chandalar River, the airport provides a vital transportation link for this isolated interior Alaska village of roughly 150 residents. The unpaved runway accommodates primarily small bush aircraft and charter flights that connect the community to larger hubs like Fairbanks.",
+  "faqs": "Q: What is the primary use of Venetie Airport?\nA: The airport primarily serves the local community of Venetie, supporting passenger travel, mail delivery, and small cargo shipments typical of remote Alaska bush communities.\n\nQ: Are there scheduled commercial flights to Venetie Airport?\nA: No scheduled commercial service operates from Venetie; access is typically via charter or air taxi from Fairbanks or other interior Alaska hubs.\n\nQ: What type of aircraft can land at Venetie Airport?\nA: The airport is designed for small bush aircraft such as Cessna, Piper, and similar single or twin-engine planes equipped for short, unpaved runways.\n\nQ: Does Venetie Airport have lighted runway facilities?\nA: The airport is best suited for daytime operations, as it lacks extensive lighting infrastructure common at larger facilities.",
+  "transport_tips": "There is no road access to Venetie; travelers must fly in via charter or air taxi from Fairbanks, typically a 60 to 90 minute flight in a small bush plane. Visitors should arrange ground transportation with local contacts in advance, as rental cars and ride services are not available at the airstrip. Pack light, as baggage space on bush aircraft is limited and weather can affect flight availability.",
+  "local_tip": "Carry bear spray and a light rain jacket even in summer—Venetie's subarctic interior climate can swing from warm afternoon sun to chilly rain within hours, and the surrounding boreal forest is active with wildlife.",
+  "generatedAt": "2026-06-26T21:46:13.626Z",
+  "model": "MiniMax-M3"
+}

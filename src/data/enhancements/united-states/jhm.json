@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JHM",
+    "icao": "PHJH",
+    "name": "Kapalua Airport",
+    "country": "United States",
+    "city": "Lahaina",
+    "lat": 20.9629,
+    "lon": -156.673,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kapalua Airport (JHM) is a small but scenic regional airport nestled on the western coast of Maui, primarily serving inter-island travelers heading to the Kapalua and Kaanapali resort areas. Perched on a hillside near Lahaina, the airport is renowned for its dramatic approach and stunning ocean views. It functions as a convenient alternative to Maui's larger Kahului Airport for visitors staying in West Maui.",
+  "faqs": "Q: Which airlines fly into Kapalua Airport?\nA: Hawaiian Airlines and Mokulele Airlines operate inter-island service, mainly routes from Honolulu (HNL) on Oahu.\n\nQ: Does Kapalua Airport have TSA screening?\nA: No, because it only handles inter-island flights, there is no TSA checkpoint at Kapalua, making arrivals and departures faster.\n\nQ: Is there a rental car facility at the airport?\nA: Yes, several rental car companies operate on-site, though availability can be limited; booking in advance is strongly recommended.\n\nQ: Are there international flights to JHM?\nA: No, Kapalua Airport only handles domestic inter-island flights; international travelers must connect through Kahului Airport (OGG).",
+  "transport_tips": "Renting a car is the most practical way to reach Kapalua from the airport, as the facility is remote and public transportation options are very limited. The drive to Kaanapali or Lahaina takes roughly 10 to 15 minutes along scenic Honoapiilani Highway. Taxis and rideshares are available but may require advance booking during peak travel periods.",
+  "local_tip": "Sit on the left side of the plane when flying in from Honolulu—the approach offers sweeping views of West Maui's coastline and the Molokai channel that frequent visitors consistently call one of the best landings in Hawaii.",
+  "generatedAt": "2026-06-29T07:17:34.635Z",
+  "model": "MiniMax-M3"
+}

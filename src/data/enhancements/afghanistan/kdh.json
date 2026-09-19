@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KDH",
+    "icao": "OAKN",
+    "name": "Ahmad Shah Baba International Airport",
+    "country": "Afghanistan",
+    "city": "Kandahar",
+    "lat": 31.5058,
+    "lon": 65.848,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Ahmad Shah Baba International Airport (KDH/OAKN) is the primary airport serving Kandahar, the second-largest city in Afghanistan and capital of Kandahar Province. Situated about 10 km southeast of the city center, it functions as a key gateway for southern Afghanistan and has historically played a significant role in regional military and civilian aviation. The airport was renamed in honor of Ahmad Shah Durrani, the founder of modern Afghanistan, and features a single main runway.",
+  "faqs": "Q: What is the IATA code for Ahmad Shah Baba International Airport?\nA: The IATA code is KDH, and the ICAO code is OAKN.\n\nQ: Where is the airport located relative to Kandahar city?\nA: The airport is located approximately 10 kilometers southeast of central Kandahar.\n\nQ: Does the airport offer international flights?\nA: The airport has historically hosted limited international and domestic flights, though service availability may fluctuate due to the security situation in the region.\n\nQ: How many runways does Kandahar airport have?\nA: The airport has a single main runway suitable for medium to large aircraft operations.",
+  "transport_tips": "Taxis are the most common way to reach the airport from Kandahar city, with the journey typically taking 15-20 minutes depending on traffic and security conditions. Travelers should arrange transport in advance through trusted local contacts or hotel services, as the road network near the airport can be subject to checkpoints. Private car hire is generally preferred over public transport for safety and reliability.",
+  "local_tip": "Given the volatile security environment around Kandahar, always allow extra time for airport check-in and confirm your flight status shortly before departure, as schedules can change with little notice.",
+  "generatedAt": "2026-06-28T20:30:28.910Z",
+  "model": "MiniMax-M3"
+}

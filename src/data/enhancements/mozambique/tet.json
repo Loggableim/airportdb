@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TET",
+    "icao": "FQTT",
+    "name": "Tete Airport",
+    "country": "Mozambique",
+    "city": "Tete",
+    "lat": -16.1048,
+    "lon": 33.6402,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Tete Airport (IATA: TET) serves the city of Tete, the capital of Tete Province in northwestern Mozambique, near the Zambezi River. The airport functions as a key gateway for the region's significant coal mining industry and connects the interior of Mozambique to Maputo and other destinations. It plays a vital role in supporting both commercial travel and resource extraction operations in the province.",
+  "faqs": "Q: What is Tete Airport primarily used for?\nA: Tete Airport serves the city of Tete and supports both passenger travel and the local coal mining industry, which is a major economic driver in the region.\n\nQ: Are there international flights from Tete Airport?\nA: No, Tete Airport primarily handles domestic flights, mainly connecting to Maputo and other Mozambican cities.\n\nQ: How far is Tete Airport from the city center?\nA: The airport is located a short distance from central Tete, typically reachable within 10-15 minutes by car.\n\nQ: Is Tete Airport open to military or charter flights?\nA: Yes, the airport accommodates charter and occasional military flights in addition to scheduled commercial services.\n\n",
+  "transport_tips": "Taxis are the most common way to reach the airport from central Tete, with the journey taking roughly 10-15 minutes depending on traffic. Travelers are advised to arrange transport in advance, as ride-hailing apps are not widely available in the area. Hotel shuttles may also be available upon request for guests staying at larger accommodations.",
+  "local_tip": "If you have a long layover or early arrival, ask your hotel to pack a light meal—dining options inside the airport terminal are very limited, and nearby restaurants in town may be closed during off-peak hours.",
+  "generatedAt": "2026-06-28T23:38:01.793Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KLM",
+    "icao": "OINE",
+    "name": "Kalaleh Airport",
+    "country": "Iran",
+    "city": "Kalaleh",
+    "lat": 37.3833,
+    "lon": 55.452,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Kalaleh Airport is a small regional airport serving the city of Kalaleh in Golestan Province, northeastern Iran, near the Turkmenistan border. It primarily supports domestic flights connecting the agricultural region to larger hubs like Tehran. The facility features a single runway and modest terminal infrastructure suited to low-volume traffic.",
+  "faqs": "Q: What is the airport code for Kalaleh Airport?\nA: The IATA code is KLM and the ICAO code is OINE.\n\nQ: Which airlines operate from Kalaleh Airport?\nA: The airport primarily serves domestic regional flights, typically operated by Iranian carriers connecting to major hubs.\n\nQ: How far is the airport from Kalaleh city center?\nA: The airport is located a short drive from central Kalaleh, usually reachable within 10-15 minutes by car.\n\nQ: Does Kalaleh Airport offer international flights?\nA: No, the airport handles domestic flights only; international travelers typically use larger airports in the region.\n\n",
+  "transport_tips": "Taxis and private cars are the most common way to reach the airport, as public transport options are limited. Travelers should arrange ground transport in advance, especially given the small size of the facility and infrequent flight schedules. Parking is generally available near the small terminal building.",
+  "local_tip": "If you have time before your flight, try the local Turkmen-influenced cuisine in Kalaleh, especially kebabs and traditional bread, which reflect the region's unique cultural blend near the Turkmenistan border.",
+  "generatedAt": "2026-06-27T12:54:09.172Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XLS",
+    "icao": "GOSS",
+    "name": "Saint Louis Airport",
+    "country": "Senegal",
+    "city": "Saint Louis",
+    "lat": 16.0498,
+    "lon": -16.461,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Saint Louis Airport (XLS) serves the historic city of Saint Louis in northern Senegal, a UNESCO World Heritage Site located near the mouth of the Senegal River. The airport connects this former capital of French West Africa to the rest of Senegal, primarily handling regional and domestic flights. It provides travelers with access to the city's colonial architecture, vibrant fishing communities, and the iconic Faidherbe Bridge.",
+  "faqs": "Q: What is the IATA code for Saint Louis Airport?\nA: The IATA code for Saint Louis Airport is XLS, and its ICAO code is GOSS.\n\nQ: Where is Saint Louis Airport located?\nA: The airport is located in Saint Louis, a historic city in northern Senegal near the Senegal River delta and the Atlantic coast.\n\nQ: Does Saint Louis Airport handle international flights?\nA: The airport primarily handles domestic and regional flights within Senegal and to nearby West African destinations.\n\nQ: How far is the airport from Saint Louis city center?\nA: Saint Louis Airport is located a short drive from the historic city center, making it convenient for visitors heading to the old colonial quarter and island districts.",
+  "transport_tips": "Taxis and private transfers are the most common ways to reach Saint Louis city center from the airport, typically taking around 15-20 minutes. Travelers can arrange ground transport in advance through local hotels or tour operators. Shared shuttles are occasionally available, but taxis provide the most reliable and flexible option for the short journey.",
+  "local_tip": "Ask your hotel to arrange a guided walking tour of the historic island of Saint Louis, including the narrow streets of the old French colonial quarter and the Guet Ndar fishing village, which is only a short ride from the airport.",
+  "generatedAt": "2026-06-29T15:39:32.398Z",
+  "model": "MiniMax-M3"
+}

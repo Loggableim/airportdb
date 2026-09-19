@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UKI",
+    "icao": "KUKI",
+    "name": "Ukiah Municipal Airport",
+    "country": "United States",
+    "city": "Ukiah",
+    "lat": 39.126,
+    "lon": -123.201,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Ukiah Municipal Airport (UKI/KUKI) is a medium-sized general aviation airport serving the city of Ukiah in Mendocino County, Northern California. Nestled in the heart of Mendocino's renowned wine and redwood region, the airport primarily accommodates private aircraft, flight training, and charter operations rather than scheduled commercial service. Its location provides convenient access to the scenic inland areas of the North Coast, including nearby vineyards, Lake Mendocino, and the redwood forests.",
+  "faqs": "Q: Does Ukiah Municipal Airport offer commercial airline service?\nA: No, UKI is a general aviation airport with no scheduled commercial flights. It primarily serves private pilots, flight schools, charter operations, and air ambulance services.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, hangars, a fixed-base operator (FBO), tie-down areas, and fueling services for general aviation aircraft.\n\nQ: How far is the airport from downtown Ukiah?\nA: Ukiah Municipal Airport is located a short drive from the city center, making it convenient for pilots and visitors traveling to the area.\n\nQ: Can pilots fly into UKI at night?\nA: Yes, the airport has lighted runways that allow for night operations, though pilots should check current NOTAMs for any temporary closures or restrictions.",
+  "transport_tips": "Reaching the airport by ground transportation is straightforward, with rental cars and taxi services available from Ukiah city center. Visitors without their own aircraft typically arrange ground transport in advance, as there is no public transit directly serving the airfield. The airport's proximity to US-101 makes it easy to combine with travel along the North Coast corridor.",
+  "local_tip": "If you're flying into UKI to explore Mendocino County, consider timing your visit around a wine tasting tour—the Ukiah Valley is home to several acclaimed wineries, many of which are just minutes from the airport.",
+  "generatedAt": "2026-06-30T02:09:23.943Z",
+  "model": "MiniMax-M3"
+}

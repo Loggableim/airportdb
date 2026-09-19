@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IVR",
+    "icao": "YIVL",
+    "name": "Inverell Airport",
+    "country": "Australia",
+    "city": "Inverell",
+    "lat": -29.8883,
+    "lon": 151.144,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Inverell Airport (IVR/YIVL) is a regional airport serving the town of Inverell in the New England Tablelands region of northern New South Wales, Australia. It primarily supports general aviation, charter flights, and emergency services including the New South Wales Air Ambulance. The facility features a single sealed runway and plays a key role in connecting this rural agricultural community to larger transport hubs.",
+  "faqs": "Q: What is Inverell Airport primarily used for?\nA: The airport mainly serves general aviation, private aircraft, charter flights, and emergency medical services rather than scheduled commercial passenger routes.\n\nQ: Are there scheduled commercial flights from Inverell Airport?\nA: Regular scheduled passenger services are limited; travelers typically rely on ground transport to larger regional airports like Armidale or Tamworth for commercial flights.\n\nQ: What facilities are available at the airport?\nA: The airport offers a sealed runway suitable for light-to-medium aircraft, basic parking, and refueling services, but does not have a large terminal building.\n\nQ: Can I hire a car or taxi at the airport?\nA: Rental cars and taxi services are generally arranged in advance through providers in Inverell town, located a short drive from the airport.",
+  "transport_tips": "The airport is located approximately 5 km southwest of Inverell's town center, making it a quick 10-minute drive by car. Travelers without their own vehicle should arrange rental cars or taxi pickups in advance, as on-demand transport is limited. Having a personal vehicle is the most convenient option for reaching the airport.",
+  "local_tip": "If visiting Inverell, take advantage of the airport's proximity to the Sapphire fossicking areas—the town is a gateway to some of Australia's best sapphire fields, so plan a detour if time allows.",
+  "generatedAt": "2026-06-26T09:39:56.525Z",
+  "model": "MiniMax-M3"
+}

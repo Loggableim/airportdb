@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FOC",
+    "icao": "ZSFZ",
+    "name": "Fuzhou Changle International Airport",
+    "country": "China",
+    "city": "Fuzhou (Changle)",
+    "lat": 25.9293,
+    "lon": 119.6725,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "Fuzhou Changle International Airport (FOC) is the main aviation gateway for Fuzhou, the capital of Fujian Province in southeastern China. Located in the Changle district along the coast of the Taiwan Strait, it serves as a strategic hub for cross-strait travel and is a key base for Fuzhou Airlines and XiamenAir. The airport handles both domestic routes across China and international connections throughout East and Southeast Asia.",
+  "faqs": "Q: How far is Fuzhou Changle International Airport from the city center?\nA: The airport is approximately 50 km (31 miles) east of Fuzhou's downtown area, with a typical drive taking around 60-90 minutes depending on traffic.\n\nQ: Which airlines operate major hubs at FOC?\nA: Fuzhou Airlines and XiamenAir both maintain significant operations here, and most major Chinese carriers including Air China, China Eastern, and China Southern also serve the airport.\n\nQ: Are there direct international flights from Fuzhou Changle?\nA: Yes, the airport offers international services to destinations across Southeast Asia, Northeast Asia, and Australia, along with frequent flights to Taiwan given Fujian's geographic proximity.\n\nQ: Does the airport have facilities for transit passengers?\nA: The terminal includes standard international airport amenities such as duty-free shops, dining options, lounges, and transit services for connecting passengers.",
+  "transport_tips": "The airport is connected to downtown Fuzhou via the Airport Express bus lines, which run frequently throughout the day and cost far less than taxis. Didi (Chinese ride-hailing) is widely available and often more affordable than street taxis for the long journey into the city. The Fuzhou Metro Line 1 does not currently reach the airport, so",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T17:03:12.668Z",
+  "model": "MiniMax-M3"
+}

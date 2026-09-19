@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IKB",
+    "icao": "KUKF",
+    "name": "Wilkes County Airport",
+    "country": "United States",
+    "city": "North Wilkesboro",
+    "lat": 36.2228,
+    "lon": -81.0983,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Wilkes County Airport is a small general aviation facility serving North Wilkesboro in the foothills of North Carolina's Blue Ridge Mountains. It supports private, recreational, and business aircraft operations for the surrounding rural community. The airport provides convenient access to Wilkes County's outdoor recreation areas and the historic North Wilkesboro Speedway.",
+  "faqs": "Q: What type of airport is Wilkes County Airport?\nA: It is a small general aviation airport that primarily serves private pilots, recreational flyers, and business aircraft rather than commercial airlines.\n\nQ: Does Wilkes County Airport offer commercial flights?\nA: No, there are no scheduled commercial passenger services at this airport. Travelers use it for private and general aviation purposes.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, aircraft parking, fueling services, and basic amenities typical of a regional general aviation facility.\n\nQ: Is the airport accessible 24 hours?\nA: As a small public-use airport, it generally offers pilot-controlled or limited hours of operation; pilots should check current field conditions before arrival.",
+  "transport_tips": "Reaching the airport typically requires a personal vehicle or rental car, as no public transit directly serves the field. The airport is just a short drive from downtown North Wilkesboro via local roads. Visitors flying in privately should arrange ground transportation in advance, as on-site rental services are limited.",
+  "local_tip": "Take advantage of the airport's proximity to the Blue Ridge Mountains by scheduling a short hop to nearby MerleFest, one of the region's premier folk music festivals held annually in Wilkesboro.",
+  "generatedAt": "2026-06-27T04:29:35.732Z",
+  "model": "MiniMax-M3"
+}

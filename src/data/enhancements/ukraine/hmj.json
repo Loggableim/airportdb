@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HMJ",
+    "icao": "UKLH",
+    "name": "Khmelnytskyi Airport",
+    "country": "Ukraine",
+    "city": "Khmelnytskyi",
+    "lat": 49.3597,
+    "lon": 26.9334,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Khmelnytskyi Airport (HMJ/UKLH) is a medium-sized regional airport serving the city of Khmelnytskyi in western Ukraine, located a short distance southeast of the city center. The facility has historically served both civilian and military aviation purposes and operates as an important regional transport node in the Podillia region. Commercial passenger service has been limited in recent years, with the airport primarily handling charter, general aviation, and occasional cargo operations.",
+  "faqs": "Q: Where is Khmelnytskyi Airport located relative to the city?\nA: The airport is situated approximately 7-8 km southeast of Khmelnytskyi city center, easily accessible via regional roads.\n\nQ: Does Khmelnytskyi Airport offer regular commercial passenger flights?\nA: Scheduled passenger service has been limited in recent years; travelers should check current schedules as routes and operators may change frequently.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it provides basic terminal services, parking, and ground handling for general aviation and charter operations.\n\nQ: Can private and charter flights use this airport?\nA: Yes, the airport accommodates general aviation, charter flights, and other non-scheduled operations with prior arrangement.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are the most practical options for reaching the airport, as public transit connections are limited. The drive from Khmelnytskyi city center typically takes 15-20 minutes depending on traffic. Travelers coming from other regional cities can reach the airport via the H03 highway, which connects Khmelnytskyi to neighboring areas.",
+  "local_tip": "If visiting Khmelnytskyi, take time to explore the city's pedestrian-friendly central boulevard and try local Podillia cuisine, particularly the regional borscht variations and honey-based desserts the area is known for.",
+  "generatedAt": "2026-06-26T13:07:29.147Z",
+  "model": "MiniMax-M3"
+}

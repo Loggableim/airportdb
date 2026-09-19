@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HMB",
+    "icao": "HESG",
+    "name": "Suhaj International Airport",
+    "country": "Egypt",
+    "city": "Suhaj",
+    "lat": 26.3425,
+    "lon": 31.743,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Suhaj International Airport serves the city of Sohag in Upper Egypt, providing a key gateway to the Nile Valley between Luxor and Aswan. It supports both domestic flights to Cairo and seasonal international routes, notably catering to pilgrims and tourists visiting nearby ancient sites such as Abydos and the Coptic monasteries of the region. As one of Upper Egypt's important regional airports, it plays a vital role in connecting this historic area to the rest of the country.",
+  "faqs": "Q: Where is Suhaj International Airport located?\nA: The airport is situated in Suhaj (Sohag) Governorate in Upper Egypt, about 20 km south of Sohag city along the Nile Valley, roughly between Luxor to the south and Asyut to the north.\n\nQ: What airlines operate from Suhaj International Airport?\nA: EgyptAir operates regular domestic flights connecting Sohag to Cairo, with additional seasonal or charter services to Gulf destinations catering to Egyptian expatriates and pilgrims.\n\nQ: Are there international flights from Suhaj?\nA: Yes, the airport handles limited international traffic, primarily seasonal flights to Gulf countries such as Saudi Arabia and Kuwait, serving both pilgrims traveling to Mecca and visiting workers.\n\nQ: Does the airport have facilities for overnight stays?\nA: The airport offers basic amenities including a small lounge, prayer area, and limited food and beverage services, but most travelers prefer to head into Sohag city for accommodation.",
+  "transport_tips": "Taxis are the most reliable way to reach Sohag city from the airport, with the journey taking roughly 20-25 minutes. Pre-arranging a hotel pickup or using a ride-hailing app is recommended, as airport taxi queues can be inconsistent. Public microbuses also run along the main highway into town but are less convenient for travelers with luggage.",
+  "local_tip": "If you have a long layover or flight delay, consider asking a local driver to take you to the Red Monastery (El-Deir El-Ahmar) near Sohag, one of Egypt's finest examples of 5th-century Coptic architecture just a short drive from the airport.",
+  "generatedAt": "2026-06-29T01:20:45.874Z",
+  "model": "MiniMax-M3"
+}

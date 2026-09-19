@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HAA",
+    "icao": "ENHK",
+    "name": "Hasvik Airport",
+    "country": "Norway",
+    "city": "Hasvik",
+    "lat": 70.4867,
+    "lon": 22.1397,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Hasvik Airport is a small regional airport located on the island of Hasvikøya in Finnmark county, northern Norway, sitting well above the Arctic Circle. It primarily serves the municipality of Hasvik and provides essential air connections for residents of this remote coastal community to larger hubs like Tromsø and Hammerfest. The airport is particularly important during winter months when sea routes can be disrupted by harsh weather.",
+  "faqs": "Q: Which airlines operate from Hasvik Airport?\nA: Widerøe is the main airline serving Hasvik Airport, operating regional flights with turboprop aircraft such as the Dash 8.\n\nQ: Where can I fly to directly from Hasvik?\nA: Direct flights typically connect Hasvik with Tromsø and Hammerfest, with onward connections to other Norwegian cities.\n\nQ: Is Hasvik Airport open year-round?\nA: Yes, the airport operates throughout the year, though winter weather including snow, strong winds, and limited daylight can occasionally cause delays or cancellations.\n\nQ: How far is the airport from Hasvik town center?\nA: The airport is located just a few kilometers from the town center, making it a short drive by taxi or car.\n\n",
+  "transport_tips": "Taxis are the most common way to reach the airport from Hasvik town, though it's recommended to pre-book due to the limited number of vehicles available. There is no direct rail service or public bus connecting to the airport, so renting a car or arranging pickup in advance is advisable. During winter, allow extra travel time as mountain roads can be icy and snow-covered.",
+  "local_tip": "If visiting during the dark season (late November to mid-January), plan for very limited daylight—Hasvik experiences polar night with the sun never rising above the horizon. Booking the earliest possible flight increases your chances of on-time departure, as afternoon weather conditions often deteriorate in this exposed coastal location.",
+  "generatedAt": "2026-06-26T15:07:13.372Z",
+  "model": "MiniMax-M3"
+}

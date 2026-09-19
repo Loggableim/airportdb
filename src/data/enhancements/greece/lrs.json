@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LRS",
+    "icao": "LGLE",
+    "name": "Leros Airport",
+    "country": "Greece",
+    "city": "Leros Island",
+    "lat": 37.1849,
+    "lon": 26.8003,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Leros Airport (IATA: LRS, ICAO: LGLE) is a small domestic airport located on the eastern side of Leros Island in Greece's Dodecanese archipelago. The airport primarily serves short-haul Olympic Air and Sky Express flights connecting Leros with Athens and other nearby islands. Its modest size and scenic setting make it a charming gateway to one of the most unspoiled islands in the Aegean.",
+  "faqs": "Q: How do I get from Leros Airport to the main towns on the island?\nA: Taxis are typically available outside the terminal to take you to Lakki, Agia Marina, or Platanos within 10-15 minutes.\n\nQ: Are there direct flights to Leros from Athens?\nA: Yes, Olympic Air and Sky Express operate regular scheduled flights between Athens Eleftherios Venizelos Airport and Leros.\n\nQ: Does Leros Airport operate international flights?\nA: No, the airport handles only domestic flights, primarily from Athens and occasionally from neighboring Dodecanese islands like Kos and Rhodes.\n\nQ: Is there car rental available at the airport?\nA: Car and scooter rental services are available on Leros, though booking in advance is recommended as on-site options may be limited.",
+  "transport_tips": "Taxis wait outside the small terminal and are the most reliable way to reach Lakki, Agia Marina, or Platanos, all within a short drive. There is no public bus service directly serving the airport, so arranging private transfer or rental in advance is wise. If arriving on a late flight, consider pre-booking accommodation transfer as taxi availability can be limited after evening arrivals.",
+  "local_tip": "The airport sits on a plateau with panoramic views over the Aegean — take a window seat on departure or arrival to spot the historic windmills of Lakki and the Turkish coast in the distance.",
+  "generatedAt": "2026-06-26T17:09:31.119Z",
+  "model": "MiniMax-M3"
+}

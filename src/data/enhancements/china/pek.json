@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PEK",
+    "icao": "ZBAA",
+    "name": "Beijing Capital International Airport",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 40.0773,
+    "lon": 116.5967,
+    "type": "large_airport",
+    "size": 1021575
+  },
+  "summary": "Beijing Capital International Airport (PEK) is one of Asia's busiest aviation hubs, serving as the primary gateway to China's capital for decades. Located approximately 25 km northeast of central Beijing in Chaoyang and Shunyi districts, it features three terminals, including the iconic Norman Foster-designed Terminal 3, which opened ahead of the 2008 Beijing Olympics and ranks among the largest airport structures in the world. The airport serves as a major hub for Air China and Hainan Airlines and handles a significant share of China's international and domestic traffic, though its role has been partially supplemented by the newer Beijing Daxing International Airport (PKX) since 2019.",
+  "faqs": "Q: How far is Beijing Capital Airport from the city center?\nA: The airport is approximately 25 km (16 miles) northeast of central Beijing, with travel times varying from 30 to 60 minutes depending on traffic.\n\nQ: Which terminal should I use at PEK?\nA: Terminal 2 primarily handles SkyTeam Alliance carriers and select domestic flights, while Terminal 3, the largest, serves Air China, Star Alliance, Oneworld, and most international carriers. Always confirm your terminal with your airline before traveling.\n\nQ: Is there a train connection from PEK to central Beijing?\nA: Yes, the Beijing Subway Airport Express Line connects Terminals 2 and 3 directly to Dongzhimen and Sanyuanqiao stations in the city center, with a journey time of roughly 30 minutes.\n\nQ: Are there facilities for overnight stays at the airport?\nA: Yes, Terminals 2 and 3 offer transit hotels, nap rooms, and 24-hour dining options, though travelers seeking more comfort often stay at airport-adjacent hotels connected by shuttle.",
+  "transport_tips": "The Airport Express subway is the fastest and most reliable way to reach central Beijing,",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T15:00:20.958Z",
+  "model": "MiniMax-M3"
+}

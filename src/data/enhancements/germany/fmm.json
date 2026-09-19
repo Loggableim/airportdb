@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FMM",
+    "icao": "EDJA",
+    "name": "Memmingen Allgau Airport",
+    "country": "Germany",
+    "city": "Memmingen",
+    "lat": 47.9881,
+    "lon": 10.2382,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Memmingen Allgau Airport (FMM) is a major low-cost carrier hub in Bavaria, Germany, located approximately 110 km southwest of Munich. Originally built as a military airfield, it was converted to civilian use in the early 2000s and has grown into one of Germany's busiest regional airports. The airport primarily serves budget airlines including Ryanair and Wizz Air, offering an alternative gateway to southern Germany, the Allgäu Alps, and nearby tourist destinations.",
+  "faqs": "Q: How far is Memmingen Airport from Munich?\nA: Memmingen Airport is approximately 110 km (68 miles) southwest of Munich. Despite being marketed as 'Munich West,' travelers should expect a 1.5 to 2-hour journey by road or rail to reach central Munich.\n\nQ: Which airlines fly from Memmingen Airport?\nA: The airport is dominated by low-cost carriers, primarily Ryanair and Wizz Air, offering flights to destinations across Europe, North Africa, and the Middle East.\n\nQ: Does the airport have public transport connections?\nA: Yes, the airport is served by the Allgäu Airport Express bus, which connects directly to Memmingen train station with onward rail links to Munich, and there are also direct bus services to other regional destinations.\n\nQ: Is there car rental available at the airport?\nA: Yes, several car rental companies operate at Memmingen Airport, making it convenient for travelers exploring the Allgäu region or driving onward to Austria or Switzerland.",
+  "transport_tips": "The Allgäu Airport Express bus runs regularly between the airport and Memmingen Hauptbahnhof (main station), where you can catch trains to Munich in about 1.5 hours. If driving, the A96 motorway connects the airport directly to Munich and Lindau. Taxis and rideshare services are available but can be expensive for the long journey into Munich.",
+  "local_tip": "If you have a long layover or early arrival, the nearby town of Memmingen features a beautifully preserved medieval old town with historic city walls and the impressive Steuerhaus—perfect for a few hours of relaxed sightseeing within walking distance of the airport via a short bus ride.",
+  "generatedAt": "2026-06-28T19:22:11.630Z",
+  "model": "MiniMax-M3"
+}

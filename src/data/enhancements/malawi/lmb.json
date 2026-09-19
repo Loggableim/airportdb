@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LMB",
+    "icao": "FWSM",
+    "name": "Salima Airport",
+    "country": "Malawi",
+    "city": "Salima",
+    "lat": -13.7559,
+    "lon": 34.5842,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Salima Airport (LMB) is a small airfield serving the lakeside town of Salima in central Malawi, situated along the western shore of Lake Malawi. It primarily handles light aircraft and charter flights, supporting tourism to one of the country's most popular beach destinations. The airport provides convenient access to the Salima region, known for its freshwater beaches, resorts, and proximity to Liwonde National Park.",
+  "faqs": "Q: What type of aircraft use Salima Airport?\nA: The airport primarily serves small propeller aircraft, private planes, and charter flights. It is not equipped for large commercial jets.\n\nQ: Are there scheduled commercial flights to Salima?\nA: No regular scheduled commercial service operates to Salima Airport. Most visitors arrive via Lilongwe International Airport and then travel overland or by chartered light aircraft.\n\nQ: Is Salima Airport open to international flights?\nA: No, Salima Airport is a domestic small airfield and does not handle international arrivals or customs/immigration services.\n\nQ: What facilities are available at the airport?\nA: The airport has basic infrastructure with a small terminal building. There are limited amenities, so travelers should arrange ground transport and other needs in advance.\n\n",
+  "transport_tips": "The airport is located just a short drive from Salima town center, with taxi services and hotel transfers typically available upon arrangement. Many resorts in the area offer pickup services for guests arriving by chartered or private aircraft. Roads connecting the airport to Lake Malawi's main resort areas are generally paved and accessible year-round.",
+  "local_tip": "Frequent visitors recommend pre-arranging your return charter flight well in advance during peak tourist season (May to August), as small-aircraft availability around Lake Malawi's resort belt can become limited.",
+  "generatedAt": "2026-06-27T10:31:12.569Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OXF",
+    "icao": "EGTK",
+    "name": "London Oxford Airport",
+    "country": "United Kingdom",
+    "city": "Kidlington, Oxfordshire",
+    "lat": 51.8369,
+    "lon": -1.32,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "London Oxford Airport (OXF) is a privately operated facility located in Kidlington, roughly 7 miles northwest of Oxford city centre. Rebranded with 'London' in its name to attract business and corporate aviation, it primarily serves general aviation, business jets, flight training, and limited scheduled services to European destinations. The airport is a key gateway for technology, biotech, and automotive sectors clustered around Oxford.",
+  "faqs": "Q: How far is London Oxford Airport from Oxford city centre?\nA: Approximately 7 miles (11 km) northwest, typically a 20-25 minute drive via the A4260.\n\nQ: Which airlines fly from London Oxford Airport?\nA: Scheduled services are limited and change periodically; historically carriers including BA CityFlyer and later others have operated short European routes. The airport is mainly used for business aviation charters.\n\nQ: Is there public transport to the airport?\nA: Bus route 250 connects Kidlington with Oxford rail station and the airport area, and taxis are readily available. There is no direct rail service.\n\nQ: How long does it take to reach central London from OXF?\nA: Driving typically takes around 60-90 minutes via the M40 motorway, depending on traffic.",
+  "transport_tips": "The airport sits just off the A4260 and is easily reached from the M40 (junction 9), making it convenient for drivers from London, Birmingham, and the Midlands. Pre-booked taxis and ride-hailing services are the most reliable option for the short hop into Oxford. Short-stay and long-stay parking is available on-site, with competitive rates compared to Heathrow or Gatwick.",
+  "local_tip": "If visiting Oxford for business, consider scheduling flights outside peak weekday hours—the airport handles a high volume of business jet movements during early mornings and late afternoons, which can mean longer taxi and fueling waits during those",
+  "generatedAt": "2026-06-30T05:19:43.514Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DSM",
+    "icao": "KDSM",
+    "name": "Des Moines International Airport",
+    "country": "United States",
+    "city": "Des Moines",
+    "lat": 41.534,
+    "lon": -93.6567,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Des Moines International Airport (DSM) is Iowa's largest and busiest airport, serving the state capital of Des Moines. Originally developed as a military airfield during World War II, it transitioned to civilian use and has since grown into a key regional hub connecting central Iowa to major destinations across North America. The airport features a modern terminal complex and offers nonstop service to numerous U.S. cities.",
+  "faqs": "Q: How far is Des Moines International Airport from downtown Des Moines?\nA: The airport is located approximately 5 miles southwest of downtown Des Moines, typically a 10-15 minute drive depending on traffic.\n\nQ: Does DSM offer international flights?\nA: While the airport is designated as international, most scheduled service is domestic. It handles occasional international charters and has U.S. Customs and Border Protection facilities.\n\nQ: How many terminals does DSM have?\nA: Des Moines International Airport operates with a single main passenger terminal that houses all airline services and concessions.\n\nQ: Is there free Wi-Fi available at the airport?\nA: Yes, DSM provides complimentary Wi-Fi throughout the terminal for all passengers.",
+  "transport_tips": "Rideshare services like Uber and Lyft are available for pickup and drop-off at designated zones outside the terminal. Taxis and rental car services are also accessible on-site, and the airport is conveniently located near Interstate 35 for drivers. Public transit options via Des Moines Area Regional Transit (DART) provide budget-friendly access to and from the airport.",
+  "local_tip": "If you have time before your flight, grab a bite at the Hy-Vee Market Grille in the terminal—a taste of Iowa's beloved homegrown grocery chain that's a favorite among local travelers.",
+  "generatedAt": "2026-06-28T18:13:35.104Z",
+  "model": "MiniMax-M3"
+}

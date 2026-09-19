@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DEL",
+    "icao": "VIDP",
+    "name": "Indira Gandhi International Airport",
+    "country": "India",
+    "city": "New Delhi",
+    "lat": 28.5556,
+    "lon": 77.0952,
+    "type": "large_airport",
+    "size": 51475
+  },
+  "summary": "Indira Gandhi International Airport is India's largest and busiest aviation hub, handling over 70 million passengers annually and serving as the primary gateway to New Delhi. Located in Palam, roughly 16 km southwest of the city center, it operates three terminals and is a major hub for Air India, IndiGo, SpiceJet, and Vistara. The airport has earned multiple international accolades for service quality and infrastructure, including its award-winning Terminal 3 which opened in 2010 for the Commonwealth Games.",
+  "faqs": "Q: How far is the airport from central New Delhi?\nA: The airport is approximately 16 km southwest of Connaught Place in central New Delhi, typically a 45-90 minute journey depending on traffic.\n\nQ: How do I travel between terminals?\nA: Terminal 1 and Terminal 3 are connected by the free Airport Metro Express shuttle and intercity bus services. Terminal 2 is primarily used during peak periods and is reachable via shuttle bus from T3.\n\nQ: Is there a metro connection to the airport?\nA: Yes, the Delhi Metro Orange Line (Airport Express Line) connects Terminal 3 directly to New Delhi Railway Station in about 20 minutes.\n\nQ: Are there good facilities for international transit passengers?\nA: Terminal 3 offers extensive transit amenities including lounges, duty-free shopping, hotels, prayer rooms, and the GVK Transit Hotel for longer layovers.",
+  "transport_tips": "The Delhi Metro Airport Express Line is the fastest and most reliable option to reach Terminal 3 from central New Delhi, avoiding notorious city traffic. Pre-paid taxi booths and app-based rides (Uber, Ola) are available outside all terminals, but allow extra time during rush hours when travel times can double. For Terminal 1 passengers, DTC airport buses and shared taxis offer budget-friendly options to the city.",
+  "local_tip": "For a smoother experience, download the Delhi Metro app before arrival and check whether your flight uses Terminal 1 or Terminal 3, as they are several kilometers apart and require different transit routes—mixing them up can mean a costly detour or missed flight.",
+  "generatedAt": "2026-06-28T15:40:26.388Z",
+  "model": "MiniMax-M3"
+}

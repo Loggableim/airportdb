@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ATH",
+    "icao": "LGAV",
+    "name": "Athens Eleftherios Venizelos International Airport",
+    "country": "Greece",
+    "city": "Spata-Artemida",
+    "lat": 37.9364,
+    "lon": 23.9445,
+    "type": "large_airport",
+    "size": 51600
+  },
+  "summary": "Athens Eleftherios Venizelos International Airport (ATH) is Greece's largest and busiest airport, located in Spata-Artemida about 33 km east of central Athens. Opened in 2001 to replace the older Ellinikon Airport, it was named after Eleftherios Venizelos, a prominent Greek statesman. It serves as the main hub for Aegean Airlines and was a key gateway for the 2004 Athens Olympics.",
+  "faqs": "Q: How far is the airport from central Athens?\nA: Athens Airport is approximately 33 km (20 miles) east of the city center, typically a 35-50 minute drive depending on traffic.\n\nQ: Is there a metro connection to the airport?\nA: Yes, Metro Line 3 (the Blue Line) connects the airport directly to Syntagma Square in central Athens, with a journey time of around 40 minutes.\n\nQ: How many terminals does the airport have?\nA: The airport has a Main Terminal and a Satellite Terminal, both connected by an underground walkway and shuttle system.\n\nQ: Are there sleep pods or rest areas?\nA: The airport offers lounges and quiet zones, though dedicated sleep pods are limited; nearby Sofitel hotel is connected via a pedestrian bridge.\n\n",
+  "transport_tips": "The Metro Line 3 is the most reliable and cost-effective option to reach central Athens, avoiding traffic congestion on the Attiki Odos highway. The suburban railway (Proastiakos) also connects to the city and onward to Piraeus port, useful for ferry connections. Taxis are available but fares to central Athens typically run 35-50 EUR, especially during late-night hours when fixed rates apply.",
+  "local_tip": "If you have a long layover, the adjacent Sofitel Athens Airport offers day-use rooms accessible without entering the terminal — a rare convenience",
+  "generatedAt": "2026-06-28T15:38:54.274Z",
+  "model": "MiniMax-M3"
+}

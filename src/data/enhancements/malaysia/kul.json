@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KUL",
+    "icao": "WMKK",
+    "name": "Kuala Lumpur International Airport",
+    "country": "Malaysia",
+    "city": "Sepang",
+    "lat": 2.7456,
+    "lon": 101.71,
+    "type": "large_airport",
+    "size": 1017575
+  },
+  "summary": "Kuala Lumpur International Airport (KUL) is Malaysia's main international gateway, located in Sepang about 45 km south of the capital. Opened in 1998, it replaced the older Sultan Abdul Aziz Shah Airport and serves as the primary hub for Malaysia Airlines, AirAsia, and several other carriers. The airport features a distinctive main terminal complex plus the dedicated klia2 low-cost carrier terminal, and consistently ranks among the busiest airports in Southeast Asia.",
+  "faqs": "Q: How far is KUL from Kuala Lumpur city center?\nA: The airport is approximately 45-50 km south of Kuala Lumpur, typically a 45-60 minute drive depending on traffic.\n\nQ: What is the fastest way to travel between KUL and Kuala Lumpur?\nA: The KLIA Ekspres train is the quickest option, taking only 28-33 minutes to KL Sentral station in the city center.\n\nQ: Does KUL have separate terminals for low-cost airlines?\nA: Yes, klia2 is the dedicated terminal for low-cost carriers like AirAsia, while the main KLIA terminal serves full-service and other airlines.\n\nQ: Is there overnight accommodation at the airport?\nA: Yes, several hotels are available including the on-site Sama-Sama Hotel connected to the main terminal and capsule hotels in klia2.",
+  "transport_tips": "The KLIA Ekspres train offers the fastest and most reliable transfer to KL Sentral, with departures every 20-30 minutes. Budget travelers can take airport buses or coaches that run to various points in the city at a lower fare. Taxis and ride-hailing services (Grab) are available but expect longer travel times during peak hours.",
+  "local_tip": "If you have a long layover, take a brief taxi or Grab ride to the nearby Sepang International Circuit area where you can find local food courts and restaurants that are significantly cheaper and more authentic than airport dining options.",
+  "generatedAt": "2026-06-28T15:02:29.000Z",
+  "model": "MiniMax-M3"
+}

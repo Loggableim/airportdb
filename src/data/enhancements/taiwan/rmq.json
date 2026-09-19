@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RMQ",
+    "icao": "RCMQ",
+    "name": "Taichung International Airport / Ching Chuang Kang Air Base",
+    "country": "Taiwan",
+    "city": "Taichung (Qingshui)",
+    "lat": 24.2647,
+    "lon": 120.621,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Taichung International Airport (RMQ) serves as the primary air gateway for central Taiwan, located in Qingshui District roughly 20 km northwest of downtown Taichung. It operates as a dual-use facility, sharing its runways and facilities with Ching Chuang Kang Air Base, a major Republic of China Air Force installation. As Taiwan's third-busiest airport, it handles regional flights primarily to Northeast and Southeast Asian destinations.",
+  "faqs": "Q: How far is the airport from Taichung city center?\nA: The airport is approximately 20 km northwest of central Taichung, with a typical drive time of 30–45 minutes depending on traffic.\n\nQ: Which airlines operate from Taichung International Airport?\nA: The airport is served primarily by regional carriers including Mandarin Airlines, China Airlines, EVA Air, Air China, and several low-cost airlines offering routes to mainland China, Japan, Korea, and Southeast Asia.\n\nQ: Is the airport shared with a military base?\nA: Yes, the civilian terminal coexists with Ching Chuang Kang Air Base, a key Republic of China Air Force facility, which occasionally affects civilian operations during military exercises.\n\nQ: Does the airport offer international long-haul flights?\nA: No, Taichung handles mainly short- and medium-haul regional routes. Travelers connecting to long-haul international flights typically transit through Taoyuan International Airport near Taipei.\n\n",
+  "transport_tips": "The most convenient way to reach the airport is by taxi or ride-hailing service, which takes about 30 minutes from Taichung city center. Buses operated by Taichung Bus and other carriers connect the airport to the HSR Taichung Station and major downtown locations. If driving, allow extra time during peak hours and note that parking is available in dedicated lots adjacent to the terminal.",
+  "local_tip": "Visit the rooftop observation area near the domestic terminal to watch Republic of China Air Force fighter jets take off alongside commercial flights—a rare sight unique to this dual-use airport.",
+  "generatedAt": "2026-06-28T23:37:38.845Z",
+  "model": "MiniMax-M3"
+}

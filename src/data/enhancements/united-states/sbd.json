@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SBD",
+    "icao": "KSBD",
+    "name": "San Bernardino International Airport",
+    "country": "United States",
+    "city": "San Bernardino",
+    "lat": 34.0967,
+    "lon": -117.2366,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "San Bernardino International Airport is located in the Inland Empire region of Southern California, approximately 60 miles east of downtown Los Angeles. The airport was redeveloped from the former Norton Air Force Base, which closed in 1994 as part of the Base Realignment and Closure process. Today it primarily supports cargo operations, general aviation, and serves as an important reliever airport for the busy Southern California region.",
+  "faqs": "Q: What was San Bernardino International Airport before it became a civilian airport?\nA: The airport was originally Norton Air Force Base, a U.S. Air Force installation that operated from 1942 until its closure in 1994. It was converted to civilian use following the base's decommissioning.\n\nQ: Does San Bernardino International Airport offer commercial passenger flights?\nA: The airport has historically had limited or no scheduled commercial passenger service, with its operations focused primarily on cargo, general aviation, and aircraft maintenance activities.\n\nQ: Where is the airport located relative to Los Angeles?\nA: San Bernardino International Airport is situated approximately 60 miles east of downtown Los Angeles in the city of San Bernardino, easily accessible from the I-10 and I-215 freeways.\n\nQ: Are there facilities for private and corporate aircraft?\nA: Yes, the airport offers fixed-base operator (FBO) services for private, corporate, and general aviation aircraft, including fueling, hangar space, and ground handling.",
+  "transport_tips": "The airport is most easily reached by car via Interstate 10 or Interstate 215, with both freeways providing direct access to the facility. Rideshare services and taxis are available but may require advance booking given the airport's limited commercial traffic. Visitors coming from the Los Angeles area should allow extra time for traffic, particularly during peak rush hours on the I-10 corridor.",
+  "local_tip": "Visitors should know that the airport is located near the San Bernardino National Forest, making it a convenient gateway for those heading to mountain destinations like Big Bear Lake or Lake Arrowhead, both reachable within about an hour's drive.",
+  "generatedAt": "2026-06-28T19:54:25.351Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LFN",
+    "icao": "KLHZ",
+    "name": "Triangle North Executive Airport",
+    "country": "United States",
+    "city": "Louisburg",
+    "lat": 36.0233,
+    "lon": -78.3303,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Triangle North Executive Airport is a small general aviation facility located in Louisburg, North Carolina, serving the Research Triangle region of the state. The airport provides convenient access to the Raleigh-Durham metropolitan area while offering a quieter alternative to the busier RDU International Airport. It supports corporate, recreational, and flight training operations in the region.",
+  "faqs": "Q: What type of airport is Triangle North Executive?\nA: It is a small general aviation airport primarily serving private, corporate, and flight training aircraft.\n\nQ: Does Triangle North Executive offer commercial airline service?\nA: No, the airport does not offer scheduled commercial flights; it serves general aviation traffic only.\n\nQ: Where is the airport located relative to the Research Triangle?\nA: It is situated in Louisburg, roughly 30-40 miles northeast of Raleigh-Durham, providing an alternative gateway to the region.\n\nQ: Are there aircraft services available on site?\nA: Yes, the airport offers fueling, hangar space, and basic aircraft maintenance services for general aviation users.\n\n",
+  "transport_tips": "The airport is best accessed by private vehicle, as there is no public transit directly serving the facility. It is located near US-401, making the drive to Raleigh approximately 40-50 minutes. Rental cars and rideshare services are limited in Louisburg, so arranging ground transportation in advance is recommended.",
+  "local_tip": "If you're flying in for a visit to the Triangle region, consider stopping in downtown Louisburg for a taste of small-town North Carolina charm before heading to the busier Durham or Raleigh areas.",
+  "generatedAt": "2026-06-27T02:46:32.400Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ABI",
+    "icao": "KABI",
+    "name": "Abilene Regional Airport",
+    "country": "United States",
+    "city": "Abilene",
+    "lat": 32.4113,
+    "lon": -99.6819,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Abilene Regional Airport (ABI) is a medium-sized public airport serving Abilene, Texas, located in the west-central part of the state approximately 5 miles southeast of downtown. It operates as a joint civil-military facility, sharing runways with Dyess Air Force Base operations in the vicinity. The airport provides essential regional air service to the Abilene metropolitan area and surrounding communities in the Texas Heartland.",
+  "faqs": "Q: What airlines serve Abilene Regional Airport?\nA: The airport is primarily served by regional carriers offering connections to larger hubs such as Dallas/Fort Worth.\n\nQ: How far is the airport from downtown Abilene?\nA: Abilene Regional Airport is approximately 5 miles southeast of the city center, typically a 10-15 minute drive.\n\nQ: Does the airport have military operations?\nA: While Dyess Air Force Base has its own airfield nearby, the airport itself is a civilian facility, though the region has a strong military presence.\n\nQ: Are there car rental services available at ABI?\nA: Yes, rental car counters are available in the terminal for major providers serving the Abilene area.",
+  "transport_tips": "Rental cars and taxis are the most convenient options for reaching downtown Abilene from the airport. Rideshare services like Uber and Lyft also operate in the area, though availability may be limited compared to larger cities. Visitors driving in should note that the airport is accessible via Highway 36 and Loop 322.",
+  "local_tip": "Abilene is home to the Frontier Texas! museum, which tells the story of the frontier West through interactive exhibits — a great way to spend a few hours if you have a layover or extra time in the area.",
+  "generatedAt": "2026-06-29T18:15:01.766Z",
+  "model": "MiniMax-M3"
+}

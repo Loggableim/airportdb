@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WIN",
+    "icao": "YWTN",
+    "name": "Winton Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -22.3636,
+    "lon": 143.086,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Winton Airport (WIN/YWTN) is a regional outback airport serving the small town of Winton in central-western Queensland, Australia. The town is renowned as the site of the first Qantas board meeting in 1920 and for the Australian Stockman's Hall of Fame, making the airport a gateway for tourists exploring the Channel Country and nearby dinosaur fossil sites such Lark Quarry. The facility primarily handles regional passenger services and charter flights connecting remote communities across the Queensland outback.",
+  "faqs": "Q: What airlines operate from Winton Airport?\nA: Regional carriers such as Regional Express (Rex) provide scheduled services, primarily connecting Winton with Townsville and Brisbane. Charter flights are also common for tourism and outback travel.\n\nQ: Is Winton Airport used for tourism?\nA: Yes, the airport is a key entry point for visitors to the Australian Stockman's Hall of Fame, dinosaur fossil sites like Lark Quarry, and the vast Channel Country landscapes.\n\nQ: How far is the airport from Winton town centre?\nA: The airport is located just a few kilometres from the town centre, making road transfers quick and straightforward.\n\nQ: Does the airport have international flights?\nA: No, Winton Airport handles only domestic regional flights within Australia.\n\n",
+  "transport_tips": "",
+  "local_tip": "Book flights early during the annual Winton Outback Festival and dinosaur dig season, as seats on regional routes fill up fast and accommodation across town is limited.",
+  "generatedAt": "2026-06-29T09:36:17.940Z",
+  "model": "MiniMax-M3"
+}

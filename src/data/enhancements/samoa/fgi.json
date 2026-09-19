@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FGI",
+    "icao": "NSFI",
+    "name": "Fagali'i Airport",
+    "country": "Samoa",
+    "city": "Apia",
+    "lat": -13.8492,
+    "lon": -171.7399,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Fagali'i Airport is a small domestic airfield serving Apia, the capital of Samoa, located on the northern coast of Upolu island near the village of Fagali'i. It primarily handles inter-island flights within Samoa, complementing the larger Faleolo International Airport located about 35 km to the west. The airport's compact layout and coastal setting make it a convenient gateway for short hops to nearby islands.",
+  "faqs": "Q: What flights operate from Fagali'i Airport?\nA: Fagali'i primarily serves domestic flights within Samoa, including connections to Savai'i and other nearby islands operated by local carriers.\n\nQ: How far is Fagali'i Airport from Apia city center?\nA: The airport is located very close to downtown Apia, just a few kilometers away, making it a quick drive from most parts of the capital.\n\nQ: Is Fagali'i Airport used for international flights?\nA: No, international flights arrive at Faleolo International Airport (APW), located approximately 35 km west of Apia.\n\nQ: Are there facilities at the terminal?\nA: As a small domestic airport, facilities are basic, including a modest terminal building suitable for short waits before boarding.",
+  "transport_tips": "Taxis are the most common way to reach Fagali'i Airport and are readily available in Apia for the short trip. Local buses also pass nearby routes, though they may not stop directly at the terminal. Since the airport is small, ridesharing apps are not typically used; pre-arranging a taxi through your hotel is reliable.",
+  "local_tip": "Since Fagali'i has limited flight schedules, check timings in advance and arrive early—security and check-in are quick, but the small terminal fills up fast when a regional flight boards.",
+  "generatedAt": "2026-06-27T05:54:58.877Z",
+  "model": "MiniMax-M3"
+}

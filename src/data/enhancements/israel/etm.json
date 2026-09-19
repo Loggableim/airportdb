@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ETM",
+    "icao": "LLER",
+    "name": "Ramon International Airport",
+    "country": "Israel",
+    "city": "Eilat",
+    "lat": 29.727,
+    "lon": 35.0141,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Ramon International Airport (ETM), opened in January 2019, serves the resort city of Eilat in southern Israel and is named in honor of Ilan Ramon, Israel's first astronaut who perished aboard Space Shuttle Columbia in 2003. Located in the scenic Timna Valley roughly 20 km north of Eilat, it replaced the older city-center Eilat Airport and consolidates civilian traffic for the Red Sea resort region. The terminal is known for its modern design, open-air feel, and dramatic desert surroundings near the ancient Timna copper mines.",
+  "faqs": "Q: How far is Ramon Airport from Eilat city center?\nA: The airport is approximately 20 km north of Eilat, with a typical drive time of 25-35 minutes depending on traffic and the chosen route through the Arava valley.\n\nQ: Does Ramon Airport handle international flights?\nA: Yes, ETM serves both domestic Israeli routes and international flights, primarily seasonal European charter services connecting to Eilat's beach resorts.\n\nQ: Why was the airport built away from the city?\nA: It replaced the constrained Eilat Airport, which was hemmed in by mountains and could not expand, and it now serves as the single civilian gateway for the Eilat region.\n\nQ: Who is the airport named after?\nA: It honors Ilan Ramon, Israel's first astronaut, who died in the 2003 Space Shuttle Columbia disaster.",
+  "transport_tips": "Public bus routes connect the airport to Eilat's city center and central bus station, typically running on schedules aligned with flight arrivals and departures. Taxis and ride-share services are available curbside and offer fixed or metered fares to Eilat, with the journey taking roughly half an hour. Visitors renting a car will find the airport conveniently positioned near Route 90, the main north-south highway through the Arava valley.",
+  "local_tip": "The terminal's observation area offers clear views of the surrounding desert and mountains; arriving early lets you watch light shift across the Timna copper mine landscape before your flight.",
+  "generatedAt": "2026-06-28T23:34:34.351Z",
+  "model": "MiniMax-M3"
+}

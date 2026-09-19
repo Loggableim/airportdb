@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DKV",
+    "icao": "YDVR",
+    "name": "Docker River Airport",
+    "country": "Australia",
+    "city": "Kaltukatjara",
+    "lat": -24.8595,
+    "lon": 129.1222,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Docker River Airport serves the remote Aboriginal community of Kaltukatjara (also known as Docker River) in Australia's Northern Territory, near the tri-state border with South Australia and Western Australia. The small airport sits within the Anangu Pitjantjatjara Yankunytjatjara (APY) Lands and primarily handles fly-in/fly-out services, charter flights, and occasional medical evacuations. It is a vital lifeline for residents of this isolated settlement, which is otherwise accessible only by long, unsealed roads.",
+  "faqs": "Q: Is Docker River Airport open to the public?\nA: The airport is a small regional facility primarily serving the local community, with no scheduled commercial flights. Access is typically arranged through charter operators or community services.\n\nQ: Are there regular airline services to DKV?\nA: No scheduled passenger services operate at this airport. Flights are generally charter-based, and visitors typically need to arrange private air transport or connect through larger regional airports.\n\nQ: What facilities are available at the airport?\nA: The airport has a basic terminal with minimal amenities, reflecting its remote location and small size. Travelers should bring their own supplies and arrange ground transport in advance.\n\nQ: Can visitors fly in without prior permission?\nA: A permit is generally required to enter the APY Lands where Kaltukatjara is located, so visitors should secure proper authorization before arranging flights into Docker River.",
+  "transport_tips": "There is no public transport serving the airport, so visitors must arrange a pickup in advance with the community or a local contact. The community store and accommodation providers can often assist with coordinating transfers. Travelers should ensure their vehicle is suitable for unsealed outback roads if planning onward road travel.",
+  "local_tip": "Fly with a light load and carry extra water and snacks, as delays are common in remote outback operations and supplies at Kaltukatjara are limited.",
+  "generatedAt": "2026-06-28T00:01:23.265Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OZZ",
+    "icao": "GMMZ",
+    "name": "Ouarzazate International Airport",
+    "country": "Morocco",
+    "city": "Ouarzazate",
+    "lat": 30.9391,
+    "lon": -6.9094,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Ouarzazate International Airport (OZZ) serves the southern Moroccan city of Ouarzazate, often called the 'Gateway to the Sahara.' The airport supports the region's booming film tourism industry, as the surrounding desert landscapes and Atlas Film Studios have hosted productions like Gladiator and Lawrence of Arabia. It provides essential access for visitors exploring the Draa Valley, Ait Benhaddou, and the edge of the Sahara Desert.",
+  "faqs": "Q: How far is Ouarzazate Airport from the city center?\nA: The airport is located approximately 3 km north of Ouarzazate city center, making it a quick 10-minute drive.\n\nQ: Are there direct international flights to Ouarzazate?\nA: Most flights are domestic connections from Casablanca or Marrakech, though seasonal charter flights occasionally serve European tourists.\n\nQ: Does the airport have car rental services?\nA: Yes, several car rental agencies operate at the airport, which is the recommended way to explore the surrounding region independently.\n\nQ: Is the airport suitable for overnight layovers?\nA: The airport is small with limited overnight facilities; travelers typically arrange ground transport directly upon arrival.",
+  "transport_tips": "Taxis and pre-arranged hotel shuttles are the most common ways to reach the city center, with the short journey typically costing a modest fixed fare. Renting a car at the airport is highly recommended for travelers planning to visit Ait Benhaddou, the Draa Valley, or Sahara desert excursions. Domestic flights from Casablanca or Marrakech are the easiest connection options for international visitors.",
+  "local_tip": "Visit the airport's small café early in the morning for some of the best mint tea in the region, and ask the staff about local weather conditions—desert winds can affect connecting flights and day trips to the dunes.",
+  "generatedAt": "2026-06-28T23:18:58.128Z",
+  "model": "MiniMax-M3"
+}

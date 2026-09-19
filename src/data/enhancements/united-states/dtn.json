@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DTN",
+    "icao": "KDTN",
+    "name": "Shreveport Downtown Airport",
+    "country": "United States",
+    "city": "Shreveport",
+    "lat": 32.5402,
+    "lon": -93.745,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Shreveport Downtown Airport (DTN) is a general aviation facility situated along the Red River in the heart of Shreveport, Louisiana, offering pilots and passengers immediate access to the city's downtown core. Originally established as a municipal airfield, it now serves primarily private aircraft, business jets, and flight training operations, complementing the larger Shreveport Regional Airport located to the southwest. Its compact footprint and riverside location make it a convenient gateway for visitors heading directly into the city's business and entertainment districts.",
+  "faqs": "Q: Does Shreveport Downtown Airport offer commercial passenger flights?\nA: No, DTN is exclusively a general aviation airport serving private, corporate, and recreational aircraft rather than scheduled commercial service.\n\nQ: How does DTN differ from Shreveport Regional Airport (SHV)?\nA: SHV is the region's commercial airport with airline service, while DTN focuses on general aviation, business jets, and flight training within the city.\n\nQ: What facilities are available at the airport?\nA: The airport offers aircraft fueling, hangars, tie-downs, and basic services for general aviation users, along with a control tower operating during published hours.\n\nQ: Can I fly into DTN for a quick business trip to downtown Shreveport?\nA: Yes, its downtown location makes it a popular choice for corporate travelers needing rapid access to Shreveport's central business district.",
+  "transport_tips": "The airport is just minutes from downtown Shreveport via local surface streets, making ground transportation quick and straightforward. Rental cars, rideshare services, and taxi options can typically be arranged with advance notice since on-site counters are limited. Many based tenants and visitors use the airport's proximity to avoid the longer drive from Shreveport Regional.",
+  "local_tip": "Frequent visitors appreciate that the airport sits adjacent to the Shreveport riverfront, meaning a short walk",
+  "generatedAt": "2026-06-27T00:39:20.642Z",
+  "model": "MiniMax-M3"
+}

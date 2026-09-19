@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KKX",
+    "icao": "RJKI",
+    "name": "Kikai Airport",
+    "country": "Japan",
+    "city": "Kikai",
+    "lat": 28.3213,
+    "lon": 129.928,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Kikai Airport (KKX/RJKI) is a small regional airport serving Kikaijima, a remote island in the Amami Archipelago of Kagoshima Prefecture, Japan. The airport provides essential air links between the island and mainland Japan, primarily connecting travelers to Amami Airport and onward routes. Its modest facilities reflect the island's small population and limited visitor traffic, making it a gateway for those exploring this lesser-known subtropical destination.",
+  "faqs": "Q: How do I reach Kikai Airport from mainland Japan?\nA: Most travelers fly first to Amami Airport (ASJ) on Amami-Oshima from cities like Tokyo, Osaka, or Kagoshima, then take a short connecting flight or ferry to Kikaijima.\n\nQ: Are there direct flights to Kikai Airport?\nA: Direct flights operate between Kikai and Amami Airport, but most international and major domestic travelers must transfer at Kagoshima or Amami.\n\nQ: What is Kikai Airport's airport code?\nA: The IATA code is KKX and the ICAO code is RJKI.\n\nQ: Is Kikai Airport open to international flights?\nA: The airport primarily handles domestic regional flights and does not currently offer scheduled international service.",
+  "transport_tips": "Rental cars are the most practical way to explore Kikaijima upon arrival, as the island's attractions are spread across small coastal and inland roads. There is no rail service on the island, so taxis and pre-arranged shuttle services are the main alternatives to rental vehicles. Ferry service from Amami-Oshima provides a budget option if you are willing to add extra travel time.",
+  "local_tip": "Kikaijima is famous for producing premium brown sugar (kokuto) and salt, so visiting a local sugarcane farm or salt-making facility near the airport offers an authentic taste of island culture that most tourists overlook.",
+  "generatedAt": "2026-06-29T22:33:56.971Z",
+  "model": "MiniMax-M3"
+}

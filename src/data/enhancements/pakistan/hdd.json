@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HDD",
+    "icao": "OPKD",
+    "name": "Hyderabad Airport",
+    "country": "Pakistan",
+    "city": "Hyderabad",
+    "lat": 25.3181,
+    "lon": 68.3661,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Hyderabad Airport (HDD/OPKD) is a small regional airport serving the historic city of Hyderabad in Sindh province, Pakistan. It primarily handles domestic flights and general aviation, supporting the connectivity needs of this major Sindhi cultural and commercial hub. The airport serves as an important gateway for travelers visiting the city's notable landmarks, including the iconic Tombs of the Talpur Mirs and the ruins of the ancient Indus Valley settlements nearby.",
+  "faqs": "Q: What type of flights operate from Hyderabad Airport?\nA: Hyderabad Airport primarily handles domestic flights and general aviation within Pakistan, with limited scheduled commercial service.\n\nQ: Where is Hyderabad Airport located relative to the city center?\nA: The airport is situated on the outskirts of Hyderabad, Pakistan, with road access connecting it to the city and surrounding areas of Sindh province.\n\nQ: Is Hyderabad Airport the same as India's Hyderabad airport?\nA: No, this airport (HDD/OPKD) serves Hyderabad in Sindh, Pakistan, and is distinct from Rajiv Gandhi International Airport (HYD) which serves Hyderabad, India.\n\nQ: What facilities are available at the airport?\nA: As a small airport, it offers basic passenger facilities including a terminal building and ground transportation services, though amenities are limited compared to major international airports.",
+  "transport_tips": "Taxis and ride-hailing services are the most common ways to reach the airport from Hyderabad city center. Travelers should arrange ground transportation in advance, especially for early morning or late-night flights, as public transport options near the airport are limited. The drive from central Hyderabad typically takes around 20-30 minutes depending on traffic conditions.",
+  "local_tip": "Carry cash in Pakistani rupees for taxis and small vendors, as card payment facilities are uncommon at this regional airport and in surrounding areas of Hyderabad.",
+  "generatedAt": "2026-06-26T17:05:01.292Z",
+  "model": "MiniMax-M3"
+}

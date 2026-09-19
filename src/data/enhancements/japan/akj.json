@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AKJ",
+    "icao": "RJEC",
+    "name": "Asahikawa Airport",
+    "country": "Japan",
+    "city": "Higashikagura",
+    "lat": 43.6708,
+    "lon": 142.447,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Asahikawa Airport (AKJ) is the second-largest airport in Hokkaido, located in the town of Higashikagura about 15 km southeast of Asahikawa city. It serves as a key gateway to northern Hokkaido's ski resorts, including the famous Furano and Kamui Ski Areas, as well as Daisetsuzan National Park. The airport primarily handles domestic flights, with seasonal international charter services, and features a distinctive modern terminal reflecting the region's connection to nature.",
+  "faqs": "Q: What airlines operate at Asahikawa Airport?\nA: The airport is primarily served by domestic carriers including JAL (Japan Airlines), ANA (All Nippon Airways), and Air Do, with flights connecting to Tokyo (Haneda), Osaka, and other major Japanese cities.\n\nQ: How far is the airport from central Asahikawa?\nA: Asahikawa Airport is approximately 15 km from downtown Asahikawa, with typical transfer times of 20-30 minutes by car or bus.\n\nQ: Does Asahikawa Airport have international flights?\nA: Scheduled international service is limited, but the airport handles seasonal charter flights, particularly from Taiwan and other Asian markets during winter ski season.\n\nQ: Is the airport open 24 hours?\nA: No, the terminal operates during flight hours only. Travelers should verify opening times during early morning or late-night flights.",
+  "transport_tips": "The airport is well-connected to Asahikawa city and nearby ski resorts via airport limousine buses, with services to central Asahikawa, Furano, and Biei. Rental cars are available at the terminal and are highly recommended for exploring the wider Hokkaido region. Taxi services are also available, though more expensive than buses.",
+  "local_tip": "During winter, the airport's observation deck offers excellent views of snow-clearing operations and the surrounding snowy landscape—arrive a bit early to enjoy this, and consider that flights in and out can occasionally be affected by heavy snowfall, so build a buffer into connecting travel plans.",
+  "generatedAt": "2026-06-29T11:35:38.702Z",
+  "model": "MiniMax-M3"
+}

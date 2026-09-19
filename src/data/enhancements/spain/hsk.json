@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HSK",
+    "icao": "LEHC",
+    "name": "Huesca-Pirineos Airport",
+    "country": "Spain",
+    "city": "Monflorite/Alcalá del Obispo",
+    "lat": 42.0761,
+    "lon": -0.3167,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Huesca-Pirineos Airport (HSK) is a small regional airport in northeastern Spain serving the city of Huesca and the broader Aragón region. Its name reflects its proximity to the Pyrenees mountains, which form the border with France roughly 100 km to the north. The airport handles limited commercial traffic and has historically served both civilian and military aviation purposes.",
+  "faqs": "Q: What is Huesca-Pirineos Airport mainly used for?\nA: It primarily serves the Huesca area and Aragón region, handling a small number of scheduled and charter flights, with much of its activity historically tied to military aviation.\n\nQ: How far is the airport from Huesca city center?\nA: The airport is located approximately 10 km southeast of Huesca, in the municipalities of Monflorite and Alcalá del Obispo.\n\nQ: Are there regular commercial flights from HSK?\nA: Scheduled commercial service is very limited; flights are often seasonal or charter-based, so travelers should confirm availability in advance.\n\nQ: Can I see the Pyrenees from the airport?\nA: Yes, on clear days the Pyrenees mountain range is visible to the north, giving the airport its distinctive name.\n\n",
+  "transport_tips": "The easiest way to reach Huesca city from the airport is by car via the A-22 or A-23 motorways, taking roughly 15 minutes. Taxi services are available but should be arranged in advance given the limited flight schedule. Public bus connections to central Huesca are infrequent, so renting a car or pre-booking a transfer is recommended.",
+  "local_tip": "If you're flying into HSK, consider extending your trip to visit the nearby medieval town of Huesca with its Gothic cathedral, or use it as a gateway to the Pyrenees for hiking and skiing—Jaca and the Ordesa y Monte Perdido National Park are within easy driving distance.",
+  "generatedAt": "2026-06-27T13:43:00.471Z",
+  "model": "MiniMax-M3"
+}

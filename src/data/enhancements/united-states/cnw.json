@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CNW",
+    "icao": "KCNW",
+    "name": "TSTC Waco Airport",
+    "country": "United States",
+    "city": "Waco",
+    "lat": 31.6411,
+    "lon": -97.0733,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "TSTC Waco Airport is a small general aviation facility located in Waco, Texas, serving the Texas State Technical College aviation programs and the local flying community. The airport supports flight training, aircraft maintenance education, and general aviation operations in central Texas. It is situated near the TSTC Waco campus, making it a key training hub for aspiring aviation technicians and pilots in the region.",
+  "faqs": "Q: What does TSTC stand for at TSTC Waco Airport?\nA: TSTC stands for Texas State Technical College, which operates the airport as part of its aviation and aircraft maintenance training programs.\n\nQ: Is TSTC Waco Airport open to the public?\nA: Yes, the airport is open to public general aviation traffic, though it primarily supports TSTC flight training and maintenance operations.\n\nQ: Does TSTC Waco Airport offer commercial flights?\nA: No, this airport does not handle commercial airline service; travelers flying commercially would use Waco Regional Airport (ACT) instead.\n\nQ: Can I get flight training at TSTC Waco Airport?\nA: Yes, the airport supports TSTC's aviation programs, including pilot training and aircraft maintenance technician courses.\n\n",
+  "transport_tips": "The airport is located on the TSTC campus on the east side of Waco, roughly a 15-20 minute drive from downtown. Rental cars or rideshare services are the most practical options for ground transportation, as there is no scheduled public transit directly serving the airport. Having your own vehicle is recommended for convenient access to and from the facility.",
+  "local_tip": "If visiting for TSTC business, call ahead to confirm gate access procedures, as the airfield is integrated with campus security and may require visitor check-in at the main college entrance.",
+  "generatedAt": "2026-06-27T03:38:29.984Z",
+  "model": "MiniMax-M3"
+}

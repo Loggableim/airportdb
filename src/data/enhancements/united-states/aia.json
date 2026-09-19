@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AIA",
+    "icao": "KAIA",
+    "name": "Alliance Municipal Airport",
+    "country": "United States",
+    "city": "Alliance",
+    "lat": 42.0525,
+    "lon": -102.804,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Alliance Municipal Airport serves the city of Alliance in the Nebraska Panhandle, providing a vital link for the rural western Nebraska region. The airport supports general aviation, air ambulance services, and occasional charter flights for the surrounding agricultural and ranching communities. It is also notably close to Carhenge, the famous roadside attraction built from repurposed automobiles.",
+  "faqs": "Q: What is the airport code for Alliance Municipal Airport?\nA: The IATA code is AIA and the ICAO code is KAIA.\n\nQ: Where is Alliance Municipal Airport located?\nA: It is located in Alliance, Nebraska, in Box Butte County, in the western Panhandle region of the state.\n\nQ: What kind of flights does the airport handle?\nA: The airport primarily serves general aviation, with support for air ambulance, charter, and private flights rather than scheduled commercial service.\n\nQ: Is the airport open to public use?\nA: Yes, Alliance Municipal Airport is a publicly owned facility open to public use, though travelers should verify current operating hours with the field.",
+  "transport_tips": "The airport is located just a few miles from downtown Alliance, making it a quick drive by car or taxi. Rental car services may be limited, so arranging ground transportation in advance is recommended. The town is also accessible via US Highway 385 and Nebraska Highway 2 for those connecting by road.",
+  "local_tip": "If you have any layover or downtime, Carhenge is just minutes from the airport—a quirky Stonehenge replica built entirely from vintage American automobiles, and one of Nebraska's most photographed landmarks.",
+  "generatedAt": "2026-06-29T19:36:24.183Z",
+  "model": "MiniMax-M3"
+}

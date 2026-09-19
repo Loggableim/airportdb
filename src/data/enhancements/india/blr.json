@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BLR",
+    "icao": "VOBL",
+    "name": "Kempegowda International Airport Bengaluru",
+    "country": "India",
+    "city": "Bengaluru",
+    "lat": 13.1979,
+    "lon": 77.7063,
+    "type": "large_airport",
+    "size": 51200
+  },
+  "summary": "Kempegowda International Airport Bengaluru (BLR) is India's third-busiest airport, serving the technology hub of Bengaluru, Karnataka. Opened in 2008, it replaced the older HAL Airport and is named after Kempegowda, the founder of Bengaluru. The airport features two terminals and a dedicated cargo terminal, and is known for its striking architecture inspired by Bengaluru's famous gardens and traditional South Indian temple design.",
+  "faqs": "Q: How far is Kempegowda International Airport from Bengaluru city center?\nA: The airport is approximately 35 km north of the city center, with typical travel times of 45-90 minutes depending on traffic.\n\nQ: Are there good transit options between terminals?\nA: Yes, free shuttle buses connect Terminal 1 and Terminal 2, running frequently throughout the day.\n\nQ: Does BLR have international flight connections?\nA: Yes, Terminal 1 handles both domestic and international flights, with connections to major hubs across Asia, Europe, the Middle East, and North America.\n\nQ: Is there a metro connection to the airport?\nA: The Namma Metro Purple Line currently extends to the airport area, providing an affordable option into the city.",
+  "transport_tips": "The airport is well-connected by road via National Highway 44 and the Kempegowda Expressway. BMTC Vayu Vajra buses offer 24/7 service to various parts of Bengaluru at an affordable fare. App-based taxis (Ola, Uber) and airport-authorized prepaid taxi counters are readily available at both terminals.",
+  "local_tip": "If you have a long layover, the airport offers day-stay rooms and nap pods near the terminals—bookable by the hour. For a taste of local flavor, the food court in Terminal 1 includes South Indian regional specialties you won't typically find at international airports.",
+  "generatedAt": "2026-06-28T15:55:14.682Z",
+  "model": "MiniMax-M3"
+}

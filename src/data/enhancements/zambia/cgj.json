@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CGJ",
+    "icao": "FLKE",
+    "name": "Kasompe Airport",
+    "country": "Zambia",
+    "city": "Chingola",
+    "lat": -12.5728,
+    "lon": 27.8939,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Kasompe Airport (CGJ) serves Chingola, a major copper mining center in Zambia's Copperbelt Province. The airport supports both civilian and military aviation, having historically hosted elements of the Zambian Air Force. Its location makes it a convenient gateway for mining industry personnel and visitors to the Nchanga copper operations, one of the largest open-pit mines in Africa.",
+  "faqs": "Q: Where is Kasompe Airport located?\nA: It is located in Chingola, in Zambia's Copperbelt Province, near the DRC border.\n\nQ: Does Kasompe Airport serve commercial passenger flights?\nA: It primarily handles charter, private, and mining-related flights rather than scheduled commercial service.\n\nQ: Are there military operations at Kasompe Airport?\nA: Yes, the airport has historically hosted Zambian Air Force activity alongside civilian operations.\n\nQ: What is the nearest major city to Kasompe Airport?\nA: Chingola itself is the closest town; Kitwe is approximately 35 km away and Solwezi lies to the northwest.",
+  "transport_tips": "Taxis and private hire vehicles are the most common way to reach the airport from Chingola town center, typically a short 10-15 minute drive. Rental cars can be arranged in advance through operators in the Copperbelt region. Road conditions to the airport are generally paved but can be uneven; allow extra time during the rainy season.",
+  "local_tip": "Coordinate your arrival with your mining host or employer well in advance, as the airport has limited ground handling services and no scheduled public transport options.",
+  "generatedAt": "2026-06-26T12:48:38.173Z",
+  "model": "MiniMax-M3"
+}

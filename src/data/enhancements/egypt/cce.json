@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CCE",
+    "icao": "HECP",
+    "name": "Capital International Airport",
+    "country": "Egypt",
+    "city": "New Cairo",
+    "lat": 30.0647,
+    "lon": 31.84,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Capital International Airport (CCE/HECP) is a medium-sized airport situated in New Cairo, Egypt, serving the rapidly developing New Administrative Capital and surrounding satellite communities east of Cairo. The facility supports both scheduled and general aviation traffic, providing an alternative gateway to the congested Cairo International Airport. Its strategic location near Egypt's newest urban developments makes it a key hub for government, business, and VIP travel in the region.",
+  "faqs": "Q: How far is Capital International Airport from central Cairo?\nA: The airport is located in New Cairo, roughly 30-40 kilometers east of downtown Cairo, depending on traffic conditions, typically a 45-60 minute drive.\n\nQ: Does Capital International Airport handle international commercial flights?\nA: It primarily serves charter, private, and select regional flights, while most large commercial international traffic continues to operate through Cairo International Airport.\n\nQ: Is there public transportation available to and from the airport?\nA: Options include private taxis, ride-hailing services like Uber and Careem, and pre-arranged hotel transfers, as direct public transit links remain limited.\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard amenities including a café, basic retail outlets, car rental counters, and parking, though services are more limited compared to larger international airports.",
+  "transport_tips": "Pre-booking a reputable taxi or ride-hailing service through Uber or Careem is strongly recommended, as meter taxis are uncommon in the New Cairo area. Allow extra travel time during Cairo's rush hours, typically 7-10 AM and 4-8 PM, when the drive from central Cairo can nearly double. Several major hotels in New Cairo offer airport shuttle services, which can be arranged in advance for added convenience.",
+  "local_tip": "If traveling to the New Administrative Capital, confirm your final destination's gate or compound number in advance, as the area is vast and still under development, making navigation without prior directions challenging.",
+  "generatedAt": "2026-06-29T12:48:21.905Z",
+  "model": "MiniMax-M3"
+}

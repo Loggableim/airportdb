@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VIR",
+    "icao": "FAVG",
+    "name": "Virginia Airport",
+    "country": "South Africa",
+    "city": "Durban",
+    "lat": -29.7706,
+    "lon": 31.0584,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Virginia Airport (VIR/FAVG) is a medium-sized airport situated in the northern suburbs of Durban, KwaZulu-Natal, South Africa. Historically it served as a reliever facility for the region and has been associated with general aviation, flight training, and charter operations. The airport sits near the Virginia area of Durban, providing convenient access to the city's northern districts and coastal areas.",
+  "faqs": "Q: What is Virginia Airport primarily used for?\nA: The airport mainly supports general aviation, private flights, charter operations, and flight training activities in the Durban area.\n\nQ: Is Virginia Airport an international airport?\nA: No, it is classified as a medium-sized domestic and general aviation airport, not a major international hub.\n\nQ: How does it relate to King Shaka International Airport?\nA: Virginia Airport has historically served as an alternate or reliever facility for Durban's main commercial airport, handling overflow and general aviation traffic.\n\nQ: Where exactly is it located in Durban?\nA: It is situated in the Virginia area in Durban's northern suburbs, giving it good access to surrounding residential and industrial zones.\n\n",
+  "transport_tips": "The airport is best reached by private vehicle or taxi, as there is no dedicated public transit service. It is located in Durban's northern suburbs, roughly 20-25 km from the city center and about 30 km from King Shaka International Airport. Parking is generally available on-site for those driving themselves.",
+  "local_tip": "Frequent visitors recommend contacting the airport in advance for runway and weather conditions, as Durban's coastal climate can produce afternoon sea breezes that affect smaller aircraft operations.",
+  "generatedAt": "2026-06-26T08:15:01.436Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NNL",
+    "icao": "PANO",
+    "name": "Nondalton Airport",
+    "country": "United States",
+    "city": "Nondalton",
+    "lat": 59.9802,
+    "lon": -154.839,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Nondalton Airport is a small public-use airport serving the remote community of Nondalton in southwestern Alaska's Lake and Peninsula Borough. Situated near Iliamna Lake, the airport provides essential access for residents of this predominantly Alaska Native village, as there are no road connections to the outside world. It primarily supports general aviation and bush plane operations that are vital for transporting people, mail, and supplies.",
+  "faqs": "Q: What is the main purpose of Nondalton Airport?\nA: The airport primarily serves as a transportation link for the remote village of Nondalton, supporting passenger travel, mail delivery, and freight transport since no roads connect the community to the rest of Alaska.\n\nQ: Are there commercial airline services at Nondalton Airport?\nA: Scheduled commercial service is limited, with most flights operated as charter or bush plane services connecting to larger hubs like Anchorage or King Salmon.\n\nQ: What facilities are available at the airport?\nA: As a small rural airport, Nondalton offers basic facilities including a gravel runway and minimal terminal amenities; travelers should arrive prepared.\n\nQ: When is the best time to fly into Nondalton?\nA: Summer months (June through August) offer the most reliable weather conditions, though flights can be weather-dependent year-round due to the subarctic climate.",
+  "transport_tips": "There is no road access to Nondalton, so the airport is the primary way to reach the community by air. Bush planes and small charter aircraft are the most common options, and passengers typically book through regional carriers serving the Bristol Bay region. Travelers should arrange ground transportation in advance, as taxi or shuttle services are minimal in this remote area.",
+  "local_tip": "Pack light and bring any specialty food or supplies you might need, as the small village store has limited inventory and restocking depends entirely on air freight deliveries.",
+  "generatedAt": "2026-06-26T22:54:10.341Z",
+  "model": "MiniMax-M3"
+}

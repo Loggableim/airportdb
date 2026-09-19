@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YAR",
+    "icao": "CYAD",
+    "name": "La Grande-3 Airport",
+    "country": "Canada",
+    "city": "La Grande-3",
+    "lat": 53.5717,
+    "lon": -76.1964,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "La Grande-3 Airport (YAR) is a small remote airstrip serving the La Grande-3 hydroelectric generating station in the Nord-du-Québec region of northern Canada. It supports the workers and operations of one of the key facilities within Hydro-Québec's massive James Bay Project, providing essential air access to an otherwise isolated sub-Arctic location. The airport primarily handles charter and regional flights connecting the remote site to larger Quebec hubs.",
+  "faqs": "Q: What is La Grande-3 Airport primarily used for?\nA: The airport serves the La Grande-3 hydroelectric generating station and its workforce, supporting both operational staff rotation and cargo needs in this remote area.\n\nQ: Are there scheduled commercial flights to La Grande-3?\nA: Scheduled service is limited; most flights are charter or corporate-operated to serve the hydroelectric facility. Travelers should arrange flights through specialized operators serving northern Quebec.\n\nQ: Where is La Grande-3 located?\nA: It is situated in the Jamésie region of northern Quebec, near the La Grande River, approximately 175 km east of James Bay.\n\nQ: What facilities are available at the airport?\nA: As a small remote airport, it has basic infrastructure including a runway and minimal passenger services; there are no large terminal amenities.\n\n",
+  "transport_tips": "Ground transportation from La Grande-3 Airport is extremely limited, so passengers should arrange pickup with their employer or sponsoring organization in advance. The site is not connected by public roads to major population centers, making air travel the primary means of access. Charter flights to La Grande-3 typically depart from larger airports such as Montreal-Trudeau or Québec City Jean Lesage.",
+  "local_tip": "Pack for sub-Arctic weather even in summer, as temperatures near the La Grande River can drop significantly, and always confirm your return flight well in advance since weather delays are common and accommodations in this remote area are limited to company-operated facilities.",
+  "generatedAt": "2026-06-28T02:10:06.507Z",
+  "model": "MiniMax-M3"
+}

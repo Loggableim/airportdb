@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YMM",
+    "icao": "CYMM",
+    "name": "Fort McMurray International Airport",
+    "country": "Canada",
+    "city": "Fort McMurray",
+    "lat": 56.6533,
+    "lon": -111.222,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Fort McMurray International Airport (YMM) serves Fort McMurray, Alberta, a key gateway to Canada's vast Athabasca oilsands region. The airport handles significant worker traffic supporting the energy sector along with general passenger travel to northern Alberta. It features a modern terminal designed to accommodate the unique mix of corporate shuttle flights and scheduled commercial service typical of resource-based economies.",
+  "faqs": "Q: How far is Fort McMurray International Airport from the city centre?\nA: The airport is located approximately 10 km southeast of downtown Fort McMurray, with a typical drive time of 15-20 minutes depending on traffic and weather.\n\nQ: Does the airport offer international flights?\nA: Yes, despite the name, YMM handles select flights crossing the US-Canada border in addition to its domestic network.\n\nQ: What facilities are available at the terminal?\nA: The terminal includes standard amenities such as restaurants, car rental counters, free Wi-Fi, and a business centre catering to oilsands industry travelers.\n\nQ: Why does Fort McMurray have such high passenger traffic?\nA: The airport serves a large fly-in workforce for the Athabasca oilsands operations, resulting in consistently busy flights connecting to Calgary, Edmonton, and other hubs.",
+  "transport_tips": "Taxi and rideshare services are available curbside at the arrivals level, though booking ahead is recommended during shift-change periods when demand spikes. Rental car agencies operate from the terminal and are advisable for those needing flexibility around the oilsands work sites. Shuttle services to major hotels in Fort McMurray run on demand and should be arranged in advance.",
+  "local_tip": "If you're flying out during oilsands shift-change days, arrive at least 2-3 hours early, as the terminal can become extremely congested with workers heading in and out simultaneously.",
+  "generatedAt": "2026-06-29T03:37:58.263Z",
+  "model": "MiniMax-M3"
+}

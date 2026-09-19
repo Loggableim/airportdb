@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NQI",
+    "icao": "KNQI",
+    "name": "Kingsville Naval Air Station",
+    "country": "United States",
+    "city": "Kingsville",
+    "lat": 27.5072,
+    "lon": -97.8097,
+    "type": "medium_airport",
+    "size": 400
+  },
+  "summary": "Kingsville Naval Air Station (NQI/KNQI) is a military airfield located in South Texas, primarily serving Naval Air Station Kingsville, home to the U.S. Navy's premier strike pilot training program. The station hosts Training Air Wing 2, where student naval aviators train on the T-45C Goshawk jet. Located just outside the small city of Kingsville, it sits roughly 35 miles southwest of Corpus Christi in a region known for its ranching heritage and Gulf Coast proximity.",
+  "faqs": "Q: Is Kingsville Naval Air Station open to civilian flights?\nA: The airfield primarily serves military operations but may accommodate limited civil traffic with prior permission; civilian travelers should check current status with the base.\n\nQ: What military training takes place at NAS Kingsville?\nA: The base is a key training center for U.S. Navy strike pilots, conducting advanced jet training on the T-45C Goshawk over South Texas training ranges.\n\nQ: Where is NAS Kingsville located relative to major Texas cities?\nA: It is situated in Kingsville, Texas, about 35 miles southwest of Corpus Christi and roughly 160 miles southeast of San Antonio.\n\nQ: Does the airport have commercial airline service?\nA: No scheduled commercial service operates at NQI; it functions mainly as a military airfield with limited general aviation use.",
+  "transport_tips": "The base is most easily reached by car, located just off U.S. Highway 77 in southern Texas. The nearest commercial airport with scheduled flights is Corpus Christi International Airport (CRP), about an hour's drive northeast. Rental car availability in Kingsville is limited, so arranging ground transportation in advance is recommended.",
+  "local_tip": "If visiting the area, take time to explore the nearby King Ranch, one of the largest ranches in the world, which offers tours showcasing South Texas heritage and is just a short drive from the station.",
+  "generatedAt": "2026-06-30T01:22:40.100Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JIN",
+    "icao": "HUJI",
+    "name": "Jinja Airport",
+    "country": "Uganda",
+    "city": "Jinja",
+    "lat": 0.4531,
+    "lon": 33.1936,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Jinja Airport is a small regional airfield serving the eastern Ugandan city of Jinja, renowned as the historic source of the White Nile. It primarily handles charter flights, private aviation, and light aircraft traffic rather than scheduled commercial services. The airport provides convenient access for tourists visiting Jinja's famous Nile-based attractions, including white-water rafting, bungee jumping, and boat cruises.",
+  "faqs": "Q: Does Jinja Airport have scheduled commercial flights?\nA: No, Jinja Airport primarily serves charter flights, private aircraft, and light aviation. Most visitors arrive via Entebbe International Airport (EBB) and travel overland to Jinja.\n\nQ: How far is Jinja Airport from the city center?\nA: The airport is located just a few kilometers from Jinja's town center, with a typical transfer time of around 15-20 minutes by road.\n\nQ: What is Jinja famous for?\nA: Jinja is celebrated as the source of the Nile River, where Lake Victoria's waters begin their long journey northward. It's a major hub for adventure tourism in East Africa.\n\nQ: Are there customs and immigration facilities at Jinja Airport?\nA: As a small airfield, it has limited immigration capabilities. Most international travelers clear customs at Entebbe before traveling overland to Jinja.",
+  "transport_tips": "Taxis and motorcycle taxis (boda-bodas) are commonly available near the airport for transfers into Jinja town. Pre-arranging transport through your hotel or tour operator is recommended, as formal taxi infrastructure at the airport is limited. The drive from Entebbe International Airport to Jinja takes approximately 2.5-3 hours via the Kampala-Jinja Highway.",
+  "local_tip": "If flying in on a charter, time your arrival for late morning so you can enjoy lunch at one of the riverside restaurants overlooking the Nile before checking into your hotel.",
+  "generatedAt": "2026-06-27T12:53:31.728Z",
+  "model": "MiniMax-M3"
+}

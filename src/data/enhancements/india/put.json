@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PUT",
+    "icao": "VOPN",
+    "name": "Sri Sathya Sai Airport",
+    "country": "India",
+    "city": "Puttaparthi",
+    "lat": 14.1493,
+    "lon": 77.7911,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Sri Sathya Sai Airport (PUT) is a medium-sized airport serving Puttaparthi, the birthplace of spiritual leader Sri Sathya Sai Baba, in the Anantapur district of Andhra Pradesh, India. The airport functions as a civil enclave within an Indian Air Force base and primarily handles traffic to the nearby Prasanthi Nilayam ashram, one of India's most visited pilgrimage sites. It provides essential connectivity for the millions of devotees who travel annually to the ashram for darshan and major festivals.",
+  "faqs": "Q: Why is Sri Sathya Sai Airport named as such?\nA: The airport is named after Sri Sathya Sai Baba, the revered spiritual leader born in Puttaparthi, and it primarily serves pilgrims visiting his ashram, Prasanthi Nilayam.\n\nQ: How far is the airport from Prasanthi Nilayam ashram?\nA: The airport is located approximately 5-7 kilometers from the Prasanthi Nilayam ashram, making it a convenient gateway for visiting devotees.\n\nQ: Does the airport operate flights year-round?\nA: Flight schedules can vary seasonally, with increased frequency around major Sai Baba festivals and events, while off-season service may be limited to a few weekly flights.\n\nQ: Are there international flights at this airport?\nA: No, Sri Sathya Sai Airport primarily handles domestic flights within India.",
+  "transport_tips": "Pre-paid taxi counters and auto-rickshaws are available outside the terminal for the short ride to Puttaparthi town and Prasanthi Nilayam. Given the limited flight schedule, it is advisable to pre-arrange ground transport, especially during festival seasons when demand surges. Shared taxis to nearby towns like Dharmavaram and Anantapur can also be arranged from the airport area.",
+  "local_tip": "Visit the airport's small viewing gallery or arrive early during the November-January season to witness the unique sight of pilgrims arriving in large, well-coordinated groups, often dressed in white, creating a culturally distinctive atmosphere you won't find at typical commercial airports.",
+  "generatedAt": "2026-06-26T09:55:13.711Z",
+  "model": "MiniMax-M3"
+}

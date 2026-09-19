@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WOT",
+    "icao": "RCWA",
+    "name": "Wang'an Airport",
+    "country": "Taiwan",
+    "city": "Wang'an",
+    "lat": 23.3691,
+    "lon": 119.5036,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Wang'an Airport (WOT) is a small regional airport serving Wang'an Island, one of the inhabited islands in the Penghu archipelago off Taiwan's western coast. It primarily handles short inter-island flights connecting travelers to Magong Airport on the main Penghu island. The facility supports tourism and local transport in this remote island community known for its tranquil coastal scenery and traditional fishing culture.",
+  "faqs": "Q: What destinations can I fly to from Wang'an Airport?\nA: The airport primarily offers short flights to Magong Airport (MZG) on the main Penghu Island, operated by domestic carriers serving the Penghu archipelago.\n\nQ: Is Wang'an Airport open to international flights?\nA: No, this is a domestic-only facility handling inter-island flights within Taiwan's Penghu island group.\n\nQ: How long is the typical flight from Wang'an to Magong?\nA: The short hop across the Penghu archipelago generally takes only about 10-15 minutes.\n\nQ: Does Wang'an Airport have passenger terminal facilities?\nA: As a small regional airport, it offers basic terminal amenities suited to the limited daily flight schedule.",
+  "transport_tips": "Getting to and from Wang'an Airport is easiest by motorcycle or local taxi, as the small terminal is close to Wang'an's main village areas. Visitors continuing on to Magong or other Penghu islands can often book combined ferry and flight tickets. Car rentals are available on neighboring Magong Island rather than directly at Wang'an due to its smaller size.",
+  "local_tip": "If traveling onward to Wang'an Township, ask locals about the coastal reef walking paths at low tide—these traditional routes between small islets are unique to the area and not commonly listed in standard travel guides.",
+  "generatedAt": "2026-06-28T10:11:54.353Z",
+  "model": "MiniMax-M3"
+}

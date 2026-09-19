@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ILY",
+    "icao": "EGPI",
+    "name": "Islay Airport",
+    "country": "United Kingdom",
+    "city": "Isle of Islay, Argyll and Bute",
+    "lat": 55.6827,
+    "lon": -6.2575,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Islay Airport (ILY/EGPI) is a regional airport serving the Isle of Islay in the Inner Hebrides of Scotland, located in Argyll and Bute. The airport provides vital air connectivity for the island, which is renowned for its whisky distilleries and Hebridean landscapes. It primarily handles scheduled domestic flights and is an essential transport link for residents, tourists, and business travelers visiting Scotland's 'Queen of the Hebrides.'",
+  "faqs": "Q: What airlines operate from Islay Airport?\nA: Loganair is the primary operator, providing scheduled flights to Glasgow and other Scottish destinations.\n\nQ: How far is the airport from Islay's main towns?\nA: The airport is centrally located on the island, with most major distilleries and towns reachable within 10-20 minutes by car.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers on-site parking for passengers and visitors.\n\nQ: Are there facilities like food or coffee inside the terminal?\nA: The terminal has basic amenities, though options may be limited given the airport's small size.",
+  "transport_tips": "Car rental is available at the airport and is highly recommended for exploring Islay's dispersed distilleries and scenic coastal roads. Taxis can be pre-booked but availability is limited, so arranging transport in advance is wise. The airport is well-connected by road to Port Ellen, Bowmore, and other key island locations.",
+  "local_tip": "If you're visiting for whisky, book a car in advance during festival season (Feis Ile in late May) as demand for rental vehicles and accommodations spikes significantly across the island.",
+  "generatedAt": "2026-06-29T09:19:59.496Z",
+  "model": "MiniMax-M3"
+}

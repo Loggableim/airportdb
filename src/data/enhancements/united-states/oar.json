@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OAR",
+    "icao": "KOAR",
+    "name": "Marina Municipal Airport",
+    "country": "United States",
+    "city": "Marina",
+    "lat": 36.6819,
+    "lon": -121.762,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Marina Municipal Airport (OAR) is a small general aviation airfield located along California's central coast in Monterey County, just inland from Monterey Bay. The airport sits on the site of the former Fritzsche Army Airfield, which was part of Fort Ord before the land was converted to civilian and educational use, including the adjacent CSU Monterey Bay campus. It primarily serves recreational pilots, flight training, and private aircraft, offering convenient access to the Monterey Peninsula's coastal attractions.",
+  "faqs": "Q: What type of airport is Marina Municipal Airport?\nA: It is a small general aviation airport serving private aircraft, flight schools, and recreational flyers rather than commercial airlines.\n\nQ: Are there commercial passenger flights at OAR?\nA: No, Marina Municipal does not offer scheduled commercial service. Travelers seeking commercial flights typically use Monterey Regional Airport (MRY) nearby.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, hangars, tie-down spaces, and flight training operations. It does not have a large terminal or extensive passenger amenities.\n\nQ: Can I rent a car at Marina Municipal Airport?\nA: Car rentals are not typically available on-site due to the airport's general aviation focus. Visitors usually arrange ground transportation in advance or use rideshare services.\n\n",
+  "transport_tips": "The airport is just a short drive from Highway 1, providing easy road access to Monterey, Seaside, and Salinas. Rideshare services like Uber and Lyft generally operate in the area, though availability may be limited compared to larger airports. Rental cars are best arranged in nearby Monterey or Salinas for broader regional travel.",
+  "local_tip": "Visit early in the morning for the best chance of clear coastal views and calm flying conditions, as afternoon marine layer fog frequently rolls in from Monterey Bay and can affect visibility and operations.",
+  "generatedAt": "2026-06-27T01:11:52.129Z",
+  "model": "MiniMax-M3"
+}

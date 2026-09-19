@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MCD",
+    "icao": "KMCD",
+    "name": "Mackinac Island Airport",
+    "country": "United States",
+    "city": "Mackinac Island",
+    "lat": 45.8649,
+    "lon": -84.6373,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mackinac Island Airport serves the car-free Mackinac Island in Lake Huron, Michigan, providing one of the few ways to reach the island along with passenger ferries. Since the island famously bans almost all motor vehicles, the small airport plays a vital role in connecting visitors to this popular historic resort destination known for the Grand Hotel and Mackinac Island State Park. It operates with a single turf runway and handles primarily small charter and private aircraft.",
+  "faqs": "Q: How do I get from Mackinac Island Airport to the main town?\nA: Taxis and horse-drawn carriages are available at the airport, as motor vehicles are restricted on the island. Most hotels and inns are within a short ride of the terminal.\n\nQ: Are there scheduled commercial flights to Mackinac Island?\nA: No scheduled commercial service operates into MCD. Visitors typically fly privately or via charter aircraft, with most tourists arriving by ferry from Mackinaw City or St. Ignace.\n\nQ: Why are cars not allowed on Mackinac Island?\nA: The ban on automobiles dates back over a century and preserves the island's historic charm. Emergency vehicles are the only exceptions, making bicycles, horses, and walking the primary modes of transport.\n\nQ: What is the airport's runway like?\nA: Mackinac Island Airport has a single turf runway, which requires smaller general aviation aircraft and can be affected by weather conditions.",
+  "transport_tips": "The airport is located just a short distance from downtown Mackinac Island, with taxi service and horse-drawn carriage rides readily available. Many visitors prefer the ferry from Mackinaw City or St. Ignace, which offers scenic views of the Mackinac Bridge. Ferries run frequently in summer but are weather-dependent and less reliable in shoulder seasons.",
+  "local_tip": "Book your hotel or inn to include airport or ferry dock pickup, as the island's ban on cars means you'll need to arrange transport in advance, especially during the busy summer season.",
+  "generatedAt": "2026-06-27T00:20:34.849Z",
+  "model": "MiniMax-M3"
+}

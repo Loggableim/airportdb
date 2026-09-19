@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TEH",
+    "icao": "",
+    "name": "Tetlin Airport",
+    "country": "United States",
+    "city": "Tetlin",
+    "lat": 63.1246,
+    "lon": -142.518,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Tetlin Airport (TEH) is a small public-use airfield serving the remote Athabascan community of Tetlin in eastern interior Alaska, near the Canadian border and the Tetlin National Wildlife Refuge. The airport primarily supports general aviation, bush plane operations, and essential passenger and mail services for the village, which is not connected to the road system. Its location makes it a useful gateway for visitors exploring the surrounding wilderness, wildlife refuges, and the scenic Alaska Highway corridor.",
+  "faqs": "Q: What is Tetlin Airport used for?\nA: The airport primarily serves the Tetlin village community with general aviation flights, mail delivery, and passenger transport, as there are no roads connecting the village to the rest of Alaska.\n\nQ: Are there scheduled commercial flights to Tetlin Airport?\nA: Scheduled service is limited or unavailable; most flights are charter or bush plane operations from regional hubs such as Fairbanks or Tok.\n\nQ: What facilities are available at the airport?\nA: As a small rural airfield, Tetlin Airport offers minimal infrastructure with no terminal building; visitors should arrange ground transport and supplies in advance.\n\nQ: When is the best time to fly into Tetlin?\nA: Summer months (June through August) offer the most reliable weather and longest daylight hours for flying into interior Alaska.\n\n",
+  "transport_tips": "There is no road access to Tetlin, so arriving by air via charter or bush plane from Fairbanks or Tok is the only practical option. Visitors should coordinate ground transportation with local contacts or their lodging before arrival, as taxi and rental services are not available. During winter, extreme cold can affect flight schedules, so build flexibility into travel plans.",
+  "local_tip": "If visiting the Tetlin National Wildlife Refuge, contact the refuge headquarters in Tok well in advance—local pilots often know current wildlife sightings and can recommend the best landing strips within the refuge.",
+  "generatedAt": "2026-06-28T09:21:18.446Z",
+  "model": "MiniMax-M3"
+}

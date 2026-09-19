@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HDO",
+    "icao": "VIDX",
+    "name": "Hindon Airport / Hindon Air Force Station",
+    "country": "India",
+    "city": "Ghaziabad",
+    "lat": 28.7077,
+    "lon": 77.3589,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Hindon Airport is a civil enclave operating within the active Hindon Air Force Station of the Indian Air Force, located in Ghaziabad, Uttar Pradesh, on the outskirts of Delhi NCR. Commercial operations began in October 2019 under India's UDAN regional connectivity scheme, making it an important secondary gateway for the Delhi metropolitan area. It primarily handles short-haul domestic regional flights and helps decongest the busy Indira Gandhi International Airport.",
+  "faqs": "Q: Is Hindon Airport a civilian or military airport?\nA: Hindon operates as a civil enclave within an active Indian Air Force base. Civilian flights share the airfield with military operations under a coordinated arrangement.\n\nQ: What types of flights operate from Hindon?\nA: The airport primarily serves short-haul domestic regional routes under India's UDAN scheme, connecting smaller cities. It does not handle wide-body aircraft or international flights.\n\nQ: How far is Hindon Airport from central Delhi?\nA: The airport is approximately 20-25 km from central Delhi and around 7-10 km from Ghaziabad city center, depending on traffic conditions on the Delhi-Meerut highway corridor.\n\nQ: Are there international flights from Hindon?\nA: No, Hindon Airport handles domestic regional flights only. International travelers must use Indira Gandhi International Airport.",
+  "transport_tips": "The airport is best accessed by private car, taxi, or ride-hailing services like Ola and Uber, as it sits along the Delhi-Saharanpur highway in Ghaziabad. Public bus services connect Ghaziabad to the area, but metro connectivity is limited, so allow extra travel time during peak NCR traffic. Many travelers find it more convenient to drive and park than rely on scheduled public transit.",
+  "local_tip": "Since the airport shares airspace and ground operations with an active military base, arrive a bit earlier than usual to account for additional security checks at the entrance, and check flight status in advance as military activities can occasionally affect civilian schedules.",
+  "generatedAt": "2026-06-26T21:08:56.764Z",
+  "model": "MiniMax-M3"
+}

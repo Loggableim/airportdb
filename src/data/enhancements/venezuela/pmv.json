@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PMV",
+    "icao": "SVMG",
+    "name": "Del Caribe Santiago Mariño International Airport",
+    "country": "Venezuela",
+    "city": "Isla Margarita",
+    "lat": 10.9126,
+    "lon": -63.9666,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Del Caribe Santiago Mariño International Airport is the main gateway to Isla Margarita, Venezuela's largest Caribbean island and a premier beach resort destination. Named after General Santiago Mariño, a hero of Venezuelan independence, the airport serves as the primary entry point for tourists visiting the island's duty-free shopping zones and coastal resorts. Its large_airport designation reflects its importance as a hub for both domestic flights from Caracas and international connections from the Caribbean and beyond.",
+  "faqs": "Q: How far is the airport from Porlamar, the main city?\nA: The airport is located about 20 km (12 miles) west of Porlamar, with typical transfer times of 25-40 minutes depending on traffic.\n\nQ: Are there international flights to PMV?\nA: Yes, the airport receives international flights from various Caribbean destinations, as well as seasonal charters from Europe and South America, in addition to frequent domestic connections from Caracas.\n\nQ: Is the airport duty-free?\nA: Isla Margarita is a free port zone, and the airport features duty-free shops offering liquor, perfume, electronics, and local goods at competitive prices.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers restaurants, cafes, car rental agencies, currency exchange, and basic passenger amenities typical of a regional international airport.",
+  "transport_tips": "Taxis are available outside the terminal and are the most common way to reach resorts; agree on the fare before departing as meters are rarely used. Shared shuttle services and hotel-arranged transfers are recommended for first-time visitors and offer fixed pricing. Renting a car is a good option for those planning to explore the island, though driving can be unpredictable and parking in Porlamar can be challenging during peak season.",
+  "local_tip": "The airport tends to be very busy during Venezuelan holiday weeks (especially Semana Santa and December), so arriving at least 3 hours before international departure and booking ground transport in advance can save significant time.",
+  "generatedAt": "2026-06-28T20:27:18.517Z",
+  "model": "MiniMax-M3"
+}

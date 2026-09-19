@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ANP",
+    "icao": "KANP",
+    "name": "Lee Airport",
+    "country": "United States",
+    "city": "Annapolis",
+    "lat": 38.9429,
+    "lon": -76.5684,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lee Airport is a small general aviation facility serving the Annapolis area in Anne Arundel County, Maryland. Conveniently located near the Chesapeake Bay and the state capital, it primarily supports private pilots, flight training, and recreational flying. The airport offers a convenient alternative to larger commercial airports in the Baltimore-Washington region for general aviation users.",
+  "faqs": "Q: What type of airport is Lee Airport?\nA: Lee Airport is a small general aviation airport primarily serving private aircraft, flight training, and recreational pilots.\n\nQ: Does Lee Airport offer commercial flights?\nA: No, Lee Airport does not provide scheduled commercial airline service. It is used for private and general aviation purposes.\n\nQ: Where is Lee Airport located?\nA: The airport is situated in Annapolis, Maryland, in Anne Arundel County, near the Chesapeake Bay and the U.S. Naval Academy.\n\nQ: What are the nearest commercial airports?\nA: Baltimore/Washington International Thurgood Marshall Airport (BWI) and Ronald Reagan Washington National Airport (DCA) are the closest major commercial airports.",
+  "transport_tips": "Lee Airport is best accessed by personal vehicle, as public transit options are limited. The airport is a short drive from downtown Annapolis and easily reachable via Maryland Route 2 and nearby U.S. Route 50. Free parking is typically available on-site for pilots and visitors.",
+  "local_tip": "If visiting for the day, consider combining your trip with a stop at the historic U.S. Naval Academy or waterfront downtown Annapolis, both just a few miles from the airport.",
+  "generatedAt": "2026-06-27T02:07:56.342Z",
+  "model": "MiniMax-M3"
+}

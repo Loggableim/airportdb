@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OOK",
+    "icao": "PAOO",
+    "name": "Toksook Bay Airport",
+    "country": "United States",
+    "city": "Toksook Bay",
+    "lat": 60.5414,
+    "lon": -165.087,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Toksook Bay Airport is a small public-use airport serving the remote Yup'ik village of Toksook Bay on Nelson Island in Alaska's Yukon-Kuskokwim Delta. The airport provides a critical transportation lifeline for the community, as the village is not connected by road to any other settlement. It features a single gravel runway and primarily supports regional commuter and charter flights.",
+  "faqs": "Q: What is Toksook Bay Airport primarily used for?\nA: The airport serves the remote Yup'ik village of Toksook Bay, providing essential passenger and cargo service since the village has no road access to other communities.\n\nQ: Are there scheduled commercial flights to Toksook Bay Airport?\nA: Yes, regional carriers operate scheduled passenger flights connecting Toksook Bay to Bethel and other hub airports in western Alaska.\n\nQ: What is the runway surface like at Toksook Bay Airport?\nA: The airport has a single gravel runway, typical of rural airports in the Yukon-Kuskokwim Delta region.\n\nQ: When is the airport typically open for operations?\nA: The airport generally operates during daylight hours and in suitable weather conditions, which is standard for small rural Alaskan airports.",
+  "transport_tips": "Getting to Toksook Bay requires flying in, as the village is only accessible by air or by boat during the warmer months. Travelers typically connect through Bethel Airport (BET) on a regional commuter flight. There is no public road transportation, so arrangements should be made in advance with local contacts or lodging providers for pickup upon arrival.",
+  "local_tip": "Pack layered clothing even in summer—coastal winds from the Bering Sea can make the short walk from the aircraft to the terminal feel much colder than the temperature suggests.",
+  "generatedAt": "2026-06-26T20:34:39.432Z",
+  "model": "MiniMax-M3"
+}

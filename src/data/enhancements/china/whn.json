@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WHN",
+    "icao": "",
+    "name": "Wuhan Hannan Municipal Airport",
+    "country": "China",
+    "city": "Wuhan (Hannan)",
+    "lat": 30.2552,
+    "lon": 114.0628,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Wuhan Hannan Municipal Airport (WHN) is a regional airport serving the Hannan District in the southwestern outskirts of Wuhan, Hubei Province, China. It functions primarily as a general aviation hub and supports some scheduled regional commercial services, complementing the much larger Wuhan Tianhe International Airport. The facility supports flight training, business aviation, and short-haul routes within central China.",
+  "faqs": "Q: What is the difference between Wuhan Hannan Airport and Wuhan Tianhe International Airport?\nA: Wuhan Tianhe International Airport (WUH) is the main international gateway for the city, while Wuhan Hannan Municipal Airport (WHN) is a smaller regional facility focused on general aviation, flight training, and select short-haul routes.\n\nQ: Does Wuhan Hannan Airport offer international flights?\nA: No, WHN primarily handles domestic regional services and general aviation operations rather than international flights.\n\nQ: What facilities are available at the airport?\nA: The airport features a compact terminal suited for low-volume traffic, along with aviation training facilities and general aviation services.\n\nQ: Can I use public transportation to reach the airport?\nA: Limited public transit options serve the Hannan District area; private car or taxi is typically the most reliable option for accessing the airport.\n\n",
+  "transport_tips": "The airport is located roughly 40 km southwest of central Wuhan, with journey times varying based on traffic conditions. Hiring a taxi or using a ride-hailing app is generally the most convenient option, as direct public transit links are limited. Travelers connecting from Wuhan Tianhe International Airport should allow at least 90 minutes for the cross-city transfer.",
+  "local_tip": "If you have flexibility in your schedule, confirm your flight well in advance, as Wuhan Hannan Airport's regional services can occasionally change routes or operating frequencies depending on seasonal demand.",
+  "generatedAt": "2026-06-26T13:58:36.571Z",
+  "model": "MiniMax-M3"
+}

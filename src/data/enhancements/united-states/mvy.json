@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MVY",
+    "icao": "KMVY",
+    "name": "Martha's Vineyard Airport",
+    "country": "United States",
+    "city": "Martha's Vineyard",
+    "lat": 41.3931,
+    "lon": -70.6143,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Martha's Vineyard Airport is the primary gateway to the island of Martha's Vineyard, located in Dukes County, Massachusetts. The airport sits on a compact footprint in the town of West Tisbury and handles a significant seasonal surge in traffic during summer months when vacationers flock to the island. It features a single main runway and is well known for its picturesque island approach over Vineyard Sound.",
+  "faqs": "Q: How far is Martha's Vineyard Airport from the ferry terminals?\nA: The airport is about 5 miles from the Vineyard Haven ferry terminal and roughly 7 miles from the Oak Bluffs terminal, typically a 10-15 minute drive depending on traffic.\n\nQ: Do major airlines serve Martha's Vineyard Airport?\nA: Yes, carriers including Cape Air, JetBlue, Delta, and American offer seasonal service, with Cape Air providing year-round connections to Boston and other regional destinations.\n\nQ: Is there car rental available at MVY?\nA: Several national car rental agencies operate at the airport, but availability is extremely limited in summer and reservations should be made well in advance.\n\nQ: Can private aircraft use the airport?\nA: Yes, the airport accommodates general aviation and private jets, though parking and hangar space are limited during peak season.",
+  "transport_tips": "Rental cars, taxis, and shuttle services are available at the terminal, but booking ahead is essential during summer and holiday weekends. Rideshare apps like Uber and Lyft operate on the island but can be unreliable or surge-priced during peak arrival times. Many visitors also arrange rental bikes or use the local bus transit for getting around.",
+  "local_tip": "If you're visiting in summer, arrive at least two hours before your departing flight and expect a brief outdoor walk between the small terminal and your plane, as boarding is often done directly on the tarmac via stairs.",
+  "generatedAt": "2026-06-26T19:24:49.187Z",
+  "model": "MiniMax-M3"
+}

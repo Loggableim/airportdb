@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ABV",
+    "icao": "DNAA",
+    "name": "Nnamdi Azikiwe International Airport",
+    "country": "Nigeria",
+    "city": "Abuja",
+    "lat": 9.0068,
+    "lon": 7.2632,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Nnamdi Azikiwe International Airport (ABV) is the main airport serving Abuja, Nigeria's capital city, and is named after Nnamdi Azikiwe, the country's first president. Located approximately 40 km southwest of the city center, it serves as a key hub for both domestic and international flights across West Africa. The airport features separate terminals for domestic and international operations and handles millions of passengers annually.",
+  "faqs": "Q: How far is the airport from Abuja city center?\nA: The airport is approximately 40 km (25 miles) southwest of Abuja's city center, typically a 45-60 minute drive depending on traffic.\n\nQ: Does the airport have international flights?\nA: Yes, the international terminal serves flights to destinations across Africa, Europe, and the Middle East, operated by airlines including Ethiopian Airlines, Lufthansa, and Turkish Airlines.\n\nQ: Are there currency exchange services available?\nA: Yes, currency exchange bureaus and ATMs are available in both terminals, though it is advisable to exchange money at official counters inside the airport.\n\nQ: Is there a lounge available for travelers?\nA: Yes, the airport offers several lounges including airline-specific and independent pay-per-use lounges in the international terminal.",
+  "transport_tips": "Taxis and ride-hailing services like Uber and Bolt are available outside the terminals and are the most reliable way to reach central Abuja. Pre-booking airport transfers through your hotel is recommended, especially for late-night arrivals. Allow extra time during peak hours, as traffic on the road connecting the airport to the city can be heavy.",
+  "local_tip": "If you have a long layover, the nearby Jabi Lake area has restaurants and shops just a short drive from the airport, offering a pleasant break from terminal waiting areas.",
+  "generatedAt": "2026-06-28T16:46:50.853Z",
+  "model": "MiniMax-M3"
+}

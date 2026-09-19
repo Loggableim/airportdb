@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AFS",
+    "icao": "UZSN",
+    "name": "Sugraly Airport",
+    "country": "Uzbekistan",
+    "city": "Zarafshan",
+    "lat": 41.6138,
+    "lon": 64.233,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Sugraly Airport is a small regional airport serving Zarafshan, a remote mining city in Uzbekistan's Navoiy Region. The airport primarily handles charter and worker flights supporting the area's significant uranium and gold mining operations, which are central to the local economy. Its remote desert location makes it one of the more isolated airports in the country.",
+  "faqs": "Q: What is Sugraly Airport primarily used for?\nA: It mainly serves charter flights and provides air access for workers in Zarafshan's mining industry, particularly uranium and gold extraction.\n\nQ: Are there regular commercial passenger flights to Sugraly Airport?\nA: Scheduled commercial service is very limited; most flights are charter-based or operated by mining company contractors.\n\nQ: What facilities are available at the airport?\nA: The airport has basic terminal facilities suitable for a small regional operation, with limited passenger amenities.\n\nQ: How far is the airport from Zarafshan city center?\nA: Sugraly Airport is located just a few kilometers outside the city, making transfers relatively quick.",
+  "transport_tips": "Ground transportation options are limited; arranging a vehicle through your employer or hotel in advance is strongly recommended, as taxis may not be readily available at the terminal. The drive from the airport to central Zarafshan typically takes under 20 minutes. Visitors flying for mining-related work are usually met by company representatives upon arrival.",
+  "local_tip": "If you're visiting Zarafshan, note that the city is a closed mining settlement, so carry your invitation or work permit documents at all times, including for airport transit and identification checks.",
+  "generatedAt": "2026-06-26T23:30:03.479Z",
+  "model": "MiniMax-M3"
+}

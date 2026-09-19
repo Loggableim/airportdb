@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MTZ",
+    "icao": "LLMZ",
+    "name": "Bar Yehuda Airfield",
+    "country": "Israel",
+    "city": "Masada",
+    "lat": 31.3282,
+    "lon": 35.3886,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Bar Yehuda Airfield is a small regional airport situated in the Judean Desert near the Dead Sea, serving as a gateway to the historic Masada fortress and surrounding tourist attractions. The airfield primarily handles domestic charter flights, private aviation, and seasonal tourist services. Its remote desert location offers passengers striking aerial views of the Dead Sea, the Moab Mountains in Jordan, and the rugged landscape leading to the UNESCO World Heritage site of Masada.",
+  "faqs": "Q: What airlines operate from Bar Yehuda Airfield?\nA: The airfield is primarily served by small charter operators and private aviation, with occasional seasonal tourist flights rather than scheduled commercial service.\n\nQ: Are there car rental services at the airport?\nA: Limited car rental options are available, and most visitors arrange ground transport in advance through hotels or tour operators in the Masada and Dead Sea area.\n\nQ: Can I fly directly from Bar Yehuda to other countries?\nA: No, the airfield handles domestic flights only. International travelers typically arrive through Ben Gurion Airport (TLV) or Ramon Airport (ETM) near Eilat.\n\nQ: What is the nearest major attraction?\nA: Masada, the ancient hilltop fortress, is approximately 10 kilometers away, with the Dead Sea beaches and Ein Gedi nature reserve also within easy driving distance.\n\n",
+  "transport_tips": "Pre-arrange a taxi or shuttle through your hotel, as on-demand transport options at the airfield are limited. Rental cars are recommended for visitors planning to explore Masada, Ein Gedi, and the Dead Sea independently. The drive from Jerusalem takes roughly 1.5 hours via Route 90 along the Dead Sea coast.",
+  "local_tip": "Time your arrival for sunset flights when possible—the aerial approach over the Dead Sea and Masada plateau offers some of the most dramatic desert vistas in the region, especially during the golden hour.",
+  "generatedAt": "2026-06-26T09:42:08.632Z",
+  "model": "MiniMax-M3"
+}

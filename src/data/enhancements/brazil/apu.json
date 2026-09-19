@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "APU",
+    "icao": "SSAP",
+    "name": "Captain João Busse Airport",
+    "country": "Brazil",
+    "city": "Apucarana",
+    "lat": -23.6091,
+    "lon": -51.3843,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Captain João Busse Airport (APU/SSAP) is a small regional airport serving Apucarana, a city in the northern part of Paraná state in southern Brazil. The facility primarily handles general aviation, private aircraft, and occasional regional flights, supporting the local agricultural and business communities. Its modest infrastructure reflects Apucarana's role as a mid-sized inland municipality known for coffee production and its significant Japanese-Brazilian heritage.",
+  "faqs": "Q: What is Captain João Busse Airport mainly used for?\nA: The airport primarily serves general aviation, private flights, and occasional regional operations, supporting Apucarana's business and agricultural sectors.\n\nQ: Are there commercial passenger flights from APU?\nA: Scheduled commercial service is limited or unavailable; travelers typically use larger airports such as Londrina (LDB) for regular passenger flights.\n\nQ: What facilities are available at the airport?\nA: As a small airport, facilities are basic, including a runway, apron, and terminal suitable for light aircraft and private operations.\n\nQ: Is the airport open 24 hours?\nA: Operating hours are typically limited to daylight and scheduled periods; pilots should confirm availability through local aeronautical authorities before planning a flight.\n\n",
+  "transport_tips": "The airport is located just a few kilometers from Apucarana's city center, making taxi rides or pre-arranged private transfers the most practical options for ground transportation. Rideshare apps have limited presence in this region, so booking a local taxi in advance is recommended. Public bus routes do not directly serve the airport terminal.",
+  "local_tip": "If arriving by private aircraft, note that fuel availability may be limited, so plan a fuel stop at Londrina or Maringá before heading to Apucarana—local pilots consider this standard practice for the region.",
+  "generatedAt": "2026-06-27T08:48:07.663Z",
+  "model": "MiniMax-M3"
+}

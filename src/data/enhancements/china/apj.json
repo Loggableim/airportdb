@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "APJ",
+    "icao": "ZUPL",
+    "name": "Ali Pulan Airport",
+    "country": "China",
+    "city": "Burang Town",
+    "lat": 30.3979,
+    "lon": 81.1332,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Ali Pulan Airport serves the remote Burang Town in the Ngari Prefecture of western Tibet, situated in the Himalayan highlands near the borders with Nepal and India. The airport provides essential access to one of the most isolated regions in China, serving travelers heading to sacred sites including Mount Kailash and Lake Manasarovar. Due to its high elevation and challenging terrain, the airport remains a critical but limited gateway to this culturally significant area.",
+  "faqs": "Q: What is the elevation of Ali Pulan Airport?\nA: The airport sits at a very high altitude in the western Tibetan plateau, which requires travelers to acclimatize gradually to avoid altitude sickness.\n\nQ: Which cities have direct flights to Ali Pulan Airport?\nA: The airport is primarily connected to Lhasa and select other major Chinese cities, though flights can be irregular due to weather conditions.\n\nQ: What are the main destinations served by Ali Pulan Airport?\nA: It serves travelers visiting Burang Town, Mount Kailash, Lake Manasarovar, and the surrounding pilgrimage circuits in western Tibet.\n\nQ: When is the best time to fly into Ali Pulan Airport?\nA: The spring through autumn months generally offer the most reliable weather, as winter conditions can cause flight cancellations in this mountainous region.\n\n",
+  "transport_tips": "Burang Town is approximately a short drive from the airport, though road conditions can be rough due to the remote mountainous terrain. Travelers should arrange ground transport in advance, as taxi and shuttle services are limited at this small regional facility. Allow extra time for travel between the airport and town, especially given the high-altitude environment that may affect driving conditions.\n\n",
+  "local_tip": "Pack warm clothing even in summer, as temperatures at this elevation can drop sharply after sunset, and consider spending at least one night in a lower-altitude town like Lhasa before flying in to help your body adjust to the extreme altitude.",
+  "generatedAt": "2026-06-26T12:48:07.450Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CGM",
+    "icao": "RPMH",
+    "name": "Camiguin Airport",
+    "country": "Philippines",
+    "city": "Mambajao",
+    "lat": 9.2539,
+    "lon": 124.7091,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Camiguin Airport serves as the main air gateway to Camiguin Island, a small volcanic island province in the Mindanao region of the Philippines. Located near Mambajao, the island's largest municipality, the airport primarily handles domestic turboprop flights connecting to Cebu and Manila. The airport offers travelers quick access to the island's natural attractions, including the famous White Island sandbar, Sunken Cemetery, and Hibok-Hibok Volcano.",
+  "faqs": "Q: What airlines operate at Camiguin Airport?\nA: Cebu Pacific operates regular turboprop flights connecting Camiguin to Cebu and occasionally Manila. Schedules can be limited, so it's wise to check current timetables.\n\nQ: How long is the flight from Manila or Cebu?\nA: Flights from Cebu take approximately 45 minutes, while services from Manila typically last around 1.5 hours, depending on routing.\n\nQ: Are there international flights at Camiguin Airport?\nA: No, Camiguin Airport handles domestic flights only. International travelers typically connect through Manila, Cebu, or Davao before flying to Camiguin.\n\nQ: Is the airport open at night?\nA: The airport operates during daylight hours only, as it does not have runway lighting for nighttime operations.\n\n",
+  "transport_tips": "Multicabs, jeepneys, and tricycles are available outside the terminal for short trips into Mambajao town center. Renting a motorcycle or scooter is a popular option for exploring the island independently. For longer distances across the island, hiring a multicab or arranging a car with a local driver is recommended.",
+  "local_tip": "Pack a light jacket or hoodie as the terminal can get breezy and cool, especially during early morning or evening flights, and the island's elevated interior areas are noticeably cooler than the coast.",
+  "generatedAt": "2026-06-29T10:45:04.148Z",
+  "model": "MiniMax-M3"
+}

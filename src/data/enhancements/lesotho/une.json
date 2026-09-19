@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UNE",
+    "icao": "FXQN",
+    "name": "Qacha's Nek Airport",
+    "country": "Lesotho",
+    "city": "Qacha's Nek",
+    "lat": -30.1117,
+    "lon": 28.6719,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Qacha's Nek Airport is a small regional airstrip serving the eastern Lesotho border town of Qacha's Nek, situated near the Ongeluksnek Pass in the foothills of the Drakensberg Mountains. The airport primarily supports charter flights, medical evacuations, and occasional government or NGO traffic rather than scheduled commercial service. Its remote highland location makes it a useful gateway for travelers heading to Sehlabathebe National Park or crossing into South Africa's Eastern Cape.",
+  "faqs": "Q: Does Qacha's Nek Airport have scheduled commercial flights?\nA: No, the airport does not offer scheduled commercial service. It primarily handles charter flights and occasional government, medical, or NGO operations.\n\nQ: Where is the airport located relative to the town?\nA: The airstrip sits just outside Qacha's Nek town, close to the South African border crossing at Ongeluksnek.\n\nQ: What facilities are available at the airport?\nA: Facilities are minimal, typical of a small rural Lesotho airstrip. There is no terminal building or commercial passenger services.\n\nQ: What is the nearest alternative commercial airport?\nA: Moshoeshoe I International Airport (MSU) in Maseru, Lesotho's capital, is the closest airport with scheduled international service.",
+  "transport_tips": "Reaching the airport typically requires a 4x4 vehicle, as roads in the surrounding highlands can be rough and weather-dependent. The airstrip is only a short drive from the Qacha's Nek border post, making it convenient for travelers connecting to South Africa. Arrange ground transport in advance, as taxi availability in this remote area is extremely limited.",
+  "local_tip": "If visiting Sehlabathebe National Park, confirm with park management in advance whether the airstrip can be used for fly-in access—it's the closest air link to this UNESCO World Heritage candidate site and saves hours of mountain road travel.",
+  "generatedAt": "2026-06-28T05:57:15.989Z",
+  "model": "MiniMax-M3"
+}

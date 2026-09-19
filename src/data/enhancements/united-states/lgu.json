@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LGU",
+    "icao": "KLGU",
+    "name": "Logan-Cache Airport",
+    "country": "United States",
+    "city": "Logan",
+    "lat": 41.7912,
+    "lon": -111.852,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Logan-Cache Airport (LGU) is a public-use general aviation airport located two miles northwest of Logan, Utah, in the scenic Cache Valley. Established in the 1930s, it serves as a reliever airport for the region and hosts Utah State University's flight training program. The airport features two runways and offers stunning views of the Bear River Range.",
+  "faqs": "Q: Does Logan-Cache Airport have commercial airline service?\nA: No, LGU is a general aviation airport with no scheduled passenger flights. It primarily serves private pilots, flight training, and corporate aircraft.\n\nQ: What facilities are available at the airport?\nA: The airport offers a terminal building, self-serve and full-service fuel (100LL and Jet A), hangars, tie-downs, and flight instruction. A restaurant is also on-site.\n\nQ: How far is the airport from downtown Logan?\nA: It is approximately 2 miles northwest of downtown Logan, about a 5-minute drive via US-89/91.\n\nQ: Is there a control tower at LGU?\nA: No, Logan-Cache Airport is a non-towered airport. Pilots use the Common Traffic Advisory Frequency (CTAF) for communications.",
+  "transport_tips": "The airport is easily reached by car via US-89/91, just 2 miles from downtown Logan. There is no public bus service to the terminal, so taxis, rideshares, or rental cars (arranged in advance) are recommended. Parking is available on-site.",
+  "local_tip": "Frequent visitors know to check for glider and parachute activity, especially on weekends, and to be mindful of high-density altitude due to the airport's 4,457-foot elevation. The on-site restaurant is a local favorite for breakfast.",
+  "generatedAt": "2026-09-19T23:06:03.201Z",
+  "model": "deepseek-v4.1-flash"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ONP",
+    "icao": "KONP",
+    "name": "Newport Municipal Airport",
+    "country": "United States",
+    "city": "Newport",
+    "lat": 44.5804,
+    "lon": -124.058,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Newport Municipal Airport (ONP/KONP) is a city-owned public airport on Oregon's central coast, located about three miles south of downtown Newport in Lincoln County. It primarily serves general aviation, charter, and emergency services, and is home to a U.S. Coast Guard air facility. Its coastal setting offers scenic approaches but also changeable marine weather.",
+  "faqs": "Q: What are the airport codes for Newport Municipal Airport?\nA: The IATA code is ONP, the ICAO code is KONP, and the FAA identifier is ONP.\n\nQ: Does Newport Municipal Airport have commercial airline service?\nA: No. It is a general aviation airport with no scheduled passenger airline service; it supports private, charter, and emergency aircraft.\n\nQ: What services are available at the airport?\nA: Expect basic general aviation services such as fuel, tiedowns, and hangars; check current hours, fuel availability, and fees with the airport or FBO before arrival.\n\nQ: How far is the airport from downtown Newport?\nA: It is about three miles south of downtown Newport, roughly a 10-minute drive via US-101 and local roads.\n\n",
+  "transport_tips": "A rental car is the most flexible way to reach Newport and the surrounding coast; rideshare and taxi service can be limited, so arrange a ride in advance. The airport is just off US-101, the main north-south coastal highway, with parking available for based and transient aircraft. Allow extra time in summer and holiday weekends when coastal traffic on US-101 can be heavy.",
+  "local_tip": "Coastal fog and low ceilings can move in quickly even when inland forecasts look clear, so check the latest KONP weather and have an inland alternate such as Corvallis or Eugene. Also keep an eye out for Coast Guard helicopter operations, which are a common and impressive sight at this field.",
+  "generatedAt": "2026-09-19T23:07:50.238Z",
+  "model": "deepseek-v4.1-flash"
+}

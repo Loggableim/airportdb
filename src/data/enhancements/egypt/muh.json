@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MUH",
+    "icao": "HEMM",
+    "name": "Mersa Matruh International Airport",
+    "country": "Egypt",
+    "city": "Marsa Matruh",
+    "lat": 31.3243,
+    "lon": 27.2223,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Mersa Matruh International Airport (MUH/HEMM) serves the Mediterranean coastal city of Marsa Matruh, a popular summer resort destination on Egypt's northwestern coast. The airport primarily handles seasonal charter and domestic flights catering to beach tourists visiting the turquoise waters and white-sand bays of the region. It functions as a gateway to some of Egypt's most scenic Mediterranean shoreline, located roughly 240 km west of Alexandria.",
+  "faqs": "Q: Which airlines operate from Mersa Matruh International Airport?\nA: The airport is mainly served by EgyptAir and seasonal charter carriers, with routes connecting to Cairo and select European destinations during the summer tourist season.\n\nQ: How far is the airport from Marsa Matruh city center?\nA: The airport is located approximately 7 km south of the city center, a short drive of around 10-15 minutes.\n\nQ: Does the airport offer international flights?\nA: Yes, it handles international flights, though operations are heavily seasonal with peak activity during the European summer holiday period.\n\nQ: Are there customs and immigration facilities available?\nA: Yes, the airport is equipped with customs, immigration, and standard international arrival/departure processing for international passengers.\n\n",
+  "transport_tips": "Taxis are readily available outside the terminal and provide the most convenient way to reach hotels along the coast. Pre-arranging a hotel transfer is recommended during peak summer months when demand surges. Rental car services are available but limited, so booking in advance is advisable.",
+  "local_tip": "If visiting during summer, plan your arrival for early morning or late evening—Marsa Matruh's Mediterranean climate can make midday travel uncomfortably hot, and the coastal drive from the airport offers stunning sea views best appreciated at golden hour.",
+  "generatedAt": "2026-06-29T00:27:25.908Z",
+  "model": "MiniMax-M3"
+}

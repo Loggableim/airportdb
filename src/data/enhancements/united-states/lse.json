@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LSE",
+    "icao": "KLSE",
+    "name": "La Crosse Regional Airport",
+    "country": "United States",
+    "city": "La Crosse",
+    "lat": 43.879,
+    "lon": -91.2567,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "La Crosse Regional Airport (LSE) is a medium-sized public airport located in La Crosse, Wisconsin, situated along the Mississippi River in the Driftless Area region. It serves the La Crosse metropolitan area and western Wisconsin, offering commercial passenger service as well as general aviation facilities. The airport features a single main terminal and is known for providing convenient regional access to the scenic coulee region.",
+  "faqs": "Q: What airlines operate from La Crosse Regional Airport?\nA: La Crosse Regional Airport is primarily served by regional carriers offering flights to hub airports, with American Eagle historically providing service to Chicago O'Hare.\n\nQ: How far is the airport from downtown La Crosse?\nA: The airport is located just a few miles north of downtown La Crosse, making it a quick and convenient drive from the city center.\n\nQ: Does the airport offer car rental services?\nA: Yes, car rental agencies operate at La Crosse Regional Airport, providing convenient options for travelers arriving by air.\n\nQ: Are there dining and shopping options at LSE?\nA: The terminal offers basic amenities including vending options and a small selection of concessions for travelers.\n\n",
+  "transport_tips": "Driving to La Crosse Regional Airport is straightforward via US-53 and local roads, with ample free parking available on-site. Taxi services and rideshare options like Uber and Lyft serve the airport, though availability may be limited compared to larger cities. Rental cars are recommended for travelers planning to explore the surrounding Driftless Area region.",
+  "local_tip": "If you have extra time before your flight, take a short drive to Grandad Bluff for stunning panoramic views of the Mississippi River Valley—it's a beloved local spot that most visitors miss.",
+  "generatedAt": "2026-06-29T03:03:27.543Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ATY",
+    "icao": "KATY",
+    "name": "Watertown Regional Airport",
+    "country": "United States",
+    "city": "Watertown",
+    "lat": 44.914,
+    "lon": -97.1547,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Watertown Regional Airport (ATY) is a medium-sized public airport serving Watertown, a city in northeastern South Dakota. It functions as a regional hub for general aviation and limited commercial service, supporting the surrounding agricultural communities and lake tourism region. The airport features a single main runway and provides essential air connectivity for an area otherwise reliant on longer road trips to larger hubs like Sioux Falls.",
+  "faqs": "Q: Where is Watertown Regional Airport located?\nA: It is located in Watertown, South Dakota, in the northeastern part of the state, roughly 100 miles north of Sioux Falls.\n\nQ: Does Watertown Regional Airport offer commercial airline service?\nA: The airport has historically offered scheduled commercial service, though flights may be limited or seasonal. It primarily serves general aviation traffic.\n\nQ: What facilities are available at the airport?\nA: The airport provides standard amenities including a terminal building, fueling services, hangar space, and tie-down areas for transient aircraft.\n\nQ: Can private pilots use Watertown Regional?\nA: Yes, the airport welcomes general aviation traffic and offers FBO services, fuel, and hangar rentals for private and corporate aircraft.",
+  "transport_tips": "The airport is located a short drive from downtown Watertown, typically less than 10 minutes by car. Rental cars are the most practical option for onward travel, as public transportation options in the area are limited. Taxi services and ride-hailing availability may be restricted, so arranging ground transport in advance is recommended.",
+  "local_tip": "If you're flying in during summer, consider extending your visit to explore nearby Lake Kampeska or Pelican Lake—both are popular destinations for fishing, boating, and birdwatching just minutes from the airport.",
+  "generatedAt": "2026-06-29T08:09:28.294Z",
+  "model": "MiniMax-M3"
+}

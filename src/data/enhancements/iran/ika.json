@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IKA",
+    "icao": "OIIE",
+    "name": "Imam Khomeini International Airport",
+    "country": "Iran",
+    "city": "Tehran",
+    "lat": 35.4161,
+    "lon": 51.1522,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "Imam Khomeini International Airport (IKA) is Iran's primary international gateway, located approximately 30 kilometers southwest of Tehran in the city of Robat Karim. Opened in 2004 and named after Ayatollah Ruhollah Khomeini, founder of the Islamic Republic of Iran, it replaced Mehrabad Airport for most international flights and serves as the main hub for Iran Air and Iran Aseman Airlines. The airport features modern terminal facilities and has undergone phased expansion plans to handle growing passenger demand despite international sanctions affecting Iran's aviation sector.",
+  "faqs": "Q: How far is Imam Khomeini International Airport from central Tehran?\nA: The airport is located about 30-35 km southwest of Tehran, with typical travel times of 45-90 minutes depending on traffic conditions via the Tehran-Qom Freeway.\n\nQ: Which airlines operate from IKA?\nA: IKA serves as the main hub for Iran Air and Iran Aseman Airlines, with international carriers including Turkish Airlines, Emirates, Qatar Airways, Lufthansa, and Aeroflot operating scheduled flights.\n\nQ: Does the airport have multiple terminals?\nA: Yes, Terminal 1 (Salam Terminal) handles most commercial international flights, while Terminal 2 (Iman Terminal) is used for Hajj and charter operations, with additional terminals planned for future expansion.\n\nQ: Are there currency exchange and banking services at the airport?\nA: Yes, multiple official exchange offices and bank branches are available in the terminal, though rates may differ from city centers, so comparing rates is advisable.",
+  "transport_tips": "The most reliable way to reach Tehran from IKA is by official airport taxi",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T16:50:08.153Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ESL",
+    "icao": "URWI",
+    "name": "Elista Airport",
+    "country": "Russia",
+    "city": "Elista",
+    "lat": 46.3739,
+    "lon": 44.3309,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Elista Airport serves the capital of the Republic of Kalmykia in southern Russia, a region uniquely known as the only Buddhist republic in Europe. The airport provides essential connectivity to this remote steppe region, supporting both business travel and tourism to the area's distinctive Buddhist temples and cultural landmarks. It serves as the main air gateway for visitors attending chess events, as Elista hosted the 1998 Chess Olympiad and remains a notable center for the game.",
+  "faqs": "Q: Where is Elista Airport located?\nA: Elista Airport is located approximately 7 km northwest of Elista city center in the Republic of Kalmykia, southern Russia, in a semi-arid steppe region.\n\nQ: What facilities are available at Elista Airport?\nA: The airport offers standard terminal amenities including a waiting hall, basic refreshment options, and ground transport services, though facilities are modest given its medium-sized regional status.\n\nQ: Are there international flights from Elista Airport?\nA: Elista primarily handles domestic flights to major Russian cities such as Moscow; international service is limited or seasonal.\n\nQ: What is the best time to visit Elista via this airport?\nA: Spring and autumn offer the most comfortable temperatures; summers can be very hot while winters are cold with occasional snow in this steppe climate.",
+  "transport_tips": "Taxis and marshrutka (fixed-route minibuses) are the main options connecting the airport to Elista city center, with journeys typically taking 15-20 minutes depending on traffic. Pre-arranging a taxi through your hotel is recommended, as on-site taxi availability can be limited outside peak flight times. Car rental services are available in the city rather than directly at the airport.",
+  "local_tip": "Visit the Golden Abode of the Buddha Shakyamuni, one of the largest Buddhist temples in Europe, located just a short drive from the airport—a unique sight you won't find at any other Russian airport destination.",
+  "generatedAt": "2026-06-29T15:02:26.037Z",
+  "model": "MiniMax-M3"
+}

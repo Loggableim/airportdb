@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CPH",
+    "icao": "EKCH",
+    "name": "Copenhagen Kastrup Airport",
+    "country": "Denmark",
+    "city": "Copenhagen",
+    "lat": 55.6179,
+    "lon": 12.656,
+    "type": "large_airport",
+    "size": 1020075
+  },
+  "summary": "Copenhagen Kastrup Airport (CPH) is Denmark's largest and busiest airport, located on the island of Amager just 8 km southeast of Copenhagen city center. Opened in 1925, it serves as the primary hub for Scandinavian Airlines (SAS) and is one of the oldest operating airports in Europe. The airport features three terminals and is a major gateway for both Denmark and the wider Nordic region, handling over 25 million passengers annually.",
+  "faqs": "Q: How far is Copenhagen Airport from the city center?\nA: The airport is approximately 8 km (5 miles) southeast of central Copenhagen, with the metro taking only about 15 minutes to reach the city center.\n\nQ: Which terminal should I use at CPH?\nA: Terminal 3 handles most international flights and is where the main check-in and security areas are located, while Terminal 1 serves some regional flights and Terminal 2 is primarily used for domestic and short-haul routes.\n\nQ: Is there a metro connection at Copenhagen Airport?\nA: Yes, the M2 metro line connects the airport directly to Nørreport station in central Copenhagen, running frequently throughout the day and night.\n\nQ: Can I travel from CPH directly to Sweden?\nA: Yes, trains and buses connect the airport to Malmö across the Øresund Bridge, and the metro links to Copenhagen Central Station for onward rail connections.",
+  "transport_tips": "The metro M2 line is the fastest and most cost-effective way to reach central Copenhagen, departing every 4-6 minutes and taking roughly 15 minutes. Taxis are available outside Terminal 3 with a fixed airport-to-city fare zone, though they are more expensive than public transit. For travelers heading to Sweden, the Öresundståg train connects CPH to Malmö in about 25 minutes without needing to enter Copenhagen.",
+  "local_tip": "If you have a long layover, take the metro two stops to Amager Strandpark, a beautiful artificial island beach just minutes from the airport—perfect for a quick refreshing walk or swim during summer months.",
+  "generatedAt": "2026-06-28T15:01:30.521Z",
+  "model": "MiniMax-M3"
+}

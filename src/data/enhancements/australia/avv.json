@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AVV",
+    "icao": "YMAV",
+    "name": "Melbourne Avalon International Airport",
+    "country": "Australia",
+    "city": "Geelong/Melbourne",
+    "lat": -38.0403,
+    "lon": 144.4672,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Melbourne Avalon International Airport (AVV/YMAV) is Victoria's second major airport, situated between Melbourne and Geelong on the Princes Freeway. It serves primarily as a low-cost carrier hub and is the main base for Jetstar Airways. Originally built during World War II as an RAAF training base, the airport was converted for civilian use in the 1990s and now handles domestic flights and limited international services.",
+  "faqs": "Q: How far is Avalon Airport from Melbourne city centre?\nA: Avalon is approximately 50 kilometres southwest of Melbourne's CBD, roughly a 50-60 minute drive depending on traffic.\n\nQ: Which airlines operate from Avalon Airport?\nA: Jetstar is the dominant carrier at Avalon, operating domestic routes to Sydney, Brisbane, the Gold Coast, and Adelaide, with occasional international services.\n\nQ: Does Avalon Airport have international flights?\nA: International services have been limited and intermittent; most international travellers use Melbourne Tullamarine (MEL) instead, though Avalon has hosted seasonal charter flights.\n\nQ: Is there public transport to Avalon Airport?\nA: Yes, the V/Line Skybus Express operates between Avalon and Melbourne's Southern Cross Station, and there are also coach connections to Geelong.\n\n",
+  "transport_tips": "Driving is the most flexible option, with the airport located just off the Princes Freeway offering straightforward access from Melbourne or Geelong. The Skybus service runs regularly between Avalon and Southern Cross Station in Melbourne and is the most affordable public transport choice. Free parking options are available at the airport for those picking up or dropping off passengers in the short-term car park for limited durations.",
+  "local_tip": "If you have time before your flight, the airport's viewing area near the terminal offers excellent plane spotting opportunities, as Avalon handles a mix of commercial jets and occasional general aviation traffic against a scenic backdrop.",
+  "generatedAt": "2026-06-28T20:27:06.669Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GEG",
+    "icao": "KGEG",
+    "name": "Spokane International Airport",
+    "country": "United States",
+    "city": "Spokane",
+    "lat": 47.6199,
+    "lon": -117.534,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Spokane International Airport (GEG) is the primary air gateway for the Inland Pacific Northwest, serving eastern Washington, northern Idaho, and parts of Montana and British Columbia. Originally established as Geiger Field during World War II, it retains some military presence with Fairchild Air Force Base nearby. The airport features two concourses connected by a walkway and handles millions of passengers annually, making it one of the largest airports in the region by passenger volume.",
+  "faqs": "Q: How far is Spokane International Airport from downtown Spokane?\nA: The airport is located approximately 7 miles (11 km) west of downtown Spokane, typically a 15-20 minute drive depending on traffic.\n\nQ: How many terminals does GEG have?\nA: The airport has one main terminal building split into two concourses (Concourse A and Concourse B), connected by a walkway post-security.\n\nQ: Does the airport offer free Wi-Fi?\nA: Yes, free Wi-Fi is available throughout the terminal for all passengers.\n\nQ: Are there nonstop flights to major hubs from Spokane?\nA: Yes, GEG offers nonstop service to numerous major hubs including Seattle, Denver, Salt Lake City, Minneapolis, and Phoenix, among others.",
+  "transport_tips": "The most convenient way to reach downtown Spokane is by rideshare services like Uber or Lyft, or by taxi, with a typical fare of around $25-35. Rental cars are available on-site from major agencies if you plan to explore the broader region. The Spokane Transit Authority also operates bus Route 60, which provides affordable public transportation between the airport and downtown.",
+  "local_tip": "If you have a long layover or early arrival, consider visiting the airport's observation area or grabbing a coffee at one of the local Spokane-based vendors in the terminal—it's a great way to sample regional flavor without leaving the airport.",
+  "generatedAt": "2026-06-28T18:13:55.562Z",
+  "model": "MiniMax-M3"
+}

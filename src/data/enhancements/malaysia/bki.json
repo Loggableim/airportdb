@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BKI",
+    "icao": "WBKK",
+    "name": "Kota Kinabalu International Airport",
+    "country": "Malaysia",
+    "city": "Kota Kinabalu",
+    "lat": 5.9327,
+    "lon": 116.0493,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kota Kinabalu International Airport (BKI) is the main gateway to Sabah on the island of Borneo and the second-busiest airport in Malaysia. It serves as the primary access point for visitors heading to Mount Kinabalu, the Kinabatangan River, and the region's renowned diving destinations. The airport operates two terminals, with Terminal 1 handling Malaysia Airlines and most international flights, while Terminal 2 is dedicated to AirAsia's low-cost operations.",
+  "faqs": "Q: How far is the airport from Kota Kinabalu city center?\nA: The airport is approximately 7-8 km southwest of the city center, a 15-20 minute drive depending on traffic.\n\nQ: Are there direct international flights from BKI?\nA: Yes, the airport offers direct connections to several regional destinations including Singapore, Hong Kong, Manila, Taipei, and cities in China and South Korea.\n\nQ: Which terminal do AirAsia flights use?\nA: AirAsia and other low-cost carriers operate from Terminal 2, while Terminal 1 handles Malaysia Airlines and most international carriers.\n\nQ: Is the airport open 24 hours?\nA: The airport building operates extended hours aligned with flight schedules, but facilities and check-in counters are only open during active flight periods.",
+  "transport_tips": "Taxis and Grab (ride-hailing) are readily available outside both terminals, with fares to central Kota Kinabalu typically ranging from RM20-30. Airport buses operated by Bas Kota Kinabalu provide affordable connections to the city center for around RM5. Most hotels in the area also offer airport transfer services, which can be arranged in advance for added convenience.",
+  "local_tip": "If you have a long layover or early arrival, the Sutera Harbour Resort and the Imago shopping mall are both within a short taxi ride and offer restaurants, shops, and coastal views of the South China Sea.",
+  "generatedAt": "2026-06-28T19:21:58.902Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TSU",
+    "icao": "NGTS",
+    "name": "Tabiteuea South Airport",
+    "country": "Kiribati",
+    "city": "Tabiteuea South",
+    "lat": -1.4744,
+    "lon": 175.064,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Tabiteuea South Airport (TSU/NGTS) is a small regional airstrip serving the southern portion of Tabiteuea atoll in the Gilbert Islands of Kiribati. It functions as an important domestic link connecting this remote Pacific atoll community to the rest of the country, particularly Tarawa. The airport features a single runway and operates with minimal infrastructure typical of outer island airfields in Kiribati.",
+  "faqs": "Q: What airlines serve Tabiteuea South Airport?\nA: Air Kiribati operates regular domestic flights to and from Tabiteuea South, typically connecting through Bonriki International Airport in Tarawa.\n\nQ: How long is the runway at TSU?\nA: The airport has a single short runway suitable primarily for small turboprop aircraft used on inter-island routes.\n\nQ: Are there facilities at the airport for travelers?\nA: Facilities are very basic, as with most outer island airports in Kiribati. There is typically a small terminal or shelter area but limited amenities.\n\nQ: Can the airport accommodate international flights?\nA: No, Tabiteuea South is a domestic-only facility. International travel is handled through Bonriki International Airport in Tarawa.\n\n",
+  "transport_tips": "Access to the airport from nearby villages is typically by foot or local transport, as the atoll has limited road infrastructure. Flight schedules to outer islands can be irregular and are often affected by weather, so travelers should confirm bookings in advance and allow flexibility. Cargo capacity on inter-island flights is limited, so plan accordingly if traveling with heavy luggage.",
+  "local_tip": "Bring your own water and snacks, as there are no concessions at the airport and the wait between flights can be lengthy due to the often unpredictable outer-island flight schedule.",
+  "generatedAt": "2026-06-27T14:52:32.299Z",
+  "model": "MiniMax-M3"
+}

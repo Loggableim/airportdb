@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BCN",
+    "icao": "LEBL",
+    "name": "Josep Tarradellas Barcelona-El Prat Airport",
+    "country": "Spain",
+    "city": "Barcelona",
+    "lat": 41.2971,
+    "lon": 2.0785,
+    "type": "large_airport",
+    "size": 1020675
+  },
+  "summary": "Josep Tarradellas Barcelona-El Prat Airport (BCN) is Catalonia's main international gateway, located approximately 12 km southwest of Barcelona city center along the Mediterranean coast. Named in 2018 after the former President of the Generalitat de Catalonia, it is Spain's second-busiest airport and a key European hub, particularly for low-cost carrier Vueling. The airport operates two main terminals—T1, opened in 2009, and the older T2—serving over 50 million passengers annually with flights to destinations across Europe, the Americas, Africa, and Asia.",
+  "faqs": "Q: How far is Barcelona Airport from the city center?\nA: The airport is approximately 12 km (7.5 miles) southwest of central Barcelona, with typical travel times of 20-35 minutes depending on traffic and transport mode.\n\nQ: Does Barcelona Airport have a metro connection?\nA: Yes, the L9 Sud (South) metro line connects both Terminal 1 and Terminal 2 to the city center, providing a fast and affordable option that takes about 30-35 minutes to reach central Barcelona.\n\nQ: Which terminal does Vueling use at Barcelona Airport?\nA: Vueling, the airport's main hub airline, primarily operates from Terminal 1, along with most other major international carriers.\n\nQ: Is there a train station at Barcelona Airport?\nA: Yes, Terminal 2 has a Rodalies (commuter rail) station with trains running to Barcelona Sants and other stations in the rail network, though service is more limited than the metro.",
+  "transport_tips": "The Aerobus (A1 and A2) offers direct, express service to Plaça Catalunya and Plaça Espanya from each terminal, with departures every 5-10 minutes and a journey time of around 35 minutes. The L9 Sud metro line is the most cost-effective option and runs until midnight, making it ideal for travelers with light luggage. Taxis are readily available outside both terminals, with a flat-rate supplement for airport trips; expect fares of €35-45 to the city center.",
+  "local_tip": "If you have a long layover or early morning flight, the airport area has a few decent hotels within walking distance or a short shuttle ride—Hotel Barcelona Airport and the new Hyatt Place are solid options—but consider that staying in El Prat de Llobregat town itself offers cheaper rates and a more authentic local experience with tapas bars the tourists never see.",
+  "generatedAt": "2026-06-28T15:01:04.467Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ELS",
+    "icao": "FAEL",
+    "name": "King Phalo Airport",
+    "country": "South Africa",
+    "city": "East London",
+    "lat": -33.0356,
+    "lon": 27.8259,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "King Phalo Airport serves East London, a major port city on the Southeastern coast of South Africa in the Eastern Cape province. The airport was renamed in honor of King Phalo, a 19th-century Rharhabe chief of the Xhosa people, reflecting the region's rich cultural heritage. It functions primarily as a domestic gateway, connecting travelers to Johannesburg, Cape Town, and other South African hubs while serving the nearby Wild Coast and Sunshine Coast tourism regions.",
+  "faqs": "Q: Which airlines operate from King Phalo Airport?\nA: The airport is mainly served by domestic carriers including Airlink and CemAir, with regular flights to Johannesburg, Cape Town, and Durban.\n\nQ: How far is the airport from East London city center?\nA: King Phalo Airport is approximately 10 kilometers from the central business district, typically a 15-20 minute drive depending on traffic.\n\nQ: Does the airport have international flights?\nA: The airport handles primarily domestic flights, with limited regional services. International travelers typically connect through Johannesburg or Cape Town.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers both short-term and long-term parking areas adjacent to the terminal building.",
+  "transport_tips": "Rental cars are available at the terminal and recommended for exploring the surrounding Eastern Cape coastline and game reserves. Metered taxis and ride-hailing services can be arranged at the arrivals area, though pre-booking is advisable during peak times. The N2 highway provides direct road access connecting the airport to East London's suburbs and northward toward Durban.",
+  "local_tip": "East London is the only river port in South Africa, so take a brief walk along the quayside at the Buffalo River harbor after landing to experience this unique maritime feature and grab fresh seafood at nearby restaurants.",
+  "generatedAt": "2026-06-28T21:19:05.410Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YTZ",
+    "icao": "CYTZ",
+    "name": "Billy Bishop Toronto City Airport",
+    "country": "Canada",
+    "city": "Toronto",
+    "lat": 43.6279,
+    "lon": -79.3955,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Billy Bishop Toronto City Airport (YTZ) is a unique urban airport situated on the Toronto Islands in Lake Ontario, just minutes from downtown Toronto. Named after World War I flying ace William Avery 'Billy' Bishop, it offers convenient city-center access uncommon for major Canadian cities, serving as the primary hub for Porter Airlines and a secondary base for Air Canada. The airport is reached via a short ferry ride or pedestrian tunnel, making it one of the most distinctive and traveler-friendly airports in North America.",
+  "faqs": "Q: How do you get to Billy Bishop Airport from downtown Toronto?\nA: Travelers can take the free ferry from the mainland terminal at the foot of Bathurst Street, which runs roughly every 15 minutes and takes about 90 seconds to cross the harbor. A pedestrian tunnel beneath the channel is also available for those who prefer to walk.\n\nQ: Which airlines fly from Billy Bishop Airport?\nA: Porter Airlines is the dominant carrier, offering flights across Canada and to select U.S. destinations. Air Canada also operates regional flights, and a few other carriers provide seasonal or specialty service.\n\nQ: Why can't large jets land at YTZ?\nA: The airport has a relatively short runway and is constrained by its island location, which limits operations to turboprop aircraft and small regional jets such as the Bombardier Q400 and Embraer E2 series.\n\nQ: Is Billy Bishop Airport open 24 hours?\nA: No, the airport has restricted operating hours, generally closing in late evening, which reflects its urban setting and noise abatement considerations for surrounding neighborhoods.",
+  "transport_tips": "The free ferry from the mainland terminal at 60 Bathurst Street is the most common way to reach YTZ and runs frequently throughout the day. If you have heavy luggage, the pedestrian tunnel offers a weatherproof alternative with moving walkways, though it requires a short walk from the ferry terminal on the island side. Taxis and rideshares are available on the island, but note that the ferry crossing adds a few extra minutes to your overall travel time.",
+  "local_tip": "Arrive earlier than you think you need to—especially for return flights—because security and the ferry crossing can each add 15-20 minutes, and the combined process occasionally surprises first-time visitors. Frequent flyers often recommend using the tunnel in winter to avoid waiting outdoors for the ferry in harsh weather.",
+  "generatedAt": "2026-06-29T01:52:55.913Z",
+  "model": "MiniMax-M3"
+}

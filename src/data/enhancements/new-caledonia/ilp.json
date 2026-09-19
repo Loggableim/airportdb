@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ILP",
+    "icao": "NWWE",
+    "name": "Île des Pins Airport",
+    "country": "New Caledonia",
+    "city": "Île des Pins",
+    "lat": -22.5889,
+    "lon": 167.456,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Île des Pins Airport (ILP) is a small regional airport serving the Isle of Pines (Kunié), a tropical island located southeast of Grande Terre in New Caledonia's South Province. The airport primarily handles short domestic flights connecting the island to Nouméa's La Tontouta International Airport, serving visitors drawn to the island's famous Araucaria pines, white sand beaches, and crystal-clear lagoon. Despite its modest size, the airport is the main gateway to one of New Caledonia's most beloved tourist destinations.",
+  "faqs": "Q: How long is the flight from Nouméa to Île des Pins?\nA: The flight from Nouméa-La Tontouta to Île des Pines takes approximately 40 minutes, operated by Air Calédonie on regular domestic schedules.\n\nQ: What facilities are available at Île des Pins Airport?\nA: The airport has a small terminal building with basic amenities, as it primarily serves a remote island community with limited commercial traffic.\n\nQ: Is Île des Pins Airport suitable for international flights?\nA: No, the airport handles only domestic flights within New Caledonia; international travelers must arrive via La Tontouta International Airport on Grande Terre.\n\nQ: Are there car rental services at the airport?\nA: Rental cars, scooters, and hotel shuttles are typically available, though booking in advance is recommended for the limited island supply.",
+  "transport_tips": "The airport is located near the village of Vao, the island's main settlement, where most accommodations are situated within a short drive. Shuttle services, taxis, and pre-arranged hotel transfers are the most common options",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T12:32:03.253Z",
+  "model": "MiniMax-M3"
+}

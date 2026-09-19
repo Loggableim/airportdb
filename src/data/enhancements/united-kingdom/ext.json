@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EXT",
+    "icao": "EGTE",
+    "name": "Exeter International Airport",
+    "country": "United Kingdom",
+    "city": "Exeter, Devon",
+    "lat": 50.7343,
+    "lon": -3.414,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Exeter International Airport serves the city of Exeter and the wider Devon region in southwest England. Originally developed as RAF Exeter during World War II, it transitioned to civilian use in the 1960s and has become the principal gateway for travelers visiting Devon, Cornwall, and the West Country. The airport features a single compact terminal known for its relaxed atmosphere and quick processing times.",
+  "faqs": "Q: How far is Exeter Airport from the city centre?\nA: The airport is approximately 5 miles (8 km) east of Exeter city centre, typically a 20-25 minute drive depending on traffic.\n\nQ: Which airlines fly from Exeter Airport?\nA: The airport is served primarily by regional and charter carriers, with routes to domestic UK destinations like Manchester and Edinburgh, as well as seasonal flights to European holiday destinations.\n\nQ: Does Exeter Airport have a terminal?\nA: Yes, the airport operates a single terminal building, which contributes to its reputation for quick and easy navigation.\n\nQ: Is there parking available at the airport?\nA: Yes, Exeter Airport offers both short-stay and long-stay parking options on-site, located within walking distance of the terminal.",
+  "transport_tips": "The Stagecoach bus service route 56 connects the airport to Exeter city centre and the main railway station, with journeys taking around 30 minutes. Taxis are readily available outside the terminal and provide a faster option for those with luggage or traveling during off-peak hours. The airport also has good road access via the A30 and M5 motorway for those driving from Cornwall, Bristol, or further afield.",
+  "local_tip": "If you have time before your flight, the airport cafe offers surprisingly good Devon cream teas and locally sourced pasties, giving you a final taste of the region without needing to venture into the city.",
+  "generatedAt": "2026-06-29T03:01:25.974Z",
+  "model": "MiniMax-M3"
+}

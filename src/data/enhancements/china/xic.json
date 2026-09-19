@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XIC",
+    "icao": "ZUXC",
+    "name": "Xichang Qingshan Airport",
+    "country": "China",
+    "city": "Liangshan (Xichang)",
+    "lat": 27.9891,
+    "lon": 102.184,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Xichang Qingshan Airport serves the city of Xichang in the Liangshan Yi Autonomous Prefecture of southwestern China's Sichuan Province. The airport's name, \"Qingshan,\" translates to \"Green Mountain,\" reflecting the region's dramatic mountainous terrain. It functions as a vital air link for this culturally significant Yi ethnic minority area and supports access to the nearby Xichang Satellite Launch Center.",
+  "faqs": "Q: How far is Xichang Qingshan Airport from the city center?\nA: The airport is located approximately 13 kilometers northwest of Xichang's downtown area, with typical transfers taking around 30 minutes by road.\n\nQ: Does the airport handle international flights?\nA: The airport primarily operates domestic routes connecting Xichang to major Chinese hubs such as Chengdu, Beijing, and Shanghai, with limited international service.\n\nQ: Are there lounges available at the terminal?\nA: As a medium-sized regional airport, it provides basic passenger amenities including waiting lounges, dining options, and retail shops.\n\nQ: Is the airport affected by weather conditions?\nA: Located at high elevation in mountainous terrain, the airport can occasionally experience flight disruptions due to fog, especially during cooler months.",
+  "transport_tips": "Airport shuttle buses operate between the terminal and Xichang city center, offering an affordable transfer option. Taxis are readily available outside the arrivals hall and provide a faster, more convenient alternative, particularly for travelers heading to areas outside central Xichang. Renting a car in advance is advisable for those planning to explore the broader Liangshan region.",
+  "local_tip": "Pack a light jacket regardless of the season—Xichang sits at high altitude on a plateau, and evenings can be surprisingly cool even during summer, while the airport terminal itself tends to feel chilly before sunrise.",
+  "generatedAt": "2026-06-29T12:45:25.050Z",
+  "model": "MiniMax-M3"
+}

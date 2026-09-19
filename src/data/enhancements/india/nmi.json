@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NMI",
+    "icao": "VANM",
+    "name": "Navi Mumbai International Airport",
+    "country": "India",
+    "city": "Navi Mumbai",
+    "lat": 18.9846,
+    "lon": 73.0653,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Navi Mumbai International Airport (NMI) is a greenfield airport under development in Ulwe, Navi Mumbai, designed to serve as the second major aviation gateway for the Mumbai Metropolitan Region and relieve congestion at Chhatrapati Shivaji Maharaj International Airport. Developed by NMIAL, a joint venture between CIDCO and Adani Airports, the project is being built across multiple phases with capacity planned to scale up significantly over time. Strategically positioned near the upcoming Mumbai Trans-Harbour Link, it is set to become a key hub for both domestic and international traffic in western India.",
+  "faqs": "Q: Where is Navi Mumbai International Airport located?\nA: The airport is situated in Ulwe, near Panvel in Navi Mumbai, on the eastern side of the Mumbai harbour in Maharashtra, India.\n\nQ: Which airlines will operate from the airport?\nA: The airport is being developed to accommodate both domestic and international carriers, with NMIAL working to secure airline partnerships as operations ramp up.\n\nQ: How does this airport differ from Mumbai's existing airport?\nA: Navi Mumbai International Airport is being built as a completely new facility rather than an expansion of the existing Chhatrapati Shivaji Maharaj International Airport, allowing for modern design and future scalability.\n\nQ: When did commercial operations begin?\nA: The airport is in the final stages of development and commissioning, with phased commercial launches planned as infrastructure and regulatory approvals come into effect.",
+  "transport_tips": "The airport will be well connected via the Mumbai Trans-Harbour Link (MTHL), offering a direct route from South Mumbai once operational. Travelers can also access it via the Sion-Panvel Expressway and planned metro extensions, with taxi and app-based ride services expected to serve the terminals. Suburban rail connectivity via the Harbour Line to nearby stations will provide an additional public transport option.",
+  "local_tip": "Frequent travelers should keep an eye on phased terminal openings and check which carriers are active during early operations, as the airport will likely run limited flights initially before expanding to full capacity.",
+  "generatedAt": "2026-06-29T01:36:36.862Z",
+  "model": "MiniMax-M3"
+}

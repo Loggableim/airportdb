@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KMW",
+    "icao": "UUBA",
+    "name": "Kostroma Sokerkino Airport",
+    "country": "Russia",
+    "city": "Kostroma",
+    "lat": 57.7969,
+    "lon": 41.0194,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Kostroma Sokerkino Airport is a regional airport serving the historic city of Kostroma, one of the oldest cities in Russia and a key stop on the famous Golden Ring of historic towns. Located approximately 6 km northeast of the city center, it handles primarily domestic flights and general aviation traffic. The airport provides an important gateway for visitors exploring the Volga region's cultural and architectural heritage.",
+  "faqs": "Q: How far is Kostroma Airport from the city center?\nA: The airport is located about 6 kilometers northeast of Kostroma's city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Does Kostroma Sokerkino Airport offer international flights?\nA: The airport primarily handles domestic regional flights and general aviation. For international travel, passengers typically use Moscow's larger airports.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers basic passenger amenities including a terminal building, parking area, and standard check-in services.\n\nQ: Are there scheduled passenger flights to Moscow?\nA: Historically the airport has served routes connecting Kostroma with Moscow and other major Russian cities, though schedules may vary by season.",
+  "transport_tips": "Taxis and pre-booked transfer services are the most reliable way to reach the airport, as public transport options directly serving the terminal are limited. Many hotels in Kostroma can arrange airport transfers upon request. During winter months, allow extra travel time as road conditions near the airport can be challenging.",
+  "local_tip": "Pack a thermos with hot tea from your hotel before heading to the airport in winter—Kostroma winters are famously cold, and the terminal waiting area can take time to warm up before your flight.",
+  "generatedAt": "2026-06-29T22:34:10.879Z",
+  "model": "MiniMax-M3"
+}

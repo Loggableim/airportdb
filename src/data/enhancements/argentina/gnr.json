@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GNR",
+    "icao": "SAHR",
+    "name": "Dr. Arturo H. Illia Airport",
+    "country": "Argentina",
+    "city": "General Roca",
+    "lat": -39.0007,
+    "lon": -67.6205,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Dr. Arturo H. Illia Airport (GNR) is a small regional airport serving General Roca in the Río Negro province of northern Patagonia, Argentina. Named after former Argentine president Arturo Humberto Illia, who served from 1963 to 1966, the airport primarily supports general aviation and limited commercial flights to the productive Alto Valle region. It serves as an important gateway to one of Argentina's premier fruit-growing areas, particularly known for apple and pear production.",
+  "faqs": "Q: What is the airport code for Dr. Arturo H. Illia Airport?\nA: The IATA code is GNR and the ICAO code is SAHR.\n\nQ: Where is the airport located?\nA: It is located in General Roca, in the Río Negro province of northern Patagonia, Argentina, approximately 5 km from the city center.\n\nQ: Does the airport offer international flights?\nA: No, the airport primarily handles domestic and general aviation flights, with limited scheduled commercial service.\n\nQ: Who was Dr. Arturo H. Illia?\nA: He was the president of Argentina from 1963 to 1966, a physician and politician from the Radical Civic Union (UCR) party.\n\n",
+  "transport_tips": "The airport is just a short drive from downtown General Roca, typically reachable in about 10 minutes by taxi or remise (local private hire car). Rental cars are available in the city and can sometimes be arranged in advance for pickup at the airport. Public transportation options are limited, so pre-arranging ground transport is recommended for travelers.",
+  "local_tip": "If you're visiting during the harvest season (February to April), don't miss the chance to buy fresh apples, pears, and other fruits directly from local farms in the Alto Valle—the airport's small size means flights can be delayed by agricultural charters during peak harvest.",
+  "generatedAt": "2026-06-27T21:56:28.224Z",
+  "model": "MiniMax-M3"
+}

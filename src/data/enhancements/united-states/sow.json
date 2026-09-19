@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SOW",
+    "icao": "KSOW",
+    "name": "Show Low Regional Airport",
+    "country": "United States",
+    "city": "Show Low",
+    "lat": 34.2641,
+    "lon": -110.0071,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Show Low Regional Airport serves the White Mountains region of eastern Arizona, providing convenient access to the popular recreational areas surrounding Show Low, Pinetop-Lakeside, and the Apache-Sitgreaves National Forest. The airport supports general aviation and limited commercial service, catering to tourists visiting the area's ski resorts, fishing lakes, and outdoor recreation destinations. Its location at approximately 6,400 feet elevation makes it one of the higher-elevation airports in Arizona.",
+  "faqs": "Q: Does Show Low Regional Airport offer commercial airline service?\nA: Yes, the airport historically has offered scheduled commercial flights, though service availability can vary seasonally based on demand from tourists visiting the White Mountains.\n\nQ: What recreational areas are accessible from the airport?\nA: The airport provides convenient access to the White Mountains, including Apache-Sitgreaves National Forest, several lakes such as Fool Hollow Lake, and nearby ski resorts during winter months.\n\nQ: How high is Show Low Regional Airport?\nA: The airport sits at an elevation of approximately 6,400 feet above sea level, which pilots should account for during takeoff and landing calculations.\n\nQ: Are there car rental services available at the airport?\nA: Car rental options are typically available at or near the airport, though travelers are advised to book in advance, especially during peak tourist seasons.",
+  "transport_tips": "The airport is located just a few miles south of downtown Show Low, making ground transportation quick and straightforward. Rental cars, taxis, and ride services are the most common ways to reach lodging in Show Low, Pinetop-Lakeside, and surrounding communities. During winter months, checking road conditions for the mountain routes is recommended before traveling to the airport.",
+  "local_tip": "If you're flying in for outdoor recreation, consider renting a four-wheel-drive vehicle, especially in winter when snow is common at this elevation, or if you plan to explore the unpaved forest roads in the surrounding national forest.",
+  "generatedAt": "2026-06-29T19:03:34.702Z",
+  "model": "MiniMax-M3"
+}

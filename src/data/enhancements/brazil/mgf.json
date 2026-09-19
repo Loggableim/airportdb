@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MGF",
+    "icao": "SBMG",
+    "name": "Regional de Maringá - Sílvio Name Júnior Airport",
+    "country": "Brazil",
+    "city": "Maringá",
+    "lat": -23.4761,
+    "lon": -52.0162,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Regional de Maringá - Sílvio Name Júnior Airport serves the city of Maringá, a planned urban center in northwestern Paraná state, Brazil. Opened in 1963, it functions as a key regional hub connecting this agricultural and industrial region to major Brazilian destinations. The airport handles medium-sized commercial operations, primarily serving domestic routes to São Paulo, Curitiba, and other key cities.",
+  "faqs": "Q: How far is the airport from downtown Maringá?\nA: The airport is located approximately 10 km (6 miles) from the city center, a drive of about 15-20 minutes depending on traffic.\n\nQ: Does the airport offer international flights?\nA: The airport primarily operates domestic flights, mainly to major Brazilian cities. International service is generally not available, with passengers typically connecting through larger hubs.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers standard amenities including food and beverage outlets, car rental agencies, shops, and free Wi-Fi access throughout the passenger areas.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport provides both short-term and long-term parking options adjacent to the terminal building.",
+  "transport_tips": "Taxis and rideshare services are readily available outside the terminal and offer the most convenient way to reach Maringá's city center. Several bus lines operated by local transit also connect the airport to downtown Maringá at a lower cost. Car rental agencies are present at the terminal for those wishing to explore the broader Paraná region independently.",
+  "local_tip": "If you have a layover or extra time, visit Maringá's famous Cathedral of Maringá (Catedral Basílica Menor de Nossa Senhora da Glória), a striking modernist landmark that is one of the tallest cathedrals in South America and within easy reach of the airport.",
+  "generatedAt": "2026-06-29T07:00:49.286Z",
+  "model": "MiniMax-M3"
+}

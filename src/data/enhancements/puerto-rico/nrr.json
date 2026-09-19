@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NRR",
+    "icao": "TJRV",
+    "name": "José Aponte de la Torre Airport",
+    "country": "Puerto Rico",
+    "city": "Ceiba",
+    "lat": 18.2473,
+    "lon": -65.6398,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "José Aponte de la Torre Airport (NRR) is a medium-sized public airport serving Ceiba on Puerto Rico's eastern coast, situated near the site of the former Roosevelt Roads Naval Station. Named after the Puerto Rican politician, it provides convenient access to the island's eastern municipalities and the El Yunque National Forest area. The airport supports general aviation, charter operations, and limited commercial service, making it a useful gateway for travelers exploring this less-visited region of Puerto Rico.",
+  "faqs": "Q: What is the nearest major city to José Aponte de la Torre Airport?\nA: The airport is located in Ceiba, approximately 40 miles (64 km) east of San Juan, Puerto Rico's capital.\n\nQ: Does this airport offer commercial passenger flights?\nA: The airport primarily supports general aviation and charter services, with limited scheduled commercial operations. Travelers should check current flight availability before planning a trip.\n\nQ: Are there customs and immigration facilities for international travelers?\nA: As a U.S. territory, Puerto Rico does not require customs clearance for domestic flights from the U.S. mainland. International private arrivals may require advance coordination.\n\nQ: What attractions are accessible from this airport?\nA: The airport provides easy access to El Yunque National Forest, the bioluminescent bays of Fajardo, and the ferry terminals to Vieques and Culebra islands.",
+  "transport_tips": "Rental cars are the most practical option for reaching destinations from the airport, as public transportation in eastern Puerto Rico is limited. The drive to San Juan takes roughly one hour via PR-3 and PR-53, depending on traffic. Taxi services and rideshare options can be arranged in advance, though availability may be limited compared to Luis Muñoz Marín International Airport.",
+  "local_tip": "Frequent visitors recommend timing flights for early morning to avoid afternoon convective thunderstorms common in eastern Puerto Rico, and to coordinate ferry bookings to Vieques and Culebra in advance since terminal parking near the marina fills quickly during peak travel periods.",
+  "generatedAt": "2026-06-29T19:37:22.853Z",
+  "model": "MiniMax-M3"
+}

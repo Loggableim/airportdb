@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GAJ",
+    "icao": "RJSC",
+    "name": "Yamagata Airport",
+    "country": "Japan",
+    "city": "Higashine",
+    "lat": 38.4119,
+    "lon": 140.371,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Yamagata Airport (GAJ/RJSC) is a regional airport located in Higashine, serving Yamagata Prefecture in Japan's Tohoku region. It primarily handles domestic flights, with the main route connecting to Tokyo Haneda. The airport provides essential access to a region renowned for its mountain scenery, hot springs, ski resorts, and agricultural products such as cherries and Yamagata beef.",
+  "faqs": "Q: What destinations are served from Yamagata Airport?\nA: The airport's main route is to Tokyo Haneda, with additional domestic connections that may vary by season. International charter flights have occasionally operated from the facility.\n\nQ: How far is the airport from Yamagata city center?\nA: Yamagata Airport is approximately 25 kilometers from Yamagata city. Travel time by bus or car is typically around 30-40 minutes depending on traffic and weather conditions.\n\nQ: Does the airport operate around the clock?\nA: No, Yamagata Airport operates during daytime hours aligned with scheduled flight times. The terminal generally opens in the morning and closes in the evening.\n\nQ: Are there car rental services at the airport?\nA: Yes, several major car rental companies have counters at the airport, making it convenient for visitors exploring the Tohoku region independently.\n\n",
+  "transport_tips": "Airport limousine buses connect the terminal to Yamagata Station and other key locations in the prefecture, with schedules coordinated to flight arrivals and departures. Rental cars are available on-site and are a popular option for travelers heading to nearby ski resorts or hot spring towns. During winter, allow extra travel time as snow can affect road conditions in the surrounding mountainous area.\n\n",
+  "local_tip": "If you have a layover or extra time, ask about the local sake tasting at nearby breweries—Yamagata Prefecture is one of Japan's premier sake-producing regions with over 50 breweries, and several offer tours within a short drive of the airport.",
+  "generatedAt": "2026-06-29T12:31:40.529Z",
+  "model": "MiniMax-M3"
+}

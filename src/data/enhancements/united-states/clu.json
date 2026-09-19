@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CLU",
+    "icao": "KBAK",
+    "name": "Columbus Municipal Airport",
+    "country": "United States",
+    "city": "Columbus",
+    "lat": 39.2624,
+    "lon": -85.8956,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Columbus Municipal Airport (CLU/KBAK) is a medium-sized general aviation facility serving Columbus, Indiana, a city renowned worldwide for its extraordinary collection of modern architecture. The airport supports corporate, recreational, and flight training operations, playing a key role in connecting the region to broader air transport networks. It features multiple runways and serves as an important hub for business aviation serving the local manufacturing economy.",
+  "faqs": "Q: What type of airport is Columbus Municipal (CLU)?\nA: It is a public-use general aviation airport classified as medium-sized, primarily serving private, corporate, and recreational flights rather than commercial airline service.\n\nQ: Does Columbus Municipal Airport offer commercial flights?\nA: No, the airport does not currently have scheduled commercial airline service. It focuses on general aviation, flight training, and corporate operations.\n\nQ: Where is the airport located relative to Columbus city center?\nA: The airport is situated a few miles north of downtown Columbus, Indiana, providing convenient access to the city and surrounding Bartholomew County.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, hangars, tie-downs, fueling services, and areas dedicated to flight training and aircraft maintenance.\n\n",
+  "transport_tips": "",
+  "local_tip": "If you're visiting Columbus, take time to explore the city's famous architectural tour; many buildings downtown were designed by renowned architects like I.M. Pei and Eero Saarinen, making it a hidden gem for design enthusiasts.",
+  "generatedAt": "2026-06-30T02:11:56.919Z",
+  "model": "MiniMax-M3"
+}

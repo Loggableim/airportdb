@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FUG",
+    "icao": "ZSFY",
+    "name": "Fuyang Xiguan Airport",
+    "country": "China",
+    "city": "Yingzhou, Fuyang",
+    "lat": 32.8822,
+    "lon": 115.7344,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Fuyang Xiguan Airport serves the city of Fuyang in northwestern Anhui Province, China, acting as the main aviation gateway for this populous inland region. The airport handles primarily domestic routes connecting Fuyang to major Chinese hubs such as Beijing, Shanghai, Guangzhou, and Shenzhen. Originally a military airfield, it was converted for civilian use and has gradually expanded its route network to support regional business and tourism.",
+  "faqs": "Q: What is the IATA code for Fuyang Xiguan Airport?\nA: The IATA code is FUG, and the ICAO code is ZSFY.\n\nQ: Where is the airport located relative to Fuyang city center?\nA: It is situated in Yingzhou District, roughly southwest of Fuyang's urban core, about a 20-30 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: No, Fuyang Xiguan Airport operates domestic flights only, serving routes to major Chinese cities.\n\nQ: Are there passenger lounges available at the terminal?\nA: Basic VIP lounges are available, though amenities are more limited compared to China's larger international airports.\n\n",
+  "transport_tips": "Airport shuttle buses connect the terminal to Fuyang city center at scheduled intervals and offer an affordable option for travelers. Taxis and ride-hailing services are readily available outside the arrivals hall and provide faster, more direct access to downtown destinations. Travelers heading to surrounding counties should arrange private transport in advance, as public transit options outside the city are limited.",
+  "local_tip": "If you have a long layover or early arrival, head to a nearby local restaurant to try Fuyang's famous gelatins and starch-based noodle dishes, which are regional specialties rarely found elsewhere in China.",
+  "generatedAt": "2026-06-29T21:58:34.191Z",
+  "model": "MiniMax-M3"
+}

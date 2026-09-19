@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SYY",
+    "icao": "EGPO",
+    "name": "Stornoway Airport",
+    "country": "United Kingdom",
+    "city": "Stornoway, Western Isles",
+    "lat": 58.2156,
+    "lon": -6.3311,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Stornoway Airport (SYY) is the principal gateway to the Outer Hebrides, serving the Isle of Lewis in Scotland's remote Western Isles. Located just a few kilometres east of Stornoway town, it is the busiest airport in the Hebrides archipelago, providing vital air links between the island communities and mainland Scotland. The facility supports regional scheduled services, air ambulance operations, and occasional charter flights, playing a crucial role in connecting these geographically isolated communities.",
+  "faqs": "Q: Which airlines operate from Stornoway Airport?\nA: Loganair is the primary carrier, operating scheduled flights to Glasgow, Inverness, and Edinburgh, with connections to wider UK and international destinations.\n\nQ: How far is the airport from Stornoway town centre?\nA: The airport is approximately 3 km (about 2 miles) east of Stornoway, a short drive of around 5-10 minutes by car or taxi.\n\nQ: Does the airport have car rental facilities?\nA: Yes, several car hire operators have desks at the terminal or provide pre-booked pickup services, though availability can be limited during peak season.\n\nQ: What is the airport primarily used for besides passenger travel?\nA: The airport supports oil and gas industry logistics for offshore operations, air ambulance services, and military use, in addition to scheduled passenger flights.\n\n",
+  "transport_tips": "Taxis are available outside the terminal and are the most convenient option given the airport's small size and limited public transport. Car rental is recommended if you plan to explore Lewis and Harris, as the islands are spread out and public bus services are infrequent. The airport is just a short drive from Stornoway's ferry terminal, where Caledonian MacBrayne ferries connect to Ullapool on the mainland.",
+  "local_tip": "Check the weather and wind conditions before booking flights in winter, as the airport is prone",
+  "generatedAt": "2026-06-29T06:26:26.068Z",
+  "model": "MiniMax-M3"
+}

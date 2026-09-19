@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KLV",
+    "icao": "LKKV",
+    "name": "Karlovy Vary Airport",
+    "country": "Czech Republic",
+    "city": "Karlovy Vary",
+    "lat": 50.203,
+    "lon": 12.915,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Karlovy Vary Airport (KLV/LKKV) serves the renowned spa town of Karlovy Vary in western Bohemia, Czech Republic. It functions as a public airport with military origins and is the primary gateway for visitors attending the annual Karlovy Vary International Film Festival, one of Europe's oldest film events. The airport sits in a picturesque valley setting near the German border, offering a convenient entry point to the spa triangle region.",
+  "faqs": "Q: How far is the airport from Karlovy Vary city center?\nA: The airport is approximately 6 km southeast of Karlovy Vary's city center, with a typical drive time of 15-20 minutes depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, it handles seasonal and charter international flights, particularly during the summer months and the film festival period in early July.\n\nQ: Are there customs and immigration facilities at KLV?\nA: Yes, the airport is equipped with customs and passport control services to handle international arrivals and departures within the Schengen Area and beyond.\n\nQ: Can private jets use Karlovy Vary Airport?\nA: Yes, the airport accommodates general aviation and private aircraft, with handling services available for business and VIP traffic.\n\n",
+  "transport_tips": "Taxi services and pre-booked transfers are the most reliable options for reaching Karlovy Vary city center, as public transport connections to the airport are limited. Renting a car from the airport is recommended for travelers planning to explore the broader spa triangle including Mariánské Lázně and Františkovy Lázně. During the film festival week, expect higher demand and book transportation well in advance.",
+  "local_tip": "The on-site airport café offers a chance to try Karlovarský Becherovka herbal liqueur or local mineral water sourced directly from the region's famous thermal springs — a fitting taste of the destination before you even leave the airport.",
+  "generatedAt": "2026-06-28T21:38:01.015Z",
+  "model": "MiniMax-M3"
+}

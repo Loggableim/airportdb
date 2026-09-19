@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SLP",
+    "icao": "MMSP",
+    "name": "Ponciano Arriaga International Airport",
+    "country": "Mexico",
+    "city": "San Luis Potosí",
+    "lat": 22.262,
+    "lon": -100.9357,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ponciano Arriaga International Airport serves the historic colonial city of San Luis Potosí in central Mexico, a region known for its rich mining heritage and growing automotive manufacturing industry. Named after the 19th-century Mexican liberal statesman, the airport provides a vital gateway to the Bajío region, one of Mexico's most economically dynamic areas. Its elevated location on the Mexican Plateau requires pilots to account for altitude-related performance considerations during operations.",
+  "faqs": "Q: How far is the airport from San Luis Potosí city center?\nA: The airport is located approximately 15 kilometers (about 9 miles) northeast of the historic city center, with typical taxi rides taking around 25-30 minutes depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, despite being classified as a medium airport, it handles select international routes, primarily to cities in the United States such as Houston, Dallas, and Los Angeles, along with domestic connections to Mexico City, Monterrey, and Tijuana.\n\nQ: Are there currency exchange services available at the airport?\nA: Yes, the terminal has ATM machines and currency exchange counters for converting foreign currency to Mexican pesos.\n\nQ: Is the airport suitable for connecting flights?\nA: It functions primarily as an origin-and-destination airport rather than a major hub, so most passengers use it for direct travel rather than connections.",
+  "transport_tips": "Authorized airport taxis are available just outside the terminal and offer fixed-rate service to the city center, generally more reliable than hailing cabs on the street. Ride-sharing services like Uber and DiDi operate in San Luis Potosí and can be requested through designated pickup zones, often providing a more economical option. Rental car agencies are located within the terminal, useful for travelers planning to explore the broader San Luis Potosí region or nearby destinations like Real de Catorce.",
+  "local_tip": "If you have a few hours before your flight, consider visiting the Centro Histórico—San Luis Potosí's UNESCO-worthy colonial center is only a short drive away and offers stunning architecture, the Plaza de Armas, and excellent local restaurants serving traditional dishes like enchiladas potosinas and zacahuil.",
+  "generatedAt": "2026-06-29T05:36:00.858Z",
+  "model": "MiniMax-M3"
+}

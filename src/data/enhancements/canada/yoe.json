@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YOE",
+    "icao": "",
+    "name": "Donnelly Airport",
+    "country": "Canada",
+    "city": "Donnelly",
+    "lat": 55.7094,
+    "lon": -117.094,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Donnelly Airport (YOE) is a small public-use airport serving the hamlet of Donnelly in northern Alberta's Peace River region. The facility primarily supports general aviation, private aircraft, and charter operations, reflecting the area's reliance on air access due to its remote location in the Peace Country. It provides important connectivity for local residents, agricultural operators, and the surrounding resource-based economy.",
+  "faqs": "Q: What type of airport is Donnelly Airport?\nA: Donnelly Airport is a small public-use airport primarily serving general aviation, private pilots, and charter flights.\n\nQ: Does Donnelly Airport offer scheduled commercial service?\nA: No, YOE does not offer regular scheduled commercial flights; operations are limited to private and charter aviation.\n\nQ: Where exactly is Donnelly Airport located?\nA: The airport is situated near the hamlet of Donnelly in northern Alberta, within the Peace River region of Canada.\n\nQ: Are there fuel and maintenance services available at YOE?\nA: Services at small airports like YOE are typically limited; pilots should coordinate fuel and maintenance needs in advance or contact local operators for availability.\n\n",
+  "transport_tips": "Reaching Donnelly Airport typically requires driving, as there is no public transit serving the small hamlet. The airport is accessible via local roads from Highway 49, with the town of Falher and the town of McLennan located within a short drive. Travelers arriving by air should arrange ground transportation in advance, as taxi and rideshare options are limited in this rural area.",
+  "local_tip": "Given the airport's remote northern Alberta setting and limited services, pilots and passengers should check weather conditions carefully before traveling, as winter temperatures in the Peace River region can drop significantly and affect both aircraft performance and road conditions to and from the facility.",
+  "generatedAt": "2026-06-27T06:49:00.295Z",
+  "model": "MiniMax-M3"
+}

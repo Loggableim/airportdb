@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EGO",
+    "icao": "UUOB",
+    "name": "Belgorod International Airport",
+    "country": "Russia",
+    "city": "Belgorod",
+    "lat": 50.6438,
+    "lon": 36.5901,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Belgorod International Airport serves the city of Belgorod in southwestern Russia, near the border with Ukraine's Kharkiv Oblast. It functions as a medium-sized regional hub primarily handling domestic flights, with connections to Moscow and other Russian cities. The airport provides access to a region known for its agricultural economy, chalk quarrying, and historical significance from WWII, including nearby Prokhorovka, site of one of the largest tank battles in history.",
+  "faqs": "Q: What is the IATA code for Belgorod International Airport?\nA: The IATA code is EGO and the ICAO code is UUOB.\n\nQ: How far is the airport from Belgorod city center?\nA: The airport is located on the outskirts of the city, approximately",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T16:12:25.887Z",
+  "model": "MiniMax-M3"
+}

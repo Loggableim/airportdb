@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AAC",
+    "icao": "HEAR",
+    "name": "El Arish International Airport",
+    "country": "Egypt",
+    "city": "El Arish",
+    "lat": 31.0553,
+    "lon": 33.828,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "El Arish International Airport serves the city of El Arish, located on the Mediterranean coast of Egypt's northern Sinai Peninsula. The airport functions as a key gateway for visitors to the Sinai region and has historically supported humanitarian aid operations. It handles both civilian and military traffic, playing a strategic role in this geographically significant area.",
+  "faqs": "Q: What is El Arish International Airport primarily used for?\nA: The airport serves civilian commercial flights and has also been used for humanitarian aid deliveries to the northern Sinai region.\n\nQ: Where is El Arish located in Egypt?\nA: El Arish is situated on the northeastern coast of the Sinai Peninsula along the Mediterranean Sea, approximately 344 kilometers northeast of Cairo.\n\nQ: Does the airport handle international flights?\nA: Yes, it is classified as an international airport and can accommodate flights to and from various destinations, though scheduled commercial service is limited.\n\nQ: Is the airport near major tourist attractions?\nA: The airport provides access to northern Sinai beaches, historical sites, and serves as a transit point for travelers heading to other parts of the peninsula.",
+  "transport_tips": "Taxis and private car services are the most common ways to reach the airport from El Arish city center, located roughly 10 kilometers away. Travelers should arrange ground transportation in advance, as public transport options to the airport are limited. Road access connects the airport to the main coastal highway running along the Mediterranean.",
+  "local_tip": "If traveling during hotter months, carry water and lightweight clothing as El Arish has a hot desert climate with limited shade around the airport area.",
+  "generatedAt": "2026-06-29T01:04:00.531Z",
+  "model": "MiniMax-M3"
+}

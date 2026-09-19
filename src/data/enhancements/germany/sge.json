@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SGE",
+    "icao": "EDGS",
+    "name": "Siegerland Airport",
+    "country": "Germany",
+    "city": "Burbach",
+    "lat": 50.7077,
+    "lon": 8.083,
+    "type": "medium_airport",
+    "size": 375
+  },
+  "summary": "Siegerland Airport is a regional airport serving the Siegerland-Wittgenstein district in western Germany, nestled in the rolling hills of the Westerwald region near the Hesse-North Rhine-Westphalia border. The facility primarily handles general aviation, business flights, and recreational flying, serving as an important hub for the surrounding rural communities. Its location between the Rothaargebirge and Westerwald mountain ranges makes it notable for pilots navigating visually striking but technically demanding terrain.",
+  "faqs": "Q: Where is Siegerland Airport located?\nA: It is situated near the town of Burbach in the Siegerland-Wittgenstein district of North Rhine-Westphalia, Germany, close to the border with Hesse.\n\nQ: What types of flights operate from Siegerland Airport?\nA: The airport primarily handles general aviation, private and business flights, flight training, and recreational aviation. Scheduled commercial service has been limited.\n\nQ: Are there car rental services at the airport?\nA: Rental car availability can be limited and is best arranged in advance, as the airport caters mainly to general aviation visitors.\n\nQ: Is the airport accessible by public transport?\nA: Public transport connections are limited; visitors typically rely on taxis, private transfers, or rental cars to reach the airport from nearby towns like Siegen.",
+  "transport_tips": "The airport is best reached by car, with access via regional roads connecting to the nearby A45 motorway. Taxi services from Siegen or other surrounding towns should be pre-booked, as on-demand availability is limited. Allow extra driving time during winter months, as the hilly terrain can experience icy conditions.",
+  "local_tip": "If you have time before or after your flight, visit the nearby Rothaargebirge Nature Park for scenic hiking trails, or stop in the historic town of Siegen to see the birthplace of Baroque painter Peter Paul Rubens and explore its charming old quarter.",
+  "generatedAt": "2026-06-30T01:29:38.529Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KDY",
+    "icao": "UEMH",
+    "name": "Typliy Klyuch Airport",
+    "country": "Russia",
+    "city": "Khandyga",
+    "lat": 62.789,
+    "lon": 136.855,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Typliy Klyuch Airport (KDY) is a small regional airfield serving the remote settlement of Khandyga in the Sakha Republic (Yakutia), Russian Far East. The name 'Typliy Klyuch' translates from Russian as 'Warm Spring,' reflecting the area's natural geography. It primarily handles regional flights connecting this isolated Siberian community to larger hubs like Yakutsk, supporting both passenger transport and essential supply routes for the surrounding tundra region.",
+  "faqs": "Q: What is the IATA code for Typliy Klyuch Airport?\nA: The IATA code is KDY and the ICAO code is UEMH.\n\nQ: Where is Khandyga located?\nA: Khandyga is a settlement in the Sakha Republic (Yakutia) in the Russian Far East, situated along the Aldan River in a remote area of eastern Siberia.\n\nQ: What type of flights operate from this airport?\nA: The airport primarily serves small regional passenger aircraft and provides essential connectivity for residents, along with occasional cargo and charter flights.\n\nQ: Is the airport open year-round?\nA: Yes, but operations can be affected by extreme winter weather conditions, as the region experiences some of the coldest temperatures in the Northern Hemisphere.\n\n",
+  "transport_tips": "Getting to Khandyga from the airport typically requires arranging ground transport in advance, as taxi services are limited and informal. The town center is reachable within a short drive along the main road from the airfield. Travelers heading onward should coordinate onward transportation before arrival, as the remote location offers limited alternatives.",
+  "local_tip": "Pack layered clothing even in summer—temperatures in the Khandyga area can swing dramatically between warm midday sun and near-freezing nights due to the continental subarctic climate.",
+  "generatedAt": "2026-06-28T01:34:53.408Z",
+  "model": "MiniMax-M3"
+}

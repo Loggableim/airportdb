@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OST",
+    "icao": "EBOS",
+    "name": "Ostend-Bruges International Airport",
+    "country": "Belgium",
+    "city": "Oostende",
+    "lat": 51.1998,
+    "lon": 2.8747,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Ostend-Bruges International Airport (OST) is a small international airport located near the Belgian coastal city of Ostend, about 25 km from Bruges. Established in the early 20th century, it has served as a military airfield and later a civilian airport, now handling charter, cargo, and seasonal passenger flights. Its coastal location and proximity to Bruges make it a convenient gateway to West Flanders.",
+  "faqs": "Q: What airlines operate at Ostend-Bruges International Airport?\nA: The airport primarily serves charter airlines such as TUI fly Belgium, and cargo operators like ASL Airlines. Scheduled passenger service is limited, so check with individual airlines for current routes.\n\nQ: How far is the airport from Bruges?\nA: The airport is approximately 25 kilometers (15.5 miles) from Bruges city center, a drive of about 30 minutes depending on traffic.\n\nQ: Is there public transportation from the airport to Ostend or Bruges?\nA: Bus services connect the airport to Ostend railway station, where you can catch trains to Bruges and other Belgian cities. Taxis and rental cars are also available.\n\nQ: What facilities are available at the airport?\nA: The airport has a small terminal with basic amenities including a café, car rental desks, and free Wi-Fi. It is not a large hub, so services are limited.",
+  "transport_tips": "The airport is located just off the N34 road, with easy access by car; parking is available on-site. De Lijn buses run between the airport and Ostend railway station, from where trains connect to Bruges, Ghent, and Brussels. Taxis are available but can be expensive; pre-booking is recommended.",
+  "local_tip": "Frequent visitors know that the airport's small size means you can often arrive just an hour before departure, but always verify flight status as schedules can change. The airport's café offers a good view of the runway, and it's a quiet place to wait.",
+  "generatedAt": "2026-09-19T23:22:10.802Z",
+  "model": "deepseek-v4.1-flash"
+}

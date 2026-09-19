@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IAM",
+    "icao": "DAUZ",
+    "name": "Zarzaitine - In Aménas Airport",
+    "country": "Algeria",
+    "city": "In Aménas",
+    "lat": 28.0515,
+    "lon": 9.6429,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Zarzaitine - In Aménas Airport (IAM/DAUZ) serves the remote oil and gas hub of In Aménas in far eastern Algeria, near the Libyan border. The airport primarily supports energy sector workers commuting to nearby hydrocarbon facilities in the Illizi Basin. Its isolated Saharan location makes it a critical logistical link for one of Algeria's most strategically important petroleum-producing regions.",
+  "faqs": "Q: What is the airport primarily used for?\nA: The airport mainly serves the oil and gas industry, transporting workers to and from remote hydrocarbon installations in the surrounding Illizi Basin.\n\nQ: Are there commercial passenger flights to In Aménas?\nA: Yes, domestic flights operate from major Algerian cities such as Algiers and Ouargla, typically serving energy sector personnel and limited regional travel.\n\nQ: How far is the airport from the city center?\nA: The airport is located a short distance from In Aménas town, with road access available by taxi or arranged transport.\n\nQ: What facilities are available at the airport?\nA: The terminal provides basic services including a small waiting area, check-in counters, and minimal concessions suited to its medium-sized regional operations.\n\n",
+  "transport_tips": "Ground transport options are limited and largely consist of hotel-arranged shuttles, company vehicles for oil sector workers, or local taxis. Travelers without pre-arranged transport should coordinate pickup in advance, as on-demand taxi availability is unreliable. The road from the airport to town is straightforward but passes through sparsely populated desert terrain.",
+  "local_tip": "Pack plenty of water and sun protection even for short walks between transport and the terminal, as there is little to no shade in the surrounding desert environment.",
+  "generatedAt": "2026-06-29T15:05:52.245Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MIO",
+    "icao": "KMIO",
+    "name": "Miami Municipal Airport",
+    "country": "United States",
+    "city": "Miami",
+    "lat": 36.9092,
+    "lon": -94.8875,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Miami Municipal Airport (MIO) is a small general aviation facility located in Miami, Oklahoma, serving the northeastern corner of the state near the Kansas and Missouri borders. The airport primarily supports private pilots, recreational flying, and corporate aircraft for the Ottawa County region. It features a modest runway and basic amenities typical of municipal airfields serving rural communities.",
+  "faqs": "Q: What is Miami Municipal Airport primarily used for?\nA: The airport serves general aviation traffic, including private pilots, recreational flying, flight training, and occasional corporate or medical transport flights.\n\nQ: Does Miami Municipal Airport offer commercial airline service?\nA: No, MIO is a small general aviation airport and does not have scheduled commercial airline service.\n\nQ: Where is the airport located in relation to the city?\nA: The airport is situated a few miles from downtown Miami, Oklahoma, providing convenient access to the community and surrounding area.\n\nQ: Are there any FBO services available at MIO?\nA: Basic services such as fuel, hangar space, and limited pilot amenities are typically available, though options are modest compared to larger airports.",
+  "transport_tips": "The airport is just a short drive from downtown Miami, Oklahoma, and is easily reached by car via local roads. Rental car services are not available on-site, so arranging ground transportation in advance is recommended. Visitors can also use taxi or rideshare options from the nearby town center.",
+  "local_tip": "Miami, Oklahoma is home to the historic Coleman Theatre, a beautifully restored 1929 movie palace worth visiting if you have time before or after your flight.",
+  "generatedAt": "2026-06-27T05:25:09.159Z",
+  "model": "MiniMax-M3"
+}

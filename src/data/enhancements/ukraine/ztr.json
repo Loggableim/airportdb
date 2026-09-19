@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZTR",
+    "icao": "UKKV",
+    "name": "Zhytomyr Airport",
+    "country": "Ukraine",
+    "city": "Zhytomyr",
+    "lat": 50.2706,
+    "lon": 28.7386,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Zhytomyr Airport (ZTR/UKKV) is a small regional airport serving the city of Zhytomyr in northern Ukraine, located approximately 130 km west of the capital Kyiv. The facility primarily handles general aviation and occasional charter operations, with limited commercial scheduled service. It serves the Zhytomyr Oblast and functions as an alternative air gateway for the surrounding region.",
+  "faqs": "Q: Does Zhytomyr Airport have scheduled commercial flights?\nA: Scheduled commercial service at ZTR is very limited, and travelers should check current airline listings as routes can change frequently.\n\nQ: How far is the airport from Zhytomyr city center?\nA: The airport is located a short drive from central Zhytomyr, typically reachable within 20-30 minutes by road depending on traffic.\n\nQ: Are there customs and immigration services at ZTR?\nA: As a small regional airport, international processing capabilities are limited and primarily available for special or charter flights.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic passenger amenities; travelers should not expect extensive services like those found at major international airports.",
+  "transport_tips": "Taxis and private car hires are the most practical options for reaching Zhytomyr Airport given the limited public transport serving the facility. Travelers coming from Kyiv can take the E40/M06 highway westward, which is the main road connection. Arranging ground transport in advance is recommended, especially for early morning or late evening flights.",
+  "local_tip": "If traveling onward to Kyiv, consider coordinating with a Kyiv-based driver rather than relying on Zhytomyr-based services, as they tend to be more familiar with capital city traffic patterns and the M06 highway conditions.",
+  "generatedAt": "2026-06-27T15:32:07.587Z",
+  "model": "MiniMax-M3"
+}

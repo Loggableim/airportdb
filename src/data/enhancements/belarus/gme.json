@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GME",
+    "icao": "UMGG",
+    "name": "Gomel Airport",
+    "country": "Belarus",
+    "city": "Gomel",
+    "lat": 52.527,
+    "lon": 31.0167,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Gomel Airport serves the city of Gomel, Belarus's second-largest city, located in the southeastern Gomel Region near the borders with Russia and Ukraine. As a medium-sized regional airport, it handles primarily domestic routes within Belarus and seasonal international charter flights, with the city itself known for its rich history, elegant 18th-century architecture, and the scenic Sozh River waterfront. The airport plays a key role in connecting this industrial and cultural hub to the rest of the country.",
+  "faqs": "Q: What airlines operate from Gomel Airport?\nA: Gomel Airport is primarily served by Belavia, the Belarusian national carrier, offering flights to Minsk and select international destinations, along with occasional seasonal charter services.\n\nQ: How far is Gomel Airport from the city center?\nA: The airport is located approximately 7-8 kilometers northeast of central Gomel, with a typical taxi or transfer journey taking around 15-20 minutes depending on traffic.\n\nQ: Does Gomel Airport have international flights?\nA: The airport handles some international routes, though its international traffic is limited compared to Minsk. Most international connections are routed through Minsk National Airport.\n\nQ: Are there facilities like restaurants and duty-free at the airport?\nA: The terminal offers basic amenities including a small café, vending areas, and a limited shop selection, though the airport is modest in size compared to major international hubs.",
+  "transport_tips": "Taxis and ride-hailing services are the most convenient way to reach the city center, with the journey typically taking 15-20 minutes. Marshrutka (minibus) routes connect the airport to central Gomel at affordable rates, though schedules may be infrequent. Travelers can also arrange private transfers through local hotels for added convenience, especially when traveling with luggage.",
+  "local_tip": "If you have time before your flight, consider visiting the nearby Gomel Palace and Park Ensemble, one of Belarus's most beautiful historic landmarks located right in the city center, featuring manicured gardens and a stunning neoclassical palace that is easily reachable from the airport.",
+  "generatedAt": "2026-06-29T16:15:03.011Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "APG",
+    "icao": "KAPG",
+    "name": "Phillips Army Air Field",
+    "country": "United States",
+    "city": "Aberdeen",
+    "lat": 39.4662,
+    "lon": -76.1688,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Phillips Army Air Field is a military airfield situated within Aberdeen Proving Ground, one of the U.S. Army's oldest and most significant installations in Harford County, Maryland. The facility primarily supports Army aviation operations, testing, and training activities for the surrounding military community. Named in honor of a distinguished Army aviator, it serves as a key hub for rotorcraft and fixed-wing operations in the Mid-Atlantic region.",
+  "faqs": "Q: Is Phillips Army Air Field open to civilian aviation?\nA: No, APG is a restricted military airfield and does not provide scheduled commercial or general aviation services to the public.\n\nQ: What kind of aircraft operate at Phillips Army Air Field?\nA: The airfield supports U.S. Army aviation assets, including helicopters and fixed-wing aircraft used for testing, training, and logistics missions.\n\nQ: How close is the airport to Baltimore and Washington, D.C.?\nA: Aberdeen is roughly 30 miles northeast of Baltimore and about 60 miles northeast of Washington, D.C., accessible via Interstate 95.\n\nQ: Can private pilots request permission to land at APG?\nA: Permission to land is handled through prior military coordination and is typically granted only for official or mission-related purposes.\n\n",
+  "transport_tips": "Access to Aberdeen Proving Ground requires a valid military ID or visitor authorization coordinated in advance through the installation's gates. The most common entry point is via the Maryland Gate or APG Gate along U.S. Route 40. Travel by personal vehicle is the most practical option, as the installation is well-connected to Interstate 95 and regional highways.",
+  "local_tip": "If visiting for a scheduled tour or event, contact the APG Public Affairs Office well ahead of time to arrange visitor credentials, as same-day base access is rarely granted without pre-approval.",
+  "generatedAt": "2026-06-26T09:58:29.464Z",
+  "model": "MiniMax-M3"
+}

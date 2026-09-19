@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CTX",
+    "icao": "",
+    "name": "Cortland County Chase Field",
+    "country": "United States",
+    "city": "Cortland",
+    "lat": 42.5926,
+    "lon": -76.2149,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Cortland County Chase Field is a small, county-owned general aviation airport serving Cortland, New York, situated in the Finger Lakes region of central New York State. The facility primarily supports recreational flying, flight training, and corporate general aviation rather than commercial airline service. Its location near Cortland provides convenient access to nearby Syracuse, Ithaca, and the broader Finger Lakes recreational area.",
+  "faqs": "Q: Does Cortland County Chase Field offer commercial airline service?\nA: No, CTX is a general aviation airport with no scheduled commercial flights. Travelers typically use Syracuse Hancock International Airport for commercial service.\n\nQ: What facilities are available at the airport?\nA: The airport features a main runway, tie-down parking, fuel services, and hangar facilities typical of a small general aviation field.\n\nQ: Is flight training available at Cortland County Chase Field?\nA: Yes, the airport supports general aviation operations including flight training, private pilot activities, and aircraft rental through local operators.\n\nQ: What is the airport's elevation and runway information?\nA: The airport sits at approximately 1,190 feet above sea level with a primary asphalt runway suitable for light to medium general aviation aircraft.\n\n",
+  "transport_tips": "The airport is located just a few miles south of downtown Cortland, easily reached by car via local roads in under 10 minutes. Rental car services are limited at the field, so arranging ground transportation in advance is recommended. The nearest major airport with commercial service is Syracuse Hancock International, roughly 40 miles north via I-81.",
+  "local_tip": "Frequent visitors recommend calling ahead for fuel availability and runway condition updates, as services at small county airports like Chase Field can vary based on staffing and weather, especially during the snowy central New York winters.",
+  "generatedAt": "2026-06-27T03:03:35.584Z",
+  "model": "MiniMax-M3"
+}

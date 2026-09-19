@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EMY",
+    "icao": "",
+    "name": "El Minya Airport",
+    "country": "Egypt",
+    "city": "El Minya",
+    "lat": 28.0905,
+    "lon": 30.7387,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "El Minya Airport is a small regional airport serving the city of El Minya in Upper Egypt, situated along the Nile River roughly 245 kilometers south of Cairo. It primarily handles domestic flights and serves as a gateway to some of Egypt's most significant pharaonic archaeological sites, including the tombs of Beni Hasan, Tel el-Amarna, and Tuna el-Gebel. The airport's modest infrastructure reflects the city's role as a quieter cultural and historical hub away from the busier tourist centers.",
+  "faqs": "Q: What is the IATA code for El Minya Airport?\nA: The IATA code is EMY, and it serves as the primary identifier for airline bookings and flight information.\n\nQ: Does El Minya Airport handle international flights?\nA: The airport primarily serves domestic routes, with most connections linking to Cairo. International travelers typically connect through Cairo International Airport.\n\nQ: How far is the airport from the city center of El Minya?\nA: The airport is located approximately 7-10 kilometers from the city center, making it a short drive to most accommodations.\n\nQ: What archaeological sites can be accessed from El Minya Airport?\nA: Visitors commonly reach the Beni Hasan tombs, Tel el-Amarna (the ancient city of Akhenaten), and Tuna el-Gebel necropolis from this airport.\n\n",
+  "transport_tips": "Taxis and pre-arranged hotel transfers are the most reliable ways to reach El Minya city center from the airport, as public transport options are limited. The drive into town typically takes 15-20 minutes along a straightforward route. Renting a car with a driver familiar with the region is recommended for visitors planning to explore the surrounding archaeological sites.",
+  "local_tip": "Bring small Egyptian pound notes for taxi fares and tips, as drivers at small regional airports like El Minya often have limited change for larger bills, and bargaining the fare before departure is standard practice.",
+  "generatedAt": "2026-06-27T21:20:42.595Z",
+  "model": "MiniMax-M3"
+}

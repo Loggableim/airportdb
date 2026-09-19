@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RTG",
+    "icao": "WATG",
+    "name": "Frans Sales Lega Airport",
+    "country": "Indonesia",
+    "city": "Satar Tacik, Manggarai",
+    "lat": -8.5962,
+    "lon": 120.4782,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Frans Sales Lega Airport (RTG) is a small regional airport serving the Manggarai Regency on the western end of Flores Island in Indonesia's East Nusa Tenggara province. Named after a respected local figure, it provides vital air access for travelers heading to the rugged interior of western Flores, including popular destinations like Ruteng and the surrounding traditional villages. The airport primarily handles short domestic flights connecting Flores to other regional hubs such as Kupang and Denpasar.",
+  "faqs": "Q: What is Frans Sales Lega Airport used for?\nA: It primarily serves domestic passenger flights connecting western Flores to other Indonesian cities like Kupang, Denpasar, and Labuan Bajo.\n\nQ: Which airlines operate at Frans Sales Lega Airport?\nA: Small regional carriers, including Wings Air and NAM Air, typically operate propeller aircraft on routes to and from this airport.\n\nQ: Is the airport open at night?\nA: No, like many small Indonesian regional airports, it generally operates only during daylight hours with limited scheduled services.\n\nQ: How far is the airport from Ruteng town?\nA: The airport is located in Satar Tacik, roughly 20-30 minutes by road from the town of Ruteng.",
+  "transport_tips": "Taxis and ojek (motorcycle taxis) are the primary means of transport to and from the airport, as no rail or large public transit network exists in the region. Travelers heading to Ruteng or Labuan Bajo should arrange ground transport in advance, especially given the limited number of arriving flights. Rental cars with drivers can be negotiated at Ruteng town and are a popular option for exploring the broader Manggarai area.",
+  "local_tip": "Bring layers and a light jacket—Manggarai sits at a relatively high elevation, so mornings and evenings at the airport can be noticeably cool compared to coastal Flores, even though the island is tropical.",
+  "generatedAt": "2026-06-26T20:32:34.508Z",
+  "model": "MiniMax-M3"
+}

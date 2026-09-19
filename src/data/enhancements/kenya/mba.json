@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MBA",
+    "icao": "HKMO",
+    "name": "Moi International Airport",
+    "country": "Kenya",
+    "city": "Mombasa",
+    "lat": -4.0348,
+    "lon": 39.5942,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Moi International Airport (MBA) is Kenya's second-busiest airport and the primary gateway to the country's Indian Ocean coast, serving Mombasa and the surrounding beach tourism region. Named after Kenya's second president, Daniel arap Moi, the airport handles significant international charter and scheduled traffic from Europe and the Middle East. It features separate terminals for domestic and international operations and supports the region's vital tourism economy.",
+  "faqs": "Q: How far is Moi International Airport from Mombasa city center?\nA: The airport is approximately 9 kilometers (5.5 miles) northwest of Mombasa's city center, with typical transfer times of 20-30 minutes depending on traffic.\n\nQ: Are there direct international flights to Moi International Airport?\nA: Yes, the airport receives direct international flights from several European cities (including London, Amsterdam, and Frankfurt), Middle Eastern hubs like Dubai, and various African capitals.\n\nQ: Does the airport have duty-free shopping?\nA: Yes, the international terminal features duty-free shops offering spirits, tobacco, perfumes, and locally made crafts and souvenirs.\n\nQ: Can travelers access Wi-Fi at the airport?\nA: Limited Wi-Fi is available in the terminals, though speeds can be inconsistent; purchasing a local SIM card upon arrival is often recommended for reliable connectivity.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are available outside the terminal, but it's advisable to agree on fares in advance or use metered services from registered taxi ranks. Several hotels in Mombasa and Diani offer shuttle services, often included with bookings at larger resorts. Matatus (local minibuses) are not recommended for travelers with luggage.",
+  "local_tip": "If you have a long layover or early arrival, the nearby Haller Park (about 5 km away) is a worthwhile short visit to see giraffes, hippos, and other wildlife in a reclaimed quarry setting.",
+  "generatedAt": "2026-06-28T17:28:13.128Z",
+  "model": "MiniMax-M3"
+}

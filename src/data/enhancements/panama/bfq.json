@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BFQ",
+    "icao": "",
+    "name": "Bahia Piña Airport",
+    "country": "Panama",
+    "city": "Puerto Piña",
+    "lat": 7.5874,
+    "lon": -78.1799,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Bahia Piña Airport (BFQ) is a small airstrip serving the remote coastal village of Puerto Piña in Panama's Darién Province, one of the most isolated regions in Central America. The airport primarily functions as a gateway for sport fishing lodges and ecotourism, providing the only practical access to an area dominated by dense rainforest and the Pacific coastline. Its presence is vital for connecting remote indigenous Emberá and Wounaan communities and tourists to the outside world, as the surrounding region lacks road infrastructure.",
+  "faqs": "Q: What is Bahia Piña Airport primarily used for?\nA: The airport mainly serves fly-in sport fishing tourism and ecotourism visitors heading to remote lodges along Panama's Pacific coast in the Darién region.\n\nQ: Are there commercial flights to Bahia Piña Airport?\nA: No scheduled commercial service operates here. Access is typically arranged through charter flights from Panama City, usually on small aircraft.\n\nQ: What facilities are available at the airport?\nA: The airport is a basic airstrip with minimal infrastructure; there is no terminal building, only a small landing strip suitable for light aircraft.\n\nQ: Is the Darién region safe to visit?\nA: The area is remote and generally safe for guided visitors, though travelers should arrange trips through reputable tour operators due to limited infrastructure and services.\n\n",
+  "transport_tips": "There is no road access to Puerto Piña, so travelers must fly in by small charter aircraft from Panama City, typically taking around 45 minutes to an hour. Once at the airstrip, lodges arrange ground or boat transfers to nearby fishing camps and coastal destinations. Visitors should coordinate ground transportation in advance, as there are no taxis or rental services at the airport.",
+  "local_tip": "Pack light and bring all essentials including cash, insect repellent, and any specialty food or drink, as the nearest stores and amenities are extremely limited and the lodge supply runs depend on the same small aircraft that brings visitors in.",
+  "generatedAt": "2026-06-26T19:06:18.340Z",
+  "model": "MiniMax-M3"
+}

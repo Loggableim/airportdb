@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YSB",
+    "icao": "CYSB",
+    "name": "Sudbury Airport",
+    "country": "Canada",
+    "city": "Sudbury",
+    "lat": 46.625,
+    "lon": -80.7989,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sudbury Airport (YSB) is a medium-sized regional airport serving Greater Sudbury in Northern Ontario, Canada, located approximately 11 km northeast of the city center. It functions as a key aviation hub for Northeastern Ontario, providing scheduled passenger service and supporting the region's mining and healthcare industries. The airport is publicly owned and operated by the City of Greater Sudbury.",
+  "faqs": "Q: What airlines fly from Sudbury Airport?\nA: Sudbury Airport is primarily served by Air Canada and Porter Airlines, with scheduled flights connecting to Toronto and other destinations.\n\nQ: How far is Sudbury Airport from downtown Sudbury?\nA: The airport is located about 11 km (7 miles) northeast of downtown Sudbury, typically a 15-20 minute drive depending on traffic.\n\nQ: Does Sudbury Airport have international flights?\nA: No, the airport primarily handles domestic flights within Canada, mainly to and from Toronto.\n\nQ: Is there parking available at the airport?\nA: Yes, Sudbury Airport offers both short-term and long-term parking options adjacent to the terminal building.",
+  "transport_tips": "The most convenient way to reach Sudbury Airport is by car or taxi, with the trip from downtown typically taking 15-20 minutes. Rental cars are available at the airport, and several local taxi companies serve the terminal. Public transit options are limited, so arranging ground transport in advance is recommended for early morning or late evening flights.",
+  "local_tip": "If you have time before your flight, visit the Science North museum located just minutes from the airport route—it's one of Sudbury's top attractions with interactive exhibits about the region's geology and mining heritage.",
+  "generatedAt": "2026-06-29T03:02:04.635Z",
+  "model": "MiniMax-M3"
+}

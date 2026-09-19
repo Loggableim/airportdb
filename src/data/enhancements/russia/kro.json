@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KRO",
+    "icao": "USUU",
+    "name": "Kurgan Airport",
+    "country": "Russia",
+    "city": "Kurgan",
+    "lat": 55.4753,
+    "lon": 65.4156,
+    "type": "medium_airport",
+    "size": 650
+  },
+  "summary": "Kurgan Airport (KRO/USUU) is a medium-sized regional airport serving the city of Kurgan in southwestern Siberia, Russia. Located approximately 6 km northeast of the city center, it primarily handles domestic flights and plays a key role in connecting the Kurgan Oblast to major Russian hubs such as Moscow. The airport operates with a single main runway and serves as an important gateway for both business and leisure travelers in the Trans-Ural region.",
+  "faqs": "Q: What is the IATA code for Kurgan Airport?\nA: The IATA code for Kurgan Airport is KRO, and its ICAO code is USUU.\n\nQ: How far is Kurgan Airport from the city center?\nA: The airport is located about 6 km northeast of Kurgan's city center, making it a relatively short trip by taxi or bus.\n\nQ: Does Kurgan Airport offer international flights?\nA: Kurgan Airport primarily operates domestic flights to Russian cities. International service is limited, so travelers should check current schedules with airlines.\n\nQ: Which airlines operate at Kurgan Airport?\nA: Russian carriers such as Aeroflot, S7 Airlines, and UTair have historically operated routes from Kurgan, mainly to Moscow and other major Russian cities.\n\n",
+  "transport_tips": "The most convenient way to reach the airport is by taxi, with a typical journey from central Kurgan taking 15 to 20 minutes depending on traffic. Marshrutka (fixed-route minibus) services and local buses also connect the airport to the city, offering a budget-friendly alternative. Taxi booking apps like Yandex.Taxi are widely used in the region for reliable airport transfers.",
+  "local_tip": "If you have a layover or extra time, ask a local to recommend a nearby dacha-style café for authentic Russian home cooking—Kurgan Oblast is known for its hearty Siberian dishes like pelmeni and borscht, which you'll find served fresh just minutes from the airport.",
+  "generatedAt": "2026-06-29T17:03:55.374Z",
+  "model": "MiniMax-M3"
+}

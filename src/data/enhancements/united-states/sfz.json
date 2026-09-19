@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SFZ",
+    "icao": "KSFZ",
+    "name": "North Central State Airport",
+    "country": "United States",
+    "city": "Pawtucket",
+    "lat": 41.9208,
+    "lon": -71.4914,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "North Central State Airport is a small, publicly-owned general aviation facility serving the Providence metropolitan area in northern Rhode Island. Located in Smithfield, it provides a convenient alternative to the larger T.F. Green Airport for private pilots, business aviation, and flight training operations. The airport features a single main runway and hosts several flight schools and aviation businesses.",
+  "faqs": "Q: What is North Central State Airport primarily used for?\nA: The airport is primarily used for general aviation, including private flights, business aviation, flight training, and recreational flying.\n\nQ: Does North Central State Airport offer commercial passenger service?\nA: No, this airport does not offer scheduled commercial passenger service. Travelers seeking commercial flights typically use T.F. Green Airport in Warwick, RI.\n\nQ: How far is the airport from Providence?\nA: The airport is located approximately 10-12 miles northwest of downtown Providence, making it convenient for the greater metropolitan area.\n\nQ: Are there flight training schools at the airport?\nA: Yes, North Central State Airport is home to one or more flight schools offering pilot training, aircraft rentals, and related aviation services.\n\n",
+  "transport_tips": "Ground transportation options include personal vehicles and rideshare services like Uber and Lyft, as the airport has no dedicated public transit connection. On-site parking is generally available for pilots and visitors. Taxi services can be arranged in advance for arrivals, though availability may be limited compared to larger airports.",
+  "local_tip": "If visiting the area, take advantage of the airport's proximity to historic Pawtucket and the Slater Mill, the birthplace of the American Industrial Revolution—it's just a short drive away.",
+  "generatedAt": "2026-06-27T00:37:44.809Z",
+  "model": "MiniMax-M3"
+}

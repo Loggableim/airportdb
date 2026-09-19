@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DEZ",
+    "icao": "OSDZ",
+    "name": "Deir ez-Zor Airport",
+    "country": "Syria",
+    "city": "Deir ez-Zor",
+    "lat": 35.2854,
+    "lon": 40.176,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Deir ez-Zor Airport (DEZ/OSDZ) is a regional airport serving the city of Deir ez-Zor in eastern Syria, situated in the Euphrates River valley. The facility serves as a key aviation link for the eastern Syrian governorate, one of the country's largest by area. Following periods of conflict-related disruption, the airport has resumed limited scheduled operations serving the local population and connecting the region to other Syrian cities.",
+  "faqs": "Q: Where is Deir ez-Zor Airport located?\nA: The airport is located near the city of Deir ez-Zor in eastern Syria, close to the Euphrates River and the Iraqi border region.\n\nQ: Does Deir ez-Zor Airport have international flights?\nA: The airport primarily handles domestic flights within Syria. International service has been very limited in recent years due to regional instability.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers basic passenger terminal services. Travelers should expect limited amenities and should check current operating status before travel.\n\nQ: How far is the airport from Deir ez-Zor city center?\nA: The airport is located a short distance from the city center, typically reachable within 15-20 minutes by road under normal conditions.\n\n",
+  "transport_tips": "Taxis and private car hire are the primary means of reaching the airport from Deir ez-Zor city. Road conditions in the surrounding area can vary, so travelers should allow extra time and confirm local security conditions before departure. There is no rail connection to the airport, and public bus service is limited in this region.",
+  "local_tip": "Given the remote location and limited flight schedule, always reconfirm your flight 24-48 hours in advance as schedules in eastern Syria can change with little notice due to operational and security considerations.",
+  "generatedAt": "2026-06-29T15:02:07.649Z",
+  "model": "MiniMax-M3"
+}

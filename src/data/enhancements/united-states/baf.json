@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BAF",
+    "icao": "KBAF",
+    "name": "Westfield-Barnes Regional Airport",
+    "country": "United States",
+    "city": "Westfield",
+    "lat": 42.1578,
+    "lon": -72.7156,
+    "type": "medium_airport",
+    "size": 400
+  },
+  "summary": "Westfield-Barnes Regional Airport (BAF) is a public-use general aviation airport located in Westfield, Massachusetts, serving the greater Pioneer Valley and Springfield metropolitan area. The airport offers an alternative to the busier Bradley International Airport and supports corporate, recreational, and flight training operations.",
+  "faqs": "Q: Where is Westfield-Barnes Regional Airport located?\nA: The airport is situated in Westfield, Massachusetts, approximately 8 miles west of downtown Springfield, easily accessed from I-90 (Massachusetts Turnpike).\n\nQ: Does BAF offer commercial airline service?\nA: The airport primarily serves general aviation, corporate flights, and flight training rather than scheduled commercial passenger service. Travelers seeking commercial flights typically use Bradley International Airport (BDL) nearby.\n\nQ: What facilities are available at the airport?\nA: BAF features runways, hangars, fuel services, and amenities for private and corporate aircraft operators, including flight schools and aircraft maintenance providers.\n\nQ: Is there on-site parking and rental car service?\nA: The airport offers parking for general aviation visitors, and rental car services or rideshare options are typically available in the surrounding area.\n\n",
+  "transport_tips": "The airport is conveniently located off Route 202, with quick access to I-90 for connections to Springfield, Northampton, and Hartford. Driving is the most practical way to reach BAF, as there is no direct public transit service to the terminal. Allow extra travel time during weekday rush hours, as traffic on I-90 can be heavy.",
+  "local_tip": "If you have time before your flight, stop by Stanley Park in Westfield, a beautiful 295-acre green space designed in the late 1800s with walking trails, gardens, and ponds just minutes from the airport.",
+  "generatedAt": "2026-06-30T00:53:27.983Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TOT",
+    "icao": "SMCO",
+    "name": "Totness Airport",
+    "country": "Suriname",
+    "city": "Totness",
+    "lat": 5.8658,
+    "lon": -56.3275,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Totness Airport (IATA: TOT, ICAO: SMCO) is a small regional airfield serving the town of Totness in the Commewijne District of northern Suriname. It supports light aircraft operations and provides vital air access for residents of this riverside community located along the Commewijne River. The facility primarily accommodates small private and charter flights serving Suriname's interior and coastal communities.",
+  "faqs": "Q: What type of aircraft can Totness Airport handle?\nA: As a small airport with a modest size score, Totness primarily serves light aircraft, small turboprops, and private charter planes typical of regional Surinamese aviation.\n\nQ: Are there scheduled commercial flights at Totness Airport?\nA: Scheduled commercial service is limited; most flights at this airfield are private or charter operations serving local transport needs.\n\nQ: Is there a terminal building at the airport?\nA: Given its small size, the airport has minimal infrastructure and lacks a large commercial terminal. Facilities are basic, suiting the low traffic volume.\n\nQ: What is the nearest major airport to Totness?\nA: Johan Adolf Pengel International Airport (PBM) near Paramaribo is the main international gateway, located roughly 100 kilometers to the west.",
+  "transport_tips": "Ground transportation from Totness Airport is limited, so arranging a pickup in advance with a local contact or tour operator is highly recommended. The town center is a short drive from the airfield, and taxis are typically available but should be confirmed beforehand. Many visitors traveling onward to Paramaribo or other parts of Suriname arrange combined air and road transport through their accommodation.",
+  "local_tip": "Combine a visit to Totness with a boat trip along the Commewijne River to explore the area's colonial-era plantations like Fort New Amsterdam, which is just a short journey from town.",
+  "generatedAt": "2026-06-28T09:37:56.875Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RID",
+    "icao": "KRID",
+    "name": "Richmond Municipal Airport",
+    "country": "United States",
+    "city": "Richmond",
+    "lat": 39.7572,
+    "lon": -84.8428,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Richmond Municipal Airport (KRID) is a general aviation facility serving Richmond, Indiana, and the surrounding Wayne County area near the Ohio border. The airport supports private aviation, flight training, and corporate operations with a single asphalt runway. It plays an important role in connecting east-central Indiana to the broader national airspace system.",
+  "faqs": "Q: What is the main use of Richmond Municipal Airport?\nA: It primarily serves general aviation, including private pilots, flight training, and small corporate aircraft.\n\nQ: Does the airport offer commercial passenger service?\nA: No, Richmond Municipal does not provide scheduled commercial flights; it is used for general aviation activities.\n\nQ: Are fuel and maintenance services available on-site?\nA: Yes, the airport typically provides aviation fuel and basic aircraft services for transient and based pilots.\n\nQ: How many runways does the airport have?\nA: The airport operates a single asphalt runway suitable for most small to mid-size general aviation aircraft.",
+  "transport_tips": "The airport is located just a few miles east of downtown Richmond, making it a short drive via US Route 40 or State Road 227. Rental cars and local taxi services can be arranged with advance notice, though on-site rental counters are not typically available. Visitors should coordinate ground transportation with their arrival ahead of time.",
+  "local_tip": "If you're visiting Richmond, consider stopping by the nearby Hayes Arboretum or the Indiana Football Hall of Fame—both are unique local attractions within a short drive of the airport and rarely crowded.",
+  "generatedAt": "2026-06-27T02:29:42.889Z",
+  "model": "MiniMax-M3"
+}

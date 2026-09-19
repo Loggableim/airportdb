@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ISL",
+    "icao": "LTBA",
+    "name": "İstanbul Atatürk Airport",
+    "country": "Turkey",
+    "city": "Istanbul(Bakırköy)",
+    "lat": 40.9719,
+    "lon": 28.8237,
+    "type": "large_airport",
+    "size": 850
+  },
+  "summary": "İstanbul Atatürk Airport was Istanbul's primary international gateway for decades before passenger operations transferred to the new Istanbul Airport in April 2019. Located in the Yeşilköy neighborhood of Bakırköy on the European side, it was once among the busiest airports in Europe. Today it functions in a limited capacity, handling cargo, general aviation, VIP, and charter flights while retaining its historic infrastructure.",
+  "faqs": "Q: Is İstanbul Atatürk Airport still used for commercial passenger flights?\nA: No. Scheduled commercial passenger operations were transferred to Istanbul Airport (IST) in April 2019. Atatürk now handles limited cargo, general aviation, VIP, and charter flights.\n\nQ: How far is Atatürk Airport from central Istanbul?\nA: The airport is located about 24 km (15 miles) west of the historic city center on the European side, near the Sea of Marmara coast.\n\nQ: Why is the airport named after Atatürk?\nA: It is named after Mustafa Kemal Atatürk (1881–1938), the founder and first President of the Republic of Turkey.\n\nQ: Can I still use the metro to reach Atatürk Airport?\nA: The M1 metro line historically served the airport, but service levels to the terminals have been reduced since the passenger transfer to Istanbul Airport. Check current transit options before traveling.",
+  "transport_tips": "The airport sits near the coast in Yeşilköy and is best reached by taxi, private transfer, or the M1 metro from",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T01:38:10.299Z",
+  "model": "MiniMax-M3"
+}

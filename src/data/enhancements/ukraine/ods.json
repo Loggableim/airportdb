@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ODS",
+    "icao": "UKOO",
+    "name": "Odesa International Airport",
+    "country": "Ukraine",
+    "city": "Odesa",
+    "lat": 46.4272,
+    "lon": 30.6726,
+    "type": "large_airport",
+    "size": 850
+  },
+  "summary": "Odesa International Airport serves Ukraine's major Black Sea port city of Odesa, located on the northwestern outskirts of the city. Established as a civil aviation facility during the Soviet era, it grew into one of Ukraine's busiest regional airports, historically hosting flights to Europe, the Middle East, and CIS countries. The single-terminal airport sits near the village of Tairove and features a single main runway oriented to handle both domestic and international traffic.",
+  "faqs": "Q: Where is Odesa International Airport located relative to the city center?\nA: The airport is situated approximately 7 km southwest of Odesa's city center, near the village of Tairove, making it a relatively quick journey to downtown attractions.\n\nQ: What types of flights does the airport handle?\nA: The airport is classified as a large airport and historically served a mix of domestic Ukrainian flights, European destinations, and routes to CIS and Middle Eastern countries.\n\nQ: Does the airport have facilities for international and domestic passengers?\nA: The airport operates from a single main terminal that has historically processed both international and domestic flights, typically with separate processing areas for each.\n\nQ: Is there a military presence at Odesa Airport?\nA: The airfield shares facilities with a military unit, which has historically been common for many Ukrainian regional airports.",
+  "transport_tips": "The most common ways to reach the city center from the airport are by taxi or pre-arranged transfer, with the journey typically taking 20-30 minutes depending on traffic on the M14 highway. Marshrutka (minibus) routes and trolleybus line 14 have historically connected the airport to central Odesa. Travelers are advised to arrange return transport in advance, especially for early morning departures when public service is limited.",
+  "local_tip": "Frequent visitors recommend allowing extra time during summer holiday periods when tourist traffic to the Black Sea coast peaks significantly, and suggest confirming your ground transport pickup point in advance as terminal access points can shift due to security arrangements.",
+  "generatedAt": "2026-06-29T01:38:17.126Z",
+  "model": "MiniMax-M3"
+}

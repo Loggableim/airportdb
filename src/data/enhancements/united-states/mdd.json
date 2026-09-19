@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MDD",
+    "icao": "KMDD",
+    "name": "Midland Airpark",
+    "country": "United States",
+    "city": "Midland",
+    "lat": 32.0365,
+    "lon": -102.101,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Midland Airpark is a small general aviation airport located in Midland, Texas, serving primarily private pilots and corporate aircraft in the Permian Basin oil region. The facility operates alongside the larger Midland International Air and Space Port, offering a convenient alternative for smaller aircraft and flight training operations. Its central location within the city provides quick access to downtown Midland and the surrounding oilfield business hubs.",
+  "faqs": "Q: What is the difference between Midland Airpark and Midland International Air and Space Port?\nA: Midland Airpark (MDD) is a smaller general aviation facility, while Midland International (MAF) handles commercial airline service. Pilots of private and corporate aircraft typically use MDD for its convenience and lighter traffic.\n\nQ: Does Midland Airpark have an air traffic control tower?\nA: The airport operates primarily as a uncontrolled or towered field depending on operational hours; pilots should check current NOTAMs and CTAF frequencies before arriving.\n\nQ: Are fuel services available at Midland Airpark?\nA: General aviation airports in the Midland area typically offer 100LL avgas and Jet-A fuel, though availability should be confirmed directly with the operator prior to arrival.\n\nQ: Is the airport open to the public?\nA: Yes, Midland Airpark is a public-use facility, though it is best suited for general aviation operations rather than commercial travel.",
+  "transport_tips": "Midland Airpark is located within the city limits, making ground transportation straightforward. Rental cars, ride-share services like Uber and Lyft, and taxi companies all serve the Midland area and can be arranged for pickup. Because the airport sees limited commercial traffic, travelers typically need to coordinate ground transport in advance rather than relying on airport shuttles.",
+  "local_tip": "If you're flying into Midland for oil and gas business, request a fuel stop and ground transport from the FBO ahead of time—the Permian Basin rig schedules often run before dawn, and early morning arrivals are common.",
+  "generatedAt": "2026-06-27T01:11:59.114Z",
+  "model": "MiniMax-M3"
+}

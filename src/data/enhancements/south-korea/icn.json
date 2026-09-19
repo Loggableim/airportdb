@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ICN",
+    "icao": "RKSI",
+    "name": "Incheon International Airport",
+    "country": "South Korea",
+    "city": "Seoul",
+    "lat": 37.4691,
+    "lon": 126.451,
+    "type": "large_airport",
+    "size": 51675
+  },
+  "summary": "Incheon International Airport (ICN) is South Korea's largest and busiest airport, situated on Yeongjong Island about 33 km west of central Seoul. Since opening in 2001, it has consistently been ranked among the world's best airports by Skytrax, winning the World's Best Airport award multiple times. It serves as the primary hub for Korean Air, Asiana Airlines, and several low-cost carriers, handling over 70 million passengers annually.",
+  "faqs": "Q: How far is Incheon Airport from central Seoul?\nA: The airport is approximately 33 km west of Seoul's city center, with travel times of 43-66 minutes by AREX train or 40-70 minutes by car depending on traffic.\n\nQ: Are there multiple terminals at Incheon Airport?\nA: Yes, the airport currently has two main passenger terminals (Terminal 1 and Terminal 2), with a third terminal planned for future expansion. Free shuttle trains connect the terminals.\n\nQ: Does Incheon Airport have good transit connections?\nA: Yes, the AREX (Airport Railroad Express) offers both express and all-stop services to Seoul Station, and there are extensive bus routes connecting to cities throughout South Korea.\n\nQ: Is there a place to rest or sleep between flights?\nA: Yes, Terminal 1 features free sleep pods and shower facilities, and the airport offers hotel services including a transit hotel and on-site capsule hotels within the secured areas.",
+  "transport_tips": "The AREX Express train is the fastest public option to central Seoul, taking about 43 minutes to Seoul Station for around 9,500 KRW. Taxis are readily available but can cost 55,000-75,000 KRW to downtown Seoul and take longer during rush hour. For travelers with early morning flights, several hotels near the airport offer shuttle services, and the Incheon Grand Park area provides more affordable accommodation options.",
+  "local_tip": "Visit the Korean Cultural Museum on the departures level of Terminal 1 for free traditional crafts, instrument demonstrations, and kimchi-making sessions that are easy to fit into a long layover without leaving the secure zone.",
+  "generatedAt": "2026-06-28T15:38:26.867Z",
+  "model": "MiniMax-M3"
+}

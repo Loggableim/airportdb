@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FKJ",
+    "icao": "RJNF",
+    "name": "Fukui Airport",
+    "country": "Japan",
+    "city": "Fukui",
+    "lat": 36.1428,
+    "lon": 136.224,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Fukui Airport (FKJ/RJNF) is a small regional airport serving Fukui Prefecture on the Sea of Japan coast in central Honshu. It primarily handles domestic flights, historically connecting the region with Tokyo Haneda and supporting limited seasonal routes. The airport features a single terminal and a single runway, serving as a convenient gateway for travelers visiting the Hokuriku region's cultural and natural attractions.",
+  "faqs": "Q: What airlines operate at Fukui Airport?\nA: Fukui Airport primarily serves domestic routes, with flight operations historically provided by regional carriers connecting to major hubs such as Tokyo Haneda.\n\nQ: How far is Fukui Airport from Fukui city center?\nA: The airport is located approximately 10 kilometers southwest of Fukui city center, with a typical drive taking around 20-30 minutes depending on traffic.\n\nQ: Does Fukui Airport have international flights?\nA: Fukui Airport is primarily a domestic facility, with international travel typically handled through larger nearby airports such as Komatsu or Chubu Centrair.\n\nQ: Are there car rental services at the airport?\nA: Yes, car rental counters are available at Fukui Airport, making it convenient for travelers exploring the broader Fukui Prefecture region.",
+  "transport_tips": "The most practical way to reach Fukui Airport is by car via local roads, with rental car facilities available on-site. Limited bus services connect the airport with Fukui Station and other key locations in the prefecture. Taxi services are also available but should be arranged in advance given the airport's smaller scale.",
+  "local_tip": "Frequent visitors recommend combining a Fukui Airport trip with a visit to Eiheiji Temple, one of the headquarters of Soto Zen Buddhism, located about 30 minutes away by car.",
+  "generatedAt": "2026-06-26T12:51:06.777Z",
+  "model": "MiniMax-M3"
+}

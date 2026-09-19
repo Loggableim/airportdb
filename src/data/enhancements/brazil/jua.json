@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JUA",
+    "icao": "SIZX",
+    "name": "Inácio Luís do Nascimento Airport",
+    "country": "Brazil",
+    "city": "Juara",
+    "lat": -11.2966,
+    "lon": -57.5495,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Inácio Luís do Nascimento Airport (JUA/SIZX) is a small regional airport serving Juara, a municipality in the northern part of Mato Grosso state in Brazil's Amazon transition zone. The facility provides essential air connectivity for this remote agricultural community, primarily supporting regional flights to larger hubs. Its modest infrastructure reflects its role as a vital link for local residents, ranchers, and soy/cattle producers in this frontier region.",
+  "faqs": "Q: Where is Inácio Luís do Nascimento Airport located?\nA: The airport is located near the city of Juara in the northern region of Mato Grosso state, Brazil, an area known for agricultural development and proximity to the Amazon basin.\n\nQ: What types of flights operate from JUA?\nA: JUA primarily handles small regional commercial flights, general aviation, and charter operations connecting Juara to other Brazilian cities.\n\nQ: How large is this airport?\nA: It is classified as a small airport with limited infrastructure, featuring a single runway suited primarily for smaller turboprop aircraft.\n\nQ: Are there international flights from this airport?\nA: No, the airport handles domestic regional flights only.",
+  "transport_tips": "The airport is located just a few kilometers from Juara's town center, making it accessible by taxi or local transport in a short drive. Rental cars are generally not available at the airport itself, so arranging ground transport in advance through a local hotel or contact is recommended. Road connections from Juara to other cities can be challenging, especially during the rainy season (November to April).",
+  "local_tip": "If traveling during the wet season, consider booking flexible tickets as regional flights to Juara are frequently delayed or rescheduled due to weather conditions common to the Amazon transition region.",
+  "generatedAt": "2026-06-26T22:36:26.315Z",
+  "model": "MiniMax-M3"
+}

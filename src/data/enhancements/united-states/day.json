@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DAY",
+    "icao": "KDAY",
+    "name": "James M. Cox Dayton International Airport",
+    "country": "United States",
+    "city": "Dayton",
+    "lat": 39.9024,
+    "lon": -84.2194,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "James M. Cox Dayton International Airport (DAY) is a medium-sized public airport serving the Dayton metropolitan area in Ohio, named after the former Ohio governor and newspaper publisher. The airport sits roughly 10 miles north of downtown Dayton and serves as a convenient gateway to a region famously known as the Birthplace of Aviation. It offers nonstop service to several major U.S. hubs and functions as a key air travel option for southwestern Ohio.",
+  "faqs": "Q: How far is the airport from downtown Dayton?\nA: The airport is approximately 10 miles north of downtown Dayton, typically a 15-20 minute drive depending on traffic.\n\nQ: What airlines operate from Dayton International Airport?\nA: The airport is served by several major carriers including American Airlines, Delta Air Lines, United Airlines, Southwest Airlines, and Allegiant Air, offering nonstop service to various domestic destinations.\n\nQ: Does the airport have on-site parking?\nA: Yes, the airport offers multiple parking options including short-term, long-term, and economy lots located close to the terminal.\n\nQ: Is there a hotel near the airport?\nA: Several hotels are located within a short drive of the terminal, with some offering complimentary shuttle service for guests.\n\n",
+  "transport_tips": "The airport is conveniently located near the intersection of Interstate 70 and Interstate 75, making it easily accessible by car from anywhere in the Dayton region. Rideshare services like Uber and Lyft, as well as traditional taxis and rental car agencies, are available at the terminal. Public transit options are limited, so driving or arranging a rideshare is generally the most practical choice.",
+  "local_tip": "Take advantage of Dayton's aviation heritage by visiting the National Museum of the United States Air Force, the world's largest military aviation museum, located just a short drive from the airport and free to enter.",
+  "generatedAt": "2026-06-29T01:53:35.917Z",
+  "model": "MiniMax-M3"
+}

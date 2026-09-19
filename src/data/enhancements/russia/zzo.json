@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZZO",
+    "icao": "UHSO",
+    "name": "Zonalnoye Airport",
+    "country": "Russia",
+    "city": "Tymovskoye",
+    "lat": 50.6699,
+    "lon": 142.7601,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Zonalnoye Airport is a small regional airfield serving Tymovskoye, a town in the Tymovsky District of Sakhalin Oblast in the Russian Far East. Located on Sakhalin Island, it supports limited general aviation and regional flights connecting the sparsely populated interior to other parts of the island. The airport operates with basic infrastructure typical of remote Russian Far Eastern airfields.",
+  "faqs": "Q: What type of aircraft typically use Zonalnoye Airport?\nA: The airport primarily handles small regional aircraft and general aviation, given its classification as a small airport with a modest size score.\n\nQ: Are there scheduled commercial flights from ZZO?\nA: Service is limited and may vary by season; travelers should check current regional airline schedules for Sakhalin Oblast connections.\n\nQ: What facilities are available at the airport?\nA: As a small regional airfield, Zonalnoye offers basic facilities with limited passenger amenities typical of remote Russian Far Eastern airports.\n\nQ: Is the airport open year-round?\nA: Operations at Sakhalin-region airports can be affected by harsh winter weather, so travelers should confirm seasonal availability.",
+  "transport_tips": "Getting to and from Zonalnoye Airport typically requires a road transfer, as public transit options are limited in the Tymovsky District. A private vehicle or pre-arranged taxi is the most reliable option, and the drive from central Tymovskoye is relatively short. Given the remote location, plan transportation in advance, especially during winter months when road conditions can be challenging.",
+  "local_tip": "Bring cash in rubles, as small remote airfields in Sakhalin often have limited card payment acceptance and few nearby ATMs or services once you leave the airport grounds.",
+  "generatedAt": "2026-06-27T15:12:51.560Z",
+  "model": "MiniMax-M3"
+}

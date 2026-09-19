@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CJS",
+    "icao": "MMCS",
+    "name": "Abraham González International Airport",
+    "country": "Mexico",
+    "city": "Ciudad Juárez",
+    "lat": 31.6367,
+    "lon": -106.4285,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Abraham González International Airport (CJS) is located in Ciudad Juárez, Chihuahua, serving as the primary air gateway to Mexico's important northern border industrial hub. Named after Abraham González, a key revolutionary figure who served as governor of Chihuahua and championed land reform in the early 20th century, the airport handles significant domestic traffic and serves the cross-border metropolitan area that includes El Paso, Texas. It is one of the busiest airports in northern Mexico, supporting both business travel tied to the region's manufacturing sector and tourism.",
+  "faqs": "Q: How far is the airport from downtown Ciudad Juárez?\nA: The airport is approximately 8 km (5 miles) southeast of downtown Ciudad Juárez, typically a 15-20 minute drive depending on traffic.\n\nQ: Are there international flights from CJS?\nA: The airport primarily operates domestic flights to destinations like Mexico City, Guadalajara, and Cancún, with some seasonal or charter international services. Most cross-border travelers use the nearby land ports of entry.\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard amenities including restaurants, car rental agencies, currency exchange, duty-free shops, and free Wi-Fi in passenger areas.\n\nQ: Is the airport near the US border?\nA: Yes, the airport is located just minutes from the US-Mexico border, making it convenient for travelers connecting to El Paso, Texas and the broader southwestern United States.",
+  "transport_tips": "Official taxi services and app-based rideshares are available at designated areas outside the terminal and offer fixed or metered rates to most parts of Ciudad Juárez. Several car rental agencies operate on-site, which can be useful for travelers heading into Chihuahua state or along the border region. For those crossing into El Paso, the Bridge of the Americas and other border crossings are roughly 20-30 minutes away by road.",
+  "local_tip": "If you have a long layover or early arrival, the Pronaf shopping district near the airport offers convenient retail and dining options, and the knowledgeable taxi drivers can point you toward authentic norteño cuisine like carne asada and burritos de discada that the region is famous for.",
+  "generatedAt": "2026-06-28T21:53:22.093Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OTU",
+    "icao": "SKOT",
+    "name": "Otu Airport",
+    "country": "Colombia",
+    "city": "Remedios",
+    "lat": 7.0105,
+    "lon": -74.7154,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Otu Airport is a small regional airfield serving the municipality of Remedios in the Antioquia department of Colombia, nestled in a mountainous area historically associated with gold mining. The airport primarily supports general aviation, charter flights, and connectivity for the surrounding mining communities in northeastern Antioquia. Its remote jungle-covered location makes it an important access point for travelers heading to one of Colombia's lesser-visited but culturally rich regions.",
+  "faqs": "Q: What is Otu Airport primarily used for?\nA: The airport mainly serves general aviation, charter flights, and provides access for workers and visitors connected to the regional gold mining industry around Remedios.\n\nQ: Are there commercial passenger flights to Otu?\nA: Scheduled commercial service is very limited. Most passengers use chartered small aircraft to reach this remote airfield.\n\nQ: Where is the airport located relative to Remedios?\nA: Otu Airport is situated near the town of Remedios in northeastern Antioquia, surrounded by tropical forest and mining settlements.\n\nQ: Is the airport suitable for large aircraft?\nA: No, the airfield accommodates only small propeller aircraft due to its runway length and remote mountain setting.\n\n",
+  "transport_tips": "Getting to Otu Airport typically requires a small charter aircraft from cities like Medellín or other regional hubs, as commercial service is minimal. Once on the ground, ground transportation to Remedios town is usually arranged in advance through your charter operator or local contacts, as taxi availability can be limited. Road access to the region is possible but involves long drives through winding mountain roads, so flying is often the preferred option for time-conscious travelers.",
+  "local_tip": "If visiting for the gold mining heritage, connect with local guides in Remedios before arrival to arrange a mine tour, as independent access to active mining areas is restricted and local knowledge greatly enriches the experience.",
+  "generatedAt": "2026-06-26T19:06:51.817Z",
+  "model": "MiniMax-M3"
+}

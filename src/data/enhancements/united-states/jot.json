@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JOT",
+    "icao": "KJOT",
+    "name": "Joliet Regional Airport",
+    "country": "United States",
+    "city": "Joliet",
+    "lat": 41.5178,
+    "lon": -88.1755,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Joliet Regional Airport (JOT) is a general aviation facility serving Joliet, Illinois, a southwest suburb of Chicago along the Des Plaines River. It primarily handles private, corporate, and flight training operations, serving as a convenient alternative to the busier Chicago-area airports. The airport features multiple runways and supports recreational flying, aircraft rental, and pilot instruction in the region.",
+  "faqs": "Q: What types of flights operate from Joliet Regional Airport?\nA: The airport primarily serves general aviation, including private pilots, flight training, recreational flying, and some corporate aircraft. There is no scheduled commercial airline service.\n\nQ: How far is Joliet Regional Airport from downtown Chicago?\nA: The airport is located approximately 45 miles southwest of downtown Chicago, roughly an hour's drive depending on traffic conditions.\n\nQ: Does the airport offer fuel and maintenance services?\nA: Yes, the airport provides aviation fuel (100LL and Jet A) along with aircraft maintenance, parking, and tie-down services for transient and based pilots.\n\nQ: Can I take flight lessons at Joliet Regional Airport?\nA: Yes, flight schools operate at the airport offering pilot training from private through advanced certificates, taking advantage of the airfield's training-friendly layout and proximity to Chicago airspace.\n\n",
+  "transport_tips": "A personal vehicle is the most convenient way to reach the airport, as there is no public transit directly serving the facility. Rideshare services like Uber and Lyft are available from the Joliet area, and rental cars can be arranged in advance. Interstate 80 and Route 53 provide the main highway access to the airport.",
+  "local_tip": "When filing a flight plan or communicating with Chicago Approach, request the Joliet transition early—airspace around Chicago can be busy and coordinating with TRACON ahead of time saves significant hassle.",
+  "generatedAt": "2026-06-27T04:48:06.540Z",
+  "model": "MiniMax-M3"
+}

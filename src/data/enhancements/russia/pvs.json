@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PVS",
+    "icao": "UHMD",
+    "name": "Provideniya Bay Airport",
+    "country": "Russia",
+    "city": "Chukotka",
+    "lat": 64.3781,
+    "lon": -173.243,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Provideniya Bay Airport is a regional airport serving the remote settlement of Provideniya on the Chukotka Peninsula in Russia's Far East, near the Bering Strait. Positioned close to the International Date Line, it functions as a vital link for the sparsely populated region, supporting both passenger travel and supply operations. The airport handles flights connecting Chukotka communities with mainland Russia, particularly hubs like Anadyr and Moscow.",
+  "faqs": "Q: Where is Provideniya Bay Airport located?\nA: It is located in Chukotka Autonomous Okrug, in Russia's Far East, near the Bering Strait and relatively close to Alaska.\n\nQ: What type of flights operate from the airport?\nA: The airport primarily serves regional passenger flights connecting to Anadyr and other Russian cities, along with charter and cargo operations supporting the remote region.\n\nQ: Is the airport open year-round?\nA: Yes, but operations can be affected by harsh Arctic weather, including strong winds, heavy snow, and low visibility, especially in winter months.\n\nQ: Does the airport have international flights?\nA: Historically it had cross-Bering connections, but currently it primarily serves domestic Russian routes.\n\n",
+  "transport_tips": "The airport is located on the outskirts of Provideniya settlement, and access is typically by foot, local vehicle, or arranged transport. There is no rail service to the region, and road connections are limited due to the remote tundra terrain. Travelers should arrange ground transport in advance, as taxis and shuttle services may be limited, especially outside scheduled flight times.",
+  "local_tip": "Pack extra snacks and warm layers in your carry-on—flights can be delayed by weather, and the terminal facilities are basic, so having your own supplies makes layovers much more comfortable.",
+  "generatedAt": "2026-06-26T08:31:31.241Z",
+  "model": "MiniMax-M3"
+}

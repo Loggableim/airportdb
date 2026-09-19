@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KWH",
+    "icao": "OAHN",
+    "name": "Khwahan Airport",
+    "country": "Afghanistan",
+    "city": "Khwahan",
+    "lat": 37.89,
+    "lon": 70.2038,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Khwahan Airport (KWH) is a small regional airfield serving the remote town of Khwahan in Badakhshan Province, northeastern Afghanistan, near the Tajik border. Nestled in the mountainous Pamir foothills, it primarily supports light aircraft and humanitarian missions connecting this isolated community to larger hubs. The airport plays a vital role in providing access to an area otherwise reachable only by challenging mountain roads.",
+  "faqs": "Q: Where is Khwahan Airport located?\nA: Khwahan Airport is located in the town of Khwahan in Badakhshan Province, northeastern Afghanistan, close to the border with Tajikistan.\n\nQ: What type of aircraft typically uses Khwahan Airport?\nA: The airport primarily handles small turboprop aircraft and helicopters, as it is classified as a small regional airfield.\n\nQ: Are there commercial passenger flights to Khwahan?\nA: Scheduled commercial service is very limited; most flights are operated by humanitarian, NGO, or charter aircraft serving the local community.\n\nQ: Is Khwahan Airport open to international flights?\nA: No, it is a domestic small airport and does not handle scheduled international passenger traffic.",
+  "transport_tips": "Access to Khwahan Airport is typically by local road, which can be slow and weather-dependent due to the surrounding mountainous terrain. Travelers should arrange ground transport in advance through local contacts or operators, as taxi availability near the airfield is limited. During winter months, road access may be disrupted by snow, making the airport one of the few reliable links to the outside world.",
+  "local_tip": "Mountain weather in Badakhshan can change rapidly—flights are frequently delayed or rescheduled due to low ceilings and strong winds, so always build extra buffer days into your travel plans.",
+  "generatedAt": "2026-06-27T13:08:00.419Z",
+  "model": "MiniMax-M3"
+}

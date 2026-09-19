@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLA",
+    "icao": "LMML",
+    "name": "Malta International Airport",
+    "country": "Malta",
+    "city": "Valletta",
+    "lat": 35.8459,
+    "lon": 14.4915,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Malta International Airport (MLA) is the sole commercial airport serving the Maltese archipelago, situated in Luqa approximately 8 km southwest of Valletta. Originally established in the late 1950s at the site of a former RAF base, it has grown into the primary gateway for the island nation, handling several million passengers annually. The airport features a modern single-terminal complex that has undergone significant expansion to accommodate growing tourism and low-cost carrier traffic.",
+  "faqs": "Q: How far is Malta International Airport from Valletta?\nA: The airport is roughly 8 km southwest of Valletta, with typical journey times of 15-25 minutes depending on traffic.\n\nQ: What airlines operate from MLA?\nA: Air Malta serves as the national carrier, while numerous European low-cost and flag carriers including Ryanair, easyJet, Lufthansa, and British Airways offer regular scheduled flights.\n\nQ: Is there a direct bus connection to Valletta?\nA: Yes, several public bus routes operated by Malta Public Transport connect the airport directly to Valletta and other major destinations across the island.\n\nQ: Can I fly directly to Gozo from this airport?\nA: No, MLA is the only airport for the Maltese Islands; reaching Gozo requires a short ferry crossing from the northern coast of Malta.\n\n",
+  "transport_tips": "Public bus routes TD1 and TD2 provide direct connections to Valletta and other key destinations at very affordable fares. Taxis are available outside the terminal with fixed rates to most destinations; pre-booked private transfers are recommended during peak summer months. Rental cars are easily arranged at the airport, though visitors should note that Malta drives on the left side of the road.",
+  "local_tip": "The viewing terrace on the upper level of the departures area offers excellent plane-spotting opportunities and is one of the few remaining public airport terraces in Europe worth visiting during a long layover.",
+  "generatedAt": "2026-06-28T16:15:15.910Z",
+  "model": "MiniMax-M3"
+}

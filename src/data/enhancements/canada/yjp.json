@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YJP",
+    "icao": "",
+    "name": "Jasper-Hinton Airport",
+    "country": "Canada",
+    "city": "Hinton",
+    "lat": 53.3192,
+    "lon": -117.753,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Jasper-Hinton Airport (YJP) is a small regional airport serving Hinton, Alberta, and providing convenient access to the eastern gateway of Jasper National Park. Situated in the rugged Canadian Rockies foothills, the airport primarily handles general aviation, charter flights, and occasional scheduled services. It functions as an alternative to the larger Edmonton International Airport for visitors heading to the Jasper region.",
+  "faqs": "Q: What airlines operate at Jasper-Hinton Airport?\nA: The airport primarily serves general aviation and charter operators, with limited or no regularly scheduled commercial passenger service.\n\nQ: Where is the airport located relative to Jasper National Park?\nA: The airport is in Hinton, approximately 80 km east of Jasper townsite, near the eastern entrance to Jasper National Park.\n\nQ: Is there an instrument approach available at YJP?\nA: The airport supports general aviation operations including non-precision approaches, though pilots should verify current NOTAMs and conditions before flight.\n\nQ: Are there customs and immigration facilities?\nA: No, the airport does not have permanent Canada Border Services Agency (CBSA) staffing, so international arrivals require prior arrangement.",
+  "transport_tips": "Rental car services are the primary means of ground transportation from the airport, so arranging a vehicle in advance is strongly recommended. The town of Hinton is only a short drive from the airport, and Highway 16 provides direct access east toward Edmonton or west into Jasper National Park. Taxi services may be limited and should be pre-arranged, as there is no regular public transit serving the airport.",
+  "local_tip": "If flying in for a Jasper National Park visit, consider coordinating your arrival with sunrise to enjoy the mountain views along Highway 16 west—a scenic drive that rivals many of the park's interior routes.",
+  "generatedAt": "2026-06-27T03:21:47.446Z",
+  "model": "MiniMax-M3"
+}

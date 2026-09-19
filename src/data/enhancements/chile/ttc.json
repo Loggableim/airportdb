@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TTC",
+    "icao": "SCTT",
+    "name": "Las Breas Airport",
+    "country": "Chile",
+    "city": "Taltal",
+    "lat": -25.5643,
+    "lon": -70.3759,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Las Breas Airport (TTC/SCTT) is a medium-sized airport serving Taltal, a remote coastal town in Chile's Antofagasta Region. Located in the hyper-arid Atacama Desert near the Pacific coast, it primarily supports the local mining industry and provides a vital air link for the otherwise isolated community. The airport features a single runway suited for regional turboprop aircraft.",
+  "faqs": "Q: What is the main purpose of Las Breas Airport?\nA: The airport primarily supports the mining sector and connects the remote town of Taltal with larger Chilean cities, as road travel to the area is lengthy due to desert terrain.\n\nQ: Are there regular commercial flights to Taltal?\nA: Commercial service is limited and typically operated by regional carriers on small turboprop aircraft; schedules may vary based on demand and mining activity.\n\nQ: How far is the airport from Taltal's town center?\nA: The airport is located a short drive from central Taltal, making ground transfers relatively quick.\n\nQ: What facilities are available at the terminal?\nA: The terminal is modest, offering basic passenger services suitable for regional flights, without extensive amenities found at major airports.\n\n",
+  "transport_tips": "Ground transportation options are limited; arranging a vehicle in advance through your hotel or a local contact is advisable, as taxi availability can be sporadic. The Pan-American Highway (Ruta 5) connects Taltal to the rest of northern Chile, but expect long driving distances to the nearest major city, Antofagasta, roughly 300 km to the north. Rental cars in Taltal are scarce, so planning ahead is essential.",
+  "local_tip": "Taltal sits near the stunning Parque Nacional Pan de Azúcar, home to Humboldt penguins and dramatic desert-meets-sea landscapes—consider asking your pilot or local contact about visiting this park, as it's one of Chile's hidden coastal gems rarely seen by typical tourists.",
+  "generatedAt": "2026-06-26T12:13:14.083Z",
+  "model": "MiniMax-M3"
+}

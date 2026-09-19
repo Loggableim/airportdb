@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KTM",
+    "icao": "VNKT",
+    "name": "Tribhuvan International Airport",
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "lat": 27.6966,
+    "lon": 85.3591,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Tribhuvan International Airport (KTM) is Nepal's primary international gateway and the main hub for both international and domestic flights. Named after King Tribhuvan Bir Bikram Shah Dev, the country's first democratically elected monarch, the airport sits in the Kathmandu Valley and serves as the principal access point for travelers heading to the Himalayas, including Mount Everest and the Annapurna region. It is considered one of the more technically demanding airports due to its location surrounded by mountainous terrain.",
+  "faqs": "Q: How far is Tribhuvan International Airport from central Kathmandu?\nA: The airport is located approximately 6 km (3.7 miles) east of the city center, with typical travel times of 20–40 minutes depending on traffic.\n\nQ: Does the airport have both international and domestic terminals?\nA: Yes, KTM operates separate international and domestic terminals on the same complex, with domestic flights mainly serving destinations like Pokhara, Lukla, and Bharatpur.\n\nQ: Why is flying into Kathmandu considered challenging?\nA: The airport is surrounded by high mountains, requiring specially trained pilots and aircraft capable of handling the terrain and variable weather conditions.\n\nQ: Are there good lounges available at KTM?\nA: The airport offers a few lounges including the Executive Lounge and various airline-affiliated options, though facilities are generally modest compared to major international hubs.",
+  "transport_tips": "Pre-paid taxis are available at designated counters inside the terminal and offer fixed rates to major areas of Kathmandu. Hotel-arranged pickups are recommended for first-time visitors, as local taxi drivers may not always speak English. Ride-hailing apps like Pathao operate in Kathmandu and can be used for airport transfers.",
+  "local_tip": "Morning flights are significantly more reliable than afternoon ones, especially during the monsoon season (June–September), as afternoon thunderstorms and visibility issues frequently cause delays.",
+  "generatedAt": "2026-06-28T18:46:52.582Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WOL",
+    "icao": "",
+    "name": "Shellharbour Airport",
+    "country": "Australia",
+    "city": "Albion Park Rail",
+    "lat": -34.5611,
+    "lon": 150.789,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Shellharbour Airport is a regional airport serving the Illawarra region of New South Wales, located in Albion Park Rail approximately 100 km south of Sydney. It provides an alternative to Sydney Airport for residents of the Wollongong and Shellharbour areas, handling general aviation, charter flights, flight training, and occasional commercial services. The airport has grown in importance as the South Coast region's primary aviation gateway.",
+  "faqs": "Q: Where is Shellharbour Airport located?\nA: It is situated in Albion Park Rail, New South Wales, serving the Illawarra and South Coast regions approximately 20 km south of Wollongong.\n\nQ: What airlines operate from Shellharbour Airport?\nA: The airport primarily supports general aviation, charter services, and flight training operations, with limited scheduled commercial services.\n\nQ: How far is Shellharbour Airport from Sydney?\nA: The airport is roughly 100 km south of Sydney, typically about a 90-minute drive via the M1 Princes Motorway.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport provides on-site parking facilities for short-term and long-term use near the terminal.\n\n",
+  "transport_tips": "The easiest way to reach Shellharbour Airport is by car, with the drive from Wollongong taking approximately 25-30 minutes via the Princes Highway. Limited public transport options are available, with occasional bus services connecting nearby suburbs to the airport. Taxi and rideshare services are the most reliable options for those without their own transport.",
+  "local_tip": "If you're flying in for a South Coast getaway, consider renting a car at the airport as the region's beaches, such as Shellharbour and Kiama, are spread out and best explored with your own transport.",
+  "generatedAt": "2026-06-29T07:22:19.617Z",
+  "model": "MiniMax-M3"
+}

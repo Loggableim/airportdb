@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "USA",
+    "icao": "KJQF",
+    "name": "Concord-Padgett Regional Airport",
+    "country": "United States",
+    "city": "Concord",
+    "lat": 35.3878,
+    "lon": -80.7091,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Concord-Padgett Regional Airport (JQF) is a medium-sized public-use airport located in Concord, North Carolina, roughly 20 miles northeast of Charlotte. It serves as a reliever airport for Charlotte Douglas International and is closely tied to the motorsports industry, given Concord's identity as the home of Charlotte Motor Speedway. The airport supports general aviation, corporate flights, and air taxi operations in the rapidly growing Charlotte metro region.",
+  "faqs": "Q: Where is Concord-Padgett Regional Airport located?\nA: It is situated in Cabarrus County, North Carolina, about 7 miles west of downtown Concord and approximately 20 miles northeast of uptown Charlotte.\n\nQ: What types of flights operate at JQF?\nA: The airport primarily handles general aviation, corporate, charter, and air taxi flights, with no scheduled commercial passenger service.\n\nQ: Is the airport associated with NASCAR?\nA: Yes, Concord is home to Charlotte Motor Speedway, and the airport frequently serves motorsports teams, drivers, and related personnel traveling to events.\n\nQ: How large is the airport?\nA: It is classified as a medium-sized regional facility with a single primary runway and supporting infrastructure for business and recreational aviation.\n\n",
+  "transport_tips": "The airport is most easily reached by car via US-29 and George W. Liles Parkway, with parking available on-site. Rental car services and rideshare options serve the area, though booking ahead is recommended since on-site options can be limited. Since there is no commercial airline service, travelers typically use Charlotte Douglas International (CLT) for scheduled flights and drive roughly 30 minutes to reach Concord.",
+  "local_tip": "If you are visiting for a NASCAR event at Charlotte Motor Speedway, consider scheduling your arrival or departure around race day traffic, as roads near the speedway and the airport can become heavily congested during major race weekends.",
+  "generatedAt": "2026-06-29T18:29:13.568Z",
+  "model": "MiniMax-M3"
+}

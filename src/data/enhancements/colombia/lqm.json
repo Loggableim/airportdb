@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LQM",
+    "icao": "SKLG",
+    "name": "Caucaya Airport",
+    "country": "Colombia",
+    "city": "Puerto Leguízamo",
+    "lat": -0.1823,
+    "lon": -74.7708,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Caucaya Airport (LQM/SKLG) serves the remote Amazonian town of Puerto Leguízamo in Colombia's Putumayo Department, situated near the confluence of the Putumayo and Caquetá rivers close to the borders with Ecuador and Peru. As the primary air link for this isolated southern region, the small airport is essential for connecting local communities, including several indigenous groups, with the rest of Colombia. The surrounding area is rich in biodiversity and forms part of the western Amazon rainforest.",
+  "faqs": "Q: What is the IATA code for Caucaya Airport?\nA: The IATA code is LQM and the ICAO code is SKLG.\n\nQ: Where is Caucaya Airport located?\nA: It is located in Puerto Leguízamo, in Colombia's Putumayo Department, in the southern Amazon region near the Ecuadorian and Peruvian borders.\n\nQ: What kind of flights operate from Caucaya Airport?\nA: The airport primarily handles domestic regional flights connecting Puerto Leguízamo with other Colombian cities, as road access to the area is limited.\n\nQ: Is Caucaya Airport open to international flights?\nA: No, it is classified as a small domestic airport serving mainly internal Colombian routes.",
+  "transport_tips": "Getting from Caucaya Airport to Puerto Leguízamo town center is straightforward, as the airport is located just a few kilometers from the town and taxi or motorcycle taxi services are typically available upon arrival. Due to the remote location, travelers should arrange onward transportation in advance, especially for reaching river ports or nearby indigenous communities. Flights can occasionally be delayed or rescheduled due to weather conditions common to the Amazon basin, so flexible planning is recommended.",
+  "local_tip": "Pack light and bring insect repellent and a rain jacket—Puerto Leguízamo's tropical climate and proximity to the Amazon jungle mean frequent rain showers and mosquitoes are part of the daily experience, even right at the airport.",
+  "generatedAt": "2026-06-26T19:05:54.617Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SYR",
+    "icao": "KSYR",
+    "name": "Syracuse Hancock International Airport",
+    "country": "United States",
+    "city": "Syracuse",
+    "lat": 43.1112,
+    "lon": -76.1063,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Syracuse Hancock International Airport (SYR) is the primary airport serving central New York State and the Syracuse metropolitan area. Named after Colonel Clarence E. Hancock, a decorated World War I pilot and prominent local figure, the airport has served the region since its origins in the late 1920s. It operates with a single terminal featuring two concourses and handles both commercial service and general aviation.",
+  "faqs": "Q: How far is Syracuse Hancock International Airport from downtown Syracuse?\nA: The airport is located approximately 7 miles northwest of downtown Syracuse, typically a 15-20 minute drive depending on traffic.\n\nQ: Does SYR have direct international flights?\nA: The airport primarily handles domestic flights, with most international connections made through major hub airports.\n\nQ: How many terminals does Syracuse Hancock Airport have?\nA: The airport operates from a single main terminal building with two concourses (A and B) for passenger boarding.\n\nQ: Is there a military presence at SYR?\nA: The airport shares its grounds with the New York Air National Guard's 174th Attack Wing, which operates from an adjacent facility.",
+  "transport_tips": "Taxi and rideshare services are readily available at the ground transportation area outside baggage claim, with typical fares to downtown Syracuse running around $20-25. Interstate 81 provides the most direct route to and from the airport, with clear signage from the city center. Several hotels in the area offer shuttle services, and rental car counters are located on-site for those preferring to drive themselves.",
+  "local_tip": "If you have a long layover or early morning flight, the airport's observation area and the nearby Air National Guard base offer occasional glimpses of military aircraft operations—a bonus for aviation enthusiasts visiting central New York.",
+  "generatedAt": "2026-06-28T16:30:10.533Z",
+  "model": "MiniMax-M3"
+}

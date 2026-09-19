@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ACB",
+    "icao": "KACB",
+    "name": "Antrim County Airport",
+    "country": "United States",
+    "city": "Bellaire",
+    "lat": 44.9886,
+    "lon": -85.1984,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Antrim County Airport (ACB/KACB) is a small general aviation facility serving Bellaire, Michigan, a village nestled in the northwestern Lower Peninsula near the Chain of Lakes region. The airport primarily supports recreational flying, private aircraft, and seasonal traffic associated with the area's tourism economy, including nearby Shanty Creek Resorts. Its location among Michigan's hardwood forests and inland lakes makes it a popular entry point for visitors exploring northern Lower Peninsula destinations.",
+  "faqs": "Q: What types of flights does Antrim County Airport handle?\nA: The airport primarily serves general aviation, including private, recreational, and business flights. There are no scheduled commercial airline services.\n\nQ: Are there car rental services available at ACB?\nA: Rental car availability is limited; visitors typically arrange ground transportation in advance through local providers in Bellaire or nearby towns.\n\nQ: Can the airport accommodate larger aircraft?\nA: ACB is designed for small to medium general aviation aircraft. Pilots should review current runway data and approach information before planning arrivals.\n\nQ: What is the best time of year to fly into Bellaire?\nA: Summer and fall are popular for lake and foliage tourism, while winter brings increased traffic due to nearby ski resorts at Shanty Creek.",
+  "transport_tips": "Bellaire is about a 5-10 minute drive from the airport, and most visitors rely on personal vehicles or pre-arranged shuttles since public transit options are minimal. The airport is conveniently located near M-88, providing easy road access to surrounding communities like Mancelona, Alden, and Elk Rapids. During winter months, allow extra travel time as snow can affect both road and runway conditions.",
+  "local_tip": "After landing, head into downtown Bellaire for a stop at Short's Brewing Company, a well-known craft brewery founded in the village that's become a destination in its own right for travelers flying into the area.",
+  "generatedAt": "2026-06-27T08:48:45.849Z",
+  "model": "MiniMax-M3"
+}

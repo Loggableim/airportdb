@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SQL",
+    "icao": "KSQL",
+    "name": "San Carlos Airport",
+    "country": "United States",
+    "city": "San Carlos",
+    "lat": 37.5131,
+    "lon": -122.2508,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "San Carlos Airport is a general aviation airfield serving the San Francisco Peninsula, situated between San Francisco International and San Jose in the city of San Carlos, California. Operated by the County of San Mateo, it primarily handles private aircraft, flight training, and small corporate jets rather than commercial flights. Its convenient location near major Bay Area tech hubs makes it a popular base for business aviation and recreational pilots.",
+  "faqs": "Q: What is San Carlos Airport primarily used for?\nA: It serves general aviation activities including private flights, flight training, small business jets, and recreational flying. There are no scheduled commercial airline services.\n\nQ: How far is San Carlos Airport from San Francisco International Airport?\nA: The airport is located approximately 20 miles south of SFO, making it a convenient alternative for private aviation on the Peninsula.\n\nQ: Does San Carlos Airport have a control tower?\nA: Yes, the airport has an operating air traffic control tower during published hours, helping manage the mix of training and transient aircraft.\n\nQ: Can I fly into San Carlos Airport with a small private plane?\nA: Yes, the airport welcomes general aviation traffic with a single asphalt runway suitable for small and mid-size aircraft, though pilots should verify current runway and noise abatement procedures before arriving.",
+  "transport_tips": "The airport is easily reached by car via Highway 101, with surface streets leading directly to the facility from nearby El Camino Real. Parking is available on-site for visitors picking up or dropping off passengers. Ride-share services and taxis from SFO or downtown San Francisco typically take 30 to 45 minutes depending on traffic.",
+  "local_tip": "Frequent visitors recommend contacting the on-site FBO in advance, especially during peak Bay Area flight training hours, to confirm tie-down availability and fuel service since the airport can get busy with student traffic on weekends.",
+  "generatedAt": "2026-06-29T18:12:35.198Z",
+  "model": "MiniMax-M3"
+}

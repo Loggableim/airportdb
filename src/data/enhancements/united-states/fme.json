@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FME",
+    "icao": "KFME",
+    "name": "Fort Meade Executive Airport",
+    "country": "United States",
+    "city": "Fort Meade(Odenton)",
+    "lat": 39.0854,
+    "lon": -76.7594,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Fort Meade Executive Airport (FME/KFME), also known as Tipton Airport, is a public general-aviation airport in Fort Meade near Odenton, Maryland, roughly midway between Baltimore and Washington, D.C. It originated as a military airfield and now serves as a reliever for BWI, with a single 3,000-foot runway and no scheduled airline service. Its location makes it convenient for business and military-related travel to Fort George G. Meade and the surrounding Anne Arundel County area.",
+  "faqs": "Q: What is the airport code for Fort Meade Executive Airport?\nA: It uses IATA FME, ICAO KFME, and FAA LID FME; it is also commonly called Tipton Airport.\n\nQ: Does the airport have commercial airline service?\nA: No, it is a general-aviation airport with no scheduled passenger flights; it supports private, business, and military-related aircraft.\n\nQ: What runway and facilities are available?\nA: It has one asphalt runway, 10/28, measuring 3,000 by 75 feet, plus basic general-aviation services such as fuel and tiedown/parking; check with the FBO for current hours and services.\n\nQ: How far is it from Baltimore and Washington?\nA: It is about 15-20 miles from Baltimore and 25-30 miles from Washington, D.C., depending on route and traffic, and is close to BWI Airport.",
+  "transport_tips": "By car, the airport is reached from MD Route 32 and MD Route 175 near Odenton/Fort Meade; rideshare, taxi, and rental car are the most practical options since there is no direct rail or bus service to the terminal. The Odenton MARC station and BWI Thurgood Marshall Airport are both a short drive away, but allow extra time for Fort Meade security checks if your route passes through a controlled gate. On-airport parking is generally available for based and transient aircraft; confirm access procedures with the airport/FBO before arrival.",
+  "local_tip": "Pilots should review the Washington D.C. SFRA/FRZ and Baltimore Class B airspace before flying in or out, and plan for the 3,000-foot runway—especially on hot or loaded departures. A frequent visitor tip is to call ahead for fuel and courtesy-car availability if you need to reach Odenton or Fort Meade quickly.",
+  "generatedAt": "2026-09-19T23:08:23.197Z",
+  "model": "deepseek-v4.1-flash"
+}

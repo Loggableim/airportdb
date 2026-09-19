@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VGD",
+    "icao": "ULWW",
+    "name": "Vologda Airport",
+    "country": "Russia",
+    "city": "Vologda",
+    "lat": 59.2825,
+    "lon": 39.9444,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Vologda Airport (VGD) is a regional airport serving the historic city of Vologda in northwestern Russia, situated in a region renowned for its preserved wooden architecture and the Vologda Kremlin. The airport primarily handles domestic flights and provides essential connectivity for this cultural and industrial center located roughly 450 kilometers north of Moscow. It serves as an important gateway for visitors exploring the Vologda Oblast and its traditional heritage sites.",
+  "faqs": "Q: What airlines operate from Vologda Airport?\nA: The airport primarily serves domestic routes, with carriers such as Aeroflot and regional operators historically providing flights to and from Moscow and other Russian cities.\n\nQ: How far is Vologda Airport from the city center?\nA: The airport is located approximately 10 kilometers from central Vologda, making it a relatively quick trip by road.\n\nQ: Does Vologda Airport handle international flights?\nA: The airport mainly operates domestic services; international travelers typically arrive through Moscow's larger airports.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers standard passenger amenities including a terminal building, basic waiting areas, and ground transport options.\n\n",
+  "transport_tips": "Taxis and marshrutkas (fixed-route minibuses) are the most common ways to reach the city center from Vologda Airport, with a journey time of roughly 15-20 minutes depending on traffic. Pre-booking a taxi through a local service or hotel is recommended for convenience, especially during winter months when weather can affect road conditions. Public bus services also connect the airport area to the city.",
+  "local_tip": "If you have a layover or extra time, visit the Vologda Kremlin and the nearby Spaso-Prilutsky Monastery—both are within the city and showcase the region's distinctive traditional architecture. Try the locally produced butter (Vologda Butter is a celebrated Russian brand) and the famous Vologda lace, which makes for a unique souvenir.",
+  "generatedAt": "2026-06-26T10:48:29.690Z",
+  "model": "MiniMax-M3"
+}

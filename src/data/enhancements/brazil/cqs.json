@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CQS",
+    "icao": "SWCQ",
+    "name": "Costa Marques Airport",
+    "country": "Brazil",
+    "city": "Costa Marques",
+    "lat": -12.4211,
+    "lon": -64.2516,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Costa Marques Airport (CQS/SWCQ) is a small regional airport serving the remote municipality of Costa Marques in the state of Rondônia, western Brazil, near the Bolivian border. The facility primarily handles light aircraft and regional flights connecting this Amazonian riverside community to other parts of Rondônia. Its location along the Mamoré River basin makes it an important link for a region accessible mainly by river and air.",
+  "faqs": "Q: What type of aircraft operate at Costa Marques Airport?\nA: The airport primarily serves small regional aircraft and general aviation, as it is classified as a small airport with a single runway suited for light planes.\n\nQ: Are there scheduled commercial flights to Costa Marques?\nA: Scheduled service is limited and irregular. Most travelers reach Costa Marques via Porto Velho (PVH) with onward regional flights or by road and river transport.\n\nQ: What facilities are available at the airport?\nA: As a small regional facility, amenities are basic. Passengers should expect minimal terminal services and plan accordingly.\n\nQ: Is the airport near the Bolivian border?\nA: Yes, Costa Marques is located in a border region of Rondônia, close to Bolivia, and serves cross-border communities along the Mamoré River.",
+  "transport_tips": "Reaching Costa Marques typically requires flying into Porto Velho (PVH) first, followed by a regional flight or a long road journey. River boats along the Mamoré River are a common alternative mode of transport in the region. Given limited scheduled service, arranging ground transport in advance is strongly recommended.",
+  "local_tip": "Carry cash in small Brazilian reais denominations, as ATMs and card acceptance are limited in Costa Marques, and the airport itself offers no banking or currency services.",
+  "generatedAt": "2026-06-27T20:31:26.384Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RED",
+    "icao": "KRVL",
+    "name": "Mifflin County Airport",
+    "country": "United States",
+    "city": "Reedsville",
+    "lat": 40.6774,
+    "lon": -77.6268,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mifflin County Airport is a small, publicly owned general aviation facility serving Reedsville and the surrounding Mifflin County area in central Pennsylvania. Located in the scenic ridges and valleys of central PA, it primarily accommodates private pilots, flight training, and recreational flying. The airport provides a convenient gateway for visitors to the Juniata River region and is within driving distance of State College and Penn State University.",
+  "faqs": "Q: What type of airport is Mifflin County Airport?\nA: It is a small general aviation airport primarily serving private and recreational aircraft, with no scheduled commercial airline service.\n\nQ: Is there a control tower at KRVL?\nA: No, Mifflin County Airport operates as a non-towered field, requiring pilots to use common traffic advisory frequency procedures.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, tie-downs, and aircraft parking areas, and it supports flight training and general aviation operations.\n\nQ: How far is the airport from State College?\nA: Mifflin County Airport is located approximately 20 miles southeast of State College, making it a possible alternative landing field for visitors to the Penn State region.",
+  "transport_tips": "Reaching Mifflin County Airport is easiest by car, as it is located just off US Route 322 near Reedsville. Rental car arrangements should be made in advance through nearby providers, as the airport has no on-site commercial ground transportation. Visitors flying in should coordinate pickup with local contacts, as taxi and rideshare availability is limited in this rural area.",
+  "local_tip": "If you're visiting the area, consider stopping by the Reedsville area for Amish country experiences, and time your visit around the Mifflin County Arts & Crafts Festival if flying in during the summer months.",
+  "generatedAt": "2026-06-27T04:30:36.945Z",
+  "model": "MiniMax-M3"
+}

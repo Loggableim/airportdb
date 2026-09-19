@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BNP",
+    "icao": "OPBN",
+    "name": "Bannu Airport",
+    "country": "Pakistan",
+    "city": "Bannu",
+    "lat": 32.9729,
+    "lon": 70.5279,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Bannu Airport (BNP/OPBN) is a small domestic airport serving the city of Bannu in the southern part of Khyber Pakhtunkhwa province, Pakistan. Situated in a fertile valley near the historic Kurram and Waziristan regions, it primarily handles limited civilian and occasional charter flights. The airport provides vital air connectivity for a region that is otherwise relatively remote from Pakistan's major urban centers.",
+  "faqs": "Q: What is the IATA code for Bannu Airport?\nA: The IATA code is BNP, and the ICAO code is OPBN.\n\nQ: Does Bannu Airport have regular commercial flights?\nA: Scheduled commercial service is limited and infrequent; flights are typically operated by Pakistan International Airlines on a need basis or as charters.\n\nQ: Where is Bannu Airport located relative to the city?\nA: The airport is located on the outskirts of Bannu city in Khyber Pakhtunkhwa province, near the border areas with the former FATA regions.\n\nQ: What facilities are available at Bannu Airport?\nA: As a small airport, it offers basic terminal facilities with limited passenger amenities; travelers should expect minimal services and plan accordingly.",
+  "transport_tips": "Taxis and rickshaws are typically available outside the terminal for transport into Bannu city, which is a short drive away. Road access connects the airport to the main N-55 Indus Highway, making onward travel to Dera Ismail Khan and other regional destinations straightforward. Travelers should arrange ground transport in advance, as public transport options near the airport are limited.",
+  "local_tip": "Bannu is famous for its dates (khajoor) and traditional salt deposits; pick up some local dates as a souvenir from the bazaar, which is more memorable than anything available at the airport.",
+  "generatedAt": "2026-06-26T16:48:11.546Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GRU",
+    "icao": "SBGR",
+    "name": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "lat": -23.4313,
+    "lon": -46.47,
+    "type": "large_airport",
+    "size": 1016675
+  },
+  "summary": "São Paulo/Guarulhos–Governor André Franco Montoro International Airport (GRU) is Brazil's busiest airport and the primary international gateway for South America's largest city. Originally established as a military air base, it now serves as the main hub for LATAM Airlines and handles the majority of the country's international traffic. Located in Guarulhos, roughly 25 km northeast of downtown São Paulo, the airport features modern terminals and extensive connections across the Americas, Europe, and Asia.",
+  "faqs": "Q: How far is Guarulhos Airport from downtown São Paulo?\nA: The airport is approximately 25 km (15 miles) from São Paulo's city center, with travel times typically ranging from 45 minutes to 1.5 hours depending on traffic conditions.\n\nQ: How many terminals does GRU have?\nA: GRU currently operates two main passenger terminals (Terminal 1 and Terminal 2), with Terminal 1 handling most domestic and international flights and Terminal 2 primarily serving LATAM Airlines operations.\n\nQ: Is there a metro connection to São Paulo/Guarulhos Airport?\nA: Yes, Line 13-Jade of the CPTM commuter rail system connects the airport to central São Paulo, providing an affordable option to reach the city center in approximately 35 minutes.\n\nQ: Can passengers move between terminals easily?\nA: Yes, free shuttle buses operate between Terminals 1 and 2, running frequently throughout the day and night.",
+  "transport_tips": "The CPTM Line 13-Jade offers the most budget-friendly connection to central São Paulo, though taxis and ride-sharing apps are faster and more comfortable for travelers with luggage. Allow at least 3 hours for international connections and account for heavy traffic during weekday rush hours, which can significantly extend road travel times.",
+  "local_tip": "When taking a taxi or rideshare, always use the official airport services located inside the terminal or at designated pickup zones — drivers approaching you inside or just outside baggage claim are often unlicensed and charge inflated rates.",
+  "generatedAt": "2026-06-28T15:03:04.479Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LSL",
+    "icao": "MRLC",
+    "name": "Los Chiles Airport",
+    "country": "Costa Rica",
+    "city": "Los Chiles",
+    "lat": 11.0353,
+    "lon": -84.7061,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Los Chiles Airport (LSL/MRLC) is a regional airport serving the northern lowlands of Costa Rica, near the Nicaraguan border in the Alajuela province. It primarily handles domestic flights connecting the remote San Carlos region with San José, supporting both local travel and tourism to the nearby Caño Negro Wildlife Refuge. The airport provides an essential air link for residents of one of Costa Rica's most geographically isolated cantons.",
+  "faqs": "Q: Where is Los Chiles Airport located?\nA: The airport is situated in the town of Los Chiles in Costa Rica's Alajuela province, in the northern lowlands close to the Nicaraguan border.\n\nQ: What flights operate from Los Chiles Airport?\nA: The airport primarily serves domestic flights within Costa Rica, typically connecting Los Chiles with the capital, San José.\n\nQ: Are there international flights from Los Chiles?\nA: No, the airport handles domestic routes only. International travelers typically use larger airports such as Juan Santamaría International in San José.\n\nQ: What is the airport useful for?\nA: It is a convenient gateway for travelers visiting the Caño Negro Wildlife Refuge, a major eco-tourism destination known for birdwatching and wetland ecosystems.\n\n",
+  "transport_tips": "Getting to and from Los Chiles Airport typically requires ground transport by car, taxi, or arranged shuttle, as the airport is located on the outskirts of the small town. The journey from the airport to the Nicaragua border crossing is very short, making it practical for travelers continuing overland. Roads in the region are paved on main routes, though travel times can be longer during the rainy season due to rural road conditions.",
+  "local_tip": "If you are visiting for the Caño Negro Wildlife Refuge, ask locally about boat tours arranged directly from Los Chiles, as these often include hotel pickup and can be more convenient than coordinating transport separately from the airport.",
+  "generatedAt": "2026-06-26T13:09:44.265Z",
+  "model": "MiniMax-M3"
+}

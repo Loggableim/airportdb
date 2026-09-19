@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SFK",
+    "icao": "",
+    "name": "Soure Airport",
+    "country": "Brazil",
+    "city": "Soure",
+    "lat": -0.6978,
+    "lon": -48.5198,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Soure Airport (SFK) is a small regional airport serving the town of Soure on Marajó Island, the world's largest fluvial-maritime island, located at the mouth of the Amazon River in the state of Pará, Brazil. The airport primarily handles light aircraft and short-haul flights connecting the island community to Belém and other mainland destinations. It serves as a key gateway for visitors exploring Marajó's unique ecosystem, including its water buffalo herds, mangrove forests, and pristine beaches.",
+  "faqs": "Q: What is Soure Airport used for?\nA: Soure Airport primarily serves domestic flights connecting Marajó Island to Belém and other regional destinations in northern Brazil, handling small aircraft and charter operations.\n\nQ: Are there regular commercial flights to Soure?\nA: Scheduled service is limited and can be seasonal; travelers typically rely on small regional carriers or charter flights, and flight availability should be confirmed in advance.\n\nQ: Is Soure Airport suitable for large aircraft?\nA: No, the airport is small and designed for light aircraft and small regional planes, not large commercial jets.\n\nQ: What is Marajó Island known for?\nA: Marajó Island is famous for its large water buffalo populations, ecological tourism, traditional cattle-ranching culture, and unique Amazon delta ecosystems.",
+  "transport_tips": "The airport is located just a few kilometers from Soure's town center, making taxi or moto-taxi rides quick and inexpensive. There are no public buses serving the airport, so arranging ground transport in advance is recommended. Ferries also connect Soure to Belém across the Guajará Bay and may be a useful alternative for onward travel.",
+  "local_tip": "Combine your flight with a stay at a local fazenda guesthouse to experience the island's famous buffalo culture and enjoy traditional carimbó music and açaí-based cuisine after your arrival.",
+  "generatedAt": "2026-06-28T07:24:33.953Z",
+  "model": "MiniMax-M3"
+}

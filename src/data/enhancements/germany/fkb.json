@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FKB",
+    "icao": "EDSB",
+    "name": "Karlsruhe Baden-Baden Airport",
+    "country": "Germany",
+    "city": "Rheinmünster",
+    "lat": 48.7794,
+    "lon": 8.0805,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Karlsruhe Baden-Baden Airport (FKB) is a modern international airport located in Rheinmünster in the Baden-Württemberg region of southwestern Germany. Originally a Canadian military airbase during the Cold War, it was converted to civilian use in the 1990s and now serves as a key gateway to the Black Forest, the cities of Karlsruhe and Baden-Baden, and the French Alsace region across the border. The airport is known for its compact terminal, efficient operations, and growing role as a low-cost carrier hub for the Upper Rhine Valley.",
+  "faqs": "Q: How far is the airport from Karlsruhe city center?\nA: The airport is approximately 40 km southwest of Karlsruhe, with a driving time of around 45 minutes depending on traffic.\n\nQ: Does the airport have direct rail connections?\nA: No, there is no direct train station at the airport. Travelers typically reach nearby towns like Rastatt via rail and then connect by bus.\n\nQ: Which airlines operate from Karlsruhe Baden-Baden Airport?\nA: The airport is primarily served by low-cost carriers including Ryanair and Wizz Air, along with several seasonal and charter operators.\n\nQ: Can I reach Strasbourg in France from this airport?\nA: Yes, the airport is roughly 70 km from Strasbourg, making it a practical alternative to Strasbourg's own airport for travelers in the Franco-German border region.",
+  "transport_tips": "The Flixbus long-distance bus service stops directly at the airport, providing affordable connections to major cities including Karlsruhe, Freiburg, Strasbourg, and Stuttgart. Taxis and rental cars are available at the terminal for the roughly 15-minute drive to Baden-Baden. Driving is convenient via the A5 motorway, and parking at the airport is generally more affordable than at larger German hubs.",
+  "local_tip": "If you have a longer layover, the thermal spa town of Baden-Baden is just a short taxi ride away and offers a perfect way to unwind in Europe's famous Caracalla Therme or the historic Friedrichsbad.",
+  "generatedAt": "2026-06-28T19:55:51.556Z",
+  "model": "MiniMax-M3"
+}

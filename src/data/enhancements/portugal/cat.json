@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CAT",
+    "icao": "LPCS",
+    "name": "Cascais Airport",
+    "country": "Portugal",
+    "city": "Cascais",
+    "lat": 38.725,
+    "lon": -9.3552,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Cascais Airport (CAT/LPCS) is a general and business aviation airport located on Portugal's Estoril Coast, roughly 30 km west of Lisbon. It primarily serves executive jets, private aircraft, and flight training, making it a popular alternative for travelers bypassing Lisbon's busier Portela Airport. The airfield sits near the Atlantic shoreline and offers quick access to the resort towns of Cascais and Estoril.",
+  "faqs": "Q: Does Cascais Airport offer commercial passenger flights?\nA: No, Cascais Airport does not operate scheduled commercial passenger service. It is dedicated to general aviation, business jets, private flights, and flight training.\n\nQ: How far is Cascais Airport from central Lisbon?\nA: The airport is approximately 25–30 km west of Lisbon city center, with a typical drive taking 30–45 minutes depending on traffic.\n\nQ: Are car rental services available at the airport?\nA: Rental car services are limited on-site, but several agencies can arrange pickups with prior booking. Many business travelers pre-arrange transfers instead.\n\nQ: What is the airport's main use today?\nA: Its primary role is executive and private aviation, serving the wealthy Estoril Coast corridor and Lisbon metropolitan area.",
+  "transport_tips": "The most convenient options from Cascais Airport are pre-booked private transfers or taxis, as there is no direct rail or metro service. Driving via the A5 motorway into Lisbon is straightforward, though rush-hour traffic can add significant time. Rental cars and rideshare pickups can be arranged, but advance notice is recommended since the terminal caters mostly to general aviation.",
+  "local_tip": "The airport's coastal location means sea breezes can shift runway preferences, so check approach notes when flying in. On the ground, the short walk or drive into Cascais town leads directly to the marina and beachfront promenade—locals recommend stopping at Guincho Beach nearby for the best Atlantic surfing on calmer clear days.",
+  "generatedAt": "2026-06-29T19:05:59.710Z",
+  "model": "MiniMax-M3"
+}

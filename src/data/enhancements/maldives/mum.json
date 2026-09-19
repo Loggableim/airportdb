@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MUM",
+    "icao": "",
+    "name": "Muli Airport",
+    "country": "Maldives",
+    "city": "Muli",
+    "lat": 2.9114,
+    "lon": 73.5836,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Muli Airport is a small domestic airport serving Muli, the capital island of Meemu Atoll in the Maldives. As a community-focused airstrip, it primarily handles short-haul domestic flights connecting the atoll to Malé and other regional destinations. The airport plays a vital role in supporting tourism and local transport in this relatively remote part of the Maldives.",
+  "faqs": "Q: Where is Muli Airport located?\nA: Muli Airport is located on Muli Island, the capital of Meemu Atoll in the Maldives, situated in the central part of the country.\n\nQ: What type of flights does Muli Airport handle?\nA: The airport primarily handles domestic flights, typically short hops to and from Malé Velana International Airport operated by Maldivian Airlines.\n\nQ: Are there international flights from Muli Airport?\nA: No, Muli Airport does not serve international flights. Travelers needing international connections must transit through Malé.\n\nQ: What facilities are available at the airport?\nA: As a small domestic airstrip, the airport offers basic terminal facilities suitable for short waits and limited passenger services.\n\n",
+  "transport_tips": "The airport is small and located close to Muli's village center, making it easy to reach on foot or by a short taxi ride. Ferries and speedboats connect Muli to nearby resort islands and inhabited islands within Meemu Atoll. Booking a combined domestic flight and speedboat transfer is a common way to reach remote resorts in the region.",
+  "local_tip": "Pack light and prepare for warm, humid weather upon arrival — the open-air walk from the plane to the terminal is quick, so having small change ready for local transport is helpful.",
+  "generatedAt": "2026-06-28T04:12:34.997Z",
+  "model": "MiniMax-M3"
+}

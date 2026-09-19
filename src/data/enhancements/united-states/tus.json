@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TUS",
+    "icao": "KTUS",
+    "name": "Tucson International Airport",
+    "country": "United States",
+    "city": "Tucson",
+    "lat": 32.115,
+    "lon": -110.9381,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Tucson International Airport (TUS) is the primary commercial airport serving southern Arizona, situated about 8 miles south of downtown Tucson at an elevation of roughly 2,640 feet. The single-terminal facility serves as a convenient gateway to popular regional destinations including Saguaro National Park, the Arizona-Sonora Desert Museum, and the U.S.-Mexico border region. The airport also sits adjacent to Davis-Monthan Air Force Base, home to the famous 'Boneyard' aircraft storage facility visible from nearby vantage points.",
+  "faqs": "Q: How many terminals does Tucson International Airport have?\nA: The airport operates a single main terminal building divided into two concourses (A and B), making navigation straightforward for travelers.\n\nQ: What airlines fly out of TUS?\nA: Major carriers serving the airport include American Airlines, Delta Air Lines, Southwest Airlines, United Airlines, and Alaska Airlines, along with several Mexican carriers offering cross-border service.\n\nQ: How far is the airport from downtown Tucson?\nA: Tucson International Airport is approximately 8 miles south of the city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Is there a military presence at TUS?\nA: While the airport itself is civilian, it shares runways with Davis-Monthan Air Force Base, which operates the adjacent airfield.",
+  "transport_tips": "Sun Tran Route 11 provides affordable public",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T17:57:11.697Z",
+  "model": "MiniMax-M3"
+}

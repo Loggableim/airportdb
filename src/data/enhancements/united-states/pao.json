@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PAO",
+    "icao": "KPAO",
+    "name": "Palo Alto Airport",
+    "country": "United States",
+    "city": "Palo Alto",
+    "lat": 37.4611,
+    "lon": -122.115,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Palo Alto Airport is a general aviation facility nestled in the heart of Silicon Valley, serving private pilots, corporate flights, and flight training operations rather than scheduled commercial service. Established in the late 1920s and operated by the City of Palo Alto, the airport sits just minutes from Stanford University and the tech campuses that define the region. Its single-runway layout and on-site amenities, including the popular Sky Cafe, make it a favorite stopover for Bay Area aviation enthusiasts.",
+  "faqs": "Q: Does Palo Alto Airport have commercial airline service?\nA: No, PAO is a general aviation airport with no scheduled commercial flights. It primarily serves private aircraft, corporate jets, and flight schools.\n\nQ: Does the airport have an air traffic control tower?\nA: Yes, Palo Alto Airport operates an FAA-staffed control tower during published hours, which helps manage the busy mix of training and transient traffic.\n\nQ: What is the airport's runway configuration?\nA: The airport has a single paved runway designated 13/31, approximately 2,400 feet long, suitable for small to mid-size general aviation aircraft.\n\nQ: Can visitors watch aircraft operations?\nA: Yes, there is public viewing areas and the Sky Cafe on the field, which are popular with plane spotters and aviation fans.\n\n",
+  "transport_tips": "The airport is most easily reached by car, with on-site parking available for visitors and pilots. It sits just off U.S. Route 101 (Bayshore Freeway), roughly 10 minutes from downtown Palo Alto and about 30 minutes from downtown San Francisco outside rush hour. Rideshare services like Uber and Lyft readily serve the airport, though there is no direct public transit stop at the field.",
+  "local_tip": "Grab a table on the patio at the Sky Cafe to enjoy a meal or coffee right on the ramp—you'll have a front-row view of arriving and departing aircraft, and the indoor aviation-themed decor is filled with local memorabilia",
+  "generatedAt": "2026-06-30T04:47:38.862Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JAN",
+    "icao": "KJAN",
+    "name": "Jackson-Medgar Wiley Evers International Airport",
+    "country": "United States",
+    "city": "Jackson",
+    "lat": 32.3112,
+    "lon": -90.0759,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Jackson-Medgar Wiley Evers International Airport (JAN) is a medium-sized public airport located in Jackson, Mississippi, serving as the primary aviation gateway for the state's capital region. The airport was renamed in 2007 to honor civil rights leader Medgar Wiley Evers, the Mississippi field secretary of the NAACP who was assassinated in 1963. It operates two passenger terminals and handles a mix of commercial, military, and general aviation traffic.",
+  "faqs": "Q: How far is the airport from downtown Jackson?\nA: The airport is approximately 6 miles east of downtown Jackson, typically a 15-20 minute drive depending on traffic.\n\nQ: How many terminals does JAN have?\nA: Jackson-Medgar Wiley Evers International Airport has two terminals with adjacent parking areas, offering a compact and easy-to-navigate layout.\n\nQ: Does the airport have food and shopping options?\nA: Yes, the terminals include a variety of dining spots, snack bars, and small retail outlets, including local Mississippi-themed shops and standard travel amenities.\n\nQ: Is there military presence at JAN?\nA: Yes, the airport shares its airfield with the Mississippi Air National Guard, which operates out of the adjacent 172nd Airlift Wing base.",
+  "transport_tips": "Rental cars are available on-site and are the most convenient way to reach the airport given the limited public transit options in Jackson. Rideshare services like Uber and Lyft operate at JAN with designated pickup zones outside the terminals. Taxi services can also be arranged, but booking in advance is recommended for early morning or late-night arrivals.",
+  "local_tip": "If you have a long layover, the Mississippi Agriculture and Forestry Museum and the Mississippi Children's Museum are both within a 10-minute drive from the airport and offer a quick taste of local culture.",
+  "generatedAt": "2026-06-29T02:28:55.974Z",
+  "model": "MiniMax-M3"
+}

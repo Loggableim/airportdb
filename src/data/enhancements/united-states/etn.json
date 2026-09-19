@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ETN",
+    "icao": "KETN",
+    "name": "Eastland Municipal Airport",
+    "country": "United States",
+    "city": "Eastland",
+    "lat": 32.4135,
+    "lon": -98.8098,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Eastland Municipal Airport is a small general aviation facility serving the city of Eastland in central Texas. The airport supports private pilots, recreational flying, and occasional business aviation for the surrounding rural community. With a moderate size score, it provides essential air access for a region where general aviation plays a key role in connecting remote areas.",
+  "faqs": "Q: What type of airport is Eastland Municipal Airport?\nA: It is a small general aviation airport primarily serving private and recreational aircraft.\n\nQ: Does Eastland Municipal Airport offer commercial flights?\nA: No, the airport does not provide scheduled commercial airline service and is used mainly by private pilots.\n\nQ: What facilities are available at the airport?\nA: The airport features a runway, basic amenities for general aviation, and aircraft parking areas for visiting pilots.\n\nQ: Who typically uses this airport?\nA: Local private pilots, flight training operations, and occasional business or charter flights serving the Eastland area.",
+  "transport_tips": "Getting to the airport typically requires a personal vehicle, as public transportation options in Eastland are limited. The airport is located a short drive from the town center, making taxi or rideshare arrangements advisable if you lack a car. Visitors flying in should coordinate ground transport in advance since on-site rental car services are unlikely.",
+  "local_tip": "Frequent visitors recommend checking local wind conditions before arrival, as central Texas weather can shift quickly and affect small field operations.",
+  "generatedAt": "2026-06-27T05:57:48.382Z",
+  "model": "MiniMax-M3"
+}

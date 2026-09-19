@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HNH",
+    "icao": "PAOH",
+    "name": "Hoonah Airport",
+    "country": "United States",
+    "city": "Hoonah",
+    "lat": 58.0961,
+    "lon": -135.4101,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Hoonah Airport (HNH) is a small public-use airport located on Chichagof Island in Southeast Alaska, serving the remote community of Hoonah. As the largest Tlingit community in Alaska, Hoonah relies on this airport for essential connections since the town has no road access to the mainland. The airport also serves growing tourism traffic from cruise passengers visiting nearby Icy Strait Point.",
+  "faqs": "Q: What airlines serve Hoonah Airport?\nA: Alaska Airlines operates regular scheduled service to Hoonah, typically using Bombardier Dash 8/Q400 turboprop aircraft from Juneau.\n\nQ: How far is the airport from Hoonah town center?\nA: The airport is approximately 1 mile from downtown Hoonah, just a short drive from most of the community.\n\nQ: Does Hoonah Airport have rental cars available?\nA: Limited rental car options are available; many visitors arrange transportation in advance or rely on local shuttles and taxi services.\n\nQ: Is the airport open year-round?\nA: Yes, the airport operates year-round, though weather conditions in Southeast Alaska can occasionally cause delays or cancellations.",
+  "transport_tips": "Rental cars are limited and often booked well in advance, so arrange ground transportation before arrival. Many visitors use local shuttle services or pre-arranged pickups, especially those heading to Icy Strait Point cruise facilities. Walking into town is feasible for those with light luggage, as the airport sits close to the community center.",
+  "local_tip": "If traveling during cruise season, coordinate your flight timing carefully as the small terminal can get crowded when multiple cruise ship excursions overlap with scheduled flights.",
+  "generatedAt": "2026-06-26T20:16:18.237Z",
+  "model": "MiniMax-M3"
+}

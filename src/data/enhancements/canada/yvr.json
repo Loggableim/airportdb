@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YVR",
+    "icao": "CYVR",
+    "name": "Vancouver International Airport",
+    "country": "Canada",
+    "city": "Vancouver",
+    "lat": 49.1939,
+    "lon": -123.184,
+    "type": "large_airport",
+    "size": 1018875
+  },
+  "summary": "Vancouver International Airport (YVR) is Canada's second-busiest airport and a major Pacific gateway, located on Sea Island in Richmond, about 12 km from downtown Vancouver. Opened in 1931 and renamed YVR in 1948, it is renowned for integrating Indigenous art and Pacific Northwest-inspired architecture throughout its terminals, earning repeated Skytrax awards for best airport in North America. The airport serves as a key hub for Air Canada and WestJet, offering flights to destinations across North America, Asia, Europe, and beyond.",
+  "faqs": "Q: How far is YVR from downtown Vancouver?\nA: The airport is located in Richmond, approximately 12 km (7.5 miles) southwest of downtown Vancouver, accessible by SkyTrain in about 25 minutes.\n\nQ: What is the best way to get from YVR to the city center?\nA: The Canada Line SkyTrain connects YVR to downtown Vancouver, with frequent service and a travel time of roughly 25 minutes to Waterfront Station.\n\nQ: Does YVR have on-site hotel accommodation?\nA: Yes, the Fairmont Vancouver Airport is directly connected to the terminal, making it the only in-terminal hotel in Canada.\n\nQ: Are there currency exchange and duty-free shops at YVR?\nA: Yes, the airport offers multiple foreign exchange services and several duty-free outlets, particularly in the international terminal.",
+  "transport_tips": "The Canada Line SkyTrain is the most reliable and cost-effective way to reach downtown Vancouver, with trains running frequently from both the International and Domestic terminals. Taxi and rideshare services are also readily available, with typical fares to downtown ranging from CAD 30 to 40. If driving, allow extra time for the 20-40 minute journey as traffic on the Arthur Laing Bridge and Granville Street can be unpredictable during peak hours.",
+  "local_tip": "Take time to explore the Indigenous art collection throughout the terminals—particularly the large cedar carvings and the iconic inukshuk on the land-side—it's one of the most culturally significant airport art programs in the world and often missed by rushed travelers.",
+  "generatedAt": "2026-06-28T15:01:56.642Z",
+  "model": "MiniMax-M3"
+}

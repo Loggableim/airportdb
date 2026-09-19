@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BFI",
+    "icao": "KBFI",
+    "name": "King County International Airport - Boeing Field",
+    "country": "United States",
+    "city": "Seattle",
+    "lat": 47.527,
+    "lon": -122.2999,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "King County International Airport, commonly known as Boeing Field, is a medium-sized airport located about 5 miles south of downtown Seattle. Named after aviation pioneer William E. Boeing, it serves as a major hub for general aviation, corporate flights, and Boeing's aircraft testing and delivery operations. Despite being smaller than nearby Seattle-Tacoma International Airport, it handles significant traffic and has been an important aviation facility since its establishment in the 1920s.",
+  "faqs": "Q: What is the difference between Boeing Field and Seattle-Tacoma International Airport?\nA: Boeing Field (BFI) primarily serves general aviation, corporate jets, and Boeing-related flights, while Sea-Tac (SEA) is the region's main commercial airport handling most airline passenger traffic.\n\nQ: Can I catch commercial flights from Boeing Field?\nA: Yes, some regional commercial carriers offer limited scheduled passenger service from BFI, but most travelers flying commercially use Seattle-Tacoma International Airport instead.\n\nQ: Why is the airport called Boeing Field?\nA: The airport is named after William E. Boeing, founder of the Boeing Company, and it serves as a key facility for Boeing's aircraft manufacturing, testing, and delivery operations.\n\nQ: Does Boeing Field have its own control tower?\nA: Yes, Boeing Field has an air traffic control tower operated by the FAA to manage its busy mix of commercial, corporate, and test flight traffic.",
+  "transport_tips": "The airport is conveniently located near downtown Seattle, roughly 10-15 minutes by car depending on traffic. King County Metro bus routes serve the area, and rideshare services like Uber and Lyft are readily available. There is no direct light rail connection to Boeing Field, so travelers should plan for ground transportation or rental car pickup.",
+  "local_tip": "Aviation enthusiasts should check the airport's flight paths and viewing areas near the perimeter to potentially catch a glimpse of Boeing test flights or newly manufactured aircraft being delivered from the nearby Boeing Renton Factory.",
+  "generatedAt": "2026-06-29T01:54:49.735Z",
+  "model": "MiniMax-M3"
+}

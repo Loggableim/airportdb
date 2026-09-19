@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LNP",
+    "icao": "KLNP",
+    "name": "Lonesome Pine Airport",
+    "country": "United States",
+    "city": "Wise",
+    "lat": 36.9875,
+    "lon": -82.53,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lonesome Pine Airport (LNP) is a small general aviation facility serving the town of Wise in the Appalachian highlands of southwestern Virginia. Nestled in the coal-mining region of Wise County, it primarily supports private aircraft, charter flights, and occasional corporate travel into this mountainous part of the state. The airport provides convenient access to the Jefferson National Forest, the University of Virginia's College at Wise, and the broader Cumberland Plateau region.",
+  "faqs": "Q: What type of airport is Lonesome Pine?\nA: It is a small general aviation airport with no scheduled commercial airline service.\n\nQ: Are there car rental services at the airport?\nA: Rental car availability is limited; visitors typically arrange transportation in advance or rely on local services in Wise.\n\nQ: How close is the airport to downtown Wise?\nA: The airport is located just a few miles from the town of Wise, making access quick and straightforward.\n\nQ: Can the airport accommodate larger aircraft?\nA: The facility primarily serves small to mid-size private aircraft due to its runway length and mountainous terrain.",
+  "transport_tips": "Since there is no commercial service, ground transportation should be arranged before arrival. Local taxi services and rideshare options may be limited, so coordinating with a hotel or local contact in advance is recommended. Having a personal vehicle provides the most flexibility for exploring the surrounding Appalachian region.",
+  "local_tip": "Mountain weather in this part of Virginia can change quickly and create afternoon fog or low ceilings—plan arrivals and departures for morning hours whenever possible, and check the automated weather observation system (AWOS) before flight.",
+  "generatedAt": "2026-06-27T08:32:12.357Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GRE",
+    "icao": "KGRE",
+    "name": "Greenville Airport",
+    "country": "United States",
+    "city": "Greenville",
+    "lat": 38.8368,
+    "lon": -89.3765,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Greenville Airport (GRE/KGRE) is a small general aviation facility serving Greenville, Illinois, a community situated in Bond County roughly 55 miles east of St. Louis. The airport primarily accommodates private pilots, flight training, and recreational flying rather than commercial service. Its modest runway and rural setting make it a convenient stop for general aviation traffic in the region.",
+  "faqs": "Q: Does Greenville Airport offer commercial flights?\nA: No, GRE is a general aviation airport with no scheduled commercial airline service.\n\nQ: What facilities are available at the airport?\nA: The airport features a runway, basic aircraft parking areas, and general aviation amenities, though services are limited compared to larger facilities.\n\nQ: Can I fly into GRE for private or charter operations?\nA: Yes, the airport supports private, charter, and recreational flights, but pilots should verify runway conditions and available services in advance.\n\nQ: Are there any nearby alternative airports?\nA: Yes, larger airports such as St. Louis Lambert International (STL) and MidAmerica St. Louis Airport (BLV) are within reasonable driving distance.",
+  "transport_tips": "Since the airport is small with limited commercial traffic, most visitors arrive by personal vehicle, and rental cars are typically arranged from larger nearby airports. Greenville is accessible via Interstate 70 and US Route 40, making ground transport straightforward. Taxi and rideshare availability may be limited, so pre-arranging transportation is recommended.",
+  "local_tip": "Frequent visitors often recommend timing flights around local events at nearby Carlyle Lake, which can affect traffic and lodging availability in the Greenville area.",
+  "generatedAt": "2026-06-27T04:15:18.780Z",
+  "model": "MiniMax-M3"
+}

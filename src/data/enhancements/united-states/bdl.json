@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BDL",
+    "icao": "KBDL",
+    "name": "Bradley International Airport",
+    "country": "United States",
+    "city": "Hartford",
+    "lat": 41.9386,
+    "lon": -72.688,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Bradley International Airport (BDL) is Connecticut's largest airport and the second-busiest in New England, serving the Hartford-Springfield metropolitan area. Located in Windsor Locks roughly halfway between Hartford, CT and Springfield, MA, it is named after Lt. Eugene M. Bradley, a former airport manager killed in a 1940 plane crash. The airport features two passenger terminals and operates as a significant gateway for both commercial and cargo flights in southern New England.",
+  "faqs": "Q: How far is Bradley International Airport from downtown Hartford?\nA: Bradley is approximately 12 miles north of downtown Hartford, typically a 20-25 minute drive via I-91 North.\n\nQ: What airlines operate at BDL?\nA: Bradley is served by major carriers including Delta, American, Southwest, United, JetBlue, Spirit, and Frontier, offering nonstop service to numerous domestic destinations.\n\nQ: Does Bradley International have military or historical significance?\nA: Yes, the site was originally developed as Brainard Army Air Field during World War II before being converted to civilian use in 1947, retaining some military ties through the Connecticut Wing of the Civil Air Patrol.\n\nQ: How many terminals does BDL have?\nA: The airport has two terminals, Terminal A and Terminal B, connected by an indoor walkway for passenger convenience.",
+  "transport_tips": "Driving is the most common way to reach Bradley, with ample parking options including short-term, long-term, and economy lots directly on airport property. CT Transit and local shuttle services offer bus connections to Hartford and Springfield, while taxi and rideshare services like Uber and Lyft are readily available at designated pickup zones outside baggage claim.",
+  "local_tip": "Frequent travelers recommend using the airport's economy parking lot for longer trips, as it offers competitive rates with regular shuttle service to both terminals every few minutes.",
+  "generatedAt": "2026-06-28T17:57:23.589Z",
+  "model": "MiniMax-M3"
+}

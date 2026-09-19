@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DCA",
+    "icao": "KDCA",
+    "name": "Ronald Reagan Washington National Airport",
+    "country": "United States",
+    "city": "Washington",
+    "lat": 38.8521,
+    "lon": -77.0377,
+    "type": "large_airport",
+    "size": 1016175
+  },
+  "summary": "Ronald Reagan Washington National Airport (DCA) is located in Arlington, Virginia, just across the Potomac River from downtown Washington, D.C., making it the closest commercial airport to the nation's capital. Named after the 40th U.S. President, it opened in 1941 and is renowned for its scenic approach paths that offer passengers iconic views of the National Mall monuments. Despite its name, the airport is situated in Virginia and is operated by the Metropolitan Washington Airports Authority.",
+  "faqs": "Q: What is the best way to get from DCA to downtown Washington, D.C.?\nA: The Washington Metro Blue and Yellow lines have a dedicated station at the airport, offering a quick and affordable ride to the city center in about 20 minutes.\n\nQ: Why are there flight restrictions at Reagan National?\nA: Due to its proximity to sensitive government airspace, DCA operates under a unique perimeter rule limiting nonstop flights to a 1,250-mile radius, though high-density beyond-perimeter exemptions have expanded longer routes.\n\nQ: Does Reagan National Airport have its own Metro station?\nA: Yes, the Ronald Reagan Washington National Airport Metro station is directly connected to Terminal 2, making public transit one of the most convenient ways to access the airport.\n\nQ: Can I see the Washington Monument from the airport?\nA: Yes, passengers on many flights experience spectacular aerial views of the Lincoln Memorial, Washington Monument, and Capitol building during takeoff and landing approaches over the Potomac River.",
+  "transport_tips": "The Metro is the most cost-effective option for reaching downtown D.C., with trains running frequently and the station attached to Terminal 2. Taxis and rideshares are readily available but can take longer due to Potomac River crossings and D.C. traffic, especially during rush hour. If driving, the airport is directly accessible via the George Washington Memorial Parkway from both Virginia and D.C.",
+  "local_tip": "Sit on the left side of the aircraft when departing to the north or arriving from the south for the best views of the Capitol dome and National Mall skyline during your descent or climb.",
+  "generatedAt": "2026-06-28T15:13:50.458Z",
+  "model": "MiniMax-M3"
+}

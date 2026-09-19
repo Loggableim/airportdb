@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HKS",
+    "icao": "KHKS",
+    "name": "Hawkins Field",
+    "country": "United States",
+    "city": "Jackson",
+    "lat": 32.3345,
+    "lon": -90.2222,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Hawkins Field is a general aviation airport serving the Jackson, Mississippi metropolitan area, providing an alternative to the larger Jackson-Medgar Wiley Evers International Airport. Named after a local aviation pioneer, the facility primarily supports private aircraft, flight training, corporate operations, and air charter services. It has long been an important hub for general aviation in central Mississippi.\n\n",
+  "faqs": "Q: What is Hawkins Field primarily used for?\nA: Hawkins Field serves general aviation, including private flights, flight training, corporate aviation, and air charter operations rather than commercial passenger airlines.\n\nQ: How does Hawkins Field differ from Jackson-Medgar Wiley Evers International Airport?\nA: Jackson-Evers (JAN) handles commercial airline service, while Hawkins Field focuses on general aviation and is better suited for private and charter flights in the Jackson area.\n\nQ: Are there commercial flights at Hawkins Field?\nA: No, Hawkins Field does not offer scheduled commercial airline service. Travelers needing commercial flights should use Jackson-Medgar Wiley Evers International Airport.\n\nQ: Does Hawkins Field offer flight training?\nA: Yes, flight schools and aviation training operations are based at the airport, making it a popular location for student pilots.\n\n",
+  "transport_tips": "Hawkins Field is located within the Jackson city limits, offering quick access to downtown Jackson by car in roughly 10-15 minutes. Rental cars and taxi or rideshare services are typically the most convenient ways to reach the airport. Ample on-site parking is available for those driving private vehicles.\n\n",
+  "local_tip": "If you're visiting Jackson for business or leisure, flying into Hawkins Field via private or charter aircraft can save significant time compared to the larger commercial airport, especially during peak travel periods.\n",
+  "generatedAt": "2026-06-27T02:28:48.540Z",
+  "model": "MiniMax-M3"
+}

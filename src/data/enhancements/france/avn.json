@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AVN",
+    "icao": "LFMV",
+    "name": "Avignon Caumont airport",
+    "country": "France",
+    "city": "Avignon",
+    "lat": 43.9073,
+    "lon": 4.9018,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Avignon Caumont Airport serves the historic city of Avignon in the Provence-Alpes-Côte d'Azur region of southeastern France. Located just southeast of the city center, it functions as a convenient gateway for travelers visiting Avignon's UNESCO-listed Papal Palace and the wider Provence region. The airport primarily handles seasonal and regional traffic, with charter and low-cost carriers supplementing scheduled service.",
+  "faqs": "Q: How far is Avignon Caumont Airport from the city center?\nA: The airport is approximately 8 km southeast of Avignon's city center, about a 15-20 minute drive depending on traffic.\n\nQ: Are there international flights from Avignon?\nA: The airport mainly serves domestic and seasonal European routes, with most international connections routed through larger hubs like Marseille or Paris.\n\nQ: Is there public transport available to the airport?\nA: Limited public bus services connect the airport to Avignon, but taxis and rental cars are the most reliable options for transfers.\n\nQ: What destinations can I fly to directly from Avignon?\nA: Direct flights typically include Paris and seasonal routes to other French and European cities, though schedules vary throughout the year.",
+  "transport_tips": "Taxis and pre-booked shuttle services are the most practical transfer options, as public transit connections to the airport are limited. Car rental agencies operate at the terminal, useful for exploring the broader Provence region. The nearby A7 motorway provides easy road access to Avignon, Marseille, and other Provençal destinations.",
+  "local_tip": "If you have a few hours between flights, head into Avignon to walk the medieval streets and grab a café on Place de l'Horloge near the Papal Palace—it's close enough for a quick taste of the city's atmosphere.",
+  "generatedAt": "2026-06-29T05:01:46.937Z",
+  "model": "MiniMax-M3"
+}

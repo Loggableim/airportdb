@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DBC",
+    "icao": "ZYBA",
+    "name": "Baicheng Chang'an Airport",
+    "country": "China",
+    "city": "Baicheng",
+    "lat": 45.5053,
+    "lon": 123.0197,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Baicheng Chang'an Airport is a regional airport serving Baicheng city in western Jilin Province, northeastern China. Operating as a dual-use civil and military facility, it provides essential air connectivity for the city and surrounding agricultural and pastoral areas near the border with Inner Mongolia. The airport supports domestic flights primarily connecting Baicheng to major hubs across China.",
+  "faqs": "Q: What is the IATA code for Baicheng Chang'an Airport?\nA: The IATA code is DBC, and the ICAO code is ZYBA.\n\nQ: Where is the airport located relative to Baicheng city center?\nA: The airport is situated on the outskirts of Baicheng city, approximately within a reasonable driving distance of the urban area.\n\nQ: Does the airport offer international flights?\nA: No, the airport primarily handles domestic flights to major Chinese cities; international travel typically requires connections through larger hubs.\n\nQ: Is the airport shared with military operations?\nA: Yes, Baicheng Chang'an Airport operates as a dual-use facility serving both civilian and military aviation purposes.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are the most convenient ways to reach the airport from Baicheng city center. The journey typically takes around 30 to 45 minutes depending on traffic conditions. Travelers should arrange ground transportation in advance, as public transit options directly serving the terminal can be limited.",
+  "local_tip": "Given Baicheng's harsh winters with temperatures frequently dropping well below freezing, allow extra time for travel to the airport and check flight status frequently, as weather-related delays are common during the December through February season.",
+  "generatedAt": "2026-06-29T23:39:28.706Z",
+  "model": "MiniMax-M3"
+}

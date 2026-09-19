@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YGV",
+    "icao": "CYGV",
+    "name": "Havre-Saint-Pierre Airport",
+    "country": "Canada",
+    "city": "Havre-Saint-Pierre",
+    "lat": 50.2819,
+    "lon": -63.6114,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Havre-Saint-Pierre Airport (YGV) is a regional airport serving the small coastal community of Havre-Saint-Pierre on Quebec's North Shore (Côte-Nord), along the Gulf of St. Lawrence. The airport provides essential air access to this remote region, supporting local industries including ilmenite mining and tourism tied to the nearby Mingan Archipelago and Anticosti Island. It functions as a vital link for residents and visitors traveling to one of Quebec's most isolated mainland areas.",
+  "faqs": "Q: What airlines serve Havre-Saint-Pierre Airport?\nA: The airport is primarily served by regional carriers offering scheduled flights connecting Havre-Saint-Pierre to Quebec City and other North Shore destinations.\n\nQ: Is the airport used for charter or medical flights?\nA: Yes, in addition to scheduled service, the airport handles charter flights, medevac operations, and general aviation traffic supporting remote communities and offshore activities.\n\nQ: How far is the airport from the town center?\nA: The airport is located a short drive from downtown Havre-Saint-Pierre, typically reachable in about 10 minutes by car.\n\nQ: Can I catch a ferry to Anticosti Island from Havre-Saint-Pierre?\nA: Yes, the ferry terminal for crossings to Anticosti Island is located in Havre-Saint-Pierre and is accessible from the airport.\n\n",
+  "transport_tips": "Car rental availability at the airport is limited, so booking in advance is strongly recommended. Taxi service and pre-arranged shuttles are common options for the short transfer into town. Travelers continuing to Anticosti Island should confirm ferry schedules in advance, as crossings are seasonal and weather-dependent.",
+  "local_tip": "If you have time between flights, visit the nearby Mingan Archipelago National Park Reserve interpretation center—it's one of the main reasons visitors fly into Havre-Saint-Pierre, and the",
+  "generatedAt": "2026-06-29T19:37:48.198Z",
+  "model": "MiniMax-M3"
+}

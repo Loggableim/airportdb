@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YLQ",
+    "icao": "CYLQ",
+    "name": "La Tuque Airport",
+    "country": "Canada",
+    "city": "La Tuque",
+    "lat": 47.4097,
+    "lon": -72.7889,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "La Tuque Airport (YLQ) is a small regional airport serving the city of La Tuque in the Mauricie region of Quebec, Canada. Nestled in a heavily forested area of central Quebec near the Saint-Maurice River, the airport primarily supports general aviation and charter operations. It provides essential connectivity for a community known for its forestry heritage, hydroelectric industry, and outdoor recreational opportunities.",
+  "faqs": "Q: Does La Tuque Airport have scheduled commercial flights?\nA: No",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-27T03:56:14.794Z",
+  "model": "MiniMax-M3"
+}

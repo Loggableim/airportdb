@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SOU",
+    "icao": "EGHI",
+    "name": "Southampton Airport",
+    "country": "United Kingdom",
+    "city": "Southampton",
+    "lat": 50.9503,
+    "lon": -1.3568,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Southampton Airport is a regional airport serving the south coast of England, located in Eastleigh just northwest of Southampton city centre. Established in the 1930s, it is notable for its compact single-runway operation and serves as a convenient gateway for passengers from Hampshire, Dorset, and the Isle of Wight. The airport offers quick access to destinations across the UK, Channel Islands, and parts of mainland Europe.",
+  "faqs": "Q: How far is Southampton Airport from the city centre?\nA: The airport is approximately 4 miles (6.5 km) northeast of Southampton city centre, typically a 15-20 minute drive.\n\nQ: Does Southampton Airport have a railway station?\nA: Yes, Southampton Airport Parkway station is directly adjacent to the terminal, with frequent direct services to London Waterloo, Southampton, and other south coast destinations.\n\nQ: What destinations are served from Southampton?\nA: The airport primarily serves UK cities, the Channel Islands, and select European leisure destinations including France, Spain, and Ireland.\n\nQ: Why does Southampton have a shorter runway than other UK airports?\nA: The runway is limited to around 1,700 metres, restricting aircraft size but allowing quick turnarounds and efficient short-haul operations.",
+  "transport_tips": "Southampton Airport Parkway railway station sits immediately beside the terminal, making the train by far the most convenient option for reaching London (around 80 minutes) or Southampton city centre. The M3 and M27 motorways provide easy road access, with the airport signed from both routes. Taxis and local buses also serve the terminal regularly throughout the day.",
+  "local_tip": "If you're catching an early morning flight, book a taxi rather than relying on public transport, as the first trains from Southampton Airport Parkway can arrive after some departure times have already passed.",
+  "generatedAt": "2026-06-29T02:27:12.386Z",
+  "model": "MiniMax-M3"
+}

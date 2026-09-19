@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DGT",
+    "icao": "RPVD",
+    "name": "Sibulan Airport",
+    "country": "Philippines",
+    "city": "Dumaguete City",
+    "lat": 9.3342,
+    "lon": 123.3019,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Sibulan Airport (DGT) is a small domestic airport located in the municipality of Sibulan, serving Dumaguete City, the capital of Negros Oriental in the Philippines. It acts as the primary air gateway for the southeastern Visayas region, connecting travelers to popular destinations like Apo Island and Siquijor. The airport is notable for its compact size, scenic coastal approach, and proximity to Dumaguete's university district and waterfront promenade.",
+  "faqs": "Q: What airlines operate at Sibulan Airport?\nA: The airport is primarily served by Philippine Airlines, Cebu Pacific, and AirSwift, offering domestic flights to Manila, Cebu, and other regional destinations.\n\nQ: How far is Sibulan Airport from Dumaguete City center?\nA: The airport is approximately 5 kilometers north of Dumaguete's city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Are there international flights from Sibulan Airport?\nA: No, Sibulan Airport handles only domestic flights. International travelers typically connect through Manila or Cebu.\n\nQ: Is the airport open 24 hours?\nA: No, Sibulan Airport operates during daylight hours aligned with scheduled flight arrivals and departures.",
+  "transport_tips": "Tricycles and jeepneys are readily available outside the terminal for short trips to Sibulan town or Dumaguete City. For more comfort, pre-arranged hotel transfers or ride-hailing apps like Grab are recommended, especially for early morning or late evening flights. Taxis can also be hired at the arrivals area for trips to destinations like the Siquijor ferry terminal or Dauin diving resorts.",
+  "local_tip": "If you have time before your flight, visit the nearby Dumaguete Boulevard for a quick meal of local specialties like silvanas or budbud kabog—many souvenir shops and cafes are within a short tricycle ride of the terminal.",
+  "generatedAt": "2026-06-29T19:37:32.811Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NSN",
+    "icao": "NZNS",
+    "name": "Nelson Airport",
+    "country": "New Zealand",
+    "city": "Nelson",
+    "lat": -41.2983,
+    "lon": 173.221,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Nelson Airport serves the Nelson region at the top of New Zealand's South Island, acting as a key gateway to Abel Tasman National Park, the Marlborough wine region, and the scenic Golden Bay. The medium-sized regional airport handles primarily domestic flights operated by Air New Zealand, along with general aviation activity. Its compact terminal and short walking distances make it one of New Zealand's most convenient regional airports.",
+  "faqs": "Q: What airlines fly to Nelson Airport?\nA: Air New Zealand operates the main scheduled domestic services, connecting Nelson with Auckland, Wellington, and Christchurch.\n\nQ: How far is Nelson Airport from the city center?\nA: The airport is approximately 4 km southwest of Nelson's central business district, typically a 10-15 minute drive.\n\nQ: How do I get from Nelson Airport to Abel Tasman National Park?\nA: The park entrance at Marahau is about 70 km away, roughly a 1.5-hour drive. Rental cars, shuttles, and pre-booked transfers are available at the airport.\n\nQ: Does Nelson Airport have international flights?\nA: No scheduled international flights operate from Nelson. International visitors typically connect through Auckland, Wellington, or Christchurch.",
+  "transport_tips": "The airport is just a short drive from",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T05:19:32.843Z",
+  "model": "MiniMax-M3"
+}

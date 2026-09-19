@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SMO",
+    "icao": "KSMO",
+    "name": "Santa Monica Municipal Airport",
+    "country": "United States",
+    "city": "Santa Monica",
+    "lat": 34.0158,
+    "lon": -118.451,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Santa Monica Municipal Airport, also known as Clover Field, is a historic general aviation airport nestled just two miles from the Pacific Ocean in the heart of Santa Monica, California. Originally established in the 1920s and named after WWI aviator 2nd Lt. Greayer 'Grubby' Clover, it has long served private pilots, charter flights, and flight schools while being surrounded by dense urban development. The airport has been at the center of ongoing debates between the City of Santa Monica and aviation stakeholders regarding its future operations and possible redevelopment.",
+  "faqs": "Q: What is Santa Monica Airport primarily used for?\nA: SMO is a general aviation airport that supports private aircraft, charter flights, flight schools, and corporate jets. It does not currently offer scheduled commercial airline service.\n\nQ: Why was it called Clover Field?\nA: The airport was renamed Clover Field in 1925 to honor 2nd Lt. Greayer 'Grubby' Clover, a pioneering WWI aviator from the area who was killed in action.\n\nQ: How does SMO compare to LAX?\nA: Located roughly 8 miles north of LAX, SMO is much smaller and caters exclusively to general aviation, making it a convenient alternative for private and business travelers heading to the Westside of Los Angeles.\n\nQ: Can the public visit or watch aircraft at SMO?\nA: Yes, the airport has a public observation area and several restaurants with runway views, making it a popular spot for aviation enthusiasts and plane spotters.",
+  "transport_tips": "The airport sits just off Interstate 10 and Lincoln Boulevard, with easy access to downtown Santa Monica, Venice Beach, and the Westside of Los Angeles. Rideshares, taxis, and rental cars are readily available, and the Metro E Line (Expo Line) has a station within walking distance, connecting travelers to downtown LA without a car. Parking is available on-site, though spaces can fill quickly during peak times.",
+  "local_tip": "Grab a meal at the Airport Park or at a runway-side restaurant like the Sunset Park-area cafes—locals know that the best plane-spotting views of arriving aircraft on Runway",
+  "generatedAt": "2026-06-30T04:47:18.265Z",
+  "model": "MiniMax-M3"
+}

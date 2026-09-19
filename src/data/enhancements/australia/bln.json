@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BLN",
+    "icao": "YBLA",
+    "name": "Benalla Airport",
+    "country": "Australia",
+    "city": "Benalla",
+    "lat": -36.5519,
+    "lon": 146.007,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Benalla Airport (BLN/YBLA) is a regional general aviation airport serving the rural city of Benalla in northeastern Victoria, Australia. It is best known as the home of the renowned Benalla Aviation Museum, which houses a significant collection of restored warbirds including a de Havilland Mosquito, a B-25 Mitchell, and a Gloster Meteor. The airport also supports gliding operations, flight training, and recreational flying in the surrounding agricultural region.",
+  "faqs": "Q: Where is Benalla Airport located?\nA: Benalla Airport is located approximately 3 km northeast of the Benalla town center in northeastern Victoria, Australia, about 190 km northeast of Melbourne.\n\nQ: Does Benalla Airport have scheduled commercial flights?\nA: No, Benalla Airport does not offer scheduled commercial passenger services. It primarily serves general aviation, flight training, and recreational flying.\n\nQ: What is the Benalla Aviation Museum?\nA: The Benalla Aviation Museum, based at the airport, is one of Australia's most significant warbird collections, featuring fully restored WWII aircraft and other historic aviation artifacts that visitors can view up close.\n\nQ: Can visitors tour the airport?\nA: Yes, visitors are welcome to view the static aircraft displays at the aviation museum, though access to active runway areas requires prior arrangement with airport management.\n\n",
+  "transport_tips": "The airport is a short 5-minute drive from Benalla's town center, easily accessible by car via the Midland Highway. There is no public transport serving the airport directly, so arranging a rental car, taxi, or pre-booked shuttle is recommended. Free parking is available on-site for visitors and pilots.",
+  "local_tip": "If you are visiting for the warbird collection, try to time your visit with one of the museum's annual fly-in or open day events, when several aircraft are occasionally taxi-run or even flown, offering a rare chance to see these historic planes in motion rather than just on static display.",
+  "generatedAt": "2026-06-26T09:05:37.661Z",
+  "model": "MiniMax-M3"
+}

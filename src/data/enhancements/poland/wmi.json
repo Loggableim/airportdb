@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WMI",
+    "icao": "EPMO",
+    "name": "Warsaw Modlin Airport",
+    "country": "Poland",
+    "city": "Nowy Dwór Mazowiecki",
+    "lat": 52.4511,
+    "lon": 20.6518,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Warsaw Modlin Airport is a low-cost carrier hub located in Nowy Dwór Mazowiecki, approximately 40 km north of Warsaw city center. Originally a Soviet-era military airfield built in the 1930s and later expanded during WWII, it was converted for civilian aviation and reopened for commercial flights in 2012. Today it primarily serves budget airlines offering routes across Europe, functioning as Warsaw's secondary airport alongside the larger Chopin Airport.",
+  "faqs": "Q: How far is Warsaw Modlin Airport from central Warsaw?\nA: The airport is located about 40 km north of Warsaw's city center in Nowy Dwór Mazowiecki, typically a 45-60 minute journey by car or bus.\n\nQ: Which airlines fly from Warsaw Modlin?\nA: Low-cost carriers dominate operations here, with Ryanair being the primary operator, alongside occasional services by other budget airlines serving European destinations.\n\nQ: Is there public transport to Warsaw Modlin Airport?\nA: Yes, ModlinBus and other shuttle operators run direct coach services between the airport and central Warsaw, with connections to Warsaw Chopin Airport and the metro system.\n\nQ: Does the airport operate 24 hours?\nA: No, Warsaw Modlin has limited operating hours with no night flights permitted, typically closing in the late evening and reopening in the early morning.",
+  "transport_tips": "The most economical option is the ModlinBus shuttle service running between the airport and central Warsaw, with journey times of around 50 minutes. Trains are available from Modlin station, located about 3 km from the terminal, requiring a short taxi or shuttle connection. Taxis and rideshare services are readily available outside the terminal, though fares to Warsaw city center can be relatively expensive due to the distance.",
+  "local_tip": "If traveling to Chopin Airport for a connecting flight, the ModlinBus shuttle offers direct service between both airports, but allow at least 4-5 hours of buffer time as traffic on the route can be unpredictable and the terminals are far apart.",
+  "generatedAt": "2026-06-28T19:22:53.114Z",
+  "model": "MiniMax-M3"
+}

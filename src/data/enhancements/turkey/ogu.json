@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OGU",
+    "icao": "LTCB",
+    "name": "Ordu–Giresun Airport",
+    "country": "Turkey",
+    "city": "Ordu",
+    "lat": 40.9669,
+    "lon": 38.086,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Ordu-Giresun Airport is a medium-sized regional airport serving two provinces on Turkey's Black Sea coast, Ordu and Giresun. Its most distinctive feature is that the runway was constructed on a man-made island extending into the Black Sea, making it one of the only airports in Turkey—and among a handful worldwide—built largely over water to overcome the region's mountainous terrain. Opened in 2015, it replaced earlier limited air service and now handles domestic flights year-round with occasional seasonal international routes.",
+  "faqs": "Q: Why is Ordu-Giresun Airport built on a man-made island in the sea?\nA: The Turkish Black Sea coast is dominated by steep coastal mountains, leaving no suitable flat land for a long runway. Engineers extended the facility into the sea on reclaimed land to provide a safe approach and adequate runway length.\n\nQ: When did the airport begin operations?\nA: The airport officially opened in 2015, taking over passenger flights from smaller airfields that had previously served the region.\n\nQ: Which airlines fly from Ordu-Giresun Airport?\nA: Turkish Airlines operates the majority of scheduled domestic flights, primarily connecting Ordu and Giresun with Istanbul",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T20:50:38.395Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WJR",
+    "icao": "HKWJ",
+    "name": "Wajir Airport",
+    "country": "Kenya",
+    "city": "Wajir",
+    "lat": 1.7332,
+    "lon": 40.0916,
+    "type": "medium_airport",
+    "size": 550
+  },
+  "summary": "Wajir Airport serves the remote town of Wajir in Kenya's northeastern semi-arid region, functioning as a vital air link for both residents and humanitarian operations in this sparsely populated area. The airport gained additional importance as a logistical hub during regional drought relief efforts and security operations in the Horn of Africa. It handles domestic flights connecting this frontier town to Nairobi and other Kenyan destinations.",
+  "faqs": "Q: Which airlines operate from Wajir Airport?\nA: Wajir Airport is primarily served by domestic carriers offering scheduled flights to Nairobi's main airports, with occasional charter operations supporting humanitarian and security missions.\n\nQ: Is Wajir Airport open to international flights?\nA: The airport is classified as a domestic facility with a civil-military use designation, though international charters occasionally use it.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic amenities suitable for a medium-sized regional airport, including a small waiting area and check-in counters, but limited commercial services.\n\nQ: Are there any travel restrictions for visiting Wajir?\nA: Travelers should check current advisories, as northeastern Kenya occasionally experiences security concerns; some operators may require prior arrangements for transport from the airport.",
+  "transport_tips": "The airport sits just a few kilometers from Wajir town center, making taxi or private car transfers quick and inexpensive. Road travel to Wajir from other Kenyan cities is lengthy and often rough, so flying is strongly preferred by most visitors. Pre-arranging ground transport is advisable, as formal taxi services at the terminal can be limited.",
+  "local_tip": "Fly early in the day whenever possible, as afternoon winds and dust storms in this semi-arid region can sometimes delay or divert flights, particularly during the dry season.",
+  "generatedAt": "2026-06-29T17:38:28.173Z",
+  "model": "MiniMax-M3"
+}

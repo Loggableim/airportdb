@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HAW",
+    "icao": "EGFE",
+    "name": "Haverfordwest Airport",
+    "country": "United Kingdom",
+    "city": "Haverfordwest",
+    "lat": 51.8331,
+    "lon": -4.9611,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Haverfordwest Airport is a small regional airport serving the Pembrokeshire region of southwest Wales. It functions primarily as a general aviation and flight training facility, with occasional scheduled and charter services connecting the area to other parts of the UK. The airport sits near the Pembrokeshire Coast National Park, making it a useful gateway for visitors exploring one of Britain's most scenic coastal regions.",
+  "faqs": "Q: What is Haverfordwest Airport mainly used for?\nA: The airport primarily supports general aviation, private flights, and flight training, with limited scheduled passenger services.\n\nQ: Are there commercial flights from Haverfordwest?\nA: Scheduled commercial flights are limited and may operate on a seasonal or charter basis rather than as a regular daily service.\n\nQ: Where is the airport located?\nA: It is situated near the town of Haverfordwest in Pembrokeshire, southwest Wales, close to the coast and the Pembrokeshire Coast National Park.\n\nQ: Does the airport have navigation aids for instrument approaches?\nA: As a licensed regional airfield, it offers basic navigational facilities suitable for general aviation operations, though pilots should check current NOTAMs and approach charts.\n\n",
+  "transport_tips": "The airport is a short drive from Haverfordwest town centre and is accessible via the A40 road. Car hire or taxi pre-booking is recommended, as public transport options directly serving the airfield are limited. Travellers heading to coastal Pembrokeshire destinations such as St Davids or Tenby should allow extra driving time on rural roads.",
+  "local_tip": "If visiting in summer, book accommodation and transport well in advance — Pembrokeshire is a peak holiday destination, and the airport's small size means nearby lodging fills up quickly during July and August.",
+  "generatedAt": "2026-06-26T08:33:50.953Z",
+  "model": "MiniMax-M3"
+}

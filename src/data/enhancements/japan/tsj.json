@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TSJ",
+    "icao": "RJDT",
+    "name": "Tsushima Airport",
+    "country": "Japan",
+    "city": "Tsushima",
+    "lat": 34.2849,
+    "lon": 129.331,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tsushima Airport (TSJ) serves Tsushima Island, a mountainous Japanese island in the Tsushima Strait roughly halfway between Kyushu and the Korean Peninsula. As the primary aerial gateway to the island, it handles domestic flights operated by Oriental Air Bridge and ANA, connecting travelers to Fukuoka and Nagasaki on the mainland. The airport is a key access point for visitors drawn to the island's ancient historical sites, dense forests, and unique wildlife, including the endangered Tsushima leopard cat.",
+  "faqs": "Q: Which airlines operate at Tsushima Airport?\nA: Oriental Air Bridge and ANA are the main carriers, offering regular flights to Fukuoka and Nagasaki.\n\nQ: Does Tsushima Airport handle international flights?\nA: No, the airport is domestic only. International travelers typically reach the island via high-speed ferry from Busan, South Korea, or Hakata in Fukuoka.\n\nQ: How far is the airport from the main town of Izuhara?\nA: The airport is located a short drive from Izuhara, the island's administrative center, with bus and taxi services available.\n\nQ: Is Tsushima Airport used by military aircraft?\nA: While the facility serves civil aviation primarily, it has historically been considered for joint civilian-defence use given its strategic location near the Korean Peninsula.",
+  "transport_tips": "Rental cars are the most convenient option for exploring Tsushima's scattered attractions, and several agencies operate from or near the airport. Local buses run limited routes connecting the airport to Izuhara and other towns, but schedules can be infrequent outside peak hours. Taxis are available at the terminal but should ideally be booked in advance for early or late flights.",
+  "local_tip": "If weather or airline disruptions affect your flight, consider the Jetfoil hydro",
+  "generatedAt": "2026-06-29T14:29:09.468Z",
+  "model": "MiniMax-M3"
+}

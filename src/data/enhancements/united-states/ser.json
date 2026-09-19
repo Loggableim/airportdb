@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SER",
+    "icao": "KSER",
+    "name": "Freeman Municipal Airport",
+    "country": "United States",
+    "city": "Seymour",
+    "lat": 38.9236,
+    "lon": -85.9074,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Freeman Municipal Airport is a small general aviation facility serving Seymour, Indiana, located in the south-central part of the state between Indianapolis and Louisville. The airport primarily caters to private pilots, flight training, and recreational flying rather than scheduled commercial service. Named after a local figure, it supports the regional community with hangar space, fuel services, and tie-downs for visiting aircraft.",
+  "faqs": "Q: Does Freeman Municipal Airport have commercial airline service?\nA: No, this is a general aviation airport with no scheduled commercial flights. Travelers needing commercial service typically use Indianapolis International Airport (IND) or Louisville Muhammad Ali International Airport (SDF).\n\nQ: What facilities are available at the airport?\nA: The airport offers fuel services (avgas and jet fuel), aircraft parking and tie-downs, hangar rentals, and basic pilot amenities. Runway and lighting information is available through the airport office.\n\nQ: Is prior arrangement required to land at SER?\nA: No prior arrangement is generally needed for general aviation landings, though pilots are encouraged to check current NOTAMs and weather conditions before arrival.\n\nQ: Are there any nearby alternate airports?\nA: Yes, pilots can consider Columbus Municipal Airport (BAK) to the north or North Vernon Airport (OVO) to the east as alternates in the region.",
+  "transport_tips": "Reaching the airport by car is straightforward via US-50 and nearby I-65, which runs just west of Seymour. Rental cars or rideshare services can be arranged in town, though availability is limited compared to larger cities. Visitors flying in should coordinate ground transportation in advance, as on-site rental counters are typically not available at this size of facility.",
+  "local_tip": "If you're stopping in Seymour, don't miss the local rail heritage at the nearby Southern Indiana Railroad history exhibits, a fitting nod to the town's railroad roots and a nice way to spend an hour between flights.",
+  "generatedAt": "2026-06-27T05:39:48.641Z",
+  "model": "MiniMax-M3"
+}

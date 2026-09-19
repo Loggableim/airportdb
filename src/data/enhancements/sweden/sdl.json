@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SDL",
+    "icao": "ESNN",
+    "name": "Sundsvall-Härnösand Airport",
+    "country": "Sweden",
+    "city": "Sundsvall/ Härnösand",
+    "lat": 62.5281,
+    "lon": 17.4439,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sundsvall-Härnösand Airport serves the Västernorrland region of central Sweden, providing essential connectivity for the cities of Sundsvall and Härnösand. Opened in 1997 to replace the older Sundsvall airfield, it functions as a key transport gateway for Norrland, supporting both business travel and tourism to the scenic northern coast. The airport handles primarily domestic traffic, linking this sparsely populated region with Stockholm and other major Swedish cities.",
+  "faqs": "Q: What cities does Sundsvall-Härnösand Airport serve?\nA: It primarily serves the twin municipalities of Sundsvall and Härnösand in the Västernorrland region of central Sweden.\n\nQ: Are there international flights from this airport?\nA: The airport mainly handles domestic flights, especially to Stockholm. International connections are typically made via Stockholm Arlanda Airport.\n\n",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T06:26:33.376Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CEW",
+    "icao": "KCEW",
+    "name": "Bob Sikes Airport",
+    "country": "United States",
+    "city": "Crestview",
+    "lat": 30.7788,
+    "lon": -86.5221,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Bob Sikes Airport is a publicly owned, general aviation facility serving Crestview in the Florida Panhandle, named after longtime U.S. Congressman Robert L.F. Sikes who represented the region for decades. The airport operates as a reliever for nearby Eglin Air Force Base and Destin-Fort Walton Beach Airport, handling corporate, private, and military-related traffic. Its inland location makes it a useful alternative to the coastal airports during severe weather events affecting the Gulf of Mexico.",
+  "faqs": "Q: Who was Bob Sikes, and why is the airport named after him?\nA: Robert L.F. Sikes was a U.S. Congressman who represented northwest Florida from 1941 to 1979, one of the longest-serving members of Congress. The airport was renamed in his honor in 1973 to recognize his contributions to the region.\n\nQ: What is the airport primarily used for?\nA: Bob Sikes Airport primarily serves general aviation, including private aircraft, corporate jets, flight training, and military-related operations supporting nearby Eglin AFB. It does not currently offer scheduled commercial passenger service.\n\nQ: How far is the airport from popular Gulf Coast destinations?\nA: The airport is roughly 30 miles northeast of Destin and Fort Walton Beach, and about 45 miles from Pensacola Beach, making it a convenient inland gateway to the Emerald Coast.\n\nQ: Does the airport have a control tower?\nA: Yes, the airport has an operating air traffic control tower, which is unusual for an airport of its size and helpful for managing mixed civilian and military training traffic.",
+  "transport_tips": "Rental cars are the most practical option for reaching the airport, as Crestview is a smaller city without dedicated airport shuttles or rideshare saturation. The terminal sits just off State Road 85, providing quick access to I-10 for travelers heading east toward Tallahassee or west toward Pensacola. Travelers heading to the coast should budget 45–60 minutes of driving time to reach Destin or the beaches.",
+  "local_tip": "Frequent visitors recommend timing arrivals for late morning—the sea breeze that develops along the coast in the afternoon can create challenging crosswind landings at smaller coastal airports, so routing through Crestview often provides a smoother experience.",
+  "generatedAt": "2026-06-30T03:07:36.952Z",
+  "model": "MiniMax-M3"
+}

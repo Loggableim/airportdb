@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RSW",
+    "icao": "KRSW",
+    "name": "Southwest Florida International Airport",
+    "country": "United States",
+    "city": "Fort Myers",
+    "lat": 26.5347,
+    "lon": -81.7528,
+    "type": "large_airport",
+    "size": 51150
+  },
+  "summary": "Southwest Florida International Airport (RSW) is the primary commercial airport serving Fort Myers and the surrounding Lee County region, including popular Gulf Coast destinations like Sanibel and Captiva islands. Opened in 1983 to replace the smaller Page Field, it features a single, easy-to-navigate main terminal with three concourses. It is one of the busiest airports in Florida, driven largely by seasonal tourist traffic during the winter months.",
+  "faqs": "Q: How far is RSW from downtown Fort Myers?\nA: The airport is approximately 10 miles southeast of downtown Fort Myers, typically a 20-30 minute drive depending on traffic.\n\nQ: Does RSW have international flights?\nA: Yes, despite its name, RSW handles seasonal and year-round international flights, primarily to Canada and the Caribbean, along with U.S. domestic service.\n\nQ: How many terminals does RSW have?\nA: The airport has a single main terminal building divided into three concourses (B, C, and D), making it straightforward to navigate.\n\nQ: Is RSW busy during certain seasons?\nA: Yes, the airport sees significant traffic spikes from November through April when snowbirds and tourists flock to Southwest Florida's beaches and warm weather.\n\n",
+  "transport_tips": "Rental cars are the most convenient option and are located in a dedicated facility connected to the terminal via tram; booking in advance is strongly recommended during winter season. Ride-share services like Uber and Lyft have designated pickup zones on the ground level of the parking garage. LeeTran Route 50 provides public bus service to Fort Myers and other nearby communities for budget-conscious travelers.",
+  "local_tip": "If you're heading to Sanibel or Captiva islands, consider booking a rental car in advance as island roads can fill up quickly during season, and the causeway can experience delays during high season.",
+  "generatedAt": "2026-06-28T15:56:32.060Z",
+  "model": "MiniMax-M3"
+}

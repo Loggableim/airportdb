@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OTP",
+    "icao": "LROP",
+    "name": "Bucharest Henri Coandă International Airport",
+    "country": "Romania",
+    "city": "Otopeni",
+    "lat": 44.5718,
+    "lon": 26.1033,
+    "type": "large_airport",
+    "size": 1675
+  },
+  "summary": "Bucharest Henri Coandă International Airport (OTP) is Romania's largest and busiest airport, located in Otopeni approximately 16 km north of Bucharest city center. Renamed in 2004 after Henri Coandă, the pioneering Romanian aeronautical engineer who designed the Coandă-1910 aircraft, it serves as the main hub for TAROM and handles the majority of Romania's international air traffic. The airport operates a single terminal complex that has undergone significant modernization, including the inauguration of a new departures hall in 2023.",
+  "faqs": "Q: How far is Henri Coandă Airport from Bucharest city center?\nA: The airport is located in Otopeni, roughly 16-17 km north of central Bucharest, with a typical drive taking 30-45 minutes depending on traffic.\n\nQ: Are there direct train connections between the airport and Bucharest?\nA: Yes, the CFR operates a dedicated railway line connecting the airport's terminal directly to Bucharest North Railway Station (Gara de Nord), with journeys taking about 20-25 minutes.\n\nQ: Which airlines use Henri Coandă as a hub?\nA: TAROM, Romania's national flag carrier, maintains its primary hub here, alongside several low-cost carriers including Wizz Air, Ryanair, and Blue Air that operate significant route networks.\n\nQ: Does the airport operate 24 hours?\nA: The airport generally operates from early morning until late evening, though flight schedules can extend earlier or later; passengers should confirm with their specific airline for operating hours.\n\n",
+  "transport_tips": "The most reliable options to reach Bucharest are the CFR train from the airport's own railway station to Gara de Nord, or pre-booked taxis and ride-hailing services like Bolt and Uber, which offer fixed fares typically between 50-70 RON. Express bus route 783 connects the airport to central Bucharest during daytime hours, and most major car rental agencies have desks in the arrivals area.",
+  "local_tip": "Frequent travelers recommend arriving by train rather than road during rush hours (7-10 AM and 4-7 PM), as Bucharest's traffic around the Otopeni area can be unpredictable and add significant delays to your journey time.",
+  "generatedAt": "2026-06-28T15:58:51.686Z",
+  "model": "MiniMax-M3"
+}

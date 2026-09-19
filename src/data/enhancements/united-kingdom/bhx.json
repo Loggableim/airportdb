@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BHX",
+    "icao": "EGBB",
+    "name": "Birmingham Airport",
+    "country": "United Kingdom",
+    "city": "Birmingham, West Midlands",
+    "lat": 52.4539,
+    "lon": -1.748,
+    "type": "large_airport",
+    "size": 50850
+  },
+  "summary": "Birmingham Airport (BHX/EGBB) is the principal international gateway to the West Midlands of England, located approximately 10 km east of Birmingham city centre in Bickenhill, Solihull. Originally opened in 1939, it has grown into the UK's seventh-busiest airport, serving over 12 million passengers annually and offering flights to more than 150 destinations across Europe, the Middle East, and beyond. Its single integrated terminal, adjacent Birmingham International railway station, and proximity to the National Exhibition Centre (NEC) make it a key hub for both business and leisure travel.",
+  "faqs": "Q: How far is Birmingham Airport from the city centre?\nA: The airport is about 10 km (6 miles) southeast of Birmingham city centre, typically a 20-30 minute drive depending on traffic.\n\nQ: Does Birmingham Airport have a train station?\nA: Yes, Birmingham International railway station is directly connected to the terminal via a free Air-Rail Link shuttle, with frequent services to Birmingham New Street in around 10-15 minutes and direct links to London Euston in roughly 70 minutes.\n\nQ: How many terminals does Birmingham Airport have?\nA: Birmingham operates a single integrated passenger terminal that handles all arrivals and departures, with separate zones for domestic and international flights.\n\nQ: When should I arrive before my flight at BHX?\nA: For short-haul flights, arriving 2 hours before departure is generally sufficient, while long-haul travellers should allow at least 3 hours, especially during peak travel periods.",
+  "transport_tips": "The Air-Rail Link monorail provides a quick free connection between the terminal and Birmingham International railway station, making train travel the fastest option to the city. Taxis and rideshares are available outside the terminal but book in advance during peak times, and the X1 and X2 National Express coach services run 24/7 directly to Birmingham city centre and other West Midlands destinations.",
+  "local_tip": "If you have a long layover or a few hours to spare, the Resorts World Birmingham complex adjacent to the airport offers a cinema, restaurants, casino, and outlet shopping, all reachable within a short walk or via the free Air-Rail Link.",
+  "generatedAt": "2026-06-28T15:58:02.768Z",
+  "model": "MiniMax-M3"
+}

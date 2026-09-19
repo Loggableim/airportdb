@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YEL",
+    "icao": "CYEL",
+    "name": "Elliot Lake Municipal Airport",
+    "country": "Canada",
+    "city": "Elliot Lake",
+    "lat": 46.3514,
+    "lon": -82.5614,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Elliot Lake Municipal Airport (YEL/CYEL) is a small municipal aerodrome located about 6 km northeast of Elliot Lake, Ontario. It was developed to serve the region's uranium mining boom and today supports general aviation, charter flights, flight training, and emergency medical services. The airport has a single asphalt runway and sits in the scenic Northern Ontario landscape near the North Channel.",
+  "faqs": "Q: Does Elliot Lake Municipal Airport have scheduled passenger flights?\nA: No, YEL does not currently have scheduled airline service; it mainly handles general aviation, charters, and medevac flights. The nearest larger airports with scheduled service are Sudbury (YSB) and Sault Ste. Marie (YAM).\n\nQ: What runway and facilities does CYEL offer?\nA: The airport has a paved runway (12/30) and basic terminal facilities; fuel and services may be limited, so pilots should confirm availability before arrival.\n\nQ: How far is the airport from downtown Elliot Lake?\nA: It is about 6 km (roughly a 10-minute drive) northeast of the city center.\n\nQ: Is there customs clearance at YEL?\nA: No, Elliot Lake Municipal Airport is not a port of entry; international flights must clear customs at a designated airport before continuing to YEL.\n\n",
+  "transport_tips": "The airport is reached by road from Elliot Lake via Highway 108 and local roads, with the drive from downtown taking about 10 minutes. Taxi service or a pre-arranged shuttle is the most practical way to get to and from the terminal, as there is no regular public transit. If you need a rental car, arrange it in advance through an Elliot Lake agency, since on-site options are limited.",
+  "local_tip": "Frequent visitors know to call ahead for fuel and after-hours access, as the airport can be unstaffed outside published hours; check NOTAMs and the latest CFS entry before a weekend or evening arrival.",
+  "generatedAt": "2026-09-19T23:08:15.320Z",
+  "model": "deepseek-v4.1-flash"
+}

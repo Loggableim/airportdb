@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FDK",
+    "icao": "KFDK",
+    "name": "Frederick Municipal Airport",
+    "country": "United States",
+    "city": "Frederick",
+    "lat": 39.4176,
+    "lon": -77.3743,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Frederick Municipal Airport (FDK) is a general aviation facility located in Frederick, Maryland, serving the Frederick County region approximately 50 miles northwest of Washington, D.C., and 45 miles west of Baltimore. The airport supports flight training, corporate aviation, and recreational flying, and is home to the National Air and Space Museum's Steven F. Udvar-Hazy Center support facility and the Vintage Flyers museum. With two paved runways and a mix of FBOs, FDK is a popular destination for pilots traveling through the Mid-Atlantic corridor.",
+  "faqs": "Q: Does Frederick Municipal Airport offer commercial airline service?\nA: No, FDK is a general aviation airport with no scheduled commercial flights. It primarily serves private, business, and recreational aircraft.\n\nQ: How far is Frederick Municipal Airport from downtown Frederick?\nA: The airport is conveniently located about 3 miles southeast of downtown Frederick, typically a 10-minute drive.\n\nQ: Are there rental cars available at the airport?\nA: Rental car availability is limited; visitors typically arrange rentals in advance or use ride-sharing services to reach the airport.\n\nQ: Can pilots fly into FDK 24 hours a day?\nA: The airport operates without a control tower, and pilot-controlled lighting is available, but it's recommended to check current operating procedures before arrival.\n\n",
+  "transport_tips": "The airport is most easily accessed by car via U.S. Route 40 or I-70, with ample on-site parking available for those picking up or dropping off passengers. Ride-sharing services like Uber and Lyft operate in the area and can be ordered to the FBO. Without scheduled commercial service, travelers should coordinate ground transportation directly with their FBO of choice.",
+  "local_tip": "If you have time before or after your flight, the on-site Vintage Flyers museum and the AOPA headquarters nearby make Frederick a notable stop for aviation enthusiasts visiting the D.C. region.",
+  "generatedAt": "2026-06-26T23:46:02.936Z",
+  "model": "MiniMax-M3"
+}

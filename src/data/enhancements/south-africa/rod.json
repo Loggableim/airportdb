@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ROD",
+    "icao": "FARS",
+    "name": "Robertson Airport",
+    "country": "South Africa",
+    "city": "Robertson",
+    "lat": -33.8122,
+    "lon": 19.9028,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Robertson Airport (ROD) is a medium-sized airfield serving the town of Robertson in the Western Cape province of South Africa, situated in the heart of the Breede Valley wine and racing pigeon region. The airport primarily supports general aviation, private charters, and recreational flying, making it a convenient gateway for visitors exploring the area's celebrated wine estates and the scenic Route 62. Its location amid rolling vineyards and mountain views gives it a distinctly tranquil character compared to South Africa's major commercial hubs.",
+  "faqs": "Q: Does Robertson Airport handle commercial passenger flights?\nA: No, Robertson Airport does not offer scheduled commercial service. It primarily serves private aircraft, charter flights, and general aviation activities.\n\nQ: What is the airport mainly used for?\nA: The airport is commonly used by private pilots, flight training, and visitors flying in to tour the Breede Valley wine region and surrounding attractions.\n\nQ: Are there car rental services available at the airport?\nA: Rental car availability is limited on-site, so visitors typically arrange transportation in advance with providers in Robertson town, which is a short drive away.\n\nQ: What facilities can passengers expect at the terminal?\nA: Facilities are modest, consistent with a general aviation airfield, including a small terminal area, refueling services, and basic passenger amenities.\n\n",
+  "transport_tips": "Robertson town center is approximately 10 minutes by car from the airport, and pre-arranging a rental vehicle or transfer is recommended since on-site options are limited. The airport is easily reached via the N1 and R60 highways from Cape Town, roughly a two-hour drive. Taxis and ride services are available but should be booked ahead, especially for arrivals outside business hours.",
+  "local_tip": "If you're flying in for wine tasting, ask the local pilots and ground staff about which Robertson Wine Valley estates have airstrip access or can arrange helicopter transfers—they often know the best-kept secrets for combining vineyard visits with scenic flights.",
+  "generatedAt": "2026-06-26T10:46:49.181Z",
+  "model": "MiniMax-M3"
+}

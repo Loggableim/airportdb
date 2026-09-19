@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KUO",
+    "icao": "EFKU",
+    "name": "Kuopio Airport",
+    "country": "Finland",
+    "city": "Kuopio / Siilinjärvi",
+    "lat": 63.0071,
+    "lon": 27.7978,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kuopio Airport (KUO/EFKU) is a regional airport serving the city of Kuopio in eastern Finland, located in the municipality of Siilinjärvi approximately 20 km north of the city center. Operated by Finavia, it functions as the primary gateway to the Northern Savonia region, supporting both domestic routes and seasonal international charter flights. The airport plays a key role in connecting this lake-dotted inland region to the rest of Finland and Europe.",
+  "faqs": "Q: How far is Kuopio Airport from Kuopio city center?\nA: The airport is located about 20 km north of Kuopio in Siilinjärvi municipality, roughly a 25-30 minute drive depending on traffic and weather.\n\nQ: Which airlines operate from Kuopio Airport?\nA: Finnair is the main carrier, providing regular connections to Helsinki-Vantaa. Seasonal charter flights to Mediterranean destinations are also available during summer months.\n\nQ: Does Kuopio Airport have international flights?\nA: The airport mainly handles domestic traffic, with scheduled service to Helsinki. International charter flights operate seasonally, primarily to holiday destinations in southern Europe.\n\nQ: Is the airport open 24 hours?\nA: No, Kuopio Airport operates during scheduled flight hours only. Outside operating hours, terminal access is restricted to arriving passengers.",
+  "transport_tips": "The most convenient way to reach Kuopio from the airport is by taxi or pre-booked shuttle, which takes about 25 minutes and can be arranged at the terminal. Rental cars are available on-site for travelers exploring the Finnish Lakeland region. During winter months, allow extra travel time as snowy conditions can affect road travel in this part of Finland.",
+  "local_tip": "If you have a layover or arrive early, consider visiting the observation area on the upper floor of the terminal—it offers excellent views of aircraft operations and the surrounding forested lake landscape, especially beautiful during autumn foliage.",
+  "generatedAt": "2026-06-28T21:53:58.758Z",
+  "model": "MiniMax-M3"
+}

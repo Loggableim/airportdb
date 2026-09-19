@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CXY",
+    "icao": "MYCC",
+    "name": "Cat Cay Airport",
+    "country": "Bahamas",
+    "city": "North Cat Cay",
+    "lat": 25.5544,
+    "lon": -79.2754,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Cat Cay Airport serves the exclusive private island of Cat Cay in the northern Bahamas, part of the Bimini chain. The small airfield primarily accommodates private aircraft bringing visitors and residents to this secluded island community, known for its pristine beaches and elite private club. The airport's remote island setting offers one of the most exclusive arrival experiences in the Bahamas.",
+  "faqs": "Q: Is Cat Cay Airport open to commercial flights?\nA: No, Cat Cay Airport primarily handles private aviation. The island is a private community, so access is typically restricted to residents, members, and their invited guests.\n\nQ: How long is the runway at Cat Cay Airport?\nA: The airport features a relatively short paved runway suitable for small to mid-size private aircraft. Pilots should check current conditions and obtain any necessary permissions before arrival.\n\nQ: What island group does Cat Cay belong to?\nA: Cat Cay is located in the Bimini chain of islands, situated in the northern Bahamas near the Florida Straits.\n\nQ: Can passengers clear customs at Cat Cay?\nA: Customs and immigration processing is typically arranged in advance for private flights, as the airport lacks permanent customs facilities for general commercial arrivals.",
+  "transport_tips": "Since Cat Cay Airport serves a private island, ground transportation is generally pre-arranged through the island club or property owners. Most visitors arrive by private aircraft and are met directly on the tarmac by hosts or club representatives. The island is also accessible by boat from Miami or other Bahamian islands for those traveling by sea.",
+  "local_tip": "If you're visiting as a guest, coordinate your flight arrival with the island club well in advance—they often arrange customs clearance and ground transfers for a seamless experience, as the island has no public infrastructure for walk-ins.",
+  "generatedAt": "2026-06-27T08:14:57.330Z",
+  "model": "MiniMax-M3"
+}

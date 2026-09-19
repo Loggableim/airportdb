@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YZR",
+    "icao": "CYZR",
+    "name": "Chris Hadfield Airport",
+    "country": "Canada",
+    "city": "Sarnia",
+    "lat": 42.9994,
+    "lon": -82.3089,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Chris Hadfield Airport (YZR) is a medium-sized regional airport serving Sarnia, Ontario, named in honour of the famous Canadian astronaut Chris Hadfield, who spent his childhood on a farm nearby. Located near the U.S. border along Lake Huron's southern shore, the airport primarily supports general aviation, corporate flights, and limited scheduled service for the Sarnia-Lambton region. It provides a convenient alternative to larger hubs in London or Toronto for travelers in southwestern Ontario.",
+  "faqs": "Q: Why is the airport named after Chris Hadfield?\nA: The airport was renamed in 1997 to honour Chris Hadfield, a Canadian astronaut and the first Canadian commander of the International Space Station, who grew up on a farm in the Sarnia area.\n\nQ: Does Chris Hadfield Airport offer commercial flights?\nA: Scheduled commercial service is very limited; the airport is primarily used for general aviation, private charters, and corporate aircraft serving the local petrochemical industry.\n\nQ: Where is the airport located in relation to Sarnia?\nA: The airport is situated a few kilometres south of Sarnia's city centre, just north of the U.S.-Canada border near Port Huron, Michigan.\n\nQ: Are there car rental services at the airport?\nA: Rental car availability can be limited; many travellers arrange vehicles in advance through providers in Sarnia or from larger nearby airports.",
+  "transport_tips": "The airport is a short drive from downtown Sarnia via Highway 40, making taxi rides quick and affordable. Since commercial service is limited, most visitors rent a car in Sarnia or arrange pickup through their hotel. Crossing into the U.S. via the nearby Blue Water Bridge is straightforward for those connecting to Michigan destinations.",
+  "local_tip": "If you're visiting during summer, ask locally about the beaches along Lake Huron just minutes from the airport—great for a quick stop if you have time before your flight.",
+  "generatedAt": "2026-06-29T03:37:43.603Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ACS",
+    "icao": "UNKS",
+    "name": "Achinsk Airport",
+    "country": "Russia",
+    "city": "Achinsk",
+    "lat": 56.2692,
+    "lon": 90.5751,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Achinsk Airport (ACS/UNKS) is a medium-sized regional airport serving the city of Achinsk in Krasnoyarsk Krai, Siberia, Russia. It supports general aviation and regional flights in this industrial area known for its oil refinery and alumina production. The airport operates in the challenging Siberian climate, providing connectivity for the local population in a remote part of central Russia.",
+  "faqs": "Q: What is the IATA code for Achinsk Airport?\nA: The IATA code is ACS, and the ICAO code is UNKS.\n\nQ: Where is Achinsk Airport located?\nA: It is located in Achinsk, Krasnoyarsk Krai, Russia, in the Siberian region.\n\nQ: What type of airport is Achinsk?\nA: It is classified as a medium-sized airport serving regional aviation needs.\n\nQ: Are there international flights from Achinsk Airport?\nA: No, Achinsk primarily handles domestic regional flights and general aviation operations.\n\n",
+  "transport_tips": "The airport is located near Achinsk, typically accessible by taxi or private car from the city center. Public transportation options may be limited, so arranging ground transport in advance is advisable, especially during harsh Siberian winters. Roads can become difficult to navigate in snowy conditions, so allow extra travel time during winter months.",
+  "local_tip": "Dress in heavy layers when visiting—even short waits outside can be brutal during Siberian winters when temperatures can drop well below -30°C (-22°F).",
+  "generatedAt": "2026-06-26T12:17:29.077Z",
+  "model": "MiniMax-M3"
+}

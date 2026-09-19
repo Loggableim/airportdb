@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YUT",
+    "icao": "CYUT",
+    "name": "Naujaat Airport",
+    "country": "Canada",
+    "city": "Repulse Bay",
+    "lat": 66.521,
+    "lon": -86.2252,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Naujaat Airport (YUT/CYUT) serves the small Inuit hamlet of Naujaat, formerly known as Repulse Bay, located on the Arctic Circle along the shores of Hudson Bay in Nunavut, Canada. As a vital transportation lifeline for this remote community, the airport primarily handles regional flights connecting residents to larger hub airports in Nunavut. The facility operates in one of the most challenging aviation environments in North America, with extreme weather conditions ranging from frigid Arctic winters to brief summer seasons.",
+  "faqs": "Q: What airlines serve Naujaat Airport?\nA: Calm Air operates scheduled passenger flights connecting Naujaat to Rankin Inlet and other Nunavut communities, providing essential service to this remote Arctic community.\n\nQ: When is the best time to fly to Naujaat?\nA: Summer months (June through August) offer the most reliable weather conditions for travel, though flights operate year-round despite frequent weather-related delays during winter.\n\nQ: Is there public transportation available from the airport?\nA: There is no public transit system; visitors typically arrange pickup with local contacts or pre-book transportation through accommodations, as the airport is located about 5 km from the community center.\n\nQ: What facilities are available at the airport?\nA: The terminal is small with basic amenities, and passengers should bring their own snacks and water as food services are very limited or unavailable.",
+  "transport_tips": "Arrange ground transportation in advance through your hotel or local contacts, as taxi services are informal and not always readily available. The unpaved road connecting the airport to town can be rough, so confirm pickup arrangements before landing. Allow extra buffer time for flights, as weather delays are common and the airport has limited amenities for extended waits.",
+  "local_tip": "Pack motion sickness medication if traveling by boat to nearby attractions like the historic stone ruins or caribou migration viewing sites, as Hudson Bay waters can be choppy even in calm weather.",
+  "generatedAt": "2026-06-26T15:41:08.328Z",
+  "model": "MiniMax-M3"
+}

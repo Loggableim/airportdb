@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZLT",
+    "icao": "",
+    "name": "La Tabatière Airport",
+    "country": "Canada",
+    "city": "La Tabatière",
+    "lat": 50.8308,
+    "lon": -58.9756,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "La Tabatière Airport (ZLT) is a small regional airport serving the remote Lower North Shore community of La Tabatière in Quebec, Canada. It provides essential air access to one of the most isolated inhabited areas on the Côte-Nord, connecting residents to larger hub airports. The facility primarily supports scheduled regional flights and serves as a lifeline for this remote fishing and coastal village.",
+  "faqs": "Q: What is La Tabatière Airport used for?\nA: It primarily provides scheduled regional passenger service and air ambulance/medevac flights for the remote Lower North Shore community of La Tabatière, Quebec.\n\nQ: Are there car rentals available at the airport?\nA: No, the airport does not offer on-site car rental services. Visitors typically arrange ground transportation through local contacts or accommodations in advance.\n\nQ: How long is the runway at La Tabatière?\nA: The airport features a single gravel runway suitable for small turboprop aircraft commonly used on regional routes in remote Quebec.\n\nQ: Can the airport handle larger aircraft?\nA: No, due to its short gravel runway and remote location, La Tabatière is limited to small regional aircraft.",
+  "transport_tips": "Ground transportation options are limited; arrange a pickup with your hotel or host in advance. The small terminal building offers minimal amenities, so plan accordingly. The community itself is small and walkable, with most local services reachable from the airport on foot.",
+  "local_tip": "Pack all essentials—including snacks, medications, and weather gear—before flying in, as the nearest shops and services are limited and weather-related flight delays are common in this coastal region.",
+  "generatedAt": "2026-06-26T15:28:07.001Z",
+  "model": "MiniMax-M3"
+}

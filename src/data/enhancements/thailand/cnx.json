@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CNX",
+    "icao": "VTCC",
+    "name": "Chiang Mai International Airport",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "lat": 18.7668,
+    "lon": 98.9626,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Chiang Mai International Airport (CNX) is the principal gateway to northern Thailand, located roughly 4 kilometers southwest of Chiang Mai's historic old city. Originally constructed during World War II, it has grown into Thailand's fourth-busiest airport, serving as a vital hub for regional travel across Southeast Asia. The single-terminal facility handles a mix of domestic and international flights, making it a key entry point for visitors heading to the cultural and natural attractions of the Lanna region.",
+  "faqs": "Q: How far is Chiang Mai International Airport from the city center?\nA: The airport is approximately 4 km southwest of Chiang Mai's old city, with most hotels reachable within 15-20 minutes depending on traffic.\n\nQ: Does Chiang Mai International Airport have international flights?\nA: Yes, CNX operates both domestic and international flights, with direct connections to cities across Asia including Singapore, Kuala Lumpur, Hong Kong, Seoul, and various Chinese destinations.\n\nQ: Is there more than one terminal at Chiang Mai Airport?\nA: The airport operates a single integrated terminal that handles all domestic and international arrivals and departures.\n\nQ: What is the best time to arrive at the airport for a flight?\nA: For international flights, arriving 2-3 hours early is recommended, while 1-2 hours is generally sufficient for domestic departures.",
+  "transport_tips": "Metered taxis and Grab (ride-hailing) are readily available outside the terminal, with fares to the old city typically ranging from 150-200 Thai baht. Songthaew (shared red truck taxis) offer a budget-friendly option for short trips, though they may not be as convenient with luggage. Airport limousine services and pre-booked hotel transfers provide fixed-rate alternatives, especially useful during peak hours.",
+  "local_tip": "The airport's domestic arrival area features small shops selling northern Thai specialties like sai ua sausage and khao soi paste—much better quality and price than similar offerings at tourist markets downtown.",
+  "generatedAt": "2026-06-28T17:22:14.462Z",
+  "model": "MiniMax-M3"
+}

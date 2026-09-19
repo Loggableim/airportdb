@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EVG",
+    "icao": "ESND",
+    "name": "Sveg Airport",
+    "country": "Sweden",
+    "city": "Sveg",
+    "lat": 62.0478,
+    "lon": 14.4229,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Sveg Airport (EVG/ESND) is a small regional airport serving the town of Sveg in Härjedalen, central Sweden. Nestled in a forested area of the historical province of Härjedalen, it primarily functions as a gateway to this sparsely populated part of the Scandinavian interior. The airport supports limited scheduled flights, catering mainly to business travelers and visitors heading to nearby ski resorts and outdoor destinations in the Swedish mountains.",
+  "faqs": "Q: What is Sveg Airport primarily used for?\nA: It serves as a regional access point for Härjedalen, supporting both business travel and tourism to the surrounding wilderness and ski areas.\n\nQ: How many terminals does the airport have?\nA: Sveg Airport has a single small terminal building reflecting its modest size and low passenger volumes.\n\nQ: Are there regular commercial flights to Sveg?\nA: Scheduled service is limited; travelers should check current airline listings as routes and frequencies can change seasonally.\n\nQ: Is the airport open year-round?\nA: Yes, though winter weather conditions in Härjedalen can occasionally affect flight schedules.",
+  "transport_tips": "The airport is located just a few kilometers from Sveg town center, making taxi or pre-arranged transfer the quickest option. Rental cars may be available but should be booked in advance given the airport's small size. Driving from larger cities like Östersund or Mora takes several hours, so flying remains the most time-efficient choice for reaching the region.",
+  "local_tip": "If visiting in winter, ask locals about current snow conditions at nearby ski resorts like Lofsdalen or Vemdalen—both are popular destinations accessible from Sveg and offer some of the best ungroomed powder skiing in Sweden.",
+  "generatedAt": "2026-06-26T16:30:44.100Z",
+  "model": "MiniMax-M3"
+}

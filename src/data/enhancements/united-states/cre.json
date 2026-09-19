@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CRE",
+    "icao": "KCRE",
+    "name": "Grand Strand Airport",
+    "country": "United States",
+    "city": "North Myrtle Beach",
+    "lat": 33.8117,
+    "lon": -78.7239,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Grand Strand Airport is a general aviation facility serving North Myrtle Beach and the Grand Strand coastal region of South Carolina. Located just inland from the Atlantic coast, it primarily supports private aviation, flight training, and corporate travel rather than commercial airline service. The airport features a single main runway and is popular among pilots visiting the area's beaches and golf destinations.",
+  "faqs": "Q: Does Grand Strand Airport offer commercial airline service?\nA: No, Grand Strand Airport primarily serves general aviation, private aircraft, flight schools, and corporate jets. Commercial travelers typically use nearby Myrtle Beach International Airport (MYR).\n\nQ: How far is the airport from North Myrtle Beach's main attractions?\nA: The airport is conveniently located within a short drive of North Myrtle Beach's oceanfront, Barefoot Landing shopping district, and numerous golf courses.\n\nQ: Are there car rental services available at the airport?\nA: Rental car availability is limited; visitors flying in via private aviation typically arrange ground transportation in advance through local rental agencies or ride services.\n\nQ: What facilities does the airport provide for pilots?\nA: The airport offers fuel services, tie-downs and hangar space, a flight school, and basic amenities for transient pilots.",
+  "transport_tips": "Since commercial flights do not operate here, visitors typically arrange rental cars or rideshare services for ground transport. The airport's proximity to Highway 17 provides quick access to North Myrtle Beach and surrounding areas. Pre-arranging ground transportation is recommended, especially during peak tourist season.",
+  "local_tip": "If you're flying in for a golf trip, the airport's staff can connect you with local courses that offer concierge services for private aviation arrivals, often including club transportation directly from the FBO.",
+  "generatedAt": "2026-06-30T05:06:26.251Z",
+  "model": "MiniMax-M3"
+}

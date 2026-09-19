@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FMS",
+    "icao": "KFSW",
+    "name": "Fort Madison Municipal Airport",
+    "country": "United States",
+    "city": "Fort Madison",
+    "lat": 40.6591,
+    "lon": -91.3278,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Fort Madison Municipal Airport is a small general aviation airport serving the city of Fort Madison in southeastern Iowa, near the Mississippi River. It supports local aviation needs including private pilots, flight training, and recreational flying for the Lee County region. The airport features a single asphalt runway and serves as a convenient access point for visitors to this historic riverfront community known for its 19th-century architecture and the old Iowa State Penitentiary.",
+  "faqs": "Q: What is the airport code for Fort Madison Municipal Airport?\nA: The IATA code is FMS and the ICAO code is KFSW.\n\nQ: What type of aircraft does this airport accommodate?\nA: As a small general aviation facility, it primarily serves single-engine and light twin-engine aircraft, along with occasional private jets.\n\nQ: Is there commercial airline service at Fort Madison Municipal Airport?\nA: No, this airport does not offer scheduled commercial airline service. Travelers typically use larger regional airports for commercial flights.\n\nQ: Where is Fort Madison located?\nA: Fort Madison is in southeastern Iowa along the Mississippi River, roughly 20 miles southwest of Burlington, Iowa.",
+  "transport_tips": "The airport is located just a few miles south of downtown Fort Madison, easily accessible by car via Highway 61. Rental cars are not typically available on-site, so arranging ground transportation in advance is recommended. The nearest major airports with commercial service are in Burlington, Iowa, and Quincy, Illinois, both roughly an hour's drive away.",
+  "local_tip": "Visit the historic Old Fort Madison replica, a reconstructed 1800s frontier fort, and explore the scenic Mississippi Riverfront — both are local favorites just minutes from the airport and offer a glimpse into the region's pioneer heritage.",
+  "generatedAt": "2026-06-27T07:57:06.980Z",
+  "model": "MiniMax-M3"
+}

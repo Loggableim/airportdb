@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TLS",
+    "icao": "LFBO",
+    "name": "Toulouse-Blagnac Airport",
+    "country": "France",
+    "city": "Toulouse/Blagnac",
+    "lat": 43.6291,
+    "lon": 1.3638,
+    "type": "large_airport",
+    "size": 1675
+  },
+  "summary": "Toulouse-Blagnac Airport (TLS) is located 6.7 km west of Toulouse, France, and serves as a key hub for the European aerospace industry, with Airbus and ATR headquarters nearby. Established in the 1930s, it is among the busiest airports in France, handling over 9 million passengers annually. The airport features two runways and three terminals, and is known for its close ties to aviation manufacturing and testing.",
+  "faqs": "Q: What airlines operate from Toulouse-Blagnac Airport?\nA: Major airlines include Air France, easyJet, Ryanair, and Volotea, with many seasonal and charter flights to destinations across Europe and North Africa.\n\nQ: How far is the airport from Toulouse city center?\nA: The airport is about 6.7 km (4.2 miles) west of the city center, a 15-20 minute drive depending on traffic.\n\nQ: Is there public transportation to the airport?\nA: Yes, the T2 tram line connects the airport to Toulouse's metro system at Palais de Justice station, and buses also serve the airport.\n\nQ: What terminals are at Toulouse-Blagnac Airport?\nA: The airport has three terminals: Terminal A, B, and C (also called Hall A, B, C), with Terminal C mainly for low-cost carriers.\n\n",
+  "transport_tips": "The T2 tram line runs from the airport to Palais de Justice station, connecting to metro lines A and B. A taxi to the city center costs around €30-40 and takes 20 minutes. Ride-sharing services like Uber are also available at designated pickup points.",
+  "local_tip": "Aviation enthusiasts should visit the Aeroscopia museum adjacent to the airport, which houses historic aircraft including Concorde and the Airbus A380 prototype, and offers excellent runway views for plane spotting.",
+  "generatedAt": "2026-09-19T23:19:38.825Z",
+  "model": "deepseek-v4.1-flash"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "USH",
+    "icao": "SAWH",
+    "name": "Ushuaia - Malvinas Argentinas International Airport",
+    "country": "Argentina",
+    "city": "Ushuaia",
+    "lat": -54.8433,
+    "lon": -68.2958,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ushuaia - Malvinas Argentinas International Airport serves Ushuaia, widely recognized as the southernmost city in the world, and functions as the primary air gateway to Argentine Tierra del Fuego. Officially named to honor Argentina's claim over the Falkland/Malvinas Islands, the airport is a key departure point for Antarctic expedition cruises and travelers heading into Tierra del Fuego National Park. Its dramatic sub-polar setting, surrounded by the Martial mountain range and the Beagle Channel, makes it one of the most scenically located airports in South America.",
+  "faqs": "Q: How far is the airport from Ushuaia city center?\nA: The airport is approximately 4 km (2.5 miles) south of downtown Ushuaia, a short 10-15 minute drive.\n\nQ: What airlines operate from Ushuaia Airport?\nA: Aerolíneas Argentinas and LADE provide the main service, with regular flights to Buenos Aires (via stops or direct) and connections to other Patagonian cities like El Calafate and Río Gallegos.\n\nQ: Is Ushuaia the southernmost airport in South America?\nA: It is the southernmost major commercial airport on the continent, serving as the final air hub before Antarctica-bound expeditions.\n\nQ: When is the best time to fly to Ushuaia?\nA: The peak season runs from November to March (Southern Hemisphere summer), when weather is milder, daylight hours are long, and Antarctic cruise departures are at their height.\n\n",
+  "transport_tips": "Authorized taxis and remise (private hire cars) are available outside the terminal and offer fixed fares to the city center; confirm the rate before departure. Several hotels and Antarctic cruise operators offer pre-arranged shuttle pickups that can be more convenient than taxis. Rental car agencies operate at the airport, though driving in Ushuaia itself is rarely necessary as the town is compact and walkable.",
+  "local_tip": "Flights are frequently delayed or rerouted due to strong crosswinds funneling through the Beagle Channel—build a buffer of at least 24-48 hours into any connection back to Buenos Aires, especially in winter when weather disruptions are common.",
+  "generatedAt": "2026-06-29T03:19:17.374Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BTR",
+    "icao": "KBTR",
+    "name": "Baton Rouge Metropolitan Airport",
+    "country": "United States",
+    "city": "Baton Rouge",
+    "lat": 30.5332,
+    "lon": -91.1496,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Baton Rouge Metropolitan Airport, also known as Ryan Field, is the primary commercial airport serving Louisiana's capital city and the surrounding Gulf Coast region. Located just a few miles north of downtown Baton Rouge, it provides essential regional connectivity for both government and industry travel in the petrochemical corridor. The airport features a modern terminal complex and supports a mix of commercial and general aviation operations.",
+  "faqs": "Q: How far is Baton Rouge Metropolitan Airport from downtown?\nA: The airport is approximately 7 miles north of downtown Baton Rouge, typically a 15-20 minute drive depending on traffic.\n\nQ: What airlines operate at BTR?\nA: Baton Rouge Metropolitan is served by several major carriers including American Airlines, Delta Air Lines, and United Airlines, offering nonstop flights to hub cities like Dallas, Atlanta, Houston, and Charlotte.\n\nQ: Does the airport have international flights?\nA: BTR primarily handles domestic flights, with no scheduled international service. The nearest international options are Louis Armstrong New Orleans International Airport (MSY).\n\nQ: Are there dining and shopping options at BTR?\nA: Yes, the terminal features a modest selection of local Louisiana-inspired dining spots, a newsstand, and gift shops both pre- and post-security.",
+  "transport_tips": "The airport is easily accessible via Interstate 110, with clear signage directing travelers to the terminal. On-site rental car agencies and taxi services are available, and ride-share apps like Uber and Lyft serve the airport. Ample short-term and long-term parking is offered in adjacent lots at competitive daily rates.",
+  "local_tip": "If you have a layover or extra time, try the boudin or gumbo at the local-themed concessions in the terminal—it's a quick taste of authentic Louisiana cuisine before you even leave the airport.",
+  "generatedAt": "2026-06-29T02:29:13.613Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JCB",
+    "icao": "SSJA",
+    "name": "Santa Terezinha Airport",
+    "country": "Brazil",
+    "city": "Joaçaba",
+    "lat": -27.1715,
+    "lon": -51.5533,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Santa Terezinha Airport (JCB) serves the city of Joaçaba in the western region of Santa Catarina state in southern Brazil. It primarily handles general aviation and regional flights, supporting the local economy centered on agribusiness and the nearby Universidade do Oeste de Santa Catarina (UNOESC). The airport features a single runway and modest terminal facilities typical of small Brazilian regional airports.",
+  "faqs": "Q: What is the IATA code for Santa Terezinha Airport?\nA: The IATA code is JCB, and the ICAO code is SSJA.\n\nQ: Where is the airport located?\nA: It is located in Joaçaba, in the state of Santa Catarina, southern Brazil, near the border with Rio Grande do Sul.\n\nQ: What type of flights does the airport serve?\nA: The airport primarily handles general aviation and small regional aircraft, with limited scheduled commercial service.\n\nQ: Are there facilities for overnight stays near the airport?\nA: Yes, Joaçaba and the neighboring city of Herval d'Oeste offer hotels and lodging options within a short drive of the airport.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are the most common way to reach the airport from central Joaçaba, a trip of approximately 5-10 minutes. Rental cars are available in the city for those wishing to explore the wider Santa Catarina region. The airport has limited public transportation, so arranging ground transport in advance is recommended.",
+  "local_tip": "If you have time before or after your flight, visit the Mirante do Belvedere in central Joaçaba for panoramic views of the city and the Rio do Peixe valley, especially beautiful at sunset.",
+  "generatedAt": "2026-06-27T09:40:34.192Z",
+  "model": "MiniMax-M3"
+}

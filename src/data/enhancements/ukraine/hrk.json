@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HRK",
+    "icao": "UKHH",
+    "name": "Kharkiv International Airport",
+    "country": "Ukraine",
+    "city": "Kharkiv",
+    "lat": 49.9269,
+    "lon": 36.2908,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kharkiv International Airport (HRK) is the main aviation gateway serving Kharkiv, Ukraine's second-largest city and a major industrial, scientific, and cultural hub in the eastern part of the country. Located approximately 12 kilometers southeast of the city center, the airport has historically served as an important regional hub connecting eastern Ukraine with domestic and international destinations. The facility features a modernized terminal complex and has historically accommodated both civilian flights and aviation training operations.",
+  "faqs": "Q: How far is Kharkiv International Airport from the city center?\nA: The airport is located approximately 12 km southeast of Kharkiv's city center, typically a 20-30 minute drive depending on traffic conditions.\n\nQ: What airlines have historically operated from HRK?\nA: Before airspace restrictions, the airport served as a hub for airlines including Ukraine International Airlines, SkyUp, and various other carriers offering flights to European and Middle Eastern destinations.\n\nQ: Does the airport operate 24 hours?\nA: Operating hours have varied over time based on demand and security conditions; passengers should verify current schedules directly with their airline before traveling.\n\nQ: Is there a VIP or business lounge at the terminal?\nA: The airport has historically offered business class services and a VIP terminal for premium passengers and official delegations.",
+  "transport_tips": "The most common way to reach the airport is by taxi or private car, with fixed-route marshrutka (minibus) services also historically connecting the terminal to central Kharkiv. Travelers should allow extra time during peak hours and winter months when road conditions can be challenging. Pre-arranging transportation through a hotel or reputable app-based service is recommended for a smoother experience.",
+  "local_tip": "If visiting Kharkiv, consider timing your arrival or departure for daylight hours to enjoy the scenic approach over the city's wide boulevards and green spaces — Kharkiv is known for its tree-lined streets and impressive Soviet-era architecture visible from the air.",
+  "generatedAt": "2026-06-29T08:46:49.086Z",
+  "model": "MiniMax-M3"
+}

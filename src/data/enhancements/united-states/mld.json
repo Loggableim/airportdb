@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLD",
+    "icao": "KMLD",
+    "name": "Malad City Airport",
+    "country": "United States",
+    "city": "Malad City",
+    "lat": 42.1666,
+    "lon": -112.297,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Malad City Airport (MLD/KMLD) is a small general aviation airport serving the rural community of Malad City in Oneida County, southeastern Idaho. It primarily supports private aircraft operations, recreational flying, and occasional emergency or medical flights for the surrounding agricultural region. The airport features a single runway and minimal commercial infrastructure, reflecting its role as a community-use facility rather than a commercial hub.",
+  "faqs": "Q: What type of airport is Malad City Airport?\nA: It is a small general aviation airport serving primarily private pilots and local aviation needs.\n\nQ: Does Malad City Airport offer commercial flights?\nA: No, the airport does not provide scheduled commercial airline service.\n\nQ: What facilities are available at Malad City Airport?\nA: The airport features a runway and basic amenities for general aviation; pilots should contact the airport manager for current services and tie-down availability.\n\nQ: Are there any nearby airports for commercial travel?\nA: Yes, larger airports with commercial service are located in Pocatello and Logan, Utah, both roughly an hour's drive from Malad City.",
+  "transport_tips": "Travelers heading to Malad City Airport should arrange ground transportation in advance, as the airport does not have taxi services or rideshare availability on demand. A personal vehicle is the most reliable way to reach the facility, with the town center just a short drive away. Flying visitors typically coordinate with local contacts for pickup or rental car arrangements.",
+  "local_tip": "Call the airport manager before your arrival—even small general aviation fields in rural Idaho often have unmanned facilities with restricted after-hours access, so a quick check-in call can save you time on the ground.",
+  "generatedAt": "2026-06-27T02:05:44.179Z",
+  "model": "MiniMax-M3"
+}

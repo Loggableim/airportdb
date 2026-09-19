@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SDJ",
+    "icao": "RJSS",
+    "name": "Sendai Airport",
+    "country": "Japan",
+    "city": "Natori",
+    "lat": 38.1397,
+    "lon": 140.917,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Sendai Airport is the primary aviation gateway to Japan's Tohoku region, located in Natori, Miyagi Prefecture, roughly 15 km south of Sendai city center. The airport was severely damaged by the March 2011 Tōhoku earthquake and tsunami but was subsequently rebuilt with modernized terminal facilities. It is notable for having one of Japan's few direct airport-to-city rail links, the Sendai Airport Access Line, connecting the terminal to central Sendai.",
+  "faqs": "Q: How far is Sendai Airport from Sendai city center?\nA: The airport is about 15 km south of downtown Sendai, and the Sendai Airport Access Line provides direct rail service to Sendai Station in",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T22:09:55.507Z",
+  "model": "MiniMax-M3"
+}

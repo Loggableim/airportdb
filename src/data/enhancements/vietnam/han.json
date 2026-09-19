@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HAN",
+    "icao": "VVNB",
+    "name": "Noi Bai International Airport",
+    "country": "Vietnam",
+    "city": "Hanoi (Soc Son)",
+    "lat": 21.2212,
+    "lon": 105.807,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Noi Bai International Airport (HAN) is the largest airport in northern Vietnam and the country's second-busiest after Tan Son Nhat. Located in Soc Son District about 35 km north of Hanoi city center, it serves as the main international gateway to the capital and features two terminals: T1 for domestic flights and the modern T2, which opened in 2015 to handle growing international traffic. It functions as a major hub for Vietnam Airlines and VietJet Air.",
+  "faqs": "Q: How far is Noi Bai Airport from central Hanoi?\nA: Approximately 35 km north of the city center, with typical journey times of 45–90 minutes depending on traffic and mode of transport.\n\nQ: Are there separate terminals for domestic and international flights?\nA: Yes. Terminal 1 (T1) handles domestic flights, while Terminal 2 (T2) serves international flights. Free shuttle buses connect the two terminals.\n\nQ: What is the best way to get from the airport to central Hanoi?\nA: Options include official taxis, ride-hailing apps like Grab, public buses (routes 86 and 07), and airport minivans. The new Nhon–Hanoi Station metro line does not yet reach the airport, so road transport remains the primary option.\n\nQ: Is the airport open 24 hours?\nA: The airport operates around the clock, though individual airline counters and shops have varying opening hours depending on flight schedules.",
+  "transport_tips": "Allow at least 60–90 minutes for ground transport to or from central Hanoi, as traffic on the route can be heavy, especially during rush hours. Ride-hailing apps like Grab offer fixed upfront pricing and are generally reliable for international travelers. For budget-conscious travelers, bus route 86 provides direct service between the airport and Hanoi's Old Quarter.",
+  "local_tip": "When flying out internationally, arrive at T2 early—immigration and security queues can grow quickly during peak evening departures, particularly for flights to Seoul, Tokyo, and Bangkok. Keep small Vietnamese dong on hand for the departure floor shops and tipping porters.",
+  "generatedAt": "2026-06-28T17:04:01.429Z",
+  "model": "MiniMax-M3"
+}

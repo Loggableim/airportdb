@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DMM",
+    "icao": "OEDF",
+    "name": "King Fahd International Airport",
+    "country": "Saudi Arabia",
+    "city": "Ad Dammam",
+    "lat": 26.4691,
+    "lon": 49.7982,
+    "type": "large_airport",
+    "size": 1675
+  },
+  "summary": "King Fahd International Airport (DMM) is one of the largest airports in the world by total land area, covering approximately 780 square kilometers in Saudi Arabia's Eastern Province. Opened in 1999 and named after the late King Fahd bin Abdulaziz Al Saud, it serves the cities of Dammam, Dhahran, Al Khobar, and the wider Eastern Province region. The airport features a dedicated royal terminal and acts as the primary aviation gateway to the oil-rich eastern region of the Kingdom.",
+  "faqs": "Q: How far is King Fahd International Airport from central Dammam?\nA: The airport is located approximately 30 to 40 kilometers northwest of Dammam city center, typically a 30 to 45 minute drive depending on traffic.\n\nQ: Which airlines operate from DMM?\nA: The airport serves as a hub for Saudia and flynas, with numerous international carriers including Emirates, Qatar Airways, Lufthansa, and Air India also operating regular flights.\n\nQ: Does the airport have a royal terminal?\nA: Yes, King Fahd International includes a separate royal terminal used for VIP and royal flights, reflecting its status as a major gateway for Saudi dignitaries and government officials.\n\nQ: Is the airport one of the largest in the world?\nA: Yes, by total land area it ranks among the largest airports globally, though much of the surrounding land remains undeveloped desert.",
+  "transport_tips": "Official Saudi Arabian taxis and ride-hailing apps like Careem and Uber are the most convenient options for reaching the airport from Dammam, Al Khobar, or",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T16:11:47.830Z",
+  "model": "MiniMax-M3"
+}

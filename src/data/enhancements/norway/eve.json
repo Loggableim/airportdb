@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EVE",
+    "icao": "ENEV",
+    "name": "Harstad/Narvik Airport",
+    "country": "Norway",
+    "city": "Evenes",
+    "lat": 68.4913,
+    "lon": 16.6781,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Harstad/Narvik Airport, Evenes (EVE) serves the twin cities of Harstad and Narvik in northern Norway, sitting just above the Arctic Circle. The airport shares its facilities with the Royal Norwegian Air Force, reflecting its strategic dual civilian-military role. It functions as the primary air gateway to the Vesterålen and Ofoten regions, connecting remote Arctic communities to the rest of Norway.",
+  "faqs": "Q: Which airlines operate from Harstad/Narvik Airport?\nA: Scandinavian Airlines (SAS), Norwegian, and Widerøe are the main carriers offering scheduled flights, primarily connecting to Oslo and Bodø.\n\nQ: How far is the airport from Harstad and Narvik?\nA: The airport is roughly 45 km from Harstad and about 60 km from Narvik, with drive times of approximately 45 minutes and 1 hour respectively.\n\nQ: Does the airport operate year-round despite its Arctic location?\nA: Yes, the airport is open year-round, with de-icing and snow removal procedures in place to handle winter conditions.\n\nQ: Are there facilities for military personnel?\nA: Yes, the airport is co-located with Evenes Air Station, a Royal Norwegian Air Force base, so military and civilian operations share the runway and certain facilities.",
+  "transport_tips": "Flybussen (airport shuttle) services connect the airport to both Harstad and Narvik with schedules aligned to flight arrivals and departures. Rental cars are available on-site and are recommended for travelers heading to surrounding fjords or remote destinations. Taxi ranks are located outside the terminal, but fares are relatively high given the long distances to nearby towns.",
+  "local_tip": "Time your arrival for clear weather and ask ground staff about visibility of the nearby Lofoten and Vesterålen peaks—the mountain views from the apron area on sunny days are extraordinary and easily missed by passengers rushing through the terminal.",
+  "generatedAt": "2026-06-28T19:55:36.073Z",
+  "model": "MiniMax-M3"
+}

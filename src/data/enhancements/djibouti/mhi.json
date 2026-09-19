@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MHI",
+    "icao": "HDMO",
+    "name": "Moucha Airport",
+    "country": "Djibouti",
+    "city": "Moucha Island",
+    "lat": 11.7297,
+    "lon": 43.2096,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Moucha Airport (MHI/HDMO) is a small airport serving Moucha Island, a low-lying coral island in the Gulf of Tadjoura off the coast of Djibouti. The island and its surrounding waters form part of a protected marine area known for snorkeling, diving, and biodiversity. The airport primarily supports tourism to the island's eco-lodges and resorts, as well as occasional local traffic.",
+  "faqs": "Q: Where is Moucha Airport located?\nA: It is located on Moucha Island in the Gulf of Tadjoura, approximately 20 km southwest of Djibouti City, Djibouti.\n\nQ: What type of aircraft use Moucha Airport?\nA: The airport primarily handles small propeller aircraft and light charter flights due to its short runway and small size.\n\nQ: Are there scheduled commercial flights to Moucha Airport?\nA: Scheduled service is very limited; most visitors arrange charter or private flights from Djibouti-Ambouli International Airport.\n\nQ: What facilities are available at the airport?\nA: Facilities are minimal, reflecting its status as a small island airstrip serving primarily tourism and local transport needs.\n",
+  "transport_tips": "The most common way to reach Moucha Airport is by charter flight from Djibouti-Ambouli International Airport, with flights taking roughly 15 minutes. Alternatively, boats depart from the mainland port area, typically taking about 45 minutes to an hour depending on conditions. Arrangements should be made in advance, especially during off-peak seasons.",
+  "local_tip": "If visiting for diving or snorkeling, coordinate your flight schedule with tide times—the island's shallow reefs and nearby Maskali Island are best explored at high tide for the clearest visibility.",
+  "generatedAt": "2026-06-28T04:09:55.891Z",
+  "model": "MiniMax-M3"
+}

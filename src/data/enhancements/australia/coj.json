@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "COJ",
+    "icao": "YCBB",
+    "name": "Coonabarabran Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -31.3325,
+    "lon": 149.267,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Coonabarabran Airport (COJ/YCBB) is a regional airport serving the town of Coonabarabran in central-western New South Wales, Australia. It supports general aviation, charter flights, and aerial services for the surrounding Warrumbungle region, an area renowned as the 'Astronomy Capital of Australia' due to its proximity to Siding Spring Observatory and its exceptionally dark night skies. The airport primarily caters to private pilots, emergency services, and visitors heading to Warrumbungle National Park.",
+  "faqs": "Q: Does Coonabarabran Airport offer commercial passenger flights?\nA: No scheduled commercial passenger services operate at Coonabarabran Airport. It primarily supports general aviation, charter operations, and emergency service aircraft.\n\nQ: Where is the airport located relative to the town?\nA: The airport is situated a few kilometers from the Coonabarabran town centre in New South Wales, providing easy road access for travelers.\n\nQ: What attractions are near the airport?\nA: The airport provides convenient access to Warrumbungle National Park, Siding Spring Observatory, and the surrounding stargazing destinations that make the region a hub for astronomy tourism.\n\nQ: Is the airport used for emergency or medical services?\nA: Yes, the airport supports aerial emergency operations including medical retrievals and bushfire response, which are vital in this rural region.",
+  "transport_tips": "Reaching Coonobarabran Airport is easiest by private vehicle, as there are no regular public transport services to the terminal. The airport is a short drive from the town centre via well-maintained local roads. Visitors flying in on charter or private aircraft typically arrange ground transport directly with local operators or accommodation providers.",
+  "local_tip": "Time your visit around a new moon phase for world-class stargazing at the nearby Siding Spring Observatory, where the exceptionally dark skies of the Warrumbungle region offer some of the",
+  "generatedAt": "2026-06-26T09:57:03.310Z",
+  "model": "MiniMax-M3"
+}

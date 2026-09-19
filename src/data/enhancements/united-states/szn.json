@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SZN",
+    "icao": "KSZN",
+    "name": "Santa Cruz Island Airport",
+    "country": "United States",
+    "city": "Santa Cruz Island",
+    "lat": 34.0601,
+    "lon": -119.9152,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Santa Cruz Island Airport (SZN) is a small, unpaved airstrip on Santa Cruz Island, the largest of California's Channel Islands and part of Channel Islands National Park. The facility primarily serves general aviation aircraft, National Park Service operations, and researchers accessing this remote Pacific island roughly 25 miles off the coast. There is no scheduled commercial airline service, and visitors must arrange private or chartered flights to land here.",
+  "faqs": "Q: Is there commercial airline service to Santa Cruz Island Airport?\nA: No, SZN has no scheduled commercial flights. Access is limited to private general aviation aircraft or chartered flights.\n\nQ: Who operates the airport?\nA: The airstrip is managed in coordination with the National Park Service, as the island falls within Channel Islands National Park.\n\nQ: What is the runway surface like?\nA: The runway is unpaved and relatively short, suitable only for small general aviation aircraft. Pilots should check current conditions before planning a flight.\n\nQ: Do I need a permit to land at SZN?\nA: Landing permission and park entry arrangements must be coordinated in advance with the National Park Service and the airport manager.",
+  "transport_tips": "Most visitors reach Santa Cruz Island by boat from Ventura or Santa Barbara harbors rather than by air. Private pilots landing at SZN should arrange ground transportation on the island in advance, as there is no rental car service at the airstrip. The nearest major airports for connecting flights are Santa Barbara (SBA) and Burbank (BUR).",
+  "local_tip": "Bring everything you need for your island stay with you on the aircraft, as supplies on Santa Cruz Island are extremely limited and the small ranger station is the only source of basic provisions.",
+  "generatedAt": "2026-06-28T06:45:22.537Z",
+  "model": "MiniMax-M3"
+}

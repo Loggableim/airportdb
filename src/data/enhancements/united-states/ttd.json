@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TTD",
+    "icao": "KTTD",
+    "name": "Portland Troutdale Airport",
+    "country": "United States",
+    "city": "Portland",
+    "lat": 45.5494,
+    "lon": -122.401,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Portland-Troutdale Airport (TTD/KTTD) is a general aviation facility situated in Troutdale, Oregon, just east of Portland near the scenic Columbia River Gorge. Owned and operated by the Port of Portland, it primarily serves private aircraft, flight training, and recreational flying rather than commercial airline traffic. Its location offers easy access to outdoor recreation in the Cascade Range and along the Columbia and Sandy Rivers.",
+  "faqs": "Q: What is Portland-Troutdale Airport primarily used for?\nA: It is a general aviation airport serving private pilots, flight schools, recreational flyers, and small charter operations rather than scheduled commercial airlines.\n\nQ: Where is the airport located in relation to Portland?\nA: It sits in Troutdale, approximately 10-15 miles east of downtown Portland, near the mouth of the Columbia River Gorge.\n\nQ: How many runways does TTD have?\nA: The airport operates with a single runway, suitable for small to mid-sized general aviation aircraft.\n\nQ: Can I rent a car at Portland-Troutdale Airport?\nA: On-site rental car services are limited; most travelers arrange ground transportation in advance or use rideshare services from the nearby Portland metro area.",
+  "transport_tips": "The airport is about a 20-minute drive from downtown Portland via Interstate 84, making it relatively quick to reach from the city center. Rideshare services and taxis can be arranged, though availability may be limited compared to Portland International Airport. Visitors driving themselves can access the airport easily via NE Airport Way from I-84 exit 17.",
+  "local_tip": "Frequent visitors recommend timing flights around the Gorge wind patterns—mornings tend to be calmer for takeoffs and landings, while afternoons can bring stronger gusts funneling through the Columbia River Gorge.",
+  "generatedAt": "2026-06-30T05:21:04.909Z",
+  "model": "MiniMax-M3"
+}

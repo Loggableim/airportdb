@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BKL",
+    "icao": "KBKL",
+    "name": "Burke Lakefront Airport",
+    "country": "United States",
+    "city": "Cleveland",
+    "lat": 41.5175,
+    "lon": -81.6833,
+    "type": "medium_airport",
+    "size": 375
+  },
+  "summary": "Burke Lakefront Airport is a reliever general aviation airport situated on the Lake Erie shoreline in downtown Cleveland, Ohio. Named after former Cleveland mayor Thomas A. Burke, it primarily serves corporate jets, private aircraft, and flight training operations, handling traffic that would otherwise congest nearby Cleveland Hopkins International Airport. The airport is also well known as the home venue of the annual Cleveland National Air Show.",
+  "faqs": "Q: Does Burke Lakefront Airport have commercial airline service?\nA: No, BKL does not offer scheduled commercial flights. It serves as a general aviation and corporate airport, relieving congestion from Cleveland Hopkins International (CLE).\n\nQ: How close is the airport to downtown Cleveland?\nA: The airport is uniquely located right on the lakefront, just minutes from downtown Cleveland and within walking distance of attractions like the Rock and Roll Hall of Fame and FirstEnergy Stadium.\n\nQ: What runway facilities does BKL have?\nA: Burke Lakefront has a primary runway (6L/24R) of approximately 6,000 feet, capable of handling most business jets and turboprop aircraft.\n\nQ: Can the public watch the Cleveland National Air Show from the airport?\nA: Yes, the airport grounds serve as the primary viewing area for the annual Cleveland National Air Show, one of the largest air shows in the Midwest.",
+  "transport_tips": "Reaching BKL is straightforward by car via I-90 and the Lakefront freeway, with ample on-site parking for pilots and visitors. Rideshare services like Uber and Lyft frequently service the airport due to its downtown proximity. Taxis and rental cars are also available, and travelers can reach downtown Cleveland hotels in under 10 minutes.",
+  "local_tip": "If visiting during the Cleveland National Air Show, arrive early and bring a folding chair—the airport's lakefront ramp offers some of the best unobstructed views of aerial demonstrations, and you may even be able to walk among static aircraft displays between performances.",
+  "generatedAt": "2026-06-30T01:28:08.474Z",
+  "model": "MiniMax-M3"
+}

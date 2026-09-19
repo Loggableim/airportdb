@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TIF",
+    "icao": "OETF",
+    "name": "Taif International Airport",
+    "country": "Saudi Arabia",
+    "city": "Taif",
+    "lat": 21.4847,
+    "lon": 40.5441,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Taif International Airport serves the mountainous city of Taif in western Saudi Arabia, a region prized as a summer escape from the desert heat due to its higher elevation in the Hejaz mountains. The airport supports both domestic flights to major Saudi cities and limited international services, primarily catering to pilgrims and seasonal tourists. It remains a key gateway to the Makkah Province alongside the busier Jeddah airports.",
+  "faqs": "Q: How far is Taif Airport from the city center?\nA: The airport is located approximately 25 km east of Taif city, with typical taxi rides taking around 30 minutes depending on traffic.\n\nQ: Does Taif Airport offer international flights?\nA: Yes, the airport handles a small number of international routes, primarily regional services to nearby Middle Eastern destinations, though most international travelers connect through Jeddah.\n\nQ: When is the best time to fly into Taif?\nA: Summer (June to August) is peak season as Saudi residents flock to Taif for its cooler mountain climate, so booking in advance is recommended during these months.\n\nQ: Is there on-site parking at the airport?\nA: Yes, the airport provides short and long-term parking options adjacent to the terminal building.\n\n",
+  "transport_tips": "Taxis and ride-hailing apps like Careem and Uber are the most reliable ways to reach the airport, as there is no direct rail service. Pre-booking a taxi during peak summer travel is advisable to avoid wait times. Many hotels in Taif offer airport shuttle services, which can be a cost-effective option for tourists.",
+  "local_tip": "If you have a long layover or early arrival, head to the nearby Taif Rose Gardens or the Shubra Palace area for a quick taste of the city's heritage — both are within a 30-minute drive from the airport.",
+  "generatedAt": "2026-06-28T23:02:29.521Z",
+  "model": "MiniMax-M3"
+}

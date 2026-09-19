@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CNS",
+    "icao": "YBCS",
+    "name": "Cairns International Airport",
+    "country": "Australia",
+    "city": "Cairns",
+    "lat": -16.8789,
+    "lon": 145.7495,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Cairns International Airport is the primary gateway to tropical North Queensland and the Great Barrier Reef, located approximately 7 km north of Cairns city center. It serves as a major hub for tourism in the region, handling both domestic flights across Australia and international services to destinations in Asia and the Pacific. The airport is consistently among the busiest in Australia for international tourism traffic.",
+  "faqs": "Q: How far is Cairns Airport from the city center?\nA: The airport is about 7 km north of Cairns CBD, typically a 10-15 minute drive depending on traffic.\n\nQ: Does Cairns Airport have international flights?\nA: Yes, it operates international flights to destinations including Japan, Singapore, New Zealand, and various Pacific islands, alongside its extensive domestic network.\n\nQ: Are there direct flights from Sydney or Melbourne?\nA: Yes, multiple airlines operate direct flights from Sydney, Melbourne, Brisbane, and other major Australian cities to Cairns daily.\n\nQ: Is there a hotel near the airport?\nA: Several accommodation options are located within minutes of the terminals, including the Cairns Sheridan Hotel and various budget options along the airport corridor.",
+  "transport_tips": "The most convenient way to reach Cairns city is by taxi or rideshare, which takes around 10-15 minutes from the terminals. Sunbus operates regular public bus services connecting the airport to the city and northern beaches, offering an affordable alternative. Rental car agencies are available on-site for travelers planning to explore the broader region including Port Douglas or the Atherton Tablelands.",
+  "local_tip": "If you have a morning flight, the airport's tropical garden displays and outdoor viewing areas are worth exploring early—they showcase native plants and offer a pleasant introduction to the region's lush environment before you even leave the terminals.",
+  "generatedAt": "2026-06-28T18:14:47.423Z",
+  "model": "MiniMax-M3"
+}

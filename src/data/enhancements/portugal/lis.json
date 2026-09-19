@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LIS",
+    "icao": "LPPT",
+    "name": "Lisbon Humberto Delgado Airport",
+    "country": "Portugal",
+    "city": "Lisbon",
+    "lat": 38.7813,
+    "lon": -9.1359,
+    "type": "large_airport",
+    "size": 1011275
+  },
+  "summary": "Lisbon Humberto Delgado Airport (LIS) is Portugal's busiest international gateway, located about 7 km north of central Lisbon in the parish of Portela. Originally opened in 1942 as Portela de Sacavém Airport, it was renamed in 2016 to honor Humberto Delgado, a Portuguese Air Force general and political dissident. The airport serves as the main hub for TAP Air Portugal and features two terminals handling millions of passengers annually, connecting Lisbon to Europe, the Americas, Africa, and beyond.",
+  "faqs": "Q: How far is Lisbon Airport from the city center?\nA: The airport is approximately 7 km (4.3 miles) north of central Lisbon, with a typical journey time of 15-20 minutes by metro or taxi depending on traffic.\n\nQ: Which terminal does TAP Air Portugal use at Lisbon Airport?\nA: TAP Air Portugal operates primarily from Terminal 1, which handles the majority of international and domestic flights.\n\nQ: Is there a metro station at Lisbon Airport?\nA: Yes, the Aeroporto station is on the Red Line (Linha Vermelha) of the Lisbon Metro, providing direct connections to the city center.\n\nQ: Are there any plans for a new Lisbon airport?\nA: Yes, Portugal has been planning a new airport at Alcochete, but Humberto Delgado Airport is expected to continue operating as an integral part of Lisbon's aviation infrastructure.",
+  "transport_tips": "The Lisbon Metro's Red Line provides a fast and affordable connection directly from Aeroporto station to central Lisbon in about 20 minutes. Aerobus routes 1 and 2 run 24/7 between the airport and key city locations, while taxis and ride-shares are readily available outside the arrivals area with a fixed supplement fee. For travelers heading to the Lisbon Cruise Terminal or Cais do Sodré, the metro offers a convenient connection without transfers needed.",
+  "local_tip": "Frequent flyers recommend grabbing a Pastel de Nata from the PADARIA PORTUGUESA bakery in Terminal 1's departures area, and if you have a long layover, take the metro into the city for lunch at a tasca in the Alfama district—the round trip only takes about 40 minutes and gives you a genuine taste of Lisbon between flights.",
+  "generatedAt": "2026-06-28T15:19:20.921Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RJK",
+    "icao": "LDRI",
+    "name": "Rijeka Airport",
+    "country": "Croatia",
+    "city": "Rijeka(Omišalj)",
+    "lat": 45.2164,
+    "lon": 14.5709,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Rijeka Airport (RJK) is located on the island of Krk near the town of Omišalj, serving Croatia's northern Adriatic Kvarner region including the cities of Rijeka, Opatija, and Crikvenica. Connected to the mainland via the Krk Bridge, it functions as a key seasonal gateway for tourists heading to Istria and the Croatian coastline. The airport has experienced steady growth, particularly during summer charter operations.",
+  "faqs": "Q: Where is Rijeka Airport located?\nA: It sits on the island of Krk near Omišalj, approximately 17 km southeast of Rijeka city center, connected to the mainland by the Krk Bridge.\n\nQ: Which airlines fly to Rijeka Airport?\nA: The airport primarily serves seasonal charter flights from European cities, with scheduled carriers including Ryanair and Croatia Airlines operating year-round or seasonal routes.\n\nQ: What destinations does Rijeka Airport serve?\nA: It serves the Kvarner Bay region, including popular tourist destinations such as Opatija, Crikvenica, Lošinj, and provides access to Istria and the island of Krk.\n\nQ: Is Rijeka Airport open year-round?\nA: Yes, though flight frequency is significantly higher during the summer tourist season from May to October.",
+  "transport_tips": "The most convenient way to reach the airport is by car via the A6 motorway and Krk Bridge, with several parking options available on-site. Shuttle buses and taxi services connect the airport to Rijeka city center and Opatija, typically taking 30-40 minutes depending on traffic. Renting a car is recommended for travelers planning to explore the surrounding coastal towns and islands.",
+  "local_tip": "If visiting during summer, book ground transportation in advance as taxis can be scarce during peak charter arrivals, and the Krk Bridge toll lanes can back up considerably on weekends.",
+  "generatedAt": "2026-06-28T20:27:46.737Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CLA",
+    "icao": "VGCM",
+    "name": "Comilla Airport",
+    "country": "Bangladesh",
+    "city": "Comilla",
+    "lat": 23.4401,
+    "lon": 91.1887,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Comilla Airport is a small domestic airfield located in the eastern Bangladeshi city of Comilla, the administrative center of the Cumilla District in Chittagong Division. It primarily serves general aviation and limited regional connectivity, reflecting its modest infrastructure and low traffic volume. The airport sits in a region known for its historical significance, including ancient Buddhist ruins and colonial-era landmarks.",
+  "faqs": "Q: Does Comilla Airport have scheduled commercial flights?\nA: No, Comilla Airport currently operates without regular scheduled commercial passenger service and primarily handles general aviation and occasional charter flights.\n\nQ: What is the nearest major airport to Comilla?\nA: Shah Amanat International Airport in Chittagong, approximately 100 km south, serves as the closest major commercial gateway.\n\nQ: What facilities are available at the airport?\nA: The airport has a basic terminal building and a single runway, with limited passenger amenities typical of small regional airfields.\n\nQ: Can private aircraft land at Comilla Airport?\nA: Yes, the airport accommodates private and general aviation aircraft with prior arrangement and coordination with aviation authorities.",
+  "transport_tips": "Travelers reaching Comilla Airport typically rely on road transport, as the airport lacks rail or dedicated public transit links. Taxis, CNG auto-rickshaws, and ride-sharing apps connect the airfield to Comilla city center, roughly 10-15 km away. Dhaka is approximately 100 km to the northwest and can be reached by bus or private car in about three hours.",
+  "local_tip": "If visiting Comilla, plan to explore Mainamati, an archaeological site with ancient Buddhist stupas and monasteries nearby, as it's one of the region's most significant historical attractions and rarely crowded with tourists.",
+  "generatedAt": "2026-06-27T09:06:15.070Z",
+  "model": "MiniMax-M3"
+}

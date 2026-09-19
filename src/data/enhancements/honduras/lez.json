@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LEZ",
+    "icao": "MHLE",
+    "name": "La Esperanza Airport",
+    "country": "Honduras",
+    "city": "La Esperanza",
+    "lat": 14.2911,
+    "lon": -88.175,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "La Esperanza Airport is a small regional airfield serving the city of La Esperanza, capital of the Intibucá department in the western Honduran highlands. Situated at roughly 1,400 meters above sea level, it provides air access to one of the country's cooler and more culturally distinct regions, known for its Lenca heritage. The airport handles limited general aviation and charter traffic rather than scheduled commercial service.",
+  "faqs": "Q: Does La Esperanza Airport have scheduled commercial flights?\nA: No, it primarily serves general aviation and charter operations, with most travelers reaching the region by road from other Honduran cities.\n\nQ: Where is the airport located relative to the city?\nA: It sits on the outskirts of La Esperanza, within short driving distance of the town center and the surrounding Intibucá highlands.\n\nQ: What is the altitude of La Esperanza Airport?\nA: The airfield is located in the Honduran highlands at a relatively high elevation, which can affect aircraft performance and weather conditions.\n\nQ: What region does this airport serve?\nA: It serves La Esperanza and the broader Intibucá department, an area known for its cooler climate and significant Lenca indigenous population.",
+  "transport_tips": "Ground transport from the airport is limited; arrange a pickup or taxi in advance as on-demand options are scarce. The road journey from Comayagua or Tegucigalpa is the most common alternative for reaching La Esperanza. Roads in the highlands can be winding and slow, so allow extra time during the rainy season.",
+  "local_tip": "The Intibucá region is famous for its misty pine-covered mountains and cooler temperatures—pack a light jacket even in summer, as mornings and evenings can be surprisingly chilly compared to the rest of Honduras.",
+  "generatedAt": "2026-06-28T02:09:55.397Z",
+  "model": "MiniMax-M3"
+}

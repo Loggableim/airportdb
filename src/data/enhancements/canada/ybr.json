@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YBR",
+    "icao": "CYBR",
+    "name": "Brandon Municipal Airport",
+    "country": "Canada",
+    "city": "Brandon",
+    "lat": 49.91,
+    "lon": -99.9519,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Brandon Municipal Airport serves Brandon, the second-largest city in Manitoba, located in the province's southwestern agricultural heartland. The regional facility supports scheduled passenger service, general aviation, and charter operations, functioning as an important gateway for western Manitoba. Its prairie setting offers straightforward access to the surrounding farming communities and Assiniboine River valley.",
+  "faqs": "Q: Where is Brandon Municipal Airport located relative to the city?\nA: The airport is situated a short drive north of Brandon's city center, making it convenient for travelers heading into town.\n\nQ: Does the airport offer scheduled passenger flights?\nA: Yes, the airport handles scheduled regional passenger service connecting Brandon with other Canadian destinations, primarily through smaller carriers.\n\nQ: What facilities are available at the terminal?\nA: As a medium-sized regional airport, it offers standard passenger amenities including a waiting area, basic concessions, and car rental services.\n\nQ: Can private and charter aircraft use the airport?\nA: Yes, Brandon Municipal accommodates general aviation, private aircraft, and charter operations alongside any scheduled service.",
+  "transport_tips": "The airport is located just a few kilometers north of downtown Brandon, and most travelers reach it by rental car or taxi in under 15 minutes. Parking is available on-site for those driving themselves, and local taxi services can be arranged in advance for departures. There is no rail connection, so ground transportation options are limited to road-based services.",
+  "local_tip": "Frequent visitors recommend checking the prairie weather forecast before flying in during winter, as southwestern Manitoba can experience sudden visibility reductions from blowing snow that occasionally disrupts flight schedules.",
+  "generatedAt": "2026-06-29T18:29:05.078Z",
+  "model": "MiniMax-M3"
+}

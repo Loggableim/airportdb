@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MNK",
+    "icao": "NGMA",
+    "name": "Maiana Airport",
+    "country": "Kiribati",
+    "city": "Maiana",
+    "lat": 1.0036,
+    "lon": 173.031,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Maiana Airport serves the Maiana Atoll in the Gilbert Islands of Kiribati, providing essential air connectivity for residents of this remote Pacific atoll. The airport features a single runway and handles small aircraft, primarily connecting the local population with the national capital Tarawa. As part of Kiribati's dispersed island geography, it plays a vital role in healthcare access, government services, and community travel across the central Pacific.",
+  "faqs": "Q: What is the IATA code for Maiana Airport?\nA: The IATA code is MNK, and its ICAO code is NGMA.\n\nQ: Where is Maiana Airport located?\nA: It is situated on Maiana Atoll in the Gilbert Islands of Kiribati, in the central Pacific Ocean.\n\nQ: Are there scheduled flights to Maiana Airport?\nA: Air Kiribati operates regular domestic flights connecting Maiana with Bonriki International Airport in Tarawa, typically using small turboprop aircraft.\n\nQ: What facilities are available at the airport?\nA: As a small domestic airport, it offers basic facilities including a terminal building and a single runway, with limited passenger amenities typical of remote island airstrips.",
+  "transport_tips": "The airport is located on Maiana Atoll and serves the local community; passengers typically arrange ground transport directly with local contacts or guesthouses, as formal taxi services are limited. The airstrip is connected to nearby villages by short road links, and motorbike or pickup truck transport is commonly available. Travelers should plan transport arrangements in advance due to the remote location and limited infrastructure.",
+  "local_tip": "Flights to Maiana are subject to weather delays, so build at least a day of buffer into your travel schedule, especially during the wet season from November to March when tropical rains can disrupt air service.",
+  "generatedAt": "2026-06-27T13:25:10.346Z",
+  "model": "MiniMax-M3"
+}

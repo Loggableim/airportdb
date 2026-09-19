@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CHE",
+    "icao": "EECL",
+    "name": "Tallinn Linnahall Heliport",
+    "country": "Estonia",
+    "city": "Tallinn",
+    "lat": 59.448,
+    "lon": 24.7533,
+    "type": "heliport",
+    "size": 300
+  },
+  "summary": "Tallinn Linnahall Heliport (IATA: CHE, ICAO: EECL) is a small heliport located in the heart of Tallinn, Estonia, adjacent to the iconic Soviet-era Linnahall building near the passenger port. It primarily serves helicopter traffic connecting Tallinn to nearby islands and offshore locations, as well as occasional charter and private flights. The heliport's central waterfront position makes it a convenient departure point for quick aerial transfers along the Baltic coast.",
+  "faqs": "Q: What is Tallinn Linnahall Heliport used for?\nA: The heliport primarily supports helicopter transfers, including scheduled and charter flights to nearby destinations such as the Baltic islands and offshore locations, as well as private and VIP aviation traffic.\n\nQ: Where exactly is the heliport located?\nA: It sits on the Tallinn waterfront next to the Linnahall building, close to the Tallinn Passenger Port and the Old Town, making it one of the most centrally located heliports in the Baltic region.\n\nQ: Does the heliport handle commercial airline flights?\nA: No, Tallinn Linnahall Heliport is exclusively for helicopter operations. Commercial airline service to Tallinn is provided by Lennart Meri Tallinn Airport (TLL) located a few kilometers southeast of the city.\n\nQ: Is the heliport open to the public?\nA: Access is generally limited to passengers with confirmed bookings, crew, and authorized personnel, as it is an operational aviation facility rather than a public terminal.\n\n",
+  "transport_tips": "The heliport is within walking distance of Tallinn Old Town and the city center, making it easy to reach on foot from most central hotels. Taxis and rideshares from Lennart Meri Tallinn Airport take roughly 15-20 minutes depending on traffic. Public tram and bus stops near the Linnahall area also provide affordable connections to the wider city.",
+  "local_tip": "If you're flying out, take a moment to look back at the Linnahall itself—once a massive Soviet-era cultural and sports complex built for the 1980 Moscow Olympics, it remains one of Tallinn's most recognizable (and debated) architectural landmarks, and the views from the heliport ramp capture its distinctive brutalist silhouette against the Baltic Sea.",
+  "generatedAt": "2026-06-30T03:13:03.063Z",
+  "model": "MiniMax-M3"
+}

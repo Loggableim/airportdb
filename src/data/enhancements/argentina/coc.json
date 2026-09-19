@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "COC",
+    "icao": "SAAC",
+    "name": "Comodoro Pierrestegui Airport",
+    "country": "Argentina",
+    "city": "Concordia",
+    "lat": -31.2969,
+    "lon": -57.9966,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Comodoro Pierrestegui Airport serves the city of Concordia in the Entre Ríos Province of northeastern Argentina. It functions as a regional hub connecting the area to Buenos Aires and other domestic destinations. The airport is named in honor of a notable Argentine military aviation figure and supports both commercial and general aviation operations in this riverside city near the Uruguay border.",
+  "faqs": "Q: Where is Comodoro Pierrestegui Airport located?\nA: It is located in Concordia, Entre Ríos Province, Argentina, near the border with Uruguay along the Uruguay River.\n\nQ: What airlines operate from this airport?\nA: The airport primarily handles regional domestic flights, typically connecting Concordia to Buenos Aires.\n\nQ: Is the airport used for international flights?\nA: It mainly serves domestic routes, though Concordia is relatively close to Uruguay and Salto across the river.\n\nQ: What facilities does the airport offer?\nA: As a medium-sized regional airport, it provides standard passenger terminal services including a waiting area, check-in counters, and basic amenities.\n\n",
+  "transport_tips": "The airport is located just a few kilometers from central Concordia, making taxi or remise (private hire car) rides quick and affordable. Rental cars can be arranged through local agencies in the city center if booked in advance. Since flight schedules to Concordia are limited, arranging ground transport before arrival is recommended.",
+  "local_tip": "If you have a wait between flights, head into Concordia center to visit the riverside costanera along the Uruguay River—it's a pleasant walk and offers views toward neighboring Salto, Uruguay, just across the water.",
+  "generatedAt": "2026-06-26T09:26:05.036Z",
+  "model": "MiniMax-M3"
+}

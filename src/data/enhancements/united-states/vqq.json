@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VQQ",
+    "icao": "KVQQ",
+    "name": "Cecil Airport",
+    "country": "United States",
+    "city": "Jacksonville",
+    "lat": 30.2187,
+    "lon": -81.8767,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Cecil Airport (VQQ/KVQQ) is a public-use airport in Jacksonville, Florida, built on the former Naval Air Station Cecil Field. Located about 15 miles southwest of downtown, it supports general aviation, military, corporate, and aerospace maintenance operations with two long concrete runways. The airport anchors the Cecil Commerce Center and serves as a reliever for Jacksonville International Airport.",
+  "faqs": "Q: What is the airport code for Cecil Airport?\nA: The IATA code is VQQ, the ICAO code is KVQQ, and the FAA identifier is VQQ.\n\nQ: Does Cecil Airport have commercial passenger flights?\nA: No. Cecil Airport does not have scheduled airline service; it primarily handles general aviation, military, corporate, cargo, and aerospace maintenance traffic.\n\nQ: How far is Cecil Airport from downtown Jacksonville?\nA: It is about 15 miles southwest of downtown Jacksonville, typically a 20 to 30 minute drive depending on traffic.\n\nQ: What runways are at Cecil Airport?\nA: The airport has two active concrete runways, including a 12,500-foot primary runway, capable of handling large aircraft.\n\n",
+  "transport_tips": "Cecil Airport is reached by car via I-10 and SR 23/Cecil Commerce Center Parkway, about 20-30 minutes from downtown Jacksonville. Rideshare, taxi, and rental cars are the most practical options because public transit service to the airport is limited. If you are visiting a tenant or military facility, confirm access and parking procedures in advance.",
+  "local_tip": "Frequent visitors know that Cecil Airport can be much less congested than JAX, but large maintenance and military movements can affect ramp space; call ahead for fuel, parking, or hangar availability before a quick turnaround.",
+  "generatedAt": "2026-09-19T23:07:32.798Z",
+  "model": "deepseek-v4.1-flash"
+}

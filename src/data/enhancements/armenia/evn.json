@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EVN",
+    "icao": "UDYZ",
+    "name": "Zvartnots International Airport",
+    "country": "Armenia",
+    "city": "Yerevan",
+    "lat": 40.1489,
+    "lon": 44.3979,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "Zvartnots International Airport (EVN) is Armenia's primary international gateway, located approximately 12 km west of Yerevan in the Armavir Province. Named after the nearby 7th-century Zvartnots Cathedral ruins, a UNESCO World Heritage Site, the airport serves as the main hub for the country's flag carrier and handles the vast majority of Armenia's air traffic. Modernized in the 2000s, it features a single integrated terminal serving both arrivals and departures.",
+  "faqs": "Q: How far is Zvartnots Airport from central Yerevan?\nA: The airport is approximately 12 km (7.5 miles) west of Yerevan's city center, typically a 15–25 minute drive depending on traffic.\n\nQ: Does Zvartnots Airport operate 24 hours?\nA: The terminal generally operates from early morning until late night to accommodate scheduled flights; however, flight availability may be limited during overnight hours.\n\nQ: Are there currency exchange and ATM services at the airport?\nA: Yes, the terminal offers currency exchange offices, ATMs, and banking services both in the public area and after passport control.\n\nQ: Is there free Wi-Fi available?\nA: Complimentary Wi-Fi is available throughout the terminal, and SIM cards from local Armenian operators can be purchased in the arrivals hall.",
+  "transport_tips": "Official airport taxis with fixed fares to central Yerevan are available outside the terminal, typically costing around 3,000–5,000 AMD. Ride-hailing apps like GG and Yandex Go operate reliably in Yerevan and often offer lower fares than airport taxis. The marshrutka (minibus) route 201 and public bus 100 provide budget-friendly connections to the city center for a small fee.",
+  "local_tip": "If you have a long layover or a few hours to spare, the 7th-century Zvartnots Cathedral ruins are only a 10-minute drive from the terminal—worth a quick visit if time allows, and many taxi drivers are happy to wait briefly.",
+  "generatedAt": "2026-06-28T16:50:18.710Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NRD",
+    "icao": "EDWY",
+    "name": "Norderney Airport",
+    "country": "Germany",
+    "city": "Norderney",
+    "lat": 53.7069,
+    "lon": 7.23,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Norderney Airport is a small regional airfield on the East Frisian island of Norderney in the North Sea, serving as one of the fastest gateways to this popular German seaside resort. The island, part of Lower Saxony's Wadden Sea National Park, has been a recognized health resort since the 19th century and attracts visitors year-round. The airport primarily handles short-hop flights connecting the island to the mainland, offering a quicker alternative to the ferry from Norddeich.",
+  "faqs": "Q: How do you reach Norderney from the airport?\nA: The island is small and walkable; the town center and main beach are within a short walk or quick taxi ride from the airfield.\n\nQ: How long is the flight from the mainland to Norderney?\nA: Scheduled flights from Norddeich Mole or Emden typically take only around 10–15 minutes, making air travel the fastest way to reach the island.\n\nQ: Are there car rental services at Norderney Airport?\nA: No, the island is largely car-free; visitors typically use bicycles, walking paths, or the small island bus service.\n\nQ: Is the airport open year-round?\nA: Operations are generally weather-dependent, with most flights running during the tourist season and on demand in winter.",
+  "transport_tips": "Norderney Airport is located just a few hundred meters from the island's main settlement, so walking with luggage is feasible. There is no direct rail connection; most visitors combine flights with onward ferry or train travel via Norddeich Mole on the mainland. Taxis and a local island bus meet arriving flights during the summer schedule.",
+  "local_tip": "Pack a light jacket even in summer—the North Sea breeze on the open-air tarmac can be surprisingly brisk, and the airport has minimal sheltered waiting areas.",
+  "generatedAt": "2026-06-26T19:26:33.562Z",
+  "model": "MiniMax-M3"
+}

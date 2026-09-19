@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MVM",
+    "icao": "",
+    "name": "Kayenta Airport",
+    "country": "United States",
+    "city": "Kayenta",
+    "lat": 36.7164,
+    "lon": -110.2284,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Kayenta Airport (MVM) is a small public-use airport serving the community of Kayenta, Arizona, within the Navajo Nation in the Four Corners region of the southwestern United States. It functions primarily as a general aviation facility and a convenient gateway for visitors traveling to nearby Monument Valley Navajo Tribal Park and other scenic destinations along the Arizona-Utah border. The airport supports light aircraft operations and occasional charter flights, playing a key role in connecting this remote high-desert community to broader aviation networks.",
+  "faqs": "Q: Where is Kayenta Airport located?\nA: Kayenta Airport is located in Kayenta, Arizona, in the northeastern part of the state within the Navajo Nation, near the Utah border and Monument Valley.\n\nQ: What type of aircraft does Kayenta Airport serve?\nA: The airport primarily serves small general aviation aircraft, private planes, and occasional charter flights rather than commercial airliners.\n\nQ: Is there scheduled commercial service at Kayenta Airport?\nA: No, Kayenta Airport does not offer scheduled commercial airline service. Travelers typically use it for private aviation, air tours, or charter operations.\n\nQ: What attractions are accessible from Kayenta Airport?\nA: The airport provides convenient access to Monument Valley Navajo Tribal Park, Navajo National Monument, and other cultural and natural sites in the region.\n\n",
+  "transport_tips": "Getting to Kayenta from the airport typically requires a rental car, private shuttle, or pre-arranged ground transportation, as no public transit serves the facility. The town of Kayenta is a short drive from the airport along local roads. Visitors should coordinate ground transport in advance, especially since flights and arrivals can be infrequent.",
+  "local_tip": "If you're flying in to visit Monument Valley, contact a local Navajo-guided tour operator ahead of time—many will arrange pickup from the airport and can secure tribal park entry permits, which are required for all visitors to the Navajo parks.",
+  "generatedAt": "2026-06-27T08:12:41.471Z",
+  "model": "MiniMax-M3"
+}

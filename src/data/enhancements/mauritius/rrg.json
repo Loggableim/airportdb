@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RRG",
+    "icao": "FIMR",
+    "name": "Sir Charles Gaetan Duval Airport",
+    "country": "Mauritius",
+    "city": "Port Mathurin",
+    "lat": -19.7567,
+    "lon": 63.3593,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sir Charles Gaetan Duval Airport (RRG) is the sole airport serving Rodrigues Island, a remote and autonomous dependency of Mauritius located roughly 560 km east of the main island in the Indian Ocean. Named after Sir Charles Gaetan Duval, a former Governor-General of Mauritius who championed Rodrigues' development, the airport serves as the primary gateway for visitors exploring the island's coral reefs, limestone caves, and unspoiled landscapes. It handles inter-island flights connecting Rodrigues to Sir Seewoosagur Ramgoolam International Airport on mainland Mauritius.\n\n",
+  "faqs": "Q: How do I get to Sir Charles Gaetan Duval Airport?\nA: The airport is located about 10 km southwest of Port Mathurin, the capital of Rodrigues. Most visitors arrive via a connecting flight from Sir Seewoosagur Ramgoolam International Airport (MRU) on mainland Mauritius, with flight times of around 1 hour 20 minutes.\n\nQ: Are there international flights to Rodrigues?\nA: No, the airport does not handle direct international flights. All international travelers must transit through Mauritius first, typically flying into MRU before catching a domestic connection to RRG.\n\nQ: What facilities are available at the airport?\nA: As a small regional terminal, RRG offers basic amenities including a small café, car rental desks, and a souvenir shop. Facilities are limited compared to larger airports, so plan accordingly.\n\nQ: Is the airport weather-affected?\nA: Yes, Rodrigues can experience tropical cyclones between November and April, and flight disruptions are not uncommon. Travelers should build flexibility into their itineraries during cyclone season.\n\n",
+  "transport_tips": "Taxis and pre-arranged hotel shuttles are the primary means of transport from the airport to Port Mathurin and surrounding areas; there is no public bus service directly serving the terminal. Car and scooter rentals are available at the airport and are recommended for visitors wanting to explore Rodrigues at their own pace. Allow extra time for travel as road conditions on the island can be narrow and winding, especially in coastal areas.\n\n",
+  "local_tip": "Bring cash in Mauritian Rupees, as ATMs at the airport and across Rodrigues can be unreliable, and many small guesthouses, restaurants, and market vendors prefer or only accept cash payments.\n",
+  "generatedAt": "2026-06-29T11:00:50.951Z",
+  "model": "MiniMax-M3"
+}

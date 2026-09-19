@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SLB",
+    "icao": "KSLB",
+    "name": "Storm Lake Municipal Airport",
+    "country": "United States",
+    "city": "Storm Lake",
+    "lat": 42.5973,
+    "lon": -95.2407,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Storm Lake Municipal Airport is a small public-use general aviation facility serving the city of Storm Lake in northwestern Iowa. Situated in Buena Vista County near the shores of Storm Lake, the airport primarily supports private pilots, agricultural aviation, and occasional charter operations. It provides essential air access for the surrounding agricultural region and the nearby Buena Vista University community.",
+  "faqs": "Q: Does Storm Lake Municipal Airport offer commercial airline service?\nA: No, the airport does not have scheduled commercial passenger service and operates primarily as a general aviation facility.\n\nQ: What is the airport's identifier code?\nA: The airport uses the IATA code SLB and the ICAO code KSLB.\n\nQ: Are there fuel services available at the airport?\nA: Small municipal airports like Storm Lake typically offer self-service or attended fueling for general aviation aircraft, though availability can vary by time of day.\n\nQ: Can I fly into Storm Lake for a visit to Buena Vista University?\nA: Yes, pilots visiting the university or the Storm Lake area can use the airport as a convenient general aviation destination.",
+  "transport_tips": "The airport is located just a few miles from downtown Storm Lake, so a rental car or pre-arranged pickup is the most practical way to reach the city. Taxi and rideshare services are limited in this rural area, so visitors should arrange ground transport in advance. Many pilots and visitors coordinate with local contacts or hotels for transportation from the field.",
+  "local_tip": "If you're visiting Storm Lake, take time to explore the namesake lake itself — it offers fishing, boating, and a scenic waterfront park that locals particularly enjoy during summer months.",
+  "generatedAt": "2026-06-27T07:22:55.471Z",
+  "model": "MiniMax-M3"
+}

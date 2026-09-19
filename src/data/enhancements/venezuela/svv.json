@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SVV",
+    "icao": "",
+    "name": "San Salvador de Paul Airport",
+    "country": "Venezuela",
+    "city": "San Salvador de Paul",
+    "lat": 7,
+    "lon": -62,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "San Salvador de Paul Airport (SVV) is a small regional airport located in Bolívar State in southeastern Venezuela, serving the community of San Salvador de Paul. The airport supports general aviation and limited regional flights, primarily connecting remote settlements in the Gran Sabana region to larger Venezuelan cities. Its modest infrastructure reflects the area's sparse population and the challenging terrain of the surrounding Guiana Shield.",
+  "faqs": "Q: What types of flights operate at San Salvador de Paul Airport?\nA: The airport primarily handles small charter, general aviation, and limited regional flights. Commercial scheduled service is infrequent due to the airport's small size and remote location.\n\nQ: Where is the airport located relative to major Venezuelan cities?\nA: The airport is situated in southeastern Venezuela in Bolívar State, far from Caracas, and closer to the Gran Sabana region near the borders with Guyana and Brazil.\n\nQ: Does the airport have passenger terminal facilities?\nA: As a small airport with a modest size score, it offers basic facilities. Travelers should expect limited amenities and should arrive prepared with essentials.\n\nQ: Is the area around the airport safe for visitors?\nA: The region is sparsely populated and primarily home to indigenous Pemón communities. Visitors should respect local customs and check current travel advisories before visiting.\n\n",
+  "transport_tips": "Ground transportation from the airport is limited; arranging a private vehicle or coordinating with local contacts in advance is strongly recommended. Roads in the area can be unpaved and may become difficult to navigate during the rainy season. Travelers flying into SVV often rely on 4x4 vehicles or local guides familiar with the region's terrain.",
+  "local_tip": "If visiting the surrounding Gran Sabana region, bring sufficient cash in Venezuelan bolívars as ATMs and card acceptance are extremely limited in remote areas, and learn a few basic Spanish phrases as English is rarely spoken outside major cities.",
+  "generatedAt": "2026-06-28T06:30:59.944Z",
+  "model": "MiniMax-M3"
+}

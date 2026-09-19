@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AHE",
+    "icao": "NTHE",
+    "name": "Ahe Airport",
+    "country": "French Polynesia",
+    "city": "Ahe Atoll",
+    "lat": -14.4281,
+    "lon": -146.257,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Ahe Airport (AHE) is a small regional airstrip serving the remote Ahe Atoll in the Tuamotu Archipelago of French Polynesia. The atoll is renowned for its black pearl farms and pristine lagoons, making the airport a key gateway for visitors seeking off-the-beaten-path island experiences. The facility features a single runway and minimal infrastructure, typical of French Polynesia's outer island airfields.",
+  "faqs": "Q: How do I reach Ahe Airport?\nA: Ahe is typically accessed via Air Tahiti domestic flights connecting through Tahiti's Faa'a International Airport, often with a stopover on a neighboring atoll.\n\nQ: Are there facilities at the airport?\nA: The airport has basic infrastructure only, with a small terminal building. There are no jet bridges or extensive amenities, so passengers should be prepared for minimal services.\n\nQ: When do flights operate?\nA: Air Tahiti operates scheduled flights to Ahe several times per week, but schedules are limited due to the remote location and low passenger demand.\n\nQ: Is the airport used for emergencies?\nA: Yes, the runway can accommodate medical evacuation flights, which are essential for residents of this isolated atoll who may need urgent transport to hospitals on Tahiti.",
+  "transport_tips": "Ground transportation options on Ahe Atoll are very limited, so most visitors arrange transfers with their pension or guesthouse in advance. Rental cars and bicycles may be available through local accommodations. The airport is located on the northern part of the atoll, and boat transfers can be arranged to reach accommodations on other motus.",
+  "local_tip": "If you have time between flights, ask your guesthouse about arranging a lagoon excursion to visit a black pearl farm—the atoll's economy and culture revolve around pearl cultivation, and farmers often welcome visitors for demonstrations.",
+  "generatedAt": "2026-06-29T21:59:19.943Z",
+  "model": "MiniMax-M3"
+}

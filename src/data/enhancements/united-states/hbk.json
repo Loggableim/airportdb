@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HBK",
+    "icao": "",
+    "name": "Holbrook Municipal Airport",
+    "country": "United States",
+    "city": "Holbrook",
+    "lat": 34.9407,
+    "lon": -110.138,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Holbrook Municipal Airport (HBK) is a small general aviation airport serving the town of Holbrook in northeastern Arizona. Located along the historic Route 66 corridor, the facility primarily supports light aircraft operations, flight training, and recreational flying. It provides convenient access to the Petrified Forest National Park and the surrounding Navajo County region.\n\n",
+  "faqs": "Q: What type of aircraft does Holbrook Municipal Airport accommodate?\nA: The airport primarily serves small single-engine and light twin-engine general aviation aircraft. It is not equipped for commercial airline service.\n\nQ: Are there fuel services available at HBK?\nA: Fuel availability may be limited and is best confirmed in advance by contacting the airport operator, as services at small municipal airports can vary.\n\nQ: Does the airport have instrument approach procedures?\nA: Pilots should consult current FAA charts and NOTAMs for the latest approach and departure information at HBK.\n\n",
+  "transport_tips": "Ground transportation options are limited; arranging a rental car or coordinating a pickup in advance is recommended for visitors. The airport is located just a short drive from downtown Holbrook and Interstate 40. There is no public transit serving the facility.\n\n",
+  "local_tip": "Holbrook is famous for the Wigwam Motel, a classic Route 66 landmark, and serves as a gateway to the Petrified Forest National Park, which is only about 25 miles to the northwest and well worth a visit.\n",
+  "generatedAt": "2026-06-27T02:04:57.689Z",
+  "model": "MiniMax-M3"
+}

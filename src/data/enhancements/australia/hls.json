@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HLS",
+    "icao": "YSTH",
+    "name": "St Helens Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -41.3367,
+    "lon": 148.282,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "St Helens Airport (HLS/YSTH) is a small regional airstrip serving the coastal town of St Helens on the northeast coast of Tasmania, Australia. It primarily supports general aviation, private aircraft, and occasional charter services, providing access to the scenic Bay of Fires region. The facility plays a modest but important role in connecting this remote coastal community to the broader Tasmanian air network.",
+  "faqs": "Q: What is St Helens Airport primarily used for?\nA: The airport mainly serves general aviation, private pilots, and occasional charter flights, with no scheduled commercial passenger services operating from it.\n\nQ: Where is St Helens Airport located?\nA: It is situated near the town of St Helens on the northeast coast of Tasmania, Australia, close to the renowned Bay of Fires area.\n\nQ: Are there any facilities for passengers at the airport?\nA: As a small regional airstrip, facilities are limited. There is no large terminal building; travellers typically arrange ground transport directly with local operators.\n\nQ: Can I fly commercially into St Helens?\nA: Scheduled commercial flights are not available. Most visitors fly into Launceston Airport and then drive approximately 2.5 hours to reach St Helens by road.\n\n",
+  "transport_tips": "Renting a car from Launceston Airport is the most common way for visitors to reach St Helens, with the drive taking roughly 2.5 hours via the A3 highway. Limited shuttle and bus services operate along the east coast route but require advance booking. Private transfers can be arranged through local operators for those preferring door-to-door service.",
+  "local_tip": "If visiting, time your trip around sunrise at the Bay of Fires—the white sand and orange-lichened granite are unforgettable, and arriving via a private or charter flight into St Helens gives you the closest access point to this iconic Tasmanian landmark.",
+  "generatedAt": "2026-06-27T08:34:33.233Z",
+  "model": "MiniMax-M3"
+}

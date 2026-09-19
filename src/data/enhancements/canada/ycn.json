@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YCN",
+    "icao": "CYCN",
+    "name": "Cochrane Airport",
+    "country": "Canada",
+    "city": "Cochrane",
+    "lat": 49.1056,
+    "lon": -81.0136,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Cochrane Airport (YCN/CYCN) is a medium-sized regional airport serving the town of Cochrane in northeastern Ontario, Canada. It functions primarily as a gateway to the Cochrane District, supporting general aviation, charter operations, and seasonal connectivity to remote northern communities. The airport plays a key role in serving the region's mining, forestry, and tourism industries, as well as providing access to nearby wilderness areas popular for outdoor recreation.",
+  "faqs": "Q: What is the IATA code for Cochrane Airport?\nA: The IATA code is YCN, and the ICAO code is CYCN.\n\nQ: Where is Cochrane Airport located?\nA: It is located near the town of Cochrane in northeastern Ontario, Canada, approximately 49.106°N, 81.014°W.\n\nQ: Does Cochrane Airport offer scheduled commercial flights?\nA: Scheduled commercial service is limited. The airport primarily supports general aviation, charter flights, and bush plane operations serving northern Ontario communities.\n\nQ: What facilities are available at the airport?\nA: The airport features a terminal building, runways suitable for small to medium aircraft, fueling services, and basic amenities typical of a regional Canadian airport.\n\n",
+  "transport_tips": "The airport is located a short drive from Cochrane's town center, making ground transportation straightforward. Rental cars and taxi services are available but should be arranged in advance, especially during off-peak seasons. Visitors traveling from larger centers typically connect through Timmins (YTS), about 100 km to the south, which has more frequent transportation options.\n\n",
+  "local_tip": "If you're visiting Cochrane, don't miss the chance to ride the Polar Bear Express train from Cochrane to Moosonee—a unique rail journey into the subarctic that complements any trip through this remote region.",
+  "generatedAt": "2026-06-26T09:06:47.281Z",
+  "model": "MiniMax-M3"
+}

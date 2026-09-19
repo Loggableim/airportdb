@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OVD",
+    "icao": "LEAS",
+    "name": "Asturias Airport",
+    "country": "Spain",
+    "city": "Ranón",
+    "lat": 43.5636,
+    "lon": -6.0346,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Asturias Airport (OVD) is a regional airport serving the Principality of Asturias in northern Spain, located in the coastal parish of Ranón near Avilés. It provides the main air link for the regional capital Oviedo, the port city of Gijón, and surrounding communities along the Cantabrian coast. The single-terminal facility handles primarily domestic traffic with seasonal connections to other European destinations.",
+  "faqs": "Q: How far is Asturias Airport from Oviedo?\nA: Oviedo is approximately 47 km south of the airport, typically a 40-50 minute drive via the A-8 motorway.\n\nQ: Which airlines operate from Asturias Airport?\nA: Major carriers include Iberia, Vueling, Volotea, and Air Europa, offering domestic routes mainly to Madrid and Barcelona, plus seasonal European services.\n\nQ: Does the airport have car rental facilities?\nA: Yes, several rental companies including Europcar, Hertz, and Avis operate on-site in the arrivals area.\n\nQ: Is the airport open 24 hours?\nA: No, the terminal operates during flight hours only, typically closing in the late evening after the last arrival.",
+  "transport_tips": "The ALSA bus service connects the airport directly with Oviedo and Gijón, with journey times of roughly 50-60 minutes. Taxis are available outside the terminal and are metered; fares to Gijón or Oviedo typically range from €45-€60. Renting a car is recommended for travelers planning to explore the Asturian coast or Picos de Europa region.",
+  "local_tip": "If waiting for a flight, ask at the information desk about which side of the terminal faces the Cantabrian Sea — on clear days, departing planes offer spectacular views of the Asturian coastline and the Picos de Europa mountains to the south.",
+  "generatedAt": "2026-06-28T20:11:45.076Z",
+  "model": "MiniMax-M3"
+}

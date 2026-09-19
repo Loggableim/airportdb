@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NBO",
+    "icao": "HKJK",
+    "name": "Jomo Kenyatta International Airport",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "lat": -1.3189,
+    "lon": 36.9282,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "Jomo Kenyatta International Airport (NBO) is Kenya’s largest and busiest airport, located about 15 km southeast of Nairobi’s central business district. Opened in 1958 as Embakasi Airport and renamed in 1978 for Kenya’s first president, it serves as the main hub for Kenya Airways and a key gateway to East Africa and safari destinations. The airport operates multiple terminals within the Terminal 1 complex and handles millions of passengers annually.",
+  "faqs": "Q: How far is NBO from Nairobi city center?\nA: It is about 15–20 km (9–12 miles) southeast of the CBD; driving typically takes 30–60 minutes depending on traffic.\n\nQ: Which airlines use NBO as a hub?\nA: Kenya Airways is the main hub carrier, with Jambojet and other regional airlines also based there. It serves many international and African destinations.\n\nQ: What terminals are at NBO?\nA: The airport primarily uses the Terminal 1 complex, including Terminal 1A, 1B, 1C, and 1E, plus Terminal 2 for some operations. Check your airline and ticket for the exact departure terminal.\n\nQ: Do I need a visa or eTA to enter Kenya through NBO?\nA: Most foreign visitors need a Kenya Electronic Travel Authorisation (eTA) before travel, except citizens of exempt countries. Confirm current requirements with official Kenyan immigration sources.",
+  "transport_tips": "Pre-book a taxi or ride-hailing service (Uber, Bolt, Little) from the official pickup areas outside arrivals; fares to central Nairobi vary with traffic and time of day. The Nairobi Expressway and Mombasa Road connect the airport to the city, but allow 45–90 minutes during peak hours. Public buses and airport shuttles are cheaper but slower and less convenient with luggage.",
+  "local_tip": "If you’re connecting to a safari or domestic charter, check whether your flight leaves from Wilson Airport (WIL) instead of NBO; the transfer can take 45–90 minutes in traffic, so plan a generous buffer.",
+  "generatedAt": "2026-09-19T23:20:28.697Z",
+  "model": "deepseek-v4.1-flash"
+}

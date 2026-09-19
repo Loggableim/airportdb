@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZAC",
+    "icao": "CZAC",
+    "name": "York Landing Airport",
+    "country": "Canada",
+    "city": "York Landing",
+    "lat": 56.0894,
+    "lon": -96.0892,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "York Landing Airport (ZAC/CZAC) is a small remote airstrip serving the York Landing First Nation community in northern Manitoba, Canada. Situated near the Nelson River, the airport primarily supports Medevac operations and provides vital air access to this isolated community, which is otherwise reachable only by a seasonal winter road or boat. The unpaved runway and minimal infrastructure reflect its role as a bush-flying destination rather than a commercial hub.",
+  "faqs": "Q: What is York Landing Airport used for?\nA: The airport mainly serves Medevac flights, chartered bush planes, and provides essential connectivity for the remote York Landing First Nation community in northern Manitoba.\n\nQ: Are there commercial flights to York Landing?\nA: No scheduled commercial service operates to ZAC. Access is typically via charter aircraft from larger regional airports such as Thompson or Winnipeg.\n\nQ: What facilities are available at the airport?\nA: The airport has minimal infrastructure with a gravel runway and no terminal building. Passengers should arrange ground transport in advance as there are no on-site amenities.\n\nQ: What are the runway conditions at York Landing Airport?\nA: The runway is unpaved gravel and conditions can vary significantly with weather, so pilots should check current NOTAMs and consult with local operators before flight planning.",
+  "transport_tips": "York Landing is not accessible by public transit, so arranging a charter flight from Thompson (CYTH) or Winnipeg is the most reliable way to reach the airport. Ground transport from the airstrip to the community should be pre-arranged, as no taxi or shuttle services operate. Visitors should coordinate with the local band office or community contacts for pickup, and be prepared for gravel road travel in the surrounding area.",
+  "local_tip": "Pack light and bring everything you need including snacks and water, as the community has very limited retail services and the airport itself has no concessions or waiting areas.",
+  "generatedAt": "2026-06-26T14:53:22.387Z",
+  "model": "MiniMax-M3"
+}

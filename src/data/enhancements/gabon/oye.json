@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OYE",
+    "icao": "FOGO",
+    "name": "Oyem Airport",
+    "country": "Gabon",
+    "city": "Oyem",
+    "lat": 1.5431,
+    "lon": 11.5814,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Oyem Airport (OYE) is a regional airport serving the city of Oyem, the capital of Gabon's Woleu-Ntem province in the northern part of the country near the borders with Equatorial Guinea and Cameroon. The airport supports domestic connectivity for this predominantly forested and agricultural region, handling primarily small to medium aircraft. It serves as an important gateway for travelers visiting northern Gabon and the surrounding border communities.",
+  "faqs": "Q: What is the airport code for Oyem Airport?\nA: Oyem Airport uses the IATA code OYE and the ICAO code FOGO.\n\nQ: Where is Oyem Airport located?\nA: It is located near the city of Oyem in the Woleu-Ntem province of northern Gabon, close to the borders with Equatorial Guinea and Cameroon.\n\nQ: What type of flights does Oyem Airport serve?\nA: The airport primarily handles domestic regional flights within Gabon, connecting northern Gabonese communities to the capital Libreville and other domestic destinations.\n\nQ: How large is Oyem Airport?\nA: It is classified as a medium-sized airport with a size score of 750, suitable for small to medium aircraft operations.",
+  "transport_tips": "Getting to and from Oyem Airport typically requires a road transfer, as the airport is located just outside the city center. Taxi services and informal shared transport are generally available, though options may be limited compared to major international airports. Travelers should arrange ground transportation in advance, especially given the relatively low frequency of flights.",
+  "local_tip": "Pack light and carry essentials like water and snacks, as amenities at Oyem Airport are minimal and flight schedules in northern Gabon can occasionally change with little notice due to weather conditions.",
+  "generatedAt": "2026-06-29T14:11:02.781Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CDW",
+    "icao": "KCDW",
+    "name": "Essex County Airport",
+    "country": "United States",
+    "city": "Caldwell",
+    "lat": 40.8752,
+    "lon": -74.2814,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Essex County Airport (CDW) is a general aviation reliever airport located in Fairfield and Caldwell, New Jersey, approximately 20 miles west of Manhattan. Established in the 1920s, it serves as a key hub for private pilots, flight training, and corporate aircraft in the densely populated northern New Jersey region. The airport is publicly owned by the County of Essex and features two intersecting runways that handle a mix of single-engine, twin-engine, and jet traffic.",
+  "faqs": "Q: What type of airport is Essex County Airport?\nA: Essex County Airport is a public-use general aviation reliever airport that helps reduce congestion at larger commercial airports in the New York metropolitan area.\n\nQ: Does Essex County Airport offer commercial airline service?\nA: No, CDW does not have scheduled commercial airline service. It exclusively serves general aviation, private aircraft, flight schools, and corporate operations.\n\nQ: What facilities are available at the airport?\nA: The airport offers Fixed-Base Operator (FBO) services, fuel sales, hangars, tie-down parking, flight instruction, and aircraft maintenance.\n\nQ: How busy is Essex County Airport?\nA: CDW sees tens of thousands of aircraft operations annually, making it one of the more active general aviation airports in New Jersey despite its relatively short runways.",
+  "transport_tips": "Essex County Airport is best reached by car, with Route 46 and Interstate 80 providing convenient access from across northern New Jersey. There is no public transit directly serving the airport, so ride-shares, taxis, or rental cars are the typical options for arriving passengers. On-site parking is available for both short visits and longer-term stays.",
+  "local_tip": "If you're waiting for a flight or arriving at CDW, grab a meal at one of the many Italian restaurants in nearby Caldwell or Fairfield—both towns are known for excellent dining within a short drive of the airport.",
+  "generatedAt": "2026-06-26T23:47:46.695Z",
+  "model": "MiniMax-M3"
+}

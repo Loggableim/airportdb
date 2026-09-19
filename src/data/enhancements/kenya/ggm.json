@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GGM",
+    "icao": "HKKG",
+    "name": "Kakamega Airport",
+    "country": "Kenya",
+    "city": "Kakamega",
+    "lat": 0.2714,
+    "lon": 34.7881,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Kakamega Airport is a small regional airport serving Kakamega, a town in western Kenya known for its proximity to the Kakamega Forest, Kenya's only tropical rainforest. The airport primarily handles light aircraft and charter flights, supporting regional connectivity in the densely populated western region of the country. It plays a supporting role to larger hubs like Kisumu International Airport for most commercial traffic.",
+  "faqs": "Q: What types of flights operate from Kakamega Airport?\nA: The airport mainly serves light aircraft, private charters, and occasional regional flights. Scheduled commercial service is limited, with most passengers using Kisumu International Airport for regular connections.\n\nQ: How far is the airport from Kakamega town center?\nA: The airport is located a short drive from Kakamega town, typically accessible within 10-15 minutes by road depending on traffic conditions.\n\nQ: Does the airport have customs and immigration facilities?\nA: As a small domestic airport, Kakamega Airport does not have full international customs and immigration services. International travelers would typically clear customs at a larger designated port of entry.\n\nQ: Are there cargo services available at Kakamega Airport?\nA: Limited cargo handling is available, primarily supporting local agricultural transport and small-scale freight needs in the western Kenya region.",
+  "transport_tips": "Taxis and matatus (shared minibuses) are the most common ways to reach the airport from Kakamega town. Pre-arranging transport is advisable as on-site options may be limited given the airport's small size. The road from Kakamega to Kisumu (about 50 km away) provides a useful alternative route for travelers connecting to larger airports.",
+  "local_tip": "If visiting the region, plan time to explore Kakamega Forest, a unique tropical rainforest reserve just outside the town that features guided nature walks and is home to several primate species not found elsewhere in Kenya.",
+  "generatedAt": "2026-06-27T12:53:59.887Z",
+  "model": "MiniMax-M3"
+}

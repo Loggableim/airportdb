@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WAX",
+    "icao": "HLZW",
+    "name": "Zuwarah International Airport",
+    "country": "Libya",
+    "city": "Zuwarah",
+    "lat": 32.9523,
+    "lon": 12.0155,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Zuwarah International Airport (WAX/HLZW) is a small regional airport serving the coastal city of Zuwarah in northwestern Libya, situated near the Mediterranean shoreline close to the Tunisian border. The facility primarily supports general aviation, limited scheduled services, and charter operations linked to the region's oil and gas industry. Its remote northwestern location makes it a key access point for travelers heading to Zuwarah and surrounding coastal communities.",
+  "faqs": "Q: Where is Zuwarah International Airport located?\nA: It is located in Zuwarah, a coastal city in northwestern Libya, approximately 120 km west of Tripoli and near the Tunisian border.\n\nQ: Does the airport offer international flights?\nA: The airport has limited scheduled international service and primarily handles charter, general aviation, and oil-industry related flights.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, it offers basic passenger amenities including a terminal building, parking, and ground transport options, but services are limited compared to major Libyan hubs like Tripoli or Mitiga.\n\nQ: Is the airport close to the city center?\nA: Yes, it is located just a short drive from Zuwarah's city center, making access relatively convenient for local travelers.\n\n",
+  "transport_tips": "Ground transportation from Zuwarah Airport is primarily by private taxi or pre-arranged hotel transfer, as public transport options are limited. Renting a car with a local driver is the most practical way to reach the city or continue along the coastal road toward the Tunisian border. Travelers should arrange ground transport in advance, as ride-hailing services are not widely available in the region.",
+  "local_tip": "Carry cash in Libyan dinars for ground transportation and any airport fees, as card payment infrastructure at this small regional airport is unreliable and most local drivers and vendors prefer cash transactions.",
+  "generatedAt": "2026-06-28T10:52:39.673Z",
+  "model": "MiniMax-M3"
+}

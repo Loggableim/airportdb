@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AXV",
+    "icao": "KAXV",
+    "name": "Neil Armstrong Airport",
+    "country": "United States",
+    "city": "Wapakoneta",
+    "lat": 40.4934,
+    "lon": -84.2989,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Neil Armstrong Airport is a small general aviation facility serving Wapakoneta, Ohio, the birthplace of astronaut Neil Armstrong, the first person to walk on the Moon. The airport honors the town's most famous son and primarily supports recreational flying, flight training, and small private aircraft. It offers pilots a convenient gateway to this historic west-central Ohio community.",
+  "faqs": "Q: What is Neil Armstrong Airport primarily used for?\nA: The airport serves general aviation activity, including private flights, recreational flying, and flight training. It does not host scheduled commercial airline service.\n\nQ: Why is the airport named after Neil Armstrong?\nA: The airport is named in honor of astronaut Neil Armstrong, who was born in Wapakoneta, Ohio in 1930. He became the first person to set foot on the Moon during the Apollo 11 mission in 1969.\n\nQ: Are there any attractions near the airport related to Neil Armstrong?\nA: Yes, the Neil Armstrong Air & Space Museum is located in Wapakoneta, a short drive from the airport, and features exhibits on the Apollo program and Armstrong's life and career.\n\nQ: How many runways does the airport have?\nA: Neil Armstrong Airport has a single asphalt runway designated 8/26, suitable for small to medium general aviation aircraft.\n\n",
+  "transport_tips": "Wapakoneta is located about 15 miles south of Lima and roughly 100 miles northwest of Columbus, with the airport situated just outside the city center. Renting a car is the most practical option for reaching the airport, as taxi and rideshare services are limited in this rural area. The airport is easily accessible by road via U.S. Route 33 and State Route 198.\n\n",
+  "local_tip": "If you're flying in, plan a visit to the Neil Armstrong Air & Space Museum, which features the actual Gemini VIII spacecraft Armstrong commanded and a moon rock visitors can touch—it is one of Ohio's most underrated aviation attractions and just minutes from the field.",
+  "generatedAt": "2026-06-27T03:02:07.113Z",
+  "model": "MiniMax-M3"
+}

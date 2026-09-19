@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BER",
+    "icao": "EDDB",
+    "name": "Berlin Brandenburg Airport",
+    "country": "Germany",
+    "city": "Berlin",
+    "lat": 52.3617,
+    "lon": 13.5023,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Berlin Brandenburg Airport (BER) is the main international gateway to Germany's capital, located in Schönefeld about 18 km southeast of central Berlin. After more than a decade of construction delays and budget overruns, it finally opened in October 2020 and now consolidates traffic from the former Tegel and Schönefeld airports. The airport features three terminals serving dozens of major airlines across intercontinental, European, and domestic routes.",
+  "faqs": "Q: How far is BER from central Berlin?\nA: The airport is approximately 25 km from the city center, and the journey typically takes 30-45 minutes by train or car depending on traffic.\n\nQ: What train connects BER to Berlin city center?\nA: The S9 and S45 S-Bahn lines, along with regional trains (RE7, RB14, RB23), connect the airport to central Berlin and surrounding regions.\n\nQ: Does BER have multiple terminals?\nA: Yes, BER has Terminal 1 and Terminal 2 in the main building complex. Terminal 5, the former Schönefeld terminal, was closed in 2023 as operations consolidated.\n\nQ: When did BER officially open?\nA: BER opened on October 31, 2020, after originally being planned to open in 2011 and experiencing numerous delays during construction.",
+  "transport_tips": "The fastest public transport option is the S9 S-Bahn or FEX airport express bus, both reaching central Berlin in roughly 35-45 minutes. Taxis and ride-shares are available at designated ranks outside Terminal 1, with rides to central Berlin typically costing €40-€55. The BER airport station is directly beneath Terminal 1, providing seamless access to long-distance, regional, and S-Bahn trains.",
+  "local_tip": "The airport's visitor terrace (Besucherterrasse) offers a great vantage point for plane spotting and is accessible without a boarding pass, making it a nice stop for aviation enthusiasts or those with extra time before their flight.",
+  "generatedAt": "2026-06-28T18:14:15.964Z",
+  "model": "MiniMax-M3"
+}

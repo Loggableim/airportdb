@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LRJ",
+    "icao": "KLRJ",
+    "name": "Le Mars Municipal Airport",
+    "country": "United States",
+    "city": "Le Mars",
+    "lat": 42.778,
+    "lon": -96.1937,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Le Mars Municipal Airport (LRJ) is a small general aviation facility serving the city of Le Mars in northwestern Iowa. The airport supports local private pilots, flight training, and recreational flying for the surrounding Plymouth County region. Le Mars itself is famously known as the 'Ice Cream Capital of the World,' home to the Wells Enterprises ice cream manufacturer (makers of Blue Bunny).",
+  "faqs": "Q: What is the airport code for Le Mars Municipal Airport?\nA: The airport's IATA code is LRJ and its ICAO code is KLRJ.\n\nQ: Does Le Mars Municipal Airport offer commercial airline service?\nA: No, this is a small general aviation airport with no scheduled commercial flights.\n\nQ: What kind of aircraft typically use this airport?\nA: The airport primarily serves single-engine and light twin-engine aircraft used for private flying, flight training, and business travel.\n\nQ: Where exactly is the airport located?\nA: It is situated near Le Mars in Plymouth County, northwestern Iowa, at coordinates 42.778°N, 96.194°W.",
+  "transport_tips": "The airport is located just a short drive from downtown Le Mars, making ground transportation quick and convenient. Rental car services are not typically available on-site, so arranging a vehicle in advance through nearby Sioux City is advisable. Taxis and rideshare options are limited in this small community, so coordinating a ride with a local contact or hotel ahead of time is recommended.",
+  "local_tip": "If you have time between flights, visit the Wells Visitor Center and Ice Cream Parlor in downtown Le Mars for a free tour and a taste of Blue Bunny ice cream—the town proudly claims the title 'Ice Cream Capital of the World.'",
+  "generatedAt": "2026-06-27T07:05:30.902Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NJC",
+    "icao": "USNN",
+    "name": "Nizhnevartovsk Airport",
+    "country": "Russia",
+    "city": "Nizhnevartovsk",
+    "lat": 60.9493,
+    "lon": 76.4836,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Nizhnevartovsk Airport (NJC) is a large regional airport serving the oil and gas capital of Western Siberia, located in the Khanty-Mansi Autonomous Okrug. It functions as a critical transportation hub for the energy industry, providing access to the remote Samatlor oil field region and supporting both business travel and rotation flights for oil workers. The airport operates in a challenging subarctic climate, with long winters and short, mild summers typical of the West Siberian Plain.",
+  "faqs": "Q: What is Nizhnevartovsk Airport primarily used for?\nA: The airport serves as a major gateway for the oil and gas industry in the Khanty-Mansi region, handling significant worker rotation traffic alongside regular passenger flights.\n\nQ: How far is the airport from the city center?\nA: Nizhnevartovsk Airport is located approximately 4-5 km northwest of the city center, making it a relatively quick trip.\n\nQ: Which airlines operate from Nizhnevartovsk?\nA: Several Russian carriers serve the airport, including Aeroflot, S7 Airlines, Utair, and others, with regular connections to Moscow and other major Russian cities.\n\nQ: Is the airport open year-round despite harsh winters?\nA: Yes, the airport operates year-round with de-icing procedures and winter operations in place to handle the extreme Siberian cold, which can drop well below -30°C in winter.",
+  "transport_tips": "Taxis and marshrutka (fixed-route minibuses) are the most common ways to reach the city center, typically taking 15-20 minutes depending on weather conditions. Pre-booking a taxi through a local service or hotel is recommended, especially during winter months when wait times for street taxis may be longer. Car rentals are available but may be limited compared to larger Russian cities.",
+  "local_tip": "If you are visiting on business related to the oil industry, consider scheduling connecting flights through Moscow or Tyumen early in the day, as weather-related delays are common in winter and afternoon flights tend to be more frequently affected by Siberian weather conditions.",
+  "generatedAt": "2026-06-28T23:36:02.948Z",
+  "model": "MiniMax-M3"
+}

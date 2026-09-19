@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GUA",
+    "icao": "MGGT",
+    "name": "La Aurora International Airport",
+    "country": "Guatemala",
+    "city": "Guatemala City",
+    "lat": 14.5829,
+    "lon": -90.5275,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "La Aurora International Airport is the principal gateway to Guatemala, serving the capital city from a location in the southern part of Guatemala City. Set at roughly 1,500 meters (4,920 feet) above sea level, it handles the majority of the country's international and domestic air traffic. The airport operates as a hub for TAG Airlines and is served by major carriers connecting Guatemala to destinations across the Americas.",
+  "faqs": "Q: How far is La Aurora International Airport from Guatemala City's city center?\nA: The airport is located approximately 6 km (4 miles) south of the historic center, typically a 20-30 minute drive depending on traffic.\n\nQ: Does the airport's high altitude affect flights?\nA: Yes, at roughly 1,500 meters above sea level, aircraft performance is affected on hot days, and the thinner air is occasionally a factor in flight planning and operations.\n\nQ: What airlines operate from GUA?\nA: Major carriers including American, United, Delta, Copa, Avianca, Aeromexico, and several Central American regional airlines serve the airport, with TAG Airlines operating a domestic hub.\n\nQ: Is there more than one terminal?\nA: The airport operates from a single main terminal building that handles both domestic and international flights.\n\n",
+  "transport_tips": "Official yellow taxis are available outside the terminal and offer fixed fares to various zones in Guatemala City; arrange the price before departing. Ride-sharing apps like Uber also operate at the airport and often provide transparent pricing. The Ruta 1 and Ruta 13 Transmetro buses stop near the terminal for budget-conscious travelers heading into the city.",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T17:24:01.491Z",
+  "model": "MiniMax-M3"
+}

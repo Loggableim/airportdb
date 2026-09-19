@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IUI",
+    "icao": "",
+    "name": "Innarsuit Heliport",
+    "country": "Greenland",
+    "city": "Innarsuit",
+    "lat": 73.1999,
+    "lon": -56.0108,
+    "type": "heliport",
+    "size": 0
+  },
+  "summary": "Innarsuit Heliport (IUI) is a small Arctic heliport serving the remote settlement of Innarsuit in northwestern Greenland's Avannaata municipality. Located well above the Arctic Circle along the coast, it functions as a vital lifeline for the tiny local community, supporting passenger transport, medical evacuations, and supply delivery since road and rail connections are nonexistent in this part of Greenland. Operations are heavily weather-dependent, with flights typically limited to daylight hours and favorable conditions.",
+  "faqs": "Q: What is Innarsuit Heliport used for?\nA: It primarily serves the small settlement of Innarsuit, providing passenger transport, mail, fresh supplies, and emergency medical evacuations for residents.\n\nQ: Are there scheduled flights to Innarsuit?\nA: Flights are operated by helicopter services connecting remote Greenlandic settlements, though schedules are subject to weather, daylight, and demand rather than fixed timetables.\n\nQ: Can fixed-wing aircraft land at Innarsuit?\nA: No, the facility is a heliport only, designed exclusively for helicopter operations due to the terrain and lack of runway infrastructure.\n\nQ: When is the heliport operational?\nA: Operations depend on daylight and weather. During the Arctic winter, limited daylight and severe weather can significantly reduce flight availability.",
+  "transport_tips": "Travelers reach Innarsuit typically by connecting helicopter from larger Greenlandic hubs such as Ilulissat or Aasiaat. There are no roads linking the settlement to other communities, so the heliport is effectively the only means of arrival or departure. Booking flexibility is essential, as weather-related cancellations are common, and travelers should be prepared for possible multi-day waits.",
+  "local_tip": "Pack light and bring everything you need for self-sufficiency including extra food and communication devices, as the settlement has very limited services and weather can strand visitors for days at a time.",
+  "generatedAt": "2026-06-28T13:50:17.825Z",
+  "model": "MiniMax-M3"
+}

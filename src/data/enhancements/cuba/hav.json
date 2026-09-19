@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HAV",
+    "icao": "MUHA",
+    "name": "José Martí International Airport",
+    "country": "Cuba",
+    "city": "Havana",
+    "lat": 22.9892,
+    "lon": -82.4091,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "José Martí International Airport (HAV) is Cuba's largest and busiest airport, named after the country's national hero and independence figure. Located about 15 kilometers southwest of central Havana in the Boyeros municipality, it serves as the primary gateway for international visitors to Cuba. The airport operates multiple terminals, with Terminal 1 handling domestic flights and Terminals 2, 3, and 5 managing international traffic.",
+  "faqs": "Q: How far is José Martí Airport from Havana's city center?\nA: The airport is approximately 15 km (9 miles) southwest of Old Havana, with typical travel times of 30-45 minutes depending on traffic.\n\nQ: Are there currency exchange facilities at the airport?\nA: Yes, CADECA exchange offices are available in the arrivals areas, though many travelers recommend exchanging only small amounts due to rates and using credit cards where accepted.\n\nQ: What is the departure tax situation for travelers leaving Cuba?\nA: A departure tax is typically included in your airline ticket price for most international flights, so no additional payment is needed at the airport.\n\nQ: Are there duty-free shops available?\nA: Yes, duty-free shops selling rum, cigars, coffee, and souvenirs are available in international departure areas, though selection and prices vary.",
+  "transport_tips": "Official taxis and pre-booked transfers are the most reliable options, as rideshare apps do not operate in Cuba. Authorized taxi queues are located outside the terminal and offer fixed rates to Havana's hotel district. Viazul buses serve some destinations but do not stop directly at the airport, requiring a connecting taxi from the nearby bus terminal.",
+  "local_tip": "Arrive at least 3 hours before international flights—Cuban airport processing can be slow and unpredictable, especially during peak tourist seasons, and the limited number of check-in counters often results in long queues.",
+  "generatedAt": "2026-06-28T16:48:28.796Z",
+  "model": "MiniMax-M3"
+}

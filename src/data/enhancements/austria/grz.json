@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GRZ",
+    "icao": "LOWG",
+    "name": "Graz Airport",
+    "country": "Austria",
+    "city": "Feldkirchen bei Graz",
+    "lat": 46.9911,
+    "lon": 15.4396,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Graz Airport (GRZ/LOWG), also known as Flughafen Graz-Thalerhof, is the international airport serving Graz and the Austrian state of Styria. Located about 10 km south of the city in Feldkirchen bei Graz, it has a compact single-terminal layout and one main runway. It is Austria's third-largest airport by passenger traffic and offers short walking distances, efficient security, and direct rail and bus links to Graz.",
+  "faqs": "Q: How far is Graz Airport from central Graz?\nA: It is about 10 km (6 miles) south of central Graz, typically 15–20 minutes by car, bus, or S-Bahn depending on traffic and connections.\n\nQ: What public transport connects the airport to Graz?\nA: The S5 S-Bahn stops at Flughafen Graz-Feldkirchen station near the terminal, and bus line 630 also links the airport with Graz Hauptbahnhof and the city. Taxis and rental cars are available outside arrivals.\n\nQ: Which airlines fly to Graz Airport?\nA: Carriers vary by season, but regular operators include Austrian Airlines, Lufthansa, Eurowings, and Ryanair, with connections mainly to Vienna, German hubs, and European leisure destinations.\n\nQ: Is there luggage storage or a lounge at Graz Airport?\nA: The airport is small and facilities can change, so check the official website for current luggage storage and lounge access; generally, expect basic services, cafés, and rental car desks rather than extensive amenities.\n\n",
+  "transport_tips": "Take the S5 S-Bahn from Flughafen Graz-Feldkirchen station for a traffic-free ride to Graz Hauptbahnhof, or use bus line 630 if it matches your schedule. Taxis and ride-hailing pick up outside arrivals, and the A2/A9 motorways are close for drivers. Allow extra time during Graz rush hour, especially on weekday mornings and late afternoons.",
+  "local_tip": "Frequent visitors know the airport's rail stop is named Flughafen Graz-Feldkirchen, not Graz Airport; when returning, search for that station on ÖBB or Graz transport apps to avoid confusion.",
+  "generatedAt": "2026-09-19T23:22:01.773Z",
+  "model": "deepseek-v4.1-flash"
+}

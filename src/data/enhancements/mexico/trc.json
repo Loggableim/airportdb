@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TRC",
+    "icao": "MMTC",
+    "name": "Francisco Sarabia Tinoco International Airport",
+    "country": "Mexico",
+    "city": "Torreón",
+    "lat": 25.5623,
+    "lon": -103.4046,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Francisco Sarabia Tinoco International Airport serves the Laguna metropolitan region of north-central Mexico, including Torreón and the neighboring city of Gómez Palacio. The airport is named after Francisco Sarabia, a pioneering Mexican aviator known for setting trans-Atlantic flight records in the 1920s and 1930s. It functions as a key gateway for the industrial and agricultural Comarca Lagunera, handling both domestic flights and limited international connections to the United States.",
+  "faqs": "Q: What is the main function of Francisco Sarabia Tinoco International Airport?\nA: The airport primarily serves the Laguna region, handling domestic flights within Mexico and select international routes to the United States.\n\nQ: Are there international flights from TRC?\nA: Yes, the airport offers a small number of international flights, mainly to U.S. destinations near the Mexican border.\n\nQ: How far is the airport from Torreón city center?\nA: Francisco Sarabia Tinoco Airport is located a short drive from downtown Torreón, typically around 10–15 minutes by car.\n\nQ: Does the airport operate 24 hours?\nA: The airport's operating hours are aligned with its scheduled flight times, so it's generally active during daytime hours with limited overnight service.",
+  "transport_tips": "Taxis and rideshare services are the most common ways to reach the airport from Torreón and surrounding cities like Gómez Palacio. The airport sits conveniently near major highways connecting to the Laguna region, making ground transport straightforward. Travelers driving themselves will find on-site parking facilities available at competitive rates.",
+  "local_tip": "If you have a long layover or early morning flight, the airport's observation areas offer decent views of the runway and the surrounding Chihuahuan Desert landscape—a nice way to appreciate the region's geography before boarding.",
+  "generatedAt": "2026-06-29T07:20:55.408Z",
+  "model": "MiniMax-M3"
+}

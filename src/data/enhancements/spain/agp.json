@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AGP",
+    "icao": "LEMG",
+    "name": "Málaga-Costa del Sol Airport",
+    "country": "Spain",
+    "city": "Málaga",
+    "lat": 36.6749,
+    "lon": -4.4991,
+    "type": "large_airport",
+    "size": 51275
+  },
+  "summary": "Málaga-Costa del Sol Airport (AGP) is the principal international gateway to Spain's Costa del Sol, located approximately 8 km southwest of Málaga city centre. It ranks among Spain's busiest airports, serving over 20 million passengers annually and functioning as the main entry point for tourists visiting Andalusian resorts such as Marbella, Torremolinos, and Fuengirola. The airport features three terminals, with Terminal 3 opened in 2010 to accommodate the region's growing low-cost carrier traffic.",
+  "faqs": "Q: How far is Málaga Airport from the city centre?\nA: The airport is approximately 8 km southwest of Málaga's city centre, reachable in about 15-20 minutes by car or train.\n\nQ: Which train connects Málaga Airport to the city?\nA: Cercanías line C1 runs between the airport and Málaga's María Zambrano station, continuing to Fuengirola along the coast.\n\nQ: Are there direct bus services from the airport?\nA: Yes, the Express Airport Bus (Line A Express) runs between the airport and Málaga city centre, and intercity buses serve destinations along the Costa del Sol.\n\nQ: How many terminals does Málaga Airport have?\nA: The airport operates three passenger terminals: T1 and T2 for scheduled carriers and T3 primarily for low-cost airlines.",
+  "transport_tips": "The Cercanías C1 train is the most economical option to central Málaga, with trains running every 20 minutes and the journey taking roughly 12 minutes. Pre-booked official taxis and ride-sharing services offer fixed rates to popular Costa del Sol destinations, which can be more cost-effective than metered fares for longer journeys to Marbella or beyond. Rental car agencies are well-represented at the airport, and booking in advance is strongly recommended during the peak summer season.",
+  "local_tip": "If you have a long layover or early arrival, the airport's Plaza del Mar area features outdoor terraces with views of the runway and mountains — a pleasant spot to enjoy a café con leche while watching flights, especially at sunrise.",
+  "generatedAt": "2026-06-28T15:42:23.610Z",
+  "model": "MiniMax-M3"
+}

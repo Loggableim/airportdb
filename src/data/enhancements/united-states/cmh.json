@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CMH",
+    "icao": "KCMH",
+    "name": "John Glenn Columbus International Airport",
+    "country": "United States",
+    "city": "Columbus",
+    "lat": 39.998,
+    "lon": -82.8919,
+    "type": "large_airport",
+    "size": 1675
+  },
+  "summary": "John Glenn Columbus International Airport (CMH) is the largest airport in central Ohio, located about 6 miles east of downtown Columbus. It was renamed in 2016 to honor John Glenn, the first American to orbit Earth and a former U.S. Senator from Ohio. The airport serves as a key hub for the region, offering flights to numerous domestic destinations and select international routes.",
+  "faqs": "Q: How far is John Glenn Columbus International Airport from downtown Columbus?\nA: The airport is approximately 6 miles east of downtown Columbus, typically a 10-15 minute drive depending on traffic.\n\nQ: Does CMH offer international flights?\nA: Yes, the airport offers a limited number of seasonal and year-round international flights, primarily to destinations in Canada, Mexico, and the Caribbean. Most flights are domestic.\n\nQ: What are the airport's terminal options?\nA: CMH has a main terminal complex with three concourses (A, B, and C) that handle all airline operations under one roof, making it easy to navigate.\n\nQ: Is there a hotel directly connected to the airport?\nA: While there is no hotel directly attached to the terminal, several hotels are located within a mile of the airport, many offering complimentary shuttle services.",
+  "transport_tips": "The Central Ohio Transit Authority (COTA) operates bus route 7 and an AirConnect service between the airport and downtown Columbus for budget-friendly travelers. Rideshare services like Uber and Lyft have designated pickup zones outside baggage claim. Taxis and rental car facilities are also available on-site, and the airport is conveniently located near Interstate 670 for easy highway access.",
+  "local_tip": "If you have a layover or early arrival, check out the John Glenn Astronomy Park nearby in Hocking Hills for a unique Ohio experience, or grab a coffee at the locally-roasted One Line Coffee shop inside the terminal for a taste of Columbus.",
+  "generatedAt": "2026-06-28T15:58:31.504Z",
+  "model": "MiniMax-M3"
+}

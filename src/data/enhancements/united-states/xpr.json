@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XPR",
+    "icao": "KIEN",
+    "name": "Pine Ridge Airport",
+    "country": "United States",
+    "city": "Pine Ridge",
+    "lat": 43.0209,
+    "lon": -102.5061,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Pine Ridge Airport is a small public-use airfield serving the Pine Ridge Indian Reservation in southwestern South Dakota, home to the Oglala Lakota Nation. It provides essential air access to one of the most remote and underserved regions in the Great Plains, supporting medical evacuations, tribal government operations, and limited general aviation. The airport's role as a lifeline for the surrounding community makes it far more significant than its modest infrastructure would suggest.",
+  "faqs": "Q: What is Pine Ridge Airport primarily used for?\nA: The airport primarily supports general aviation, medical transport flights, charter operations, and occasional government or tribal business travel for the Pine Ridge community.\n\nQ: Are there commercial airline services at Pine Ridge Airport?\nA: No scheduled commercial passenger service operates at XPR. Visitors typically fly commercially into Rapid City Regional Airport and drive or arrange ground transport to the reservation.\n\nQ: Is prior permission required to land at Pine Ridge Airport?\nA: Pilots should check current FAA charts and NOTAMs before flying in, and it is advisable to coordinate with airport management for any non-emergency operations.\n\nQ: What facilities are available at the airport?\nA: The airport features a single runway and basic amenities typical of small rural airfields; fuel availability and on-site services may be limited, so pilots should plan accordingly.",
+  "transport_tips": "Getting to Pine Ridge from the airport typically requires arranging a rental car or coordinating a ride in advance, as public transportation and taxi services in the area are extremely limited. The drive to nearby towns such as Kyle or Oglala is short, but reaching larger destinations like Rapid City takes roughly two hours by road. Travelers should plan fuel and supply stops carefully, as services within the reservation are sparse.",
+  "local_tip": "If you are visiting the reservation, bring cash in small bills and a paper map as a backup, since cell coverage and card-accepting businesses can be inconsistent throughout the area.",
+  "generatedAt": "2026-06-27T10:14:42.381Z",
+  "model": "MiniMax-M3"
+}

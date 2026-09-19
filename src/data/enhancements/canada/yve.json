@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YVE",
+    "icao": "CYVK",
+    "name": "Vernon Regional Airport",
+    "country": "Canada",
+    "city": "Vernon",
+    "lat": 50.2462,
+    "lon": -119.331,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Vernon Regional Airport (YVE/CYVK) is a medium-sized airport serving the city of Vernon in British Columbia's North Okanagan region. It primarily handles general aviation, charter flights, and flight training, with infrastructure supporting both recreational flying and occasional medevac operations. The airport provides convenient access to Vernon's lakes, ski resorts, and agricultural areas, making it a key gateway for the surrounding region.",
+  "faqs": "Q: What is the airport code for Vernon Regional Airport?\nA: The airport's IATA code is YVE and its ICAO code is CYVK.\n\nQ: What type of flights operate from Vernon Regional Airport?\nA: The airport mainly serves general aviation, private aircraft, charter flights, and flight training activities rather than scheduled commercial service.\n\nQ: Where is Vernon Regional Airport located?\nA: It is situated near Vernon, British Columbia, in Canada's Okanagan Valley, at approximately 50.246°N, 119.331°W.\n\nQ: Does Vernon Regional Airport have customs or international facilities?\nA: No, the airport does not have permanent customs facilities, so international arrivals must typically clear customs at larger nearby airports such as Kelowna (YLW).",
+  "transport_tips": "The airport is located a short drive north of Vernon city centre, typically reachable by car in about 10 minutes. Taxi services and ride-hailing apps operate in the Vernon area, though booking in advance is recommended as availability can be limited. Visitors renting a car will find the most flexibility for exploring the wider Okanagan region, as public transit options directly to the airport are limited.",
+  "local_tip": "If you're flying in for a winter visit, check with the local flying community ahead of time — Okanagan winters can bring valley fog and low ceilings that occasionally affect VFR arrivals, so building in schedule flexibility is wise.",
+  "generatedAt": "2026-06-26T07:14:48.885Z",
+  "model": "MiniMax-M3"
+}

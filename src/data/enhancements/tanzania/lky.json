@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LKY",
+    "icao": "HTLM",
+    "name": "Lake Manyara Airport",
+    "country": "Tanzania",
+    "city": "Lake Manyara National Park",
+    "lat": -3.3763,
+    "lon": 35.8183,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Lake Manyara Airport is a regional airport serving Lake Manyara National Park in northern Tanzania, functioning primarily as a gateway for safari tourists visiting the park's famous tree-climbing lions and flamingo-filled lake. It is a key entry point on Tanzania's renowned Northern Safari Circuit, which also includes the Serengeti and Ngorongoro. The airport handles mostly domestic scheduled and charter flights operated by local carriers.",
+  "faqs": "Q: Which airlines fly into Lake Manyara Airport?\nA: Domestic Tanzanian carriers such as Auric Air, Coastal Aviation, and Regional Air operate scheduled and charter flights to LKY, mainly connecting from Arusha and Zanzibar.\n\nQ: How far is the airport from Lake Manyara National Park?\nA: The airport is located very close to the park's entrance gate, typically only a short 5 to 10 minute drive away.\n\nQ: Is Lake Manyara Airport used for international flights?\nA: No, LKY handles only domestic flights. International visitors usually connect through Kilimanjaro International Airport (JRO) before transferring to LKY.\n\nQ: Can I rent a car at the airport?\nA: Rental car availability is limited; most visitors arrange vehicles through their safari operator or lodge in advance.\n\n",
+  "transport_tips": "Most travelers arrive via a short domestic flight from Arusha or Kilimanjaro International Airport, with ground transfers typically pre-arranged by lodges and tour operators. Public transportation options at the airport are minimal, so booking a safari vehicle or lodge transfer in advance is strongly recommended. The drive from Arusha to the airport takes approximately 2 hours and passes through scenic highland landscapes.",
+  "local_tip": "If time allows before departure, ask your lodge for a brief early-morning game drive in Lake Manyara National Park; the park entrance is so close to the airport that you can often squeeze in wildlife viewing just before your charter flight back.",
+  "generatedAt": "2026-06-26T11:40:07.768Z",
+  "model": "MiniMax-M3"
+}

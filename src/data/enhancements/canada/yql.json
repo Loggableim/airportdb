@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YQL",
+    "icao": "CYQL",
+    "name": "Lethbridge County Airport",
+    "country": "Canada",
+    "city": "Lethbridge",
+    "lat": 49.6303,
+    "lon": -112.8,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Lethbridge County Airport serves the southern Alberta city of Lethbridge, located just a few kilometres south of the urban core. The medium-sized facility supports scheduled regional flights, general aviation, and flight training operations, acting as a key air access point for southern Alberta's agricultural and energy sectors. Its size score and infrastructure accommodate a mix of commercial turboprop service and private aviation traffic.",
+  "faqs": "Q: What airlines fly from Lethbridge County Airport?\nA: Scheduled passenger service has historically been provided by regional carriers operating turboprop aircraft, though routes and operators may change seasonally.\n\nQ: How far is the airport from downtown Lethbridge?\nA: The airport is located approximately 7 kilometres south of Lethbridge's city centre, typically a 10–15 minute drive.\n\nQ: Does the airport have customs and immigration services?\nA: As a smaller regional facility, it generally does not offer full-time CBSA clearance; international arrivals are typically directed to Calgary International Airport.\n\nQ: Are car rentals available at the airport?\nA: Car rental services are typically available, though options may be more limited than at larger Canadian airports, so booking in advance is recommended.",
+  "transport_tips": "Taxis and rideshare services are the most common ways to reach the airport from Lethbridge, as there is no direct public transit connection to the terminal. Travellers driving can access the airport via Highway 5 south, with short- and long-term parking available near the terminal building. Allow extra time during winter months, as southern Alberta weather can affect road conditions.",
+  "local_tip": "If you have time before your flight, drive a few minutes into Lethbridge proper to see the High Level Bridge, one of the longest and highest railway bridges of its kind in Canada — a distinctive local landmark not found in most prairie cities.",
+  "generatedAt": "2026-06-29T03:52:38.231Z",
+  "model": "MiniMax-M3"
+}

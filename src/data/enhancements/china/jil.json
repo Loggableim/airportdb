@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JIL",
+    "icao": "ZYJL",
+    "name": "Jilin Ertaizi Airport",
+    "country": "China",
+    "city": "Jilin",
+    "lat": 44.0027,
+    "lon": 126.3952,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Jilin Ertaizi Airport (JIL) is a small regional airport serving Jilin City in northeastern China's Jilin Province. The airport provides essential connectivity for the region, which is known for its chemical industry, the scenic Songhua River, and spectacular winter rime ice phenomena. It primarily handles domestic flights and serves as a convenient gateway for visitors exploring this lesser-visited corner of the Dongbei region.",
+  "faqs": "Q: What is Jilin Ertaizi Airport used for?\nA: It serves as the main air gateway for Jilin City, handling primarily domestic flights and supporting regional travel demand.\n\nQ: How far is the airport from Jilin City center?\nA: The airport is located in the Ertaizi area, roughly 30 km northwest of the city center, requiring about 45 minutes to an hour by road.\n\nQ: Are there international flights from JIL?\nA: No, JIL operates as a domestic-only facility; travelers requiring international connections typically use Changchun Longjia International Airport instead.\n\nQ: When is the best time to fly into Jilin?\nA: Winter (December to February) is the prime tourist season, when the Songhua River produces famous rime ice formations along nearby riverbanks.",
+  "transport_tips": "Taxis and ride-hailing services are the most common options for traveling between Jilin Ertaizi Airport and the city; agree on a fare or use the meter before departing. Public bus connections may be limited given the airport's small size and rural surroundings, so arranging ground transport in advance is advisable. If flying onward, Changchun Longjia International Airport is roughly 80 km to the west and offers far more route options.",
+  "local_tip": "Pack extra warm layers in winter—Jilin City temperatures regularly drop below -20°C, and the airport's modest facilities may not keep you comfortable waiting outside for pickup.",
+  "generatedAt": "2026-06-27T12:53:07.569Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JNZ",
+    "icao": "ZYJZ",
+    "name": "Jinzhou Bay Airport",
+    "country": "China",
+    "city": "Jinzhou (Linghai)",
+    "lat": 40.936,
+    "lon": 121.2771,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Jinzhou Bay Airport is a modern regional airport serving Jinzhou city in Liaoning Province, northeastern China, located in the adjacent administrative area of Linghai. Situated near the Bohai Sea coast, it functions as a secondary hub for the western Liaoning region, supporting both passenger and general aviation operations. The facility replaced the older Jinzhou Aotou Airport and represents the area's growing role in the Bohai Rim economic zone.",
+  "faqs": "Q: What cities does Jinzhou Bay Airport serve?\nA: The airport primarily serves Jinzhou city and the surrounding western Liaoning region, including Linghai and parts of the Bohai coastal area.\n\nQ: How far is the airport from Jinzhou city center?\nA: The airport is located in Linghai, roughly 30-40 kilometers from central Jinzhou, accessible by road and shuttle services.\n\nQ: Does the airport offer international flights?\nA: Jinzhou Bay Airport mainly handles domestic routes to major Chinese cities such as Beijing, Shanghai, and Guangzhou, with limited or no scheduled international service.\n\nQ: Is the airport open 24 hours?\nA: Operating hours are tied to scheduled flight times; the terminal generally opens well before the first departure and closes after the last arrival of the day.",
+  "transport_tips": "The most convenient way to reach the airport is by taxi or pre-booked ride-hailing service from Jinzhou city, with journey times typically around 45-60 minutes depending on traffic. Some hotels and travel agencies offer shuttle transfers, so it's worth checking with your accommodation in advance. Public bus connections to the airport are limited, so private transport is generally recommended for early morning or late evening flights.",
+  "local_tip": "Pack a light jacket even in summer — the airport's coastal location near the Bohai Sea means wind can pick up unexpectedly in the open-air areas outside the terminal, and weather can shift quickly between sunny skies and sea fog.",
+  "generatedAt": "2026-06-29T21:25:41.640Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IKT",
+    "icao": "UIII",
+    "name": "Irkutsk International Airport",
+    "country": "Russia",
+    "city": "Irkutsk",
+    "lat": 52.2667,
+    "lon": 104.3956,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Irkutsk International Airport (IKT) is the main air gateway to eastern Siberia, serving the historic city of Irkutsk and providing access to the Lake Baikal region, one of Russia's most iconic natural landmarks. The airport handles both domestic flights across Russia and international connections to several Asian destinations, making it a vital hub for travelers exploring Siberia. Its strategic position has made it a key transit point for tourism, business, and regional connectivity in the Russian Far East.",
+  "faqs": "Q: How far is Irkutsk Airport from the city center?\nA: The airport is located approximately 5 km east of central Irkutsk, typically a 20-30 minute drive depending on traffic.\n\nQ: Does Irkutsk Airport offer international flights?\nA: Yes, IKT operates international services to several Asian destinations including cities in China, Mongolia, and other neighboring countries, alongside its extensive domestic network.\n\nQ: What is the airport primarily used for?\nA: Beyond serving Irkutsk residents, the airport is the main access point for tourists visiting Lake Baikal, the world's deepest and oldest freshwater lake located about 60 km away.\n\nQ: Are there facilities for long layovers at IKT?\nA: The terminal offers standard amenities including cafes, duty-free shops, and lounges, though options are more limited compared to major international hubs.",
+  "transport_tips": "Taxis and ride-hailing services are the most convenient way to reach the airport, with the journey from central Irkutsk typically taking 20-30 minutes. Public marshrutka (minibus) routes also connect the airport to the city at a lower cost. During winter, allow extra time for travel as Siberian weather can cause delays and slow traffic.",
+  "local_tip": "If you have a long layover or early morning flight, consider staying at one of the hotels near the airport rather than in the city center, especially in winter when temperatures can drop well below -20°C, making the short transfer much easier.",
+  "generatedAt": "2026-06-28T21:37:54.289Z",
+  "model": "MiniMax-M3"
+}

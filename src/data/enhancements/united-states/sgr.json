@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SGR",
+    "icao": "KSGR",
+    "name": "Sugar Land Regional Airport",
+    "country": "United States",
+    "city": "Houston",
+    "lat": 29.6223,
+    "lon": -95.6565,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Sugar Land Regional Airport is a general aviation reliever airport serving the greater Houston metropolitan area, located about 20 miles southwest of downtown Houston in the affluent suburb of Sugar Land, Texas. Originally known as Hull Field, it was acquired by the City of Sugar Land in 1982 and renamed, now operating as a key facility for corporate, private, and flight training operations that ease congestion at Houston's larger airports. The airport features a control tower, multiple FBOs, and serves as an important economic hub for Fort Bend County.",
+  "faqs": "Q: Is Sugar Land Regional Airport for commercial flights?\nA: No, SGR is a general aviation airport with no scheduled commercial airline service. It primarily handles private, corporate, and flight training aircraft.\n\nQ: How far is Sugar Land Regional Airport from downtown Houston?\nA: The airport is approximately 20 miles southwest of downtown Houston, typically a 30-40 minute drive depending on traffic.\n\nQ: Who operates Sugar Land Regional Airport?\nA: The airport is owned and operated by the City of Sugar Land and serves as a reliever facility for Houston's George Bush Intercontinental and William P. Hobby airports.\n\nQ: Does Sugar Land Regional Airport have a control tower?\nA: Yes, the airport operates an air traffic control tower, making it a towered facility for safer operations in the busy Houston airspace.",
+  "transport_tips": "Ground transportation is exclusively by car, taxi, or rideshare services like Uber and Lyft, as there is no public transit directly serving the airport. The airport is conveniently located off US-90A and near State Highway 6, providing easy access from the Sugar Land, Missouri City, and Richmond areas. Rental cars can be arranged through local services, and many FBOs offer courtesy vehicles or can coordinate ground transport for arriving passengers.",
+  "local_tip": "If you have time before departure or after arrival, visit Sugar Land Town Square, a walkable outdoor shopping and dining district just minutes from the airport featuring local restaurants, the Smart Financial",
+  "generatedAt": "2026-06-30T05:03:40.278Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KJA",
+    "icao": "UNKL",
+    "name": "Krasnoyarsk International Airport",
+    "country": "Russia",
+    "city": "Krasnoyarsk",
+    "lat": 56.1757,
+    "lon": 92.4858,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Krasnoyarsk International Airport (KJA) is the largest airport in Siberia by passenger traffic and serves as the main aviation gateway to Krasnoyarsk Krai, one of Russia's most expansive regions. Located about 27 km northwest of Krasnoyarsk city center near the Yenisei River, it functions as a key hub connecting central Russia with the remote Siberian territories. The airport features a modernized terminal complex supporting both domestic and international routes.",
+  "faqs": "Q: How far is Krasnoyarsk Airport from the city center?\nA: The airport is approximately 27 kilometers northwest of central Krasnoyarsk, with a typical drive time of 40-60 minutes depending on traffic and weather conditions.\n\nQ: Which airlines operate from KJA?\nA: Aeroflot, S7 Airlines, NordStar, Ural Airlines, and several other Russian carriers operate regular domestic flights, while seasonal international services connect to select destinations in Central Asia and neighboring countries.\n\nQ: Does the airport have international flights?\nA: Yes, Krasnoyarsk offers international connections, though most international routes have been limited in recent years. The airport handles charter and scheduled services to countries including Tajikistan, Uzbekistan, and occasionally China.\n\nQ: Is the airport open 24 hours?\nA: The terminal operates according to flight schedules rather than 24 hours, so travelers should confirm opening times for early morning or late-night departures.",
+  "transport_tips": "Bus route 635 connects the airport to Krasnoyarsk city center and is the most economical option, though journey times can be long. Official taxis and ride-hailing services like Yandex.Taxi are readily available at the arrivals area and offer a faster, more comfortable alternative. During winter, allow extra travel time as Siberian snow and ice can significantly affect road conditions.",
+  "local_tip": "During the harsh Siberian winters, planes are often de-iced on the tarmac before pushback, which can add 15-20 minutes to departure times. Keep your phone charged and have water on hand, as flight delays due to weather are common from November through March.",
+  "generatedAt": "2026-06-28T21:53:49.892Z",
+  "model": "MiniMax-M3"
+}

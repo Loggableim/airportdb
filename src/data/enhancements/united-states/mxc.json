@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MXC",
+    "icao": "",
+    "name": "Monticello Airport",
+    "country": "United States",
+    "city": "Monticello",
+    "lat": 37.9324,
+    "lon": -109.3412,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Monticello Airport (MXC) is a small general aviation airport serving the town of Monticello, Utah, the county seat of San Juan County. Located in the scenic high desert of southeastern Utah, it serves as a convenient gateway for visitors heading to nearby natural attractions including Canyonlands National Park, Arches National Park, and the Needles District. The airport primarily handles private and charter flights, with no scheduled commercial service.",
+  "faqs": "Q: Does Monticello Airport have commercial airline service?\nA: No, MXC is a general aviation airport with no scheduled commercial flights. Visitors typically arrive via larger airports like Durango or Salt Lake City.\n\nQ: What is the airport used for?\nA: The airport primarily serves private pilots, charter flights, and occasional air ambulance or emergency services for the surrounding rural region.\n\nQ: Are there rental cars available at the airport?\nA: Rental car availability is limited; visitors are generally advised to arrange ground transportation in advance with local rental agencies or hotels in Monticello.\n\nQ: What is the field elevation and runway like?\nA: Monticello Airport sits at a high elevation typical of the Colorado Plateau, with a single asphalt runway suited for small to mid-size general aviation aircraft.\n\n",
+  "transport_tips": "Ground transportation should be arranged in advance, as the airport has no scheduled shuttle service or rideshare availability. The airport is a short drive from downtown Monticello, and local hotels sometimes offer pickup services with prior notice. Having a personal vehicle is strongly recommended for exploring the surrounding national parks and remote areas.",
+  "local_tip": "Fly in with extra fuel reserves if possible—the high elevation of the Colorado Plateau and summer afternoon thunderstorms can create challenging conditions, and the nearest major fuel stops may be quite distant.",
+  "generatedAt": "2026-06-28T03:56:01.635Z",
+  "model": "MiniMax-M3"
+}

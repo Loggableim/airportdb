@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ESS",
+    "icao": "EDLE",
+    "name": "Essen-Mülheim Airport",
+    "country": "Germany",
+    "city": "Essen",
+    "lat": 51.4023,
+    "lon": 6.9373,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Essen-Mülheim Airport is a small general aviation airfield situated in the heart of Germany's Ruhr metropolitan area, serving the cities of Essen and Mülheim an der Ruhr. Originally established in the early 20th century, it primarily handles private, business, and flight training traffic rather than scheduled commercial flights. The airport is notable for being one of the few active airfields within such a densely populated urban region in Europe.",
+  "faqs": "Q: Does Essen-Mülheim Airport have scheduled commercial flights?\nA: No, ESS is a small general aviation airport without regular scheduled commercial service. It mainly serves private, business, and training flights.\n\nQ: What is the airport mainly used for?\nA: The airport is used for general aviation, including private pilots, business aviation, flight schools, and recreational flying.\n\nQ: How far is the airport from Essen city center?\nA: The airport is located on the border between Essen and Mülheim, roughly 10-15 km southwest of Essen's city center, making it relatively accessible.\n\nQ: Are there customs and border control facilities available?\nA: The airport has limited customs facilities and operates mainly within the Schengen area, so international flights to non-Schengen destinations should be coordinated in advance.",
+  "transport_tips": "The airport is well-connected by road via the A52 motorway, making car travel the most convenient option with ample parking available on site. Public transport options include nearby bus stops and the Essen-Dellwig S-Bahn station, providing connections to the broader Ruhr region rail network. Taxi services from central Essen or Mülheim typically take around 20-30 minutes depending on traffic.",
+  "local_tip": "If visiting the Ruhr area, consider combining a stop at the airport with a visit to the nearby Aquarius Wassermuseum or the historic Zollverein Coal Mine Industrial Complex, both easily reachable from the airfield.",
+  "generatedAt": "2026-06-27T01:11:19.707Z",
+  "model": "MiniMax-M3"
+}

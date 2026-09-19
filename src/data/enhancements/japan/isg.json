@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ISG",
+    "icao": "ROIG",
+    "name": "New Ishigaki Airport",
+    "country": "Japan",
+    "city": "Ishigaki",
+    "lat": 24.3964,
+    "lon": 124.245,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "New Ishigaki Airport (ISG) is the main gateway to the Yaeyama Islands in Okinawa Prefecture, Japan, serving as the southernmost major airport in the country. Opened in 2013, it replaced the older Ishigaki Airport and accommodates growing tourist traffic to destinations like Kabira Bay and the surrounding coral reef ecosystems. The airport features a modern terminal with traditional Okinawan architectural influences, reflecting the regional cultural heritage.",
+  "faqs": "Q: What is the IATA code for New Ishigaki Airport?\nA: The IATA code is ISG, and the ICAO code is ROIG.\n\nQ: Which cities have direct flights to New Ishigaki Airport?\nA: Major routes connect Ishigaki to Tokyo (Haneda and Narita), Osaka (Kansai), Naha, Fukuoka, and Nagoya, operated by Japan Airlines, ANA, Peach, and other carriers.\n\nQ: How long does it take to fly from Tokyo to Ishigaki?\nA: Direct flights from Tokyo Haneda to New Ishigaki Airport typically take approximately 3 hours and 15 minutes.\n\nQ: Is the airport equipped for international flights?\nA: The airport primarily handles domestic flights, but seasonal charter flights to nearby Asian destinations such as Taiwan have operated from the facility.\n\n",
+  "transport_tips": "Buses and taxis connect the airport to central Ishigaki, with journey times of about 30 minutes by taxi and 35-45 minutes by bus. Rental car agencies are available on-site and are highly recommended for travelers planning to explore the island's scenic coastal roads and remote beaches. Pre-booking transportation during peak summer and Golden Week periods is advisable due to high demand.",
+  "local_tip": "Visit the airport's observation deck on the terminal roof for panoramic views of the surrounding turquoise waters and nearby small islands—many travelers find it's worth arriving a little early just to enjoy the vista before boarding.",
+  "generatedAt": "2026-06-29T19:40:10.963Z",
+  "model": "MiniMax-M3"
+}

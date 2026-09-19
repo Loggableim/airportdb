@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TOS",
+    "icao": "ENTC",
+    "name": "Tromsø Airport",
+    "country": "Norway",
+    "city": "Tromsø",
+    "lat": 69.6833,
+    "lon": 18.9189,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Tromsø Airport, Langnes (TOS/ENTC) is the largest airport in northern Norway, located on the island of Tromsøya about 5 km from the city center. Sitting at roughly 69.7°N latitude, it serves as the primary gateway to the Arctic region and is the main transit point for travelers heading to Svalbard. The airport handles significant seasonal traffic related to Northern Lights tourism and midnight sun viewing.",
+  "faqs": "Q: How far is Tromsø Airport from the city center?\nA: The airport is approximately 5 km (3 miles) from downtown Tromsø, with a typical journey taking 15-20 minutes.\n\nQ: Which airlines operate from Tromsø Airport?\nA: Major carriers include SAS, Norwegian, Widerøe, and Lufthansa, offering domestic flights within Norway and routes to European cities.\n\nQ: Can I catch a direct flight to Svalbard from Tromsø?\nA: Yes, regular scheduled flights operate between Tromsø and Longyearbyen on Svalbard, with several daily departures.\n\nQ: What is the best time to visit Tromsø for Northern Lights?\nA: The Northern Lights season generally runs from late September through late March, with peak darkness in December and January.",
+  "transport_tips": "Airport express buses (Flybussen) connect the terminal to Tromsø city center in roughly 15-20 minutes. Taxis are readily available outside arrivals, and the airport also has car rental desks from major providers. During winter months, allow extra travel time due to snowy and icy road conditions.",
+  "local_tip": "If you have a long layover, take the short bus or taxi ride to the city center to visit the Arctic Cathedral (Ishavskatedralen), just 10 minutes from the airport and one of Norway's most distinctive architectural landmarks.",
+  "generatedAt": "2026-06-28T17:23:43.171Z",
+  "model": "MiniMax-M3"
+}

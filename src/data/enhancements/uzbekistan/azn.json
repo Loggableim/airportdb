@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AZN",
+    "icao": "UZFA",
+    "name": "Andijan International Airport",
+    "country": "Uzbekistan",
+    "city": "Andijan",
+    "lat": 40.7277,
+    "lon": 72.294,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Andijan International Airport serves Andijan, the second-largest city in Uzbekistan, located in the eastern Fergana Valley near the Kyrgyz border. The airport functions as a regional gateway for the densely populated Fergana Valley, one of Central Asia's most agriculturally productive and historically significant regions. As a medium-sized facility, it primarily handles domestic routes and select international connections to neighboring countries.",
+  "faqs": "Q: Which airlines operate from Andijan International Airport?\nA: The airport is primarily served by Uzbekistan Airways for domestic flights, with occasional regional connections to neighboring Central Asian countries.\n\nQ: How far is the airport from Andijan city center?\nA: The airport is located a short drive from the city center, typically reachable within 15-20 minutes by road depending on traffic.\n\nQ: What facilities are available at the airport?\nA: The terminal offers basic amenities including a waiting area, ticket counters, and small retail outlets, reflecting its status as a regional medium-sized airport.\n\nQ: Does the airport have international flights?\nA: Limited international flights operate from Andijan, mostly seasonal or charter services to nearby destinations, with most international travelers using Tashkent as the main hub.",
+  "transport_tips": "Taxis and private transfer services are the most reliable way to reach the airport, as public transport options to the terminal are limited. Pre-arranging a ride through your hotel is recommended, especially for early morning departures. The route from the city center is straightforward via the main highway, though allow extra time during market days when local traffic increases.",
+  "local_tip": "If you have a long layover or extended wait, ask a local driver to recommend a nearby choykhana (tea house) for authentic Uzbek plov and green tea, the Fergana Valley is famous for its distinctive style of pilaf made with locally grown rice.",
+  "generatedAt": "2026-06-29T14:45:32.150Z",
+  "model": "MiniMax-M3"
+}

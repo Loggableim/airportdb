@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SAF",
+    "icao": "KSAF",
+    "name": "Santa Fe Municipal Airport",
+    "country": "United States",
+    "city": "Santa Fe",
+    "lat": 35.6171,
+    "lon": -106.089,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Santa Fe Municipal Airport (SAF) serves the capital city of New Mexico, perched at roughly 6,348 feet elevation in the scenic high desert of the American Southwest. It functions as the primary air gateway to a city renowned worldwide for its Pueblo-style adobe architecture, thriving art scene, and centuries-old cultural heritage. The airport is owned and operated by the City of Santa Fe and primarily supports regional commercial service alongside general aviation.",
+  "faqs": "Q: How far is Santa Fe Municipal Airport from downtown Santa Fe?\nA: The airport is located approximately 9 miles southwest of the historic Plaza in downtown Santa Fe, typically a 20-25 minute drive via Airport Road and Cerrillos Road.\n\nQ: Does Santa Fe Municipal Airport offer commercial flights?\nA: Yes, the airport is served by regional carriers offering nonstop service to a limited number of destinations, primarily connecting Santa Fe to Denver and other regional hubs.\n\nQ: Is there an alternative airport nearby?\nA: Yes, Albuquerque International Sunport (ABQ) is located about 60 miles south of Santa Fe and offers significantly more flight options, with shuttle and driving services connecting the two cities.\n\nQ: Why is the elevation of SAF significant?\nA: At over 6,300 feet above sea level, the high altitude can affect aircraft performance, particularly during warmer summer months, and pilots must account for reduced air density during takeoff and landing.",
+  "transport_tips": "Rental cars are available on-site and are the most convenient way to reach Santa Fe's historic districts, as public transit options to the airport are limited. Several private shuttle services and rideshare companies operate between SAF and Albuquerque International Sunport for travelers connecting from larger flights. Taxis and pre-arranged hotel shuttles are recommended for visitors staying at downtown resorts.",
+  "local_tip": "When flying out of SAF, especially in summer, check your aircraft type in advance—high-elevation airports can produce bumpy thermic approaches, and turboprop rides tend to be more turbulent than jets at this altitude.",
+  "generatedAt": "2026-06-29T17:57:36.229Z",
+  "model": "MiniMax-M3"
+}

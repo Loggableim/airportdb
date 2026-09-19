@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WAA",
+    "icao": "PAIW",
+    "name": "Wales Airport",
+    "country": "United States",
+    "city": "Wales",
+    "lat": 65.6226,
+    "lon": -168.095,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Wales Airport (WAA/PAIW) is a small public-use airport serving the remote Iñupiat village of Wales on Alaska's Seward Peninsula, making it one of the westernmost airports on the North American mainland. Located near the Bering Strait just 50 miles from Russia, the airport serves as a critical lifeline for this isolated Arctic community, primarily supporting passenger and mail services. Its gravel runway handles regional flights that connect residents to Nome and beyond.",
+  "faqs": "Q: Where is Wales Airport located?\nA: Wales Airport is located in the village of Wales on Alaska's Seward Peninsula, near the Bering Strait at coordinates 65.623°N, 168.095°W.\n\nQ: What is the closest major airport to Wales Airport?\nA: Nome Airport (OME) is the nearest regional hub, approximately 100 miles to the east, with regular connecting flights to Anchorage.\n\nQ: What type of aircraft operates at Wales Airport?\nA: The airport primarily serves small regional aircraft, typically single-engine and twin-engine bush planes operated by carriers like Bering Air.\n\nQ: Is Wales Airport open to the public?\nA: Yes, it is a public-use airport, though it has limited facilities and no scheduled jet service.",
+  "transport_tips": "There is no road access to Wales, so all travel to and from the airport is by air. Travelers typically book flights through regional carriers from Nome, which often connect onward to Anchorage. Weather-related delays are common, so plan extra time and have flexible accommodations when visiting.",
+  "local_tip": "Pack layers and prepare for sudden weather changes—the airport sits just a few miles from the Bering Strait where fog and high winds can roll in quickly, even in summer. Bring a thermos and snacks, as facilities at the airstrip are minimal.",
+  "generatedAt": "2026-06-26T20:00:08.073Z",
+  "model": "MiniMax-M3"
+}

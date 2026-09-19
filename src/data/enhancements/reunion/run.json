@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RUN",
+    "icao": "FMEE",
+    "name": "Roland Garros Airport",
+    "country": "Réunion",
+    "city": "Sainte-Marie",
+    "lat": -20.8901,
+    "lon": 55.5189,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Roland Garros Airport (RUN) is the main international airport serving Réunion, a French overseas department in the Indian Ocean. Named after the pioneering French aviator Roland Garros, who was born in Saint-Denis on Réunion in 1888, the airport serves as the primary gateway to the island, connecting it to mainland France, other Indian Ocean destinations, and select African cities. The facility is located in Sainte-Marie on the northern coast and handles the majority of Réunion's passenger traffic, supporting the island's tourism-driven economy.",
+  "faqs": "Q: How far is Roland Garros Airport from Saint-Denis?\nA: The airport is located in Sainte-Marie, approximately 10 km (6 miles) east of Saint-Denis, the capital of Réunion. The drive typically takes around 15-25 minutes depending on traffic.\n\nQ: Which airlines operate from Roland Garros Airport?\nA: Air France operates the majority of long-haul flights to Paris, while regional carriers such as Air Austral, Air Madagascar, and Air Mauritius serve nearby Indian Ocean destinations. Corsair also operates seasonal and regular services.\n\nQ: Does the airport have facilities for overnight stays?\nA: Yes, the airport operates extended hours and has lounges, shops, and dining options. Several hotels are located nearby in Sainte-Marie for travelers with early departures or late arrivals.\n\nQ: Is Roland Garros Airport affected by cyclones?\nA: As Réunion lies in the cyclone belt of the southern Indian Ocean, flights can be disrupted during the cyclone season (typically November to April). Travelers should monitor weather updates during this period.\n\n",
+  "transport_tips": "The most common way to reach the airport is by taxi or pre-booked shuttle from Saint-Denis, with journey times of 15-25 minutes. Rental cars are available at the terminal and are recommended for exploring the island independently, as public transport is limited. The coastal Route Nationale 1 connects the airport directly to Saint-Denis and Saint-Pierre to the south.",
+  "local_tip": "If you have a layover or early arrival, head to nearby Plage de Sainte-Marie just a few minutes from the terminal—it's one of the few easily accessible beaches near the airport and offers a quick taste of Réunion's tropical coastline.",
+  "generatedAt": "2026-06-28T17:41:07.486Z",
+  "model": "MiniMax-M3"
+}

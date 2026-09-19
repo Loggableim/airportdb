@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BWD",
+    "icao": "KBWD",
+    "name": "Brownwood Regional Airport",
+    "country": "United States",
+    "city": "Brownwood",
+    "lat": 31.7936,
+    "lon": -98.9565,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Brownwood Regional Airport is a small public-use airport serving the city of Brownwood in central Texas, located in Brown County. It supports general aviation, occasional military training activity, and limited commercial operations. The airport features two runways and serves as a convenient gateway to the Texas Hill Country and Lake Brownwood recreational area.",
+  "faqs": "Q: What facilities are available at Brownwood Regional Airport?\nA: The airport offers general aviation services including fuel, hangars, tie-downs, and aircraft maintenance. It is primarily used by private pilots and occasionally for flight training.\n\nQ: Are there commercial flights from Brownwood Regional Airport?\nA: Commercial scheduled service is very limited or nonexistent at this time. Most travelers use the airport for general aviation purposes or access connecting flights from larger regional airports.\n\nQ: What is the airport's runway configuration?\nA: The airport has two asphalt runways, with the primary runway supporting general aviation aircraft of various sizes.\n\nQ: Is the airport accessible 24 hours?\nA: The airfield is publicly accessible, though on-site services and staff availability may be limited outside normal operating hours.",
+  "transport_tips": "",
+  "local_tip": "If you're visiting the area, consider stopping by Lake Brownwood State Park, located about 20 miles northwest of the airport, which offers hiking, fishing, and camping in a scenic Hill Country setting.",
+  "generatedAt": "2026-06-27T00:38:06.062Z",
+  "model": "MiniMax-M3"
+}

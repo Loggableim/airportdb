@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BRM",
+    "icao": "SVBM",
+    "name": "Jacinto Lara International Airport",
+    "country": "Venezuela",
+    "city": "Barquisimeto",
+    "lat": 10.0427,
+    "lon": -69.3586,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Jacinto Lara International Airport serves Barquisimeto, the capital of Lara State in northwestern Venezuela. Named after General Jacinto Lara, a hero of Venezuelan independence, it is one of the country's larger aviation hubs handling both domestic trunk routes and limited international service. The airport sits at an elevation of approximately 622 meters (2,041 ft) and serves the surrounding agricultural and industrial region.",
+  "faqs": "Q: How far is the airport from downtown Barquisimeto?\nA: Jacinto Lara International Airport is located approximately 8 km (5 miles) southwest of Barquisimeto's city center, a drive of around 15 minutes under normal traffic conditions.\n\nQ: Does the airport offer international flights?\nA: The airport primarily handles domestic traffic to Caracas and other Venezuelan cities, with occasional regional international services. Check current schedules with airlines as service can vary.\n\nQ: What is the airport code for Jacinto Lara International Airport?\nA: The IATA code is BRM and the ICAO code is SVBM.\n\nQ: Are there currency exchange services at the airport?\nA: Limited banking and exchange services are available, though due to Venezuela's currency situation many travelers prefer to arrange funds in advance through official channels.",
+  "transport_tips": "Taxis are the most common way to reach the airport from Barquisimeto; agree on the fare before departure as meters are rarely used. Rental cars can be arranged in advance from agencies in the city. Allow extra time for travel, as road conditions and traffic around the airport area can be unpredictable.",
+  "local_tip": "Carry small denominations of Venezuelan bolívars in cash, as many airport vendors and taxi drivers may have limited change for larger notes, and card payment infrastructure can be unreliable outside the main terminal counters.",
+  "generatedAt": "2026-06-29T00:11:59.974Z",
+  "model": "MiniMax-M3"
+}

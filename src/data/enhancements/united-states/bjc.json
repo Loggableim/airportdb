@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BJC",
+    "icao": "KBJC",
+    "name": "Rocky Mountain Metropolitan Airport",
+    "country": "United States",
+    "city": "Denver",
+    "lat": 39.9088,
+    "lon": -105.117,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Rocky Mountain Metropolitan Airport (BJC) is a medium-sized general aviation and reliever airport serving the northwest Denver metropolitan area, including Broomfield, Boulder, and Arvada. Originally known as Jefferson County Airport, it was renamed to reflect its broader regional role and sits at an elevation of roughly 5,674 feet. The airport primarily handles corporate jets, flight training, private aviation, and air charter operations, helping reduce congestion at Denver International Airport.",
+  "faqs": "Q: Where is Rocky Mountain Metropolitan Airport located?\nA: The airport is situated in Broomfield, Colorado, about 16 miles northwest of downtown Denver, making it convenient for the northwest metro area and Boulder County.\n\nQ: Does BJC offer commercial airline service?\nA: No, BJC is a general aviation airport with no scheduled commercial passenger service. Travelers typically use Denver International Airport (DEN) for commercial flights.\n\nQ: What facilities are available at the airport?\nA: BJC features multiple fixed-base operators (FBOs), aircraft maintenance, flight schools, rental car services, and fuel services for general aviation.\n\nQ: Why is the airport at high elevation?\nA: BJC sits at approximately 5,674 feet above sea level due to its location along the Front Range of the Rocky Mountains, which affects aircraft performance and requires longer takeoff rolls.",
+  "transport_tips": "The airport is easily accessed via Interlocken Loop and the Northwest Parkway (E-470), making it convenient for travelers heading to Boulder, Broomfield, or northwest Denver suburbs. Rental cars are available on-site through various providers, as there is no public transit directly serving the airport. Rideshare services like Uber and Lyft do operate in the area but may have limited availability at the terminal.",
+  "local_tip": "Given the high elevation and Colorado's rapidly changing weather, pilots and passengers should be aware that afternoon thunderstorms are common in summer, and snow can arrive early in fall and persist into late spring.",
+  "generatedAt": "2026-06-29T18:13:53.245Z",
+  "model": "MiniMax-M3"
+}

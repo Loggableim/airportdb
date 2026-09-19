@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SDQ",
+    "icao": "MDSD",
+    "name": "Las Américas International Airport",
+    "country": "Dominican Republic",
+    "city": "Santo Domingo",
+    "lat": 18.4297,
+    "lon": -69.6689,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Las Américas International Airport (SDQ) is the primary international gateway to the Dominican Republic, located in Punta Caucedo about 30 kilometers east of Santo Domingo's city center. Originally opened in 1959 and significantly modernized over the decades, it handles the majority of the country's international flights and serves as a major hub for Caribbean tourism. The airport features two main terminals (Terminal A for international flights and Terminal B/Aeropuerto de las Américas for domestic and some regional traffic) and is operated by Aerodom.",
+  "faqs": "Q: How far is Las Américas Airport from Santo Domingo's city center?\nA: The airport is approximately 30 km (19 miles) east of downtown Santo Domingo, typically a 30-45 minute drive depending on traffic.\n\nQ: How many terminals does SDQ have?\nA: The airport operates two passenger terminals, with Terminal A handling the majority of international flights.\n\nQ: Is there a lounge available for travelers?\nA: Yes, SDQ offers VIP lounges and airline-specific lounges accessible to business class passengers, Priority Pass members, and pay-per-use visitors.\n\nQ: What is the airport code for Santo Domingo?\nA: The IATA code is SDQ and the ICAO code is MDSD.",
+  "transport_tips": "Authorized taxis (Taxi Santo Domingo and others) are available at designated ranks outside arrivals and offer fixed rates to the city center. Ride-hailing apps like Uber operate in the area but pickup zones are restricted to official airport areas. The boulevard route (Autopista Las Américas) provides the most direct road connection to Santo Domingo.",
+  "local_tip": "If you have a long layover or early arrival, the nearby Boca Chica beach is only about 10-15 minutes from the airport and offers a quick Caribbean escape with restaurants and beachfront dining—many travelers use SDQ's luggage storage to enjoy a few hours by the sea.",
+  "generatedAt": "2026-06-28T18:45:27.086Z",
+  "model": "MiniMax-M3"
+}

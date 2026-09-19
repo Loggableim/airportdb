@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TSY",
+    "icao": "WICM",
+    "name": "Cibeureum Airport",
+    "country": "Indonesia",
+    "city": "Tasikmalaya-Java Island",
+    "lat": -7.3466,
+    "lon": 108.246,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Cibeureum Airport is a small domestic airfield serving Tasikmalaya, a city in the Priangan region of West Java, Indonesia. The airport primarily supports short-haul flights connecting the region to Jakarta and handles limited scheduled commercial traffic. Its compact terminal and modest runway reflect its role as a regional gateway rather than a major hub.",
+  "faqs": "Q: What is the IATA code for Cibeureum Airport?\nA: The IATA code is TSY, and its ICAO code is WICM.\n\nQ: Are there regular commercial flights operating from Cibeureum Airport?\nA: Scheduled commercial service is very limited and may be suspended or seasonal; travelers should check current airline schedules before planning a trip.\n\nQ: Where is Tasikmalaya located in Java?\nA: Tasikmalaya is situated in southeastern West Java, roughly 120 km southeast of Bandung and about 270 km from Jakarta.\n\nQ: Does the airport offer international flights?\nA: No, Cibeureum Airport only handles domestic flights within Indonesia.\n\n",
+  "transport_tips": "The airport is located about 5 km from central Tasikmalaya, making it a quick 10-15 minute drive by car or motorbike. Taxis and ojeks (motorcycle taxis) are readily available outside the terminal for short trips into town. Given the airport's limited operations, renting a private car or arranging hotel pickup in advance is often the most reliable option.",
+  "local_tip": "If flying out, arrive early and pack light—the small terminal has minimal amenities, and nearby street vendors near the entrance sell fresh snacks and local Tasikmalaya snacks like cilok and kupat tahu that are perfect for a pre-flight meal.",
+  "generatedAt": "2026-06-27T10:32:37.256Z",
+  "model": "MiniMax-M3"
+}

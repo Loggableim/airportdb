@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FKI",
+    "icao": "FZIC",
+    "name": "Bangoka International Airport",
+    "country": "Democratic Republic of the Congo",
+    "city": "Kisangani",
+    "lat": 0.4816,
+    "lon": 25.338,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Bangoka International Airport serves Kisangani, the third-largest city in the Democratic Republic of the Congo and a major commercial hub along the Congo River. It functions as the principal air gateway for Tshopo Province in the country's densely forested northeast. The airport primarily supports domestic connectivity to Kinshasa and other regional centers within the DRC.",
+  "faqs": "Q: Where is Bangoka International Airport located?\nA: It is located near Kisangani in the northeastern Democratic Republic of the Congo, serving Tshopo Province.\n\nQ: What airlines operate from Bangoka International Airport?\nA: The airport is primarily served by Congolese domestic carriers offering routes to Kinshasa and other national destinations.\n\nQ: How far is the airport from Kisangani city center?\nA: The airport is situated on the outskirts of Kisangani, roughly a short drive from the central districts of the city.\n\nQ: Does the airport handle international flights?\nA: It is classified as an international airport but mainly operates domestic services, with limited regional connections.\n\n",
+  "transport_tips": "Getting to and from Bangoka International Airport usually involves taxis",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T23:35:37.310Z",
+  "model": "MiniMax-M3"
+}

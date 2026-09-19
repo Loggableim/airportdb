@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GOJ",
+    "icao": "UWGG",
+    "name": "Nizhny Novgorod / Strigino International Airport",
+    "country": "Russia",
+    "city": "Nizhny Novgorod",
+    "lat": 56.2274,
+    "lon": 43.7852,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Nizhny Novgorod Strigino International Airport (GOJ) serves Russia's fifth-largest city, located at the confluence of the Volga and Oka rivers. Originally established in the Soviet era as a domestic airfield, it was upgraded to international status in the 1990s and serves as a key gateway for the Volga Federal District. The airport handles primarily domestic traffic along with select international routes to CIS and nearby destinations.",
+  "faqs": "Q: How far is the airport from Nizhny Novgorod city center?\nA: The airport is located approximately 18 km southwest of the city center in the Strigino district, typically a 30-45 minute drive depending on traffic.\n\nQ: Does the airport have international flights?\nA: Yes, Strigino operates international flights, primarily to CIS countries and some seasonal destinations, though the majority of traffic is domestic routes to Moscow, St. Petersburg, and southern Russian cities.\n\nQ: What facilities are available at the terminal?\nA: The single terminal offers standard amenities including cafes, duty-free shops for international departures, currency exchange, and basic business lounges.\n\nQ: Are there customs and immigration facilities?\nA: Yes, the airport has dedicated customs and border control services for international arrivals and departures, though processing times are generally efficient given the moderate international traffic volume.",
+  "transport_tips": "The most reliable option to reach the city center is by taxi or rideshare services like Yandex Taxi, which take approximately 30-45 minutes depending on traffic and cost around 800-1200 rubles. Public transport is available via bus routes connecting the airport to key transit points including the Moskovsky Vokzal railway station area. If traveling to Moscow, high-speed Lastochka trains from the city center offer a competitive alternative to flying, completing the journey in under 4 hours.",
+  "local_tip": "During winter months, build in extra time for your airport journey as the 18 km route from the city can become significantly slower due to snow and ice on the regional roads, and consider pre-booking a return taxi rather than relying on hailing one at the terminal.",
+  "generatedAt": "2026-06-28T23:01:33.319Z",
+  "model": "MiniMax-M3"
+}

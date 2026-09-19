@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HTM",
+    "icao": "ZMHG",
+    "name": "Khatgal Airport",
+    "country": "Mongolia",
+    "city": "Hatgal",
+    "lat": 50.436,
+    "lon": 100.1395,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Khatgal Airport (HTM) is a small domestic airfield serving the village of Hatgal on the southern shore of Khövsgöl Lake, the largest freshwater lake in Mongolia by volume and often called the country's 'Blue Pearl.' It provides vital air access for travelers visiting the remote lake region, which is one of Mongolia's most scenic natural attractions and home to reindeer herders and horseback trekking routes. The airport primarily handles short regional flights connecting northern Mongolia with the capital.",
+  "faqs": "Q: What is the main purpose of Khatgal Airport?\nA: The airport serves the Khövsgöl Lake tourism region, providing domestic connections primarily to Ulaanbaatar for travelers heading to the lake.\n\nQ: Are there scheduled commercial flights to Khatgal?\nA: Yes, small domestic carriers operate flights, but schedules are limited and weather-dependent, especially outside the summer tourist season.\n\nQ: What is nearby the airport?\nA: The village of Hatgal is just a few kilometers away, and the southern tip of Lake Khövsgöl is within easy reach for day trips and boat excursions.\n\nQ: Is the airport open year-round?\nA: Operations are most reliable from May to October; winter flights can be disrupted by heavy snow and freezing conditions common to the region.\n\n",
+  "transport_tips": "There is no public transit to the airport, so arrange a pre-booked driver or guesthouse pickup in advance. The drive from Hatgal village to the airfield takes only about 10 minutes by local vehicle. Rental cars and shared jeeps from Ulaanbaatar often use the airport road when meeting arriving passengers.",
+  "local_tip": "Bring cash in Mongolian tögrög, as the small airport terminal has no ATMs or card facilities, and the nearest banking services are in the larger towns of Mörön several hours away.",
+  "generatedAt": "2026-06-27T22:53:32.253Z",
+  "model": "MiniMax-M3"
+}

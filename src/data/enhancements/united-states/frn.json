@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FRN",
+    "icao": "PAFR",
+    "name": "Bryant Army Airfield",
+    "country": "United States",
+    "city": "Fort Richardson",
+    "lat": 61.2664,
+    "lon": -149.653,
+    "type": "small_airport",
+    "size": 125
+  },
+  "summary": "Bryant Army Airfield (FRN/PAFR) is a small military airfield situated on Fort Richardson, which merged with Elmendorf Air Force Base in 2010 to form Joint Base Elmendorf-Richardson in Anchorage, Alaska. The facility primarily supports U.S. Army Alaska aviation operations, including rotary-wing and light fixed-wing aircraft. Its subarctic location demands specialized cold-weather operational capabilities year-round.",
+  "faqs": "Q: Is Bryant Army Airfield open to civilian flights?\nA: No, this is a restricted military airfield. Civilian access is limited and typically requires prior authorization through the host installation.\n\nQ: What military branch operates the airfield?\nA: It is operated by the U.S. Army as part of Joint Base Elmendorf-Richardson, supporting Army aviation units stationed in Alaska.\n\nQ: Where is the airfield located relative to Anchorage?\nA: The airfield is on the former Fort Richardson installation in the northern part of the Anchorage municipality, adjacent to Elmendorf Air Force Base.\n\nQ: Can private pilots land here?\nA: Private landings are generally not permitted without military approval, and the airfield is not served by regular commercial or general aviation traffic.",
+  "transport_tips": "Public access to Bryant Army Airfield requires entering Joint Base Elmendorf-Richardson, so visitors must have a valid military ID or arrange a visitor pass in advance. The airfield is roughly 10 miles northeast of downtown Anchorage, accessible via the Glenn Highway. Rideshare and taxi services operate in Anchorage but will not be able to enter the base without proper credentials.",
+  "local_tip": "Alaska's rapidly changing weather can shift visibility quickly, especially in winter; if you are authorized to fly in, file a thorough flight plan and check the Anchorage TAF and area forecasts (including winds at nearby PANC) well before departure.",
+  "generatedAt": "2026-06-26T19:24:42.350Z",
+  "model": "MiniMax-M3"
+}

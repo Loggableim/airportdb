@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UZC",
+    "icao": "LYUZ",
+    "name": "Ponikve Airport",
+    "country": "Serbia",
+    "city": "Stapari",
+    "lat": 43.8989,
+    "lon": 19.6977,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Ponikve Airport serves the western Serbian town of Užice and the surrounding Zlatibor region, a popular mountain tourist area. Originally developed as a military airfield, it was adapted for civilian aviation and now functions as a regional airport. Its elevated location in the Dinaric Alps offers scenic approach routes but can present weather-related challenges for pilots.",
+  "faqs": "Q: Where is Ponikve Airport located?\nA: Ponikve Airport is located near the village of Stapari in western Serbia, approximately 12 km from the city of Užice.\n\nQ: Does Ponikve Airport handle regular commercial flights?\nA: Scheduled commercial service has been limited and intermittent. The airport primarily supports charter, general aviation, and occasional seasonal flights.\n\nQ: What tourist destinations are accessible from Ponikve Airport?\nA: The airport provides access to the Zlatibor mountain resort, Tara National Park, and Mokra Gora, all popular destinations in the region.\n\nQ: What is the airport's elevation and terrain like?\nA: The airport sits at a relatively high elevation in mountainous terrain, with surrounding hills that can affect weather conditions and flight operations.\n\n",
+  "transport_tips": "Taxis and pre-arranged transfers are the most common way to reach the airport from Užice, as there is no regular public bus service to the terminal. Driving from Užice takes approximately 20 minutes via local roads. Visitors heading to Zlatibor should allow around 45 minutes for the onward journey by car.",
+  "local_tip": "If flying in during winter months, be prepared for possible delays due to fog and low cloud cover common in the mountainous Zlatibor region—flexible travel plans are recommended.",
+  "generatedAt": "2026-06-26T13:41:42.869Z",
+  "model": "MiniMax-M3"
+}

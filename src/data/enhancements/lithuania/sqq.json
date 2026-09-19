@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SQQ",
+    "icao": "EYSA",
+    "name": "Šiauliai International Airport",
+    "country": "Lithuania",
+    "city": "Šiauliai",
+    "lat": 55.8939,
+    "lon": 23.395,
+    "type": "medium_airport",
+    "size": 575
+  },
+  "summary": "Šiauliai International Airport is a medium-sized airport in northern Lithuania, originally developed as a Soviet-era military airbase before transitioning to civilian operations. It serves the city of Šiauliai, the fourth-largest city in Lithuania, and is positioned near the country's scenic Baltic region. The airport is notable for its long runway inherited from its military past, capable of handling larger aircraft.",
+  "faqs": "Q: How far is the airport from Šiauliai city center?\nA: The airport is located approximately 7 kilometers southeast of central Šiauliai, making it a short drive away.\n\nQ: Does the airport offer regular commercial passenger flights?\nA: Scheduled commercial passenger service is very limited. The airport primarily handles charter flights, cargo operations, and general aviation traffic.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic passenger amenities including a waiting area and limited services, reflecting the airport's modest traffic volume.\n\nQ: Can private aircraft use this airport?\nA: Yes, the airport accommodates general aviation and private flights, and pilots should coordinate with airport administration for landing permissions.\n\n",
+  "transport_tips": "Taxis are the most reliable way to reach the airport from Šiauliai city center, with the journey typically taking around 15 minutes. Renting a car from the city and driving is straightforward via the A12 highway, and parking is available on-site. Travelers should arrange return transport in advance, as public transport options to the airport are very limited.",
+  "local_tip": "If you have time before your flight, visit the nearby Hill of Crosses (Kryžių kalnas), one of Lithuania's most iconic pilgrimage sites located just a short drive from the airport—it features tens of thousands of crosses placed over centuries.",
+  "generatedAt": "2026-06-29T17:36:42.601Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FWH",
+    "icao": "KNFW",
+    "name": "NAS Fort Worth JRB / Carswell Field",
+    "country": "United States",
+    "city": "Fort Worth",
+    "lat": 32.7692,
+    "lon": -97.4415,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "NAS Fort Worth JRB (Joint Reserve Base) / Carswell Field is a military airfield located in the heart of the Fort Worth–Dallas metropolitan area. Originally established as Carswell Air Force Base during World War II, it was realigned as a Naval Air Station Joint Reserve Base in 1994, making it one of the few joint-use facilities combining Navy Reserve, Air Force Reserve, Marine Corps Reserve, and Army Reserve aviation units on a single field. The base is named after Major Horace S. Carswell Jr., a Medal of Honor recipient from World War II.\n\nNote: FWH/IATA code usage is limited; KNFW is the primary ICAO/FAA identifier for this joint reserve base.",
+  "faqs": "Q: Is NAS Fort Worth JRB open to civilian air traffic?\nA: NAS Fort Worth JRB is primarily a military installation with limited civilian access. Prior permission and proper clearance are required, and most civilian travel to the area is handled by Dallas/Fort Worth International (DFW) or Dallas Love Field (DAL).\n\nQ: What military units are based at NAS Fort Worth JRB?\nA: The base hosts numerous reserve components including Navy Reserve, Air Force Reserve, Marine Corps Reserve, and Army Reserve aviation units, along with the Fleet Logistics Support Wing.\n\nQ: What is the history of Carswell Field?\nA: Originally established as Fort Worth Army Air Field during World War II, it served as Carswell Air Force Base until 1994, when it was transferred to the U.S. Navy and redesignated as a Joint Reserve Base.\n\nQ: How far is NAS Fort Worth JRB from downtown Fort Worth?\nA: The air station is located just a few miles west of downtown Fort Worth, approximately 10–15 minutes by car depending on traffic.",
+  "transport_tips": "The base sits adjacent to downtown Fort Worth, making car travel via I-30 or I-35W the most practical option for reaching the facility. Parking on base requires a valid military ID or visitor pass coordinated in advance. Rideshare services like Uber and Lyft are available in the Fort Worth area, though drop-off at the gate may require prior arrangement.",
+  "local_tip": "If visiting the area, the nearby Fort Worth Cultural District—just a short drive east—offers world-class museums including the Kimbell Art Museum and the Fort Worth Museum of Science and History, making it easy to combine base business with cultural sightseeing.",
+  "generatedAt": "2026-06-26T08:15:58.293Z",
+  "model": "MiniMax-M3"
+}

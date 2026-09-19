@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KXD",
+    "icao": "USHK",
+    "name": "Kondinskoye Airport",
+    "country": "Russia",
+    "city": "Kondinskoye",
+    "lat": 59.6551,
+    "lon": 67.43,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Kondinskoye Airport (KXD/USHK) is a small regional airfield serving the village of Kondinskoye in the Khanty-Mansi Autonomous Okrug of Western Siberia, Russia. It primarily supports local air connectivity in this remote taiga region, handling limited scheduled and charter flights. The airport plays a vital role in providing transportation access for the surrounding rural communities where road travel can be challenging due to vast distances and harsh winter conditions.",
+  "faqs": "Q: What type of airport is Kondinskoye?\nA: It is classified as a small regional airport serving primarily local aviation needs in the Khanty-Mansi Autonomous Okrug.\n\nQ: Does Kondinskoye Airport serve commercial passenger flights?\nA: The airport handles limited passenger traffic, mainly connecting Kondinskoye with other regional destinations in Western Siberia. Schedules may vary by season.\n\nQ: What is the airport's location and surrounding area like?\nA: The airport is situated in a remote area of Western Siberia surrounded by taiga forests, wetlands, and rivers typical of the Khanty-Mansi region.\n\nQ: Are there facilities for travelers at the airport?\nA: As a small airfield, facilities are minimal, typically limited to a basic terminal building with standard check-in services for regional flights.",
+  "transport_tips": "Getting to Kondinskoye Airport usually requires arranging ground transport from the village center, which is a short drive away. Taxis and private vehicles are the most common means of reaching the airfield, as public transport options are limited. During winter months, allow extra travel time due to potential snow and icy road conditions common in the Siberian climate.",
+  "local_tip": "Given the extreme Siberian winters with temperatures regularly dropping below -30°C, dress in heavy layers and confirm your flight status by phone the day before, as weather-related delays and cancellations are common at small regional airfields.",
+  "generatedAt": "2026-06-28T01:52:51.909Z",
+  "model": "MiniMax-M3"
+}

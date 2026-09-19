@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UHS",
+    "icao": "",
+    "name": "Aleksandrovsk-Sakhalinskiy Airport",
+    "country": "Russia",
+    "city": "Aleksandrovsk-Sakhalinskiy",
+    "lat": 50.8771,
+    "lon": 142.1756,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Aleksandrovsk-Sakhalinskiy Airport (UHS) is a small regional airport serving the historic town of Aleksandrovsk-Sakhalinskiy on the western coast of Sakhalin Island in Russia's Far East. The town, founded in 1869, was once a major center for Sakhalin's coal mining industry and the airport primarily supports regional connectivity for the local population. Due to its small size and limited infrastructure, the airport handles primarily short-haul flights within the Russian Far East region.",
+  "faqs": "Q: What is the main purpose of Aleksandrovsk-Sakhalinskiy Airport?\nA: The airport primarily serves the local population of Aleksandrovsk-Sakhalinskiy and surrounding areas, providing regional connectivity to other parts of Sakhalin Oblast and the Russian Far East.\n\nQ: Are there international flights from this airport?\nA: No, UHS is a small regional airport that operates domestic flights only, primarily connecting to Khabarovsk and Yuzhno-Sakhalinsk.\n\nQ: What facilities are available at the airport?\nA: As a small airport with limited passenger traffic, it offers basic facilities including a small terminal building. Travelers should not expect extensive amenities such as large retail areas or multiple dining options.\n\nQ: How busy is this airport?\nA: The airport has low traffic volumes, serving primarily local passengers and a limited number of scheduled flights per week.",
+  "transport_tips": "Getting to and from the airport is straightforward given its small size and proximity to Aleksandrovsk-Sakhalinskiy town. Taxis and local transport are typically available outside the terminal, though it's advisable to arrange transportation in advance as options may be limited. The town center is only a short drive from the airport.",
+  "local_tip": "Weather in Sakhalin can change rapidly, so check flight status frequently during winter months when snow and fog can cause delays or cancellations at this regional airfield.",
+  "generatedAt": "2026-06-27T16:57:27.085Z",
+  "model": "MiniMax-M3"
+}

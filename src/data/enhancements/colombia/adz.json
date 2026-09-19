@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ADZ",
+    "icao": "SKSP",
+    "name": "Gustavo Rojas Pinilla International Airport",
+    "country": "Colombia",
+    "city": "San Andrés",
+    "lat": 12.5836,
+    "lon": -81.7112,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Gustavo Rojas Pinilla International Airport (ADZ) serves San Andrés Island, a Colombian Caribbean destination within the Seaflower Biosphere Reserve. Named after a former Colombian president, it is the main gateway to the island's renowned coral reefs, white-sand beaches, and duty-free shopping district. The airport handles both domestic flights from Colombian mainland cities and limited international services.",
+  "faqs": "Q: How far is the airport from San Andrés town center?\nA: The airport is located approximately 2 km from the main town and commercial area, making most hotels a short taxi or bus ride away.\n\nQ: Are there international flights at this airport?\nA: Yes, limited international flights operate to destinations in Central America and the Caribbean, though most international travelers connect through Bogotá or other Colombian cities.\n\nQ: What facilities are available inside the terminal?\nA: The terminal offers standard amenities including restaurants, duty-free shops, currency exchange, and car rental counters.\n\nQ: Do I need a special permit to visit San Andrés?\nA: Most visitors need only a Colombian entry document or visa, but residents of certain countries may require a tourist card, which is typically arranged through airlines or travel agencies.",
+  "transport_tips": "Taxis are readily available outside the terminal and are the most convenient way to reach hotels, with fixed rates to most parts of the island. Rental cars, scooters, and golf carts are popular options for exploring independently. Shared shuttle services and local buses also operate, though schedules may be limited in the evenings.",
+  "local_tip": "Book ground transportation in advance during peak holiday seasons, as the island's small fleet can be fully booked quickly, and consider renting a golf cart for a uniquely Caribbean way to navigate the island's narrow roads.",
+  "generatedAt": "2026-06-28T20:46:48.678Z",
+  "model": "MiniMax-M3"
+}

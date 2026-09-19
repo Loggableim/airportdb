@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NML",
+    "icao": "",
+    "name": "Fort McMurray / Mildred Lake Airport",
+    "country": "Canada",
+    "city": "Fort McMurray",
+    "lat": 57.0556,
+    "lon": -111.574,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Fort McMurray / Mildred Lake Airport (NML) is a small regional airport located in northeastern Alberta, Canada, primarily serving the nearby Mildred Lake oil sands operations. The facility supports industrial aviation needs related to the Athabasca oil sands region, one of Canada's largest energy production areas. It functions as a supplementary airfield to the larger Fort McMurray International Airport, handling charter and corporate traffic linked to the petroleum industry.",
+  "faqs": "Q: What type of airport is Fort McMurray / Mildred Lake Airport?\nA: It is classified as a small airport primarily serving industrial and corporate aviation needs in the oil sands region.\n\nQ: Is this airport open to the public?\nA: Access is generally restricted and tied to industrial operations; commercial passengers typically use Fort McMurray International Airport instead.\n\nQ: What industries does this airport support?\nA: The airport primarily serves the oil sands and energy sector, including personnel transport for nearby mining operations.\n\nQ: Are there scheduled passenger flights at NML?\nA: No scheduled commercial service operates from this airfield; it handles charter and private flights only.\n\n",
+  "transport_tips": "Ground transportation to this remote airfield is typically arranged through employer or charter operators rather than public transit. Visitors should coordinate ground transport in advance, as the airport is located in an industrial area away from Fort McMurray's town center. Rental car services are not typically available on-site due to the airport's limited commercial activity.",
+  "local_tip": "Always confirm your flight details and pickup arrangements directly with your charter operator or employer, as the airport has no public terminal services or information desk.",
+  "generatedAt": "2026-06-27T09:22:39.876Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ATO",
+    "icao": "KUNI",
+    "name": "Ohio University Airport",
+    "country": "United States",
+    "city": "Albany",
+    "lat": 39.2118,
+    "lon": -82.2295,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Ohio University Airport (ATO/KUNI) is a small public-use airport located in Albany, Ohio, serving the aviation needs of Ohio University in nearby Athens. The airport supports the university's aviation flight training programs and is classified as a general aviation facility. It features a single main runway and serves as a convenient gateway to the scenic Appalachian region of southeastern Ohio.",
+  "faqs": "Q: What is Ohio University Airport primarily used for?\nA: The airport primarily supports Ohio University's aviation science program, providing flight training for students pursuing pilot certifications and aviation degrees. It also serves general aviation traffic in southeastern Ohio.\n\nQ: Does the airport offer commercial passenger service?\nA: No, Ohio University Airport is a small general aviation facility and does not offer scheduled commercial flights. Travelers needing commercial service typically use larger airports in the region such as Port Columbus or Yeager Airport in Charleston, WV.\n\nQ: Are there aircraft rental or charter services available?\nA: As a university-operated airport, it primarily supports instructional flight operations. General aviation pilots can typically arrange fuel and basic services, but charter availability may be limited.\n\nQ: How far is the airport from Ohio University's main campus?\nA: The airport is located in Albany, approximately 15 miles southwest of Ohio University's main campus in Athens. The drive typically takes around 20-25 minutes.",
+  "transport_tips": "Reaching Ohio University Airport requires a personal vehicle, as public transportation options to Albany are limited. Rental cars or rideshare services from Athens are the most practical options for visitors. The airport is conveniently located near State Route 32, providing easy road access from Athens and surrounding communities.",
+  "local_tip": "If visiting for Ohio University events, consider combining your trip with a visit to the nearby Strouds Run State Park, which offers hiking, camping, and a beautiful lake just a short drive from the airport.",
+  "generatedAt": "2026-06-27T03:02:40.882Z",
+  "model": "MiniMax-M3"
+}

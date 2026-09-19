@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YMT",
+    "icao": "CYMT",
+    "name": "Chapais Airport",
+    "country": "Canada",
+    "city": "Chibougamau",
+    "lat": 49.7719,
+    "lon": -74.5281,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Chapais Airport (YMT) is a regional airport serving the twin communities of Chibougamau and Chapais in the Nord-du-Québec region of Canada. It provides year-round air access to this remote mining area, historically connected to copper and gold extraction operations. The airport functions as a vital transportation link for the isolated northern Quebec settlement, where road travel can be long and weather-dependent.",
+  "faqs": "Q: What cities does Chapais Airport serve?\nA: The airport primarily serves Chibougamau and Chapais, two neighboring communities in northern Quebec known for their mining heritage.\n\nQ: Are there scheduled commercial flights to Chapais Airport?\nA: Scheduled air service is limited; passengers should check with regional carriers for current routes as service availability can change seasonally.\n\nQ: How far is the airport from Chibougamau?\nA: Chapais Airport is located approximately 15 kilometers southwest of Chibougamau's town center.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional facility, it offers basic terminal services, but amenities are limited compared to major Canadian airports.",
+  "transport_tips": "Rental cars and pre-arranged shuttle services are the most reliable ways to reach Chibougamau from the airport, as public transit options are minimal. Taxis may be available but should be arranged in advance, especially for early morning or late evening arrivals. The drive to Chibougamau takes roughly 15-20 minutes via Route 113.",
+  "local_tip": "If you have time between flights, visit the Chibougamau Museum Mine to explore the underground galleries and learn about the region's copper and gold mining history that shaped the local economy.",
+  "generatedAt": "2026-06-29T06:28:58.531Z",
+  "model": "MiniMax-M3"
+}

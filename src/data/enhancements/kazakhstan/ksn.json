@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KSN",
+    "icao": "UAUU",
+    "name": "Kostanay International Airport",
+    "country": "Kazakhstan",
+    "city": "Kostanay",
+    "lat": 53.2069,
+    "lon": 63.5503,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kostanay International Airport serves as the main aviation gateway for Kostanay Region in northern Kazakhstan, a key agricultural and industrial area bordering Russia. The airport handles both domestic flights to major Kazakh cities like Almaty and Astana, as well as international routes to neighboring countries. It serves as an important regional hub supporting business travel and connectivity for the Tobol River region.",
+  "faqs": "Q: What is the IATA code for Kostanay International Airport?\nA: The IATA code is KSN, and the ICAO code is UAUU.\n\nQ: How far is the airport from Kostanay city center?\nA: The airport is located approximately 10 km southeast of central Kostanay, typically a 15-20 minute drive depending on traffic.\n\nQ: Are there international flights from Kostanay Airport?\nA: Yes, the airport operates international flights to several destinations including Russia and other Central Asian countries, alongside regular domestic services.\n\nQ: Does the airport operate 24 hours?\nA: The airport generally operates during scheduled flight hours; passengers should confirm specific flight times with their airline in advance.",
+  "transport_tips": "Taxis and ride-hailing services are the most convenient way to reach the airport from Kostanay city center, with fares typically modest by international standards. Public marshrutka (minibus) routes also serve the airport area, though they are less frequent in early morning and late evening hours. Booking a return transfer in advance is recommended during winter months when road conditions can be challenging.",
+  "local_tip": "If you have a layover or arrive late, the nearby airport hotel offers basic but clean accommodation within walking distance of the terminal, and staff can arrange quick transport into town if needed.",
+  "generatedAt": "2026-06-29T01:17:53.668Z",
+  "model": "MiniMax-M3"
+}

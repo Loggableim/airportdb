@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JQA",
+    "icao": "BGUQ",
+    "name": "Qaarsut Airport",
+    "country": "Greenland",
+    "city": "Uummannaq",
+    "lat": 70.7342,
+    "lon": -52.6962,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Qaarsut Airport (JQA) is a small regional airport serving the Uummannaq area in northwestern Greenland, located well above the Arctic Circle. It functions as a vital transportation link for the Uummannaq municipality, connecting remote settlements to the rest of Greenland via domestic flights. The airport provides access to one of Greenland's most scenic regions, known for the dramatic Uummannaq Mountain and surrounding glacial landscapes.",
+  "faqs": "Q: What is the main airline operating at Qaarsut Airport?\nA: Air Greenland is the primary carrier, providing scheduled domestic flights primarily to and from Ilulissat.\n\nQ: How far is Qaarsut Airport from Uummannaq town?\nA: The airport is located near the settlement of Qaarsut, and travelers typically need a helicopter transfer or boat ride to reach Uummannaq, which is on a separate island.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, Qaarsut has basic terminal facilities. There is no scheduled public transport, so ground transportation should be arranged in advance.\n\nQ: Can I fly directly from Qaarsut to Nuuk or international destinations?\nA: No direct flights operate from Qaarsut to Nuuk or international destinations. Connections are typically made through Ilulissat.",
+  "transport_tips": "Air Greenland operates regular flights to Ilulissat, which is the main connection point for onward travel within Greenland and to Copenhagen. Helicopter or boat transfers are needed to reach Uummannaq town from the airport. Due to the remote Arctic location, weather can cause delays, so build flexibility into your travel schedule.",
+  "local_tip": "If visiting Uummannaq, consider booking a helicopter transfer in advance as seats are limited and demand can be high, especially during the summer hiking season when visitors come to explore the iconic Uummannaq Mountain.",
+  "generatedAt": "2026-06-26T16:32:48.037Z",
+  "model": "MiniMax-M3"
+}

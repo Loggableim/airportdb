@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KOJ",
+    "icao": "RJFK",
+    "name": "Kagoshima Airport",
+    "country": "Japan",
+    "city": "Kagoshima",
+    "lat": 31.8034,
+    "lon": 130.719,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Kagoshima Airport (KOJ/RJFK) is the primary aviation gateway for southern Kyushu, located in Kirishima city approximately 30 km northeast of Kagoshima city center. It serves as an important hub connecting the region to Tokyo, Osaka, and other major Japanese cities, while also handling international flights to destinations in Asia. The airport is particularly notable as the main access point for travelers heading to Yakushima, a UNESCO World Heritage Site famous for its ancient cedar forests.",
+  "faqs": "Q: How far is Kagoshima Airport from downtown Kagoshima?\nA: The airport is approximately 30 km northeast of Kagoshima city center, with a typical travel time of 35-45 minutes by car or bus.\n\nQ: Does Kagoshima Airport have international flights?\nA: Yes, the airport operates international flights to several Asian destinations including Shanghai, Taipei, Hong Kong, and Seoul, alongside its extensive domestic network.\n\nQ: What airlines operate from Kagoshima Airport?\nA: Major carriers include Japan Airlines (JAL), ANA, Solaseed Air, Skymark, and various international airlines serving regional Asian routes.\n\nQ: Can I access Yakushima from this airport?\nA: Kagoshima Airport is the main gateway to Yakushima, with connecting flights operated by JAL taking approximately 35-40 minutes.",
+  "transport_tips": "The airport is well-connected to Kagoshima city center via the Airport Limousine Bus, which departs frequently throughout the day and costs around 1,400 yen for a one-way trip. Rental car services are available at the terminal for travelers exploring southern Kyushu at their own pace. The Kyushu Expressway provides convenient road access, and taxis are available 24 hours a day for direct transfers.",
+  "local_tip": "Visit the airport's on-site natural hot spring (onsen) facilities, which offer a uniquely Japanese way to relax before or after your flight using locally sourced geothermal water from the Kirishima volcanic area.",
+  "generatedAt": "2026-06-28T17:06:39.347Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WAQ",
+    "icao": "FMMG",
+    "name": "Antsalova Airport",
+    "country": "Madagascar",
+    "city": "Antsalova",
+    "lat": -18.7013,
+    "lon": 44.6149,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Antsalova Airport (WAQ/FMMG) is a small regional airfield serving the town of Antsalova in the Melaky Region of western Madagascar. It functions primarily as a gateway for visitors traveling to the nearby Tsingy de Bemaraha National Park, a UNESCO World Heritage Site renowned for its dramatic limestone karst formations. The airport handles light aircraft and charter flights, reflecting the remote nature of this part of Madagascar.",
+  "faqs": "Q: What is Antsalova Airport primarily used for?\nA: The airport mainly serves tourist and charter flights bringing visitors to the Tsingy de Bemaraha National Park, one of Madagascar's most iconic natural attractions.\n\nQ: Are there scheduled commercial flights to Antsalova?\nA: Scheduled service is limited; most travelers arrive via charter flights from Antananarivo or nearby cities like Morondava, as commercial airline schedules are infrequent.\n\nQ: What facilities are available at the airport?\nA: As a small regional airfield, facilities are minimal, typically limited to a basic terminal building and unpaved or semi-paved areas. Travelers should not expect extensive amenities.\n\nQ: Is the airport safe for small aircraft operations?\nA: The airport operates with light aircraft suited to its short runway, and flights are generally operated by experienced regional carriers familiar with local conditions.",
+  "transport_tips": "The airport is located just a short distance from the town of Antsalova, and most visitors arrange ground transport in advance through their lodge or tour operator, typically using 4x4 vehicles given the rough regional roads. Charter flights from Antananarivo are the most common way to reach the airport, as overland travel from the capital can take more than a day. Shared taxis and local transport options are available in Antsalova town for short trips.",
+  "local_tip": "Book your charter flight early in the morning whenever possible, as afternoon weather in western Madagascar can bring sudden rain showers that may delay or cancel small aircraft operations.",
+  "generatedAt": "2026-06-26T17:59:06.181Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MYQ",
+    "icao": "VOMY",
+    "name": "Mysore Airport",
+    "country": "India",
+    "city": "Mysore",
+    "lat": 12.2298,
+    "lon": 76.6537,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Mysore Airport (MYQ) is a domestic airport serving the historic city of Mysore in Karnataka, southern India, located approximately 10 km south of the city center near Mandakalli. It primarily functions as a gateway for tourists visiting the iconic Mysore Palace and nearby cultural attractions, with connections mainly to Bengaluru and Chennai. The airport has seen fluctuating commercial flight schedules over the years and is operated by the Airports Authority of India.",
+  "faqs": "Q: How far is Mysore Airport from the city center?\nA: The airport is roughly 10-12 km south of Mysore city center, with a typical drive taking 25-40 minutes depending on traffic.\n\nQ: Which airlines operate from Mysore Airport?\nA: Mysore Airport primarily handles domestic regional flights, with carriers like IndiGo historically connecting it to Bengaluru and other major Indian cities. Schedules can vary, so travelers should confirm current operations.\n\nQ: Does Mysore Airport have international flights?\nA: No, MYQ is a domestic-only airport. International travelers typically fly into Bengaluru's Kempegowda International Airport and travel onward by road or domestic flight.\n\nQ: What facilities are available at Mysore Airport?\nA: The terminal offers basic amenities including a small food court, waiting lounges, prepaid taxi counters, and parking, though services are limited compared to larger hubs.",
+  "transport_tips": "Prepaid taxi booths and app-based cabs like Ola and Uber are the most reliable ways to reach the city, with fares to central Mysore typically ranging from ₹300 to ₹500. The journey via the Mysuru-Bengaluru highway is generally smooth outside peak hours. Some hotels also offer airport pickup services, which can be arranged in advance to save time.",
+  "local_tip": "If you have a few hours to spare before your flight, visit the nearby Karanji Lake and Mysore Zoo area—they're a short drive from the airport and offer a pleasant last taste of Mysore without the downtown traffic.",
+  "generatedAt": "2026-06-29T21:40:21.046Z",
+  "model": "MiniMax-M3"
+}

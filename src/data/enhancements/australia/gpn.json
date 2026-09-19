@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GPN",
+    "icao": "YGPT",
+    "name": "Garden Point Airport",
+    "country": "Australia",
+    "city": "Pirlangimpi",
+    "lat": -11.3997,
+    "lon": 130.4256,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Garden Point Airport serves the community of Pirlangimpi on Melville Island, part of the Tiwi Islands in Australia's Northern Territory. The airport provides essential air access to the remote Tiwi Islands, supporting local residents, healthcare services, and visitors exploring the region's distinctive Aboriginal culture. It functions as a vital link between the islands and the mainland, with flights typically connecting to Darwin.",
+  "faqs": "Q: Where is Garden Point Airport located?\nA: Garden Point Airport is located at Pirlangimpi on Melville Island, the larger of the two main Tiwi Islands in the Northern Territory of Australia, north of Darwin.\n\nQ: What airlines operate at Garden Point Airport?\nA: The airport is primarily served by regional air charter operators and small scheduled services connecting to Darwin, as well as providing access for Tiwi Islands communities.\n\nQ: Is Garden Point Airport suitable for large aircraft?\nA: As a medium airport with a size score of 250, it accommodates smaller regional turboprop aircraft rather than large jets, typical for remote island airports.\n\nQ: Are there facilities at Garden Point Airport?\nA: Facilities are basic, suited to the airport's role serving a small remote community. Travelers should arrange ground transport and accommodation in advance.",
+  "transport_tips": "Getting to Garden Point Airport typically requires a regional flight from Darwin followed by a short transfer to Pirlangimpi. Ground transport on the Tiwi Islands is limited, so arranging a vehicle or local pickup in advance is strongly recommended. Visitors may also reach the Tiwi Islands via the ferry from Darwin, though air travel remains the most common option.",
+  "local_tip": "If visiting during the dry season (May to October), check if your trip coincides with the Tiwi Islands AFL Grand Final and art sales at Pirlangimpi, one of Australia's most unique cultural events where you can meet local artists and purchase authentic Tiwi-designed artwork directly from the creators.",
+  "generatedAt": "2026-06-26T11:56:50.703Z",
+  "model": "MiniMax-M3"
+}

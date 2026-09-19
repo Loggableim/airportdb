@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZAL",
+    "icao": "SCVD",
+    "name": "Pichoy Airport",
+    "country": "Chile",
+    "city": "Valdivia",
+    "lat": -39.65,
+    "lon": -73.0861,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Pichoy Airport serves the city of Valdivia in southern Chile's Los Ríos Region, providing vital air access to a gateway of the country's Lake District. Situated on the outskirts of the city, it connects travelers to the lush Valdivian temperate rainforest and the surrounding rivers and lakes. The airport primarily handles domestic routes linking Valdivia with Santiago and other regional destinations.",
+  "faqs": "Q: What airlines operate at Pichoy Airport?\nA: Pichoy Airport is mainly served by LATAM Airlines and Sky Airline, with regular flights connecting Valdivia to Santiago and other Chilean cities.\n\nQ: How far is Pichoy Airport from downtown Valdivia?\nA: The airport is located approximately 26 kilometers northeast of central Valdivia, with the journey taking around 25-30 minutes by car or shuttle.\n\nQ: Are there international flights from Pichoy Airport?\nA: No, Pichoy Airport currently handles only domestic flights. Travelers connecting internationally typically route through Santiago's Comodoro Arturo Merino Benítez International Airport.\n\nQ: Does the airport have overnight facilities?\nA: The terminal operates on flight schedules, so there are no overnight sleeping facilities. However, the airport includes standard amenities such as a small café and car rental desks during operating hours.",
+  "transport_tips": "Taxis and pre-booked shuttles are the most common options for reaching the airport from Valdivia, with fixed rates typically negotiated in advance. Rental cars are available at the terminal and are recommended for exploring the surrounding Lake District independently. If staying near the river in central Valdivia, allow extra time during rainy weather as rural roads can become slippery.",
+  "local_tip": "Bring a light rain jacket even in summer — the Valdivian microclimate is famously wet, and the airport's open-air walkway to the terminal can catch you without cover during a sudden downpour.",
+  "generatedAt": "2026-06-29T12:11:35.338Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CUN",
+    "icao": "MMUN",
+    "name": "Cancún International Airport",
+    "country": "Mexico",
+    "city": "Cancún",
+    "lat": 21.0408,
+    "lon": -86.8735,
+    "type": "large_airport",
+    "size": 51150
+  },
+  "summary": "Cancún International Airport is the busiest airport in southeastern Mexico and the primary gateway to the Yucatán Peninsula's Caribbean coast, serving the resort city of Cancún and destinations like Playa del Carmen, Tulum, and Cozumel. Opened in the 1970s to support growing tourism, it has grown into one of Latin America's top international hubs, handling tens of millions of passengers annually. The airport features three main passenger terminals and a dedicated FBO for general aviation.",
+  "faqs": "Q: How far is the airport from the Cancún Hotel Zone?\nA: The airport is located approximately 20 minutes (around 16 km) from the start of the Hotel Zone and about 30 minutes from downtown Cancún, depending on traffic.\n\nQ: Are there international flights at Cancún International Airport?\nA: Yes, the airport handles a large volume of international flights, with direct service from destinations across North America, Europe, and Latin America.\n\nQ: Can I access lounges at CUN without a business class ticket?\nA: Yes, several independent lounges in Terminals 2 and 3 offer day passes, and Priority Pass members have access to multiple lounge options.\n\nQ: Is there a hotel inside the airport?\nA: There is no on-airport hotel, but several chain hotels are located within a few minutes' drive of the terminals.",
+  "transport_tips": "Authorized ADO bus service connects the airport to downtown Cancún and the Hotel Zone, with departures roughly every 20-30 minutes. Pre-booked private transfers and shared shuttles are widely available and can be cheaper than taxis for groups. Official taxi counters inside the terminals offer fixed-rate fares; always book through the official booths rather than accepting rides from solicitors outside.",
+  "local_tip": "If you have a layover or early arrival, the small Terminal 4 area sometimes has shorter immigration lines than the main Terminals 2 and 3, but only airlines operating from T4 can use it—so check your airline's terminal before assuming a shortcut.",
+  "generatedAt": "2026-06-28T15:56:03.053Z",
+  "model": "MiniMax-M3"
+}

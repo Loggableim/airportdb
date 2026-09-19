@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KVM",
+    "icao": "UHMO",
+    "name": "Markovo Airport",
+    "country": "Russia",
+    "city": "Markovo",
+    "lat": 64.6654,
+    "lon": 170.4176,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Markovo Airport (KVM/UHMO) is a small regional airfield serving the village of Markovo in the Chukotka Autonomous Okrug, one of the most remote regions of the Russian Far East. It functions primarily as a lifeline transport hub for the local Chukchi community, where extreme subarctic conditions and vast distances make air travel essential. The airport supports commuter and charter operations connecting the isolated settlement to regional centers such as Anadyr.",
+  "faqs": "Q: Where is Markovo Airport located?\nA: Markovo Airport is situated in the village of Markovo, in the Chukotka Autonomous Okrug of the Russian Far East, well above the Arctic Circle.\n\nQ: What kind of aircraft operate from Markovo Airport?\nA: The airport primarily handles small to medium turboprop aircraft suited to short, unpaved or semi-prepared runways typical of remote Arctic airfields.\n\nQ: Are there scheduled passenger flights to Markovo?\nA: Limited scheduled regional services connect Markovo with Anadyr and a few other Chukotka settlements, often operated by local carriers using small aircraft.\n\nQ: When is the airport typically open for operations?\nA: Operations are generally possible year-round, though severe winter weather, low visibility, and polar night conditions can cause delays or temporary closures.",
+  "transport_tips": "There are no roads linking Markovo to the outside world, so reaching the airport almost always means arriving from the village itself on foot or by local vehicle. Travelers typically fly in from Anadyr, the regional capital, often as the final leg of a longer journey originating from Moscow. Passengers should be prepared for flexible scheduling, as flights to remote Chukotka destinations are frequently weather-dependent and subject to change.",
+  "local_tip": "Pack layered clothing even in summer—temperatures can swing sharply, and the terminal is minimally heated. Travelers heading onward to surrounding tundra villages often arrange helicopter",
+  "generatedAt": "2026-06-26T19:58:50.962Z",
+  "model": "MiniMax-M3"
+}

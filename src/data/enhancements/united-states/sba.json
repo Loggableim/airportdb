@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SBA",
+    "icao": "KSBA",
+    "name": "Santa Barbara Municipal Airport",
+    "country": "United States",
+    "city": "Santa Barbara",
+    "lat": 34.4262,
+    "lon": -119.84,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Santa Barbara Municipal Airport (SBA) is the primary airport serving Santa Barbara and California's Central Coast, located approximately 7 miles west of downtown near Goleta. The terminal is notable for its Spanish Colonial Revival architecture, designed to reflect the region's distinctive aesthetic. It serves as a convenient alternative to larger Southern California airports, offering direct connections to several major hubs.",
+  "faqs": "Q: How far is Santa Barbara Airport from downtown Santa Barbara?\nA: The airport is about 7 miles west of downtown Santa Barbara, typically a 15-20 minute drive via US-101.\n\nQ: Which airlines operate at SBA?\nA: United, American, Alaska, and Southwest are among the carriers serving SBA, with nonstop flights to hubs like Los Angeles, San Francisco, Denver, and Phoenix.\n\nQ: Does the airport offer international flights?\nA: SBA primarily handles domestic flights; international travelers typically connect through Los Angeles (LAX) or other larger gateways.\n\nQ: Is there a cell phone lot or short-term parking?\nA: Yes, the airport provides a free cell phone waiting area and short-term parking options near the terminal.",
+  "transport_tips": "Rideshares and taxis are readily available curbside at the terminal; however, Santa Barbara is walkable and biking-friendly once you arrive downtown. Santa Barbara Airbus and Roadway Shuttle offer shared-ride services to nearby communities. Rental car counters are located inside the terminal, and having a car is recommended for exploring the broader Santa Ynez Valley and coastal areas.",
+  "local_tip": "Parking Lot 1 (short-term) fills up quickly during weekday mornings—use the satellite lot off Moffett Place for free parking with a short shuttle ride if you're meeting departing passengers or staying longer.",
+  "generatedAt": "2026-06-29T01:54:20.747Z",
+  "model": "MiniMax-M3"
+}

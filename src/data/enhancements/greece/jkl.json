@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JKL",
+    "icao": "LGKY",
+    "name": "Kalymnos Airport",
+    "country": "Greece",
+    "city": "Kalymnos Island",
+    "lat": 36.9633,
+    "lon": 26.9406,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Kalymnos Airport (JKL/LGKY) is a small domestic airport serving Kalymnos Island in Greece's Dodecanese archipelago, located near the southern coast of the island just outside the capital town of Pothia. The single-runway facility primarily handles short-haul flights connecting the island to Athens, serving a destination renowned for its sponge-diving heritage, dramatic limestone cliffs, and growing reputation as a world-class rock climbing destination. The airport's modest size reflects Kalymnos's quiet, off-the-beaten-path character compared to its busier neighbors Kos and Rhodes.",
+  "faqs": "Q: What airlines fly to Kalymnos Airport?\nA: Olympic Air (part of the Aegean Airlines group) operates scheduled flights, primarily connecting Kalymnos with Athens International Airport. Charter and seasonal flights may also operate during peak tourist months.\n\nQ: How far is the airport from Pothia, the main town?\nA: The airport is located approximately 4-5 kilometers from Pothia, making it a quick 10-15 minute drive to the island's capital and ferry port.\n\nQ: Are there international flights to Kalymnos Airport?\nA: No, Kalymnos Airport does not serve international flights. International travelers typically fly into Kos International Airport (KGS) and then take a short ferry ride to Kalymnos.\n\nQ: Does the airport have customs and immigration facilities?\nA: As a domestic-only airport, Kalymnos does not have customs or immigration facilities, which helps keep arrival procedures quick and simple.",
+  "transport_tips": "The most convenient way to reach the airport is by taxi, which should be pre-booked or arranged through your accommodation, as taxis are not always waiting at the terminal. Rental cars and scooters are available on the island and offer flexibility for exploring Kalymnos's remote climbing crags and beaches, though they should be reserved in advance during summer. Alternatively, many visitors arrive via ferry from Kos, where ferries run frequently throughout the day, with the port located very close to the airport.",
+  "local_tip": "If you're visiting for rock climbing, the famous Grande Grotta and Spartacus crags are best accessed from the northern coast rather than from Pothia, so arrange your transport directly from the airport to Masouri or Armeos to save time on arrival.",
+  "generatedAt": "2026-06-26T22:37:03.587Z",
+  "model": "MiniMax-M3"
+}

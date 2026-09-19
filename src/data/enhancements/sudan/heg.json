@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HEG",
+    "icao": "HSHG",
+    "name": "Heglig Airport",
+    "country": "Sudan",
+    "city": "Heglig",
+    "lat": 9.9949,
+    "lon": 29.3977,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Heglig Airport (HEG/HSHG) is a small regional airport serving the Heglig area, a significant oil-producing region located near the border between Sudan and South Sudan. The airport primarily supports oil industry operations and limited general aviation traffic. Its remote location in the Upper Nile region makes it an important logistical point for workers and supplies in this resource-rich area.",
+  "faqs": "Q: What is Heglig Airport primarily used for?\nA: The airport mainly serves oil industry operations and limited general aviation in the Heglig oilfield region.\n\nQ: Are there commercial passenger flights to Heglig Airport?\nA: Scheduled commercial passenger service is extremely limited; most flights are charter or industry-related operations.\n\nQ: Is Heglig Airport in Sudan or South Sudan?\nA: Heglig is located in a disputed border area, with the airport referenced under Sudan's ICAO code (HSHG), though the region's status has been contested between Sudan and South Sudan.\n\nQ: What facilities are available at the airport?\nA: As a small airport with a moderate size score, facilities are minimal, suited primarily to basic general aviation and charter operations.",
+  "transport_tips": "Ground transportation from Heglig Airport is limited; vehicles are typically arranged in advance through oil companies or local contacts. The surrounding road infrastructure is basic, and travel during rainy seasons can be challenging due to unpaved routes. Most visitors rely on pre-arranged transport rather than taxi services.",
+  "local_tip": "Travelers heading to Heglig should coordinate with their sponsoring organization in advance, as independent travel to the area is restricted due to its strategic importance and security considerations.",
+  "generatedAt": "2026-06-27T12:48:28.113Z",
+  "model": "MiniMax-M3"
+}

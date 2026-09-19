@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OXD",
+    "icao": "KOXD",
+    "name": "Miami University Airport",
+    "country": "United States",
+    "city": "Oxford",
+    "lat": 39.5023,
+    "lon": -84.7844,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Miami University Airport (OXD) is a small general aviation facility located in Oxford, Ohio, primarily serving the needs of Miami University's aviation and academic programs. The airport supports flight training, private aviation, and occasional corporate flights, serving as an important regional asset for southwestern Ohio. It features a single asphalt runway and is operated in connection with the university's Department of Physics and the aviation program.",
+  "faqs": "Q: What is Miami University Airport primarily used for?\nA: The airport mainly serves general aviation, flight training for Miami University students, and private aircraft operations supporting the university community.\n\nQ: Are there commercial airline flights at OXD?\nA: No, Miami University Airport does not offer scheduled commercial airline service. It is a general aviation facility.\n\nQ: Who operates Miami University Airport?\nA: The airport is operated by Miami University and serves as a teaching and training resource for the university's aviation-related academic programs.\n\nQ: Is the airport open to the public?\nA: Yes, the airport is open to public use for general aviation, though it primarily caters to university-affiliated and private pilots.",
+  "transport_tips": "The airport is located just outside Oxford, Ohio, and is a short drive from Miami University's main campus. Visitors without aircraft typically need a personal vehicle, as public transportation options to the airfield are limited. The nearest major airport for commercial travel is Cincinnati/Northern Kentucky International Airport (CVG), located roughly 45 miles to the south.",
+  "local_tip": "If visiting Miami University, take advantage of the airport's proximity to the campus and the charming town of Oxford—grab a meal at one of the historic uptown eateries on High Street, just minutes from the airfield.",
+  "generatedAt": "2026-06-27T07:20:28.051Z",
+  "model": "MiniMax-M3"
+}

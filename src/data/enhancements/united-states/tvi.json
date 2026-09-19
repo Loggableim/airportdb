@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TVI",
+    "icao": "KTVI",
+    "name": "Thomasville Regional Airport",
+    "country": "United States",
+    "city": "Thomasville",
+    "lat": 30.9016,
+    "lon": -83.8813,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Thomasville Regional Airport is a small general aviation facility located in Thomasville, Georgia, a historic city in the southwestern part of the state near the Florida border. The airport primarily serves private aircraft, charter flights, and corporate aviation for the local community and visitors to the region. It supports Thomasville's tourism economy, which is well known for antebellum plantations, quail hunting plantations, and the city's annual Rose Festival.",
+  "faqs": "Q: Does Thomasville Regional Airport offer commercial passenger service?\nA: No, TVI is a general aviation airport with no scheduled commercial flights. It serves private, charter, and corporate aircraft only.\n\nQ: What is the airport used for?\nA: The airport primarily supports private aviation, business travel, flight training, and charter operations for visitors to the Thomasville area.\n\nQ: Are there customs or international facilities?\nA: No, Thomasville Regional does not have U.S. Customs and Border Protection facilities, so it is generally not used for international arrivals.\n\nQ: Is there an on-site restaurant or terminal amenities?\nA: The airport has a basic terminal lobby, but amenities are limited compared to larger commercial airports. Pilots and passengers typically find dining options in nearby Thomasville.\n\n",
+  "transport_tips": "The airport is located just a few miles north of downtown Thomasville, making it a quick drive by car. Rental car services and pre-arranged ground transportation are the most common ways to get to and from the facility. Taxi and rideshare availability can be limited, so arranging transport in advance is recommended for visitors without their own vehicle.",
+  "local_tip": "If you're flying in for the famous quail hunting season (November through February), book your hangar space well in advance—Thomasville is one of the premier wing-shooting destinations",
+  "generatedAt": "2026-06-27T03:01:42.068Z",
+  "model": "MiniMax-M3"
+}

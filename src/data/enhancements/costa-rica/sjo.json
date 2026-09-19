@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SJO",
+    "icao": "MROC",
+    "name": "Juan Santamaría International Airport",
+    "country": "Costa Rica",
+    "city": "San José (Alajuela)",
+    "lat": 9.9939,
+    "lon": -84.2088,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Juan Santamaría International Airport is Costa Rica's primary international gateway, located in Alajuela roughly 20 km west of the capital San José. Named after the national hero of the 1856 Battle of Rivas, it serves as the main hub for both domestic connections and flights across the Americas, handling the vast majority of the country's international traffic.",
+  "faqs": "Q: How far is the airport from downtown San José?\nA: The airport is located in Alajuela, approximately 20 km (12 miles) west of central San José, typically a 30-45 minute drive depending on traffic.\n\nQ: What airlines operate from Juan Santamaría International Airport?\nA: It serves as a hub for several carriers including Avianca Costa Rica and is served by major airlines from North, Central, and South America.\n\nQ: Is the airport open 24 hours?\nA: The terminal operates with extended hours aligned with flight schedules, but it is not generally a 24-hour facility; check with your airline for specific times.\n\nQ: Are there currency exchange services at the airport?\nA: Yes, there are currency exchange counters and ATMs available in both the public and airside areas of the terminal.",
+  "transport_tips": "Authorized taxis (red with yellow triangle) are available outside the terminal and offer fixed rates to San José and surrounding areas. Shared shuttle services and app-based rides like Uber operate from designated pickup zones. Rental car agencies are located on-site, useful for exploring Costa Rica beyond the capital.",
+  "local_tip": "The airport sits in the Central Valley at roughly 3,000 feet elevation, so if you're connecting onward to coastal destinations like Manuel Antonio or the Caribbean, expect noticeably warmer and more humid conditions upon arrival—the climate shift can be striking.",
+  "generatedAt": "2026-06-28T18:12:22.113Z",
+  "model": "MiniMax-M3"
+}

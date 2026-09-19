@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "INT",
+    "icao": "KINT",
+    "name": "Smith Reynolds Airport",
+    "country": "United States",
+    "city": "Winston Salem",
+    "lat": 36.1337,
+    "lon": -80.222,
+    "type": "medium_airport",
+    "size": 475
+  },
+  "summary": "Smith Reynolds Airport is a medium-sized public-use airport serving the Winston-Salem metropolitan area in North Carolina. Named after Zachary Smith Reynolds, a member of the prominent Reynolds tobacco family, the airport has historically served as a regional aviation hub and continues to support general aviation, corporate travel, and flight training. Located just minutes from downtown Winston-Salem, it offers a convenient alternative to the larger Piedmont Triad International Airport.",
+  "faqs": "Q: Where is Smith Reynolds Airport located relative to Winston-Salem?\nA: The airport is situated approximately 3 miles northwest of downtown Winston-Salem, making it a quick drive from the city center and surrounding Forsyth County communities.\n\nQ: Does Smith Reynolds Airport offer commercial airline service?\nA: The airport currently focuses on general aviation, corporate, charter, and flight training operations rather than scheduled commercial airline service, which has gradually transitioned to nearby Piedmont Triad International Airport over the years.\n\nQ: What facilities and services are available at the airport?\nA: Smith Reynolds features runways capable of handling a range of aircraft, fixed-base operator (FBO) services including fuel and hangar space, flight schools, aircraft maintenance, and rental car availability.\n\nQ: Is there an on-site terminal for general aviation passengers?\nA: Yes, the airport has a general aviation terminal with passenger amenities, and FBOs provide concierge-style services for private and charter flight travelers.",
+  "transport_tips": "The airport is conveniently located near Interstate 40 and US-52, providing easy road access to downtown Winston-Salem in roughly 10 minutes. Rental cars are available on-site through FBOs, and rideshare services like Uber and Lyft operate in the area. Taxi service and pre-arranged car services are also viable options for travelers without personal transportation.",
+  "local_tip": "Frequent visitors recommend timing your arrival to enjoy a meal in Winston-Salem's historic downtown, particularly in the Old Salem district or along Fourth Street, both of which are only a short drive from the airport and showcase the city's Moravian heritage and vibrant culinary scene.",
+  "generatedAt": "2026-06-30T00:34:18.641Z",
+  "model": "MiniMax-M3"
+}

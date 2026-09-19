@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RML",
+    "icao": "VCCC",
+    "name": "Colombo Ratmalana International Airport",
+    "country": "Sri Lanka",
+    "city": "Colombo",
+    "lat": 6.8216,
+    "lon": 79.8859,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Colombo Ratmalana International Airport (RML) is one of Sri Lanka's two main airports, located in the Ratmalana suburb of Colombo about 15 km south of the city center. Originally the country's primary international gateway, it now primarily handles domestic flights, private aviation, and charter operations after Bandaranaike International Airport assumed main international traffic. The airport features a historic colonial-era terminal and serves as a base for domestic carriers and the Sri Lanka Air Force.",
+  "faqs": "Q: What is the difference between Colombo Ratmalana Airport and Bandaranaike International Airport?\nA: Ratmalana (RML) primarily handles domestic Sri Lankan flights, private jets, and charter services, while Bandaranaike (CMB) is the main international gateway about 35 km north of Colombo.\n\nQ: Which airlines operate from Ratmalana Airport?\nA: Domestic carriers such as FitsAir, Cinnamon Air, and SriLankan Airlines operate scheduled domestic services from RML, along with various charter and private aviation operators.\n\nQ: Does Colombo Ratmalana Airport have international flights?\nA: Yes, but limited. It handles some international charter flights, private aviation, and occasional regional services, though most international traffic goes through Bandaranaike International Airport.\n\nQ: Is there a duty-free shop at Ratmalana Airport?\nA: The airport has small retail and refreshment facilities in its terminal, though options are more limited compared to the larger Bandaranaike International Airport.",
+  "transport_tips": "The airport is conveniently located about 15 km south of central Colombo, making it a quicker option than Bandaranaike for travelers heading to the southern suburbs. Taxis and ride-hailing services like PickMe and Uber are readily available, with typical journey times of 30-45 minutes depending on traffic. Several expressways provide access, and the airport is well-connected by road to the southern coastal regions.",
+  "local_tip": "If you're connecting from Bandaranaike International Airport, allow at least 4-5 hours for the transfer as Colombo traffic can be unpredictable, especially during morning and evening rush hours.",
+  "generatedAt": "2026-06-29T01:03:50.367Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EBS",
+    "icao": "KEBS",
+    "name": "Webster City Municipal Airport",
+    "country": "United States",
+    "city": "Webster City",
+    "lat": 42.4368,
+    "lon": -93.8699,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Webster City Municipal Airport (EBS) is a small general aviation facility serving Webster City in north-central Iowa. It supports local private pilots, flight training, and recreational flying in the region. The airport features a single asphalt runway and is publicly owned by the city, providing convenient access for visitors to Hamilton County.",
+  "faqs": "Q: What type of airport is Webster City Municipal Airport?\nA: It is a small public-use general aviation airport owned and operated by the city of Webster City, Iowa.\n\nQ: Does the airport offer commercial airline service?\nA: No, EBS does not have scheduled commercial flights. It serves private, recreational, and business aviation only.\n\nQ: Are fuel and basic services available on site?\nA: Yes, the airport offers basic general aviation services including fueling, tie-downs, and transient parking for visiting pilots.\n\nQ: How many runways does the airport have?\nA: The airport operates a single asphalt runway suitable for small to mid-size general aviation aircraft.",
+  "transport_tips": "The airport is located just northwest of Webster City, easily reachable by a short drive from the town center via local roads. Since there is no commercial service, visitors typically arrange ground transport or rental vehicles in advance. The nearest commercial airport with scheduled flights is Des Moines International, approximately 90 miles south.",
+  "local_tip": "Call ahead or check the airport's CTAF frequency before arriving, as the field is unattended outside normal hours and self-service fuel availability may vary by season.",
+  "generatedAt": "2026-06-27T10:47:55.753Z",
+  "model": "MiniMax-M3"
+}

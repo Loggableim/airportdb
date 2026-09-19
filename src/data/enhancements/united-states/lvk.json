@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LVK",
+    "icao": "KLVK",
+    "name": "Livermore Municipal Airport",
+    "country": "United States",
+    "city": "Livermore",
+    "lat": 37.6934,
+    "lon": -121.82,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Livermore Municipal Airport (LVK) is a general aviation airport located in the Tri-Valley region of Alameda County, California, serving the city of Livermore and surrounding communities in the East Bay. Situated roughly 40 miles east of San Francisco, the airport has long supported flight training, corporate aviation, and recreational flying, and it hosts several FBOs, aircraft maintenance providers, and skydiving operations. The surrounding Livermore Valley is a renowned wine-producing region, making the airport a popular gateway for visitors exploring local wineries and the Lawrence Livermore National Laboratory nearby.",
+  "faqs": "Q: What types of flights operate at Livermore Municipal Airport?\nA: LVK is a general aviation facility with no scheduled commercial airline service. It primarily serves private aircraft, flight schools, corporate jets, and recreational flyers.\n\nQ: Are there flight schools at LVK?\nA: Yes, the airport is home to multiple flight training organizations offering lessons for private pilot certificates, instrument ratings, and other certifications.\n\nQ: Can I skydive at Livermore Municipal Airport?\nA: Yes, the airport hosts a well-known skydiving operation that offers tandem jumps and licensed skydiver training, making it one of the more active drop zones in Northern California.\n\nQ: Does LVK have an air traffic control tower?\nA: Yes, the airport operates a control tower during published hours, and pilots are encouraged to check NOTAMs for current tower operating times.",
+  "transport_tips": "Livermore Municipal Airport is about a 5-minute drive from downtown Livermore via Terminal Court and Airport Way. The nearest BART station is in Dublin/Pleasanton, roughly 10 miles west, where rental cars or rideshares can complete the trip. Rideshare services such as Uber and Lyft are readily available, and the airport offers ample on-site parking for those picking up or dropping off passengers.",
+  "local_tip": "If you have time between flights, head just a few miles south into downtown Livermore for wine tasting—the airport sits in the heart of a Livermore Valley wine region with over 50 wineries, many within a 15-minute drive.",
+  "generatedAt": "2026-06-26T23:31:19.136Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YIV",
+    "icao": "CYIV",
+    "name": "Island Lake Airport",
+    "country": "Canada",
+    "city": "Island Lake",
+    "lat": 53.8572,
+    "lon": -94.6536,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Island Lake Airport serves the remote Island Lake community in northern Manitoba, providing a critical air link for several surrounding First Nations communities including Garden Hill and Wasagamack. As a medium-sized airport with no permanent all-weather road connecting it to the rest of the province, it is a lifeline for passengers, mail, and medical evacuations. The airport handles scheduled regional flights and is especially busy during seasonal transitions when winter and ice roads are not operational.",
+  "faqs": "Q: What airlines fly to Island Lake Airport?\nA: Calm Air and Perimeter Aviation provide scheduled passenger service, primarily connecting Island Lake to Winnipeg James Armstrong Richardson International Airport.\n\nQ: Are there road connections to Island Lake?\nA: No permanent all-weather road exists; the community is accessible mainly by air year-round and by winter or ice roads during the colder months.\n\nQ: Does the airport have customs or immigration facilities?\nA: No, Island Lake Airport is a domestic airport serving only flights within Canada and does not have customs or immigration services.\n\nQ: What is the airport used for besides passenger travel?\nA: The airport supports medical evacuations, cargo deliveries, mail service, and government operations for the surrounding remote communities.\n\n",
+  "transport_tips": "The airport is a short drive from the Island Lake community centre, and local taxi services or pre-arranged rides are the most common way to reach it. Passengers should confirm flight times in advance, as weather-related delays are common in northern Manitoba. There is no public transit serving the airport, so arranging ground transport ahead of time is recommended.",
+  "local_tip": "Bring a warm layer and patience when traveling in winter; the small terminal can get quite cold and flights are",
+  "generatedAt": "2026-06-29T10:42:38.279Z",
+  "model": "MiniMax-M3"
+}

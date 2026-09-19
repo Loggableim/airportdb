@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RBD",
+    "icao": "KRBD",
+    "name": "Dallas Executive Airport",
+    "country": "United States",
+    "city": "Dallas",
+    "lat": 32.6809,
+    "lon": -96.8682,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Dallas Executive Airport (RBD) is a general aviation facility located about 7 miles south of downtown Dallas, Texas. Originally known as Redbird Airport, the field has roots as a World War II-era military training base before transitioning to civilian use. Today it serves corporate aviation, private pilots, and flight training, operating alongside the much larger Dallas Love Field and DFW International.",
+  "faqs": "Q: What is Dallas Executive Airport primarily used for?\nA: RBD serves general aviation, including private and corporate aircraft, flight training, and air charter operations rather than scheduled commercial passenger service.\n\nQ: Is Dallas Executive Airport the same as Redbird Airport?\nA: Yes, RBD was formerly known as Redbird Airport and was renamed to Dallas Executive Airport to better reflect its role as a business and general aviation facility.\n\nQ: How far is RBD from central Dallas?\nA: The airport is located approximately 7 miles south of downtown Dallas, making it a convenient option for travelers heading into the city center.\n\nQ: Does Dallas Executive Airport have an air traffic control tower?\nA: Yes, the airport operates a control tower during published hours to manage the mix of general aviation traffic in the busy Dallas airspace.\n\n",
+  "transport_tips": "Driving is the most practical way to reach RBD, with easy access from Interstate 20 and US Highway 67. Ride-share services like Uber and Lyft operate in the area, though wait times can be longer than at major commercial airports. On-site rental cars and FBO-based ground transportation are available for arriving passengers.",
+  "local_tip": "If you're picking up or dropping off a passenger, use the airport's fixed-base operators (FBOs) on the field for short-term parking and lounge access rather than circling the general terminal area, which is primarily geared toward flight operations.",
+  "generatedAt": "2026-06-26T23:45:47.352Z",
+  "model": "MiniMax-M3"
+}

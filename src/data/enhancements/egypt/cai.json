@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CAI",
+    "icao": "HECA",
+    "name": "Cairo International Airport",
+    "country": "Egypt",
+    "city": "Cairo",
+    "lat": 30.1115,
+    "lon": 31.3967,
+    "type": "large_airport",
+    "size": 51675
+  },
+  "summary": "Cairo International Airport (CAI) is Egypt's busiest and largest airport, serving as the primary gateway to Cairo and a major hub for travel across Africa and the Middle East. It operates multiple terminals and serves as the main hub for EgyptAir, handling tens of millions of passengers annually. The airport is strategically located approximately 15 kilometers northeast of downtown Cairo, providing access to iconic sites including the Pyramids of Giza and the Nile.",
+  "faqs": "Q: How far is Cairo International Airport from the city center?\nA: The airport is approximately 15-20 km northeast of downtown Cairo, with travel times typically ranging from 30 to 60 minutes depending on traffic.\n\nQ: Which airlines operate from Cairo International Airport?\nA: EgyptAir uses the airport as its main hub, and it is served by numerous international carriers including Lufthansa, Emirates, Turkish Airlines, British Airways, and Qatar Airways, among many others.\n\nQ: How many terminals does Cairo International Airport have?\nA: The airport has three main operational terminals (Terminal 1, Terminal 2, and Terminal 3), with Terminal 3 being the newest and most modern, primarily serving EgyptAir and Star Alliance flights.\n\nQ: Is there a metro connection to the airport?\nA: Yes, Cairo Metro Line 3 has a station serving the airport, providing an affordable connection to downtown Cairo and other parts of the city.\n\n",
+  "transport_tips": "Cairo Metro Line 3 offers a budget-friendly and traffic-free connection to central Cairo, with trains running frequently throughout the day. Taxis and ride-hailing apps like Uber and Careem are widely available, though you should confirm the fare or ensure the meter is running before departing. Allow extra travel time during rush hours, as Cairo traffic can be unpredictable and significantly affect your journey.",
+  "local_tip": "If you have a long lay",
+  "generatedAt": "2026-06-28T15:38:34.400Z",
+  "model": "MiniMax-M3"
+}

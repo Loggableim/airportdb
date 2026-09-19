@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SOM",
+    "icao": "SVST",
+    "name": "San Tomé Airport",
+    "country": "Venezuela",
+    "city": "El Tigre",
+    "lat": 8.9451,
+    "lon": -64.1511,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "San Tomé Airport (SOM/SVST) is a medium-sized regional airport serving El Tigre in Anzoátegui state, northeastern Venezuela. It primarily handles traffic related to the surrounding oil-producing region of the Orinoco Belt, supporting both commercial flights and aviation operations linked to the petroleum industry. The airport provides an important gateway to this hydrocarbon-rich area and serves as a convenient hub for travelers visiting eastern Venezuela.",
+  "faqs": "Q: Where is San Tomé Airport located?\nA: The airport is situated near the city of El Tigre in Anzoátegui state, in northeastern Venezuela, in the heart of one of the country's most important oil-producing regions.\n\nQ: What is the airport primarily used for?\nA: Beyond scheduled passenger service, it supports significant aviation activity tied to the petroleum industry, including charter and corporate flights serving oil operations in the Orinoco Belt.\n\nQ: Are there international flights from San Tomé Airport?\nA: The airport mainly handles domestic routes, primarily connecting El Tigre with Caracas and other major Venezuelan cities.\n\nQ: What facilities are available at the terminal?\nA: As a medium-sized regional facility, it offers basic passenger amenities typical of Venezuelan domestic airports, though services are generally limited compared to larger hubs.",
+  "transport_tips": "The airport is located a short drive from central El Tigre, with taxis and private transfers being the most reliable options for ground transportation. Rental cars are available but may require advance booking, and rideshare services are not well established in the area. Travelers should arrange ground transport in advance, especially for early morning or late evening flights, as options diminish outside business hours.",
+  "local_tip": "If you have time between flights, ask a local for directions to a nearby empanada stand — Anzoátegui state is famous for its fried corn empanadas, which are a staple quick meal among oil workers passing through the terminal. Carry small cash in Venezuelan bolívar notes, as many small vendors and even some taxi drivers prefer cash and may struggle to make change for larger denominations.",
+  "generatedAt": "2026-06-29T13:39:53.792Z",
+  "model": "MiniMax-M3"
+}

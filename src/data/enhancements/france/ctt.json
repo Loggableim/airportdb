@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CTT",
+    "icao": "LFMQ",
+    "name": "Le Castellet Airport",
+    "country": "France",
+    "city": "Le Castellet, Var",
+    "lat": 43.2525,
+    "lon": 5.7852,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Le Castellet Airport is a medium-sized general aviation facility serving the Provençal hinterland between Marseille and Toulon. It sits in the heart of the Bandol wine region and is best known as the gateway to the famous Paul Ricard Circuit at nearby Le Castellet, which hosts motorsport events and track days. The airport handles primarily private, business, and recreational aviation, catering to visitors exploring the Côte d'Azur's interior.",
+  "faqs": "Q: How far is Le Castellet Airport from Marseille?\nA: The airport is approximately 40 km east of Marseille, roughly a 45-minute drive via the A50 autoroute.\n\nQ: Does Le Castellet Airport handle commercial flights?\nA: No, it is dedicated to general aviation, business jets, and private aircraft with no scheduled commercial service.\n\nQ: What is the airport best known for?\nA: It is closely associated with the Paul Ricard Circuit (Circuit Paul Ricard) at Le Castellet, a legendary motorsport venue that hosts Formula 1, GT racing, and driving experiences.\n\nQ: Are there car rental facilities at the airport?\nA: Rental cars are typically arranged in advance through providers in the region, as on-site rental counters are limited.",
+  "transport_tips": "A private vehicle is by far the most practical way to reach the airport, with the A50 autoroute providing direct access from Marseille and Toulon. Taxi services can be pre-booked from nearby towns like Le Beausset, Bandol, or La Ciotat, though availability is limited without advance notice. There are no regular public bus routes serving the airfield itself.",
+  "local_tip": "If you have time before a flight, drive five minutes to the hilltop village of Le Castellet for artisan shops, panoramic views, and a glass of local Bandol rosé at a café overlooking the valley.",
+  "generatedAt": "2026-06-26T07:55:01.061Z",
+  "model": "MiniMax-M3"
+}

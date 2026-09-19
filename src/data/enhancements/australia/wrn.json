@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WRN",
+    "icao": "YWDG",
+    "name": "Windarling Airport",
+    "country": "Australia",
+    "city": "Windarling Mine",
+    "lat": -30.0323,
+    "lon": 119.3865,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Windarling Airport (WRN/YWDG) is a small private aerodrome serving the remote Windarling Iron Ore Mine in Western Australia's Mid West region. The airport primarily supports FIFO (fly-in fly-out) mining operations and occasional charter flights, sitting in the arid landscape of the Yilgarn Shire. It functions as a vital logistics link for one of Mount Gibson Iron's key hematite mining operations.",
+  "faqs": "Q: What is Windarling Airport used for?\nA: The airport primarily serves the Windarling Iron Ore Mine, providing FIFO transport for workers and occasional charter and medevac flights.\n\nQ: Is Windarling Airport open to the public?\nA: No, it is a private aerodrome serving mining operations and is not available for public or general aviation use without prior arrangement.\n\nQ: Where exactly is the airport located?\nA: It is situated near the Windarling Range in the Mid West region of Western Australia, approximately 130 km north of Southern Cross.\n\nQ: Are there regular scheduled flights?\nA: No scheduled commercial services operate here; flights are typically chartered or roster-based FIFO services from Perth.",
+  "transport_tips": "Access to Windarling Airport is almost exclusively via chartered FIFO flights, usually originating from Perth, approximately 500 km to the southwest. There are no public road transport options to the airport, and ground access to the mine site requires authorized mine vehicles. Visitors must arrange transport through the mine operator or charter company in advance.",
+  "local_tip": "Pack a light jacket even in summer—despite the hot outback conditions, early morning FIFO flights out of Windarling can be surprisingly chilly due to the high elevation and clear desert skies before sunrise.",
+  "generatedAt": "2026-06-28T10:31:21.384Z",
+  "model": "MiniMax-M3"
+}

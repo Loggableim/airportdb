@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DRS",
+    "icao": "EDDC",
+    "name": "Dresden Airport",
+    "country": "Germany",
+    "city": "Dresden",
+    "lat": 51.1341,
+    "lon": 13.7678,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Dresden Airport (DRS) is the international gateway to Dresden, the capital of Saxony in eastern Germany, located approximately 9 km north of the city center. Serving the Dresden metropolitan area and surrounding region, the airport features a modern single terminal handling both domestic and European flights. It provides convenient access to cultural attractions such as the Zwinger Palace, the Frauenkirche, and the Semperoper.",
+  "faqs": "Q: How far is Dresden Airport from the city center?\nA: The airport is located about 9 km north of Dresden's city center, with a typical journey time of 20-30 minutes by car or train.\n\nQ: Is there public transportation to Dresden Airport?\nA: Yes, the S-Bahn line S2 connects the airport directly to Dresden Hauptbahnhof (main station), with frequent service throughout the day. Several regional buses also serve the airport.\n\nQ: How many terminals does Dresden Airport have?\nA: The airport operates with a single terminal, making navigation straightforward for travelers.\n\nQ: Does Dresden Airport offer international flights?\nA: Yes, the airport serves various European destinations including cities like Frankfurt, Munich, Zurich, and Amsterdam, as well as seasonal leisure routes.",
+  "transport_tips": "The S-Bahn line S2 is the most cost-effective way to reach Dresden city center, taking about 20 minutes to Hauptbahnhof. Taxis and ride-shares are available outside the terminal and typically cost around 25-30 EUR for the city center journey. If traveling by car, the A4 and A13 motorways provide quick access to the airport.",
+  "local_tip": "If you have a few hours between flights, consider visiting the airport's viewing terrace or stepping out to the nearby 'Klotzsche' area for a coffee—it's a quiet residential neighborhood that gives you a feel for everyday Dresden life away from the tourist crowds.",
+  "generatedAt": "2026-06-28T19:20:42.590Z",
+  "model": "MiniMax-M3"
+}

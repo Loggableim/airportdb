@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NOB",
+    "icao": "MRNS",
+    "name": "Nosara Airport",
+    "country": "Costa Rica",
+    "city": "Nicoya",
+    "lat": 9.9765,
+    "lon": -85.653,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Nosara Airport is a small regional airport on Costa Rica's Nicoya Peninsula, serving the popular surf and yoga destinations of Nosara and Playa Guiones. The airport is known for its scenic approach over lush tropical terrain but is also susceptible to weather-related delays. It primarily handles domestic commuter flights from the capital.",
+  "faqs": "Q: What airlines fly to Nosara Airport?\nA: Regional carriers such as Sansa and other domestic operators run scheduled flights to Nosara, mostly from San José.\n\nQ: Why are flights sometimes canceled to Nosara?\nA: Early morning fog and low visibility are common causes of delays or cancellations, as the surrounding mountains and tropical forest trap moisture overnight.\n\nQ: Are there international flights to Nosara?\nA: No, the airport only handles domestic flights; international travelers typically connect through San José or Liberia.\n\nQ: How long is the drive from the airport to the beach?\nA: The short drive to Playa Guiones and the Nosara area typically takes around 5 to 10 minutes by car.",
+  "transport_tips": "Pre",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T16:44:54.301Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SDU",
+    "icao": "SBRJ",
+    "name": "Santos Dumont Airport",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "lat": -22.9104,
+    "lon": -43.1628,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Santos Dumont Airport sits on a small peninsula jutting into Guanabara Bay in the heart of downtown Rio de Janeiro, making it one of the most centrally located airports in the world. Named after Brazilian aviation pioneer Alberto Santos Dumont, it primarily handles domestic flights and is a key hub for shuttle services to São Paulo. The airport offers stunning aerial views of Sugarloaf Mountain, Christ the Redeemer, and Guanabara Bay during takeoff and landing.",
+  "faqs": "Q: How far is Santos Dumont Airport from Copacabana?\nA: About 8 km (5 miles), typically a 15-20 minute drive depending on traffic.\n\nQ: Does Santos Dumont Airport have international flights?\nA: No, international flights operate from Galeão (Tom Jobim) Airport. Santos Dumont handles domestic routes only.\n\nQ: What is the fastest way to get from Santos Dumont to the city center?\nA: The VLT (light rail) connects the airport directly to downtown Rio, with stations near major hotels and attractions.\n\nQ: Can I see Sugarloaf Mountain from the airport?\nA: Yes, the airport's location on Guanabara Bay offers excellent views of Sugarloaf Mountain and the surrounding coastline.",
+  "transport_tips": "The VLT light rail is the most convenient option, stopping right at the airport terminal and connecting to downtown, the ferry terminal to Niterói, and the metro at Cinelândia. Taxis and ride-shares are readily available but can be slow during rush hours. If heading to Galeão (GIG) for an international connection, allow at least 2 hours as the airports are on opposite sides of the city.",
+  "local_tip": "Request a window seat on the left side of the aircraft for the most spectacular views of Sugarloaf Mountain and Christ the Redeemer statue during landing or takeoff on clear days.",
+  "generatedAt": "2026-06-28T18:46:05.015Z",
+  "model": "MiniMax-M3"
+}

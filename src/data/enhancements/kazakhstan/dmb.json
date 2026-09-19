@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DMB",
+    "icao": "UADD",
+    "name": "Taraz International Airport",
+    "country": "Kazakhstan",
+    "city": "Taraz",
+    "lat": 42.8536,
+    "lon": 71.3036,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Taraz International Airport serves the ancient city of Taraz in southern Kazakhstan, a historical hub along the Silk Road with over 2,000 years of heritage. The airport connects this culturally rich region with major Kazakhstani cities such as Almaty and Astana, as well as select international destinations including Russia. It serves as the primary gateway for visitors exploring nearby UNESCO-listed sites like the Aisha Bibi mausoleum.",
+  "faqs": "Q: How far is Taraz International Airport from the city center?\nA: The airport is located approximately 10 km northeast of downtown Taraz, with typical taxi rides taking around 15–20 minutes depending on traffic.\n\nQ: What airlines operate from Taraz International Airport?\nA: The airport is primarily served by domestic carriers such as SCAT Airlines and Qazaq Air, with occasional international flights to destinations in Russia.\n\nQ: Does the airport offer international flights?\nA: Yes, Taraz International Airport handles limited international flights, mainly to Russian cities like Moscow, alongside its regular domestic service.\n\nQ: Are there currency exchange and ATM services at the airport?\nA: Yes, basic banking services including currency exchange and ATMs are available in the terminal for arriving and departing passengers.",
+  "transport_tips": "Taxis are the most common way to reach the city center; agree on a fare before departing since meters are not always used. Official airport taxis and pre-booked transfer services offer the most reliable pricing. Local marshrutka (minibus) routes also connect the airport to central Taraz for budget-conscious travelers.",
+  "local_tip": "If you have a layover or extra time, the nearby Aisha Bibi and Babaji Khatun mausoleums are stunning 11th-century architectural gems just a short drive from the airport—well worth a half-day detour.",
+  "generatedAt": "2026-06-29T01:21:04.678Z",
+  "model": "MiniMax-M3"
+}

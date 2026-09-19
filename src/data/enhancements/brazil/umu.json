@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UMU",
+    "icao": "SSUM",
+    "name": "Orlando de Carvalho Airport",
+    "country": "Brazil",
+    "city": "Umuarama",
+    "lat": -23.7987,
+    "lon": -53.3138,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Orlando de Carvalho Airport serves the city of Umuarama in northwestern Paraná state, Brazil. It functions as a small regional airport supporting general aviation and limited commercial connectivity for this inland agricultural hub. The facility is named after a local aviation figure and provides essential access to a region known for coffee, soy, and cattle production.",
+  "faqs": "Q: What is the IATA code for Orlando de Carvalho Airport?\nA: The IATA code is UMU, and the ICAO code is SSUM.\n\nQ: Where is Orlando de Carvalho Airport located?\nA: It is located in Umuarama, in the northwestern part of Paraná state, Brazil.\n\nQ: What type of airport is UMU?\nA: It is classified as a small airport, primarily serving regional and general aviation traffic.\n\nQ: Does the airport offer international flights?\nA: No, the airport handles only domestic regional flights and general aviation operations.\n\n",
+  "transport_tips": "The airport is located just a few kilometers from Umuarama's city center, making taxi and rideshare trips short and affordable. Local buses and pre-arranged private transfers are also commonly used by passengers. Rental cars can be arranged through agencies in town, as on-site car rental desks are limited.",
+  "local_tip": "Umuarama sits near the famous Parque Nacional de Iguaçu border region—ask at local agencies about combining a regional flight with a trip to the spectacular Iguaçu Falls, one of South America's most breathtaking natural wonders.",
+  "generatedAt": "2026-06-26T21:45:18.625Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XMD",
+    "icao": "KMDS",
+    "name": "Madison Municipal Airport",
+    "country": "United States",
+    "city": "Madison",
+    "lat": 44.016,
+    "lon": -97.0859,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Madison Municipal Airport is a small general aviation airport serving Madison, South Dakota, a city in the eastern part of the state. The facility primarily supports private aircraft, flight training, and recreational flying rather than commercial airline service. It features a single asphalt runway and provides essential aviation resources for the local community and surrounding Lake County region.",
+  "faqs": "Q: Does Madison Municipal Airport offer commercial flights?\nA: No, this is a general aviation airport with no scheduled commercial airline service. Travelers would need to use larger regional airports for commercial flights.\n\nQ: What facilities are available at the airport?\nA: The airport features a runway suitable for small aircraft, tie-down areas, and basic services for general aviation pilots. Amenities are limited compared to commercial airports.\n\nQ: Can I fly into Madison Municipal Airport for a visit?\nA: Yes, private pilots can arrange landings at the airport, but prior permission or a flight plan may be advisable as it is a small facility without extensive staff.\n\nQ: What is the nearest commercial airport?\nA: Sioux Falls Regional Airport (FSD) is approximately 50 miles southeast and offers the closest commercial airline service to Madison.",
+  "transport_tips": "Since the airport has no commercial service, visitors typically arrive via ground transportation from Sioux Falls Regional Airport, about an hour's drive southeast via I-90 and US-81. Rental cars are the most practical option for reaching Madison from larger regional airports. Local taxi services or pre-arranged shuttles may be available but should be booked in advance.",
+  "local_tip": "If you're flying into Madison Municipal, call ahead or check the CTAF frequency, as this is an uncontrolled field with no tower—pilots self-announce their positions on the common traffic advisory frequency.",
+  "generatedAt": "2026-06-27T04:48:59.259Z",
+  "model": "MiniMax-M3"
+}

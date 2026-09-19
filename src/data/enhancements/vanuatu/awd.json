@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AWD",
+    "icao": "NVVB",
+    "name": "Aniwa Airport",
+    "country": "Vanuatu",
+    "city": "Aniwa",
+    "lat": -19.2346,
+    "lon": 169.6009,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Aniwa Airport is a small domestic airstrip serving Aniwa Island, a remote coral island in the Tafea Province of southern Vanuatu. It provides essential air access for the island's small population, connecting them to larger hubs like Tanna and Port Vila. The airport operates with minimal infrastructure typical of Vanuatu's outer island airstrips.",
+  "faqs": "Q: What airlines fly to Aniwa Airport?\nA: Air Vanuatu operates occasional scheduled flights to Aniwa, though services are limited and subject to change. Flights typically connect through nearby Tanna Island.\n\nQ: How long is the runway at Aniwa Airport?\nA: The airport has a short unpaved or minimally paved runway suitable only for small twin-engine aircraft, consistent with its low size score.\n\nQ: Are there facilities at the airport?\nA: Facilities are very basic, typically limited to a small terminal or shelter. There are no extensive amenities, and passengers should arrive prepared.\n\nQ: Can I travel from Aniwa to other Vanuatu islands by air?\nA: Yes, but connections often require routing through Tanna or Port Vila, and flight availability should be confirmed locally as schedules can be irregular.",
+  "transport_tips": "The airport is located on a small island, so reaching it from any settlement involves a short walk or local vehicle ride. There are no buses or taxis; residents typically greet arriving passengers directly. Plan for flexible scheduling as flights are infrequent and weather-dependent.",
+  "local_tip": "Aniwa Island is one of the most isolated communities in Vanuatu and retains a distinct Polynesian-influenced culture distinct from the Melanesian mainland. Visitors should bring small gifts or trade goods if visiting villages, and learning a few words in the local language is deeply appreciated.",
+  "generatedAt": "2026-06-26T17:58:47.022Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ARY",
+    "icao": "YARA",
+    "name": "Ararat Airport",
+    "country": "Australia",
+    "city": "Ararat",
+    "lat": -37.31,
+    "lon": 142.9887,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Ararat Airport is a regional airfield serving the town of Ararat in the Western District of Victoria, Australia. It primarily supports general aviation, flight training, and occasional charter operations. The airport features a single sealed runway and provides an important link for the local rural community and surrounding agricultural regions.",
+  "faqs": "Q: What is the airport code for Ararat Airport?\nA: The IATA code is ARY and the ICAO code is YARA.\n\nQ: What type of flights operate from Ararat Airport?\nA: The airport mainly handles general aviation, private aircraft, flight training, and occasional charter flights rather than scheduled commercial services.\n\nQ: Where is Ararat Airport located?\nA: It is situated near the town of Ararat in western Victoria, Australia, approximately 200 kilometres west of Melbourne.\n\nQ: Does the airport have a control tower?\nA: No, Ararat Airport operates as a non-towered aerodrome, with pilots using a Common Traffic Advisory Frequency (CTAF) for communications.\n\n",
+  "transport_tips": "Reaching Ararat Airport by road typically requires a private vehicle or taxi from the town centre, as there is no dedicated public transport route to the airfield. The airport is a short drive from Ararat along local roads. Travellers arriving by air usually arrange ground transport in advance, as on-site rental services are not typically available.",
+  "local_tip": "Ararat is part of Victoria's Grampians wine region, so plan a visit to nearby cellar doors after your flight to sample locally produced Shiraz and other cool-climate varieties.",
+  "generatedAt": "2026-06-26T10:12:17.669Z",
+  "model": "MiniMax-M3"
+}

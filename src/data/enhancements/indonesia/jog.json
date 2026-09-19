@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JOG",
+    "icao": "WAHH",
+    "name": "Adisutjipto International Airport",
+    "country": "Indonesia",
+    "city": "Yogyakarta",
+    "lat": -7.7882,
+    "lon": 110.432,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Adisutjipto International Airport (JOG) is a medium-sized airport located just a few kilometers east of Yogyakarta city center on the island of Java, Indonesia. Named after Indonesian Air Force Admiral Adisutjipto, it uniquely functions as a shared civilian-military facility. The airport serves as a key gateway to the cultural heart of Java, providing access to UNESCO sites like Borobudur and Prambanan.",
+  "faqs": "Q: How far is Adisutjipto Airport from Yogyakarta city center?\nA: The airport is approximately 7 km east of the city center, typically a 20-30 minute drive depending on traffic.\n\nQ: Does Adisutjipto Airport share facilities with a military base?\nA: Yes, it operates as a joint civilian-military airfield alongside the Indonesian Air Force, which is reflected in its ICAO code WAHH.\n\nQ: Is this the only airport serving Yogyakarta?\nA: No, the newer Yogyakarta International Airport (YIA) in Kulon Progo opened in 2020 and now handles most commercial flights, though Adisutjipto still operates selected routes and military aviation.\n\nQ: Are there international flights from JOG?\nA: Historically it served limited regional international routes to Malaysia and Singapore, but most international traffic has shifted to YIA.\n\n",
+  "transport_tips": "Official airport taxis and online ride-hailing services like Grab are readily available at designated pickup zones outside the terminal. Travelers heading to Borobudur or Prambanan can arrange direct transfers through hotel services or tour operators for convenience. Be aware that Yogyakarta's narrow streets can cause significant traffic delays during rush hours and holidays.",
+  "local_tip": "Frequent visitors recommend arriving early and using the domestic departure lounge's viewing area, which offers a close-up look at Indonesian Air Force aircraft movements alongside civilian operations—a rare glimpse not found at most commercial airports.",
+  "generatedAt": "2026-06-29T03:18:30.319Z",
+  "model": "MiniMax-M3"
+}

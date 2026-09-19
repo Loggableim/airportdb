@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CUI",
+    "icao": "",
+    "name": "Currillo Airport",
+    "country": "Colombia",
+    "city": "Currillo",
+    "lat": 4.6667,
+    "lon": -72,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Currillo Airport is a small regional airfield serving the municipality of Currillo in the Caquetá Department of Colombia. Nestled in the eastern plains region, it primarily supports light aircraft operations connecting this remote riverside community to larger Colombian cities. The airport plays a vital role in providing access to an area otherwise reached mainly by river transport along the Caquetá River.",
+  "faqs": "Q: What type of aircraft typically operates at Currillo Airport?\nA: The airport mainly handles small propeller aircraft and general aviation flights suitable for its short runway and remote location.\n\nQ: Are there scheduled commercial flights to Currillo?\nA: Service is limited and typically operated by small regional carriers; travelers should check current schedules as availability can be inconsistent.\n\nQ: Is Currillo Airport suitable for large jets?\nA: No, the airport's small size and basic infrastructure are designed for light aircraft only.\n\nQ: What is the nearest major city with commercial air service?\nA: Florencia, the capital of Caquetá Department, is the closest city with more regular commercial flight options.",
+  "transport_tips": "Ground transport from the airport is typically arranged locally, as there is no formal taxi rank or rideshare service. Travelers should coordinate pickup in advance with their accommodation or a local contact. The town center is a short drive from the airfield and easily reachable by motorcycle taxis or local vehicles.",
+  "local_tip": "Bring cash in small Colombian peso denominations, as ATMs in Currillo can be unreliable and many local businesses do not accept cards.",
+  "generatedAt": "2026-06-27T20:46:28.458Z",
+  "model": "MiniMax-M3"
+}

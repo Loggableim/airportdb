@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YYJ",
+    "icao": "CYYJ",
+    "name": "Victoria International Airport",
+    "country": "Canada",
+    "city": "Victoria",
+    "lat": 48.6472,
+    "lon": -123.4278,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Victoria International Airport (YYJ) is the primary aviation gateway to Vancouver Island, serving the provincial capital of British Columbia from its location in North Saanich, roughly 22 km north of downtown Victoria. The airport handles a mix of domestic, transborder, and seasonal international flights, functioning as a key hub for travellers heading to the island's resort destinations. Its single main terminal sits amid the scenic Saanich Peninsula, offering easy access to the Pacific coast, wine country, and the city of Victoria.",
+  "faqs": "Q: How far is Victoria International Airport from downtown Victoria?\nA: The airport is approximately 22 km (14 miles) north of downtown Victoria, with a typical drive taking 30-40 minutes depending on traffic.\n\nQ: Does YYJ offer international flights?\nA: Yes, the airport offers transborder flights to the United States and seasonal international service, alongside frequent domestic connections to cities like Vancouver, Calgary, and Toronto.\n\nQ: Are there customs and immigration facilities at YYJ?\nA: Yes, Canada Border Services Agency operates at the airport for both arriving international and transborder flights.\n\nQ: Can I fly between Victoria and Vancouver?\nA: Yes, YYJ has frequent short flights to Vancouver International Airport (YVR), with multiple daily departures operated by several carriers.",
+  "transport_tips": "The airport is served by BC Transit Route 83 which connects to the Victoria regional bus network, including an express service to downtown Victoria. Taxi and rideshare services are available at the arrivals curb, and rental car agencies operate on-site for travellers exploring Vancouver Island. Ferries nearby connect to the mainland, making it possible to combine air and sea travel for trips between Victoria and Vancouver.",
+  "local_tip": "If you have a longer layover or early arrival, consider visiting the nearby Butchart Gardens, just 10 minutes from the airport—it's a world-class floral attraction and a perfect way to start or end a Vancouver Island visit.",
+  "generatedAt": "2026-06-28T18:28:04.627Z",
+  "model": "MiniMax-M3"
+}

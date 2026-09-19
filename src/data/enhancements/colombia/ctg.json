@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CTG",
+    "icao": "SKCG",
+    "name": "Rafael Nuñez International Airport",
+    "country": "Colombia",
+    "city": "Cartagena",
+    "lat": 10.4424,
+    "lon": -75.513,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Rafael Núñez International Airport (CTG) is the main gateway to Cartagena de Indias, serving Colombia's premier Caribbean coastal destination. Named after Rafael Núñez, the 19th-century Colombian president and lyricist of the national anthem, the airport sits on the Crespo neighborhood just minutes from the historic walled city. It is one of Colombia's busiest airports, handling both significant domestic traffic and a growing volume of international flights from North and South America.",
+  "faqs": "Q: How far is Rafael Núñez Airport from Cartagena's old walled city?\nA: The airport is approximately 10 minutes by car from the Ciudad Amurallada (walled old city), making it one of the most conveniently located airports for visitors heading to the historic center.\n\nQ: Does the airport have international flights?\nA: Yes, CTG operates international flights to destinations in the United States, Panama, Canada, and other South American countries, alongside its robust domestic network.\n\nQ: How many terminals does the airport have?\nA: The airport operates from a single main terminal that handles both domestic and international arrivals and departures.\n\nQ: Is there a currency exchange or ATM at the airport?\nA: Yes, ATMs and currency exchange services are available in the terminal, though rates are generally better in the city.",
+  "transport_tips": "Official yellow taxis are available just outside the terminal and offer fixed or metered fares to the old city and Bocagrande; agree on the fare before departing. Ride-hailing apps like Uber and inDrive operate in Cartagena and can be cheaper than taxis, with designated pickup zones outside the airport. For budget travelers, city buses pass along the road in front of the airport and connect to central Cartagena, though they are less convenient with luggage.",
+  "local_tip": "The small but pleasant outdoor terrace near some of the gates offers a nice spot to watch planes and catch the Caribbean breeze between flights, a rare feature for a regional airport.",
+  "generatedAt": "2026-06-28T19:03:09.067Z",
+  "model": "MiniMax-M3"
+}

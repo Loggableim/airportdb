@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YYC",
+    "icao": "CYYC",
+    "name": "Calgary International Airport",
+    "country": "Canada",
+    "city": "Calgary",
+    "lat": 51.1188,
+    "lon": -114.0099,
+    "type": "large_airport",
+    "size": 51275
+  },
+  "summary": "Calgary International Airport (YYC) is the busiest airport in the Canadian province of Alberta and the fourth-b busiest in Canada, serving as a major hub for WestJet and Air Canada. Located about 17 km northeast of downtown Calgary, it acts as the primary gateway to the Canadian Rocky Mountains, including Banff and Jasper. The airport features a modern integrated terminal complex with four runways and is recognized for its efficient passenger processing and impressive art collection.",
+  "faqs": "Q: How far is Calgary International Airport from downtown Calgary?\nA: The airport is approximately 17 km (about 11 miles) northeast of downtown Calgary, typically a 25-35 minute drive depending on traffic.\n\nQ: Which airlines use Calgary International Airport as a hub?\nA: WestJet has its main hub at YYC, and Air Canada also operates significant connecting traffic through Calgary.\n\nQ: Does Calgary Airport have direct flights to international destinations?\nA: Yes, YYC offers nonstop flights to numerous international destinations in the US, Mexico, the Caribbean, Europe, and Asia.\n\nQ: Is there a hotel directly connected to the airport?\nA: Yes, the Calgary Airport Marriott In-Terminal Hotel is connected directly to the terminal via a covered walkway, and several other hotels offer shuttle service nearby.\n\n",
+  "transport_tips": "The Calgary Transit Route 300 bus provides affordable service between the airport and downtown Calgary, with a travel time of around 45 minutes. Taxis and rideshare services like Uber are readily available at designated pickup areas on the arrivals level. For those traveling to the Rocky Mountains, rental cars are recommended, with all major rental agencies located on-site, though winter tires are advisable from October to April.",
+  "local_tip": "If you have a layover or early arrival, the airport's Concourse A features a permanent collection of Alberta artwork, including a stunning collection of glass sculptures by renowned artist Judy Rasmussen—worth exploring if you have time to spare between gates.",
+  "generatedAt": "2026-06-28T15:41:45.800Z",
+  "model": "MiniMax-M3"
+}

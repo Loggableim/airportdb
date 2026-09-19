@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WVI",
+    "icao": "KWVI",
+    "name": "Watsonville Municipal Airport",
+    "country": "United States",
+    "city": "Watsonville",
+    "lat": 36.9357,
+    "lon": -121.79,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Watsonville Municipal Airport is a general aviation facility serving the city of Watsonville in Santa Cruz County, California. Located in the fertile Pajaro Valley near Monterey Bay, it primarily supports private aircraft, flight training, and agricultural aviation operations. The airport is surrounded by some of the region's most productive farmland, particularly known for berry cultivation.",
+  "faqs": "Q: What type of airport is Watsonville Municipal?\nA: It is a small general aviation airport serving private pilots, flight schools, and agricultural aircraft, with no scheduled commercial airline service.\n\nQ: Where is the airport located relative to nearby cities?\nA: The airport sits about 5 miles inland from Monterey Bay, roughly 20 miles south of Santa Cruz and 25 miles northeast of Monterey.\n\nQ: Are there flight training schools at WVI?\nA: Yes, the airport hosts flight training operations and is a popular location for student pilots due to its coastal California flying conditions.\n\nQ: Does the airport have an air traffic control tower?\nA: Operations are conducted under uncontrolled or CTAF procedures, so pilots self-announce on the common frequency rather than communicating with a tower.",
+  "transport_tips": "The airport is most easily reached by car, located just off Highway 1 near downtown Watsonville. Ride-sharing services and taxis are available but limited, so arranging ground transportation in advance is recommended. Free parking is available on-site for those picking up or dropping off private aircraft passengers.",
+  "local_tip": "Visitors landing here should plan time to explore the nearby beaches along Monterey Bay or visit the Santa Cruz Mountains wineries, both within a short drive from the airport.",
+  "generatedAt": "2026-06-26T23:31:24.357Z",
+  "model": "MiniMax-M3"
+}

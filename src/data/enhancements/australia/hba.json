@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HBA",
+    "icao": "YMHB",
+    "name": "Hobart International Airport",
+    "country": "Australia",
+    "city": "Hobart (Cambridge)",
+    "lat": -42.837,
+    "lon": 147.513,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Hobart International Airport (HBA) is the primary aviation gateway to Tasmania, located in Cambridge about 17 km northeast of Hobart's city centre on the eastern shore of the Derwent River estuary. Originally established as a smaller wartime airfield, it has grown into Tasmania's busiest airport, handling more than two million passengers annually. The airport serves as a key hub for domestic services to mainland Australia and has hosted seasonal international flights, while also functioning as a logistical staging point for Antarctic operations.",
+  "faqs": "Q: How far is Hobart Airport from the city centre?\nA: The airport is approximately 17 km northeast of Hobart's central business district, typically a 20–25 minute drive via the Tasman Highway.\n\nQ: Does Hobart Airport have international flights?\nA: International services are limited but seasonal flights have operated to destinations including Christchurch and Auckland. Most international travellers connect via Melbourne or Sydney.\n\nQ: How many terminals does the airport have?\nA: Hobart Airport operates a single, modern passenger terminal that handles both domestic and international flights.\n\nQ: Is there free Wi-Fi available?\nA: Yes, complimentary Wi-Fi is available throughout the terminal for all passengers.",
+  "transport_tips": "The Skyroad Hobart Airport Shuttle Bus offers a regular, affordable service between the terminal and the Hobart CBD with several city stops. Ride-share services, taxis, and major rental car operators are all available on-site, and the airport offers short-term and long-term parking directly opposite the terminal.",
+  "local_tip": "If you have a short layover or early arrival, head to the viewing area near the terminal for a chance to spot kunanyi/Mount Wellington rising behind the airport, often dusted in snow during winter, and ask at the information desk about same-day MONA ferry shuttles that connect directly to the airport.",
+  "generatedAt": "2026-06-28T19:22:45.385Z",
+  "model": "MiniMax-M3"
+}

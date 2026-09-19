@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CDN",
+    "icao": "KCDN",
+    "name": "Woodward Field",
+    "country": "United States",
+    "city": "Camden",
+    "lat": 34.2836,
+    "lon": -80.5649,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Woodward Field is a small general aviation airport serving Camden, South Carolina, a town renowned for its deep equestrian heritage and the famous Carolina Cup steeplechase races. The facility primarily supports private aircraft, flight training, and charter operations for visitors attending the area's prominent horse-related events. Its location in the rolling midlands of South Carolina makes it a convenient gateway for travelers exploring the historic Camden district and surrounding Kershaw County.",
+  "faqs": "Q: What type of airport is Woodward Field?\nA: It is a small general aviation airport serving private, charter, and training flights, with no scheduled commercial airline service.\n\nQ: Who typically uses Woodward Field?\nA: The airport primarily serves private pilots, flight training students, and visitors traveling to Camden for equestrian events such as the Carolina Cup and Colonial Cup steeplechase races.\n\nQ: Are there rental cars available at the airport?\nA: Rental car availability is limited; visitors typically arrange ground transportation in advance through local providers or hotels in Camden.\n\nQ: Does the airport have a control tower?\nA: No, Woodward Field is a non-towered airport operating under standard uncontrolled field procedures with common traffic advisory frequency.\n\n",
+  "transport_tips": "Camden is a short drive from the airport, typically reachable within 10 to 15 minutes by car. Rental cars can be arranged through regional agencies, and many local hotels offer shuttle services for guests, especially during major equestrian event weekends. On-site parking is available for those arriving by private vehicle to pick up pilots or passengers.",
+  "local_tip": "Time your visit around the Carolina Cup in late March or the Colonial Cup in November to experience Camden's celebrated steeplechase racing culture at its peak.",
+  "generatedAt": "2026-06-27T19:06:40.300Z",
+  "model": "MiniMax-M3"
+}

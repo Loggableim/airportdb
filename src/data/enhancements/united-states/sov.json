@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SOV",
+    "icao": "PASO",
+    "name": "Seldovia Airport",
+    "country": "United States",
+    "city": "Seldovia",
+    "lat": 59.443,
+    "lon": -151.7052,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Seldovia Airport (SOV) is a small public-use airport serving the remote coastal community of Seldovia on the southern Kenai Peninsula in Alaska. The airport provides essential connectivity for residents and visitors to this isolated village, which is accessible by road only via a long, winding journey or by the nearby ferry terminal. Its single runway supports general aviation and scheduled commuter flights linking Seldovia to Homer and Anchorage.",
+  "faqs": "Q: What is Seldovia Airport used for?\nA: It primarily serves general aviation, charter flights, and scheduled commuter service connecting Seldovia to nearby Homer and Anchorage, supporting both residents and tourists visiting the Kenai Peninsula.\n\nQ: Where is Seldovia Airport located?\nA: The airport is situated near the small community of Seldovia on the southern shore of Kachemak Bay in Alaska, overlooking scenic coastal terrain.\n\nQ: Are there commercial flights to Seldovia?\nA: Yes, small commuter airlines operate scheduled service to Seldovia, typically using small propeller aircraft suitable for the short, rural runway.\n\nQ: Is the airport open year-round?\nA: Seldovia Airport operates throughout the year, though weather conditions in the region can occasionally affect flight schedules, especially during winter months.",
+  "transport_tips": "Many travelers reach Seldovia via a short flight from Homer, which is a common connection point from Anchorage. Rental cars and taxis are available at Homer Airport for those connecting onward. If arriving by plane into Seldovia, the town center is only a short drive from the airport, and local taxis or pre-arranged shuttles can meet incoming flights.",
+  "local_tip": "Book the earliest morning flight when possible—afternoon coastal winds in Kachemak Bay often build up and can cause delays or cancellations on smaller aircraft.",
+  "generatedAt": "2026-06-26T19:40:37.636Z",
+  "model": "MiniMax-M3"
+}

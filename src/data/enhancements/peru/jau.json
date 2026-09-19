@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JAU",
+    "icao": "SPJJ",
+    "name": "Francisco Carle Airport",
+    "country": "Peru",
+    "city": "Jauja",
+    "lat": -11.7831,
+    "lon": -75.4734,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Francisco Carle Airport serves the historic city of Jauja in Peru's Junín Region, situated in the central Andean highlands at an elevation of approximately 11,000 feet. Jauja holds significant historical importance as the provisional first capital of Peru before the seat of government moved to Lima. The airport primarily handles domestic flights and serves as an alternative gateway to the Mantaro Valley region.",
+  "faqs": "Q: What is the elevation of Francisco Carle Airport?\nA: The airport sits at a high altitude of roughly 11,000 feet (3,350 meters) above sea level, typical of Andean airports in central Peru.\n\nQ: Which airlines operate at Francisco Carle Airport?\nA: The airport is primarily served by small domestic carriers operating regional flights within Peru, though service can be limited and seasonal.\n\nQ: Is Jauja near any major tourist destinations?\nA: Yes, Jauja is close to Huancayo and the Mantaro Valley, and within reasonable distance of the Junín pampa, a significant historical and natural area.\n\nQ: Can the airport handle international flights?\nA: No, Francisco Carle Airport is a medium-sized domestic facility without regular international service.",
+  "transport_tips": "The airport is located just a few kilometers from Jauja's town center, making taxi rides quick and inexpensive. Shared taxis and mototaxis are commonly available outside the terminal for short-distance travel. For travelers heading to Huancayo or other Mantaro Valley destinations, ground transportation by bus or private hire from Jauja is the most practical option.",
+  "local_tip": "Due to the high altitude, take it easy upon arrival—stay hydrated, avoid heavy meals, and consider drinking coca tea to help acclimatize before exploring the surrounding highlands.",
+  "generatedAt": "2026-06-29T22:32:28.984Z",
+  "model": "MiniMax-M3"
+}

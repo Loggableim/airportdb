@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SLM",
+    "icao": "LESA",
+    "name": "Salamanca Airport",
+    "country": "Spain",
+    "city": "Salamanca",
+    "lat": 40.9521,
+    "lon": -5.502,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Salamanca Airport (SLM) is a regional airport serving the historic university city of Salamanca in western Spain's Castilla y León region. The airport primarily handles domestic and seasonal flights, acting as a gateway to one of Europe's oldest university towns and a UNESCO World Heritage Site renowned for its golden sandstone architecture. It plays a key role in supporting tourism to this culturally significant destination.",
+  "faqs": "Q: What destinations can I fly to from Salamanca Airport?\nA: Salamanca Airport primarily offers domestic flights to Spanish cities such as Madrid and Barcelona, with some seasonal routes. International service is limited, with most international travelers connecting through Madrid Barajas.\n\nQ: How far is Salamanca Airport from the city center?\nA: The airport is located approximately 15 kilometers (9 miles) east of Salamanca's historic center, with a typical journey time of around 20-25 minutes by car or bus.\n\nQ: Does the airport operate year-round?\nA: Yes, the airport is operational throughout the year, though flight frequency may vary seasonally with increased service during peak tourism months in spring and summer.\n\nQ: What facilities are available at the airport?\nA: The terminal provides basic amenities including a café, car rental services, a small shop, and parking. As a medium-sized regional airport, facilities are more limited than at major Spanish hubs.",
+  "transport_tips": "A regular bus service connects the airport to Salamanca's city center, offering an affordable option for travelers. Taxis are available outside the terminal and provide a quick 20-minute ride to the Plaza Mayor in the historic center. Car rental agencies operate at the airport, which is useful for exploring the wider Castilla y León region.",
+  "local_tip": "Time your visit to catch the golden hour light on Salamanca's sandstone buildings—the city is famous for its warm, honey-colored facades that glow spectacularly at sunset, making a post-flight evening walk through the historic center an unforgettable start to your trip.",
+  "generatedAt": "2026-06-29T08:29:25.618Z",
+  "model": "MiniMax-M3"
+}

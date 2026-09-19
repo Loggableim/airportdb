@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PTP",
+    "icao": "TFFR",
+    "name": "Maryse Condé International Airport",
+    "country": "Guadeloupe",
+    "city": "Pointe-à-Pitre",
+    "lat": 16.2654,
+    "lon": -61.5328,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Maryse Condé International Airport (PTP) is the primary gateway to Guadeloupe, located near Pointe-à-Pitre on the island of Grande-Terre. The airport was renamed in 2024 in honor of the celebrated Guadeloupean writer Maryse Condé, reflecting the territory's rich cultural heritage. It serves as a major hub for inter-Caribbean travel and connections to mainland France.",
+  "faqs": "Q: How far is the airport from Pointe-à-Pitre city center?\nA: The airport is approximately 3 km (2 miles) northeast of Pointe-à-Pitre, making it a quick 10-minute drive under normal traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, PTP handles international flights primarily to mainland France (Paris), other Caribbean islands, Canada, and the United States.\n\nQ: Are there currency exchange services at the airport?\nA: Yes, currency exchange and ATMs are available in the terminal. The local currency is the Euro, as Guadeloupe is a French overseas region.\n\nQ: What facilities are available for passengers with layovers?\nA: The airport offers restaurants, duty-free shops, car rental agencies, and lounges for passenger comfort.",
+  "transport_tips": "Taxis are readily available outside the terminal and offer fixed rates to popular destinations across Guadeloupe. Rental cars are a popular option for exploring the island's beaches and tropical landscapes. Bus services (Mozaïk) also connect the airport to Pointe-à-Pitre and other towns at budget-friendly prices.",
+  "local_tip": "If you have a few hours between flights, ask at the tourist information desk about nearby beaches—several lovely spots like Le Gosier are just a short taxi ride from the airport.",
+  "generatedAt": "2026-06-28T17:38:52.215Z",
+  "model": "MiniMax-M3"
+}

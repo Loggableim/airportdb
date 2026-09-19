@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IDG",
+    "icao": "KIDG",
+    "name": "Ida Grove Municipal Airport",
+    "country": "United States",
+    "city": "Ida Grove",
+    "lat": 42.3326,
+    "lon": -95.4449,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Ida Grove Municipal Airport (IDG/KIDG) is a small general aviation airport serving the community of Ida Grove in western Iowa. The facility supports local private pilots, agricultural aviation operations, and recreational flying in the region. Its single runway and modest infrastructure make it a convenient hub for light aircraft traffic in Ida County.",
+  "faqs": "Q: What type of airport is Ida Grove Municipal Airport?\nA: It is a small general aviation airport primarily serving private and recreational pilots.\n\nQ: Does Ida Grove Municipal Airport offer commercial flights?\nA: No, the airport does not have scheduled commercial airline service.\n\nQ: What is the airport's identifier?\nA: The IATA code is IDG and the ICAO code is KIDG.\n\nQ: Who operates the airport?\nA: The airport is owned and operated by the City of Ida Grove.\n\n",
+  "transport_tips": "The airport is located just outside Ida Grove city limits, a short drive from the town center. Visitors will need a personal vehicle or a local ride arrangement, as there is no public transit serving the facility. The nearest major highways are US-20 and Iowa Highway 175, both within a few miles of the airport.",
+  "local_tip": "If flying in for a visit, plan your trip around local events like the Ida Grove Honey War festival or check in with the fixed-base operator ahead of time, as services at small municipal airports can be limited outside regular business hours.",
+  "generatedAt": "2026-06-27T09:38:39.935Z",
+  "model": "MiniMax-M3"
+}

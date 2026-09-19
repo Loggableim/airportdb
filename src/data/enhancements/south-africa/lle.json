@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LLE",
+    "icao": "FAMN",
+    "name": "Malelane Airport",
+    "country": "South Africa",
+    "city": "Malelane",
+    "lat": -25.4736,
+    "lon": 31.5659,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Malelane Airport is a small regional airfield serving the town of Malelane in Mpumalanga, South Africa. Located near the southern entrance of Kruger National Park, it primarily supports general aviation, charter flights, and tourism-related traffic heading to nearby safari lodges. The airport's proximity to the Malelane Gate makes it a convenient access point for visitors exploring one of South Africa's most famous wildlife reserves.",
+  "faqs": "Q: What is Malelane Airport primarily used for?\nA: The airport mainly serves general aviation, charter flights, and tourists visiting the nearby Kruger National Park and surrounding safari lodges in the Mpumalanga region.\n\nQ: Does Malelane Airport offer commercial scheduled flights?\nA: No, Malelane Airport does not typically serve scheduled commercial flights. It is primarily used for private, charter, and tourism-related aviation operations.\n\nQ: How far is the airport from Kruger National Park?\nA: The airport is located just a few kilometers from the Malelane Gate, one of the southern entrances to Kruger National Park, making it a quick drive to the park.\n\nQ: Are there facilities at the airport for passengers?\nA: As a small airfield, amenities are limited. Passengers should arrange ground transport and any additional services in advance, as on-site facilities are minimal.",
+  "transport_tips": "Pre-arranging a rental vehicle or shuttle service is highly recommended, as the airport has limited on-site transport options. Many safari lodges and tour operators in the area offer pickup services for guests arriving by private or charter flights. The N4 highway runs nearby, providing road access to Nelspruit and other regional destinations.",
+  "local_tip": "If you're heading to Kruger National Park, the Malelane Gate is just minutes away and tends to be less crowded than the more popular Numbi or Paul Kruger gates, giving you quicker park access during peak safari season.",
+  "generatedAt": "2026-06-28T03:03:58.263Z",
+  "model": "MiniMax-M3"
+}

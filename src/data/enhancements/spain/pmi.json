@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PMI",
+    "icao": "LEPA",
+    "name": "Palma de Mallorca Airport",
+    "country": "Spain",
+    "city": "Palma de Mallorca",
+    "lat": 39.5517,
+    "lon": 2.7388,
+    "type": "large_airport",
+    "size": 51200
+  },
+  "summary": "Palma de Mallorca Airport (PMI) is the main international gateway to the Balearic Islands and the third-busiest airport in Spain by passenger traffic. Located approximately 8 km east of central Palma, it serves as a critical hub for Mediterranean tourism, handling over 30 million passengers annually during peak seasons. The airport features two main passenger terminals and is operated by AENA, offering extensive connections across Europe and beyond.",
+  "faqs": "Q: How far is Palma de Mallorca Airport from the city center?\nA: The airport is located approximately 8 km (5 miles) east of central Palma, with typical journey times of 15-20 minutes by car or bus depending on traffic.\n\nQ: How many terminals does PMI have?\nA: The airport has two main passenger terminals: Terminal A for inter-island flights and Terminal B (which incorporates the former Terminal C and D) for most domestic and international flights.\n\nQ: Is there public transportation available from the airport?\nA: Yes, EMT Palma operates bus line 1 connecting the airport to the city center and port, and Line 32 connects to Arenal. Buses run frequently throughout the day.\n\nQ: Does the airport operate 24 hours?\nA: Flight operations are concentrated during daytime hours, with a noise curfew restricting flights between midnight and 6:00 AM, though the airport facilities remain open.\n\n",
+  "transport_tips": "The most cost-effective option to central Palma is EMT Bus Line 1, which runs approximately every 15 minutes and costs around €5. Taxis to the city center typically charge a flat rate of around €20-25, while ride-sharing services are also available. Car rental agencies are abundant at the airport, though booking in advance is highly recommended during the busy summer season.",
+  "local_tip": "If you have a long layover or early arrival, head to the rooftop terrace of the Marriott Hotel adjacent to the terminal for stunning views of arriving aircraft against the Mediterranean backdrop—a favorite spot among aviation enthusiasts, and you don't even need to be a hotel guest to access the bar area.",
+  "generatedAt": "2026-06-28T15:54:57.423Z",
+  "model": "MiniMax-M3"
+}

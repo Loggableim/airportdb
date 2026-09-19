@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PRE",
+    "icao": "",
+    "name": "Pore Airport",
+    "country": "Colombia",
+    "city": "Pore",
+    "lat": 5.7333,
+    "lon": -71.9833,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Pore Airport is a small regional airfield serving the municipality of Pore in the Casanare Department of Colombia, situated in the eastern llanos plains. It primarily supports general aviation and occasional charter flights connecting this remote oil-producing region to larger hubs like Yopal and Bogotá. The airport features a single unpaved or lightly paved runway typical of rural Colombian airfields, serving both commercial and private operators in the area.",
+  "faqs": "Q: What is the IATA code for Pore Airport?\nA: The IATA code is PRE, and it does not have an assigned ICAO code.\n\nQ: Where is Pore Airport located?\nA: It is located near the town of Pore in Casanare Department, Colombia, at coordinates approximately 5.733°N, 71.983°W.\n\nQ: What types of flights operate from Pore Airport?\nA: The airport primarily handles general aviation, private charters, and small regional aircraft serving the local oil and agricultural industries.\n\nQ: Are there scheduled commercial flights from Pore?\nA: Scheduled commercial service is limited or nonexistent; travelers typically rely on charter flights or ground transport to reach nearby airports with regular service.\n\n",
+  "transport_tips": "Ground transportation from the airport to Pore town center is typically arranged informally via local taxi drivers or hotel pickups, so contacting your accommodation in advance is recommended. The llanos region is connected by paved highways to Yopal (about 90 km away), where Casanare's main airport offers regular flights to Bogotá. Travelers should plan ground transport ahead of time, especially during the rainy season when roads can become difficult.",
+  "local_tip": "Visit during the annual Festival de la Cultura Llanera (typically in December or January) to experience traditional joropo music, horseback riding, and llanero cowboy culture unique to this region.",
+  "generatedAt": "2026-06-28T05:40:47.619Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ORB",
+    "icao": "ESOE",
+    "name": "Örebro Airport",
+    "country": "Sweden",
+    "city": "Örebro",
+    "lat": 59.2237,
+    "lon": 15.038,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Örebro Airport (ORB/ESOE) is a regional airport serving the city of Örebro in central Sweden, located about 10 km southwest of the city center. The airport primarily handles domestic flights, scheduled charter services, and general aviation, making it a convenient gateway for the Örebro County region. It also supports cargo operations and is notable for its proximity to one of Sweden's important industrial and university cities.",
+  "faqs": "Q: What is the airport code for Örebro Airport?\nA: The IATA code is ORB and the ICAO code is ESOE.\n\nQ: How far is Örebro Airport from the city center?\nA: The airport is located approximately 10 km southwest of Örebro's city center, typically a 15-20 minute drive.\n\nQ: Are there international flights from Örebro Airport?\nA: The airport mainly operates domestic flights and seasonal charter services, with limited international scheduled routes.\n\nQ: Does Örebro Airport offer car rental services?\nA: Yes, car rental companies typically operate at the airport, allowing travelers to rent vehicles for their journey in the region.",
+  "transport_tips": "The most convenient way to reach the airport is by taxi or pre-booked airport transfer, as public transport connections are limited. Rental cars are available on-site and provide flexibility for exploring the Örebro region. If driving, follow signs from the E18/E20 motorways, with ample parking available near the terminal.",
+  "local_tip": "If you have time before your flight, visit the nearby Oset and Rynningeviken nature reserve for a peaceful walk through wetlands and forests, just a short drive from the airport.",
+  "generatedAt": "2026-06-29T06:45:08.935Z",
+  "model": "MiniMax-M3"
+}

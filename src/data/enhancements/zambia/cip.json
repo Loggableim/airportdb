@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CIP",
+    "icao": "FLCP",
+    "name": "Chipata Airport",
+    "country": "Zambia",
+    "city": "Chipata",
+    "lat": -13.5583,
+    "lon": 32.5872,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Chipata Airport is a small regional airport serving Chipata, the capital of Zambia's Eastern Province and a key gateway near the Malawian border. It primarily handles domestic flights and general aviation, supporting travel to one of Zambia's easternmost commercial hubs. The airport plays a strategic role for cross-border trade and tourism to the South Luangwa National Park region.",
+  "faqs": "Q: What is the airport code for Chipata Airport?\nA: Chipata Airport's IATA code is CIP and its ICAO code is FLCP.\n\nQ: Are there international flights from Chipata Airport?\nA: The airport primarily handles domestic and regional flights, with cross-border travel to Malawi often accessible by road rather than air.\n\nQ: How far is Chipata Airport from the city center?\nA: The airport is located a short drive from Chipata's town center, typically reachable within 10 to 15 minutes by road.\n\nQ: Does Chipata Airport serve tourist destinations?\nA: Yes, it serves as an access point for travelers heading to South Luangwa National Park and the surrounding wildlife areas.\n\n",
+  "transport_tips": "Taxis and private hire vehicles are the most common way to reach the airport from Chipata town. Pre-arranging ground transport is recommended, as public transit options near the airport are limited. Road connections to the Malawi border crossing at Mwami make the airport a useful staging point for overland travelers.",
+  "local_tip": "Carry cash in Zambian Kwacha for ground transportation, as card payment facilities at the airport and for local taxis are rarely available.",
+  "generatedAt": "2026-06-26T18:13:20.762Z",
+  "model": "MiniMax-M3"
+}

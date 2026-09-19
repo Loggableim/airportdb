@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YKG",
+    "icao": "CYAS",
+    "name": "Kangirsuk Airport",
+    "country": "Canada",
+    "city": "Kangirsuk",
+    "lat": 60.0272,
+    "lon": -69.9992,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Kangirsuk Airport serves the small Inuit community of Kangirsuk on the eastern shore of Ungava Bay in Nunavik, northern Quebec. The airport provides a vital transportation link for residents of this remote Arctic community, which is otherwise accessible mainly by sea during the brief summer season. It operates as a regional hub connecting Kangirsuk to Kuujjuaq and other Nunavik settlements via scheduled bush plane service.",
+  "faqs": "Q: What airlines serve Kangirsuk Airport?\nA: Air Inuit operates the primary scheduled passenger service at Kangirsuk Airport, connecting the community with Kuujjuaq and other Nunavik destinations using turboprop aircraft suited to the gravel runway.\n\nQ: How long is the runway at YKG?\nA: Kangirsuk Airport has a single gravel runway approximately 3,500 feet long, which accommodates small regional turboprop aircraft commonly used in the Canadian North.\n\nQ: When is the airport operational?\nA: The airport operates year-round, though weather conditions and visibility can occasionally disrupt flights during severe winter storms or fog.\n\nQ: Is there an airport terminal with amenities?\nA: Facilities are minimal, consistent with most small Arctic airports, featuring a basic terminal building and limited services.",
+  "transport_tips": "There are no road connections to Kangirsuk, so the airport is essentially the only year-round link for travelers arriving or departing by air. Taxis or local vehicles arranged in advance are typically needed to reach the village from the airport, as the settlement is small and walkable but weather can be harsh. Passengers should confirm return flights well in advance, as weather-related delays are common in the region.",
+  "local_tip": "Pack layered clothing even in summer; temperatures in Kangirsuk can swing dramatically between day and night, and the airport terminal offers limited shelter from coastal winds off Ungava Bay.",
+  "generatedAt": "2026-06-26T16:01:14.152Z",
+  "model": "MiniMax-M3"
+}

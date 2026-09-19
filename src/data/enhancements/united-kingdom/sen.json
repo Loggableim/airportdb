@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SEN",
+    "icao": "EGMC",
+    "name": "London Southend Airport",
+    "country": "United Kingdom",
+    "city": "Southend-on-Sea, Essex",
+    "lat": 51.5706,
+    "lon": 0.6936,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "London Southend Airport (SEN/EGMC) is a medium-sized airport located in Southend-on-Sea, Essex, approximately 36 miles east of central London. Originally established in 1914 as a military airfield during World War I, it has evolved into a convenient regional gateway serving leisure and business travelers. One of its standout features is its integrated railway station, making it one of the most accessible airports in the London system.",
+  "faqs": "Q: How far is London Southend Airport from central London?\nA: The airport is located about 36 miles (58 km) east of central London, in Southend-on-Sea, Essex.\n\nQ: Does London Southend Airport have its own train station?\nA: Yes, Southend Airport railway station is directly connected to the terminal and offers frequent Greater Anglia services to London Liverpool Street, with journey times of around 50-60 minutes.\n\nQ: Which airlines operate from London Southend Airport?\nA: The airport is primarily served by easyJet, with additional seasonal and charter services. Ryanair also operates routes from SEN.\n\nQ: How long should I allow for check-in at London Southend?\nA: Due to its smaller size and faster processing, passengers are generally advised to arrive around 90 minutes before scheduled departure for European flights.",
+  "transport_tips": "The most efficient way to reach central London is via the dedicated Southend Airport railway station, with direct Greater Anglia trains to London Liverpool Street. For drivers, the airport is accessible via the A127, and on-site parking is available with pre-booking offering significant savings. Local bus routes and taxis also connect to Southend-on-Sea town center and surrounding areas.",
+  "local_tip": "Frequent travelers recommend booking the airport's long-stay parking online in advance—it can be up to 60% cheaper than drive-up rates, and the lot is just a short walk from the terminal with 24/7 security patrols.",
+  "generatedAt": "2026-06-29T02:46:35.182Z",
+  "model": "MiniMax-M3"
+}

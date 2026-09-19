@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SVI",
+    "icao": "SKSV",
+    "name": "Eduardo Falla Solano Airport",
+    "country": "Colombia",
+    "city": "San Vicente Del Caguán",
+    "lat": 2.1522,
+    "lon": -74.7663,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Eduardo Falla Solano Airport (SVI) serves San Vicente del Caguán, a municipality in the Caquetá department of southern Colombia, in the foothills of the Andes near the Amazon basin. The medium-sized regional airport provides vital air connectivity for this remote area, which is historically significant for its role in Colombia's peace process as the former location of the demilitarized zone during 1999-2002 peace talks. It primarily handles domestic flights connecting the region to major Colombian cities.",
+  "faqs": "Q: What is Eduardo Falla Solano Airport used for?\nA: It primarily serves domestic passenger flights, connecting San Vicente del Caguán with other Colombian cities, as well as occasional general aviation and medical transport flights.\n\nQ: Are there international flights from SVI?\nA: No, the airport only handles domestic flights within Colombia.\n\nQ: What facilities does the airport offer?\nA: As a medium-sized regional airport, it provides basic passenger services including a terminal building and ground transportation access, though amenities are limited compared to larger airports.\n\nQ: Is the airport safe to travel through?\nA: Yes, the airport operates normally for civilian travel, providing an important connection for residents and visitors to the Caquetá region.\n\n",
+  "transport_tips": "Taxis and motorbike taxis (mototaxis) are typically available outside the terminal and are the most common way to reach the town center, which is a short distance away. Given the limited flight schedule, arrange ground transportation in advance, especially for early morning or late evening arrivals. The town center and main commercial areas are within a few minutes' drive of the airport.",
+  "local_tip": "Pack light and bring a printed boarding pass, as the airport's limited infrastructure means digital services may be unreliable. The region is known for its lush Amazonian landscapes, so if you have a layover or extra time, ask locals about nearby rivers and nature spots unique to the Caquetá piedmont region.",
+  "generatedAt": "2026-06-29T16:46:45.647Z",
+  "model": "MiniMax-M3"
+}

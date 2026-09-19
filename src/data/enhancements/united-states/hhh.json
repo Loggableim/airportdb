@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HHH",
+    "icao": "KHXD",
+    "name": "Hilton Head Airport",
+    "country": "United States",
+    "city": "Hilton Head Island",
+    "lat": 32.2244,
+    "lon": -80.6975,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Hilton Head Airport is a regional airport serving Hilton Head Island, one of the most popular vacation destinations in the southeastern United States. Located on the island itself, it primarily handles general aviation and seasonal commercial flights, offering travelers a convenient alternative to larger airports in Savannah or Charleston. The facility supports the island's thriving tourism economy and is surrounded by the scenic Lowcountry landscape of marshes and maritime forests.",
+  "faqs": "Q: How far is Hilton Head Airport from the beach?\nA: The airport is located on the island itself, approximately 5 miles from the nearest public beach access points, making it a quick drive to most resort areas.\n\nQ: Does Hilton Head Airport offer commercial airline service?\nA: Yes, the airport has limited scheduled commercial service, primarily seasonal routes operated by regional carriers. Many visitors also use Savannah/Hilton Head International Airport about 45 miles away.\n\nQ: Are there car rental services at the airport?\nA: Yes, several car rental agencies operate at Hilton Head Airport, though availability can be limited during peak summer and holiday periods, so advance booking is recommended.\n\nQ: Is the airport open 24 hours?\nA: The airport's terminal hours vary by season and flight schedule, but the airfield itself supports general aviation operations around the clock.",
+  "transport_tips": "Rental cars are the most practical way to reach resorts and beaches from Hilton Head Airport, as the island has limited public transportation and rideshare availability can be inconsistent. During peak summer months, consider pre-booking ground transportation as taxis and shuttles may have longer wait times. The drive to most Hilton Head Island resorts is typically under 20 minutes via William Hilton Parkway.",
+  "local_tip": "Visit during the shoulder seasons of April-May or September-October for the best combination of pleasant weather, fewer crowds, and easier access to tee times at Hilton Head's world-class golf courses.",
+  "generatedAt": "2026-06-29T18:11:52.930Z",
+  "model": "MiniMax-M3"
+}

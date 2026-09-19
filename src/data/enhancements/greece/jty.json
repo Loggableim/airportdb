@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JTY",
+    "icao": "LGPL",
+    "name": "Astypalaia Airport",
+    "country": "Greece",
+    "city": "Astypalaia Island",
+    "lat": 36.5799,
+    "lon": 26.3758,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Astypalaia Airport (JTY) is a small regional airport serving Astypalaia Island, a remote Dodecanese island nestled between the Cyclades and the Turkish coast. The single-runway facility primarily handles domestic flights, most notably the Olympic Air/Aegean route to Athens. Despite its modest size, it serves as a vital lifeline for the island's tourism and resident connectivity.",
+  "faqs": "Q: Which airlines operate from Astypalaia Airport?\nA: Olympic Air, a subsidiary of Aegean Airlines, provides the main scheduled service, typically connecting Astypalaia with Athens International Airport. Charter flights may operate seasonally.\n\nQ: How far is the airport from Astypalaia town?\nA: The airport is located approximately 10 km east of the main town (Chora), with a transfer time of roughly 15-20 minutes by car or taxi.\n\nQ: Does the airport have international flights?\nA: No, Astypalaia Airport handles only domestic flights within Greece. International travelers typically connect through Athens.\n\nQ: Are there car rental services at the airport?\nA: Yes, several local car and scooter rental agencies operate at or near the airport, though booking in advance is recommended during the summer season.",
+  "transport_tips": "Taxis are available outside the terminal but can be limited, so pre-booking is advisable, especially for early morning or late evening flights. Renting a car or scooter is highly recommended as public transport on the island is infrequent and the airport is some distance from the main settlements. The road from the airport to Chora offers scenic views of the island's dramatic coastline and windmills.",
+  "local_tip": "Time your arrival or departure to coincide with sunset if possible—the views of the Aegean from the airport road are spectacular, and watching the sun dip behind the nearby islets is a memorable way to begin or end your island visit.",
+  "generatedAt": "2026-06-26T15:44:48.295Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CVU",
+    "icao": "LPCR",
+    "name": "Corvo Airport",
+    "country": "Portugal",
+    "city": "Corvo",
+    "lat": 39.6715,
+    "lon": -31.1136,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Corvo Airport (CVU) serves Corvo Island, the smallest and northernmost inhabited island in the Portuguese Azores archipelago, with a resident population of roughly 430 people. The airport is renowned among aviation enthusiasts for its dramatically short runway and steep approach over Atlantic cliffs, making every landing a memorable experience. It functions as a vital lifeline for the remote island, handling small regional turboprop flights primarily to nearby Flores Island.",
+  "faqs": "Q: What airlines operate at Corvo Airport?\nA: SATA Air Açores is the primary carrier, typically using De Havilland Canada Dash-8 turboprop aircraft on inter-island routes.\n\nQ: How long is the runway at Corvo Airport?\nA: The single runway is approximately 800 meters (2,625 feet), making it one of the shorter commercial runways in Europe and requiring skilled short-field operations.\n\nQ: Can I fly direct from Corvo to mainland Portugal or Lisbon?\nA: No direct flights exist. Travelers typically connect through Flores Airport (FLW), which is only about a 15-20 minute flight away, and then continue to larger Azores hubs like Ponta Delgada.\n\nQ: Why is the approach to Corvo considered challenging?\nA: The airport sits on a small coastal plateau surrounded by high cliffs and open ocean, requiring pilots to navigate tight visual approaches that can be affected by strong crosswinds and Atlantic weather systems.",
+  "transport_tips": "There is no public bus service; the airport is just a few minutes' drive from Vila do Corvo, the island's only village,",
+  "local_tip": "",
+  "generatedAt": "2026-06-26T15:06:25.333Z",
+  "model": "MiniMax-M3"
+}

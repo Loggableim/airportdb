@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LME",
+    "icao": "LFRM",
+    "name": "Le Mans-Arnage Airport",
+    "country": "France",
+    "city": "Le Mans, Sarthe",
+    "lat": 47.9486,
+    "lon": 0.2017,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Le Mans-Arnage Airport serves the city of Le Mans in the Sarthe department of northwestern France, located in the Pays de la Loire region. The airport is known for accommodating traffic during the annual 24 Hours of Le Mans endurance race, one of the world's most prestigious motorsport events. It primarily handles general aviation, business flights, and charter operations rather than scheduled commercial service.",
+  "faqs": "Q: Does Le Mans-Arnage Airport have scheduled commercial flights?\nA: The airport primarily serves general aviation and charter flights, with limited or no regular scheduled commercial service. Travelers typically use Paris airports or Tours for commercial connections.\n\nQ: How far is the airport from Le Mans city center?\nA: The airport is located approximately 7 km (4.3 miles) southeast of Le Mans city center, typically a 15-20 minute drive.\n\nQ: What facilities are available at the airport?\nA: The airport offers standard general aviation facilities including refueling, hangar space, and basic passenger amenities. Services are scaled for private and business aviation.\n\nQ: Is the airport busy during the 24 Hours of Le Mans?\nA: Yes, the airport experiences significantly increased traffic during race week, hosting team logistics, VIP passengers, and media flights associated with the event.",
+  "transport_tips": "The most convenient way to reach the airport is by car or taxi from Le Mans city center, with the journey taking approximately 15-20 minutes. Rental cars are available in Le Mans and can be arranged in advance for pickup at the airport with prior notice. Public bus services from Le Mans may also serve the Arnage area, though schedules are limited.",
+  "local_tip": "If visiting during the 24 Hours of Le Mans week, book ground transportation and accommodation months in advance, as the city fills up rapidly and prices surge well above normal rates.",
+  "generatedAt": "2026-06-29T19:56:04.026Z",
+  "model": "MiniMax-M3"
+}

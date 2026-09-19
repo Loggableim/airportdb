@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IFN",
+    "icao": "OIFM",
+    "name": "Isfahan Shahid Beheshti International Airport",
+    "country": "Iran",
+    "city": "Isfahan",
+    "lat": 32.7551,
+    "lon": 51.8839,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Isfahan Shahid Beheshti International Airport (IFN/OIFM) is the main gateway to Isfahan, one of Iran's most historic cities and a UNESCO-recognized cultural capital. Located approximately 25 kilometers northeast of the city center, the airport serves as a key hub for domestic flights and select international routes across the Middle East and South Asia. Named after Prime Minister Mohammad Ali Rajai's contemporary Shahid Beheshti, it supports both civilian aviation and the adjacent Shahid Vatanpour Air Force Base operations.",
+  "faqs": "Q: How far is the airport from Isfahan city center?\nA: The airport is roughly 25 km northeast of central Isfahan, with typical travel times of 30-45 minutes depending on traffic.\n\nQ: Are there direct international flights to IFN?\nA: Yes, Isfahan Shahid Beheshti International Airport has direct international connections to several Middle Eastern destinations including Dubai, Istanbul, and regional Gulf cities, alongside extensive domestic service.\n\nQ: Does the airport offer lounges or premium facilities?\nA: Limited VIP and CIP lounges are available, primarily serving business class passengers and military/government travelers.\n\nQ: Is the airport open 24 hours?\nA: The terminal operates during scheduled flight hours rather than 24/7, so travelers should confirm their flight times in advance.",
+  "transport_tips": "Taxis and ride-hailing services are the most reliable options for reaching the airport, with a fixed-rate taxi stand located outside the arrivals hall. Shared taxis (savari) to Isfahan are also available at lower cost but may involve waiting for other passengers. Private transfer services can be pre-booked through hotels for added convenience and fixed pricing.",
+  "local_tip": "Currency exchange at the airport tends to offer less favorable rates than city-center exchanges in Isfahan, so consider exchanging only a small amount on arrival and visiting a reputable exchange office in town for the rest.",
+  "generatedAt": "2026-06-28T22:44:19.442Z",
+  "model": "MiniMax-M3"
+}

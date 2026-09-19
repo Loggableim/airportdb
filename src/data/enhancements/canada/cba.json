@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CBA",
+    "icao": "",
+    "name": "Alpine Heliport",
+    "country": "Canada",
+    "city": "West Kelowna",
+    "lat": 49.8636,
+    "lon": -119.568,
+    "type": "heliport",
+    "size": 25
+  },
+  "summary": "Alpine Heliport (CBA) is a small private heliport located in West Kelowna, British Columbia, serving the Okanagan Valley region of Canada. Situated on the western shore of Okanagan Lake, it primarily supports charter flights, medevac services, and access to backcountry recreation areas in the surrounding mountains. The facility caters to both commercial operators and private rotorcraft users visiting the Kelowna area.",
+  "faqs": "Q: What is Alpine Heliport primarily used for?\nA: It serves charter helicopter operations, emergency medical services, and access to nearby mountain and lake recreation areas in the Okanagan region.\n\nQ: Is Alpine Heliport open to the general public?\nA: As a small private heliport, it is generally not used for scheduled commercial passenger flights. Access is typically arranged through charter operators or authorized users.\n\nQ: Where exactly is the heliport located?\nA: It is situated in West Kelowna, on the western side of Okanagan Lake, across the water from the city of Kelowna.\n\nQ: Are there alternative airports nearby?\nA: Yes, Kelowna International Airport (YLW) is located nearby on the eastern side of Okanagan Lake and handles fixed-wing commercial traffic.\n\n",
+  "transport_tips": "Travelers using Alpine Heliport should arrange ground transportation in advance, as the facility is not served by public transit routes. Rental cars and taxi services from Kelowna are available via the William R. Bennett Bridge connecting the two sides of the lake. Helicopter charter bookings should be confirmed well ahead of time, especially during the busy summer tourist season.",
+  "local_tip": "If visiting the Okanagan, take advantage of the heliport's proximity to West Kelowna's acclaimed wineries along the Westside Wine Trail—many vineyards offer tastings within a short drive of the facility, making it a convenient stop after a flight.",
+  "generatedAt": "2026-06-28T11:08:21.016Z",
+  "model": "MiniMax-M3"
+}

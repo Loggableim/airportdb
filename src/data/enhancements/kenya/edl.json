@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EDL",
+    "icao": "HKEL",
+    "name": "Eldoret International Airport",
+    "country": "Kenya",
+    "city": "Eldoret",
+    "lat": 0.4045,
+    "lon": 35.2389,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Eldoret International Airport serves Kenya's western Rift Valley region, acting as a key gateway for the agricultural export industry centered around flower and vegetable production. Situated at roughly 2,100 meters elevation, it is one of Kenya's highest-altitude airports and supports both passenger and significant cargo operations. The facility is closely tied to Eldoret's reputation as a hub for elite Kenyan athletics and highland farming.",
+  "faqs": "Q: Which airlines operate flights to Eldoret International Airport?\nA: Domestic flights are commonly offered by airlines such as Jambojet, Safarilink, and Kenya Airways, connecting Eldoret to Nairobi and other regional destinations. International and charter cargo flights also use the airport regularly for fresh produce exports.\n\nQ: How far is the airport from Eldoret town?\nA: The airport is located just a few kilometers outside Eldoret city, typically a short drive of roughly 15 minutes depending on traffic.\n\nQ: Is Eldoret a busy international airport?\nA: It is classified as an international airport, but its main international traffic is freight, particularly time-sensitive flower and vegetable shipments to Europe. Passenger flights are predominantly domestic.\n\nQ: What is the airport mainly used for?\nA: Beyond passenger travel, Eldoret International is a major cargo hub for Kenya's floriculture industry, which relies on its location near flower farms in the Rift Valley highlands.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are readily available outside the terminal and offer the most convenient option for reaching Eldoret town or nearby towns. Matatus (shared minibuses) also serve the airport route and are a budget-friendly alternative. Pre-arranging transport is advisable for early morning or late evening flights when options are limited.\n\n",
+  "local_tip": "Because of the high elevation, aircraft performance and weather can differ from lower-altitude airports in Kenya, so flights may occasionally be delayed by fog in the early morning, a regular occurrence that locals plan around.",
+  "generatedAt": "2026-06-28T23:04:03.817Z",
+  "model": "MiniMax-M3"
+}

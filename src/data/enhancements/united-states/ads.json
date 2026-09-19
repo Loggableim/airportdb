@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ADS",
+    "icao": "KADS",
+    "name": "Addison Airport",
+    "country": "United States",
+    "city": "Dallas",
+    "lat": 32.9686,
+    "lon": -96.8364,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Addison Airport is a busy general aviation reliever airport serving the Dallas–Fort Worth metroplex, located in the city of Addison about 13 miles north of downtown Dallas. Originally established as a military training field during World War II, it transitioned to civilian use and is now one of the busiest non-commercial airports in Texas, known for its high volume of business and private aviation traffic. The airport is publicly owned by the City of Addison and hosts a large concentration of FBOs, aircraft maintenance facilities, and flight schools.",
+  "faqs": "Q: Does Addison Airport have commercial airline service?\nA: No, Addison Airport is a general aviation facility with no scheduled commercial passenger flights. It primarily serves private, corporate, and recreational aircraft.\n\nQ: How far is Addison Airport from downtown Dallas?\nA: The airport is approximately 13 miles north of downtown Dallas, located in the suburb of Addison, typically a 20–30 minute drive depending on traffic.\n\nQ: Is there a control tower at Addison Airport?\nA: Yes, the airport operates an air traffic control tower during published hours, making it a towered facility for arriving and departing pilots.\n\nQ: Can the public visit Addison Airport?\nA: Yes, the terminal and many of the businesses on the airfield are open to the public, and the airport hosts community events including airshows and fly-ins throughout the year.",
+  "transport_tips": "The airport is most easily reached by car via the Dallas North Tollway or Interstate 635, with on-site rental car options and rideshare services like Uber and Lyft readily available. Several full-service Fixed-Base Operators (FBOs) on the field can arrange ground transportation, crew cars, and charter ground services. Public transit access is limited, so arranging a vehicle in advance is recommended for visitors.",
+  "local_tip": "If you're meeting a flight or waiting for one, stop by the local restaurants along Belt Line Road just south of the airport—Addison is known for having one of the highest concentrations of restaurants per capita in the U.S., making it a great place to grab a meal while you wait.",
+  "generatedAt": "2026-06-26T23:31:04.941Z",
+  "model": "MiniMax-M3"
+}

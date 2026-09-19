@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VOG",
+    "icao": "URWW",
+    "name": "Volgograd International Airport",
+    "country": "Russia",
+    "city": "Volgograd",
+    "lat": 48.7813,
+    "lon": 44.3392,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Volgograd International Airport (VOG/URWW) is the main air gateway to Volgograd, a historic Russian city on the Volga River formerly known as Stalingrad. As a large airport with a size score of 1000, it handles significant domestic traffic and serves as an important hub for travelers visiting the region's WWII memorials, including the iconic Mamayev Kurgan. The airport connects this southern Russian city to major destinations across Russia and select international points.",
+  "faqs": "Q: How far is Volgograd International Airport from the city center?\nA: The airport is located approximately 15-20 km northwest of central Volgograd, with typical transfer times of 30-45 minutes depending on traffic.\n\nQ: Are there direct international flights from VOG?\nA: The airport primarily serves domestic routes to Moscow, St. Petersburg, and other Russian cities. International flights are limited and may operate seasonally or on charter basis.\n\nQ: What facilities are available at Volgograd Airport?\nA: The terminal offers standard amenities including cafes, duty-free shops, currency exchange, and car rental services for passenger convenience.\n\nQ: Which airlines operate from Volgograd International Airport?\nA: Major Russian carriers including Aeroflot, S7 Airlines, Pobeda, and Rossiya Airlines operate regular flights to and from VOG.",
+  "transport_tips": "Taxis and ride-sharing services are the most convenient options for reaching the airport, with fixed rates available from official taxi counters inside the terminal. Public bus routes also connect the airport to central Volgograd at a lower cost, though journey times are longer. For travelers with early morning or late-night flights, pre-booking a taxi is strongly recommended as public transport runs on limited schedules.",
+  "local_tip": "If you have a long layover or early arrival, head to Mamayev Kurgan—the towering Motherland Calls monument is only about 20 km from the airport and offers a powerful glimpse into the city's WWII history.",
+  "generatedAt": "2026-06-28T23:38:15.113Z",
+  "model": "MiniMax-M3"
+}

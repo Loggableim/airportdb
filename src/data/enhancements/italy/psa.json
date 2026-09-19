@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PSA",
+    "icao": "LIRP",
+    "name": "Pisa International Airport",
+    "country": "Italy",
+    "city": "Pisa (PI)",
+    "lat": 43.6839,
+    "lon": 10.3927,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "Pisa International Airport (Galileo Galilei Airport) is located just 1-2 km south of Pisa's city center in Tuscany, making it one of the closest major airports to a historic European city center. Named after the astronomer Galileo Galilei, who was born in Pisa, the airport serves as a popular gateway to Tuscany and is frequently used by travelers heading to Florence due to its proximity and broad low-cost carrier network. Its compact single-terminal layout offers quick processing times, and the iconic Leaning Tower is visible from the airfield.",
+  "faqs": "Q: How far is Pisa Airport from the city center?\nA: The airport is approximately 1-2 km from Pisa's historic center, making it one of the most conveniently located airports in Europe. The Leaning Tower is only about 4 km away.\n\nQ: Can I take a train from Pisa Airport?\nA: Yes, there is a direct railway connection at Pisa Aeroporto station, with frequent trains to Pisa Centrale (about 5 minutes) and onward connections to Florence, Lucca, and other Tuscan cities.\n\nQ: Why do some travelers fly into Pisa instead of Florence?\nA: Pisa Airport generally offers more flight options, including numerous low-cost carriers, and is well-connected to Florence by train in about an hour, often making it a convenient alternative to Florence's smaller Peretola Airport.\n\nQ: Does the airport operate 24 hours?\nA: The airport generally operates from early morning until late evening, though specific opening hours can vary by season. There are limited overnight facilities available.",
+  "transport_tips": "",
+  "local_tip": "If you have a longer layover or early arrival, walk or take a short taxi ride to the Piazza dei Miracoli to see the Leaning Tower early in the morning before tourist crowds arrive—the airport's proximity makes this entirely feasible even with luggage in tow, and you can store bags at the airport's left-luggage facility.",
+  "generatedAt": "2026-06-28T16:48:20.851Z",
+  "model": "MiniMax-M3"
+}

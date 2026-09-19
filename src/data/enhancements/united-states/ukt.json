@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UKT",
+    "icao": "KUKT",
+    "name": "Quakertown Airport",
+    "country": "United States",
+    "city": "Quakertown",
+    "lat": 40.4352,
+    "lon": -75.3819,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Quakertown Airport (UKT/KUKT) is a small general aviation airport located in Quakertown, Bucks County, Pennsylvania, serving private pilots, flight training, and recreational flyers in the greater Philadelphia region. The airport features a single asphalt runway and is home to flight schools and aircraft maintenance operations. It provides a convenient gateway for general aviation users in eastern Pennsylvania, situated roughly between Philadelphia and the Lehigh Valley.",
+  "faqs": "Q: What is the ICAO code for Quakertown Airport?\nA: The ICAO code is KUKT, and its IATA code is UKT.\n\nQ: Does Quakertown Airport offer commercial flights?\nA: No, it is a general aviation airport and does not provide scheduled commercial airline service.\n\nQ: Are flight training services available at UKT?\nA: Yes, the airport hosts flight schools and is commonly used for pilot training in the region.\n\nQ: How many runways does Quakertown Airport have?\nA: It operates a single asphalt runway serving general aviation traffic.\n\n",
+  "transport_tips": "Quakertown Airport is best reached by car, as there is no public transit directly serving the facility. It sits near PA Route 309 and is accessible from the Pennsylvania Turnpike (I-476) and I-78, making it roughly an hour north of Philadelphia. Rental cars or rideshare services are the most practical options for visitors arriving without private transport.",
+  "local_tip": "Stop by the on-site restaurant or pilot lounge if available, and check the local Quakertown Farmers Market and Brewery in town — a favorite among visiting pilots looking for a meal during a layover.",
+  "generatedAt": "2026-06-27T03:57:21.031Z",
+  "model": "MiniMax-M3"
+}

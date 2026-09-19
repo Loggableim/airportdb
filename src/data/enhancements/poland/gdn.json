@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GDN",
+    "icao": "EPGD",
+    "name": "Gdańsk Lech Wałęsa Airport",
+    "country": "Poland",
+    "city": "Gdańsk",
+    "lat": 54.3776,
+    "lon": 18.4662,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Gdańsk Lech Wałęsa Airport (GDN) is the principal international gateway to northern Poland, serving the Tri-City metropolitan area of Gdańsk, Sopot, and Gdynia along the Baltic coast. Named after the Nobel Peace Prize laureate and former Polish president who led the Solidarity movement in the 1980s, the airport underwent major modernization ahead of UEFA Euro 2012, significantly expanding its terminal capacity. It ranks among Poland's busiest airports and offers a growing network of European and seasonal intercontinental routes.",
+  "faqs": "Q: How far is Gdańsk Airport from the city center?\nA: The airport is located approximately 12 km (7.5 miles) west of Gdańsk's city center, with typical journey times of 20-30 minutes by car or train.\n\nQ: Is there a direct train connection from the airport to Gdańsk?\nA: Yes, the Pomeranian Metropolitan Railway (PKM) provides a direct rail link between Gdańsk Lech Wałęsa Airport and Gdańsk Główny main station, with the journey taking roughly 25 minutes.\n\nQ: Which airlines operate from Gdańsk Airport?\nA: The airport is served by numerous carriers including LOT Polish Airlines, Ryanair, Wizz Air, Lufthansa, and SAS, offering routes across Europe and seasonal long-haul services.\n\nQ: Does the airport operate 24 hours?\nA: Terminal operating hours vary, but the airport generally handles flights from early morning until late evening. Travelers should confirm specific flight schedules with their airline.",
+  "transport_tips": "The PKM train is the fastest and most reliable option into Gdańsk, with trains running regularly and stopping at convenient central stations. Taxis and ride-hailing services like Uber and Bolt are readily available outside the terminal, while bus 210 connects",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T17:05:00.885Z",
+  "model": "MiniMax-M3"
+}

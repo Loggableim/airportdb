@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ESM",
+    "icao": "SETN",
+    "name": "Carlos Concha Torres International Airport",
+    "country": "Ecuador",
+    "city": "Tachina",
+    "lat": 0.9785,
+    "lon": -79.6266,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Carlos Concha Torres International Airport serves the coastal city of Esmeraldas in northwestern Ecuador, named after the historic Ecuadorean military and political figure. Located in the nearby town of Tachina, it functions as the main air gateway to Esmeraldas Province, a region known for its Afro-Ecuadorian heritage, tropical beaches, and Pacific coastline. The airport handles domestic flights connecting the Esmeraldas region to Quito and other key Ecuadorian cities.",
+  "faqs": "Q: What is the main city served by Carlos Concha Torres International Airport?\nA: The airport primarily serves Esmeraldas, the capital of Esmeraldas Province, located just a short drive from the airport in the nearby town of Tachina.\n\nQ: Does the airport handle international flights?\nA: While designated as an international airport, current scheduled operations are predominantly domestic, with most international connections routed through Quito's Mariscal Sucre International Airport.\n\nQ: How far is the airport from downtown Esmeraldas?\nA: The airport is approximately 5 to 6 kilometers east of Esmeraldas city center, typically a 10 to 15 minute drive depending on traffic.\n\nQ: Are there car rental services available at the airport?\nA: Local car rental agencies and taxis operate from the terminal, though advance booking is recommended for wider vehicle selection.",
+  "transport_tips": "Taxis are the most common way to reach Esmeraldas from the airport; agree on the fare before departing, as meters are rarely used. Shared colectivos (collective taxis) run along the main road and offer a budget-friendly alternative for travelers heading into the city. Allow extra travel time during rainy season, as coastal roads between the airport and surrounding areas can be affected by heavy downpours.",
+  "local_tip": "Bring a light rain jacket even in drier months—Esmeraldas is one of Ecuador's wettest coastal regions, and brief tropical showers can appear suddenly when stepping out of the terminal.",
+  "generatedAt": "2026-06-29T00:28:45.977Z",
+  "model": "MiniMax-M3"
+}

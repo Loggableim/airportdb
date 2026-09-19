@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VLY",
+    "icao": "EGOV",
+    "name": "Anglesey Airport",
+    "country": "United Kingdom",
+    "city": "Angelsey",
+    "lat": 53.2481,
+    "lon": -4.5353,
+    "type": "medium_airport",
+    "size": 700
+  },
+  "summary": "Anglesey Airport (VLY/EGOV) is a regional airport located on the Isle of Anglesey in northwest Wales, situated near the village of Valley and adjacent to the Royal Air Force base RAF Valley. The airport primarily serves the local community of Anglesey and provides scheduled passenger connections, most notably to Cardiff, while also supporting general aviation and air charter operations. It plays a key role in supporting tourism to Anglesey's coastal attractions and provides convenient access for those traveling to North Wales and the ferry port of Holyhead.",
+  "faqs": "Q: What airlines operate from Anglesey Airport?\nA: Scheduled passenger services have been operated by carriers such as Eastern Airways and previously Flybe, typically connecting Anglesey with Cardiff. Flight availability can vary, so checking current schedules is recommended.\n\nQ: Where is Anglesey Airport located?\nA: The airport is located on the Isle of Anglesey in northwest Wales, near the village of Valley, close to RAF Valley and approximately 5 miles northeast of Holyhead.\n\nQ: Does Anglesey Airport have customs and immigration facilities?\nA: As a regional airport, Anglesey does not typically have full-time customs and immigration services. International flights generally operate from larger UK airports, though special arrangements can sometimes be made.\n\nQ: Is Anglesey Airport the same as RAF Valley?\nA: No, they are separate facilities located adjacent to each other. RAF Valley is a military base operated by the Royal Air Force, while Anglesey Airport is the civilian airfield.",
+  "transport_tips": "The airport is conveniently located near the A55 expressway, the main road linking Anglesey with mainland North Wales and Chester. Car hire is available at the airport and is the most flexible option for exploring the island. Taxis can be pre-booked",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T16:48:27.378Z",
+  "model": "MiniMax-M3"
+}

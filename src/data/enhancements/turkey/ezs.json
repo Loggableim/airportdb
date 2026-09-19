@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EZS",
+    "icao": "LTCA",
+    "name": "Elazığ Airport",
+    "country": "Turkey",
+    "city": "Elazığ",
+    "lat": 38.598,
+    "lon": 39.2835,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Elazığ Airport (EZS/LTCA) is a medium-sized airport serving Elazığ province in eastern Turkey's Eastern Anatolia region. The facility operates as a joint civil-military airport, sharing its runway with the Turkish Air Force's 8th Main Jet Base. It serves as a key gateway to the historic Harput district, Fırat University, and the surrounding region's natural attractions.",
+  "faqs": "Q: How far is Elazığ Airport from the city center?\nA: The airport is approximately 12 km (7.5 miles) northeast of central Elazığ, typically a 15-20 minute drive.\n\nQ: Are there direct international flights from Elazığ?\nA: No, the airport primarily handles domestic flights to Istanbul and Ankara, with seasonal international charter services.\n\nQ: Does the airport operate 24 hours?\nA: The civilian terminal operates during scheduled flight hours rather than 24/7, so confirm your flight times in advance.\n\nQ: Is there Wi-Fi available in the terminal?\nA: Limited free Wi-Fi is available in the terminal, though connection speeds and reliability can vary.\n\n",
+  "transport_tips": "Havaş airport shuttle buses and municipal minibuses (dolmuş) connect the airport to central Elazığ on a schedule tied to flight arrivals. Taxis are readily available outside the terminal and offer a quick, direct option to the city center for a fixed metered fare. Renting a car from the on-site agencies is recommended if you plan to visit nearby attractions like Harput Castle.",
+  "local_tip": "If you have a long layover or delayed flight, the nearby town of Harput (about 25 km south) is worth a quick taxi visit—don't miss the ancient Harput Castle and the panoramic views over the region, which are among eastern Turkey's most underrated historical sites.",
+  "generatedAt": "2026-06-29T11:34:29.947Z",
+  "model": "MiniMax-M3"
+}

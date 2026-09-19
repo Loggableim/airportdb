@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ISS",
+    "icao": "KIWI",
+    "name": "Wiscasset Airport",
+    "country": "United States",
+    "city": "Wiscasset",
+    "lat": 43.9614,
+    "lon": -69.7126,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Wiscasset Airport is a small general aviation facility serving the Midcoast Maine region, located near the historic coastal town of Wiscasset along the Sheepscot River. It provides convenient access to popular coastal destinations including Boothbay Harbor, Damariscotta, and the surrounding peninsulas. The airport is a favored stop for private pilots and recreational flyers exploring Maine's picturesque shoreline.",
+  "faqs": "Q: What type of airport is Wiscasset Airport?\nA: It is a small general aviation airport serving primarily private, recreational, and charter aircraft.\n\nQ: Does Wiscasset Airport offer commercial airline service?\nA: No, there are no scheduled commercial flights; it is used exclusively for general aviation.\n\nQ: What facilities are available at the airport?\nA: The airport has a fixed-base operator (FBO) offering fuel, tie-downs, and basic pilot services, along with a single paved runway.\n\nQ: Is the airport open to the public?\nA: Yes, the airport welcomes transient general aviation traffic, though advance coordination with the FBO is recommended for fuel and services.\n\n",
+  "transport_tips": "The airport is just a few miles from downtown Wiscasset and easily accessible via US Route 1, making",
+  "local_tip": "",
+  "generatedAt": "2026-06-27T04:11:38.860Z",
+  "model": "MiniMax-M3"
+}

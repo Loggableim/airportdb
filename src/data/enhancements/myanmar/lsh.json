@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LSH",
+    "icao": "VYLS",
+    "name": "Lashio Airport",
+    "country": "Myanmar",
+    "city": "Lashio",
+    "lat": 22.9779,
+    "lon": 97.7522,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Lashio Airport (LSH) is a regional airport serving Lashio, the largest city in Myanmar's northern Shan State and a key trade gateway near the Chinese border. The airport primarily supports domestic flights connecting northern Shan State with Yangon and Mandalay. Its location makes it an important access point for travelers heading to the Shan Highlands and the Myanmar-China border region around Muse.",
+  "faqs": "Q: How far is Lashio Airport from the city center?\nA: The airport is located a short drive from downtown Lashio, typically around 10-15 minutes by car depending on traffic and road conditions.\n\nQ: Which airlines operate flights to Lashio Airport?\nA: Domestic carriers such as Myanmar National Airlines historically serve Lashio with flights from Yangon and Mandalay, though schedules can be limited and subject to change.\n\nQ: Does Lashio Airport have international flights?\nA: No, Lashio Airport primarily handles domestic flights. International travelers typically connect through Yangon International Airport.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, Lashio offers basic passenger facilities including a small terminal building, though amenities are limited compared to larger airports.",
+  "transport_tips": "Taxis and motorbike taxis are the most common ways to reach the airport from Lashio town, and it is advisable to arrange return transport in advance as options are limited at the terminal. Shared taxis heading toward the Chinese border town of Muse also pass through the area and can sometimes be used for onward travel. Road conditions in Shan State can vary, so allow extra time during the rainy season.",
+  "local_tip": "If traveling onward to the Myanmar-China border at Muse, confirm the latest border crossing regulations before your flight, as policies in this region can change frequently and the local area is sensitive.",
+  "generatedAt": "2026-06-29T15:20:57.086Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FAT",
+    "icao": "KFAT",
+    "name": "Fresno Yosemite International Airport",
+    "country": "United States",
+    "city": "Fresno",
+    "lat": 36.7758,
+    "lon": -119.718,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Fresno Yosemite International Airport (FAT) is the primary commercial airport serving California's Central Valley and acts as the closest major air gateway to Yosemite, Sequoia, and Kings Canyon National Parks. Sharing its grounds with the Fresno Air National Guard Base, the airport combines civilian and military operations on a single site. Its convenient location makes it a popular alternative to busier Bay Area airports for visitors heading to the Sierra Nevada region.",
+  "faqs": "Q: How far is the airport from Yosemite National Park?\nA: Fresno Yosemite International Airport is approximately 60 miles south of Yosemite National Park's south entrance, making it the closest major airport to the park.\n\nQ: What airlines serve FAT?\nA: Major carriers including American, United, Delta, and Alaska Airlines operate flights, along with ultra-low-cost carriers such as Allegiant and Frontier.\n\nQ: Does the airport have a military presence?\nA: Yes, the airport is a joint-use facility sharing runways and infrastructure with the Fresno Air National Guard Base, home to the 144th Fighter Wing.\n\nQ: Are there car rental services available?\nA: Yes, rental car counters for major brands are located on-site, and the airport offers convenient access to Highway 41 for trips into the mountains.",
+  "transport_tips": "Rental cars are the most convenient option for reaching Yosemite and other Sierra destinations, as public transit is limited. Fresno Area Express (FAX) Route 26 provides affordable public bus service to downtown Fresno and connections to the Amtrak station. Taxis and rideshare services like Uber and Lyft are available at designated pickup zones outside the terminal.",
+  "local_tip": "If you're heading to Yosemite, exit the airport via Highway 41 north rather than Highway 99—it's a more direct and scenic route that takes you straight to the park's south entrance near Wawona and the Mariposa Grove of Giant Sequoias.",
+  "generatedAt": "2026-06-28T18:30:52.565Z",
+  "model": "MiniMax-M3"
+}

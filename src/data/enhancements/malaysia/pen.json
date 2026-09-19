@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PEN",
+    "icao": "WMKP",
+    "name": "Penang International Airport",
+    "country": "Malaysia",
+    "city": "Penang",
+    "lat": 5.2963,
+    "lon": 100.2762,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Penang International Airport (PEN) is the main aviation gateway to Penang Island, located in Bayan Lepas approximately 16 km south of George Town, the island's capital and a UNESCO World Heritage city. As one of Malaysia's busiest airports, it serves as a hub for Firefly and a key focus city for AirAsia, connecting Penang to destinations across Southeast Asia and beyond. The single-terminal facility sits along the island's southeastern coast, offering travelers a convenient entry point to one of Malaysia's most popular cultural and culinary destinations.",
+  "faqs": "Q: How far is Penang International Airport from George Town?\nA: The airport is located about 16 km south of George Town in Bayan Lepas, and the journey typically takes 30-45 minutes by car depending on traffic and whether you cross the Penang Bridge or the Second Penang Bridge.\n\nQ: Does Penang International Airport have public transport connections?\nA: Yes, Rapid Penang public buses operate routes connecting the airport to George Town and other parts of the island, though services may be less frequent than in Kuala Lumpur. Ride-hailing apps and taxis are widely available.\n\nQ: Which airlines operate from Penang International Airport?\nA: The airport is served by Malaysia Airlines, AirAsia, Firefly (which has its hub here), and numerous other carriers including Scoot, Silk Air, Cathay Dragon, and several Indonesian and Thai airlines offering regional connectivity.\n\nQ: Is Penang International Airport a 24-hour facility?\nA: The airport operates extended hours serving international flights throughout the day and night, though individual airline check-in counters operate according to specific flight schedules.",
+  "transport_tips": "The most convenient way to reach George Town is by taxi or ride-hailing service, which takes 30-45 minutes depending on traffic. The Rapid Penang bus 401 and 401",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T18:47:51.518Z",
+  "model": "MiniMax-M3"
+}

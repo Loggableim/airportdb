@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BVY",
+    "icao": "KBVY",
+    "name": "Beverly Regional Airport",
+    "country": "United States",
+    "city": "Beverly / Danvers",
+    "lat": 42.5842,
+    "lon": -70.9165,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Beverly Regional Airport (BVY/KBVY) is a general aviation facility on Massachusetts' North Shore, situated roughly 25 miles northeast of Boston across Beverly and Danvers. The airfield has historical roots as a World War II-era Naval Auxiliary Air Station and now serves corporate, recreational, and flight training traffic. It features a staffed control tower, multiple FBOs, and convenient access to the region's coastal communities.",
+  "faqs": "Q: Does Beverly Regional Airport offer commercial passenger service?\nA: No, BVY is a general aviation airport with no scheduled commercial flights. It primarily handles private, corporate, and flight training operations.\n\nQ: Are there FBOs and fuel services available?\nA: Yes, Beverly Regional has full-service FBOs offering Avgas and Jet A fuel, along with aircraft parking, hangars, and maintenance support.\n\nQ: Does the airport have a control tower?\nA: Yes, BVY operates a staffed air traffic control tower during published hours, making it one of the busier towered general aviation fields in Massachusetts.\n\nQ: Can I rent a car at the airport?\nA: Rental car services are available through on-site providers and pre-arranged bookings, though availability is more limited than at major commercial airports.",
+  "transport_tips": "The airport is best reached by car via Route 128 (Interstate 95), with exits providing direct access to the airfield. Rideshare services like Uber and Lyft are available but may have longer wait times due to the airport's smaller size. Free on-site parking is available for those picking up or dropping off passengers.",
+  "local_tip": "If you're waiting for an arrival, head to the small pilot's lounge or step outside for views of the Atlantic coastline—Beverly sits just a few miles inland from several scenic North Shore beaches, making it a quick stop worth combining with a coastal drive.",
+  "generatedAt": "2026-06-30T05:18:47.317Z",
+  "model": "MiniMax-M3"
+}

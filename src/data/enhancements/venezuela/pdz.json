@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PDZ",
+    "icao": "SVPE",
+    "name": "Pedernales Airport",
+    "country": "Venezuela",
+    "city": "Capure",
+    "lat": 9.9787,
+    "lon": -62.2313,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Pedernales Airport (PDZ) is a small airfield serving the remote Orinoco Delta region of eastern Venezuela, near the coastal community of Capure. It functions primarily as a gateway for travelers heading into the delta's labyrinth of waterways and indigenous Warao communities. The airport is a key access point for eco-tourism, fishing expeditions, and regional transport in one of Venezuela's most isolated areas.",
+  "faqs": "Q: What is Pedernales Airport primarily used for?\nA: It serves as the main air access point for the Orinoco Delta region, supporting tourism, local transport, and connections to remote Warao communities.\n\nQ: Are there regular commercial flights to Pedernales?\nA: Scheduled service is limited and often irregular; most travelers use charter or small aircraft operated by regional carriers.\n\nQ: What facilities are available at the airport?\nA: As a small rural airfield, it has a basic terminal with minimal amenities; passengers should bring essentials such as water and snacks.\n\nQ: Can I reach the Orinoco Delta from this airport?\nA: Yes, the airport is the typical jump-off point for boat tours and expeditions into the Orinoco Delta wetlands.\n\n",
+  "transport_tips": "Getting to Pedernales Airport typically requires a connecting flight from Caracas or Maturín, as road access to the area is extremely limited. Once you land, motorized canoes (peñeros) are the primary way to reach communities and lodges throughout the delta. Arrange ground transport and onward boat transfers in advance, as local services are scarce and informal.",
+  "local_tip": "Carry Venezuelan bolivares in small denominations and confirm the current exchange situation before traveling; ATMs are unreliable in the delta region and many local services only accept cash.",
+  "generatedAt": "2026-06-27T12:00:08.397Z",
+  "model": "MiniMax-M3"
+}

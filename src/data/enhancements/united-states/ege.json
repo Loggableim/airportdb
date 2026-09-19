@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EGE",
+    "icao": "KEGE",
+    "name": "Eagle County Regional Airport",
+    "country": "United States",
+    "city": "Eagle",
+    "lat": 39.6426,
+    "lon": -106.918,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Eagle County Regional Airport (EGE) is a high-elevation mountain airport situated in the heart of Colorado's Rocky Mountains, primarily serving the renowned ski destinations of Vail and Beaver Creek. Originally built in the 1940s as a training field, it has evolved into a key winter gateway for skiers and summer access point for outdoor enthusiasts exploring the White River National Forest. Its dramatic alpine setting, sitting at over 6,500 feet, makes it one of the more scenic airport approaches in North America.",
+  "faqs": "Q: What major ski resorts does Eagle County Regional Airport serve?\nA: The airport is the closest major airport to Vail and Beaver Creek resorts, with ground transportation options covering the roughly 30-40 minute drive to both destinations.\n\nQ: Does the airport operate year-round?\nA: Yes, but flight schedules expand significantly during the winter ski season from December through March, while summer sees reduced service catering to hikers, golfers, and outdoor adventurers.\n\nQ: Is the airport affected by mountain weather?\nA: Yes, weather can cause delays, particularly during winter snowstorms and afternoon thunderstorms in summer. Travelers are advised to build flexibility into their schedules.\n\nQ: Are there international flights at EGE?\nA: The airport primarily handles domestic flights, with seasonal international charter and scheduled service from Canada and Mexico during peak ski season.",
+  "transport_tips": "Ground transportation options include rental cars, shared shuttles, and private transfers to Vail, Beaver Creek, and nearby towns like Edwards and Avon. Rental car counters are located on-site and booking ahead is strongly recommended during ski season. Ride-share services like Uber and Lyft are available but can have surge pricing during peak travel times and weather events.",
+  "local_tip": "If you're flexible with travel dates, consider flying in midweek during ski season — flights and lodging are typically cheaper, and the shorter lines at the small terminal make security and baggage claim much faster than at Colorado's larger airports.",
+  "generatedAt": "2026-06-29T02:48:20.124Z",
+  "model": "MiniMax-M3"
+}

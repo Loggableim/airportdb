@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YHU",
+    "icao": "CYHU",
+    "name": "Montréal / Saint-Hubert Metropolitan Airport",
+    "country": "Canada",
+    "city": "Montréal",
+    "lat": 45.5175,
+    "lon": -73.4169,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Montréal / Saint-Hubert Metropolitan Airport (YHU) is a medium-sized airport located in the Saint-Hubert borough of Longueuil on Montréal's south shore, serving as a key secondary gateway to the Greater Montréal area. Originally established in the early 20th century, it has historically supported general aviation, flight training, and limited commercial operations. The airport plays an important role in regional connectivity and hosts several flight schools and aviation businesses.",
+  "faqs": "Q: How far is Saint-Hubert Airport from downtown Montréal?\nA: The airport is approximately 15 km east of downtown Montréal, across the Saint Lawrence River via the Jacques Cartier or Victoria Bridge.\n\nQ: Does YHU offer commercial passenger flights?\nA: Commercial service has been limited and varies over time; the airport primarily supports general aviation, flight training, charter, and occasional scheduled regional service.\n\nQ: Are there car rental services at the airport?\nA: Yes, car rental agencies are available on-site or nearby, and taxis and rideshare services operate to and from the airport.\n\nQ: Can I access YHU by public transit?\nA: Public transit options include RTL buses serving the Saint-Hubert area, though most travelers find driving or rideshare more convenient due to limited direct service.\n\n",
+  "transport_tips": "Driving is the most convenient option, with the airport easily accessed via Highway 30 or Autoroute 20 from the south shore and bridges from Montréal. Expect modest traffic compared to Montréal-Trudeau, making arrivals and departures relatively quick. Rideshare services and taxis are readily available, and free parking is typically easier to find than at larger airports.",
+  "local_tip": "If you're waiting for a flight, head to one of the local restaurants in Saint-Hubert known for smoked meat sandwiches, a Montréal classic — it's a tradition that pairs perfectly with the airport's old-school, low-frills charm.",
+  "generatedAt": "2026-06-29T18:12:19.324Z",
+  "model": "MiniMax-M3"
+}

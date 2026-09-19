@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XCO",
+    "icao": "YOLA",
+    "name": "Colac Airport",
+    "country": "Australia",
+    "city": "Colac Otway Shire",
+    "lat": -38.2867,
+    "lon": 143.68,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Colac Airport (XCO/YOLA) is a small regional airfield serving the Colac Otway Shire in southwestern Victoria, Australia. Located near the town of Colac, it primarily supports general aviation, recreational flying, and agricultural operations. The airport provides convenient access to the Great Otway National Park and the Great Ocean Road region.",
+  "faqs": "Q: What type of airport is Colac Airport?\nA: Colac Airport is a small regional airport primarily serving general aviation, private pilots, and light aircraft operations. It does not host scheduled commercial airline services.\n\nQ: Where is Colac Airport located?\nA: The airport is situated near the town of Colac in the Colac Otway Shire of southwestern Victoria, Australia, within reach of the Great Ocean Road and the Otway Ranges.\n\nQ: Are there car rental services at Colac Airport?\nA: As a small general aviation airfield, Colac Airport does not typically have on-site car rental counters. Visitors usually arrange transport in advance or rely on services available in the nearby town of Colac.\n\nQ: Can private aircraft land at Colac Airport?\nA: Yes, the airport accommodates private and recreational aircraft, though pilots should verify current runway conditions and any local procedures before arrival.",
+  "transport_tips": "The airport is located a short drive from the town centre of Colac, making access by private vehicle the most practical option. Limited public transport serves the Colac area, so arranging a taxi, rideshare, or pre-booked shuttle in advance is recommended for visitors without their own transport. Road connections via the Princes Highway and the Great Ocean Road provide straightforward routes to surrounding regional destinations.",
+  "local_tip": "If you're flying in for a visit to the Great Ocean Road, plan to arrive during daylight hours as the surrounding rural terrain offers few illuminated landmarks for night navigation, and the drive to coastal attractions like Apollo Bay is far more scenic in good visibility.",
+  "generatedAt": "2026-06-27T05:56:35.280Z",
+  "model": "MiniMax-M3"
+}

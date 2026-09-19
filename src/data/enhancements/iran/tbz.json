@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TBZ",
+    "icao": "OITT",
+    "name": "Tabriz International Airport",
+    "country": "Iran",
+    "city": "Tabriz",
+    "lat": 38.1339,
+    "lon": 46.235,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Tabriz International Airport (TBZ) serves as the primary aviation gateway to northwestern Iran and the capital of East Azerbaijan Province. Located just northeast of Tabriz, one of Iran's oldest and most historically significant cities, the airport handles both domestic routes to major Iranian cities and international flights primarily to destinations in the Middle East and Central Asia. The facility supports the region's tourism, commerce, and carpet trade industries.",
+  "faqs": "Q: How far is Tabriz International Airport from the city center?\nA: The airport is located approximately 8-10 kilometers northeast of downtown Tabriz, typically a 20-30 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, Tabriz International Airport operates international flights to several destinations including cities in Turkey, Iraq, the UAE, and other regional countries, alongside its domestic network.\n\nQ: Are there currency exchange facilities at the airport?\nA: Yes, currency exchange services and banking facilities are available within the terminal for travelers needing Iranian rial or foreign currency services.\n\nQ: Is the airport open 24 hours?\nA: The airport operates during flight hours, with services aligned to scheduled arrivals and departures. It is not typically a 24-hour facility, so travelers should confirm operational hours for late-night or early-morning flights.",
+  "transport_tips": "Taxis are the most common way to reach the city center, with both standard taxis and airport shuttle services available outside the terminal. Ride-hailing apps like Snapp operate in Tabriz and can be used for airport transfers. For travelers heading to other cities in the region, the airport connects to major highways leading toward the Turkey and Armenia borders.",
+  "local_tip": "If you have a long layover or early arrival, visit the nearby Tabriz Historic Bazaar Complex, a UNESCO World Heritage Site and one of the oldest bazaars in the world—just a short taxi ride from the airport and perfect for sampling local crafts and saffron.",
+  "generatedAt": "2026-06-28T22:45:33.483Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HNA",
+    "icao": "RJSI",
+    "name": "Iwate Hanamaki Airport",
+    "country": "Japan",
+    "city": "Hanamaki",
+    "lat": 39.4286,
+    "lon": 141.135,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Iwate Hanamaki Airport serves Iwate Prefecture in the Tohoku region of northern Honshu, Japan, providing vital air access for residents and visitors traveling to this scenic area known for mountains, hot springs, and traditional culture. Located near the city of Hanamaki and within reasonable distance of the prefectural capital Morioka, it functions as a medium-sized regional hub with regular domestic connections. The airport underwent modernization to better serve growing tourism and business demand in the region.",
+  "faqs": "Q: How far is the airport from Morioka?\nA: The airport is approximately 35-40 kilometers south of Morioka, the capital of Iwate Prefecture, with shuttle bus services connecting the two in roughly 45 minutes.\n\nQ: What destinations are served by Iwate Hanamaki Airport?\nA: The airport primarily offers domestic flights to Tokyo Haneda, Osaka Itami, Nagoya, and Sapporo, operated mainly by JAL and other regional carriers.\n\nQ: Are there international flights at this airport?\nA: Currently, Iwate Hanamaki operates mainly domestic flights, though charter international services have occasionally been available depending on seasonal demand.\n\nQ: What facilities are available at the terminal?\nA: The terminal includes standard amenities such as restaurants, souvenir shops featuring local Iwate products, rental car counters, and tourist information desks.",
+  "transport_tips": "Shuttle buses connect the airport directly to Morioka Station, with departures timed to match flight schedules and a journey time of approximately 45 minutes. Rental car services are widely available at the terminal and offer flexibility for exploring the wider Iwate region, including popular destinations like Hiraizumi and the Kitakami area. Taxi services are also available but are more expensive than buses for the longer intercity routes.",
+  "local_tip": "Pick up a local craft beer or sake at the airport's souvenir shop before leaving—the Iwate region is famous for its high-quality rice and resulting beverages, making it a great way to bring home an authentic taste of Tohoku without checking extra luggage.",
+  "generatedAt": "2026-06-29T13:42:01.066Z",
+  "model": "MiniMax-M3"
+}

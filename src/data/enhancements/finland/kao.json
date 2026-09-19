@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KAO",
+    "icao": "EFKS",
+    "name": "Kuusamo Airport",
+    "country": "Finland",
+    "city": "Kuusamo",
+    "lat": 65.9876,
+    "lon": 29.2394,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kuusamo Airport (KAO) is a regional airport serving the Kuusamo municipality in northeastern Finland, near the Russian border. It functions as the primary gateway to the Ruka ski resort and the surrounding Oulu Region wilderness, which is renowned for downhill skiing, snowmobiling, and Arctic nature tourism. The airport sees increased seasonal traffic during the long winter season when visitors flock to nearby Lapland destinations.",
+  "faqs": "Q: Which airlines operate at Kuusamo Airport?\nA: Finnair operates regular scheduled flights primarily to and from Helsinki-Vantaa Airport, with increased frequency during the winter ski season.\n\nQ: How far is the airport from Ruka ski resort?\nA: Ruka is approximately 25-30 kilometers north of the airport, reachable by car, taxi, or shuttle bus in roughly 30-40 minutes.\n\nQ: What is the best time to visit Kuusamo?\nA: The region is most popular from December through April for winter sports and Northern Lights viewing, while summer attracts hikers and anglers enjoying the midnight sun.\n\nQ: Are there car rental services available at the airport?\nA: Yes, several car rental companies operate at Kuusamo Airport, though it is advisable to book in advance during peak winter holiday periods.",
+  "transport_tips": "Skibus services connect the airport with Ruka and Kuusamo town center, typically timed to match flight schedules during the winter season. Taxis are available outside the terminal but should be pre-booked during late-night arrivals as availability can be limited. Renting a car is highly recommended for travelers planning to explore the surrounding national parks and remote wilderness areas.",
+  "local_tip": "Pack your flight arrival snacks—Kuusamo's remote location means terminal dining options are limited, and the small airport often experiences weather-related delays during heavy snowfall, so having extra supplies and patience is wise for the Arctic conditions.",
+  "generatedAt": "2026-06-29T07:57:59.013Z",
+  "model": "MiniMax-M3"
+}

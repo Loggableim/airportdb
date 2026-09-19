@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CXL",
+    "icao": "KCXL",
+    "name": "Calexico International Airport",
+    "country": "United States",
+    "city": "Calexico",
+    "lat": 32.6695,
+    "lon": -115.513,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Calexico International Airport (CXL) is a small public-use airport situated in Imperial County, California, immediately adjacent to the US-Mexico border across from Mexicali, Baja California. The facility primarily serves general aviation, private aircraft, and limited cross-border operations, functioning as a convenient gateway for travelers moving between the Imperial Valley and northern Mexico. Its strategic border location makes it a notable hub for private and charter flights rather than commercial passenger service.",
+  "faqs": "Q: Does Calexico International Airport offer commercial passenger flights?\nA: No, CXL does not currently provide scheduled commercial passenger service. It primarily handles general aviation, private aircraft, and charter operations.\n\nQ: Where is the airport located in relation to the Mexican border?\nA: The airport sits just north of the US-Mexico border, directly adjacent to the city of Mexicali, Baja California, making cross-border travel by air and ground very convenient.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, aircraft parking areas, and basic services for general aviation. Travelers should contact the airport or their operator in advance for specific amenity availability.\n\nQ: Can travelers cross into Mexico from this airport?\nA: While the airport itself does not have a dedicated commercial border crossing, the nearby Calexico West and Calexico East land ports of entry handle pedestrian and vehicle crossings into Mexicali.\n\n",
+  "transport_tips": "Calexico International Airport is just minutes from downtown Calexico and the international border crossings into Mexicali, making ground transportation straightforward by car or taxi. Rental car services and local taxi operators are typically available for short trips into either city. Visitors crossing into Mexico should ensure they have proper documentation, as border wait times can vary significantly throughout the day.",
+  "local_tip": "For the smoothest experience, time your ground crossing into Mexicali for early morning or late evening when wait times at the border are typically shortest, and consider applying for a SENTRI or Global Entry card if you travel the border frequently.",
+  "generatedAt": "2026-06-27T00:39:41.610Z",
+  "model": "MiniMax-M3"
+}

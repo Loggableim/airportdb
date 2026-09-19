@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TNR",
+    "icao": "FMMI",
+    "name": "Ivato International Airport",
+    "country": "Madagascar",
+    "city": "Antananarivo",
+    "lat": -18.7969,
+    "lon": 47.4788,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Ivato International Airport (TNR) is the main international gateway to Madagascar, located about 16 kilometers northwest of the capital Antananarivo in the central highlands. Originally built during the French colonial era, it serves as the primary hub for Air Madagascar and handles the vast majority of the country's international flights. The airport sits at an elevation of roughly 4,200 feet, giving it a distinctive high-altitude operational profile.",
+  "faqs": "Q: How far is Ivato Airport from central Antananarivo?\nA: Approximately 16 km (10 miles), with a typical drive time of 30-45 minutes depending on traffic and road conditions.\n\nQ: Are there currency exchange facilities at the airport?\nA: Yes, exchange counters and ATMs are available in the arrivals hall, though rates are generally better in the city.\n\nQ: What airlines operate from Ivato International Airport?\nA: Air Madagascar is the national carrier, with international connections served by airlines including Air France, Kenya Airways, and Ethiopian Airlines.\n\nQ: Is there a duty-free shop at the airport?\nA: Yes, a small duty-free area is available after security, offering local vanilla, rum, and crafts alongside standard international products.",
+  "transport_tips": "Taxis are the most common way to reach central Antananarivo; agree on the fare before departure as meters are rarely used. Pre-arranged hotel transfers are recommended for first-time visitors, especially after dark when road conditions can be challenging. Ride-hailing apps have limited availability, so booking through your accommodation is often the most reliable option.",
+  "local_tip": "The airport's high elevation means flights can occasionally be delayed by afternoon fog rolling in from the highlands—morning departures and arrivals are the most reliable, so try to schedule connections accordingly.",
+  "generatedAt": "2026-06-28T17:53:33.573Z",
+  "model": "MiniMax-M3"
+}

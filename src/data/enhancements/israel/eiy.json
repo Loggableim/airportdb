@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EIY",
+    "icao": "LLEY",
+    "name": "Ein Yahav Airfield",
+    "country": "Israel",
+    "city": "Sapir",
+    "lat": 30.6217,
+    "lon": 35.2033,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Ein Yahav Airfield (EIY/LLEY) is a small rural airstrip serving the agricultural communities of the Arava Valley in southern Israel, near the kibbutzim of Sapir and Ein Yahav. The airfield primarily supports light aviation, agricultural aviation, and charter flights in this remote desert region. It plays a role in connecting the isolated southern Arava settlements to the rest of the country.",
+  "faqs": "Q: What is Ein Yahav Airfield used for?\nA: The airfield primarily serves light aircraft, agricultural aviation, and private charter flights supporting the surrounding kibbutz communities in the Arava Valley.\n\nQ: Are there commercial passenger flights at Ein Yahav?\nA: No scheduled commercial passenger service operates from this small airfield; it mainly accommodates general aviation and private aircraft.\n\nQ: Where is the airfield located?\nA: It is situated in the southern Arava Valley near the kibbutzim of Ein Yahav and Sapir, in a remote desert area of southern Israel.\n\nQ: What facilities are available at the airport?\nA: As a small rural airstrip, facilities are minimal, with basic runway infrastructure and no large terminal buildings or commercial amenities on site.\n\n",
+  "transport_tips": "Ground transport to the airfield must be arranged in advance, as there is no public transit serving this remote location. Rental cars from Eilat or Be'er Sheva, or pre-booked taxi services, are the most practical options. The drive from Eilat takes approximately 1.5 to 2 hours north along Route 90.",
+  "local_tip": "If visiting the area, combine your trip with a stop at the nearby Hai-Bar Nature Reserve or one of the Arava date farms, as the airfield sits in one of Israel's most unique agricultural and ecological zones.",
+  "generatedAt": "2026-06-27T10:31:52.280Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BWO",
+    "icao": "UWSB",
+    "name": "Balakovo Airport",
+    "country": "Russia",
+    "city": "Balakovo",
+    "lat": 51.8583,
+    "lon": 47.7456,
+    "type": "medium_airport",
+    "size": 550
+  },
+  "summary": "Balakovo Airport (BWO/UWSB) is a medium-sized regional airport serving the industrial city of Balakovo in Saratov Oblast, southwestern Russia. The facility primarily supports regional aviation, charter flights, and general aviation traffic connected to the area's nuclear power plant and chemical industries. Located on the eastern bank of the Volga River, it provides an important air link for this river-port city of around 190,000 residents.",
+  "faqs": "Q: Does Balakovo Airport offer regular commercial passenger flights?\nA: Scheduled passenger service is very limited; most current operations relate to regional, charter, and general aviation. Travelers should verify current flight availability before planning a trip.\n\nQ: What is the airport primarily used for today?\nA: The airport serves general aviation, private flights, and occasional regional routes, while also supporting aviation needs related to Balakovo's energy and industrial facilities.\n\nQ: Are there international flights from Balakovo?\nA: No regular international service operates from BWO; international travelers typically connect through larger airports such as Saratov or Moscow.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic passenger amenities typical of a regional Russian airport, including a waiting area and check-in counters, though services are limited compared to major hubs.",
+  "transport_tips": "The airport is located just a few kilometers northeast of the city center, making the journey by car or taxi quick and straightforward, typically under 20 minutes. Public transport options are limited, so arranging a taxi in advance or booking a transfer through your accommodation is recommended. Rental cars are generally not available on-site, so plan ground transportation before arrival.",
+  "local_tip": "If you need to stay overnight near the airport, there are a few small hotels in central Balakovo that are more comfortable than airport-adjacent options, and many locals recommend arranging a return taxi through your hotel rather than relying on street pickup, which can be inconsistent.",
+  "generatedAt": "2026-06-29T17:53:46.528Z",
+  "model": "MiniMax-M3"
+}

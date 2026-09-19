@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SNL",
+    "icao": "KSNL",
+    "name": "Shawnee Regional Airport",
+    "country": "United States",
+    "city": "Shawnee",
+    "lat": 35.3579,
+    "lon": -96.9428,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Shawnee Regional Airport is a small public-use airport serving the city of Shawnee, Oklahoma, located in the central part of the state. The airport primarily supports general aviation and offers facilities for private pilots, flight training, and occasional charter operations. It provides convenient air access for the surrounding Pottawatomie County area, which lies east of the Oklahoma City metropolitan region.",
+  "faqs": "Q: What is the airport code for Shawnee Regional Airport?\nA: The IATA code is SNL and the ICAO code is KSNL.\n\nQ: What type of airport is Shawnee Regional?\nA: It is classified as a small public-use airport serving general aviation activities.\n\nQ: Does Shawnee Regional Airport offer commercial airline service?\nA: No, the airport primarily serves general aviation and does not typically offer scheduled commercial passenger service.\n\nQ: Where is Shawnee Regional Airport located?\nA: It is located in Shawnee, Oklahoma, approximately 35.358°N latitude and 96.943°W longitude, east of Oklahoma City.",
+  "transport_tips": "The airport is located just a short drive from downtown Shawnee, making ground transportation quick and convenient. Rental cars and local taxi services are typically the most practical options for travelers arriving by air. Having a personal vehicle is recommended, as public transit options to the airport may be limited.",
+  "local_tip": "If you're flying in for a visit, consider stopping by the nearby Citizen Potawatomi Nation Cultural Heritage Center to learn about the region's Native American history before exploring the rest of Shawnee.",
+  "generatedAt": "2026-06-27T05:04:52.189Z",
+  "model": "MiniMax-M3"
+}

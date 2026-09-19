@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RES",
+    "icao": "SARE",
+    "name": "Resistencia International Airport",
+    "country": "Argentina",
+    "city": "Resistencia",
+    "lat": -27.4499,
+    "lon": -59.0561,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Resistencia International Airport serves the capital city of Chaco Province in northeastern Argentina and also functions as a key gateway for the nearby city of Corrientes across the Paraná River. Located approximately 8 km from Resistencia's city center, the airport primarily handles domestic flights connecting the region to Buenos Aires and other major Argentine destinations. The facility supports both commercial passenger service and general aviation operations in the Gran Chaco region.",
+  "faqs": "Q: How far is the airport from Resistencia city center?\nA: The airport is located approximately 8 kilometers west of downtown Resistencia, with a typical drive taking around 15-20 minutes depending on traffic.\n\nQ: What airlines operate at Resistencia International Airport?\nA: Aerolíneas Argentinas is the primary carrier operating scheduled domestic flights, with services mainly to Buenos Aires (Aeroparque Jorge Newbery and Ezeiza).\n\nQ: Can I travel from this airport to Corrientes city?\nA: Yes, the airport is commonly used by travelers visiting Corrientes, which lies across the Paraná River. The General Manuel Belgrano Bridge connects the two cities, and ground transportation is readily available.\n\nQ: Does the airport have international flights?\nA: While classified as an international airport, current scheduled operations are primarily domestic, though the infrastructure supports occasional international charter or regional flights.",
+  "transport_tips": "Taxis and remise services (pre-booked private cars) are the most reliable options for ground transportation and can be arranged at designated counters in the arrivals hall. The airport is conveniently located along National Route 11, providing direct road access to Resistencia and onward connections to Corrientes. Rideshare apps have limited availability in this region, so arranging a taxi or remise in advance is recommended, especially for early morning flights.",
+  "local_tip": "If you have time between flights, consider visiting Resistencia's urban sculpture park, which holds the Guinness World Record for the largest open-air sculpture collection in the Americas, just a short ride from the airport.",
+  "generatedAt": "2026-06-29T00:09:46.224Z",
+  "model": "MiniMax-M3"
+}

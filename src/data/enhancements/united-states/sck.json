@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SCK",
+    "icao": "KSCK",
+    "name": "Stockton Metropolitan Airport",
+    "country": "United States",
+    "city": "Stockton",
+    "lat": 37.8933,
+    "lon": -121.2381,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Stockton Metropolitan Airport (SCK) is a publicly owned, medium-sized facility located approximately five miles south of downtown Stockton in California's San Joaquin Valley. Originally established in the 1930s, the airport has served as a general aviation hub and occasional commercial gateway for the Stockton metropolitan area. It features three runways and supports both civilian and limited military operations, while also hosting Amazon Air and other cargo carriers.",
+  "faqs": "Q: What airlines fly out of Stockton Metropolitan Airport?\nA: Passenger service is limited, with carriers such as Allegiant Air historically offering nonstop flights to select leisure destinations. Availability varies, so travelers should confirm current schedules.\n\nQ: How far is the airport from downtown Stockton?\nA: The airport is approximately five miles south of downtown Stockton, typically a 10–15 minute drive depending on traffic.\n\nQ: Does Stockton Metropolitan Airport have customs and border protection facilities?\nA: The airport does not currently have a staffed CBP facility, so international arrivals are not routinely processed there. Travelers should verify customs availability before planning international flights.\n\nQ: Is there a terminal with amenities like food and parking?\nA: Yes, the passenger terminal offers basic amenities, short- and long-term parking, and rental car services on-site.",
+  "transport_tips": "Travelers can reach the airport by car via Interstate 5 or Highway 99, both providing direct access within minutes. Rental car agencies operate on-site, and rideshare services like Uber and Lyft serve the terminal. Local taxi companies also provide service, though advance booking is recommended for departures.",
+  "local_tip": "The airport sits adjacent to the Stockton Indoor Sports Complex and is close to Lodi wine country, making it a surprisingly convenient entry point for visitors combining Bay Area travel with wine tasting in nearby Lodi, which is less than 20 miles north.",
+  "generatedAt": "2026-06-29T18:14:54.494Z",
+  "model": "MiniMax-M3"
+}

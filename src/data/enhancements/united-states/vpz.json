@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VPZ",
+    "icao": "KVPZ",
+    "name": "Porter County Municipal Airport",
+    "country": "United States",
+    "city": "Valparaiso",
+    "lat": 41.454,
+    "lon": -87.0071,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Porter County Municipal Airport (VPZ) is a medium-sized general aviation facility serving Valparaiso in northwestern Indiana, situated roughly 50 miles southeast of downtown Chicago. The airport supports corporate, recreational, and flight training operations for the surrounding Porter County region near the Indiana Dunes National Park. It features multiple runways and serves as an important reliever airport for the greater Chicago metropolitan area.",
+  "faqs": "Q: What type of airport is Porter County Municipal Airport?\nA: It is a medium-sized general aviation airport with no scheduled commercial passenger service, primarily serving private, corporate, and flight training operations.\n\nQ: How far is the airport from Chicago?\nA: The airport is located approximately 50 miles southeast of downtown Chicago, making it a convenient option for travelers heading to or from the Chicago metropolitan area.\n\nQ: Does the airport have any scheduled airline service?\nA: No, Porter County Municipal Airport does not offer scheduled commercial airline service. Travelers needing commercial flights typically use Chicago O'Hare (ORD) or Chicago Midway (MDW).\n\nQ: Are there flight training schools at the airport?\nA: Yes, the airport hosts flight training operations and is a popular destination for pilot instruction in the region.\n\n",
+  "transport_tips": "Reaching the airport is easiest by personal vehicle or rental car, as there is no public transit directly serving the facility. The airport is located just off US Route 30 and State Road 49, with straightforward road access from Valparaiso and surrounding communities. Rideshare services such as Uber and Lyft may be available but should be scheduled in advance given the airport's smaller footprint.",
+  "local_tip": "Frequent visitors recommend stopping by the on-site restaurant or pilot lounge for a meal with views of the airfield—it is a favorite gathering spot for local aviators and a great way to experience the airport's aviation culture.",
+  "generatedAt": "2026-06-30T03:07:18.560Z",
+  "model": "MiniMax-M3"
+}

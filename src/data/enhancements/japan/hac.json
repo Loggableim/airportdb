@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HAC",
+    "icao": "RJTH",
+    "name": "Hachijojima Airport",
+    "country": "Japan",
+    "city": "Hachijojima",
+    "lat": 33.1148,
+    "lon": 139.7856,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Hachijojima Airport (HAC) is a regional airport serving Hachijo Island, a volcanic subtropical island roughly 287 km south of Tokyo in the Izu Island chain. Administratively part of Tokyo Metropolis, the airport provides a vital air link between the remote island and the Japanese capital, primarily handling domestic flights to and from Tokyo Haneda. The facility supports tourism for an island known for its dramatic volcanic landscapes, scuba diving, and unique subtropical flora.",
+  "faqs": "Q: What is the main route served by Hachijojima Airport?\nA: The airport's primary route connects Hachijojima with Tokyo Haneda Airport, with multiple daily flights operated by ANA typically scheduled year-round.\n\nQ: How long is the flight from Tokyo to Hachijojima?\nA: The flight from Tokyo Haneda to Hachijojima takes approximately 45 to 55 minutes, making it a quick way to reach the island compared to the overnight ferry.\n\nQ: Are there international flights at Hachijojima Airport?\nA: No, Hachijojima Airport handles domestic flights only. International travelers typically connect through Tokyo Haneda or other mainland Japanese airports.\n\nQ: Does Hachijojima Airport have night operations?\nA: The airport has limited operating hours and does not support late-night or overnight flights, with schedules concentrated during daytime hours.\n\n",
+  "transport_tips": "From the airport, rental cars and taxis are the primary ways to reach accommodations across the island, with the drive to most resorts taking 10 to 20 minutes. Public buses also connect the airport to major towns, though service is infrequent. Booking ground transport in advance is recommended during peak summer and holiday seasons when tourist demand spikes.",
+  "local_tip": "If you have a layover or early arrival, visit the small observation area near the terminal for views of Mount Hachijo-Fuji, the island's iconic dormant volcano that rises behind the airfield.",
+  "generatedAt": "2026-06-29T10:29:33.168Z",
+  "model": "MiniMax-M3"
+}

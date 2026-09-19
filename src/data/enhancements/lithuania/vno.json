@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VNO",
+    "icao": "EYVI",
+    "name": "Vilnius International Airport",
+    "country": "Lithuania",
+    "city": "Vilnius",
+    "lat": 54.6341,
+    "lon": 25.2858,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Vilnius International Airport is the busiest and largest airport in Lithuania, serving the capital city of Vilnius. Situated approximately 7 km south of the city center, it functions as the main international gateway for the Baltic state and is a key hub for regional carrier airBaltic. The single-terminal facility handles millions of passengers annually and connects Lithuania to dozens of European and select long-haul destinations.",
+  "faqs": "Q: How far is Vilnius Airport from the city center?\nA: The airport is located about 7 kilometers south of Vilnius city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Are there direct public transport options from the airport?\nA: Yes, several city buses and a dedicated airport shuttle connect the terminal to central Vilnius, including the main railway and bus stations.\n\nQ: Does the airport operate 24 hours?\nA: The terminal building generally opens early morning and closes late at night, with flight schedules covering most of the day; check your airline for specific operating hours.\n\nQ: Is Vilnius Airport a hub for any major airline?\nA: It serves as a key operational base for airBaltic and is also significantly used by Ryanair and Wizz Air for low-cost European connections.",
+  "transport_tips": "A dedicated airport bus and regular city bus services run between the terminal and central Vilnius, including stops near the main train station. Taxis and ride-hailing apps are readily available outside arrivals and the trip to the Old Town typically takes 15-20 minutes. Car rentals from major international providers are available on-site, and the airport is well connected to the E28 highway for onward road travel.",
+  "local_tip": "Frequent travelers recommend allowing extra time during winter months, as Baltic snowstorms can occasionally cause delays or runway closures—keep an eye on airline notifications before heading to the airport.",
+  "generatedAt": "2026-06-28T16:32:33.892Z",
+  "model": "MiniMax-M3"
+}

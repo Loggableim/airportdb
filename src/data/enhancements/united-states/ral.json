@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RAL",
+    "icao": "KRAL",
+    "name": "Riverside Municipal Airport",
+    "country": "United States",
+    "city": "Riverside",
+    "lat": 33.9519,
+    "lon": -117.445,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Riverside Municipal Airport is a publicly owned general aviation airport located in Riverside, California, within the Inland Empire region east of Los Angeles. It serves as a reliever airport for the congested Southern California airspace and hosts a mix of private aviation, flight training, and corporate operations. The facility features multiple runways and supports a variety of aviation activities including skydiving, aircraft rentals, and aviation education.",
+  "faqs": "Q: What type of airport is Riverside Municipal?\nA: It is a medium-sized public general aviation airport serving the Riverside area and relieving congestion from larger Southern California airports.\n\nQ: Does Riverside Municipal offer commercial airline service?\nA: No, the airport primarily serves general aviation, private aircraft, flight training, and corporate flights rather than scheduled commercial carriers.\n\nQ: What activities are available at the airport?\nA: The airport supports flight training schools, aircraft rentals, skydiving operations, and hosts several aviation businesses and FBOs (Fixed-Base Operators).\n\nQ: How many runways does RAL have?\nA: Riverside Municipal has two runways, including a primary runway suitable for most general aviation aircraft.\n\n",
+  "transport_tips": "The airport is located off Arlington Avenue with convenient access from Interstate 91 and State Route 60, making it a short drive from downtown Riverside. On-site parking is generally available, and rideshare services like Uber and Lyft operate in the area. Rental cars can also be arranged through nearby providers in Riverside.",
+  "local_tip": "If you're visiting for skydiving or flight training, book well in advance during weekends as the airport gets busy with active flyers, and consider arriving early to enjoy the on-site restaurants with views of the runway.",
+  "generatedAt": "2026-06-30T02:08:53.792Z",
+  "model": "MiniMax-M3"
+}

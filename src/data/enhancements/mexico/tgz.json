@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TGZ",
+    "icao": "MMTG",
+    "name": "Angel Albino Corzo International Airport",
+    "country": "Mexico",
+    "city": "Tuxtla Gutiérrez",
+    "lat": 16.5616,
+    "lon": -93.0257,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Angel Albino Corzo International Airport (TGZ) is the main air gateway to Tuxtla Gutiérrez, the capital of the Mexican state of Chiapas, and the surrounding region. Named after a 19th-century lawyer and former governor of Chiapas, the airport serves as a key access point for travelers heading to popular destinations like San Cristóbal de las Casas, Palenque, and the Sumidero Canyon. It primarily handles domestic flights connecting Chiapas with Mexico City and other major Mexican cities.",
+  "faqs": "Q: Which airlines operate at Angel Albino Corzo International Airport?\nA: The airport is served primarily by Mexican carriers such as Aeroméxico, Volaris, and Viva Aerobus, offering flights to Mexico City and a few other domestic destinations.\n\nQ: How far is the airport from Tuxtla Gutiérrez city center?\nA: The airport is located approximately 20-27 km (12-17 miles) southwest of the city center, with typical travel times of 30-40 minutes by road.\n\nQ: Are there international flights from TGZ?\nA: The airport has international infrastructure but currently operates mostly domestic flights, with occasional international charter or seasonal services.\n\nQ: Can I get to San Cristóbal de las Casas from this airport?\nA: Yes, ADO bus services and private shuttle options run from the airport area to San Cristóbal de las Casas, a journey of roughly 1.5-2 hours.",
+  "transport_tips": "Official airport taxis and pre-booked shuttles are available outside the terminal; fares to Tuxtla",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T08:30:47.440Z",
+  "model": "MiniMax-M3"
+}

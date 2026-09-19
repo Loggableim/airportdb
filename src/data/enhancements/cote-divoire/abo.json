@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ABO",
+    "icao": "DIAO",
+    "name": "Aboisso Airport",
+    "country": "Côte d'Ivoire",
+    "city": "Aboisso",
+    "lat": 5.4619,
+    "lon": -3.2347,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Aboisso Airport is a small regional airfield serving the town of Aboisso in southeastern Côte d'Ivoire, near the border with Ghana. The airport supports limited general aviation and charter operations, primarily connecting the local community to other domestic destinations. Its modest infrastructure reflects its role as a secondary facility complementing the country's main international gateways.",
+  "faqs": "Q: What type of flights operate from Aboisso Airport?\nA: The airport primarily handles small private aircraft, charter flights, and limited general aviation operations rather than scheduled commercial service.\n\nQ: Does Aboisso Airport have passenger terminals?\nA: As a small airfield, it has minimal terminal facilities suited to light traffic volumes.\n\nQ: Is the airport open to international flights?\nA: It is generally used for domestic and regional flights within West Africa; major international travel typically routes through Abidjan's Félix-Houphouët-Boigny International Airport.\n\nQ: Are there customs and immigration services?\nA: Customs and immigration services are limited; travelers should verify requirements in advance for cross-border flights.\n\n",
+  "transport_tips": "Ground transportation from Aboisso Airport is typically arranged by road, with taxis and private vehicles being the most common options. The town of Aboisso is accessible via the regional road network connecting to Abidjan, roughly 100 kilometers to the west. Travelers should arrange transport in advance as on-site rental and rideshare options are limited.",
+  "local_tip": "Frequent visitors recommend contacting local operators in Aboisso town before arrival, as the airport has no fixed-schedule commercial flights and arrangements are often made through charter or on-demand services.",
+  "generatedAt": "2026-06-27T11:22:23.651Z",
+  "model": "MiniMax-M3"
+}

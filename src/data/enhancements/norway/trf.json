@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TRF",
+    "icao": "ENTO",
+    "name": "Sandefjord Airport, Torp",
+    "country": "Norway",
+    "city": "Sandefjord(Torp)",
+    "lat": 59.1867,
+    "lon": 10.2586,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Sandefjord Airport, Torp (TRF) is a major regional airport serving the Vestfold region and providing a low-cost alternative to Oslo Gardermoen, located approximately 110 km south of the Norwegian capital. Originally established as a military airfield and later transitioning to civilian use in the 1960s, Torp has grown into one of Norway's busiest airports for low-cost carriers such as Ryanair and Wizz Air. The single-terminal facility serves travelers heading to popular destinations across Europe while offering a notably quicker check-in experience than larger Norwegian hubs.",
+  "faqs": "Q: How far is Sandefjord Airport Torp from Oslo?\nA: The airport is approximately 110 km south of Oslo, reachable in about 1 hour 45 minutes by train or 1 hour 30 minutes by car via the E18 motorway.\n\nQ: How do I get from the airport to Torp railway station?\nA: A shuttle bus operates between the airport terminal and Torp station, covering the roughly 3 km distance in just a few minutes and timed to connect with regional trains.\n\nQ: Which airlines fly from Sandefjord Torp?\nA: Torp is primarily served by low-cost carriers including Ryanair and Wizz Air, offering routes to destinations across Europe such as London, Alicante, Gdansk, and Krakow.\n\nQ: Are there hotels near the airport?\nA: Yes, several budget and mid-range hotels are located within a short drive or shuttle ride of the terminal, including options in nearby Sandefjord and Tønsberg.",
+  "transport_tips": "The Vestfold Line (NSB) regional train is the most reliable option to reach Oslo, with direct services running to Oslo Central Station roughly every 30–60 minutes. The airport shuttle bus to Torp station costs only a few kroner and is well-coordinated with train arrivals and departures. If driving, the E18 motorway provides a straightforward route, and long-stay parking is available on-site at reasonable rates compared to Oslo's main airport.",
+  "local_tip": "If you have a long layover or extra time, take the short train ride north to the coastal town of T",
+  "generatedAt": "2026-06-28T18:31:28.590Z",
+  "model": "MiniMax-M3"
+}

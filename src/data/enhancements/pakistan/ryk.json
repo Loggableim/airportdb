@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RYK",
+    "icao": "OPRK",
+    "name": "Shaikh Zaid Airport",
+    "country": "Pakistan",
+    "city": "Rahim Yar Khan",
+    "lat": 28.3839,
+    "lon": 70.2796,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Shaikh Zaid Airport (RYK) is a medium-sized public airport serving Rahim Yar Khan in southern Punjab, Pakistan. The facility was constructed with funding from Sheikh Zayed bin Sultan Al Nahyan, the founding father of the United Arab Emirates, giving the airport its distinctive name. It functions as an important regional gateway for the agricultural districts of southern Punjab and connects to major Pakistani hubs.",
+  "faqs": "Q: What is Shaikh Zaid Airport named after?\nA: The airport is named after Sheikh Zayed bin Sultan Al Nahyan, the founding father of the UAE, whose patronage supported its development.\n\nQ: Where is the airport located relative to the city center?\nA: It sits on the outskirts of Rahim Yar Khan, roughly 10 km from the main city, offering a short commute to and from downtown.\n\nQ: What types of flights operate from RYK?\nA: The airport primarily handles domestic flights connecting Rahim Yar Khan with Karachi, Lahore, and Islamabad, mostly operated by Pakistan International Airlines and private carriers.\n\nQ: Does the airport offer international services?\nA: Historically the airport has handled limited international traffic; current scheduled services are predominantly domestic.\n\n",
+  "transport_tips": "Taxis and rickshaws are the most common ways to reach the airport from Rahim Yar Khan city, with the journey typically taking 15 to 20 minutes. Pre-arranging a ride through a local contact or hotel is recommended, especially for early morning departures when public options are limited. The airport's compact size means you can usually arrive 60 to 90 minutes before your flight and check in comfortably.",
+  "local_tip": "Carry cash in Pakistani rupees for taxi fares and any small purchases at the terminal, as card acceptance can be inconsistent and ATMs in the airport area may be limited or out of service.",
+  "generatedAt": "2026-06-29T15:38:46.365Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MEM",
+    "icao": "KMEM",
+    "name": "Memphis International Airport",
+    "country": "United States",
+    "city": "Memphis",
+    "lat": 35.0438,
+    "lon": -89.9763,
+    "type": "large_airport",
+    "size": 1014475
+  },
+  "summary": "Memphis International Airport (MEM) serves the Memphis metropolitan area in Tennessee and historically operated as the central global 'Superhub' for FedEx Express, which has been headquartered in Memphis since 1973. The airport has undergone significant modernization in recent years, consolidating its operations into a streamlined terminal complex to better serve passengers. Located about 7 miles southeast of downtown Memphis, it offers convenient access to the city's renowned musical heritage, barbecue culture, and Mississippi River attractions.",
+  "faqs": "Q: What is Memphis International Airport best known for?\nA: It is internationally recognized as the longtime global 'Superhub' of FedEx Express, the world's largest cargo airline, which sorts millions of packages there each night.\n\nQ: How far is the airport from downtown Memphis?\nA: The airport is approximately 7 miles (11 km) southeast of downtown Memphis, typically a 15-20 minute drive depending on traffic.\n\nQ: Does Memphis International have multiple terminals?\nA: The airport consolidated its terminal operations in recent years, with all passenger flights now using a modernized single-terminal complex featuring Concourse A and Concourse B.\n\nQ: Are there direct flights to international destinations?\nA: MEM primarily offers domestic service, with international cargo flights dominating the international schedule due to FedEx operations; passenger international service is limited.",
+  "transport_tips": "The airport is best reached by car via Interstate 55 and Interstate 22, with on-site parking and rental car facilities available. Memphis Area Transit Authority (MATA) Route 28 provides public bus service between the airport and downtown Memphis. Taxi, rideshare services like Uber and Lyft, and shuttle options are readily available at the ground transportation area.",
+  "local_tip": "If you have a long layover or early arrival, consider visiting the iconic Pyramid Arena just minutes from the airport, or grab authentic Memphis barbecue at a nearby local spot—Central BBQ and Corky's are both local favorites within easy reach.",
+  "generatedAt": "2026-06-28T15:15:49.380Z",
+  "model": "MiniMax-M3"
+}

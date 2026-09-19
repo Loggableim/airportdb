@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JVL",
+    "icao": "KJVL",
+    "name": "Southern Wisconsin Regional Airport",
+    "country": "United States",
+    "city": "Janesville",
+    "lat": 42.6203,
+    "lon": -89.0416,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Southern Wisconsin Regional Airport (JVL) is a general aviation and limited commercial facility located in Janesville, Wisconsin, serving the Janesville-Beloit metropolitan area. Situated on the north side of Janesville in Rock County, the airport has historically supported general aviation, flight training, and occasional charter operations. It serves as an important regional aviation asset for southern Wisconsin, conveniently positioned between Madison and the Illinois state line.",
+  "faqs": "Q: Does Southern Wisconsin Regional Airport offer scheduled commercial flights?\nA: Scheduled commercial service has been limited or nonexistent in recent years; the airport primarily supports general aviation, corporate flights, and air charter operations.\n\nQ: What facilities are available at JVL?\nA: The airport features runways, hangars, a fixed-base operator (FBO) for fueling and ground services, tie-down areas, and flight training facilities.\n\nQ: How close is the airport to downtown Janesville?\nA: The airport is located on the north side of Janesville, typically about a 10-15 minute drive from the downtown area.\n\nQ: Can private pilots use this airport?\nA: Yes, JVL welcomes general aviation traffic and offers fuel services, hangar rentals, and standard airfield amenities for private and transient pilots.\n\n",
+  "transport_tips": "The airport is best reached by private vehicle, as there is no direct public transit serving the terminal area. Rental cars and rideshare services like Uber or Lyft are available in Janesville, though availability may be limited compared to larger cities. Taxi service can typically be arranged in advance through local providers.",
+  "local_tip": "If you're visiting Janesville by private or charter aircraft, plan your fuel stop during weekday business hours for the smoothest FBO service, and consider arriving before sunset to enjoy the scenic approach over the Rock River valley.",
+  "generatedAt": "2026-06-27T00:03:15.047Z",
+  "model": "MiniMax-M3"
+}

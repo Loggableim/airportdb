@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JCK",
+    "icao": "YJLC",
+    "name": "Julia Creek Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -20.6683,
+    "lon": 141.723,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Julia Creek Airport (JCK/YJLC) is a small regional airstrip serving the remote outback town of Julia Creek in northwestern Queensland, Australia. Situated in the McKinlay Shire amid the vast Mitchell Grass Downs, the airport provides essential connectivity for this isolated community, which is famous for its rich dinosaur fossil deposits and the annual Dirt n Dust Festival. The facility primarily supports general aviation, charter flights, and the Royal Flying Doctor Service.",
+  "faqs": "Q: What is Julia Creek Airport used for?\nA: It primarily serves general aviation, charter flights, and emergency medical services like the Royal Flying Doctor Service for the remote McKinlay Shire community.\n\nQ: Are there scheduled commercial flights to Julia Creek?\nA: No scheduled commercial passenger services operate from the airport; visitors typically fly into larger hubs and travel overland or use chartered aircraft.\n\nQ: Where is Julia Creek located?\nA: Julia Creek is in northwestern Queensland, approximately 600 kilometers inland from Townsville, in the heart of the outback grazing country.\n\nQ: What facilities are available at the airport?\nA: As a small regional strip, it offers basic amenities with limited terminal infrastructure; passengers should arrange ground transport and services in advance.\n\n",
+  "transport_tips": "Getting to Julia Creek typically requires driving along the Flinders Highway, which passes directly through town. Car hire is the most practical option for visitors, as public transport in this remote region is minimal. The nearest major airport with regular commercial service is Townsville, roughly a 7-8 hour drive to the east.",
+  "local_tip": "If visiting during the annual Dirt n Dust Festival, book accommodation and transport months in advance, as the tiny town's population of around 500 swells significantly during this popular outback event.",
+  "generatedAt": "2026-06-26T15:23:36.342Z",
+  "model": "MiniMax-M3"
+}

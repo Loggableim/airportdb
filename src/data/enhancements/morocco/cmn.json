@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CMN",
+    "icao": "GMMN",
+    "name": "Mohammed V International Airport",
+    "country": "Morocco",
+    "city": "Casablanca",
+    "lat": 33.3675,
+    "lon": -7.59,
+    "type": "large_airport",
+    "size": 1200
+  },
+  "summary": "Mohammed V International Airport is Morocco's busiest and largest airport, located approximately 30 km southeast of Casablanca in the commune of Nouaceur. Named after the late King Mohammed V, it serves as the primary hub for Royal Air Maroc and is a major gateway connecting Europe, Africa, and the Americas. The airport features three terminals handling domestic, international, and dedicated Mohammed V Cargo operations.",
+  "faqs": "Q: How far is Mohammed V Airport from Casablanca city center?\nA: The airport is about 30 km southeast of central Casablanca, with typical journey times of 45-60 minutes depending on traffic.\n\nQ: Which airlines operate from this airport?\nA: Royal Air Maroc uses it as its main hub, and it is served by numerous international carriers including Air France, Emirates, Turkish Airlines, Lufthansa, and many others connecting to destinations across Europe, Africa, the Middle East, and North America.\n\nQ: Are there facilities for overnight stays at the airport?\nA: Yes, the airport offers limited hotels nearby and airport lounges, though most travelers prefer to stay in Casablanca or nearby cities.\n\nQ: Is the airport accessible by train?\nA: Yes, the ONCF train connects the airport to Casablanca city center and to other major Moroccan cities, including direct TGV high-speed service to Rabat, Kenitra, and Tangier.",
+  "transport_tips": "The ONCF Al Bidaoui train provides the most reliable connection to Casablanca, with a station linked to Terminal 1 and the journey to Casa-Voyageurs station taking around 40 minutes. Taxis are available outside the terminals, but agree on a fare in advance or insist on using the meter to avoid overcharging. For travelers heading to Rabat or Tangier, the high-speed TGV offers a fast and comfortable option directly from the airport.",
+  "local_tip": "If you have a long layover, take the train into Casablanca for a quick visit to the stunning Hassan II Mosque, one of the few mosques in Morocco open to non-Muslim visitors, located right on the Atlantic coast.",
+  "generatedAt": "2026-06-28T16:48:46.692Z",
+  "model": "MiniMax-M3"
+}

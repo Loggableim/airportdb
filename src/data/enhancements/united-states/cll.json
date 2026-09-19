@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CLL",
+    "icao": "KCLL",
+    "name": "Easterwood Field",
+    "country": "United States",
+    "city": "College Station",
+    "lat": 30.5886,
+    "lon": -96.3638,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Easterwood Field serves the Bryan-College Station metropolitan area in east-central Texas, home to Texas A&M University. The airport is named after local aviation enthusiast Frank Easterwood and operates as a regional gateway connecting the Brazos Valley to larger hub airports. It combines scheduled commercial service with general aviation operations on a single convenient campus.",
+  "faqs": "Q: What airlines serve Easterwood Field?\nA: United Express provides scheduled commercial service, with nonstop flights primarily to Houston George Bush Intercontinental Airport.\n\nQ: How far is the airport from Texas A&M University?\nA: The airport is located approximately 3 miles southwest of the Texas A&M main campus, typically a 10-15 minute drive.\n\nQ: Does the airport offer rental car services?\nA: Yes, on-site rental car counters are available in the terminal for major brands.\n\nQ: Is parking available at the airport?\nA: Yes, both short-term and long-term parking lots are available adjacent to the terminal building.\n\n",
+  "transport_tips": "The airport sits just off Highway 6 and University Drive, making it a quick drive from both downtown College Station and the Texas A&M campus. Rideshare services and local taxis operate at the terminal, though availability can be limited during late-night or very early morning",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T02:48:12.694Z",
+  "model": "MiniMax-M3"
+}

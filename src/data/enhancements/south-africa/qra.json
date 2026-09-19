@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "QRA",
+    "icao": "FAGM",
+    "name": "Rand Airport",
+    "country": "South Africa",
+    "city": "Johannesburg",
+    "lat": -26.2425,
+    "lon": 28.1512,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Rand Airport (QRA/FAGM) is a historic general aviation facility located in Germiston, east of Johannesburg, serving as one of South Africa's busiest airports for private, charter, and training flights. Originally established in the early 20th century, it predates OR Tambo International and remains a key hub for general aviation on the Witwatersrand. The airport is home to numerous flying schools, aircraft maintenance facilities, and charter operators.",
+  "faqs": "Q: What is Rand Airport primarily used for?\nA: Rand Airport is primarily used for general aviation, including private flights, charter services, flight training, and aircraft maintenance rather than scheduled commercial airline operations.\n\nQ: Does Rand Airport handle international flights?\nA: It serves as an international gateway of entry for general aviation, handling some private international arrivals and departures, though most international commercial traffic uses OR Tambo International Airport instead.\n\nQ: How far is Rand Airport from Johannesburg's city center?\nA: The airport is situated in Germiston, roughly 15 km east of central Johannesburg, typically a 20-30 minute drive depending on traffic.\n\nQ: Are there car rental services at Rand Airport?\nA: Car rental options are available, though travelers are advised to arrange vehicles in advance as on-site availability can be more limited compared to major commercial airports.",
+  "transport_tips": "Rand Airport is best reached by private vehicle or pre-booked transfer, as there is no direct rail or dedicated public bus service. The R24 highway provides straightforward access from Johannesburg and surrounding areas. Parking is generally available on-site, and rideshare services like Uber operate in the area.",
+  "local_tip": "Frequent visitors recommend timing arrivals around morning hours to avoid Germiston's industrial-area traffic congestion, and noting that the airport has a well-regarded restaurant and pilot shop that are worth exploring if you have time before your flight.",
+  "generatedAt": "2026-06-29T05:52:54.454Z",
+  "model": "MiniMax-M3"
+}

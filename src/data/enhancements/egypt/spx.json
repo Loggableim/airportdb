@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SPX",
+    "icao": "HESX",
+    "name": "Sphinx International Airport",
+    "country": "Egypt",
+    "city": "Al Jiza",
+    "lat": 30.1082,
+    "lon": 30.8957,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Sphinx International Airport is a modern aviation hub serving the greater Cairo metropolitan area, located in the Giza region of Egypt. Opened in 2019, it was developed as a secondary airport to alleviate congestion at Cairo International Airport and provide convenient access to the nearby Grand Egyptian Museum and Giza pyramid complex. The facility supports both commercial passenger flights and general aviation operations in Egypt's expanding air transport network.",
+  "faqs": "Q: Where is Sphinx International Airport located?\nA: The airport is situated in Al Jiza (Giza), approximately 15 kilometers west of central Cairo, close to the famous Giza pyramid complex.\n\nQ: What airlines operate from Sphinx International Airport?\nA: The airport primarily serves regional carriers and some international airlines offering flights to Middle Eastern and North African destinations.\n\nQ: Is Sphinx International Airport a replacement for Cairo International Airport?\nA: No, it functions as a secondary airport designed to complement Cairo International Airport by handling specific regional routes and reducing overall congestion.\n\nQ: What major attractions are near the airport?\nA: The Grand Egyptian Museum, the Giza Pyramids, and the Sphinx are all within a short drive of the airport.",
+  "transport_tips": "Taxis and ride-hailing services like Uber and Careem are the most common ways to reach the airport from central Cairo, typically taking 30-45 minutes depending on traffic. Private hotel transfers can be pre-arranged through many accommodations in the Giza area. Parking facilities are available on-site for those traveling with their own vehicle.",
+  "local_tip": "If visiting the pyramids, the airport is significantly closer to the Giza plateau than Cairo International Airport, potentially saving you 30-60 minutes of travel time after a long flight.",
+  "generatedAt": "2026-06-28T23:51:50.620Z",
+  "model": "MiniMax-M3"
+}

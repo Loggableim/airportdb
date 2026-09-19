@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SNA",
+    "icao": "KSNA",
+    "name": "John Wayne Orange County International Airport",
+    "country": "United States",
+    "city": "Santa Ana",
+    "lat": 33.6751,
+    "lon": -117.8693,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "John Wayne Orange County International Airport (SNA) is a primary gateway serving Southern California's Orange County, located about 35 miles southeast of downtown Los Angeles. Originally named Orange County Airport, it was renamed in 1979 in honor of the legendary actor John Wayne, who lived nearby. The airport is notable for its strict noise abatement program, which includes a mandatory curfew on flights between 10:00 PM and 7:00 AM, making it one of the most operationally constrained major airports in the United States.",
+  "faqs": "Q: What is the curfew at John Wayne Airport?\nA: John Wayne Airport enforces a strict curfew with no takeoffs or landings permitted between 10:00 PM and 7:00 AM (8:00 AM on Sundays). This noise abatement policy helps limit late-night operations affecting surrounding communities.\n\nQ: How far is SNA from Disneyland?\nA: John Wayne Airport is approximately 12 miles from Disneyland Resort in Anaheim, typically a 20-30 minute drive depending on traffic.\n\nQ: Does SNA have international flights?\nA: Yes, SNA offers several international flights, primarily to destinations in Mexico and Canada, with customs and immigration facilities available in Terminal C.\n\nQ: How many terminals does John Wayne Airport have?\nA: The airport has two passenger terminals (Terminal A and Terminal C) connected via a walkway, along with general aviation facilities.",
+  "transport_tips": "The airport is located off Interstate 405 (San Diego Freeway) with direct access via MacArthur Boulevard, and taxi/rideshare pickup is available on the arrivals level. OCTA bus route 212 connects the airport to the Irvine Transportation Center and Tustin Metrolink station for rail connections to Los Angeles and San Diego. Rental car agencies are located in a dedicated facility adjacent to Terminal C, and pre-booking is recommended during peak travel periods.",
+  "local_tip": "Park in the Main Street Parking Lot and use the free cell phone waiting area off Campus Drive if you're being picked up—this saves you from circling the terminal and avoids any charges from the short-term parking structure.",
+  "generatedAt": "2026-06-28T17:56:17.392Z",
+  "model": "MiniMax-M3"
+}

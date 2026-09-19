@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NPU",
+    "icao": "",
+    "name": "San Pedro Airport",
+    "country": "Colombia",
+    "city": "San Pedro de Urabá",
+    "lat": 8.2893,
+    "lon": -76.375,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "San Pedro Airport (NPU) is a small regional airfield serving the municipality of San Pedro de Urabá in the Antioquia department of northwestern Colombia. Located in the Urabá region, it primarily supports light aircraft and general aviation activities, connecting this rural area to other parts of the country. The airport plays a key role in providing access to a region known for its banana plantations, agricultural production, and proximity to the Gulf of Urabá.",
+  "faqs": "Q: What type of aircraft does San Pedro Airport handle?\nA: The airport primarily serves small, light aircraft and general aviation flights, as it is classified as a small regional facility without commercial scheduled service.\n\nQ: Where is San Pedro de Urabá located?\nA: San Pedro de Urabá is a municipality in the Antioquia department of Colombia, situated in the northwestern Urabá subregion near the Caribbean lowlands.\n\nQ: Are there commercial flights available at NPU?\nA: No, San Pedro Airport does not offer scheduled commercial passenger service; travelers typically rely on charter flights or overland transport to reach the area.\n\nQ: What is the region around the airport known for?\nA: The Urabá region is known for its large banana and plantain plantations, livestock farming, and its strategic position as a gateway between Antioquia and the Caribbean coast.\n\n",
+  "transport_tips": "Travelers heading to San Pedro de Urabá typically arrive by road from nearby towns like Turbo, Apartadó, or Medellín, as the airport does not have scheduled commercial service. Private vehicles or local bus services are the most common ways to reach the town center from the surrounding areas. The journey from Apartadó takes approximately two to three hours by road depending on road conditions.",
+  "local_tip": "If visiting the area, plan your trip during the drier months (December to March) as rural roads in the Urabá region can become difficult to navigate during heavy rainy seasons, and locals recommend carrying cash since small establishments may not accept cards.",
+  "generatedAt": "2026-06-28T06:30:39.912Z",
+  "model": "MiniMax-M3"
+}

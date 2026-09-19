@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JFK",
+    "icao": "KJFK",
+    "name": "John F. Kennedy International Airport",
+    "country": "United States",
+    "city": "New York",
+    "lat": 40.6394,
+    "lon": -73.7793,
+    "type": "large_airport",
+    "size": 1052075
+  },
+  "summary": "John F. Kennedy International Airport (JFK) is New York's largest and busiest airport, located in Queens about 15 miles southeast of Manhattan. Opened in 1948 as New York International Airport and renamed in 1963 following the assassination of President Kennedy, it serves as a major hub for international flights and is the primary gateway to the United States for many travelers. The airport features six terminals operated by different airlines and the iconic TWA Flight Center, a masterpiece of mid-century modern architecture.",
+  "faqs": "Q: How far is JFK from Manhattan?\nA: JFK is approximately 15 miles (24 km) southeast of Midtown Manhattan, with travel times typically ranging from 45 minutes to over an hour depending on traffic.\n\nQ: Which terminal at JFK should I go to?\nA: Terminal assignments depend on your airline: Terminal 1 serves several international carriers, Terminal 4 is the main hub for Delta and international airlines, Terminal 5 is JetBlue's home, Terminal 7 was used for United and some partners, and Terminal 8 is American Airlines' hub.\n\nQ: Is there a direct train from JFK to Manhattan?\nA: Yes, the AirTrain JFK connects all terminals to the subway and Long Island Rail Road at Jamaica and Howard Beach stations, providing affordable access to Manhattan.\n\nQ: Can I sleep overnight at JFK?\nA: JFK is open 24 hours, and some terminals offer designated rest areas, though amenities vary. Several nearby hotels also provide free shuttle services.",
+  "transport_tips": "The AirTrain JFK is the most affordable way to reach Manhattan, connecting to the subway ($8.25 total) or LIRR for a faster ride into Penn Station. Taxis and rideshares from JFK to Manhattan have a flat fare of $70 plus tolls and surcharges, which can be faster during rush hour but more expensive overall. Allow extra time during peak travel periods, as the Van Wyck Expressway and Belt Parkway frequently experience heavy traffic.",
+  "local_tip": "If you have a long layover, take the AirTrain to Jamaica Station and hop on the subway E line to reach the Rockaways' beachfront in about 45 minutes—a surprisingly relaxing escape from airport stress during summer months.",
+  "generatedAt": "2026-06-28T14:43:07.235Z",
+  "model": "MiniMax-M3"
+}

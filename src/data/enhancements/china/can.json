@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CAN",
+    "icao": "ZGGG",
+    "name": "Guangzhou Baiyun International Airport",
+    "country": "China",
+    "city": "Guangzhou (Huadu)",
+    "lat": 23.3924,
+    "lon": 113.299,
+    "type": "large_airport",
+    "size": 51575
+  },
+  "summary": "Guangzhou Baiyun International Airport is the main aviation gateway for southern China, serving the sprawling manufacturing and trade hub of Guangzhou. Opened in August 2004, it replaced the older Baiyun Airport and now functions as a major hub for China Southern Airlines, handling over 60 million passengers annually. The airport features two modern terminals connected by free shuttle trains and serves as a key connecting point for routes across Asia, Africa, and the Middle East.",
+  "faqs": "Q: How far is Guangzhou Baiyun Airport from the city center?\nA: The airport is approximately 28 kilometers (17 miles) north of central Guangzhou, in the Huadu District. Travel time typically ranges from 30 to 60 minutes depending on traffic and transport mode.\n\nQ: Which terminals does the airport operate?\nA: The airport currently operates Terminal 1 and Terminal 2, which are connected by a free automated people mover. A third terminal is planned to expand capacity further.\n\nQ: Is there a metro connection to the airport?\nA: Yes, Guangzhou Metro Line 3 runs directly to both terminals, with the North Terminal Station serving Terminal 2 and Airport South Station serving Terminal 1. It's one of the most affordable and reliable ways to reach downtown.\n\nQ: What are the airport's main airline alliances?\nA: China Southern Airlines, the largest carrier at CAN, is a member of SkyTeam. Many SkyTeam and other international carriers also operate significant routes from this hub.",
+  "transport_tips": "The metro (Line 3) is the cheapest and most predictable option for reaching central Guangzhou, with services running roughly every 5-10 minutes. Taxis and ride-hailing apps like Didi are readily available but can be slower during peak hours due to highway traffic. The Airport Express bus network offers direct routes to major hotels and transit hubs in downtown Guangzhou and surrounding cities like Foshan and Dongguan.",
+  "local_tip": "If you have a long layover, the airport's free shuttle between terminals makes it easy to explore both sides without extra cost, and Terminal 2 generally has a wider selection of international dining options and quieter rest areas compared to the busier Terminal 1.",
+  "generatedAt": "2026-06-28T15:39:57.186Z",
+  "model": "MiniMax-M3"
+}

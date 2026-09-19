@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KLG",
+    "icao": "PALG",
+    "name": "Kalskag Airport",
+    "country": "United States",
+    "city": "Kalskag",
+    "lat": 61.5363,
+    "lon": -160.341,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Kalskag Airport (KLG/PALG) is a small public-use airport serving the Yup'ik village of Kalskag in western Alaska's Bethel Census Area. Situated near the Kuskokwim River, it provides essential air connectivity for this remote community, where road access is limited and aviation is the primary means of regional transportation. The airport features a gravel runway typical of rural Alaskan bush airstrips.",
+  "faqs": "Q: What type of airport is Kalskag Airport?\nA: It is a small public-use airport primarily serving general aviation and scheduled bush flights in rural Alaska.\n\nQ: Does Kalskag Airport have scheduled commercial service?\nA: Yes, it receives scheduled passenger service from regional carriers operating in the Yukon-Kuskokwim Delta region.\n\nQ: What are the airport's operating hours?\nA: The airport is unattended and has no published tower hours; pilots should check NOTAMs and weather conditions before planning flights.\n\nQ: What runway surface does Kalskag Airport have?\nA: The airport has a gravel runway, which is standard for remote communities in this part of Alaska.",
+  "transport_tips": "The airport is located adjacent to the village of Kalskag, so walking or arranging a local pickup is the most common way to reach the community. There are no taxi services or rental car facilities at the airport. Visitors should coordinate ground transportation with local contacts or their accommodation in advance, as the village is off the road system.",
+  "local_tip": "Bring layers of warm clothing even in summer—temperatures along the Kuskokwim River can shift quickly, and the open airfield offers little shelter from wind while waiting for aircraft.",
+  "generatedAt": "2026-06-26T17:06:29.669Z",
+  "model": "MiniMax-M3"
+}

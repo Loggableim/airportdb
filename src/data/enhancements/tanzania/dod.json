@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DOD",
+    "icao": "HTDO",
+    "name": "Dodoma Airport",
+    "country": "Tanzania",
+    "city": "Dodoma",
+    "lat": -6.1706,
+    "lon": 35.756,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Dodoma Airport (DOD) serves Tanzania's capital city of Dodoma, located in the central highlands of the country. As a medium-sized regional airport, it primarily handles domestic flights connecting the political capital with major hubs like Dar es Salaam. The airport supports both government travel and tourism to the surrounding Dodoma Region, which is known for its vineyards, gorges, and proximity to wildlife areas.",
+  "faqs": "Q: How far is Dodoma Airport from the city center?\nA: The airport is approximately 10-12 km from Dodoma's city center, with a typical drive taking 20-30 minutes depending on traffic.\n\nQ: Are there international flights from Dodoma Airport?\nA: No, Dodoma Airport primarily handles domestic flights, mostly to and from Dar es Salaam. International travelers typically connect through Julius Nyerere International Airport.\n\nQ: Which airlines operate at Dodoma Airport?\nA: Domestic carriers such as Air Tanzania and Auric Air operate scheduled services, primarily on the Dodoma-Dar es Salaam route.\n\nQ: Is the airport open 24 hours?\nA: Operating hours align with scheduled flight times; the airport generally opens a few hours before departures and closes after the last arrival.",
+  "transport_tips": "Taxis are the most common way to reach the city center, and it's advisable to agree on a fare before departure. Pre-arranging a hotel pickup is recommended for late arrivals, as taxi availability can be limited outside scheduled flight times. The airport road connects directly to the main Dodoma-Morogoro highway.",
+  "local_tip": "Carry small Tanzanian shilling notes for taxi fares and tips, as drivers often have limited change for larger bills, and ATMs in central Dodoma can occasionally run out of cash.",
+  "generatedAt": "2026-06-29T21:22:25.150Z",
+  "model": "MiniMax-M3"
+}

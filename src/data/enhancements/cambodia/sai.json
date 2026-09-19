@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SAI",
+    "icao": "VDSA",
+    "name": "Siem Reap-Angkor International Airport",
+    "country": "Cambodia",
+    "city": "Siem Reap",
+    "lat": 13.3697,
+    "lon": 104.2238,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Siem Reap-Angkor International Airport (SAI) is Cambodia's newest major gateway, officially opened in November 2023 to replace the older Siem Reap International Airport. Located approximately 40 kilometers southeast of Siem Reap city, it serves as the primary access point for travelers visiting the UNESCO World Heritage temples of Angkor. The modern facility, developed with Chinese investment, features a single large terminal designed to handle significantly higher passenger volumes than its predecessor.",
+  "faqs": "Q: How far is Siem Reap-Angkor International Airport from the city center?\nA: The airport is located about 40-50 km southeast of Siem Reap, considerably farther than the old airport. Expect a 45-60 minute drive depending on traffic.\n\nQ: Does the airport have currency exchange and ATMs?\nA: Yes, the terminal has ATMs and currency exchange counters available for international travelers arriving in Cambodia.\n\nQ: Are there duty-free shops at the airport?\nA: Yes, the airport features duty-free shopping areas along with cafes and restaurants in both the departures and arrivals zones.\n\nQ: Is the old Siem Reap airport (REP) still operational?\nA: No, the old Siem Reap International Airport (REP) closed when the new SAI airport opened, with all commercial traffic transferred to the new facility.",
+  "transport_tips": "Taxis and ride-hailing services are available outside the terminal, though fares are higher than from the old airport due to the longer distance to the city. Pre-booked private transfers and hotel shuttles are recommended and often more cost-effective for the 40+ km journey. Tuk-tuks remain a popular option for budget travelers, but negotiate the fare in advance given the longer trip.",
+  "local_tip": "Pre-arrange your temple visit permits before flying in—many travelers waste their first morning queuing at Angkor ticket offices, but the official Angkor Enterprise website allows online purchase so you can head straight to the temples upon arrival.",
+  "generatedAt": "2026-06-28T21:52:41.615Z",
+  "model": "MiniMax-M3"
+}

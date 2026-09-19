@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YYY",
+    "icao": "CYYY",
+    "name": "Mont Joli Airport",
+    "country": "Canada",
+    "city": "Mont-Joli",
+    "lat": 48.6086,
+    "lon": -68.2081,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mont Joli Airport serves as the main air gateway to Quebec's Bas-Saint-Laurent region and the Gaspé Peninsula, handling regional flights primarily connecting to Montreal. Originally established as a military airfield during the Second World War, it transitioned into a civilian airport and now supports scheduled passenger service, general aviation, and flight training. Its position on the south shore of the lower St. Lawrence River makes it a convenient entry point for travelers exploring eastern Quebec's coastal communities.",
+  "faqs": "Q: Which airlines operate from Mont Joli Airport?\nA: Air Canada Express, operating through PAL Airlines, provides scheduled regional service connecting Mont-Joli to Montréal–Trudeau, with seasonal variations in frequency.\n\nQ: How far is the airport from downtown Mont-Joli?\nA: The airport is approximately 5 kilometers east of the town center, reachable in about 10 minutes by car.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers free on-site parking directly in front of the terminal building for both short-term and longer stays.\n\nQ: Does the airport have customs or international facilities?\nA: The airport does not have permanent Canada Border Services Agency presence, so it primarily handles domestic flights.\n\n",
+  "transport_tips": "Renting a car is the most practical way to reach and travel from Mont Joli Airport, with limited rental desks on-site and advance booking strongly recommended during summer and holiday periods. Taxi services are available but should be arranged in advance, as they are not always waiting at the terminal. The drive into Rimouski takes roughly 40 minutes, making the airport a useful alternative for travelers heading to that larger city.",
+  "local_tip": "If you have time before your flight, ask the terminal staff about the short drive to the Parc de la rivière Madawaska or the Cap",
+  "generatedAt": "2026-06-29T05:38:04.948Z",
+  "model": "MiniMax-M3"
+}

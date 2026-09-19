@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MQC",
+    "icao": "LFVM",
+    "name": "Miquelon Airport",
+    "country": "Saint Pierre and Miquelon",
+    "city": "Miquelon",
+    "lat": 47.0955,
+    "lon": -56.3803,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Miquelon Airport (MQC) is a small regional airport serving the village of Miquelon on Miquelon Island, part of the French overseas collectivity of Saint Pierre and Miquelon off the southern coast of Newfoundland, Canada. The airport primarily handles short inter-island flights connecting Miquelon to Saint-Pierre Airport, roughly 50 km to the southeast. It serves as a vital link for the small local population and occasional visitors exploring this remote North Atlantic archipelago.",
+  "faqs": "Q: What airlines operate at Miquelon Airport?\nA: The airport is primarily served by Air Saint-Pierre, which operates short shuttle flights between Miquelon and Saint-Pierre several times daily.\n\nQ: Are there international flights from Miquelon Airport?\nA: No, Miquelon Airport handles only domestic inter-island flights. International flights arrive at Saint-Pierre Airport, which has connections to Canada and mainland France.\n\nQ: Does Miquelon Airport have an IATA code?\nA: Yes, its IATA code is MQC and its ICAO code is LFVM.\n\nQ: Is there public transportation available from the airport?\nA: Transportation options are limited; most travelers arrange private transfers or rely on local contacts, as the airport is located just a short distance from the village center.",
+  "transport_tips": "The airport is located just a few kilometers from the village of Miquelon, making it a quick taxi or local transfer ride to most accommodations. Rental cars are limited on the island, so arranging transport in advance through a hotel or local contact is recommended. Visitors planning to connect to international flights typically fly onward to Saint-Pierre Airport.",
+  "local_tip": "Schedule changes and weather delays are common in this North Atlantic location—build in buffer time if catching an onward international flight from Saint-Pierre, as fog and high winds frequently disrupt inter-island connections.",
+  "generatedAt": "2026-06-26T14:50:11.477Z",
+  "model": "MiniMax-M3"
+}

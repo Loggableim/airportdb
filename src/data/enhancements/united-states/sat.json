@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SAT",
+    "icao": "KSAT",
+    "name": "San Antonio International Airport",
+    "country": "United States",
+    "city": "San Antonio",
+    "lat": 29.5337,
+    "lon": -98.4698,
+    "type": "large_airport",
+    "size": 1475
+  },
+  "summary": "San Antonio International Airport (SAT) is the primary airport serving San Antonio, Texas, located roughly 8 miles north of downtown. Originally established in the 1940s as a military airfield known as Alamo Field, it has grown into a key gateway for visitors heading to the Alamo City and the Texas Hill Country. The airport features two main terminals connected by a walkway and serves as a focus city for several carriers.",
+  "faqs": "Q: How far is San Antonio International Airport from downtown?\nA: The airport is approximately 8 miles north of downtown San Antonio, typically a 15-20 minute drive depending on traffic.\n\nQ: How many terminals does SAT have?\nA: SAT has two terminals, Terminal A and Terminal B, which are connected via a covered walkway for easy passenger access.\n\nQ: Does the airport offer free Wi-Fi?\nA: Yes, free Wi-Fi is available throughout both terminals for all passengers.\n\nQ: Are there good dining options airside?\nA: Yes, SAT offers a variety of local Texas-themed restaurants and national chains, including options showcasing San Antonio cuisine.",
+  "transport_tips": "VIA Metropolitan Transit operates Route 5, providing affordable public bus service between the airport and downtown San Antonio roughly every 30 minutes. Rideshares and taxis are readily available at designated pickup zones outside the terminals, with trips to the River Walk area typically costing $20-$30. If renting a car, the airport's rental car facility is conveniently located on-site with a short shuttle ride from the terminals.",
+  "local_tip": "If you have a layover or early arrival, grab breakfast tacos at a local spot near the airport like Taco Cabana or Las Palapas—San Antonio takes its breakfast tacos seriously, and you'll find authentic Tex-Mex flavors that beat typical airport fare.",
+  "generatedAt": "2026-06-28T16:12:09.127Z",
+  "model": "MiniMax-M3"
+}

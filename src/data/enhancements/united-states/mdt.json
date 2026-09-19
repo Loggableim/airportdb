@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MDT",
+    "icao": "KMDT",
+    "name": "Harrisburg International Airport",
+    "country": "United States",
+    "city": "Harrisburg",
+    "lat": 40.1928,
+    "lon": -76.7623,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Harrisburg International Airport (MDT) is a medium-sized public airport located in Middletown, Pennsylvania, about 10 miles southeast of downtown Harrisburg and the state capital. The airport sits on the site of the former Olmsted Air Force Base, which was a major military installation until its closure in the late 1960s. Today, it serves south-central Pennsylvania with nonstop flights to several major U.S. hubs and is known for its compact, easy-to-navigate single terminal.",
+  "faqs": "Q: How far is Harrisburg International Airport from downtown Harrisburg?\nA: The airport is approximately 10 miles southeast of downtown Harrisburg, typically a 15-20 minute drive depending on traffic.\n\nQ: Does MDT have a single terminal?\nA: Yes, Harrisburg International Airport operates from one terminal building, making it relatively easy to navigate with short walking distances between gates and amenities.\n\nQ: What airlines serve Harrisburg International Airport?\nA: MDT is served by several major carriers including American Airlines, Delta, United, and Allegiant, offering nonstop service to destinations across the eastern United States and beyond.\n\nQ: Is there long-term parking available at MDT?\nA: Yes, the airport offers on-site long-term parking lots with shuttle service, as well as economy parking options for budget-conscious travelers.",
+  "transport_tips": "Rental cars are available on-site and are often the most convenient option for reaching destinations in the surrounding region. Ride-share services like Uber and Lyft operate at designated pickup zones outside the terminal. Taxi services and the Capital Area Transit (CAT) bus also provide connections to Harrisburg and nearby communities.",
+  "local_tip": "Frequent travelers recommend using the airport's economy parking lot for longer trips — it's significantly cheaper than the closer garages and the shuttle runs frequently, so the small time tradeoff is worth the savings.",
+  "generatedAt": "2026-06-29T02:09:31.592Z",
+  "model": "MiniMax-M3"
+}

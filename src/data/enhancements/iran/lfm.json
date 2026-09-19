@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LFM",
+    "icao": "OISR",
+    "name": "Lamerd Airport",
+    "country": "Iran",
+    "city": "Lamerd",
+    "lat": 27.3727,
+    "lon": 53.1888,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Lamerd Airport (LFM/OISR) is a medium-sized regional airport serving the city of Lamerd in Fars Province, southern Iran. It primarily handles domestic flights and supports air travel to one of the province's southernmost populated areas. The airport plays an important role in connecting Lamerd to larger hubs like Tehran and Shiraz.",
+  "faqs": "Q: What is the IATA code for Lamerd Airport?\nA: The IATA code is LFM and the ICAO code is OISR.\n\nQ: Where is Lamerd Airport located?\nA: It is located in the city of Lamerd in Fars Province, southern Iran.\n\nQ: What types of flights operate from Lamerd Airport?\nA: The airport primarily handles domestic regional flights connecting Lamerd to major Iranian cities.\n\nQ: How large is Lamerd Airport?\nA: It is classified as a medium-sized airport serving regional traffic in southern Iran.",
+  "transport_tips": "Taxis are the most common way to reach Lamerd Airport from the city center, which is a short drive away. Renting a car or arranging a hotel pickup in advance is recommended for travelers unfamiliar with the area. Shared taxis and private transfers are also available for inter-city travel connecting to nearby towns.",
+  "local_tip": "Frequent visitors recommend confirming your return flight the day before departure, as regional Iranian airports sometimes adjust schedules with limited notice.",
+  "generatedAt": "2026-06-29T22:47:41.464Z",
+  "model": "MiniMax-M3"
+}

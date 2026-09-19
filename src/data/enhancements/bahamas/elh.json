@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ELH",
+    "icao": "MYEH",
+    "name": "North Eleuthera Airport",
+    "country": "Bahamas",
+    "city": "North Eleuthera",
+    "lat": 25.4758,
+    "lon": -76.6808,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "North Eleuthera Airport (ELH) is a medium-sized airport serving the northern region of Eleuthera island in the Bahamas. It functions as the primary gateway for travelers heading to nearby Harbour Island, one of the Caribbean's most celebrated beach destinations, as well as the stunning Glass Window Bridge. The airport handles both domestic flights from Nassau and limited international connections, making it essential for tourism on the island's northern end.",
+  "faqs": "Q: How far is North Eleuthera Airport from Harbour Island?\nA: Harbour Island is approximately 5 km (3 miles) north of the airport. Most visitors take a short taxi ride to the mainland dock, followed by a water taxi across to the island.\n\nQ: Are there direct international flights to ELH?\nA: Direct international service is limited. Most international travelers fly into Nassau's Lynden Pindling International Airport and connect to a short domestic flight, though some seasonal and charter services operate directly.\n\nQ: What facilities are available at the airport?\nA: The terminal offers basic amenities including car rental counters, a small cafe, and baggage services. Facilities are modest given the airport's small size and primarily domestic traffic.\n\nQ: How long is the flight from Nassau to North Eleuthera?\nA: The flight from Nassau to ELH typically takes around 20 to 30 minutes on a small turboprop aircraft.",
+  "transport_tips": "Rental cars are available at the terminal and are recommended for exploring Eleuthera's northern attractions at your own pace. Taxis meet arriving flights and can take you to the Harbour Island ferry dock or local resorts. If heading to Harbour Island, plan for a brief taxi ride followed by a water taxi across the harbor.",
+  "local_tip": "Book ground transportation in advance during peak travel periods, especially if connecting to the Harbour Island ferry—ferry schedules don't always align perfectly with flight arrivals, and a short wait is common.",
+  "generatedAt": "2026-06-29T03:54:26.345Z",
+  "model": "MiniMax-M3"
+}

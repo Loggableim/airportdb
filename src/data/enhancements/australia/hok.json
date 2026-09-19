@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HOK",
+    "icao": "YHOO",
+    "name": "Hooker Creek Airport",
+    "country": "Australia",
+    "city": "Lajamanu",
+    "lat": -18.3367,
+    "lon": 130.638,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Hooker Creek Airport (HOK/YHOO) is a small regional airport serving the remote Aboriginal community of Lajamanu in Australia's Northern Territory, deep within the Tanami Desert. The airport is a critical lifeline for the isolated Warlpiri community, located roughly 560 kilometers southwest of Katherine. It primarily supports government services, medical evacuations, and passenger flights connecting residents to larger regional centers.",
+  "faqs": "Q: Where is Hooker Creek Airport located?\nA: The airport is in Lajamanu, a remote Aboriginal community in the Northern Territory of Australia, situated in the Tanami Desert region.\n\nQ: What airlines serve Hooker Creek Airport?\nA: The airport is primarily served by regional charter operators and government-subsidized air services that connect remote communities to larger centers like Katherine and Darwin.\n\nQ: Is the airport open to the public?\nA: As a small community airport, it is primarily used for scheduled regional flights and charter services rather than general commercial travel.\n\nQ: What facilities are available at the airport?\nA: The airport has basic terminal facilities suited to its small size, with services focused on essential passenger and freight transport for the community.",
+  "transport_tips": "The airport is small and located within walking distance of the Lajamanu community, so ground transport options are limited and typically arranged in advance or through community contacts. Visitors typically fly in via connecting flights from Katherine or Darwin, as Lajamanu is not accessible by sealed road. The Tanami Road provides the only vehicular access, and it can be impassable during the wet season.",
+  "local_tip": "Flights to Lajamanu are often weather-dependent due to dust storms and extreme heat common in the Tanami region, so always build a buffer day into your travel plans in case of cancellations or delays.",
+  "generatedAt": "2026-06-26T18:31:29.828Z",
+  "model": "MiniMax-M3"
+}

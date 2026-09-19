@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VCE",
+    "icao": "LIPZ",
+    "name": "Venice Marco Polo Airport",
+    "country": "Italy",
+    "city": "Venezia (VE)",
+    "lat": 45.5053,
+    "lon": 12.3519,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Venice Marco Polo Airport (VCE) is the main international gateway to Venice and the surrounding Veneto region, named after the legendary 13th-century Venetian explorer Marco Polo. Located on the Italian mainland about 8 km (5 miles) from the historic city center, it serves as Italy's fourth-buskiest airport and a major hub for cruise passengers embarking from Venice's nearby terminals. The single-terminal facility combines modern amenities with nods to the city's maritime heritage.",
+  "faqs": "Q: How far is Venice Marco Polo Airport from the city center?\nA: The airport is approximately 8 km (5 miles) from Venice's historic center, with journey times varying by transport mode from 20 to 45 minutes.\n\nQ: Is there a direct boat service from the airport to Venice?\nA: Yes, the Alilaguna water bus operates from the airport's marina to several points in Venice including St. Mark's Square, offering a scenic arrival route.\n\nQ: Can I reach other cities from Venice Marco Polo Airport easily?\nA: Yes, the airport offers road and bus connections to Padua, Treviso, and other Veneto destinations, making it a convenient base for exploring northern Italy.\n\nQ: Does the airport have facilities for cruise passengers?\nA: Absolutely, the airport has dedicated services and is located near Venice's cruise terminals, with shuttle options available for those transferring between flights and ships.",
+  "transport_tips": "The ACTV bus line 5 and ATVO express buses run frequently between the airport and Piazzale Roma in Venice, with journey times of around 20-30 minutes. Water taxis are available directly from the airport dock for a faster but more expensive transfer to central Venice or the islands. For travelers heading to other cities, the airport connects well to the regional rail and highway network.",
+  "local_tip": "If you have time before your flight, take the short walk or bus ride to the nearby Punta Sabbioni area and catch a vaporetto to Burano, the colorful fishing island famous for its brightly painted houses and lace-making traditions—it's a quieter, more authentic alternative to the main Venice crowds.",
+  "generatedAt": "2026-06-28T17:56:44.382Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JJN",
+    "icao": "ZSQZ",
+    "name": "Quanzhou Jinjiang International Airport",
+    "country": "China",
+    "city": "Quanzhou",
+    "lat": 24.7959,
+    "lon": 118.5886,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Quanzhou Jinjiang International Airport serves Quanzhou, a historic port city in Fujian Province and the starting point of the ancient Maritime Silk Road. Located about 12 km southwest of Quanzhou city center in the adjacent Jinjiang district, the airport operates as a key regional hub for southern Fujian. It handles both domestic routes to major Chinese cities and select international flights across Southeast Asia.",
+  "faqs": "Q: How far is the airport from Quanzhou city center?\nA: The airport is approximately 12 km from downtown Quanzhou, with typical taxi or shuttle bus journeys taking around 25-40 minutes depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, it operates international services to several destinations in Southeast Asia, including routes to Singapore, Kuala Lumpur, Bangkok, and Manila, alongside its extensive domestic network.\n\nQ: Are there airport buses or shuttles available?\nA: Yes, airport shuttle buses connect to Quanzhou city center and nearby cities. Public bus routes and taxi services are also available at the terminal.\n\nQ: Is the airport used by low-cost carriers?\nA: Yes, several low-cost and full-service Chinese carriers operate from JJN, including Spring Airlines, XiamenAir, and China Eastern.",
+  "transport_tips": "Taxis and ride-hailing apps like Didi are readily available at the arrivals curb and offer fixed or metered fares to Quanzhou. Airport shuttle buses run to several points in Quanzhou and Xiamen, making them a budget-friendly option. Allow extra time during peak hours, as the airport road can experience congestion.",
+  "local_tip": "Frequent travelers recommend taking a quick detour to Quanzhou's old town after landing—it's a UNESCO World Heritage site and the city center is closer to the airport than most visitors expect, making a half-day sightseeing stop very feasible.",
+  "generatedAt": "2026-06-28T23:01:58.601Z",
+  "model": "MiniMax-M3"
+}

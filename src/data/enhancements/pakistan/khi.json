@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KHI",
+    "icao": "OPKC",
+    "name": "Jinnah International Airport",
+    "country": "Pakistan",
+    "city": "Karachi",
+    "lat": 24.9065,
+    "lon": 67.1608,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Jinnah International Airport (KHI) is Pakistan's largest and busiest airport, named after Muhammad Ali Jinnah, the founder of Pakistan. Located in Karachi, the country's commercial capital and largest city, it serves as the primary hub for Pakistan International Airlines (PIA) and handles the majority of the nation's international air traffic. The airport shares its grounds with PAF Faisal Air Base and features a modern terminal complex that underwent significant expansion ahead of the China-Pakistan Economic Corridor initiatives.",
+  "faqs": "Q: How far is Jinnah International Airport from central Karachi?\nA: The airport is approximately 15-20 km (9-12 miles) from downtown Karachi, with typical travel times of 30-60 minutes depending on traffic conditions.\n\nQ: Which airlines operate from KHI?\nA: Pakistan International Airlines (PIA) maintains its main hub here, alongside numerous international carriers including Emirates, Qatar Airways, Etihad, Turkish Airlines, Saudia, and flydubai, connecting Karachi to destinations across the Middle East, Asia, and beyond.\n\nQ: Does the airport offer duty-free shopping?\nA: Yes, the international terminal features duty-free shops offering perfumes, electronics, chocolates, and Pakistani handicrafts including traditional textiles and souvenirs.\n\nQ: Are there lounges available for travelers?\nA: Several airline and independent lounges operate in the international terminal, including the PIA Pearl Lounge and Plaza Premium Lounge, accessible to premium ticket holders or via lounge access programs.",
+  "transport_tips": "Taxis and ride-hailing services like Careem and Uber are the most reliable options for getting to and from the airport; pre-booking is recommended. The airport is connected via the main Shahrah-e-Faisal highway, but Karachi's notorious traffic can significantly extend travel times, so allow extra buffer time. Airport buses and shuttle services also connect to various parts of the city, though they are less convenient for travelers with luggage.",
+  "local_tip": "If you have a long layover or early flight, the nearby Avari Towers and Pearl Continental hotels offer day-use rooms and are just a 10-minute drive from the terminals—useful for freshening up during extended waits.",
+  "generatedAt": "2026-06-28T17:37:37.814Z",
+  "model": "MiniMax-M3"
+}

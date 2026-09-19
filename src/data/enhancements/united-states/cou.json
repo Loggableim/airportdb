@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "COU",
+    "icao": "KCOU",
+    "name": "Columbia Regional Airport",
+    "country": "United States",
+    "city": "Columbia",
+    "lat": 38.8181,
+    "lon": -92.2196,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Columbia Regional Airport (COU) serves Columbia, Missouri, home to the University of Missouri, and functions as the primary commercial gateway for central Missouri. The airport sits on the city's southeastern edge and supports regional commercial service along with general aviation operations. Its location makes it a convenient alternative to larger hubs for travelers heading to mid-Missouri destinations.",
+  "faqs": "Q: How far is Columbia Regional Airport from downtown Columbia?\nA: The airport is approximately 12 miles southeast of downtown Columbia, typically a 15-20 minute drive via US-63.\n\nQ: Does COU offer nonstop flights to major cities?\nA: COU offers limited nonstop regional service, primarily to hubs like Chicago O'Hare and Dallas/Fort Worth, with connections to many destinations.\n\nQ: Is there parking available at the airport?\nA: Yes, Columbia Regional provides both short-term and long-term parking options adjacent to the terminal building.\n\nQ: Can I fly into COU for University of Missouri events?\nA: Yes, COU is the closest commercial airport to the University of Missouri campus and is commonly used by visitors attending Mizzou football games and other campus events.",
+  "transport_tips": "Rental cars are available at the terminal and are the most convenient way to reach the University of Missouri campus or surrounding areas. Rideshare services like Uber and Lyft operate at COU, though availability can be limited; pre-booking during peak times is recommended. Taxi services and pre-arranged hotel shuttles serve the airport, but public transit options are minimal.",
+  "local_tip": "If you're visiting for a Mizzou football game, book your flights and rental cars well in advance—fall Saturdays fill up fast and Columbia's roads get congested heading to Faurot Field.",
+  "generatedAt": "2026-06-29T03:19:24.185Z",
+  "model": "MiniMax-M3"
+}

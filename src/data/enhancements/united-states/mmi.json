@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MMI",
+    "icao": "KMMI",
+    "name": "McMinn County Airport",
+    "country": "United States",
+    "city": "Athens",
+    "lat": 35.3973,
+    "lon": -84.5626,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "McMinn County Airport (MMI) is a small general aviation facility serving Athens, Tennessee, and the surrounding McMinn County region in the southeastern part of the state. The airport primarily supports private, recreational, and business aviation rather than scheduled commercial service. Its location near the foothills of the Appalachian Mountains makes it a convenient gateway for visitors exploring eastern Tennessee.",
+  "faqs": "Q: Does McMinn County Airport offer commercial airline service?\nA: No, MMI is a general aviation airport without scheduled commercial flights. It primarily serves private pilots, charter operations, and flight training.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, tie-down areas, and basic services for general aviation aircraft. Pilots should contact the airport directly for specific fuel availability and hangar arrangements.\n\nQ: How far is the airport from downtown Athens?\nA: The airport is located a short drive from central Athens, making it easily accessible for local pilots and visitors.\n\nQ: Are there nearby alternative airports with commercial service?\nA: Yes, McGhee Tyson Airport in Knoxville and Chattanooga Metropolitan Airport are both within reasonable driving distance for travelers needing commercial flights.\n\n",
+  "transport_tips": "Since the airport is small, ground transportation options are limited, so arranging a rental car or having a pickup arranged in advance is recommended. The airport's proximity to US-411 provides easy road access to Athens and neighboring communities. Rental car services are available in the broader Athens area for ground transport needs.",
+  "local_tip": "While visiting the area, consider exploring the nearby Cherokee National Forest, which offers scenic drives, hiking trails, and opportunities to experience the natural beauty of the southern Appalachians just a short drive from the airport.",
+  "generatedAt": "2026-06-27T05:55:04.458Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LGO",
+    "icao": "EDWL",
+    "name": "Langeoog Airport",
+    "country": "Germany",
+    "city": "Langeoog",
+    "lat": 53.7424,
+    "lon": 7.4963,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Langeoog Airport (LGO/EDWL) is a small island airport serving Langeoog, one of the East Frisian Islands in Germany's Lower Saxony Wadden Sea region. It primarily handles short-haul general aviation flights and is a key access point for visitors to the car-free island. The single-runway facility sits near the island's eastern edge, offering scenic approaches over the North Sea and surrounding mudflats.",
+  "faqs": "Q: Which airlines operate from Langeoog Airport?\nA: The airport primarily serves general aviation and seasonal charter flights, with small aircraft connecting to mainland cities like Bremen and Harle.\n\nQ: Can I drive to Langeoog Airport?\nA: No, Langeoog is a car-free island. Travelers must reach the island by ferry from Bensersiel or by airplane, then use foot, bicycle, or horse-drawn carriage locally.\n\nQ: What is the best time to visit Langeoog?\nA: The summer months from May to September offer the most favorable weather, with mild temperatures and active tourism, while spring and autumn appeal to birdwatchers.\n\nQ: Are there car rental services at the airport?\nA: No car rental is available since the island is car-free, but bicycles and horse-drawn carriages can be rented locally.",
+  "transport_tips": "From the airport, a short walk or local taxi takes you to the island's main village and ferry terminal area. Most travelers book combined ferry-plus-flight or rail tickets from mainland Germany for a seamless journey. The nearest major airports with broader connections are Bremen and Hamburg, with onward ground transport to Bensersiel ferry port.",
+  "local_tip": "Book flights early during high season and summer school holidays, as the small airport's limited capacity fills quickly, and consider traveling midweek for better availability and lower fares.",
+  "generatedAt": "2026-06-27T06:12:40.100Z",
+  "model": "MiniMax-M3"
+}

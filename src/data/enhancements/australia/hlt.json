@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HLT",
+    "icao": "YHML",
+    "name": "Hamilton Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -37.6489,
+    "lon": 142.065,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Hamilton Airport (HLT/YHML) is a regional airport serving the town of Hamilton in the Western District of Victoria, Australia. It primarily supports general aviation and serves as a gateway to the Grampians region and surrounding agricultural areas. The airport features a single sealed runway and is used for charter flights, pilot training, and occasional emergency services.",
+  "faqs": "Q: Where is Hamilton Airport located?\nA: Hamilton Airport is located near the town of Hamilton in western Victoria, Australia, approximately 10 km northeast of the town centre.\n\nQ: What airlines operate at Hamilton Airport?\nA: The airport is primarily used for general aviation, charter flights, and private operations. There are no scheduled commercial passenger services operating from Hamilton at present.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic facilities including a runway, tie-down parking for aircraft, and limited terminal amenities. It is well-suited for general aviation and pilot training activities.\n\nQ: Can I fly to the Grampians from Hamilton?\nA: Hamilton Airport provides convenient access to the Grampians National Park region for private and charter aircraft, though most visitors to the Grampians travel by road from Melbourne.",
+  "transport_tips": "The airport is about a 10-15 minute drive from Hamilton's town centre, with taxi and private car hire typically needing to be arranged in advance. Renting a car in Hamilton or from nearby larger centres is the most practical option for visitors. Self-drive from Melbourne via the Western Highway takes approximately 3.5 hours.",
+  "local_tip": "If you're flying in for a visit to the Grampians, check the local weather forecast closely as the western Victoria region can experience rapid changes in conditions that may affect both air and road travel.",
+  "generatedAt": "2026-06-26T09:04:37.840Z",
+  "model": "MiniMax-M3"
+}

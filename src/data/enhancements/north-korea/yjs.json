@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YJS",
+    "icao": "ZKSE",
+    "name": "Samjiyŏn Airport",
+    "country": "North Korea",
+    "city": "Samjiyŏn",
+    "lat": 41.9071,
+    "lon": 128.4098,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Samjiyŏn Airport serves the remote highland town of Samjiyŏn in North Korea's Ryanggang Province, situated near the slopes of Mount Paektu, the country's most sacred mountain. The facility underwent a major modernization and expansion in the late 2010s as part of a broader state-led redevelopment of the surrounding area. It functions primarily as a small domestic airport, with infrastructure that reflects the region's symbolic importance rather than commercial traffic volume.",
+  "faqs": "Q: Does Samjiyŏn Airport offer international flights?\nA: The airport mainly handles domestic routes, with occasional special or charter services. Regular commercial international flights are not typically available to foreign travelers.\n\nQ: What is the airport primarily used for?\nA: It supports travel to Samjiyŏn and Mount Paektu, a site of deep national significance in North Korea, as well as general domestic connectivity in the northern provinces.\n\nQ: Are there regular scheduled passenger services?\nA: Scheduled service exists but tends to be infrequent and primarily serves North Korean domestic travelers. Foreign visitors usually enter the area by overland routes rather than by air.\n\nQ: What is the elevation and climate like at the airport?\nA: The airport sits at a relatively high altitude in a mountainous region, so weather conditions can affect operations, particularly in winter.",
+  "transport_tips": "Foreign visitors to Samjiyŏn typically arrive by road from other parts of North Korea, as the airport's scheduled commercial traffic is limited and largely domestic. Overland travel from Hyesan or other nearby towns is the most common approach for tourists. Local transport in the area is usually arranged as part of guided travel itineraries.",
+  "local_tip": "The town of Samjiyŏn was rebuilt as a showcase 'model city' in recent years, so visitors passing through the area often find the neat streets and new architecture a notable contrast to older North Korean towns worth exploring on foot.",
+  "generatedAt": "2026-06-26T20:32:18.445Z",
+  "model": "MiniMax-M3"
+}

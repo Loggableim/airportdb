@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TLR",
+    "icao": "KTLR",
+    "name": "Mefford Field",
+    "country": "United States",
+    "city": "Tulare",
+    "lat": 36.1563,
+    "lon": -119.326,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mefford Field is a small general aviation airport serving the city of Tulare in California's San Joaquin Valley. Named after a local aviation pioneer, it primarily supports agricultural aviation operations, flight training, and private aircraft. The airport sits in the heart of one of the most productive agricultural regions in the United States, making it a hub for crop-dusting and ag-related flight activities.",
+  "faqs": "Q: What is Mefford Field primarily used for?\nA: The airport mainly serves general aviation, including private pilots, flight training, and agricultural aviation operations common in the San Joaquin Valley.\n\nQ: Are there commercial airline services at TLR?\nA: No, Mefford Field does not offer scheduled commercial airline service. It is used exclusively for general aviation purposes.\n\nQ: Where is Mefford Field located relative to the city?\nA: The airport is located just southeast of downtown Tulare, providing easy access to the surrounding agricultural communities.\n\nQ: Does the airport have a control tower?\nA: No, Mefford Field is a non-towered airport, and pilots use the common traffic advisory frequency (CTAF) to coordinate arrivals and departures.\n\n",
+  "transport_tips": "The airport is conveniently located near Highway 99, making it a short drive from anywhere in Tulare. Rental cars are not available on-site, so arranging ground transportation in advance is recommended. The nearest major commercial airport with rental services is Fresno Yosemite International (FAT), about 50 miles north.",
+  "local_tip": "If you're flying in for business with one of Tulare's agricultural operations, coordinate with local FBOs in advance, as fuel and hangar availability can vary—early morning arrivals tend to have the best access to services.",
+  "generatedAt": "2026-06-27T04:11:14.446Z",
+  "model": "MiniMax-M3"
+}

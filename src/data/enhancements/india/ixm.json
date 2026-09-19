@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IXM",
+    "icao": "VOMD",
+    "name": "Madurai Airport",
+    "country": "India",
+    "city": "Madurai",
+    "lat": 9.8345,
+    "lon": 78.0934,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Madurai Airport (IXM) serves the historic temple city of Madurai in Tamil Nadu, one of India's oldest continuously inhabited cities and home to the iconic Meenakshi Amman Temple. The airport functions as a key gateway for pilgrims and tourists visiting southern Tamil Nadu and has seen steady growth in passenger traffic over the past decade. It operates as a civil enclave sharing facilities with the nearby Madurai Air Force Station.",
+  "faqs": "Q: How far is Madurai Airport from the city center?\nA: The airport is located approximately 12 km southwest of Madurai's city center, with the Meenakshi Temple about a 30-40 minute drive away depending on traffic.\n\nQ: Which airlines operate from Madurai Airport?\nA: Major domestic carriers including IndiGo, Air India, SpiceJet, and Air India Express serve Madurai with flights to cities like Chennai, Bengaluru, Mumbai, Delhi, and select international destinations in the Middle East.\n\nQ: Does the airport have international flights?\nA: Yes, Madurai Airport handles limited international flights, primarily to destinations in the UAE, Malaysia, and Singapore, serving the large diaspora from southern Tamil Nadu.\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard amenities including food outlets, ATMs, prepaid taxi counters, car rental services, and basic lounges, though facilities remain modest compared to larger Indian metro airports.",
+  "transport_tips": "Prepaid taxi counters and app-based ride services like Ola and Uber are available at the terminal exit, offering the most reliable way to reach the city. State-run buses also connect the airport to central Madurai at a lower cost, though they are less frequent. Private car rentals can be arranged in advance for travelers heading to nearby destinations like Rameswaram or Kodaikanal.",
+  "local_tip": "If you arrive during temple festival seasons like Chithirai or Meenakshi Thirukalyanam, book accommodation well in advance as the city fills up quickly, and allow extra travel time from the airport due to road closures near the temple.",
+  "generatedAt": "2026-06-29T07:58:56.335Z",
+  "model": "MiniMax-M3"
+}

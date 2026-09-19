@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TNE",
+    "icao": "RJFG",
+    "name": "New Tanegashima Airport",
+    "country": "Japan",
+    "city": "Tanegashima",
+    "lat": 30.6051,
+    "lon": 130.991,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "New Tanegashima Airport is a regional facility serving Tanegashima, a subtropical island in the Osumi chain of Kagoshima Prefecture, Japan. The island is internationally renowned as the home of the Tanegashima Space Center, Japan's largest rocket-launch complex operated by JAXA. The airport provides essential access for space industry personnel, researchers, and visitors traveling to this remote but strategically important island.",
+  "faqs": "Q: Where is New Tanegashima Airport located?\nA: The airport is situated on Tanegashima Island in Kagoshima Prefecture, southern Japan, roughly 35 km south of mainland Kyushu.\n\nQ: What is the airport best known for in terms of visitor interest?\nA: It is the main gateway to the Tanegashima Space Center, one of the world's most beautiful rocket launch sites, which hosts open-house events and guided tours.\n\nQ: Are there car rental services available at the airport?\nA: Yes, rental car counters are typically available, and a car is the most convenient way to explore the island's dispersed attractions including the Space Center and Tanehama Beach.\n\nQ: How long is the typical flight from mainland Japan?\nA: Flights from Kagoshima and Fukuoka generally take around 35-40 minutes, making the airport a quick regional hop.",
+  "transport_tips": "Rental cars are the most practical option for reaching the Tanegashima Space Center and other island attractions, as public bus services are limited. Taxis can be hired at the terminal but should ideally be arranged in advance for evening arrivals. The drive from the airport to Tanegashima Space Center takes roughly 20-25 minutes via the island's coastal road.",
+  "local_tip": "Time your visit to coincide with a scheduled rocket launch from the nearby Space Center — the viewing areas and some local beaches offer spectacular vantage points, and the airport's information desk can advise on upcoming launch dates.",
+  "generatedAt": "2026-06-29T21:56:28.959Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZIC",
+    "icao": "SCTO",
+    "name": "Victoria Airport",
+    "country": "Chile",
+    "city": "Victoria",
+    "lat": -38.2456,
+    "lon": -72.3486,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Victoria Airport (ZIC) is a regional airport serving the city of Victoria in Chile's Araucanía Region, an area known for its Mapuche cultural heritage and proximity to scenic Andean landscapes. The airport primarily handles domestic flights and general aviation, supporting both commercial transport and aerial activities in southern Chile. Its location provides travelers with access to nearby natural attractions including hot springs, national parks, and traditional indigenous communities.",
+  "faqs": "Q: Where is Victoria Airport located?\nA: Victoria Airport is located near the city of Victoria in the Araucanía Region of southern Chile, approximately 600 km south of Santiago.\n\nQ: What type of flights does Victoria Airport operate?\nA: The airport primarily serves domestic regional flights and general aviation, rather than major international routes.\n\nQ: Are there car rental services at Victoria Airport?\nA: Car rental services are limited at the airport; travelers often arrange rentals in advance or through local agencies in the town of Victoria.\n\nQ: How far is the airport from the city center of Victoria?\nA: The airport is located a short drive from the town of Victoria, typically within a few kilometers of the city center.\n\n",
+  "transport_tips": "Taxis and local transport services are the most common way to reach Victoria from the airport, as public transit options are limited. Renting a car is recommended for travelers planning to explore the surrounding Araucanía Region, including nearby national parks and lakes. Booking ground transport in advance is advisable, especially during peak travel seasons.",
+  "local_tip": "If visiting Victoria, ask locals about nearby Termas de Tolhuaca or Salto del Malleco—both are stunning natural attractions within driving distance that many international travelers overlook.",
+  "generatedAt": "2026-06-26T13:57:28.739Z",
+  "model": "MiniMax-M3"
+}

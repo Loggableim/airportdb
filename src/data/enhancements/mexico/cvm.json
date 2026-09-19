@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CVM",
+    "icao": "MMCV",
+    "name": "General Pedro Jose Mendez International Airport",
+    "country": "Mexico",
+    "city": "Ciudad Victoria",
+    "lat": 23.7033,
+    "lon": -98.9565,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "General Pedro José Méndez International Airport (CVM) serves Ciudad Victoria, the capital of the northeastern Mexican state of Tamaulipas. Named after a distinguished Mexican military general, the airport functions as the main air gateway for the regional capital, handling domestic flights primarily to Mexico City and other major Mexican destinations. The facility operates as a medium-sized regional hub supporting the administrative, educational, and tourism needs of central Tamaulipas.",
+  "faqs": "Q: What is the official name of the airport?\nA: The airport is officially named General Pedro José Méndez International Airport, honoring the Mexican military leader, though travelers commonly refer to it by its city name, Ciudad Victoria.\n\nQ: What destinations are served from CVM?\nA: CVM primarily operates domestic flights, with the most common route being to Mexico City (MEX), along with occasional service to other Mexican cities.\n\nQ: How far is the airport from Ciudad Victoria's city center?\nA: The airport is located approximately 15-20 kilometers (around 10 miles) from central Ciudad Victoria, making it a relatively short drive.\n\nQ: Does the airport have international flights?\nA: International flights are limited; the airport is classified as international but most operations are domestic with occasional international charter or seasonal services.",
+  "transport_tips": "Taxis and pre-arranged private transfers are the most common ways to reach the airport from Ciudad Victoria, with rides typically taking 20-30 minutes depending on traffic. Rental cars are available, though booking in advance is recommended as on-site options can be limited. Shared shuttle services and ride-hailing apps may also operate in the area, offering flexibility for travelers.",
+  "local_tip": "Bring light layers as Ciudad Victoria can get surprisingly warm and humid, especially during summer months, and having a refillable water bottle for after security is helpful since terminal amenities may be modest compared to larger airports.",
+  "generatedAt": "2026-06-29T10:27:21.379Z",
+  "model": "MiniMax-M3"
+}

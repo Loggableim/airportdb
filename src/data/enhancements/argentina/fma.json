@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FMA",
+    "icao": "SARF",
+    "name": "Formosa National Airport",
+    "country": "Argentina",
+    "city": "Formosa",
+    "lat": -26.2127,
+    "lon": -58.2281,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Formosa National Airport (FMA) serves the city of Formosa, capital of Formosa Province in northeastern Argentina, situated in the Gran Chaco region near the Paraguay River border with Paraguay. The airport functions as a key regional gateway connecting this subtropical province to Buenos Aires and other Argentine destinations. It primarily handles domestic flights and serves as an important access point for travelers exploring the wetlands, river landscapes, and wildlife of the Chaco region.",
+  "faqs": "Q: Which airlines operate at Formosa National Airport?\nA: The airport is primarily served by domestic carriers operating flights to and from Buenos Aires, including Aerolineas Argentinas and other regional airlines.\n\nQ: How far is the airport from Formosa city center?\nA: The airport is located a short drive from central Formosa, typically reachable within 10 to 20 minutes depending on traffic conditions.\n\nQ: Are there international flights from FMA?\nA: FMA primarily handles domestic flights, as most international travel from the region routes through larger hubs like Buenos Aires or Asuncion.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers standard amenities including check-in counters, a waiting area, car rental services, and basic food and beverage options.\n\n",
+  "transport_tips": "Taxis and remise (pre-paid) services are the most reliable ways to reach the airport from Formosa city, and it's advisable to book your return trip in advance. Rental cars are available at the terminal and can be useful for exploring the broader Formosa Province. The airport is located along Route 11, making it accessible by private vehicle with straightforward access to the city.",
+  "local_tip": "If you have a layover or extra time, visit the Laguna Blanca national park area, known for its unique ecosystem and wildlife including capybaras and caimans, a distinctive feature of the Formosa region that most travelers overlook.",
+  "generatedAt": "2026-06-29T13:40:18.512Z",
+  "model": "MiniMax-M3"
+}

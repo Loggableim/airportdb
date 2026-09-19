@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MUC",
+    "icao": "EDDM",
+    "name": "Munich Airport",
+    "country": "Germany",
+    "city": "Munich",
+    "lat": 48.3538,
+    "lon": 11.7861,
+    "type": "large_airport",
+    "size": 1026675
+  },
+  "summary": "Munich Airport (MUC) is Germany's second-busiest airport and a major hub for Lufthansa, located about 30 km northeast of Munich city center. It opened in 1992, replacing the older Munich-Riem Airport, and is named after former Bavarian Prime Minister Franz Josef Strauß. The airport features two parallel runways and two terminal complexes, serving as a key gateway to Bavaria and the Alps region.",
+  "faqs": "Q: How far is Munich Airport from the city center?\nA: The airport is approximately 30 km (19 miles) northeast of Munich's city center, with a typical journey time of 35-45 minutes by train.\n\nQ: What is the best way to get from the airport to Munich?\nA: The Lufthansa Express Bus and S-Bahn lines S1 and S8 provide regular service between the airport and central Munich, with the S-Bahn being the most cost-effective option.\n\nQ: Does Munich Airport have a train station?\nA: Yes, the airport has an underground train station located between Terminals 1 and 2, served by S-Bahn commuter trains and regional services.\n\nQ: How many terminals does Munich Airport have?\nA: Munich Airport has two main passenger terminals (T1 and T2), connected by a central area and accessible via shuttle bus or the underground train system.",
+  "transport_tips": "The S-Bahn lines S1 and S8 connect the airport to Munich Hauptbahnhof (main station) in about 40 minutes for around €11.50. Taxis to the city center cost approximately €70-90 and take 35-45 minutes depending on traffic. If traveling to other Bavarian cities like Salzburg or Nuremberg, regional trains depart directly from the airport's underground station.",
+  "local_tip": "Visit the airport's Visitor Hill (Besucherhügel) located on the south side for one of Europe's best free airport viewing platforms, where you can watch aircraft operations and capture photos of arrivals and departures against the Bavarian Alps backdrop.",
+  "generatedAt": "2026-06-28T14:57:39.962Z",
+  "model": "MiniMax-M3"
+}

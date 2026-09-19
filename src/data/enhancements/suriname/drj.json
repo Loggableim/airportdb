@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DRJ",
+    "icao": "SMDA",
+    "name": "Drietabbetje Airport",
+    "country": "Suriname",
+    "city": "Drietabbetje",
+    "lat": 4.1114,
+    "lon": -54.6728,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Drietabbetje Airport is a small airstrip serving the remote village of Drietabbetje in the Sipaliwini District of southern Suriname, deep within the Amazon rainforest. The facility primarily supports light aircraft operations, providing a vital transport link between this isolated interior community and the rest of the country. It is commonly used by missionary flights, medical evacuations, and occasional tourism charters visiting the surrounding jungle regions.",
+  "faqs": "Q: What is Drietabbetje Airport primarily used for?\nA: It serves mainly as a connection point for light aircraft linking the remote village of Drietabbetje with larger towns in Suriname, supporting local residents, missionaries, and occasional visitors.\n\nQ: Are there scheduled commercial flights to DRJ?\nA: Scheduled service is very limited; most flights are chartered or operated on an as-needed basis by small carriers serving Suriname's interior.\n\nQ: What kind of aircraft typically land at this airport?\nA: Small STOL (short takeoff and landing) aircraft, such as Cessna 206s and BN-2 Islanders, are commonly used due to the short unpaved runway.\n\nQ: Is the airport open to international flights?\nA: No, Drietabbetje is a domestic facility and does not handle international traffic.",
+  "transport_tips": "There is no public road connecting Drietabbetje to the main road network, so reaching the village by air is essentially the only practical option. Travelers typically arrange flights through operators in Paramaribo or via charter services based at nearby interior strips. The airstrip is unmanned, so passengers should coordinate ground transport in the village in advance.",
+  "local_tip": "Bring cash in small Surinamese dollars (SRD) since the village has no ATM, and confirm return flight schedules well ahead of time, as interior flights are frequently rescheduled due to weather.",
+  "generatedAt": "2026-06-26T22:20:15.102Z",
+  "model": "MiniMax-M3"
+}

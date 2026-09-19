@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TME",
+    "icao": "SKTM",
+    "name": "Gustavo Vargas Airport",
+    "country": "Colombia",
+    "city": "Tame",
+    "lat": 6.4511,
+    "lon": -71.7603,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Gustavo Vargas Airport serves the city of Tame in the Arauca Department of Colombia, situated in the eastern plains region near the Venezuelan border. As a medium-sized regional airport, it provides essential connectivity for the Llanos area, supporting both passenger travel and operations related to the region's oil and agricultural industries. The airport acts as a vital gateway for one of Colombia's remote frontier municipalities.",
+  "faqs": "Q: What is the IATA code for Gustavo Vargas Airport?\nA: The IATA code is TME, and the ICAO code is SKTM.\n\nQ: Where is the airport located?\nA: It is located in Tame, in the Arauca Department of Colombia, in the eastern plains region near the border with Venezuela.\n\nQ: What type of flights does this airport handle?\nA: It primarily handles domestic regional flights connecting Tame to other Colombian cities, serving local residents and workers in the oil and agricultural sectors.\n\nQ: How far is the airport from Tame's city center?\nA: The airport is located a short distance from the urban area of Tame, making it easily accessible by local transportation.\n\n",
+  "transport_tips": "Taxis and motorcycle taxis (mototaxis) are the most common ways to reach the airport from Tame's town center. The short distance means travel time is typically under 15 minutes. There is no rail or major bus terminal directly connected to the airport, so road transport is the only option.\n\n",
+  "local_tip": "The Arauca region has historically experienced security considerations, so travelers should check current travel advisories and consider arriving during daylight hours for safer road conditions through the surrounding rural areas.",
+  "generatedAt": "2026-06-29T15:54:29.627Z",
+  "model": "MiniMax-M3"
+}

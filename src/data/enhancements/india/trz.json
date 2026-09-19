@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TRZ",
+    "icao": "VOTR",
+    "name": "Tiruchirappalli International Airport",
+    "country": "India",
+    "city": "Tiruchirappalli",
+    "lat": 10.7629,
+    "lon": 78.7177,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Tiruchirappalli International Airport (TRZ) is a major aviation gateway in central Tamil Nadu, serving the historic city of Tiruchirappalli and its surrounding temple districts. Originally established as an airstrip during the British colonial era, it was upgraded to international status in 2012 and now handles flights across India and to destinations in Southeast Asia and the Middle East. The airport is a key entry point for pilgrims visiting the famed Rockfort Temple and nearby Chola-era heritage sites.",
+  "faqs": "Q: How far is the airport from Tiruchirappalli city center?\nA: The airport is approximately 5 km south of the city center, with a typical drive taking 15-20 minutes depending on traffic.\n\nQ: Which airlines operate international flights from TRZ?\nA: Airlines such as SriLankan Airlines, AirAsia, Malindo Air, and Scoot have historically operated international services, primarily to Southeast Asian destinations like Colombo, Kuala Lumpur, and Singapore.\n\nQ: Does the airport operate 24 hours?\nA: The airport operates during scheduled hours and is not a 24-hour facility; flight movements are generally concentrated during morning and evening periods.\n\nQ: Are there duty-free shops available?\nA: Yes, international passengers can access duty-free shopping in the international terminal departure area.",
+  "transport_tips": "Prepaid taxi counters are available in the arrivals hall offering fixed fares to the city and nearby towns like Thanjavur and Karur. App-based ride services such as Ola and Uber operate in Tiruchirappalli and can be booked for airport pickups. State-run and private buses also connect the airport to the central bus stand and nearby temple towns.",
+  "local_tip": "If visiting the Rockfort Temple, consider taking a shared auto-rickshaw from the airport exit area rather than a prepaid taxi; locals often negotiate better fares and can share helpful insights about timing your visit to avoid the midday heat and crowds.",
+  "generatedAt": "2026-06-29T00:29:03.885Z",
+  "model": "MiniMax-M3"
+}

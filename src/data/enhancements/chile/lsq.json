@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LSQ",
+    "icao": "SCGE",
+    "name": "María Dolores Airport",
+    "country": "Chile",
+    "city": "Los Angeles",
+    "lat": -37.4017,
+    "lon": -72.4254,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "María Dolores Airport (LSQ/SCGE) is a small regional airport serving the city of Los Ángeles in Chile's Biobío Region. It functions as the main air gateway for this important agricultural and forestry hub in central-south Chile, primarily handling domestic flights. The airport provides essential connectivity for a region known for its forestry industry and proximity to the Andes mountains.",
+  "faqs": "Q: Where is María Dolores Airport located?\nA: The airport is located near the city of Los Ángeles in Chile's Biobío Region, roughly 500 km south of Santiago. Its coordinates are approximately 37.4°S, 72.4°W.\n\nQ: What type of flights operate from María Dolores Airport?\nA: As a small regional airport, it primarily handles domestic flights and general aviation, connecting the Biobío Region with other parts of Chile.\n\nQ: How large is María Dolores Airport?\nA: It is classified as a small airport with limited commercial traffic, featuring a single runway suited for regional aircraft operations.\n\nQ: Is the airport named after a person?\nA: Yes, the airport is named María Dolores, honoring a figure of local significance in the Los Ángeles community.",
+  "transport_tips": "The airport is located just a few kilometers from downtown Los Ángeles, making taxi or private car the most convenient option for reaching the city center. Renting a car is recommended for travelers planning to explore the surrounding Biobío Region or head toward the Andes. Public transportation options are limited, so arranging ground transport in advance is advisable.",
+  "local_tip": "If you have extra time, ask a local guide about visiting Laguna del Laja National Park nearby—it's one of Chile's most stunning natural areas with waterfalls, volcanic scenery, and views of the Antuco volcano.",
+  "generatedAt": "2026-06-27T08:13:35.262Z",
+  "model": "MiniMax-M3"
+}

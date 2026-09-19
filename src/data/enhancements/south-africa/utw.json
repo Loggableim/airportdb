@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UTW",
+    "icao": "FAQT",
+    "name": "Queenstown Airport",
+    "country": "South Africa",
+    "city": "Queenstown",
+    "lat": -31.9202,
+    "lon": 26.8822,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Queenstown Airport (UTW/FAQT) is a medium-sized regional airport serving the town of Queenstown in the Eastern Cape province of South Africa. The airport supports general aviation and limited scheduled services, acting as a key access point for travelers visiting the rural communities of the Stormberg region. Its location amid the rolling landscapes of the Eastern Cape makes it a useful gateway for both business travelers and tourists exploring the area's historical and natural attractions.",
+  "faqs": "Q: What is the IATA code for Queenstown Airport?\nA: The IATA code for Queenstown Airport is UTW, and its ICAO code is FAQT.\n\nQ: Where is Queenstown Airport located?\nA: The airport is situated near the town of Queenstown in the Eastern Cape province of South Africa, at coordinates approximately -31.920 latitude and 26.882 longitude.\n\nQ: Does Queenstown Airport handle international flights?\nA: As a medium-sized regional airport, it primarily serves domestic and general aviation traffic rather than international flights.\n\nQ: What facilities are available at Queenstown Airport?\nA: The airport offers basic passenger facilities typical of a regional South African airport, including a terminal building suitable for general aviation and limited scheduled operations.\n\n",
+  "transport_tips": "Travelers typically reach the airport by private vehicle or taxi, as public transport options to Queenstown Airport are limited given its regional location. The town of Queenstown is approximately a short drive from the airport terminal. Car rental services may be available in town, which is often the most practical option for exploring the wider Eastern Cape region.",
+  "local_tip": "If you're flying into Queenstown for outdoor exploration, check local weather conditions in advance—winds in the Stormberg region can shift quickly, and early morning or late afternoon flights often offer the smoothest conditions for smaller aircraft.",
+  "generatedAt": "2026-06-26T09:55:29.974Z",
+  "model": "MiniMax-M3"
+}

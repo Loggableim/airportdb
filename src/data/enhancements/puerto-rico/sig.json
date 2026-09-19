@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SIG",
+    "icao": "TJIG",
+    "name": "Fernando Luis Ribas Dominicci Airport",
+    "country": "Puerto Rico",
+    "city": "San Juan",
+    "lat": 18.4568,
+    "lon": -66.0981,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Fernando Luis Ribas Dominicci Airport (SIG) is a medium-sized general aviation and commuter airport situated on the waterfront in the Miramar district of San Juan, Puerto Rico. Named in honor of a distinguished Puerto Rican aviator, it serves as a secondary facility to the larger Luis Muñoz Marín International Airport, primarily handling regional commercial flights, air taxis, and private aviation. Its compact size and central urban location make it one of the most conveniently placed airports for accessing downtown San Juan and the historic district.",
+  "faqs": "Q: How far is SIG from Old San Juan?\nA: The airport is approximately 2-3 miles from Old San Juan, making it a quick 10-15 minute drive depending on traffic.\n\nQ: What airlines operate at Fernando Luis Ribas Dominicci Airport?\nA: SIG primarily serves regional carriers, air taxi services, and private aviation. Commercial scheduled service is limited compared to the main international airport.\n\nQ: Is this airport used for international flights?\nA: It is not a major international gateway; Luis Muñoz Marín International Airport (SJU) handles the majority of international traffic to Puerto Rico. SIG mainly serves domestic and regional flights.\n\nQ: Does the airport have customs and immigration facilities?\nA: As a secondary airport, SIG has limited CBP capabilities. Most international travelers should use SJU for smoother processing.\n\n",
+  "transport_tips": "Taxis and rideshare services are readily available outside the terminal and offer the quickest route to Old San Juan and nearby neighborhoods. Rental car agencies serve the airport, and the compact location means travel times to most San Juan destinations are under 20 minutes. If heading to the main tourist zones in Condado or Isla Verde, allow extra time during rush hour traffic.",
+  "local_tip": "If you have a short layover or a few hours to spare, the airport's waterfront location offers easy walking access to the coastal promenade and is just minutes from the famous Condado Lagoon—perfect for a quick scenic stroll before your flight.",
+  "generatedAt": "2026-06-29T05:19:56.682Z",
+  "model": "MiniMax-M3"
+}

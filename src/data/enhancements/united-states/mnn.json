@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MNN",
+    "icao": "KMNN",
+    "name": "Marion Municipal Airport",
+    "country": "United States",
+    "city": "Marion",
+    "lat": 40.6162,
+    "lon": -83.0635,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Marion Municipal Airport is a small general aviation facility serving Marion, Ohio, a city known for its connection to the Panama Canal through the historic Marion Steam Shovel Company and as the hometown of President Warren G. Harding. The airport primarily supports private, corporate, and flight training operations rather than scheduled commercial service. It provides an important aviation gateway for north-central Ohio's Marion County and surrounding communities.",
+  "faqs": "Q: What is the airport code for Marion Municipal Airport?\nA: The airport's IATA code is MNN and its ICAO code is KMNN.\n\nQ: What type of flights does Marion Municipal Airport serve?\nA: It is a general aviation airport supporting private, recreational, corporate, and flight training operations rather than scheduled commercial airline service.\n\nQ: Where is Marion Municipal Airport located?\nA: It is located in Marion, Ohio, in north-central Ohio, approximately 50 miles north of Columbus and about 90 miles south of Toledo.\n\nQ: Does the airport have historical significance?\nA: The airport serves a city rich in American history, including connections to President",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-27T00:56:08.116Z",
+  "model": "MiniMax-M3"
+}

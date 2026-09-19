@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YMO",
+    "icao": "CYMO",
+    "name": "Moosonee Airport",
+    "country": "Canada",
+    "city": "Moosonee",
+    "lat": 51.2911,
+    "lon": -80.6078,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Moosonee Airport (YMO) serves the remote community of Moosonee in northeastern Ontario, situated on the western shore of James Bay near the subarctic transition zone. As a vital transportation hub, it connects the Moose Cree First Nation and surrounding northern communities to southern Canada, given the absence of road access to the region. The airport primarily handles regional turboprop flights and serves as an essential link for medical evacuations, cargo, and passenger travel to one of Canada's most isolated populated areas.",
+  "faqs": "Q: What airlines fly into Moosonee Airport?\nA: Air Creebec is the primary carrier, operating turboprop flights to and from Timmins (YTS) and other northern Ontario destinations.\n\nQ: How far is Moosonee Airport from the town center?\nA: The airport is located just a few kilometers south of Moosonee's town center, with a short taxi ride typically required.\n\nQ: Can I drive to Moosonee?\nA: No, Moosonee is not accessible by road. Visitors must arrive by train (Polar Bear Express from Cochrane), by air, or by seasonal boat service.\n\nQ: When is the best time to visit Moosonee?\nA: Summer (June to August) offers milder weather and the chance to see the northern landscape, though winter provides opportunities for aurora viewing and access to winter activities.",
+  "transport_tips": "Taxis and pre-arranged shuttles are the main ground transport options, as the airport is small and there is no public transit. Many visitors arrive via the Polar Bear Express train, which terminates in Moosonee near the waterfront. Rental cars are limited, so coordinate any vehicle needs well in advance through local services.",
+  "local_tip": "Pack extra snacks and water, as dining options at the terminal are minimal and weather-related delays are common due to the airport's northern exposure and variable James Bay weather conditions.",
+  "generatedAt": "2026-06-29T06:31:14.470Z",
+  "model": "MiniMax-M3"
+}

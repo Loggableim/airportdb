@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DZO",
+    "icao": "SUDU",
+    "name": "Santa Bernardina International Airport",
+    "country": "Uruguay",
+    "city": "Durazno",
+    "lat": -33.3589,
+    "lon": -56.4992,
+    "type": "medium_airport",
+    "size": 475
+  },
+  "summary": "Santa Bernardina International Airport (DZO/SUDU) serves the city of Durazno in central Uruguay, situated near the Yi River. The airport functions as both a civilian facility and a base for the Uruguayan Air Force, reflecting its dual military and civilian role. It provides an important gateway to Uruguay's interior regions, away from the coastal tourist hubs of Montevideo and Punta del Este.",
+  "faqs": "Q: Where is Santa Bernardina International Airport located?\nA: The airport is located in Durazno, in central Uruguay, approximately 3 km southwest of the city center.\n\nQ: What is the airport's IATA and ICAO codes?\nA: The airport's IATA code is DZO and its ICAO code is SUDU.\n\nQ: Does the airport handle international flights?\nA: Yes, it is classified as an international airport, though commercial flight activity is limited compared to Uruguay's main hub at Carrasco International Airport in Montevideo.\n\nQ: Is the airport shared with a military facility?\nA: Yes, it also serves as a base for the Uruguayan Air Force, which is a notable feature of its operations.\n\n",
+  "transport_tips": "The airport is a short drive from Durazno's city center, typically reachable in under 10 minutes by taxi or private vehicle. Public transportation options are limited, so arranging a rental car or pre-booked transfer is recommended for travelers without a private driver. Road access is straightforward via Route 5, which connects Durazno to Montevideo and other major Uruguayan cities.",
+  "local_tip": "If you have time between flights, head into Durazno to visit Plaza Independencia and enjoy a traditional asado at a local parrillada—Uruguay's central region is known for its relaxed pace and excellent grilled meats.",
+  "generatedAt": "2026-06-30T00:50:02.371Z",
+  "model": "MiniMax-M3"
+}

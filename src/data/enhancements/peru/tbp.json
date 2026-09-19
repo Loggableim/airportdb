@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TBP",
+    "icao": "SPME",
+    "name": "Captain Pedro Canga Rodríguez International Airport",
+    "country": "Peru",
+    "city": "Tumbes",
+    "lat": -3.5521,
+    "lon": -80.3811,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Captain Pedro Canga Rodríguez International Airport (TBP) serves the northern Peruvian city of Tumbes, located near the Ecuadorian border along the Pacific coast. Named after a pioneering Peruvian aviator, it functions as the main air gateway to the Tumbes region, known for its mangrove ecosystems, beaches, and as an entry point for travelers exploring northern Peru or crossing into Ecuador.",
+  "faqs": "Q: How far is the airport from Tumbes city center?\nA: The airport is located just a few kilometers from downtown Tumbes, making it a quick taxi or mototaxi ride into the city.\n\nQ: Are there international flights at this airport?\nA: Yes, despite its medium size, it handles select international flights, primarily from Ecuador given its proximity to the border.\n\nQ: What attractions are accessible from Tumbes airport?\nA: The airport is a convenient gateway to the Manglares de Tumbes National Sanctuary, Punta Sal beaches, and the coastal route toward Ecuador.\n\nQ: Is the airport operational at night?\nA: Operations are generally limited to daylight hours, as is common for many regional Peruvian airports.",
+  "transport_tips": "Taxis are readily available outside the terminal and offer fixed or negotiated fares to Tumbes city and surrounding areas. Mototaxis are a common and inexpensive option for short trips within the city. Travelers heading to beach destinations like Punta Sal or Zorritos should arrange transportation in advance, as the ride can take 60-90 minutes.",
+  "local_tip": "Pack light and breathable clothing—Tumbes is one of Peru's hottest and most humid regions year-round, and the airport terminal is small with limited air conditioning.",
+  "generatedAt": "2026-06-29T14:29:28.252Z",
+  "model": "MiniMax-M3"
+}

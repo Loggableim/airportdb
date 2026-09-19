@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JMK",
+    "icao": "LGMK",
+    "name": "Mykonos Island National Airport",
+    "country": "Greece",
+    "city": "Mykonos",
+    "lat": 37.4351,
+    "lon": 25.3481,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mykonos Island National Airport (JMK/LGMK) is the main gateway to the glamorous Greek island of Mykonos, located approximately 4 km southeast of Mykonos Town (Chora) in the Cyclades. The airport handles intense seasonal traffic, with summer months seeing a significant surge of tourists arriving to experience the island's renowned beaches, nightlife, and whitewashed villages. Despite its modest infrastructure, it serves as a vital hub connecting Mykonos to major European cities and other Greek islands.",
+  "faqs": "Q: How far is Mykonos Airport from the main town?\nA: The airport is about 4 km (2.5 miles) from Mykonos Town (Chora), a short 10-15 minute drive depending on traffic.\n\nQ: Does the airport operate year-round?\nA: Yes, the airport has year-round operations, but flight frequency increases dramatically during the summer tourist season from May to September.\n\nQ: Are there direct international flights to Mykonos?\nA: Yes, during peak summer season, several European airlines offer direct flights to Mykonos from cities across Europe. Off-season, most travelers connect through Athens.\n\nQ: Is there a ferry connection from the airport to other islands?\nA: No, the airport is not directly connected to ferry ports. Travelers must take a bus or taxi to the main port for connections to other Cycladic islands.",
+  "transport_tips": "The most convenient way to reach Mykonos Town from the airport is by taxi, available outside the terminal, though fares increase significantly during peak season and at night. During summer months, a public bus service connects the airport to Mykonos Town and nearby beaches like Platys Gialos and Paradise. Pre-booking a transfer or rental car is highly recommended during July and August due to high demand and limited availability.",
+  "local_tip": "If you're departing in summer, arrive at least 2.5-3 hours early during peak months—the small terminal gets crowded quickly, and security queues can be lengthy even for short domestic flights.",
+  "generatedAt": "2026-06-29T03:03:22.641Z",
+  "model": "MiniMax-M3"
+}

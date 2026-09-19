@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EKA",
+    "icao": "KEKA",
+    "name": "Murray Field",
+    "country": "United States",
+    "city": "Eureka",
+    "lat": 40.8034,
+    "lon": -124.113,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Murray Field (EKA/KEKA) is a county-owned general aviation airport serving Eureka and California's Humboldt County, located about two miles north of downtown near Humboldt Bay. It has two short asphalt runways and supports private, flight-training, and emergency aircraft rather than scheduled airline service. It is a convenient local alternative to California Redwood Coast-Humboldt County Airport (ACV) for general aviation traffic.",
+  "faqs": "Q: Does Murray Field have commercial airline service?\nA: No. Murray Field is a general aviation airport; scheduled passenger flights operate from California Redwood Coast-Humboldt County Airport (ACV), about 15 miles north.\n\nQ: What runways are at EKA?\nA: Murray Field has two asphalt runways, 12/30 and 16/34, each roughly 3,000 feet long, with pilot-controlled lighting.\n\nQ: How far is Murray Field from downtown Eureka?\nA: It is roughly 2-3 miles north of downtown Eureka, typically a 5-10 minute drive via US 101 and Murray Road.\n\nQ: Is fuel available at Murray Field?\nA: Yes, self-serve 100LL avgas is typically available, along with tiedown and transient parking; check current fees and after-hours access with Humboldt County.",
+  "transport_tips": "Murray Field is easiest to reach by car: from US 101, take the Murray Road exit and follow airport signs west toward Humboldt Bay. Taxi and rideshare service can be limited, especially early or late, so arrange a pickup in advance. There is no direct public transit to the airport area, but downtown Eureka is only a short drive away; allow extra time in coastal fog.",
+  "local_tip": "Frequent visitors check the AWOS and marine-layer trends before departing: EKA can be fogged in while ACV or inland areas are clear, especially on summer mornings.",
+  "generatedAt": "2026-09-19T23:09:15.186Z",
+  "model": "deepseek-v4.1-flash"
+}

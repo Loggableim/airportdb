@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CTB",
+    "icao": "KCTB",
+    "name": "Cut Bank International Airport",
+    "country": "United States",
+    "city": "Cut Bank",
+    "lat": 48.6087,
+    "lon": -112.3782,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Cut Bank International Airport is a publicly owned general aviation airport serving Cut Bank, Montana, located in Glacier County near the Canadian border and the eastern slopes of Glacier National Park. Despite its 'international' designation, it primarily handles general aviation and occasional charter flights, supporting the surrounding agricultural and tourism communities. The airport sits at an elevation of approximately 3,854 feet and features two asphalt runways.",
+  "faqs": "Q: Does Cut Bank International Airport offer commercial airline service?\nA: No, the airport does not provide scheduled commercial passenger service. It operates as a general aviation facility, though it has customs capabilities given its international designation.\n\nQ: Where is the airport located relative to Glacier National Park?\nA: The airport is situated about 40 miles east of Glacier National Park's eastern entrances, making it a potential alternative landing point for visitors exploring the region.\n\nQ: Are there aircraft rental or fuel services available?\nA: Yes, the airport provides aviation fuel services and is suitable for general aviation traffic, though specific rental availability should be confirmed with the operator.\n\nQ: Is there an airport terminal or facilities for passengers?\nA: The airport has a small terminal building with basic amenities, appropriate for its general aviation role and low traffic volume.",
+  "transport_tips": "Renting a car is essential for reaching Cut Bank, as there is no public transit serving the airport and taxi services are limited in this rural area. The airport is located just a few miles northwest of downtown Cut Bank, accessible via a short drive on local roads. Visitors heading to Glacier National Park should plan for a roughly one-hour drive west from the airport.",
+  "local_tip": "Frequent visitors recommend contacting the airport manager in advance if you need customs clearance for international arrivals, as staffing for border processing is arranged by appointment rather than on a fixed schedule.",
+  "generatedAt": "2026-06-26T07:56:23.672Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AUM",
+    "icao": "KAUM",
+    "name": "Austin Municipal Airport",
+    "country": "United States",
+    "city": "Austin",
+    "lat": 43.665,
+    "lon": -92.9334,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Austin Municipal Airport (AUM/KAUM) is a general aviation facility serving Austin, Minnesota, a city best known as the home of Hormel Foods and the Spam Museum. The airport primarily supports private, recreational, and business aircraft, with no scheduled commercial service. It provides an important transportation link for the southern Minnesota region.",
+  "faqs": "Q: Does Austin Municipal Airport offer commercial flights?\nA: No, the airport serves general aviation only and does not have scheduled commercial airline service.\n\nQ: What facilities are available at AUM?\nA: The airport features runways, hangars, fuel services, and tie-down areas for private and general aviation aircraft.\n\nQ: Are there pilot services on-site?\nA: Yes, basic services such as fuel and tie-downs are available; pilots should confirm current availability by contacting the airport.\n\nQ: Can I fly into Austin for a visit to the Spam Museum?\nA: Yes, general aviation pilots can fly directly into AUM, which is conveniently located near downtown Austin and its main attractions.",
+  "transport_tips": "The airport is just a short drive from downtown Austin, making it convenient for pilots and passengers arriving by general aviation. Rental cars and local taxi services can be arranged in town, though options may be limited so booking in advance is recommended. The airport's small size means parking and access are straightforward upon arrival.",
+  "local_tip": "If you're flying in for the Spam Museum, plan your visit around the annual Spam Jam festival in July for a uniquely Austin experience you won't find anywhere else.",
+  "generatedAt": "2026-06-27T06:33:26.506Z",
+  "model": "MiniMax-M3"
+}

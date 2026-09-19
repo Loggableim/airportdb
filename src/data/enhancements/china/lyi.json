@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LYI",
+    "icao": "ZSLY",
+    "name": "Linyi Qiyang Airport",
+    "country": "China",
+    "city": "Linyi (Hedong)",
+    "lat": 35.0529,
+    "lon": 118.4118,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Linyi Qiyang Airport (LYI/ZSLY) is a regional aviation hub serving Linyi, the largest city by population in Shandong Province, China. Located in the Hedong District, it supports both commercial passenger flights and military operations. The airport plays a key role in connecting this commercially vibrant inland city to major domestic destinations including Beijing, Shanghai, and Guangzhou.",
+  "faqs": "Q: How far is Linyi Qiyang Airport from the city center?\nA: The airport is located approximately 15 kilometers northeast of Linyi's urban center in Hedong District, typically a 25-35 minute drive depending on traffic.\n\nQ: What airlines operate from Linyi Qiyang Airport?\nA: The airport is served by several Chinese carriers including China Eastern Airlines, China Southern Airlines, Shenzhen Airlines, and GX Airlines, offering routes to major domestic hubs.\n\nQ: Does the airport have international flights?\nA: The airport primarily handles domestic flights, with occasional regional charter services. Most international travel from the area connects through nearby larger airports.\n\nQ: Is the airport open 24 hours?\nA: Operating hours generally align with scheduled flight times, typically from early morning until late evening. The terminal is not open to the public overnight.",
+  "transport_tips": "Taxis and ride-hailing services like Didi are the most convenient ways to reach the airport from central Linyi, with metered fares typically ranging from 50-80 RMB. Several airport shuttle bus routes connect the terminal to downtown locations and the railway station. Private car drop-offs are easy via the access road off National Highway G205, and parking is available near the terminal.",
+  "local_tip": "If you have a long layover or early arrival, visit the nearby Yi River (Yihe) scenic area just south of the airport — it's a pleasant spot for a short walk and offers a glimpse of Linyi's natural landscape without venturing far from the terminal.",
+  "generatedAt": "2026-06-29T22:48:11.215Z",
+  "model": "MiniMax-M3"
+}

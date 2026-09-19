@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ARB",
+    "icao": "KARB",
+    "name": "Ann Arbor Municipal Airport",
+    "country": "United States",
+    "city": "Ann Arbor",
+    "lat": 42.223,
+    "lon": -83.7456,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Ann Arbor Municipal Airport (ARB) is a city-owned general aviation facility serving Ann Arbor, Michigan, home to the University of Michigan. Located just southwest of downtown, it primarily supports private pilots, corporate flights, flight training, and recreational aviation rather than commercial service. The airport features two intersecting runways and serves as a convenient hub for business travelers visiting the university and the region's tech and automotive industries.",
+  "faqs": "Q: Does Ann Arbor Municipal Airport offer commercial flights?\nA: No, ARB is a general aviation airport with no scheduled commercial airline service. The nearest airport with commercial flights is Detroit Metropolitan (DTW), about 25 miles east.\n\nQ: What services are available at the airport?\nA: The airport offers fuel sales (100LL and Jet A), aircraft rental, flight instruction, aircraft maintenance, hangar and tie-down storage, and a pilot lounge.\n\nQ: Are there any restaurants or amenities at the terminal?\nA: Amenities are limited as this is a small GA airport, but vending machines and basic pilot services are typically available on-site.\n\nQ: Can the public visit or watch aircraft?\nA: Yes, the airport is publicly accessible, and a designated viewing area near the terminal allows aviation enthusiasts to watch aircraft operations.",
+  "transport_tips": "The airport is conveniently located about 5 miles southwest of downtown Ann Arbor, accessible via I-94 and State Street. Rideshare services like Uber and Lyft are available but may have longer wait times due to the airport's small size. Rental cars are not available on-site, so visitors should arrange ground transportation in advance.",
+  "local_tip": "If you're flying in for a University of Michigan game day, book your hangar or tie-down space well in advance—the airport gets extremely busy, and parking near the stadium on campus fills up hours before kickoff.",
+  "generatedAt": "2026-06-27T00:06:02.383Z",
+  "model": "MiniMax-M3"
+}

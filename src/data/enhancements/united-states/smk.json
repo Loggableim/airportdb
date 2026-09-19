@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SMK",
+    "icao": "PAMK",
+    "name": "St Michael Airport",
+    "country": "United States",
+    "city": "St Michael",
+    "lat": 63.4901,
+    "lon": -162.11,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "St Michael Airport is a small public-use airstrip serving the remote village of St Michael on a barrier island along Alaska's Norton Sound in the western part of the state. The facility primarily supports scheduled passenger service and general aviation, providing a critical transportation link for this isolated community where road access is unavailable. The airport operates in a subarctic maritime climate, with operations sometimes affected by fog, ice, and strong winds off the Bering Sea.",
+  "faqs": "Q: What is the IATA code for St Michael Airport?\nA: The IATA code is SMK, and the ICAO code is PAMK.\n\nQ: Where is St Michael Airport located?\nA: It is located on St Michael Island along Alaska's Norton Sound coast, in the western part of the state, near the Yukon-Kuskokwim Delta region.\n\nQ: What kind of aircraft can use St Michael Airport?\nA: As a small airport, it primarily accommodates regional turboprop aircraft and small general aviation planes suitable for short gravel runways.\n\nQ: Is the airport open year-round?\nA: Yes, the airport operates year-round, though weather conditions in winter can occasionally cause delays or cancellations.\n\n",
+  "transport_tips": "There are no roads connecting St Michael to other communities, so the airport is effectively the primary link for passenger travel. Ground transportation in the village is limited to local vehicles, ATVs, or snow machines depending on the season. Travelers should arrange lodging or pickup with local contacts in advance, as rental car services are not typically available.",
+  "local_tip": "Pack extra food, layers, and patience — weather-related delays are common in this part of Alaska, and the village has limited amenities, so plan for self-sufficiency during layovers.",
+  "generatedAt": "2026-06-26T20:33:17.630Z",
+  "model": "MiniMax-M3"
+}

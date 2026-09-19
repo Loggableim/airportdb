@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PLV",
+    "icao": "UKHP",
+    "name": "Suprunovka Airport",
+    "country": "Ukraine",
+    "city": "Poltava",
+    "lat": 49.5686,
+    "lon": 34.3972,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Suprunovka Airport (PLV/UKHP) is a small regional airport serving Poltava, a historic city in central Ukraine known for its role in the Battle of Poltava (1709). The airport is located in the Suprunovka district on the outskirts of the city and primarily handles limited regional and charter traffic. It functions as a modest gateway to Poltava Oblast rather than a major commercial hub.",
+  "faqs": "Q: What is the IATA code for Suprunovka Airport?\nA: The IATA code is PLV, and the ICAO code is UKHP.\n\nQ: Does Suprunovka Airport offer international flights?\nA: It has historically served a limited schedule of regional and seasonal routes, but regular international service is minimal. Travelers should verify current routes directly with carriers.\n\nQ: Where is the airport located relative to Poltava city center?\nA: It is situated in the Suprunovka neighborhood on the southeastern edge of Poltava, roughly 10 km from the city center.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, it offers basic terminal amenities suitable for limited passenger traffic.\n\n",
+  "transport_tips": "Taxis and marshrutka (fixed-route minibuses) are the most common ways to reach the airport from Poltava city center. Pre-arranging a taxi through a local service or hotel is recommended, as ride availability near the terminal can be limited. Allow extra travel time during winter months, as road conditions in central Ukraine can deteriorate with snow.",
+  "local_tip": "If you have time before your flight, ask a local about visiting the Poltava Battlefield Museum and the White Rotunda, which commemorate the famous 1709 Battle of Poltava — it's one of the most significant historical sites in Ukraine and rarely crowded.",
+  "generatedAt": "2026-06-27T10:15:28.943Z",
+  "model": "MiniMax-M3"
+}

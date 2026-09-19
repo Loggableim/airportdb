@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PMF",
+    "icao": "LIMP",
+    "name": "Parma Airport",
+    "country": "Italy",
+    "city": "Parma (PR)",
+    "lat": 44.8264,
+    "lon": 10.2971,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Parma Airport (PMF/LIMP) is a medium-sized regional airport serving the historic city of Parma in the Emilia-Romagna region of northern Italy. It primarily handles general aviation, charter flights, and seasonal commercial services, with a focus on connecting the area to key European destinations. The airport sits just a few kilometers southwest of the city center, making it a convenient gateway for visitors exploring Parma's renowned culinary and cultural heritage.",
+  "faqs": "Q: How far is Parma Airport from the city center?\nA: The airport is located approximately 3-4 km southwest of Parma's city center, making it a quick 10-15 minute journey by car or taxi.\n\nQ: What airlines operate flights from Parma Airport?\nA: Parma Airport primarily serves seasonal and charter operations, with limited scheduled commercial service. Airlines and routes may vary by season, so checking current schedules is recommended.\n\nQ: Does Parma Airport have public transport connections?\nA: Public transport options are limited; travelers typically rely on taxis, pre-booked shuttles, or rental cars to reach the airport from Parma and surrounding areas.\n\nQ: Are there dining and shopping facilities at the airport?\nA: As a smaller regional airport, facilities are modest, typically including a small café and basic amenities. Passengers are advised to eat before arriving or bring refreshments for longer waits.\n\n",
+  "transport_tips": "Taxis are the most reliable option for reaching the airport, with the short journey to central Parma costing a modest fixed fare. Car rental agencies operate at the airport, which is a practical choice given the limited public transport. If driving, follow signs for the Parma ring road (Tangenziale) and exit toward the airport for straightforward access from the A1 or A15 motorways.",
+  "local_tip": "If you have time before your flight, visit a nearby Parmigiano",
+  "generatedAt": "2026-06-29T07:01:15.373Z",
+  "model": "MiniMax-M3"
+}

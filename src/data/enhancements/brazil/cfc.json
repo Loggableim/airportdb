@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CFC",
+    "icao": "SBCD",
+    "name": "Doctor Carlos Alberto da Costa Neves Airport",
+    "country": "Brazil",
+    "city": "Caçador",
+    "lat": -26.7874,
+    "lon": -50.9399,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Doctor Carlos Alberto da Costa Neves Airport (CFC/SBCD) is a small regional airport serving Caçador, a municipality in the mid-western region of Santa Catarina state in southern Brazil. Nestled in the highlands at approximately 1,000 meters above sea level, it primarily supports general aviation and limited commercial traffic connecting the local community to larger Brazilian hubs. The airport is named in honor of a local medical professional and serves a region known for its apple production, forestry industry, and cold winter climate.",
+  "faqs": "Q: What is the IATA code for Doctor Carlos Alberto da Costa Neves Airport?\nA: The IATA code is CFC, and the ICAO code is SBCD.\n\nQ: How large is the airport?\nA: It is classified as a small airport with a limited infrastructure, primarily handling general aviation and occasional regional flights.\n\nQ: Where is the airport located in relation to Caçador?\nA: The airport is situated on the outskirts of Caçador in Santa Catarina state, in southern Brazil's highland region.\n\nQ: Does the airport offer international flights?\nA: No, the airport serves domestic routes only and has no international scheduled service.\n\n",
+  "transport_tips": "The airport is located a short drive from downtown Caçador, and taxis or pre-arranged transfers are the most common way to reach the city center. Rental car services may be limited, so booking in advance through agencies in larger nearby cities is advisable. Public transportation options to the airport are minimal, so arranging private transport is recommended.",
+  "local_tip": "Caçador is the self-proclaimed 'Apple Capital of Brazil,' so if you visit during the annual Festa Nacional da Maçã (National Apple Festival), typically held in April, you'll experience the region's most celebrated cultural event and sample its famous apple-based products.",
+  "generatedAt": "2026-06-26T20:14:53.875Z",
+  "model": "MiniMax-M3"
+}

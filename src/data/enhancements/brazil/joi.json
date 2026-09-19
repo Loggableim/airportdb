@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JOI",
+    "icao": "SBJV",
+    "name": "Lauro Carneiro de Loyola Airport",
+    "country": "Brazil",
+    "city": "Joinville",
+    "lat": -26.2245,
+    "lon": -48.7974,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Lauro Carneiro de Loyola Airport serves Joinville, the largest city in the Brazilian state of Santa Catarina and a major industrial hub known for manufacturing and metalworking. The airport provides essential connectivity for the region's business travelers and connects southern Brazil to key domestic destinations. Its modest size belies its strategic importance for the economic activity of the Joinville metropolitan area.",
+  "faqs": "Q: Where is Lauro Carneiro de Loyola Airport located?\nA: The airport is located in Joinville, in the northern part of Santa Catarina state in southern Brazil, approximately 8 km from the city center.\n\nQ: What airlines operate at Joinville airport?\nA: The airport is primarily served by Brazilian domestic carriers, with regular flights connecting to major hubs such as São Paulo and other capitals.\n\nQ: Does the airport offer international flights?\nA: The airport mainly handles domestic flights, with international travel typically routed through larger nearby airports like Navegantes (NVT) or Curitiba (CWB).\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard amenities including car rental services, parking, a small food court, and basic passenger services typical of a regional Brazilian airport.",
+  "transport_tips": "The most convenient way to reach the airport from central Joinville is by taxi or rideshare, with a journey time of roughly 15-20 minutes depending on traffic. Several local bus routes also connect the airport to different parts of the city, though service frequency can be limited. Car rental counters are available in the terminal for travelers exploring Santa Catarina.",
+  "local_tip": "If you have time between flights, ask for directions to the airport's small viewing area where you can watch the arriving and departing planes against the backdrop of the surrounding Atlantic Forest hills—it's a pleasant reminder that Joinville is one of Brazil's greenest cities.",
+  "generatedAt": "2026-06-29T07:00:09.553Z",
+  "model": "MiniMax-M3"
+}

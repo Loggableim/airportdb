@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HSI",
+    "icao": "KHSI",
+    "name": "Hastings Municipal Airport",
+    "country": "United States",
+    "city": "Hastings",
+    "lat": 40.6053,
+    "lon": -98.4279,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Hastings Municipal Airport (HSI) is a small general aviation airport serving Hastings, Nebraska, a city in the south-central part of the state. The airport primarily supports private pilots, business aviation, flight training, and recreational flying for the Adams County region. It features a single main runway and is publicly owned by the city of Hastings.",
+  "faqs": "Q: What type of airport is Hastings Municipal Airport?\nA: It is a small public general aviation airport serving primarily private, business, and recreational flights, with no scheduled commercial airline service.\n\nQ: Does Hastings Municipal Airport have commercial flights?\nA: No, HSI does not offer scheduled commercial passenger service. Travelers typically use larger airports in Grand Island or Lincoln for commercial flights.\n\nQ: What facilities are available at the airport?\nA: The airport offers a runway, tie-down and hangar space for based aircraft, fuel services, and basic amenities for transient pilots.\n\nQ: Who operates Hastings Municipal Airport?\nA: The airport is publicly owned and operated by the City of Hastings, Nebraska.\n\n",
+  "transport_tips": "The airport is located just a few miles northeast of downtown Hastings, making it a short drive from most areas of the city. Rental cars and local taxi services are the most practical options for ground transportation, as the airport does not have a dedicated shuttle service. Having a personal vehicle is recommended for convenience, as public transit options to the airport are limited.",
+  "local_tip": "If you're visiting Hastings, don't miss the Hastings Museum, which features one of the largest collections of Kool-Aid memorabilia in the world—a nod to the drink's inventor, Edwin Perkins, who lived in the area.",
+  "generatedAt": "2026-06-27T04:47:33.821Z",
+  "model": "MiniMax-M3"
+}

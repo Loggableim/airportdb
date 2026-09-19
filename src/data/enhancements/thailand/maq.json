@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MAQ",
+    "icao": "VTPM",
+    "name": "Mae Sot Airport",
+    "country": "Thailand",
+    "city": "",
+    "lat": 16.6999,
+    "lon": 98.5451,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mae Sot Airport (MAQ/VTPM) is a small regional airport serving the border town of Mae Sot in Tak Province, western Thailand, near the Myanmar border. It functions as a convenient gateway for travelers heading to Myawaddy and other destinations in southeastern Myanmar. The airport handles a limited schedule of domestic flights, primarily connecting the region to Bangkok.",
+  "faqs": "Q: What is Mae Sot Airport primarily used for?\nA: It serves the border town of Mae Sot and provides air access to Tak Province, with many travelers using it as a jumping-off point for cross-border trips into Myanmar.\n\nQ: Are there international flights from Mae Sot Airport?\nA: No, the airport handles domestic flights only, primarily routes to and from Bangkok.\n\nQ: How far is the airport from Mae Sot town center?\nA: The airport is located a short drive from central Mae Sot, typically reachable within 15-20 minutes by road.\n\nQ: Is Mae Sot Airport suitable for connecting flights?\nA: Due to its limited flight schedule and small size, it is best used for direct travel rather than as a connection hub.\n\n",
+  "transport_tips": "Taxis and songthaews (shared pickup trucks) are commonly available at the airport for transfers into Mae Sot town. Since flight schedules are limited, arranging ground transport in advance is recommended, especially for early morning or late arrivals. The road connection to the Myanmar border at Myawaddy makes onward land travel straightforward.",
+  "local_tip": "If you're heading to Myanmar, exchange currency for Myanmar kyat before crossing the border as rates at the official exchange in Mae Sot are usually better than those on the Myanmar side.",
+  "generatedAt": "2026-06-29T11:16:57.777Z",
+  "model": "MiniMax-M3"
+}

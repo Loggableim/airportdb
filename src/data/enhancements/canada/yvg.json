@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YVG",
+    "icao": "CYVG",
+    "name": "Vermilion Airport",
+    "country": "Canada",
+    "city": "Vermilion",
+    "lat": 53.3577,
+    "lon": -110.8274,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Vermilion Airport (YVG/CYVG) is a small regional airfield serving the town of Vermilion in east-central Alberta, Canada. It supports general aviation activity and provides convenient access for the surrounding agricultural and oilfield communities. The airport features a single asphalt runway and is primarily used by private pilots, charter services, and occasional medevac operations.",
+  "faqs": "Q: What is the main use of Vermilion Airport?\nA: The airport primarily serves general aviation, including private aircraft, flight training, and occasional charter or medevac flights.\n\nQ: Does Vermilion Airport have scheduled commercial service?\nA: No, Vermilion Airport does not offer scheduled commercial passenger service. Travelers rely on nearby larger airports for commercial flights.\n\nQ: Are there fuel services available at the airport?\nA: Fuel availability may be limited; pilots are advised to confirm with the airport operator or local contacts before arrival.\n\nQ: Is the airport accessible to the public?\nA: The airfield is primarily used by pilots and aircraft operators, with no scheduled commercial passenger facilities on site.",
+  "transport_tips": "Vermilion Airport is located just east of the town of Vermilion, a short drive from the town center via local roads. Travelers without aircraft typically need a personal vehicle or a pre-arranged ride, as there is no public transit directly serving the airport. Rental cars and taxi services can be found in Vermilion town, approximately a few minutes away.",
+  "local_tip": "Pilots flying in should note that the surrounding prairie terrain offers few landmarks, so downloading the latest navigation data and checking local weather—often windy on the open plains—is well worth the extra preparation.",
+  "generatedAt": "2026-06-27T04:11:29.394Z",
+  "model": "MiniMax-M3"
+}

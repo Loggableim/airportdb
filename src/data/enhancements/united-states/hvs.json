@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HVS",
+    "icao": "KHVS",
+    "name": "Hartsville Regional Airport",
+    "country": "United States",
+    "city": "Hartsville",
+    "lat": 34.4031,
+    "lon": -80.1192,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Hartsville Regional Airport is a small public-use general aviation facility serving the city of Hartsville in northeastern South Carolina. It primarily supports private, recreational, and corporate aviation for the local community, which is known as the home of Coker University and Sonoco's global headquarters. The airport features a single runway and offers basic amenities for transient pilots and passengers visiting the Pee Dee region.",
+  "faqs": "Q: Does Hartsville Regional Airport offer commercial airline service?\nA: No, HVS is a general aviation airport with no scheduled commercial flights. Travelers typically use larger airports like Florence Regional or Charlotte-Douglas for commercial service.\n\nQ: What facilities are available at the airport?\nA: The airport provides basic general aviation amenities including a terminal building, tie-down parking, and fueling services for private aircraft.\n\nQ: Can pilots land at Hartsville Regional Airport?\nA: Yes, the airport welcomes transient general aviation pilots, though it is recommended to check current NOTAMs and contact the airport in advance for availability.\n\nQ: Is there an air traffic control tower at HVS?\nA: No, Hartsville Regional operates as an uncontrolled airport, requiring pilots to use common traffic advisory procedures.",
+  "transport_tips": "The airport is located just a few miles south of downtown Hartsville, making it a quick drive by car or taxi. Rental car services should be arranged in advance, as on-site rental counters are typically unavailable at small regional airports. For commercial flights, travelers usually drive approximately 45 minutes to Florence Regional Airport or about 1.5 hours to Charlotte-Douglas International Airport.",
+  "local_tip": "If you're flying into HVS, take a short drive to Kalmia Gardens, a beautiful 35-acre public garden operated by Coker University that features native plants, walking trails, and peaceful ponds—a favorite quiet spot among locals.",
+  "generatedAt": "2026-06-27T07:58:12.540Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AWM",
+    "icao": "KAWM",
+    "name": "West Memphis Municipal Airport",
+    "country": "United States",
+    "city": "West Memphis",
+    "lat": 35.1351,
+    "lon": -90.2344,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "West Memphis Municipal Airport (AWM) is a small general aviation airport serving the city of West Memphis, Arkansas, situated near the Mississippi River just across the state line from Memphis, Tennessee. The facility primarily caters to private pilots, corporate aircraft, and flight training operations, serving as a convenient alternative to the busier Memphis International Airport nearby. Its location near major river and highway transportation corridors makes it a practical hub for regional general aviation activity in the Mid-South.",
+  "faqs": "Q: What type of aircraft does West Memphis Municipal Airport serve?\nA: The airport primarily serves general aviation aircraft, including private planes, corporate jets, and flight training operations.\n\nQ: How far is the airport from Memphis, Tennessee?\nA: West Memphis Municipal Airport is located just across the Mississippi River from Memphis, approximately 10-15 miles west of downtown Memphis.\n\nQ: Does the airport offer commercial airline service?\nA: No, West Memphis Municipal is a general aviation facility and does not provide scheduled commercial airline service.\n\nQ: Are there fuel services available at the airport?\nA: Yes, the airport typically offers aviation fuel services for general aviation pilots and operators.",
+  "transport_tips": "The airport is conveniently accessed via Interstate 40 and Interstate 55, which intersect nearby, making ground transportation straightforward. Rental cars and taxi services can be arranged in advance, as the airport does not have on-site rental counters. Visitors flying into Memphis International Airport can reach West Memphis by car in roughly 20-30 minutes depending on traffic.",
+  "local_tip": "Frequent visitors should consider the airport's proximity to the famous Beale Street in Memphis—just a short drive away—making it easy to combine business at the airport with an evening of blues music and Southern dining across the river.",
+  "generatedAt": "2026-06-27T02:07:43.368Z",
+  "model": "MiniMax-M3"
+}

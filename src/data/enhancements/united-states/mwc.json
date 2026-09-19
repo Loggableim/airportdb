@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MWC",
+    "icao": "KMWC",
+    "name": "Lawrence J Timmerman Airport",
+    "country": "United States",
+    "city": "Milwaukee",
+    "lat": 43.1104,
+    "lon": -88.0344,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lawrence J. Timmerman Airport (MWC) is a small general aviation reliever airport located in the northern part of Milwaukee, Wisconsin, serving the Milwaukee metropolitan area. Named after Lawrence J. Timmerman, a longtime Milwaukee County supervisor, the airport handles private, business, and flight training operations, easing congestion at the larger Milwaukee Mitchell International Airport. It features a single asphalt runway and is popular among local pilots and aviation students.",
+  "faqs": "Q: What type of airport is Lawrence J. Timmerman Airport?\nA: It is a small general aviation airport classified as a reliever facility for Milwaukee Mitchell International Airport, primarily serving private, corporate, and training flights.\n\nQ: Does Timmerman Airport offer commercial passenger service?\nA: No, MWC does not have scheduled commercial airline service. It caters to general aviation, private aircraft, and flight training activities.\n\nQ: Are there car rental services available at the airport?\nA: Rental car availability is limited; most visitors arrange ground transportation in advance or use rideshare services since the airport focuses on general aviation.\n\nQ: Is there an on-site restaurant or pilot services?\nA: The airport has basic pilot amenities, and nearby Milwaukee neighborhoods offer dining and fuel services. The FBO (Fixed-Base Operator) provides standard general aviation support.",
+  "transport_tips": "The airport is conveniently located about 10 miles north of downtown Milwaukee, roughly a 20-minute drive via I-43 or local surface streets. Rideshare services like Uber and Lyft operate in the area, though availability may be limited at the smaller terminal. Taxi service and private car arrangements are the most reliable options for ground transportation.",
+  "local_tip": "If you're flying in for a flight lesson or to visit a nearby business, plan fuel stops ahead of time since the airport's FBO hours can vary, and consider grabbing a meal at one of the many local restaurants along Capitol Drive just south of the field.",
+  "generatedAt": "2026-06-27T03:36:38.422Z",
+  "model": "MiniMax-M3"
+}

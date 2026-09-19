@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DBD",
+    "icao": "VEDB",
+    "name": "Dhanbad Airport",
+    "country": "India",
+    "city": "",
+    "lat": 23.834,
+    "lon": 86.4253,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Dhanbad Airport (DBD/VEDB) is a domestic airport serving Dhanbad, the largest city in Jharkhand state and widely known as the 'Coal Capital of India.' Situated in eastern India, it provides vital air connectivity for the region's mining industry and surrounding communities. The airport handles a modest volume of regional flights, serving as an important gateway for business travelers connected to the coal belt.",
+  "faqs": "Q: What is the IATA code for Dhanbad Airport?\nA: The IATA code is DBD, and the ICAO code is VEDB.\n\nQ: Does Dhanbad Airport offer international flights?\nA: No, Dhanbad Airport is a domestic-only airport serving regional destinations within India.\n\nQ: Which airlines operate from Dhanbad Airport?\nA: Primarily regional carriers such as Air Deccan and other small domestic operators have historically served this airport, with connectivity to nearby cities.\n\nQ: How far is the airport from Dhanbad city center?\nA: The airport is located on the outskirts of Dhanbad and is approximately 10-15 kilometers from the main city area.",
+  "transport_tips": "Auto-rickshaws and local taxis are the most common ways to reach the airport from Dhanbad city center, typically taking 20-30 minutes depending on traffic. Pre-booking a taxi or arranging hotel pickup is recommended, as ride-sharing app availability can be limited in this region. Travelers heading to nearby coal mining areas or Dhanbad Railway Station should plan extra time for the journey.",
+  "local_tip": "Visit the nearby Indian School of Mines (ISM) campus, one of India's premier engineering institutions, which has a beautiful heritage architecture and a small geological museum showcasing the region's rich mining history.",
+  "generatedAt": "2026-06-26T11:04:15.561Z",
+  "model": "MiniMax-M3"
+}

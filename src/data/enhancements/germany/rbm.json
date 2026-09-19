@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RBM",
+    "icao": "EDMS",
+    "name": "Straubing Airport",
+    "country": "Germany",
+    "city": "Atting",
+    "lat": 48.9008,
+    "lon": 12.5167,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Straubing Airport is a small regional airfield located in Atting, Bavaria, serving the city of Straubing in the Danube valley. It primarily supports general aviation, flight training, and recreational flying rather than scheduled commercial services. The airport is popular among private pilots and offers a relaxed alternative to the busier Munich and Nuremberg airports.",
+  "faqs": "Q: Does Straubing Airport have scheduled commercial flights?\nA: No, Straubing Airport does not offer scheduled commercial passenger service. It is used primarily for general aviation, private flights, and flight training.\n\nQ: How far is the airport from Straubing city center?\nA: The airport is located in Atting, approximately 10 km southwest of Straubing's city center, making it a short drive by car or taxi.\n\nQ: What facilities are available at the airport?\nA: The airport features a terminal building, fueling services, hangars, and basic amenities for pilots and passengers. It also hosts a flying club and flight school.\n\nQ: Can private jets use Straubing Airport?\nA: Yes, the airport accepts private and general aviation traffic, including business flights, subject to prior coordination with the operator.",
+  "transport_tips": "The most practical way to reach Straubing Airport is by car, as public transport options are limited. The B20 federal road provides direct access to the airport area. Taxi services from Straubing city center typically take around 15 minutes, and advance booking is recommended.",
+  "local_tip": "If you're visiting the region, take time to explore Straubing's medieval old town, including the Gothic St. Peter's Cathedral and the historic city square — both are within easy driving distance of the airport.",
+  "generatedAt": "2026-06-27T03:20:29.086Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MON",
+    "icao": "NZMC",
+    "name": "Mount Cook Airport",
+    "country": "New Zealand",
+    "city": "",
+    "lat": -43.765,
+    "lon": 170.133,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Mount Cook Airport (MON) is a small regional airport nestled in the Mackenzie Basin on New Zealand's South Island, serving as the main gateway to Aoraki/Mount Cook National Park. It provides essential access for tourists, climbers, and trampers heading to New Zealand's highest peak, Aoraki/Mount Cook. The airport is primarily used by Air New Zealand's ATR aircraft and scenic flight operators offering glacier landings and aerial tours of the Southern Alps.",
+  "faqs": "Q: What is Mount Cook Airport used for?\nA: Mount Cook Airport primarily serves as a tourist gateway to Aoraki/Mount Cook National Park, handling scheduled flights, scenic flights, and charter services to the surrounding alpine region.\n\nQ: Which airlines fly into Mount Cook Airport?\nA: Air New Zealand operates scheduled services using ATR turboprop aircraft, and several local operators provide scenic and charter flights from the airport.\n\nQ: How long is the runway at Mount Cook Airport?\nA: The airport has a relatively short runway, approximately 1,600 metres, which limits it to smaller regional aircraft suited to mountain conditions.\n\nQ: Can you see Mount Cook from the airport?\nA: The mountain itself is not directly visible from the airport, but the surrounding alpine scenery and nearby glaciers offer spectacular views on clear days.",
+  "transport_tips": "Mount Cook Airport is approximately 5 km from Aoraki/Mount Cook Village, with limited transport options available. Most visitors arrange shuttle transfers or rental cars in advance through their accommodation providers. Taxi services are not consistently available, so booking onward transport before arrival is strongly recommended.",
+  "local_tip": "If you have a wait at the airport, walk a short distance to the nearby viewpoint for stunning views of the Mackenzie Basin and surrounding peaks — it's especially beautiful at sunrise and sunset when the light hits the mountains.",
+  "generatedAt": "2026-06-26T09:04:04.825Z",
+  "model": "MiniMax-M3"
+}

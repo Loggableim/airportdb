@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GSO",
+    "icao": "KGSO",
+    "name": "Piedmont Triad International Airport",
+    "country": "United States",
+    "city": "Greensboro",
+    "lat": 36.0994,
+    "lon": -79.9373,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Piedmont Triad International Airport (GSO) serves North Carolina's Piedmont Triad region, including Greensboro, Winston-Salem, and High Point. Situated about 10 miles west of downtown Greensboro, it functions as a key hub for the central North Carolina corridor and has historically supported both commercial and cargo operations. The airport has undergone significant terminal modernization to accommodate growing regional travel demand.",
+  "faqs": "Q: What cities does Piedmont Triad International Airport serve?\nA: It primarily serves Greensboro, Winston-Salem, and High Point, collectively known as the Piedmont Triad region in central North Carolina.\n\nQ: How far is the airport from downtown Greensboro?\nA: The airport is approximately 10 miles west of downtown Greensboro, typically a 15-20 minute drive.\n\nQ: Does GSO offer international flights?\nA: The airport primarily handles domestic flights, though it has customs facilities for limited international operations, mainly seasonal or charter services.\n\nQ: Is there a preferred airline at GSO?\nA: American Airlines operates a significant presence at GSO with multiple daily flights, though other major carriers including Delta and United also serve the airport.",
+  "transport_tips": "Rental cars are the most convenient option and are available on-site at the terminal. Ride-share services like Uber and Lyft operate at designated pickup zones outside baggage claim. Taxis and hotel shuttles are also available, and the airport is easily accessed via I-40 and NC-68.",
+  "local_tip": "Frequent travelers recommend arriving early and using the cell phone lot for pickups to avoid short-term parking fees, and note that the airport is significantly less congested than Charlotte or Raleigh-Durham, making it a stress-free alternative for central NC travelers.",
+  "generatedAt": "2026-06-28T18:27:45.986Z",
+  "model": "MiniMax-M3"
+}

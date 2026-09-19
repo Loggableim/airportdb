@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SZV",
+    "icao": "ZSSZ",
+    "name": "Suzhou Guangfu Airport",
+    "country": "China",
+    "city": "Suzhou",
+    "lat": 31.2631,
+    "lon": 120.401,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Suzhou Guangfu Airport (SZV) is a regional airport serving the historic and economically vibrant city of Suzhou in Jiangsu Province, eastern China. Located in the Yangtze River Delta near the shores of Taihu Lake, the airport supports the city's thriving manufacturing and tourism sectors with domestic and select regional flights. It provides a convenient alternative to the larger Shanghai airports for travelers heading to Suzhou's classical gardens, canals, and business districts.",
+  "faqs": "Q: Where is Suzhou Guangfu Airport located?\nA: The airport is situated in the western part of Suzhou, in Jiangsu Province, roughly 20-25 km from the city center, near the Taihu Lake area.\n\nQ: What airlines operate from Suzhou Guangfu Airport?\nA: The airport primarily serves domestic Chinese carriers connecting Suzhou to major cities such as Beijing, Guangzhou, Shenzhen, Chengdu, and Xi'an.\n\nQ: How does Suzhou Guangfu compare to Shanghai's airports?\nA: It is much smaller and has fewer routes, but it offers a closer and less crowded option for travelers specifically visiting Suzhou.\n\nQ: Does the airport have international flights?\nA: International service has historically been limited; travelers should verify current route offerings as schedules and international operations change frequently.\n\n",
+  "transport_tips": "Airport shuttle buses connect the terminal to downtown Suzhou and key transit points like Suzhou Railway Station, with typical journey times of 45-60 minutes depending on traffic. Taxis and ride-hailing services like Didi are readily available at the arrivals curb and offer a faster but more expensive option. For high-speed rail connections, Suzhou Railway Station provides easy access to Shanghai Hongqiao in about 25-30 minutes.",
+  "local_tip": "Frequent visitors often pre-book a Didi ride via the app before landing, as pickup at the designated ride-hailing zone is much faster than queuing for a metered taxi, especially during peak travel times.",
+  "generatedAt": "2026-06-26T13:42:42.465Z",
+  "model": "MiniMax-M3"
+}

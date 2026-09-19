@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WMO",
+    "icao": "PAWM",
+    "name": "White Mountain Airport",
+    "country": "United States",
+    "city": "White Mountain",
+    "lat": 64.6892,
+    "lon": -163.413,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "White Mountain Airport is a small public-use airfield serving the remote Iñupiat village of White Mountain on Alaska's Seward Peninsula, roughly 60 miles east of Nome. The community of around 200 residents relies on the airport as a critical transportation link since the village has no road connection to the rest of Alaska. The gravel runway supports regional bush planes and provides essential access for mail, supplies, and medical evacuations.",
+  "faqs": "Q: Where is White Mountain Airport located?\nA: It is situated in the village of White Mountain on Alaska's Seward Peninsula, about 60 miles east of Nome along the Bering Sea coast.\n\nQ: What is the airport used for?\nA: It primarily serves passenger and cargo flights for the local community, along with mail delivery and emergency medical transport.\n\nQ: Are there scheduled commercial flights to WMO?\nA: Limited regional service is available, typically operated by small bush carriers connecting White Mountain to Nome and surrounding villages.\n\nQ: Does the airport have paved runways?\nA: The airport features a gravel runway, which is common for rural Alaskan airstrips.",
+  "transport_tips": "Reaching White Mountain Airport typically requires a connecting flight from Nome, which has regular service from Anchorage. Travelers should plan for flexible scheduling, as weather and small-aircraft logistics can cause delays in rural Alaska. Ground transportation from the airport to the village is usually arranged locally, as rental car services are not available.",
+  "local_tip": "Pack layers and bring snacks for your flight; bush plane service to White Mountain can be weather-dependent and occasionally involves waiting at the Nome airport for conditions to clear, so patience and preparation are key.",
+  "generatedAt": "2026-06-26T19:43:13.887Z",
+  "model": "MiniMax-M3"
+}

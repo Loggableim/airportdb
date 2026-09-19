@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AVP",
+    "icao": "KAVP",
+    "name": "Wilkes-Barre/Scranton International Airport",
+    "country": "United States",
+    "city": "Wilkes-Barre/Scranton",
+    "lat": 41.3371,
+    "lon": -75.7242,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Wilkes-Barre/Scranton International Airport (AVP) is a medium-sized facility located in Avoca, Pennsylvania, serving the Wyoming Valley region in northeastern Pennsylvania. The airport accommodates both commercial and general aviation traffic, primarily connecting the region to other eastern U.S. destinations. It features a single passenger terminal with passenger services including dining, retail, and ground transportation access.",
+  "faqs": "Q: Where exactly is Wilkes-Barre/Scranton International Airport located?\nA: The airport is situated in Avoca, Pennsylvania, in Luzerne County, roughly midway between the cities of Wilkes-Barre and Scranton.\n\nQ: What airlines serve AVP?\nA: Several major U.S. carriers operate at the airport, primarily providing regional jet service to hub airports.\n\nQ: How long does it take to travel from the airport to Scranton or Wilkes-Barre?\nA: Depending on traffic and destination, travel times range from approximately 15 to 25 minutes to reach either city center.\n\nQ: Does the airport have its own parking facilities?\nA: Yes, the airport offers on-site short-term and long-term parking options adjacent to the terminal building.\n\n",
+  "transport_tips": "Rental car agencies are available on-site at the terminal, making car travel convenient for reaching surrounding areas. Taxi services and rideshare options like Uber and Lyft also serve the airport regularly. For those heading to the Pocono Mountains region, the airport provides a convenient eastern gateway with connections via Interstates 81 and 476 nearby.",
+  "local_tip": "If you're traveling during winter months, keep an eye on flight status even during mild forecasts—the airport's valley location can produce sudden weather shifts due to surrounding terrain.",
+  "generatedAt": "2026-06-29T02:29:56.589Z",
+  "model": "MiniMax-M3"
+}

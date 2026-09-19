@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FRD",
+    "icao": "KFHR",
+    "name": "Friday Harbor Airport",
+    "country": "United States",
+    "city": "Friday Harbor",
+    "lat": 48.5237,
+    "lon": -123.0246,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Friday Harbor Airport (FRD/KFHR) is a medium-sized public airport located on San Juan Island in Washington State's Puget Sound, serving as the primary aerial gateway to the San Juan Islands archipelago. The airport operates as a hub for regional flights connecting the islands to mainland destinations such as Seattle and Bellingham. Surrounded by water and offering scenic approaches over the Salish Sea, it provides travelers with one of the most picturesque landings in the Pacific Northwest.",
+  "faqs": "Q: What airlines serve Friday Harbor Airport?\nA: The airport is primarily served by regional carriers including Kenmore Air and San Juan Airlines, offering scheduled and charter flights to Seattle, Bellingham, and other regional destinations.\n\nQ: How far is the airport from Friday Harbor town?\nA: Friday Harbor Airport is located approximately 2 miles south of the town of Friday Harbor, a short 5-10 minute drive.\n\nQ: Can I reach the San Juan Islands by ferry instead?\nA: Yes, the Washington State Ferry operates regular service from Anacortes to Friday Harbor, offering a scenic alternative for travelers bringing vehicles.\n\nQ: Does the airport have car rental services?\nA: Yes, rental car agencies operate at the airport, though availability can be limited during peak tourist season, so advance reservations are recommended.",
+  "transport_tips": "Rental cars and pre-arranged shuttles are available at the airport, but booking in advance is strongly advised during summer months when tourism peaks. Taxi services operate on the island but may have limited availability, so confirming pickup in advance is wise. Cyclists will find the airport a convenient starting point for exploring San Juan Island's scenic byways.",
+  "local_tip": "Visit Roche Harbor Resort on the northwest side of the island—just a 25-minute drive from the airport—for the best whale watching tours and a charming historic marina village that's often missed by day-trippers.",
+  "generatedAt": "2026-06-29T18:14:35.738Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DHG",
+    "icao": "",
+    "name": "Dalnegorsk Airport",
+    "country": "Russia",
+    "city": "Dalnegorsk",
+    "lat": 44.5587,
+    "lon": 135.49,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Dalnegorsk Airport (DHG) is a small regional airport serving the mining town of Dalnegorsk in Primorsky Krai, located in the rugged Russian Far East. The airport primarily handles short-haul flights connecting this remote industrial community with regional hubs such as Vladivostok and Khabarovsk. Its location in the mountainous Sikhote-Alin range makes it a vital lifeline for residents and the region's significant mining operations.",
+  "faqs": "Q: What is the main purpose of Dalnegorsk Airport?\nA: The airport primarily serves the town of Dalnegorsk and supports its mining industry, providing essential air connectivity for residents, workers, and businesses in this remote part of Primorsky Krai.\n\nQ: Are there regular commercial flights to Dalnegorsk?\nA: Scheduled commercial service is limited, as this is a small regional airport. Flights are typically operated to nearby cities in the Russian Far East, subject to seasonal availability.\n\nQ: What facilities are available at the airport?\nA: As a small airport, facilities are basic, generally limited to a terminal building with standard waiting areas. Travelers should not expect extensive amenities.\n\nQ: Is the airport affected by weather conditions?\nA: Yes, the airport's location in mountainous terrain can lead to weather-related delays or cancellations, particularly during winter months when snow and fog are common.",
+  "transport_tips": "The airport is located just a few kilometers from the center of Dalnegorsk, making ground transportation relatively straightforward. Local taxis and marshrutka (minibus) services are typically the most practical options for reaching the town. Travelers without pre-arranged transport should expect limited options, especially during off-peak hours or in poor weather.",
+  "local_tip": "Pack a warm layer even in summer—Dalnegorsk sits near the coast but is surrounded by the Sikhote-Alin mountain range, and temperatures can drop unexpectedly, especially during evening flights.",
+  "generatedAt": "2026-06-27T12:16:56.336Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GOP",
+    "icao": "VEGK",
+    "name": "Gorakhpur Airport",
+    "country": "India",
+    "city": "Gorakhpur",
+    "lat": 26.7397,
+    "lon": 83.4497,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Gorakhpur Airport serves the city of Gorakhpur in eastern Uttar Pradesh, India, functioning as a key gateway to several important Buddhist pilgrimage sites including Kushinagar and Lumbini. The airport primarily handles domestic flights and supports both civilian and limited military operations. It plays a vital role in connecting this culturally significant region to major Indian cities like Delhi, Mumbai, and Kolkata.",
+  "faqs": "Q: What is the IATA code for Gorakhpur Airport?\nA: The IATA code for Gorakhpur Airport is GOP, and its ICAO code is VEGK.\n\nQ: Which airlines operate from Gorakhpur Airport?\nA: The airport is primarily served by domestic Indian carriers including IndiGo, SpiceJet, and Air India, with regular flights to Delhi, Mumbai, and other major cities.\n\nQ: How far is the airport from Gorakhpur city center?\nA: Gorakhpur Airport is located approximately 8-10 kilometers from the city center, making it easily accessible by road.\n\nQ: Does Gorakhpur Airport have international flights?\nA: Currently, the airport primarily operates domestic flights, though its proximity to the Nepal border and Buddhist pilgrimage sites has raised discussions about potential international connectivity.",
+  "transport_tips": "Pre-paid taxi counters and auto-rickshaws are available outside the terminal for travel to the city center and Gorakhnath Math. Ride-hailing services like Ola and Uber may have limited availability, so arranging a taxi in advance is recommended. The airport connects well to the Gorakhpur Railway Station and bus terminals via local transport.",
+  "local_tip": "If visiting the nearby Gorakhnath Math, plan your trip for early morning to experience the peaceful aarti ceremony and avoid the midday crowds—this revered temple dedicated to Guru Gorakhnath is the city's most significant spiritual landmark.",
+  "generatedAt": "2026-06-29T23:43:19.827Z",
+  "model": "MiniMax-M3"
+}

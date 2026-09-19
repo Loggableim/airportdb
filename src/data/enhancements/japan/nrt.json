@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NRT",
+    "icao": "RJAA",
+    "name": "Narita International Airport",
+    "country": "Japan",
+    "city": "Narita",
+    "lat": 35.7686,
+    "lon": 140.3887,
+    "type": "large_airport",
+    "size": 1033675
+  },
+  "summary": "Narita International Airport (NRT) is Japan's primary international gateway, located in Chiba Prefecture approximately 60 km east of central Tokyo. Opened in 1978, it replaced Haneda as the main international hub and features three terminals serving hundreds of destinations worldwide. The airport is known for its efficient immigration procedures, extensive shopping and dining options, and serves as a major hub for Japan Airlines and All Nippon Airways.",
+  "faqs": "Q: How far is Narita Airport from central Tokyo?\nA: Narita is approximately 60 km (37 miles) east of central Tokyo, with travel times of 36-60 minutes by express train depending on the service and destination station.\n\nQ: What train options connect Narita to Tokyo?\nA: The Narita Express (N'EX) operated by JR East serves Tokyo Station and other major stops, while the Keisei Skyliner offers the fastest connection to Nippori and Ueno. Cheaper options include the Keisei Main Line and JR Sobu Line trains.\n\nQ: Does Narita Airport operate 24 hours?\nA: Narita has historically had overnight curfew restrictions on flights, though these have been relaxed in recent years. Most flights operate between 6 AM and midnight, with reduced late-night and early-morning operations.\n\nQ: Can I use Japan Rail Pass at Narita?\nA: Yes, the JR Pass covers the Narita Express (N'EX) and Sobu Line rapid trains to Tokyo Station. The Skyliner and other Keisei services require separate tickets.",
+  "transport_tips": "The Narita Express (N'EX) is the most convenient option to Tokyo Station, with dedicated luggage spaces and frequent departures. For budget travelers, the Keisei Main Line or JR Sobu Line trains offer significantly cheaper fares at the cost of longer travel times and more stops. Limousine buses provide direct service to many major hotels and are ideal if you have heavy luggage.",
+  "local_tip": "If you have a long layover, consider visiting the Naritasan Shinshoji Temple in nearby Narita city—just a 10-minute train ride from the airport on the Keisei Line. The temple grounds and surrounding old town offer a peaceful break from terminal crowds and a taste of traditional Japan.",
+  "generatedAt": "2026-06-28T14:45:06.685Z",
+  "model": "MiniMax-M3"
+}

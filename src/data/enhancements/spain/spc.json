@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SPC",
+    "icao": "GCLA",
+    "name": "La Palma Airport",
+    "country": "Spain",
+    "city": "Sta Cruz de la Palma, La Palma Island",
+    "lat": 28.6265,
+    "lon": -17.7556,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "La Palma Airport (SPC) serves the rugged, volcanic island of La Palma in Spain's Canary Islands archipelago, located off the northwest coast of Africa. The single-terminal airport is the main gateway to Santa Cruz de la Palma, the island's capital, and provides essential access to one of the world's premier stargazing destinations, home to the Roque de los Muchachos Observatory. The airport is known among pilots for its challenging crosswind conditions due to the island's mountainous terrain.",
+  "faqs": "Q: How far is La Palma Airport from Santa Cruz de la Palma?\nA: The airport is located approximately 8 km (5 miles) south of Santa Cruz de la Palma, a drive of about 15-20 minutes via the LP-3 road.\n\nQ: Are there direct international flights to La Palma?\nA: Most international travelers connect through other Canary Islands (Tenerife or Gran Canaria) or mainland Spanish cities like Madrid and Barcelona. Direct flights operate from some European cities, particularly during peak tourist season.\n\nQ: Does La Palma Airport operate at night?\nA: The airport has limited night operations, which is beneficial for the island's astronomical observations. Check with your airline for specific flight times, especially for late arrivals.\n\nQ: Is the airport affected by volcanic activity?\nA: La Palma's Cumbre Vieja volcano erupted in September 2021, but the airport remained operational throughout. Air quality and visibility can occasionally be affected by volcanic emissions.",
+  "transport_tips": "Public bus line 200 connects the airport to Santa Cruz de la Palma and continues to other island destinations on a regular schedule. Taxis are readily available outside the terminal and can be pre-booked for early morning or late evening flights. Renting a car is highly recommended for exploring the island's diverse landscapes, as public transport outside main routes is limited.",
+  "local_tip": "Pack layers even in summer—the airport sits at a relatively low elevation, but La Palma's microclimates shift dramatically with altitude, and temperatures can drop sharply when you head up to the Roque de los Muchachos viewpoint or the laurel forests of the north.",
+  "generatedAt": "2026-06-29T05:01:13.220Z",
+  "model": "MiniMax-M3"
+}

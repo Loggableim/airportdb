@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ESB",
+    "icao": "LTAC",
+    "name": "Esenboğa International Airport",
+    "country": "Turkey",
+    "city": "Ankara",
+    "lat": 40.1281,
+    "lon": 32.9951,
+    "type": "large_airport",
+    "size": 1675
+  },
+  "summary": "Esenboğa International Airport is the primary international gateway to Ankara, Turkey's capital, located approximately 28 km northeast of the city center. Opened in 1955 and significantly modernized with a new international terminal in 2006, it has been recognized by Airports Council International as one of the best airports in Europe in its size category. The airport serves as a key hub for Turkish Airlines and handles both diplomatic traffic and travelers visiting Turkey's political and administrative heart.",
+  "faqs": "Q: How far is Esenboğa Airport from Ankara city center?\nA: The airport is approximately 28 km (17 miles) northeast of central Ankara, with a typical journey time of 30-45 minutes depending on traffic.\n\nQ: Does the airport have separate domestic and international terminals?\nA: Yes, Esenboğa has distinct domestic and international terminal buildings that are connected, serving both Turkish Airlines domestic routes and international carriers.\n\nQ: Are there hotels near Esenboğa Airport?\nA: Several hotels are located near the airport, including options within a short drive, and some offer shuttle services for transit passengers.\n\nQ: Is the airport accessible 24 hours?\nA: Flight operations are primarily during daytime and evening hours, though the terminal may have limited overnight access. It's best to check with your airline for specific schedule information.",
+  "transport_tips": "The Belko Air municipal bus (route 442) and Havaş shuttle buses connect the airport to central Ankara, including Kızılay Square, with affordable fares. Taxis are available outside the terminal and offer a faster but pricier option, typically costing around 100-150 TL to the city center. Rental car services from major providers are available in the arrivals hall for those preferring flexibility.",
+  "local_tip": "If you have a long layover or early morning flight, note that the airport sits at over 900 meters elevation, so winter conditions can occasionally cause delays between December and February—check weather forecasts and consider booking an airport-area hotel if traveling during snow season.",
+  "generatedAt": "2026-06-28T16:11:37.868Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YOC",
+    "icao": "CYOC",
+    "name": "Old Crow Airport",
+    "country": "Canada",
+    "city": "Old Crow",
+    "lat": 67.5706,
+    "lon": -139.839,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Old Crow Airport (YOC) is a small remote airfield serving the Vuntut Gwitch'in First Nation community of Old Crow in northern Yukon, Canada. As the community has no road access, the airport is the primary year-round link to the outside world, with scheduled and charter flights connecting passengers to Whitehorse and other Yukon destinations. Its remote location north of the Arctic Circle makes it a key hub for both residents and researchers working in the surrounding wilderness.",
+  "faqs": "Q: How do you get to Old Crow?\nA: You can only reach Old Crow by air, as there are no roads connecting the community to the rest of the Yukon or Canada. Regular scheduled flights operate from Whitehorse.\n\nQ: What is the airport used for?\nA: The airport primarily serves passenger travel, mail, cargo, and medical evacuations for the remote community. It also supports scientific research in the surrounding Arctic and sub-Arctic regions.\n\nQ: When is the best time to fly to Old Crow?\nA: Summer months (June through August) typically offer the most reliable weather, though flights operate year-round. Winter conditions can cause delays due to extreme cold and reduced visibility.\n\nQ: Is there an airport terminal with amenities?\nA: The terminal is small and basic, with limited services. Travelers should bring their own food and arrange ground transport in advance, as amenities are minimal.\n\n",
+  "transport_tips": "There is no public bus or taxi service from Old Crow Airport; travelers should pre-arrange a pickup with their hotel, lodge, or a local contact. Vehicle rentals are not typically available at the airport, so most visitors rely on hosts for ground transportation. Flight schedules can change with little notice due to weather, so building in buffer days is strongly recommended.",
+  "local_tip": "Pack for extreme temperature swings — Old Crow regularly experiences differences of 30°C or more between summer highs and winter lows, and even in milder seasons the wind off the Porcupine River can make it feel significantly colder.",
+  "generatedAt": "2026-06-26T14:18:42.425Z",
+  "model": "MiniMax-M3"
+}

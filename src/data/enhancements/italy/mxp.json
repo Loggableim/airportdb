@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MXP",
+    "icao": "LIMC",
+    "name": "Milan Malpensa International Airport",
+    "country": "Italy",
+    "city": "Ferno (VA)",
+    "lat": 45.6306,
+    "lon": 8.7281,
+    "type": "large_airport",
+    "size": 1019475
+  },
+  "summary": "Milan Malpensa International Airport (MXP) is Italy's busiest airport for intercontinental flights and northern Italy's main gateway, located approximately 50 km northwest of Milan in the municipality of Ferno. Opened in its current form in 1998 with Terminal 1 designed by renowned Japanese architect Kenzo Tange, the airport features two passenger terminals and a dedicated cargo city, serving as a key hub for ITA Airways and a major base for low-cost carriers.",
+  "faqs": "Q: How far is Malpensa Airport from central Milan?\nA: Malpensa is located about 50 km northwest of Milan, with a typical journey time of 45-60 minutes by car or express train.\n\nQ: What is the best way to get from Malpensa to Milan city center?\nA: The Malpensa Express train is generally the fastest and most reliable option, running every 15-30 minutes to Milano Centrale and Cadorna stations in roughly 50 minutes.\n\nQ: Does Malpensa Airport have multiple terminals?\nA: Yes, the airport operates Terminal 1 (main terminal serving most airlines) and Terminal 2 (used primarily by easyJet and reopened in 2023 after renovation).\n\nQ: Are there hotels directly at the airport?\nA: Yes, several hotels are located near Terminal 1, including the Sheraton Milan Malpensa and Hilton Garden Inn, both connected by shuttle or short walk.\n\n",
+  "transport_tips": "The Malpensa Express train is the most efficient option to reach central Milan, with direct service to both Milano Centrale and Milano Cadorna stations. For destinations around Lake Maggiore or northern Lombardy, rental cars or pre-booked private transfers from the airport are recommended. Allow extra time during morning and evening rush hours as the A8 motorway connecting the airport to Milan can experience significant congestion.",
+  "local_tip": "If you have a layover or early arrival, the airport's 'Cargo City' area has a viewing terrace popular with aviation enthusiasts for plane spotting, and the bar near Gate B12 in Terminal 1 serves excellent Italian espresso at airport prices rather than tourist markup.",
+  "generatedAt": "2026-06-28T15:13:42.968Z",
+  "model": "MiniMax-M3"
+}

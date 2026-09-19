@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TES",
+    "icao": "HHTS",
+    "name": "Tessenei Airport",
+    "country": "Eritrea",
+    "city": "Tessenei",
+    "lat": 15.1043,
+    "lon": 36.6817,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Tessenei Airport (TES/HHTS) is a small regional airport serving the town of Tessenei in the Gash-Barka region of western Eritrea, near the border with Sudan. The airport primarily handles limited domestic and occasional cross-border flights, serving a region known for its agricultural activity and proximity to the Gash River. It functions as a modest gateway for travelers accessing this remote part of the Eritrean highlands and lowlands.",
+  "faqs": "Q: What is Tessenei Airport primarily used for?\nA: The airport mainly serves regional domestic flights within Eritrea and occasional cross-border connections, supporting travel to and from the western Gash-Barka region.\n\nQ: Are there regular commercial flights to Tessenei Airport?\nA: Scheduled service is limited; flights are typically operated by Eritrean Airlines or on demand, so travelers should confirm availability in advance.\n\nQ: Where is the airport located relative to the town?\nA: Tessenei Airport is situated a short distance from the town center, providing relatively quick access to Tessenei and surrounding communities.\n\nQ: What facilities are available at the airport?\nA: As a small airport, facilities are basic, typically including a simple terminal building with limited passenger amenities.",
+  "transport_tips": "Ground transportation from the airport is limited; travelers usually arrange a private vehicle or taxi in advance through local contacts or their hotel. The road connecting the airport to central Tessenei is generally in fair condition, though travel times can vary depending on weather. Renting a car locally is uncommon, so coordinating transport before arrival is strongly recommended.",
+  "local_tip": "Carry Eritrean nakfa in cash, as ATMs and card payment facilities are extremely limited in the Tessenei area, and nearby border crossings into Sudan may require additional documentation checks.",
+  "generatedAt": "2026-06-27T15:10:33.845Z",
+  "model": "MiniMax-M3"
+}

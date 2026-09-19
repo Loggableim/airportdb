@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SJB",
+    "icao": "SLJO",
+    "name": "San Joaquín Airport",
+    "country": "Bolivia",
+    "city": "San Joaquín",
+    "lat": -13.0672,
+    "lon": -64.6752,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "San Joaquín Airport is a small regional airstrip serving the town of San Joaquín in the Beni Department of northern Bolivia. Set in the vast tropical lowlands of the Amazon basin, it primarily handles light aircraft and charter flights that connect remote communities to larger Bolivian cities like Trinidad. The airport plays a vital role in providing access to an otherwise isolated area surrounded by rivers, savannas, and rainforest.",
+  "faqs": "Q: What type of aircraft typically uses San Joaquín Airport?\nA: The airport mainly serves small propeller planes and light aircraft, as it is a regional facility without commercial jet service.\n\nQ: Are there scheduled commercial flights to San Joaquín?\nA: Scheduled commercial service is limited; most flights are charter or private operations serving the local community and ranching industry.\n\nQ: What facilities are available at the airport?\nA: As a small airfield, it has basic infrastructure including a terminal area and runway, but travelers should not expect extensive amenities.\n\nQ: Is the airport accessible year-round?\nA: Operations can be affected by seasonal heavy rains common to the Beni region, which may cause occasional delays or temporary closures.",
+  "transport_tips": "Ground transportation from the airport is limited, so arranging a pickup in advance with a local contact or hotel is highly recommended. The town center is a short drive away, typically reachable by taxi or private vehicle within minutes. Renting a vehicle locally can be difficult, so plan transportation before arrival.",
+  "local_tip": "Carry cash in small Boliviano denominations, as local shops and transport services in San Joaquín rarely accept cards and ATMs may be unreliable.",
+  "generatedAt": "2026-06-28T06:29:20.464Z",
+  "model": "MiniMax-M3"
+}

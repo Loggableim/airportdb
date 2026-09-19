@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KPO",
+    "icao": "RKTH",
+    "name": "Pohang Airport (G-815/K-3)",
+    "country": "South Korea",
+    "city": "Pohang",
+    "lat": 35.988,
+    "lon": 129.4204,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Pohang Airport (KPO/RKTH) is a medium-sized joint-use military and civilian airport located on the east coast of South Korea, serving the industrial city of Pohang in North Gyeongsang Province. Operated alongside the Republic of Korea Air Force's K-3 Air Base, the facility supports both military operations and limited commercial flights, primarily domestic routes. The airport provides convenient access to Pohang's major industrial sites, including the POSCO steel complex, and the scenic coastal attractions of the Yeongil Bay region.",
+  "faqs": "Q: Does Pohang Airport handle international flights?\nA: No, Pohang Airport primarily serves domestic routes, mainly connecting to Seoul Gimpo. International travelers typically use nearby airports such as Daegu or Ulsan.\n\nQ: How far is the airport from downtown Pohang?\nA: The airport is located approximately 6-8 kilometers north of central Pohang, making it a short drive from the city center.\n\nQ: Is the airport shared with a military base?\nA: Yes, it operates as a joint-use facility with the ROK Air Force K-3 Air Base, which is why it carries the military designation G-815/K-3.\n\nQ: Are there car rental services at the airport?\nA: Limited car rental services are available, but booking in advance is recommended given the airport's smaller size and modest traffic volume.",
+  "transport_tips": "Taxis are the most reliable way to reach the airport from Pohang city center, with a typical journey taking around 15-20 minutes depending on traffic. Local buses also connect the airport to nearby areas, though schedules may be infrequent, so checking timetables in advance is advisable. Driving is straightforward via the Donghae Expressway, and the airport offers parking for those using their own or rental vehicles.",
+  "local_tip": "If you have extra time, visit the POSCO Museum and the nearby Yeongildae Beach observation point—Pohang is a city where heavy industry meets scenic coastline, and the contrast is part of its unique character.",
+  "generatedAt": "2026-06-29T11:00:40.517Z",
+  "model": "MiniMax-M3"
+}

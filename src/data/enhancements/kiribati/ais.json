@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AIS",
+    "icao": "NGTR",
+    "name": "Arorae Island Airport",
+    "country": "Kiribati",
+    "city": "Arorae Island",
+    "lat": -2.6162,
+    "lon": 176.8022,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Arorae Island Airport (AIS/NGTR) is a small domestic airstrip serving Arorae Atoll, one of the southernmost islands in Kiribati's Gilbert Islands chain, located just south of the equator in the central Pacific Ocean. The airport provides a vital lifeline for the small local community, connecting this remote atoll to the rest of Kiribati's scattered island nation. With minimal infrastructure typical of Pacific outer-island airfields, it handles light aircraft on irregular domestic routes.",
+  "faqs": "Q: Which airlines operate flights to Arorae Island Airport?\nA: Domestic flights are primarily operated by Air Kiribati, the national carrier, using small turboprop aircraft suited to the island's short runway.\n\nQ: How often do flights operate from Arorae?\nA: Scheduled service is limited, typically a few flights per week connecting to Tarawa and other Gilbert Islands, subject to weather and operational conditions.\n\nQ: What facilities are available at the airport?\nA: The airport has minimal facilities, essentially a runway and a small terminal or shelter. There are no jet bridges, and passengers typically walk to the aircraft.\n\nQ: Can international flights land at Arorae Island Airport?\nA: No, the airport handles domestic flights only. International travelers must connect through Bonriki International Airport in Tarawa.",
+  "transport_tips": "Getting from the airport to your destination on Arorae is straightforward, as the atoll is small and the airstrip is likely within walking or short driving distance of most accommodations. Local transport options are limited, so arranging pickup with a guesthouse or hotel in advance is recommended. There are no taxi services or public buses; the airport road typically connects to the island's main pathway running along the atoll.",
+  "local_tip": "Bring small denominations of Australian dollars (Kiribati uses the Australian dollar alongside the Kiribati dollar), as there are no ATMs on the island and credit card acceptance is nonexistent outside of larger establishments in Tarawa.",
+  "generatedAt": "2026-06-27T11:39:59.397Z",
+  "model": "MiniMax-M3"
+}

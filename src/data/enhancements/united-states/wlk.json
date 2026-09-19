@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WLK",
+    "icao": "PASK",
+    "name": "Selawik Airport",
+    "country": "United States",
+    "city": "Selawik",
+    "lat": 66.6001,
+    "lon": -159.986,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Selawik Airport (WLK/PASK) is a small public-use airport serving the remote Inuit village of Selawik in Alaska's Northwest Arctic Borough. The single-runway facility is a vital lifeline for this fly-in community located on the Selawik River, providing essential access to medical care, supplies, and connections to larger hubs like Kotzebue. The airport operates in a subarctic environment, with gravel surfaces suited to the challenging tundra conditions of the region.",
+  "faqs": "Q: What is the main runway surface at Selawik Airport?\nA: The airport features a gravel runway, which is typical for remote Alaska airfields and accommodates the small aircraft commonly used in bush aviation.\n\nQ: Are there commercial flights to Selawik?\nA: Yes, scheduled passenger service is available, primarily operated by regional carriers connecting Selawik to Kotzebue and other Northwest Alaska communities.\n\nQ: Does Selawik Airport have terminal facilities?\nA: The airport has minimal infrastructure typical of remote Alaskan airports, with a small terminal/building for passengers; there are no jet bridges or large-scale amenities.\n\nQ: When is the airport most affected by weather?\nA: Winter weather including blowing snow, low visibility, and extreme cold can cause delays, while summer months may bring fog and rain that affect operations.",
+  "transport_tips": "Getting to and from Selawik Airport typically requires arranging a ride in advance, as there is no public transit in the village. Many residents and visitors rely on pickup trucks, ATVs, or snowmobiles depending on the season. The airport is located within the village, making walking to nearby accommodations a viable option during milder weather.",
+  "local_tip": "Bring all essential supplies with you, including any specific groceries or medications, as the village store has very limited inventory and anything you forget may require a costly charter flight to a larger town.",
+  "generatedAt": "2026-06-26T17:27:15.455Z",
+  "model": "MiniMax-M3"
+}

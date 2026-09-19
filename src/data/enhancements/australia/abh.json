@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ABH",
+    "icao": "YAPH",
+    "name": "Alpha Airport",
+    "country": "Australia",
+    "city": "Alpha",
+    "lat": -23.6528,
+    "lon": 146.5827,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Alpha Airport (ABH/YAPH) is a small regional airfield serving the township of Alpha in central Queensland's Barcaldine Region. The airport primarily supports general aviation, fly-in fly-out workers, and emergency services for the surrounding pastoral and mining areas. Its single runway provides vital connectivity to remote communities in the state's outback interior.",
+  "faqs": "Q: What is the main purpose of Alpha Airport?\nA: Alpha Airport primarily serves general aviation, including charter flights, private aircraft, and emergency services for the central Queensland outback region.\n\nQ: Are there scheduled commercial flights at Alpha Airport?\nA: No scheduled commercial passenger services operate from Alpha Airport; it is used mainly by private pilots and charter operators.\n\nQ: What facilities are available at the airport?\nA: As a small regional airfield, Alpha Airport offers basic facilities including a terminal building and refueling, though amenities are limited.\n\nQ: Who typically uses Alpha Airport?\nA: The airport is commonly used by graziers, mining personnel, emergency medical flights, and recreational pilots traveling through the outback.",
+  "transport_tips": "Alpha Airport is located a short drive from the Alpha town centre, easily accessible by car or local taxi. Travelers should arrange ground transport in advance as there is no regular public transit serving the airport. Visitors arriving by private aircraft should coordinate with the local council for runway conditions and refueling availability.",
+  "local_tip": "When planning a visit, check the local RFDS (Royal Flying Doctor Service) schedules if you need medical transport options, and remember that outback weather can change quickly, so build flexibility into your flight plans.",
+  "generatedAt": "2026-06-27T11:23:52.586Z",
+  "model": "MiniMax-M3"
+}

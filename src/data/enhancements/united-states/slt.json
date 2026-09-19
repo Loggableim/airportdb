@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SLT",
+    "icao": "KANK",
+    "name": "Salida Airport - Harriet Alexander Field",
+    "country": "United States",
+    "city": "Salida",
+    "lat": 38.5383,
+    "lon": -106.049,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Salida Airport - Harriet Alexander Field (SLT/KANK) is a small general aviation airport serving the mountain town of Salida in central Colorado's Chaffee County. Nestled in the Arkansas River Valley at an elevation of approximately 7,800 feet, it provides access to one of Colorado's premier outdoor recreation destinations. The single-runway facility caters primarily to private pilots, flight training, and seasonal tourist traffic drawn to the surrounding Sangre de Cristo and Sawatch mountain ranges.",
+  "faqs": "Q: What is the elevation of Salida Airport?\nA: The airport sits at approximately 7,800 feet above sea level, requiring careful altitude performance planning for arriving and departing aircraft.\n\nQ: Is Salida Airport open to the public?\nA: Yes, it is a public-use airport primarily serving general aviation, private pilots, and flight training operations.\n\nQ: Does Salida Airport have commercial airline service?\nA: No, the airport does not offer scheduled commercial flights. It is used exclusively for general aviation and private aircraft.\n\nQ: What runway facilities are available at SLT?\nA: The airport features a single asphalt runway designed to accommodate small to medium general aviation aircraft, with basic services for transient pilots.",
+  "transport_tips": "The airport is located just a few miles east of downtown Salida, making ground transportation straightforward. Rental cars are the most common option for visitors arriving by private aircraft, though taxi and rideshare services are limited in this rural mountain area. Many pilots and passengers arrange ground transport with local lodging properties or pre-book a vehicle in advance.",
+  "local_tip": "Fly in during early morning hours when mountain winds are typically calmest—afternoon thermals in the Arkansas Valley can create challenging turbulence, especially during summer months. Local pilots often recommend checking density altitude conditions before departure, as summer heat at this elevation significantly reduces aircraft performance.",
+  "generatedAt": "2026-06-27T02:07:15.176Z",
+  "model": "MiniMax-M3"
+}

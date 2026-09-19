@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ABR",
+    "icao": "KABR",
+    "name": "Aberdeen Regional Airport",
+    "country": "United States",
+    "city": "Aberdeen",
+    "lat": 45.4491,
+    "lon": -98.4218,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Aberdeen Regional Airport (ABR) is a medium-sized public airport serving Aberdeen, South Dakota, and the surrounding northeastern South Dakota region. It functions as a key transportation link for a city historically known for its role as a regional agricultural and commercial hub in the Dakotas. The airport supports both general aviation and scheduled commercial flights, connecting the area to larger hubs.",
+  "faqs": "Q: What airlines serve Aberdeen Regional Airport?\nA: The airport is primarily served by SkyWest Airlines operating as Delta Connection, providing regional jet service to Minneapolis-St. Paul.\n\nQ: How far is the airport from downtown Aberdeen?\nA: Aberdeen Regional Airport is located approximately 3 miles east of the city center, making it a quick drive from most hotels and businesses.\n\nQ: Does the airport have car rental services?\nA: Yes, rental car agencies are available at the airport, though it is recommended to reserve vehicles in advance given the limited number of providers.\n\nQ: Is there overnight parking available?\nA: Yes, the airport offers convenient on-site parking options for both short-term and long-term stays.",
+  "transport_tips": "The airport is just a short drive east of downtown Aberdeen via US Highway 12, typically taking under 10 minutes. Taxi services and ride-shares are available but limited, so arranging ground transport in advance is advisable. Rental cars are the most flexible option for travelers exploring the broader region, including nearby hunting and fishing destinations.",
+  "local_tip": "If visiting during pheasant season (October through January), book your flights and accommodations well in advance, as Aberdeen is a premier destination for upland bird hunters and the airport sees significant seasonal traffic spikes.",
+  "generatedAt": "2026-06-29T04:43:09.901Z",
+  "model": "MiniMax-M3"
+}

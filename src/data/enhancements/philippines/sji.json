@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SJI",
+    "icao": "RPUH",
+    "name": "San Jose Airport",
+    "country": "Philippines",
+    "city": "San Jose",
+    "lat": 12.3615,
+    "lon": 121.047,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "San Jose Airport (SJI/RPUH) is the main gateway to Occidental Mindoro province, a large island in the western Philippines known for its rugged landscapes and coastal scenery. The airport primarily handles domestic flights and serves as a convenient entry point for travelers heading to beach destinations like Pandan Islands or the diving spots around Sablayan. Its modest size reflects the province's rural character while still supporting tourism and local commerce across the region.",
+  "faqs": "Q: How do I get from San Jose Airport to the town center?\nA: The airport is located just a short drive from San Jose town, and tricycles or multicabs (shared vans) are typically available outside the terminal to take you into the city center.\n\nQ: Are there direct flights from Manila to San Jose?\nA: Yes, San Jose Airport receives regular domestic service from Manila, with flight times around 45 minutes.\n\nQ: What is Occidental Mindoro best known for?\nA: The province is popular for its white-sand beaches, coral reefs, marine sanctuaries, and the scenic Apo Island and Pandan Islands.\n\nQ: Is San Jose Airport suitable for long-haul international travel?\nA: No, the airport only handles domestic flights; international visitors typically connect through Ninoy Aquino International Airport in Manila.",
+  "transport_tips": "Pre-arranging a tricycle or private van pickup is recommended for travel to coastal destinations like Sablayan or Calintaan. Public multicabs often stop running in the early evening, so plan arrival times accordingly. Car rental services are limited, so coordinate with your accommodation in advance if you need independent transport.",
+  "local_tip": "Bring cash in Philippine pesos—ATMs are scarce around the airport and small towns, and card payment acceptance is unreliable outside larger establishments.",
+  "generatedAt": "2026-06-29T19:58:02.896Z",
+  "model": "MiniMax-M3"
+}

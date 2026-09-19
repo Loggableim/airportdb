@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BUP",
+    "icao": "VIBT",
+    "name": "Bhatinda Air Force Station",
+    "country": "India",
+    "city": "",
+    "lat": 30.2701,
+    "lon": 74.7558,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Bhatinda Air Force Station (BUP) is a military airfield operated by the Indian Air Force located in the Malwa region of Punjab, India, near the city of Bathinda. While primarily serving defense purposes, the station has also opened limited civilian operations to improve regional connectivity. The facility sits at an elevation of approximately 201 meters above sea level and features a single runway suitable for medium-sized aircraft.",
+  "faqs": "Q: Is Bhatinda Air Force Station open to civilian flights?\nA: Yes, the airport offers limited commercial civilian flights operated under the UDAN regional connectivity scheme, though schedules are infrequent and subject to military operational requirements.\n\nQ: Where is the airport located relative to Bathinda city?\nA: The air force station is situated on the outskirts of Bathinda, approximately 15-20 kilometers from the city center, with road access via local highways.\n\nQ: What facilities are available for civilian passengers?\nA: Civilian facilities are minimal compared to major commercial airports, with basic terminal services and limited amenities reflecting the airport's primary military function.\n\nQ: Which airlines operate from Bhatinda?\nA: Operations are limited and may include regional carriers serving select destinations, but flight schedules should be verified directly as they change frequently.",
+  "transport_tips": "The airport is best reached by taxi or private car from Bathinda city, as there is no dedicated public transit service to the station. Pre-paid taxi services and ride-hailing options may be available, though booking in advance is recommended given the limited airport traffic. Travelers should allow extra time for the journey, as road conditions in rural Punjab can vary.",
+  "local_tip": "Frequent visitors recommend calling the airport ahead of your travel date, as military operations can occasionally affect civilian flight schedules without much advance notice.",
+  "generatedAt": "2026-06-26T10:50:26.254Z",
+  "model": "MiniMax-M3"
+}

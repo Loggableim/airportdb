@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BUN",
+    "icao": "SKBU",
+    "name": "Gerardo Tobar López Airport",
+    "country": "Colombia",
+    "city": "Buenaventura",
+    "lat": 3.8196,
+    "lon": -76.9898,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Gerardo Tobar López Airport serves Buenaventura, Colombia's principal Pacific port city and one of the busiest maritime hubs in Latin America. The medium-sized facility provides essential air connectivity to the Valle del Cauca department, linking the coastal city to Bogotá and other domestic destinations. Named after a local aviation figure, the airport plays a vital role in supporting the regional economy driven by fishing, trade, and tourism along the Pacific coast.",
+  "faqs": "Q: What is the main airport code for Gerardo Tobar López Airport?\nA: The airport's IATA code is BUN and its ICAO code is SKBU.\n\nQ: Which airlines operate at BUN airport?\nA: The airport is primarily served by domestic Colombian carriers offering flights to Bogotá and other major cities.\n\nQ: Is Buenaventura airport international?\nA: No, Gerardo Tobar López Airport handles primarily domestic flights within Colombia.\n\nQ: How far is the airport from Buenaventura's city center?\nA: The airport is located relatively close to the urban area, with typical transfers taking around 15 to 30 minutes depending on traffic.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are the most common ways to reach the airport from Buenaventura's downtown area. Travelers should confirm fares in advance, as meters are not always used. The route from the city is straightforward along the main coastal road, though traffic can be heavy during port working hours.",
+  "local_tip": "Buenaventura receives heavy rainfall throughout much of the year, so if your flight is in the morning, plan extra time for your trip to the airport—morning showers can cause unexpected delays on the roads.",
+  "generatedAt": "2026-06-29T14:47:30.252Z",
+  "model": "MiniMax-M3"
+}

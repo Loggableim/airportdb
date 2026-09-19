@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "COK",
+    "icao": "VOCI",
+    "name": "Cochin International Airport",
+    "country": "India",
+    "city": "Kochi",
+    "lat": 10.151,
+    "lon": 76.4008,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Cochin International Airport (COK), located in Nedumbassery about 25 km northeast of Kochi city, is the primary gateway to Kerala. It holds the distinction of being the world's first fully solar-powered airport, a milestone achieved in 2015 through a 12 MW solar plant. The airport was also India's first to be developed under a public-private partnership model and serves as a major hub for international travel to the Gulf states.",
+  "faqs": "Q: How far is Cochin International Airport from Kochi city center?\nA: The airport is located approximately 25-30 km northeast of Kochi city, with typical journey times of 45-60 minutes depending on traffic.\n\nQ: Does the airport operate international flights?\nA: Yes, COK handles both domestic and international flights, with a significant portion of its traffic connecting Kerala to Middle Eastern destinations.\n\nQ: What makes this airport environmentally notable?\nA: In 2015, it became the world's first airport to be entirely powered by solar energy, generating all its electricity needs through on-site solar installations.\n\nQ: Are there facilities for overnight layovers?\nA: Yes, the airport has transit hotels, lounges, and rest areas available for passengers with long layovers or early morning departures.\n\n",
+  "transport_tips": "Pre-paid taxi counters and app-based cab services like Uber and Ola are available at the arrivals level for trips to Kochi and surrounding areas. Kerala State Road Transport Corporation (KSRTC) buses and private coaches also connect the airport to major cities in Kerala. Allow extra time during monsoon season (June-September) as road flooding can cause significant delays.",
+  "local_tip": "If you have a long layover, ask for a day pass at the nearby hotels near the airport entrance — many offer shuttle services and short-stay rates specifically for transit passengers wanting a proper shower and rest.",
+  "generatedAt": "2026-06-28T19:19:18.945Z",
+  "model": "MiniMax-M3"
+}

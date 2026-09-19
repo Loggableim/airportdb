@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VST",
+    "icao": "ESOW",
+    "name": "Stockholm Västerås Airport",
+    "country": "Sweden",
+    "city": "Stockholm / Västerås",
+    "lat": 59.5894,
+    "lon": 16.6336,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Stockholm Västerås Airport (VST) is located about 6 km east of Västerås and roughly 100 km west of central Stockholm, serving as a key low-cost carrier gateway to the Stockholm region. The airport, situated on a site with roots dating back to World War II military aviation, is primarily used by Ryanair, which operates numerous routes across Europe. Despite its name suggesting Stockholm proximity, travelers should note it is significantly farther from the capital than Stockholm Arlanda Airport.",
+  "faqs": "Q: How far is Stockholm Västerås Airport from central Stockholm?\nA: The airport is approximately 100 km (62 miles) west of Stockholm, taking about 1.5 hours by car or bus, much farther than Arlanda Airport.\n\nQ: Which airlines operate from Stockholm Västerås Airport?\nA: Ryanair is the dominant carrier, offering numerous European low-cost routes from this airport.\n\nQ: Is there public transportation to the airport?\nA: Yes, Flygbussarna airport coaches connect the terminal to Stockholm City Terminal and to Västerås city center, and local Västerås city buses also serve the airport.\n\nQ: Are there hotels near the airport?\nA: Several hotels are available in Västerås city center, about 10-15 minutes away, though there are no hotels directly adjacent to the terminal.\n\n",
+  "transport_tips": "The most cost-effective option to Stockholm is the Flygbussarna coach service, which runs directly to Stockholm City Terminal, though journey times can exceed 90 minutes depending on traffic. Renting a car provides the most flexibility for exploring the Mälardalen region, with the E18 motorway providing a direct route to Västerås and Stockholm. For nearby destinations, local Västerås city buses offer an affordable short connection to the city center.",
+  "local_tip": "If traveling to Stockholm, consider taking the train from Västerås Central Station instead of the direct airport coach — it is often faster and more comfortable, and the station is a short taxi or bus ride from the airport terminal.",
+  "generatedAt": "2026-06-28T20:27:55.582Z",
+  "model": "MiniMax-M3"
+}

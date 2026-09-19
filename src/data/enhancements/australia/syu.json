@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SYU",
+    "icao": "YWBS",
+    "name": "Warraber Island Airport",
+    "country": "Australia",
+    "city": "Sue Islet",
+    "lat": -10.2083,
+    "lon": 142.825,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Warraber Island Airport (SYU/YWBS) is a small regional airport serving the remote Torres Strait Island community of Warraber, also known as Sue Islet, in far north Queensland, Australia. The single-runway facility provides vital air connections for the island's Indigenous residents, supporting passenger travel, mail delivery, and light freight to and from the mainland. Its remote coral cay setting makes it an essential lifeline for one of the most geographically isolated communities in Australia.",
+  "faqs": "Q: Where is Warraber Island Airport located?\nA: It is situated on Warraber Island (Sue Islet) in the Torres Strait, approximately 100 km north of Thursday Island and the Cape York Peninsula in far north Queensland, Australia.\n\nQ: What airlines serve Warraber Island Airport?\nA: The airport is primarily served by regional carriers operating regular scheduled flights connecting the Torres Strait Islands with Cairns and Horn Island.\n\nQ: Are there facilities at the airport?\nA: As a small community airport, facilities are minimal, typically consisting of a basic terminal or shelter, with no jet bridges or extensive amenities. Passengers should expect a simple, functional experience.\n\nQ: Can private aircraft land at Warraber Island?\nA: Yes, the airport can accommodate small charter and general aviation aircraft, though prior arrangement with the local community is recommended for non-scheduled flights.\n\n",
+  "transport_tips": "Access to the airport is typically on foot or by community vehicle, as the entire island is small enough to walk across within minutes. Most travelers arrive via connecting flights from Horn Island Airport (HID) or Cairns, with onward passenger transfers usually arranged through local contacts or accommodation providers.",
+  "local_tip": "Flights to and from Warraber are frequently affected by weather and tide conditions common to the Torres Strait, so always build in at least one buffer day when planning onward connections from Cairns or Thursday Island.",
+  "generatedAt": "2026-06-26T17:40:48.839Z",
+  "model": "MiniMax-M3"
+}

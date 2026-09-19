@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LEH",
+    "icao": "LFOH",
+    "name": "Le Havre-Octeville Airport",
+    "country": "France",
+    "city": "Le Havre",
+    "lat": 49.534,
+    "lon": 0.0884,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Le Havre-Octeville Airport (LEH/LFOH) is a regional airport located in Normandy, northwestern France, serving the port city of Le Havre. Formed from the merger of the older Le Havre and Octeville airfields, it primarily handles general aviation, charter flights, and seasonal services. The airport sits near the English Channel coast, providing convenient access to Normandy's coastal attractions and the Seine maritime estuary.",
+  "faqs": "Q: What airlines operate from Le Havre-Octeville Airport?\nA: The airport is mainly served by regional and seasonal carriers, with limited scheduled commercial flights. Most traffic consists of general aviation, business flights, and occasional charter operations.\n\nQ: How far is the airport from central Le Havre?\nA: The airport is located in Octeville-sur-Mer, approximately 5 kilometers north of central Le Havre, typically a 10-15 minute drive.\n\nQ: Does the airport have international flights?\nA: International scheduled service is very limited. Most cross-border travel from Le Havre is routed through Paris airports, though some seasonal or charter flights to European destinations may be available.\n\nQ: Are there customs and immigration facilities at LEH?\nA: As a regional French airport, customs services are available but on a limited basis, typically activated for scheduled or charter international flights rather than operating continuously.",
+  "transport_tips": "The most convenient way to reach the airport is by taxi or private car, as there is no direct rail service. Bus line 12 connects the airport to Le Havre's city center and tram network. Renting a car is straightforward and useful for exploring the wider Normandy region.",
+  "local_tip": "If you have time before your flight, visit the nearby Cap de la Hève for panoramic views of the Seine estuary and the Atlantic coast—it's just a short drive from the airport and offers a memorable final glimpse of Normandy.",
+  "generatedAt": "2026-06-29T10:44:18.597Z",
+  "model": "MiniMax-M3"
+}

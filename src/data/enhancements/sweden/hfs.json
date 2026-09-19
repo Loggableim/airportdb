@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HFS",
+    "icao": "ESOH",
+    "name": "Hagfors Airport",
+    "country": "Sweden",
+    "city": "Råda",
+    "lat": 60.0201,
+    "lon": 13.5789,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Hagfors Airport (HFS/ESOH) is a small regional airport serving the town of Hagfors in the Värmland region of west-central Sweden. Located in the parish of Råda, it primarily supports general aviation and occasional charter flights, providing vital access to the sparsely populated inland area. The airport has historically been important for connecting the local community to larger Swedish cities like Stockholm.",
+  "faqs": "Q: Where is Hagfors Airport located?\nA: Hagfors Airport is situated near Råda in Värmland County, west-central Sweden, approximately a few kilometers from the town of Hagfors.\n\nQ: Does Hagfors Airport have scheduled commercial flights?\nA: As a small regional airport, scheduled service is very limited or intermittent; travelers should check current schedules as flights are often seasonal or charter-based.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic passenger facilities suited to its small size, including a terminal building, parking, and general aviation services.\n\nQ: Is Hagfors Airport used for private aviation?\nA: Yes, the airport commonly serves private pilots, flight training, and general aviation traffic in the region.\n\n",
+  "transport_tips": "Travelers can reach the airport by car via regional roads from Hagfors town center, typically within a 10-minute drive. Taxi services are available locally, though pre-booking is recommended given the limited options in this rural area. Renting a car in advance is advisable for onward travel, as public transport connections to the airport are infrequent.",
+  "local_tip": "If visiting the region, plan time to explore nearby attractions like the Geijersgården estate (once home to poet Gustaf Fröding) and the scenic Klarälven river valley — both easily combined with a flight into Hagfors.",
+  "generatedAt": "2026-06-26T14:34:26.096Z",
+  "model": "MiniMax-M3"
+}

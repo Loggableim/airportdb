@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LPE",
+    "icao": "SKIM",
+    "name": "La Primavera Airport",
+    "country": "Colombia",
+    "city": "La Primavera",
+    "lat": 5.4776,
+    "lon": -70.4212,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "La Primavera Airport (IATA: LPE, ICAO: SKIM) is a small airport serving the locality of La Primavera in Colombia's eastern plains, or llanos region. It primarily supports general aviation and connects remote communities in the Vichada department to larger hubs. The airport plays an important role in providing access to an area characterized by vast savannas and sparse population.",
+  "faqs": "Q: What type of flights operate from La Primavera Airport?\nA: The airport primarily handles general aviation, charter flights, and small commercial operations serving the local community in Colombia's eastern llanos region.\n\nQ: Are there regular scheduled passenger services at LPE?\nA: Scheduled passenger services are limited; most flights are operated on a charter or demand basis given the airport's small size and remote location.\n\nQ: What facilities are available at the airport?\nA: As a small airport, La Primavera offers basic terminal facilities and services, with limited amenities typical of regional airstrips in remote areas.\n\nQ: What is the best way to reach La Primavera?\nA: Flying is often the most practical option due to the remote location, though river transport and limited road access are also used by locals.",
+  "transport_tips": "Ground transportation options are limited, so arranging a vehicle in advance through local contacts or your accommodation is recommended. The surrounding road network is mostly unpaved, and travel times can be significantly affected by weather conditions, especially during the rainy season. River transport via nearby waterways may also serve as an alternative route to and from the region.",
+  "local_tip": "Plan your visit during the dry season (roughly December to March) when road and air conditions are most reliable, as the llanos region can become difficult to access during heavy rains.",
+  "generatedAt": "2026-06-28T02:10:25.844Z",
+  "model": "MiniMax-M3"
+}

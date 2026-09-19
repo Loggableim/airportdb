@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BKV",
+    "icao": "",
+    "name": "Bailing Airport",
+    "country": "China",
+    "city": "Bailingmiao",
+    "lat": 41.6569,
+    "lon": 110.3125,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Bailing Airport (BKV) is a small regional airport serving Bailingmiao, a town in Inner Mongolia Autonomous Region, China. Located in a sparsely populated steppe region, it primarily handles limited domestic flights and serves the local communities of the surrounding grasslands. The airport plays a modest role in connecting this remote northern area to larger Chinese cities.",
+  "faqs": "Q: What is the airport code for Bailing Airport?\nA: The IATA code is BKV. The airport does not have a designated ICAO code.\n\nQ: Where is Bailing Airport located?\nA: It is located near Bailingmiao in Inner Mongolia Autonomous Region, northern China, at coordinates approximately 41.657°N, 110.313°E.\n\nQ: What type of flights does Bailing Airport handle?\nA: As a small regional airport, it primarily serves a limited number of domestic flights, connecting the local area to major Chinese cities.\n\nQ: Is Bailing Airport suitable for international travel?\nA: No, it is a small domestic airport and does not handle international flights. Travelers would need to connect through larger hubs for international destinations.",
+  "transport_tips": "Getting to and from the airport typically requires a private car or taxi, as public transportation options are limited in this remote steppe region. Travelers should arrange ground transport in advance, especially since flight schedules are infrequent. The nearest major city with broader transport connections is Hohhot, located several hours away.",
+  "local_tip": "Bring warm layers regardless of the season—Inner Mongolia's high-altitude steppe climate brings strong winds and significant temperature swings, even in summer mornings and evenings.",
+  "generatedAt": "2026-06-27T17:39:07.075Z",
+  "model": "MiniMax-M3"
+}

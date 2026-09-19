@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KWI",
+    "icao": "OKKK",
+    "name": "Kuwait International Airport",
+    "country": "Kuwait",
+    "city": "Kuwait City",
+    "lat": 29.2245,
+    "lon": 47.9698,
+    "type": "large_airport",
+    "size": 1675
+  },
+  "summary": "Kuwait International Airport (KWI) is the primary aviation gateway of Kuwait, located approximately 16 kilometers south of Kuwait City center. It serves as the main hub for Kuwait Airways and handles the vast majority of the country's international air traffic. The airport has been undergoing a major modernization program, including the new Terminal 2 designed by Foster + Partners, significantly expanding its capacity.",
+  "faqs": "Q: How far is Kuwait International Airport from the city center?\nA: The airport is located about 16 km (10 miles) south of Kuwait City center, typically a 20-30 minute drive depending on traffic.\n\nQ: Which airlines operate from Kuwait International Airport?\nA: Kuwait Airways is the national carrier and main hub operator. The airport is also served by numerous international carriers including Emirates, Qatar Airways, Turkish Airlines, and many others connecting to destinations across the Middle East, Europe, Asia, and North America.\n\nQ: Are there hotels near Kuwait International Airport?\nA: Yes, several hotels are located in the vicinity, including the airport-adjacent Hilton Garden Inn and other options in Kuwait City that offer shuttle services.\n\nQ: Does the airport have lounges available?\nA: Yes, the airport features several airline and independent lounges, including the Kuwait Airways Pearl Lounge and Plaza Premium Lounge for eligible passengers.",
+  "transport_tips": "Taxis are readily available outside the arrivals hall and offer fixed or metered fares to Kuwait City. Ride-hailing apps like Uber and Careem also operate at the airport, often providing more transparent pricing. For budget travelers, public buses connect the airport to various points in Kuwait City, though taxis remain the most convenient option.",
+  "local_tip": "Kuwait's summer temperatures can exceed 50°C (122°F), so if you have a long layover, consider staying airside or using one of the airport lounges rather than venturing out, and always carry water.",
+  "generatedAt": "2026-06-28T16:11:27.732Z",
+  "model": "MiniMax-M3"
+}

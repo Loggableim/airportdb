@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CKW",
+    "icao": "YCHK",
+    "name": "Christmas Creek Airport",
+    "country": "Australia",
+    "city": "Christmas Creek Mine",
+    "lat": -22.3543,
+    "lon": 119.6426,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Christmas Creek Airport is a remote mining airstrip in the Pilbara region of Western Australia, serving the Christmas Creek iron ore mine operated by Fortescue Metals Group. It functions primarily as a fly-in fly-out (FIFO) transport hub for mine workers, with limited public access. The airport sits in the arid outback landscape typical of the Hamersley Range area.",
+  "faqs": "Q: Is Christmas Creek Airport open to public passengers?\nA: No, the airport primarily serves workers traveling to and from the Christmas Creek mine and is not available for general public or commercial airline bookings.\n\nQ: Which airline operates flights to Christmas Creek?\nA: Flights are typically operated by charter and FIFO-dedicated carriers servicing Fortescue Metals Group's mining operations in the Pilbara.\n\nQ: How far is the airport from the mine site?\nA: The airstrip is located adjacent to the Christmas Creek mine accommodation village, making transfers to the camp quick and straightforward.\n\nQ: Are there any other airports nearby?\nA: The nearest alternative airports include Fortescue Dave Forrest Airport and the larger Newman Airport, both also serving Pilbara mining operations.",
+  "transport_tips": "Access to the airport is restricted to mine personnel and authorized visitors with prior approval from Fortescue Metals Group. There are no public bus or taxi services, as transport is typically arranged through the mining company's FIFO logistics. Workers usually meet at dedicated muster points in Perth or other regional cities before being flown to the site.",
+  "local_tip": "FIFO workers should pack for extreme outback temperatures—the Pilbara can exceed 45°C (113°F) in summer—and bring any specialty personal items, as the closest major town (Newman) is a significant drive away.",
+  "generatedAt": "2026-06-26T19:57:30.817Z",
+  "model": "MiniMax-M3"
+}

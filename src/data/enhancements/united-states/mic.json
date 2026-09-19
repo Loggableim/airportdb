@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MIC",
+    "icao": "KMIC",
+    "name": "Crystal Airport",
+    "country": "United States",
+    "city": "Minneapolis",
+    "lat": 45.062,
+    "lon": -93.3539,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Crystal Airport is a general aviation reliever airport serving the northwest Minneapolis metropolitan area, owned and operated by the Metropolitan Airports Commission (MAC). Located in the suburb of Crystal, Minnesota, it functions primarily as a hub for private pilots, flight training, and recreational flying rather than commercial service. The airport helps reduce congestion at Minneapolis-St. Paul International by providing a convenient alternative for small aircraft operations in the region.",
+  "faqs": "Q: Does Crystal Airport offer commercial airline service?\nA: No, Crystal Airport is exclusively a general aviation facility with no scheduled commercial flights. Travelers should use Minneapolis-St. Paul International Airport (MSP) for commercial service.\n\nQ: What services are available at Crystal Airport?\nA: The airport supports flight training schools, aircraft rental, fueling services, hangar storage, and aircraft maintenance. It is a popular base for private pilots and flight schools in the Twin Cities area.\n\nQ: Is Crystal Airport open to the public?\nA: Yes, the airport is publicly owned and open to transient general aviation aircraft, though visitors should check operating hours and radio frequencies before arriving.\n\nQ: How far is Crystal Airport from downtown Minneapolis?\nA: Crystal Airport is located approximately 8 miles northwest of downtown Minneapolis, making it a convenient option for pilots in the western Twin Cities metro area.\n\n",
+  "transport_tips": "Ground transportation at Crystal Airport is limited to personal vehicles, rideshare services like Uber and Lyft, and taxi cabs, as there is no public transit stop directly at the airfield. The airport is easily accessible via Interstate 94 and Highway 100, with ample free parking available on-site for visitors and pilots. For those without a car, arranging a rideshare in advance is recommended since the surrounding area is primarily residential.",
+  "local_tip": "If you're visiting to watch aircraft or are interested in aviation, stop by the pilot's lounge or check the airport's social media for fly-in events and community open houses, which occasionally feature vintage aircraft displays and food vendors.",
+  "generatedAt": "2026-06-27T01:32:58.761Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CWI",
+    "icao": "KCWI",
+    "name": "Clinton Municipal Airport",
+    "country": "United States",
+    "city": "Clinton",
+    "lat": 41.8311,
+    "lon": -90.3291,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Clinton Municipal Airport is a small general aviation facility serving Clinton, Iowa, a historic river city on the Mississippi River. The airport supports private pilots, flight training, and occasional medical or business flights for the surrounding region. It provides a convenient alternative to larger commercial airports in the Quad Cities area.",
+  "faqs": "Q: Does Clinton Municipal Airport offer commercial passenger service?\nA: No, CWI is a general aviation airport without scheduled commercial flights.\n\nQ: What is the airport primarily used for?\nA: The airport serves private pilots, flight training, recreational flying, and occasional corporate or air ambulance operations.\n\nQ: How far is the airport from downtown Clinton?\nA: The airport is located just a few miles south of downtown Clinton, making it a quick drive from the city center.\n\nQ: Are there fuel services available at the airport?\nA: General aviation airports like CWI typically offer avgas and jet-A fuel services for transient and based aircraft.",
+  "transport_tips": "Driving is the most convenient way to reach the airport, with easy access via local roads just south of Clinton. Taxi and rideshare services are limited in this small community, so arranging ground transport in advance is recommended. Visitors from the Quad Cities area can reach the airport in roughly 45 minutes by car.",
+  "local_tip": "If you're flying into CWI, consider visiting the Sawmill Museum in nearby downtown Clinton, which highlights the city's 19th-century lumber industry heritage along the Mississippi River.",
+  "generatedAt": "2026-06-27T02:04:07.789Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OSU",
+    "icao": "KOSU",
+    "name": "The Ohio State University Airport - Don Scott Field",
+    "country": "United States",
+    "city": "Columbus",
+    "lat": 40.0798,
+    "lon": -83.073,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "The Ohio State University Airport - Don Scott Field (OSU) is a general aviation hub located on the northwest side of Columbus, Ohio, owned and operated by The Ohio State University. Named after a former airport manager, it serves as a key training facility for OSU's aviation degree programs and supports corporate, recreational, and flight training operations. The airport features a primary runway exceeding 5,000 feet, making it suitable for a wide range of business and general aviation aircraft.",
+  "faqs": "Q: Is OSU a commercial airline airport?\nA: No, Don Scott Field is a general aviation airport that does not offer scheduled commercial airline service. It primarily serves private, corporate, and flight training aircraft.\n\nQ: Does Ohio State University use this airport for its aviation program?\nA: Yes, the airport is a central training ground for OSU's aviation courses, providing students direct access to runways, aircraft, and air traffic control facilities.\n\nQ: Are there rental cars available at KOSU?\nA: Rental car services are not typically available on-site at general aviation airports like OSU, so visitors usually arrange ground transportation in advance through hotels or off-site rental agencies.\n\nQ: Can the public access the airport facilities?\nA: Yes, the terminal and fixed-base operator (FBO) are generally open to the public for flight planning, pilot services, and waiting areas for arriving passengers.",
+  "transport_tips": "The airport is located roughly 8 miles northwest of downtown Columbus and about 10 miles from The Ohio State University main campus, making it accessible via I-270 and Bethel Road. Rideshare services like Uber and Lyft operate in the area and can be arranged for pickup at the FBO terminal. On-site parking is available for those driving to meet incoming flights.",
+  "local_tip": "If you're picking up or dropping off a passenger, plan to use the FBO's lounge rather than waiting curbside—the staff are accustomed to GA visitors and can provide real-time flight status updates not posted on public boards.",
+  "generatedAt": "2026-06-30T02:06:24.596Z",
+  "model": "MiniMax-M3"
+}

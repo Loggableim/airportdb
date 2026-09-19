@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AOR",
+    "icao": "WMKA",
+    "name": "Sultan Abdul Halim Airport",
+    "country": "Malaysia",
+    "city": "Alor Satar",
+    "lat": 6.1897,
+    "lon": 100.398,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sultan Abdul Halim Airport (AOR) serves Alor Setar, the royal capital of Kedah state in northwestern peninsular Malaysia. Named after the late Sultan Abdul Halim Mu'adzam Shah, the 28th Yang di-Pertuan Agong, the airport functions as a key gateway for northern Kedah and nearby Langkawi. It handles primarily domestic flights and supports the region's tourism, agriculture, and administrative sectors.",
+  "faqs": "Q: Which airlines operate from Sultan Abdul Halim Airport?\nA: Malaysia Airlines and AirAsia are the primary carriers, offering domestic flights mainly to Kuala Lumpur.\n\nQ: How far is the airport from Alor Setar city center?\nA: The airport is located in Kepala Batas, approximately 10-15 km north of Alor Setar city.\n\nQ: Can I catch a flight to Langkawi from here?\nA: Direct flights to Langkawi are limited; most travelers connect via Kuala Lumpur, though ferry services to Langkawi are available from Kuala Kedah, near the airport.\n\nQ: Is the airport open 24 hours?\nA: No, the airport operates during scheduled flight hours only and closes between flights overnight.",
+  "transport_tips": "Taxis and ride-hailing services like Grab are available outside the terminal and offer the most convenient transfer to Alor Setar. The journey to the city center typically takes 20-30 minutes. Rental car counters are available for those exploring the wider Kedah region independently.",
+  "local_tip": "If you have a long layover or early flight, the nearby Kuala Kedah ferry terminal offers a quick side trip to Langkawi—just check ferry schedules in advance, as they don't run late at night.",
+  "generatedAt": "2026-06-29T08:10:38.094Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PSO",
+    "icao": "SKPS",
+    "name": "Antonio Nariño Airport",
+    "country": "Colombia",
+    "city": "Chachagüí",
+    "lat": 1.3967,
+    "lon": -77.2909,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Antonio Nariño Airport (PSO/SKPS) is a medium-sized regional airport serving Pasto, the capital of Colombia's Nariño department, and is actually located in the nearby municipality of Chachagüí, about 25-30 km from the city center. Named after Antonio Nariño, a key figure in Colombian independence who translated the French Declaration of the Rights of Man, the airport sits in the Andean highlands near the Galeras volcano. It functions as the main air gateway to southern Colombia and northern Ecuador, connecting this remote region to Bogotá and other major hubs.",
+  "faqs": "Q: How far is Antonio Nariño Airport from Pasto city center?\nA: The airport is located in Chachagüí, approximately 25-30 kilometers (about 16-19 miles) north of Pasto. The journey typically takes 40-60 minutes by car depending on traffic.\n\nQ: Which airlines operate flights to and from PSO airport?\nA: The airport is primarily served by Avianca and SATENA, offering direct flights mainly to Bogotá with occasional regional connections.\n\nQ: Is the airport safe for travelers given its proximity to Galeras volcano?\nA: Yes, the airport operates normally year-round. While Galeras is one of Colombia's most active volcanoes, aviation authorities monitor conditions closely, and flights continue to operate safely.\n\nQ: What facilities are available at Antonio Nariño Airport?\nA: As a medium-sized regional facility, it offers standard amenities including check-in counters, a small food court, car rental services, and taxi stands, though services are more limited than at larger Colombian airports.\n\n",
+  "transport_tips": "Taxis and app-based ride services are the most reliable way to reach Pasto from the airport, with the trip taking roughly 40-60 minutes. Shared shuttle services and colectivo vans may also be available near the terminal for budget-conscious travelers. Renting a car is possible but not common given the mountainous terrain; arrange transport through your hotel for smoother coordination.",
+  "local_tip": "Pasto sits at about 2,527 meters (8,290 feet) above sea level, and the airport is even higher in elevation. If you're arriving from sea level, take it easy on your first day, stay hydrated, and avoid heavy exertion, as altitude sickness can catch travelers off guard in this Andean region.",
+  "generatedAt": "2026-06-29T13:37:48.969Z",
+  "model": "MiniMax-M3"
+}

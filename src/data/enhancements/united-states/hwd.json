@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HWD",
+    "icao": "KHWD",
+    "name": "Hayward Executive Airport",
+    "country": "United States",
+    "city": "Hayward",
+    "lat": 37.6592,
+    "lon": -122.122,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Hayward Executive Airport is a general aviation facility located in the East Bay region of the San Francisco Bay Area, serving the cities of Hayward and surrounding communities. Originally established during the World War II era as Hayward Army Airfield, it transitioned to civilian use and is now owned and operated by the City of Hayward. The airport is notable for hosting the California Air National Guard's 129th Rescue Wing and remains one of the busiest general aviation airports in California.",
+  "faqs": "Q: What type of airport is Hayward Executive Airport?\nA: It is a small general aviation airport primarily serving private, corporate, and charter aircraft rather than commercial airline service.\n\nQ: Does Hayward Executive Airport have commercial flights?\nA: No, the airport does not offer scheduled commercial passenger service; it is dedicated to general aviation operations.\n\nQ: What military presence exists at the airport?\nA: The California Air National Guard's 129th Rescue Wing is based at the airport, operating rescue and recovery aircraft including HC-130s and HH-60 helicopters.\n\nQ: How many runways does Hayward Executive Airport have?\nA: The airport has two runways to accommodate various general aviation aircraft operations.",
+  "transport_tips": "The airport is conveniently located near Interstate 880 and the Mission Boulevard corridor, providing easy driving access from throughout the East Bay. Rental cars and rideshare services like Uber and Lyft are readily available, and the Hayward BART station is approximately 2 miles away, offering connections to the broader Bay Area public transit system. Free parking is available on-site for those picking up or dropping off passengers.",
+  "local_tip": "Visit the airport's observation area on weekends to watch Coast Guard auxiliary and Air National Guard training operations, including dramatic Coast Guard helicopter rescue practice sessions over the bay.",
+  "generatedAt": "2026-06-26T23:31:31.090Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "STP",
+    "icao": "KSTP",
+    "name": "Saint Paul Downtown Holman Field",
+    "country": "United States",
+    "city": "Saint Paul",
+    "lat": 44.9348,
+    "lon": -93.06,
+    "type": "medium_airport",
+    "size": 575
+  },
+  "summary": "Saint Paul Downtown Holman Field is a historic general aviation airport situated along the Mississippi River in downtown Saint Paul, Minnesota. It serves as a reliever airport for the Minneapolis-St. Paul metropolitan area and is home to corporate jets, flight schools, and government aircraft. The field is distinguished by its rare urban location and scenic riverside setting, offering pilots a distinctive downtown approach.",
+  "faqs": "Q: What is Saint Paul Downtown Holman Field primarily used for?\nA: It primarily serves general aviation, corporate aircraft, flight training, and government operations, acting as a reliever airport for the Minneapolis-St. Paul metro area.\n\nQ: Where is the airport located within Saint Paul?\nA: The airport sits on the east bank of the Mississippi River in downtown Saint Paul, just minutes from the State Capitol and downtown business district.\n\nQ: Does Holman Field offer commercial airline service?\nA: No, the airport does not have scheduled commercial airline service; it focuses on corporate, private, and governmental aviation.\n\nQ: Are there any special considerations when flying into this airport?\nA: Pilots should be aware of the Mississippi River bridge structures, the urban downtown environment, and potential bird activity along the river corridor.",
+  "transport_tips": "The airport is conveniently located within Saint Paul, just a short drive from downtown and the State Capitol via streets like East Kellogg Boulevard and Shepard Road. On-site parking is available",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T17:24:17.095Z",
+  "model": "MiniMax-M3"
+}

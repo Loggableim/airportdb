@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ISB",
+    "icao": "OPIS",
+    "name": "Islamabad International Airport",
+    "country": "Pakistan",
+    "city": "Attock",
+    "lat": 33.549,
+    "lon": 72.8257,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Islamabad International Airport is Pakistan's largest and newest international gateway, opened in May 2018 to replace the older Benazir Bhutto International Airport. Located about 25 km southwest of Islamabad in the Fateh Jang area, it serves both the capital region and the twin city of Rawalpindi. The facility features a single modern terminal capable of handling up to 9 million passengers annually and serves as a major hub for Pakistan International Airlines.",
+  "faqs": "Q: How far is Islamabad International Airport from the city center?\nA: The airport is approximately 25-30 km from central Islamabad and about 40 km from Rawalpindi, typically a 30-45 minute drive depending on traffic.\n\nQ: What airlines operate from Islamabad International Airport?\nA: Major carriers include Pakistan International Airlines (PIA), Emirates, Qatar Airways, Saudi Arabian Airlines, Turkish Airlines, Etihad, and Thai Airways, connecting to destinations across the Middle East, Asia, and Europe.\n\nQ: Does the airport operate 24 hours?\nA: Yes, the airport operates around the clock, with international and domestic flights scheduled throughout the day and night.\n\nQ: Are there currency exchange and SIM card services available?\nA: Yes, currency exchange counters and local SIM card vendors are available in the arrivals hall, though it's often cheaper to exchange money in the city.",
+  "transport_tips": "The most reliable way to reach the airport is via the dedicated motorway connecting Islamabad to the airport, with ride-hailing services like Careem and Uber widely available. Official airport taxis and prepaid taxi counters inside the terminal offer fixed-rate transfers to Islamabad and Rawalpindi. Pre-booking a car through your hotel can also be arranged and is recommended during early morning or late-night departures.",
+  "local_tip": "Allow extra time for security screening as the terminal, while modern, can experience queues during peak international flight departures in the early morning hours.",
+  "generatedAt": "2026-06-28T21:37:02.539Z",
+  "model": "MiniMax-M3"
+}

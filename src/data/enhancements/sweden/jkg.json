@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JKG",
+    "icao": "ESGJ",
+    "name": "Jönköping Airport",
+    "country": "Sweden",
+    "city": "Jönköping",
+    "lat": 57.7576,
+    "lon": 14.0687,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Jönköping Airport (JKG/ESGJ) is a regional airport serving the city of Jönköping in the Småland province of southern Sweden. Situated near the southern shore of Lake Vättern, it functions as a convenient gateway for both business travelers visiting the region's industrial sector and tourists exploring southern Sweden. The airport handles a mix of scheduled commercial flights, charter services, and general aviation traffic.",
+  "faqs": "Q: How far is Jönköping Airport from the city center?\nA: The airport is located approximately 8 km southwest of central Jönköping, typically a 15-minute drive depending on traffic.\n\nQ: What airlines operate from Jönköping Airport?\nA: The airport primarily serves scheduled domestic routes to Stockholm and seasonal charter flights, along with some international connections.\n\nQ: Are there customs and immigration facilities at JKG?\nA: Yes, the airport has customs facilities to handle international flights, though services are limited compared to Sweden's larger airports.\n\nQ: Does the airport offer free parking?\nA: Short-term and long-term parking options are available at the airport with reasonable rates for the duration of your trip.\n\n",
+  "transport_tips": "Airport coaches and local buses operate between Jönköping Airport and the city center, with schedules typically aligned to flight arrivals and departures. Taxis are readily available outside the terminal, and renting a car is a popular option given the airport's proximity to the E4 motorway, which connects north-south through Sweden. During winter months, allow extra travel time as road conditions around Lake Vättern can be affected by snow and ice.",
+  "local_tip": "If you have a layover or early arrival, the nearby towns of Gränna and Huskvarna are worth a short detour—Gränna is famous for its traditional polkagris (peppermint candy) sticks and offers stunning views over Lake Vättern.",
+  "generatedAt": "2026-06-29T06:13:37.242Z",
+  "model": "MiniMax-M3"
+}

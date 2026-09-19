@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CSW",
+    "icao": "MMSL",
+    "name": "Cabo San Lucas International Airport",
+    "country": "Mexico",
+    "city": "Cabo San Lucas",
+    "lat": 22.9491,
+    "lon": -109.9395,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Cabo San Lucas International Airport (CSW/MMSL) is a medium-sized airfield serving the popular resort destination of Cabo San Lucas at the southern tip of Mexico's Baja California Peninsula. It primarily handles general aviation and charter flights, complementing the larger Los Cabos International Airport (SJD) located in nearby San José del Cabo. The airport provides convenient access to one of Mexico's most celebrated beach and sportfishing destinations.",
+  "faqs": "Q: What is the main airport serving the Los Cabos region?\nA: While Cabo San Lucas International Airport (CSW) handles some traffic, the primary commercial gateway is Los Cabos International Airport (SJD) in San José del Cabo, about 30 minutes away.\n\nQ: Does Cabo San Lucas International Airport offer international commercial flights?\nA: The airport mainly serves private and charter aviation. Most international travelers fly into SJD, which has extensive commercial service.\n\nQ: How far is the airport from Cabo San Lucas town center and the famous Arch?\nA: The airport is conveniently located just a short drive from downtown Cabo San Lucas, the marina, and Land's End.\n\nQ: Can I clear customs and immigration at CSW?\nA: Customs and immigration services are limited; travelers arriving on international private flights should confirm arrangements in advance or use SJD for scheduled international arrivals.",
+  "transport_tips": "Taxis and pre-arranged private shuttles are the most common ways to reach hotels and resorts in Cabo San Lucas from the airport. Rental cars are available and recommended for visitors planning to explore both Cabo San Lucas and San José del Cabo. If CSW is not serving your flight, consider ground transportation options between this airport and SJD for onward connections.",
+  "local_tip": "Request a window seat on arrival—the approach into the Los Cabos corridor offers stunning views of the Sea of Cortez meeting the Pacific Ocean, with El Arco (the Arch) often visible on clear days.",
+  "generatedAt": "2026-06-29T04:12:03.489Z",
+  "model": "MiniMax-M3"
+}

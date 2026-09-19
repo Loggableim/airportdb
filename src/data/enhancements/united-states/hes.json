@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HES",
+    "icao": "KHRI",
+    "name": "Hermiston Municipal Airport",
+    "country": "United States",
+    "city": "Hermiston",
+    "lat": 45.8282,
+    "lon": -119.259,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Hermiston Municipal Airport (HES/KHRI) is a small general aviation airport serving the city of Hermiston in Umatilla County, northeastern Oregon. Situated in the Columbia River Basin, the airport primarily supports agricultural aviation operations, recreational flying, and serves the local community near the Washington border. Its location provides convenient access to the region's farming and ranching industries in the heart of Oregon's high desert country.",
+  "faqs": "Q: What is the airport code for Hermiston Municipal Airport?\nA: The IATA code is HES and the ICAO code is KHRI.\n\nQ: What type of flights does Hermiston Municipal Airport serve?\nA: It is a small general aviation airport with no scheduled commercial passenger service, primarily serving private, business, and agricultural aviation.\n\nQ: Where is the airport located relative to the city of Hermiston?\nA: The airport is located just a few miles from downtown Hermiston in Umatilla County, Oregon, near the Columbia River and the Washington state border.\n\nQ: Are there any amenities at the airport?\nA: As a small municipal airport, it offers basic facilities including a runway and tiedown areas, but has limited passenger services since it does not handle commercial flights.\n\n",
+  "transport_tips": "The airport is a short drive from downtown Hermiston, typically accessible within 10 minutes by car. Since there are no commercial flights, visitors typically need to arrange ground transportation by rental car or rideshare in advance. The nearest commercial airport with scheduled service is Tri-Cities Airport (PSC) in Pasco, Washington, approximately 45 minutes away.",
+  "local_tip": "If you're flying in for the annual Hermiston Farm Fair or visiting the area's agricultural operations, coordinate with local FBOs ahead of time for tie-down space, as the airport sees increased traffic during peak farming seasons and regional events.",
+  "generatedAt": "2026-06-27T04:47:40.119Z",
+  "model": "MiniMax-M3"
+}

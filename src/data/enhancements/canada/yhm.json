@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YHM",
+    "icao": "CYHM",
+    "name": "John C. Munro Hamilton International Airport",
+    "country": "Canada",
+    "city": "Hamilton",
+    "lat": 43.1735,
+    "lon": -79.9312,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "John C. Munro Hamilton International Airport (YHM) is a medium-sized airport located approximately 10 km southwest of downtown Hamilton, Ontario, Canada. Named after the late Canadian Member of Parliament John Carr Munro, the airport is notable for its strong cargo operations and serves as an important Tradeport with dedicated freight infrastructure. It complements the larger Toronto Pearson by handling charter, low-cost passenger flights, and significant air cargo volumes.\n\n",
+  "faqs": "Q: What airlines fly from Hamilton International Airport?\nA: YHM has historically served low-cost carriers and charter operators, with passenger service varying seasonally. It is particularly well known for its cargo and freight operations rather than scheduled passenger routes.\n\nQ: How far is the airport from downtown Hamilton?\nA: The airport is located roughly 10 km (6 miles) southwest of downtown Hamilton, typically a 15-20 minute drive depending on traffic.\n\nQ: Does the airport have customs facilities?\nA: Yes, YHM has Canada Border Services Agency (CBSA) facilities, allowing it to handle international flights and cargo.\n\nQ: Is parking available at Hamilton airport?\nA: Yes, the airport offers on-site parking options including short-term and longer-term lots.\n\n",
+  "transport_tips": "Driving is the most convenient option, with the airport accessible via Highway 6 and the Lincoln M. Alexander Parkway from Hamilton. Taxi and rideshare services are available, though public transit options are limited, so arranging ground transport in advance is recommended. The drive from Toronto takes roughly 60-75 minutes depending on traffic conditions via the QEW or Highway 403.\n\n",
+  "local_tip": "If you have a longer layover or are waiting for a passenger, the on-site Skyway Cafe near the main terminal is a local favorite for quick meals and serves as a popular spot for plane spotters thanks to its apron views.\n\n",
+  "generatedAt": "2026-06-29T01:55:37.861Z",
+  "model": "MiniMax-M3"
+}

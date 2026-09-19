@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KYK",
+    "icao": "PAKY",
+    "name": "Karluk Airport",
+    "country": "United States",
+    "city": "Karluk",
+    "lat": 57.5659,
+    "lon": -154.4538,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Karluk Airport is a small public-use airstrip located on the southern coast of Kodiak Island in Alaska, serving the remote village of Karluk. The airport primarily supports the small, predominantly Alutiiq community and provides essential access for residents, mail delivery, and wildlife-related tourism. Its proximity to the renowned Karluk River—one of the world's most famous bear-viewing destinations—makes it a seasonal gateway for visitors seeking to observe large concentrations of brown bears.",
+  "faqs": "Q: What is Karluk Airport primarily used for?\nA: The airport mainly serves the local village community, providing passenger access, mail and cargo delivery, and seasonal tourism transport, especially for bear-viewing expeditions along the Karluk River.\n\nQ: Are there scheduled commercial flights to Karluk Airport?\nA: No scheduled commercial airline service operates to Karluk. Travel is typically arranged via small charter aircraft from Kodiak or other nearby airports.\n\nQ: What facilities are available at the airport?\nA: Facilities are minimal, consistent with its remote location. There is a single gravel runway and no terminal building; passengers typically wait outdoors or in vehicles.\n\nQ: Is the airport accessible year-round?\nA: Operations are generally year-round, but weather conditions, especially winter storms and fog, can occasionally cause delays or cancellations.",
+  "transport_tips": "Access to Karluk Airport is almost exclusively by charter or small aircraft from Kodiak Airport, as there are no roads connecting Karluk to the rest of Kodiak Island. Travelers should arrange return flights in advance, as on-demand charter availability can be limited, especially outside peak bear-viewing season. Bring all necessary gear with you, as rental cars, taxis, and ground transportation are not available at the airstrip.",
+  "local_tip": "If visiting for bear viewing, time your trip for late July through September when salmon runs concentrate large numbers of brown bears along the Karluk River—book charter flights and local guides well in advance, as this is the busiest and most popular window.",
+  "generatedAt": "2026-06-26T22:37:10.202Z",
+  "model": "MiniMax-M3"
+}

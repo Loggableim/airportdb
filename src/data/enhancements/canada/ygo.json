@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YGO",
+    "icao": "CYGO",
+    "name": "Gods Lake Narrows Airport",
+    "country": "Canada",
+    "city": "Gods Lake Narrows",
+    "lat": 54.5577,
+    "lon": -94.4901,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Gods Lake Narrows Airport (YGO) is a small remote airport serving the isolated First Nations community of Gods Lake Narrows in northern Manitoba, Canada. It provides a vital transportation link for residents, supporting passenger travel, cargo services, and medical evacuations to larger centers. The airport's remote location on the shores of Gods Lake makes air access essential, as the community is not connected by road.",
+  "faqs": "Q: What is Gods Lake Narrows Airport used for?\nA: The airport primarily serves the local community with passenger flights, cargo delivery, and medevac services, as the community is fly-in only with no road access.\n\nQ: Are there scheduled flights to Gods Lake Narrows?\nA: Yes, regional carriers operate scheduled passenger flights connecting the community to Winnipeg via stops in other northern Manitoba communities.\n\nQ: What facilities are available at the airport?\nA: The airport is a small unattended facility with basic infrastructure; there are no commercial amenities, and passengers should arrange ground transportation in advance through the community.\n\nQ: Can private aircraft land at YGO?\nA: Yes, the airport accepts private and charter aircraft, though pilots should verify current conditions and runway status before arrival.",
+  "transport_tips": "There is no road access to Gods Lake Narrows, so all travel in and out of the community must be by air. Arrange accommodation and ground transport within the community in advance, as options are very limited. Charter flights are available for those needing flexible scheduling beyond regular commercial service.",
+  "local_tip": "Pack for cold weather year-round—temperatures in this subarctic region can drop well below freezing even in shoulder seasons, and weather-related flight delays are common, so build buffer time into any travel plans.",
+  "generatedAt": "2026-06-26T14:47:56.767Z",
+  "model": "MiniMax-M3"
+}

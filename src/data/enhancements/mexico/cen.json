@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CEN",
+    "icao": "MMCN",
+    "name": "Ciudad Obregón International Airport",
+    "country": "Mexico",
+    "city": "Ciudad Obregón",
+    "lat": 27.3926,
+    "lon": -109.833,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ciudad Obregón International Airport (CEN/MMCN) serves the agricultural Yaqui Valley region of Sonora in northwestern Mexico. The airport supports both passenger travel and air cargo operations tied to the area's significant wheat, soybean, and produce industries. It functions as a key gateway connecting Ciudad Obregón to other major Mexican destinations.",
+  "faqs": "Q: How far is Ciudad Obregón International Airport from the city center?\nA: The airport is located approximately 15 km (9 miles) southeast of downtown Ciudad Obregón, typically a 20-25 minute drive depending on traffic.\n\nQ: What airlines operate at Ciudad Obregón International Airport?\nA: The airport is primarily served by Mexican carriers including Aeroméxico, VivaAerobus, and Volaris, offering domestic flights to cities such as Mexico City, Tijuana, and Guadalajara.\n\nQ: Does the airport have international flights?\nA: The airport is classified as international but most scheduled operations are domestic. It has customs facilities available for occasional international charter or cargo flights.\n\nQ: Are there car rental services at the airport?\nA: Yes, several car rental agencies operate at the airport, including major Mexican and international brands, providing convenient ground transportation options.\n\n",
+  "transport_tips": "Taxis and rideshare services are available outside the terminal and offer the most straightforward transport to the city. Pre-arranged hotel shuttles or private transfer services are recommended for business travelers heading to industrial parks in the Yaqui Valley. Rental cars are advisable for those planning to explore the broader Sonora region.",
+  "local_tip": "If you have a longer layover or arrive early, the airport's small food court offers local Sonoran cuisine—try a coyota (a traditional sweet wheat flatbread from the region) or a fresh flour tortilla taco from nearby vendors for an authentic taste of Sonora.",
+  "generatedAt": "2026-06-29T05:55:19.438Z",
+  "model": "MiniMax-M3"
+}

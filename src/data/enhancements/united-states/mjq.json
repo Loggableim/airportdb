@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MJQ",
+    "icao": "KMJQ",
+    "name": "Jackson Municipal Airport",
+    "country": "United States",
+    "city": "Jackson",
+    "lat": 43.65,
+    "lon": -94.9865,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Jackson Municipal Airport (MJQ) is a small general aviation facility serving the city of Jackson in southwestern Minnesota. The airport primarily supports private aviation, flight training, and recreational flying for the rural region. With a single runway and modest infrastructure, it serves as a convenient gateway for pilots accessing the Jackson area and surrounding communities.",
+  "faqs": "Q: What is the airport code for Jackson Municipal Airport?\nA: The airport's IATA code is MJQ and its ICAO code is KMJQ.\n\nQ: Is Jackson Municipal Airport open to commercial flights?\nA: No, this is a general aviation airport and does not offer scheduled commercial airline service.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic general aviation amenities including a runway, tie-down areas, and limited services typical of small municipal airports.\n\nQ: Can pilots fuel their aircraft at Jackson Municipal Airport?\nA: Fuel availability may vary; pilots should check with airport management or flight planning resources before arrival for current fuel services.",
+  "transport_tips": "Reaching Jackson Municipal Airport typically requires a personal vehicle, as there is no public transit directly serving the facility. The airport is located a short drive from downtown Jackson, Minnesota, making ground transport straightforward. Rental cars or ride services from nearby towns provide the most practical options for visitors arriving by air.",
+  "local_tip": "Pilots visiting Jackson should plan their arrival during daylight hours whenever possible, as the rural Minnesota area offers limited after-hours support services and the surrounding terrain is best appreciated in good visibility.",
+  "generatedAt": "2026-06-27T06:12:19.513Z",
+  "model": "MiniMax-M3"
+}

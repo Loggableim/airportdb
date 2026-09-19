@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZGF",
+    "icao": "CZGF",
+    "name": "Grand Forks Airport",
+    "country": "Canada",
+    "city": "Grand Forks",
+    "lat": 49.0156,
+    "lon": -118.431,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Grand Forks Airport serves the small city of Grand Forks in the Boundary region of British Columbia, Canada, near the US border. The medium-sized facility primarily supports general aviation, private flights, and occasional charter operations serving the West Kootenay area. Its location amid the Monashee and Selkirk mountain ranges makes it a useful gateway for visitors exploring southern BC's outdoor recreation destinations.",
+  "faqs": "Q: What is the airport code for Grand Forks Airport?\nA: The IATA code is ZGF and the ICAO code is CZGF.\n\nQ: Where is Grand Forks Airport located?\nA: It is situated near the city of Grand Forks in southern British Columbia, Canada, close to the Washington State border.\n\nQ: Does Grand Forks Airport offer scheduled commercial flights?\nA: The airport primarily serves general aviation and charter operations; scheduled commercial service is limited or unavailable.\n\nQ: What is the nearest larger airport to Grand Forks?\nA: The closest major airport with scheduled commercial service is Kelowna International Airport, roughly 200 km to the northwest.",
+  "transport_tips": "The airport is located just a short drive from downtown Grand Forks, making taxi or pre-arranged car service the most practical option, as public transit does not typically serve the airfield. Rental cars can be arranged in advance through agencies in the city. Visitors driving themselves should follow Highway 3 and local roads, with the airport being well-signposted from the main routes.",
+  "local_tip": "Pack layers year-round — the Boundary region sits in a valley where temperature swings between day and night can exceed 15°C, especially in spring and fall.",
+  "generatedAt": "2026-06-26T08:50:24.896Z",
+  "model": "MiniMax-M3"
+}

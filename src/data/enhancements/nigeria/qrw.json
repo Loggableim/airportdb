@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "QRW",
+    "icao": "DNSU",
+    "name": "Warri Airport",
+    "country": "Nigeria",
+    "city": "Okpe",
+    "lat": 5.5982,
+    "lon": 5.8187,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Warri Airport (QRW) is a regional airport serving the oil-rich city of Warri and the surrounding Niger Delta region in Delta State, Nigeria. It primarily handles domestic flights and serves the energy industry's business travelers visiting one of Nigeria's most important petroleum hubs. The airport provides a vital link for workers and visitors connected to the numerous oil and gas operations in the area.",
+  "faqs": "Q: What airlines operate at Warri Airport?\nA: Warri Airport primarily serves domestic routes within Nigeria, with airlines like Air Peace historically operating scheduled services to Lagos and Abuja. Flight schedules can vary, so checking with airlines directly is recommended.\n\nQ: How far is Warri Airport from the city center?\nA: The airport is located in Okpe, approximately 15-20 kilometers from central Warri, with typical drive times of 25-40 minutes depending on traffic.\n\nQ: Does Warri Airport have international flights?\nA: No, Warri Airport currently handles only domestic flights. International travelers typically use larger airports like Lagos (LOS) or Abuja (ABV).\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers basic passenger amenities including a terminal building, waiting areas, and ground transportation options, though services are more limited compared to Nigeria's major international airports.",
+  "transport_tips": "Taxis and ride-hailing services are the most common ways to reach Warri Airport from the city, with prepaid taxi services often available at the terminal. Arranging transportation in advance through your hotel or a local contact is recommended, especially for late or early flights. The road network connecting the airport to Warri and surrounding towns can experience heavy traffic during peak hours.",
+  "local_tip": "If you're traveling for business in the oil and gas sector, mention your company name when arranging transport—many drivers familiar with the industry can provide useful local insights about traffic patterns and the fastest routes to specific facilities in the Niger Delta region.",
+  "generatedAt": "2026-06-29T20:31:15.769Z",
+  "model": "MiniMax-M3"
+}

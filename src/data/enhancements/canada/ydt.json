@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YDT",
+    "icao": "CZBB",
+    "name": "Boundary Bay Airport",
+    "country": "Canada",
+    "city": "Delta",
+    "lat": 49.0743,
+    "lon": -123.0069,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Boundary Bay Airport (YDT/CZBB) is a medium-sized general aviation airport located in Delta, British Columbia, just north of the Canada-United States border. It serves as a popular hub for flight training, recreational flying, and corporate general aviation in the Greater Vancouver area, hosting several flying clubs and aviation businesses. The airport sits adjacent to Boundary Bay and is approximately 25 km south of downtown Vancouver.",
+  "faqs": "Q: What type of airport is Boundary Bay?\nA: Boundary Bay is a medium-sized general aviation airport primarily serving flight training, recreational pilots, and corporate aircraft rather than commercial airline service.\n\nQ: Does Boundary Bay Airport offer commercial flights?\nA: No, Boundary Bay does not have scheduled commercial airline service. It is dedicated to general aviation activities.\n\nQ: Can private aircraft cross the border from Boundary Bay?\nA: Yes, the airport has Canada Border Services Agency (CBSA) facilities that allow private and corporate aircraft to clear customs for flights to and from the United States.\n\nQ: Are there flying clubs at Boundary Bay?\nA: Yes, the airport is home to several flying clubs and flight training schools, making it a popular destination for pilot training in the region.",
+  "transport_tips": "The airport is located off Highway 99 in Delta, about a 25-minute drive south of downtown Vancouver and roughly 20 minutes from the Tsawwassen ferry terminal. Taxi and rideshare services are available but limited, so arranging ground transport in advance is recommended. On-site parking is plentiful and free for those visiting by car.",
+  "local_tip": "Frequent visitors recommend visiting the on-site restaurants overlooking the airfield for excellent plane-spotting opportunities, especially on weekends when flight training activity peaks.",
+  "generatedAt": "2026-06-30T04:48:41.175Z",
+  "model": "MiniMax-M3"
+}

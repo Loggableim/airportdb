@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LYP",
+    "icao": "OPFA",
+    "name": "Faisalabad International Airport",
+    "country": "Pakistan",
+    "city": "Faisalabad",
+    "lat": 31.3649,
+    "lon": 72.9953,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Faisalabad International Airport (LYP/OPFA) serves the industrial city of Faisalabad, Pakistan's third-largest city and the hub of its textile industry. Originally established as a military airfield during the British colonial era, it was later converted to serve commercial aviation and now handles domestic flights as well as international services, particularly for the Hajj pilgrimage. The airport provides a vital gateway for the business travelers who drive the city's renowned cotton and textile trade.",
+  "faqs": "Q: What airlines operate from Faisalabad International Airport?\nA: The airport is primarily served by Pakistan International Airlines (PIA) along with several other domestic carriers operating flights to major Pakistani cities and limited international routes.\n\nQ: Does Faisalabad International Airport offer international flights?\nA: Yes, it operates some international services, most notably Hajj flights to Saudi Arabia, as well as seasonal and charter routes.\n\nQ: How far is the airport from Faisalabad city center?\nA: The airport is located approximately 10 kilometers southwest of the city center, making it a relatively quick drive under normal traffic conditions.\n\nQ: Are there customs and immigration facilities at LYP?\nA: Yes, the airport has customs and immigration services to handle its limited international flights.",
+  "transport_tips": "Taxis and ride-hailing services like Careem are the most convenient options to reach the airport from central Faisalabad, with typical journey times of 20-30 minutes depending on traffic. Private car hire and airport shuttles operated by hotels can also be arranged in advance. Travellers should allow extra time during peak hours and Friday afternoon traffic patterns typical of the city.",
+  "local_tip": "Frequent visitors recommend carrying small Pakistani rupee notes for tips and minor purchases, as airport services and nearby vendors may not always have change for larger denominations.",
+  "generatedAt": "2026-06-28T23:34:38.597Z",
+  "model": "MiniMax-M3"
+}

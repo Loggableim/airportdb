@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CSG",
+    "icao": "KCSG",
+    "name": "Columbus Airport",
+    "country": "United States",
+    "city": "Columbus",
+    "lat": 32.5164,
+    "lon": -84.9396,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Columbus Airport (CSG) is a regional gateway serving Columbus, Georgia, and the surrounding Tri-City area on the Georgia-Alabama border. The airport provides convenient access to Fort Moore (formerly Fort Benning), one of the largest U.S. Army installations, and supports both civilian travel and military operations in the region. Its single-terminal layout makes it a straightforward alternative to the larger Hartsfield-Jackson Atlanta International Airport roughly 100 miles to the north.",
+  "faqs": "Q: How far is Columbus Airport from downtown Columbus, Georgia?\nA: The airport is approximately 7 miles northeast of downtown Columbus, making it a quick 15-minute drive depending on traffic.\n\nQ: Does Columbus Airport offer commercial airline service?\nA: Yes, CSG is served by regional carriers offering nonstop flights to Atlanta (ATL) on Delta Connection, operated by regional partners.\n\nQ: Is there military access or proximity to Fort Moore?\nA: Yes, Fort Moore (formerly Fort Benning) is located just a few miles from the airport, and the facility handles a significant amount of military and government travel.\n\nQ: How many runways does Columbus Airport have?\nA: The airport features two runways, including a primary runway suitable for regional jet operations.",
+  "transport_tips": "Rental cars are available on-site and are the most convenient option for travelers given the airport's distance from the city center. Rideshare services like Uber and Lyft operate in the Columbus area but availability can be limited; pre-booking is recommended. Taxi services and pre-arranged hotel shuttles are also options, though fewer in number than at larger airports.",
+  "local_tip": "If you have a long layover or early arrival, the National Infantry Museum at Soldier Center, located near Fort Moore just a short drive from the airport, is one of the most acclaimed military museums in the United States and well worth a visit.",
+  "generatedAt": "2026-06-29T03:39:00.651Z",
+  "model": "MiniMax-M3"
+}

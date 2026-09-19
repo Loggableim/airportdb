@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FUO",
+    "icao": "ZGFS",
+    "name": "Foshan Shadi Airport",
+    "country": "China",
+    "city": "Foshan (Nanhai)",
+    "lat": 23.0825,
+    "lon": 113.0708,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Foshan Shadi Airport is a medium-sized regional airport serving Foshan, a major manufacturing city in Guangdong Province, China. Located in the Nanhai district, it primarily supports domestic flights and general aviation, sitting within the densely connected Pearl River Delta airspace alongside the much larger Guangzhou Baiyun International Airport. The airport has historically shared facilities with military aviation operations and serves as a convenient alternative for travelers heading to western Pearl River Delta destinations.",
+  "faqs": "Q: How far is Foshan Shadi Airport from central Foshan?\nA: The airport is located in the Nanhai district, roughly 10-15 kilometers southwest of Foshan's city center, typically a 20-30 minute drive depending on traffic.\n\nQ: Does Foshan Shadi Airport have international flights?\nA: The airport primarily handles domestic routes and general aviation. International travelers usually use the nearby Guangzhou Baiyun International Airport, which is about 50 kilometers away.\n\nQ: What facilities are available at the terminal?\nA: As a medium-sized regional airport, it offers basic amenities including a small terminal building, limited dining options, and standard check-in services, but it does not match the extensive facilities of larger Chinese hubs.\n\nQ: Can I fly directly to major Chinese cities from Foshan Shadi?\nA: The airport operates a limited number of scheduled domestic flights, with connections varying by season. Travelers often check with airlines for current route availability.",
+  "transport_tips": "Taxis and ride-hailing services like Didi are the most common ways to reach the airport from Foshan city center. The Foshan Metro Line 2 and nearby bus routes provide budget-friendly public transit options to the vicinity. Driving is straightforward via the Guangzhou-Foshan Expressway, though allow extra time during peak hours.",
+  "local_tip": "If you're traveling with heavy luggage or on a tight schedule, consider flying into Guangzhou Baiyun International Airport instead—it has far more flight options and is connected to Foshan via the Guangzhou-Foshan Metro line, often making the total journey faster despite the longer distance.",
+  "generatedAt": "2026-06-29T22:16:26.108Z",
+  "model": "MiniMax-M3"
+}

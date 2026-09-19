@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TBW",
+    "icao": "UUOT",
+    "name": "Donskoye Airport",
+    "country": "Russia",
+    "city": "Tambov",
+    "lat": 52.8061,
+    "lon": 41.4828,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Donskoye Airport (TBW/UUOT) is a medium-sized regional airport serving the historic city of Tambov in central Russia, located a few kilometers from the city center. It functions primarily as a hub for domestic flights, connecting Tambov with Moscow and other Russian destinations. The airport's modest size reflects Tambov's status as a regional center known for its cultural heritage and agricultural significance.",
+  "faqs": "Q: What is the IATA code for Donskoye Airport?\nA: The IATA code is TBW, and its ICAO code is UUOT.\n\nQ: Does Donskoye Airport handle international flights?\nA: The airport primarily operates domestic routes, mainly connecting Tambov with Moscow and a few other Russian cities.\n\nQ: How far is the airport from Tambov city center?\nA: The airport is located within short distance of Tambov, making it a relatively quick transfer by car or taxi.\n\nQ: Are there facilities for overnight stays near the airport?\nA: Hotels and guesthouses are available in Tambov city, and some options exist near the airport for travelers with early or late flights.",
+  "transport_tips": "Taxis and ride-hailing services are the most common way to reach the airport from Tambov city center, typically taking 15-20 minutes depending on traffic. Public marshrutka (minibus) routes also connect central Tambov with the airport area. Parking is available on-site for those arriving by private vehicle.",
+  "local_tip": "Visit the Tambov Regional Museum and the famous Tambov Kremlin nearby in the city, and consider trying local Tambov-style honey, which the region is well known for producing.",
+  "generatedAt": "2026-06-26T10:47:37.316Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "THM",
+    "icao": "KTHM",
+    "name": "Thompson Falls Airport",
+    "country": "United States",
+    "city": "Thompson Falls",
+    "lat": 47.5735,
+    "lon": -115.281,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Thompson Falls Airport (THM) is a small general aviation airport serving the rural community of Thompson Falls in Sanders County, northwestern Montana. Nestled in the Clark Fork River valley near the Lolo National Forest, the airport primarily supports private pilots, recreational flying, and occasional emergency or firefighting operations common to the region. Its location makes it a useful gateway for visitors exploring Montana's outdoor recreation opportunities, including fishing, hiking, and wildlife viewing.",
+  "faqs": "Q: What type of airport is Thompson Falls Airport?\nA: It is a small, publicly owned general aviation airport primarily serving private and recreational aircraft, with no scheduled commercial service.\n\nQ: Are there commercial flights available at THM?\nA: No, Thompson Falls Airport does not offer scheduled commercial airline service. Travelers typically use larger nearby airports like Glacier Park International or Missoula Montana Airport for commercial flights.\n\nQ: What facilities are available at the airport?\nA: The airport features a single asphalt runway, basic tie-down parking for aircraft, and minimal ground services. Pilots should plan for self-service operations.\n\nQ: Is the airport used for firefighting operations?\nA: Yes, during wildfire season the airport and surrounding airspace often support aerial firefighting activity due to its proximity to extensive forested public lands.\n\n",
+  "transport_tips": "Getting to Thompson Falls Airport requires a personal vehicle, as there is no public transit serving the airfield. The airport sits a short drive from the town center along local roads, and rental cars are not available on-site, so arranging ground transportation in advance is recommended. Visitors flying in should coordinate with local contacts or lodging providers for pickup, as taxi and rideshare services are extremely limited in this rural area.",
+  "local_tip": "Frequent visitors recommend timing flights for early morning in summer months, when mountain wind patterns are calmest, and suggest stopping by the Thompson Falls Dam viewpoint on Highway 200 for a quick but memorable look at the Clark Fork River canyon.",
+  "generatedAt": "2026-06-27T07:23:22.946Z",
+  "model": "MiniMax-M3"
+}

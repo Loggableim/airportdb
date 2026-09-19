@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PIS",
+    "icao": "LFBI",
+    "name": "Poitiers-Biard Airport",
+    "country": "France",
+    "city": "Poitiers/Biard",
+    "lat": 46.5877,
+    "lon": 0.3067,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Poitiers-Biard Airport is a medium-sized regional airport serving the historic city of Poitiers in the Nouvelle-Aquitaine region of western France. It primarily handles domestic flights along with a few seasonal European routes, functioning as a key gateway for travelers visiting the Poitou-Charentes area. The airport is situated just a few kilometers southwest of the city center, offering convenient access to Poitiers' renowned Romanesque architecture and Futuroscope theme park nearby.",
+  "faqs": "Q: What airlines operate from Poitiers-Biard Airport?\nA: The airport is mainly served by regional carriers offering domestic flights, with Air France historically operating the main route to Paris. Service availability may vary by season.\n\nQ: How far is the airport from Poitiers city center?\nA: The airport is located approximately 4 km southwest of central Poitiers, making it a quick drive from most city destinations.\n\nQ: Does the airport have international flights?\nA: International service is limited, with most routes being domestic. Seasonal charter flights to Mediterranean destinations have occasionally been offered.\n\nQ: Are there car rental services at the airport?\nA: Yes, major car rental companies operate from the terminal, and booking in advance is recommended for the best rates.",
+  "transport_tips": "The most convenient way to reach Poitiers city center is by taxi, with the journey taking around 10-15 minutes depending on traffic. Public bus services also connect the airport to central Poitiers on a limited schedule. Renting a car at the airport is a practical option for visitors planning to explore the surrounding Vienne countryside or reach Futuroscope, which is about 15 km away.",
+  "local_tip": "If traveling to or from Futuroscope, consider booking a taxi in advance through the airport information desk rather than relying on ride-hailing apps, which can be inconsistent in this more rural area. The taxi drivers also typically know the best drop-off points at the theme park to save you walking from distant parking lots.",
+  "generatedAt": "2026-06-29T06:10:48.668Z",
+  "model": "MiniMax-M3"
+}

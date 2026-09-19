@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BTP",
+    "icao": "KBTP",
+    "name": "Pittsburgh/Butler Regional Airport",
+    "country": "United States",
+    "city": "Butler",
+    "lat": 40.7769,
+    "lon": -79.9497,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Pittsburgh/Butler Regional Airport (BTP) is a small general aviation facility located in Butler County, Pennsylvania, roughly 35 miles north of Pittsburgh. It primarily serves private pilots, flight training, and corporate operations rather than scheduled commercial service. The airport provides an alternative to Pittsburgh International Airport for flyers in the northern suburbs and surrounding rural communities.",
+  "faqs": "Q: Does Pittsburgh/Butler Regional Airport offer commercial airline service?\nA: No, BTP is a general aviation airport with no scheduled commercial flights.\n\nQ: How far is the airport from downtown Butler?\nA: The airport is located about 5 miles southwest of Butler's city center, typically a 10-15 minute drive.\n\nQ: What services are available at the airport?\nA: BTP supports private aircraft, flight training, fuel services, and aircraft hangaring for based owners and transient pilots.\n\nQ: Can I rent a car at the airport?\nA: No on-site rental car counters are available; visitors should arrange ground transportation in advance through Butler-area rental agencies or rideshare services.\n\n",
+  "transport_tips": "Driving is the most practical way to reach BTP, with easy access via PA Route 356 and nearby US Route 422. Because there is no commercial service, rideshare availability can be limited, so booking a return trip in advance is recommended. Ample free parking is available on-site for those picking up or dropping off private aircraft.",
+  "local_tip": "If you're flying in for a visit to Moraine State Park or McConnells Mill State Park, both are within a 20-minute drive and offer some of western Pennsylvania's best hiking and lake activities.",
+  "generatedAt": "2026-06-27T02:08:21.630Z",
+  "model": "MiniMax-M3"
+}

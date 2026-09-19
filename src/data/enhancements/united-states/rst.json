@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RST",
+    "icao": "KRST",
+    "name": "Rochester International Airport",
+    "country": "United States",
+    "city": "Rochester",
+    "lat": 43.9083,
+    "lon": -92.5,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Rochester International Airport serves Rochester, Minnesota, a city internationally renowned as the home of the Mayo Clinic. The airport functions as a key gateway for medical travelers, visitors, and regional business flyers in southeastern Minnesota. It offers a convenient alternative to the larger Minneapolis–Saint Paul hub roughly 90 miles to the northwest.",
+  "faqs": "Q: What is the main reason travelers fly into Rochester International Airport?\nA: The vast majority of passengers are traveling to the Mayo Clinic, which draws patients and families from across the globe.\n\nQ: Does the airport have customs and immigration facilities?\nA: Yes, RST operates a U.S. Customs and Border Protection facility, allowing limited international flights to clear passengers on site.\n\nQ: Which airlines serve Rochester International Airport?\nA: The airport is primarily served by Delta Air Lines and American Airlines, with destinations typically connecting through Chicago or Minneapolis.\n\nQ: How far is the airport from downtown Rochester?\nA: The airport is approximately 12 miles southwest of downtown Rochester, typically a 15–20 minute drive.",
+  "transport_tips": "Rental cars are available on-site and are the most flexible option given the limited public transit serving the airport. Rideshare services such as Uber and Lyft, along with local taxi companies, operate from a designated pickup area outside the terminal. Short-term and long-term parking lots are located directly adjacent to the terminal building, with the closest spaces just a short walk from check-in.",
+  "local_tip": "If you're visiting Mayo Clinic, ask your care team in advance about the free Mayo Clinic shuttle, which can save you the cost of a rental car for the duration of your stay.",
+  "generatedAt": "2026-06-29T02:29:46.736Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MBD",
+    "icao": "FAMM",
+    "name": "Mmabatho International Airport",
+    "country": "South Africa",
+    "city": "Mafeking",
+    "lat": -25.7984,
+    "lon": 25.548,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mmabatho International Airport serves Mafikeng, the capital city of South Africa's North West Province. The airport was originally developed during the apartheid era to serve the former homeland of Bophuthatswana and now functions as a regional gateway for the province. It handles a mix of scheduled domestic flights and general aviation traffic, connecting the region to Johannesburg and other South African hubs.",
+  "faqs": "Q: What airlines operate from Mmabatho International Airport?\nA: The airport is primarily served by South African Airways and its low-cost subsidiary FlySafair, offering regular flights to OR Tambo International Airport in Johannesburg.\n\nQ: How far is the airport from Mafikeng city center?\nA: The airport is located roughly 10 kilometers northeast of Mafikeng's central business district, making it a short drive from the city.\n\nQ: Does the airport offer international flights?\nA: Despite its international designation, scheduled services are predominantly domestic, with international flights historically limited to charter operations.\n\nQ: What facilities are available at the terminal?\nA: The terminal provides standard amenities including a small retail area, car rental counters, and basic passenger services typical of a regional South African airport.",
+  "transport_tips": "Taxi services and private transfers are the most common ways to reach Mafikeng from the airport, as there is no dedicated rail connection. Rental cars are available at the terminal and are recommended for travelers planning to explore the wider North West Province. Pre-arranging ground transport is advisable as ride-hailing apps have limited coverage in this region.",
+  "local_tip": "Frequent visitors recommend visiting the Mafikeng Game Reserve, located near the city, which is notable for being one of the few urban game reserves in South Africa where you can spot white rhinos within minutes of the town center.",
+  "generatedAt": "2026-06-29T11:38:21.296Z",
+  "model": "MiniMax-M3"
+}

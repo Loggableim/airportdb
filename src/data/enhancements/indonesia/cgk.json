@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CGK",
+    "icao": "WIII",
+    "name": "Soekarno-Hatta International Airport",
+    "country": "Indonesia",
+    "city": "Jakarta",
+    "lat": -6.1256,
+    "lon": 106.656,
+    "type": "large_airport",
+    "size": 51600
+  },
+  "summary": "Soekarno-Hatta International Airport (CGK) is Indonesia's largest and busiest airport, serving the capital city of Jakarta. Named after the country's first president and vice president, it functions as the primary gateway to Indonesia and a major hub for Southeast Asian travel. The airport features three modern terminals connected by a free Skytrain shuttle system.",
+  "faqs": "Q: How far is Soekarno-Hatta Airport from central Jakarta?\nA: The airport is located approximately 20 km (12 miles) west of central Jakarta, in Tangerang, Banten province.\n\nQ: How do I travel between terminals at CGK?\nA: The airport operates a free Skytrain shuttle that connects Terminals 1, 2, and 3, running frequently throughout the day.\n\nQ: Which airlines use Soekarno-Hatta as a main hub?\nA: Garuda Indonesia, Lion Air, and Citilink are among the major carriers operating significant hub operations at CGK.\n\nQ: Is there a train connection to Jakarta city center?\nA: Yes, the Soekarno-Hatta Airport Rail Link connects the airport to Jakarta Kota station, with stops at several key stations in the city.",
+  "transport_tips": "The Airport Rail Link is often the fastest and most reliable option to reach central Jakarta, avoiding traffic congestion that can be severe on the main roads. Official blue taxi counters are available at each terminal for metered fares, while ride-hailing apps like Grab and Gojek offer pickup zones outside the terminals. Allow at least 2-3 hours of buffer time for your journey during peak hours due to Jakarta's notorious traffic.",
+  "local_tip": "Terminal 3 has notably better dining options and lounges than Terminals 1 and 2, so if you have a long layover, consider requesting a transfer or spending extra time there. The airport also offers free shower facilities in some lounges accessible for a small fee, which is refreshing given Jakarta's tropical heat and humidity.",
+  "generatedAt": "2026-06-28T15:39:03.287Z",
+  "model": "MiniMax-M3"
+}

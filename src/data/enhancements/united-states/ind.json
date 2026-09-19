@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IND",
+    "icao": "KIND",
+    "name": "Indianapolis International Airport",
+    "country": "United States",
+    "city": "Indianapolis",
+    "lat": 39.7173,
+    "lon": -86.2944,
+    "type": "large_airport",
+    "size": 52075
+  },
+  "summary": "Indianapolis International Airport (IND) is the busiest airport in Indiana and a major Midwest gateway, located approximately 7 miles southwest of downtown Indianapolis. The current award-winning terminal complex opened in 2008, replacing the older Weir Cook Terminal. IND serves as a critical air cargo hub, most notably for FedEx Express, and offers nonstop service to numerous domestic and select international destinations.",
+  "faqs": "Q: How far is Indianapolis International Airport from downtown Indianapolis?\nA: The airport is approximately 7 miles (11 km) southwest of downtown Indianapolis, typically a 20-25 minute drive depending on traffic.\n\nQ: How many terminals does IND have?\nA: IND has a single main terminal building with two concourses (Concourse A and Concourse B) connected by a central terminal.\n\nQ: Is Indianapolis International Airport a hub for any major airline?\nA: Yes, IND serves as a major hub for FedEx Express, one of the largest cargo operations in the United States. Several passenger airlines also maintain significant operations here, including Delta, American, and Southwest.\n\nQ: Does IND offer international flights?\nA: Yes, the airport offers nonstop service to several international destinations, primarily to Mexico, Canada, and Caribbean locations, along with seasonal transatlantic service.",
+  "transport_tips": "The IndyGo Route 8 bus provides affordable public transit between the airport and downtown Indianapolis, though service is limited. Taxi and rideshare services (Uber and Lyft) have dedicated pickup zones on the ground level of the parking garage. The airport offers ample on-site parking options including garage, economy, and valet services at competitive rates.",
+  "local_tip": "Frequent travelers recommend downloading the IND mobile app before arrival for real-time flight updates, parking availability, and terminal maps—the new terminal is spacious but can take extra time to navigate during peak hours.",
+  "generatedAt": "2026-06-28T15:37:13.751Z",
+  "model": "MiniMax-M3"
+}

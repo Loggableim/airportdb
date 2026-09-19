@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HLB",
+    "icao": "KHLB",
+    "name": "Batesville Airport",
+    "country": "United States",
+    "city": "Batesville",
+    "lat": 39.3429,
+    "lon": -85.2584,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Batesville Airport (HLB) is a small general aviation facility serving the city of Batesville in southeastern Indiana. It primarily supports recreational flying, private aircraft, and local flight training rather than scheduled commercial service. The airport provides an important aviation link for the rural Franklin County region.",
+  "faqs": "Q: Does Batesville Airport offer commercial flights?\nA: No, Batesville Airport is a general aviation facility with no scheduled commercial airline service.\n\nQ: What is the airport primarily used for?\nA: The airport is mainly used by private pilots, recreational flyers, flight training, and occasional business aviation.\n\nQ: Is there an air traffic control tower at HLB?\nA: No, Batesville Airport operates as an uncontrolled field, meaning pilots use a common traffic advisory frequency to coordinate movements.\n\nQ: Can I rent a car at the airport?\nA: Rental car availability on-site is limited; visitors typically arrange ground transportation in advance through local providers in Batesville.",
+  "transport_tips": "The airport is located just a short drive from downtown Batesville, making ground transportation quick and straightforward. Having a personal vehicle is recommended, as taxi and rideshare options may be limited in this rural area. Local hotels and businesses in Batesville are typically only a few minutes' drive from the airfield.",
+  "local_tip": "If you're flying in, check the runway and approach conditions ahead of time, as the surrounding Indiana farmland can occasionally produce crosswinds and reduced visibility during early morning fog in the river valley.",
+  "generatedAt": "2026-06-27T11:42:26.402Z",
+  "model": "MiniMax-M3"
+}

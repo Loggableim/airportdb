@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KBL",
+    "icao": "OAKB",
+    "name": "Kabul International Airport",
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "lat": 34.5659,
+    "lon": 69.2123,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kabul International Airport (KBL) is Afghanistan's primary aviation gateway, located approximately 5 km from the city center in the eastern part of Kabul. Situated at an elevation of around 5,800 feet, it serves as the main hub for national carriers Ariana Afghan Airlines and Kam Air. The airport has historically played a strategic role, hosting both civilian and military operations during decades of conflict.",
+  "faqs": "Q: What is the main airport in Afghanistan?\nA: Kabul International Airport (KBL) is Afghanistan's largest and busiest airport, handling the majority of the country's international flights.\n\nQ: Which airlines operate from Kabul International Airport?\nA: Major operators include Ariana Afghan Airlines, Kam Air, and various international carriers on scheduled and charter services.\n\nQ: How far is the airport from Kabul city center?\nA: The airport is approximately 5 km (3 miles) from downtown Kabul, typically a 20-30 minute drive depending on traffic.\n\nQ: Does Kabul Airport have night flight operations?\nA: Operations may be subject to restrictions and curfews, so travelers should verify current schedules with their airline.",
+  "transport_tips": "Taxis and private cars are the primary means of reaching the airport, with ride-hailing apps limited or unavailable. Allow extra time for travel due to security checkpoints common on roads leading to the airport. Pre-arranged hotel transfers are strongly recommended over hailing random vehicles.",
+  "local_tip": "Carry small denominations of local currency (Afghani) for tips and small purchases, as change can be difficult to obtain, and always reconfirm your flight status directly with the airline as schedules in Kabul can change with little notice.",
+  "generatedAt": "2026-06-28T19:53:04.241Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FFT",
+    "icao": "KFFT",
+    "name": "Capital City Airport",
+    "country": "United States",
+    "city": "Frankfort",
+    "lat": 38.1817,
+    "lon": -84.9068,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Capital City Airport is a small general aviation airport serving Frankfort, the capital city of Kentucky. Located in the heart of the Bluegrass region, it primarily handles private, corporate, and recreational flights rather than commercial airline service. The airport features a single main runway and supports flight training, aerial surveying, and government operations tied to the nearby state capitol.",
+  "faqs": "Q: Does Capital City Airport have commercial airline service?\nA: No, Capital City Airport (FFT) is a general aviation facility with no scheduled commercial flights. Travelers needing commercial service typically use Blue Grass Airport (LEX) in nearby Lexington or Louisville Muhammad Ali International Airport (SDF).\n\nQ: What facilities are available at the airport?\nA: The airport offers a terminal building, aircraft parking, fueling services, tie-downs, and hangar rentals. Basic amenities are available for pilots and passengers.\n\nQ: Can I get a rental car at Capital City Airport?\nA: Rental car services are not typically available on-site. Visitors usually arrange rentals in downtown Frankfort or at the larger airports in Lexington or Louisville.\n\nQ: Is the airport used for flight training?\nA: Yes, the airport is popular for flight training and supports several flight schools and private instructors in the region.",
+  "transport_tips": "The airport is located just a few miles south of downtown Frankfort, making it a short drive via US-60 and KY-676. Taxi and rideshare services are limited in Frankfort, so arranging ground transportation in advance is recommended. Visitors flying in for business at the state capitol will find the airport particularly convenient for reaching downtown within 15 minutes.",
+  "local_tip": "If you are flying into Capital City Airport, ask your FBO or pilot about the nearby Buffalo Trace Distillery—one of the oldest continuously operating distilleries in the country is just minutes away and well worth a tour if you have time before your next flight.",
+  "generatedAt": "2026-06-27T02:04:37.170Z",
+  "model": "MiniMax-M3"
+}

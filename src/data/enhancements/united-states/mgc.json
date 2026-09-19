@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MGC",
+    "icao": "KMGC",
+    "name": "Michigan City Municipal Airport",
+    "country": "United States",
+    "city": "Michigan City",
+    "lat": 41.7033,
+    "lon": -86.8212,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Michigan City Municipal Airport (MGC/KMGC) is a general aviation airport serving Michigan City, Indiana, located in the northwestern part of the state near the southern shore of Lake Michigan. It primarily supports recreational flying, flight training, and private aircraft operations, serving as a convenient gateway for visitors to the Lake Michigan shoreline region. The airport features a single main runway and is situated within easy driving distance of Indiana Dunes National Park.",
+  "faqs": "Q: What types of flights operate from Michigan City Municipal Airport?\nA: The airport primarily handles general aviation traffic, including private aircraft, flight training, and recreational flying. There are no scheduled commercial airline services.\n\nQ: How far is the airport from downtown Michigan City?\nA: The airport is located just a few miles from downtown Michigan City, typically a short 5 to 10 minute drive depending on traffic.\n\nQ: Are there fuel services available at KMGC?\nA: Yes, the airport typically offers aviation fuel services for transient and based pilots, though hours may vary.\n\nQ: Can I rent a car at the airport?\nA: Rental car services are generally available in nearby Michigan City rather than directly on-airport, so advance arrangements are recommended.\n\n",
+  "transport_tips": "The airport is easily accessible by car via local roads connecting to U.S. Route 12 and Interstate 94, both of which are within a short drive. Rideshare services and local taxi companies can serve the area, though availability may be limited compared to larger cities. Visitors driving in will find straightforward access with ample parking near the terminal area.",
+  "local_tip": "If you're flying in for a visit, take advantage of the airport's proximity to the Indiana Dunes National Park along Lake Michigan—it's one of the most scenic shorelines in the Midwest and just a short drive from the airfield.",
+  "generatedAt": "2026-06-29T20:13:51.651Z",
+  "model": "MiniMax-M3"
+}

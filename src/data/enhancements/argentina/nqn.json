@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NQN",
+    "icao": "SAZN",
+    "name": "Presidente Perón International Airport",
+    "country": "Argentina",
+    "city": "Neuquén",
+    "lat": -38.949,
+    "lon": -68.1557,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Presidente Perón International Airport (NQN) is the main gateway to Neuquén, the capital of Neuquén Province in Argentine Patagonia. It serves a region central to Argentina's booming Vaca Muerta shale oil and gas industry, making it a key hub for energy-sector business travel alongside tourism. The airport connects Patagonia's northern reaches with Buenos Aires and other major Argentine destinations.",
+  "faqs": "Q: How far is the airport from Neuquén city center?\nA: Approximately 7 km west of downtown Neuquén, typically a 15-20 minute drive.\n\nQ: Which airlines operate from Presidente Perón Airport?\nA: Aerolíneas Argentinas and several low-cost carriers including Flybondi and JetSMART serve the airport with domestic routes.\n\nQ: Does the airport have international flights?\nA: It primarily handles domestic flights, with occasional international services to neighboring countries like Chile and Brazil.\n\nQ: Are there car rental services available?\nA: Yes, major rental agencies operate at the airport, which is recommended given the vast distances of Patagonia.\n\n",
+  "transport_tips": "Remises (private hire taxis) and radio-taxis are available outside the terminal and offer fixed fares to the city center. Renting a car is strongly recommended for travelers heading to Patagonia's lakes, vineyards, or the Andes. Public bus service also connects the airport with Neuquén city.",
+  "local_tip": "If visiting during winter, book flights early—ski season at nearby Cerro Bayo and Chapelco fills seats quickly, and weather delays are common in Patagonia.",
+  "generatedAt": "2026-06-28T22:28:58.142Z",
+  "model": "MiniMax-M3"
+}

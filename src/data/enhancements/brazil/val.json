@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VAL",
+    "icao": "SNVB",
+    "name": "Valença Airport",
+    "country": "Brazil",
+    "city": "Valença",
+    "lat": -13.2965,
+    "lon": -38.9924,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Valença Airport (VAL/SNVB) is a small regional airport serving the municipality of Valença in the state of Bahia, northeastern Brazil. Located near the coastal Bay of Camamu region, it primarily handles general aviation and occasional charter flights. The airport provides access to one of Bahia's important coastal municipalities known for its proximity to tropical islands and Atlantic Forest landscapes.",
+  "faqs": "Q: What is the IATA code for Valença Airport?\nA: The IATA code is VAL, and the ICAO code is SNVB.\n\nQ: What type of airport is Valença Airport?\nA: It is classified as a small airport primarily serving general aviation and limited regional traffic.\n\nQ: Where is Valença Airport located?\nA: It is located in Valença, in the state of Bahia, Brazil, near the Atlantic coast and Bay of Camamu.\n\nQ: Does Valença Airport offer commercial scheduled flights?\nA: Scheduled commercial service is limited or unavailable; travelers typically rely on ground transportation from larger airports such as Salvador (SSA).\n\n",
+  "transport_tips": "Ground transportation from the airport to central Valença is typically arranged by taxi or pre-booked private transfer, as public transport options are limited. The drive to downtown Valença takes roughly 15 to 25 minutes depending on traffic. For international travelers, the nearest major airport with extensive connections is Salvador Deputado Luís Eduardo Magalhães International Airport (SSA), about 130 km north, accessible via BR-101 highway.",
+  "local_tip": "Visit the nearby Tinharé and Boipeba islands by taking a ferry from Valença's waterfront — these pristine destinations are among Bahia's best-kept tropical escapes and are far less crowded than Morro de São Paulo.",
+  "generatedAt": "2026-06-26T20:00:02.335Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EUC",
+    "icao": "YECL",
+    "name": "Eucla Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -31.7071,
+    "lon": 128.8772,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Eucla Airport (EUC/YECL) is a small remote airstrip serving the tiny settlement of Eucla, located near the Western Australia–South Australia border on the vast Nullarbor Plain. It primarily supports charter flights, the Royal Flying Doctor Service, and occasional general aviation traffic in this extremely isolated region. The airport is one of the few aviation gateways servicing travelers and medical needs along the remote Eyre Highway corridor.",
+  "faqs": "Q: What is Eucla Airport used for?\nA: It primarily serves charter flights, the Royal Flying Doctor Service, and general aviation, as there are no scheduled commercial passenger services.\n\nQ: Where is Eucla located?\nA: Eucla is situated on the Nullarbor Plain near the border between Western Australia and South Australia, roughly halfway between Perth and Adelaide along the Eyre Highway.\n\nQ: Are there car rental services at the airport?\nA: No on-site car rental facilities exist; visitors typically arrange transport in advance or rely on the Eucla Roadhouse and motel services in town.\n\nQ: Is the airport open to the public?\nA: The airstrip is accessible to pilots and passengers, but there are no passenger terminals or regular commercial operations.",
+  "transport_tips": "Getting to Eucla requires traveling along the Eyre Highway, either by private vehicle or coach services that connect Norseman in Western Australia to Ceduna in South Australia. The town is approximately 12 km from the highway junction, and visitors typically rely on the Eucla Roadhouse for accommodation and fuel. The Royal Flying Doctor Service operates from this airport for emergency medical evacuations from the surrounding region.",
+  "local_tip": "If you're flying in, coordinate well in advance with local operators—mobile phone coverage is extremely limited in the area, and satellite communication is often essential for arranging ground transport from the strip.",
+  "generatedAt": "2026-06-27T11:06:21.032Z",
+  "model": "MiniMax-M3"
+}

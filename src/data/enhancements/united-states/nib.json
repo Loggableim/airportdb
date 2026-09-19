@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NIB",
+    "icao": "PAFS",
+    "name": "Nikolai Airport",
+    "country": "United States",
+    "city": "Nikolai",
+    "lat": 63.0179,
+    "lon": -154.3604,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Nikolai Airport (NIB/PAFS) is a small public-use airport serving the remote village of Nikolai in interior Alaska. The airfield provides a critical lifeline for this small Athabaskan community located along the upper Kuskokwim River, with no road access connecting the village to the rest of the state. Flights are essential for transporting passengers, mail, groceries, and supplies to and from this isolated settlement.",
+  "faqs": "Q: Where is Nikolai Airport located?\nA: Nikolai Airport is located in the village of Nikolai, in the Yukon-Koyukuk Census Area of interior Alaska, United States.\n\nQ: How do you get to Nikolai, Alaska?\nA: There are no roads leading to Nikolai, so travel is primarily by small aircraft. The airport is the main access point, with scheduled and charter flights connecting the village to larger hubs like Anchorage or Fairbanks.\n\nQ: What type of aircraft typically serves Nikolai Airport?\nA: Small bush planes, such as Cessna Caravans and similar single-engine or twin-engine aircraft equipped for gravel or unimproved runways, typically serve this remote Alaskan airport.\n\nQ: Are there facilities at the airport terminal?\nA: As a small rural airport, Nikolai has minimal infrastructure. There is generally no staffed terminal, so passengers should arrange transportation and lodging in advance.",
+  "transport_tips": "Since Nikolai has no road connection to the rest of Alaska, flying is essentially the only practical way in or out. Visitors should coordinate with bush carriers well in advance, as flights are weather-dependent and schedules can be irregular. Many travelers arrive via Anchorage or Fairbanks with connecting flights operated by regional carriers.",
+  "local_tip": "Pack all essential supplies with you, including extra food and any specialty items, as the small village store carries very limited inventory and prices are typically much higher than in urban areas.",
+  "generatedAt": "2026-06-26T22:53:57.445Z",
+  "model": "MiniMax-M3"
+}

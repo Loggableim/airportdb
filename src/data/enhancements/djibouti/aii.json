@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AII",
+    "icao": "HDAS",
+    "name": "Ali-Sabieh Airport",
+    "country": "Djibouti",
+    "city": "Ali-Sabieh",
+    "lat": 11.1469,
+    "lon": 42.72,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Ali-Sabieh Airport (AII/HDAS) is a small regional airport serving the town of Ali-Sabieh in southern Djibouti, near the country's tri-border point with Ethiopia and Somalia. The facility primarily supports light aviation and occasional charter operations, serving the local population of this strategic transit region. Its location makes it a potential gateway for travelers exploring the southern Djiboutian interior.",
+  "faqs": "Q: What is the IATA code for Ali-Sabieh Airport?\nA: The IATA code is AII, and the ICAO code is HDAS.\n\nQ: How large is Ali-Sabieh Airport?\nA: It is classified as a small airport with limited infrastructure, handling primarily light aircraft and regional flights.\n\nQ: Where is Ali-Sabieh located in Djibouti?\nA: Ali-Sabieh is in the southern part of Djibouti, near the borders with Ethiopia and Somalia, roughly 100 km from the capital Djibouti City.\n\nQ: Does Ali-Sabieh Airport offer international commercial flights?\nA: Scheduled international commercial service is limited; travelers typically use Djibouti–Ambouli International Airport for major commercial connections.",
+  "transport_tips": "The airport is located just a few kilometers from Ali-Sabieh town center, making taxis and shared minibuses the most practical options for ground transport. Travelers coming from Djibouti City can reach Ali-Sabieh by road via the RN-1 highway, a journey of approximately two to three hours. Private vehicle hire is recommended for those unfamiliar with the area, as public transport schedules can be irregular.",
+  "local_tip": "If visiting the area, plan an early morning trip to the nearby Goda Mountains for cooler temperatures and stunning panoramic views across three countries, just a short drive from the airport.",
+  "generatedAt": "2026-06-27T16:57:40.933Z",
+  "model": "MiniMax-M3"
+}

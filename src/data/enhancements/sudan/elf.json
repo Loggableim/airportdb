@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ELF",
+    "icao": "HSFS",
+    "name": "El Fasher Airport",
+    "country": "Sudan",
+    "city": "El Fasher",
+    "lat": 13.6149,
+    "lon": 25.3246,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "El Fasher Airport (ELF/HSFS) serves the city of El Fasher, the capital of North Darfur state in western Sudan. As the main aviation gateway for the Darfur region, it has played a critical role in humanitarian and military operations, particularly during conflict periods. The airport features a single runway and operates as a medium-sized facility supporting domestic and occasional international flights.",
+  "faqs": "Q: Where is El Fasher Airport located?\nA: El Fasher Airport is located in the city of El Fasher, the capital of North Darfur state in western Sudan, approximately in the center of the country.\n\nQ: What airlines operate from El Fasher Airport?\nA: The airport primarily serves domestic routes connecting El Fasher to Khartoum and other Sudanese cities, with occasional humanitarian and charter flights.\n\nQ: Is El Fasher Airport open to international travelers?\nA: International flights are limited and typically restricted to humanitarian or special operations. Travelers should check current security conditions and visa requirements before planning travel.\n\nQ: Does the airport have facilities for overnight stays?\nA: Limited passenger amenities are available; travelers should arrange accommodation in El Fasher city rather than expecting extensive airport facilities.",
+  "transport_tips": "The airport is located a short distance from El Fasher city center, typically reachable by taxi or arranged transport. Road conditions in the Darfur region can vary, so allow extra travel time. Shared taxis and private hire vehicles are the most common options for ground transportation.",
+  "local_tip": "Always confirm flight schedules locally and well in advance, as flight timings can change due to weather, security conditions, or operational adjustments in the region.",
+  "generatedAt": "2026-06-29T19:55:36.872Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UIB",
+    "icao": "SKUI",
+    "name": "El Caraño Airport",
+    "country": "Colombia",
+    "city": "Quibdó",
+    "lat": 5.6908,
+    "lon": -76.6412,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "El Caraño Airport serves Quibdó, the capital of Colombia's Chocó Department, a region renowned for its extraordinary biodiversity and heavy rainfall. The airport is named after Gaspar de El Caraño, a 17th-century Spanish explorer and governor who played a key role in the colonial history of the Atrato region. As the main air gateway to one of Colombia's most remote and rain-soaked departments, it is essential for connecting isolated communities to major cities like Medellín and Bogotá.",
+  "faqs": "Q: What is the main function of El Caraño Airport?\nA: It serves as the primary air link between Quibdó and major Colombian cities, supporting both passenger travel and cargo operations for the Chocó region.\n\nQ: Are there international flights from El Caraño Airport?\nA: No, the airport handles domestic flights only, primarily connecting to Medellín and Bogotá.\n\nQ: How reliable are flights at this airport?\nA: Due to frequent heavy rain and fog in the Chocó region, flights can experience delays or cancellations, especially during the rainy season.\n\nQ: Does the airport operate at night?\nA: No, El Caraño Airport generally operates during daylight hours only, as nighttime operations are limited by weather and infrastructure conditions.",
+  "transport_tips": "The airport is located just a few kilometers from central Quibdó, making it a short taxi or mototaxi ride into the city. Taxis are readily available outside the terminal, though it's wise to agree on a fare before departure. Roads from the airport can flood during heavy rains, so allow extra travel time, especially during the wet season.",
+  "local_tip": "Bring a compact umbrella or waterproof jacket in your carry-on—Quibdó is one of the wettest cities on Earth, so expect sudden downpours even shortly after landing.",
+  "generatedAt": "2026-06-29T14:12:22.583Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BHA",
+    "icao": "SESV",
+    "name": "Los Perales Airport",
+    "country": "Ecuador",
+    "city": "Bahía de Caraquez",
+    "lat": -0.6081,
+    "lon": -80.4027,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Los Perales Airport (BHA/SESV) is a small regional airport serving Bahía de Caráquez, a coastal town in Ecuador's Manabí Province. It primarily handles domestic flights and general aviation, providing convenient access to this Pacific coast destination known for its beaches, mangroves, and Isla de la Plata nearby. The airport's modest size reflects the tranquil character of the area it serves, making it a preferred gateway for travelers seeking Ecuador's less-crowded coastal experiences.",
+  "faqs": "Q: What type of flights operate from Los Perales Airport?\nA: Los Perales primarily handles small domestic flights and general aviation, with limited scheduled commercial service to and from Quito.\n\nQ: How far is the airport from Bahía de Caráquez city center?\nA: The airport is located very close to the city, typically just a short 10-15 minute drive from the town center.\n\nQ: Are there international flights from BHA?\nA: No, Los Perales does not offer international flights. Travelers from abroad typically connect through Quito or Guayaquil.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, it offers basic facilities including a small terminal building, limited parking, and minimal concessions.\n\n",
+  "transport_tips": "Taxis and mototaxis are the most common ways to reach Bahía de Caráquez from the airport, with fares being very affordable. Renting a car is possible but generally unnecessary as the town is walkable. If traveling onward to other coastal destinations like Manta or Pedernales, it's worth arranging ground transport in advance.",
+  "local_tip": "Schedule flights for morning hours when coastal winds are typically calmer—afternoon sea breezes sometimes cause delays at this small coastal airstrip.",
+  "generatedAt": "2026-06-27T17:38:31.403Z",
+  "model": "MiniMax-M3"
+}

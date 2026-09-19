@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SLH",
+    "icao": "NVSC",
+    "name": "Sola Airport",
+    "country": "Vanuatu",
+    "city": "Sola",
+    "lat": -13.8517,
+    "lon": 167.537,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Sola Airport (SLH/NVSC) is a small regional airport serving the town of Sola on Vanua Lava, the largest island in the Banks Islands group of northern Vanuatu. It provides essential air access for residents of the remote Banks Islands, connecting them to the capital Port Vila and other parts of the archipelago. The airport's modest infrastructure reflects its role as a vital lifeline for a sparsely populated and geographically isolated region.",
+  "faqs": "Q: What is Sola Airport primarily used for?\nA: It serves as the main gateway for the Banks Islands in northern Vanuatu, providing scheduled domestic flights connecting Sola and Vanua Lava to Port Vila.\n\nQ: Is Sola Airport open to international flights?\nA: No, it is a domestic airport handling only flights within Vanuatu, typically operated by small turboprop aircraft.\n\nQ: How long is the runway at Sola Airport?\nA: The airport has a single short paved runway suitable for small regional aircraft such as the ATR 42 and similar turboprops commonly used in Pacific island operations.\n\nQ: Are there facilities for overnight stays near the airport?\nA: Basic guesthouses and bungalows are available in nearby Sola town, though amenities are limited compared to larger Vanuatu airports.\n\n",
+  "transport_tips": "Taxis and informal shared transport are typically available outside the terminal to reach Sola town, which is only a short drive away. There are no scheduled public bus services at this small regional airport, so arranging ground transport in advance is recommended. Rental vehicles are generally not available at the airport, so visitors usually rely on local guesthouses or hotels for transfers.\n\n",
+  "local_tip": "Pack light and bring cash in vatu, as ATM and card facilities are extremely limited on Vanua Lava, and most local shops and guesthouses operate on a cash-only basis.",
+  "generatedAt": "2026-06-26T19:08:18.399Z",
+  "model": "MiniMax-M3"
+}

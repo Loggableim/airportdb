@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "STQ",
+    "icao": "KOYM",
+    "name": "St Marys Municipal Airport",
+    "country": "United States",
+    "city": "St Marys",
+    "lat": 41.4125,
+    "lon": -78.5026,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "St Marys Municipal Airport (STQ/KOYM) is a small general aviation airport serving the city of St Marys in Elk County, northern Pennsylvania. Nestled in a rural, forested region near the Allegheny Plateau, the airport primarily supports recreational flying, flight training, and private aircraft operations. It provides convenient air access to a community historically known for its German heritage and proximity to Pennsylvania's largest elk herd.",
+  "faqs": "Q: Is St Marys Municipal Airport open to the public?\nA: Yes, it is a public-use airport primarily serving general aviation, though it is unattended and has no scheduled commercial service.\n\nQ: Does the airport have an air traffic control tower?\nA: No, STQ is a non-towered field. Pilots use the common frequency to announce their intentions in the traffic pattern.\n\nQ: What facilities are available at the airport?\nA: The airport features a single runway (Runway 10/28) along with tie-down areas and basic amenities for general aviation aircraft.\n\nQ: Can I fly commercially into St Marys?\nA: No, there are no commercial flights. Travelers would need to use a larger airport such as DuBois Regional or Erie International for commercial service.\n\n",
+  "transport_tips": "Rental cars are not available on-site, so arranging ground transportation in advance is recommended. The airport is just a short drive from downtown St Marys via US Route 219, making taxi or rideshare service feasible. Visitors flying private aircraft can often coordinate courtesy cars with local FBOs or flight schools based at the field.",
+  "local_tip": "Visit the nearby Elk Country Visitor Center in Benezette, about 25 miles south, for a chance to see Pennsylvania's wild elk herd up close, especially during the autumn rutting season.",
+  "generatedAt": "2026-06-27T05:05:07.260Z",
+  "model": "MiniMax-M3"
+}

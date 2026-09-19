@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LJU",
+    "icao": "LJLJ",
+    "name": "Ljubljana Jože Pučnik Airport",
+    "country": "Slovenia",
+    "city": "Zgornji Brnik",
+    "lat": 46.2237,
+    "lon": 14.4576,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Ljubljana Jože Pučnik Airport (LJU) is Slovenia's main international gateway, located in Zgornji Brnik approximately 25 km northwest of the capital Ljubljana. Named after the prominent Slovenian politician and democratic dissident Jože Pučnik, the airport has served as the country's primary aviation hub since replacing the older Polje airfield. It handles the majority of Slovenia's commercial air traffic and offers connections to major European cities.",
+  "faqs": "Q: How far is the airport from Ljubljana city center?\nA: The airport is about 25 km (15.5 miles) northwest of Ljubljana, with a typical journey time of 25-40 minutes by car or shuttle bus.\n\nQ: Are there direct public transport options to the city?\nA: Yes, regular bus services operate between the airport and Ljubljana's main bus station, with departures timed to match flight schedules.\n\nQ: How many terminals does Ljubljana Airport have?\nA: The airport operates a single passenger terminal handling both domestic and international flights, making navigation straightforward.\n\nQ: Is the airport open 24 hours?\nA: The terminal building has limited overnight hours; passengers are advised to check with their airline regarding early morning or late-night flight schedules.",
+  "transport_tips": "The most economical way to reach Ljubljana is via the official airport shuttle bus, which runs frequently and drops passengers near the main train station. Taxis and ride-sharing services are readily available outside the terminal, with fixed fares to the city center. Renting a car is convenient for travelers planning to explore Slovenia's broader regions, such as Lake Bled or the coast.",
+  "local_tip": "If you have a long layover, consider visiting the nearby town of Kranj, Slovenia's fourth-largest city, which is just 10 minutes from the airport and offers charming old-town streets, a beautiful canyon, and authentic local cuisine without the tourist crowds of Ljubljana.",
+  "generatedAt": "2026-06-28T17:22:05.845Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HGN",
+    "icao": "VTCH",
+    "name": "Mae Hong Son Airport",
+    "country": "Thailand",
+    "city": "Mae Hong Son",
+    "lat": 19.3013,
+    "lon": 97.9758,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mae Hong Son Airport serves the remote mountainous province of Mae Hong Son in northwestern Thailand, near the Myanmar border. The airport is nestled in a deep valley surrounded by the Shan Hills, requiring pilots to navigate challenging approach paths through narrow mountain passes. It primarily handles small turboprop aircraft and is a popular gateway for travelers exploring the region's misty mountains, hill tribe villages, and natural hot springs.",
+  "faqs": "Q: Which airlines operate flights to Mae Hong Son Airport?\nA: Nok Air and Bangkok Airways are the main carriers operating regular scheduled flights, typically using small ATR or similar turboprop aircraft from Bangkok.\n\nQ: How long is the flight from Bangkok to Mae Hong Son?\nA: The flight takes approximately 1 hour and 20 minutes, though actual flight time can vary due to weather conditions and mountain routing.\n\nQ: Is Mae Hong Son Airport considered difficult to land at?\nA: Yes, it is widely regarded as one of the more challenging airports in Thailand due to surrounding mountainous terrain, which can cause turbulence and requires specialized pilot training.\n\nQ: Are there international flights at Mae Hong Son Airport?\nA: No, the airport handles only domestic flights within Thailand. International travelers must connect through Bangkok.",
+  "transport_tips": "Songthaews (shared pickup trucks) and motorbike taxis are the most common ways to reach the town center, which is only about 5 minutes away. Hotel pickup services can be arranged in advance, as taxi availability at the airport can be limited outside of flight arrival times. Renting a motorbike directly from town is a popular option for exploring the surrounding province.",
+  "local_tip": "If you have a choice, book the morning flight in—the early light offers dramatic views of the layered mountain ridges during approach, and morning flights are statistically less likely to be diverted by afternoon fog or thunderstorms that frequently develop in the valley.",
+  "generatedAt": "2026-06-29T09:53:18.969Z",
+  "model": "MiniMax-M3"
+}

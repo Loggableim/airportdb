@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BRN",
+    "icao": "LSZB",
+    "name": "Bern Airport",
+    "country": "Switzerland",
+    "city": "Bern",
+    "lat": 46.9127,
+    "lon": 7.4988,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Bern Airport (BRN), also known as Bern-Belp, is a regional airport located in the municipality of Belp approximately 9 kilometers southeast of Bern, the capital of Switzerland. The airport primarily serves regional, charter, and seasonal flights, and it is also home to the Swiss Air Force operations at the Belpmoos military airfield. Its compact size and proximity to the Swiss capital make it a convenient alternative to the larger Zurich and Geneva airports for travelers heading to the Bern region.",
+  "faqs": "Q: What is the distance from Bern Airport to the city center of Bern?\nA: The airport is about 9 km (5.6 miles) southeast of Bern's city center, typically a 20-30 minute drive depending on traffic.\n\nQ: Does Bern Airport have international flights?\nA: The airport primarily handles regional European flights, seasonal charter routes, and some intercontinental holiday services, but its international long-haul network is limited compared to Zurich or Geneva.\n\nQ: What facilities are available at Bern Airport?\nA: The terminal offers standard amenities including restaurants, shops, car rental desks, and a small VIP lounge, though services are more limited than at Switzerland's larger airports.\n\nQ: Is there a military presence at Bern Airport?\nA: Yes, the site also functions as a Swiss Air Force base, occasionally displaying military aircraft visible from the public areas.",
+  "transport_tips": "The most convenient option to reach Bern city is by car or taxi via the A6 motorway, which takes around 20 minutes. Public transport is also available via a bus shuttle or combination of bus and train, with connections from Belp station to Bern main station. Car rental agencies operate at the terminal for those exploring the Bernese Oberland region.",
+  "local_tip": "If you have a layover or free time, consider visiting the nearby medieval town of Laupen or driving 30 minutes to Thun for beautiful lakeside views—far less crowded than typical Swiss tourist routes.",
+  "generatedAt": "2026-06-29T18:28:19.203Z",
+  "model": "MiniMax-M3"
+}

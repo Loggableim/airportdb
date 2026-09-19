@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HIP",
+    "icao": "YHDY",
+    "name": "Headingly Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -21.3333,
+    "lon": 138.283,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Headingly Airport is a remote outback airfield serving the sparsely populated Gulf Country region of northwestern Queensland, Australia. The airport primarily supports cattle station operations, mining activities, and occasional fly-in fly-out workers in the surrounding pastoral districts. Its remote location near the edge of the Simpson Desert makes it a useful refueling and emergency diversion point for cross-country flights across central Australia.",
+  "faqs": "Q: What is Headingly Airport primarily used for?\nA: The airport serves the surrounding cattle stations, mining operations, and remote communities in Queensland's Gulf Country, with limited scheduled commercial service.\n\nQ: Are there regular passenger flights to Headingly?\nA: No scheduled commercial airline service operates to this small airfield. Access is typically via charter flights or private aviation.\n\nQ: What facilities are available at the airport?\nA: As a remote outback strip, facilities are minimal, generally consisting of a basic runway, possible fuel availability by prior arrangement, and no terminal buildings or passenger amenities.\n\nQ: What is the surrounding region like?\nA: The airport sits in an arid landscape of cattle country near the Northern Territory border, with the nearest services located many hours away by road.",
+  "transport_tips": "Ground transportation is not available at the airport, so visitors must arrange pickup in advance with their host station, mining camp, or charter operator. The nearest towns with road services are hundreds of kilometers away, typically reached via unsealed station tracks. Most travelers reach Headingly by charter aircraft from Cairns, Mount Isa, or Townsville.",
+  "local_tip": "Always carry extra water and fuel reserves when flying to or from Headingly, as the remote location means limited emergency services and long distances to alternative landing sites in case of unexpected delays.",
+  "generatedAt": "2026-06-27T11:06:57.083Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BWA",
+    "icao": "VNBW",
+    "name": "Gautam Buddha International Airport",
+    "country": "Nepal",
+    "city": "Siddharthanagar (Bhairahawa)",
+    "lat": 27.5046,
+    "lon": 83.4104,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Gautam Buddha International Airport (BWA/VNBW), formerly known as Bhairahawa Airport, serves Siddharthanagar in Nepal's Lumbini Province. The airport was upgraded to international status and renamed in honor of Lord Buddha, opening its international terminal in 2022. It serves as the primary gateway for travelers visiting the UNESCO World Heritage Site of Lumbini, the birthplace of Siddhartha Gautama.",
+  "faqs": "Q: What is the nearest major attraction to Gautam Buddha International Airport?\nA: Lumbini, the birthplace of Lord Buddha and a UNESCO World Heritage Site, is approximately 25 km west of the airport and is the primary destination served.\n\nQ: Does the airport offer international flights?\nA: Yes, the international terminal opened in 2022 and handles flights to several regional destinations including India, Malaysia, Thailand, and other Asian countries.\n\nQ: What is the airport's elevation and does it affect flights?\nA: The airport sits in Nepal's lowland Terai plains at a low elevation, making it less prone to weather-related disruptions common at higher-altitude Nepali airports like Kathmandu.\n\nQ: Are there facilities for Buddhist pilgrims?\nA: Yes, the airport features orientation signage and basic amenities catering to the significant number of Buddhist pilgrims who travel through to visit Lumbini.",
+  "transport_tips": "The airport is located about 3 km from the city center of Siddharthanagar (Bhairahawa), and taxis and three-wheelers are readily available outside the terminal. Travelers heading to Lumbini can hire a taxi for the roughly 30-minute drive or take a local bus from nearby Bhairahawa. The airport is also close to the Nepal-India border crossing at Sunauli, which is just a short drive away.",
+  "local_tip": "Bring small denominations of Nepalese rupees for taxis and local transport, as drivers often have limited change for larger bills, and most local services do not accept Indian currency despite the border's proximity.",
+  "generatedAt": "2026-06-29T01:20:24.073Z",
+  "model": "MiniMax-M3"
+}

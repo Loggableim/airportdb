@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MFR",
+    "icao": "KMFR",
+    "name": "Rogue Valley International-Medford Airport",
+    "country": "United States",
+    "city": "Medford",
+    "lat": 42.3742,
+    "lon": -122.873,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Rogue Valley International-Medford Airport (MFR) is a medium-sized public airport serving southern Oregon, including the cities of Medford, Ashland, and Grants Pass. It functions as the main gateway to the Rogue Valley region, offering convenient access to outdoor destinations like Crater Lake National Park, the Rogue River, and Southern Oregon's renowned wine country. The airport consistently ranks as the third-busiest in Oregon, providing nonstop service to several major West Coast hubs.",
+  "faqs": "Q: How far is the airport from downtown Medford?\nA: The airport is approximately 3 miles north of downtown Medford, a quick 10-minute drive.\n\nQ: Does the airport have nonstop international flights?\nA: No, despite its international designation, MFR offers primarily domestic nonstop flights, with most routes connecting to West Coast hubs like San Francisco, Los Angeles, Seattle, and Denver.\n\nQ: Are there car rental services available on-site?\nA: Yes, major rental car companies including Enterprise, Hertz, Avis, and Budget have counters inside the terminal.\n\nQ: How early should I arrive before my flight?\nA: Given the airport's modest size, arriving 90 minutes before departure is generally sufficient for domestic flights.",
+  "transport_tips": "Taxis, rideshares (Uber and Lyft), and rental cars are readily available at the terminal curb. The Rogue Valley Transit (RVTD) public bus system also serves the airport with Route 40, providing affordable access to Medford and nearby communities. Having a rental car is recommended for exploring the broader region, as many attractions are spread across the valley.",
+  "local_tip": "If you have a layover or extra time, the airport is just a short drive from Ashland's world-famous Oregon Shakespeare Festival and several tasting rooms in the Rogue Valley AVA—consider it a bonus stop on any visit to southern Oregon.",
+  "generatedAt": "2026-06-29T02:30:45.027Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HOR",
+    "icao": "LPHR",
+    "name": "Horta Airport",
+    "country": "Portugal",
+    "city": "Horta",
+    "lat": 38.5199,
+    "lon": -28.7159,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Horta Airport (HOR) serves the island of Faial in the Azores archipelago, a remote Portuguese island chain in the mid-Atlantic. It functions as a vital regional hub connecting Faial to mainland Portugal and other Azorean islands, while also historically serving as a waypoint for transatlantic flights. The airport offers passengers striking views of the volcanic landscape and, on clear days, glimpses of neighboring Pico Island and its iconic mountain.",
+  "faqs": "Q: Which airlines operate from Horta Airport?\nA: SATA Air Açores is the primary carrier, offering regular inter-island connections to Ponta Delgada, Terceira, and Lisbon.\n\nQ: How far is the airport from Horta city center?\nA: The airport is located approximately 10 km southwest of Horta, with a typical transfer time of around 15-20 minutes by car.\n\nQ: Can I see Mount Pico from the airport?\nA: Yes, on clear days, Portugal's highest peak on neighboring Pico Island is visible from the airport and much of Faial.\n\nQ: Does Horta Airport handle international flights?\nA: It primarily handles domestic and regional flights within Portugal, though seasonal or chartered international services may occasionally operate.",
+  "transport_tips": "Taxis are readily available outside the terminal and offer fixed or metered rates to Horta city. Rental cars are a popular choice for exploring Faial Island's volcanic landscapes, with several agencies operating at or near the airport. There is no direct public bus service, so pre-arranging transport or booking a rental is recommended.",
+  "local_tip": "Visit the nearby Horta Marina and the breakwater seawall, where transatlantic sailors have been leaving painted murals and messages of safe passage for nearly a century—it's one of the most unique maritime traditions in the world.",
+  "generatedAt": "2026-06-29T05:02:44.669Z",
+  "model": "MiniMax-M3"
+}

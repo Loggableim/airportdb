@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SAV",
+    "icao": "KSAV",
+    "name": "Savannah Hilton Head International Airport",
+    "country": "United States",
+    "city": "Savannah",
+    "lat": 32.1266,
+    "lon": -81.2,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Savannah Hilton Head International Airport (SAV) is a joint civil-military facility located about 8 miles west of downtown Savannah, Georgia, sharing its grounds with the Savannah Air National Guard Base. Renamed in 2003 to reflect its dual role serving both Savannah and the Hilton Head Island resort region, it functions as the primary gateway to the Georgia coast and Lowcountry. The airport features a single modern terminal and handles a mix of domestic leisure, business, and military traffic.",
+  "faqs": "Q: How far is SAV from downtown Savannah?\nA: The airport is approximately 8 miles west of Savannah's historic downtown district, typically a 15-20 minute drive depending on traffic.\n\nQ: Does Savannah Hilton Head International Airport have international flights?\nA: The airport primarily handles domestic flights, though it is designated as an international airport with customs capability for occasional charter or seasonal international service.\n\nQ: Is the airport shared with a military base?\nA: Yes, SAV is a joint-use facility co-located with the Savannah Air National Guard Base, which operates on the same airfield.\n\nQ: How many terminals does SAV have?\nA: The airport operates with a single terminal building that houses all airlines and concessions.",
+  "transport_tips": "Taxis, rideshares (Uber and Lyft), and rental cars are readily available at the terminal curb and are the most convenient options for reaching downtown Savannah or Hilton Head Island. The Savannah Area Regional Transportation (CAT) bus system also serves the airport with affordable routes into the city. If heading to Hilton Head, expect a roughly 45-60 minute drive southeast, so pre-booking a shuttle or rental car is advisable.",
+  "local_tip": "If you have time before your flight, the airport's observation areas and the short walk to the terminal's outdoor viewing spots let you watch both commercial jets and military aircraft from the adjacent Air National Guard base taking off on parallel runways.",
+  "generatedAt": "2026-06-28T16:15:54.823Z",
+  "model": "MiniMax-M3"
+}

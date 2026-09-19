@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NLU",
+    "icao": "MMSM",
+    "name": "Felipe Ángeles International Airport",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "lat": 19.7438,
+    "lon": -99.0151,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Felipe Ángeles International Airport (NLU) is a modern dual-use military and civilian airport that opened in 2022, built on the site of the historic Santa Lucía Air Force Base in Zumpango, State of Mexico. It is named after General Felipe Ángeles, a notable figure of the Mexican Revolution, and was designed to relieve congestion at Mexico City's main Benito Juárez International Airport. Located roughly 40–50 km north of central Mexico City, it serves as an important new gateway for both domestic and international travelers.",
+  "faqs": "Q: How far is Felipe Ángeles Airport from central Mexico City?\nA: The airport is approximately 45 km (28 miles) north of central Mexico City, in the municipality of Zumpango, State of Mexico.\n\nQ: What transportation options connect NLU to Mexico City?\nA: Travelers can use the Suburban Train (Tren Suburbano) extension that links directly to the airport, ride-hailing services, taxis, or the dedicated highway connections built to serve the facility.\n\nQ: Is Felipe Ángeles a military or civilian airport?\nA: It operates as a joint-use airport, sharing facilities with the Mexican Air Force while accommodating scheduled commercial passenger flights.\n\nQ: Why was the airport built?\nA: It was constructed to reduce congestion at the overcrowded Benito Juárez International Airport and to provide expanded capacity for the Mexico City metropolitan area.",
+  "transport_tips": "Allow extra travel time as the airport is located outside Mexico City proper in Zumpango, with journeys typically taking 60–90 minutes depending on traffic. The Suburban Train offers a reliable, traffic-free connection to the Buenavista station in central Mexico City. Ride-hailing apps are available but confirm your pickup zone in advance.",
+  "local_tip": "For a smoother experience, arrive with your transportation plan finalized—on-site taxi services can be pricier than app-based rides booked in advance, and cell service can be spotty in some terminal areas before security.",
+  "generatedAt": "2026-06-28T22:28:33.166Z",
+  "model": "MiniMax-M3"
+}

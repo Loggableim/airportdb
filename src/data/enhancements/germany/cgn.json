@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CGN",
+    "icao": "EDDK",
+    "name": "Cologne Bonn Airport",
+    "country": "Germany",
+    "city": "Köln (Cologne)",
+    "lat": 50.8659,
+    "lon": 7.1427,
+    "type": "large_airport",
+    "size": 51475
+  },
+  "summary": "Cologne Bonn Airport (CGN) is a major international airport serving the Rhineland region of western Germany, located approximately 15 km southeast of Cologne city center and roughly 16 km northwest of Bonn. Originally developed as a military airfield, it transitioned to civilian use and has grown into a key hub for low-cost carrier Eurowings and a significant cargo operation, notably for UPS Airlines. The airport is unusual in Germany for retaining night-flight privileges, making it one of the few 24-hour operational airports in the country.",
+  "faqs": "Q: How far is Cologne Bonn Airport from Cologne city center?\nA: The airport is approximately 15 km southeast of central Cologne, reachable in about 15-20 minutes by car or train.\n\nQ: Does the airport have a train station?\nA: Yes, the Cologne/Bonn Airport railway station is directly connected to Terminal 1 and offers S-Bahn and regional ICE services to Cologne, Bonn, and other destinations.\n\nQ: Which airlines operate from Cologne Bonn?\nA: Eurowings has its main hub here, alongside Lufthansa, Ryanair, easyJet, and several other carriers serving European and intercontinental routes.\n\nQ: Is Cologne Bonn Airport open at night?\nA: Yes, it is one of the few German airports with 24-hour operating permissions, which is why it attracts cargo and late-night flights.\n\n",
+  "transport_tips": "The airport's integrated S-Bahn station connects to Cologne Hauptbahnhof in roughly 15 minutes via the S13 or S19 line, making rail the fastest and most affordable option. Taxis to Cologne city center typically cost around €35-45 and take 20-25 minutes depending on traffic. Long-distance bus services also link the airport to several German cities, providing budget-friendly alternatives.",
+  "local_tip": "If you have a layover or a few hours to spare, take the S-Bahn to Cologne Cathedral (Kölner Dom) — it's only 15 minutes away and the UNESCO-listed Gothic masterpiece is visible right from the train on approach to the Hauptbahnhof, offering a memorable welcome or farewell to the city.",
+  "generatedAt": "2026-06-28T15:40:34.813Z",
+  "model": "MiniMax-M3"
+}

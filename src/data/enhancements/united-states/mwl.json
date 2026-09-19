@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MWL",
+    "icao": "KMWL",
+    "name": "Mineral Wells Regional Airport",
+    "country": "United States",
+    "city": "Mineral Wells",
+    "lat": 32.7816,
+    "lon": -98.0602,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Mineral Wells Regional Airport (MWL/KMWL) is a publicly owned general aviation facility serving Mineral Wells, Texas, located approximately 5 miles north of the city center. The region is historically notable for its mineral-rich water wells, which fueled a thriving health resort industry in the late 19th and early 20th centuries. The airport primarily supports private, corporate, and flight training operations rather than scheduled commercial service.",
+  "faqs": "Q: Does Mineral Wells Regional Airport offer commercial airline service?\nA: No, MWL is a general aviation airport and does not have scheduled commercial passenger flights. Travelers typically reach the area via larger airports in the Dallas-Fort Worth metroplex.\n\nQ: How many runways does MWL have?\nA: The airport features multiple runways, including its primary runway suitable for a range of piston and light turbine aircraft.\n\nQ: Are fuel and aircraft services available at the airport?\nA: Yes, fixed-base operator (FBO) services are available on-site, including fuel, hangar space, and basic aircraft maintenance.\n\nQ: Is the airport used for flight training?\nA: Yes, the airport is commonly used for flight training, aircraft rental, and skydiving operations due to its relatively low traffic and favorable Texas weather.",
+  "transport_tips": "Ground transportation at MWL is limited, so arranging a rental car in advance is highly recommended for visitors. The airport is conveniently accessed via US Highway 281 and lies a short drive from Mineral Wells' downtown district. Rideshare services may be unreliable in this area, so having your own vehicle or pre-arranged pickup is advisable.",
+  "local_tip": "While in Mineral Wells, sample the city's famous Crazy Water at the historic Crazy Water Hotel, which still operates as a museum and hotel downtown; this mineral water sparked the town's original boom as a health destination.",
+  "generatedAt": "2026-06-29T19:04:02.915Z",
+  "model": "MiniMax-M3"
+}

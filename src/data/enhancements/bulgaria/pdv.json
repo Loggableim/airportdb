@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PDV",
+    "icao": "LBPD",
+    "name": "Plovdiv International Airport",
+    "country": "Bulgaria",
+    "city": "Plovdiv",
+    "lat": 42.0678,
+    "lon": 24.8508,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Plovdiv International Airport (PDV) is the second-largest airport in Bulgaria, serving the historic city of Plovdiv and the wider central-southern region of the country. Located approximately 10 km southeast of the city center, it functions primarily as a hub for seasonal charter flights, low-cost carriers, and cargo operations. The airport complements Sofia Airport and provides convenient access to popular Bulgarian ski resorts like Pamporovo and Bansko, as well as the cultural attractions of Plovdiv, one of Europe's oldest continuously inhabited cities.",
+  "faqs": "Q: How far is Plovdiv International Airport from the city center?\nA: The airport is located about 10-12 km southeast of Plovdiv's city center, with a typical transfer time of 15-20 minutes by car.\n\nQ: Which airlines operate from Plovdiv Airport?\nA: The airport is served mainly by low-cost and charter carriers, including Ryanair, Wizz Air, and seasonal operators flying routes to destinations across Europe.\n\nQ: Does the airport have customs and immigration facilities?\nA: Yes, the airport has full customs and immigration services as it handles international flights and is part of Bulgaria's Schengen Area membership.\n\nQ: Can I reach ski resorts from Plovdiv Airport?\nA: Yes, the airport serves as a gateway to major Bulgarian ski resorts, with Pamporovo roughly 80 km south and Bansko approximately 150 km southwest, both reachable by pre-booked transfers or rental car.",
+  "transport_tips": "Taxis from Plovdiv Airport to the city center cost approximately 15-20 BGN and take around 15 minutes. Pre-booked private transfers offer fixed rates and are recommended during winter ski season when demand is higher. Public bus service connects the airport with Plovdiv's central bus station, though schedules are limited and may not align with late arrivals.",
+  "local_tip": "If you have a long layover or early flight, Plovdiv's Old Town is just a short taxi ride away and features well-preserved Roman ruins, including a Roman amphitheater that is one of the world's best-preserved ancient theaters still in use today.",
+  "generatedAt": "2026-06-28T23:36:37.119Z",
+  "model": "MiniMax-M3"
+}

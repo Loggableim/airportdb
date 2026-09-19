@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VCS",
+    "icao": "VVCS",
+    "name": "Con Dao Airport",
+    "country": "Vietnam",
+    "city": "Con Dao",
+    "lat": 8.7318,
+    "lon": 106.633,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Con Dao Airport (VCS) is the sole air gateway to the Con Dao archipelago, a remote cluster of islands off Vietnam's southeastern coast. The airport plays a vital role in connecting the islands—historically known as a colonial-era prison site—to mainland cities like Ho Chi Minh City and Hanoi. Surrounded by Con Dao National Park, the facility is a key entry point for visitors drawn to the islands' pristine beaches, coral reefs, and dark historical heritage.",
+  "faqs": "Q: Which airlines operate flights to Con Dao Airport?\nA: Vietnam Airlines and Bamboo Airways offer the most frequent service, with direct flights from Ho Chi Minh City and Hanoi operated by VASCO (Vietnam Air Services Company).\n\nQ: How far is the airport from Con Son town?\nA: The airport is located just a few kilometers from the main town of Con Son, with the drive typically taking around 10–15 minutes.\n\nQ: Does Con Dao Airport handle international flights?\nA: No, the airport primarily handles domestic flights. International travelers must connect through Ho Chi Minh City (Tan Son Nhat) or Hanoi (Noi Bai).\n\nQ: Are there ATMs and currency exchange at the airport?\nA: The terminal has limited facilities; travelers are advised to withdraw Vietnamese dong on the mainland before arriving, as options on the islands are sparse.",
+  "transport_tips": "Taxis and pre-booked hotel shuttles are the main ways to reach Con Son town from the airport, as public transport options are minimal. Motorbike rentals can also be arranged at or near the airport for travelers wanting flexibility to explore the island. Booking transport in advance is recommended during peak tourist seasons.",
+  "local_tip": "Flights to Con Dao are frequently delayed or rescheduled due to seasonal weather changes, especially during the monsoon period (June–September). Build a buffer",
+  "generatedAt": "2026-06-29T10:27:41.622Z",
+  "model": "MiniMax-M3"
+}

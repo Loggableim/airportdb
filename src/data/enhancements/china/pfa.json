@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PFA",
+    "icao": "",
+    "name": "Harbin Pingfang Airport",
+    "country": "China",
+    "city": "Harbin",
+    "lat": 45.5989,
+    "lon": 126.6581,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Harbin Pingfang Airport is a small regional airport located in the Pingfang District of Harbin, the capital of Heilongjiang Province in northeastern China. It serves as a secondary facility complementing the larger Harbin Taiping International Airport and primarily handles general aviation and limited regional flights. The airport's location offers convenient access to Harbin's industrial and research zones in the city's outskirts.",
+  "faqs": "Q: How far is Harbin Pingfang Airport from the city center?\nA: The airport is located in the Pingfang District, approximately 25-30 km southeast of central Harbin, with typical transfer times of 40-60 minutes depending on traffic.\n\nQ: Does Harbin Pingfang Airport handle international flights?\nA: No, this is a small domestic facility. International and most major domestic flights operate through Harbin Taiping International Airport (HRB).\n\nQ: What facilities are available at the airport?\nA: As a small airport, it offers basic services including a small terminal building, limited parking, and minimal concessions. Travelers should plan accordingly.\n\nQ: Is the airport operational year-round despite Harbin's harsh winters?\nA: Yes, the airport operates throughout the year, though winter weather conditions can occasionally cause delays, as is common across airports in Heilongjiang Province.",
+  "transport_tips": "Taxis are the most reliable option for reaching central Harbin, with metered fares available outside the terminal. Ride-hailing apps like DiDi also serve the area, though availability may be limited at this smaller airport. Travelers arriving during peak winter conditions should allow extra time, as snow can slow ground transport.",
+  "local_tip": "If you're visiting during winter, ask ground staff about road conditions before heading out—Harbin's extreme cold can affect vehicle performance, and locals often recommend letting taxis warm up their engines before longer trips into the city.",
+  "generatedAt": "2026-06-27T22:53:18.010Z",
+  "model": "MiniMax-M3"
+}

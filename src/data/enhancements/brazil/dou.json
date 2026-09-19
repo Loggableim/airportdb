@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DOU",
+    "icao": "",
+    "name": "Dourados Airport",
+    "country": "Brazil",
+    "city": "Dourados",
+    "lat": -22.2019,
+    "lon": -54.9266,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Dourados Airport (DOU) is a small regional airport serving Dourados, the second-largest city in the Brazilian state of Mato Grosso do Sul. Located in the southern interior of the state, it primarily supports general aviation and limited commercial flights connecting the agricultural hub to major Brazilian cities. The airport plays a key role in serving the surrounding agribusiness region, one of Brazil's most productive areas for soybean and corn cultivation.",
+  "faqs": "Q: What is Dourados Airport primarily used for?\nA: The airport primarily serves general aviation and limited regional commercial flights, supporting the agribusiness sector of southern Mato Grosso do Sul.\n\nQ: Does Dourados Airport handle international flights?\nA: No, it is a domestic regional airport without international operations.\n\nQ: Are there regular commercial flights from Dourados?\nA: Commercial service may be limited or seasonal; travelers should check current schedules with airlines operating in the region.\n\nQ: How far is the airport from Dourados city center?\nA: The airport is located a short drive from the city center, typically within 10-15 minutes by car.",
+  "transport_tips": "Taxis and rideshare services are the most reliable way to reach the airport from Dourados city center. Rental cars are available in the city and recommended for those planning to explore the broader Mato Grosso do Sul region. There is no rail or metro service connecting to the airport.",
+  "local_tip": "If you're visiting during harvest season (typically February through June), book your transport well in advance as the agribusiness activity significantly increases demand for flights and ground transportation in the region.",
+  "generatedAt": "2026-06-26T19:42:09.777Z",
+  "model": "MiniMax-M3"
+}

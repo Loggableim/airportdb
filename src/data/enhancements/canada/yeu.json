@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YEU",
+    "icao": "CYEU",
+    "name": "Eureka Airport",
+    "country": "Canada",
+    "city": "Eureka",
+    "lat": 79.9947,
+    "lon": -85.8142,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Eureka Airport (YEU/CYEU) is a small remote airport on Elles Ellesmere Island in Nunavut, Canada, serving the Arctic settlement of Eureka and its weather research station. Situated near 80°N latitude, it is one of the northernmost airports in the world, operating in a High Arctic polar desert environment. The facility primarily supports scientific personnel, weather observation staff, and occasional supply missions rather than commercial passengers.",
+  "faqs": "Q: What is Eureka Airport primarily used for?\nA: It serves the Eureka weather station operated by Environment and Climate Change Canada, one of the longest-running high Arctic weather observation sites, along with limited scientific research missions.\n\nQ: Are there scheduled passenger flights to Eureka Airport?\nA: No regular commercial service exists. Access is typically via charter or government-operated flights, often routing through Resolute Bay or other Nunavut hubs.\n\nQ: What is the operating season for the airport?\nA: Due to extreme polar conditions and 24-hour darkness in winter, flights are generally weather-dependent and often concentrated during the warmer months, though winter operations do occur when conditions allow.\n\nQ: What are the runway conditions like?\nA: The airport has a gravel runway that requires specialized cold-weather operations, and flights can be delayed by severe weather, wind, and polar conditions common to the region.\n\n",
+  "transport_tips": "There are no roads connecting Eureka to other communities; all access is by air. Travelers typically arrange flights through Canadian North or charter operators out of Resolute Bay, often as part of multi-leg trips to other High Arctic stations. Passengers should be prepared for last-minute schedule changes due to rapidly shifting Arctic weather.",
+  "local_tip": "If visiting for research or station rotation, pack layered cold-weather gear even in summer—temperatures can still hover near freezing, and the open tundra offers no shelter from biting winds off the Arctic Ocean.",
+  "generatedAt": "2026-06-27T05:22:15.482Z",
+  "model": "MiniMax-M3"
+}

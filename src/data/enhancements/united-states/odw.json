@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ODW",
+    "icao": "KOKH",
+    "name": "AJ Eisenberg Airport",
+    "country": "United States",
+    "city": "Oak Harbor",
+    "lat": 48.2515,
+    "lon": -122.674,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "AJ Eisenberg Airport is a small general aviation airport located on Whidbey Island in Oak Harbor, Washington, serving the local community and nearby Naval Air Station Whidbey Island. It operates as a public-use facility supporting recreational flying, flight training, and private aviation. The airport provides a convenient alternative to larger regional hubs for pilots and visitors traveling to the northern Puget Sound region.",
+  "faqs": "Q: What is AJ Eisenberg Airport primarily used for?\nA: The airport serves general aviation, including private aircraft, flight training, and recreational flying, rather than commercial passenger service.\n\nQ: How far is AJ Eisenberg Airport from Seattle?\nA: The airport is approximately 60 miles north of Seattle, accessible via I-5 and the Deception Pass Bridge connecting the mainland to Whidbey Island.\n\nQ: Does the airport have an on-site restaurant or amenities?\nA: As a small general aviation facility, amenities are limited, but the airport typically offers basic services such as fuel, parking, and pilot facilities.\n\nQ: Can I fly commercially into Oak Harbor?\nA: No scheduled commercial service operates at AJ Eisenberg Airport; travelers typically use Seattle-Tacoma International Airport or Paine Field for commercial flights.",
+  "transport_tips": "Driving to the airport from the mainland requires crossing the Deception Pass Bridge, which connects Fidalgo Island to Whidbey Island. From Seattle, allow approximately 1.5 to 2 hours depending on traffic and ferry or bridge conditions. Taxi and rideshare services are limited on the island, so renting a car is recommended for flexibility.",
+  "local_tip": "If visiting during summer, plan extra time for travel across Deception Pass Bridge as it can become congested with tourists heading to the state park, which features some of the most scenic views in the Pacific Northwest.",
+  "generatedAt": "2026-06-27T03:36:54.553Z",
+  "model": "MiniMax-M3"
+}

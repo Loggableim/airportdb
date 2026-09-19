@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FRK",
+    "icao": "FSSF",
+    "name": "Frégate Island Airport (UNUSABLE)",
+    "country": "Seychelles",
+    "city": "Frégate Island",
+    "lat": -4.5828,
+    "lon": 55.9449,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Frégate Island Airport is a small private airstrip on Frégate Island, one of the Seychelles' most exclusive private island resorts, currently marked as unusable for regular aviation operations. The island is renowned for its luxury eco-resort and conservation programs that protect endemic species such as the Seychelles magpie-robin and giant Aldabra tortoises. Its restricted status reflects the highly exclusive, low-impact nature of the destination.",
+  "faqs": "Q: Is Frégate Island Airport open to commercial flights?\nA: No, the airport is currently marked as unusable for regular aviation operations, consistent with the island's status as a private luxury resort.\n\nQ: How do visitors reach Frégate Island?\nA: Guests typically arrive",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-27T12:33:12.814Z",
+  "model": "MiniMax-M3"
+}

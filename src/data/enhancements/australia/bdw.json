@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BDW",
+    "icao": "YBDF",
+    "name": "Bedford Downs Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -17.2867,
+    "lon": 127.463,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Bedford Downs Airport (BDW/YBDF) is a small remote airstrip serving Bedford Downs Station, a large cattle pastoral operation in the Kimberley region of Western Australia. Situated in one of Australia's most sparsely populated and rugged landscapes, the airport primarily supports station activities, including fly-in fly-out workers, cattle mustering operations, and limited charter flights. The facility is essential for connecting this isolated area to larger regional hubs in the Kimberley.",
+  "faqs": "Q: What is Bedford Downs Airport used for?\nA: The airport primarily serves Bedford Downs Station, supporting cattle station operations, personnel transport, and occasional charter flights in the Kimberley region.\n\nQ: Are there commercial flights to Bedford Downs?\nA: No scheduled commercial services operate to BDW; access is typically via private or chartered aircraft arranged through regional Kimberley aviation operators.\n\nQ: Where exactly is the airport located?\nA: Bedford Downs Airport is situated in the East Kimberley region of Western Australia, approximately 17 degrees south of the equator, in a remote cattle country area.\n\nQ: What facilities are available at the airport?\nA: As a remote station airstrip, facilities are minimal, typically consisting of a basic runway, limited shelter, and no terminal buildings or regular amenities.\n\n",
+  "transport_tips": "Access to Bedford Downs Airport is almost exclusively by air, with charter flights typically departing from Kununurra or Broome, the nearest major regional centers. Ground transport options are limited to station vehicles or 4WD arrangements, as the surrounding road network consists largely of unsealed station tracks. Travelers should coordinate transport well in advance with the station management or their charter operator.",
+  "local_tip": "Visitors planning a trip should be aware that the Kimberley wet season (roughly November to April) can make the dirt airstrip unusable and ground roads impassable, so scheduling visits during the dry season (May to October) is strongly recommended.",
+  "generatedAt": "2026-06-27T11:09:41.441Z",
+  "model": "MiniMax-M3"
+}

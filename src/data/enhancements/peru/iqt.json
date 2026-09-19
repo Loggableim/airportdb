@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IQT",
+    "icao": "SPQT",
+    "name": "Coronel FAP Francisco Secada Vignetta International Airport",
+    "country": "Peru",
+    "city": "Iquitos",
+    "lat": -3.7847,
+    "lon": -73.3088,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Coronel FAP Francisco Secada Vignetta International Airport (IQT) is the principal air gateway to the Peruvian Amazon, serving Iquitos, the world's largest city unreachable by road. Named after a Peruvian Air Force colonel and aviation pioneer, the airport handles domestic flights connecting this remote jungle metropolis to Lima and other regional destinations. It serves as the main entry point for tourists exploring the Amazon rainforest, Pacaya-Samiria National Reserve, and indigenous communities along the Amazon River.",
+  "faqs": "Q: Which airlines operate at IQT?\nA: The airport is primarily served by LATAM Airlines and Viva Air (or its successor), offering regular flights to Lima. Some smaller regional carriers may also operate charter or seasonal routes.\n\nQ: How far is the airport from downtown Iquitos?\nA: The airport is located approximately 7-8 kilometers from the city center, typically a 15-20 minute drive depending on river crossing conditions and traffic.\n\nQ: Can I reach Iquitos by land?\nA: No. Iquitos is famously the largest city in the world with no road access. Travelers must arrive by air or by river boat along the Amazon or its tributaries.\n\nQ: Are there direct international flights to IQT?\nA: No, all international connections require a transit through Lima's Jorge Chávez International Airport.",
+  "transport_tips": "Official airport taxis are available outside the terminal and offer fixed rates to most hotels in Iquitos. Mototaxis (motorcycle rickshaws), a signature mode of transport in Iquitos, can also be arranged for short trips but may not accommodate large luggage. Confirm the fare before departure, as prices are typically negotiated rather than metered.",
+  "local_tip": "Bring a lightweight rain jacket",
+  "generatedAt": "2026-06-28T21:19:22.194Z",
+  "model": "MiniMax-M3"
+}

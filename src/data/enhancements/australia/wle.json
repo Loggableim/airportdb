@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WLE",
+    "icao": "YMLS",
+    "name": "Miles Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -26.8064,
+    "lon": 150.169,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Miles Airport (WLE/YMLS) is a small regional airport serving the town of Miles in the Western Downs region of southeastern Queensland, Australia. It primarily supports general aviation, agricultural operations, and charter flights in an area known for grain production and cattle grazing. The facility provides essential air access for the surrounding rural community and visiting business travelers connected to the region's agricultural industries.",
+  "faqs": "Q: Where is Miles Airport located?\nA: Miles Airport is located approximately 5 km south of the town of Miles in the Western Downs region of Queensland, Australia, near the Warrego Highway.\n\nQ: Does Miles Airport have commercial airline service?\nA: No, Miles Airport does not currently have scheduled commercial airline service. It operates primarily for general aviation, private aircraft, and charter flights.\n\nQ: What facilities are available at Miles Airport?\nA: The airport features a sealed runway suitable for light to medium aircraft, basic parking areas, and minimal terminal facilities typical of a small rural Australian airport.\n\nQ: Can I fly to Miles from Brisbane?\nA: Commercial flights are not available, but charter services can be arranged from Brisbane or other Queensland centers for groups or business travelers needing direct access to the region.",
+  "transport_tips": "The most practical way to reach Miles Airport is by road via the Warrego Highway, which connects Miles to Brisbane approximately 350 km to the east. Car rentals or pre-arranged transfers from Miles town center are common options, as public transport to the airport is limited. Taxi services and local accommodation shuttles can often be booked in advance through hotels in town.",
+  "local_tip": "If visiting during planting or harvest season, expect increased agricultural aircraft activity and book any charter well in advance, as local pilots and ground crews are often busy supporting regional farming operations.",
+  "generatedAt": "2026-06-27T07:37:49.697Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PTW",
+    "icao": "KPTW",
+    "name": "Heritage Field",
+    "country": "United States",
+    "city": "Pottstown",
+    "lat": 40.2396,
+    "lon": -75.5567,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Heritage Field (PTW) is a general aviation airport serving Pottstown, Pennsylvania, located in Montgomery County about 40 miles northwest of Philadelphia. Originally established as Pottstown Municipal Airport, it was renamed Heritage Field to reflect the region's aviation heritage and local historical significance. The airport primarily serves private pilots, flight training, and corporate aviation, featuring a single main runway and FBO services for the greater Philadelphia suburbs.",
+  "faqs": "Q: What is Heritage Field primarily used for?\nA: Heritage Field is a general aviation airport serving private pilots, flight training schools, recreational flying, and corporate aircraft. It does not have scheduled commercial airline service.\n\nQ: How far is Heritage Field from Philadelphia?\nA: The airport is approximately 40 miles northwest of Philadelphia, making it a convenient option for general aviation users in the western Philadelphia suburbs and surrounding areas.\n\nQ: Does Heritage Field have an FBO?\nA: Yes, the airport has fixed-base operator services providing fuel, aircraft parking, hangar rentals, and basic amenities for pilots and passengers.\n\nQ: Are there flight training schools at PTW?\nA: Yes, flight training is available at Heritage Field through local flight schools offering lessons for private pilot certificates and other ratings.\n\n",
+  "transport_tips": "The airport is best reached by personal vehicle, as there is no public transit directly serving the airfield. It is located near PA Route 100 and US Route 422, providing easy road access from Pottstown and surrounding communities. Rental cars or rideshare services from the Philadelphia metro area are common options for those without their own transportation.",
+  "local_tip": "If you're visiting the area, take a short drive into downtown Pottstown to explore the historic Pottsgrove Manor and enjoy the Schuylkill River Trail, which passes near the airport and is popular with local pilots for spotting aircraft on approach.",
+  "generatedAt": "2026-06-27T01:14:02.296Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AJA",
+    "icao": "LFKJ",
+    "name": "Ajaccio Napoléon Bonaparte airport",
+    "country": "France",
+    "city": "Ajaccio",
+    "lat": 41.9236,
+    "lon": 8.8029,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ajaccio Napoléon Bonaparte Airport (AJA/LFKJ) is the primary gateway to Corsica's capital city and the birthplace of Napoleon Bonaparte. Located on the western coast of the island approximately 5 km east of Ajaccio's city center, it serves as the main air link between Corsica and mainland France. The airport handles both year-round domestic flights and seasonal European routes, making it a key entry point for tourists visiting the island's stunning beaches and mountainous interior.",
+  "faqs": "Q: How far is the airport from Ajaccio city center?\nA: The airport is located approximately 5 km (3 miles) east of downtown Ajaccio, with a typical journey time of 15-20 minutes by car or taxi.\n\nQ: Which airlines operate from Ajaccio Airport?\nA: The airport is primarily served by Air France, Air Corsica, and easyJet, with most flights connecting to Paris, Marseille, Nice, and other French cities. Seasonal routes include destinations in Italy and other European cities.\n\nQ: Does the airport have international flights?\nA: Yes, the airport offers seasonal international flights to European destinations, but the majority of traffic is domestic, connecting Corsica to mainland France.\n\nQ: Is the airport busy year-round?\nA: The airport experiences significant seasonal variation, with peak traffic during summer months (June-September) when tourism is highest, and reduced schedules during winter.\n\n",
+  "transport_tips": "Taxis are readily available outside the terminal and provide the most convenient transfer to Ajaccio city center, typically costing around 15-20 euros. Bus services operated by the regional transport network connect the airport to the city and other Corsican destinations at budget-friendly prices. Rental cars are available at the terminal and recommended for exploring Corsica's more remote areas and beaches.",
+  "local_tip": "If visiting during summer, book flights and accommodation well in advance as the airport gets extremely busy with French and Italian tourists, and early morning or late evening flights often have better availability and prices.",
+  "generatedAt": "2026-06-29T04:43:17.497Z",
+  "model": "MiniMax-M3"
+}

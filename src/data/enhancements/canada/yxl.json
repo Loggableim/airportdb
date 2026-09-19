@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YXL",
+    "icao": "CYXL",
+    "name": "Sioux Lookout Airport",
+    "country": "Canada",
+    "city": "Sioux Lookout",
+    "lat": 50.1139,
+    "lon": -91.9053,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sioux Lookout Airport (YXL) is a vital regional hub in northwestern Ontario, serving as the primary gateway to dozens of remote First Nations communities across the Canadian Shield. The airport handles substantial passenger traffic through bush plane operations and medevac flights, making it one of the busiest northern aviation gateways in Canada. Its location amid vast boreal forest and lake country makes it a critical link for residents, medical services, and supplies reaching isolated communities.",
+  "faqs": "Q: What is Sioux Lookout Airport primarily used for?\nA: It serves as a major hub connecting remote northern Ontario communities, with heavy passenger, cargo, and medevac flight activity.\n\nQ: Are there scheduled flights from Sioux Lookout Airport?\nA: Yes, regional carriers operate scheduled routes to Thunder Bay, Winnipeg, and other northern destinations, along with charter services.\n\nQ: What services are available at the airport?\nA: The terminal offers basic passenger amenities, car rental, and parking. It's designed for northern bush plane operations rather than commercial jet service.\n\nQ: Is the airport open year-round?\nA: Yes, it operates 24/7 with de-icing and snow clearing capabilities to handle harsh winter conditions common to northwestern Ontario.",
+  "transport_tips": "The airport is just a few minutes' drive east of downtown Sioux Lookout, making taxi or pre-arranged shuttle the most convenient options. Rental cars are available but should be booked ahead, especially in winter when road conditions can be challenging. Limited public transit serves the area, so arranging ground transport in advance is recommended.",
+  "local_tip": "If you're flying out to a remote community, arrive early—baggage handling for charter flights can be slower than commercial operations, and weather delays to northern destinations are common even on clear days at YXL.",
+  "generatedAt": "2026-06-29T07:02:40.549Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YLG",
+    "icao": "YYAL",
+    "name": "Yalgoo Airport",
+    "country": "Australia",
+    "city": "Yalgoo",
+    "lat": -28.3553,
+    "lon": 116.684,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Yalgoo Airport is a small regional airport serving the remote mining town of Yalgoo in the Mid West region of Western Australia. It primarily supports general aviation and charter flights, often linked to the region's gold mining activities. The airport provides essential connectivity to this isolated outback community, roughly 450 km northeast of Perth.",
+  "faqs": "Q: What is the airport code for Yalgoo Airport?\nA: Yalgoo Airport's IATA code is YLG and its ICAO code is YYAL.\n\nQ: Are there commercial flights to Yalgoo Airport?\nA: No scheduled commercial services operate to Yalgoo. The airport primarily handles charter, private, and mining-related flights.\n\nQ: What facilities are available at Yalgoo Airport?\nA: As a small outback airport, facilities are limited. There is a basic runway suitable for light aircraft, with minimal passenger amenities.\n\nQ: What is Yalgoo known for?\nA: Yalgoo is known for its gold mining heritage and as a gateway to exploring nearby granite outcrops and wildflower displays in spring.",
+  "transport_tips": "The airport is located just outside the small town of Yalgoo, making it a short drive from the town centre. There is no public transport; visitors typically rely on private vehicles or pre-arranged transfers from charter operators. The nearest major airport with scheduled services is Perth Airport, approximately 6-7 hours' drive south.",
+  "local_tip": "If visiting in late winter or early spring, plan time to explore the surrounding bushland, which bursts into spectacular wildflower displays, including unique local orchid species found only in the Mid West region.",
+  "generatedAt": "2026-06-28T10:34:24.538Z",
+  "model": "MiniMax-M3"
+}

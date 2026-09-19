@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CDS",
+    "icao": "KCDS",
+    "name": "Childress Municipal Airport",
+    "country": "United States",
+    "city": "Childress",
+    "lat": 34.4338,
+    "lon": -100.288,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Childress Municipal Airport serves the city of Childress in the north Texas Panhandle, providing general aviation access to this rural region near the Oklahoma border. The facility supports private aircraft, agricultural operations, and occasional military training flights due to its open airspace in the Texas Plains.",
+  "faqs": "Q: Where is Childress Municipal Airport located?\nA: The airport is located approximately 4 miles north of downtown Childress, Texas, in Childress County near the Oklahoma state line.\n\nQ: Does the airport offer commercial airline service?\nA: No, Childress Municipal Airport is a general aviation facility with no scheduled commercial airline service.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, tie-downs, hangars, and fueling services for general aviation aircraft, along with pilot amenities.\n\nQ: Can pilots stop at Childress for fuel and rest?\nA: Yes, the airport is a common stopover for cross-country pilots flying through the Texas Panhandle due to its central location between major Texas cities.",
+  "transport_tips": "Reaching the airport requires a personal vehicle, as there is no public transit or shuttle service available. Rental cars can be arranged in nearby cities, though advance planning is recommended. The airport is a short drive north from downtown Childress via local roads.",
+  "local_tip": "Pilots should be aware that Childress often experiences strong crosswinds, so checking current wind conditions before landing is advisable, especially during spring storm season.",
+  "generatedAt": "2026-06-26T08:14:50.409Z",
+  "model": "MiniMax-M3"
+}

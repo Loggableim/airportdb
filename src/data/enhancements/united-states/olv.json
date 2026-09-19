@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OLV",
+    "icao": "KOLV",
+    "name": "Olive Branch Airport",
+    "country": "United States",
+    "city": "Olive Branch",
+    "lat": 34.9787,
+    "lon": -89.7869,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Olive Branch Airport is a small general aviation facility serving Olive Branch, Mississippi, a growing suburb in the Memphis metropolitan area. The airport primarily accommodates private aircraft, flight training, and corporate operations, providing a convenient alternative to the larger Memphis International Airport for pilots in DeSoto County. Its location in the Mid-South makes it a useful stopover for cross-country flights along the eastern half of the United States.",
+  "faqs": "Q: What type of airport is Olive Branch Airport?\nA: It is a small general aviation airport that primarily serves private pilots, flight training operations, and corporate aircraft, with no scheduled commercial airline service.\n\nQ: Where is Olive Branch Airport located?\nA: The airport is situated in Olive Branch, Mississippi, in DeSoto County, about 20 miles southeast of downtown Memphis, Tennessee.\n\nQ: Is there commercial airline service at OLV?\nA: No, Olive Branch Airport does not offer commercial passenger flights. Travelers needing commercial service typically use Memphis International Airport, located approximately 20 miles northwest.\n\nQ: Does the airport offer fuel and maintenance services?\nA: Yes, the airport generally provides aviation fuel and basic aircraft maintenance services typical of a general aviation facility, though pilots should confirm availability and hours directly with the airport before arrival.",
+  "transport_tips": "The airport is easily accessible by car via U.S. Route 78 and Goodman Road, with a short drive from the Memphis metropolitan area. Rental cars are the most practical option for ground transportation, as there is no public transit directly serving the facility. Visitors flying in via general aviation can arrange pickup or rideshare services in advance, as taxi availability can be limited at smaller airports.",
+  "local_tip": "If you're flying into Olive Branch for a visit to the Memphis area, consider timing your trip around lunch or dinner at one of the well-regarded restaurants in historic Olive Branch town center, which offers a more relaxed alternative to dining across the state line in Tennessee.",
+  "generatedAt": "2026-06-27T00:55:01.726Z",
+  "model": "MiniMax-M3"
+}

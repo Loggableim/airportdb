@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RCH",
+    "icao": "SKRH",
+    "name": "Almirante Padilla Airport",
+    "country": "Colombia",
+    "city": "Riohacha",
+    "lat": 11.5262,
+    "lon": -72.926,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Almirante Padilla Airport serves Riohacha, the capital of Colombia's La Guajira department on the Caribbean coast. Named after Admiral José Prudencio Padilla, a hero of Colombia's independence navy, it functions as the primary air gateway to the La Guajira Peninsula, a region known for its desert landscapes, Wayuu culture, and pristine beaches. The airport handles mostly domestic flights connecting the region with Bogotá and other Colombian cities.",
+  "faqs": "Q: What airlines operate at Almirante Padilla Airport?\nA: The airport is primarily served by Colombian carriers such as Avianca, LATAM Colombia, and regional airlines offering domestic flights to Bogotá and other cities.\n\nQ: How far is the airport from Riohacha's city center?\nA: The airport is located approximately 5 km south of downtown Riohacha, making for a quick 10-15 minute taxi or bus ride into the city.\n\nQ: Does the airport have international flights?\nA: International service is very limited; the airport focuses on domestic routes, with most international travelers connecting through Bogotá's El Dorado International Airport.\n\nQ: Are there car rental services available?\nA: Yes, local and international car rental agencies operate at the airport, though booking in advance is recommended, especially during peak travel seasons.",
+  "transport_tips": "Official taxis are available outside the terminal and offer fixed or metered rates to central Riohacha. For trips deeper into La Guajira or to destinations like Punta Gallinas, it's advisable to arrange a 4x4 vehicle or guided tour in advance, as standard taxis cannot handle the peninsula's rugged terrain. Shared minibus services also run along the main road connecting the airport to the city center.",
+  "local_tip": "Bring cash in Colombian pesos, as many small shops and taxi drivers in Riohacha do not accept credit cards, and the airport's ATMs can occasionally run out of bills.",
+  "generatedAt": "2026-06-29T13:03:17.710Z",
+  "model": "MiniMax-M3"
+}

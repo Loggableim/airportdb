@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JRB",
+    "icao": "",
+    "name": "Downtown Manhattan Heliport",
+    "country": "United States",
+    "city": "New York",
+    "lat": 40.7007,
+    "lon": -74.0086,
+    "type": "heliport",
+    "size": 25
+  },
+  "summary": "Downtown Manhattan Heliport (JRB) is a heliport situated on Pier 6 along the East River in Lower Manhattan, just south of the Brooklyn Bridge and adjacent to the South Street Seaport. It primarily serves helicopter shuttle flights to regional airports (JFK, LaGuardia, and Newark), charter operations, and sightseeing tours over New York City. As one of the few active heliports in Manhattan, it provides a unique and rapid transit option in one of the world's busiest urban airspace environments.",
+  "faqs": "Q: What is Downtown Manhattan Heliport used for?\nA: The heliport primarily supports helicopter shuttle services to major New York-area airports, charter flights, and aerial sightseeing tours over Manhattan and the surrounding region.\n\nQ: Where exactly is the heliport located?\nA: It sits on Pier 6 on the East River shoreline of Lower Manhattan, near the South Street Seaport and just south of the Brooklyn Bridge.\n\nQ: Can the public fly from JRB?\nA: Yes, the heliport is open to the public through scheduled shuttle operators, charter services, and tour companies that offer flights departing from the facility.\n\nQ: Is there a terminal or check-in process?\nA: Yes, there is a small terminal building with basic passenger amenities; travelers typically check in directly with their helicopter operator rather than going through a traditional airline-style process.",
+  "transport_tips": "The heliport is easily reached on foot from the Financial District and is within walking distance of several subway stations, including Bowling Green and the Fulton Street transit hub. Taxi and rideshare drop-offs are straightforward along the South Street corridor, though dedicated vehicle parking is extremely limited in the area. Many travelers combine a helicopter flight with a short walk to nearby attractions like the Brooklyn Bridge or the South Street Seaport.",
+  "local_tip": "If you're booking a sightseeing tour, request a seat on the right-hand side of the helicopter for the best views of the Statue of Liberty and the Lower Manhattan skyline.",
+  "generatedAt": "2026-06-28T11:05:18.393Z",
+  "model": "MiniMax-M3"
+}

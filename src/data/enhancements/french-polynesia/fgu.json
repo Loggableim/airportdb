@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FGU",
+    "icao": "NTGB",
+    "name": "Fangatau Airport",
+    "country": "French Polynesia",
+    "city": "Fangatau",
+    "lat": -15.82,
+    "lon": -140.8881,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Fangatau Airport (FGU) serves the remote Fangatau atoll in the Tuamotu Archipelago of French Polynesia, providing a vital air link for this isolated Pacific community. The airport features a single runway and primarily accommodates regional flights connecting the atoll to Tahiti and other Tuamotu islands. As one of the more remote airfields in French Polynesia, it plays an essential role in sustaining the local population's access to supplies, medical services, and inter-island travel.",
+  "faqs": "Q: What is Fangatau Airport's IATA code?\nA: The IATA code for Fangatau Airport is FGU, and its ICAO code is NTGB.\n\nQ: Where is Fangatau Airport located?\nA: Fangatau Airport is located on Fangatau atoll in the Tuamotu Archipelago of French Polynesia, in the South Pacific Ocean.\n\nQ: How can travelers reach Fangatau Airport?\nA: The airport is primarily accessed via regional flights from Tahiti, typically operated by Air Tahiti with connections through other Tuamotu atolls.\n\nQ: Is Fangatau Airport a major international airport?\nA: No, it is a small regional airport serving only domestic flights within French Polynesia, with no international services.",
+  "transport_tips": "Travelers should arrange flights well in advance, as service to Fangatau is limited and schedules can change due to weather conditions. The airport is small with minimal ground transport options, so arranging onward connections or pickup with locals is advisable. Most visitors to Fangatau rely on air travel as boat services to the atoll are infrequent and weather-dependent.",
+  "local_tip": "Bring all essential supplies including snacks, sunscreen, and any medications with you, as the atoll has very limited shopping options and the small population means stores carry minimal stock.",
+  "generatedAt": "2026-06-29T23:42:23.720Z",
+  "model": "MiniMax-M3"
+}

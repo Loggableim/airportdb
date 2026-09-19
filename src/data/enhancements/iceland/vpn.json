@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VPN",
+    "icao": "BIVO",
+    "name": "Vopnafjörður Airport",
+    "country": "Iceland",
+    "city": "Vopnafjörður",
+    "lat": 65.7206,
+    "lon": -14.8506,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Vopnafjörður Airport is a small regional airport serving the remote coastal village of Vopnafjörður in northeastern Iceland, one of the most isolated communities in the country. The airport provides a vital lifeline for residents of this sparsely populated fjord region, connecting them to the rest of Iceland. It primarily supports scheduled domestic flights, general aviation, and serves as an important link for the local fishing and agricultural economy.",
+  "faqs": "Q: What is the airport code for Vopnafjörður Airport?\nA: The IATA code is VPN and the ICAO code is BIVO.\n\nQ: Are there scheduled flights to Vopnafjörður?\nA: Scheduled service is limited due to the small population it serves; flights may be operated seasonally or on demand by regional carriers connecting to Akureyri or Reykjavík.\n\nQ: Is Vopnafjörður Airport open year-round?\nA: Yes, though weather in northeastern Iceland can affect operations, particularly during winter months when storms and low visibility are common.\n\nQ: How far is the airport from the village center?\nA: The airport is located a short drive from Vopnafjörður village, typically just a few kilometers outside the settlement.\n\n",
+  "transport_tips": "Reaching Vopnafjörður Airport typically requires renting a car in Reykjavík or Akureyri and driving along Iceland's Ring Road through the northeastern coast, a journey of several hours. Given the airport's limited commercial service, ground transport by taxi or pre-arranged shuttle from the village is advisable, and visitors should confirm transportation in advance. The remote location means that fuel, food, and lodging options near the airport are limited, so plan accordingly.",
+  "local_tip": "Pack layers and waterproof gear regardless of season—the coastal winds off the Greenland Sea can make even mild days feel surprisingly cold, and weather can shift rapidly between sunshine and fog near the fjord.",
+  "generatedAt": "2026-06-29T21:07:00.459Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XKA",
+    "icao": "DFEL",
+    "name": "Kantchari Airport",
+    "country": "Burkina Faso",
+    "city": "Kantchari",
+    "lat": 12.464,
+    "lon": 1.4929,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Kantchari Airport is a small regional airfield serving the town of Kantchari in the Est Region of Burkina Faso, near the country's eastern border with Niger. With a size score reflecting modest infrastructure, it primarily handles limited general aviation and charter flights supporting the local community. Its remote location makes it a key access point for travelers heading to this border region.",
+  "faqs": "Q: Does Kantchari Airport offer scheduled commercial flights?\nA: No, Kantchari Airport does not typically serve scheduled commercial routes; operations are generally limited to charter and light general aviation flights.\n\nQ: What is the nearest major airport to Kantchari?\nA: The nearest major airport with commercial service is Ouagadougou Airport (OUA), located several hours west of Kantchari by road.\n\nQ: Are there customs and immigration facilities at Kantchari Airport?\nA: Given its proximity to the Niger border, basic border processing may be available, but travelers should verify requirements with local authorities in advance.\n\nQ: What kind of aircraft can land at Kantchari Airport?\nA: The runway accommodates small to medium aircraft suitable for regional and charter operations typical of West African small airfields.\n\n",
+  "transport_tips": "Ground transport from Kantchari Airport to the town center is typically arranged locally, as there is no established public transit serving the airfield. Travelers often rely on private vehicles or hired transport from Kantchari town. Reaching Kantchari from Ouagadougou usually involves a long road journey eastward toward the Niger border, so plan accordingly.",
+  "local_tip": "Carry sufficient cash in CFA francs, as ATM and card payment facilities are extremely limited in this remote border region of eastern Burkina Faso.",
+  "generatedAt": "2026-06-28T00:04:31.297Z",
+  "model": "MiniMax-M3"
+}

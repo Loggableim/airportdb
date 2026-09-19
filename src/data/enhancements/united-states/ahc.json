@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AHC",
+    "icao": "KAHC",
+    "name": "Amedee Army Air Field",
+    "country": "United States",
+    "city": "Herlong",
+    "lat": 40.2662,
+    "lon": -120.153,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Amedee Army Air Field is a small military airfield located in Herlong, California, serving the Sierra Army Depot, a major U.S. Army logistics installation. Situated in the high desert of northeastern California near the Sierra Nevada mountains, the field primarily supports military and occasional general aviation operations. The airport's remote location and modest infrastructure make it a specialized facility rather than a commercial hub.",
+  "faqs": "Q: What is Amedee Army Air Field primarily used for?\nA: The airfield supports the adjacent Sierra Army Depot and is primarily used for military aviation operations, including transport and training flights.\n\nQ: Is Amedee Army Air Field open to civilian pilots?\nA: The field has limited civilian access and is generally restricted to military and authorized aircraft. Civilian pilots should verify status and obtain prior permission before attempting to land.\n\nQ: Where is the airport located?\nA: Amedee Army Air Field is located in Herlong, California, in Lassen County, approximately 50 miles northwest of Reno, Nevada.\n\nQ: Does the airport offer commercial airline service?\nA: No, Amedee Army Air Field does not provide scheduled commercial passenger service.\n",
+  "transport_tips": "There is no public transportation directly to the airport; visitors typically require a private vehicle for access. The nearest major airport with commercial service is Reno-Tahoe International Airport, roughly 50 miles southeast. Ground transportation from Reno would need to be arranged in advance, as ride services to Herlong can be limited.",
+  "local_tip": "If visiting the area, plan fuel stops carefully—Herlong is in a remote stretch of high desert with long distances between services, and weather conditions can change rapidly due to the nearby Sierra Nevada terrain.",
+  "generatedAt": "2026-06-27T22:54:28.525Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OBN",
+    "icao": "EGEO",
+    "name": "Oban Airport",
+    "country": "United Kingdom",
+    "city": "North Connel",
+    "lat": 56.4635,
+    "lon": -5.3997,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Oban Airport is a small airfield located in North Connel, near the coastal town of Oban in Argyll and Bute, Scotland. Originally established as RAF Connel during World War II, it later transitioned to civilian use and now primarily serves general aviation and charter flights. The airport provides a convenient gateway to the western Scottish Highlands and the Inner Hebrides islands.",
+  "faqs": "Q: What airlines operate from Oban Airport?\nA: Oban Airport does not currently have scheduled commercial airline service. It primarily handles general aviation, private flights, and charter operations.\n\nQ: Is there a terminal building at Oban Airport?\nA: Yes, there is a small terminal building, but facilities are limited given the airport's size and primarily general aviation role.\n\nQ: Can I fly directly to the islands from Oban?\nA: Direct flights to the Hebridean islands are limited. Most travelers take the CalMac ferry from Oban to reach islands such as Mull, Barra, and Iona.\n\nQ: What is the airport's history?\nA: The site was developed as RAF Connel during World War II, serving as a training base. After the war, it was repurposed for civilian aviation use.",
+  "transport_tips": "The airport is located about 5 miles northeast of Oban town center, roughly a 10-15 minute drive via the A828. Car rental or taxi are the most practical options as there is no regular public bus service directly to the airfield. Private transfers can be arranged in advance through local operators in Oban.",
+  "local_tip": "If you're visiting the area, consider combining a flight with a stay in Oban to enjoy local seafood at the harbor and use the town as a base for exploring nearby castles like Dunollie and the scenic drive through Glen Coe.",
+  "generatedAt": "2026-06-26T19:25:40.491Z",
+  "model": "MiniMax-M3"
+}

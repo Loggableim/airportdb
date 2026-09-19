@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GPL",
+    "icao": "MRGP",
+    "name": "Guapiles Airport",
+    "country": "Costa Rica",
+    "city": "Pococi",
+    "lat": 10.2172,
+    "lon": -83.797,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Guapiles Airport is a regional airfield serving the Pococi canton in Costa Rica's Caribbean lowlands, providing convenient air access to an area known for its proximity to Tortuguero National Park and banana plantations. The airport primarily handles domestic charter and regional flights, supporting tourism to the northern Caribbean coast. Its location makes it a practical alternative to driving through the mountainous terrain to reach remote lowland destinations.",
+  "faqs": "Q: What airlines serve Guapiles Airport?\nA: The airport primarily handles charter and regional domestic flights rather than scheduled commercial service, with operators offering connections to other Costa Rican destinations.\n\nQ: Is Guapiles Airport close to Tortuguero?\nA: Yes, the airport is one of the closest air gateways to Tortuguero National Park, significantly reducing travel time compared to the long road and boat journey from San José.\n\nQ: What is the size of Guapiles Airport?\nA: It is classified as a medium-sized regional airport with a single runway, suitable for small to mid-size aircraft.\n\nQ: Does the airport have customs and immigration facilities?\nA: As a primarily domestic facility, it does not typically offer international customs processing; international travelers would clear customs at San José's main airports first.\n\n",
+  "transport_tips": "Taxis and pre-arranged shuttles are typically available at the airport to connect passengers to nearby towns like Guapiles and onward to the Caribbean coast. Many visitors arrange ground transportation in advance, especially when heading to Tortuguero, which requires a boat transfer after road travel. Rental car services may be limited, so booking ahead is recommended.",
+  "local_tip": "If you're continuing on to Tortuguero, ask your accommodation to coordinate a combined taxi-and-boat package from Guapiles—locals know which boat captains offer the most reliable schedules and wildlife-spotting routes through the canals.",
+  "generatedAt": "2026-06-26T11:57:01.035Z",
+  "model": "MiniMax-M3"
+}

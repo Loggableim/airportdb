@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ELM",
+    "icao": "KELM",
+    "name": "Elmira Corning Regional Airport",
+    "country": "United States",
+    "city": "Elmira/Corning",
+    "lat": 42.1599,
+    "lon": -76.8916,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Elmira Corning Regional Airport (ELM) serves the Southern Tier of New York, spanning the Chemung River valley between the cities of Elmira and Corning. The airport provides essential air service for the Twin Tiers region, supporting tourism to nearby attractions like the Corning Museum of Glass and the Finger Lakes wine country. Originally developed as a regional aviation hub, it continues to handle scheduled commercial flights and general aviation operations.",
+  "faqs": "Q: What airlines operate at Elmira Corning Regional Airport?\nA: ELM is typically served by regional carriers offering connections to major hub airports. Check current schedules for the most up-to-date route information.\n\nQ: Where is the airport located relative to Elmira and Corning?\nA: The airport sits roughly between the two cities, about 7 miles northwest of Elmira and approximately 15 miles northeast of Corning, easily accessible via Interstate 86.\n\nQ: Does ELM offer international flights?\nA: No, the airport handles primarily domestic regional flights, with customs services available through connecting hubs for international travelers.\n\nQ: Is there on-site parking available?\nA: Yes, the airport provides short-term and long-term parking options adjacent to the terminal building.\n\n",
+  "transport_tips": "Rental car agencies operate from the terminal and are the most convenient option for exploring the region, as public transit is limited. The airport is just off Interstate 86 (exit 49), making it a straightforward drive to either Elmira, Corning, or westward into the Finger Lakes. Rideshare services like Uber and Lyft serve the airport, though availability may be limited compared to larger cities.",
+  "local_tip": "If you have a few hours between flights, the Corning Museum of Glass is one of the area's standout attractions and offers live glass-blowing demonstrations, just a 20-minute drive from the terminal.",
+  "generatedAt": "2026-06-29T03:05:28.216Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RPA",
+    "icao": "VNRP",
+    "name": "Rolpa Airport",
+    "country": "Nepal",
+    "city": "Rolpa",
+    "lat": 28.2673,
+    "lon": 82.7565,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Rolpa Airport (RPA/VNRP) is a small domestic airfield serving Rolpa District in the mid-western hills of Nepal, providing a critical air link to one of the country's more remote and mountainous regions. The airport supports primarily STOL (Short Take-Off and Landing) operations, catering to the limited but vital passenger and cargo traffic connecting Rolpa to Kathmandu and other Nepali hubs. Its remote location makes it an essential lifeline for the local population, many of whom rely on air transport due to challenging road access through steep terrain.",
+  "faqs": "Q: What type of aircraft typically serves Rolpa Airport?\nA: Small STOL turboprop aircraft such as the Dornier Do-228 or similar regional aircraft operated by domestic Nepali carriers are commonly used, suited to the short runway and mountainous surroundings.\n\nQ: Are there regular scheduled flights to Rolpa?\nA: Scheduled flights are limited and weather-dependent, with services often provided by Nepal Airlines or private operators connecting Rolpa to Kathmandu and nearby towns.\n\nQ: Why is air travel important for Rolpa?\nA: Rolpa's rugged terrain and limited road infrastructure make air service a crucial lifeline for passengers, medical evacuations, and essential supplies.\n\nQ: Is the airport open year-round?\nA: Operations are subject to weather conditions, particularly during the monsoon season when low visibility and cloud cover can cause delays or cancellations.\n\n",
+  "transport_tips": "Getting to Rolpa Airport typically requires ground transport from the district headquarters of Libang, as the airport is located a short distance from the town center. Road travel to Rolpa from Kathmandu is long and challenging, often taking 12-18 hours depending on conditions, so flying is strongly recommended for time-sensitive travelers. Local jeep and bus services operate between the airport and surrounding villages, though schedules can be irregular.",
+  "local_tip": "If you are connecting onward by road after landing at Rolpa, arrange ground transportation in advance through your airline or local contacts, as taxis and shared jeeps at the airport are limited and may not be readily available during off-peak flight times.",
+  "generatedAt": "2026-06-28T06:14:40.673Z",
+  "model": "MiniMax-M3"
+}

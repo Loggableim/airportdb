@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BZO",
+    "icao": "LIPB",
+    "name": "Bolzano Airport",
+    "country": "Italy",
+    "city": "Bolzano (BZ)",
+    "lat": 46.4592,
+    "lon": 11.3261,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Bolzano Airport (BZO/LIPB) is a small regional airport nestled in the Adige Valley in South Tyrol, northern Italy, serving the bilingual province known for its Alpine scenery and Austrian-Italian cultural blend. It primarily handles general aviation, private flights, and occasional seasonal services, making it a convenient gateway for travelers heading to the Dolomites. Despite its modest size, the airport is strategically located just minutes from the city center of Bolzano.",
+  "faqs": "Q: Where is Bolzano Airport located relative to the city center?\nA: The airport is situated approximately 5 km southwest of Bolzano's city center, making it a quick 10-15 minute drive.\n\nQ: Does Bolzano Airport handle commercial passenger flights?\nA: The airport mainly serves general aviation, private aircraft, and charter flights, with limited scheduled commercial service. Most commercial travelers use nearby larger airports like Verona or Innsbruck.\n\nQ: What facilities are available at Bolzano Airport?\nA: As a small regional facility, it offers basic services including a terminal building, parking, and general aviation support, but has limited amenities compared to major airports.\n\nQ: Can I rent a car at Bolzano Airport?\nA: Rental car services are typically available through local providers, though advance booking is recommended given the airport's smaller scale.\n\n",
+  "transport_tips": "The most practical way to reach Bolzano city center from the airport is by taxi, which takes around 10 minutes. Rental cars are recommended for those planning to explore the Dolomites or surrounding Alpine areas. Public bus connections also link the airport to Bolzano's main station and surrounding towns in South Tyrol.",
+  "local_tip": "If flying in privately, request a landing during morning hours for the best visibility of the Dolomites and surrounding Alpine peaks—it's one of the most scenic approaches in the Italian Alps.",
+  "generatedAt": "2026-06-29T05:54:53.251Z",
+  "model": "MiniMax-M3"
+}

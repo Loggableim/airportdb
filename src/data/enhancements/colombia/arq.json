@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ARQ",
+    "icao": "SKAT",
+    "name": "El Troncal Airport",
+    "country": "Colombia",
+    "city": "Arauquita",
+    "lat": 7.0211,
+    "lon": -71.3889,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "El Troncal Airport (ARQ/SKAT) is a small regional airport serving Arauquita, a municipality in Colombia's Arauca Department near the Venezuelan border. The facility primarily handles domestic flights connecting this remote plains community to larger Colombian hubs. Its location in the Llanos region makes it an important access point for travelers heading to one of eastern Colombia's lesser-visited frontier towns.",
+  "faqs": "Q: What is the IATA code for El Troncal Airport?\nA: The IATA code is ARQ, and its ICAO code is SKAT.\n\nQ: What is the nearest major city served by El Troncal Airport?\nA: The airport serves Arauquita, a municipality in the Arauca Department of Colombia, located in the eastern plains near the Venezuelan border.\n\nQ: Are there regular commercial flights to El Troncal Airport?\nA: Service is limited as this is a small regional airport. Flights are typically operated by small domestic carriers on schedules that can vary.\n\nQ: What is the airport primarily used for?\nA: Beyond passenger travel, the airport supports general aviation, regional connectivity, and serves the oil and agricultural industries common in the Arauca region.\n\n",
+  "transport_tips": "Ground transportation from El Troncal Airport into Arauquita town center is typically arranged by taxi or mototaxi, as the airport is located a short distance from the urban area. Rental cars are generally not available at this small facility, so arranging transport in advance or coordinating with local accommodation is advisable. The region's roads connect Arauquita to other Arauca Department towns and onward routes toward the Venezuelan border.",
+  "local_tip": "Carry Colombian pesos in cash, as ATMs and card acceptance can be unreliable in Arauquita, and small vendors and taxi drivers often prefer cash payment.",
+  "generatedAt": "2026-06-27T17:20:55.835Z",
+  "model": "MiniMax-M3"
+}

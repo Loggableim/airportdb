@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YKF",
+    "icao": "CYKF",
+    "name": "Region of Waterloo International Airport",
+    "country": "Canada",
+    "city": "Breslau",
+    "lat": 43.4608,
+    "lon": -80.3786,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Region of Waterloo International Airport (YKF) is located in Breslau, Ontario, serving the Kitchener-Waterloo-Cambridge metropolitan area in southwestern Canada. The airport has grown significantly as a convenient alternative to Toronto Pearson International Airport, roughly 90 minutes to the east. It features a modern terminal, a long main runway capable of handling narrow-body jets, and is a key hub for general aviation, charter flights, and scheduled low-cost carrier service.",
+  "faqs": "Q: What airlines fly from Region of Waterloo International Airport?\nA: Service has historically been provided by carriers such as WestJet and Flair Airlines, with routes typically connecting to destinations in western Canada and sun destinations. Check current schedules as service varies.\n\nQ: How far is YKF from downtown Kitchener-Waterloo?\nA: The airport is approximately 10 km (6 miles) northeast of downtown Kitchener and about 15 km from Waterloo, typically a 15-20 minute drive.\n\nQ: Does YKF offer international flights?\nA: Yes, despite its regional size, the airport holds customs and border protection facilities and handles limited international flights, primarily to sun destinations and select U.S. routes.\n\nQ: Is there parking available at the airport?\nA: Yes, on-site parking is available including short-term and long-term options adjacent to the terminal building.\n\n",
+  "transport_tips": "Driving is the most common way to reach YKF, with straightforward access via Highway 401 and Regional Road 17. Taxi services and rideshare options like Uber and Lyft are available, though rental cars are recommended for travelers exploring the broader Waterloo Region. Grand River Transit does not currently provide direct service to the terminal.",
+  "local_tip": "If you have extra time before your flight, visit the nearby St. Jacobs Farmers Market, one of Canada's largest year-round markets, just a 15-minute drive west of the airport.",
+  "generatedAt": "2026-06-29T02:11:15.938Z",
+  "model": "MiniMax-M3"
+}

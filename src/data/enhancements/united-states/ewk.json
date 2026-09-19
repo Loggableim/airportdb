@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EWK",
+    "icao": "KEWK",
+    "name": "Newton City-County Airport",
+    "country": "United States",
+    "city": "Newton",
+    "lat": 38.0582,
+    "lon": -97.2745,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Newton City-County Airport (EWK) is a small general aviation airport serving Newton, Kansas, located in the south-central part of the state. The airport supports private, recreational, and business aviation for the community and surrounding Harvey County. It features a single main runway and provides convenient access to the Wichita metropolitan area, located roughly 30 miles to the south.",
+  "faqs": "Q: What is Newton City-County Airport primarily used for?\nA: It serves as a general aviation facility, accommodating private aircraft, flight training, and occasional business flights. There is no scheduled commercial service.\n\nQ: How far is the airport from downtown Newton?\nA: The airport is located just a few miles northeast of downtown Newton, making it a quick drive from the city center.\n\nQ: Are there car rental services available at the airport?\nA: General aviation airports like EWK typically do not have on-site rental car counters; visitors usually arrange ground transportation in advance or use rideshare services from nearby Wichita.\n\nQ: What facilities does the airport offer?\nA: The airport provides a runway, taxiways, aircraft parking areas, and basic pilot amenities typical of a small municipal airfield.\n\n",
+  "transport_tips": "The airport is best reached by personal vehicle, as it is located just a short drive from Newton and well-connected by local roads. For those flying commercially, Wichita Dwight D. Eisenhower National Airport (ICT) is the nearest airport with commercial service, about 30 miles south. Rideshare and taxi services from Wichita can be arranged for ground transport to Newton.",
+  "local_tip": "Pilot visitors should note that Kansas weather can change rapidly, with strong crosswinds common in the spring—so checking updated NOTAMs and wind conditions before arrival is highly recommended.",
+  "generatedAt": "2026-06-27T01:33:08.172Z",
+  "model": "MiniMax-M3"
+}

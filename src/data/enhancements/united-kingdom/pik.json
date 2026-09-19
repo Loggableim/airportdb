@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PIK",
+    "icao": "EGPK",
+    "name": "Glasgow Prestwick Airport",
+    "country": "United Kingdom",
+    "city": "Prestwick, South Ayrshire",
+    "lat": 55.5015,
+    "lon": -4.5772,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Glasgow Prestwick Airport (PIK/EGPK) is Scotland's second-largest airport, located on the southwest coast in South Ayrshire about 32 miles from Glasgow city center. Originally opened in 1935, it became one of the busiest transatlantic refueling stops during the early days of commercial air travel and later served as a Royal Air Force base during World War II. Today it operates primarily as a low-cost carrier hub, notably for Ryanair, while retaining one of the longest runways in Scotland.",
+  "faqs": "Q: How far is Glasgow Prestwick Airport from Glasgow city center?\nA: The airport is approximately 32 miles (51 km) southwest of Glasgow, with a typical journey time of 45-60 minutes by road.\n\nQ: Which airlines operate from Glasgow Prestwick?\nA: Ryanair is the dominant carrier, operating numerous European routes, though other scheduled and charter services have also served the airport.\n\nQ: Does Glasgow Prestwick have a long runway?\nA: Yes, its main runway is over 3,000 meters long, one of the longest in Scotland, capable of handling wide-body aircraft and historically used for transatlantic stops.\n\nQ: Is there a direct rail connection to the airport?\nA: Yes, Prestwick International Airport railway station is directly connected to Glasgow Central and other Scottish cities via the Ayrshire Coast Line.",
+  "transport_tips": "The dedicated Glasgow Prestwick Airport railway station sits adjacent to the terminal and offers direct trains to Glasgow Central roughly every 30 minutes, making rail the most reliable option for reaching central Glasgow. The A77 road provides direct car access, and several coach and bus services connect to Glasgow and Ayr. Taxi ranks are available outside the terminal, though fares to Glasgow are considerably higher than rail.",
+  "local_tip": "If you have time between flights, the town of Ayr is just a short bus or train ride away and offers a pleasant beachfront, Robert Burns heritage sites, and noticeably cheaper food and drink than the airport terminal.",
+  "generatedAt": "2026-06-28T18:31:19.073Z",
+  "model": "MiniMax-M3"
+}

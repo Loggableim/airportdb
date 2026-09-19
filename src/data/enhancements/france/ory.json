@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ORY",
+    "icao": "LFPO",
+    "name": "Paris-Orly Airport",
+    "country": "France",
+    "city": "Paris (Orly, Val-de-Marne)",
+    "lat": 48.7295,
+    "lon": 2.359,
+    "type": "large_airport",
+    "size": 1032775
+  },
+  "summary": "Paris-Orly Airport (ORY/LFPO) is France's second-largest airport after Charles de Gaulle, located approximately 13 km south of central Paris in the Val-de-Marne department. Originally opened in 1932 on the site of a former military airbase, it became a major commercial hub and today handles mostly domestic, European, and short-to-medium-haul international flights. It serves as a primary hub for Air France's regional operations as well as low-cost carriers like easyJet, Vueling, and Transavia.",
+  "faqs": "Q: How far is Paris-Orly from the city center?\nA: Orly is about 13 km south of central Paris, with typical journey times of 30-45 minutes by car or taxi depending on traffic.\n\nQ: Which terminals does Orly have?\nA: Orly has four terminals: Orly 1, 2, 3, and 4, with Orly 1-2-3 connected and Orly 4 serving as a separate terminal primarily for Air France regional flights.\n\nQ: Does Orly have direct rail service to Paris?\nA: Yes, the Orlyval automated shuttle connects to the RER B line at Antony station, providing access to central Paris and connections to the metro network.\n\nQ: Is there a night bus service from Orly?\nA: Yes, the Noctilien bus lines N22 and N131 serve Orly during nighttime hours, connecting to Paris and surrounding suburbs.",
+  "transport_tips": "The Orlyval light rail shuttle links the airport to the RER B at Antony station for quick metro connections into Paris. The Tram T7 also serves Orly, offering a cheaper but slower option into the southern suburbs and Paris metro Line 7 at Villejuif-Louis Aragon. Taxis and ride-shares from Orly to central Paris are subject to fixed regulated fares and can be significantly affected by traffic on the A6/A106 motorways.",
+  "local_tip": "If you have a long layover or early arrival, the Hilton Paris Orly Airport hotel is connected directly to Terminal 4 via a covered walkway—perfect for a few hours of rest without leaving the airport grounds. Frequent travelers also recommend checking in online up to 24 hours ahead to avoid the often lengthy security queues, particularly during the busy morning rush between 6-9 AM.",
+  "generatedAt": "2026-06-28T14:45:21.577Z",
+  "model": "MiniMax-M3"
+}

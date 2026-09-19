@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ENW",
+    "icao": "KENW",
+    "name": "Kenosha Regional Airport",
+    "country": "United States",
+    "city": "Kenosha",
+    "lat": 42.5957,
+    "lon": -87.9278,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Kenosha Regional Airport is a publicly owned, medium-sized airport located in Kenosha, Wisconsin, just south of the Wisconsin-Illinois border. Situated about 30 miles south of Milwaukee and 60 miles north of downtown Chicago, it primarily serves general aviation and corporate traffic for the Kenosha area and the southern reaches of the Chicago metropolitan region. The airport features multiple runways and supports flight training, recreational flying, and business aviation.",
+  "faqs": "Q: Does Kenosha Regional Airport offer commercial passenger flights?\nA: No, KENW does not currently have scheduled commercial airline service. It primarily serves general aviation, private aircraft, and flight training operations.\n\nQ: How far is the airport from downtown Chicago?\nA: Kenosha Regional Airport is approximately 60 miles north of downtown Chicago, making it a possible alternative for private and corporate flyers heading to the Chicago region.\n\nQ: Is there an FBO (Fixed-Base Operator) at the airport?\nA: Yes, the airport has FBO services offering fuel, hangar space, and aircraft maintenance for transient and based pilots.\n\nQ: Can I rent a car at Kenosha Regional Airport?\nA: Rental car availability is limited; visitors typically arrange ground transportation through local rental agencies, rideshare services, or pre-arranged pickups.",
+  "transport_tips": "The airport is conveniently located just off I-94, providing easy highway access from Milwaukee, Chicago, and surrounding areas. Ground transportation options include personal vehicles, rideshare services, and pre-arranged shuttles, as public transit service directly to the airport is limited. Many visitors drive and park on-site, as the airport offers ample parking for both pilots and visitors.",
+  "local_tip": "If you're picking up or dropping off a pilot, check the airport's AWOS frequency or call the FBO ahead of time, as Kenosha Regional is a busy training airport with frequent student pilot traffic, and runway crossings can take longer than expected.",
+  "generatedAt": "2026-06-30T05:22:37.583Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GUW",
+    "icao": "UATG",
+    "name": "Atyrau International Airport",
+    "country": "Kazakhstan",
+    "city": "Atyrau",
+    "lat": 47.1213,
+    "lon": 51.8203,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Atyrau International Airport (GUW) is the main air gateway to western Kazakhstan's oil-rich Caspian region, serving the city of Atyrau near the mouth of the Ural River. It functions as a key transit point for energy industry workers traveling to offshore and onshore oil fields, and handles a mix of domestic, CIS, and some international flights. The airport is one of Kazakhstan's larger regional facilities, featuring a modernized terminal that supports the steady business traffic driven by the country's petroleum sector.",
+  "faqs": "Q: What is the main purpose of Atyrau International Airport?\nA: The airport primarily serves the oil and gas industry in western Kazakhstan, along with regional passenger traffic and limited international connections to nearby CIS countries.\n\nQ: Are there international flights from Atyrau?\nA: Yes, the airport offers flights to several international destinations, mostly within the Commonwealth of Independent States, alongside domestic routes to cities like Almaty, Astana, and Aktau.\n\nQ: Does the airport operate 24 hours?\nA: Operating hours vary by season and airline schedules; travelers should check with their carrier for specific departure and arrival times, especially for early morning or late-night flights.\n\nQ: Is there a separate terminal for international and domestic flights?\nA: The airport uses designated zones within its terminal for international and domestic processing, with customs and passport control available for international departures and arrivals.",
+  "transport_tips": "Official taxis and pre-booked transfer services are the most reliable ways to reach central Atyrau, which is roughly 8 km from the terminal. Ride-hailing apps may have limited availability, so arranging a pickup through your hotel in advance is advisable. Parking is available on-site for those arriving by private vehicle.",
+  "local_tip": "If you're traveling to or from an oil field site, many companies operate dedicated shuttle buses from the airport; coordinate with your employer or contractor beforehand, as these typically depart on fixed schedules aligned with crew rotations rather than standard flight arrivals.",
+  "generatedAt": "2026-06-28T23:52:16.405Z",
+  "model": "MiniMax-M3"
+}

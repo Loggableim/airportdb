@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NGA",
+    "icao": "YYNG",
+    "name": "Young Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -34.2556,
+    "lon": 148.2471,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Young Airport (NGA/YYNG) is a regional airfield serving the town of Young in the South Western Slopes region of New South Wales, Australia. The facility primarily supports general aviation, private aircraft, and occasional charter flights, providing an important link for the surrounding agricultural district known for its cherry and stone fruit production. The airport features a single sealed runway and is positioned roughly 5 kilometers from the Young town center.",
+  "faqs": "Q: What is the airport code for Young Airport?\nA: Young Airport is designated by the IATA code NGA and the ICAO code YYNG.\n\nQ: Where is Young Airport located?\nA: It is situated approximately 5 km southwest of the town of Young in New South Wales, Australia, in the South Western Slopes region.\n\nQ: Does Young Airport offer scheduled commercial flights?\nA: No scheduled commercial passenger services operate at Young Airport. It is primarily used for general aviation, private flights, and occasional charter operations.\n\nQ: What facilities are available at the airport?\nA: The airport has a single sealed runway suitable for small to medium aircraft, basic apron parking, and limited terminal facilities typical of a regional Australian airfield.",
+  "transport_tips": "Renting a car is the most practical way to reach Young Airport, as the facility is located a short drive from the town center and there is no scheduled public transport serving the airfield. Taxis and local ride services from Young can be arranged in advance for departure or pickup. The drive from Young's CBD takes approximately 10 minutes via the local road network.",
+  "local_tip": "Time your visit during the annual National Cherry Festival in December, when the surrounding orchards are at peak production and the town comes alive with festivities celebrating the region's famous cherry harvest.",
+  "generatedAt": "2026-06-26T11:05:31.211Z",
+  "model": "MiniMax-M3"
+}

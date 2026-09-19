@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YSJ",
+    "icao": "CYSJ",
+    "name": "Saint John Airport",
+    "country": "Canada",
+    "city": "Saint John",
+    "lat": 45.3161,
+    "lon": -65.8903,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Saint John Airport (YSJ) is the primary air gateway to New Brunswick's largest city, located on the eastern outskirts of Saint John approximately 15 km from downtown. The medium-sized airport serves as a key regional hub for the Bay of Fundy region, with its single terminal handling flights to major Canadian cities. Its proximity to the world's highest tides and the famous Reversing Falls makes it a convenient entry point for visitors exploring the Maritime provinces.",
+  "faqs": "Q: What airlines operate from Saint John Airport?\nA: Saint John Airport is served primarily by Air Canada Express, Porter Airlines, and WestJet, offering direct flights to Toronto, Montreal, Ottawa, and Halifax.\n\nQ: How far is the airport from downtown Saint John?\nA: The airport is approximately 15 km east of downtown Saint John, typically a 20-25 minute drive depending on traffic.\n\nQ: Does Saint John Airport have international flights?\nA: The airport mainly handles domestic Canadian flights, with occasional seasonal services to sun destinations; international connections are typically routed through Toronto or Montreal.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers short-term and long-term parking options in a lot adjacent to the terminal building.",
+  "transport_tips": "Taxis and rideshare services are readily available outside the terminal and provide the most convenient transport to downtown Saint John. Rental car counters are located inside the terminal for travelers exploring the broader Maritime region. Public transit (Saint John Transit) also serves the airport, offering an affordable option for budget-conscious travelers.",
+  "local_tip": "If you have a layover or a few hours to spare, the Bay of Fundy's Reversing Falls is just a short drive away—time your visit near low tide to see the rapids flow upstream, a phenomenon caused by the world's highest tides.",
+  "generatedAt": "2026-06-29T03:55:03.650Z",
+  "model": "MiniMax-M3"
+}

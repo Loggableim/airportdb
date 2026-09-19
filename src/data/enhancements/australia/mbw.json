@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MBW",
+    "icao": "YMMB",
+    "name": "Melbourne Moorabbin Airport",
+    "country": "Australia",
+    "city": "Melbourne",
+    "lat": -37.9778,
+    "lon": 145.0998,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Melbourne Moorabbin Airport is a prominent general aviation airport serving Melbourne's southeastern suburbs, approximately 21 km from the city centre. Established in 1949 on the former site of a World War II RAAF base, it is one of Australia's busiest airports for flight training, charter flights, and recreational flying. The airport hosts numerous aviation businesses, flying schools, and maintenance facilities, making it a key hub for non-commercial aviation in Victoria.",
+  "faqs": "Q: What is Melbourne Moorabbin Airport primarily used for?\nA: The airport is mainly used for general aviation activities including flight training, private flying, charter services, aircraft maintenance, and recreational aviation, rather than scheduled commercial flights.\n\nQ: Does Melbourne Moorabbin Airport have scheduled passenger services?\nA: No, Melbourne Moorabbin does not currently operate scheduled commercial passenger flights. Passengers travelling on commercial airlines should use Melbourne Tullamarine Airport (MEL) or Avalon Airport (AVV).\n\nQ: What facilities are available at Moorabbin Airport?\nA: The airport features multiple flying schools, aircraft maintenance hangars, a control tower, fuel services, and aviation businesses. There are cafes and pilot shops on site, though passenger amenities are limited compared to commercial airports.\n\nQ: How busy is Moorabbin Airport?\nA: It is one of the busiest general aviation airports in Australia, handling tens of thousands of aircraft movements per year, largely driven by flight training activity.",
+  "transport_tips": "The airport is accessible by car via the Nepean Highway and South Road, with ample parking available on site. Public transport options include buses connecting to nearby Moorabbin and Cheltenham railway stations on Melbourne's Frankston line. Given its proximity to suburban Melbourne, taxi and rideshare services are readily available.",
+  "local_tip": "Aviation enthusiasts should visit on weekends when flying schools are active and numerous light aircraft are operating—you can often watch touch-and-go circuits from the public viewing areas near the main runway threshold.",
+  "generatedAt": "2026-06-29T04:47:23.924Z",
+  "model": "MiniMax-M3"
+}

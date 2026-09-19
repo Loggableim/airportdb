@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LJG",
+    "icao": "ZPLJ",
+    "name": "Lijiang Sanyi International Airport",
+    "country": "China",
+    "city": "Lijiang",
+    "lat": 26.6775,
+    "lon": 100.2449,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Lijiang Sanyi International Airport (LJG) serves the historic city of Lijiang in Yunnan Province, southwestern China. The airport provides the primary air gateway to Lijiang's UNESCO-listed Old Town, the Jade Dragon Snow Mountain, and the surrounding Naxi cultural region. Situated at a high elevation on the Yunnan-Guizhou Plateau, it handles a mix of domestic trunk routes and regional flights catering to the area's heavy tourism traffic.",
+  "faqs": "Q: How far is Lijiang Sanyi Airport from the Old Town?\nA: The airport is approximately 25 km south of Lijiang's Old Town, with a typical drive taking around 40 minutes depending on traffic.\n\nQ: Does the airport have international flights?\nA: Lijiang primarily operates domestic flights to major Chinese cities, along with a limited number of regional international routes to Southeast Asian destinations.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers standard services including restaurants, shops, currency exchange, and VIP lounges, reflecting its role as a key tourism gateway.\n\nQ: Is the airport affected by the high elevation of Lijiang?\nA: Yes, the surrounding plateau terrain and elevation can occasionally influence weather operations, particularly during the winter fog season.",
+  "transport_tips": "Airport shuttle buses connect the terminal to central Lijiang and the Old Town area at regular intervals. Taxis and ride-hailing services are readily available at the arrivals curb, though agreeing on a fare or using a metered/ app-based ride is advisable. Private transfers and pre-booked car services are popular options for visitors heading to outlying destinations like Jade Dragon Snow Mountain.",
+  "local_tip": "If you're heading to Lijiang for the first time, pre-arrange your transfer from the airport rather than relying on last-minute options, as the remote plateau location and tourism demand can lead to limited availability during peak travel seasons and Chinese holidays.",
+  "generatedAt": "2026-06-28T20:29:23.621Z",
+  "model": "MiniMax-M3"
+}

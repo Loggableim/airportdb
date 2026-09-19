@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PEZ",
+    "icao": "UWPP",
+    "name": "Penza Airport",
+    "country": "Russia",
+    "city": "Penza",
+    "lat": 53.1106,
+    "lon": 45.0211,
+    "type": "medium_airport",
+    "size": 650
+  },
+  "summary": "Penza Airport (PEZ/UWPP) is a medium-sized regional airport serving Penza, an administrative center in the Volga Federal District of central Russia, roughly 625 km southeast of Moscow. It functions as the main air gateway for the Penza Oblast, handling domestic flights primarily to Moscow. The airport is located a short distance southwest of the city center, making it convenient for travelers.",
+  "faqs": "Q: How far is Penza Airport from the city center?\nA: The airport is located approximately 7-8 km southwest of Penza's city center, typically a 15-20 minute drive depending on traffic.\n\nQ: What airlines operate from Penza Airport?\nA: The airport primarily serves domestic routes, with regular flights to Moscow operated by Russian carriers such as Aeroflot and S7 Airlines, with occasional seasonal or charter services.\n\nQ: Does Penza Airport have international flights?\nA: No, the airport currently handles only domestic flights. International travelers would typically connect through Moscow.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers standard amenities including a waiting hall, basic refreshment options, and car rental services, though facilities are modest compared to major Russian hubs.\n\n",
+  "transport_tips": "The most convenient way to reach the airport is by taxi or pre-booked transfer, which typically costs a modest fare from central Penza. Marshrutka (fixed-route minibus) services also connect the airport to the city, providing an affordable public transport option. Car parking is available near the terminal for those driving themselves.",
+  "local_tip": "If you have time before your flight, the airport is close to Penza's famous Sura River embankment — a pleasant spot for a final walk, especially in summer when local residents gather along the waterfront.",
+  "generatedAt": "2026-06-29T17:03:12.490Z",
+  "model": "MiniMax-M3"
+}

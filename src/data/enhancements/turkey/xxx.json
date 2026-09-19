@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XXX",
+    "icao": "XXXX",
+    "name": "Serik Bus Station Helipad",
+    "country": "Turkey",
+    "city": "Serik",
+    "lat": 36.9133,
+    "lon": 31.0837,
+    "type": "heliport",
+    "size": 0
+  },
+  "summary": "The Serik Bus Station Helipad is a small heliport located in the Serik district of Antalya Province, Turkey, serving the nearby inter-city bus terminal. It primarily facilitates helicopter transfers for tourists visiting the Belek resort area, known for its world-class golf courses and beachfront hotels. The facility supports quick aerial connections between the bus station and nearby resorts along the Turkish Riviera.",
+  "faqs": "Q: What is the Serik Bus Station Helipad used for?\nA: It serves as a helicopter transfer point for passengers arriving at or departing from the Serik bus terminal, primarily catering to tourists heading to Belek resort area.\n\nQ: Are there scheduled commercial flights at this helipad?\nA: No, this helipad primarily handles charter and private helicopter operations rather than scheduled commercial services.\n\nQ: Where is Serik located?\nA: Serik is a district in Antalya Province on Turkey's Mediterranean coast, approximately 40 km east of Antalya city and near the famous ancient theater of Aspendos.\n\nQ: Can tourists reach Belek from this helipad?\nA: Yes, the helipad provides convenient aerial access to the Belek golf resort region, which is just a short helicopter ride away.",
+  "transport_tips": "The helipad is co-located with the Serik intercity bus terminal, making it easy to combine ground and air transport. Regular dolmuş (shared minibus) services connect Serik to Antalya city center and the Belek resort corridor. Antalya Airport (AYT) is approximately 50 km west and offers the closest major international flight connections.",
+  "local_tip": "If visiting Aspendos Ancient Theater, one of the best-preserved Roman theaters in the world, consider timing your visit with a helicopter transfer as the site is just a short flight south of the helipad.",
+  "generatedAt": "2026-06-28T14:08:06.733Z",
+  "model": "MiniMax-M3"
+}

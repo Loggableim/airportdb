@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SIX",
+    "icao": "YSGT",
+    "name": "Singleton Airport",
+    "country": "Australia",
+    "city": "Singleton",
+    "lat": -32.6008,
+    "lon": 151.1931,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Singleton Airport is a small regional airfield serving the town of Singleton in the Hunter Region of New South Wales, Australia. It primarily supports general aviation, private aircraft, and charter operations, with the surrounding economy driven largely by coal mining and agriculture. The airport also serves as a useful gateway for visitors exploring the nearby Hunter Valley wine country.",
+  "faqs": "Q: What facilities are available at Singleton Airport?\nA: The airport offers basic facilities suitable for general aviation, including a runway and small terminal area. It is not equipped with scheduled commercial airline services, so amenities are limited compared to larger airports.\n\nQ: Are there commercial flights to and from Singleton Airport?\nA: No, Singleton Airport does not operate scheduled commercial flights. It is primarily used for private aviation, charter services, and recreational flying.\n\nQ: How far is Singleton Airport from the town centre?\nA: The airport is located a short drive from Singleton's town centre, typically around 10 minutes by car depending on traffic conditions.\n\nQ: Can I land a private aircraft at Singleton Airport?\nA: Yes, the airport welcomes general aviation traffic, but pilots should check current conditions and obtain any required permissions through standard aviation channels before arriving.",
+  "transport_tips": "A private vehicle or taxi is the most practical way to reach Singleton Airport, as no public transport directly serves the facility. Car rental services are available in Singleton township if arrangements are made in advance. Visitors driving from Sydney should allow approximately 2.5 to 3 hours via the M1 and Golden Highway.",
+  "local_tip": "If visiting Singleton, take the short drive into the Hunter Valley to experience some of Australia's finest wineries—the area produces world-renowned Semillon and Shiraz varietals just a stone's throw from the airport.",
+  "generatedAt": "2026-06-27T14:50:53.056Z",
+  "model": "MiniMax-M3"
+}

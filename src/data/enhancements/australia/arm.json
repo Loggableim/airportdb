@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ARM",
+    "icao": "YARM",
+    "name": "Armidale Airport",
+    "country": "Australia",
+    "city": "Armidale",
+    "lat": -30.5281,
+    "lon": 151.617,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Armidale Airport (ARM/YARM) is a regional airport serving the city of Armidale on the Northern Tablelands of New South Wales, Australia. Situated at an elevation of approximately 1,083 metres (3,553 feet), it is one of the highest airports in New South Wales and serves as the main gateway to the New England High Country region. The airport primarily supports regional airline services and is an important link for the University of New England and the surrounding agricultural and educational communities.",
+  "faqs": "Q: What airlines operate from Armidale Airport?\nA: Regional carriers including Link Airways (formerly Fly Corporate) and previously QantasLink have historically operated scheduled services, mainly connecting Armidale with Sydney.\n\nQ: How far is Armidale Airport from the city centre?\nA: The airport is located approximately 6 kilometres east of Armidale's central business district, typically a 10-minute drive.\n\nQ: Does Armidale Airport have international flights?\nA: No, Armidale Airport is a domestic-only regional facility with no scheduled international services.\n\nQ: Is the airport affected by weather?\nA: Its high elevation on the Northern Tablelands means the airport can experience fog, low cloud, and winter weather conditions that occasionally cause delays or diversions.",
+  "transport_tips": "Taxis and rideshare services are available at the terminal and provide the most convenient transfer to Armidale city centre. Rental car desks operate from the airport for visitors exploring the broader New England region. Limited public bus services connect to Armidale, so arranging ground transport in advance is recommended, particularly for early morning departures.",
+  "local_tip": "Pack a light jacket even in summer — the airport sits at over 1,000 metres elevation on the Northern Tablelands, so mornings and evenings can be noticeably cooler than coastal NSW, and the terminal itself can feel chilly before sunrise flights.",
+  "generatedAt": "2026-06-29T08:43:09.321Z",
+  "model": "MiniMax-M3"
+}

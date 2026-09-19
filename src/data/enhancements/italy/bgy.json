@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BGY",
+    "icao": "LIME",
+    "name": "Il Caravaggio International Airport",
+    "country": "Italy",
+    "city": "Orio al Serio (BG)",
+    "lat": 45.6694,
+    "lon": 9.7089,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Il Caravaggio International Airport, also widely known as Bergamo Orio al Serio Airport, is named after the celebrated Renaissance painter Michelangelo Merisi da Caravaggio, believed to have been born in the region. Located in Orio al Serio, it serves as the principal gateway to Bergamo and functions as a major low-cost carrier hub for northern Italy, frequently used by travelers heading to Milan and the Lombardy lakes. Despite its single-runway, single-terminal configuration, it consistently ranks among the top three busiest airports in Italy by passenger volume.",
+  "faqs": "Q: How far is the airport from Milan?\nA: The airport is approximately 50 km east of central Milan, with bus journeys taking about 60 minutes depending on traffic.\n\nQ: Which airlines operate from Bergamo Airport?\nA: Ryanair is the dominant carrier, but the airport is also served by Wizz Air, Pegasus, Blue Air, and a number of other scheduled and charter operators.\n\nQ: Is there a train station at the airport?\nA: No, there is no direct rail connection. The nearest railway station is Bergamo Centrale, accessible via ATB airport bus in about 15 minutes.\n\nQ: Are there hotels near the airport?\nA: Yes, several budget and mid-range hotels are located within a short shuttle or walking distance, including options in Orio al Serio and nearby Grassobbio.",
+  "transport_tips": "Buses to Milan Centrale run frequently and are the most popular transfer option; tickets can be purchased online in advance for better rates. The ATB Line 1 bus connects directly to Bergamo city center and the railway station in roughly 15 minutes. Taxi and rideshare services are available but more expensive; pre-booking is advisable during peak arrival times.",
+  "local_tip": "The airport operates as a single compact terminal, so once past security, you'll find gates are signed rather than numbered by airline—check the departure screens early, as boarding often begins 30-40 minutes before departure with minimal announcements.",
+  "generatedAt": "2026-06-28T17:19:49.780Z",
+  "model": "MiniMax-M3"
+}

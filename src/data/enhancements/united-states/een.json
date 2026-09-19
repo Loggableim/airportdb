@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EEN",
+    "icao": "KEEN",
+    "name": "Dillant Hopkins Airport",
+    "country": "United States",
+    "city": "Keene",
+    "lat": 42.8984,
+    "lon": -72.2708,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Dillant-Hopkins Airport is a general aviation facility serving Keene, New Hampshire, and the surrounding Monadnock region in the southwestern part of the state. As a medium-sized community airport, it primarily handles private, charter, and corporate flights, providing convenient access to the rural charm of southern New England. The airport supports local businesses, flight training, and recreational flying for visitors heading to the Keene area and nearby Mount Monadnock.",
+  "faqs": "Q: What type of airport is Dillant-Hopkins (EEN)?\nA: It is a medium-sized general aviation airport serving private, charter, corporate, and recreational flights rather than scheduled commercial service.\n\nQ: Where is the airport located relative to downtown Keene?\nA: The airport sits just a few miles south of Keene's downtown area, making it a quick drive from the city center.\n\nQ: Does the airport offer fuel and maintenance services?\nA: Yes, as a general aviation facility it provides aviation fuel and basic aircraft services for transient and based pilots.\n\nQ: Can I fly commercially into Keene?\nA: No scheduled commercial airlines operate at EEN; travelers typically use Manchester-Boston Regional Airport (MHT) and drive to Keene.\n\n",
+  "transport_tips": "Rental cars are the most practical way to reach the airport since it is a general aviation facility without rideshare infrastructure as developed as larger airports. The short drive from downtown Keene via Route 12 makes taxi service and pre-arranged shuttles viable alternatives. Ample free parking is available on-site for those dropping off or picking up passengers.",
+  "local_tip": "Plan your visit around Keene's famous annual Pumpkin Festival if traveling in late October—the city has held world records for the most jack-o'-lanterns lit at once, creating a memorable experience for anyone flying in for the event.",
+  "generatedAt": "2026-06-30T05:02:58.971Z",
+  "model": "MiniMax-M3"
+}

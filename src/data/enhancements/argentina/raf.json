@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RAF",
+    "icao": "SAFR",
+    "name": "Rafaela Airport",
+    "country": "Argentina",
+    "city": "Rafaela",
+    "lat": -31.2825,
+    "lon": -61.5017,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Rafaela Airport (RAF/SAFR) is a small regional airport serving the city of Rafaela in the Santa Fe province of central Argentina. It supports general aviation and limited commercial traffic for this important agricultural and industrial hub in the Argentine Pampas. The airport provides vital connectivity for the region's dairy, automotive, and machinery sectors.",
+  "faqs": "Q: Where is Rafaela Airport located?\nA: The airport is located near Rafaela in the Santa Fe province of Argentina, approximately 5 km from the city center, at coordinates -31.282, -61.502.\n\nQ: What type of flights does Rafaela Airport handle?\nA: As a small regional airport, it primarily serves general aviation, private flights, and occasional commercial or charter operations rather than scheduled passenger service.\n\nQ: Are there scheduled flights from Rafaela?\nA: Scheduled commercial service is limited or nonexistent; travelers typically use larger airports like Rosario (ROS) or Santa Fe (SFN) for regular flights.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic facilities including a small terminal, fuel services, and aircraft parking, suitable for light aviation traffic.",
+  "transport_tips": "The airport is just a short drive from Rafaela's city center, with taxis and remise services readily available. Having a car or arranging ground transport in advance is recommended, as public transportation to the airport is limited. The roads connecting to the airport are well-maintained and easily accessible via Route 34.",
+  "local_tip": "If flying in for business in the dairy or manufacturing industries, plan your visit around the annual Rafaela Industrial Fair (FIR), one of Argentina's most important industrial exhibitions held at the local autódromo.",
+  "generatedAt": "2026-06-28T06:11:00.221Z",
+  "model": "MiniMax-M3"
+}

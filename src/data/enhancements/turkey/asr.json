@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ASR",
+    "icao": "LTAU",
+    "name": "Kayseri Erkilet International Airport",
+    "country": "Turkey",
+    "city": "Kayseri",
+    "lat": 38.7704,
+    "lon": 35.4954,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kayseri Erkilet International Airport (ASR) is the primary aviation gateway to the central Anatolian city of Kayseri and serves as the most convenient airport for travelers heading to the famous Cappadocia region. The facility operates as a dual-use civil and military airport, handling both commercial flights and Turkish Air Force operations. It plays a vital role in Turkey's domestic network and connects the region to several European destinations, supporting both winter ski tourism to Mount Erciyes and year-round cultural tourism.",
+  "faqs": "Q: How far is the airport from Kayseri city center?\nA: Erkilet Airport is located approximately 5 km (3 miles) northwest of central Kayseri, making it a quick 15-20 minute drive depending on traffic.\n\nQ: Can I fly directly to Cappadocia from this airport?\nA: Yes, Kayseri is the closest major airport to Cappadocia, about 75 km from Göreme. Many tourists use ASR as their entry point and then travel overland to the cave hotels and fairy chimneys.\n\nQ: Which airlines operate from Kayseri Erkilet Airport?\nA: Turkish Airlines, Pegasus Airlines, SunExpress, and several other carriers offer domestic and international flights, including routes to European cities like Frankfurt, Düsseldorf, and London.\n\nQ: Does the airport have facilities for overnight stays?\nA: Yes, the terminal has cafes, lounges, and duty-free shops that typically remain open during flight hours, and there are several hotels located within a short drive of the airport.\n\n",
+  "transport_tips": "The Havaş airport shuttle bus runs between the airport and central Kayseri at scheduled times aligned with flight arrivals and departures. Taxis and ride-hailing services are readily available outside the terminal, with a typical journey to the city center costing modestly. For travelers continuing to Cappadocia, shared shuttle transfers and rental cars are popular options, with the drive to Göreme taking roughly 75-90 minutes.",
+  "local_tip": "If you're visiting in winter, pack for Mount Erciyes — the airport is the closest gateway to Turkey's premier ski resort, where you can often ski in the morning and explore Cappadocia's rock formations the same afternoon.",
+  "generatedAt": "2026-06-28T20:11:29.107Z",
+  "model": "MiniMax-M3"
+}

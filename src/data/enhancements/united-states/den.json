@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DEN",
+    "icao": "KDEN",
+    "name": "Denver International Airport",
+    "country": "United States",
+    "city": "Denver",
+    "lat": 39.86,
+    "lon": -104.6738,
+    "type": "large_airport",
+    "size": 1103275
+  },
+  "summary": "Denver International Airport (DEN) is one of the largest airports in the world by land area, covering roughly 53 square miles on the high plains northeast of Denver. Opened in 1995, it replaced the older Stapleton Airport and is recognizable by its distinctive white tensile roof peaks that mimic the Rocky Mountains. DEN consistently ranks among the busiest airports in the United States and serves as a major hub for United Airlines and Frontier Airlines, with Southwest Airlines also operating a large presence.",
+  "faqs": "Q: How far is Denver International Airport from downtown Denver?\nA: DEN is located about 25 miles northeast of downtown Denver, with typical drive times ranging from 35 to 60 minutes depending on traffic and time of day.\n\nQ: What is the easiest way to travel between the terminal and concourses at DEN?\nA: DEN uses an underground automated guideway transit system called the train, which connects the main Jeppesen Terminal to all three concourses free of charge.\n\nQ: Does Denver International Airport operate 24 hours a day?\nA: Yes, DEN is open 24 hours a day, and some travelers use it as an overnight layover spot, though amenities are limited during late-night hours.\n\nQ: Why is DEN sometimes called the tent airport?\nA: The terminal's white fiberglass roof features 34 peaks that resemble Rocky Mountain summits, giving the airport its iconic tent-like silhouette.\n\n",
+  "transport_tips": "The A Line commuter rail offers a direct, affordable connection between DEN and Denver Union Station in downtown Denver, with a journey time of about 37 minutes. Taxis, rideshares, and rental cars are readily available on the ground level of the terminal, though rideshare pickup requires a short walk to designated islands. Be aware that I-70 traffic between the airport and the city can be heavy during rush hours and ski season weekends.",
+  "local_tip": "If you have a long layover, take a quick trip to the iconic blue mustang statue known as 'Blucifer' outside the terminal. It glows eerily red at night and is one of Denver's most photographed landmarks, often catching travelers by surprise.",
+  "generatedAt": "2026-06-28T14:41:21.579Z",
+  "model": "MiniMax-M3"
+}

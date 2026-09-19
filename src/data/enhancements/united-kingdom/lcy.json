@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LCY",
+    "icao": "EGLC",
+    "name": "London City Airport",
+    "country": "United Kingdom",
+    "city": "London",
+    "lat": 51.5053,
+    "lon": 0.0553,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "London City Airport (LCY) is a compact single-runway airport located in the Royal Docks area of East London, close to the financial districts of Canary Wharf and the City of London. Opened in 1987, it is renowned for its steep approach path over central London, one of the most challenging in commercial aviation. It primarily serves short-haul European business and leisure routes and is favored for its quick processing times and central location.",
+  "faqs": "Q: How far is London City Airport from central London?\nA: The airport is approximately 6 miles east of the City of London and about 3 miles from Canary Wharf, making it one of the closest airports to London's financial hubs.\n\nQ: Which airlines fly from London City Airport?\nA: LCY is served mainly by carriers including British Airways, Lufthansa, Swiss, KLM, and several regional European operators offering short-haul routes.\n\nQ: Why does the approach to London City Airport feel so steep?\nA: Pilots use a steeper-than-standard glide path of approximately 5.5 degrees, required due to the short runway and urban surroundings, which can be noticeable to passengers during landing.\n\nQ: Does London City Airport have direct rail access?\nA: Yes, the London City Airport DLR station is directly connected to the terminal, providing quick links to Canary Wharf, Bank, and Stratford.",
+  "transport_tips": "The Docklands Light Railway (DLR) offers the fastest public transit option, connecting the airport directly to Canary Wharf in roughly 10 minutes and Bank station in about 22 minutes. Black cabs and pre-booked minicabs are readily available outside the terminal, and the airport is conveniently located near the A13 road for car access. Allow extra travel time during peak hours, as the DLR can become very crowded with commuters.",
+  "local_tip": "Frequent flyers recommend using the Premium security lane if available, and timing your arrival to avoid the early-morning commuter rush on the DLR, which can make the short journey surprisingly congested.",
+  "generatedAt": "2026-06-29T01:52:49.558Z",
+  "model": "MiniMax-M3"
+}

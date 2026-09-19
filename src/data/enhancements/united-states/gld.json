@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GLD",
+    "icao": "KGLD",
+    "name": "Goodland Municipal Airport",
+    "country": "United States",
+    "city": "Goodland",
+    "lat": 39.3707,
+    "lon": -101.6998,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Goodland Municipal Airport (Renner Field, GLD/KGLD) is a city-owned public-use airport about three miles north of Goodland, Kansas, in Sherman County. It serves general aviation, agricultural and business flying, and emergency services for northwest Kansas and nearby eastern Colorado. The airport sits on the high plains just off I-70 and US-24, with paved runways and an elevation of roughly 3,655 feet.",
+  "faqs": "Q: Where is Goodland Municipal Airport located?\nA: It is about 3 miles north of downtown Goodland, Kansas, near US-24 and I-70 in Sherman County.\n\nQ: What airlines fly to GLD?\nA: The airport is primarily general aviation; scheduled Essential Air Service has changed over time, so check current airline and charter options before booking.\n\nQ: What facilities are available?\nA: Expect a small general aviation airport with paved runways, fuel, hangars, and FBO services; call ahead for current hours, fuel, and rental car availability.\n\nQ: What is the airport code?\nA: The IATA code is GLD, the ICAO code is KGLD, and the FAA identifier is GLD.\n\n",
+  "transport_tips": "By road, take I-70 to Goodland and follow US-24 north/east to the airport; the drive from downtown is only a few minutes. There is no regular public transit to the airport, and taxis or rideshare may be limited, so arrange a rental car, courtesy car, or shuttle in advance. For commercial flights, Denver International Airport is the nearest major hub, roughly 170 miles west.",
+  "local_tip": "At 3,655 feet elevation, hot summer days can produce high density altitude, and the area often has gusty crosswinds; check performance and wind before takeoff or landing, and ask the FBO about the preferred runway and current conditions.",
+  "generatedAt": "2026-09-19T23:05:34.584Z",
+  "model": "deepseek-v4.1-flash"
+}

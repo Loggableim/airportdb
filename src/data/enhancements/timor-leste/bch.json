@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BCH",
+    "icao": "WPEC",
+    "name": "Baucau Airport",
+    "country": "Timor-Leste",
+    "city": "Baucau",
+    "lat": -8.4865,
+    "lon": 126.4,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Baucau Airport (BCH/WPEC) serves the city of Baucau, the second-largest urban center in Timor-Leste, located on the country's northern coast. The airfield has historical roots dating back to World War II when it was developed as a military airstrip, and it remains an important regional gateway for the eastern half of the country. Its elevated plateau location offers dramatic approaches but can pose challenges due to surrounding terrain and variable weather conditions.",
+  "faqs": "Q: Which airlines operate from Baucau Airport?\nA: Scheduled commercial service is very limited, with most flights operated by small regional carriers or charter services. Travelers should check current schedules as service can be infrequent.\n\nQ: How far is the airport from Baucau city center?\nA: The airport is located a short drive from downtown Baucau, typically around 10-15 minutes by car depending on road conditions.\n\nQ: Is there a terminal building at Baucau Airport?\nA: Facilities are modest, with a small terminal serving passengers. The airport primarily handles general aviation and occasional regional flights rather than large commercial operations.\n\nQ: Can the airport accommodate larger aircraft?\nA: The runway can handle medium-sized aircraft, but mountainous terrain on approach limits operations and weather can frequently affect service.",
+  "transport_tips": "Taxis and shared minivans (mikrolets) are the most common ways to reach the airport from Baucau town. Pre-arranging transport through a hotel or local contact is recommended, as taxi availability at the terminal can be limited. Roads to the airport can be winding, so allow extra time during the rainy season.",
+  "local_tip": "Visit the nearby WWII Japanese tunnel complex and remnants of old military infrastructure around the airport plateau—fascinating historical sites that most travelers overlook while passing through.",
+  "generatedAt": "2026-06-29T13:27:31.711Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YWG",
+    "icao": "CYWG",
+    "name": "Winnipeg / James Armstrong Richardson International Airport",
+    "country": "Canada",
+    "city": "Winnipeg",
+    "lat": 49.91,
+    "lon": -97.2399,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Winnipeg James Armstrong Richardson International Airport (YWG) is the busiest airport in Manitoba and the primary gateway to central Canada, located approximately 7 km west of downtown Winnipeg. Named after James Armstrong Richardson, a pioneering Canadian bush pilot and aviation entrepreneur who died in 1939, the airport serves as a key hub connecting the prairies with destinations across North America and internationally. It features a modern terminal complex handling over 4 million passengers annually.",
+  "faqs": "Q: How far is YWG from downtown Winnipeg?\nA: The airport is located about 7 km (4.3 miles) west of downtown Winnipeg, with a typical drive time of 15-20 minutes depending on traffic.\n\nQ: Does YWG have a main terminal or multiple terminals?\nA: The airport operates a single main terminal building divided into two levels, with all arrivals and departures handled in this facility.\n\nQ: Is YWG a hub for any major airline?\nA: Yes, YWG serves as a hub for Calm Air and Perimeter Aviation, which provide extensive regional connectivity across Manitoba and northern Canada.\n\nQ: Are there international flights from Winnipeg?\nA: Yes, YWG offers direct flights to destinations in the United States, Mexico, the Caribbean, and select European destinations including seasonal service to London.",
+  "transport_tips": "A taxi or rideshare from YWG to downtown Winnipeg typically costs around CAD $20-25 and takes 15-20 minutes. Winnipeg Transit Route 15 provides affordable bus service between the airport and downtown, operating throughout the day. Long-term and short-term parking options are available on-site, with shuttle services connecting remote lots to the terminal.",
+  "local_tip": "If you have a long layover, consider taking a short taxi ride to Assiniboine Park or The Forks, two of Winnipeg's most popular attractions—both are within 15 minutes of the airport and offer a great way to stretch your legs between flights.",
+  "generatedAt": "2026-06-28T16:16:15.129Z",
+  "model": "MiniMax-M3"
+}

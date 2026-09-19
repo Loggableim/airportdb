@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JRA",
+    "icao": "",
+    "name": "West 30th Street Heliport",
+    "country": "United States",
+    "city": "New York",
+    "lat": 40.7551,
+    "lon": -74.0069,
+    "type": "heliport",
+    "size": 25
+  },
+  "summary": "West 30th Street Heliport (JRA) is a public heliport situated on the west side of Manhattan along the Hudson River waterfront. It primarily serves scheduled helicopter flights, charter operations, and news/media helicopters, functioning as one of the key helicopter gateways in New York City. The facility provides a convenient alternative for travelers seeking quick transfers between Manhattan and regional destinations such as New Jersey airports and the Hamptons.",
+  "faqs": "Q: What is West 30th Street Heliport used for?\nA: The heliport supports scheduled passenger helicopter services, charter flights, and helicopter tours of New York City. It is also commonly used by media and news helicopters covering events in Manhattan.\n\nQ: Does West 30th Street Heliport have an ICAO code?\nA: No, the heliport does not have a public ICAO code; it is primarily identified by its IATA code JRA.\n\nQ: Can travelers bring luggage on helicopter flights from JRA?\nA: Yes, most operators allow small carry-on sized bags, but weight limits are strict due to helicopter weight restrictions. Travelers should check directly with their operator for specific baggage policies.\n\nQ: Is the heliport open to the general public?\nA: Yes, it is a public-use facility, but access to the apron and aircraft is restricted to ticketed passengers and authorized personnel.",
+  "transport_tips": "The heliport is located near the West Side Highway, making it accessible by car or taxi, though parking is limited. Nearby subway stations such as 23rd Street and 34th Street provide convenient access via the A, C, E, and 1 lines. Travelers arriving from New Jersey may also use the NY Waterway ferry terminal within walking distance.",
+  "local_tip": "Arrive at least 30 minutes early — weight and balance calculations are done by hand and security screening for helicopter flights is typically faster than at major airports, but weather delays are common along the Hudson River corridor.",
+  "generatedAt": "2026-06-28T11:05:28.422Z",
+  "model": "MiniMax-M3"
+}

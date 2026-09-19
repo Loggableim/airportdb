@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JYV",
+    "icao": "EFJY",
+    "name": "Jyväskylä Airport",
+    "country": "Finland",
+    "city": "Jyväskylän Maalaiskunta",
+    "lat": 62.3995,
+    "lon": 25.6783,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Jyväskylä Airport is a regional airport serving the city of Jyväskylä, the capital of Central Finland and a major hub for education and industry in the Finnish Lakeland region. Operated by Finavia, it primarily handles domestic flights connecting the region to Helsinki and seasonal international charter services. The airport features a single runway and a compact terminal well-suited to Finland's northern climate.",
+  "faqs": "Q: What airlines operate from Jyväskylä Airport?\nA: Finnair is the main carrier offering regular scheduled flights, primarily connecting Jyväskylä with Helsinki-Vantaa Airport. Seasonal charter flights to European holiday destinations are also available.\n\nQ: How far is the airport from Jyväskylä city center?\nA: The airport is located approximately 20 kilometers north of central Jyväskylä in the municipality of Jyväskylän Maalaiskunta, with a typical drive taking around 25 minutes.\n\nQ: Does the airport operate year-round?\nA: Yes, the airport handles scheduled flights throughout the year, though flight frequencies may be reduced during quieter winter months and some routes are seasonal.\n\nQ: Are there customs and immigration facilities?\nA: The airport is capable of handling international flights with customs and border control services available during scheduled charter operations.",
+  "transport_tips": "Bus services connect the airport to Jyväskylä city center, with journeys taking roughly 30-40 minutes depending on the route and stops. Taxis are readily available outside the terminal and offer a faster, though more expensive, option. Renting a car is recommended for travelers planning to explore the wider Central Finland region and the surrounding Lakeland area.",
+  "local_tip": "If you have a short layover or extra time, the nearby Tikkakoski area offers quick access to the Finnish Air Force Museum, one of Finland's most popular aviation museums featuring historic military aircraft.",
+  "generatedAt": "2026-06-29T07:17:17.905Z",
+  "model": "MiniMax-M3"
+}

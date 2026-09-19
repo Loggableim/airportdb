@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KSO",
+    "icao": "LGKA",
+    "name": "Kastoria National Airport Aristotle",
+    "country": "Greece",
+    "city": "Argos Orestiko",
+    "lat": 40.4463,
+    "lon": 21.2822,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Kastoria National Airport Aristotle (KSO) is a small regional airport serving the city of Kastoria in the West Macedonia region of northern Greece. Named after the ancient philosopher Aristotle, who was born in nearby Stagira, the airport provides essential connectivity to this lakeside city known for its Byzantine churches, fur trade heritage, and scenic Lake Orestiada. The single-runway facility primarily handles domestic and seasonal charter flights.",
+  "faqs": "Q: How far is the airport from Kastoria city center?\nA: The airport is located in Argos Orestiko, approximately 10 km from Kastoria, with a typical drive time of 15-20 minutes.\n\nQ: What airlines operate at Kastoria Airport?\nA: The airport primarily serves Olympic Air and Aegean Airlines domestic routes, mainly connecting to Athens, with occasional seasonal charter flights.\n\nQ: Does the airport have international flights?\nA: The airport is primarily used for domestic flights, with limited seasonal charter services. There are no regular scheduled international flights.\n\nQ: Is the airport open 24 hours?\nA: No, the airport operates only during scheduled flight times and is not open around the clock.\n\n",
+  "transport_tips": "Taxis are the most convenient option to reach Kastoria town, available outside the terminal upon flight arrivals. Rental car services can be arranged, though pre-booking is recommended given the small size of the airport. Public bus connections are limited, so arranging ground transport in advance is advisable.",
+  "local_tip": "If visiting in winter, ask your taxi driver about road conditions around Lake Orestiada, as fog can roll in quickly from the lake and make the scenic drive to Kastoria unexpectedly slow.",
+  "generatedAt": "2026-06-26T16:35:16.427Z",
+  "model": "MiniMax-M3"
+}

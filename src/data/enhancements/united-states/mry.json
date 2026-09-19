@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MRY",
+    "icao": "KMRY",
+    "name": "Monterey Regional Airport",
+    "country": "United States",
+    "city": "Monterey",
+    "lat": 36.5868,
+    "lon": -121.8442,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Monterey Regional Airport (MRY) is a medium-sized public airport located approximately 3 miles east of downtown Monterey, California, serving the Monterey Peninsula including Carmel, Pacific Grove, and Pebble Beach. The airport provides convenient access to one of California's most popular coastal tourist destinations, known for attractions like the Monterey Bay Aquarium, 17-Mile Drive, and nearby Big Sur. It primarily handles regional and domestic flights, making it a key gateway for visitors to the central California coast.",
+  "faqs": "Q: What airlines fly into Monterey Regional Airport?\nA: The airport is typically served by regional carriers offering nonstop flights to major hubs such as Los Angeles, San Francisco, Denver, Phoenix, and Seattle, with service varying by season.\n\nQ: How far is Monterey Regional Airport from downtown Monterey?\nA: The airport is approximately 3 miles east of downtown Monterey, with a typical drive taking around 10 minutes under normal traffic conditions.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers both short-term and long-term parking options conveniently located adjacent to the terminal building.\n\nQ: Can I find rental cars at MRY?\nA: Yes, several major rental car companies maintain counters at the airport, and having a car is highly recommended for exploring the Monterey Peninsula's many spread-out attractions.",
+  "transport_tips": "Renting a car is the most practical way to reach destinations across the Monterey Peninsula, as the area's top attractions like Carmel-by-the-Sea and Pebble Beach are spread out and not well-served by public transit. Rideshare services like Uber and Lyft are available but can be limited; booking ahead is advisable during peak travel times. Taxis and pre-arranged hotel shuttles are additional options, particularly for travelers staying at resort properties in the area.",
+  "local_tip": "If you're heading to the Monterey Bay Aquarium or Cannery Row, consider using the free MST Route 1 bus from the nearby stop rather than driving, as parking in that area can be limited and expensive during peak tourist season.",
+  "generatedAt": "2026-06-29T01:55:14.940Z",
+  "model": "MiniMax-M3"
+}

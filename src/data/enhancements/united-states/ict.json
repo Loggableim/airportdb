@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ICT",
+    "icao": "KICT",
+    "name": "Wichita Dwight D. Eisenhower National Airport",
+    "country": "United States",
+    "city": "Wichita",
+    "lat": 37.6503,
+    "lon": -97.4286,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Wichita Dwight D. Eisenhower National Airport (ICT) is a medium-sized regional airport serving south-central Kansas, named in honor of the 34th U.S. President who grew up in nearby Abilene. Located in Wichita—a city long known as the 'Air Capital of the World' due to its historic role in aircraft manufacturing (home to Cessna, Beechcraft, and Learjet)—the airport serves as a key gateway for both commercial and general aviation in the region.",
+  "faqs": "Q: Why is the airport code ICT instead of WIC?\nA: The IATA code ICT was assigned based on the historical connection to Wichita's identity as an aviation manufacturing hub, and it has been retained even after several airport name changes to preserve continuity for airlines and travelers.\n\nQ: What airlines operate at Wichita Dwight D. Eisenhower National Airport?\nA: Major carriers including American, Delta, Southwest, United, and Alaska Airlines provide nonstop service to several hub cities across the United States.\n\nQ: How far is the airport from downtown Wichita?\nA: The airport is located approximately 7 miles southwest of downtown Wichita, typically a 15-20 minute drive via I-235 or US-54.\n\nQ: What is the airport named after?\nA: It is named after Dwight D. Eisenhower, the 34th President of the United States, who was born in Denison, Texas, but grew up in Abilene, Kansas.",
+  "transport_tips": "The airport is conveniently located near Interstate 235 and US-54, making it accessible by car in about 15-20 minutes from downtown Wichita. Rental car counters, taxis, and rideshare services like Uber and Lyft are all available at the terminal for ground transportation. Ample on-site parking is offered in short-term and long-term lots directly",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T01:53:15.719Z",
+  "model": "MiniMax-M3"
+}

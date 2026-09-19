@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SDF",
+    "icao": "KSDF",
+    "name": "Louisville Muhammad Ali International Airport",
+    "country": "United States",
+    "city": "Louisville",
+    "lat": 38.1706,
+    "lon": -85.7351,
+    "type": "large_airport",
+    "size": 1875
+  },
+  "summary": "Louisville Muhammad Ali International Airport (SDF) is the primary airport serving Louisville, Kentucky, renamed in 2019 to honor the city's most famous son, boxing legend Muhammad Ali. Beyond passenger service, SDF is a global cargo powerhouse, home to UPS Worldport—the company's global air hub and one of the largest fully automated package sorting facilities in the world. The airport offers a surprisingly efficient passenger experience thanks to its compact, single-terminal layout.",
+  "faqs": "Q: How many terminals does Louisville Muhammad Ali International Airport have?\nA: The airport operates with a single main terminal (recently consolidated into the renovated Landside Terminal), making it easy to navigate with all gates in one concourse.\n\nQ: Why is Louisville's airport so important for cargo?\nA: SDF is home to UPS Worldport, which handles millions of packages daily and serves as the central sorting hub for UPS's global air network, making it one of the busiest cargo airports in North America.\n\nQ: How far is the airport from downtown Louisville?\nA: The airport is located about 6 miles south of downtown Louisville, typically a 10-15 minute drive depending on traffic.\n\nQ: Does the airport have any Muhammad Ali themed features?\nA: Yes, the airport features several tributes to Muhammad Ali, including artwork, displays, and a bronze sculpture honoring the boxing champion.",
+  "transport_tips": "Taxi and rideshare services (Uber and Lyft) are readily available at designated pickup zones on the ground level of the parking garage. The Transit Authority of River City (TARC) operates Route 2, providing affordable public bus service between the airport and downtown Louisville. Rental car counters are located on-site, and the airport is conveniently located near I-65 for easy highway access.",
+  "local_tip": "If you have time between flights or during a layover, look for the Muhammad Ali tribute displays in the terminal—they include rotating exhibits celebrating the champ's legacy, making even a short visit feel meaningful.",
+  "generatedAt": "2026-06-28T15:58:11.542Z",
+  "model": "MiniMax-M3"
+}

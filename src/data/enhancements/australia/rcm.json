@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RCM",
+    "icao": "YRMD",
+    "name": "Richmond Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -20.7019,
+    "lon": 143.115,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Richmond Airport (RCM/YRMD) is a small regional airport serving the town of Richmond in northwestern Queensland's Gulf Savannah region. The facility supports general aviation, charter operations, and provides vital access to this remote outback community. It also serves as a useful waypoint for travelers exploring the region's renowned paleontological sites and vast grazing lands.",
+  "faqs": "Q: What type of aircraft use Richmond Airport?\nA: The airport primarily handles small general aviation aircraft, charter planes, and occasional fly-in visitors to the region.\n\nQ: Are there scheduled commercial flights to Richmond Airport?\nA: No scheduled commercial services operate to RCM; visitors typically arrive via private aircraft or charter flights from Townsville or Mount Isa.\n\nQ: What facilities are available at the airport?\nA: As a small outback airfield, facilities are limited to a basic terminal area and refueling options; passengers should arrange ground transport in advance.\n\nQ: When is the best time to fly into Richmond?\nA: The dry season (May to September) offers the most reliable flying conditions, as the wet season can bring heavy rain and reduced visibility.",
+  "transport_tips": "Ground transport must be arranged in advance, as Richmond is remote and taxi services are not available at the airport. Rental vehicles and local accommodation pick-ups are the most common transfer options. Visitors flying in should coordinate with their accommodation provider before arrival to ensure a smooth pickup.",
+  "local_tip": "If visiting, ask local pilots about the short flight over to the Kronosaurus Korner museum in town—Richmond is internationally famous for its marine fossil discoveries from the Cretaceous period.",
+  "generatedAt": "2026-06-26T15:44:01.819Z",
+  "model": "MiniMax-M3"
+}

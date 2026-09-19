@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UCK",
+    "icao": "UKLC",
+    "name": "Lutsk Airport",
+    "country": "Ukraine",
+    "city": "Lutsk",
+    "lat": 50.6784,
+    "lon": 25.4872,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lutsk Airport (UCK/UKLC) is a small regional airport serving the historic city of Lutsk, the administrative center of Ukraine's Volyn Oblast in the northwest of the country. The airport primarily handles general aviation and limited charter operations, serving as a gateway to a region known for its medieval Lubart's Castle and rich Volhynian heritage. Its modest infrastructure reflects the small scale of commercial air activity in the area, with most travelers using larger hubs in Lviv or Kyiv.",
+  "faqs": "Q: What is the airport code for Lutsk Airport?\nA: Lutsk Airport uses the IATA code UCK and the ICAO code UKLC.\n\nQ: Does Lutsk Airport offer international flights?\nA: The airport has historically handled limited international charter and general aviation flights, but scheduled international commercial service is very limited or absent.\n\nQ: How far is Lutsk Airport from the city center?\nA: The airport is located a short distance from central Lutsk, typically reachable by road in around 15-20 minutes depending on traffic.\n\nQ: What facilities are available at Lutsk Airport?\nA: As a small regional airport, it offers basic terminal facilities suited to general aviation and limited passenger operations rather than full commercial amenities.",
+  "transport_tips": "Reaching Lutsk Airport is easiest by car or taxi, as the facility is small and lacks a dedicated public transit link. Many travelers opt to hire a taxi from central Lutsk, which is straightforward and inexpensive. Visitors from neighboring Lviv or Rivne can reach Lutsk via intercity bus or marshrutka and then arrange local transport to the airport.",
+  "local_tip": "If you're visiting Lutsk for the airport, set aside time to walk around the old town and visit Lubart's Castle — it's one of Ukraine's best-preserved medieval fortifications and sits right in the city center, just a short ride from the airport.",
+  "generatedAt": "2026-06-28T02:47:33.678Z",
+  "model": "MiniMax-M3"
+}

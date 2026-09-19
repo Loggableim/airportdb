@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BNU",
+    "icao": "SSBL",
+    "name": "Blumenau Airport",
+    "country": "Brazil",
+    "city": "Blumenau",
+    "lat": -26.8317,
+    "lon": -49.0936,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Blumenau Airport (BNU/SSBL) serves the city of Blumenau in the state of Santa Catarina in southern Brazil, providing regional connectivity to this culturally significant destination. Blumenau is celebrated for its strong German colonial heritage, visible in its distinctive architecture and traditions, and is best known as the host of Oktoberfest, the largest German festival in the Americas. The small airport primarily handles domestic regional flights connecting the city to major Brazilian hubs.",
+  "faqs": "Q: What airlines operate from Blumenau Airport?\nA: The airport is served primarily by Brazilian regional carriers offering domestic flights to major hubs such as São Paulo and Curitiba.\n\nQ: How far is Blumenau Airport from the city center?\nA: The airport is located a short distance from downtown Blumenau, with typical transfer times of around 20 to 30 minutes by road.\n\nQ: Does Blumenau Airport handle international flights?\nA: No, Blumenau Airport is a domestic-only facility focused on regional routes within Brazil.\n\nQ: What are Blumenau Airport's IATA and ICAO codes?\nA: The IATA code is BNU and the ICAO code is SSBL.\n\n",
+  "transport_tips": "Taxis and rideshare services are readily available at the terminal for the short trip into central Blumenau. Rental car agencies",
+  "local_tip": "",
+  "generatedAt": "2026-06-27T06:46:35.831Z",
+  "model": "MiniMax-M3"
+}

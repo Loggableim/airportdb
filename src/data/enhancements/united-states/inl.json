@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "INL",
+    "icao": "KINL",
+    "name": "Falls International Airport",
+    "country": "United States",
+    "city": "International Falls",
+    "lat": 48.5662,
+    "lon": -93.4031,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Falls International Airport (INL) serves International Falls, Minnesota, a border community on the Rainy River across from Fort Frances, Ontario. The airport supports the region's tourism, forestry, and paper industries, and provides essential connectivity for residents of one of the coldest cities in the continental United States. Its proximity to Voyageurs National Park makes it a convenient gateway for outdoor recreation visitors.",
+  "faqs": "Q: How far is Falls International Airport from downtown International Falls?\nA: The airport is located approximately two miles south of downtown International Falls, making it a quick drive.\n\nQ: Does the airport offer customs or border services?\nA: Yes, the airport has U.S. Customs and Border Protection facilities, supporting general aviation cross-border travel between the U.S. and Canada.\n\nQ: What is International Falls known for?\nA: International Falls is nicknamed the 'Icebox of the Nation' due to its consistently frigid winter temperatures, and it sits along the scenic Rainy River near Voyageurs National Park.\n\nQ: Are there commercial airline flights to INL?\nA: Yes, the airport is served by regional carriers offering scheduled passenger service to larger hub airports.",
+  "transport_tips": "Rental cars are the most practical option for reaching the airport, as there is no fixed-route public transit serving the terminal. Taxi and shuttle services are available but should be arranged in advance, especially during winter months when weather can affect availability. The short distance from town makes the airport easily accessible by car in under 10 minutes.",
+  "local_tip": "Pack extra layers even in summer, as flights occasionally divert or delay due to fog rolling off Rainy Lake, and having warm clothing on hand is wise year-round in this border region.",
+  "generatedAt": "2026-06-29T06:08:41.496Z",
+  "model": "MiniMax-M3"
+}

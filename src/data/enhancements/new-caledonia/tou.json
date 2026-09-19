@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TOU",
+    "icao": "NWWU",
+    "name": "Touho Airport",
+    "country": "New Caledonia",
+    "city": "Touho",
+    "lat": -20.7901,
+    "lon": 165.2595,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Touho Airport is a small regional airport serving the commune of Touho on the northeastern coast of Grande Terre, the main island of New Caledonia. It primarily handles domestic flights operated by Air Calédonie, connecting remote communities along the island's east coast to Nouméa's Magenta Airport. The airport plays a vital role in providing access to the largely undeveloped and culturally significant Hienghène and Touho areas, known for their traditional Kanak heritage and dramatic coastal landscapes.",
+  "faqs": "Q: What airlines fly from Touho Airport?\nA: Air Calédonie is the main carrier serving Touho, operating propeller aircraft on domestic routes primarily to Nouméa (Magenta Airport).\n\nQ: How far is the airport from Touho town centre?\nA: The airport is located a short distance from the town of Touho, typically reachable in around 5-10 minutes by car.\n\nQ: Does Touho Airport have international flights?\nA: No, Touho is a domestic-only airport; international travellers must transit through La Tontouta International Airport near Nouméa.\n\nQ: What facilities are available at the terminal?\nA: As a small regional airport, facilities are limited to a basic terminal with essential check-in services rather than extensive amenities.\n\n",
+  "transport_tips": "The most practical way to reach or leave Touho Airport is by car, as the terminal is small and located close to the main road into town. Rental cars are available in Nouméa and can be driven up the east coast, though booking ahead is recommended. There is no dedicated airport shuttle, but local taxi services and hotel transfers can usually be arranged in advance.\n\n",
+  "local_tip": "If you have time before your flight, visit the nearby Plage de Touho or the cultural centre to learn about local Kanak traditions — the east coast of Grande Terre is far less touristy than Nouméa and offers some of the most authentic cultural encounters in New Caledonia.",
+  "generatedAt": "2026-06-29T15:55:15.346Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DAX",
+    "icao": "ZUDX",
+    "name": "Dachuan Airport",
+    "country": "China",
+    "city": "Dazhou (Daxian)",
+    "lat": 31.1302,
+    "lon": 107.4295,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Dachuan Airport (DAX/ZUDX) is a small regional airport serving Dazhou, a prefecture-level city in northeastern Sichuan Province, China. Located in the hilly terrain of the Daba Mountains region, it provides essential air connectivity for the local population and supports business travel in an area better known for its natural gas resources and agricultural output. The airport handles primarily domestic flights connecting Dazhou to major Chinese hubs such as Chengdu and other regional cities.",
+  "faqs": "Q: What is the IATA code for Dachuan Airport?\nA: The IATA code is DAX.\n\nQ: Does Dachuan Airport offer international flights?\nA: No, Dachuan Airport primarily serves domestic routes within China, with flights connecting Dazhou to major cities like Chengdu and other regional destinations.\n\nQ: How far is Dachuan Airport from downtown Dazhou?\nA: The airport is located on the outskirts of the city, roughly 10-15 kilometers from the main urban center of Dazhou, typically a 20-30 minute drive depending on traffic.\n\nQ: What facilities are available at Dachuan Airport?\nA: As a small regional airport, it offers basic passenger services including a terminal with check-in counters, waiting areas, and limited dining and retail options.",
+  "transport_tips": "Taxis and ride-hailing services like Didi are the most convenient ways to reach the airport from downtown Dazhou, typically taking 20-30 minutes. Several local bus routes also serve the airport area, though schedules may be limited. Travelers are advised to allow extra time during peak travel periods and inclement weather, as the mountainous road approaches can be affected by fog.",
+  "local_tip": "Frequent travelers recommend packing a light jacket even in summer, as the airport's location in the Daba Mountains region can bring unexpectedly cool mornings and evenings compared to the city below.",
+  "generatedAt": "2026-06-26T16:50:20.084Z",
+  "model": "MiniMax-M3"
+}

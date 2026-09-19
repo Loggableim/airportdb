@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RON",
+    "icao": "SKPA",
+    "name": "Juan Jose Rondon Airport",
+    "country": "Colombia",
+    "city": "Paipa",
+    "lat": 5.7645,
+    "lon": -73.1054,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Juan Jose Rondon Airport (RON/SKPA) is a small airfield serving the town of Paipa in the Boyacá Department of Colombia, nestled in the Andean foothills. It primarily handles general aviation and charter flights, providing convenient access to Paipa's renowned thermal hot springs, Lake Sochagota, and surrounding colonial heritage sites. The airport's modest infrastructure reflects the quiet, nature-focused character of this popular Colombian wellness tourism destination.",
+  "faqs": "Q: What is Juan Jose Rondon Airport primarily used for?\nA: The airport mainly serves general aviation, private aircraft, and occasional charter flights, as it does not host scheduled commercial airline service.\n\nQ: Where is the airport located relative to Paipa?\nA: It is situated on the outskirts of Paipa, just a short drive from the town center, Lake Sochagota, and the main thermal hot spring resorts.\n\nQ: Does the airport operate at night?\nA: As a small regional airfield, it generally operates during daylight hours, and pilots are advised to confirm availability for after-dark operations.\n\nQ: Can I rent a car at the airport?\nA: Rental car services are not typically available on-site; visitors usually arrange ground transportation in advance or use local taxis upon arrival.\n\n",
+  "transport_tips": "Taxis and pre-arranged shuttle services are the most common ways to reach Paipa's town center and hotel district from the airport. Given the short distance, the ride into Paipa is quick, but arranging pickup in advance is recommended since there is no formal taxi stand. Driving in from nearby cities like Sogamoso or Duitama is straightforward via well-maintained regional roads.",
+  "local_tip": "If you are visiting for the thermal baths, ask your hotel to coordinate airport pickup directly—most Paipa resorts include this service for guests, saving you the hassle of negotiating a ride on arrival.",
+  "generatedAt": "2026-06-27T14:00:36.429Z",
+  "model": "MiniMax-M3"
+}

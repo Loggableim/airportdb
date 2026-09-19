@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AOT",
+    "icao": "LIMW",
+    "name": "Aosta Corrado Gex Airport",
+    "country": "Italy",
+    "city": "Saint-Christophe (AO)",
+    "lat": 45.7386,
+    "lon": 7.3683,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Aosta Corrado Gex Airport serves the Aosta Valley in northwestern Italy, nestled in the Alpine region near the city of Aosta. Named after Corrado Gex, a local aviator and politician, the airport functions primarily as a gateway for general aviation, private jets, and seasonal charter flights catering to the region's ski resorts and mountain tourism. Its scenic valley location makes it a convenient arrival point for visitors heading to destinations like Courmayeur, Cervinia, and La Thuile.",
+  "faqs": "Q: What kind of flights operate from Aosta Airport?\nA: The airport primarily handles general aviation, private aircraft, and seasonal charter flights; scheduled commercial service is limited.\n\nQ: How far is the airport from the city of Aosta?\nA: Saint-Christophe is just a few kilometers east of Aosta's city center, typically a 10-minute drive.\n\nQ: Can I reach major ski resorts from the airport?\nA: Yes, the airport provides easy access to popular Aosta Valley ski areas including Courmayeur, Cervinia, and Pila, which is directly accessible via cable car from nearby Aosta.\n\nQ: Are there car rental services available?\nA: Limited rental options are available, so booking in advance is recommended for visitors arriving by private or charter flights.\n\n",
+  "transport_tips": "Renting a car is the most practical way to reach the airport and explore the surrounding Aosta Valley, as public transit options are limited at this small regional facility. Taxi services from central Aosta are available but should be arranged in advance, especially outside peak hours. During ski season, some resorts offer shuttle services from the airport.",
+  "local_tip": "Since the airport mostly handles private and charter traffic, coordinate ground transportation and parking",
+  "generatedAt": "2026-06-29T07:39:56.275Z",
+  "model": "MiniMax-M3"
+}

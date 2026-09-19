@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GAB",
+    "icao": "KGAB",
+    "name": "Gabbs Airport",
+    "country": "United States",
+    "city": "Gabbs",
+    "lat": 38.9232,
+    "lon": -117.9572,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Gabbs Airport is a small general aviation facility serving the rural community of Gabbs in Nye County, Nevada. The airport primarily supports the surrounding mining operations and recreational flying in the remote high-desert region of central Nevada. Its location provides convenient access to the Gabbs area and surrounding public lands roughly halfway between Reno and Las Vegas.",
+  "faqs": "Q: Does Gabbs Airport offer commercial airline service?\nA: No, Gabbs Airport is a general aviation facility with no scheduled commercial passenger service.\n\nQ: What is the airport primarily used for?\nA: The airport mainly serves private pilots, recreational flying, and aircraft supporting local mining and ranching operations in the area.\n\nQ: Are there fuel services available at the airport?\nA: Fuel availability at small airports like Gabbs can be limited and varies; pilots should contact the airport manager in advance to confirm services.\n\nQ: Is the airport accessible to the public?\nA: As a public-use airport, the runway and basic facilities are accessible to visiting pilots, though amenities are minimal given the rural setting.",
+  "transport_tips": "Ground transportation options are extremely limited due to the airport's remote location, so visitors should arrange a vehicle in advance. The town of Gabbs is only a short drive from the airport, but rental car services are not available on-site. Many visitors coordinate transportation with local contacts or drive their own vehicles to the airport.",
+  "local_tip": "Pack extra water and snacks before arriving—Gabbs has very limited dining and supply options, and the nearest major services are over an hour's drive away in Fallon or Hawthorne.",
+  "generatedAt": "2026-06-27T07:57:22.791Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HMT",
+    "icao": "KHMT",
+    "name": "Hemet Ryan Airport",
+    "country": "United States",
+    "city": "Hemet",
+    "lat": 33.734,
+    "lon": -117.023,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Hemet Ryan Airport is a small general aviation facility located in the city of Hemet in Riverside County, California, serving the San Jacinto Valley. Named in honor of the historic Ryan School of Aeronautics, which was once based in the area, the airport is part of the legacy of aviation pioneer T. Claude Ryan, known for designing the Ryan Firebee target drone and Spirit of St. Louis. Today, it primarily handles private aircraft, flight training, and recreational flying in the Inland Empire region.",
+  "faqs": "Q: What type of airport is Hemet Ryan Airport?\nA: It is a small general aviation airport primarily serving private pilots, flight training, and recreational aircraft.\n\nQ: Does Hemet Ryan Airport offer commercial flights?\nA: No, the airport does not provide scheduled commercial airline service.\n\nQ: Where is the airport located?\nA: It is situated in Hemet, California, within Riverside County's San Jacinto Valley, roughly 80 miles southeast of Los Angeles.\n\nQ: What facilities are available at KHMT?\nA: The airport features runways, tie-down parking, fuel services, and is used for flight instruction and aircraft storage.\n\n",
+  "transport_tips": "The airport is located just off State Route 74 (Florida Avenue) within the city of Hemet, making it easily accessible by car. Rideshare services and local taxis are available, though visitors should arrange ground transportation in advance. The nearest major freeway, Interstate 215, is approximately 20 miles west via Highway 74.",
+  "local_tip": "Visit the nearby Western Science Center in Hemet, which features Ice Age fossils discovered during local construction, for an unexpectedly rewarding stop before or after a flight.",
+  "generatedAt": "2026-06-27T00:21:19.910Z",
+  "model": "MiniMax-M3"
+}

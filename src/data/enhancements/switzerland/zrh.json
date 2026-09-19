@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZRH",
+    "icao": "LSZH",
+    "name": "Zürich Airport",
+    "country": "Switzerland",
+    "city": "Zurich",
+    "lat": 47.4581,
+    "lon": 8.5481,
+    "type": "large_airport",
+    "size": 1025475
+  },
+  "summary": "Zürich Airport (ZRH) is Switzerland's largest and busiest airport, located in Kloten about 13 km north of Zurich city center. Opened in 1948, it serves as the main hub for Swiss International Air Lines and is renowned for its efficiency, cleanliness, and punctual operations. The airport features an integrated underground railway station and the modern Circle complex with hotels, restaurants, and conference facilities.",
+  "faqs": "Q: How far is Zürich Airport from the city center?\nA: The airport is approximately 13 km north of Zurich city center, reachable in about 10-15 minutes by train or 20-30 minutes by car depending on traffic.\n\nQ: Is there a train station at the airport?\nA: Yes, Zürich Flughafen has an underground railway station directly beneath Terminal 2, with frequent SBB trains and InterCity services connecting to Zurich Hauptbahnhof and other Swiss cities.\n\nQ: How many terminals does Zürich Airport have?\nA: The airport has three terminals (1, 2, and 3) connected by the Airside Center, allowing passengers to move between them airside without re-entering security.\n\nQ: What is the best way to get from the airport to Lucerne or Bern?\nA: Direct trains run from the airport's underground station to Lucerne in roughly 70 minutes and to Bern in about 75 minutes, making rail the most convenient option.\n\n",
+  "transport_tips": "The Swiss Federal Railways (SBB) station beneath Terminal 2 is the fastest way to reach central Zurich, with trains running every 10 minutes. For door-to-door convenience, especially with luggage, taxis and ride services are available 24/7 outside Arrivals 1 and 2. If renting a car, the airport offers direct access to the A51 motorway linking to the national road network.",
+  "local_tip": "Frequent flyers recommend visiting the airport's Center or Dock observation terraces (Check-in 1 and Dock E) for unique plane-spotting views across the airfield, free of charge and with refreshments available nearby.",
+  "generatedAt": "2026-06-28T14:57:55.624Z",
+  "model": "MiniMax-M3"
+}

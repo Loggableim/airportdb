@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OIM",
+    "icao": "RJTO",
+    "name": "Oshima Airport",
+    "country": "Japan",
+    "city": "Izu Oshima",
+    "lat": 34.782,
+    "lon": 139.36,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Oshima Airport (OIM) is the primary aviation gateway to Izu Oshima, the largest island in the Izu Island chain approximately 120 km south of Tokyo. The airport mainly supports tourist traffic heading to the island's active Mount Mihara volcano, hot springs, and camellia blooms. It features a compact single-runway layout and is served predominantly by short-haul flights connecting to Chofu Airport in western Tokyo.",
+  "faqs": "Q: Which airlines operate at Oshima Airport?\nA: New Central Airservice (NCA) is the primary carrier, offering regular flights between Oshima and Chofu Airport in Tokyo.\n\nQ: How long is the flight from Tokyo to Oshima?\nA: The flight to Chofu Airport takes roughly 25-30 minutes, making it the fastest route from central Tokyo to the island.\n\nQ: What facilities are available at the airport?\nA: The terminal is small but includes a waiting lounge, restrooms, vending machines, a souvenir counter, and basic food options.\n\nQ: Can I reach Izu Oshima by ferry instead?\nA: Yes, ferries operate from Tokyo's Takeshiba terminal to Motomachi Port, taking approximately 2 hours and 45 minutes for travelers preferring sea travel.",
+  "transport_tips": "The airport is about a 20-minute drive from Motomachi, the island's main town, and taxis or local shuttle buses are typically available to meet arriving flights. Rental car and scooter agencies can be found in town, and booking a car in advance is recommended during peak travel seasons. If flights are canceled due to volcanic activity or weather, ferries from",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T12:32:10.727Z",
+  "model": "MiniMax-M3"
+}

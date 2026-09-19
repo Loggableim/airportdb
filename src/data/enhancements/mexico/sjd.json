@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SJD",
+    "icao": "MMSD",
+    "name": "Los Cabos International Airport",
+    "country": "Mexico",
+    "city": "San José del Cabo",
+    "lat": 23.1519,
+    "lon": -109.7207,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Los Cabos International Airport (SJD) is the main gateway to Mexico's Baja California Sur resort corridor, serving the twin destinations of San José del Cabo and Cabo San Lucas. Situated about 11 km north of San José del Cabo, it handles millions of leisure travelers annually, with traffic peaking during the winter high season. The airport features two terminals and is a key hub for both domestic Mexican carriers and international flights from the United States and Canada.",
+  "faqs": "Q: How far is Los Cabos International Airport from Cabo San Lucas?\nA: The airport is approximately 45 km (28 miles) from Cabo San Lucas, with a typical driving time of 40-60 minutes depending on traffic.\n\nQ: Does the airport have international arrival facilities?\nA: Yes, Terminal 2 primarily handles international flights and includes customs and immigration services for travelers arriving from outside Mexico.\n\nQ: Are there currency exchange services at SJD?\nA: Yes, currency exchange counters and ATMs are available in both terminals, though rates are generally better at bank branches in town.\n\nQ: Is there a lounge available for travelers?\nA: Yes, the airport features VIP lounges and airline-specific lounges, particularly in Terminal 2 for international travelers.",
+  "transport_tips": "Authorized airport taxis operate at fixed rates posted outside the terminals; confirm the price to your destination before boarding. Shared shuttle services and pre-booked private transfers are often more economical for groups traveling to Cabo San Lucas or resort areas. Rental car agencies are available on-site but booking in advance is recommended, especially during peak travel months.",
+  "local_tip": "If you're departing on an international flight, arrive at least 3 hours early during winter high season—immigration lines can stretch long, but the airport's second-level restaurants with terrace views offer a pleasant way to pass the wait while watching planes on the runway.",
+  "generatedAt": "2026-06-28T17:04:47.666Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TPA",
+    "icao": "KTPA",
+    "name": "Tampa International Airport",
+    "country": "United States",
+    "city": "Tampa",
+    "lat": 27.9755,
+    "lon": -82.5332,
+    "type": "large_airport",
+    "size": 1017475
+  },
+  "summary": "Tampa International Airport is a large hub in western Florida serving the Tampa Bay region, including St. Petersburg and Clearwater. It opened its current terminal in 1971 and pioneered the landside/airside terminal design, where passengers park or arrive at a central landside building and travel to separate airsides for boarding. TPA is consistently ranked among the top U.S. airports for customer satisfaction and operational efficiency.",
+  "faqs": "Q: How far is Tampa International Airport from downtown Tampa?\nA: TPA is located approximately 6 miles west of downtown Tampa, about a 15-minute drive under normal traffic conditions.\n\nQ: Does Tampa International have a people mover or train system?\nA: Yes, TPA uses an automated people mover system that connects the main landside terminal to the four remote airsides (A, C, E, and F).\n\nQ: How many terminals or airsides does TPA have?\nA: TPA has one main landside terminal and four airsides (A, C, E, and F), each handling different airline groups.\n\nQ: Is Tampa International Airport easy to navigate?\nA: Yes, TPA is widely praised for its simple layout, clear signage, and short walking distances, making it one of the most passenger-friendly airports in the U.S.",
+  "transport_tips": "TPA is well-connected by Interstate 275 and the Veterans Expressway, making it accessible by car with reasonable travel times. A TECO Line Streetcar connects the airport to downtown Tampa and the Channelside district for a small fare. Ride-shares, taxis, and rental cars are available on the lower arrival level, and the airport is also served by Hillsborough Area Regional Transit (HART) bus routes.",
+  "local_tip": "If you have time between flights, the airsides have a variety of local Florida dining options, including Cuban sandwiches and fresh seafood, and Airside C features a rotating art exhibit showcasing regional artists.",
+  "generatedAt": "2026-06-28T15:02:39.970Z",
+  "model": "MiniMax-M3"
+}

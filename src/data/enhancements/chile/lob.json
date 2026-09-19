@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LOB",
+    "icao": "SCAN",
+    "name": "San Rafael Airport",
+    "country": "Chile",
+    "city": "Los Andes",
+    "lat": -32.8139,
+    "lon": -70.6466,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "San Rafael Airport is a small regional airfield serving Los Andes, a city in Chile's Valparaíso Region nestled in the Aconcagua Valley at the foot of the Andes mountains. The airport primarily handles general aviation and charter flights, supporting the surrounding mining and agricultural industries. Its location provides easy access to high-altitude Andean destinations and the border crossing with Argentina via the nearby Libertadores pass.",
+  "faqs": "Q: What type of flights does San Rafael Airport handle?\nA: The airport primarily serves general aviation, private charters, and small commercial flights, with no scheduled commercial passenger service.\n\nQ: Is the airport suitable for large aircraft?\nA: No, as a small airport, it is designed for light aircraft and turboprops rather than large jets.\n\nQ: How high above sea level is the airport?\nA: San Rafael Airport sits at a high elevation typical of Andean valley locations, which pilots should account for during takeoff and landing performance calculations.\n\nQ: Are there customs and immigration facilities?\nA: Limited customs services may be available given its proximity to the Argentina border, but travelers should arrange international clearances in advance.\n\n",
+  "transport_tips": "Ground transportation from the airport to Los Andes city center is typically arranged by private vehicle or taxi, as public transit options are limited. Rental cars can be coordinated in advance through agencies in Los Andes for flexibility exploring the Aconcagua Valley. Travelers heading to the Argentine border should plan extra time for mountain road conditions, especially during winter months.",
+  "local_tip": "If you're flying in for skiing at nearby Portillo or exploring the Aconcagua Valley, request a window seat on the approach—the aerial views of the Andean peaks and the winding valley roads are spectacular and offer a preview of the terrain you'll be exploring.",
+  "generatedAt": "2026-06-28T02:44:23.644Z",
+  "model": "MiniMax-M3"
+}

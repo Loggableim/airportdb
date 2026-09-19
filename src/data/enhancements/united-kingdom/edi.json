@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EDI",
+    "icao": "EGPH",
+    "name": "Edinburgh Airport",
+    "country": "United Kingdom",
+    "city": "Edinburgh",
+    "lat": 55.9501,
+    "lon": -3.3723,
+    "type": "large_airport",
+    "size": 51275
+  },
+  "summary": "Edinburgh Airport (EDI) is Scotland's busiest airport, located approximately 8 miles (13 km) west of Edinburgh city centre. Originally established as Turnhouse Aerodrome during World War I, it has evolved into a major international gateway serving over 14 million passengers annually and connecting Scotland to destinations across Europe, North America, and beyond.",
+  "faqs": "Q: How far is Edinburgh Airport from the city centre?\nA: Approximately 8 miles (13 km) west of central Edinburgh, with typical journey times of 30-40 minutes depending on traffic and transport mode.\n\nQ: What public transport options connect the airport to Edinburgh?\nA: The Edinburgh Tram runs directly between the airport and York Place in the city centre",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T15:41:26.190Z",
+  "model": "MiniMax-M3"
+}

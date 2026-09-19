@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BEY",
+    "icao": "OLBA",
+    "name": "Beirut Rafic Hariri International Airport",
+    "country": "Lebanon",
+    "city": "Beirut",
+    "lat": 33.8198,
+    "lon": 35.4874,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Beirut Rafic Hariri International Airport is Lebanon's primary international gateway, located about 9 km south of the capital in the Khaldiyeh area. Originally established in the 1950s, it was renamed in 2003 in honor of former Prime Minister Rafic Hariri. The airport serves as the main hub for Middle East Airlines (MEA) and has undergone major reconstruction following damage during the 2006 Lebanon War.",
+  "faqs": "Q: How far is the airport from central Beirut?\nA: The airport is approximately 9 km (5.6 miles) south of downtown Beirut, typically a 15-25 minute drive depending on traffic.\n\nQ: Which airlines operate from Beirut Rafic Hariri Airport?\nA: Middle East Airlines (MEA) is the national carrier and main hub operator, alongside numerous international carriers including Emirates, Qatar Airways, Turkish Airlines, Lufthansa, and Air France.\n\nQ: Does the airport have a single terminal?\nA: Yes, the airport operates from one main terminal building that handles all domestic and international flights.\n\nQ: Are there currency exchange services available?\nA: Yes, several banks and ATMs are available in the arrivals hall offering Lebanese pound exchange and international currency services.",
+  "transport_tips": "Official taxis and app-based services like Bolt operate from designated ranks outside the terminal; agree on a fare before departure as meters are rarely used. The Horgeir and Nahr el-Bared bus routes from the airport provide affordable connections into Beirut. Traffic on the airport road can be heavy during peak hours, so allow extra time during morning and evening rush.",
+  "local_tip": "The airport's Duty Free shops are known for competitive pricing on luxury goods and Lebanese products like olive oil and arak—budget extra time to browse before your flight.",
+  "generatedAt": "2026-06-28T18:48:08.346Z",
+  "model": "MiniMax-M3"
+}

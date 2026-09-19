@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RTS",
+    "icao": "YRTI",
+    "name": "Rottnest Island Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -32.0067,
+    "lon": 115.54,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Rottnest Island Airport is a small general aviation airfield on Rottnest Island, located approximately 19 kilometres off the coast of Western Australia near Perth and Fremantle. The airport primarily serves charter flights, scenic air tours, and private aviation rather than scheduled commercial services. It provides a fast alternative for visitors heading to the popular car-free holiday island, which is internationally renowned for its friendly quokka population and turquoise bays.",
+  "faqs": "Q: Where exactly is Rottnest Island Airport located?\nA: The airport sits on Rottnest Island, about 19 km offshore from Fremantle in Western Australia.\n\nQ: Are there scheduled commercial flights to RTS?\nA: No scheduled commercial services operate into Rottnest Island Airport. It is used mainly for charter flights, scenic tours, and private aviation.\n\nQ: Can I fly there from Perth?\nA: Yes, charter and scenic flights",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-26T14:14:08.254Z",
+  "model": "MiniMax-M3"
+}

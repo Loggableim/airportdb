@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CRL",
+    "icao": "EBCI",
+    "name": "Brussels South Charleroi Airport",
+    "country": "Belgium",
+    "city": "Charleroi",
+    "lat": 50.462,
+    "lon": 4.4596,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Brussels South Charleroi Airport (CRL) is Belgium's second-busiest airport, located in Gosselies, about 46 km south of central Brussels. Originally a military airfield dating back to World War I, it was converted to civilian use in the 1990s and grew rapidly as a major base for low-cost carriers, especially Ryanair. Despite its 'Brussels' branding, it lies in the Walloon city of Charleroi and serves as a budget-friendly alternative to Brussels Airport.",
+  "faqs": "Q: How far is Brussels South Charleroi Airport from central Brussels?\nA: The airport is approximately 46 km (29 miles) south of Brussels city center. By road, the journey typically takes 45 minutes to over an hour depending on traffic.\n\nQ: Is Charleroi Airport the same as Brussels Airport?\nA: No. Brussels Airport (BRU) is the main international hub located near Brussels. Charleroi (CRL) is a separate, smaller airport primarily serving low-cost and regional carriers.\n\nQ: Which airlines fly from Charleroi Airport?\nA: The airport is dominated by Ryanair, which uses it as a major base. Other carriers include Wizz Air, Pegasus Airlines, and a few smaller airlines serving mainly European and North African destinations.\n\nQ: Does Charleroi Airport have a train station?\nA: Yes, there is a nearby train station at Charleroi Airport, accessible by a short walk or shuttle, with direct connections to Charleroi-Sud and onward services to Brussels.",
+  "transport_tips": "A direct shuttle bus (Line A) connects the airport to Charleroi-Sud train station, where trains run to Brussels-Midi/Zuid in about 50 minutes for a combined fare. The TEC bus also serves the airport with routes to surrounding Walloon towns. Taxis and ride-shares are available but pricier; booking ahead is recommended during peak hours.",
+  "local_tip": "If you have a long layover or early flight, the nearby Gosselies area has several Belgian fry stands ('friteries') serving classic frites with mayo, which is a more authentic local experience than the chain restaurants near the terminal.",
+  "generatedAt": "2026-06-28T18:12:58.717Z",
+  "model": "MiniMax-M3"
+}

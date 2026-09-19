@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ROT",
+    "icao": "NZRO",
+    "name": "Rotorua Regional Airport",
+    "country": "New Zealand",
+    "city": "Rotorua",
+    "lat": -38.1092,
+    "lon": 176.317,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Rotorua Regional Airport (ROT) serves the city of Rotorua on New Zealand's North Island, a region renowned for its geothermal wonders, Māori cultural heritage, and adventure tourism. The airport provides essential domestic connectivity to the Bay of Plenty area, sitting just a few kilometers northeast of the city center. It functions as a key gateway for visitors heading to attractions like Wai-O-Tapu Thermal Wonderland and the Whakarewarewa Forest.",
+  "faqs": "Q: What airlines fly from Rotorua Regional Airport?\nA: Air New Zealand operates regular domestic services from ROT, with direct flights connecting to Auckland and other North Island destinations.\n\nQ: How far is the airport from Rotorua city center?\nA: The airport is located approximately 10 kilometers northeast of central Rotorua, making it a short drive to most hotels and attractions.\n\nQ: Are there international flights from Rotorua?\nA: ROT primarily handles domestic flights; travelers on international itineraries typically connect through Auckland Airport.\n\nQ: Does the airport have car rental services?\nA: Yes, several car rental operators have desks at the terminal, and booking in advance is recommended during peak tourism season.\n\n",
+  "transport_tips": "Taxis and shuttle services are available at the terminal, though booking a shuttle ahead of time is wise for early morning or late evening arrivals. Rental cars offer the most flexibility for exploring the wider Rotorua region, including nearby lakes and geothermal parks. The airport is a quick 15-minute drive from the city via State Highway 30.",
+  "local_tip": "If you have a layover or extra time, head straight to the Rotorua Night Market (held weekly) or the Polynesian Spa on the lakefront — both are within a short taxi ride and showcase the city's unique culture and natural hot springs.",
+  "generatedAt": "2026-06-29T06:32:04.205Z",
+  "model": "MiniMax-M3"
+}

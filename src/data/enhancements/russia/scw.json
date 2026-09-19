@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SCW",
+    "icao": "UUYY",
+    "name": "Syktyvkar Airport",
+    "country": "Russia",
+    "city": "Syktyvkar",
+    "lat": 61.647,
+    "lon": 50.8451,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Syktyvkar Airport (SCW/UUYY) is a regional hub serving Syktyvkar, the capital of the Komi Republic in northwestern Russia, situated on the Sysola River. The airport provides vital air connectivity to this remote sub-Arctic region, where road and rail travel can be challenging, especially during long winters. It handles primarily domestic flights connecting the Komi Republic with Moscow, Saint Petersburg, and other Russian cities.",
+  "faqs": "Q: How far is Syktyvkar Airport from the city center?\nA: The airport is located approximately 10 km south of Syktyvkar's city center, with a typical journey taking around 20-30 minutes by car.\n\nQ: What airlines operate from Syktyvkar Airport?\nA: Russian carriers such as Aeroflot, Rossiya Airlines, and Nordwind provide regular scheduled services, primarily to Moscow and Saint Petersburg.\n\nQ: When does Syktyvkar Airport experience its busiest season?\nA: Summer months (June-August) typically see increased traffic due to holiday travel and improved weather conditions, while winter operations occasionally face delays from heavy snowfall.\n\nQ: Does the airport have international flights?\nA: The airport primarily handles domestic flights, with most international connections routed through Moscow.",
+  "transport_tips": "Taxis and marshrutkas (fixed-route minibuses) are the most common ways to reach the city center, with official taxi services available outside the terminal. Pre-booking a transfer is recommended during winter months when ice and snow can affect road conditions. Parking is available near the terminal for those arriving by private vehicle.",
+  "local_tip": "During winter, expect significant temperature drops—Syktyvkar is one of Russia's coldest cities—so allow extra time for de-icing and dress in heavy layers before stepping outside the terminal.",
+  "generatedAt": "2026-06-29T10:09:51.055Z",
+  "model": "MiniMax-M3"
+}

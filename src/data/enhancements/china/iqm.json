@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IQM",
+    "icao": "ZWCM",
+    "name": "Qiemo Yudu Airport",
+    "country": "China",
+    "city": "Qiemo",
+    "lat": 38.2345,
+    "lon": 85.4655,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Qiemo Yudu Airport (IQM) is a regional airport serving Qiemo County in the Bayingolin Mongol Autonomous Prefecture of Xinjiang, in northwestern China. Situated on the southern edge of the Taklamakan Desert along the ancient Silk Road, it provides vital air access to one of China's most remote inhabited areas. The airport primarily handles domestic flights connecting the oasis town to major hubs such as Urumqi and Korla.",
+  "faqs": "Q: What airlines operate from Qiemo Yudu Airport?\nA: The airport is primarily served by regional Chinese carriers, including China Southern Airlines and Joy Air, with scheduled flights mainly to Urumqi and Korla.\n\nQ: How far is the airport from Qiemo town center?\nA: The airport is located approximately 10 km from the county seat, and taxi rides typically take around 15-20 minutes.\n\nQ: Does the airport operate 24 hours?\nA: No, Qiemo Yudu Airport has limited operating hours tied to its scheduled flight arrivals and departures, so it is generally only active during daytime hours.\n\nQ: Are there international flights from IQM?\nA: No, the airport handles domestic flights only and does not offer international service.",
+  "transport_tips": "Taxis are the most common way to reach the airport from Qiemo town, and they are readily available outside the terminal building. Travelers should arrange return transportation in advance, as taxi availability near the airport during off-peak hours can be limited. There is no rail connection to the airport, and road options are via the G0612 highway.",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T14:12:13.462Z",
+  "model": "MiniMax-M3"
+}

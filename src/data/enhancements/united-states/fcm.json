@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FCM",
+    "icao": "KFCM",
+    "name": "Flying Cloud Airport",
+    "country": "United States",
+    "city": "Minneapolis",
+    "lat": 44.8272,
+    "lon": -93.4571,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Flying Cloud Airport is a general aviation reliever airport located in Eden Prairie, a southwestern suburb of Minneapolis, Minnesota. Operated by the Metropolitan Airports Commission (MAC), it serves as a key alternative to Minneapolis-St. Paul International Airport for private, corporate, and flight training operations. The airport is one of the busiest general aviation fields in Minnesota and features a single primary runway (10/28) along with multiple FBOs and aviation service providers.",
+  "faqs": "Q: Does Flying Cloud Airport have commercial airline service?\nA: No, Flying Cloud is a general aviation-only airport with no scheduled commercial flights. It primarily serves private pilots, business jets, and flight training.\n\nQ: Where exactly is the airport located?\nA: The airport is in Eden Prairie, Minnesota, roughly 15 miles southwest of downtown Minneapolis, despite bearing the Minneapolis name.\n\nQ: Who operates Flying Cloud Airport?\nA: The airport is owned and operated by the Metropolitan Airports Commission (MAC), the same authority that runs Minneapolis-St. Paul International Airport.\n\nQ: Is there a control tower at Flying Cloud?\nA: Yes, the airport has an air traffic control tower operating during published hours to manage the high volume of general aviation traffic.",
+  "transport_tips": "Since the airport has no commercial service, ground transportation typically requires a personal vehicle, rideshare, or taxi arranged in advance. The airport is conveniently located near major highways including US-212 and I-494",
+  "local_tip": "",
+  "generatedAt": "2026-06-26T23:46:58.539Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "QSX",
+    "icao": "",
+    "name": "New Amsterdam Airport",
+    "country": "Guyana",
+    "city": "New Amsterdam",
+    "lat": 6.2443,
+    "lon": -57.4742,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "New Amsterdam Airport (QSX) is a small regional airport serving the town of New Amsterdam, the second-largest urban center in Guyana and the capital of the East Berbice-Corentyne Region. Situated on the eastern bank of the Berbice River, it primarily handles light aircraft and charter flights connecting the Berbice region to Georgetown and other domestic destinations. The airport supports the local economy by providing essential air access for this agricultural and rice-producing region.",
+  "faqs": "Q: What types of aircraft operate at New Amsterdam Airport?\nA: The airport primarily serves small turboprop aircraft and private planes used for domestic flights within Guyana, as it has a short runway suited to light aviation.\n\nQ: Are there scheduled commercial flights from QSX?\nA: Scheduled service is limited and intermittent; travelers should confirm current schedules with local carriers, as most commercial traffic flows through Cheddi Jagan International Airport near Georgetown.\n\nQ: What facilities are available at the airport?\nA: As a small regional airfield, New Amsterdam Airport offers basic terminal facilities with limited passenger amenities. There are no jet bridges or extensive concessions.\n\nQ: Can I fly directly from New Amsterdam to Georgetown?\nA: Short domestic flights between New Amsterdam and Georgetown's Ogle Airport are sometimes available via charter or small scheduled operators, though road travel is the more common option.",
+  "transport_tips": "Taxis and minibuses are typically available near the airport terminal and can take you into central New Amsterdam within minutes. The town center is just a short drive away, so arranging ground transport in advance is rarely necessary. If traveling onward to Georgetown, the journey by road takes roughly 2.5 to 3 hours via the East Coast highway.",
+  "local_tip": "Carry small Guyanese dollar notes for taxis and local vendors, as change for larger bills can be hard to come by in the Berbice region, and mobile network coverage can be patchy in surrounding areas—download offline maps before your trip.",
+  "generatedAt": "2026-06-28T04:45:16.829Z",
+  "model": "MiniMax-M3"
+}

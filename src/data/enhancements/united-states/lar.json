@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LAR",
+    "icao": "KLAR",
+    "name": "Laramie Regional Airport",
+    "country": "United States",
+    "city": "Laramie",
+    "lat": 41.3121,
+    "lon": -105.675,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Laramie Regional Airport (LAR) serves the city of Laramie, Wyoming, and the surrounding southeastern Wyoming region, including the nearby University of Wyoming campus. Situated on the high plains at an elevation of approximately 7,165 feet, it is one of the higher-altitude airports in the Rocky Mountain region. The airport primarily supports general aviation, corporate flights, and limited commercial service, functioning as an important link for the university's athletics and academic travel needs.",
+  "faqs": "Q: How high is Laramie Regional Airport?\nA: The airport sits at an elevation of roughly 7,165 feet above sea level, which can affect aircraft performance and passenger comfort during takeoff and landing.\n\nQ: Does Laramie Regional Airport have commercial airline service?\nA: Commercial service is limited and historically seasonal or on-demand, with most flights operated by regional carriers or charter services. Travelers should check current schedules directly with airlines.\n\nQ: Is there an airport terminal building with amenities?\nA: Yes, the airport has a small terminal with basic amenities, but passengers should not expect extensive dining or shopping options typical of larger airports.\n\nQ: Can private and charter aircraft land at Laramie Regional?\nA: Yes, the airport accommodates general aviation, corporate jets, and charter flights, with FBO services available for refueling and ground handling.",
+  "transport_tips": "The airport is located just a few miles west of downtown Laramie, making it a quick 10-15 minute drive via Interstate 80 or Snowy Range Road. Rental cars are the most convenient option for getting to and from the airport, as ride-share services and taxis can be limited in the area. During winter months, allow extra time for travel as snow and ice are common on Wyoming roads.",
+  "local_tip": "If you're visiting the University of Wyoming, the airport is closer to campus than Denver International, saving you a two-hour drive through the mountains—especially valuable in winter when I-80 can close due to weather.",
+  "generatedAt": "2026-06-29T04:44:12.899Z",
+  "model": "MiniMax-M3"
+}

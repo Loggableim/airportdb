@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GER",
+    "icao": "MUNG",
+    "name": "Rafael Cabrera Airport",
+    "country": "Cuba",
+    "city": "Nueva Gerona",
+    "lat": 21.8347,
+    "lon": -82.7838,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Rafael Cabrera Airport (GER) serves as the primary air gateway to Nueva Gerona, the capital of Cuba's Isle of Youth special municipality. The airport handles domestic flights, primarily connecting the island with Havana's José Martí International Airport. Named after a local aviation pioneer, it provides essential access for tourists visiting the island's pristine beaches, nature reserves, and historic sites.",
+  "faqs": "Q: What airlines operate at Rafael Cabrera Airport?\nA: The airport is primarily served by Cubana de Aviación, which operates regular domestic flights connecting Nueva Gerona with Havana.\n\nQ: How far is the airport from central Nueva Gerona?\nA: The airport is located a short drive from Nueva Gerona's town center, typically reachable in about 10-15 minutes by taxi.\n\nQ: Is Rafael Cabrera Airport an international airport?\nA: No, the airport primarily handles domestic flights. International travelers typically arrive via Havana and then connect to Nueva Gerona on a domestic flight.\n\nQ: What facilities are available at the airport?\nA: The terminal offers basic amenities including a check-in area, small waiting lounge, and limited food and beverage options typical of a regional Cuban airport.",
+  "transport_tips": "Taxis are the most common way to reach Nueva Gerona from the airport, with drivers typically waiting outside the terminal upon arrival. Pre-arranging accommodations or transport through a hotel or casa particular is recommended, as rental car services are limited on the Isle of Youth. The short runway means weather can occasionally cause delays or diversions, so plan connections to Havana with buffer time.",
+  "local_tip": "Bring enough cash in Cuban convertible currency, as ATMs and card acceptance are extremely limited on the Isle of Youth, and the airport's services are mostly cash-based.",
+  "generatedAt": "2026-06-29T11:55:03.821Z",
+  "model": "MiniMax-M3"
+}

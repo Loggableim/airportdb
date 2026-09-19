@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HCC",
+    "icao": "",
+    "name": "Columbia County Airport",
+    "country": "United States",
+    "city": "Hudson",
+    "lat": 42.2913,
+    "lon": -73.7103,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Columbia County Airport (HCC) is a small general aviation facility serving the Hudson Valley region of upstate New York, located just outside the historic city of Hudson. The airport primarily supports recreational flying, flight training, and private aircraft operations, making it a convenient gateway for visitors exploring the Columbia County area known for its antique shops, art galleries, and Hudson River scenery. Its modest size and rural setting offer a relaxed alternative to the busier commercial airports in the Albany and New York City metropolitan areas.",
+  "faqs": "Q: What type of airport is Columbia County Airport?\nA: Columbia County Airport is a small general aviation airport that primarily serves private pilots, flight schools, and recreational flyers rather than commercial airline passengers.\n\nQ: Does Columbia County Airport offer commercial flights?\nA: No, HCC does not offer scheduled commercial airline service. Travelers seeking commercial flights typically use Albany International Airport, which is about 50 miles north.\n\nQ: Are there facilities for pilots and aircraft at HCC?\nA: Yes, the airport offers basic general aviation services including tie-downs, hangar space, fuel availability, and a fixed-base operator supporting pilot needs.\n\nQ: Can visitors rent a car at Columbia County Airport?\nA: Car rental availability is limited at the airport itself, so visitors are encouraged to arrange transportation in advance or use rideshare and taxi services.\n\n",
+  "transport_tips": "Since the airport has no scheduled commercial service, most arriving visitors either fly in privately or arrange ground transportation from Albany International Airport, roughly an hour's drive north. Local taxi services and rideshare options can be booked in advance for pickup at the airport. Having a personal vehicle is recommended for exploring the broader Columbia County region, as rural public transit options are limited.",
+  "local_tip": "If you're flying into HCC, plan your visit around Hudson's Warren Street, a renowned antique and design destination just minutes from the airport—pilots and passengers often time their trips to coincide with the city's popular antique shows and weekend events.",
+  "generatedAt": "2026-06-27T00:22:43.260Z",
+  "model": "MiniMax-M3"
+}

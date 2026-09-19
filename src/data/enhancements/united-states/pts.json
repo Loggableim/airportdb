@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PTS",
+    "icao": "KPTS",
+    "name": "Atkinson Municipal Airport",
+    "country": "United States",
+    "city": "Pittsburg",
+    "lat": 37.4495,
+    "lon": -94.7311,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Atkinson Municipal Airport (PTS/KPTS) is a small general aviation airport serving Pittsburg in southeastern Kansas. The facility supports local flight training, recreational flying, and corporate aircraft operations for the surrounding Crawford County region. Its location near the Kansas-Missouri border makes it a convenient gateway for visitors to Pittsburg State University and the broader Four State Area.",
+  "faqs": "Q: What is the airport code for Atkinson Municipal Airport?\nA: The IATA code is PTS and the ICAO code is KPTS.\n\nQ: Does Atkinson Municipal Airport offer commercial airline service?\nA: No, PTS is a general aviation facility without scheduled commercial passenger service. It primarily serves private, business, and flight training aircraft.\n\nQ: What facilities are available at PTS?\nA: The airport features runways, tie-downs, hangar space, and fuel services for general aviation users. Pilots should check current operating hours and available services before arrival.\n\nQ: Who manages Atkinson Municipal Airport?\nA: The airport is operated by the City of Pittsburg, Kansas, and is available for public use.\n\n",
+  "transport_tips": "Since PTS is a general aviation airport, visitors typically arrive via private aircraft or by ground transportation from larger airports. The closest commercial airports with scheduled service are Joplin Regional Airport (JLN) about 30 miles south and Springfield-Branson National Airport (SGF) roughly 90 miles east. Rental cars and rideshare services are available in Pittsburg for local travel.",
+  "local_tip": "If visiting for Pittsburg State University events, plan your ground transport in advance as Pittsburg is a small community with limited taxi availability, and the airport sits just a few miles northwest of downtown.",
+  "generatedAt": "2026-06-27T02:29:10.039Z",
+  "model": "MiniMax-M3"
+}

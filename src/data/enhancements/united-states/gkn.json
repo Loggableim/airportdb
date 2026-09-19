@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GKN",
+    "icao": "PAGK",
+    "name": "Gulkana Airport",
+    "country": "United States",
+    "city": "Gulkana",
+    "lat": 62.1559,
+    "lon": -145.4547,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Gulkana Airport is a regional public-use airport located in the Copper River Basin of interior Alaska, near the community of Glennallen. It serves as an important transportation hub for the surrounding rural communities and supports general aviation, medevac operations, and access to remote wilderness areas. The airport plays a key role in connecting interior Alaska to the broader state aviation network.",
+  "faqs": "Q: What is the primary use of Gulkana Airport?\nA: The airport primarily serves general aviation, medevac flights, and provides access to remote communities in the Copper River Basin region of Alaska.\n\nQ: Are there commercial airline services at Gulkana Airport?\nA: Scheduled commercial service is limited; the airport primarily accommodates charter flights, air taxi operations, and private aircraft serving the interior Alaska region.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, tie-down areas for aircraft, and basic services typical of a regional Alaskan airport. Pilots should verify fuel availability and current conditions before arrival.\n\nQ: Is the airport accessible year-round?\nA: Yes, the airport operates year-round, though winter operations may require specialized preparation due to extreme cold temperatures common to interior Alaska.",
+  "transport_tips": "The airport is located near Glennallen along the Richardson Highway, making ground access relatively straightforward by personal vehicle. Rental car services are limited, so arranging transportation in advance is recommended. Many visitors fly in as part of hunting, fishing, or wilderness expeditions and rely on shuttle services or pre-arranged pickups.",
+  "local_tip": "If you're flying in for outdoor recreation, coordinate with local air taxi operators in advance as they often provide combined fly-in access to remote lodges, fishing camps, and guided expeditions throughout the Copper River Basin.",
+  "generatedAt": "2026-06-29T19:55:43.859Z",
+  "model": "MiniMax-M3"
+}

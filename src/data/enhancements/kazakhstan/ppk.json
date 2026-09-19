@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PPK",
+    "icao": "UACP",
+    "name": "Petropavl International Airport",
+    "country": "Kazakhstan",
+    "city": "Petropavl",
+    "lat": 54.7756,
+    "lon": 69.1874,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Petropavl International Airport (PPK) serves the city of Petropavl in northern Kazakhstan, functioning as the main air gateway for the North Kazakhstan Region. Located near the Russian border, it supports both domestic flights and limited regional international connections. The airport plays a key role in connecting this northern industrial and agricultural hub to the rest of Kazakhstan, particularly Astana and Almaty.",
+  "faqs": "Q: Where is Petropavl International Airport located?\nA: The airport is situated approximately 11 km south of Petropavl city center, in the North Kazakhstan Region near the Russian border.\n\nQ: Which airlines operate from Petropavl Airport?\nA: The airport primarily serves domestic Kazakh carriers such as SCAT and Qazaq Air, with scheduled flights mainly to Astana and Almaty.\n\nQ: Does Petropavl Airport have international flights?\nA: International services are limited and seasonal; travelers should check current schedules as routes and frequencies vary.\n\nQ: Are there customs and immigration facilities at PPK?\nA: Basic border control facilities are available for the limited international flights, though the airport handles far more domestic than international traffic.\n\n",
+  "transport_tips": "Taxis and pre-arranged transfers are the most reliable way to reach the airport from Petropavl, with a typical journey taking 15–20 minutes from the city center. There is no regular public bus service directly serving the terminal, so arranging a ride in advance is recommended. If driving, the airport is accessible via the road leading south from Petropavl toward Astana.",
+  "local_tip": "If you're continuing overland into Russia, the airport is conveniently close to the Petropavl-Kurgan border crossing, making it a useful last stop for currency exchange or last-minute supplies before crossing.",
+  "generatedAt": "2026-06-29T00:46:44.085Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AFF",
+    "icao": "KAFF",
+    "name": "USAF Academy Airfield",
+    "country": "United States",
+    "city": "Colorado Springs",
+    "lat": 38.9725,
+    "lon": -104.8211,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "USAF Academy Airfield (AFF/KAFF) is a military airfield located on the grounds of the United States Air Force Academy in Colorado Springs, Colorado. It primarily supports the Academy's flight training program, including the Powered Flight Program where cadets experience introductory aviation training. The airfield sits at an elevation of approximately 6,582 feet, nestled against the Rampart Range of the Rocky Mountains.",
+  "faqs": "Q: Is USAF Academy Airfield open to civilian flights?\nA: The airfield is primarily a military facility, and public access is limited. Civilian pilots should verify PPR requirements before attempting any operations here.\n\nQ: What is the main purpose of USAF Academy Airfield?\nA: It supports the U.S. Air Force Academy's aviation training programs, including the Powered Flight Program and parachute operations for the Wings of Blue parachute team.\n\nQ: What is the elevation of USAF Academy Airfield?\nA: The airfield sits at approximately 6,582 feet above sea level, which is typical for Colorado Springs airports.\n\nQ: Can visitors watch operations at the airfield?\nA: Visitors to the Air Force Academy can observe general campus activities, though the airfield itself is a restricted military installation.",
+  "transport_tips": "The airfield is located on the U.S. Air Force Academy grounds, which requires passing through a security gate for access. Most travelers visiting the area will find Colorado Springs Airport (COS) more practical for commercial travel, located about 20 miles south. Rental cars or rideshares are recommended for navigating between locations.",
+  "local_tip": "While at the Academy, be sure to visit the iconic Cadet Chapel, one of the most recognized architectural landmarks in the United States, and stop by the Honor Court to see the stunning view of the Rampart Range and the academy's parade field.",
+  "generatedAt": "2026-06-27T09:06:07.747Z",
+  "model": "MiniMax-M3"
+}

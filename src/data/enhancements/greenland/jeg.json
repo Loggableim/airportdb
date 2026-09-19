@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JEG",
+    "icao": "BGAA",
+    "name": "Aasiaat Airport",
+    "country": "Greenland",
+    "city": "Aasiaat",
+    "lat": 68.7218,
+    "lon": -52.7847,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Aasiaat Airport (JEG) serves the town of Aasiaat, one of the largest settlements in western Greenland, located on a small island in the Disko Bay region roughly 70 km north of the Arctic Circle. The airport provides critical air links for the town's roughly 3,000 residents and surrounding communities, supporting both passenger travel and freight in an area otherwise reliant on seasonal sea routes. It functions as an important hub for Air Greenland's network along Greenland's western coast.",
+  "faqs": "Q: What airlines operate from Aasiaat Airport?\nA: Air Greenland is the primary carrier, operating fixed-wing turboprop flights connecting Aasiaat to Ilulissat, Kangerlussuaq, and Nuuk.\n\nQ: Is there a route between Aasiaat and Ilulissat?\nA: Yes, the short hop between Aasiaat and Ilulissat is one of the busiest routes in the area, as the two towns are relatively close by air despite being separated by water and ice.\n\nQ: When is the airport open?\nA: Aasiaat Airport operates year-round, though winter conditions can cause occasional delays or cancellations due to snow and ice.\n\nQ: Are there international flights from Aasiaat?\nA: No direct international flights operate from Aasiaat; international travelers typically connect through Kangerlussuaq or Nuuk.",
+  "transport_tips": "The airport is located on the outskirts of Aasiaat town, just a short taxi ride from the center; no scheduled public bus serves the terminal, so arranging transport in advance is recommended. The heliport in town center handles helicopter traffic to smaller settlements not served by fixed-wing aircraft. During winter, allow extra time for travel to the airport as snow and ice can slow ground transport.",
+  "local_tip": "If you have a same-day layover between flights, the town center is only a few minutes away and offers a chance to sample fresh Arctic char or halibut, the local staples, at one of the small harborside cafés.",
+  "generatedAt": "2026-06-29T20:29:04.188Z",
+  "model": "MiniMax-M3"
+}

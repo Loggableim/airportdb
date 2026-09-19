@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SMS",
+    "icao": "FMMS",
+    "name": "Sainte Marie Airport",
+    "country": "Madagascar",
+    "city": "Vohilava",
+    "lat": -17.0939,
+    "lon": 49.8158,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sainte Marie Airport (SMS) is a regional airport serving Sainte Marie Island, a narrow tropical isle off the northeast coast of Madagascar. The airport supports the island's tourism economy, which is anchored by seasonal humpback whale watching between June and September, along with beach and heritage tourism. It functions as an important domestic gateway for travelers arriving from Antananarivo and Toamasina.",
+  "faqs": "Q: Which airlines operate flights to Sainte Marie Airport?\nA: Domestic carriers including Tsaradia connect Sainte Marie with Antananarivo and Toamasina, with schedules varying by season.\n\nQ: When is the best time to visit Sainte Marie Island?\nA: The dry season from May to October is most popular, especially June through September when humpback whales are visible offshore.\n\nQ: Are there facilities at the airport?\nA: Sainte Marie is a small regional terminal with basic check-in services, a small waiting area, and minimal concessions.\n\nQ: Can visitors arrange island transport upon arrival?\nA: Taxis and pre-arranged hotel transfers are typically available outside the terminal, especially for those staying along the western coast.",
+  "transport_tips": "The island's main road links the airport to Ambodifotatra, the principal town, and onward to the western beach areas in roughly 30 to 60 minutes. Hiring a taxi or arranging a hotel transfer in advance is recommended, as rental car options on the island are limited. Boat transfers from the mainland are an alternative but require reaching Soanierana Ivongo or Antsiranana.",
+  "local_tip": "If visiting during whale season, ask your hotel to confirm whether landings at the airport happen on schedule before booking connecting flights, as Sainte Marie's weather can cause occasional disruptions to small-aircraft operations.",
+  "generatedAt": "2026-06-29T15:56:38.366Z",
+  "model": "MiniMax-M3"
+}

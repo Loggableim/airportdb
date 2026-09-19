@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TIB",
+    "icao": "SKTB",
+    "name": "Tibú Airport",
+    "country": "Colombia",
+    "city": "Tibú",
+    "lat": 8.6315,
+    "lon": -72.7304,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Tibú Airport (TIB/SKTB) is a small regional airport serving the municipality of Tibú in the Norte de Santander Department of Colombia, located in the Catatumbo region near the Venezuelan border. It functions as an important air link for this remote and historically significant area, which is known for its oil production and agricultural activities. The airport primarily handles domestic flights, providing connectivity to Bogotá and other Colombian cities for residents and workers in this frontier region.",
+  "faqs": "Q: What is the IATA code for Tibú Airport?\nA: The IATA code is TIB, and the ICAO code is SKTB.\n\nQ: Where is Tibú Airport located?\nA: It is located in Tibú, in the Norte de Santander Department of Colombia, near the border with Venezuela.\n\nQ: What type of flights does Tibú Airport serve?\nA: The airport primarily serves domestic regional flights, with occasional charter services connecting the area to larger Colombian cities like Bogotá.\n\nQ: Is Tibú Airport suitable for large aircraft?\nA: No, it is a small airport designed for regional and turboprop aircraft operations.",
+  "transport_tips": "Ground transportation from the airport is limited, so arranging a pickup in advance with a local hotel or contact is recommended. The airport is located close to the town center of Tibú, typically reachable within a short drive. Taxi services and moto-taxis are commonly available in the area for local transport.",
+  "local_tip": "Given the proximity to the Venezuelan border and the Catatumbo region's security situation, travelers should check current travel advisories and arrange ground transport and accommodation before arrival, as options for spontaneous bookings are limited.",
+  "generatedAt": "2026-06-28T09:22:26.128Z",
+  "model": "MiniMax-M3"
+}

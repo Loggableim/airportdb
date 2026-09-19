@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SEQ",
+    "icao": "WIBS",
+    "name": "Sungai Pakning Bengkalis Airport",
+    "country": "Indonesia",
+    "city": "Bengkalis-Sumatra Island",
+    "lat": 1.37,
+    "lon": 102.14,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Sungai Pakning Bengkalis Airport (SEQ) is a small regional airfield on the eastern coast of Sumatra Island, serving the Riau Province and the nearby port town of Sungai Pakning in the Bengkalis Regency. It functions as a key gateway for workers and travelers associated with the area's oil, gas, and palm oil industries, as well as for those visiting the coastal communities along the Strait of Malacca. The airport handles short domestic flights and operates with minimal facilities typical of Indonesia's smaller remote airfields.",
+  "faqs": "Q: What is Sungai Pakning Airport mainly used for?\nA: It primarily serves domestic flights connecting the Riau coastal region with major Indonesian cities like Pekanbaru, supporting both local travel and the oil and gas industry.\n\nQ: Are there international flights from SEQ?\nA: No, the airport only handles short domestic routes within Indonesia.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, it offers basic terminal amenities, limited dining options, and minimal services.\n\nQ: Is the airport close to the coast?\nA: Yes, it is located near the eastern shore of Sumatra, not far from the Strait of Malacca and the port town of Sungai Pakning.",
+  "transport_tips": "Getting to and from the airport typically requires a taxi or private car arranged in advance, as public transport options are limited. The town of Sungai Pakning is only a short drive away, and onward ferry connections to nearby islands such as Bengkalis Island are accessible from the town's port. Travelers heading to Pekanbaru should arrange ground transport ahead of time as it is approximately 150 km away.",
+  "local_tip": "If you need to catch a ferry to Bengkalis Island, leave time after your flight as the Sungai Pakning ferry terminal can have long queues during weekends and holidays.",
+  "generatedAt": "2026-06-27T18:11:33.104Z",
+  "model": "MiniMax-M3"
+}

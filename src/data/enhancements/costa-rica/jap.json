@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JAP",
+    "icao": "MRCH",
+    "name": "Chacarita Airport",
+    "country": "Costa Rica",
+    "city": "Puntarenas",
+    "lat": 9.9814,
+    "lon": -84.7727,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Chacarita Airport (JAP/MRCH) is a small regional airport serving Puntarenas, a Pacific coastal city in Costa Rica. Located on the western shore of the Gulf of Nicoya, it primarily handles domestic flights and general aviation traffic, connecting the Puntarenas region with other parts of the country. The airport plays a key role in supporting tourism and local travel along Costa Rica's central Pacific coast.",
+  "faqs": "Q: What type of flights operate from Chacarita Airport?\nA: The airport primarily handles domestic flights and general aviation, connecting Puntarenas with other regions of Costa Rica such as San José.\n\nQ: How far is the airport from downtown Puntarenas?\nA: Chacarita Airport is located just a few kilometers east of downtown Puntarenas, making it a quick drive from the city center.\n\nQ: Are there international flights from this airport?\nA: No, Chacarita is a domestic airport. International travelers typically arrive through Juan Santamaría International Airport in San José.\n\nQ: Does the airport have regular airline service?\nA: It serves regional and domestic operators; however, scheduled commercial service is limited compared to Costa Rica's larger airports.",
+  "transport_tips": "Taxis and private shuttles are the most common ways to reach Chacarita Airport from Puntarenas and nearby towns like Jacó and Monteverde. Rental cars are available in the area if you prefer to drive yourself. The short distance from the city means transfers usually take only 10-15 minutes depending on traffic.",
+  "local_tip": "If you're heading to the beaches along the Nicoya Peninsula, consider arranging ground transport in advance since taxi availability at this small airport can be limited, especially during early morning or late evening flights.",
+  "generatedAt": "2026-06-27T10:16:32.284Z",
+  "model": "MiniMax-M3"
+}

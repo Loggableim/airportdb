@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DEC",
+    "icao": "KDEC",
+    "name": "Decatur Airport",
+    "country": "United States",
+    "city": "Decatur",
+    "lat": 39.8346,
+    "lon": -88.8657,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Decatur Airport is a medium-sized public airport serving the city of Decatur in central Illinois, providing general aviation services and scheduled regional flights. The airport sits just east of downtown Decatur and plays an important role in supporting the region's agricultural and industrial economy, including proximity to major employers like Caterpillar Inc. Its single main runway and modern facilities make it a convenient hub for private, corporate, and charter aviation in central Illinois.",
+  "faqs": "Q: Where is Decatur Airport located relative to the city?\nA: Decatur Airport is situated on the east side of Decatur, Illinois, approximately 5 miles from the downtown area, making it easily accessible from most parts of the city.\n\nQ: Does Decatur Airport offer commercial airline service?\nA: The airport has historically offered limited commercial service, but it primarily functions as a general aviation facility with charter and private flights being most common.\n\nQ: What facilities are available at the airport?\nA: The airport features a terminal building, fixed-base operator (FBO) services, aircraft maintenance, fueling, hangar rentals, and tie-down parking for transient aircraft.\n\nQ: Can I fly to Decatur Airport from other major US cities?\nA: Direct service varies, but private and charter flights can be arranged from most regional airports. Travelers should check with charter operators for current availability.\n\n",
+  "transport_tips": "The easiest way to reach Decatur Airport is by personal vehicle via US Route 36 and IL Route 48, with ample free parking available near the terminal. Taxi services and rental cars are available, though rideshare options may be limited, so pre-arranging ground transportation is recommended. Allow at least 15-20 minutes of travel time if coming from downtown Decatur.",
+  "local_tip": "Frequent visitors recommend contacting the FBO in advance for after-hours arrival coordination, as the on-site staff availability varies outside business hours. Pilots should also note that the airport's fuel prices are competitive for the region, making it a popular fuel stop on cross-country flights through central Illinois.",
+  "generatedAt": "2026-06-29T05:21:35.603Z",
+  "model": "MiniMax-M3"
+}

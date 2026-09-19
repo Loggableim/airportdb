@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YXN",
+    "icao": "CYXN",
+    "name": "Whale Cove Airport",
+    "country": "Canada",
+    "city": "Whale Cove",
+    "lat": 62.24,
+    "lon": -92.5981,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Whale Cove Airport is a small community airport serving the Inuit hamlet of Whale Cove on the western shore of Hudson Bay in Nunavut, Canada. The airport provides a vital transportation link for residents of this remote Arctic community, which is otherwise accessible mainly by seasonal sea route. As part of Nunavut's network of remote airstrips, it plays an essential role in connecting the hamlet to larger regional centers for medical, commercial, and passenger services.",
+  "faqs": "Q: What is Whale Cove Airport primarily used for?\nA: The airport primarily serves the local Inuit community of Whale Cove, providing passenger and cargo flights, as well as medevac services that are critical in this remote region.\n\nQ: Are there scheduled commercial flights to Whale Cove Airport?\nA: Yes, the airport is served by regional carriers operating flights to and from larger Nunavut communities such as Rankin Inlet.\n\nQ: What are the operating conditions like at Whale Cove Airport?\nA: Due to its Arctic location on Hudson Bay, the airport can experience challenging weather including fog, snow, and extreme cold, which can affect flight schedules.\n\nQ: Does Whale Cove Airport have runway lighting?\nA: The airport is equipped to support scheduled operations, though as a remote community airstrip it has limited infrastructure compared to larger airports.",
+  "transport_tips": "Travelers typically reach Whale Cove Airport via connecting flights from Rankin Inlet, which serves as the main regional hub for the Kivalliq region. There are no roads connecting Whale Cove to other communities, so air travel is the primary year-round transportation option. During the brief summer season, a seasonal sealift barge provides cargo access but no passenger service.",
+  "local_tip": "Pack warm layers even in summer, as temperatures on Hudson Bay can drop unexpectedly, and keep your schedule flexible since weather-related flight delays are common in the Kivalliq region.",
+  "generatedAt": "2026-06-26T14:53:06.129Z",
+  "model": "MiniMax-M3"
+}

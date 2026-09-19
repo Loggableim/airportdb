@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BSE",
+    "icao": "WBGN",
+    "name": "Sematan Airport",
+    "country": "Malaysia",
+    "city": "Sematan",
+    "lat": 1.8127,
+    "lon": 109.7654,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Sematan Airport is a small airfield located in the coastal town of Sematan in southwestern Sarawak, Malaysia, on the island of Borneo. It primarily serves general aviation and provides access to a region known for its beaches, traditional fishing villages, and proximity to the Talang-Satang National Park. The airport offers a convenient gateway for visitors exploring the less-touristed western coast of Sarawak.",
+  "faqs": "Q: Where is Sematan Airport located?\nA: Sematan Airport is situated near the town of Sematan in the Lundu District of Sarawak, Malaysia, on the western coast of Borneo.\n\nQ: Does Sematan Airport handle commercial passenger flights?\nA: As a small regional airfield, Sematan Airport primarily supports general aviation and charter operations rather than scheduled commercial service.\n\nQ: How far is Sematan Airport from Kuching?\nA: The airport is located roughly 70 kilometers northwest of Kuching, the capital of Sarawak, accessible by road in approximately 1.5 to 2 hours.\n\nQ: What attractions are near Sematan Airport?\nA: The surrounding area features Sematan Beach, traditional Iban and Melanau villages, and the Talang-Satang National Park, which is a key turtle conservation site.",
+  "transport_tips": "The most practical way to reach Sematan Airport is by private car or taxi from Kuching, as public transport options in this rural area are limited. Rental vehicles from Kuching International Airport offer flexibility for travelers planning to explore the region. Pre-arranging ground transport is recommended, as on-demand taxi services are scarce near the airfield.",
+  "local_tip": "Time your visit around the turtle nesting season (typically May to September) at nearby Talang-Satang National Park, and ask local guides about permits for viewing green and hawksbill turtles on Pulau Talang-Talang Kecil.",
+  "generatedAt": "2026-06-28T07:01:39.128Z",
+  "model": "MiniMax-M3"
+}

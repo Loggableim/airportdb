@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CRP",
+    "icao": "KCRP",
+    "name": "Corpus Christi International Airport",
+    "country": "United States",
+    "city": "Corpus Christi",
+    "lat": 27.7704,
+    "lon": -97.5012,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Corpus Christi International Airport (CRP) is a medium-sized public airport serving the Coastal Bend region of South Texas, located about 10 miles west of downtown Corpus Christi. It functions as the primary gateway for travelers visiting the Gulf Coast beaches, Padre Island National Seashore, and the naval air station operations in the area. The airport has historically served as a joint civil-military facility and continues to support regional commercial airline service.",
+  "faqs": "Q: How far is the airport from downtown Corpus Christi?\nA: The airport is approximately 10 miles west of downtown Corpus Christi, typically a 15-20 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: While it is designated as an international airport with customs facilities, international service is limited; most flights are domestic connections to hubs like Dallas, Houston, and Denver.\n\nQ: Are there military operations at this airport?\nA: The airport shares facilities with military operations and has historically supported naval aviation activities in the region.\n\nQ: Is parking available at the airport?\nA: Yes, the airport offers on-site short-term and long-term parking options for travelers.",
+  "transport_tips": "Rental cars are the most convenient option for reaching Corpus Christi's beach destinations and exploring the Coastal Bend region. Ride-sharing services like Uber and Lyft operate at the airport, and taxis are available outside the terminal. For budget-conscious travelers, local bus service connects the airport to parts of the city, though schedules may be limited.",
+  "local_tip": "If you have a layover or extra time, the airport is a short drive from Padre Island National Seashore—one of the longest stretches of undeveloped barrier island beach in the world—perfect for a quick Gulf Coast escape.",
+  "generatedAt": "2026-06-29T02:30:29.430Z",
+  "model": "MiniMax-M3"
+}

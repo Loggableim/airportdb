@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DEI",
+    "icao": "FSSD",
+    "name": "Denis Island Airport",
+    "country": "Seychelles",
+    "city": "Denis Island",
+    "lat": -3.8021,
+    "lon": 55.6674,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Denis Island Airport is a small private airstrip serving Denis Private Island, an exclusive coral island resort in the Seychelles. Located approximately 60 km north of Mahé in the Indian Ocean, the facility primarily handles light aircraft and charter flights transporting resort guests. The island itself is renowned for its luxury eco-tourism, pristine beaches, and conservation programs.",
+  "faqs": "Q: What airlines operate flights to Denis Island Airport?\nA: The airport is primarily served by small charter operators offering scheduled and on-demand flights from Mahé's main airports.\n\nQ: How long is the flight from Mahé to Denis Island?\nA: The flight typically takes around 30 minutes in a small turboprop aircraft.\n\nQ: Is Denis Island Airport open to the public?\nA: No, the airport is private and primarily caters to guests of Denis Private Island resort.\n\nQ: Are there facilities at the airport?\nA: Facilities are minimal, reflecting its private nature, but the resort typically coordinates arrivals and departures seamlessly for guests.",
+  "transport_tips": "Most travelers reach Denis Island via a short charter flight from Mahé, usually arranged through the resort. Luggage allowances are restricted on small aircraft, so pack light and soft-sided bags are recommended. Boat transfers are not commonly used, making air travel the standard route to the island.",
+  "local_tip": "Build a buffer day into your schedule around your flights, as small aircraft operations in the Seychelles are weather-dependent and occasional delays are common during the southeast trade wind season.",
+  "generatedAt": "2026-06-27T20:48:15.659Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "REE",
+    "icao": "",
+    "name": "Reese Airpark",
+    "country": "United States",
+    "city": "Lubbock",
+    "lat": 33.5903,
+    "lon": -102.037,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Reese Airpark (REE) is a small general aviation airport located on the former Reese Air Force Base in Lubbock, Texas. The airfield dates back to its military origins as a World War II-era pilot training base, later serving as an Air Force training facility until its closure in 1997. Today it operates within the Reese Technology Center, a research and business campus managed in partnership with Texas Tech University, supporting both aviation and technology activities.",
+  "faqs": "Q: Is Reese Airpark open to the public?\nA: Yes, as a small public-use airport it accommodates general aviation traffic, though it has no scheduled commercial airline service.\n\nQ: Does Reese Airpark have an ICAO code?\nA: The airport uses only an IATA identifier (REE); it does not have a published ICAO code, which is common for smaller regional airfields in the United States.\n\nQ: Are there pilot training facilities at Reese?\nA: The airport benefits from the aviation heritage of the former Air Force base and remains part of a larger technology and training campus that supports flight-related activities.\n\nQ: What is the condition of the runways at Reese Airpark?\nA: The airfield maintains paved runways suitable for small to mid-sized general aviation aircraft, though pilots should check current NOTAMs for operational status.",
+  "transport_tips": "The airport is located about 10 miles west of downtown Lubbock, making it a short drive via local roads. Rental cars are the most practical option for travelers, as there is no public transit serving the airfield. Texas Tech University and the surrounding business parks are within easy driving distance.",
+  "local_tip": "Visit the nearby Buddy Holly Center and the American Wind Power Center in Lubbock—the city is the birthplace of rock and roll legend Buddy Holly and sits in the heart of one of the world's largest wind energy corridors, giving the area a unique cultural and industrial identity.",
+  "generatedAt": "2026-06-27T09:56:51.143Z",
+  "model": "MiniMax-M3"
+}

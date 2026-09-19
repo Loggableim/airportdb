@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ROL",
+    "icao": "",
+    "name": "Roosevelt Municipal Airport",
+    "country": "United States",
+    "city": "Roosevelt",
+    "lat": 40.2783,
+    "lon": -110.051,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Roosevelt Municipal Airport (ROL) is a small public-use airport serving the city of Roosevelt in Duchesne County, northeastern Utah. Situated in the Uinta Basin near the Ute Indian Tribe headquarters, it primarily supports general aviation and regional travel in this remote part of the state. The airport provides important access to an area known for oil and gas production, outdoor recreation, and tribal lands.",
+  "faqs": "Q: What type of aircraft use Roosevelt Municipal Airport?\nA: The airport primarily serves general aviation aircraft, including small private planes, charter flights, and occasional air ambulance services.\n\nQ: Are there commercial flights available at ROL?\nA: No scheduled commercial service operates from this airport; travelers typically use Salt Lake City International Airport for commercial flights.\n\nQ: Does the airport have an FAA identifier?\nA: The airport is referenced by the IATA code ROL, though it may not have a published ICAO code.\n\nQ: What facilities are available at the airport?\nA: The airport features a terminal building, runway, tie-down areas, and basic services for general aviation pilots and passengers.",
+  "transport_tips": "Getting to and from the airport typically requires a personal vehicle, as there is no public transit directly serving the facility. The airport is located a short drive from downtown Roosevelt, making taxi or rideshare arrangements straightforward. Visitors coming from outside the region will likely need to drive several hours from Salt Lake City or fly into a larger regional airport.",
+  "local_tip": "Frequent visitors recommend checking wind conditions before flying in, as the basin's terrain can create unpredictable wind patterns, and visitors should plan fuel stops since the nearest major services are over 100 miles away in either direction.",
+  "generatedAt": "2026-06-27T05:39:23.428Z",
+  "model": "MiniMax-M3"
+}

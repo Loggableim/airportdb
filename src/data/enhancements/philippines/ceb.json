@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CEB",
+    "icao": "RPVM",
+    "name": "Mactan Cebu International Airport",
+    "country": "Philippines",
+    "city": "Cebu City/Lapu-Lapu City",
+    "lat": 10.3093,
+    "lon": 123.9797,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Mactan-Cebu International Airport (CEB) is the Philippines' second-busiest airport and the main gateway to the Visayas region, located on Mactan Island serving both Cebu City and Lapu-Lapu City. Originally opened in 1956, it gained international attention with the 2018 opening of Terminal 2, a striking modern facility with a sweeping curved roof designed to evoke Cebu's maritime heritage and tropical landscape. The airport serves as a major hub for Cebu Pacific and a key connection point for travelers heading to popular island destinations like Bohol, Boracay, and Palawan.",
+  "faqs": "Q: How many terminals does Mactan-Cebu International Airport have?\nA: The airport has two terminals: Terminal 1 handles domestic flights while Terminal 2, which opened in 2018, serves international routes and is recognized for its award-winning architecture.\n\nQ: Is there a free shuttle between the terminals?\nA: Yes, a complimentary shuttle bus runs between Terminal 1 and Terminal 2, though the terminals are also connected by a covered walkway for walking passengers.\n\nQ: Which airlines operate from Cebu airport?\nA: Cebu Pacific uses CEB as a major hub, along with Philippine Airlines and Philippines AirAsia. International carriers include Korean Air, ANA, AirAsia, and several Chinese and regional airlines.\n\nQ: How far is the airport from Cebu City?\nA: The airport is located on Mactan Island, roughly 15-20 kilometers from downtown Cebu City, connected via the Marcelo Fernan Bridge and Mactan-Mandaue Bridge.",
+  "transport_tips": "Grab and local ride-hailing apps operate reliably to and from both terminals, with fares to Cebu City typically ranging from 250-400 PHP depending on traffic. The MyBus airport shuttle provides an affordable option connecting Terminal 2 to major points in Mactan and Cebu City. White-yellow airport taxis are also available at official ranks outside arrivals, though metered Grab is generally more transparent in pricing.",
+  "local_tip": "If you have a long layover at Terminal 2, head to the outdoor observation deck",
+  "generatedAt": "2026-06-28T16:35:13.706Z",
+  "model": "MiniMax-M3"
+}

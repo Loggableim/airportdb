@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KFS",
+    "icao": "LTAL",
+    "name": "Kastamonu Airport",
+    "country": "Turkey",
+    "city": "Kastamonu",
+    "lat": 41.3142,
+    "lon": 33.7958,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Kastamonu Airport (KFS/LTAL) is a regional airport serving the city of Kastamonu in Turkey's western Black Sea region. It provides vital domestic connectivity, primarily linking the historic city with Istanbul and Ankara. The airport operates as a joint civil-military facility and supports tourism to the surrounding Ilgaz Mountains and the culturally rich Kastamonu Province.",
+  "faqs": "Q: What is the airport code for Kastamonu Airport?\nA: The IATA code is KFS and the ICAO code is LTAL.\n\nQ: How far is Kastamonu Airport from the city center?\nA: The airport is located approximately 8-10 km southeast of Kastamonu city center, typically a 15-20 minute drive.\n\nQ: Does Kastamonu Airport have international flights?\nA: No, the airport primarily handles domestic flights, mainly to and from Istanbul and Ankara.\n\nQ: Are there car rental services at the airport?\nA: Car rental options are limited and it is recommended to arrange transportation in advance through local agencies in the city.",
+  "transport_tips": "Taxis are the most common way to reach the city center from the airport, with the journey taking roughly 15-20 minutes depending on traffic. There is no scheduled public bus service, so pre-booking a transfer or arranging a hotel shuttle is advisable. Rental cars can be reserved through agencies in town, though availability at the terminal itself is limited.",
+  "local_tip": "If you have a layover or extra time, the nearby Ilgaz National Park offers excellent skiing in winter and hiking in summer, and many local hotels can arrange early morning or late evening transport directly from the airport.",
+  "generatedAt": "2026-06-26T13:07:20.486Z",
+  "model": "MiniMax-M3"
+}

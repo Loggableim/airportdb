@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LSC",
+    "icao": "SCSE",
+    "name": "La Florida Airport",
+    "country": "Chile",
+    "city": "La Serena-Coquimbo",
+    "lat": -29.9162,
+    "lon": -71.1995,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "La Florida Airport (LSC) is a medium-sized regional airport serving the twin coastal cities of La Serena and Coquimbo in Chile's Coquimbo Region. Located along the Pacific coast, it functions as a key gateway to the Elqui Valley, a region famous for its pisco production, clear skies, and world-class astronomical observatories. The airport primarily handles domestic flights connecting northern Chile with Santiago and other regional destinations.",
+  "faqs": "Q: Which airlines operate at La Florida Airport?\nA: The airport is mainly served by domestic Chilean carriers, including LATAM Airlines and Sky Airline, with regular flights to and from Santiago.\n\nQ: How far is the airport from La Serena city center?\nA: La Florida Airport is approximately 6 kilometers east of downtown La Serena, making it a short drive from both La Serena and Coquimbo.\n\nQ: Does the airport have international flights?\nA: No, La Florida Airport primarily handles domestic flights. Travelers seeking international connections typically fly through Santiago's Arturo Merino Benítez International Airport.\n\nQ: Is the airport open 24 hours?\nA: The airport operates according to its flight schedule, typically opening in the early morning and closing after the last scheduled flight in the evening. There is no overnight accommodation inside the terminal.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are readily available outside the terminal for the short trip into La Serena or Coquimbo, typically taking 15-20 minutes depending on traffic. Rental car agencies operate at the airport, which is recommended if you plan to explore the Elqui Valley or visit nearby observatories. Public bus routes also connect the airport area to the surrounding cities at a lower cost.",
+  "local_tip": "If you have a few hours before your flight, head to the nearby Avenida del Mar for fresh seafood empanadas — the coastal breeze and ocean views make it a relaxing way to experience the region without straying far from the airport.",
+  "generatedAt": "2026-06-29T08:14:04.628Z",
+  "model": "MiniMax-M3"
+}

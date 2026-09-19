@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OSY",
+    "icao": "ENNM",
+    "name": "Namsos Airport",
+    "country": "Norway",
+    "city": "Namsos",
+    "lat": 64.4722,
+    "lon": 11.5786,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Namsos Airport (OSY/ENNM) is a small regional airport serving the coastal town of Namsos in Trøndelag county, central Norway. Located on the north side of the Namsen River estuary near the Namsfjord, it primarily supports short-haul regional connections to Trondheim. The airport features a single short runway suitable mainly for turboprop aircraft, reflecting its role as a lifeline for the local community rather than a major commercial hub.",
+  "faqs": "Q: How many terminals does Namsos Airport have?\nA: The airport has a single small terminal building handling both departures and arrivals, reflecting its modest regional operations.\n\nQ: Are there car rental services at the airport?\nA: Limited car rental options are typically available, so pre-booking is recommended, especially during off-peak hours when the terminal may be unattended.\n\nQ: Does the airport operate year-round?\nA: Yes, but flights can be affected by harsh winter weather common in the Trøndelag region, including snow and low visibility.\n\nQ: How far is the airport from Namsos town center?\nA: The airport is located just a few kilometers from the town center, making transfers quick and straightforward.",
+  "transport_tips": "The airport is only about 3 km from Namsos town center, and a taxi ride typically takes under 10 minutes. Rental cars and pre-booked hotel transfers are the most reliable options, as public transport connections to the airport are limited. If driving, follow the E6 north from Grong or south from Namsos along the Fv17 coastal route.",
+  "local_tip": "If you have extra time between flights, the nearby Namsos town waterfront offers a pleasant walk along the Namsen River, and the local rock carvings at Evenhus are a short drive away.",
+  "generatedAt": "2026-06-26T14:31:02.366Z",
+  "model": "MiniMax-M3"
+}

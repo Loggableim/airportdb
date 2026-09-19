@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PRG",
+    "icao": "LKPR",
+    "name": "Václav Havel Airport Prague",
+    "country": "Czech Republic",
+    "city": "Prague",
+    "lat": 50.1009,
+    "lon": 14.2599,
+    "type": "large_airport",
+    "size": 51475
+  },
+  "summary": "Václav Havel Airport Prague (PRG) is the principal international gateway of the Czech Republic, located roughly 15 km west of Prague's historic city center. Originally known as Ruzyně Airport, it was renamed in 2012 in honor of Václav Havel, the country's first post-communist president and a renowned playwright. It serves as the hub for Czech Airlines and handles the majority of the nation's commercial air traffic across Terminals 1 and 2.",
+  "faqs": "Q: How far is the airport from Prague's city center?\nA: Approximately 15 km west of the center, typically a 25-40 minute drive depending on traffic.\n\nQ: What is the easiest public transport option to downtown?\nA: Bus 119 connects the airport to Metro Line A at Nádraží Veleslavín station, where you can transfer to the metro for a quick ride into the center.\n\nQ: Are there direct trains from the airport to the main railway station?\nA: No, the airport is not directly served by rail; you must take a bus and transfer to the metro or use the Airport Express bus to the main station.\n\nQ: Do Terminals 1 and 2 handle different types of flights?\nA: Yes, Terminal 1 generally serves non-Schengen departures and arrivals, while Terminal 2 handles Schengen flights.",
+  "transport_tips": "Bus 119 is the most budget-friendly option and runs frequently from early morning until late at night. The Airport Express (AE) bus offers a faster, more comfortable ride directly to Prague Main Station (Hlavní nádraží). Taxis and rideshare services are readily available but insist on using official airport taxis or pre-book to avoid inflated fares.",
+  "local_tip": "If you have a long layover, head to Terminal 2's outdoor observation terrace on the upper level for surprisingly good plane-spotting views of runway operations, which most travelers overlook.",
+  "generatedAt": "2026-06-28T15:40:06.717Z",
+  "model": "MiniMax-M3"
+}

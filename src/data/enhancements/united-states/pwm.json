@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PWM",
+    "icao": "KPWM",
+    "name": "Portland International Jetport",
+    "country": "United States",
+    "city": "Portland",
+    "lat": 43.6462,
+    "lon": -70.3093,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Portland International Jetport (PWM) is Maine's largest and busiest airport, located just three miles west of downtown Portland. Established in 1931, it has grown into a modern facility serving over two million passengers annually with nonstop flights to major U.S. hubs. The airport is known for its compact, easy-to-navigate layout and Maine-themed décor, including local art and regional cuisine.",
+  "faqs": "Q: What airlines fly out of Portland International Jetport?\nA: Major carriers include American Airlines, Delta Air Lines, JetBlue, Southwest Airlines, and United Airlines, offering nonstop service to destinations like New York, Atlanta, Chicago, and Washington, D.C.\n\nQ: How do I get from the airport to downtown Portland?\nA: Greater Portland Metro bus route 5 runs between the airport and downtown Portland approximately every 30-60 minutes. Taxis, rideshares (Uber/Lyft), and rental cars are also available on-site.\n\nQ: How far is PWM from downtown Portland?\nA: The airport is about 3 miles (5 km) from downtown, typically a 10-15 minute drive depending on traffic.\n\nQ: What amenities are available at the airport?\nA: Free Wi-Fi, a variety of dining options including local seafood, gift shops, and art installations. There is also a business center and charging stations throughout the terminal.\n\n",
+  "transport_tips": "The airport is easily accessible via I-95 and Congress Street. Greater Portland Metro bus route 5 offers an affordable ride to downtown for $2.00 (exact change required). Taxis and rideshares pick up outside baggage claim, and rental cars are located in the parking garage. For drop-offs and pickups, use the free cell phone lot to avoid congestion.",
+  "local_tip": "Frequent visitors know the free cell phone lot on Jetport Boulevard has a digital flight status board and is the best place to wait for arriving passengers—it saves circling the terminal and reduces stress.",
+  "generatedAt": "2026-09-19T23:20:02.598Z",
+  "model": "deepseek-v4.1-flash"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PBR",
+    "icao": "MGPB",
+    "name": "Puerto Barrios Airport",
+    "country": "Guatemala",
+    "city": "Puerto Barrios",
+    "lat": 15.7309,
+    "lon": -88.5838,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Puerto Barrios Airport serves the Caribbean port city of Puerto Barrios in the Izabal Department of Guatemala, acting as a key gateway to the country's northern Caribbean coast. The airport supports both domestic flights and general aviation, providing convenient access for travelers heading to nearby attractions such as the Mayan ruins of Quiriguá and the eco-tourism destinations of the Rio Dulce area. It operates alongside the significant commercial seaport that gives the city its economic importance in the region.",
+  "faqs": "Q: What is the airport code for Puerto Barrios Airport?\nA: The IATA code is PBR and the ICAO code is MGPB.\n\nQ: Where is Puerto Barrios located?\nA: Puerto Barrios is on the Caribbean coast of Guatemala in the Izabal Department, near the border with Honduras.\n\nQ: Are there international flights from Puerto Barrios?\nA: The airport primarily handles domestic and general aviation flights, with most international travelers connecting through Guatemala City's La Aurora International Airport.\n\nQ: What attractions are accessible from this airport?\nA: Travelers commonly use Puerto Barrios as a jumping-off point for visiting the Mayan archaeological site of Quiriguá, the Rio Dulce waterway, and Livingston near the Gulf of Honduras.",
+  "transport_tips": "The airport is located just a few kilometers from central Puerto Barrios, making taxi rides to the city quick and affordable. Rental cars and arranged hotel transfers are the most practical options for visitors heading to nearby destinations like Rio Dulce or the Quiriguá ruins. Local buses also serve the airport area for budget-conscious travelers familiar with the region.",
+  "local_tip": "Pack light and bring insect repellent, as the Caribbean coastal climate is humid year-round and mosquitoes can be aggressive, especially during evening hours near the waterfront.",
+  "generatedAt": "2026-06-29T16:45:50.349Z",
+  "model": "MiniMax-M3"
+}

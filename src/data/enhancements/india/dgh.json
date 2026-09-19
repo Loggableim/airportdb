@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DGH",
+    "icao": "VEDO",
+    "name": "Deoghar Airport",
+    "country": "India",
+    "city": "Deoghar",
+    "lat": 24.4468,
+    "lon": 86.705,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Deoghar Airport (DGH) is a small domestic airport located in the Jharkhand state of eastern India, serving the holy city of Deoghar. It primarily caters to pilgrims visiting the revered Baba Baidyanath Temple, one of the twelve sacred Jyotirlingas of Lord Shiva. The airport significantly reduces travel time for visitors from across India who previously had to rely on road or rail connections to reach this important religious destination.",
+  "faqs": "Q: Which airlines operate flights to Deoghar Airport?\nA: Deoghar Airport is served by select Indian carriers offering connections to major cities like Kolkata, Patna, and Delhi, though flight schedules may vary seasonally.\n\nQ: How far is the airport from Baba Baidyanath Temple?\nA: The airport is located approximately 10-12 km from the main temple complex, with a typical journey time of 20-30 minutes by road.\n\nQ: Does the airport operate international flights?\nA: No, Deoghar Airport is currently a domestic-only facility handling flights within India.\n\nQ: What are the airport's operating hours?\nA: Operating hours are aligned with scheduled flight arrivals and departures, so passengers should confirm timings with their airline before traveling.\n\n",
+  "transport_tips": "Pre-paid taxi counters and ride-hailing services like Ola and Uber are available at the airport for transfers to Deoghar city center. Auto-rickshaws are a budget-friendly option for short distances, though negotiating the fare in advance is recommended. Shared taxis and private cabs can be arranged for longer journeys to nearby pilgrimage sites.",
+  "local_tip": "During the annual Shravan Mela (monsoon pilgrimage season), expect heavy crowds and book transportation well in advance, as the city sees millions of devotees pass through seeking darshan at the Baba Baidyanath Temple.",
+  "generatedAt": "2026-06-26T19:57:46.493Z",
+  "model": "MiniMax-M3"
+}

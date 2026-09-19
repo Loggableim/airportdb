@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OVL",
+    "icao": "SCOV",
+    "name": "El Tuqui Airport",
+    "country": "Chile",
+    "city": "Ovalle",
+    "lat": -30.5592,
+    "lon": -71.1756,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "El Tuqui Airport is a small regional airfield serving the city of Ovalle in the Coquimbo Region of north-central Chile. Situated in the Limarí Valley, it primarily supports general aviation and occasional charter flights connecting Ovalle with the rest of the country. The airport lies near the agricultural heartland known for citrus, table grapes, and pisco production.",
+  "faqs": "Q: What type of flights operate from El Tuqui Airport?\nA: The airport mainly handles general aviation, private aircraft, and occasional charter flights rather than scheduled commercial service.\n\nQ: Where is El Tuqui Airport located relative to Ovalle?\nA: It is situated on the outskirts of the city of Ovalle, providing convenient access to the surrounding Limarí Valley communities.\n\nQ: Is the airport equipped for nighttime operations?\nA: As a small regional airfield, El Tuqui typically operates during daylight hours and has limited navigation infrastructure.\n\nQ: What is the region around Ovalle known for?\nA: The Limarí Valley is renowned for its agriculture, including citrus groves, table grapes, olive oil, and pisco production.\n\n",
+  "transport_tips": "Taxis and private transfers are the most practical way to reach Ovalle from the airport, as public transit options are limited. Rental cars can be arranged in Ovalle or in advance from larger cities. The road connecting the airport to the city center is straightforward and typically takes only a few minutes by car.",
+  "local_tip": "Visit the nearby Fray Jorge National Park, a UNESCO Biosphere Reserve with unique fog desert ecosystems, about 30 km west of Ovalle—it's one of northern Chile's most underrated natural attractions.",
+  "generatedAt": "2026-06-27T10:13:20.663Z",
+  "model": "MiniMax-M3"
+}

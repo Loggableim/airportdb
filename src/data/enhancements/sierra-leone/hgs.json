@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HGS",
+    "icao": "GFHA",
+    "name": "Hastings Airport",
+    "country": "Sierra Leone",
+    "city": "Freetown",
+    "lat": 8.3943,
+    "lon": -13.1289,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Hastings Airport (HGS) is a small domestic airfield located in the Hastings neighborhood on the western outskirts of Freetown, Sierra Leone. The site has historical significance as a former World War II RAF base and has served as an important regional aviation hub for western Sierra Leone. Today it primarily handles domestic flights and general aviation, supplementing Freetown's larger Lungi International Airport for certain regional connections.",
+  "faqs": "Q: What is the difference between Hastings Airport and Lungi International Airport?\nA: Hastings Airport (HGS) is a small domestic airfield on the mainland near Freetown, while Lungi International (FNA) is the main international gateway located across the Sierra Leone River estuary, requiring a ferry or helicopter transfer from Freetown.\n\nQ: Does Hastings Airport handle international flights?\nA: No, Hastings primarily serves domestic and regional flights, with occasional general aviation and charter operations. International travelers typically use Lungi International Airport.\n\nQ: What facilities are available at Hastings Airport?\nA: The airport offers basic terminal facilities suitable for small aircraft operations. Travelers should expect limited amenities compared to larger international airports, so bringing essentials is recommended.\n\nQ: Is the airport historically significant?\nA: Yes, the site was originally established as RAF Hastings during World War II and played a role in maritime patrol operations in the Atlantic.\n\n",
+  "transport_tips": "The airport is located about 15 km east of central Freetown along the coast road, making it accessible by taxi or private car in roughly 30-45 minutes depending on traffic. Public transport options include poda-poda minibuses along the Freetown-Waterloo route, though taxis are more reliable for travelers with luggage. Unlike Lungi International, no ferry crossing is required when flying from Hastings.",
+  "local_tip": "For the best arrival experience, arrange your ground transport in advance through your hotel or a trusted local contact, as ride-hailing apps have limited coverage in Freetown and pre-arranged drivers help avoid price negotiations after a flight.",
+  "generatedAt": "2026-06-27T21:38:53.400Z",
+  "model": "MiniMax-M3"
+}

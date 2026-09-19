@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DIO",
+    "icao": "",
+    "name": "Diomede Heliport",
+    "country": "United States",
+    "city": "Diomede",
+    "lat": 65.7584,
+    "lon": -168.9537,
+    "type": "heliport",
+    "size": 25
+  },
+  "summary": "Diomede Heliport serves Little Diomede Island, a remote Inupiat village perched on a rocky outcrop in the Bering Strait just 2.4 miles from its Russian counterpart, Big Diomede. The heliport is the primary lifeline for residents, providing essential transport to and from the Alaska mainland given the island's total lack of road or ferry connections. Sitting near the International Date Line, the heliport connects one of the most isolated communities in the United States to Nome and beyond.",
+  "faqs": "Q: Where is Diomede Heliport located?\nA: The heliport is on Little Diomede Island, a small rock outcrop in the Bering Strait off western Alaska, within the city of Diomede.\n\nQ: How do you get to Diomede Island?\nA: The only regular access is by helicopter, typically from Nome, Alaska, as the island has no airstrip for fixed-wing aircraft and no ferry service.\n\nQ: Are there flights between Little Diomede and Big Diomede?\nA: No regular commercial flights operate between the two Diomede Islands, as Big Diomede is part of Russia and the border is strictly controlled.\n\nQ: What is the heliport used for?\nA: Beyond passenger travel, it supports mail delivery, medical evacuations, and freight shipments for the small Inupiat community.",
+  "transport_tips": "All travel to and from Little Diomede is by helicopter, with services generally departing from Nome. Flights are weather-dependent and frequently delayed by fog, high winds, or sea ice conditions common in the Bering Strait. Visitors should plan flexible schedules and confirm bookings well in advance, as departures may be consolidated or rescheduled with little notice.",
+  "local_tip": "Pack light and bring any specialty food or supplies with you, as the village store has very limited stock and restocking shipments can be disrupted for days by bad weather.",
+  "generatedAt": "2026-06-28T11:07:38.710Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MXA",
+    "icao": "KMXA",
+    "name": "Manila Municipal Airport",
+    "country": "United States",
+    "city": "Manila",
+    "lat": 35.8944,
+    "lon": -90.1546,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Manila Municipal Airport (MXA) is a small public-use airport serving the city of Manila in Mississippi County, northeastern Arkansas. Located in the flat agricultural landscape of the state's Delta region, it primarily accommodates general aviation traffic, including private aircraft and flight training. The facility features a single runway and serves as a convenient access point for visitors to this rural community situated along Interstate 55.",
+  "faqs": "Q: What type of airport is Manila Municipal Airport?\nA: It is a small public-use general aviation airport with no scheduled commercial airline service.\n\nQ: Does Manila Municipal Airport have an operating control tower?\nA: No, it is an uncontrolled airport, meaning pilots use the common traffic advisory frequency (CTAF) to coordinate arrivals and departures.\n\nQ: What runways are available at MXA?\nA: The airport has a single asphalt runway, designated 18/36, suitable for small to mid-size general aviation aircraft.\n\nQ: Are there fuel services available on-site?\nA: Basic fuel services may be available, but pilots should confirm current availability with the airport manager before arrival.\n\n",
+  "transport_tips": "The airport is located just south of Manila's city center, making it a short drive from downtown and local accommodations. Renting a car is advisable since the airport has no scheduled public transportation options. Visitors arriving by private aircraft will find the airport conveniently situated near Highway 18 and Interstate 55 for onward travel.",
+  "local_tip": "Manila sits in the heart of Arkansas's rice and soybean country, so visiting pilots often pair their trip with a drive through the nearby Crowley's Ridge Parkway to experience the region's unique geological feature—a narrow strip of rolling hills rising unexpectedly from the surrounding flat Delta farmland.",
+  "generatedAt": "2026-06-27T13:26:17.807Z",
+  "model": "MiniMax-M3"
+}

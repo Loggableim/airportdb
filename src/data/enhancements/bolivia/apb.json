@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "APB",
+    "icao": "SLAP",
+    "name": "Apolo Airport",
+    "country": "Bolivia",
+    "city": "Apolo",
+    "lat": -14.7356,
+    "lon": -68.4119,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Apolo Airport (IATA: APB, ICAO: SLAP) is a small airstrip serving the remote town of Apolo in the La Paz Department of Bolivia, nestled in the foothills of the Andes where the mountains meet the Amazon basin. The airport provides a vital transportation link for the isolated Mosetén, Tacana, and Quechua communities of the region, as road access is extremely limited and often impassable during the rainy season. It primarily handles light aircraft and charter flights connecting Apolo to larger Bolivian cities.",
+  "faqs": "Q: What is the main purpose of Apolo Airport?\nA: Apolo Airport serves as a critical lifeline for the remote town of Apolo, providing the most reliable access to and from the outside world, especially during the rainy season when roads become nearly impassable.\n\nQ: Are there scheduled commercial flights to Apolo?\nA: Scheduled service is very limited; most flights to Apolo are operated by small charter or regional aircraft, and availability should be confirmed locally as schedules can change frequently.\n\nQ: What kind of aircraft can land at Apolo?\nA: The airport accommodates small propeller aircraft and light planes; it does not have the infrastructure to handle larger commercial jets.\n\nQ: Is the airport open year-round?\nA: Operations can be affected by weather, particularly heavy rains and low visibility during the wet season from November to March, which may cause cancellations or delays.",
+  "transport_tips": "Reaching Apolo by land is extremely challenging and can take multiple days during the dry season, making air travel often the only practical option. Taxis and motorized rickshaws (mototaxis) are typically available in the small town to get you from the airstrip to your destination. Be prepared for flexible scheduling, as flight times are often announced only shortly before departure in this remote region.",
+  "local_tip": "Bring cash in small Bolivian boliviano denominations, as the town has few ATMs and many local shops, lodges, and transport providers may not accept cards or may lack change for larger bills.",
+  "generatedAt": "2026-06-27T17:19:43.823Z",
+  "model": "MiniMax-M3"
+}

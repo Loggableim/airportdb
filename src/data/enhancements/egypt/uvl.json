@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UVL",
+    "icao": "HEKG",
+    "name": "El Kharja Airport",
+    "country": "Egypt",
+    "city": "Kharja Oases",
+    "lat": 25.4715,
+    "lon": 30.5885,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "El Kharja Airport (UVL/HEKG) is a small regional airport serving the Kharga Oasis, the southernmost and largest of Egypt's Western Desert oases. The airport provides a vital air link for residents and visitors traveling to this remote Saharan destination, which is known for its ancient temples, Roman-era ruins, and hot springs. It primarily handles domestic flights and limited charter operations, supporting the region's growing tourism and local connectivity.",
+  "faqs": "Q: Where is El Kharja Airport located?\nA: El Kharja Airport is located in the Kharga Oasis, part of Egypt's Western Desert, approximately 525 km south of Cairo.\n\nQ: What airlines operate at El Kharja Airport?\nA: The airport primarily serves domestic flights operated by EgyptAir and may handle occasional charter flights depending on tourism demand.\n\nQ: What attractions are near the airport?\nA: Nearby attractions include the Temple of Hibis, the Bagawat Necropolis, the Kharga Museum, and the lush palm groves of the oasis.\n\nQ: Does the airport have international flights?\nA: The airport mainly handles domestic flights, with international service being very limited or seasonal.\n\n",
+  "transport_tips": "Taxis are typically available outside the terminal and are the primary means of reaching the town of Kharga, located just a short drive away. Pre-arranging a hotel pickup is recommended, especially for late arrivals, as transport options can be limited. Car rentals can also be arranged in advance for travelers planning to explore the oasis and surrounding desert sites.",
+  "local_tip": "Visit the Kharga Oasis during the cooler months (October to March) as summer temperatures in the Western Desert can exceed 45°C (113°F), making midday travel uncomfortable.",
+  "generatedAt": "2026-06-28T01:35:18.995Z",
+  "model": "MiniMax-M3"
+}

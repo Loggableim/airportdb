@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FLR",
+    "icao": "LIRQ",
+    "name": "Florence Airport, Peretola",
+    "country": "Italy",
+    "city": "Firenze (FI)",
+    "lat": 43.8086,
+    "lon": 11.2028,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Florence Airport, Peretola (Amerigo Vespucci Airport) is the main international gateway to Tuscany, located about 4 km northwest of Florence's historic center. Named after the Florentine navigator Amerigo Vespucci, it serves as a key access point for millions of visitors traveling to the cradle of the Renaissance each year. Despite its modest size, the airport handles a busy mix of domestic and European flights with a recently modernized terminal.",
+  "faqs": "Q: How far is Florence Airport from the city center?\nA: The airport is approximately 4 km (2.5 miles) northwest of Florence's historic center, with journey times of 15-25 minutes depending on traffic.\n\nQ: Is there a train station at Florence Airport?\nA: No, there is no direct train service at the airport, but the Tramvia T2 line connects the terminal to Florence Santa Maria Novella central station in about 20 minutes.\n\nQ: What is the airport named after?\nA: The airport is officially named after Amerigo Vespucci, the 15th-century Florentine navigator and explorer after whom the Americas were named.\n\nQ: Does the airport operate 24 hours?\nA: No, Florence Airport has operating hours typically from around 5:00 AM to 11:30 PM, with flight schedules concentrated during daytime hours.",
+  "transport_tips": "The Tramvia T2 line is the most convenient and economical option, running directly between the airport terminal and Florence's Santa Maria Novella central station in roughly 20 minutes. Taxis to the city center are readily available but can cost €20-25 and take longer during peak traffic. If renting a car, allow extra time as parking near the historic center is limited and many areas are ZTL (restricted traffic zones).",
+  "local_tip": "If you have a short layover or a few hours to spare, grab a coffee and a schiacciata (Tuscan flatbread sandwich) at one of the airport cafes rather than waiting until you reach the city—the local olive oil and focaccia-style bread are noticeably better than standard airport fare and a taste of what's to come.",
+  "generatedAt": "2026-06-28T18:30:00.412Z",
+  "model": "MiniMax-M3"
+}

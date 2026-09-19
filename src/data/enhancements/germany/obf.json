@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OBF",
+    "icao": "EDMO",
+    "name": "Oberpfaffenhofen Airport",
+    "country": "Germany",
+    "city": "Weßling",
+    "lat": 48.0814,
+    "lon": 11.2831,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Oberpfaffenhofen Airport is a medium-sized airfield located in Weßling, Bavaria, about 25 km southwest of Munich. Originally developed as a military airfield, it now serves as a major hub for the German Aerospace Center (DLR) and is associated with research in satellite technology and flight experiments. The airport also handles general aviation and is adjacent to significant aerospace facilities.",
+  "faqs": "Q: What is Oberpfaffenhofen Airport primarily used for?\nA: The airport serves as a key base for the German Aerospace Center (DLR), supporting research operations including satellite missions and flight testing, alongside general aviation activities.\n\nQ: Does Oberpfaffenhofen offer commercial passenger flights?\nA: No scheduled commercial passenger service operates from the airport; it primarily functions as a research and general aviation facility.\n\nQ: How far is the airport from Munich?\nA: Oberpfaffenhofen is approximately 25 km southwest of central Munich, accessible by road and rail connections through nearby Weßling.\n\nQ: Can private pilots use this airport?\nA: Yes, the airport accommodates general aviation traffic, including private and business aircraft, with appropriate handling services available.",
+  "transport_tips": "The nearest S-Bahn station is Weßling (S8 line), about 3 km from the airport, offering a direct rail link to Munich central station in roughly 40 minutes. Traveling by car via the A96 motorway provides convenient access, though on-site parking should be arranged in advance for visitors. Taxi services from Weßling or nearby Gilching are practical for those carrying equipment or traveling outside public transit hours.",
+  "local_tip": "If visiting DLR facilities, request access clearance well in advance through the official site coordinator, as security protocols at the research campus are strict and on-site tours are typically arranged by appointment only.",
+  "generatedAt": "2026-06-30T03:08:52.075Z",
+  "model": "MiniMax-M3"
+}

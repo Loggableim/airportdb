@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CZL",
+    "icao": "DABC",
+    "name": "Mohamed Boudiaf International Airport",
+    "country": "Algeria",
+    "city": "Constantine",
+    "lat": 36.276,
+    "lon": 6.6204,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Mohamed Boudiaf International Airport (CZL) is the primary airport serving Constantine, Algeria's third-largest city, located approximately 23 km southeast of the city center. Named after Mohamed Boudiaf, a founding father of independent Algeria, the airport sits on a plateau overlooking the rugged terrain of northeastern Algeria. It functions as a key gateway for the Constantine Province and connects the region to domestic hubs like Algiers as well as select European and North African destinations.",
+  "faqs": "Q: How far is Mohamed Boudiaf International Airport from Constantine city center?\nA: The airport is located roughly 20-25 km southeast of Constantine, typically a 25-40 minute drive depending on traffic.\n\nQ: Are there international flights from Constantine airport?\nA: Yes, the airport offers limited international service primarily to France, Turkey, and other North African destinations, alongside frequent domestic flights to Algiers.\n\nQ: Does the airport operate 24 hours?\nA: Operating hours generally align with scheduled flights; the airport is not a 24-hour facility, and late-night or early-morning departures are uncommon.\n\nQ: Is there a currency exchange available at the airport?\nA: Yes, currency exchange offices and ATMs are available in the terminal for converting to Algerian Dinar (DZD).",
+  "transport_tips": "Taxis and private transfers are the most common ways to reach Constantine from the airport; agree on a fare before departure as meters are rarely used. Shared shuttle services and rental cars are also available at the terminal for flexible travel into the city. Allow extra time during peak hours, as the route into central Constantine involves winding mountain roads.",
+  "local_tip": "Before flying out, spend a few hours exploring Constantine's famous suspension bridges over the Rhumel Gorge, such as the Sidi M'Cid Bridge — one of the highest stone bridges in the world and an iconic landmark just minutes from the city center.",
+  "generatedAt": "2026-06-28T22:46:27.730Z",
+  "model": "MiniMax-M3"
+}

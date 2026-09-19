@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CZU",
+    "icao": "SKCZ",
+    "name": "Las Brujas Airport",
+    "country": "Colombia",
+    "city": "Corozal",
+    "lat": 9.3327,
+    "lon": -75.2856,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Las Brujas Airport serves the city of Corozal in the Sucre department of northern Colombia, providing vital air connectivity to the Caribbean coast region. As a medium-sized facility, it primarily handles domestic flights linking the Mojana subregion with major Colombian hubs such as Bogotá. The airport plays an important role for both tourism to nearby coastal destinations and regional commerce.",
+  "faqs": "Q: What is the main function of Las Brujas Airport?\nA: It primarily serves as a domestic gateway for the Sucre department, connecting Corozal and surrounding municipalities with larger Colombian cities like Bogotá.\n\nQ: Are there international flights from Las Brujas Airport?\nA: No, the airport mainly handles domestic routes operated by regional Colombian carriers.\n\nQ: How far is the airport from Corozal's city center?\nA: The airport is located just a few kilometers outside the urban area of Corozal, making transfers relatively short.\n\nQ: Which airlines typically operate at this airport?\nA: Regional carriers such as SATENA and other Colombian domestic airlines commonly serve this route.",
+  "transport_tips": "Taxis and local transport services are typically available outside the terminal for transfers into Corozal, with the trip taking only a few minutes. Travelers heading to Sincelejo, the capital of Sucre, can arrange ground transport for the roughly 15-kilometer journey. Pre-booking a vehicle is advisable during peak travel periods, as options may be limited compared to larger airports.",
+  "local_tip": "If you have extra time before a flight, ask a local driver to point out the nearby wetlands of the Mojana region—a unique ecosystem worth seeing if your schedule allows a brief detour.",
+  "generatedAt": "2026-06-29T14:48:58.835Z",
+  "model": "MiniMax-M3"
+}

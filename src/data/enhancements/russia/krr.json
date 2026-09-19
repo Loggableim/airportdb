@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KRR",
+    "icao": "URKK",
+    "name": "Krasnodar Pashkovsky International Airport",
+    "country": "Russia",
+    "city": "Krasnodar",
+    "lat": 45.0345,
+    "lon": 39.1742,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Krasnodar Pashkovsky International Airport is the main aviation gateway for the Krasnodar Krai region in southern Russia, located approximately 15 km east of Krasnodar city center. Named after the historic Pashkovsky stanitsa where it sits, it ranks among the busiest airports in Russia's Southern Federal District, serving as a key hub connecting the Black Sea resort region with Moscow and other major destinations. The airport handles a mix of domestic routes and seasonal international flights catering to the popular Kuban tourist destinations.",
+  "faqs": "Q: How far is Krasnodar Pashkovsky Airport from the city center?\nA: The airport is located about 12-15 km east of Krasnodar's downtown area, typically a 25-40 minute drive depending on traffic.\n\nQ: Which airlines operate from Krasnodar Pashkovsky Airport?\nA: Major carriers serving the airport include Aeroflot, S7 Airlines, Pobeda, Ural Airlines, and Rossiya Airlines, along with seasonal international operators.\n\nQ: Does the airport have international flights?\nA: Yes, the airport handles international flights, particularly seasonal services to popular destinations during the Black Sea resort season, though domestic routes dominate its schedule.\n\nQ: Are there overnight facilities at the airport?\nA: The airport operates extended hours for scheduled flights, and there are hotels nearby plus basic amenities in the terminal for passengers on early or late flights.\n\n",
+  "transport_tips": "The most convenient options to reach the city are official airport taxis, marshrutka (fixed-route minibus) number 15, and bus services connecting to Krasnodar's central areas. Pre-booking a taxi through a local app or hotel is recommended for reliability, especially for early morning departures. Private transfers can also be arranged through hotels for added comfort.",
+  "local_tip": "For a smoother experience during summer peak season when passenger volumes swell due to Black Sea tourism, arrive at least 2-3 hours before your flight as security and check-in lines tend to lengthen significantly. Locals also recommend using the airport's left luggage services if exploring Krasnodar briefly between flights, as the city center is close enough for a short taxi trip.",
+  "generatedAt": "2026-06-28T22:12:17.878Z",
+  "model": "MiniMax-M3"
+}

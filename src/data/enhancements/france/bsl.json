@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BSL",
+    "icao": "LFSB",
+    "name": "EuroAirport Basel–Mulhouse–Freiburg",
+    "country": "France",
+    "city": "Bâle / Mulhouse",
+    "lat": 47.6007,
+    "lon": 7.5211,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "EuroAirport Basel–Mulhouse–Freiburg is a unique trinational airport serving Basel (Switzerland), Mulhouse (France), and Freiburg (Germany), making it one of the few binational airports in the world. Opened in 1946, the airport is located on French territory, but the Swiss sector operates as a Swiss customs zone with its own postal address (Bâle-Aéroport). It functions as a key gateway to the Upper Rhine region and is the third-busiest airport in Switzerland by passenger traffic.",
+  "faqs": "Q: Why does this airport have three cities in its name?\nA: It serves the trinational metropolitan area of Basel (Switzerland), Mulhouse (France), and Freiburg (Germany), reflecting its cross-border role in the Upper Rhine region.\n\nQ: Are there different customs zones at the airport?\nA: Yes, the Swiss sector functions as Swiss customs territory with its own postal code, while the rest of the airport is in France. Passengers must follow the correct exit channel based on their destination country.\n\nQ: Which city is the airport actually located in?\nA: The airport sits on French territory near the Swiss border, roughly 6 km northwest of Basel and 25 km southeast of Mulhouse.\n\nQ: Why do airlines sometimes use BSL, MLH, or EAP codes?\nA: IATA assigned BSL, MLH, and EAP (EuroAirport) to reflect the three cities served, and individual carriers may use whichever code fits their route network best.",
+  "transport_tips": "Swiss passengers can use the special Swiss customs exit that leads directly to Basel via the BVB tram line 50, which connects to Basel's SBB rail network. French travelers typically exit through French customs and use the shuttle bus to Saint-Louis station for trains to Mulhouse, Strasbourg, and beyond. The airport also offers direct connections to Freiburg im Breisgau via the A5 motorway, roughly 70 km north.",
+  "local_tip": "If you're meeting someone, confirm which country's customs channel they'll use — the Swiss and French exits are on opposite sides of the terminal, and wandering between them after baggage claim can be a hassle due to customs controls.",
+  "generatedAt": "2026-06-28T17:21:21.369Z",
+  "model": "MiniMax-M3"
+}

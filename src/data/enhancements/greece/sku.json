@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SKU",
+    "icao": "LGSY",
+    "name": "Skiros Airport",
+    "country": "Greece",
+    "city": "Skiros Island",
+    "lat": 38.9676,
+    "lon": 24.4872,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Skiros Airport (SKU) is a small island airport serving Skiros (Skyros), the southernmost inhabited island of the Sporades archipelago in the central Aegean Sea. The facility supports primarily domestic flights, connecting the island with Athens and seasonal charter services catering to summer tourism. Beyond commercial use, the airport also serves as a base for Hellenic Air Force operations, reflecting Skiros's strategic location in the Aegean.",
+  "faqs": "Q: Where is Skiros Airport located in relation to the main town?\nA: The airport is situated on the eastern side of the island, approximately 15 km from Skiros Town (Chora), the island's main settlement and port.\n\nQ: What airlines operate at Skiros Airport?\nA: The airport primarily serves Olympic Air/AEGEAN with regular scheduled flights to Athens, and may accommodate seasonal charter flights during the summer months.\n\nQ: Does Skiros Airport have international flights?\nA: The airport is essentially domestic, with the vast majority of flights connecting to Athens International Airport. Most international visitors typically fly into Athens first.\n\nQ: Are there cargo services at Skiros Airport?\nA: As a small regional airport, cargo operations are limited and the facility primarily handles passenger traffic and mail.\n\n",
+  "transport_tips": "Taxis are generally available outside the terminal to transport passengers to Skiros Town or coastal resorts, but booking in advance during peak summer months is advisable. Rental car agencies typically operate from the airport or can deliver vehicles by prior arrangement. Many visitors also combine flights with ferry connections from the main port of Linaria, so checking ferry schedules in advance is recommended for onward travel.",
+  "local_tip": "If flights are full or expensive, consider taking the ferry from Agios Konstantinos or Volos on the mainland; the ferry terminal at Linaria is closer to some beach resorts than the airport,",
+  "generatedAt": "2026-06-26T17:39:56.300Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BLA",
+    "icao": "SVBC",
+    "name": "General José Antonio Anzoategui International Airport",
+    "country": "Venezuela",
+    "city": "Barcelona",
+    "lat": 10.1111,
+    "lon": -64.6922,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "General José Antonio Anzoategui International Airport (BLA) serves Barcelona in Venezuela's northeastern Anzoátegui state, a region central to the country's oil industry. Named after General José Antonio Anzoátegui, a key figure in Venezuela's 19th-century war of independence, the airport provides an important gateway to the eastern Caribbean coast, including nearby Puerto La Cruz and the Mochima National Park area. It functions as a significant hub for both domestic flights and limited international services, supporting the area's commercial and tourism activity.",
+  "faqs": "Q: How far is the airport from Barcelona city center?\nA: The airport is located approximately 10 kilometers (about 6 miles) from downtown Barcelona, with a typical drive taking 15 to 25 minutes depending on traffic.\n\nQ: Are there international flights from BLA?\nA: Yes, the airport handles a limited number of international flights, primarily to Caribbean and South American destinations, while most international travelers use Simón Bolívar International Airport near Caracas.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic amenities including restaurants, shops, car rental services, and currency exchange counters typical of a regional international airport.\n\nQ: Can I reach Puerto La Cruz from this airport?\nA: Yes, Puerto La Cruz is about 30 kilometers away and can be reached by taxi or ground transport in roughly 30 to 45 minutes.",
+  "transport_tips": "Official taxis and private transfer services are available outside the terminal and are the most reliable way to reach Barcelona or Puerto La Cruz. Renting a car is an option for travelers planning to explore the Anzoátegui coast and Mochima area, though road conditions outside the main routes can vary. Arranging transportation in advance is recommended, especially for evening arrivals when services may be limited.",
+  "local_tip": "If you have a layover or extra time, the coastal area between Barcelona and Puerto La Cruz offers beautiful beaches and seafood restaurants—just make sure to arrange a return ride to the airport well in advance, as late-evening transport options can be scarce.",
+  "generatedAt": "2026-06-28T17:54:58.606Z",
+  "model": "MiniMax-M3"
+}

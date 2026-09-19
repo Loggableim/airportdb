@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "URG",
+    "icao": "SBUG",
+    "name": "Rubem Berta Airport",
+    "country": "Brazil",
+    "city": "Uruguaiana",
+    "lat": -29.7822,
+    "lon": -57.0382,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Rubem Berta Airport serves Uruguaiana, a strategic border city in western Rio Grande do Sul situated directly across the Uruguay River from Paso de los Libres, Argentina. Named after Rubem Berta, a former president of the historic Brazilian airline VARIG, the airport functions as an important regional gateway for the Campanha Gaúcha region and cross-border commerce with Argentina. It primarily handles domestic regional flights, with its runway capable of accommodating mid-sized aircraft.",
+  "faqs": "Q: What airlines operate from Rubem Berta Airport?\nA: The airport is primarily served by regional Brazilian carriers operating domestic routes, with connections mainly to Porto Alegre.\n\nQ: How far is the airport from Uruguaiana's city center?\nA: Rubem Berta Airport is located approximately 6 kilometers from downtown Uruguaiana, a short drive via local roads.\n\nQ: Does the airport handle international flights?\nA: While primarily serving domestic traffic, the airport's proximity to the Argentine border makes it relevant for travelers connecting onward to Paso de los Libres via the International Concord Bridge.\n\nQ: Who was Rubem Berta?\nA: The airport is named after Rubem Berta, a notable figure in Brazilian aviation history who served as president of VARIG airline for several decades.",
+  "transport_tips": "Taxis and ride-hailing services are readily available at the terminal and offer the most convenient transfer to Uruguaiana's city center. Rental car agencies can be found in the city rather than at the airport itself, so pre-booking is recommended. Travelers heading to Argentina can arrange ground transport to the International Concord Bridge, which connects Uruguaiana to Paso de los Libres.",
+  "local_tip": "Frequent visitors recommend bringing a light jacket even in summer—the airport sits in open pampas terrain where winds off the Uruguay River can make arrivals and departures noticeably cooler than expected.",
+  "generatedAt": "2026-06-29T21:06:43.154Z",
+  "model": "MiniMax-M3"
+}

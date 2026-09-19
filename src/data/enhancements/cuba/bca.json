@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BCA",
+    "icao": "MUBA",
+    "name": "Gustavo Rizo Airport",
+    "country": "Cuba",
+    "city": "Baracoa",
+    "lat": 20.3653,
+    "lon": -74.5062,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Gustavo Rizo Airport serves Baracoa, Cuba's oldest city founded in 1511 by Diego Velázquez de Cuéllar. Located in the eastern Guantanamo Province near the Atlantic coast, this medium-sized regional airport provides essential air access to one of Cuba's most geographically isolated communities, nestled between the Sierra del Purial mountains and the Caribbean Sea. The airport is a vital link for tourism to the region known for its cocoa plantations, pristine beaches, and El Yunque mountain.",
+  "faqs": "Q: What airlines fly to Gustavo Rizo Airport?\nA: Gustavo Rizo Airport is primarily served by Cuban domestic carriers, with flights connecting Baracoa to Havana and other Cuban cities.\n\nQ: How far is the airport from Baracoa city center?\nA: The airport is located just a few kilometers from downtown Baracoa, making transfers to the city relatively quick and straightforward.\n\nQ: Is the airport used for international flights?\nA: The airport primarily handles domestic flights, as international visitors typically arrive through larger Cuban hubs like Havana's José Martí International Airport.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers basic passenger amenities including a terminal building and ground transportation options, though services are limited compared to major international airports.",
+  "transport_tips": "Taxis are the most common way to reach Baracoa from the airport and typically wait outside the terminal for arriving flights. Shared transport or pre-arranged hotel pickups can be more economical for budget travelers. The short distance to town means most journeys take only 10-15 minutes.",
+  "local_tip": "Flights to Baracoa can be weather-dependent due to the mountainous terrain, so build at least a half-day buffer into your schedule when connecting onward, especially during the rainy season.",
+  "generatedAt": "2026-06-29T13:26:20.297Z",
+  "model": "MiniMax-M3"
+}

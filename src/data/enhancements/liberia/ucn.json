@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UCN",
+    "icao": "GLBU",
+    "name": "Buchanan Airport",
+    "country": "Liberia",
+    "city": "Buchanan",
+    "lat": 5.9055,
+    "lon": -10.0583,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Buchanan Airport (UCN/GLBU) is a small regional airport serving the port city of Buchanan in Grand Bassa County, Liberia. It primarily handles light aircraft and charter flights supporting local industry and community transport along the country's Atlantic coast. The facility plays a supporting role to Roberts International Airport, the country's main international gateway.",
+  "faqs": "Q: Does Buchanan Airport handle international flights?\nA: No, Buchanan Airport is a small regional facility that primarily serves domestic and charter operations, not scheduled international flights.\n\nQ: What is Buchanan Airport mainly used for?\nA: The airport mainly supports light aircraft, charter flights, and general aviation tied to local industry and community needs in Grand Bassa County.\n\nQ: Are there scheduled airline services at Buchanan Airport?\nA: Scheduled commercial service is very limited; most flights are charter or private operations.\n\nQ: Where is Buchanan Airport located relative to the city?\nA: The airport is situated near Buchanan, a coastal port city roughly 100 km southeast of Monrovia.",
+  "transport_tips": "Ground transport to and from the airport typically relies on taxis or private vehicles, as public transit options are limited in the Buchanan area. Travelers should arrange transportation in advance, especially for arrivals outside daylight hours. The road connecting Buchanan to Monrovia and other major towns can be slow, so allow extra travel time.",
+  "local_tip": "If visiting the area, combine your trip with a stop at the nearby Buchanan port, one of Liberia's key iron ore export terminals, where you can observe large vessels at anchor just offshore.",
+  "generatedAt": "2026-06-27T18:45:32.591Z",
+  "model": "MiniMax-M3"
+}

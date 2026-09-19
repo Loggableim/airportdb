@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CIA",
+    "icao": "LIRA",
+    "name": "Ciampino–G. B. Pastine International Airport",
+    "country": "Italy",
+    "city": "Rome",
+    "lat": 41.7988,
+    "lon": 12.5953,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Ciampino–G. B. Pastine International Airport is Rome's secondary airport, located about 12 km southeast of the city center. Originally established as a military airfield, it now serves as the main hub for low-cost carriers operating in Italy, including Ryanair and Wizz Air. Named after Italian aviator Giovanni Battista Pastine, the airport shares its grounds with an active Italian Air Force base, and offers a faster, simpler alternative to the larger Fiumicino Airport for travelers prioritizing convenience over route selection.",
+  "faqs": "Q: How far is Ciampino Airport from central Rome?\nA: The airport is approximately 12–15 km southeast of Rome's historic center, with typical journey times of 30–40 minutes by road or rail depending on traffic.\n\nQ: Which airlines operate from Ciampino?\nA: It is dominated by low-cost carriers such as Ryanair and Wizz Air, along with some charter and regional flights. Most full-service and intercontinental flights use Fiumicino instead.\n\nQ: Is there a direct train from Termini to Ciampino Airport?\nA: There is no direct train to the terminal itself, but the Ciampino railway station is a short walk or shuttle ride away. Regional trains from Roma Termini reach Ciampino station in about 15 minutes.\n\nQ: Are there hotels near Ciampino Airport?\nA: Yes, several budget and mid-range hotels are located within a few kilometers of the terminal, some offering shuttle services for early or late flights.",
+  "transport_tips": "Regional trains from Roma Termini to Ciampino station run frequently and are the most economical option, though you must factor in the short walk or local bus to the terminal. Several dedicated airport bus services, including Terravision and SitBus, operate direct routes to Termini and other central stops. Taxis to the city",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T18:12:31.448Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BCB",
+    "icao": "KBCB",
+    "name": "Virginia Tech Montgomery Executive Airport",
+    "country": "United States",
+    "city": "Blacksburg",
+    "lat": 37.2076,
+    "lon": -80.4078,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Virginia Tech Montgomery Executive Airport (BCB) is a general aviation facility in Blacksburg, Virginia, serving the New River Valley and the Virginia Tech community in southwestern Virginia. Nestled near the Blue Ridge Mountains, the airport supports corporate travel, flight training, and recreational flying for the region. It is owned and operated by the Montgomery County Airport Authority and features a single main runway.",
+  "faqs": "Q: How far is the airport from Virginia Tech's campus?\nA: The airport is located about 2 miles south of downtown Blacksburg and approximately 3 miles from the Virginia Tech campus, making it convenient for university-related travel.\n\nQ: Does the airport offer commercial passenger service?\nA: No, BCB is a general aviation airport and does not offer scheduled commercial flights. It primarily serves private, corporate, and training aircraft.\n\nQ: Are there car rental or ground transportation options at the airport?\nA: Ground transportation is limited; visitors typically arrange rental cars in advance or use local taxi and rideshare services, as the airport does not host on-site rental counters.\n\nQ: What facilities are available for pilots?\nA: The airport offers fuel services (100LL and Jet A), tie-down and hangar space, a fixed-base operator (FBO), flight training, and basic aircraft maintenance.",
+  "transport_tips": "Since BCB has no commercial service, travelers usually fly in privately or use nearby Roanoke-Blacksburg Regional Airport (ROA), about 25 miles northeast, for commercial flights. Rental cars and rideshare services are the most practical options for getting to and from the airport. The airport's proximity to US-460 and I-81 makes road connections to Blacksburg and surrounding areas straightforward.",
+  "local_tip": "If visiting Virginia Tech, use the airport's location as a base to explore the surrounding New River Valley—Huckleberry Trail, a popular paved greenway connecting Blacksburg and Christiansburg, is just minutes away and great for a walk or bike ride.",
+  "generatedAt": "2026-06-27T01:12:44.844Z",
+  "model": "MiniMax-M3"
+}

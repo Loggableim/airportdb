@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VIX",
+    "icao": "SBVT",
+    "name": "Eurico de Aguiar Salles International Airport",
+    "country": "Brazil",
+    "city": "Vitória",
+    "lat": -20.258,
+    "lon": -40.285,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Eurico de Aguiar Salles International Airport (VIX) serves Vitória, the capital of Espírito Santo state in southeastern Brazil. Located on a narrow strip of land near Vitória's scenic bay, the airport provides a vital gateway to the region known for its coastal beauty, granite islands, and iron ore export industry. It handles both domestic flights to major Brazilian cities and limited international connections.",
+  "faqs": "Q: How far is the airport from downtown Vitória?\nA: The airport is approximately 10 km (6 miles) from Vitória's city center, with typical transfer times of 20-30 minutes depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, VIX handles a limited number of international flights, primarily to neighboring South American countries, though the majority of operations are domestic.\n\nQ: Are there currency exchange services at the airport?\nA: Yes, currency exchange counters and ATMs are available in the terminal, though exchanging money at a bank or casa de câmbio in the city often yields better rates.\n\nQ: What facilities are available for long layovers?\nA: The terminal offers restaurants, cafes, duty-free shopping, and free Wi-Fi, though seating in some areas can be limited during peak hours.",
+  "transport_tips": "Taxis and ride-sharing apps like Uber are readily available outside the terminal and offer the most convenient transfer to central Vitória. BR-101 highway provides direct road access connecting the airport to Vila Velha and other nearby cities. Several licensed airport shuttle services and bus routes also operate, offering more affordable options for budget-conscious travelers.",
+  "local_tip": "If you have time before your flight, visit Praia do Canto or the nearby Convento da Penha in Vila Velha—both are within 20 minutes and offer a memorable taste of Espírito Santo's coastal charm and colonial history.",
+  "generatedAt": "2026-06-28T20:46:58.673Z",
+  "model": "MiniMax-M3"
+}

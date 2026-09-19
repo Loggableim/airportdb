@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AGR",
+    "icao": "VIAG",
+    "name": "Agra Airport / Agra Air Force Station",
+    "country": "India",
+    "city": "Agra",
+    "lat": 27.158,
+    "lon": 77.961,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Agra Airport (AGR/VIAG) is a dual-use civil and military airfield serving Agra, Uttar Pradesh, sharing its runway with the Indian Air Force's Agra Air Force Station. It functions as the primary air gateway for visitors traveling to the Taj Mahal and other Mughal-era monuments in the region. The airport handles a modest schedule of domestic flights connecting Agra to Delhi, Mumbai, and a few other Indian cities.",
+  "faqs": "Q: How far is Agra Airport from the Taj Mahal?\nA: The airport is approximately 12-13 km from the Taj Mahal, with a drive time of around 25-40 minutes depending on traffic conditions.\n\nQ: Does Agra Airport have international flights?\nA: No, Agra Airport currently operates only domestic flights. International travelers typically fly into Delhi and connect to Agra by air, rail, or road.\n\nQ: Which airlines operate from Agra Airport?\nA: Major carriers serving AGR include IndiGo, Air India, and Alliance Air, with regular connections to Delhi, Mumbai, Jaipur, and Bengaluru.\n\nQ: Is the airport shared with the military?\nA: Yes, Agra Airport shares its runway and airspace with the Indian Air Force's Agra Air Force Station, which can occasionally affect civilian flight schedules.\n\n",
+  "transport_tips": "Prepaid taxi counters are available in the arrivals hall and offer fixed fares to the city center and major hotels, which is recommended to avoid haggling. App-based rides like Ola and Uber also operate but may have limited availability. The Yamuna Expressway connects Agra to Delhi in about 3 hours by road if you prefer traveling overland.",
+  "local_tip": "Schedule early morning flights if possible, as this lets you arrive in time to catch the Taj Mahal at sunrise when it is least crowded and the marble takes on its most beautiful golden hue.",
+  "generatedAt": "2026-06-29T20:10:52.467Z",
+  "model": "MiniMax-M3"
+}

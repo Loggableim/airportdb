@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KIX",
+    "icao": "RJBB",
+    "name": "Kansai International Airport",
+    "country": "Japan",
+    "city": "Osaka",
+    "lat": 34.4273,
+    "lon": 135.244,
+    "type": "large_airport",
+    "size": 1023275
+  },
+  "summary": "Kansai International Airport (KIX) is a world-renowned engineering marvel, built on a man-made island in Osaka Bay and opened in 1994. Designed by architect Renzo Piano, it serves as the primary international gateway for the Kansai region, including Osaka, Kyoto, Kobe, and Nara. The airport sits approximately 40 km southwest of central Osaka and operates as a major hub for Japan Airlines, All Nippon Airways, and several low-cost carriers.",
+  "faqs": "Q: How do I get from KIX to central Osaka or Kyoto?\nA: The JR Haruka Limited Express connects KIX to Tennoji Station (about 50 minutes) and Kyoto Station (about 75 minutes). The Nankai Rapi:t is a faster option for reaching Namba in central Osaka in roughly 40 minutes.\n\nQ: Are there two terminals at Kansai Airport?\nA: Yes, Terminal 1 handles most major airlines and international flights, while Terminal 2 is primarily used by Peach Aviation and other low-cost carriers. A free shuttle bus connects the two terminals.\n\nQ: Does KIX have facilities for overnight stays?\nA: Yes, Terminal 1 offers capsule hotels, a day-use hotel, and designated rest areas. Some travelers also stay overnight in the airport's 24-hour dining and shopping zones.\n\nQ: Is the airport really sinking?\nA: The artificial island was engineered with this in mind and has required continuous adjustments since opening. A massive seawall reinforcement project was completed in 2024 to protect against typhoons and further subsidence.",
+  "transport_tips": "The JR Haruka train and Nankai Rapi:t offer the fastest connections to major cities, with tickets available at counters inside Terminal 1 arrivals. For those with heavy luggage, airport limousine buses provide direct service to many hotels in Osaka and Kyoto. ICOCA cards can be used on JR trains and most buses, making transit across the Kansai region seamless.",
+  "local_tip": "Visit the Sky View observation hall on the 4th floor of Terminal 1 for sweeping views of the artificial island, Osaka Bay, and arriving aircraft, then stop by the rooftop outdoor deck at Sunset Square to watch planes take off against the bay backdrop, especially stunning at dusk.",
+  "generatedAt": "2026-06-28T14:59:23.170Z",
+  "model": "MiniMax-M3"
+}

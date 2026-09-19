@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YXK",
+    "icao": "CYXK",
+    "name": "Rimouski Airport",
+    "country": "Canada",
+    "city": "Rimouski",
+    "lat": 48.4776,
+    "lon": -68.4963,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Rimouski Airport (YXK) is a regional airport serving the city of Rimouski in the Bas-Saint-Laurent region of eastern Quebec, Canada. Situated on the south shore of the St. Lawrence River, it primarily supports regional air travel, general aviation, and occasional charter flights. The airport provides an important link for this relatively remote coastal community, connecting it to larger Canadian hubs.",
+  "faqs": "Q: What airlines operate at Rimouski Airport?\nA: The airport is primarily served by regional carriers, with Air Canada Express historically offering scheduled flights to Montreal. Service availability may vary, so checking current schedules is recommended.\n\nQ: Does Rimouski Airport have international flights?\nA: No, Rimouski Airport is a regional domestic airport and does not offer scheduled international flights.\n\nQ: Is there a control tower at Rimouski Airport?\nA: Yes, the airport has air traffic control services operating during published hours to support arriving and departing aircraft.\n\nQ: Can I park at Rimouski Airport?\nA: Yes, the airport offers on-site parking for travelers arriving by car.",
+  "transport_tips": "The airport is located a short drive from downtown Rimouski, typically reachable in about 10 minutes by car or taxi. Rental car services are generally available, though booking in advance is advisable during peak travel periods. There is no direct public transit connection to the terminal, so arranging ground transport in advance is recommended.",
+  "local_tip": "If you have time before your flight, visit the nearby Site historique maritime de la Pointe-au-Père to explore a submarine and learn about the region's rich maritime history along the St. Lawrence.",
+  "generatedAt": "2026-06-29T19:22:05.856Z",
+  "model": "MiniMax-M3"
+}

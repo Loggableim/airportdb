@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PVA",
+    "icao": "SKPV",
+    "name": "El Embrujo Airport",
+    "country": "Colombia",
+    "city": "Providencia",
+    "lat": 13.3575,
+    "lon": -81.358,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "El Embrujo Airport (PVA) is the main aerial gateway to Providencia Island, a small Caribbean island belonging to Colombia's San Andrés, Providencia y Santa Catalina archipelago. The airport sits on a compact footprint surrounded by tropical vegetation and serves as the primary entry point for visitors exploring the island's coral reefs, mangrove channels, and McBean Lagoon National Natural Park. Its modest size and single-runway configuration make it a charming, low-frills facility typical of remote island destinations.",
+  "faqs": "Q: What airlines fly into El Embrujo Airport?\nA: Regional carriers such as SATENA and occasional small charter operations serve Providencia, typically with connecting flights from San Andrés or Bogotá via San Andrés.\n\nQ: How long is the runway at El Embrujo Airport?\nA: The runway is relatively short, which limits operations to small turboprop aircraft suited to Caribbean island hops.\n\nQ: Are there international flights to PVA?\nA: No scheduled international flights operate here; travelers connect through San Andrés (ADZ) or occasionally Cartagena before flying onward to Providencia.\n\nQ: Is the airport open at night?\nA: El Embrujo operates during daylight hours only, as the facility does not have nighttime or instrument landing capabilities.\n\n",
+  "transport_tips": "Taxis and moto-taxis are the main options for getting from El Embrujo to accommodations on Providencia; the island is small enough that most trips take under 20 minutes. Pre-arranging a pickup with your hotel is recommended, as on-island transport options are limited. If you miss the last flight, the only alternative is a several-hour boat ride from San Andrés, weather permitting.",
+  "local_tip": "Pack light and bring reef-safe sunscreen, as Providencia enforces environmental protections around its marine parks and the airport has minimal baggage handling for oversized items.",
+  "generatedAt": "2026-06-29T09:56:09.020Z",
+  "model": "MiniMax-M3"
+}

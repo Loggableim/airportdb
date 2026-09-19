@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "APV",
+    "icao": "KAPV",
+    "name": "Apple Valley Airport",
+    "country": "United States",
+    "city": "Apple Valley",
+    "lat": 34.5753,
+    "lon": -117.186,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Apple Valley Airport is a small general aviation facility serving the High Desert community of Apple Valley in San Bernardino County, California. Situated in the western Mojave Desert at roughly 3,000 feet elevation, it primarily caters to private pilots, flight training, and recreational flying rather than commercial operations. The airport lies about 90 miles northeast of downtown Los Angeles and serves as a convenient gateway for visitors exploring the Victor Valley region.",
+  "faqs": "Q: Does Apple Valley Airport offer commercial airline service?\nA: No, APV is a general aviation airport with no scheduled commercial flights. It serves private, recreational, and flight training operations.\n\nQ: How far is Apple Valley Airport from Los Angeles?\nA: The airport is approximately 90 miles northeast of downtown Los Angeles, typically reached via Interstate 15 through the Cajon Pass.\n\nQ: What facilities are available at the airport?\nA: The airport features a single asphalt runway, aircraft tie-downs, fuel services, and limited hangar space, along with a few on-site aviation businesses and flight schools.\n\nQ: Can I rent a car at the airport?\nA: Rental car services are not typically available on-site, so visitors usually arrange rentals in nearby Victorville or rely on rideshare and taxi services.",
+  "transport_tips": "The airport is most easily reached by car via Highway 18 through Apple Valley or via I-15 exiting at Bear Valley Road or Dale Evans Parkway. Rideshare services like Uber and Lyft operate in the area but may have longer wait times due to the rural setting. Having a personal vehicle is strongly recommended for convenient travel around the High Desert region.",
+  "local_tip": "Aviation enthusiasts visiting Apple Valley Airport should plan a side trip to the nearby Mojave Air and Space Port in nearby Mojave, home to numerous aerospace companies and the famous civilian spaceflight operations, just a short drive north on State Route 14.",
+  "generatedAt": "2026-06-27T00:06:13.027Z",
+  "model": "MiniMax-M3"
+}

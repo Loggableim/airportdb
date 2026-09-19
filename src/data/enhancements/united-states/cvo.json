@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CVO",
+    "icao": "KCVO",
+    "name": "Corvallis Municipal Airport",
+    "country": "United States",
+    "city": "Corvallis",
+    "lat": 44.4972,
+    "lon": -123.29,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Corvallis Municipal Airport is a general aviation facility serving the city of Corvallis in Oregon's Willamette Valley, located approximately five miles south of downtown. The airport primarily supports private, business, and recreational aviation, with no scheduled commercial airline service. It plays a key role in supporting Oregon State University, local industry, and flight training operations in the region.",
+  "faqs": "Q: Does Corvallis Municipal Airport have commercial airline service?\nA: No, CVO does not offer scheduled commercial flights; it is a general aviation airport serving private pilots, charter operations, and flight training.\n\nQ: What is the airport mainly used for?\nA: The airport supports general aviation activities including private flights, corporate travel, recreational flying, skydiving operations, and pilot training.\n\nQ: Are there car rentals available at the airport?\nA: Rental car services are limited; visitors typically arrange vehicles in advance or use rideshare and taxi services from the Corvallis area.\n\nQ: How far is the airport from Oregon State University?\nA: The airport is roughly five miles south of the OSU campus, about a 10-15 minute drive depending on traffic.\n\n",
+  "transport_tips": "Having a personal vehicle is the most convenient way to reach Corvallis Municipal Airport, as the facility is located just off Oregon Route 99W south of the city. Rideshare apps like Uber and Lyft operate in Corvallis but may have longer wait times due to the airport's smaller size. Taxi services and rental cars arranged through local agencies are also available with advance booking.",
+  "local_tip": "If you have time before your flight, drive a few minutes north to downtown Corvallis and visit the Oregon State University campus — the Memorial Union, the covered bridge, and the local coffee roasters along Monroe Avenue are all worth a stop, especially the famous Corvallis Farmers' Market if you're there on a Saturday morning.",
+  "generatedAt": "2026-06-30T02:11:23.319Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FNT",
+    "icao": "KFNT",
+    "name": "Bishop International Airport",
+    "country": "United States",
+    "city": "Flint",
+    "lat": 42.9693,
+    "lon": -83.7434,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Bishop International Airport (FNT) is a medium-sized airport located in Flint, Michigan, named after local businessman and philanthropist Frederick S. Bishop. It serves the greater Flint area and parts of central Michigan, historically playing an important role due to Flint's status as a major General Motors manufacturing center. Today, it provides convenient access to Mid-Michigan destinations, offering an alternative to the busier Detroit Metropolitan Airport roughly 60 miles to the south.",
+  "faqs": "Q: How far is Bishop International Airport from downtown Flint?\nA: The airport is approximately 4 miles southwest of downtown Flint, typically a 10-15 minute drive.\n\nQ: Which airlines operate from Bishop International Airport?\nA: FNT is served primarily by Allegiant Air and Delta Air Lines, offering nonstop flights to several domestic destinations.\n\nQ: Does the airport offer parking facilities?\nA: Yes, Bishop International provides short-term and long-term parking options close to the terminal building.\n\nQ: Is the airport open 24 hours?\nA: Terminal hours vary by flight schedule, but the airport generally opens well before the first departure and closes after the last arrival each day.\n\n",
+  "transport_tips": "Taxis, rideshare services like Uber and Lyft, and rental cars are readily available at the terminal for ground transportation. The airport is conveniently located near I-69 and I-75, making it accessible by car from much of eastern Michigan. Some hotels in the area offer complimentary shuttle service for guests.",
+  "local_tip": "If you have time before your flight, visit the Flint Farmers' Market nearby for local Michigan-made products, or take a short drive to the Flint Cultural Center to explore attractions like the Flint Institute of Arts and Sloan Museum.",
+  "generatedAt": "2026-06-29T02:46:43.301Z",
+  "model": "MiniMax-M3"
+}

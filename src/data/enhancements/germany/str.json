@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "STR",
+    "icao": "EDDS",
+    "name": "Stuttgart Airport",
+    "country": "Germany",
+    "city": "Stuttgart",
+    "lat": 48.6899,
+    "lon": 9.222,
+    "type": "large_airport",
+    "size": 51275
+  },
+  "summary": "Stuttgart Airport (STR) is the international gateway to Baden-Württemberg, located approximately 13 km south of Stuttgart city center in southwestern Germany. It ranks among Germany's busiest airports and is notable for the A8 motorway running directly through its airfield, one of the few airports in Europe with this feature. The single-terminal facility serves as a key hub for both business travel to the region's automotive and engineering industries and leisure routes across Europe.",
+  "faqs": "Q: How far is Stuttgart Airport from the city center?\nA: The airport is approximately 13 km south of Stuttgart's city center, reachable in about 25-30 minutes by car or S-Bahn.\n\nQ: What is unique about Stuttgart Airport's layout?\nA: The A8 motorway runs directly through the airport grounds beneath the runways via a tunnel, making it one of the few airports in the world with a major highway passing through it.\n\nQ: Does Stuttgart Airport have public transit connections?\nA: Yes, S-Bahn lines S2 and S3 connect the airport directly to Stuttgart Hauptbahnhof (main station) in about 27 minutes.\n\nQ: Is Stuttgart Airport a hub for any airlines?\nA: The airport historically served as a base for several carriers including airberlin and Eurowings, offering numerous European connections.",
+  "transport_tips": "The S-Bahn lines S2 and S3 provide the most efficient and affordable connection to Stuttgart Hauptbahnhof, with trains running every 10-20 minutes. Taxis to the city center typically cost around €40-50 and take about 25 minutes depending on traffic. The airport is directly accessible from the A8 motorway, making car travel convenient, though short-term parking is expensive.",
+  "local_tip": "Visit the airport's rooftop visitor terrace (Besucherterrasse) on the south side of Terminal 1 for excellent plane-spotting views, particularly of the unique sight of cars driving on the A8 motorway beneath the runway threshold.",
+  "generatedAt": "2026-06-28T15:54:12.658Z",
+  "model": "MiniMax-M3"
+}

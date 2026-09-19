@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LOT",
+    "icao": "KLOT",
+    "name": "Lewis University Airport",
+    "country": "United States",
+    "city": "Chicago/Romeoville",
+    "lat": 41.6073,
+    "lon": -88.0962,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lewis University Airport is a general aviation facility situated in Romeoville, Illinois, roughly 35 miles southwest of downtown Chicago. The airport primarily serves private, corporate, and training flights and has long been associated with Lewis University's aviation science program, one of the oldest collegiate aviation programs in the United States. It features two intersecting runways and operates an air traffic control tower during active hours.",
+  "faqs": "Q: Does Lewis University Airport offer commercial passenger service?\nA: No, LOT is a general aviation airport with no scheduled commercial flights. It is used primarily for private aircraft, flight training, and corporate operations.\n\nQ: Who operates the airport?\nA: The airport is owned and operated by the Joliet Regional Port District, with Lewis University maintaining a strong operational presence due to its aviation degree programs.\n\nQ: Are there flight schools based at LOT?\nA: Yes, Lewis University's aviation department operates training programs on site, and the airport is a popular hub for student pilots and flight instructors.\n\nQ: Is there an air traffic control tower?\nA: Yes, the airport has a control tower that operates during published hours, making it busier than many similarly sized general aviation fields.",
+  "transport_tips": "The airport is most easily reached by car, located just off Interstate 55 at the Romeoville exit, approximately a 45-minute drive from downtown Chicago depending on traffic. Ride-sharing services like Uber and Lyft are available but may have limited availability in the suburban area, so scheduling in advance is recommended. On-site parking is available adjacent to the terminal area for pilots, passengers, and visitors.",
+  "local_tip": "If you have time before or after a flight, the nearby Lewis University",
+  "generatedAt": "2026-06-27T01:13:03.592Z",
+  "model": "MiniMax-M3"
+}

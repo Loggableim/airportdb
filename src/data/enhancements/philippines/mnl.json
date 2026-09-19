@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MNL",
+    "icao": "RPLL",
+    "name": "Ninoy Aquino International Airport",
+    "country": "Philippines",
+    "city": "Manila (Pasay)",
+    "lat": 14.5086,
+    "lon": 121.02,
+    "type": "large_airport",
+    "size": 1014275
+  },
+  "summary": "Ninoy Aquino International Airport (MNL/RPLL) is the Philippines' primary international gateway, located in Pasay and Parañaque just south of central Manila. Opened in 1948 and renamed in 1987 for Benigno 'Ninoy' Aquino Jr., it operates four passenger terminals and two intersecting runways in a densely urban setting. It is known for heavy congestion and for terminals that are not all connected airside, so transfers often require leaving the secure area.",
+  "faqs": "Q: Which terminal will my flight use?\nA: International carriers generally use Terminal 1 or Terminal 3, Philippine Airlines uses Terminal 2, and Terminal 4 handles domestic turboprop and low-cost flights; always check your airline and ticket.\n\nQ: How do I transfer between NAIA terminals?\nA: Terminals are separate and not fully connected airside. Use the free airport shuttle, a metered taxi, or a ride-hailing car, and allow at least 1–2 hours for the transfer plus traffic.\n\nQ: How early should I arrive at MNL?\nA: Arrive at least 3 hours before international departures and 2 hours before domestic flights; allow extra time during peak periods, holidays, and rainy season.\n\nQ: Is there Wi-Fi and are there lounges?\nA: Free Wi-Fi is available but can be slow or unreliable; paid lounges and some airline lounges exist in Terminals 1, 2, and 3, with more options in Terminal 3.\n\n",
+  "transport_tips": "From NAIA, official yellow metered taxis, Grab ride-hailing, and airport shuttle vans are the most reliable options; avoid unsolicited drivers inside the terminals. Traffic on EDSA and Roxas Boulevard can be severe, so budget 30–90 minutes to central Manila, Makati, or Quezon City depending on time of day. There is no direct rail link to the terminals; the nearest MRT/LRT stations require a taxi or jeepney connection.",
+  "local_tip": "If you are flying from Terminal 3, use the Runway Manila footbridge to Newport City for cheaper meals, coffee, and hotels before security; for early departures, stay near your terminal rather than across Metro Manila because traffic can turn a 20-minute ride into over an hour.",
+  "generatedAt": "2026-09-19T23:18:48.930Z",
+  "model": "deepseek-v4.1-flash"
+}

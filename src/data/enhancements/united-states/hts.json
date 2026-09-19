@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HTS",
+    "icao": "KHTS",
+    "name": "Tri-State Airport / Milton J. Ferguson Field",
+    "country": "United States",
+    "city": "Huntington",
+    "lat": 38.3667,
+    "lon": -82.558,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tri-State Airport (HTS), officially known as Milton J. Ferguson Field, is a regional airport serving the Huntington, West Virginia area and the surrounding tri-state region of West Virginia, Kentucky, and Ohio. Named after a local aviation advocate, it provides essential commercial service to the Appalachian region where larger airports are several hours away. The facility supports both passenger travel and general aviation, playing a vital role in connecting this geographically isolated area to major hub airports.",
+  "faqs": "Q: Which airlines serve Tri-State Airport?\nA: The airport has historically been served by regional carriers connecting to larger hub airports, most commonly offering nonstop service to Charlotte, North Carolina.\n\nQ: How far is the airport from downtown Huntington?\nA: Tri-State Airport is located approximately 8 miles southwest of downtown Huntington, with a typical drive time of 15-20 minutes depending on traffic.\n\nQ: Does the airport have any international flights?\nA: No, Tri-State Airport is a domestic-only facility without customs and border protection services.\n\nQ: Is there an IATA code confusion travelers should know about?\nA: No, HTS is unique to this airport, though travelers should confirm the three-letter code when booking to avoid confusion with other regional airports.",
+  "transport_tips": "Rental cars are the most convenient option for travelers flying into Tri-State Airport, as on-site car rental agencies operate from the terminal building. Taxi services and rideshare options are limited but available, so booking in advance is recommended. The airport is easily reached via Interstate 64, with clear signage directing drivers to the terminal entrance.",
+  "local_tip": "Pack snacks before arriving; food and beverage options inside the small terminal are very limited, and there are no restaurants after the security checkpoint.",
+  "generatedAt": "2026-06-29T04:13:00.347Z",
+  "model": "MiniMax-M3"
+}

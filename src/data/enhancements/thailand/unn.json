@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UNN",
+    "icao": "VTSR",
+    "name": "Ranong Airport",
+    "country": "Thailand",
+    "city": "Ranong",
+    "lat": 9.7776,
+    "lon": 98.5855,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ranong Airport (UNN/VTSR) is a small regional airport serving Ranong Province in southern Thailand, near the border with Myanmar. It functions as a convenient gateway for travelers heading to the Andaman coast, known for its mangrove estuaries, hot springs, and as a crossing point into Kawthaung, Myanmar. The airport handles limited domestic flights, primarily connecting Ranong with Bangkok.",
+  "faqs": "Q: How far is Ranong Airport from Ranong town center?\nA: The airport is approximately 20 kilometers south of Ranong town, with a typical drive taking around 25-30 minutes depending on traffic.\n\nQ: Which airlines operate flights to Ranong Airport?\nA: Ranong Airport is served primarily by Thai regional carriers offering flights to and from Bangkok, though schedules and operators may vary by season.\n\nQ: Are there immigration facilities for crossing into Myanmar from Ranong?\nA: No, the airport does not have international immigration. Travelers heading to Myanmar typically cross the land border at Ranong-Kawthaung, not via the airport.\n\nQ: Is Ranong Airport open 24 hours?\nA: No, the airport operates only during scheduled flight hours, so it closes between flights and overnight.",
+  "transport_tips": "Taxis and songthaews (shared pickup trucks) are available at the airport for the trip into Ranong town; pre-booking a hotel transfer is recommended during peak season. The airport lies along the main southern highway, making road connections straightforward toward both Ranong city and the Kawthaung border crossing. Rental cars and motorbikes can be arranged in town for exploring the surrounding province independently.",
+  "local_tip": "If you plan to cross into Myanmar at the Ranong-Kawthaung land border, the airport's southern location puts you within an hour of the pier, so consider timing your flight to allow a full day for immigration formalities on both sides.",
+  "generatedAt": "2026-06-29T15:39:04.854Z",
+  "model": "MiniMax-M3"
+}

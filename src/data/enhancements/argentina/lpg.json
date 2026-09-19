@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LPG",
+    "icao": "SADL",
+    "name": "La Plata Airport",
+    "country": "Argentina",
+    "city": "La Plata",
+    "lat": -34.9722,
+    "lon": -57.8947,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "La Plata Airport serves the city of La Plata, the capital of Buenos Aires Province in Argentina. The airport primarily handles general aviation, private flights, and limited commercial operations, functioning as a regional gateway rather than a major international hub. It is conveniently situated about 10 kilometers southwest of the city center, providing easy access to La Plata's renowned university district and civic landmarks.",
+  "faqs": "Q: What is the main airport serving Buenos Aires?\nA: La Plata Airport handles limited traffic; most travelers use Ministro Pistarini International Airport (Ezeiza, EZE) or Aeroparque Jorge Newbery (AEP) in Buenos Aires for major commercial flights.\n\nQ: Does La Plata Airport have commercial passenger service?\nA: The airport mainly serves general aviation and private aircraft, with occasional regional or charter flights. Travelers should check current schedules as commercial service has been historically limited.\n\nQ: How far is the airport from La Plata city center?\nA: The airport is approximately 10 kilometers southwest of downtown La Plata, typically a 20-30 minute drive depending on traffic.\n\nQ: Is there public transportation to the airport?\nA: Options are limited; taxis and ride-hailing services are the most practical ways to reach the airport, as public bus routes serving the terminal are infrequent.",
+  "transport_tips": "Taxis and ride-hailing apps like Uber or Cabify are the most reliable ways to reach La Plata Airport, as public transit options are limited. Renting a car in La Plata is straightforward and useful for exploring the broader Buenos Aires Province. If traveling from Buenos Aires city, allow at least 1.5 hours by car due to the distance and potential traffic on Route 2 or the Autopista Buenos Aires-La Plata.",
+  "local_tip": "If you have time before or after your flight, visit the Museo de La Plata, one of South America's most important natural history museums, located just a short drive from the airport and easily combined with a visit to the nearby Bosque (city forest).",
+  "generatedAt": "2026-06-26T11:39:59.739Z",
+  "model": "MiniMax-M3"
+}

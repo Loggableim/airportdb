@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NNU",
+    "icao": "SNNU",
+    "name": "Nanuque Airport",
+    "country": "Brazil",
+    "city": "Nanuque",
+    "lat": -17.8232,
+    "lon": -40.3297,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Nanuque Airport (NNU/SNNU) is a small regional airport serving the municipality of Nanuque in the northeastern part of Minas Gerais state, Brazil, near the border with Bahia. The facility primarily supports general aviation and limited regional flights, serving a city known for its cattle ranching, agriculture, and proximity to the scenic Rio Mucuri. As a small public airport, it plays a vital role in connecting this remote area of the Atlantic Forest region to larger Brazilian cities.",
+  "faqs": "Q: Are there commercial passenger flights at Nanuque Airport?\nA: Commercial scheduled service is very limited or non-existent; the airport primarily serves general aviation and private flights.\n\nQ: What is the airport's runway like?\nA: The airport has a single asphalt runway suitable for small to mid-size aircraft, with length and width typical of regional Brazilian airfields.\n\nQ: Is there an airport terminal with services?\nA: Facilities are basic, reflecting its status as a small airport, with minimal passenger amenities and no major commercial services.\n\nQ: What cities are accessible from Nanuque?\nA: Most travelers connect through larger hubs like Belo Horizonte or Vitória, typically by ground transportation rather than direct flights.",
+  "transport_tips": "Taxis and rideshares are the most common way to reach the airport, which is located a short distance from the city center of Nanuque. Renting a car is advisable for exploring the surrounding region, including the nearby Rio Mucuri and the Atlantic Forest reserves. Visitors should arrange ground transport in advance as on-site rental options are limited.",
+  "local_tip": "If you have some time before or after your flight, visit the nearby Lagoa Dourada or the Rio Mucuri for a taste of the region's natural beauty, and try local Minas Gerais cuisine at a countryside restaurant in town.",
+  "generatedAt": "2026-06-28T04:30:46.451Z",
+  "model": "MiniMax-M3"
+}

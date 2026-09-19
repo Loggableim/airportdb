@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SVE",
+    "icao": "KSVE",
+    "name": "Susanville Municipal Airport",
+    "country": "United States",
+    "city": "Susanville",
+    "lat": 40.3757,
+    "lon": -120.573,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Susanville Municipal Airport (SVE) is a small general aviation facility serving the city of Susanville in northeastern California's Lassen County. Situated at an elevation of approximately 4,150 feet, it provides convenient access to outdoor recreation areas including Lassen Volcanic National Park and the Sierra Nevada foothills. The airport primarily supports private aviation, flight training, and serves as a useful gateway for visitors exploring the remote Honey Lake region.",
+  "faqs": "Q: What type of airport is Susanville Municipal?\nA: It is a small general aviation airport that does not offer scheduled commercial passenger service, primarily serving private pilots, flight training, and general aviation activities.\n\nQ: Does Susanville Municipal have fuel services?\nA: Yes, the airport typically offers aviation fuel for transient and based aircraft, though pilots are advised to check current availability before arrival.\n\nQ: What is the airport's elevation?\nA: The airport sits at approximately 4,150 feet above sea level, which is an important consideration for aircraft performance calculations.\n\nQ: Can I rent a car at the airport?\nA: Car rentals are generally not available on-site, so visitors typically arrange ground transportation in advance through local agencies in Susanville.\n\n",
+  "transport_tips": "The airport is located just a few miles northwest of downtown Susanville, making it a short drive by car or taxi. Rental cars should be arranged in advance as on-site rental counters are not available. Ride-sharing services have limited coverage in this rural area, so calling a local taxi or arranging pickup with a hotel is often the most reliable option.",
+  "local_tip": "If flying in, plan your arrival with extra daylight margin, especially in winter—Lassen County can experience sudden weather changes, afternoon mountain winds, and occasional fog, so early morning arrivals tend to offer the smoothest experience.",
+  "generatedAt": "2026-06-27T01:30:54.660Z",
+  "model": "MiniMax-M3"
+}

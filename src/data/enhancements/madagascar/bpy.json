@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BPY",
+    "icao": "FMNQ",
+    "name": "Besalampy Airport",
+    "country": "Madagascar",
+    "city": "Besalampy",
+    "lat": -16.7445,
+    "lon": 44.4825,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Besalampy Airport is a regional airport serving the small coastal town of Besalampy in western Madagascar, located along the Mozambique Channel in the Melaky Region. The airport provides essential air connectivity for this remote part of the island, where road travel is difficult and time-consuming. It primarily handles domestic flights connecting the area to larger Malagasy cities such as Antananarivo and Mahajanga.",
+  "faqs": "Q: What is the airport code for Besalampy Airport?\nA: The IATA code is BPY and the ICAO code is FMNQ.\n\nQ: Where is Besalampy Airport located?\nA: It is located near the town of Besalampy on the western coast of Madagascar, facing the Mozambique Channel.\n\nQ: What type of flights operate from Besalampy Airport?\nA: The airport primarily serves domestic regional flights, typically operated with small to medium-sized aircraft suited for short runways.\n\nQ: Is Besalampy Airport suitable for international flights?\nA: No, Besalampy Airport handles domestic flights only and does not offer international service.",
+  "transport_tips": "Getting to and from Besalampy Airport typically requires a short drive by taxi or local transport into the town center, as the airport is located close to Besalampy itself. Travelers should arrange ground transport in advance, as local services are limited and ride-sharing apps do not operate in this region. Due to the remote location, flights are often the most reliable way to reach the area, as overland routes can be long and challenging, especially during the rainy season.",
+  "local_tip": "Bring cash in Malagasy ariary for ground transport and any small purchases, as ATMs are scarce in Besalampy and card payment facilities are unreliable outside of major towns.",
+  "generatedAt": "2026-06-29T16:12:36.728Z",
+  "model": "MiniMax-M3"
+}

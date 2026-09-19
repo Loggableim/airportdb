@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TAF",
+    "icao": "DAOL",
+    "name": "Oran Tafraoui Airport",
+    "country": "Algeria",
+    "city": "Tafraoui",
+    "lat": 35.5424,
+    "lon": -0.5323,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Oran Tafraoui Airport (TAF) is a medium-sized airport serving the Tafraoui area in Algeria's Oran Province, located about 15 km southeast of the city of Oran. The facility has historical roots as a former military airbase and retains some military aviation activity alongside its civil operations. It primarily serves as a secondary airport to the busier Oran Ahmed Ben Bella Airport, handling limited commercial and general aviation traffic.",
+  "faqs": "Q: What is the difference between Tafraoui Airport and Oran Ahmed Ben Bella Airport?\nA: Tafraoui (TAF) is a smaller secondary airport with limited commercial service, while Ahmed Ben Bella Airport (ORN) is the main international gateway for the Oran region handling most scheduled flights.\n\nQ: Does Tafraoui Airport have scheduled passenger flights?\nA: Commercial scheduled service is very limited at TAF, with the airport primarily supporting general aviation and occasional charter operations.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized airport, it offers basic terminal services suitable for general aviation and small-scale commercial operations.\n\nQ: Is the airport open to international flights?\nA: The airport can handle international general aviation traffic, though most international travelers use Oran Ahmed Ben Bella Airport.",
+  "transport_tips": "The airport is approximately 15 km from central Oran, accessible primarily by taxi or private car via the N2 highway. Travel times can vary significantly with traffic, especially during peak hours. Rental cars are generally arranged in advance, as on-site rental services at TAF are limited.",
+  "local_tip": "If flying into Tafraoui, confirm your ground transportation in advance — taxi availability at the terminal can be unpredictable, and pre-arranging a pickup through your hotel or a local contact is advisable.",
+  "generatedAt": "2026-06-26T13:43:05.730Z",
+  "model": "MiniMax-M3"
+}

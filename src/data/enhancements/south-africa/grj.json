@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GRJ",
+    "icao": "FAGG",
+    "name": "George Airport",
+    "country": "South Africa",
+    "city": "George",
+    "lat": -34.0056,
+    "lon": 22.3789,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "George Airport (GRJ) is a regional airport serving the Garden Route, one of South Africa's most scenic coastal regions in the Western Cape. Located just a few kilometers from the city of George, it acts as the primary air gateway for travelers heading to popular destinations such as Knysna, Plettenberg Bay, Mossel Bay, and the surrounding beaches and forests. The airport handles a mix of domestic flights connecting major South African cities and seasonal charter services.",
+  "faqs": "Q: How far is George Airport from the city center?\nA: The airport is located approximately 10 kilometers from George city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines operate from George Airport?\nA: South African Airways, FlySafair, CemAir, and Airlink operate scheduled domestic flights connecting George to Johannesburg, Cape Town, and Durban.\n\nQ: Is George Airport an international airport?\nA: While classified as a large airport with customs facilities, it primarily handles domestic flights. International charter flights occasionally operate during peak tourist season.\n\nQ: Are there car rental services at the airport?\nA: Yes, several major car rental companies have desks at the airport, making it convenient for travelers exploring the Garden Route by road.\n\n",
+  "transport_tips": "Pre-booking a rental car is highly recommended as it provides the most flexibility for exploring the Garden Route. Metered taxis and ride-sharing services are available outside the terminal, though options may be limited during off-peak hours. Shuttle services to nearby towns like Knysna and Wilderness can be arranged in advance through local operators.",
+  "local_tip": "If you're driving the Garden Route, time your arrival or departure for late afternoon to catch stunning views of the Outeniqua Mountains lit by the setting sun on your way to or from the airport.",
+  "generatedAt": "2026-06-28T21:35:44.887Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VEY",
+    "icao": "BIVM",
+    "name": "Vestmannaeyjar Airport",
+    "country": "Iceland",
+    "city": "Vestmannaeyjar",
+    "lat": 63.4243,
+    "lon": -20.2789,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Vestmannaeyjar Airport (VEY) serves the Westman Islands archipelago, located just off Iceland's southern coast. The airport is a vital lifeline for the 4,000 residents of Heimaey, the only inhabited island, connecting them to mainland Iceland. It also welcomes visitors drawn to the islands' dramatic volcanic landscapes, massive puffin colonies, and the site of the 1973 Eldfell eruption.",
+  "faqs": "Q: How do I get to Vestmannaeyjar Airport?\nA: The airport is located on Heimaey island and is served primarily by scheduled flights from Reykjavik's domestic airport, operated by Air Iceland Connect. Flights take roughly 25 minutes.\n\nQ: Is there ferry service to the islands?\nA: Yes, the Herjólfur ferry runs between Landeyjahöfn on the mainland and Vestmannaeyjar, but the airport remains the fastest option for travelers short on time.\n\nQ: What is the airport primarily used for?\nA: Besides passenger service, the airport supports the islands' fishing industry, emergency services, and serves as a base for occasional medical evacuation flights.\n\nQ: Are there car rental services at the airport?\nA: Rental options are limited and often arranged locally; booking in advance through providers on Heimaey is recommended.",
+  "transport_tips": "The airport sits just a few minutes' drive from Vestmannaeyjar town center on Heimaey, and taxis typically meet incoming flights. Many visitors rent a car on the mainland and bring it over on the Herjólfur ferry instead, which allows easy exploration of the island. Walking from the airport to the town is feasible in good weather, approximately 3 km.",
+  "local_tip": "If you're visiting during summer, check your flight schedule against the puffin watching season—millions of Atlantic puffins nest on the cliffs of Heimaey from May to August, and the islands' sole lighthouse at Stórhöfði is one of the windiest inhabited places in Europe.",
+  "generatedAt": "2026-06-26T07:59:30.445Z",
+  "model": "MiniMax-M3"
+}

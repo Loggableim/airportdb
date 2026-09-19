@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UNK",
+    "icao": "PAUN",
+    "name": "Unalakleet Airport",
+    "country": "United States",
+    "city": "Unalakleet",
+    "lat": 63.8884,
+    "lon": -160.799,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Unalakleet Airport serves the remote community of Unalakleet on Alaska's western Norton Sound coast, providing vital air access to a predominantly Yup'ik and Inupiat population of around 700 residents. The airport is a critical lifeline for passenger travel, mail delivery, and freight, and the village itself is internationally known as a checkpoint on the Iditarod Trail Sled Dog Race.",
+  "faqs": "Q: What airlines serve Unalakleet Airport?\nA: Regional carriers such as Bering Air provide scheduled passenger service connecting Unalakleet with Nome and onward to Anchorage.\n\nQ: How far is the airport from the village?\nA: The airport is located a short drive from the center of Unalakleet, typically just a few minutes by vehicle.\n\nQ: Does the airport have a paved runway?\nA: Yes, the airport features a paved asphalt runway capable of handling regional turboprop aircraft.\n\nQ: What is the airport primarily used for?\nA: Beyond passenger travel, the airport supports mail delivery, cargo transport, and medical evacuations essential for this remote community.\n\n",
+  "transport_tips": "Ground transportation options at Unalakleet Airport are limited,",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T21:57:01.716Z",
+  "model": "MiniMax-M3"
+}

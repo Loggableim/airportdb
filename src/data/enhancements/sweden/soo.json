@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SOO",
+    "icao": "ESNY",
+    "name": "Söderhamn Airport",
+    "country": "Sweden",
+    "city": "Söderhamn",
+    "lat": 61.2615,
+    "lon": 17.0991,
+    "type": "medium_airport",
+    "size": 375
+  },
+  "summary": "Söderhamn Airport is a regional airport serving the coastal town of Söderhamn in Gävleborg County, central Sweden. Located on the eastern coast of Sweden along the Gulf of Bothnia, the airport primarily handles general aviation and charter traffic for the surrounding Hälsingland region. It provides an important gateway for travelers heading to northern Gävleborg and supports business aviation given the area's industrial activity.",
+  "faqs": "Q: What types of flights operate from Söderhamn Airport?\nA: The airport primarily serves general aviation, charter flights, and private aircraft rather than scheduled commercial service.\n\nQ: How far is the airport from Söderhamn town center?\nA: Söderhamn Airport is located a short drive northeast of the town center, typically reachable within 10-15 minutes by car.\n\nQ: Are there customs and immigration facilities at the airport?\nA: As a smaller regional airport, customs services may be limited and typically need to be arranged in advance for international flights.\n\nQ: What facilities are available at the terminal?\nA: The airport offers basic passenger amenities appropriate for a regional facility, though services are limited compared to major Swedish airports.\n\n",
+  "transport_tips": "Renting a car is the most practical option for reaching Söderhamn Airport, as public transit connections to the airfield are limited. The E4 motorway runs nearby, providing straightforward road access from Gävle to the south and Sundsvall to the north. Taxi services from Söderhamn town should be pre-booked, as availability can be limited.",
+  "local_tip": "If visiting the area, take time to explore the Hälsingland region's decorated farmhouses, some of which are UNESCO-listed and offer a unique glimpse into Scandinavian rural heritage not found elsewhere in Sweden.",
+  "generatedAt": "2026-06-30T01:49:45.310Z",
+  "model": "MiniMax-M3"
+}

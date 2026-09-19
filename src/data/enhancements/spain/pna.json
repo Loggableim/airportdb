@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PNA",
+    "icao": "LEPP",
+    "name": "Pamplona Airport",
+    "country": "Spain",
+    "city": "Pamplona",
+    "lat": 42.77,
+    "lon": -1.6463,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Pamplona Airport (PNA) serves the historic capital of Navarra in northern Spain, sitting about 6 km southwest of the city center amid rolling green countryside. The airport is best known as the gateway to Pamplona's iconic San Fermín festival each July, drawing huge visitor surges for the Running of the Bulls. Its compact single-terminal layout handles a modest schedule of domestic routes, primarily to Madrid.",
+  "faqs": "Q: How far is Pamplona Airport from the city center?\nA: The airport is approximately 6 km (3.7 miles) southwest of Pamplona's city center, a 15–20 minute drive depending on traffic.\n\nQ: What airlines operate at Pamplona Airport?\nA: Iberia and regional carriers provide the main scheduled service, with the busiest route being the shuttle to Madrid Barajas. Seasonal and summer charter flights may be added during San Fermín.\n\nQ: Does the airport have international flights?\nA: Scheduled service is primarily domestic, though some seasonal European leisure routes have been operated in past summer schedules.\n\nQ: Is the airport busy during San Fermín?\nA: Yes, traffic and passenger volumes spike dramatically during the first two weeks of July, so booking flights and ground transport well in advance is strongly recommended.",
+  "transport_tips": "The most convenient option is a taxi or pre-booked transfer, which takes around 15 minutes to the city center and costs roughly €15–20. Line 15 of the urban bus network connects the airport to central Pamplona on a regular schedule, offering an affordable alternative for budget-conscious travelers. Rental cars are available on-site if you plan to explore the wider Navarra region or the Pyrenees foothills.",
+  "local_tip": "If you're flying in for San Fermín, don't bother renting a car—street parking in central Pamplona during the festival is nearly impossible, and many roads are closed for events. Instead, rely on the airport bus or taxi and walk everywhere once you're in the old town.",
+  "generatedAt": "2026-06-29T08:59:58.671Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CWL",
+    "icao": "EGFF",
+    "name": "Cardiff International Airport",
+    "country": "United Kingdom",
+    "city": "Cardiff",
+    "lat": 51.3967,
+    "lon": -3.3433,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Cardiff International Airport (CWL) is Wales's principal gateway, located in Rhoose on the Vale of Glamorgan coast approximately 12 miles southwest of Cardiff city centre. Originally established as RAF Rhoose during World War II, it transitioned to civilian use in the 1950s and now operates a single modern terminal serving primarily UK, European, and holiday charter destinations. The airport sits on the Bristol Channel coast, offering dramatic approach views over the Welsh countryside and coastline.",
+  "faqs": "Q: How far is Cardiff Airport from the city centre?\nA: The airport is approximately 12 miles (19 km) southwest of Cardiff city centre, with typical journey times of 30-40 minutes by car or rail-airport bus link.\n\nQ: Does Cardiff Airport have public transport connections?\nA: Yes, the T9 rail shuttle connects Rhoose Cardiff International Airport station directly to Cardiff Central station, and several bus services operate to the terminal.\n\nQ: How many terminals does Cardiff Airport have?\nA: Cardiff Airport operates a single terminal building handling all arrivals and departures.\n\nQ: What destinations are served from Cardiff?\nA: The airport offers flights to numerous UK cities, European leisure destinations, and seasonal holiday routes, with airlines including TUI, Ryanair, and Wizz Air among the main operators.",
+  "transport_tips": "The most convenient rail option is the Arriva Trains Wales shuttle from Cardiff Central to Rhoose Cardiff International Airport station, followed by a short free bus link to the terminal. By car, the airport is accessed via the A4226 from junction 33 of the M4 motorway, with on-site parking available for short and long stays. Taxi journeys to Cardiff city centre typically cost around £30-40 and take 30-40 minutes depending on traffic.",
+  "local_tip": "If you have time before your flight, the Barry Island seaside resort and the historic Fonmon Castle are both within a 15-minute drive of the airport, making them ideal for a quick last visit to the Vale of Glamorgan.",
+  "generatedAt": "2026-06-28T19:03:59.818Z",
+  "model": "MiniMax-M3"
+}

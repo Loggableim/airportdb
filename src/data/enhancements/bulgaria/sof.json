@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SOF",
+    "icao": "LBSF",
+    "name": "Sofia Airport",
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "lat": 42.6964,
+    "lon": 23.4177,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Sofia Airport (SOF) is Bulgaria's largest and busiest international airport, located approximately 10 km east of the capital city center. Originally established in the 1930s, it serves as the main hub for Bulgaria Air and handles the majority of the country's commercial air traffic through two passenger terminals. The airport connects Sofia to destinations across Europe, the Middle East, and beyond, making it the primary gateway for visitors to Bulgaria.",
+  "faqs": "Q: How far is Sofia Airport from the city center?\nA: The airport is located about 10 km east of Sofia's city center, typically a 20-30 minute drive depending on traffic.\n\nQ: How many terminals does Sofia Airport have?\nA: Sofia Airport has two terminals: Terminal 1 handles mainly low-cost carriers, while Terminal 2 serves flag carriers and most scheduled flights.\n\nQ: Is there public transportation from the airport to central Sofia?\nA: Yes, metro line M1 connects the airport directly to central Sofia, and bus routes 84 and 384 also serve the terminals.\n\nQ: Does Sofia Airport operate 24 hours?\nA: The airport generally operates from early morning until late evening, though specific terminal hours may vary by airline and season.",
+  "transport_tips": "The Sofia Metro M1 line provides the fastest and most affordable connection between the airport and the city center, with a journey time of around 20 minutes. Taxis and ride-sharing services are readily available outside the terminals, but confirm the fare or use the meter to avoid overcharging. If renting a car, the airport is well-connected to the Trakia Highway (A1), making onward travel to other Bulgarian cities straightforward.",
+  "local_tip": "If you have a long layover or early morning flight, the Terminal 2 area has a few coffee shops and lounges that open before the first departures—arriving early is more comfortable here than at many larger European hubs, as the airport remains relatively uncrowded outside peak hours.",
+  "generatedAt": "2026-06-28T17:04:27.426Z",
+  "model": "MiniMax-M3"
+}

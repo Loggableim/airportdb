@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SZX",
+    "icao": "ZGSZ",
+    "name": "Shenzhen Bao'an International Airport",
+    "country": "China",
+    "city": "Shenzhen",
+    "lat": 22.6395,
+    "lon": 113.8033,
+    "type": "large_airport",
+    "size": 51200
+  },
+  "summary": "Shenzhen Bao'an International Airport (SZX) is the primary aviation gateway to Shenzhen, one of China's largest technology and manufacturing hubs in Guangdong Province. Opened in 1991 to replace the older Huangtian Airport, it now features the expansive Terminal 3, which opened in 2013 and ranks among the largest terminal buildings in China. The airport sits about 32 km northwest of downtown Shenzhen and serves as a key hub for Shenzhen Airlines and several other carriers.",
+  "faqs": "Q: How far is Shenzhen Bao'an Airport from the city center?\nA: The airport is approximately 32 km northwest of downtown Shenzhen, with typical journey times of 30-60 minutes depending on traffic and transport mode.\n\nQ: Does SZX have a metro connection?\nA: Yes, Metro Line 11 connects the airport directly to downtown Shenzhen and onward to Futian, with through-running services to parts of Guangzhou.\n\nQ: Can travelers reach Hong Kong from Shenzhen Bao'an Airport?\nA: Yes, cross-border coaches and ferry services connect the airport to Hong Kong, and many travelers transit via the airport to access Hong Kong International Airport's network.\n\nQ: How many terminals does SZX have?\nA: The airport operates three main terminals, with Terminal 3 handling the majority of domestic and international flights.",
+  "transport_tips": "Metro Line 11 is the fastest and most reliable option, reaching central Shenzhen in roughly 30-40 minutes without traffic concerns. Taxis and ride-hailing services like Didi are widely available but can take 45-90 minutes during peak hours. Cross-border coaches to Hong Kong depart from designated counters and are useful for travelers heading onward to the SAR.",
+  "local_tip": "If traveling to Hong Kong, consider the cross-border ferry from the airport's ferry terminal to SkyPier at Hong Kong International Airport—it bypasses border road congestion and allows you to check luggage through to your final destination.",
+  "generatedAt": "2026-06-28T15:55:34.668Z",
+  "model": "MiniMax-M3"
+}

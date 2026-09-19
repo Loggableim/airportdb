@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MUX",
+    "icao": "OPMT",
+    "name": "Multan International Airport",
+    "country": "Pakistan",
+    "city": "Multan",
+    "lat": 30.2032,
+    "lon": 71.4191,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Multan International Airport (MUX) is the main air gateway to Multan, a historic city in southern Punjab, Pakistan often called the 'City of Saints' for its numerous Sufi shrines. The airport handles both domestic flights connecting to major Pakistani cities and international flights, particularly to Gulf states serving the large migrant workforce from the region. It plays a vital role in supporting religious tourism, as many visitors travel through MUX to visit Multan's revered Sufi mausoleums.",
+  "faqs": "Q: How far is Multan International Airport from the city center?\nA: The airport is located approximately 10 km (6 miles) from Multan's city center, with a typical drive taking 20-30 minutes depending on traffic.\n\nQ: Does Multan International Airport offer international flights?\nA: Yes, the airport operates international flights primarily to Gulf countries such as Saudi Arabia, UAE, and Qatar, serving Pakistani expatriate workers and religious pilgrims.\n\nQ: Is Wi-Fi available at the airport?\nA: Limited Wi-Fi connectivity is available in certain terminal areas, though travelers are advised to arrange mobile data in advance for reliable internet access.\n\nQ: What facilities does the airport provide for travelers?\nA: The terminal offers basic amenities including food and beverage outlets, prayer areas, currency exchange, car rental services, and short-term parking.",
+  "transport_tips": "Taxis and ride-hailing services like Careem are readily available outside the terminal for the roughly 20-minute journey to central Multan. Pre-booked hotel transfers are recommended during peak pilgrimage seasons when demand is high. Local rickshaws can handle short trips within the city once you arrive.",
+  "local_tip": "If visiting during cooler months (November to February), ask your taxi driver to take a short detour past the famous Shrine of Shah Rukn-e-Alam near the city center—the stunning 14th-century Sufi mausoleum is a must-see and is conveniently located along the route into town.",
+  "generatedAt": "2026-06-28T22:44:56.327Z",
+  "model": "MiniMax-M3"
+}

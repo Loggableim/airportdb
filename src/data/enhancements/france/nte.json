@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NTE",
+    "icao": "LFRS",
+    "name": "Nantes Atlantique Airport",
+    "country": "France",
+    "city": "Nantes",
+    "lat": 47.1532,
+    "lon": -1.6107,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Nantes Atlantique Airport (NTE) is the main gateway to the Pays de la Loire region in western France, located approximately 8 km southwest of the city center in the commune of Bouguenais. The single-terminal facility serves as an important regional hub, offering flights across France and to destinations throughout Europe. Notably, the airport was long at the center of a controversial debate over its planned replacement by Notre-Dame-des-Landes, a project officially abandoned in 2018, securing NTE's continued role as the region's primary air gateway.",
+  "faqs": "Q: How far is Nantes Atlantique Airport from the city center?\nA: The airport is approximately 8 km (5 miles) southwest of central Nantes, with a typical journey time of 20-30 minutes by car or shuttle bus.\n\nQ: Does the airport have multiple terminals?\nA: No, Nantes Atlantique operates from a single, modern terminal building that handles all domestic and international flights.\n\nQ: What public transport options connect the airport to Nantes?\nA: The TAN shuttle bus (Line 38) runs regularly between the airport and the Nantes city center, with stops at the main train station. Taxis and rideshare services are also readily available.\n\nQ: Which airlines operate from Nantes Atlantique?\nA: The airport is served by major carriers including Air France, easyJet, Ryanair, and Volotea, offering connections to numerous European cities and domestic French destinations",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T02:45:31.885Z",
+  "model": "MiniMax-M3"
+}

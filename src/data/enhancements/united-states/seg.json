@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SEG",
+    "icao": "KSEG",
+    "name": "Penn Valley Airport",
+    "country": "United States",
+    "city": "Selinsgrove",
+    "lat": 40.8206,
+    "lon": -76.8639,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Penn Valley Airport is a small general aviation facility serving Selinsgrove and the surrounding Susquehanna Valley in central Pennsylvania. Jointly owned by Selinsgrove Borough and Snyder County, the airport features a single asphalt runway and supports recreational flying, flight training, and business aviation. Its convenient location near US Route 11 and US Route 15 makes it a practical gateway to the scenic heart of Pennsylvania.",
+  "faqs": "Q: What is Penn Valley Airport primarily used for?\nA: Penn Valley Airport primarily serves general aviation, including private flights, flight training, recreational flying, and occasional business aviation. It does not host scheduled commercial airline service.\n\nQ: How long is the runway at KSEG?\nA: The airport features a single asphalt runway (Runway 17/35) approximately 4,800 feet in length, suitable for most single-engine and light twin-engine aircraft.\n\nQ: Are there rental cars available at the airport?\nA: Rental car availability is limited; visitors are encouraged to arrange ground transportation in advance with local providers in Selinsgrove.\n\nQ: Is there an air traffic control tower at Penn Valley Airport?\nA: No, KSEG is an uncontrolled airport. Pilots communicate on the common traffic advisory frequency (CTAF) to coordinate arrivals and departures.",
+  "transport_tips": "The airport is located just off US Route 11/15, making it a quick drive from downtown Selinsgrove, Sunbury, and Lewisburg. Ground transportation options are limited, so arranging a rental car or pre-booked ride in advance is recommended. Ample free parking is available on-site for those picking up or dropping off passengers.",
+  "local_tip": "If you have time before or after your flight, take a short drive into downtown Selinsgrove for a meal at one of the locally owned restaurants along Market Street — the small-town Pennsylvania hospitality is a highlight of visiting the Susquehanna Valley.",
+  "generatedAt": "2026-06-27T01:47:08.563Z",
+  "model": "MiniMax-M3"
+}

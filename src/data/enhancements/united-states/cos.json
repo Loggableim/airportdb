@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "COS",
+    "icao": "KCOS",
+    "name": "City of Colorado Springs Municipal Airport",
+    "country": "United States",
+    "city": "Colorado Springs",
+    "lat": 38.8058,
+    "lon": -104.701,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "City of Colorado Springs Municipal Airport (COS) is a high-altitude airport situated at approximately 6,187 feet above sea level in the shadow of Pikes Peak. Jointly used with the adjacent Peterson Space Force Base, it serves both civilian and military aviation for the Colorado Springs metropolitan area. The airport offers a convenient alternative to Denver International, roughly 70 miles to the north, and provides easy access to the U.S. Air Force Academy and numerous regional military installations.",
+  "faqs": "Q: How far is COS from downtown Colorado Springs?\nA: The airport is approximately 7 miles southeast of downtown Colorado Springs, typically a 15-20 minute drive depending on traffic.\n\nQ: Does COS have international flights?\nA: COS primarily handles domestic flights, with major carriers offering nonstop service to several U.S. hubs. International travelers typically connect through Denver International Airport.\n\nQ: Is COS affected by its high elevation?\nA: Yes, at over 6,000 feet elevation, the thinner air requires longer runway distances for takeoff and landing. Passengers may notice slightly less flight range from departing aircraft.\n\nQ: Are there military facilities at the airport?\nA: Yes, COS shares runways with Peterson Space Force Base, and the airport supports significant military and general aviation operations alongside commercial service.",
+  "transport_tips": "Rental cars are available on-site and are the most convenient option given the city's spread-out layout. Mountain Metropolitan Transit provides Route 23 bus service connecting the airport to downtown Colorado Springs. Ride-share services like Uber and Lyft operate at COS but may have longer wait times during off-peak hours due to lower traffic volume.",
+  "local_tip": "If you have a few hours to spare, the nearby Peterson Air and Space Museum is free to visit and offers fascinating exhibits on military aviation and space operations—it's just a short drive from the terminal.",
+  "generatedAt": "2026-06-28T18:14:05.652Z",
+  "model": "MiniMax-M3"
+}

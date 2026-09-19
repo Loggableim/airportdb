@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CLT",
+    "icao": "KCLT",
+    "name": "Charlotte Douglas International Airport",
+    "country": "United States",
+    "city": "Charlotte",
+    "lat": 35.214,
+    "lon": -80.9431,
+    "type": "large_airport",
+    "size": 1028075
+  },
+  "summary": "Charlotte Douglas International Airport (CLT) is North Carolina's largest airport and the second-largest hub for American Airlines, handling tens of millions of passengers annually. Originally established in 1935 as Charlotte Municipal Airport, it was renamed in 1954 to honor former Charlotte mayor Ben Elbert Douglas. The airport features an acclaimed public art program and serves as a major gateway to the Charlotte metropolitan area and the broader Carolinas region.",
+  "faqs": "Q: How many terminals does CLT have?\nA: Charlotte Douglas has one main terminal building divided into five concourses labeled A",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T14:57:16.158Z",
+  "model": "MiniMax-M3"
+}

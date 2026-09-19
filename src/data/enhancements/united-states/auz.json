@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AUZ",
+    "icao": "KARR",
+    "name": "Aurora Municipal Airport",
+    "country": "United States",
+    "city": "Chicago/Aurora",
+    "lat": 41.7719,
+    "lon": -88.4757,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Aurora Municipal Airport (AUZ/KARR) is a general aviation reliever airport serving the Chicago metropolitan area, located in the city of Aurora approximately 50 miles west of downtown Chicago. The airport primarily serves private pilots, flight training, corporate aircraft, and recreational aviation, helping to divert traffic from Chicago's major commercial airports. It features two runways and hosts several flight schools, aircraft maintenance facilities, and FBOs.",
+  "faqs": "Q: What is Aurora Municipal Airport primarily used for?\nA: The airport primarily serves general aviation, including private pilots, flight training, corporate aircraft, and recreational flying, acting as a reliever airport for the Chicago area.\n\nQ: Does Aurora Municipal Airport offer commercial passenger service?\nA: No, AUZ does not have scheduled commercial passenger service. It is dedicated to general aviation operations.\n\nQ: What facilities are available at the airport?\nA: The airport features FBOs (Fixed-Base Operators), aircraft maintenance services, fuel availability, flight schools, and hangar rentals.\n\nQ: How far is the airport from downtown Chicago?\nA: Aurora Municipal Airport is located approximately 50 miles west of downtown Chicago, accessible via major highways including I-88.\n\n",
+  "transport_tips": "The airport is most easily accessed by car, with direct routes from I-88 (Ronald Reagan Memorial Tollway) connecting it to the broader Chicago region. Rental cars and rideshare services like Uber and Lyft are available but may require advance booking given the airport's general aviation focus. Public transit options are limited, so arranging private transportation in advance is recommended.",
+  "local_tip": "If visiting for flight training or aviation events, check the airport's schedule ahead of time—weekends tend to be busier with student pilots and flying club activities, which can affect fuel truck availability and ramp congestion.",
+  "generatedAt": "2026-06-27T01:11:10.678Z",
+  "model": "MiniMax-M3"
+}

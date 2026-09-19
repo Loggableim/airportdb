@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JAX",
+    "icao": "KJAX",
+    "name": "Jacksonville International Airport",
+    "country": "United States",
+    "city": "Jacksonville",
+    "lat": 30.4925,
+    "lon": -81.6878,
+    "type": "large_airport",
+    "size": 1475
+  },
+  "summary": "Jacksonville International Airport (JAX) opened in 1968, replacing the older Imeson Field, and serves as the primary aviation gateway for Northeast Florida. Located approximately 13 miles north of downtown Jacksonville, it operates with a single consolidated terminal featuring two concourses (A and C) and handles over 7 million passengers annually. The airport is situated near Naval Air Station Jacksonville, reflecting the area's strong military aviation heritage.",
+  "faqs": "Q: How far is Jacksonville International Airport from downtown Jacksonville?\nA: The airport is approximately 13 miles north of downtown Jacksonville, typically a 20-30 minute drive via I-95 North.\n\nQ: How many terminals does JAX have?\nA: JAX operates with a single main terminal building that contains two concourses (Concourse A and Concourse C) connected by a central atrium.\n\nQ: What airlines serve Jacksonville International Airport?\nA: Major carriers include Delta Air Lines, American Airlines, United Airlines, Southwest Airlines, JetBlue, and Allegiant, offering nonstop service to numerous domestic destinations and a few international routes.\n\nQ: Does JAX have international flights?\nA: Yes, JAX offers a limited number of international flights, primarily to destinations in the Caribbean and Mexico, with customs and immigration facilities available.",
+  "transport_tips": "The airport is conveniently accessed via I-95 (Exit 363B) and I-295, with clear signage directing travelers to the terminal. Rental car facilities are located in a dedicated center adjacent to the terminal, while taxis, rideshare services like Uber and Lyft, and the Jacksonville Skyway/First Coast Flyer bus provide ground transportation options. Plan for additional travel time during rush hours, particularly along the I-95 corridor.",
+  "local_tip": "If you have a long layover or early arrival, the nearby River City Marketplace offers shopping and dining just minutes from the airport, and the beaches of Jacksonville (Jacksonville Beach, Neptune Beach) are only about",
+  "generatedAt": "2026-06-28T16:12:21.387Z",
+  "model": "MiniMax-M3"
+}

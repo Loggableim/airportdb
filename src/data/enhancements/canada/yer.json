@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YER",
+    "icao": "CYER",
+    "name": "Fort Severn Airport",
+    "country": "Canada",
+    "city": "Fort Severn",
+    "lat": 56.0189,
+    "lon": -87.6761,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Fort Severn Airport (YER) serves the remote Cree community of Fort Severn, located on the western shore of Hudson Bay in northern Ontario, Canada. As one of the most northerly airports in Ontario, it functions as a critical transportation lifeline for a community with no permanent road access to the rest of the province. The airport primarily handles scheduled passenger services, medical evacuations, and cargo flights supporting this isolated settlement.",
+  "faqs": "Q: How do you reach Fort Severn since there are no roads?\nA: Fort Severn is accessible primarily by air via Fort Severn Airport, as there are no permanent roads connecting the community to southern Ontario. Seasonal barge services and snowmobile trails in winter provide alternative access.\n\nQ: What airlines serve Fort Severn Airport?\nA: The airport is typically served by regional carriers operating turboprop aircraft on routes connecting to larger northern Ontario hubs like Thunder Bay or Winnipeg.\n\nQ: Is Fort Severn Airport open year-round?\nA: Yes, the airport operates year-round, though winter weather and visibility can occasionally affect flight schedules. Summer fog from Hudson Bay is also a common operational consideration.\n\nQ: Does the airport have customs or immigration facilities?\nA: No, Fort Severn Airport does not have customs facilities and does not handle international flights.",
+  "transport_tips": "There is no public transportation to or from the airport; arrange pickup with the band office or your host in advance, as the airport is located near the community center. Flights from southern origins often involve multiple stops through northern Ontario communities, so plan for a full travel day. Be prepared for weather-related delays, especially during winter months when visibility can drop rapidly.",
+  "local_tip": "Bring all essential supplies with you, including any specialty food items or medications, as the community store has limited inventory and there is no nearby alternative. Cash is also recommended as electronic payment systems can be unreliable.",
+  "generatedAt": "2026-06-26T14:47:47.242Z",
+  "model": "MiniMax-M3"
+}

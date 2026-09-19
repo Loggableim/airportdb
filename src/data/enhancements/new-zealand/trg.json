@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TRG",
+    "icao": "NZTG",
+    "name": "Tauranga Airport",
+    "country": "New Zealand",
+    "city": "Tauranga",
+    "lat": -37.6719,
+    "lon": 176.196,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tauranga Airport is a regional airport serving the Bay of Plenty region on New Zealand's North Island, providing the main air gateway to the popular coastal city of Tauranga and nearby Mount Maunganui. The facility primarily handles domestic flights operated mainly by Air New Zealand, connecting the region to Auckland, Wellington, and Christchurch. Its location near the Coromandel Peninsula and Rotorua makes it a key entry point for travellers exploring the central North Island's beaches and geothermal attractions.",
+  "faqs": "Q: Which airlines operate from Tauranga Airport?\nA: Air New Zealand is the primary carrier, offering direct domestic services to Auckland, Wellington, and Christchurch. Regional operators occasionally provide additional scheduled services.\n\nQ: Does Tauranga Airport handle international flights?\nA: No, the airport is domestic only. International travellers typically connect through Auckland Airport, which is approximately a 2.5-hour drive or short domestic flight away.\n\nQ: How far is the airport from Tauranga city centre?\nA: The airport is located about 4 km northeast of the city centre and roughly 5 km from Mount Maunganui, with the journey typically taking 10-15 minutes by car.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers a café, limited retail concessions, rental car desks, and basic passenger amenities. Facilities are modest in keeping with the airport's regional size.",
+  "transport_tips": "Rental cars are the most convenient option and can be booked in advance from desks inside the terminal. Taxi and rideshare services are available outside the arrivals area, while Super Shuttle operates shared transfer services to",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T08:08:59.079Z",
+  "model": "MiniMax-M3"
+}

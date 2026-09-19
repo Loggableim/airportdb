@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BXG",
+    "icao": "YBDG",
+    "name": "Bendigo Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -36.7394,
+    "lon": 144.33,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Bendigo Airport (BXG/YBDG) is a small regional airport serving the city of Bendigo in central Victoria, Australia. Located approximately 5 kilometres northwest of the city centre, it primarily supports general aviation, flight training, charter operations, and occasional regional services. The airport plays a key role in connecting the Bendigo region—known for its rich gold rush heritage—to broader Australian aviation networks.",
+  "faqs": "Q: Where is Bendigo Airport located relative to the city?\nA: The airport is situated about 5 kilometres northwest of Bendigo's city centre, accessible via Midland Highway and nearby roads.\n\nQ: What kind of flights operate from Bendigo Airport?\nA: The airport mainly handles general aviation, flight training, charter flights, and occasional regional or emergency services rather than scheduled commercial services.\n\nQ: Are there car rental facilities at the airport?\nA: Ground transport options typically include taxi services and private transfers; travellers should arrange rentals in advance through agencies in Bendigo itself.\n\nQ: Does the airport have a terminal building?\nA: Yes, Bendigo Airport has a modest terminal facility that caters primarily to charter passengers and general aviation users rather than large commercial operations.\n\n",
+  "transport_tips": "The airport is a short drive from Bendigo's CBD, typically reached in around 10 minutes by car or taxi. There is no direct public bus service into the terminal, so arranging a private transfer, rental car, or taxi in advance is recommended. Parking is generally available on-site without charge for short-term visits.",
+  "local_tip": "If you're flying in for the Bendigo Gold Rush history and architecture, consider scheduling a visit to the Central Deborah Gold Mine or the Bendigo Art Gallery—two of the city's standout attractions located within easy driving distance of the airport.",
+  "generatedAt": "2026-06-26T19:25:57.631Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IPI",
+    "icao": "SKIP",
+    "name": "San Luis Airport",
+    "country": "Colombia",
+    "city": "Ipiales",
+    "lat": 0.8619,
+    "lon": -77.6718,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "San Luis Airport serves the city of Ipiales in Colombia's Nariño Department, situated near the Ecuadorian border in the Andean highlands. It functions as a key regional gateway for travelers heading to the Rumichaca International Bridge, one of the busiest border crossings in South America. The airport primarily handles domestic flights connecting Ipiales to major Colombian cities like Bogotá and Cali.",
+  "faqs": "Q: How far is San Luis Airport from the Ecuadorian border?\nA: The airport is approximately 8 km from Ipiales city center and roughly 20 km from the Rumichaca International Bridge crossing into Ecuador.\n\nQ: What airlines operate at San Luis Airport?\nA: Domestic carriers such as SATENA and other regional Colombian airlines have historically operated scheduled flights to and from this airport.\n\nQ: Is the airport affected by weather conditions?\nA: Yes, being located in the Andean highlands at high elevation, the airport can experience fog, low clouds, and reduced visibility, which may occasionally cause flight delays or cancellations.\n\nQ: Are there customs facilities at the airport?\nA: The airport is primarily domestic, so international travelers typically cross the border via the Rumichaca Bridge rather than through this facility.\n\n",
+  "transport_tips": "Taxis are readily available outside the terminal and offer the most convenient way to reach Ipiales city center in about 15-20 minutes. Shared transport options and private shuttle services can be arranged in advance for trips to the Ecuadorian border. Rental cars are generally not available at the airport, so pre-booking transport is recommended.",
+  "local_tip": "If you're heading to Ecuador, skip the long walk across Rumichaca Bridge by hiring a local driver who can handle the border crossing formalities and luggage transport, especially useful when traveling with heavy bags or during peak crossing hours.",
+  "generatedAt": "2026-06-29T15:06:02.482Z",
+  "model": "MiniMax-M3"
+}

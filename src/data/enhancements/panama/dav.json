@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DAV",
+    "icao": "MPDA",
+    "name": "Enrique Malek International Airport",
+    "country": "Panama",
+    "city": "David",
+    "lat": 8.389,
+    "lon": -82.4364,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Enrique Malek International Airport (DAV) is the principal air gateway to western Panama, serving the city of David in Chiriquí Province near the Costa Rican border. Named after a distinguished Panamanian figure, it functions as the main jumping-off point for travelers heading to Boquete, Volcán, and the Chiriquí Highlands. The airport handles a mix of domestic flights from Panama City and limited international service to neighboring Costa Rica.",
+  "faqs": "Q: What airlines operate from Enrique Malek International Airport?\nA: The airport is primarily served by Copa Airlines and Air Panama, offering domestic connections to Panama City (Albrook and Tocumen) and occasional regional flights to Costa Rica.\n\nQ: How far is the airport from downtown David?\nA: The airport is located just a few kilometers southeast of David city center, typically a 10-15 minute drive depending on traffic.\n\nQ: Are there customs and immigration facilities for international flights?\nA: Yes, the airport has basic customs and immigration services for international arrivals and departures, primarily handling flights from Costa Rica.\n\nQ: Can travelers reach Boquete from this airport?\nA: Yes, Boquete is approximately 40-50 minutes away by car or shuttle, making this airport the most convenient access point for visitors to the popular highland town.",
+  "transport_tips": "Taxis are readily available outside the terminal and are the most convenient option for reaching David or nearby towns like Boquete. Renting a car at the airport is recommended for travelers planning to explore the broader Chiriquí region independently. Shared shuttles to Boquete and other destinations can often be arranged in advance through local hotels or tour operators.",
+  "local_tip": "The small terminal means processing is usually fast, so arriving 60-90 minutes before departure is typically sufficient—leaving you more time to enjoy a cup of Panamanian coffee at one of the cafés in town before heading to the airport.",
+  "generatedAt": "2026-06-29T09:40:30.953Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EZE",
+    "icao": "SAEZ",
+    "name": "Ezeiza International Airport - Ministro Pistarini",
+    "country": "Argentina",
+    "city": "Buenos Aires (Ezeiza)",
+    "lat": -34.8222,
+    "lon": -58.5358,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Ministro Pistarini International Airport (Ezeiza) is Argentina's largest and busiest international airport, serving as the primary gateway to Buenos Aires for long-haul flights. Located approximately 22 kilometers southwest of the capital in Ezeiza, it was inaugurated in 1949 and named after former Public Works Minister Juan Pistarini. The airport features three terminals, with Terminal A handling most international carriers and Terminal C dedicated to Aerolíneas Argentinas and SkyTeam operations.",
+  "faqs": "Q: How far is Ezeiza Airport from downtown Buenos Aires?\nA: The airport is approximately 22-35 km from central Buenos Aires depending on traffic, with typical journey times of 40-75 minutes by car.\n\nQ: Which terminal do most international flights use?\nA: Terminal A handles the majority of international flights, while Terminal C primarily serves Aerolíneas Argentinas and SkySkyTeam alliance flights. Terminal B is used for some domestic and regional services.\n\nQ: Is there a direct bus service between Ezeiza and the city?\nA: Yes, the Manuel Tienda León shuttle bus connects the airport to Retiro in central Buenos Aires with regular departures throughout the day.\n\nQ: Are there currency exchange services at the airport?\nA: Yes, several exchange counters and ATMs are available in the arrivals hall, though rates are typically less favorable than in the city. The 'blue dollar' market often offers better rates outside the airport.",
+  "transport_tips": "Pre-booking a remise (private car service) through your hotel or an app is generally more reliable than hailing a taxi, which can involve price negotiations and longer waits. The official Manuel Tienda León buses offer fixed pricing and are a budget-friendly option but make only one stop at Retiro. Allow extra time during rush hours, as the Autopista Riccheri can experience significant congestion.",
+  "local_tip": "Avoid exchanging large amounts of money at airport kiosks—Buenos Aires has a thriving informal 'blue dollar' market that typically offers 30-50% better rates, which you can access via Western Union or reputable cambio houses in the city center once settled.",
+  "generatedAt": "2026-06-28T16:14:30.789Z",
+  "model": "MiniMax-M3"
+}

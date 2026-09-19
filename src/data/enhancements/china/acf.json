@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ACF",
+    "icao": "ZWAL",
+    "name": "Aral Tarim Airport",
+    "country": "China",
+    "city": "Aral",
+    "lat": 40.4347,
+    "lon": 81.2621,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Aral Tarim Airport is a small regional airport serving the town of Aral in the Xinjiang Uygur Autonomous Region of northwestern China, situated near the edge of the vast Tarim Basin. The airport primarily supports short-haul domestic connections, linking this remote desert-adjacent community to larger urban hubs in the region. With its modest infrastructure, it plays a vital role in providing air access to an otherwise isolated area of western China.",
+  "faqs": "Q: What is the IATA code for Aral Tarim Airport?\nA: The IATA code is ACF, while its ICAO code is ZWAL.\n\nQ: Are there international flights from Aral Tarim Airport?\nA: No, this small regional airport only handles domestic flights within China.\n\nQ: What facilities are available at the airport?\nA: As a small airport, it offers basic terminal services with limited amenities suitable for short waits and regional travel.\n\nQ: Which cities have direct flights to Aral?\nA: Connections are typically available to major Xinjiang cities such as Urumqi, with schedules that may vary by season.\n\n",
+  "transport_tips": "Getting to and from the airport usually requires arranging a private taxi or pre-booked transfer, as public transit options are limited. The airport is located a short drive from central Aral, making road access straightforward. Travelers should confirm ground transportation in advance, especially since flight schedules at small regional airports can be irregular.",
+  "local_tip": "Given the arid climate of the Tarim Basin, carry drinking water and sun protection year-round, as temperatures can swing dramatically between day and night in this desert-influenced region.",
+  "generatedAt": "2026-06-26T20:48:58.910Z",
+  "model": "MiniMax-M3"
+}

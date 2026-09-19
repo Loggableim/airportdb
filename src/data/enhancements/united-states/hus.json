@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HUS",
+    "icao": "PAHU",
+    "name": "Hughes Airport",
+    "country": "United States",
+    "city": "Hughes",
+    "lat": 66.0411,
+    "lon": -154.263,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Hughes Airport (HUS/PAHU) is a small public-use airport serving the remote village of Hughes, Alaska, situated above the Arctic Circle on the Koyukuk River in the Yukon-Koyukuk Census Area. The airport is a vital lifeline for this isolated community of roughly 80 residents, with no road access connecting Hughes to the rest of Alaska. Bush planes and small aircraft are the primary means of reaching the village, making this airstrip essential for passenger travel, mail delivery, and cargo shipments.",
+  "faqs": "Q: How do you get to Hughes, Alaska?\nA: Hughes is accessible only by air or river. The airport is the main entry point, with scheduled and charter flights connecting to Fairbanks and other hub communities.\n\nQ: Does Hughes Airport have scheduled commercial service?\nA: Service is limited and typically operated by small regional carriers or charter bush planes. Flight schedules are weather-dependent and may be infrequent.\n\nQ: What facilities are available at Hughes Airport?\nA: As a small rural airstrip, facilities are minimal. There is no terminal building in the traditional sense; passengers typically wait near the runway area.\n\nQ: Can you drive to Hughes?\nA: No. There are no roads connecting Hughes to other Alaskan communities. Travel to and from the village relies entirely on air service in summer and ice roads or air service in winter.\n\n",
+  "transport_tips": "Arrange ground transportation from the airstrip with your host or local contact in advance, as there is no taxi or rental car service available. Charter flights from Fairbanks are the most common way to reach Hughes, and travelers should build in flexibility for weather delays common to interior Alaska. Light cargo and luggage weight limits can be strict on small bush planes, so pack accordingly.",
+  "local_tip": "Bring insect repellent in summer; the mosquito swarms near the Koyukuk River are intense, and the short walk from the airstrip into the village exposes you to them immediately upon landing.",
+  "generatedAt": "2026-06-26T22:35:47.910Z",
+  "model": "MiniMax-M3"
+}

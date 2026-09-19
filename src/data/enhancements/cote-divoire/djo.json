@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DJO",
+    "icao": "DIDL",
+    "name": "Daloa Airport",
+    "country": "Côte d'Ivoire",
+    "city": "",
+    "lat": 6.7928,
+    "lon": -6.4732,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Daloa Airport serves the city of Daloa, a major commercial hub in central-western Côte d'Ivoire. Located inland in the Haut-Sassandra region, it functions as a medium-sized regional airport primarily handling domestic flights. The facility supports connectivity to Côte d'Ivoire's economic capital Abidjan and serves the surrounding agricultural area known for cocoa and coffee production.",
+  "faqs": "Q: What is the airport code for Daloa Airport?\nA: The IATA code is DJO and the ICAO code is DIDL.\n\nQ: Does Daloa Airport handle international flights?\nA: The airport primarily serves domestic routes, with the main connection being to Abidjan (ABJ), though occasional regional flights may operate.\n\nQ: Where is Daloa Airport located relative to the city?\nA: It is situated a few kilometers outside the city center of Daloa in the Haut-Sassandra region of Côte d'Ivoire.\n\nQ: What facilities are available at Daloa Airport?\nA: As a medium-sized regional airport, it offers basic passenger amenities including a terminal building and ground transportation options, though services are limited compared to major international airports.\n\n",
+  "transport_tips": "Taxis and motorcycle taxis (known locally as 'gbakas') are the most common ways to reach the airport from Daloa city center. Travelers should arrange ground transport in advance as ride-sharing apps have limited availability in the region. The journey from the city typically takes around 15-20 minutes depending on traffic and road conditions.",
+  "local_tip": "Pack light and carry essentials like water and snacks, as the terminal facilities are modest and in-flight refreshments on regional routes may be limited. Having small local currency (CFA francs) on hand is useful for taxi fares, as drivers may not accept cards.",
+  "generatedAt": "2026-06-26T12:15:40.330Z",
+  "model": "MiniMax-M3"
+}

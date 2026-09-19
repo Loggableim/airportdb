@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LWC",
+    "icao": "KLWC",
+    "name": "Lawrence Municipal Airport",
+    "country": "United States",
+    "city": "Lawrence",
+    "lat": 39.0112,
+    "lon": -95.2166,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lawrence Municipal Airport is a small general aviation facility serving Lawrence, Kansas, home to the University of Kansas. The airport primarily supports private pilots, flight training, recreational flying, and corporate aircraft visiting the region. It features a single main runway and offers convenient access to the Lawrence community and the greater Kansas City metropolitan area.",
+  "faqs": "Q: What type of airport is Lawrence Municipal Airport?\nA: It is a small general aviation airport that primarily serves private, recreational, and business aviation rather than commercial airline service.\n\nQ: Does Lawrence Municipal Airport offer commercial flights?\nA: No, the airport does not have scheduled commercial airline service. Travelers typically use Kansas City International Airport for commercial flights.\n\nQ: What services are available at the airport?\nA: The airport provides aircraft fueling, hangar rentals, tie-down spaces, and supports flight training operations through local flight schools.\n\nQ: How far is the airport from downtown Lawrence?\nA: The airport is located just a few miles from downtown Lawrence, making it a quick drive to the city center and the University of Kansas campus.",
+  "transport_tips": "Rental cars and rideshare services are typically the most convenient options for reaching Lawrence from the airport, as there is no public transit directly serving the facility. Visitors can also arrange pickup in advance with local hotels or friends in the Lawrence area. For commercial air travel, Kansas City International Airport is approximately 50 miles east and offers more ground transportation options.",
+  "local_tip": "If you enjoy aviation history, check out the Lawrence Aviation Heritage display near the terminal, and consider timing your visit with one of the airport's occasional fly-in events for a chance to meet local pilots and see vintage aircraft.",
+  "generatedAt": "2026-06-27T00:20:25.702Z",
+  "model": "MiniMax-M3"
+}

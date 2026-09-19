@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PYM",
+    "icao": "KPYM",
+    "name": "Plymouth Municipal Airport",
+    "country": "United States",
+    "city": "Plymouth",
+    "lat": 41.909,
+    "lon": -70.7288,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Plymouth Municipal Airport is a general aviation facility serving Plymouth, Massachusetts, the historic town where the Pilgrims landed in 1620. The airport primarily supports private aircraft, flight training, and recreational flying along the South Shore of Massachusetts. Its location near Cape Cod and Plymouth Harbor makes it a convenient gateway for visitors exploring the region's colonial history and coastal attractions.",
+  "faqs": "Q: What type of aircraft does Plymouth Municipal Airport serve?\nA: The airport primarily serves general aviation traffic, including private planes, flight training aircraft, and recreational flyers. There is no scheduled commercial service.\n\nQ: Where is Plymouth Municipal Airport located relative to downtown Plymouth?\nA: The airport is situated on the western side of Plymouth, approximately 4-5 miles from the historic downtown area and Plymouth Harbor, easily accessible via local roads.\n\nQ: Does Plymouth Municipal Airport have a control tower?\nA: Yes, the airport operates an air traffic control tower during published hours to manage general aviation operations safely.\n\nQ: What facilities are available at the airport?\nA: The airport offers fuel services, aircraft parking and tie-downs, hangar rentals, and hosts flight training schools serving the South Shore region.",
+  "transport_tips": "Rental cars are the most practical option for ground transportation, as the airport is located outside the downtown core and lacks fixed-route public transit. Ride-sharing services like Uber and Lyft operate in the area but may have limited availability in this region. The drive to Plymouth's historic waterfront and Plymouth Rock takes roughly 10-15 minutes by car.",
+  "local_tip": "If you fly in, consider timing your visit to catch sunrise over Plymouth Harbor or a sunset over Cape Cod Bay—both are within a short drive and offer a memorable complement to the area's Pilgrim heritage sites like Plimoth Patuxet Museums.",
+  "generatedAt": "2026-06-27T00:39:06.685Z",
+  "model": "MiniMax-M3"
+}

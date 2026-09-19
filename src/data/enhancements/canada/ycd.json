@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YCD",
+    "icao": "CYCD",
+    "name": "Nanaimo Airport",
+    "country": "Canada",
+    "city": "Nanaimo",
+    "lat": 49.055,
+    "lon": -123.8699,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Nanaimo Airport (YCD) is a regional airport situated on the eastern coast of Vancouver Island in British Columbia, serving the city of Nanaimo and the surrounding mid-island region. Originally established as a smaller airfield, it has grown into an important transportation hub connecting Vancouver Island to mainland Canada and beyond. The airport handles both scheduled commercial flights and general aviation activity, making it a convenient alternative to the larger Victoria and Vancouver airports.",
+  "faqs": "Q: How far is Nanaimo Airport from downtown Nanaimo?\nA: The airport is located approximately 18 kilometers (11 miles) south of downtown Nanaimo, with a typical drive time of 20-25 minutes depending on traffic.\n\nQ: What destinations can I fly to from Nanaimo?\nA: The airport primarily offers scheduled flights to Vancouver (YVR) and Calgary (YYC), with connections to other Canadian and international destinations through these hubs.\n\nQ: Are there car rental services at the airport?\nA: Yes, several major car rental companies operate at Nanaimo Airport, with counters located in the terminal building for convenient pickup and drop-off.\n\nQ: Does Nanaimo Airport have customs and immigration facilities?\nA: The airport can accommodate some international flights, particularly for general aviation and charter services, though it primarily handles domestic commercial traffic.",
+  "transport_tips": "Renting a car is the most convenient option for getting to and from Nanaimo Airport, as there is no direct public transit service to the terminal. Taxi and rideshare services are available but should be booked in advance",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T03:03:37.549Z",
+  "model": "MiniMax-M3"
+}

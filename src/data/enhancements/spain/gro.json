@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GRO",
+    "icao": "LEGE",
+    "name": "Girona-Costa Brava Airport",
+    "country": "Spain",
+    "city": "Girona",
+    "lat": 41.9046,
+    "lon": 2.7618,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Girona-Costa Brava Airport serves the Girona region and the popular Costa Brava coastline in northeastern Catalonia, Spain. Located approximately 12 km southwest of Girona city center, it functions as a convenient low-cost gateway to both the beaches of the Costa Brava and the city of Barcelona, which lies roughly 90 km to the southwest. The airport has grown significantly since the mid-2000s, largely driven by low-cost carrier traffic, particularly Ryanair operations.",
+  "faqs": "Q: How far is Girona Airport from Barcelona?\nA: The airport is about 90 km northeast of Barcelona, with bus and train connections taking roughly 1.5 to 2 hours depending on the service.\n\nQ: Which airlines operate from Girona Airport?\nA: Ryanair historically dominates traffic here, offering many European low-cost routes. Other carriers operate seasonal or scheduled services to various European cities.\n\nQ: Is there public transport between Girona Airport and Girona city center?\nA: Yes, a regular bus service connects the airport to Girona bus and train stations, with journey times of approximately 20 to 30 minutes.\n\nQ: Does the airport operate 24 hours?\nA: No, the airport has limited operating hours, generally opening early morning and closing late evening. It is not suitable for overnight layovers.",
+  "transport_tips": "A dedicated bus service runs between the airport and Girona city center, and direct coaches connect to Barcelona's Estació del Nord. Renting a car is a popular option for travelers heading to Costa Brava resorts, as the AP-7 motorway provides quick access south to Barcelona and north to the French border. Taxis are available outside the terminal but are relatively expensive compared to bus options for longer journeys.",
+  "local_tip": "If traveling to Barcelona, check the Barcelona Bus transfer schedule in advance — booking a combined bus ticket online is often cheaper than buying at the airport and ensures a seat on busy weekend departures.",
+  "generatedAt": "2026-06-28T18:29:13.409Z",
+  "model": "MiniMax-M3"
+}

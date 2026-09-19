@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RKD",
+    "icao": "KRKD",
+    "name": "Knox County Regional Airport",
+    "country": "United States",
+    "city": "Rockland",
+    "lat": 44.0601,
+    "lon": -69.0992,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Knox County Regional Airport serves Rockland and the surrounding mid-coast Maine region, providing convenient access to Penobscot Bay, the islands of Vinalhaven, North Haven, and Matinicus, and popular destinations like Camden and Rockport. Located in the town of Owls Head just south of Rockland proper, the airport has long supported general aviation, regional commerce, and seasonal tourism traffic. It is particularly valued by travelers heading to coastal Maine who prefer to avoid the longer drive to Portland or Bangor.",
+  "faqs": "Q: Where is Knox County Regional Airport located?\nA: The airport is located in Owls Head, Maine, just a few miles south of downtown Rockland, making it convenient for visitors to the mid-coast region.\n\nQ: What destinations does RKD serve?\nA: RKD primarily serves general aviation and seasonal/charter flights. It is not currently served by major commercial airlines with scheduled service, so most travelers fly privately or via charter.\n\nQ: Is there car rental service at the airport?\nA: Rental car services may be available on-site or by arrangement; travelers should book in advance, especially during the busy summer tourism season.\n\nQ: How far is the airport from Camden and other coastal towns?\nA: Camden is approximately 10-15 minutes north of the airport, and Rockport and other mid-coast destinations are similarly close by car.\n",
+  "transport_tips": "Having a rental car is strongly recommended as the airport is not served by rideshare networks or regular public transit. The drive from Rockland center to the airport takes only about 10 minutes via Route 73. During summer months, allow extra time as island ferry traffic and seasonal tourism can increase road congestion.",
+  "local_tip": "If you're visiting in summer, consider timing your trip around a ferry departure from the nearby Rockland Ferry Terminal—it offers a scenic connection to the islands and complements the coastal experience of flying into RKD rather than a larger hub airport.",
+  "generatedAt": "2026-06-29T19:04:27.718Z",
+  "model": "MiniMax-M3"
+}

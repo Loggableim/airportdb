@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TIW",
+    "icao": "KTIW",
+    "name": "Tacoma Narrows Airport",
+    "country": "United States",
+    "city": "Tacoma",
+    "lat": 47.2674,
+    "lon": -122.5773,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Tacoma Narrows Airport is a public-use general aviation airport situated on a scenic peninsula jutting into the Tacoma Narrows strait in Pierce County, Washington, just minutes northwest of downtown Tacoma. The airport is uniquely positioned adjacent to the iconic Tacoma Narrows Bridge, whose dramatic 1940 collapse—known as 'Galloping Gertie'—made the location famous in engineering history. Today it serves as a vital hub for general aviation, flight training, and corporate flights in the Puget Sound region.",
+  "faqs": "Q: How far is Tacoma Narrows Airport from downtown Tacoma?\nA: The airport is approximately 5 miles (8 km) northwest of downtown Tacoma, typically a 10-15 minute drive depending on traffic.\n\nQ: Does Tacoma Narrows Airport offer commercial airline service?\nA: No, TIW is a general aviation airport with no scheduled commercial flights. It primarily serves private pilots, flight schools, and corporate aircraft.\n\nQ: Are there flight schools operating at the airport?\nA: Yes, the airport is home to multiple flight schools and aviation training facilities, making it a popular destination for student pilots in the Pacific Northwest.\n\nQ: What facilities are available for visitors and pilots?\nA: The airport features fixed-base operators (FBOs) offering fuel, aircraft maintenance, tie-downs, and hangar rentals, along with a terminal building for transient pilots.\n\n",
+  "transport_tips": "Renting a car is the most convenient way to reach Tacoma Narrows Airport, as it is located outside typical public transit routes. The drive from Sea-Tac International Airport takes roughly 45-60 minutes via I-5 north and SR-16. Limited taxi and rideshare services (Uber and Lyft) do serve the airport but may incur longer wait times due to its general aviation status.",
+  "local_tip": "If you're arriving by plane, request a landing or takeoff on Runway 17—you'll be treated to a dramatic low pass directly over the Tacoma Narrows Bridge with sweeping views of Puget Sound, Mount Rainier on clear days, and the Olympic Mountains to the west.",
+  "generatedAt": "2026-06-29T18:30:23.432Z",
+  "model": "MiniMax-M3"
+}

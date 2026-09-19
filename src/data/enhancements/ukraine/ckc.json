@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CKC",
+    "icao": "UKKE",
+    "name": "Cherkasy International Airport",
+    "country": "Ukraine",
+    "city": "Cherkasy",
+    "lat": 49.4156,
+    "lon": 31.9953,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Cherkasy International Airport (CKC) is a medium-sized regional airport serving the city of Cherkasy in central Ukraine, situated on the banks of the Dnieper River. The airport primarily handles domestic and limited regional flights, serving as a gateway to this historically significant oblast. As a medium-sized facility with a size score of 250, it provides essential aviation services for the surrounding region.",
+  "faqs": "Q: Where is Cherkasy International Airport located?\nA: The airport is located near the city of Cherkasy in central Ukraine, approximately 49.416°N latitude and 31.995°E longitude, within reasonable distance of the Dnieper River.\n\nQ: What type of flights does the airport handle?\nA: Cherkasy International Airport primarily serves as a regional facility handling domestic flights within Ukraine, with limited international service depending on operational conditions.\n\nQ: Is the airport currently open for civilian flights?\nA: Given the ongoing conflict in Ukraine, flight operations at many regional Ukrainian airports have been suspended or significantly reduced. Travelers should check current status before planning travel.\n\nQ: What facilities does the airport offer?\nA: As a medium-sized regional airport, it typically provides standard passenger services including a terminal building, basic check-in facilities, and ground transportation options.",
+  "transport_tips": "Travelers can reach the airport by taxi or private car from central Cherkasy, which is generally the most reliable option given limited public transport serving the facility. The drive from the city center typically takes around 20-30 minutes depending on traffic conditions. Pre-arranging transportation in advance is recommended, especially for early morning or late evening flights.",
+  "local_tip": "If you have time before your flight, visit the scenic Dnieper River embankment in Cherkasy for a peaceful walk—it's one of the city's most beautiful areas and offers great views, making it a favorite stop for travelers familiar with the region.",
+  "generatedAt": "2026-06-26T10:14:34.874Z",
+  "model": "MiniMax-M3"
+}

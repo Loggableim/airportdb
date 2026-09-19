@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JBQ",
+    "icao": "MDJB",
+    "name": "La Isabela International Airport",
+    "country": "Dominican Republic",
+    "city": "La Isabela",
+    "lat": 18.5725,
+    "lon": -69.9856,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "La Isabela International Airport is a medium-sized facility serving the northern side of Santo Domingo, Dominican Republic. It primarily handles domestic and regional flights, providing an alternative to the busier Las Américas International Airport for travelers heading to the capital region. The airport is named after the historical settlement of La Isabela, the first European town established in the Americas by Christopher Columbus in 1493.",
+  "faqs": "Q: What is the IATA code for La Isabela International Airport?\nA: The IATA code is JBQ and the ICAO code is MDJB.\n\nQ: Does the airport handle international flights?\nA: Yes, despite its medium size, it handles a selection of regional and international routes, mostly within the Caribbean.\n\nQ: How far is the airport from Santo Domingo city center?\nA: It is located on the northern outskirts of Santo Domingo, making it convenient for accessing the city's Distrito Nacional area.\n\nQ: Are there cargo services at this airport?\nA: The airport supports limited cargo operations alongside its passenger services.",
+  "transport_tips": "Taxis are the most common way to reach the airport from Santo Domingo and typically take 25 to 40 minutes depending on traffic. Ride-hailing apps operate in the area but may have limited availability in the immediate airport vicinity. Renting a car is also a practical option, with several agencies offering pickup services.",
+  "local_tip": "If you're connecting to or from Punta Cana, consider scheduling flights through this airport instead of Las Américas—it's often less crowded, and security lines move much faster during peak travel periods.",
+  "generatedAt": "2026-06-29T13:55:17.514Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TVL",
+    "icao": "KTVL",
+    "name": "Lake Tahoe Airport",
+    "country": "United States",
+    "city": "South Lake Tahoe",
+    "lat": 38.8939,
+    "lon": -119.995,
+    "type": "medium_airport",
+    "size": 375
+  },
+  "summary": "Lake Tahoe Airport (TVL) is a medium-sized public airport situated at an elevation of approximately 6,254 feet in South Lake Tahoe, California, making it one of the higher-elevation commercial airports in the United States. The airport primarily serves the Lake Tahoe basin, a major year-round resort destination known for skiing in winter and outdoor recreation in summer. It operates as a gateway to both California and Nevada sides of the lake and handles a mix of general aviation, charter flights, and seasonal commercial service.",
+  "faqs": "Q: What is the elevation of Lake Tahoe Airport?\nA: The airport sits at approximately 6,254 feet (1,906 meters) above sea level, which is notably high for a commercial airport and can affect aircraft performance, especially in warm weather.\n\nQ: Does Lake Tahoe Airport have commercial airline service?\nA: Service is limited and largely seasonal. Airlines such as United (via United Express) and others have historically offered scheduled flights, primarily during winter ski season and summer, though schedules vary year to year.\n\nQ: Are there customs facilities at TVL?\nA: The airport does not have a staffed U.S. Customs and Border Protection facility, so international arrivals typically must clear customs at a larger airport before flying in.\n\nQ: What is the main runway configuration?\nA: The airport has a primary runway designated 18/36, which is approximately 8,544 feet long and capable of handling regional jets and general aviation aircraft.",
+  "transport_tips": "Rental cars are available at the airport and are the most convenient way to reach ski resorts, casinos on the Nevada side, and destinations around the lake, as public transit options are limited. During winter, chains or four-wheel-drive vehicles are often recommended for driving in the Sierra Nevada. The airport is conveniently located within about 10 minutes of South Lake Tahoe's Stateline casinos and Heavenly Mountain Resort.",
+  "local_tip": "Morning flights are generally preferred for reliability, as afternoon thunderstorms can develop over the Sierra Nevada in summer and visibility can drop quickly during winter snow squalls.",
+  "generatedAt": "2026-06-30T01:28:15.800Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ORF",
+    "icao": "KORF",
+    "name": "Norfolk International Airport",
+    "country": "United States",
+    "city": "Norfolk",
+    "lat": 36.8953,
+    "lon": -76.201,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Norfolk International Airport (ORF) is a joint civilian-military facility located in Norfolk, Virginia, serving the Hampton Roads metropolitan area, which includes Virginia Beach, Chesapeake, Portsmouth, and Newport News. Situated adjacent to Naval Station Norfolk—the world's largest naval base—the airport handles both commercial passenger traffic and significant military operations. Established in the 1930s, ORF features two runways and serves as a key gateway to Virginia's coastal Tidewater region.",
+  "faqs": "Q: How far is Norfolk International Airport from Virginia Beach?\nA: ORF is approximately 15 miles northwest of the Virginia Beach oceanfront, typically a 20-30 minute drive depending on traffic conditions.\n\nQ: Does Norfolk International Airport offer international flights?\nA: ORF primarily handles domestic flights, but it does offer a small number of international and seasonal services to destinations in Mexico and the Caribbean.\n\nQ: Is there a military presence at Norfolk International Airport?\nA: Yes, the airport shares its airspace and infrastructure with Naval Station Norfolk, and military flights are a regular sight at ORF.\n\nQ: How many terminals does ORF have?\nA: Norfolk International Airport operates with a single main terminal building that houses both arrivals and departures.",
+  "transport_tips": "The airport is located about 8 miles northeast of downtown Norfolk and is easily accessible via I-64 and I-564. On-site parking is available in short-term, long-term, and economy lots, with shuttle service between lots and the terminal. Ride-share services like Uber and Lyft, along with local taxis and Hampton Roads Transit (HRT) bus route 15, provide ground transportation options.",
+  "local_tip": "If you have time before your flight, check out the observation area near the terminal where you can watch military aircraft—particularly Navy fighters and transport planes from adjacent Naval Station Norfolk—taking off and landing, which is a unique perk not found at most civilian airports.",
+  "generatedAt": "2026-06-28T18:11:11.414Z",
+  "model": "MiniMax-M3"
+}

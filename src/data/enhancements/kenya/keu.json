@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KEU",
+    "icao": "HKKE",
+    "name": "Keekorok Airport",
+    "country": "Kenya",
+    "city": "Keekorok",
+    "lat": -1.5863,
+    "lon": 35.2575,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Keekorok Airport is a small airstrip located within Kenya's legendary Masai Mara National Reserve, one of Africa's premier wildlife safari destinations. The airport primarily serves scheduled and charter flights transporting tourists to the reserve, which is famous for the annual Great Migration of wildebeest and zebra. Its remote bush setting offers visitors an immediate immersion into the savanna landscape upon arrival.",
+  "faqs": "Q: What is Keekorok Airport used for?\nA: The airport primarily serves tourist and safari flights, providing direct access to the Masai Mara National Reserve from Nairobi and other Kenyan hubs.\n\nQ: Are there scheduled commercial flights to Keekorok?\nA: Yes, several safari operators and regional airlines operate scheduled flights to Keekorok, typically from Nairobi's Wilson Airport using small propeller aircraft.\n\nQ: What facilities are available at the airport?\nA: As a small bush airstrip, Keekorok has very limited facilities. Expect basic infrastructure with small terminal buildings typical of safari airstrips rather than full commercial airport amenities.\n\nQ: How far is the airport from the reserve's main lodges?\nA: The airstrip is located within or adjacent to the reserve, and most safari lodges are reachable within a 30-minute to 2-hour drive depending on camp location.",
+  "transport_tips": "Most visitors arrive via scheduled or charter flight from Nairobi's Wilson Airport, with the journey taking roughly 45 minutes to one hour. Ground transfer from the airstrip to your lodge is typically arranged by your safari operator, as the airport is deep within the reserve. If traveling independently, a 4x4 vehicle is essential due to unpaved roads and the remote terrain.",
+  "local_tip": "Book morning flights whenever possible, as afternoon storms common in the Mara region can cause delays and the wildlife viewing from the air is best during clear early daylight hours.",
+  "generatedAt": "2026-06-28T00:21:36.292Z",
+  "model": "MiniMax-M3"
+}

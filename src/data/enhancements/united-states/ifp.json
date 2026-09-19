@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IFP",
+    "icao": "KIFP",
+    "name": "Laughlin Bullhead International Airport",
+    "country": "United States",
+    "city": "Bullhead City",
+    "lat": 35.1547,
+    "lon": -114.5593,
+    "type": "medium_airport",
+    "size": 450
+  },
+  "summary": "Laughlin Bullhead International Airport (IFP) serves Bullhead City, Arizona, and the nearby casino resort corridor of Laughlin, Nevada, located just across the Colorado River. The airport acts as the primary air gateway for travelers visiting the lower Colorado River region, including Lake Havasu City and the London Bridge landmark. It features a single terminal suited to leisure and charter traffic serving the tri-state area of Arizona, Nevada, and California.",
+  "faqs": "Q: How far is the airport from Laughlin, Nevada?\nA: The airport is approximately a 10-15 minute drive north of the Laughlin casino district, across the Colorado River in Bullhead City, Arizona.\n\nQ: What airlines operate at Laughlin Bullhead International Airport?\nA: The airport is primarily served by charter and regional leisure carriers, with scheduled service varying by season.\n\nQ: Is the airport near Lake Havasu City?\nA: Yes, Lake Havasu City is about a 60-minute drive south of the airport via State Route 95.\n\nQ: Does the airport operate 24 hours?\nA: The terminal hours vary; travelers should check with their airline for specific arrival and departure times as the facility does not offer around-the-clock passenger services.",
+  "transport_tips": "Rental cars are the most convenient option and can be arranged in advance at the on-site rental counter. Taxi and shuttle services connect the airport to Laughlin's casino hotels and Bullhead City. The airport is easily reached by car via Interstate 40 and US Route 66 to the south, making it accessible from Las Vegas in about 1.5 hours.",
+  "local_tip": "If you're heading to Las Vegas, consider flying out of IFP rather than driving back through Laughlin traffic — many visitors underestimate how much time the river-crossing commute adds during casino shift changes in the evenings.",
+  "generatedAt": "2026-06-30T00:51:00.229Z",
+  "model": "MiniMax-M3"
+}

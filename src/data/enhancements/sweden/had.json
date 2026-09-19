@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HAD",
+    "icao": "ESMT",
+    "name": "Halmstad Airport",
+    "country": "Sweden",
+    "city": "Halmstad",
+    "lat": 56.6911,
+    "lon": 12.8202,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Halmstad Airport (HAD/ESMT) is a regional airport serving the coastal city of Halmstad in Halland County on Sweden's west coast. The facility supports both civilian and limited military operations and primarily handles scheduled, charter, and general aviation traffic. Its compact size and proximity to the Kattegat coastline make it a convenient gateway for visitors exploring southwestern Sweden's beaches and historic towns.",
+  "faqs": "Q: How far is Halmstad Airport from the city center?\nA: The airport is located approximately 5 km northeast of central Halmstad, typically a 10-15 minute drive depending on traffic.\n\nQ: Does Halmstad Airport have international flights?\nA: The airport primarily operates domestic Swedish routes and seasonal charter flights, with most international connections routed through larger hubs like Copenhagen or Stockholm.\n\nQ: Are there car rental services at the airport?\nA: Yes, several car rental agencies operate at or near the airport, allowing easy access to explore Halland County and surrounding areas.\n\nQ: Is the airport open 24 hours?\nA: No, Halmstad Airport has limited operating hours tied to scheduled flight times, so passengers should confirm their flight schedule in advance.",
+  "transport_tips": "The most convenient way to reach the airport is by taxi or private car via Route E6, which connects Halmstad to Gothenburg and Malmö. Local bus services also connect the airport to central Halmstad, though schedules are limited and may not align with all flights. Renting a car is recommended for travelers planning to explore the broader Halland coast and inland areas.",
+  "local_tip": "If you have time before your flight, visit Tylösand Beach just south of Halmstad — one of Sweden's most popular sandy beaches, only about 15 minutes from the airport and a great way to experience the local coast.",
+  "generatedAt": "2026-06-29T07:07:35.310Z",
+  "model": "MiniMax-M3"
+}

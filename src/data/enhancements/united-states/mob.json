@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MOB",
+    "icao": "KMOB",
+    "name": "Mobile Regional Airport",
+    "country": "United States",
+    "city": "Mobile",
+    "lat": 30.6912,
+    "lon": -88.2428,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mobile Regional Airport (MOB) is a medium-sized public airport located about 10 miles west of downtown Mobile, Alabama, serving the Mobile metropolitan area and the broader Gulf Coast region. The airport has historically been a key gateway for business and leisure travel along the Alabama Gulf Coast, supporting the area's maritime, aerospace, and tourism industries. It features a single terminal handling regional and some mainline service.",
+  "faqs": "Q: How far is Mobile Regional Airport from downtown Mobile?\nA: The airport is located approximately 10-12 miles west of downtown Mobile, typically a 20-25 minute drive depending on traffic.\n\nQ: What airlines serve Mobile Regional Airport?\nA: The airport is served by several major and regional carriers offering domestic flights to hub cities across the United States.\n\nQ: Does the airport have international flights?\nA: No, Mobile Regional primarily handles domestic flights. International travel options are typically routed through nearby hubs.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers both short-term and long-term parking options adjacent to the terminal building.",
+  "transport_tips": "Rental cars are available at the terminal and are the most convenient option for reaching Mobile and surrounding coastal destinations. Taxi services and rideshare apps operate at the airport, though availability can be limited outside peak hours. Several shuttle services and hotel shuttles serve the airport, particularly for the casino resorts along the Gulf Coast.",
+  "local_tip": "If you have a layover or early arrival, consider visiting the Mobile Bay area nearby for fresh seafood, especially if you're a fan of Gulf shrimp or oysters at one of the local waterfront restaurants.",
+  "generatedAt": "2026-06-29T02:28:33.427Z",
+  "model": "MiniMax-M3"
+}

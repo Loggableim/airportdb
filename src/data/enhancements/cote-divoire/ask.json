@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ASK",
+    "icao": "DIYO",
+    "name": "Yamoussoukro International Airport",
+    "country": "Côte d'Ivoire",
+    "city": "Yamoussoukro",
+    "lat": 6.9032,
+    "lon": -5.3656,
+    "type": "large_airport",
+    "size": 850
+  },
+  "summary": "Yamoussoukro International Airport (ASK/DIYO) serves the political capital of Côte d'Ivoire and is officially named after President Félix Houphouët-Boigny, the country's founding father. The airport features a modern terminal complex that has historically seen limited scheduled commercial service despite its large infrastructure. It provides access to Yamoussoukro, home to the famous Basilica of Our Lady of Peace, one of the largest religious structures in the world.",
+  "faqs": "Q: Does Yamoussoukro International Airport have regular commercial flights?\nA: Scheduled passenger service has historically been limited, with most international travelers using Félix-Houphouët-Boigny International Airport in Abidjan instead.\n\nQ: What is the airport named after?\nA: It honors Félix Houphouët-Boigny, the first president of Côte d'Ivoire, who made Yamoussoukro the political capital of the country.\n\nQ: How far is the airport from central Yamoussoukro?\nA: The airport is located just a few kilometers north of the city center, making transfers relatively quick.\n\nQ: Are there currency exchange facilities at the airport?\nA: Basic services are available, but travelers are generally advised to exchange money in the city for better rates.",
+  "transport_tips": "Taxis are the primary means of getting to and from the airport, and it's advisable to arrange a ride in advance through your hotel or a local contact. The short distance to central Yamoussoukro means transfers typically take under 20 minutes. Rental cars are available in Yamoussoukro city rather than directly at the airport terminal.",
+  "local_tip": "Visit the Basilica of Our Lady of Peace while in Yamoussoukro—it's the largest church in the world by some measurements and just a short drive from the airport, making it perfect for a layover exploration.",
+  "generatedAt": "2026-06-29T01:39:05.298Z",
+  "model": "MiniMax-M3"
+}

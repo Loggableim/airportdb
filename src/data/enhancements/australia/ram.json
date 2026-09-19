@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RAM",
+    "icao": "YRNG",
+    "name": "Ramingining Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -12.3564,
+    "lon": 134.898,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Ramingining Airport is a small regional airstrip serving the remote Aboriginal community of Ramingining in Australia's Northern Territory, located in the heart of Arnhem Land. It provides essential air access for one of the most culturally significant Indigenous communities in the country, known for its prolific art scene and the renowned Ramingining Arts and Cultural Centre. The airport primarily handles chartered and small scheduled flights connecting this isolated settlement to larger hubs like Darwin.",
+  "faqs": "Q: What is the main purpose of Ramingining Airport?\nA: It provides vital air access to the remote Aboriginal community of Ramingining in Arnhem Land, supporting residents, healthcare services, and cultural tourism.\n\nQ: Which airlines operate at Ramingining Airport?\nA: The airport is primarily served by small regional carriers and charter flights connecting to Darwin and other Northern Territory destinations.\n\nQ: Are there facilities at the terminal?\nA: Facilities are minimal, as is typical for remote Australian community airstrips, with a basic terminal and limited amenities.\n\nQ: Do I need a permit to visit Ramingining?\nA: Yes, visitors to Arnhem Land traditionally require a permit from the Northern Land Council to enter the region.",
+  "transport_tips": "The airport is located adjacent to the Ramingining community, making it a short walk or drive to local accommodations and the arts centre. There is no public bus service; ground transport typically needs to be arranged in advance through your host or accommodation provider. Most visitors arrive via charter or scheduled flights from Darwin, which is the main gateway to the region.",
+  "local_tip": "Visit the Ramingining Arts and Cultural Centre to see works by celebrated artists including John Mawurndjul and the famous painting 'Yirawala,' but check opening hours in advance as the centre operates on community schedules.",
+  "generatedAt": "2026-06-26T17:44:21.179Z",
+  "model": "MiniMax-M3"
+}

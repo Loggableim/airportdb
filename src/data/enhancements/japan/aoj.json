@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AOJ",
+    "icao": "RJSA",
+    "name": "Aomori Airport",
+    "country": "Japan",
+    "city": "Aomori",
+    "lat": 40.7338,
+    "lon": 140.6895,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "",
+  "faqs": "",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T23:51:58.699Z",
+  "model": "MiniMax-M3"
+}

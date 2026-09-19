@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UIO",
+    "icao": "SEQM",
+    "name": "Mariscal Sucre International Airport",
+    "country": "Ecuador",
+    "city": "Quito",
+    "lat": -0.1254,
+    "lon": -78.3543,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Mariscal Sucre International Airport (UIO) is Ecuador's primary international gateway, serving the capital city of Quito from its location in Tababela, approximately 18 km east of the historic center. Opened in February 2013, it replaced the previous airport that operated within the dense urban core, dramatically improving safety and capacity. At roughly 2,400 meters (7,874 feet) above sea level, it ranks among the highest-elevation international airports in the world.",
+  "faqs": "Q: How far is the airport from Quito's city center?\nA: The airport is located in Tababela, about 18 km (11 miles) east of Quito's historic center, typically a 30-45 minute drive depending on traffic.\n\nQ: Why was the airport relocated from its original site?\nA: The previous airport sat in a valley surrounded by mountains within the city, limiting operations and posing safety concerns. The new Tababela site provides modern infrastructure with significantly expanded capacity.\n\nQ: Which airlines operate from Mariscal Sucre?\nA: Major carriers include Avianca Ecuador, LATAM Ecuador, and TAME, with international connections to cities across the Americas and limited European service.\n\nQ: Are there altitude-related concerns for travelers?\nA: Quito's high elevation can affect travelers sensitive to altitude. The airport itself sits at approximately 2,400 meters, so visitors should stay hydrated and avoid overexertion upon arrival.",
+  "transport_tips": "Official yellow taxis and regulated airport shuttles are available at designated ranks outside the terminal; agree on a fare before departing. Ride-hailing apps like Uber operate at the airport and often provide more transparent pricing. The road from Quito to the airport climbs through mountainous terrain, so allow extra time during rainy season when fog and landslides can cause delays.",
+  "local_tip": "The new airport terminal features large windows showcasing views of the surrounding Andean peaks and, on clear days, the distant Cayambe volcano, a memorable sight best appreciated during early morning or late afternoon arrivals.",
+  "generatedAt": "2026-06-28T18:46:15.470Z",
+  "model": "MiniMax-M3"
+}

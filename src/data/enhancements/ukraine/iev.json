@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IEV",
+    "icao": "UKKK",
+    "name": "Ihor Sikorsky Kyiv International Airport (Zhuliany)",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "lat": 50.4019,
+    "lon": 30.4519,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ihor Sikorsky Kyiv International Airport, commonly known as Zhuliany, is a medium-sized airport located in the Zhuliany district of southern Kyiv, about 7 km southwest of the city center. Named after aviation pioneer Igor Sikorsky, it serves as a key secondary hub complementing the larger Boryspil International Airport, primarily handling low-cost carriers, domestic routes, and charter flights. The single-terminal facility offers quicker processing times compared to Ukraine's main gateway, making it popular for travelers heading to central Kyiv.",
+  "faqs": "Q: What is the difference between Zhuliany (IEV) and Boryspil (KBP)?\nA: Zhuliany is a smaller, secondary airport closer to central Kyiv, mainly serving low-cost carriers and domestic flights. Boryspil is Ukraine's main international gateway, located about 35 km east of the city and handling most long-haul and major airline traffic.\n\nQ: Who is the airport named after?\nA: The airport is named after Igor Sikorsky, the renowned aviation engineer born in Kyiv who designed the first successful helicopter and pioneered large multi-engine aircraft in the early 20th century.\n\nQ: Is Zhuliany Airport currently operational?\nA: Operations at Ukrainian airports have been subject to periodic closures due to security conditions since 2022. Travelers should check the latest flight status and advisories before planning trips.\n\nQ: How long does it take to get from Zhuliany to central Kyiv?\nA: The airport is approximately 15-25 minutes from central Kyiv by car or taxi, depending on traffic, and is well-connected by public transport.",
+  "transport_tips": "The most convenient way to reach central Kyiv is by taxi or rideshare, taking roughly 15-25 minutes depending on traffic. Public bus route 9 and marshrutka (minibus) services connect the airport to the city center and central railway station. If traveling to or from Boryspil Airport, allow at least 1.5-2 hours as the two airports sit on opposite sides of Kyiv.",
+  "local_tip": "Frequent travelers recommend arriving by public bus rather than taxi—the nearby line offers reliable service and drops you close to the older terminal area, skipping occasional taxi queues at peak times.",
+  "generatedAt": "2026-06-29T04:11:13.272Z",
+  "model": "MiniMax-M3"
+}

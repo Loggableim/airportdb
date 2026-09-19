@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HTR",
+    "icao": "RORH",
+    "name": "Hateruma Airport",
+    "country": "Japan",
+    "city": "Taketomi",
+    "lat": 24.0598,
+    "lon": 123.8056,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Hateruma Airport (HTR) is a small airfield located on Hateruma Island, the southernmost inhabited island of Japan, part of the Yaeyama Islands in Okinawa Prefecture. It is administered by the town of Taketomi and serves a tiny local population, providing an essential link for residents and visitors traveling to one of Japan's most remote island communities. The airport features a single short runway and offers flights connecting to Naha and other nearby islands.",
+  "faqs": "Q: What is the southernmost airport in Japan?\nA: Hateruma Airport, located at approximately 24 degrees north latitude, holds the distinction of being the southernmost airport in all of Japan.\n\nQ: Which airlines operate at Hateruma Airport?\nA: Japan Transocean Air and Ryukyu Air Commuter have historically provided scheduled services connecting Hateruma to Naha on Okinawa's main island.\n\nQ: How long is the runway at Hateruma Airport?\nA: The runway is approximately 800 meters long, suitable only for small propeller aircraft due to the island's remote location and modest traffic demands.\n\nQ: Is Hateruma Airport open 24 hours?\nA: No, the airport operates only during daylight hours and in alignment with scheduled flight arrivals and departures.",
+  "transport_tips": "Getting to Hateruma Airport typically involves a connecting flight from Naha Airport on Okinawa Island, as there are no direct international or mainland services. Travelers should confirm schedules in advance, as flights are weather-dependent and can be delayed by strong winds common in the region. Once on the island, local taxis and small shuttle services are the primary means of reaching accommodations, as the island has no public bus system.",
+  "local_tip": "Bring cash in yen, as Hateruma Island has very limited ATM availability and many small shops and guesthouses do not accept credit cards, especially for the local cuisine and souvenirs unique to this remote southern outpost.",
+  "generatedAt": "2026-06-27T14:53:39.241Z",
+  "model": "MiniMax-M3"
+}

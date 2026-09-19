@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BOO",
+    "icao": "ENBO",
+    "name": "Bodø Airport",
+    "country": "Norway",
+    "city": "Bodø",
+    "lat": 67.2692,
+    "lon": 14.3653,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Bodø Airport (BOO) is a major regional airport in northern Norway, located just outside the city of Bodø on a peninsula along the coast. It serves as the main gateway to the Nordland region and offers connections to the Lofoten Islands and other Arctic destinations. The facility shares its grounds with Bodø Air Station, a Royal Norwegian Air Force base, making it a dual-use civil-military airport.",
+  "faqs": "Q: How far is Bodø Airport from the city center?\nA: The airport is located approximately 2 km southwest of Bodø city center, making it a quick 5-10 minute drive or taxi ride.\n\nQ: Which airlines operate from Bodø Airport?\nA: Norwegian Air Shuttle, Widerøe, and SAS are the primary carriers, offering domestic flights to Oslo, Trondheim, and other Norwegian cities, along with regional services to smaller communities in Northern Norway.\n\nQ: Can I fly directly to the Lofoten Islands from Bodø?\nA: There are no direct flights from Bodø to Lofoten airports; travelers typically take a ferry from Bodø to Moskenes or drive, as the islands are connected by road via the Lofast tunnel network.\n\nQ: Does Bodø Airport operate 24 hours?\nA: Operating hours vary seasonally, but the airport generally opens early morning and closes late evening, with limited night-time operations.",
+  "transport_tips": "The airport is well-connected to Bodø city by frequent local buses and taxi services, with a journey time of under 10 minutes. For those continuing to the Lofoten Islands, rental cars and the Bodø-Moskenes ferry terminal are easily accessible. The airport's compact size means walking to nearby hotels and the city center is also feasible in good weather.",
+  "local_tip": "If you have a layover, take a short taxi into Bodø town to visit the Norwegian Aviation Museum (Norsk Luftfartsmuseum), which is one of the largest aviation museums in Scandinavia and located very close to the airport.",
+  "generatedAt": "2026-06-28T19:01:43.316Z",
+  "model": "MiniMax-M3"
+}

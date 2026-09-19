@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PKX",
+    "icao": "ZBAD",
+    "name": "Beijing Daxing International Airport",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.5013,
+    "lon": 116.414,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Beijing Daxing International Airport (PKX) opened in September 2019 as one of the world's largest airports by footprint, located in the southern Daxing District about 46 km from Tiananmen Square. Designed by Zaha Hadid Architects with a distinctive radial 'starfish' terminal layout, it was built to relieve congestion at Beijing Capital International Airport and serves as a major hub for China Southern Airlines and China Eastern Airlines. The airport features four runways (with plans to expand to seven) and a state-of-the-art integrated ground transportation hub connecting rail, metro, and highway networks.",
+  "faqs": "Q: How far is Daxing Airport from central Beijing?\nA: The airport is located approximately 46 km south of central Beijing, in Daxing District. Travel time varies from 40 minutes to over an hour depending on traffic.\n\nQ: What airlines use Daxing as a hub?\nA: China Southern Airlines and China Eastern Airlines relocated their primary hubs to Daxing from Beijing Capital. Many international carriers and other Chinese airlines also operate significant services here.\n\nQ: Is there a metro or train connection to Daxing Airport?\nA: Yes, the Daxing Airport Express connects the airport to downtown Beijing, linking with subway lines at Caoqiao station. High-speed rail services also serve the integrated transportation hub beneath the terminal.\n\nQ: When did Beijing Daxing International Airport open?\nA: The airport officially commenced operations on September 25, 2019, ahead of the 70th anniversary of the People's Republic of China.\n\n",
+  "transport_tips": "The Daxing Airport Express subway is the most predictable option for reaching central Beijing, taking roughly 40 minutes to Caoqiao station where you can transfer to other metro lines. Taxis and ride-hailing services are available but the long distance means fares can exceed 200 RMB and travel times are heavily affected by traffic. The integrated transportation hub beneath the terminal also connects to the Beijing-Guangzhou high-speed rail network, making onward ground travel to nearby cities convenient.",
+  "local_tip": "Download the 'Xinhua Travel' or airline-specific apps in advance, as Daxing's massive single-terminal layout means walking distances between gates and security can exceed 20 minutes — even with moving walkways, arrive early and check your gate location before clearing security.",
+  "generatedAt": "2026-06-28T19:55:07.404Z",
+  "model": "MiniMax-M3"
+}

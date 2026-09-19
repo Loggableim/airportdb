@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YSU",
+    "icao": "CYSU",
+    "name": "Summerside Airport",
+    "country": "Canada",
+    "city": "Slemon Park",
+    "lat": 46.4406,
+    "lon": -63.8336,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Summerside Airport (YSU/CYSU) is a former military airfield in Slemon Park, Prince Edward Island, about 6 km north of Summerside. It opened in 1941 as RCAF Station Summerside, later served as CFB Summerside, and now operates as a civilian airport for general aviation, charter, cargo, and medevac flights. Its main 5,000-foot runway and low-traffic setting make it a practical option for private and business aircraft visiting Prince County.",
+  "faqs": "Q: Does Summerside Airport have scheduled passenger flights?\nA: No, Summerside Airport does not have regular scheduled commercial passenger service. It mainly supports general aviation, charter, cargo, flight training, and medevac operations.\n\nQ: How far is the airport from downtown Summerside?\nA: The airport is in Slemon Park, roughly 6 km (4 mi) north of downtown Summerside. The drive typically takes about 10 minutes.\n\nQ: What is the history of Summerside Airport?\nA: It began in 1941 as RCAF Station Summerside and later became CFB Summerside. After the military base closed in the early 1990s, the airfield was retained and developed as a civilian airport within Slemon Park.\n\nQ: Are there car rental or taxi services at the airport?\nA: On-site car rental is limited, so arrange a vehicle in Summerside or confirm with your FBO before arrival. Taxis are available but should be pre-booked, especially for early or late flights.",
+  "transport_tips": "The airport is about a 10-minute drive from downtown Summerside via Route 2 into Slemon Park; a taxi or pre-arranged shuttle is the most reliable option. There is no regular public transit service to the terminal, and ride-hailing may be scarce, so book ground transport in advance. If driving, on-site parking is available, but check with your operator for after-hours access.",
+  "local_tip": "Frequent visitors confirm fuel availability, terminal access, and after-hours fees with the airport or FBO before arrival—services can be limited when the field is quiet, and the former base layout can be confusing at night.",
+  "generatedAt": "2026-09-19T23:09:33.716Z",
+  "model": "deepseek-v4.1-flash"
+}

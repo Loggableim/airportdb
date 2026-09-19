@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SVC",
+    "icao": "KSVC",
+    "name": "Grant County Airport",
+    "country": "United States",
+    "city": "Silver City",
+    "lat": 32.6367,
+    "lon": -108.1547,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Grant County Airport (SVC) is a general aviation airport located in southwestern New Mexico, serving Silver City and the surrounding Grant County region. It provides convenient access to the Gila National Forest, Gila Cliff Dwellings National Monument, and the historic mining communities of the area. The airport sits at an elevation of approximately 5,446 feet and features a single primary runway suitable for regional and private aircraft.",
+  "faqs": "Q: Does Grant County Airport offer scheduled commercial service?\nA: The airport primarily serves general aviation and charter flights, with no major scheduled commercial airline service. Travelers typically fly into larger hubs like El Paso or Tucson and drive to Silver City.\n\nQ: How far is the airport from downtown Silver City?\nA: The airport is located just a few miles southeast of Silver City's town center, making it a short drive to local accommodations and businesses.\n\nQ: Are there rental cars available at SVC?\nA: Rental car availability is limited; it is recommended to arrange a vehicle in advance through a national rental agency or coordinate with local hotels for shuttle services.\n\nQ: What is the elevation of Grant County Airport?\nA: The airport sits at approximately 5,446 feet above sea level, which pilots should factor into aircraft performance calculations.",
+  "transport_tips": "Rental car options at the airport are limited, so booking in advance through a national agency is strongly recommended for flexibility in exploring the region. Many local hotels in Silver City offer shuttle pickup services with prior arrangement. Having a personal vehicle is the most practical way to reach trailheads in the nearby Gila National Forest and other outdoor attractions.",
+  "local_tip": "Morning flights are smoother year-round because afternoon convective thunderstorms frequently develop over the surrounding mountains during summer monsoon season, which runs from July through September.",
+  "generatedAt": "2026-06-29T19:22:12.367Z",
+  "model": "MiniMax-M3"
+}

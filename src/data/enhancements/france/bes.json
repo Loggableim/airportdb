@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BES",
+    "icao": "LFRB",
+    "name": "Brest Bretagne airport",
+    "country": "France",
+    "city": "Brest",
+    "lat": 48.4479,
+    "lon": -4.4185,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Brest Bretagne Airport (BES) is located in Guipavas, approximately 10 km northeast of Brest in the Finistère department of Brittany, France. It serves as the main gateway to western Brittany, connecting the region to Paris and several other domestic and seasonal European destinations. The airport has historical significance as it was originally developed as a military airfield and retains connections to naval aviation given Brest's status as a major French naval port.",
+  "faqs": "Q: How far is Brest Bretagne Airport from the city center?\nA: The airport is located about 10 km (6 miles) northeast of Brest city center, typically a 20-30 minute drive depending on traffic.\n\nQ: What airlines operate from Brest Bretagne Airport?\nA: Air France operates the most flights, primarily to Paris-Charles de Gaulle and Paris-Orly. Seasonal carriers including easyJet, Ryanair, and others serve various European destinations during summer months.\n\nQ: Does the airport have international flights?\nA: Yes, seasonal international flights operate to destinations like London, Marseille, and various Mediterranean locations, though the majority of scheduled service is domestic to Paris.\n\nQ: Are there customs and immigration facilities at BES?\nA: The airport has standard customs facilities for handling flights from non-Schengen destinations, though most international flights from BES are to Schengen-area countries.\n\n",
+  "transport_tips": "A tram line (Line A) connects the airport to central Brest, with a journey time of approximately 30 minutes and frequent service throughout the day. Taxis are available outside the terminal and offer fixed rates to the city center, typically costing around 25-35 euros. Rental cars can be picked up at the terminal, and driving to Brest via the D165 or RN12 is straightforward with good signage.\n\n",
+  "local_tip": "If you have time during a layover or before your flight, visit the Phare de l'Île Vierge or the Océanopolis aquarium in Brest for a unique taste of Breton maritime culture—locals recommend checking flight times in advance as Brest's weather can change quickly and occasionally causes delays.\n",
+  "generatedAt": "2026-06-28T21:01:05.151Z",
+  "model": "MiniMax-M3"
+}

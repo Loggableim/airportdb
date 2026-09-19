@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SYD",
+    "icao": "YSSY",
+    "name": "Sydney Kingsford Smith International Airport",
+    "country": "Australia",
+    "city": "Sydney (Mascot)",
+    "lat": -33.9461,
+    "lon": 151.177,
+    "type": "large_airport",
+    "size": 1027975
+  },
+  "summary": "Sydney Kingsford Smith International Airport (SYD) is Australia's busiest airport, located in the suburb of Mascot just 8 km south of Sydney's central business district. Named after pioneering aviator Sir Charles Kingsford Smith, it is one of the world's oldest continuously operating airports, with commercial flights dating back to the 1920s. The airport features three passenger terminals and runways that famously extend into Botany Bay, making it one of the most visually distinctive airport layouts globally.",
+  "faqs": "Q: How far is Sydney Airport from the city center?\nA: The airport is approximately 8 km (5 miles) south of Sydney's CBD, typically a 15-25 minute drive depending on traffic.\n\nQ: Which terminals does Sydney Airport have?\nA: Sydney Airport operates three terminals: T1 (international), T2 (domestic), and T3 (domestic), with T2 and T3 connected but separated from T1.\n\nQ: Is there a train connection to Sydney Airport?\nA: Yes, the Sydney Airport Link train provides service between the airport and the city in about 13 minutes, with stations at both T1 and T2/T3.\n\nQ: Why is the airport named after Kingsford Smith?\nA: The airport honors Sir Charles Kingsford Smith, an Australian aviation pioneer who completed the first trans-Pacific flight from the US to Australia in 1928.",
+  "transport_tips": "The Airport Link train is the fastest and most reliable option, reaching Central Station in about 13 minutes with trains running every 10 minutes during peak times. Rideshare services and taxis are available at designated ranks outside each terminal but expect higher fares and traffic during rush hour. If driving, the airport has short-term and long-term parking options, though pre-booking online typically offers significant savings.",
+  "local_tip": "For a pre-flight meal with a view, head to the viewing terrace at the T1 international terminal's outdoor area near Gate 31, where you can watch planes take off against the backdrop of Botany Bay while enjoying a coffee.",
+  "generatedAt": "2026-06-28T14:57:25.959Z",
+  "model": "MiniMax-M3"
+}

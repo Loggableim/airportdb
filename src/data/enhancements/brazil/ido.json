@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IDO",
+    "icao": "SWIY",
+    "name": "Santa Izabel do Morro Airport",
+    "country": "Brazil",
+    "city": "Cristalândia",
+    "lat": -11.5723,
+    "lon": -50.6662,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Santa Izabel do Morro Airport (IDO) is a small regional airport serving Cristalândia in the southern part of Tocantins state, Brazil. The airport provides important access to the Ilha do Bananal region, the world's largest fluvial island, supporting local communities, ecotourism, and general aviation in this remote area of the Brazilian Amazon. With its single unpaved runway, it primarily handles light aircraft and charter flights.",
+  "faqs": "Q: What type of aircraft can use Santa Izabel do Morro Airport?\nA: The airport is suitable for small propeller aircraft and regional flights, as it has a single unpaved runway typical of small Brazilian airfields.\n\nQ: Are there scheduled commercial flights to this airport?\nA: Scheduled commercial service is limited; most flights are private, charter, or general aviation operations serving the local community.\n\nQ: What is the nearest town served by this airport?\nA: The airport serves Cristalândia, Tocantins, and is also a gateway to the Ilha do Bananal region.\n\nQ: Is the airport open to international flights?\nA: No, Santa Izabel do Morro operates as a domestic small airport and does not handle international commercial traffic.",
+  "transport_tips": "Ground transport options are limited, so arranging a vehicle in advance through a local contact or hotel is highly recommended. The airport is accessed via unpaved local roads, and a 4x4 vehicle may be necessary during the rainy season. The nearest major city with broader transport connections is Palmas, several hours away by road.",
+  "local_tip": "If visiting for ecotourism, coordinate with local guides in advance as the surrounding Ilha do Bananal region has limited infrastructure and services, and cell phone reception can be unreliable.",
+  "generatedAt": "2026-06-27T20:32:59.586Z",
+  "model": "MiniMax-M3"
+}

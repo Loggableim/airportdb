@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TEV",
+    "icao": "LETL",
+    "name": "Teruel Airport",
+    "country": "Spain",
+    "city": "Teruel",
+    "lat": 40.4103,
+    "lon": -1.2174,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Teruel Airport (TEV/LETL) is a medium-sized airport located in the Aragon region of northeastern Spain, near the historic city of Teruel. It has gained international recognition as one of Europe's largest aircraft storage and decommissioning facilities, operated primarily by Tarmac Aerosave. The region's exceptionally dry climate and high altitude make it ideal for long-term aircraft preservation, attracting numerous airlines during fleet groundings.",
+  "faqs": "Q: Does Teruel Airport offer commercial passenger flights?\nA: The airport does not operate regular commercial passenger service and is primarily used for aircraft storage, maintenance, and recycling operations.\n\nQ: Why is Teruel chosen for aircraft storage?\nA: The area's high altitude, low humidity, minimal rainfall, and sparse population create ideal conditions for preserving aircraft and preventing corrosion, similar to desert boneyards in the United States.\n\nQ: Which company operates the storage facility at Teruel?\nA: Tarmac Aerosave, a joint venture involving Airbus and Suez, manages the aircraft parking, maintenance, and end-of-life recycling activities at the airport.\n\nQ: Can visitors see the stored aircraft?\nA: There is a public viewing area near the airport perimeter that allows aviation enthusiasts and visitors to observe the rows of parked aircraft from outside the operational zones.\n\n",
+  "transport_tips": "The airport is located approximately 10 km southeast of Teruel city center and is best reached by rental car or taxi, as public transport connections are limited. The A-23 motorway provides convenient access from Valencia and Zaragoza. On-site parking is available near the terminal area.",
+  "local_tip": "Plan a visit to the nearby Dinópolis theme park, a dinosaur-themed attraction that complements the area's paleontology heritage and offers a fun stop while observing stored aircraft from the viewing area.",
+  "generatedAt": "2026-06-26T09:03:26.389Z",
+  "model": "MiniMax-M3"
+}

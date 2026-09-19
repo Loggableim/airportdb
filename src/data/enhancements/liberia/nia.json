@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NIA",
+    "icao": "GLNA",
+    "name": "Nimba Airport",
+    "country": "Liberia",
+    "city": "Nimba",
+    "lat": 7.4945,
+    "lon": -8.5845,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Nimba Airport is a small regional airfield serving Nimba County in northeastern Liberia, near the country's borders with Guinea and Côte d'Ivoire. The airport primarily supports charter and light aircraft operations linked to the region's significant iron ore mining industry, operated historically by companies including ArcelorMittal and LAMCO. Its proximity to the Mount Nimba Strict Nature Reserve, a UNESCO World Heritage Site, makes it a potential access point for visitors heading to explore one of West Africa's most biodiverse mountain ecosystems.",
+  "faqs": "Q: What type of aircraft serve Nimba Airport?\nA: Nimba Airport primarily handles small turboprop aircraft and private/charter flights, as it is not equipped for large commercial jets.\n\nQ: Are there scheduled passenger flights to Nimba?\nA: Scheduled commercial service is very limited; most flights are charter operations, so travelers typically need to arrange flights in advance.\n\nQ: What is the nearest major city?\nA: The town of Sanniquellie, the capital of Nimba County, is nearby, while Monrovia, the capital of Liberia, lies roughly 450 kilometers to the southwest.\n\nQ: Is there a terminal building at the airport?\nA: Facilities are minimal, reflecting its status as a small regional airfield serving mostly mining-related and occasional charter traffic.",
+  "transport_tips": "Ground transport options from Nimba Airport are limited, so arranging a private vehicle in advance is strongly recommended. The roads connecting the airport to surrounding towns can be unpaved or in poor condition, particularly during the rainy season. Travelers heading further afield should consider hiring a 4x4 vehicle and a local driver familiar with the area.",
+  "local_tip": "If visiting the area, ask your contacts about accessing the Mount Nimba Strict Nature Reserve—it's a UNESCO site shared between Liberia, Guinea, and Côte d'Ivoire, and local mining company personnel sometimes know the best entry points and guides.",
+  "generatedAt": "2026-06-28T04:46:39.949Z",
+  "model": "MiniMax-M3"
+}

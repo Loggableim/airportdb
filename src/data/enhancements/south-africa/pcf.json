@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PCF",
+    "icao": "FAPS",
+    "name": "Potchefstroom Airport",
+    "country": "South Africa",
+    "city": "Potchefstroom",
+    "lat": -26.671,
+    "lon": 27.0819,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Potchefstroom Airport (PCF/FAPS) is a medium-sized regional airport serving the city of Potchefstroom in South Africa's North West Province. It primarily supports general aviation, flight training, and charter operations, playing a key role in connecting the region to major South African hubs. The airport is notable for its proximity to North-West University, one of the country's prominent academic institutions.",
+  "faqs": "Q: What is the main use of Potchefstroom Airport?\nA: The airport primarily serves general aviation, private flights, flight training, and charter services, with limited scheduled commercial operations.\n\nQ: Are there car rental services at Potchefstroom Airport?\nA: Car rental availability is limited; visitors are generally advised to arrange transport in advance through local rental agencies or accommodation providers.\n\nQ: How far is the airport from Potchefstroom city center?\nA: The airport is located a short drive from the city center, typically reachable within 10-15 minutes by car.\n\nQ: Can the airport accommodate larger aircraft?\nA: As a medium-sized airport, it can handle small to mid-size aircraft, though it is not equipped for large commercial jets.",
+  "transport_tips": "The most convenient way to reach Potchefstroom Airport is by private car or pre-arranged shuttle, as public transport options directly to the terminal are limited. Taxis and ride services from Potchefstroom city center are available but should be booked in advance, especially for early morning flights. Major road connections from Johannesburg and other regional centers make driving a straightforward option for visitors.",
+  "local_tip": "If you're visiting for university-related events at North-West University, plan your arrival early in the day—weekday mornings can see increased flight training activity, which occasionally affects runway availability for transient aircraft.",
+  "generatedAt": "2026-06-26T08:13:28.891Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TSC",
+    "icao": "SETH",
+    "name": "Taisha Airport",
+    "country": "Ecuador",
+    "city": "Taisha",
+    "lat": -2.3817,
+    "lon": -77.5028,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Taisha Airport (TSC/SETH) is a small airfield serving the remote town of Taisha in Ecuador's Morona Santiago province, deep within the Amazon rainforest. It functions primarily as a lifeline for the local Achuar and Shuar indigenous communities, connecting them to larger cities like Macas and Quito. The airport handles light aircraft and occasional charter flights, making it essential for medical evacuations, supply runs, and regional travel.",
+  "faqs": "Q: Where is Taisha Airport located?\nA: Taisha Airport is located in the town of Taisha in Morona Santiago province, southeastern Ecuador, within the Amazon basin near the borders of Peru.\n\nQ: What kind of aircraft use Taisha Airport?\nA: The airport primarily serves small turboprop aircraft and light planes, as the runway is too short for larger jets.\n\nQ: Are there scheduled commercial flights to Taisha?\nA: Limited scheduled service is available, but most flights are charter or small regional carriers operating to and from nearby cities like Macas or Shell.\n\nQ: Is Taisha Airport safe for travelers?\nA: The airport operates in a remote rainforest setting with basic facilities; weather conditions can affect flight schedules, so flexibility is recommended.\n\n",
+  "transport_tips": "Getting to Taisha Airport typically requires a small regional or charter flight, as road access to the town is limited and slow. Travelers coming from Quito often fly to Macas first, then transfer to a smaller aircraft for the final leg. Ground transport from the airport into Taisha town is usually by foot, motorcycle, or local motorized canoe along nearby rivers.",
+  "local_tip": "Pack light and bring a waterproof bag for your documents—the tropical Amazon climate brings frequent rain, and the short unpaved runway can lead to muddy conditions near the terminal.",
+  "generatedAt": "2026-06-28T08:35:04.283Z",
+  "model": "MiniMax-M3"
+}

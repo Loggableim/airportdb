@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ELO",
+    "icao": "SATD",
+    "name": "El Dorado Airport",
+    "country": "Argentina",
+    "city": "El Dorado",
+    "lat": -26.3975,
+    "lon": -54.5747,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "El Dorado Airport (ELO/SATD) is a small regional airport serving the city of El Dorado in Misiones Province, northeastern Argentina. Located in a subtropical region near the borders with Brazil and Paraguay, it provides air access to the interior of Misiones, an area known for its yerba mate production and proximity to Iguazu Falls. The airport handles limited commercial traffic and primarily serves general aviation and regional flights.",
+  "faqs": "Q: What is the IATA code for El Dorado Airport?\nA: The IATA code is ELO, and its ICAO code is SATD.\n\nQ: Where is El Dorado Airport located?\nA: It is located near the city of El Dorado in Misiones Province, northeastern Argentina, close to the borders with Brazil and Paraguay.\n\nQ: Does El Dorado Airport offer international flights?\nA: No, it primarily serves domestic regional routes and general aviation. Most international travelers use the larger Cataratas del Iguazú International Airport instead.\n\nQ: How large is El Dorado Airport?\nA: It is a small regional airport with limited infrastructure, handling a modest volume of passengers and aircraft operations.",
+  "transport_tips": "The airport is located a short drive from El Dorado city center, typically reachable in about 10-15 minutes by taxi or remise (local private hire car). Rental car services are available in town but limited directly at the terminal. Pre-arranging ground transportation is recommended, as on-demand taxi availability can be inconsistent for arriving flights.",
+  "local_tip": "If visiting the region, consider using El Dorado as an alternative gateway to Iguazu Falls via the quieter Route 12, which offers scenic views of the Paraná forest and is far less congested than flying directly into the Iguazú airport.",
+  "generatedAt": "2026-06-27T21:07:11.022Z",
+  "model": "MiniMax-M3"
+}

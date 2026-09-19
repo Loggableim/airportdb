@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OAN",
+    "icao": "MHEA",
+    "name": "El Arrayán Airport",
+    "country": "Honduras",
+    "city": "Olanchito",
+    "lat": 15.5056,
+    "lon": -86.5747,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "El Arrayán Airport (OAN/MHEA) is a small regional airport serving Olanchito, a municipality in the Yoro Department of northern Honduras. It primarily supports general aviation and limited domestic flights, serving the agricultural communities of the Aguán Valley region. The airport provides essential connectivity for this inland area, which is otherwise reached primarily by road.",
+  "faqs": "Q: What is the airport code for El Arrayán Airport?\nA: The IATA code is OAN and the ICAO code is MHEA.\n\nQ: What type of flights operate from El Arrayán Airport?\nA: As a small regional airport, it primarily handles general aviation, charter flights, and limited domestic services rather than scheduled commercial flights.\n\nQ: Where is El Arrayán Airport located?\nA: It is located near the city of Olanchito in the Yoro Department of northern Honduras, in the Aguán Valley region.\n\nQ: Are there regular commercial flights to El Arrayán?\nA: Scheduled commercial service is very limited or nonexistent; travelers typically reach the area via Toncontín Airport in Tegucigalpa or other larger Honduran airports and then travel by ground transportation.",
+  "transport_tips": "Reaching El Arrayán Airport usually requires ground transportation from larger hubs like Tegucigalpa or San Pedro Sula, as scheduled commercial flights are minimal. Hiring a private vehicle or shuttle from Olanchito town center is the most practical option, as public transport to the airport is limited. The drive from the city center is short, making taxi arrangements straightforward.",
+  "local_tip": "If visiting the Olanchito area, plan to arrive during daylight hours, as road signage and lighting in the surrounding rural areas can be limited after dark.",
+  "generatedAt": "2026-06-28T05:04:38.542Z",
+  "model": "MiniMax-M3"
+}

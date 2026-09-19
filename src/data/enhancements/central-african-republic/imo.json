@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IMO",
+    "icao": "FEFZ",
+    "name": "Zemio Airport",
+    "country": "Central African Republic",
+    "city": "Zemio",
+    "lat": 5.0022,
+    "lon": 25.1019,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Zemio Airport is a small regional airfield serving the remote town of Zemio in the Haut-Mbomou prefecture of eastern Central African Republic. Situated near the borders of South Sudan and the Democratic Republic of Congo, it primarily functions as a hub for humanitarian missions, missionary flights, and light aircraft serving this isolated community. The unpaved runway and basic infrastructure reflect the challenging access conditions of this forested frontier region.",
+  "faqs": "Q: What is the primary use of Zemio Airport?\nA: The airport mainly serves humanitarian organizations, missionary groups, and small charter flights, as Zemio is in a remote and sparsely populated area with limited road access.\n\nQ: Are there scheduled commercial flights to Zemio?\nA: No scheduled commercial service operates to Zemio. Access is typically arranged through charter operators, NGOs, or humanitarian agencies.\n\nQ: What is the condition of the runway?\nA: The runway is unpaved and suitable primarily for small propeller aircraft. Conditions can be affected during the rainy season.\n\nQ: Is Zemio Airport safe for travel?\nA: The surrounding region has experienced periods of insecurity. Travelers should check current advisories from their government and coordinate with experienced operators familiar with local conditions.",
+  "transport_tips": "Getting to Zemio typically requires arranging a charter flight from Bangui, as road travel is extremely difficult and can be unsafe due to limited infrastructure and regional instability. Most visitors arrive via small aircraft operated by humanitarian or missionary organizations based in the capital. Expect minimal ground transportation at the airfield itself; local arrangements should be made in advance.",
+  "local_tip": "Contact local mission stations or NGO offices in Bangui well in advance, as they often coordinate shared charter flights to Zemio and can provide current information on runway conditions and regional security.",
+  "generatedAt": "2026-06-28T10:51:10.221Z",
+  "model": "MiniMax-M3"
+}

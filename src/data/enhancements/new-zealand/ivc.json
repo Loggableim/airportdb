@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IVC",
+    "icao": "NZNV",
+    "name": "Invercargill Airport",
+    "country": "New Zealand",
+    "city": "Invercargill",
+    "lat": -46.4124,
+    "lon": 168.313,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Invercargill Airport serves Southland's largest city, located on the southern tip of New Zealand's South Island. It functions as a key gateway for travelers heading to Invercargill, Bluff, and the ferry departure point for Stewart Island (Rakiura). The airport primarily handles regional flights connecting to Christchurch and Auckland.",
+  "faqs": "Q: Which airlines operate from Invercargill Airport?\nA: Air New Zealand is the main carrier, offering regular services to Christchurch and Auckland. Some seasonal or charter flights may also operate.\n\nQ: How far is the airport from Invercargill city centre?\nA: The airport is located approximately 2 km (1.2 miles) west of the city centre, making it a quick drive of around 5 minutes.\n\nQ: Does the airport have international flights?\nA: Direct international flights are uncommon; most international travelers connect through Auckland or Christchurch.\n\nQ: Are there car rental services at the airport?\nA: Yes, several car rental companies operate from the terminal, which is useful given the limited public transport options in the region.",
+  "transport_tips": "Taxis and rideshare services are available and recommended, as the airport is only minutes from the city centre. Rental cars are the most practical option for exploring the wider Southland region, where public transport is limited. Parking is available on-site for those being picked up or dropped off.",
+  "local_tip": "If you're heading to Stewart Island, the ferry terminal at Bluff is roughly a 30-minute drive from the airport, so consider scheduling a buffer day to enjoy Bluff's famous oysters before the crossing.",
+  "generatedAt": "2026-06-29T07:35:03.911Z",
+  "model": "MiniMax-M3"
+}

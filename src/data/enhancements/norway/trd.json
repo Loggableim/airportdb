@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TRD",
+    "icao": "ENVA",
+    "name": "Trondheim Airport, Værnes",
+    "country": "Norway",
+    "city": "Trondheim",
+    "lat": 63.4578,
+    "lon": 10.924,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Trondheim Airport, Værnes (TRD) is the principal airport serving central Norway and the Trøndelag region, situated about 32 km northeast of Trondheim in the municipality of Stjørdal. Originally established as a military airfield during World War II, it now operates as a joint civilian-military facility sharing space with the Royal Norwegian Air Force. The airport serves as a key hub for domestic routes and is a major gateway for offshore oil and gas workers heading to platforms on the Norwegian Continental Shelf.",
+  "faqs": "Q: How far is Trondheim Airport from the city center?\nA: The airport is approximately 32 km (20 miles) northeast of Trondheim city center, with a typical journey time of 30-45 minutes by road or rail.\n\nQ: Does the airport have a train station?\nA: Yes, Værnes railway station is located directly adjacent to the terminal, providing frequent and direct train services to Trondheim and other destinations on the Nordland Line.\n\nQ: Are there direct flights to international destinations?\nA: Yes, the airport offers direct flights to several European destinations including Copenhagen, Stockholm, Amsterdam, and London, as well as seasonal charter routes to Mediterranean holiday spots.\n\nQ: Is the airport used for offshore helicopter operations?\nA: Yes, Værnes is an important base for helicopter flights transporting workers to oil and gas installations on the Norwegian Continental Shelf.",
+  "transport_tips": "The most efficient way to reach Trondheim city center is by the Flytoget airport train or local Trønderbanen service, which departs from Værnes station right next to the terminal and takes about 35 minutes. Airport express buses (Flybussen) also run frequently between the airport and central Trondheim, with stops at major hotels. Taxis are available outside the terminal but are considerably more expensive than rail or bus options for the city journey.",
+  "local_tip": "If you have a long layover or early arrival, the Clarion Hotel adjacent to the terminal offers day rooms and a restaurant—useful for resting without leaving the airport area, especially",
+  "generatedAt": "2026-06-28T16:33:14.805Z",
+  "model": "MiniMax-M3"
+}

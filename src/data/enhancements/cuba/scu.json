@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SCU",
+    "icao": "MUCU",
+    "name": "Antonio Maceo International Airport",
+    "country": "Cuba",
+    "city": "Santiago",
+    "lat": 19.9747,
+    "lon": -75.8355,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Antonio Maceo International Airport is the main aviation gateway to Santiago de Cuba, the island's second-largest city and a key cultural hub in the eastern region. Named after Antonio Maceo, the revered general of Cuba's wars of independence, the airport handles both domestic and limited international flights. It serves as the primary entry point for travelers exploring eastern Cuba, including destinations like the Sierra Maestra mountains and historic colonial sites.",
+  "faqs": "Q: How far is the airport from central Santiago de Cuba?\nA: The airport is located approximately 7-8 kilometers southeast of the city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Does Antonio Maceo International Airport offer international flights?\nA: Yes, it receives a limited number of international flights, primarily from Canada, as well as some charter and seasonal services, in addition to regular domestic connections.\n\nQ: Are there currency exchange services at the airport?\nA: Yes, there are CADECA currency exchange offices available in the terminal, though exchanging money in the city is also common and often offers comparable rates.\n\nQ: Is the airport open 24 hours?\nA: Terminal hours generally align with flight schedules rather than full 24-hour operation, so it's best to confirm hours if arriving on a late or early flight.",
+  "transport_tips": "Taxis are the most reliable option and are available outside the terminal for the short trip into Santiago de Cuba; agree on the fare before departing. Official airport taxis are typically more expensive than state-run taxis booked through hotel reception desks. Rental cars can be arranged in advance for travelers exploring eastern Cuba independently.",
+  "local_tip": "If you have a long layover or early arrival, head directly into Santiago's Parque Céspedes instead of waiting at the terminal—it's about 20 minutes by taxi and offers the best taste of the city's colonial character, street music, and locally brewed cafecito.",
+  "generatedAt": "2026-06-28T21:20:28.308Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MAF",
+    "icao": "KMAF",
+    "name": "Midland International Air and Space Port",
+    "country": "United States",
+    "city": "Midland",
+    "lat": 31.9425,
+    "lon": -102.202,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Midland International Air and Space Port (MAF) is a medium-sized airport serving the Permian Basin region of West Texas, including the nearby cities of Midland and Odessa. The facility adopted its 'Space Port' designation in 2013, reflecting the area's growing ties to commercial spaceflight, including nearby Blue Origin launch operations. It functions as a key gateway for the prolific oil and gas industry that drives the local economy.",
+  "faqs": "Q: How far is the airport from downtown Midland?\nA: The airport is located approximately 10 miles southwest of downtown Midland, typically a 15-20 minute drive.\n\nQ: Does the airport have international flights?\nA: Despite its name, Midland International primarily handles domestic flights within the United States, with no scheduled international service.\n\nQ: Are there car rental services available?\nA: Yes, several major car rental agencies operate on-site at the terminal for convenient ground transportation.\n\nQ: What airlines serve MAF?\nA: Southwest, United, American, and Delta are the main carriers offering nonstop service to hubs like Dallas, Houston, Denver, and Las Vegas.\n\n",
+  "transport_tips": "Rental cars are the most convenient option given the lack of robust public transit in the region. Taxi and rideshare services like Uber and Lyft are available but may have longer wait times than in larger cities. Many hotels in Midland and Odessa offer complimentary shuttle pickup with advance reservation.",
+  "local_tip": "If you're visiting during the Permian Basin Petroleum Museum events or a Midland RockHounds baseball game, book flights well in advance as the airport gets unusually busy with energy industry travelers on weekday mornings.",
+  "generatedAt": "2026-06-29T02:28:04.111Z",
+  "model": "MiniMax-M3"
+}

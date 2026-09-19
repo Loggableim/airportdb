@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLC",
+    "icao": "KMLC",
+    "name": "Mc Alester Regional Airport",
+    "country": "United States",
+    "city": "Mc Alester",
+    "lat": 34.8824,
+    "lon": -95.7835,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "McAlester Regional Airport serves the city of McAlester in southeastern Oklahoma, providing general aviation and limited commercial service to Pittsburg County and the surrounding region. The airport supports business aviation, flight training, and emergency medical flights, and is situated near the historic downtown area of McAlester, a city known for its coal mining heritage and Italian festival. Its facilities accommodate both single-engine aircraft and larger business jets, making it a key transportation link for this part of Oklahoma.",
+  "faqs": "Q: Does McAlester Regional Airport offer commercial airline service?\nA: The airport primarily serves general aviation with no scheduled commercial passenger service; travelers typically use larger airports like Tulsa or Oklahoma City for commercial flights.\n\nQ: What facilities are available at McAlester Regional Airport?\nA: The airport features runways suitable for general aviation and business jets, aircraft parking, fuel services, and basic pilot amenities, though it does not have a major passenger terminal.\n\nQ: Can private pilots use this airport?\nA: Yes, McAlester Regional is a public-use airport welcoming private and transient general aviation pilots with available tie-downs and fuel.\n\nQ: Is there an air traffic control tower?\nA: The airport operates with a control tower during operational hours to manage traffic in the surrounding airspace.\n\n",
+  "transport_tips": "The airport is located just a few miles southwest of downtown McAlester, making it a short drive by car or taxi. Rental car services are limited, so arranging ground transportation in advance is recommended. Visitors flying in can also use rideshare apps depending on local availability.",
+  "local_tip": "If visiting McAlester, time your trip around the annual Italian Festival in May, one of Oklahoma's oldest and largest ethnic celebrations featuring food, music, and a grape stomp competition.",
+  "generatedAt": "2026-06-30T03:08:37.309Z",
+  "model": "MiniMax-M3"
+}

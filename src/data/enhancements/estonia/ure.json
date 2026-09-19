@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "URE",
+    "icao": "EEKE",
+    "name": "Kuressaare Airport",
+    "country": "Estonia",
+    "city": "Kuressaare",
+    "lat": 58.2299,
+    "lon": 22.5095,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kuressaare Airport is the main air gateway to Saaremaa, Estonia's largest island in the Baltic Sea. The airport serves Kuressaare, a charming coastal town renowned for its well-preserved medieval castle and proximity to spa resorts. It primarily handles domestic flights to Tallinn and limited seasonal international services from Nordic and Baltic destinations.",
+  "faqs": "Q: Which airlines operate at Kuressaare Airport?\nA: The airport is primarily served by regional carriers offering scheduled flights to Tallinn, with seasonal charter flights from select European destinations in summer months.\n\nQ: How far is the airport from Kuressaare town center?\nA: The airport is located approximately 3 km southeast of Kuressaare's town center, making it a quick 5-10 minute drive.\n\nQ: Can I reach Kuressaare without flying?\nA: Yes, Saaremaa island is connected to mainland Estonia via regular ferry services from Virtsu to Kuivastu, with the crossing taking about 90 minutes.\n\nQ: Is the airport open year-round?\nA: Yes, the airport operates year-round, though flight frequency is lower during the off-peak winter season.",
+  "transport_tips": "Taxis and pre-booked transfers are the most reliable way to reach Kuressaare town or nearby resorts, as public transport options are limited near the airport. Most island hotels offer airport pickup services, especially for guests staying at spa resorts. Renting a car at the airport is also a popular option for visitors planning to explore Saaremaa's natural attractions.",
+  "local_tip": "Time your visit around Midsummer (Jaanipäev) in late June, when Saaremaa hosts some of Estonia's most atmospheric celebrations, and book flights well in advance as they fill quickly during this peak period.",
+  "generatedAt": "2026-06-29T09:21:05.484Z",
+  "model": "MiniMax-M3"
+}

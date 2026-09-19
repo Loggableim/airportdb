@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YBA",
+    "icao": "CYBA",
+    "name": "Banff Airport",
+    "country": "Canada",
+    "city": "Banff",
+    "lat": 51.2082,
+    "lon": -115.5406,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Banff Airport (YBA) is a small general aviation airfield nestled in the Canadian Rockies near the town of Banff, Alberta, situated within the boundaries of Banff National Park. The airport primarily serves private aircraft, charter flights, and scenic tourism flights over the surrounding mountain landscapes rather than scheduled commercial service. Its dramatic alpine setting at an elevation of roughly 4,600 feet makes it a memorable gateway for visitors arriving by private or chartered aircraft to one of Canada's most celebrated mountain destinations.",
+  "faqs": "Q: Does Banff Airport have scheduled commercial flights?\nA: No, Banff Airport does not offer scheduled commercial airline service. It operates primarily as a general aviation facility serving private, charter, and recreational flights.\n\nQ: What is Banff Airport mainly used for?\nA: The airport is primarily used by private aircraft, flight training, charter operations, and scenic tour flights over the Canadian Rockies and Banff National Park.\n\nQ: Where is Banff Airport located?\nA: The airport is located near the town of Banff in Banff National Park, Alberta, surrounded by the Rocky Mountains at a high elevation.\n\nQ: Can I fly into Banff on a commercial airline?\nA: For commercial airline service, travelers typically use Calgary International Airport (YYC), which is approximately 90 minutes east of Banff by road.",
+  "transport_tips": "Most visitors arrive via Calgary International Airport, followed by a scenic drive west along the Trans-Canada Highway into Banff National Park. Shuttle services, rental cars, and private transfers operate regularly between Calgary and Banff. Once in Banff townsite, local Roam transit buses provide affordable access to surrounding areas, though having a vehicle offers the most flexibility for exploring the national park.",
+  "local_tip": "If you're lucky enough to land at YBA in a private aircraft, request a flyover of the surrounding peaks during arrival or departure — the views of Mount Rundle, Cascade Mountain, and the Bow Valley from the circuit pattern are among the most scenic of any airport approach in Canada.",
+  "generatedAt": "2026-06-27T03:20:36.242Z",
+  "model": "MiniMax-M3"
+}

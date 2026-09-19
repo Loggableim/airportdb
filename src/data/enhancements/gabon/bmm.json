@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BMM",
+    "icao": "FOOB",
+    "name": "Bitam Airport",
+    "country": "Gabon",
+    "city": "Bitam",
+    "lat": 2.0756,
+    "lon": 11.4932,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Bitam Airport serves the northern Gabonese town of Bitam, situated near the country's borders with Cameroon and Equatorial Guinea. As a medium-sized regional facility, it primarily handles domestic flights connecting this remote northern region to Gabon's capital, Libreville. The airport plays a vital role for the local community, supporting business travel, government transport, and access to medical and educational services unavailable locally.",
+  "faqs": "Q: What is the airport code for Bitam Airport?\nA: The IATA code is BMM and the ICAO code is FOOB.\n\nQ: Are there international flights from Bitam Airport?\nA: No, Bitam Airport primarily handles domestic flights within Gabon. For international travel, most passengers fly from larger airports such as Libreville.\n\nQ: What facilities are available at the airport?\nA: As a regional airport, facilities are limited. Passengers should expect basic terminal amenities and should arrive well in advance of their flight.\n\nQ: How far is Bitam Airport from the town center?\nA: The airport is located just a short drive from central Bitam, making ground transfers quick and convenient.\n\n",
+  "transport_tips": "Getting to Bitam Airport from town is straightforward, with taxis and shared transport options readily available from central Bitam, usually taking under 20 minutes. There is no public bus service to the airport, so arranging a private vehicle or taxi in advance is recommended for early morning flights. Road conditions in the area can vary, especially during the rainy season, so allow extra travel time to avoid missing your flight.",
+  "local_tip": "Bring small denomination CFA francs in cash, as the airport area has limited card acceptance and even basic services may require physical currency.",
+  "generatedAt": "2026-06-26T11:08:02.848Z",
+  "model": "MiniMax-M3"
+}

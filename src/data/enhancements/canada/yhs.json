@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YHS",
+    "icao": "",
+    "name": "Sechelt-Gibsons Airport",
+    "country": "Canada",
+    "city": "Sechelt",
+    "lat": 49.4606,
+    "lon": -123.719,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Sechelt-Gibsons Airport (YHS) is a small regional airfield serving the communities of Sechelt and Gibsons on British Columbia's Sunshine Coast. Nestled between the Coast Mountains and the Strait of Georgia, it primarily supports general aviation, private aircraft, and occasional charter operations. The airport offers an alternative to the longer ferry journey from Vancouver, providing quicker access to this scenic coastal region popular for outdoor recreation.",
+  "faqs": "Q: What is Sechelt-Gibsons Airport used for?\nA: The airport primarily serves general aviation, private pilots, and charter flights rather than scheduled commercial service.\n\nQ: Are there scheduled commercial flights from YHS?\nA: No regular scheduled commercial flights operate from this airport; visitors typically arrive via charter or by ferry from Vancouver.\n\nQ: Where exactly is the airport located?\nA: It is situated on the Sunshine Coast of British Columbia, between the towns of Sechelt and Gibsons, roughly 50 km northwest of Vancouver across the Strait of Georgia.\n\nQ: What facilities are available at the airport?\nA: The airport has basic facilities including a small terminal, tie-down areas for aircraft, and fueling services for general aviation users.\n\n",
+  "transport_tips": "Driving to Sechelt-Gibsons Airport from Sechelt takes only a few minutes via Highway 101. Since the Sunshine Coast is not directly connected to Vancouver by road, most visitors reach the airport by taking a BC Ferries sailing from Horseshoe Bay to Langdale, followed by a roughly 30-minute drive. Taxi and shuttle services are available but limited, so arranging ground transport in advance is recommended.",
+  "local_tip": "If flying in, plan your visit around the ferry schedule if anyone is joining you from Vancouver—Langdale terminal arrivals can coordinate easily with your landing time, making the airport a surprisingly convenient meeting point.",
+  "generatedAt": "2026-06-27T00:54:09.453Z",
+  "model": "MiniMax-M3"
+}

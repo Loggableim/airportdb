@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YXJ",
+    "icao": "CYXJ",
+    "name": "Fort St John / North Peace Regional Airport",
+    "country": "Canada",
+    "city": "Fort Saint John",
+    "lat": 56.2381,
+    "lon": -120.74,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Fort St. John / North Peace Regional Airport (YXJ) is the primary aviation gateway to British Columbia's Peace River region in northeastern BC. The airport serves as a critical hub for the area's oil and gas industry, supporting workforce travel to surrounding energy operations. It also handles general aviation, medevac services, and connects the community to major Canadian cities including Vancouver, Calgary, and Edmonton.",
+  "faqs": "Q: What airlines operate at Fort St John Airport?\nA: Air Canada Express and WestJet Encore provide scheduled passenger service, with flights primarily to Vancouver, Calgary, and Edmonton.\n\nQ: Does the airport offer car rental services?\nA: Yes, major car rental agencies including Budget, National, and Hertz operate on-site at the terminal.\n\nQ: Is there a restaurant or food service in the terminal?\nA: The terminal has limited food and beverage options, so travelers are advised to eat before arriving, especially during early morning departures.\n\nQ: How far is the airport from downtown Fort St. John?\nA: The airport is located approximately 8 km east of the city centre, typically a 10-15 minute drive.",
+  "transport_tips": "Taxis and rideshare services are available but can be limited, so booking in advance is recommended, particularly for early morning flights. The airport has ample parking close to the terminal for both short-term and long-term stays. Rental cars are the most flexible option given the remote nature of the surrounding region and the distances between work sites.",
+  "local_tip": "If you're flying out on an early morning WestJet Encore or Air Canada Express flight, arrive at least 90 minutes early during winter months — snow and ice can cause delays, and the small terminal fills up quickly with energy sector workers heading south for rotations.",
+  "generatedAt": "2026-06-29T04:45:22.275Z",
+  "model": "MiniMax-M3"
+}

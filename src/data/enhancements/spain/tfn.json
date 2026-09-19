@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TFN",
+    "icao": "GCXO",
+    "name": "Tenerife Norte-Ciudad de La Laguna Airport",
+    "country": "Spain",
+    "city": "Tenerife",
+    "lat": 28.4828,
+    "lon": -16.3417,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Tenerife Norte-Ciudad de La Laguna Airport (TFN/GCXO), historically known as Los Rodeos, is located on a high plateau between La Laguna and Santa Cruz de Tenerife. It is the island's older airport and focuses on inter-island, domestic, and some European flights, while Tenerife South handles most international traffic. Its elevation and exposure to trade winds can bring low cloud and fog, and it was the site of the 1977 Tenerife airport disaster.",
+  "faqs": "Q: Which airport should I use for Tenerife?\nA: Use TFN for La Laguna, Santa Cruz, and northern Tenerife; use Tenerife South (TFS) for most international flights and southern resorts. Some domestic and inter-island flights use TFN.\n\nQ: How far is TFN from Santa Cruz and La Laguna?\nA: The airport is about 6 km from La Laguna and roughly 11 km from Santa Cruz de Tenerife, usually 10–20 minutes by car depending on traffic.\n\nQ: Is there public transport from Tenerife North Airport?\nA: Yes. TITSA buses connect the airport with Santa Cruz, La Laguna, and other island destinations; taxis and rental cars are also available outside the terminal.\n\nQ: What airlines operate at TFN?\nA: Binter Canarias and Canaryfly operate many inter-island flights, while airlines such as Iberia, Air Europa, and Vueling may serve mainland Spain and selected European routes. Check current schedules as routes change seasonally.",
+  "transport_tips": "TITSA buses are the cheapest option: routes connect the terminal to Santa Cruz's Intercambiador and La Laguna, with taxis and rental cars available outside arrivals. By car, the airport is just off the TF-5 motorway, but allow extra time in morning and evening rush hours. For southern resorts, TFN is usually less convenient than TFS; transfer times can exceed an hour.",
+  "local_tip": "Frequent visitors check the weather before flying: TFN sits high and can be fogged in while the south coast is sunny, so build in buffer time for morning inter-island departures.",
+  "generatedAt": "2026-09-19T23:21:50.437Z",
+  "model": "deepseek-v4.1-flash"
+}

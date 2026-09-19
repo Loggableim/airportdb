@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SIR",
+    "icao": "LSGS",
+    "name": "Sion Airport",
+    "country": "Switzerland",
+    "city": "Sion",
+    "lat": 46.2192,
+    "lon": 7.3269,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Sion Airport (SIR/LSGS) is a regional airport nestled in the Rhône Valley of the Swiss canton of Valais, surrounded by the peaks of the Pennine and Bernese Alps. It serves as a key gateway to several of Switzerland's premier ski destinations, including Verbier, Crans-Montana, Nendaz, and Saas-Fee. The airport is a dual-use facility, shared between civil aviation and the Swiss Air Force.",
+  "faqs": "Q: Which ski resorts are most easily reached from Sion Airport?\nA: Sion provides convenient access to Verbier, Crans-Montana, Nendaz, Saas-Fee, Zermatt, and other Valais resorts, typically within 30 to 90 minutes by road or helicopter.\n\nQ: Is Sion Airport used by the military?\nA: Yes, it operates as a dual civil-military airfield and hosts a Swiss Air Force base alongside commercial operations.\n\nQ: What is the best time of year to fly into Sion?\nA: The airport is most popular during the winter ski season (December to April), though summer flights serve hiking and mountaineering visitors.\n\nQ: Are there regular scheduled flights to Sion?\nA: Scheduled service is limited and seasonal, with most traffic consisting of private, charter, and business aviation rather than commercial airline routes.",
+  "transport_tips": "Reaching Sion Airport by car is straightforward via the A9 motorway running through the Rhône Valley, and the airport is only about 5 minutes from Sion town center. Public transport options include regional buses and trains to Sion railway station, from where a short taxi or shuttle ride completes the journey. Helicopter transfers to nearby ski resorts like Verbier and Crans-Montana are available directly from the airfield.",
+  "local_tip": "If flying in during winter, keep an eye on weather windows: the airport frequently closes due to fog rolling down the valley, so build a flexible schedule and have a backup plan for staying an extra night in nearby Sion.",
+  "generatedAt": "2026-06-30T02:09:43.492Z",
+  "model": "MiniMax-M3"
+}

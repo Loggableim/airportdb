@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "COI",
+    "icao": "KCOI",
+    "name": "Merritt Island Airport",
+    "country": "United States",
+    "city": "Merritt Island",
+    "lat": 28.3416,
+    "lon": -80.6855,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Merritt Island Airport (COI) is a small general aviation facility located on Florida's Space Coast, serving the barrier island community of Merritt Island in Brevard County. The airport provides convenient access for pilots traveling to nearby Cape Canaveral, Kennedy Space Center, and the local beach communities along the Atlantic coast. It primarily handles private, recreational, and flight training operations rather than commercial service.",
+  "faqs": "Q: Does Merritt Island Airport offer commercial flights?\nA: No, Merritt Island Airport is a general aviation facility with no scheduled commercial airline service.\n\nQ: What is the airport primarily used for?\nA: The airport serves private aviation, flight training, recreational flying, and corporate traffic, with significant activity from visitors heading to Kennedy Space Center and surrounding attractions.\n\nQ: Are there rental cars available at the airport?\nA: Rental car availability is limited; visitors typically arrange ground transportation in advance or use rideshare services.\n\nQ: Can I watch rocket launches from the airport area?\nA: Merritt Island offers excellent viewing locations for rocket launches from nearby Kennedy Space Center and Cape Canaveral Space Force Station, though specific viewing areas may vary by launch.",
+  "transport_tips": "The airport is best accessed by car, with SR-3 and SR-520 providing main routes connecting to Merritt Island from mainland Florida. Rideshare services and taxis are available but may require advance booking due to the area's suburban nature. Cocoa Beach and Cape Canaveral are both within a short 15-20 minute drive from the airport.",
+  "local_tip": "Plan your visit around the Kennedy Space Center schedule—watching a rocket launch from one of the nearby causeways or beaches is an unforgettable experience unique to this part of Florida.",
+  "generatedAt": "2026-06-27T00:38:55.068Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SUI",
+    "icao": "UGSS",
+    "name": "Vladislav Ardzinba Sukhum International Airport",
+    "country": "Georgia",
+    "city": "Sukhumi",
+    "lat": 42.8582,
+    "lon": 41.1281,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Vladislav Ardzinba Sukhum International Airport (SUI/UGSS) serves the Black Sea coastal city of Sukhumi, the capital of Abkhazia. Originally established during the Soviet era and later renamed in honor of the region's first post-Soviet leader, the airport sits in a scenic setting between the Caucasus foothills and the Black Sea. Commercial operations have been limited in recent decades due to the region's disputed political status, though it remains an important gateway to this part of the eastern Black Sea coast.",
+  "faqs": "Q: What is the IATA code for Sukhum Airport?\nA: The IATA code is SUI, and the ICAO code is UGSS.\n\nQ: Which airlines operate flights from Sukhum Airport?\nA: Commercial service has been heavily restricted; only a small number of carriers, primarily from Russia, have operated scheduled flights in recent years.\n\nQ: How far is the airport from central Sukhumi?\nA: The airport is located approximately 15–20 km southeast of Sukhumi city center along the coastal road.\n\nQ: Does Sukhum Airport have international status?\nA: Yes, it is officially classified as an international airport, though international flight options remain very limited.",
+  "transport_tips": "Getting to and from the airport is easiest by pre-arranged taxi or hotel",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T23:07:51.434Z",
+  "model": "MiniMax-M3"
+}

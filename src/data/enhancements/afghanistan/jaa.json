@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JAA",
+    "icao": "OAJL",
+    "name": "Jalalabad Airport",
+    "country": "Afghanistan",
+    "city": "Jalalabad",
+    "lat": 34.3998,
+    "lon": 70.4986,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Jalalabad Airport (JAA/OAJL) serves the capital of Nangarhar Province in eastern Afghanistan, located about 130 km east of Kabul near the strategic Torkham border crossing with Pakistan's Khyber Pass region. The airport has long served both civilian and military aviation, playing a significant role during recent decades of military operations in eastern Afghanistan. Its position makes it an important gateway for travel and humanitarian operations in the country's eastern provinces.",
+  "faqs": "Q: What airlines operate at Jalalabad Airport?\nA: Commercial civilian service has historically been limited and intermittent, with most scheduled flights operating domestically to Kabul. Military and charter flights are more common at this facility.\n\nQ: Is Jalalabad Airport open to civilian travelers?\nA: Civilian access can vary depending on the current security situation. Travelers should verify current operating status with local authorities or their airline before planning travel.\n\nQ: How far is the airport from Jalalabad city center?\nA: The airport is located a short distance from the city, roughly 5 km southeast of central Jalalabad, making it a relatively quick drive.\n\nQ: What facilities are available at the airport?\nA: Facilities are basic compared to international standards, with limited passenger amenities. Travelers should expect minimal services and plan accordingly.\n\n",
+  "transport_tips": "Taxis and private vehicles are the primary means of reaching the airport, as there is no regular public transit serving the facility. Road conditions to the airport are generally paved but can be affected by security checkpoints along the route. Travelers are advised to allow extra time and arrange transport in advance, particularly for early morning departures.",
+  "local_tip": "Allow significantly more buffer time than you would at most airports, as security checkpoints on",
+  "generatedAt": "2026-06-26T08:34:11.974Z",
+  "model": "MiniMax-M3"
+}

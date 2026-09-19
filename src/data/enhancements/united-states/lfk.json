@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LFK",
+    "icao": "KLFK",
+    "name": "Angelina County Airport",
+    "country": "United States",
+    "city": "Lufkin",
+    "lat": 31.234,
+    "lon": -94.75,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Angelina County Airport (LFK) is a public general aviation airport located five miles southwest of Lufkin, Texas. Established in the early 1940s, it features a single 5,000-foot asphalt runway and serves private, corporate, and emergency medical flights. The airport is surrounded by the Piney Woods region and offers a quiet, efficient alternative to larger commercial hubs.",
+  "faqs": "Q: Does Angelina County Airport offer commercial passenger service?\nA: No, LFK is a general aviation airport with no scheduled commercial airlines. It primarily serves private and charter aircraft.\n\nQ: What facilities are available at the airport?\nA: The airport has a fixed-base operator (FBO) providing fuel, hangar space, and pilot amenities. There is also a terminal building with a waiting area.\n\nQ: How far is the airport from downtown Lufkin?\nA: The airport is approximately 5 miles southwest of downtown Lufkin, a drive of about 10 minutes via US-69.\n\nQ: Is there public transportation to the airport?\nA: No public transit serves the airport. Travelers typically use taxis, ride-sharing services, or rental cars.\n\n",
+  "transport_tips": "To reach the airport from downtown Lufkin, take US-69 South for about 5 miles, then turn onto Airport Road. There is no public bus service, so plan to drive, take a taxi, or arrange a ride-share. Rental cars are not available on-site, but major agencies have offices in Lufkin.",
+  "local_tip": "Frequent visitors appreciate the airport's quiet atmosphere and the 24/7 self-serve fuel island; the on-site FBO can often arrange a courtesy car for quick trips into town.",
+  "generatedAt": "2026-09-19T23:07:39.675Z",
+  "model": "deepseek-v4.1-flash"
+}

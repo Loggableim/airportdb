@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PBN",
+    "icao": "FNPA",
+    "name": "Porto Amboim Airport",
+    "country": "Angola",
+    "city": "Port Amboim",
+    "lat": -10.722,
+    "lon": 13.7655,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Porto Amboim Airport (PBN/FNPA) is a medium-sized regional airport serving the coastal city of Port Amboim in Cuanza Sul Province, Angola. The facility primarily supports the region's fishing industry and offshore oil and gas operations along the Atlantic coast. As a secondary airfield in the province, it connects the local community to Luanda and other Angolan destinations.",
+  "faqs": "Q: What is the airport code for Porto Amboim Airport?\nA: The IATA code is PBN and the ICAO code is FNPA.\n\nQ: Where is Porto Amboim Airport located?\nA: It is located near the port city of Port Amboim in Cuanza Sul Province, southwestern Angola, along the Atlantic coast.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers basic passenger handling facilities and primarily serves domestic flights and charter operations linked to the oil and gas industry.\n\nQ: Are there international flights from Porto Amboim?\nA: No, the airport primarily handles domestic flights, with most traffic connecting to Luanda and supporting offshore energy sector operations.",
+  "transport_tips": "The airport is located a short distance from the center of Port Amboim, making ground transfers generally quick. Taxis and informal transport options are commonly used to reach the town and nearby facilities. Travelers heading to offshore platforms or industrial sites typically arrange dedicated transport through their employer or charter operator in advance.",
+  "local_tip": "If visiting for the oil and gas industry, expect security checks and bring your company-issued documentation, as the airport is frequently used for crew changes to offshore installations.",
+  "generatedAt": "2026-06-26T13:25:14.117Z",
+  "model": "MiniMax-M3"
+}

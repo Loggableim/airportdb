@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NTY",
+    "icao": "FAPN",
+    "name": "Pilanesberg International Airport",
+    "country": "South Africa",
+    "city": "Pilanesberg",
+    "lat": -25.3338,
+    "lon": 27.1734,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Pilanesberg International Airport (NTY) is a medium-sized airport located in the North West Province of South Africa, serving as the primary air gateway to the renowned Pilanesberg National Park and the nearby Sun City resort complex. Situated in a malaria-free Big Five game reserve area, the airport primarily handles domestic charter and scheduled flights catering to tourists. Its strategic location makes it a convenient alternative to Johannesburg for visitors heading to these popular wildlife and entertainment destinations.",
+  "faqs": "Q: What is Pilanesberg International Airport primarily used for?\nA: The airport mainly serves tourists visiting Pilanesberg National Park and the Sun City resort, with a focus on domestic charter and scheduled flights from South African cities.\n\nQ: Which airlines operate at Pilanesberg International Airport?\nA: The airport is primarily served by South African charter operators and regional carriers offering flights from Johannesburg and other major South African cities.\n\nQ: How far is the airport from Sun City?\nA: Pilanesberg International Airport is located approximately 15-20 kilometers from Sun City, making it a short transfer for resort guests.\n\nQ: Does the airport have international flights?\nA: While named 'international,' the airport primarily handles domestic flights, though it is equipped to accommodate occasional international charter operations.",
+  "transport_tips": "Pre-arranged shuttle services and hotel transfers are the most common way to reach Sun City or Pilanesberg National Park from the airport, as public transport options are limited. Rental car agencies are available at the terminal for travelers who prefer self-driving, though booking in advance is recommended. The drive to Sun City takes roughly 20-25 minutes, while the Pilanesberg National Park gates are about 10-15 minutes away.",
+  "local_tip": "If you have a layover or early arrival, consider visiting the Pilanesberg National Park's Manyane or Bakgatla gates nearby, as early morning game drives offer excellent wildlife sightings and the airport's proximity means you can maximize your safari time without long transfers.",
+  "generatedAt": "2026-06-26T08:13:01.675Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SYQ",
+    "icao": "MRPV",
+    "name": "Tobías Bolaños International Airport",
+    "country": "Costa Rica",
+    "city": "San Jose",
+    "lat": 9.9571,
+    "lon": -84.1398,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tobías Bolaños International Airport (SYQ/MRPV) is a medium-sized facility located in the Pavas district of San José, Costa Rica, named after pioneering Costa Rican aviator Tobías Bolaños Palma. It primarily serves general aviation, private charters, executive flights, and flight training rather than scheduled commercial passenger service, which is largely handled by the larger Juan Santamaría International Airport nearby. The airport offers a convenient alternative for business aviation and private pilots operating in the Central Valley.",
+  "faqs": "Q: What is Tobías Bolaños International Airport mainly used for?\nA: The airport primarily serves general aviation, private charters, executive flights, and flight training operations, with limited scheduled commercial service.\n\nQ: How does SYQ differ from Juan Santamaría International Airport?\nA: SYQ is a smaller, secondary airport focused on private and general aviation, while Juan Santamaría International Airport (SJO) handles the majority of Costa Rica's scheduled commercial passenger flights.\n\nQ: Where is the airport located within San José?\nA: It is situated in the Pavas district, a western suburb of San José in Costa Rica's Central Valley.\n\nQ: Is Tobías Bolaños named after a notable figure in Costa Rican aviation?\nA: Yes, it honors Tobías Bolaños Palma, recognized as one of Costa Rica's early aviation pioneers.",
+  "transport_tips": "The airport is located about 10 km west of downtown San José, making taxi rides or rideshare services the most practical option for arrivals and departures, typically taking 20 to 40 minutes depending on traffic. Rental car agencies serving the airport are limited, so arranging ground transport in advance is recommended. Public bus routes do pass near the Pavas area, providing a budget-friendly alternative for travelers familiar with the local system.",
+  "local_tip": "If you're arriving on a private or charter flight, plan your ground transport before landing—traffic in the Central Valley can be unpredictable, and Pavas can get congested during peak commute hours, so building in extra buffer time for connections into central San José is wise.",
+  "generatedAt": "2026-06-29T07:40:07.994Z",
+  "model": "MiniMax-M3"
+}

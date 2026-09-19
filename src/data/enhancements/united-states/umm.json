@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UMM",
+    "icao": "PAST",
+    "name": "Summit Airport",
+    "country": "United States",
+    "city": "Cantwell",
+    "lat": 63.3315,
+    "lon": -149.127,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Summit Airport is a small public-use airfield located near Cantwell, Alaska, nestled in the Alaska Range along the Parks Highway. It primarily serves the local community and provides access for recreational visitors exploring nearby Denali National Park. The airport's high-elevation mountain location reflects its name and offers scenic views of the surrounding rugged terrain.",
+  "faqs": "Q: What is Summit Airport used for?\nA: It serves general aviation, local transportation, and recreational flights, particularly for visitors heading to Denali National Park.\n\nQ: Are there commercial airline services at Summit Airport?\nA: No, Summit Airport is a small airfield without scheduled commercial service; operations are typically private or charter flights.\n\nQ: What is the best time of year to fly into Summit Airport?\nA: Summer months (June through August) offer the most favorable weather, with longer daylight hours and generally clearer conditions for mountain flying.\n\nQ: Is the airport open year-round?\nA: Yes, but winter operations can be challenging due to snow and ice; check current conditions before planning a trip.",
+  "transport_tips": "The airport is accessible by car via the Parks Highway (Alaska Route 3), with the town of Cantwell located nearby. Rental car services are available in larger regional hubs like Fairbanks or Anchorage, which offer the nearest commercial airports with connecting flights. Road conditions can vary significantly with season, so checking the Alaska DOT road report is recommended, especially in winter.",
+  "local_tip": "Bring layers regardless of the season—mountain weather at this elevation can shift quickly, and temperatures at Summit Airport often run noticeably cooler than forecasts for lower-elevation areas along the Parks Highway.",
+  "generatedAt": "2026-06-27T11:59:40.836Z",
+  "model": "MiniMax-M3"
+}

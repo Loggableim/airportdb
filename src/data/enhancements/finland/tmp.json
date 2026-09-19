@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TMP",
+    "icao": "EFTP",
+    "name": "Tampere-Pirkkala Airport",
+    "country": "Finland",
+    "city": "Tampere / Pirkkala",
+    "lat": 61.4141,
+    "lon": 23.6044,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Tampere-Pirkkala Airport (TMP) is Finland's second-busiest airport, located in the municipality of Pirkkala approximately 17 km southwest of Tampere city center. Originally established as a military airfield in the 1930s, it transitioned to civilian use and now serves as the primary gateway to the Tampere region, supporting both scheduled passenger flights and cargo operations. The airport features a single terminal and is particularly valued by travelers heading to central Finland's largest inland city.",
+  "faqs": "Q: How far is Tampere-Pirkkala Airport from Tampere city center?\nA: The airport is located about 17 km southwest of Tampere in the municipality of Pirkkala, roughly a 20-25 minute drive depending on traffic.\n\nQ: Does Tampere-Pirkkala Airport have direct international flights?\nA: Yes, the airport offers direct scheduled flights to several European destinations, with seasonal routes and charter services adding more options throughout the year.\n\nQ: Are there currency exchange or ATM services at TMP?\nA: ATMs are available in the terminal for cash withdrawals, though it is generally recommended to exchange currency in Tampere city for better rates.\n\nQ: Is the airport open 24 hours?\nA: No, the terminal operates during flight hours only, so passengers should verify opening times when traveling on early morning or late evening flights.",
+  "transport_tips": "The most convenient way to reach the airport is by taxi or rideshare, with a typical journey from Tampere city center taking around 20-25 minutes. Bus route 1A connects Pirkkala and Tampere to the airport area, though service frequency may be limited, so checking schedules in advance is advisable. Rental cars are available at the terminal and the airport is easily accessed via Route 3 (VT3) heading south from Tampere.",
+  "local_tip": "If you have a longer layover or arrive early, the small airport café is known for surprisingly good Finnish coffee and fresh pulla (cinnamon buns)—a quick and authentic taste of Finland without leaving the terminal.",
+  "generatedAt": "2026-06-28T19:52:57.154Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MZZ",
+    "icao": "KMZZ",
+    "name": "Marion Municipal Airport",
+    "country": "United States",
+    "city": "Marion",
+    "lat": 40.4899,
+    "lon": -85.6797,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Marion Municipal Airport is a small general aviation facility serving the city of Marion in Grant County, Indiana. The airport supports local business travel, flight training, and recreational flying in the east-central Indiana region. It features paved runways suitable for single and twin-engine aircraft.",
+  "faqs": "Q: What type of airport is Marion Municipal Airport?\nA: It is a small general aviation airport serving private, corporate, and recreational flights, with no scheduled commercial airline service.\n\nQ: Where is MZZ located relative to Marion city center?\nA: The airport is located on the outskirts of Marion, Indiana, providing convenient access to the city and surrounding Grant County communities.\n\nQ: What facilities are available at the airport?\nA: The airport offers tie-downs, hangar rentals, fuel services, and basic pilot amenities typical of a municipal general aviation field.\n\nQ: Can I fly to Marion from other countries directly?\nA: No, the airport does not handle international flights; international travelers would need to connect through a larger hub airport.",
+  "transport_tips": "Reaching the airport by car is straightforward via local roads connecting to Marion, with parking available on-site for pilots and visitors. Taxi services and rideshare options from Marion city center can be arranged, though advance booking is recommended. Rental cars may be limited, so consider arranging ground transportation in advance if visiting.",
+  "local_tip": "If visiting Marion, plan time to explore the nearby James Dean Museum, as the legendary actor grew up in the area and several local landmarks connect to his early life.",
+  "generatedAt": "2026-06-27T03:56:27.477Z",
+  "model": "MiniMax-M3"
+}

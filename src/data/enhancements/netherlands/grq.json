@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GRQ",
+    "icao": "EHGG",
+    "name": "Groningen Airport Eelde",
+    "country": "Netherlands",
+    "city": "Groningen",
+    "lat": 53.1191,
+    "lon": 6.5777,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Groningen Airport Eelde (GRQ/EHGG) is a regional airport situated in the village of Eelde, approximately 10 kilometers south of the city of Groningen in the northern Netherlands. It serves the provinces of Groningen, Drenthe, and Friesland, functioning as both a civilian facility and a base for general aviation. The airport originally opened in 1928 as a grass airfield and has evolved into an important regional hub for business travel and charter flights.",
+  "faqs": "Q: Which airlines operate from Groningen Airport Eelde?\nA: The airport primarily serves as a base for general aviation, charter flights, and regional carriers. TUI fly operates seasonal holiday flights, while smaller operators provide connections to select European destinations.\n\nQ: Does the airport offer international flights?\nA: Yes, the airport handles international flights, mostly to popular holiday destinations in southern Europe and the Mediterranean, particularly during the summer season.\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard amenities including car rental services, a café, free parking, and basic passenger services. It is a relatively small facility focused on efficiency and quick processing.\n\nQ: Is Groningen Airport Eelde military-operated?\nA: The airport has historical connections to military aviation and shares its runway with the Royal Netherlands Air Force, which maintains a presence there for training purposes.",
+  "transport_tips": "The most convenient way to reach the airport is by car, with the N34 highway providing direct access from Groningen city center in about 15 minutes. Public bus line 2 connects Eelde village and the airport to Groningen, though service frequency is limited. Taxis are readily available and can be pre-booked for early morning departures when public transport is scarce.",
+  "local_tip": "If you have time before your flight, visit the nearby Hortus Botanicus in Haren or take a short drive to the Hunebedden prehistoric dolmens in Drenthe, one of the oldest monuments in the Netherlands, just minutes from the airport.",
+  "generatedAt": "2026-06-28T20:09:57.959Z",
+  "model": "MiniMax-M3"
+}

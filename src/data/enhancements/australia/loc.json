@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LOC",
+    "icao": "YLOK",
+    "name": "Lock Airport",
+    "country": "Australia",
+    "city": "Lock",
+    "lat": -33.5442,
+    "lon": 135.693,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lock Airport (LOC/YLOK) is a small rural airfield serving the tiny agricultural community of Lock on South Australia's Eyre Peninsula. The airport supports general aviation activity, primarily catering to private pilots, agricultural aircraft, and occasional charter flights serving the surrounding farming district. Its remote location places it amid productive wheat and sheep country, with the township of Lock providing basic services for travelers.",
+  "faqs": "Q: Where is Lock Airport located?\nA: Lock Airport is situated near the town of Lock on the Eyre Peninsula in South Australia, surrounded by broadacre farming land.\n\nQ: Does Lock Airport have scheduled commercial flights?\nA: No, Lock Airport is a small general aviation airfield with no regular scheduled commercial service.\n\nQ: What facilities are available at Lock Airport?\nA: As a small rural airport, facilities are basic and primarily limited to a runway and parking area suitable for private and light aircraft.\n\nQ: Who typically uses Lock Airport?\nA: The airport is mainly used by private pilots, recreational flyers, and agricultural aviation operators serving the local farming community.\n\n",
+  "transport_tips": "Getting to Lock Airport requires a private vehicle, as there is no public transport to the airfield. The township of Lock is only a short drive from the airport, and the nearest major regional center, Port Lincoln, is roughly 130 km to the south. Fuel and supplies should be arranged in advance, as services in this remote area are limited.",
+  "local_tip": "If you're flying in for a visit, time your trip around the local grain harvest season (roughly October to January) to experience the region's agricultural heritage and see why this airport exists in the first place.",
+  "generatedAt": "2026-06-28T02:31:26.770Z",
+  "model": "MiniMax-M3"
+}

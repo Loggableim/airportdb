@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RNB",
+    "icao": "ESDF",
+    "name": "Ronneby Airport",
+    "country": "Sweden",
+    "city": "Ronneby",
+    "lat": 56.2667,
+    "lon": 15.265,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ronneby Airport (RNB) is a regional airport serving the Blekinge County region in southeastern Sweden, located near the city of Ronneby and not far from Karlskrona. The airport shares its grounds with the historic Kallinge Air Base, home to the Swedish Air Force wing F 17, making it one of Sweden's notable dual-use civil-military airfields. It primarily serves domestic routes to Stockholm and caters to travelers visiting the coastal Blekinge archipelago.",
+  "faqs": "Q: What destinations can I fly to from Ronneby Airport?\nA: The airport mainly offers domestic flights to Stockholm, typically Stockholm Bromma, operated by regional carriers. Seasonal charter flights may also be available.\n\nQ: How far is the airport from Ronneby city center?\nA: Ronneby Airport is approximately 8 km southwest of Ronneby town center, with a typical drive taking around 10-15 minutes.\n\nQ: Does the airport operate 24 hours?\nA: No, the airport has limited operating hours that align with scheduled flight times. It is not a 24-hour facility, so check your flight schedule in advance.\n\nQ: Is the airport shared with a military base?\nA: Yes, Ronneby Airport shares infrastructure with F 17 Kallinge, a Swedish Air Force wing, which gives the location significant military aviation heritage.",
+  "transport_tips": "The most convenient way to reach the airport is by taxi or pre-booked private transfer from Ronneby or nearby Karlskrona, as public transit connections are limited. Rental cars are available at the terminal for travelers exploring the wider Blekinge region. If driving, the airport is easily accessed via the E22 motorway, with clear signage directing to the terminal.",
+  "local_tip": "If you have time before your flight, ask about visiting the nearby Ronneby Brunn park, a historic spa resort area with beautiful walking trails just a short drive from the terminal.",
+  "generatedAt": "2026-06-29T05:53:59.752Z",
+  "model": "MiniMax-M3"
+}

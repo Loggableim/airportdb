@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UES",
+    "icao": "KUES",
+    "name": "Waukesha County Airport",
+    "country": "United States",
+    "city": "Waukesha",
+    "lat": 43.041,
+    "lon": -88.2371,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Waukesha County Airport is a general aviation reliever airport serving the western suburbs of the Milwaukee metropolitan area in southeastern Wisconsin. Operated by Waukesha County, it provides an alternative to Milwaukee Mitchell International Airport for private, corporate, and recreational aviation. The airport is home to multiple flight schools, aircraft maintenance facilities, and serves as a base for business aviation in the region.",
+  "faqs": "Q: What type of airport is Waukesha County Airport?\nA: It is a publicly owned general aviation reliever airport operated by Waukesha County, primarily serving private, business, and recreational aircraft.\n\nQ: Does Waukesha County Airport offer commercial airline service?\nA: No, the airport does not have scheduled commercial airline service. It is used for general aviation, corporate flights, flight training, and air charter operations.\n\nQ: What facilities are available at the airport?\nA: The airport features multiple fixed-base operators (FBOs), aircraft maintenance and repair shops, flight schools, fueling services, and hangar facilities.\n\nQ: How does this airport relate to Milwaukee Mitchell International?\nA: Waukesha County Airport serves as a reliever airport, helping to reduce traffic congestion at Milwaukee Mitchell by accommodating general aviation activity in the region.",
+  "transport_tips": "The airport is conveniently located near Interstate 94, making it accessible from downtown Milwaukee and surrounding communities by car. Rental cars and rideshare services such as Uber and Lyft are typically available in the area, though on-demand availability may be limited compared to larger airports. Taxi services can also be arranged in advance through local providers.",
+  "local_tip": "If you are visiting for a flight lesson or aircraft rental, call ahead to arrange FBO access, as some gates and facilities may be locked outside of staffed hours.",
+  "generatedAt": "2026-06-27T01:31:12.395Z",
+  "model": "MiniMax-M3"
+}

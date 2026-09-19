@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IST",
+    "icao": "LTFM",
+    "name": "İstanbul Airport",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "lat": 41.2749,
+    "lon": 28.7321,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Istanbul Airport (IST) is Turkey's flagship international hub, opened in October 2018 and serving as the main airport for Istanbul after operations fully transferred from the older Atatürk Airport in April 2019. Located in the Arnavutköy district on the European side of the city, it is one of the largest airports in the world by passenger capacity, featuring a single large terminal with a distinctive tulip-inspired architectural design. The airport serves as a major transit point connecting Europe, Asia, and the Middle East, and is operated by IGA.",
+  "faqs": "Q: How far is Istanbul Airport from the city center?\nA: Istanbul Airport is approximately 35-40 km north of the historic city center (Sultanahmet), with typical travel times of 40-90 minutes depending on traffic and mode of transport.\n\nQ: Is there a hotel inside the airport?\nA: Yes, there is a transit hotel and sleeping pods in the airside area, plus several hotels near the airport accessible by shuttle for longer stays.\n\nQ: Does Istanbul Airport have free Wi-Fi?\nA: Yes, the airport offers complimentary Wi-Fi throughout the terminal after a simple registration through the IST network.\n\nQ: Can I use my Istanbul layover to visit the city?\nA: Yes, with most layovers of 6+ hours you can comfortably visit central Istanbul using the metro or airport buses, though allow extra time for security and transfers.",
+  "transport_tips": "The Halkali-Istanbul Airport metro line connects directly to the city center and is the most reliable way to avoid Istanbul's notorious traffic, taking roughly 35-60 minutes. The HAVAIST airport shuttle buses serve many key districts including Taksim, Sultanahmet, and Kadıköy at a fraction of the cost of taxis. Taxis and ride-shares are readily available but can be significantly more expensive and slower during rush hour (7-10 AM and 5-8 PM).",
+  "local_tip": "If you have a long layover, look for the Yotel-style sleeping cabins in the international transit area—they're bookable by the hour and offer a quiet refuge from the busy terminal. Also, grab a Turkish simit or fresh-squeezed pomegranate juice from one of the local vendors in the food court for an authentic taste without leaving the airport.",
+  "generatedAt": "2026-06-28T18:11:58.561Z",
+  "model": "MiniMax-M3"
+}

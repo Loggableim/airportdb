@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CKH",
+    "icao": "UESO",
+    "name": "Chokurdakh Airport",
+    "country": "Russia",
+    "city": "Chokurdah",
+    "lat": 70.6231,
+    "lon": 147.902,
+    "type": "medium_airport",
+    "size": 550
+  },
+  "summary": "Chokurdakh Airport (CKH/UESO) serves the remote settlement of Chokurdakh in the Sakha Republic (Yakutia), Russian Far East, situated near the Alazeya River close to the Arctic Circle. The medium-sized airfield functions as a vital lifeline for the isolated community, providing essential passenger and cargo connections to regional hubs like Yakutsk. Given the surrounding tundra landscape and extreme subarctic climate, it plays a critical role in year-round accessibility.",
+  "faqs": "Q: What is the main purpose of Chokurdakh Airport?\nA: The airport primarily serves the remote settlement of Chokurdakh, providing essential passenger and supply links to larger cities in Yakutia since road access is limited by the harsh terrain.\n\nQ: Are there regular flights to Chokurdakh?\nA: Yes, scheduled passenger flights operate primarily to and from Yakutsk, typically using smaller turboprop aircraft suited for the regional conditions.\n\nQ: When is the airport most affected by weather?\nA: Winter months bring extreme cold and reduced visibility, while summer can present fog and soft runway conditions, occasionally causing delays or diversions.\n\nQ: Is Chokurdakh Airport used for cargo?\nA: Yes, cargo flights are important for delivering food, fuel, and supplies to the community, especially during the long winter season.\n\n",
+  "transport_tips": "The airport is located just outside the settlement of Chokurdakh, and visitors typically reach it via short taxi or shuttle rides arranged locally. There is no rail or major road connection to the settlement, making air travel the primary means of access. Travelers should arrange ground transport in advance, as local vehicles may be limited.\n\n",
+  "local_tip": "Pack layered clothing even in summer—temperatures can swing dramatically in the tundra, and a windproof outer layer is essential when stepping off the plane onto the open apron.",
+  "generatedAt": "2026-06-29T17:39:23.584Z",
+  "model": "MiniMax-M3"
+}

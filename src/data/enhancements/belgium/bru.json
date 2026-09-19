@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BRU",
+    "icao": "EBBR",
+    "name": "Brussels Airport",
+    "country": "Belgium",
+    "city": "Zaventem",
+    "lat": 50.9014,
+    "lon": 4.4844,
+    "type": "large_airport",
+    "size": 1024675
+  },
+  "summary": "Brussels Airport (BRU/EBBR) is Belgium's largest international airport, located in the municipality of Zaventem, approximately 12 km northeast of Brussels city center. Originally built as a military airfield in 1940, it transitioned to civilian use after World War II and has grown into one of Europe's busiest cargo hubs and the primary gateway for Belgian air travel. It serves as the main hub for Brussels Airlines and is notable for housing a fully integrated train station directly beneath its terminal building.",
+  "faqs": "Q: How far is Brussels Airport from the city center?\nA: The airport is about 12 km northeast of central Brussels, in the town of Zaventem. The train journey from Brussels Airport station to Brussels Central takes roughly 15-20 minutes.\n\nQ: Is there a train station at Brussels Airport?\nA: Yes, the airport has its own dedicated train station located directly below the terminal. It is served by frequent Intercity and local trains connecting to Brussels and other Belgian cities.\n\nQ: Which airlines use Brussels Airport as a hub?\nA: Brussels Airlines operates its main hub here, with TUI fly Belgium also maintaining a significant base. Many other major carriers including Lufthansa, Ryanair, and easyJet operate extensive services.\n\nQ: Does the airport operate 24 hours?\nA: Brussels Airport has operating hours typically from around 5:00 AM to 1:00 AM, though specific schedules may vary by airline and seasonal demand.",
+  "transport_tips": "The most efficient way to reach Brussels city center is via the train from the airport's underground station, with direct services to all three Brussels main stations running every 10-15 minutes. A dedicated bus line (Line 12/21) also connects to the European Quarter and Luxembourg Square, while taxis to the city center generally cost between €40-€55 and take around 25 minutes depending on traffic.",
+  "local_tip": "Frequent travelers recommend booking a parking spot in the long-term Lot P3 area rather than short-term lots if leaving your car for more than a couple of days—it offers a reliable shuttle to the terminal at a fraction of the price. Also, the airport's Connector building links all departure halls post-security, so once airside you can easily walk between piers without additional security screening.",
+  "generatedAt": "2026-06-28T14:58:54.902Z",
+  "model": "MiniMax-M3"
+}

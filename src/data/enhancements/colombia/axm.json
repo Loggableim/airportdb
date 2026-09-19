@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AXM",
+    "icao": "SKAR",
+    "name": "El Eden Airport",
+    "country": "Colombia",
+    "city": "Armenia",
+    "lat": 4.4528,
+    "lon": -75.7664,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "El Eden Airport (AXM) serves Armenia, the capital of Colombia's Quindío Department, located in the heart of the country's renowned Coffee Cultural Landscape (Eje Cafetero), a UNESCO World Heritage region. The airport provides essential air access to one of Colombia's most popular tourist areas, known for its coffee plantations, Cocora Valley, and colorful pueblos. It handles primarily domestic flights connecting the coffee region to major cities like Bogota and Medellin.",
+  "faqs": "Q: What is the airport code for El Eden Airport?\nA: The IATA code is AXM and the ICAO code is SKAR.\n\nQ: Which airlines operate at El Eden Airport?\nA: The airport is mainly served by Colombian domestic carriers, including Avianca, LATAM Colombia, and regional airlines connecting to Bogota, Medellin, and other major cities.\n\nQ: How far is El Eden Airport from Armenia city center?\nA: The airport is located approximately 15-20 kilometers southwest of Armenia's downtown area, with a typical drive time of 25-35 minutes depending on traffic.\n\nQ: Does the airport have international flights?\nA: No, El Eden Airport primarily handles domestic flights only, with no scheduled international service.\n\n",
+  "transport_tips": "Taxis and rideshare services are readily available outside the terminal and are the most convenient way to reach Armenia or nearby towns like Salento. Shared shuttle services and colectivos can be arranged for budget-friendly transfers to popular destinations in the coffee region. Rental car agencies operate at the airport, which is recommended if you plan to explore the surrounding countryside independently.",
+  "local_tip": "If you have a short layover or early morning arrival, the airport café serves excellent Colombian coffee from local Quindío growers—ask for a 'tinto' or a properly prepared pour-over to start your visit the way locals do.",
+  "generatedAt": "2026-06-29T09:04:23.026Z",
+  "model": "MiniMax-M3"
+}

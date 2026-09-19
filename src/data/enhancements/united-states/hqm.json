@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HQM",
+    "icao": "KHQM",
+    "name": "Bowerman Airport",
+    "country": "United States",
+    "city": "Hoquiam",
+    "lat": 46.9712,
+    "lon": -123.937,
+    "type": "medium_airport",
+    "size": 400
+  },
+  "summary": "Bowerman Airport is a medium-sized general aviation facility serving the twin cities of Hoquiam and Aberdeen on Washington's scenic Grays Harbor. Nestled near the Pacific coast and the eastern slopes of the Olympic Peninsula, the airport primarily supports private aviation, flight training, and business travel for the surrounding timber and fishing communities. Its coastal location offers convenient access to the Olympic National Park and the Pacific beaches of southwest Washington.",
+  "faqs": "Q: What types of flights operate from Bowerman Airport?\nA: The airport primarily serves general aviation, including private pilots, flight training, and corporate flights. There are no scheduled commercial passenger services.\n\nQ: How far is Bowerman Airport from the Pacific Ocean?\nA: The airport is located just a few miles inland from Grays Harbor and the Pacific coast, offering quick access to coastal Washington destinations.\n\nQ: Are there rental cars available at the airport?\nA: Rental car availability is limited; travelers typically arrange ground transportation in advance through local agencies in Hoquiam or Aberdeen.\n\nQ: Can the airport accommodate larger business jets?\nA: Yes, the runway is suitable for most small to mid-size business aircraft, making it a practical option for corporate visitors to the Grays Harbor region.",
+  "transport_tips": "The airport is a short drive from downtown Hoquiam and neighboring Aberdeen, typically reachable within 10 minutes by car. Limited taxi and rideshare services operate in the area, so arranging ground transportation in advance is recommended. US Route 101 provides easy road access connecting the airport to broader Pacific Northwest destinations.",
+  "local_tip": "If you're flying in for outdoor recreation, Bowerman's location makes it an ideal jumping-off point for exploring Olympic National Park's lesser-visited eastern entrances, where crowds thin out compared to the more popular Hurricane Ridge area.",
+  "generatedAt": "2026-06-30T01:08:39.025Z",
+  "model": "MiniMax-M3"
+}

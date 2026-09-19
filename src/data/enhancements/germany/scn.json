@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SCN",
+    "icao": "EDDR",
+    "name": "Saarbrücken Airport",
+    "country": "Germany",
+    "city": "Saarbrücken",
+    "lat": 49.2145,
+    "lon": 7.1097,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Saarbrücken Airport (SCN) is a regional airport serving the Saarland state in southwestern Germany, located just outside the state capital near the French border. It functions as a convenient gateway for the Saar region and parts of neighboring Lorraine, France. The airport primarily handles holiday charter flights and a small number of scheduled routes, serving roughly half a million passengers annually.",
+  "faqs": "Q: How far is Saarbrücken Airport from the city center?\nA: The airport is approximately 15 km southeast of Saarbrücken city center, typically a 15–20 minute drive by car or taxi.\n\nQ: Does the airport have international connections?\nA: Yes, it operates several seasonal and charter routes to Mediterranean leisure destinations, though its scheduled service is limited. Its proximity to France also makes cross-border travel practical.\n\nQ: Are there customs and immigration facilities at Saarbrücken Airport?\nA: As a German international airport, it has the necessary facilities to handle flights to and from non-Schengen destinations, though most scheduled traffic stays within the Schengen Area.\n\nQ: What facilities are available inside the terminal?\nA: The terminal offers standard amenities including a restaurant, café, car rental desks, and duty-free shopping, though the airport is compact and easy to navigate.",
+  "transport_tips": "The R10 regional bus connects the airport directly to Saarbrücken's main railway station and city center, running regularly throughout the day. Taxis from the airport to the city are reasonably priced given the short distance, and the A6 motorway provides easy access for those driving. Rideshare services are also available, though booking in advance is recommended for early morning flights.",
+  "local_tip": "Many travelers don't realize that Saarbrücken Airport is closer to several French towns (like Sarreguemines) than to central Saarbrücken itself, making it a useful option for visitors exploring the broader Saar-Lor-Lux cross-border region.",
+  "generatedAt": "2026-06-29T05:03:17.259Z",
+  "model": "MiniMax-M3"
+}

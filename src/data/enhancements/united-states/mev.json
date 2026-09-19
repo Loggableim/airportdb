@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MEV",
+    "icao": "KMEV",
+    "name": "Minden-Tahoe Airport",
+    "country": "United States",
+    "city": "Minden",
+    "lat": 39.0003,
+    "lon": -119.751,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Minden-Tahoe Airport is a general aviation airport nestled in the Carson Valley of western Nevada, about 25 miles south of Lake Tahoe. It sits at roughly 4,720 feet elevation and is well-regarded among pilots for its typically clear flying weather and proximity to Sierra Nevada recreation. The airport serves as a convenient alternative to the larger Reno-Tahoe International for private and general aviation traffic heading to the Tahoe region.",
+  "faqs": "Q: Does Minden-Tahoe Airport offer commercial airline service?\nA: No, MEV is a general aviation-only facility with no scheduled commercial flights. Travelers typically use Reno-Tahoe International for commercial service.\n\nQ: How far is the airport from Lake Tahoe?\nA: The south shore of Lake Tahoe is approximately 25-30 miles northwest, accessible by a roughly 45-minute drive over Daggett Pass.\n\nQ: Are there flight schools or FBOs at the airport?\nA: Yes, Minden-Tahoe hosts multiple fixed-base operators (FBOs) offering fuel, hangar space, aircraft rental, and flight training services.\n\nQ: What is the airport's elevation?\nA: The field elevation is approximately 4,722 feet above sea level, which pilots should account for during takeoff and landing performance calculations.",
+  "transport_tips": "Rental cars are the most practical option for reaching the airport and are available through on-site",
+  "local_tip": "",
+  "generatedAt": "2026-06-27T00:04:40.996Z",
+  "model": "MiniMax-M3"
+}

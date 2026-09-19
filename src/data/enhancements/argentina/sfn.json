@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SFN",
+    "icao": "SAAV",
+    "name": "Sauce Viejo Airport",
+    "country": "Argentina",
+    "city": "Santa Fe",
+    "lat": -31.7117,
+    "lon": -60.8117,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sauce Viejo Airport serves the city of Santa Fe, the capital of Santa Fe Province in central-eastern Argentina. Located approximately 17 km south of the city center near the town of Sauce Viejo, it functions as the main aerial gateway for the region, handling domestic flights primarily to Buenos Aires. The airport sits in the flat, fertile Pampas landscape characteristic of the area along the Paraná River.",
+  "faqs": "Q: How far is Sauce Viejo Airport from downtown Santa Fe?\nA: The airport is located about 17 km south of Santa Fe city center, with a typical drive taking 25-40 minutes depending on traffic.\n\nQ: What airlines operate at Sauce Viejo Airport?\nA: The airport primarily serves domestic flights, with Aerolíneas Argentinas offering regular service to Buenos Aires (Aeroparque).\n\nQ: Does the airport have international flights?\nA: No, Sauce Viejo is a domestic-only airport. The nearest international gateway is Rosario's Islas Malvinas Airport or Buenos Aires Ezeiza.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic amenities including a café, car rental counters, and waiting areas, though it is a relatively small facility.",
+  "transport_tips": "The most common way to reach the airport is by taxi or remise (private hire car), which can be arranged in advance or hailed in Santa Fe. Public bus service also connects the airport to the city center, though schedules are limited. Renting a car at the airport is possible but availability is modest, so booking ahead is recommended during peak travel periods.",
+  "local_tip": "If traveling during the warmer months (November-March), bring insect repellent for the outdoor walk to/from your transport, as the airport's surrounding area near the Paraná river system can be mosquito-heavy, especially after rain.",
+  "generatedAt": "2026-06-29T09:34:22.803Z",
+  "model": "MiniMax-M3"
+}

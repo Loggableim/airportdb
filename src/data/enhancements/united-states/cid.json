@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CID",
+    "icao": "KCID",
+    "name": "The Eastern Iowa Airport",
+    "country": "United States",
+    "city": "Cedar Rapids",
+    "lat": 41.8847,
+    "lon": -91.7108,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "The Eastern Iowa Airport (CID) is a medium-sized public airport located in Cedar Rapids, Iowa, serving the state's eastern corridor including Cedar Rapids, Iowa City, and the broader Cedar Rapids–Iowa City metropolitan area. Originally established in the 1940s, the airport serves as a key regional hub with a single terminal complex handling domestic flights. It is owned and operated by the Cedar Rapids Airport Commission and features modernized facilities following significant terminal renovations completed in the 2010s.",
+  "faqs": "Q: How far is The Eastern Iowa Airport from downtown Cedar Rapids?\nA: The airport is located approximately 7 miles southwest of downtown Cedar Rapids, typically a 15-20 minute drive depending on traffic.\n\nQ: Does The Eastern Iowa Airport offer nonstop international flights?\nA: No, CID primarily offers domestic flights, with connections to major hub airports required for international travel.\n\nQ: What airlines operate from The Eastern Iowa Airport?\nA: The airport is served by several major U.S. carriers including American Airlines, Delta, United, and Allegiant, offering nonstop service to hub cities.\n\nQ: Is there a military presence at The Eastern Iowa Airport?\nA: Yes, CID shares facilities with the Iowa Air National Guard, which operates from the adjacent base.",
+  "transport_tips": "Rideshare services like Uber and Lyft are available for pickup and drop-off at the terminal's designated rideshare area. Rental car counters are located inside the terminal with major agencies represented on-site. For those driving, the airport offers ample short-term and long-term parking lots with shuttle service to the terminal.",
+  "local_tip": "If you have time before your flight, head to the second-floor observation area near the main concourse for a good view of aircraft activity and the co-located Air National Guard facilities—a nice quiet spot away from the gate crowds.",
+  "generatedAt": "2026-06-29T02:11:40.182Z",
+  "model": "MiniMax-M3"
+}

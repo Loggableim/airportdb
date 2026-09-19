@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LVS",
+    "icao": "KLVS",
+    "name": "Las Vegas Municipal Airport",
+    "country": "United States",
+    "city": "Las Vegas",
+    "lat": 35.6542,
+    "lon": -105.142,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Las Vegas Municipal Airport (LVS) is a general aviation facility serving the historic community of Las Vegas, New Mexico, located in the northeastern part of the state amid the Sangre de Cristo Mountains. The airport supports private, charter, and emergency aviation operations for the region, which is known for its well-preserved Route 66 heritage and Victorian-era architecture. It also plays a role in wildfire response and medical air transport for the surrounding rural areas.",
+  "faqs": "Q: Where is Las Vegas Municipal Airport located?\nA: The airport is situated in Las Vegas, New Mexico, approximately 2 miles southeast of the city center, in the foothills of the Sangre de Cristo Mountains.\n\nQ: Does Las Vegas Municipal Airport offer commercial airline service?\nA: No, LVS is a general aviation airport with no scheduled commercial passenger service. It primarily serves private pilots, charter flights, and emergency operations.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, aircraft parking, fueling services, and tie-down spaces for general aviation aircraft, along with basic pilot amenities.\n\nQ: Can the airport handle larger aircraft?\nA: The airport's runway can accommodate moderate-sized general aviation and turboprop aircraft, but it is not designed for large commercial jets.",
+  "transport_tips": "The airport is only a short drive from downtown Las Vegas, NM, making taxi or rideshare the most convenient option, though pre-arrangement is recommended as services can be limited. Rental cars are available in town and provide flexibility for exploring the surrounding region including Santa Fe and the Sangre de Cristo Mountains. Having your own vehicle or arranging ground transport in advance is strongly advised, as on-demand options are sparse compared to larger cities.",
+  "local_tip": "Stop by the Plaza Hotel on the town plaza in Las Vegas, NM—a historic landmark where Billy the Kid once stayed. The hotel's dining room and old-world saloon are a favorite among visiting pilots and a great way to experience the town's authentic Route 66 and Victorian heritage.",
+  "generatedAt": "2026-06-26T07:26:05.606Z",
+  "model": "MiniMax-M3"
+}

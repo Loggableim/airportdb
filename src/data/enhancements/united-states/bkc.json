@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BKC",
+    "icao": "PABL",
+    "name": "Buckland Airport",
+    "country": "United States",
+    "city": "Buckland",
+    "lat": 65.9816,
+    "lon": -161.149,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Buckland Airport (BKC/PABL) is a small public-use airport serving the remote Iñupiat community of Buckland in the Northwest Arctic Borough of Alaska. Located along the Buckland River about 75 miles southeast of Kotzebue, it functions as a critical lifeline for this isolated village, which has no road connection to the rest of the state. The airport primarily supports bush planes and small commuter aircraft that deliver passengers, mail, and essential supplies year-round.",
+  "faqs": "Q: What is Buckland Airport used for?\nA: It primarily serves as a transportation hub for the remote village of Buckland, supporting passenger travel, mail delivery, and cargo flights since the community lacks road access.\n\nQ: Are there commercial flights to Buckland Airport?\nA: Scheduled passenger service is limited and typically operated by small regional carriers using bush planes, as the airport lacks infrastructure for larger jet aircraft.\n\nQ: Can you drive to Buckland?\nA: No, Buckland is not connected to Alaska's road system. Travel to and from the village is primarily by air, with seasonal options by boat or snowmachine depending on conditions.\n\nQ: What weather should travelers expect?\nA: Expect extreme sub-Arctic conditions with long, cold winters and short summers. Fog, snow, and high winds can cause flight delays, especially during shoulder seasons.",
+  "transport_tips": "Since Buckland has no road access, flying is the only reliable way to reach the airport year-round. Travelers should book accommodations and connecting flights through Kotzebue, the regional hub, and prepare for potential weather-related delays. Ground transport in Buckland is typically arranged locally, often by ATV or by coordinating with hosts in advance.",
+  "local_tip": "Pack all essential medications and backup supplies in your carry-on—cargo flights occasionally get bumped or delayed, and resupplying in a village of around 400 people is not like resupplying in Anchorage.",
+  "generatedAt": "2026-06-26T16:48:50.909Z",
+  "model": "MiniMax-M3"
+}

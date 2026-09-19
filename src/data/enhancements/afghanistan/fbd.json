@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FBD",
+    "icao": "OAFZ",
+    "name": "Fayzabad Airport",
+    "country": "Afghanistan",
+    "city": "Fayzabad",
+    "lat": 37.1221,
+    "lon": 70.5201,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Fayzabad Airport (FBD/OAFZ) is a small regional airport serving Fayzabad, the capital of Afghanistan's remote Badakhshan Province in the far northeastern corner of the country. The airport provides a vital air link to a mountainous region bordered by Tajikistan, Pakistan, and China, where road travel is slow and often disrupted by terrain and weather. Scheduled commercial service is limited, with much of the traffic historically consisting of charter, humanitarian, and government flights supporting the isolated province.",
+  "faqs": "Q: Are there regular commercial flights to Fayzabad Airport?\nA: Scheduled service is very limited and inconsistent; travelers often rely on charter flights or connections through Kabul, depending on current operating conditions.\n\nQ: Where is Fayzabad Airport located relative to the city?\nA: The airport is situated just outside Fayzabad town, the capital of Badakhshan Province in northeastern Afghanistan, near the Kokcha River valley.\n\nQ: What is the region around Fayzabad known for?\nA: Badakhshan Province is known for its rugged Hindu Kush and Pamir mountain landscapes and is one of the world's primary sources of lapis lazuli.\n\nQ: Can the airport handle large aircraft?\nA: The short runway and mountainous terrain restrict operations primarily to small turboprop aircraft and helicopters.",
+  "transport_tips": "Getting from the airport to central Fayzabad is typically a short drive of around 5 to 10 minutes by local taxi or arranged vehicle. Road travel to and from other major Afghan cities is long and challenging, often taking many days through mountain passes, making air transport the preferred option. Travelers should arrange ground transport in advance, as formal airport taxis are limited.",
+  "local_tip": "Flights are highly weather-dependent due to surrounding mountain peaks, so building at least a buffer day into your travel plans is wise, as delays or diversions are common in winter and early spring.",
+  "generatedAt": "2026-06-26T15:58:21.315Z",
+  "model": "MiniMax-M3"
+}

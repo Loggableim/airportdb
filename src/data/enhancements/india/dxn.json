@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DXN",
+    "icao": "VIND",
+    "name": "Noida International Airport",
+    "country": "India",
+    "city": "Gautam Buddha Nagar",
+    "lat": 28.1799,
+    "lon": 77.6118,
+    "type": "large_airport",
+    "size": 850
+  },
+  "summary": "Noida International Airport (DXN/VIND), also known as Jewar Airport, is a major new greenfield airport in Gautam Buddha Nagar district, Uttar Pradesh, serving the National Capital Region. It is being developed and operated by Zurich Airport International AG under a long-term concession and is designed to eventually become one of India's largest aviation hubs. The airport aims to significantly ease congestion at Delhi's Indira Gandhi International Airport while boosting connectivity in western Uttar Pradesh.",
+  "faqs": "Q: How far is Noida International Airport from central Delhi?\nA: The airport is approximately 70–80 km from central Delhi, with travel times varying significantly based on traffic conditions.\n\nQ: Which airlines operate from Noida International Airport?\nA: Several domestic carriers including IndiGo and Akasa Air have launched operations from DXN, with international services expected to follow as the airport expands.\n\nQ: Is the airport fully operational?\nA: The airport opened in a phased manner, with the first commercial flights commencing in late 2023 and additional terminals, runways, and facilities being added in subsequent phases.\n\nQ: Can I use the Delhi Metro to reach the airport?\nA: Direct metro connectivity is still under development, so travelers currently rely on road transport, taxis, or app-based ride services to reach the airport.",
+  "transport_tips": "The Yamuna Expressway is the primary road link connecting the airport to Delhi, Noida, and Agra, making private cars and taxis the most common access option. Allow at least 2.5–3 hours of travel time from central Delhi during peak hours, as congestion near Noida can be significant. Dedicated airport buses and shuttle services are being rolled out as the airport expands, so check",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T01:52:26.682Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LVA",
+    "icao": "LFOV",
+    "name": "Laval-Entrammes Airport",
+    "country": "France",
+    "city": "Laval, Mayenne",
+    "lat": 48.0322,
+    "lon": -0.744,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Laval-Entrammes Airport (LVA/LFOV) is a medium-sized regional airport serving Laval, the capital of the Mayenne department in the Pays de la Loire region of northwestern France. It primarily handles general aviation, business flights, and private operations, supporting the local economy and connecting the rural area to broader aviation networks. The airport also hosts aeronautical activities including flying clubs and light aircraft training.",
+  "faqs": "Q: What is the IATA code for Laval-Entrammes Airport?\nA: The IATA code is LVA, and the ICAO code is LFOV.\n\nQ: Does Laval-Entrammes Airport offer commercial passenger flights?\nA: The airport primarily serves general aviation, private aircraft, and business flights rather than scheduled commercial passenger services.\n\nQ: What activities are available at the airport?\nA: The airport hosts flying clubs, flight training, private aviation, and occasional business aviation operations.\n\nQ: Where is the airport located relative to Laval city center?\nA: Laval-Entrammes Airport is situated near Entrammes, a short distance northeast of Laval in the Mayenne department.",
+  "transport_tips": "The airport is located a few kilometers from Laval city center, making it easily accessible by car via the D21 or local roads. Taxi services are available from Laval, and rental cars can be arranged for travelers needing flexible ground transportation. Visitors without a car may need to pre-arrange transport, as public transit options directly to the airport are limited.",
+  "local_tip": "If you enjoy regional French cuisine, take advantage of your visit to try the local Mayenne specialty 'mogettes' (slow-cooked white beans) paired with regional cheeses at a traditional restaurant in Laval's old town.",
+  "generatedAt": "2026-06-26T09:09:50.083Z",
+  "model": "MiniMax-M3"
+}

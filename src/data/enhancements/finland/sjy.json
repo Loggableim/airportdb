@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SJY",
+    "icao": "EFSI",
+    "name": "Seinäjoki Airport",
+    "country": "Finland",
+    "city": "Seinäjoki / Ilmajoki",
+    "lat": 62.6921,
+    "lon": 22.8323,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Seinäjoki Airport (SJY/EFSI) is a regional airport located in Ilmajoki, serving the city of Seinäjoki in the South Ostrobothnia region of western Finland. It primarily handles scheduled domestic flights, offering a convenient alternative to larger hubs for residents of the surrounding rural communities. The airport features a single runway and is known for its compact, easy-to-navigate terminal that reflects the practical character of the region.",
+  "faqs": "Q: What airlines operate from Seinäjoki Airport?\nA: The airport has historically been served by Finnair and its regional partners, primarily offering domestic connections to Helsinki.\n\nQ: How far is the airport from Seinäjoki city center?\nA: The airport is located in neighboring Ilmajoki municipality, approximately 15-20 km south of Seinäjoki city center.\n\nQ: Does Seinäjoki Airport have international flights?\nA: The airport primarily handles domestic flights, with international travelers typically using Helsinki-Vantaa Airport.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport provides parking facilities near the terminal building for short and long-term stays.\n\n",
+  "transport_tips": "The most common way to reach the airport is by car or taxi, with the drive from Seinäjoki city center taking roughly 20 minutes via regional roads. Rental cars are available at the terminal, and advance booking is recommended given the airport's smaller scale of operations. Bus connections are limited, so arranging private transport or a taxi in advance is advisable, especially for early morning departures.",
+  "local_tip": "Frequent travelers recommend checking in online before arriving, as the small terminal has fewer staff and the process moves much faster when boarding passes are already in hand. Additionally, consider grabbing coffee and a Karelian pastry (karjalanpiirakka) from local shops in Seinäjoki before heading to the airport, as terminal food options are limited.",
+  "generatedAt": "2026-06-29T09:34:46.213Z",
+  "model": "MiniMax-M3"
+}

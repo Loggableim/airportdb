@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RSA",
+    "icao": "SAZR",
+    "name": "Santa Rosa Airport",
+    "country": "Argentina",
+    "city": "Santa Rosa",
+    "lat": -36.5883,
+    "lon": -64.2757,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Santa Rosa Airport (RSA/SAZR) is a medium-sized regional airport serving the city of Santa Rosa, capital of La Pampa Province in central Argentina. Situated on the Pampas plains, it primarily handles domestic flights and is a key access point for travelers exploring the region's agricultural landscapes and steppe ecosystems. The airport provides essential connectivity for both business and tourist travel to this often-overlooked part of Argentina.",
+  "faqs": "Q: Which airlines operate from Santa Rosa Airport?\nA: The airport is mainly served by domestic Argentine carriers providing flights to Buenos Aires and other regional destinations.\n\nQ: How far is the airport from Santa Rosa city center?\nA: The airport is located a short drive from the city, making it convenient for quick access to and from the urban area.\n\nQ: Does Santa Rosa Airport have international flights?\nA: No, the airport primarily operates domestic flights within Argentina and does not handle scheduled international services.\n\nQ: What facilities are available at the terminal?\nA: As a medium-sized regional airport, it offers standard passenger amenities including a waiting area, basic check-in services, and car rental options.\n\n",
+  "transport_tips": "Taxis and remise services (pre-booked private cars) are the most common options for getting to and from the airport, with the city center typically just a short ride away. Car rental agencies operate at or near the terminal, which is useful for travelers planning to explore La Pampa's rural attractions. Rideshare apps have limited availability in Santa Rosa, so arranging transport in advance is recommended.",
+  "local_tip": "If you have time between flights, ask the locals about visiting the nearby Laguna Don Tomás or the provincial museum—La Pampa's natural and cultural offerings are often overlooked gems that most travelers miss.",
+  "generatedAt": "2026-06-29T10:09:15.311Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BBX",
+    "icao": "KLOM",
+    "name": "Wings Field",
+    "country": "United States",
+    "city": "Philadelphia",
+    "lat": 40.1375,
+    "lon": -75.2651,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Wings Field is a small general aviation airport situated in Blue Bell, a suburb of Philadelphia in Montgomery County, Pennsylvania. Originally established in the 1930s, it serves private pilots, flight schools, and corporate aviation rather than commercial airlines. The field is notable for its role in regional general aviation and its convenient location near several major roadways in the western Philadelphia suburbs.",
+  "faqs": "Q: Does Wings Field have commercial airline service?\nA: No, Wings Field is a general aviation airport with no scheduled commercial flights. It primarily serves private aircraft, flight training, and corporate jets.\n\nQ: How far is Wings Field from Center City Philadelphia?\nA: The airport is approximately 20 miles northwest of downtown Philadelphia, typically a 30-45 minute drive depending on traffic.\n\nQ: Are there flight training schools at Wings Field?\nA: Yes, Wings Field hosts flight schools and training operations, making it a popular destination for student pilots in the region.\n\nQ: Can the public visit or watch aircraft at Wings Field?\nA: While there is no dedicated spectator area, aviation enthusiasts can sometimes observe activity from nearby public roads or the airport's perimeter.",
+  "transport_tips": "The airport is best reached by car, located near the intersection of Pennsylvania Route 73 (Skippack Pike) and Route 202 in Blue Bell. Rideshare services like Uber and Lyft are available but may have longer wait times due to the suburban location. Visitors from Philadelphia can take I-476 (the Blue Route) north to reach the field in about 30 minutes.",
+  "local_tip": "If you're picking up or dropping off a pilot, the nearby towns of Blue Bell and Ambler offer excellent dining options within a 5-minute drive—Ambler's Butler Avenue is particularly known for its restaurants and is a great way to pass time during a wait.",
+  "generatedAt": "2026-06-27T01:49:54.904Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SGN",
+    "icao": "VVTS",
+    "name": "Tan Son Nhat International Airport",
+    "country": "Vietnam",
+    "city": "Ho Chi Minh City",
+    "lat": 10.8188,
+    "lon": 106.652,
+    "type": "large_airport",
+    "size": 51275
+  },
+  "summary": "Tan Son Nhat International Airport (SGN) is Vietnam's busiest airport, serving the country's largest city, Ho Chi Minh City. Originally established as a French military airfield in the 1920s, it later served as a key U.S. airbase during the Vietnam War before becoming the country's primary civilian gateway. The airport sits roughly 8 kilometers north of the city center and handles tens of millions of passengers annually across its domestic and international terminals.",
+  "faqs": "Q: How far is Tan Son Nhat International Airport from central Ho Chi Minh City?\nA: The airport is approximately 8 km (5 miles) north of District 1, the main tourist and business area, typically a 20-40 minute drive depending on traffic.\n\nQ: Does the airport have separate terminals for domestic and international flights?\nA: Yes, Terminal 1 handles domestic flights while Terminal 2 handles international flights. They are connected and walkable in a few minutes.\n\nQ: Are there currency exchange and ATM services at the airport?\nA: Yes, both currency exchange counters and ATMs are available in the arrivals and departures areas of both terminals.\n\nQ: Is there free Wi-Fi available at Tan Son Nhat?\nA: Yes, free Wi-Fi is offered throughout the terminals, though connection speeds can vary during peak hours.\n\n",
+  "transport_tips": "Taxis and ride-hailing apps like Grab are the most convenient options, with official Mai Linh and Vinasun taxi ranks outside arrivals. The airport does not have a direct metro connection, so allow extra time during rush hours (7-9 AM and 4-7 PM) when traffic on nearby roads can be heavy. Hotel shuttles and some bus routes (such as route 109) also serve the airport for budget travelers.",
+  "local_tip": "If you need to exchange money, skip the airport counters and use an ATM in arrivals for a better rate, or wait until you reach the city center where rates are significantly more favorable.",
+  "generatedAt": "2026-06-28T15:54:20.993Z",
+  "model": "MiniMax-M3"
+}

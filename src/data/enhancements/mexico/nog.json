@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NOG",
+    "icao": "MMNG",
+    "name": "Nogales International Airport",
+    "country": "Mexico",
+    "city": "Nogales",
+    "lat": 31.2258,
+    "lon": -110.9769,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Nogales International Airport (NOG/MMNG) is a regional airport serving the border city of Nogales in Sonora, Mexico, directly across from Nogales, Arizona. It primarily supports general aviation, charter flights, and limited commercial operations for the cross-border region. The airport plays a key role in connecting northwestern Sonora with other parts of Mexico.",
+  "faqs": "Q: What is the airport code for Nogales International Airport?\nA: The IATA code is NOG and the ICAO code is MMNG.\n\nQ: Where is the airport located?\nA: It is located in Nogales, Sonora, Mexico, near the U.S.-Mexico border across from Arizona.\n\nQ: Does the airport offer international flights?\nA: It primarily handles regional and domestic flights, with occasional charter and cross-border general aviation activity.\n\nQ: Are there car rental services at the airport?\nA: Ground transportation options are limited; travelers typically arrange taxis or pre-booked transport in advance.\n\n",
+  "transport_tips": "The airport is located just a short drive from downtown Nogales, Sonora, making taxi or pre-arranged transfers the most practical option. U.S. travelers coming from Arizona should be prepared for border crossing procedures when entering or leaving Mexico. Parking at the airport is generally straightforward due to the low traffic volume.",
+  "local_tip": "Frequent visitors recommend timing flights to avoid peak border crossing congestion at the nearby Mariposa Port of Entry, which can significantly affect travel times between the airport and the United States.",
+  "generatedAt": "2026-06-26T10:33:24.768Z",
+  "model": "MiniMax-M3"
+}

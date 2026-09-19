@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WRO",
+    "icao": "EPWR",
+    "name": "Copernicus Wrocław Airport",
+    "country": "Poland",
+    "city": "Wrocław",
+    "lat": 51.1037,
+    "lon": 16.8821,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Copernicus Wrocław Airport (WRO) is the main international gateway to Lower Silesia in southwestern Poland, named after the renowned astronomer Nicolaus Copernicus. Located approximately 10 km southwest of Wrocław's historic city center, the airport has experienced significant passenger growth, serving as a key hub for both low-cost and legacy carriers. It operates with a single modern terminal handling millions of passengers annually, connecting the region to destinations across Europe.",
+  "faqs": "Q: How far is the airport from Wrocław city center?\nA: The airport is about 10 km southwest of the city center, typically a 20-30 minute drive depending on traffic.\n\nQ: Are there direct public transport connections?\nA: Yes, city bus lines 106 and 129 connect the airport to Wrocław's main railway station and central areas.\n\nQ: Does the airport operate 24 hours?\nA: The airport generally operates during scheduled flight hours, though facilities like parking are accessible around the clock.\n\nQ: Is there free Wi-Fi available?\nA: Yes, complimentary Wi-Fi is available throughout the terminal for passengers.",
+  "transport_tips": "Bus line 106 is the most direct public transport option to the city center and runs frequently during the day. Taxis and ride-sharing services like Uber and Bolt are readily available outside the terminal and offer fixed approximate fares to central Wrocław. For those renting a car, the airport provides easy access to the A4 motorway connecting to other major Polish cities.",
+  "local_tip": "Visit the observation terrace or viewing area on the terminal roof during good weather for a relaxed pre-flight experience with views of arriving aircraft against the Wrocław skyline.",
+  "generatedAt": "2026-06-28T19:35:44.115Z",
+  "model": "MiniMax-M3"
+}

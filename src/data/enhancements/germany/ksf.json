@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KSF",
+    "icao": "EDVK",
+    "name": "Kassel Airport",
+    "country": "Germany",
+    "city": "Calden",
+    "lat": 51.4184,
+    "lon": 9.3916,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kassel Airport, also known as Kassel-Calden Airport, is a regional airport located in the municipality of Calden in the state of Hesse, Germany, approximately 20 kilometers northwest of the city of Kassel. The airport primarily serves the northern Hesse region, offering domestic and seasonal European charter flights. It plays an important role in connecting the region to leisure destinations and supports general aviation activities.",
+  "faqs": "Q: How far is Kassel Airport from the city of Kassel?\nA: The airport is located about 20 km (roughly 30 minutes by car) northwest of Kassel city center in the town of Calden.\n\nQ: What types of flights operate from Kassel Airport?\nA: The airport primarily handles seasonal leisure charter flights to Mediterranean destinations and general aviation traffic. Scheduled commercial service has historically been limited.\n\nQ: Does Kassel Airport have customs and border control facilities?\nA: As a regional airport in the Schengen Area, it can handle flights from other Schengen countries without extensive customs formalities, but services may be limited compared to major international hubs.\n\nQ: Are there facilities for private and business aviation?\nA: Yes, Kassel Airport supports general aviation including private flights, flight training, and small aircraft operations.",
+  "transport_tips": "The most convenient way to reach Kassel Airport is by car via the A44 autobahn, with parking available on site. Limited regional bus services connect the airport to Kassel and surrounding areas, though schedules can be infrequent. Taxi services from Kassel city center typically take around 30 minutes depending on traffic.",
+  "local_tip": "If you have time before or after your flight, consider visiting the nearby Schloss Wilhelmshöhe, a stunning baroque palace with vast parkland and the famous Hercules monument overlooking Kassel — it's a UNESCO World Heritage site well worth the detour.",
+  "generatedAt": "2026-06-28T20:45:39.990Z",
+  "model": "MiniMax-M3"
+}

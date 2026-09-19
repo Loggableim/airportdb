@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TLL",
+    "icao": "EETN",
+    "name": "Lennart Meri Tallinn Airport",
+    "country": "Estonia",
+    "city": "Tallinn",
+    "lat": 59.4132,
+    "lon": 24.8326,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Lennart Meri Tallinn Airport (TLL) is Estonia's main international gateway, located approximately 4 km southeast of Tallinn's medieval Old Town. Named after Lennart Meri, the second President of Estonia (1992–2001), writer, and filmmaker, the airport serves as the primary hub for air travel to and from the Baltic state. It handles around 3 million passengers annually and offers connections to numerous European destinations.",
+  "faqs": "Q: How far is the airport from Tallinn city center?\nA: The airport is approximately 4 km from Tallinn's city center, making it a quick 15–20 minute journey by car or public transport.\n\nQ: What airlines operate from Tallinn Airport?\nA: Tallinn is served by a mix of flag carrier Estonian Air's successors (Nordica), as well as major European carriers including Lufthansa, Ryanair, airBaltic, Finnair, and SAS, among others.\n\nQ: Are there duty-free shops and restaurants at the airport?\nA: Yes, the terminal features several duty-free outlets, cafes, restaurants, and souvenir shops, particularly in the Schengen departure area.\n\nQ: Does the airport have lounges?\nA: Yes, there are business lounges available, including the Tallinn Airport Lounge and airline-specific lounges for premium passengers.",
+  "transport_tips": "Bus line 2 connects the airport to Tallinn city center, while tram line 4 provides service to the Old Town and central areas for just a few euros. Taxis and ride-sharing services are readily available at designated ranks outside the terminal, with the journey to the city center typically costing around €10–15. Car rental agencies are located in the arrivals hall for those wanting to explore Estonia independently.",
+  "local_tip": "If you have a short layover, the medieval Old Town of Tallinn (a UNESCO World Heritage Site) is genuinely close enough for a quick taxi ride—leave your luggage at the airport's left-luggage facility and you can walk the cobblestone streets and return within 3–4 hours.",
+  "generatedAt": "2026-06-28T17:04:16.915Z",
+  "model": "MiniMax-M3"
+}

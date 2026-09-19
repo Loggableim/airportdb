@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VTU",
+    "icao": "MUVT",
+    "name": "Hermanos Ameijeiras Airport",
+    "country": "Cuba",
+    "city": "Las Tunas",
+    "lat": 20.9876,
+    "lon": -76.9358,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Hermanos Ameijeiras Airport (VTU) is a medium-sized regional airport serving Las Tunas, the capital city of Las Tunas Province in eastern Cuba. Named in honor of the Ameijeiras brothers—prominent figures in Cuban history—the airport primarily handles domestic flights connecting this eastern region with Havana and other Cuban destinations. Its modest size reflects the generally light traffic typical of Cuba's interior provincial gateways.",
+  "faqs": "Q: Does Hermanos Ameijeiras Airport offer international flights?\nA: No, VTU primarily serves domestic routes within Cuba, with most flights connecting to Havana's José Martí International Airport.\n\nQ: Which airlines operate at this airport?\nA: The airport is mainly served by Cubana de Aviación, Cuba's national carrier, along with occasional domestic charter operations.\n\nQ: What facilities are available at the terminal?\nA: As a medium-sized regional airport, it offers basic passenger amenities including a small waiting area, check-in counters, and ground transportation services, but limited dining or retail options.\n\nQ: How far is the airport from Las Tunas city center?\nA: The airport is located a short drive from the city center, typically reachable within 10-15 minutes by taxi.\n\n",
+  "transport_tips": "Official yellow taxis and colectivo (shared taxi) services are available outside the terminal for the short trip into Las Tunas city. Fares should be agreed upon before departure, as meters are uncommon. Renting a car locally is difficult, so arranging ground transport in advance or through your hotel is recommended.",
+  "local_tip": "Pack light and arrive early—Cuban regional airports often have unpredictable scheduling and security processing can be slower than international standards, so build in extra buffer time especially for connecting flights to Havana.",
+  "generatedAt": "2026-06-29T15:20:48.561Z",
+  "model": "MiniMax-M3"
+}

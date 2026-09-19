@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ARE",
+    "icao": "TJAB",
+    "name": "Antonio Nery Juarbe Pol Airport",
+    "country": "Puerto Rico",
+    "city": "Arecibo",
+    "lat": 18.4508,
+    "lon": -66.6758,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Antonio Nery Juarbe Pol Airport (ARE) is a regional airport serving Arecibo on Puerto Rico's northern coast. Named after a distinguished Puerto Rican aviator, the facility primarily handles general aviation and limited commercial traffic for the northwestern region of the island. Its location provides convenient access to nearby attractions including the former Arecibo Observatory and the Caguana Indigenous Ceremonial Ball Courts.",
+  "faqs": "Q: Where is Antonio Nery Juarbe Pol Airport located?\nA: The airport is located in Arecibo, on the northern coast of Puerto Rico, approximately 5 km east of the city center.\n\nQ: Does the airport offer commercial flights?\nA: The airport primarily serves general aviation and has limited scheduled commercial service. Travelers should check current schedules as service patterns in Puerto Rico have shifted over the years.\n\nQ: How far is the airport from San Juan?\nA: Antonio Nery Juarbe Pol Airport is roughly 80 km west of San Juan's Luis Muñoz Marín International Airport, about a 1.5-hour drive along PR-22.\n\nQ: Is there public transportation to the airport?\nA: Public transportation options are limited; renting a car or arranging private transport is generally the most practical way to reach the airport.",
+  "transport_tips": "Renting a car is the most convenient option as the airport has limited ground transportation services. Taxis can be arranged in advance from Arecibo town, and the drive to San Juan takes about 75-90 minutes via PR-22. If arriving from eastern Puerto Rico, plan extra time for traffic through the San Juan metropolitan area.",
+  "local_tip": "Pack a light jacket even in summer — the northern coastal location means the airport and surrounding areas tend to be breezy and a few degrees cooler than the island's southern regions, especially during evening flights.",
+  "generatedAt": "2026-06-26T10:12:25.755Z",
+  "model": "MiniMax-M3"
+}

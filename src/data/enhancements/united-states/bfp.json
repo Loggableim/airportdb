@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BFP",
+    "icao": "KBVI",
+    "name": "Beaver County Airport",
+    "country": "United States",
+    "city": "Beaver Falls",
+    "lat": 40.7725,
+    "lon": -80.3914,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Beaver County Airport (BFP) is a public-use general aviation airport located in Beaver Falls, Pennsylvania, serving the western suburbs of Pittsburgh. Situated on approximately 400 acres, the airport primarily supports corporate, recreational, and flight training operations rather than scheduled commercial service. Its single primary runway and convenient proximity to Interstate 76 (Pennsylvania Turnpike) make it a practical gateway for pilots and business travelers visiting the Greater Pittsburgh region.",
+  "faqs": "Q: Does Beaver County Airport offer commercial passenger flights?\nA: No, BFP is a general aviation airport with no scheduled commercial airline service. It primarily accommodates private, corporate, and recreational aircraft.\n\nQ: How far is Beaver County Airport from Pittsburgh?\nA: The airport is located roughly 35 miles northwest of downtown Pittsburgh, making it accessible for travelers heading to Beaver, Lawrence, or Allegheny counties.\n\nQ: Are there aircraft rental or flight training services available?\nA: Yes, the airport hosts flight schools and Fixed-Base Operators (FBOs) that offer flight training, aircraft rental, fuel services, and hangar facilities.\n\nQ: Can the airport accommodate larger business jets?\nA: The airport's single runway supports small to mid-size business aircraft, though very large jets may be better served by Pittsburgh International Airport nearby.\n\n",
+  "transport_tips": "The airport is conveniently located just off Pennsylvania Route 51 and close to I-76 (Pennsylvania Turnpike), providing easy ground access by car. Rental car services should be arranged in advance through nearby providers in Beaver Falls or the greater Pittsburgh area. Ride-share options like Uber and Lyft are available but may have longer wait times due to the airport's general aviation status.",
+  "local_tip": "For pilots flying in, the airport offers self-service fuel pumps available 24/7 with major credit cards, and the on-site restaurant is a popular local hangout where you can grab a meal and chat with area pilots about current conditions and local flying spots along the Ohio River valley.",
+  "generatedAt": "2026-06-26T07:38:06.555Z",
+  "model": "MiniMax-M3"
+}

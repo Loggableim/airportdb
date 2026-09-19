@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LAF",
+    "icao": "KLAF",
+    "name": "Purdue University Airport",
+    "country": "United States",
+    "city": "West Lafayette",
+    "lat": 40.4129,
+    "lon": -86.9394,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Purdue University Airport is a public-use airport owned and operated by Purdue University, located about 5 miles southwest of downtown West Lafayette, Indiana. It serves general aviation, corporate traffic, and limited commercial flights while supporting the university's aviation and aerospace programs. The airport holds historical aviation significance, connected to figures such as Amelia Earhart, who served as a career counselor at Purdue.",
+  "faqs": "Q: What airlines fly into Purdue University Airport?\nA: LAF is primarily served by general aviation and has historically had limited commercial service, with carriers like Allegiant and American Eagle providing seasonal or scheduled flights to select destinations.\n\nQ: Does Purdue University Airport offer car rentals?\nA: Yes, rental car services are available at the terminal, though availability can be limited and advance reservations are recommended.\n\nQ: How far is the airport from Purdue's main campus?\nA: The airport is approximately 5 miles from the heart of the Purdue University campus, typically a 10-15 minute drive.\n\nQ: Are there flight training programs at LAF?\nA: Yes, the airport supports Purdue's School of Aviation and Transportation Technology, which offers professional pilot and aerospace degree programs using on-site facilities.",
+  "transport_tips": "Taxis, rideshare services like Uber and Lyft, and rental cars are the most reliable ways to reach the airport, as there is no public transit directly serving the terminal. Driving is straightforward via US-231 and State Road 26, with free parking available on-site for short and long-term stays. Allow extra time during university move-in and graduation periods when traffic around West Lafayette increases significantly.",
+  "local_tip": "Visit the airport's observation area or terminal lobby for a look at the Amelia Earhart connection to Purdue—she was a visiting faculty member and consultant in the 1930s, and the airport preserves memorabilia honoring her legacy.",
+  "generatedAt": "2026-06-29T18:31:19.307Z",
+  "model": "MiniMax-M3"
+}

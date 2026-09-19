@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IRC",
+    "icao": "PACR",
+    "name": "Circle City (New) Airport",
+    "country": "United States",
+    "city": "Circle",
+    "lat": 65.8277,
+    "lon": -144.0762,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Circle City (New) Airport (IRC) is a small public-use airport serving the remote community of Circle, Alaska, located along the Yukon River in the state's interior. The airport features a gravel runway and provides essential access to this isolated settlement, which is not connected to the state road system. It primarily supports general aviation and serves as a lifeline for residents and visitors traveling to this historic Yukon River community.",
+  "faqs": "Q: Where is Circle City Airport located?\nA: The airport is located near Circle, Alaska, a small community along the Yukon River in the interior of the state, roughly 160 miles northeast of Fairbanks.\n\nQ: What type of aircraft can use Circle City Airport?\nA: The airport has a gravel runway suitable for small general aviation aircraft, bush planes, and small commuter planes commonly used in rural Alaska.\n\nQ: Is Circle City Airport served by commercial airlines?\nA: No scheduled commercial service operates to this airport; flights are typically chartered or operated on-demand for passengers, cargo, and mail delivery to the community.\n\nQ: What is the best time of year to visit Circle?\nA: Summer months (June through August) offer the most accessible travel conditions, with longer daylight hours, milder temperatures, and improved flying weather in interior Alaska.",
+  "transport_tips": "Access to Circle City Airport is limited to air travel, as the community is not connected by road to the rest of Alaska. Visitors typically arrange charter flights from Fairbanks, which is the nearest major aviation hub. During winter, the Yukon River freezes enough to allow limited overland travel by snowmobile or dog sled, but this is not a reliable transport option for most travelers.",
+  "local_tip": "The original townsite of Circle, established during the Klondike Gold Rush, is located about 5 miles downriver from the airport—plan to coordinate ground transportation in advance, as rental vehicles are unavailable and local transportation options are very limited.",
+  "generatedAt": "2026-06-26T22:19:17.542Z",
+  "model": "MiniMax-M3"
+}

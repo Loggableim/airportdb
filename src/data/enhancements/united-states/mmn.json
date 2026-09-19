@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MMN",
+    "icao": "",
+    "name": "Minute Man Air Field",
+    "country": "United States",
+    "city": "Stow",
+    "lat": 42.4603,
+    "lon": -71.519,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Minute Man Air Field is a small general aviation airport located in Stow, Massachusetts, about 25 miles west-northwest of Boston. The field serves primarily as a hub for flight training, recreational flying, and private aircraft operations in the MetroWest region. It is named in tribute to the local Minutemen who played a pivotal role in the American Revolutionary War at nearby historic sites.",
+  "faqs": "Q: What types of flights operate from Minute Man Air Field?\nA: The airport primarily handles general aviation traffic, including flight training, private pilots, and recreational flights. There is no scheduled commercial airline service.\n\nQ: Does Minute Man Air Field have an ICAO code?\nA: No, Minute Man Air Field is assigned the IATA code MMN but does not have a published ICAO identifier, which is common for smaller general aviation airports in the United States.\n\nQ: Are there flight schools at the airport?\nA: Yes, the airport is home to flight training operations and is a popular destination for student pilots learning in the New England area.\n\nQ: What facilities are available for visiting pilots?\nA: The field offers basic amenities typical of a small general aviation airport, including tie-down and hangar space, fuel services, and pilot resources.",
+  "transport_tips": "The airport is accessible by car via Route 117 and surrounding local roads, with ample free parking on-site. Rideshare services and local taxi companies from nearby towns like Maynard and Hudson can provide transportation. Since there is no commercial service, visitors typically arrange ground transport in advance.",
+  "local_tip": "Plan your visit to coincide with a trip to nearby Minute Man National Historical Park in Concord and Lexington, where you can walk the Battle Road trail and explore the same routes the Minutemen used in 1775.",
+  "generatedAt": "2026-06-27T00:39:27.233Z",
+  "model": "MiniMax-M3"
+}

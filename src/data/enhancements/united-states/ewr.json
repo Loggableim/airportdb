@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EWR",
+    "icao": "KEWR",
+    "name": "Newark Liberty International Airport",
+    "country": "United States",
+    "city": "Newark",
+    "lat": 40.6894,
+    "lon": -74.1705,
+    "type": "large_airport",
+    "size": 1064475
+  },
+  "summary": "Newark Liberty International Airport (EWR) is one of the oldest major airports in the United States, having opened in 1928, and serves as a primary gateway to the New York metropolitan area alongside JFK and LaGuardia. Located in Newark, New Jersey, about 15 miles southwest of Midtown Manhattan, it functions as a major United Airlines hub and handles over 40 million passengers annually. The airport features three active terminals (A, B, and C) connected by an automated monorail system called AirTrain Newark.",
+  "faqs": "Q: How far is Newark Liberty from Manhattan?\nA: The airport is approximately 15 miles southwest of Midtown Manhattan, with typical travel times of 30-60 minutes depending on traffic and transport mode.\n\nQ: Which airlines use Newark as a hub?\nA: United Airlines operates its largest hub at EWR, with significant domestic and international connections. Other major carriers include Spirit, JetBlue, Delta, and American Airlines.\n\nQ: How do I get from EWR to New York City?\nA: The AirTrain Newark connects to NJ Transit and Amtrak at Newark Liberty International Airport Station, providing direct rail access to Penn Station in Manhattan. Taxis, rideshares, and buses are also available.\n\nQ: Does Newark Airport have international flights?\nA: Yes, Terminal B includes a customs and immigration facility, and the airport offers nonstop service to numerous destinations in Europe, Asia, and Latin America.",
+  "transport_tips": "The AirTrain Newark combined with NJ Transit is often the fastest and most predictable route to Manhattan, avoiding highway traffic on the Holland Tunnel. If driving, allow extra time during rush hours (7-10 AM and 4-8 PM) as the airport sits near several major highway chokepoints. Rideshares pick up at designated areas outside each terminal, while taxis have dedicated queues with flat-rate fares available to NYC destinations.",
+  "local_tip": "Terminal C was recently modernized and offers some of the best dining options at EWR, including local favorites like Saison (a Newark-based bakery) and a well-regarded wine bar—worth arriving early to explore if you have a long layover or pre-flight meal to plan.",
+  "generatedAt": "2026-06-28T14:42:26.378Z",
+  "model": "MiniMax-M3"
+}

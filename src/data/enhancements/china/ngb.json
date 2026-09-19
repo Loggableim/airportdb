@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NGB",
+    "icao": "ZSNB",
+    "name": "Ningbo Lishe International Airport",
+    "country": "China",
+    "city": "Ningbo",
+    "lat": 29.8267,
+    "lon": 121.462,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Ningbo Lishe International Airport is the main aviation gateway to Ningbo, a major port city in Zhejiang Province and home to Ningbo-Zhoushan Port, one of the world's busiest cargo ports. The airport serves a region with deep maritime trade history dating back centuries and supports both business and tourism traffic. It operates a growing network of domestic routes alongside select international connections across Asia.",
+  "faqs": "Q: How far is Ningbo Lishe International Airport from the city center?\nA: The airport is located approximately 11 km southwest of central Ningbo, typically a 25-40 minute drive depending on traffic.\n\nQ: Does the airport have a metro connection?\nA: Yes, Ningbo Rail Transit Line 2 connects the airport to the city, providing a convenient and affordable option for travelers.\n\nQ: Are there international flights available?\nA: The airport operates several international and regional routes to destinations across East and Southeast Asia, alongside its extensive domestic network.\n\nQ: Are there airport hotels nearby?\nA: Several hotels are located near the airport, with options ranging from budget chains to mid-range business hotels catering to transit passengers.",
+  "transport_tips": "The airport is well-connected by Ningbo Rail Transit Line 2, which runs directly to the city center and is the most cost-effective option. Taxis and ride-hailing services like Didi are readily available at the terminal, while airport shuttle buses serve key locations in Ningbo. Allow extra time during rush hours and the spring festival travel period, as roads around the airport can become congested.",
+  "local_tip": "Frequent visitors recommend keeping small change on hand for luggage carts, which require a deposit coin, and downloading the Ningbo metro app in advance for QR-code fare payment to avoid queues at ticket machines.",
+  "generatedAt": "2026-06-28T21:08:12.593Z",
+  "model": "MiniMax-M3"
+}

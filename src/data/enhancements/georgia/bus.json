@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BUS",
+    "icao": "UGSB",
+    "name": "Alexander Kartveli Batumi International Airport",
+    "country": "Georgia",
+    "city": "Batumi",
+    "lat": 41.6094,
+    "lon": 41.6003,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Alexander Kartveli Batumi International Airport (BUS) is the principal aviation gateway to Georgia's Adjara region and the Black Sea coast, named after the celebrated Georgian-American aerospace engineer Alexander Kartveli, designer of iconic Cold War-era jet fighters. Serving as Georgia's second-busiest airport after Tbilisi, it handles seasonal leisure traffic from European cities alongside year-round regional flights. Its coastal location makes it a popular entry point for travelers visiting Batumi's beaches, botanical gardens, and subtropical climate.",
+  "faqs": "Q: How far is the airport from Batumi city center?\nA: The airport is located approximately 2-3 km south of Batumi's city center, making it one of the most conveniently located airports relative to its host city, typically reachable in 10-15 minutes.\n\nQ: Which airlines operate from Batumi Airport?\nA: The airport is served by a mix of Georgian carriers like Georgian Airways and international low-cost and charter airlines including Turkish Airlines, Pegasus, and various seasonal European carriers.\n\nQ: Does the airport operate 24 hours?\nA: The airport's operating hours are limited and flights are scheduled primarily during daytime hours. Travelers should verify operating times for early morning or late-night arrivals.\n\nQ: Is there a terminal transfer or multiple terminals?\nA: The airport operates from a single terminal building handling both domestic and international flights.",
+  "transport_tips": "Taxis and ride-hailing apps are the most convenient option, with the short journey to central Batumi typically costing very little. Public buses and marshrutkas (minibuses) also connect the airport to the city at lower cost. Many hotels in Batumi offer airport pickup services, which can be arranged in advance for added convenience.",
+  "local_tip": "If you have a layover or early arrival, consider visiting the Batumi Botanical Garden, located a short drive north of the city and one of the largest in the former Soviet Union.",
+  "generatedAt": "2026-06-28T23:52:38.247Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ONG",
+    "icao": "YMTI",
+    "name": "Mornington Island Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -16.6625,
+    "lon": 139.178,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Mornington Island Airport (ONG/YMTI) is a small regional airport serving Mornington Island in the Gulf of Carpentaria, Queensland, Australia. It is a vital transport link for the remote Aboriginal community, primarily supporting the local population of around 1,000 residents. The airport handles regular passenger services connecting the island to Cairns and other regional centres, given the lack of road access to the mainland.",
+  "faqs": "Q: What airlines fly to Mornington Island Airport?\nA: Regional carrier Skytrans and other small operators provide scheduled services, typically connecting to Cairns.\n\nQ: Is the airport open to the public?\nA: Yes, the airport is a public facility, though services are limited due to its remote location and small size.\n\nQ: Are there car rental services at the airport?\nA: No major car rental counters operate at this small airport; visitors typically arrange transport through their accommodation or the local community.\n\nQ: What facilities are available at the terminal?\nA: The terminal is basic, offering minimal amenities; passengers are advised to bring their own food and water for longer waits.",
+  "transport_tips": "There is no public transport on Mornington Island, so arranging a pickup with your accommodation or local contact in advance is essential. Most visitors rely on the single main road connecting the airport to the town of Gununa. Ferry services between the island and the mainland are limited and weather-dependent.",
+  "local_tip": "Flights are frequently delayed or cancelled during the wet season (November to April) due to tropical weather, so always build a buffer day into your travel plans and carry essentials in carry-on luggage.",
+  "generatedAt": "2026-06-26T15:43:50.270Z",
+  "model": "MiniMax-M3"
+}

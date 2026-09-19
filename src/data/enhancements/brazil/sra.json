@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SRA",
+    "icao": "SSZR",
+    "name": "Luis Alberto Lehr Airport",
+    "country": "Brazil",
+    "city": "Santa Rosa",
+    "lat": -27.9066,
+    "lon": -54.5206,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Luis Alberto Lehr Airport (SRA/SSZR) is a small regional airport serving Santa Rosa, a municipality in the northwestern region of Rio Grande do Sul state in southern Brazil. Situated near the Argentine border, the airport primarily handles general aviation and occasional regional flights, serving the local agricultural community that surrounds the city. Its modest infrastructure reflects its role as a key access point for this important soybean and dairy-producing region.",
+  "faqs": "Q: What is the airport code for Luis Alberto Lehr Airport?\nA: The airport's IATA code is SRA and its ICAO code is SSZR.\n\nQ: Where is the airport located?\nA: It is located in Santa Rosa, in the northwestern part of Rio Grande do Sul state, Brazil, near the Argentine border.\n\nQ: What type of flights operate from this airport?\nA: The airport primarily handles general aviation, private flights, and occasional regional commercial services, given its classification as a small airport.\n\nQ: Is the airport used for international flights?\nA: The airport mainly serves domestic and general aviation needs; nearby crossings handle most border traffic between Brazil and Argentina.\n\n",
+  "transport_tips": "Reaching the airport is easiest by car or taxi from central Santa Rosa, as the airport is just a short drive from the city center. Local taxi services and ride-hailing apps are the most reliable options since there is no public transit directly serving the terminal. Visitors should arrange ground transport in advance, as on-site rental services are limited.",
+  "local_tip": "Pack a light jacket even in summer—Santa Rosa sits in a region where cold fronts from Argentina can drop temperatures unexpectedly, especially during early morning flights.",
+  "generatedAt": "2026-06-26T16:19:45.718Z",
+  "model": "MiniMax-M3"
+}

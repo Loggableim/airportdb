@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KAJ",
+    "icao": "EFKI",
+    "name": "Kajaani Airport",
+    "country": "Finland",
+    "city": "Kajaani",
+    "lat": 64.2855,
+    "lon": 27.6924,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kajaani Airport (KAJ/EFKI) is a regional airport serving the city of Kajaani in the Kainuu region of northern Finland. It functions as the main air gateway for eastern Finland, connecting the sparsely populated inland region with Helsinki and supporting both business travel and tourism. The airport handles a mix of scheduled passenger flights and general aviation, reflecting the area's strong outdoor recreation appeal.",
+  "faqs": "Q: What is the airport code for Kajaani Airport?\nA: Kajaani Airport uses the IATA code KAJ and the ICAO code EFKI.\n\nQ: Which airlines operate from Kajaani Airport?\nA: The airport is primarily served by Finnair, which operates direct flights to Helsinki-Vantaa Airport.\n\nQ: How far is the airport from Kajaani city center?\nA: The airport is located approximately 7 kilometers northwest of central Kajaani, a short drive by car or taxi.\n\nQ: Does Kajaani Airport have international flights?\nA: Scheduled international service is limited, with most international connections made via Helsinki. Seasonal charter flights occasionally serve popular destinations.",
+  "transport_tips": "A taxi or pre-booked transfer is the most convenient option, as the airport is only about 10 minutes from central Kajaani. Rental cars are available on-site and are recommended for travelers exploring the wider Kainuu region. Public bus connections to Kajaani city center are limited, so checking schedules in advance is advisable.",
+  "local_tip": "If visiting in winter, ask about combining your flight with a stay at a nearby wilderness cabin or a husky-safari excursion—Kainuu's snowy forests are far less crowded than Lapland's main tourist routes.",
+  "generatedAt": "2026-06-29T07:35:25.912Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SDG",
+    "icao": "OICS",
+    "name": "Sanandaj Airport",
+    "country": "Iran",
+    "city": "",
+    "lat": 35.2459,
+    "lon": 47.0092,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sanandaj Airport (SDG/OICS) is a medium-sized regional airport serving Sanandaj, the capital of Iran's Kurdistan Province in the western part of the country. It provides essential air connectivity to a culturally significant Kurdish region known for its traditional music, handicrafts, and mountainous landscapes. The airport primarily handles domestic flights connecting the province to major Iranian cities such as Tehran.",
+  "faqs": "Q: What is the IATA code for Sanandaj Airport?\nA: The IATA code is SDG, and the ICAO code is OICS.\n\nQ: Where is Sanandaj Airport located?\nA: It is located near the city of Sanandaj in Kurdistan Province, western Iran, at approximately 35.246°N, 47.009°E.\n\nQ: Does Sanandaj Airport offer international flights?\nA: The airport primarily operates domestic flights to major Iranian cities. International service is limited.\n\nQ: What region does this airport serve?\nA: It serves Kurdistan Province, a culturally rich area known as the heartland of Kurdish culture in Iran.",
+  "transport_tips": "The airport is located a short drive from central Sanandaj, typically reachable within 15-20 minutes by taxi or private car. Public transport options are limited, so arranging a taxi in advance or booking a hotel transfer is recommended. Roads connecting the airport to the city are generally well-maintained and offer scenic views of the surrounding Zagros foothills.",
+  "local_tip": "If you have time before your flight, ask your driver to stop by the Sanandaj bazaar for a quick taste of Kurdish traditional bread (nan) and local walnuts—the city is famous for both and they make excellent gifts to bring home.",
+  "generatedAt": "2026-06-29T15:58:51.847Z",
+  "model": "MiniMax-M3"
+}

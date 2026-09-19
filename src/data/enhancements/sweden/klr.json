@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KLR",
+    "icao": "ESMQ",
+    "name": "Kalmar Airport",
+    "country": "Sweden",
+    "city": "Kalmar",
+    "lat": 56.6855,
+    "lon": 16.2876,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kalmar Airport (KLR) is a regional airport serving the historic coastal city of Kalmar on Sweden's southeastern Baltic coast, gateway to the popular Öland island. The airport supports scheduled domestic services, primarily connecting the region to Stockholm and other Swedish cities. Its modest terminal and short walking distances make it one of Sweden's most convenient regional airports.",
+  "faqs": "Q: Where is Kalmar Airport located?\nA: Kalmar Airport is situated approximately 4 km west of Kalmar city center on Sweden's southeastern coast in Småland province.\n\nQ: What airlines operate from Kalmar Airport?\nA: The airport is primarily served by BRA (Braathens Regional Airlines) and SAS, offering regular connections mainly to Stockholm Bromma and Arlanda.\n\nQ: Does Kalmar Airport have international flights?\nA: International service is very limited; the airport mainly handles domestic Swedish routes, though seasonal charter flights may operate.\n\nQ: Are there car rental services at Kalmar Airport?\nA: Yes, several car rental agencies including Avis, Hertz, and Europcar operate at the airport terminal.",
+  "transport_tips": "Local Flygbuss (airport bus) services connect the terminal directly to Kalmar city center in roughly 10-15 minutes. Taxis are readily available outside the terminal and the journey to central Kalmar takes about 10 minutes. The airport is conveniently located near the E22 highway, making it easy to reach by rental car for travelers heading onward to Öland via the Öland Bridge.",
+  "local_tip": "If visiting Öland, consider booking an early flight and renting a car at the airport to maximize your day on the island—the UNESCO-listed agricultural landscape of Stora Alvaret is best explored with your own transport and early morning light.",
+  "generatedAt": "2026-06-29T05:37:31.278Z",
+  "model": "MiniMax-M3"
+}

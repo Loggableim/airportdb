@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RTO",
+    "icao": "WIRR",
+    "name": "Budiarto Airport",
+    "country": "Indonesia",
+    "city": "Tangerang-Java Island",
+    "lat": -6.2932,
+    "lon": 106.57,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Budiarto Airport is a small general aviation airfield located in Tangerang, on the western edge of Java Island near Jakarta. Named after an Indonesian aviation pioneer, it primarily serves private flights, flight training, and recreational aviation rather than scheduled commercial service. Its proximity to the Greater Jakarta metropolitan area makes it a convenient hub for general aviation activities in the region.",
+  "faqs": "Q: Does Budiarto Airport have scheduled commercial flights?\nA: No, Budiarto Airport primarily serves general aviation, private aircraft, and flight training operations rather than commercial passenger service.\n\nQ: What is the airport mainly used for?\nA: It is widely used as a flight training center and for private and recreational flying in the western Java region.\n\nQ: How far is Budiarto Airport from Jakarta?\nA: It is located in Tangerang, just west of Jakarta, roughly 30-40 kilometers from the capital city center depending on traffic.\n\nQ: Can private pilots land at Budiarto Airport?\nA: Yes, it accommodates private and general aviation aircraft, though prior coordination with airport authorities is recommended.\n\n",
+  "transport_tips": "The airport is best reached by private car or taxi from Tangerang or Jakarta, as public transport options directly serving the airfield are limited. Travel times can vary significantly due to traffic congestion typical of the Greater Jakarta area. Ride-hailing apps like Gojek and Grab are commonly used for ground transportation in the region.",
+  "local_tip": "If visiting for flight training or aviation events, contact the airport office in advance as operating hours and runway availability can differ from standard commercial airports.",
+  "generatedAt": "2026-06-27T14:54:40.305Z",
+  "model": "MiniMax-M3"
+}

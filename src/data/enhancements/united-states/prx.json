@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PRX",
+    "icao": "KPRX",
+    "name": "Cox Field",
+    "country": "United States",
+    "city": "Paris",
+    "lat": 33.6366,
+    "lon": -95.4508,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Cox Field (PRX/KPRX) is a city-owned general aviation airport located about three miles east of downtown Paris, Texas. It serves private, business, and emergency aircraft with multiple asphalt runways and FBO services, but no scheduled commercial airline service. It is a convenient gateway to northeast Texas and the Red River Valley, roughly 100 miles northeast of Dallas/Fort Worth.",
+  "faqs": "Q: Does Cox Field offer commercial flights?\nA: No. Cox Field is a general aviation airport; the nearest scheduled commercial service is available at Dallas/Fort Worth International Airport or Texarkana Regional Airport.\n\nQ: What are the airport codes for Cox Field?\nA: The IATA code is PRX, the ICAO code is KPRX, and the FAA identifier is PRX.\n\nQ: How far is Cox Field from downtown Paris, Texas?\nA: It is about 3 miles east of downtown Paris, typically a 5- to 10-minute drive depending on traffic.\n\nQ: What services are available at Cox Field?\nA: The airport supports general aviation with fuel, hangars, and FBO services; rental cars and rideshare may be limited, so arrange ground transportation in advance.",
+  "transport_tips": "Cox Field is about 3 miles east of downtown Paris, Texas, so driving is the most reliable way to reach it. Use US 82 or Loop 286 and follow airport signs; taxi and rideshare availability can be sparse, so book ahead if you need a pickup. On-site parking is generally easy and low-cost or free for GA visitors.",
+  "local_tip": "Cox Field is a non-towered field, so review traffic patterns and NOTAMs before arrival; if you need a quick bite or supplies, ask the FBO for local directions into Paris and don't miss the town's 65-foot Eiffel Tower replica with a red cowboy hat.",
+  "generatedAt": "2026-09-19T23:06:46.012Z",
+  "model": "deepseek-v4.1-flash"
+}

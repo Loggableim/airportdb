@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CXB",
+    "icao": "VGCB",
+    "name": "Cox's Bazar Airport",
+    "country": "Bangladesh",
+    "city": "Cox's Bazar",
+    "lat": 21.4575,
+    "lon": 91.9633,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Cox's Bazar Airport (CXB) serves as the primary gateway to Bangladesh's southeastern coast and the world's longest natural sea beach, stretching over 120 kilometers. Situated just a few kilometers from the Bay of Bengal shoreline, the airport handles domestic flights connecting tourists from Dhaka and other regional cities. It plays a vital role in supporting the country's tourism industry, particularly during peak travel seasons when beach visitation surges.",
+  "faqs": "Q: Which airlines operate flights to Cox's Bazar Airport?\nA: Several domestic carriers including Biman Bangladesh Airlines, US-Bangla Airlines, and NovoAir operate regular scheduled flights, primarily connecting Cox's Bazar with Dhaka.\n\nQ: How far is the airport from the main beach area?\nA: The airport is conveniently located approximately 5-7 kilometers from the main Cox's Bazar beach and town center, making it a quick transfer for visitors.\n\nQ: Is Cox's Bazar Airport open for international flights?\nA: The airport primarily handles domestic flights, though it has infrastructure to accommodate limited international charter and seasonal operations.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers standard amenities including check-in counters, a small waiting area, basic food and beverage outlets, and ground transportation services.",
+  "transport_tips": "Prepaid taxi counters are available inside the terminal and offer fixed rates to hotels and the main beach area, which is generally the safest option for first-time visitors. Shared CNG auto-rickshaws and local buses also stop outside the airport for budget travelers heading into town. Allow extra time during monsoon season (June-September) as road conditions near the coast can occasionally affect transfers.",
+  "local_tip": "Book early morning flights during peak season (October to February) for smoother operations and cooler arrival conditions, and consider staying at accommodations within walking distance of the beach to skip taxis altogether during your stay.",
+  "generatedAt": "2026-06-29T10:27:58.343Z",
+  "model": "MiniMax-M3"
+}

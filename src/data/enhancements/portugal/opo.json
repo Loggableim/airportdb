@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OPO",
+    "icao": "LPPR",
+    "name": "Francisco de Sá Carneiro Airport",
+    "country": "Portugal",
+    "city": "Porto",
+    "lat": 41.2481,
+    "lon": -8.6814,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Francisco de Sá Carneiro Airport (OPO) is Portugal's second-busiest airport, located approximately 11 km northwest of Porto city center in the municipalities of Maia and Matosinhos. Named after the Portuguese politician and Prime Minister Francisco de Sá Carneiro, the airport opened its current modern terminal in 1997, replacing the older facility that had served the region since 1945. It serves as a key gateway to northern Portugal and the Douro Valley, handling over 13 million passengers annually.",
+  "faqs": "Q: How far is the airport from Porto city center?\nA: Francisco de Sá Carneiro Airport is located about 11 km (7 miles) northwest of Porto's city center, typically a 20-30 minute drive depending on traffic.\n\nQ: Is there a metro connection to the airport?\nA: Yes, the Porto Metro Line E (Violet Line) connects the airport directly to the city center and Campanhã railway station, with a journey time of approximately 30 minutes.\n\nQ: Which airlines operate the most flights from OPO?\nA: Ryanair, TAP Air Portugal, easyJet, and Lufthansa are among the major carriers with significant operations at the airport, offering numerous European and intercontinental connections.\n\nQ: Does the airport operate 24 hours?\nA: The airport generally operates from early morning until late night, with most flights concentrated between 6:00 AM and 11:00 PM, though specific airline schedules may vary.",
+  "transport_tips": "The metro Line E is the most cost-effective way to reach central Porto, running every 20-30 minutes. Taxis and rideshare services are readily available outside the terminal and provide a faster option, typically costing €20-30 to the city center. If renting a car, note that the airport connects directly to the A28 motorway, providing easy access to both Porto and the coastal areas northward.",
+  "local_tip": "If you have time before your flight, the small cafes in the departures area serve excellent Portuguese pastries like pastel de nata—much better quality and cheaper than airport prices in most other European hubs. Also, the airport's duty-free shop is well-stocked with port wine from the nearby Douro Valley at competitive prices.",
+  "generatedAt": "2026-06-28T17:03:32.154Z",
+  "model": "MiniMax-M3"
+}

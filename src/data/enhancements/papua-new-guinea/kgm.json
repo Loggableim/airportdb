@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KGM",
+    "icao": "AYIM",
+    "name": "Kungim Airport",
+    "country": "Papua New Guinea",
+    "city": "Kungim",
+    "lat": -5.671,
+    "lon": 141.03,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Kungim Airport is a small regional airstrip serving the remote community of Kungim in Papua New Guinea's Western Province, nestled in the island's dense tropical interior. It functions primarily as a lifeline airstrip, supporting missionary flights, medical evacuations, and essential passenger and cargo services to and from isolated highland and lowland settlements. The unpaved runway accommodates small propeller aircraft typical of PNG's bush aviation network.",
+  "faqs": "Q: What type of aircraft operate at Kungim Airport?\nA: The airport primarily serves small twin-engine propeller aircraft, such as Cessna Caravans and Twin Otters, which are standard for Papua New Guinea's bush aviation routes.\n\nQ: Is Kungim Airport serviced by scheduled airlines?\nA: Scheduled service is limited or irregular; most flights are operated on demand by charter or missionary aviation operators serving the region.\n\nQ: Are there any facilities at the airport?\nA: As a small rural airstrip, facilities are minimal, typically consisting of a basic terminal or shelter, with no jet bridges, large baggage systems, or commercial amenities.\n\nQ: What are the operating hours?\nA: Most PNG bush airstrips operate during daylight hours only, and flights are generally scheduled for early morning or mid-day when weather conditions are most favorable.",
+  "transport_tips": "Ground transport from the airport is informal and typically arranged in advance, as there is no public transit. Travelers usually rely on pre-arranged pickup by local hosts, missionaries, or charter operators. Walking or using a local vehicle from the airstrip to nearby villages may be the only option if no pickup is waiting.",
+  "local_tip": "Always confirm your outbound flight the day before, as PNG bush schedules are highly weather-dependent and can shift with little notice, especially during the wet season when afternoon thunderstorms frequently delay or cancel flights.",
+  "generatedAt": "2026-06-28T01:55:58.828Z",
+  "model": "MiniMax-M3"
+}

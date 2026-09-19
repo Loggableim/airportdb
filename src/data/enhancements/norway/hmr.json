@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HMR",
+    "icao": "ENHA",
+    "name": "Hamar Lufthavn, Stavsberg",
+    "country": "Norway",
+    "city": "Hamar",
+    "lat": 60.8181,
+    "lon": 11.068,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Hamar Lufthavn, Stavsberg (HMR/ENHA) is a small regional airport serving the city of Hamar in southeastern Norway's Innlandet county. The airport primarily handles general aviation, charter flights, and small commercial services, supporting the inland region's connectivity. It sits on elevated terrain near Lake Mjøsa, Norway's largest lake, and is positioned about 100 km north of Oslo.",
+  "faqs": "Q: What is Hamar Lufthavn primarily used for?\nA: The airport mainly serves general aviation, private flights, and limited regional commercial traffic, with occasional charter operations supporting the local Innlandet region.\n\nQ: How far is the airport from Hamar city center?\nA: Hamar Lufthavn, Stavsberg is located a short drive northwest of the city center, roughly 5-10 km from central Hamar.\n\nQ: Are there regular scheduled flights from HMR?\nA: Scheduled commercial service is very limited; most travelers use Oslo Gardermoen for regular flights, while HMR serves light aviation and charter needs.\n\nQ: What facilities are available at the airport?\nA: As a small airfield, it offers basic services including a terminal building, refueling, and aircraft parking, but no extensive commercial amenities.\n\n",
+  "transport_tips": "Reaching Hamar Lufthavn by car is the most practical option, with the E6 motorway running nearby and straightforward access via regional roads. Taxi services from Hamar city center are readily available, though booking in advance is recommended given the airport's small size. Public transport options are limited, so renting a car at nearby larger hubs may be the best alternative for onward travel.",
+  "local_tip": "If visiting Hamar by air, plan a stop at the iconic Håkons Hall and the adjacent Viking Ship Olympic Arena, both visible from elevated points around the city and offering a unique blend of medieval heritage and modern sports history.",
+  "generatedAt": "2026-06-27T01:32:17.917Z",
+  "model": "MiniMax-M3"
+}

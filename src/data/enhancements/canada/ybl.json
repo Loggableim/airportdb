@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YBL",
+    "icao": "CYBL",
+    "name": "Campbell River Airport",
+    "country": "Canada",
+    "city": "Campbell River",
+    "lat": 49.9508,
+    "lon": -125.271,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Campbell River Airport (YBL) is a regional airport on the east coast of Vancouver Island in British Columbia, Canada, serving the city famously known as the 'Salmon Capital of the World.' It functions as a key gateway for outdoor tourism, connecting visitors to world-class sport fishing, wildlife viewing, and heli-skiing operations in the surrounding wilderness. The airport supports both scheduled regional flights and a vibrant general aviation scene, including floatplane traffic typical of coastal British Columbia.",
+  "faqs": "Q: Which airlines fly into Campbell River Airport?\nA: Scheduled passenger service is typically provided by regional carriers such as Pacific Coastal Airlines and Central Mountain Air, with connections primarily to Vancouver (YVR). Flight schedules can vary seasonally.\n\nQ: How far is the airport from downtown Campbell River?\nA: The airport is located approximately 10 km (6 miles) south of the city center, with a typical drive taking around 15 minutes.\n\nQ: Does Campbell River Airport have customs or international facilities?\nA: The airport has limited customs capabilities; most international travelers connect through Vancouver International Airport before flying in.\n\nQ: Are there car rental services at the airport?\nA: Yes, several car rental agencies operate at or near the airport, though options are more limited than at larger hubs. Booking ahead is recommended during peak summer season.",
+  "transport_tips": "Taxis and ride-hailing services are available at the terminal, though availability can be limited, so pre-arranging pickup is wise during off-hours. Rental cars are recommended for exploring the wider Vancouver Island region, as public transit connections to the airport are infrequent. Many local hotels and fishing lodges also offer shuttle or transfer services for guests.",
+  "local_tip": "If you're visiting for sport fishing, book your charter operator in advance to coordinate your arrival time with tide schedules, and ask whether the lodge can arrange direct floatplane transfers from YBL's apron to remote fishing camps on the mainland coast or in the Discovery Islands.",
+  "generatedAt": "2026-06-29T04:26:20.933Z",
+  "model": "MiniMax-M3"
+}

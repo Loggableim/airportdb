@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RHV",
+    "icao": "KRHV",
+    "name": "Reid-Hillview Airport of Santa Clara County",
+    "country": "United States",
+    "city": "San Jose",
+    "lat": 37.3329,
+    "lon": -121.819,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Reid-Hillview Airport of Santa Clara County is a general aviation reliever airport located in East San Jose, California, serving the southern San Francisco Bay Area since 1937. Named after pilot and civic leader John J. Reid and adjacent Hillview neighborhood, the airport is primarily used for flight training, recreational flying, and general aviation operations. It features two parallel runways and is one of the busiest general aviation airports in California.",
+  "faqs": "Q: What is Reid-Hillview Airport primarily used for?\nA: The airport is primarily used for general aviation, flight training, and recreational flying, serving as a reliever facility for San Jose International Airport.\n\nQ: Does Reid-Hillview Airport offer commercial passenger service?\nA: No, Reid-Hillview is a general aviation airport with no scheduled commercial passenger service.\n\nQ: How many runways does the airport have?\nA: Reid-Hillview has two parallel runways, Runway 13L/31R and Runway 13R/31L.\n\nQ: Are there flight schools operating at Reid-Hillview?\nA: Yes, the airport hosts several flight schools and flying clubs, making it a popular destination for student pilots in the Bay Area.\n\n",
+  "transport_tips": "The airport is located about 5 miles east of downtown San Jose and is accessible via US Route 101 and Capitol Expressway. There is no public transit directly serving the airport, so renting a car or arranging a ride-share is recommended. On-site parking is available for those visiting by personal vehicle.",
+  "local_tip": "If you are visiting to pick up or drop off a student pilot, head to the observation area on the north side of the field for excellent views of touch-and-go training operations throughout the day.",
+  "generatedAt": "2026-06-26T23:45:39.073Z",
+  "model": "MiniMax-M3"
+}

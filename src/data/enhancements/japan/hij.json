@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HIJ",
+    "icao": "RJOA",
+    "name": "Hiroshima Airport",
+    "country": "Japan",
+    "city": "Hiroshima",
+    "lat": 34.4361,
+    "lon": 132.919,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Hiroshima Airport (HIJ) is the primary aviation gateway for the Hiroshima metropolitan area, situated in Mihara, Hiroshima Prefecture, about 50 km east of central Hiroshima city. The airport opened in 1993, replacing the older Hiroshima West Airport, and serves as a hub for both domestic flights across Japan and select international routes to East Asian destinations. It features a modern single-terminal complex that efficiently handles the region's mix of business travelers, tourists visiting the Peace Memorial, and those heading to the Seto Inland Sea islands.",
+  "faqs": "Q: How far is Hiroshima Airport from Hiroshima city center?\nA: The airport is approximately 50 km east of central Hiroshima, typically reached in about 45-60 minutes by airport limousine bus.\n\nQ: Does Hiroshima Airport have international flights?\nA: Yes, it serves several international destinations including routes to China, South Korea, and Taiwan, alongside its extensive domestic network.\n\nQ: Are there train services to Hiroshima Airport?\nA: There is no direct train to the airport terminal, but a free shuttle bus connects to nearby JR Shiraichi Station on the Sanyo Shinkansen line.\n\nQ: Can I use the Japan Rail Pass at Hiroshima Airport?\nA: The JR Pass does not cover airport buses, but the free shuttle to Shiraichi Station allows you to start using your pass from there.\n\n",
+  "transport_tips": "The airport limousine bus to Hiroshima city center is the most popular and cost-effective option, with departures timed to flight arrivals. Rental cars are available at the terminal for exploring the Seto Inland Sea region and Miyajima. For international travelers continuing onward, the combination of free shuttle bus plus Shinkansen offers excellent connectivity to Osaka, Kyoto, and beyond.",
+  "local_tip": "Visit the observation deck on the upper floor of the terminal for views of arriving aircraft and the surrounding Chugoku Mountains. The airport's small but well-curated souvenir shops stock Hiroshima specialties like momiji manju (maple-leaf shaped cakes) and locally-made oyster products at prices often lower than central Hiroshima shops.",
+  "generatedAt": "2026-06-28T20:28:38.516Z",
+  "model": "MiniMax-M3"
+}

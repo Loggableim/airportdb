@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BKG",
+    "icao": "KBBG",
+    "name": "Branson Airport",
+    "country": "United States",
+    "city": "Branson",
+    "lat": 36.5321,
+    "lon": -93.2005,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Branson Airport is a privately developed commercial facility that opened in 2009, making it one of the first privately financed airports to offer scheduled passenger service in the United States. It serves the popular Ozark Mountain entertainment destination of Branson, Missouri, known for its live music theaters, family attractions, and Table Rock Lake. The airport offers a small, streamlined alternative to larger regional hubs, with quick access to Branson's tourism corridor.",
+  "faqs": "Q: How far is Branson Airport from the main entertainment strip?\nA: The airport is located approximately 8-10 miles south of Branson's main 76 Country Boulevard theater and entertainment district, typically a 15-20 minute drive.\n\nQ: Is Branson Airport privately operated?\nA: Yes, Branson Airport was developed through private investment and opened in 2009 as one of the first privately funded commercial airports serving scheduled passenger flights in the modern United States.\n\nQ: What attractions are near the airport?\nA: Table Rock Lake and Silver Dollar City theme park are within a short drive, as is the Branson Landing shopping and entertainment district on Lake Taneycomo.\n\nQ: How many terminals does the airport have?\nA: Branson Airport operates from a single, compact terminal building designed for efficient passenger flow at a medium-sized facility.\n\n",
+  "transport_tips": "Rental cars are the most convenient option for reaching Branson's scattered attractions, as the region's theaters, lakes, and theme parks are spread across a wide area. Several hotel shuttles and pre-arranged transportation services operate in the area, though schedules may be limited. Ride-sharing services are available but can be inconsistent during peak tourism seasons, so arranging return transportation in advance is advisable.",
+  "local_tip": "If you have time before your flight, Table Rock Lake's Dewey Short Visitor Center is just a few minutes from the airport and offers scenic lakeside views and short walking trails, perfect for stretching your legs without a long detour.",
+  "generatedAt": "2026-06-29T19:05:06.301Z",
+  "model": "MiniMax-M3"
+}

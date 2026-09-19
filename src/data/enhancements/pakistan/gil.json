@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GIL",
+    "icao": "OPGT",
+    "name": "Gilgit Airport",
+    "country": "Pakistan",
+    "city": "Gilgit",
+    "lat": 35.9188,
+    "lon": 74.3336,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Gilgit Airport serves as the primary air gateway to Pakistan's breathtaking Gilgit-Baltistan region, nestled in the heart of the Karakoram mountain range at an elevation of roughly 4,800 feet. Surrounded by towering peaks, it offers one of the most scenic yet technically challenging approaches in South Asia, making it a favorite among aviation enthusiasts. The airport is a vital link for trekkers, mountaineers, and locals traveling to remote valleys like Hunza, Skardu, and Fairy Meadows.",
+  "faqs": "Q: What airlines operate flights to Gilgit Airport?\nA: Pakistan International Airlines (PIA) operates regular scheduled flights between Islamabad and Gilgit, with weather permitting.\n\nQ: How high is Gilgit Airport?\nA: The airport sits at approximately 4,800 feet (1,463 meters) above sea level, surrounded by mountains reaching well over 20,000 feet.\n\nQ: Why are flights to Gilgit frequently delayed or cancelled?\nA: Mountain weather, strong crosswinds, and low visibility in the valleys often cause delays or cancellations, especially during winter and monsoon seasons.\n\nQ: Is Gilgit Airport used for tourism?\nA: Yes, it is a major entry point for tourists visiting the Karakoram Highway, Hunza Valley, and base camps for some of the world's highest peaks.\n\n",
+  "transport_tips": "Taxis and shared vans are available outside the terminal to reach Gilgit city center, roughly 10 minutes away. Many hotels and tour operators can also arrange airport pickups if booked in advance. Road travel to nearby destinations like Hunza or Skardu is scenic but takes several hours due to mountainous terrain.",
+  "local_tip": "Book morning flights whenever possible, as afternoon weather in the surrounding peaks often deteriorates and leads to delays or diversions. Carry layers even in summer, as temperatures can shift dramatically between the airport and your destination valley.",
+  "generatedAt": "2026-06-29T10:29:16.720Z",
+  "model": "MiniMax-M3"
+}

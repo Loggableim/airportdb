@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BET",
+    "icao": "PABE",
+    "name": "Bethel Airport",
+    "country": "United States",
+    "city": "Bethel",
+    "lat": 60.7798,
+    "lon": -161.838,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Bethel Airport is a vital regional hub serving the Yukon-Kuskokwim Delta in western Alaska, providing the primary air link between remote Yupik villages and larger cities. As a medium-sized public airport, it functions as an essential lifeline for the surrounding communities that lack road access. The airport handles a high volume of regional and cargo flights, making it one of the busiest rural airports in the United States.",
+  "faqs": "Q: What is the main purpose of Bethel Airport?\nA: Bethel Airport serves as the primary transportation hub for the Yukon-Kuskokwim Delta, connecting roughly 50+ remote villages to Bethel and onward to Anchorage via regional carriers.\n\nQ: What airlines operate from Bethel Airport?\nA: Regional carriers such as Alaska Airlines (and its Horizon subsidiary), Ravn Alaska, Grant Aviation, and Yute Air operate scheduled passenger and cargo flights from BET.\n\nQ: Does Bethel Airport offer scheduled jet service?\nA: Yes, Alaska Airlines operates Boeing 737 jet service between Bethel and Anchorage, which is unusual for a remote community of its size.\n\nQ: Are there facilities like restaurants or shops at the airport?\nA: The terminal offers basic amenities including a small café, car rental counters, and waiting areas, though services are limited compared to larger airports.",
+  "transport_tips": "Most visitors and residents reach Bethel via Alaska Airlines jet service from Anchorage, which is the main gateway. Upon arrival, taxis and shuttle services are available but limited, so arranging ground transport in advance is recommended. There is no road access to Bethel; all ground transportation within the delta region depends on small aircraft, boats, or snowmachines.",
+  "local_tip": "Always confirm your cargo or checked baggage allotment in advance—Bethel flights often have strict weight limits because smaller commuter planes heading to surrounding villages have tight capacity constraints, and getting items shipped can take days.",
+  "generatedAt": "2026-06-29T07:05:11.019Z",
+  "model": "MiniMax-M3"
+}

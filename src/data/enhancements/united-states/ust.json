@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UST",
+    "icao": "KSGJ",
+    "name": "Northeast Florida Regional Airport",
+    "country": "United States",
+    "city": "St Augustine",
+    "lat": 29.9592,
+    "lon": -81.3398,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Northeast Florida Regional Airport (UST) serves the historic city of St. Augustine, the oldest continuously inhabited European-established settlement in the United States. The airport occupies the site of a former World War II naval air station, originally commissioned as Naval Air Station St. Augustine in 1942. Today it functions primarily as a general aviation facility while also hosting some scheduled commercial service to nearby destinations.",
+  "faqs": "Q: How far is Northeast Florida Regional Airport from downtown St. Augustine?\nA: The airport is approximately 5 miles north of the historic downtown area, typically a 10-15 minute drive.\n\nQ: Does the airport offer scheduled commercial flights?\nA: Yes, the airport has limited scheduled commercial service, but it is best known for general aviation, private flights, and flight training operations.\n\nQ: Is the airport the same one that served as a naval base?\nA: Yes, the airfield was originally built as Naval Air Station St. Augustine in 1942 and trained naval aviators during World War II before being converted to civilian use.\n\nQ: Are car rentals available at the airport?\nA: Rental car services are available on-site or by arrangement, and several local providers serve the terminal area.",
+  "transport_tips": "The airport is most easily reached by rental car, as rideshare availability can be limited in this coastal region. US-1 and I-95 both provide quick access from Jacksonville, which is roughly 40 miles to the north. Free parking is generally available on-site for both short-term and extended visits.",
+  "local_tip": "If you have time between flights, the St. Augustine Lighthouse is just a few miles south of the airport and offers a rewarding climb with panoramic views of the coastline and city.",
+  "generatedAt": "2026-06-29T18:11:40.989Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GCV",
+    "icao": "",
+    "name": "Gravatai Airport",
+    "country": "Brazil",
+    "city": "Gravatai",
+    "lat": -29.9494,
+    "lon": -50.9851,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Gravatai Airport (GCV) is a small general aviation airfield located in the city of Gravatai, part of the greater Porto Alegre metropolitan area in Rio Grande do Sul, southern Brazil. It primarily serves private aircraft, flight training, and occasional charter operations rather than scheduled commercial flights. The airport supports regional connectivity for the industrial zone of Gravatai, which is known for manufacturing and proximity to the state capital.",
+  "faqs": "Q: Does Gravatai Airport have scheduled commercial flights?\nA: No, Gravatai Airport is a small general aviation facility and does not offer scheduled commercial airline service. Travelers typically use Salgado Filho International Airport in Porto Alegre for commercial flights.\n\nQ: What is Gravatai Airport mainly used for?\nA: The airport primarily supports private aviation, flight training schools, and general aviation activities, serving the local industrial and business community.\n\nQ: Where is the airport located relative to Porto Alegre?\nA: Gravatai Airport is situated approximately 25 km north of Porto Alegre's city center, making it a short drive within the metropolitan region.\n\nQ: Are there customs or immigration facilities at GCV?\nA: No, the airport does not have international customs or immigration services as it is not designated for international flights.",
+  "transport_tips": "Travelers reaching Gravatai Airport by car can access it via the BR-290 highway from Porto Alegre, with the journey typically taking 30 to 45 minutes depending on traffic. Ride-sharing services and local taxis are available in the Gravatai area, though advance booking is recommended. For those without a car, the nearest public transit options are found in central Gravatai, requiring a short onward transfer to the airfield.",
+  "local_tip": "If you're visiting the area, consider pairing your trip with a stop at the nearby Itapuã State Park, one of Brazil's largest protected areas, which features beautiful Lake Guaíba scenery and is just a short drive from the airport.",
+  "generatedAt": "2026-06-27T21:59:29.162Z",
+  "model": "MiniMax-M3"
+}

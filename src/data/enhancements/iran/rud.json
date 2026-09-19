@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RUD",
+    "icao": "OIMJ",
+    "name": "Shahrud International Airport",
+    "country": "Iran",
+    "city": "Shahrud",
+    "lat": 36.4249,
+    "lon": 55.1043,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Shahrud International Airport serves the city of Shahrud in Iran's Semnan Province, a region known for its historical significance and proximity to the Hyrcanian forests, a UNESCO World Heritage site. As a small regional airport, it primarily handles domestic flights connecting Shahrud to major hubs such as Tehran. The airport provides convenient access for travelers visiting the northern Semnan Province and its surrounding natural attractions.",
+  "faqs": "Q: What is the IATA code for Shahrud International Airport?\nA: The IATA code is RUD, and its ICAO code is OIMJ.\n\nQ: Does Shahrud Airport offer international flights?\nA: It primarily operates domestic flights, mainly connecting to Tehran and other major Iranian cities, though it is classified as an international facility.\n\nQ: How far is the airport from Shahrud city center?\nA: The airport is located a short drive from the city, making it easily accessible for travelers.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, it offers basic terminal services including a waiting area, check-in counters, and ground transportation options.\n\n",
+  "transport_tips": "Taxis are the most common and convenient way to reach Shahrud city center from the airport, typically taking around 15-20 minutes. Travelers can arrange private transfers or use ride-hailing apps available in Iran such as Snapp and Tapsi for added convenience. Renting a car is also possible, which is useful for exploring the wider Semnan Province including nearby natural attractions.\n\n",
+  "local_tip": "Visit the nearby Abr Forest (Hyrcanian Forest), one of the oldest forests in the world and part of a UNESCO World Heritage Site, which is just a short drive from the airport and offers a unique natural experience.\n\n",
+  "generatedAt": "2026-06-28T07:03:52.900Z",
+  "model": "MiniMax-M3"
+}

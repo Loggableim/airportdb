@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DXB",
+    "icao": "OMDB",
+    "name": "Dubai International Airport",
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "lat": 25.2498,
+    "lon": 55.371,
+    "type": "large_airport",
+    "size": 1013675
+  },
+  "summary": "Dubai International Airport (DXB) is the primary international gateway to the United Arab Emirates and one of the world's busiest airports by international passenger traffic. Serving as the main hub for Emirates airline and flydubai, it handles over 80 million passengers annually across three modern terminals. The airport is renowned for its extensive duty-free shopping, luxury amenities, and strategic location just 5 km from downtown Dubai.",
+  "faqs": "Q: How far is Dubai International Airport from the city center?\nA: The airport is approximately 5 km (3 miles) east of downtown Dubai, typically a 15-20 minute drive depending on traffic.\n\nQ: What are the transport options from DXB to the city?\nA: Options include the Dubai Metro Red Line, official airport taxis, ride-hailing services like Uber and Careem, and hotel shuttle buses.\n\nQ: How many terminals does DXB have?\nA: Dubai International Airport has three terminals: Terminal 1 for most international carriers, Terminal 2 for regional and charter flights, and Terminal 3 exclusively serving Emirates and Qantas flights.\n\nQ: Is there free Wi-Fi at the airport?\nA: Yes, DXB offers free Wi-Fi throughout all terminals for passengers after a simple registration process.\n\n",
+  "transport_tips": "The Dubai Metro Red Line connects directly to Terminals 1 and 3, offering an affordable and traffic-free option to reach the city center. Official airport taxis are readily available outside arrivals and use metered fares, though ride-hailing apps often provide fixed upfront pricing. Allow extra time during rush hours (7-9 AM and 5-8 PM) as roads near the airport can experience significant congestion.",
+  "local_tip": "Visit the Zen Gardens in Terminal 3 between concourses A and B, or the indoor tropical garden in Concourse B featuring real butterflies and water features—perfect for relaxing during long layovers away from the typical terminal crowds.",
+  "generatedAt": "2026-06-28T15:16:40.052Z",
+  "model": "MiniMax-M3"
+}

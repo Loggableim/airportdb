@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BOK",
+    "icao": "KBOK",
+    "name": "Brookings Airport",
+    "country": "United States",
+    "city": "Brookings",
+    "lat": 42.0746,
+    "lon": -124.29,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Brookings Airport is a small general aviation facility serving the southern Oregon coastal community of Brookings, located in Curry County near the California border. The airport provides essential air access to a region known for its rugged Pacific coastline, redwood forests, and the nearby Chetco River. It primarily supports recreational flying, private aircraft, and occasional charter operations rather than scheduled commercial service.",
+  "faqs": "Q: Does Brookings Airport offer commercial passenger service?\nA: No, Brookings Airport is a general aviation facility with no scheduled commercial airline service. Travelers typically fly into larger airports like Crescent City (CEC) or Medford (MFR).\n\nQ: What is the airport primarily used for?\nA: The airport mainly serves private pilots, recreational flyers, and business aircraft visiting the Brookings area, along with some air ambulance and emergency services.\n\nQ: Are there pilot services available at the airport?\nA: Yes, Brookings Airport offers basic pilot amenities including fuel services and tie-downs, though it is an unattended field with no control tower.\n\nQ: What is the closest major airport with commercial service?\nA: The nearest airports with scheduled commercial flights are Del Norte County Regional Airport (CEC) in Crescent City, California, about 20 miles south, and Rogue Valley International-Medford Airport (MFR), roughly 100 miles east.",
+  "transport_tips": "Reaching Brookings Airport typically requires a personal vehicle, as there is no public transit directly serving the facility. The airport is located just a short drive south of downtown Brookings along the coast. Rental cars are the most practical option for visitors arriving by general aviation who need ground transportation.",
+  "local_tip": "Given Brookings' location near the Redwoods and along the scenic Pacific Coast, consider scheduling your visit to fly in during clear morning hours when coastal fog is least likely to affect visibility on approach to this unattended field.",
+  "generatedAt": "2026-06-27T06:47:07.786Z",
+  "model": "MiniMax-M3"
+}

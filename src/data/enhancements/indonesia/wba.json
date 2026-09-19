@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WBA",
+    "icao": "WAPV",
+    "name": "Wahai Airport",
+    "country": "Indonesia",
+    "city": "Wahai",
+    "lat": -2.8114,
+    "lon": 129.484,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Wahai Airport (WBA) is a small regional airfield serving the coastal town of Wahai on the northern coast of Seram Island in Indonesia's Maluku archipelago. It primarily functions as a vital link for local communities, supporting access to the remote and biodiverse interior of Seram, including nearby areas of Manusela National Park. The airport handles limited scheduled flights and serves mainly propeller aircraft suited to its short runway.",
+  "faqs": "Q: What is the IATA code for Wahai Airport?\nA: The IATA code is WBA, and its ICAO code is WAPV.\n\nQ: Are there regular commercial flights to Wahai?\nA: Scheduled service is limited and typically operated by small turboprop aircraft, with connections mainly through Ambon.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, facilities are basic, with a simple terminal and limited passenger services.\n\nQ: Where is Wahai Airport located?\nA: It is situated near the town of Wahai on the northern coast of Seram Island in Maluku province, eastern Indonesia.\n\n",
+  "transport_tips": "Ground transport from the airport to Wahai town is limited, so arranging a local ojek (motorbike taxi) or pickup in advance is recommended. Roads connecting the airport to surrounding villages can be rough, especially during the rainy season. Ferries also serve the northern Seram coast, offering an alternative route to nearby towns.",
+  "local_tip": "If visiting Manusela National Park, coordinate logistics in Wahai well ahead of time as local guides and boats are essential for reaching the park's interior, and mobile signal is unreliable.",
+  "generatedAt": "2026-06-27T15:15:03.744Z",
+  "model": "MiniMax-M3"
+}

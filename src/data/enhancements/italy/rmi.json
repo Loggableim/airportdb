@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RMI",
+    "icao": "LIPR",
+    "name": "Federico Fellini International Airport",
+    "country": "Italy",
+    "city": "Rimini (RN)",
+    "lat": 44.02,
+    "lon": 12.6122,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Federico Fellini International Airport (RMI) serves the popular Adriatic resort city of Rimini and the wider Emilia-Romagna coastline, including nearby destinations like Riccione and Cattolica. Named after the legendary Italian filmmaker Federico Fellini, who was born in Rimini in 1920, the airport connects the region to several European leisure markets. Operations are heavily seasonal, with expanded flight schedules during the busy summer beach season.",
+  "faqs": "Q: How far is Federico Fellini Airport from Rimini city center?\nA: The airport is located approximately 8 kilometers southeast of Rimini's historic center, typically a 15-20 minute drive depending on traffic.\n\nQ: Does the airport operate year-round?\nA: The airport primarily serves seasonal routes with increased activity during summer months, while winter schedules are significantly reduced with fewer regular services.\n\nQ: Which airlines typically fly to Rimini Airport?\nA: Low-cost carriers such as Ryanair have historically been among the main operators, alongside seasonal charter flights serving European holiday destinations.\n\nQ: Are there customs and immigration facilities at RMI?\nA: Yes, as an international airport, it has standard customs and border control facilities, though processing times are generally quick given its smaller size.",
+  "transport_tips": "The Metromare coast bus line (Route 11) provides an affordable connection between the airport and Rimini's main railway station, with onward trains linking to Bologna and other major Italian cities. Taxis and pre-booked private transfers are readily available outside the terminal and are a good option for reaching coastal resorts like Riccione quickly. Renting a car at the airport is convenient for exploring the wider Emilia-Romagna region, including San Marino just a short drive south.",
+  "local_tip": "If you have a layover or a few hours to spare, visit the nearby Fellini Museum (Museo Federico Fellini) in Rimini's historic center, which offers a fascinating deep dive into the filmmaker's cinematic universe and his relationship with his hometown.",
+  "generatedAt": "2026-06-28T19:56:40.292Z",
+  "model": "MiniMax-M3"
+}

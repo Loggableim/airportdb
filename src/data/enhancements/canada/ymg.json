@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YMG",
+    "icao": "CYMG",
+    "name": "Manitouwadge Airport",
+    "country": "Canada",
+    "city": "Manitouwadge",
+    "lat": 49.0839,
+    "lon": -85.8606,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Manitouwadge Airport (YMG/CYMG) is a regional airport serving the small northern Ontario community of Manitouwadge, a town historically tied to the mining and forestry industries. Located in a remote, forested area of the Algoma District, the facility primarily supports charter flights, medevac services, and general aviation. The airport plays a vital role in connecting this isolated community to larger hubs in Ontario.",
+  "faqs": "Q: What is the airport primarily used for?\nA: The airport mainly serves general aviation, charter flights, and medevac operations, as Manitouwadge is a small, remote community with limited road access in northern Ontario.\n\nQ: Are there scheduled commercial flights at Manitouwadge Airport?\nA: Scheduled commercial service is extremely limited; travelers typically rely on charter aircraft or drive to larger airports such as Thunder Bay for commercial connections.\n\nQ: What facilities are available at the airport?\nA: The airport features a single runway, basic terminal facilities, and fuel services for general aviation. Amenities are minimal due to the small volume of traffic.\n\nQ: Is the airport used for emergency medical evacuations?\nA: Yes, medevac flights are an important function of the airport, given the remote location and distance from major hospitals.",
+  "transport_tips": "The town of Manitouwadge is accessible primarily by Highway 614, and the airport is located a short drive from the community center. Taxi services are limited, so arranging ground transportation in advance is recommended. Visitors without a vehicle should coordinate rides with local accommodations or contacts before arrival.",
+  "local_tip": "Given the remote boreal setting, dress in layers even in summer—temperatures can drop quickly, and the airport has limited indoor seating, so having a warm jacket handy is wise during waits.",
+  "generatedAt": "2026-06-26T10:31:19.335Z",
+  "model": "MiniMax-M3"
+}

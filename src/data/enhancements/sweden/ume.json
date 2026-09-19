@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UME",
+    "icao": "ESNU",
+    "name": "Umeå Airport",
+    "country": "Sweden",
+    "city": "Umeå",
+    "lat": 63.7918,
+    "lon": 20.2828,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Umeå Airport (UME/ESNU) is the primary aviation gateway to northern Sweden, serving Umeå, the largest city in Norrland and a major cultural and academic hub. Located about 4 km northwest of the city center, the airport handles both domestic routes connecting to Stockholm and select international destinations. It plays a vital role in supporting the region's tourism, business travel, and the Umeå University community.",
+  "faqs": "Q: How far is Umeå Airport from the city center?\nA: The airport is approximately 4 km northwest of central Umeå, making it a quick 10-15 minute drive.\n\nQ: Which airlines operate from Umeå Airport?\nA: The airport is primarily served by SAS and Norwegian, with regular domestic flights to Stockholm Arlanda and Bromma, plus seasonal international services.\n\nQ: Does the airport have international flights?\nA: Yes, Umeå Airport offers limited international routes, including seasonal flights to destinations in Europe, though its main focus is domestic connectivity.\n\nQ: Are there facilities for overnight stays near the airport?\nA: Several hotels are located within a short drive of the airport, and the city center of Umeå offers a wide range of accommodation options nearby.",
+  "transport_tips": "The Flygbussarna airport shuttle runs frequently between the airport and Umeå city center, with a journey time of around 15 minutes. Taxis are readily available outside the terminal, and rental car services operate on-site for those exploring the wider Västerbotten region. The airport is well connected by road via the E4 highway, making it accessible for travelers driving from surrounding areas.",
+  "local_tip": "Frequent visitors should consider the airport's proximity to Umeå's university and research facilities—arriving early gives you time to enjoy a coffee at one of the terminal cafés while watching the northern winter skies, which can produce stunning aurora displays from late autumn through early spring.",
+  "generatedAt": "2026-06-28T20:12:32.288Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YMH",
+    "icao": "CYMH",
+    "name": "Mary's Harbour Airport",
+    "country": "Canada",
+    "city": "Mary's Harbour",
+    "lat": 52.3028,
+    "lon": -55.8474,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Mary's Harbour Airport is a small regional airport serving the remote coastal community of Mary's Harbour in Labrador, Canada. Located on the eastern coast of Labrador near the Strait of Belle Isle, it provides essential air access to a community that is otherwise isolated by road. The airport supports scheduled regional flights connecting residents to larger centres in Labrador and Newfoundland.",
+  "faqs": "Q: What airlines operate at Mary's Harbour Airport?\nA: The airport is primarily served by PAL Airlines, which operates scheduled regional flights connecting Mary's Harbour to destinations such as Goose Bay and St. Anthony.\n\nQ: How far is the airport from the town of Mary's Harbour?\nA: The airport is located just a short drive from the centre of Mary's Harbour, typically only a few minutes away by car.\n\nQ: Are there car rental services available at the airport?\nA: Rental car availability is limited at this small regional airport; visitors are advised to arrange ground transportation in advance with local contacts or accommodations.\n\nQ: Is the airport open year-round?\nA: Yes, the airport operates throughout the year, though weather conditions in Labrador can occasionally affect flight schedules during winter months.",
+  "transport_tips": "The airport is located just a short distance from Mary's Harbour town centre, with taxis or pre-arranged local transport being the primary means of reaching the terminal. There is no public transit serving the airport, so arranging a pickup in advance is recommended. Visitors staying at local lodges or accommodations can typically request shuttle services from their hosts.",
+  "local_tip": "Pack layers and bring snacks—flights in and out of this remote Labrador community can sometimes be delayed by coastal fog or weather, and the small terminal has limited amenities beyond basic seating.",
+  "generatedAt": "2026-06-26T17:22:59.732Z",
+  "model": "MiniMax-M3"
+}

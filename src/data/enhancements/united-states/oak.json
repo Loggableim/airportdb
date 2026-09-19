@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OAK",
+    "icao": "KOAK",
+    "name": "San Francisco Bay Oakland International Airport",
+    "country": "United States",
+    "city": "Oakland",
+    "lat": 37.7201,
+    "lon": -122.2212,
+    "type": "large_airport",
+    "size": 1012475
+  },
+  "summary": "San Francisco Bay Oakland International Airport (OAK) is one of the oldest continually operating airports on the U.S. West Coast, originally established in 1927 on former marshlands in the city of Oakland. Located just across the San Francisco Bay from downtown San Francisco, it serves as a major base for Southwest Airlines and provides a less congested alternative to San Francisco International Airport (SFO). The airport features a compact layout with two terminals connected by walkways, making navigation straightforward for travelers.",
+  "faqs": "Q: How far is Oakland Airport from downtown San Francisco?\nA: OAK is located approximately 12 miles east of downtown San Francisco across the bay, typically a 30-45 minute drive depending on traffic, and about 45 minutes via BART.\n\nQ: Does Oakland Airport have BART service?\nA: Yes, the Oakland International Airport Station is connected to the airport via an automated people mover (AirBART), providing direct transit access to downtown Oakland and San Francisco.\n\nQ: Which airlines operate from OAK?\nA: Southwest Airlines maintains a major focus city at OAK, with significant service. Other carriers include Alaska Airlines, Delta, Hawaiian, Spirit, and several international and regional airlines.\n\nQ: How many terminals does OAK have?\nA: Oakland Airport has two passenger terminals: Terminal 1 and Terminal 2, which are connected and walkable from one another.\n\n",
+  "transport_tips": "BART is often the most cost-effective option for traveling between OAK and San Francisco, with trains running frequently throughout the day. For those driving, the airport is directly accessible from Interstate 880 and is closer to many East Bay destinations than SFO. Rental car facilities and rideshare pickups are consolidated in a single area, making ground transportation relatively convenient.",
+  "local_tip": "If",
+  "generatedAt": "2026-06-28T15:18:27.403Z",
+  "model": "MiniMax-M3"
+}

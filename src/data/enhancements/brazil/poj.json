@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "POJ",
+    "icao": "SNPD",
+    "name": "Patos de Minas Airport",
+    "country": "Brazil",
+    "city": "Patos de Minas",
+    "lat": -18.6727,
+    "lon": -46.4913,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Patos de Minas Airport (POJ/SNPD) is a small regional airport serving the city of Patos de Minas in the state of Minas Gerais, Brazil. Located in the Alto Paranaíba region, it supports general aviation and limited commercial traffic for a municipality known as one of Brazil's largest dairy production hubs. The facility features a single runway and modest terminal infrastructure typical of Brazilian interior airports.",
+  "faqs": "Q: Does Patos de Minas Airport have scheduled commercial flights?\nA: The airport primarily handles general aviation and may offer occasional or charter commercial services; scheduled passenger flights are limited or unavailable on most days.\n\nQ: What is the airport's runway like?\nA: It has a single asphalt runway suitable for small to medium-sized aircraft, with operations generally limited to daylight hours under visual conditions.\n\nQ: Are there customs or immigration facilities?\nA: No, as a small domestic airport, there are no customs or immigration services available.\n\nQ: How far is the airport from downtown Patos de Minas?\nA: The airport is located a short drive from the city center, typically reachable within 10 to 15 minutes by car.",
+  "transport_tips": "Taxis and ride-hailing services like Uber are the most common ways to reach the airport from Patos de Minas city center. Rental cars can be arranged through agencies in the city, though on-site rental counters at the airport are unlikely. Travelers without a car should pre-arrange ground transport, as the airport has limited public transit options.",
+  "local_tip": "Visit the nearby Parque de Exposições during the annual ExpoPatos fair if your timing aligns — it's one of the largest agricultural and livestock events in Minas Gerais and showcases the region's famous cheese and dairy industry.",
+  "generatedAt": "2026-06-27T08:16:32.088Z",
+  "model": "MiniMax-M3"
+}

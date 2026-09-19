@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VAR",
+    "icao": "LBWN",
+    "name": "Varna Airport",
+    "country": "Bulgaria",
+    "city": "Varna",
+    "lat": 43.2321,
+    "lon": 27.8251,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Varna Airport (VAR/LBWN) is Bulgaria's third-busiest airport and the primary gateway to the country's Black Sea coast, serving the resort areas of Golden Sands, Albena, and Sunny Day. Located approximately 8 km west of central Varna, it handles a strong mix of seasonal charter flights during the summer months and scheduled European routes year-round. The airport underwent significant terminal modernization in the 2000s to accommodate growing tourism traffic to the region.",
+  "faqs": "Q: How far is Varna Airport from the city center?\nA: The airport is about 8 km west of Varna's city center, with typical taxi or transfer times of 15–20 minutes depending on traffic.\n\nQ: What destinations does Varna Airport serve?\nA: It primarily connects to European cities including London, Moscow, Berlin, Vienna, and Istanbul, with extensive seasonal charter flights to UK, German, Scandinavian, and Russian destinations in summer.\n\nQ: Is Varna Airport busy year-round?\nA: Traffic is highly seasonal, with peak operations from June through September driven by beach tourism; winter schedules are significantly reduced with fewer daily flights.\n\nQ: Does the airport have public transport options?\nA: Yes, public bus line 409 connects the airport to central Varna, and there are also shuttle services to nearby resort towns like Golden Sands and Albena.",
+  "transport_tips": "Pre-booking a fixed-price taxi or transfer is recommended during summer peak season, as queues for standard taxis can be long with arriving charter flights. The bus 409 service to the city is affordable but infrequent, so check the schedule in advance. Rental car agencies are available in the terminal, and driving to Golden Sands or Albena resorts takes roughly 30–40 minutes.",
+  "local_tip": "If you have a long layover or early arrival, the nearby Sea Garden (Primorski Park) is just a short taxi ride away and offers a pleasant walk along the Black Sea coast—a great way to enjoy Varna without going into the city center.",
+  "generatedAt": "2026-06-28T17:06:20.384Z",
+  "model": "MiniMax-M3"
+}

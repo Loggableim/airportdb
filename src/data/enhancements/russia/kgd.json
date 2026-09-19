@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KGD",
+    "icao": "UMKK",
+    "name": "Khrabrovo Airport",
+    "country": "Russia",
+    "city": "Kaliningrad",
+    "lat": 54.8916,
+    "lon": 20.5986,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Khrabrovo Airport is the sole air gateway to Kaliningrad, a Russian exclave on the Baltic Sea separated from the mainland by Lithuania and Poland. Originally built in the Soviet era, it serves as a vital transport link between the Kaliningrad region and mainland Russia, handling over 3 million passengers annually in recent years. The single-terminal facility has undergone modernization to accommodate growing domestic and limited international traffic.",
+  "faqs": "Q: How far is Khrabrovo Airport from Kaliningrad city center?\nA: The airport is located approximately 24 km (15 miles) northeast of central Kaliningrad, with a typical drive taking 30-40 minutes.\n\nQ: Are there direct flights from Khrabrovo to European cities?\nA: International flights are limited due to Kaliningrad's geography, but seasonal and charter services to select European destinations have operated, especially during tourism peaks.\n\nQ: What is the airport's main hub airline?\nA: Several Russian carriers serve the airport, with frequent connections to Moscow, St. Petersburg, and other mainland Russian cities being the primary routes.\n\nQ: Does the airport operate 24 hours?\nA: The airport generally operates during scheduled flight hours, which typically cover early morning to late evening, with reduced overnight operations.",
+  "transport_tips": "Taxis and ride-hailing services like Yandex Go are the most convenient options, costing roughly 800-1200 RUB to reach the city center. Bus route 144 connects the airport to Kaliningrad's central bus station with limited but affordable service. Car rental agencies are available in the terminal but booking in advance is recommended, especially during summer tourist season.",
+  "local_tip": "Always carry your passport and migration card visibly while transiting Kaliningrad — as a special economic zone, occasional document checks occur even within the airport, and the Kaliningrad region operates under specific visa-free rules for arrivals from mainland Russia that differ from international entries.",
+  "generatedAt": "2026-06-28T22:28:04.525Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WZA",
+    "icao": "DGLW",
+    "name": "Wa Airport",
+    "country": "Ghana",
+    "city": "Wa",
+    "lat": 10.0827,
+    "lon": -2.5077,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Wa Airport (WZA) is a small regional airport serving Wa, the capital of Ghana's Upper West Region, located near the border with Burkina Faso. The airport provides essential domestic connectivity for a region that is otherwise difficult to reach by road, particularly during the rainy season. It primarily handles short-haul flights connecting Wa to Accra and supports regional development, humanitarian missions, and limited commercial traffic.",
+  "faqs": "Q: What is the airport code for Wa Airport?\nA: The IATA code is WZA and the ICAO code is DGLW.\n\nQ: Are there scheduled commercial flights to Wa?\nA: Yes, small domestic carriers occasionally operate scheduled flights between Wa and Accra, though schedules can be irregular and subject to seasonal changes.\n\nQ: How far is the airport from Wa town center?\nA: Wa Airport is located just a few kilometers east of the town center, making it a short drive of approximately 10 to 15 minutes by car or taxi.\n\nQ: Does the airport operate at night?\nA: No, Wa Airport has limited infrastructure and does not have nighttime operations or instrument landing systems, so flights are restricted to daylight hours only.\n\n",
+  "transport_tips": "Taxis and motorbike taxis (okada) are the most common ways to reach the airport from Wa town, and it's advisable to arrange transport in advance as airport-side options are limited. Roads in the Upper West Region can become difficult to navigate during the rainy season (May–October), so allow extra travel time. Private car hire from local operators in Wa is the most reliable option for reaching the airport with luggage.",
+  "local_tip": "Bring your own snacks and water, as there are no commercial amenities or food options at the terminal, and plan for flexible scheduling since regional flights in northwestern Ghana are often delayed by weather or aircraft availability.",
+  "generatedAt": "2026-06-28T10:10:54.790Z",
+  "model": "MiniMax-M3"
+}

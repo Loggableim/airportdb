@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MAA",
+    "icao": "VOMM",
+    "name": "Chennai International Airport",
+    "country": "India",
+    "city": "Chennai",
+    "lat": 12.99,
+    "lon": 80.1693,
+    "type": "large_airport",
+    "size": 51150
+  },
+  "summary": "Chennai International Airport (MAA) is the primary aviation gateway to South India, serving the metropolitan area of Chennai, the capital of Tamil Nadu. As the fourth busiest airport in India, it operates two main terminals — the Kamaraj Domestic Terminal and the Anna International Terminal — handling both passenger and significant cargo traffic. The airport sits about 21 km southwest of the city center and serves as a major hub for carriers including IndiGo, Air India, and several international airlines connecting South Asia to the Middle East, Southeast Asia, and beyond.",
+  "faqs": "Q: How far is Chennai International Airport from the city center?\nA: The airport is approximately 21 km (13 miles) southwest of Chennai's city center, with typical travel times of 45 minutes to over an hour depending on traffic conditions.\n\nQ: Does Chennai Airport have separate terminals for domestic and international flights?\nA: Yes, the airport operates two terminals: the Kamaraj Terminal handles domestic flights, while the Anna Terminal manages international operations. The two terminals are located within walking distance of each other.\n\nQ: Are there good transport options between the airport and Chennai city?\nA: Travelers can use the Chennai Metro Rail (which connects directly to the airport), prepaid taxis, app-based ride services like Ola and Uber, and government-run buses operated by MTC for affordable transfers.\n\nQ: Is there a metro station at the airport?\nA: Yes, Chennai International Airport has its own metro station on the Blue Line of the Chennai Metro, providing fast and affordable access to key areas of the city including the central business district.",
+  "transport_tips": "The Chennai Metro Blue Line offers the fastest and most reliable connection to the city, with trains running every few minutes and reaching central Chennai in around 30 minutes. Prepaid taxi counters are available in both terminals' arrivals areas for fixed-rate rides, while app-based services like Ola and Uber provide convenient alternatives with online booking. Allow extra time during peak hours (morning and evening) as road traffic in Chennai can be heavy.",
+  "local_tip": "Keep small change and coins handy — many travelers overlook the prepaid auto-rickshaw booths just outside the terminals, which offer metered, fixed-fare rides and can be quicker to access than the taxi queues during busy periods.",
+  "generatedAt": "2026-06-28T15:57:03.968Z",
+  "model": "MiniMax-M3"
+}

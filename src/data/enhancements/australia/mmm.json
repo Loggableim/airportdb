@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MMM",
+    "icao": "YMMU",
+    "name": "Middlemount Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -22.8014,
+    "lon": 148.7068,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Middlemount Airport is a small regional airfield serving the mining town of Middlemount in Central Queensland, Australia. The airport primarily supports fly-in fly-out (FIFO) workers and charter flights linked to the surrounding coal mining operations in the Bowen Basin. It features a single sealed runway suitable for light to medium aircraft.",
+  "faqs": "Q: What type of aircraft typically use Middlemount Airport?\nA: The airport primarily handles light aircraft, turboprops, and small regional jets used for FIFO worker transfers and charter services related to the mining industry.\n\nQ: Are there scheduled commercial flights to Middlemount?\nA: No regular scheduled commercial service operates here; flights are generally charter-based or private, often arranged through mining companies for staff transport.\n\nQ: Is the airport open to the public?\nA: As a small regional airfield, it is accessible to general aviation, but there are limited passenger facilities. Prior arrangement with operators is typically required.\n\nQ: What facilities are available at the terminal?\nA: Facilities are minimal, reflecting the airport's role as a basic transport hub for the local community and industry workers.",
+  "transport_tips": "Ground transport is generally arranged in advance, as the airport has no public transit links. Most travelers rely on company-organized shuttles, pre-booked taxis, or rental vehicles from nearby centers like Rockhampton or Emerald. The town of Middlemount is only a short drive from the airport.",
+  "local_tip": "If visiting for mining-related work, coordinate your transfer through your employer well in advance, as ride-share services are not reliably available in this remote area.",
+  "generatedAt": "2026-06-27T15:33:02.395Z",
+  "model": "MiniMax-M3"
+}

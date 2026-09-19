@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CCJ",
+    "icao": "VOCL",
+    "name": "Calicut International Airport",
+    "country": "India",
+    "city": "Calicut",
+    "lat": 11.136,
+    "lon": 75.9552,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Calicut International Airport (CCJ), located in Karipur about 25 km from Kozhikode city, is the primary gateway to the Malabar region of northern Kerala. It holds the distinction of being the first airport in Kerala capable of handling wide-body aircraft and serves as a major hub for flights connecting Kerala to the Gulf states, particularly for Hajj pilgrimage traffic. The airport operates from a distinctive table-top runway layout on the Western Ghats foothills.",
+  "faqs": "Q: How far is Calicut International Airport from Kozhikode city center?\nA: The airport is located in Karipur, approximately 25-28 km from Kozhikode city center, with travel times of 45-75 minutes depending on traffic.\n\nQ: Which airlines operate international flights from Calicut?\nA: Calicut has regular international services to Gulf destinations operated by Air India Express, Saudia, Emirates, Qatar Airways, Oman Air, Air Arabia, and Etihad, among others.\n\nQ: Does the airport have facilities for overnight stays?\nA: Yes, the airport offers limited resting areas, and several hotels and lodges are available in Karipur and nearby Kondotty for transit passengers.\n\nQ: Is there a separate international and domestic terminal?\nA: Yes, Calicut Airport has separate terminals for domestic and international operations, both equipped with standard amenities including dining and duty-free shopping for international passengers.",
+  "transport_tips": "Prepaid taxi counters are available at both terminal arrivals; Uber and Ola services operate but pickup zones may require walking from the terminal. KSRTC buses and private Volvo coaches connect the airport to Kozhikode city and Malappuram. Given the airport's hilltop location and frequent fog in winter mornings, allow extra time for travel to catch early flights.",
+  "local_tip": "The airport sits on elevated terrain overlooking the",
+  "generatedAt": "2026-06-28T21:35:01.604Z",
+  "model": "MiniMax-M3"
+}

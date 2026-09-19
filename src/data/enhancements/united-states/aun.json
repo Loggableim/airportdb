@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AUN",
+    "icao": "KAUN",
+    "name": "Auburn Municipal Airport",
+    "country": "United States",
+    "city": "Auburn",
+    "lat": 38.9548,
+    "lon": -121.082,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Auburn Municipal Airport (KAUN) is a general aviation facility serving Auburn, California, nestled in the western foothills of the Sierra Nevada at roughly 1,535 feet elevation. The airport primarily supports recreational flying, flight training, and corporate general aviation, and is a popular starting point for pilots exploring the Sierra Nevada region and the Sacramento Valley. Its proximity to historic Gold Rush country makes it a favored stop for visitors flying into the area.",
+  "faqs": "Q: Does Auburn Municipal Airport offer commercial airline service?\nA: No, Auburn Municipal Airport is a general aviation facility and does not provide scheduled commercial passenger service.\n\nQ: How far is the airport from downtown Auburn?\nA: The airport is located about three miles northeast of downtown Auburn, a short drive via Highway 49 and Bell Road.\n\nQ: What is the main runway at KAUN?\nA: The airport features a single asphalt runway, designated 7/25, which is approximately 3,700 feet long.\n\nQ: Are there fueling and tie-down services available?\nA: Yes, the airport offers 100LL aviation fuel and aircraft tie-down services for visiting pilots, with FBO amenities on site.\n\n",
+  "transport_tips": "Renting a car is the most practical option for reaching the airport, as there is no public transit serving the facility directly. Auburn is accessible via Interstate 80 and State Route 49, making it roughly a 45-minute drive from Sacramento International Airport. Ride-share and taxi services are available but should be arranged in advance, as availability in Auburn can be limited.",
+  "local_tip": "If you have time to spare, drive a few minutes into downtown Auburn to explore Old Town's Gold Rush-era architecture, antique shops, and local restaurants along the historic main street.",
+  "generatedAt": "2026-06-26T23:47:38.036Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TSZ",
+    "icao": "ZMTG",
+    "name": "Tsetserleg Airport",
+    "country": "Mongolia",
+    "city": "Tsetserleg",
+    "lat": 47.4615,
+    "lon": 101.4838,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Tsetserleg Airport (TSZ/ZMTG) is a small regional airport serving Tsetserleg, the capital of Arkhangai Province in central Mongolia. It primarily handles domestic flights and general aviation, providing important access to the mountainous Khangai region known for its volcanic landscapes, nomadic herding culture, and proximity to Terkhiin Tsagaan Lake. The airport's modest size reflects the low-volume traffic typical of Mongolia's provincial airfields.",
+  "faqs": "Q: Does Tsetserleg Airport have international flights?\nA: No, TSZ is a domestic-only airport serving regional flights within Mongolia.\n\nQ: What is the main use of Tsetserleg Airport?\nA: The airport mainly supports domestic passenger services, occasional charter flights, and general aviation in the Arkhangai region.\n\nQ: How far is the airport from Tsetserleg town center?\nA: The airport is located a short drive from the town of Tsetserleg, typically reachable in under 15 minutes by vehicle.\n\nQ: Are there scheduled flights to Ulaanbaatar from Tsetserleg?\nA: Occasional domestic services may connect Tsetserleg with Ulaanbaatar, but schedules are limited and should be confirmed locally.",
+  "transport_tips": "Taxis and local drivers are the most practical way to reach the airport, as there is no public transit directly serving the facility. Renting a 4x4 vehicle is recommended if you plan to explore the surrounding Arkhangai countryside after arrival. Roads from the airport into Tsetserleg town are generally paved but can become rough in winter conditions.",
+  "local_tip": "Bring warm layers regardless of season — Tsetserleg sits at over 1,600 meters elevation in the Khangai Mountains, and temperatures can drop sharply even in summer mornings and evenings.",
+  "generatedAt": "2026-06-28T09:38:42.060Z",
+  "model": "MiniMax-M3"
+}

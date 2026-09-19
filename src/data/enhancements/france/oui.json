@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OUI",
+    "icao": "LFEC",
+    "name": "Ouessant Airport",
+    "country": "France",
+    "city": "Ushant",
+    "lat": 48.4632,
+    "lon": -5.0636,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Ouessant Airport (OUI) is a small airfield serving the island of Ushant, the westernmost inhabited island of metropolitan France, located in the Izelvez archipelago off the coast of Brittany. It primarily supports scheduled regional flights and emergency services for the island's small permanent population of roughly 800 residents. The airport is notable for being one of the most remote and weather-dependent airfields in France, surrounded by the rugged Atlantic seascape.",
+  "faqs": "Q: Which airlines fly to Ouessant Airport?\nA: Finistair operates scheduled passenger flights between Ouessant and Brest Bretagne Airport, typically using small twin-engine aircraft suited to the short runway and island conditions.\n\nQ: How long is the runway at Ouessant Airport?\nA: The airport has a single short paved runway, suitable only for small regional aircraft, which limits the types of planes that can operate there.\n\nQ: Is Ouessant Airport affected by weather?\nA: Yes, the airport is highly weather-sensitive due to its Atlantic exposure. Flights are frequently cancelled or diverted during fog, strong winds, and storms common in the region.\n\nQ: Can I take a ferry to Ushant instead?\nA: Absolutely. Compagnie Penn Ar Bed operates ferries from Le Conquet and Brest to Ushant, and the ferry is often considered the more reliable option for reaching the island.",
+  "transport_tips": "The airport is located near the village of Lambaol on the western side of the island, roughly 4 km from the main town. Rental cars and bicycles are limited, so many visitors arrange accommodation transfers in advance or take a taxi from the small terminal area. Given frequent flight disruptions, travelers are advised to keep flexible ferry schedules as a backup plan.",
+  "local_tip": "Book the earliest morning flight whenever possible, as the island's weather often deteriorates by afternoon due to Atlantic cloud",
+  "generatedAt": "2026-06-26T19:40:50.865Z",
+  "model": "MiniMax-M3"
+}

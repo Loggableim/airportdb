@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TGU",
+    "icao": "MHTG",
+    "name": "Toncontín Airport",
+    "country": "Honduras",
+    "city": "Tegucigalpa",
+    "lat": 14.0609,
+    "lon": -87.2172,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Toncontín International Airport (TGU) serves Tegucigalpa, the capital of Honduras, and is widely regarded as one of the most technically challenging airports in the world. Nestled in a mountain valley at high elevation, it features one of the shortest commercial runways, requiring specially trained pilots to navigate the approach between surrounding peaks. The airport has been the site of several notable incidents throughout its history, underscoring its demanding operational conditions.",
+  "faqs": "Q: Why is Toncontín Airport considered one of the most dangerous in the world?\nA: Its short runway, high elevation, and location in a mountain valley with surrounding peaks require specially certified pilots and precise approach techniques, making landings and takeoffs technically demanding.\n\nQ: What is the elevation of Toncontín Airport?\nA: The airport sits at approximately 3,300 feet (1,000 meters) above sea level in a valley surrounded by mountains reaching over 7,000 feet.\n\nQ: Which airlines operate from Toncontín?\nA: The airport is primarily served by Honduran carriers and regional airlines offering domestic flights and connections to other Central American and U.S. destinations.\n\nQ: Are there overnight facilities at the airport?\nA: The terminal has limited overnight amenities, though nearby hotels in Tegucigalpa offer shuttle services for travelers with early or late flights.",
+  "transport_tips": "The airport is conveniently located only about 6 km from central Tegucigalpa, making taxi rides quick and affordable, typically taking 15-25 minutes depending on traffic. Official yellow taxis are recommended over unmarked vehicles for safety. Ride-sharing apps have limited availability, so arrange ground transport in advance when possible.",
+  "local_tip": "Allow extra time for flights during the rainy season (May to October), as afternoon thunderstorms frequently cause delays and diversions due to the mountain terrain's weather patterns.",
+  "generatedAt": "2026-06-29T05:01:20.737Z",
+  "model": "MiniMax-M3"
+}

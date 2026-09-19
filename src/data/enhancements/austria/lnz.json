@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LNZ",
+    "icao": "LOWL",
+    "name": "Linz-Hörsching Airport",
+    "country": "Austria",
+    "city": "Linz",
+    "lat": 48.2354,
+    "lon": 14.1881,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Linz-Hörsching Airport (LNZ) is the main international gateway for Linz, the capital of Upper Austria and an important industrial and cultural hub along the Danube River. The airport serves a dual civilian and military role and is the second-largest international airport in Austria after Vienna. It provides scheduled, charter, and cargo services connecting Upper Austria to major European destinations.",
+  "faqs": "Q: How far is Linz Airport from the city center?\nA: The airport is located approximately 12 kilometers southwest of central Linz, typically a 15-20 minute drive depending on traffic.\n\nQ: What destinations can I fly to from Linz?\nA: Linz Airport primarily offers flights to other Austrian cities, German hubs, and select European leisure destinations, with seasonal charter services in summer and winter.\n\nQ: Is there public transport available at the airport?\nA: Yes, regional bus lines connect the airport to Linz Hauptbahnhof (main station) and surrounding communities, with schedules aligned to flight arrivals and departures.\n\nQ: Does the airport operate 24 hours?\nA: No, Linz Airport has limited operating hours with no scheduled overnight flights, so check your carrier's",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T19:38:13.659Z",
+  "model": "MiniMax-M3"
+}

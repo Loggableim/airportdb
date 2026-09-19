@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CCS",
+    "icao": "SVMI",
+    "name": "Maiquetía Simón Bolívar International Airport",
+    "country": "Venezuela",
+    "city": "Maiquetía",
+    "lat": 10.6022,
+    "lon": -66.9912,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Maiquetía Simón Bolívar International Airport is Venezuela's principal international gateway, named after the South American liberator Simón Bolívar and located in the coastal town of Maiquetía just minutes from Caracas. Situated along the Caribbean coast at the foot of the Ávila mountain range, it serves as the main hub for the country's flag carrier Conviasa and handles the majority of Venezuela's international air traffic. The airport underwent a major terminal expansion and modernization in the mid-2000s to accommodate growing passenger volumes.",
+  "faqs": "Q: How far is the airport from Caracas?\nA: The airport is approximately 21 km (13 miles) northwest of central Caracas, typically a 30 to 50 minute drive depending on traffic.\n\nQ: What is the airport officially named after?\nA: It is named after Simón Bolívar, the Venezuelan-born leader who played a key role in the independence of several South American nations.\n\nQ: Is this the only major international airport in Venezuela?\nA: It is by far the largest and busiest, though there are a few other international airports in the country such as Maracaibo and Valencia.\n\nQ: Does the airport operate 24 hours?\nA: Yes, it operates around the clock, with international flights scheduled throughout the day and night.\n\n",
+  "transport_tips": "Official taxis and authorized airport shuttles are the most reliable options, as ride-sharing apps have limited availability in Venezuela. The airport connects to Caracas via a well-maintained highway, but travelers should allow extra time during rush hours. Rental cars are available at the terminal, though an international driving permit is recommended.",
+  "local_tip": "The nearby coastal town of Maiquetía and the adjacent La Guaira area offer some excellent seafood restaurants with stunning Caribbean views, making them a great pre-flight meal option if you arrive with time to spare.",
+  "generatedAt": "2026-06-28T18:48:44.496Z",
+  "model": "MiniMax-M3"
+}

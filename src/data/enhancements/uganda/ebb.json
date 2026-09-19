@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EBB",
+    "icao": "HUEN",
+    "name": "Entebbe International Airport",
+    "country": "Uganda",
+    "city": "Entebbe",
+    "lat": 0.0424,
+    "lon": 32.4435,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Entebbe International Airport (EBB) is Uganda's principal gateway, situated on the northern shore of Lake Victoria approximately 40 km southwest of Kampala. Originally established as a British colonial airfield in the 1940s, the airport gained global historical significance as the site of the 1976 Israeli hostage rescue mission known as Operation Entebbe. Today it serves as the hub for Uganda Airlines and handles the vast majority of the country's international traffic, with a lakeside terminal setting that is rare among African airports.",
+  "faqs": "Q: How far is Entebbe International Airport from Kampala?\nA: The airport is roughly 40 km southwest of Kampala's city center, typically a 45-90 minute drive depending on traffic and route taken via the Kampala-Entebbe Expressway.\n\nQ: What airlines operate international flights from Entebbe?\nA: Major carriers serving EBB include Emirates, Qatar Airways, KLM, Turkish Airlines, Ethiopian Airlines, Kenya Airways, Brussels Airlines, and Uganda Airlines, connecting to destinations across Africa, Europe, the Middle East, and Asia.\n\nQ: Is there a memorial at the airport related to the 1976 hijacking?\nA: Yes, a small memorial near the old terminal commemorates Operation Entebbe, and the site of the old terminal where hostages were held is a point of historical interest for visitors.\n\nQ: Does the airport operate 24 hours?\nA: Entebbe International Airport handles scheduled flights primarily during daytime and evening hours; it is not a 24-hour operation for passenger services, though some late-night and early-morning arrivals do occur.\n\n",
+  "transport_tips": "The modern Kampala-Entebbe Expressway provides the fastest link to the capital, completing the journey in roughly 45 minutes for a toll fee. Taxis and ride-hailing services like Uber and SafeBoda are available at clearly marked ranks outside the arrivals hall. Shared minibus taxis (matatus) are a budget option but can be crowded and slow, particularly during peak hours.",
+  "local_tip": "If you have a long layover or extra time before a flight, the Uganda Wildlife Education Centre (UWEC) and the Entebbe Botanical Gardens are both within 10 minutes of the airport and offer a memorable glimpse of local wildlife and greenery along the lakeshore.",
+  "generatedAt": "2026-06-28T19:19:43.995Z",
+  "model": "MiniMax-M3"
+}

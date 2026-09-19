@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PKO",
+    "icao": "DBBP",
+    "name": "Parakou Airport",
+    "country": "Benin",
+    "city": "Parakou",
+    "lat": 9.3577,
+    "lon": 2.6097,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Parakou Airport (PKO/DBBP) is a small regional airport serving Parakou, the largest city and economic hub of northern Benin. Situated in the Borgou Department, it primarily handles domestic flights and charter operations connecting the region to Cotonou and other West African destinations. The airport is a vital link for the agricultural and commercial activity of northern Benin.",
+  "faqs": "Q: What is the airport code for Parakou Airport?\nA: The IATA code is PKO and the ICAO code is DBBP.\n\nQ: Are there international flights from Parakou Airport?\nA: No, the airport primarily serves domestic routes, mainly to Cotonou. International travelers typically connect through Cotonou's Cadjehoun Airport.\n\nQ: How far is the airport from Parakou city center?\nA: The airport is located a few kilometers from central Parakou, with a short drive via the main road.\n\nQ: What facilities are available at the airport?\nA: As a small airport, facilities are limited to basic terminal amenities; travelers should expect minimal services and arrive well in advance.",
+  "transport_tips": "Taxis and moto-taxis are the most common ways to reach the airport from Parakou city center, with the journey typically taking under 20 minutes. There is no public bus service directly to the terminal, so arranging private transport in advance is recommended. Road access is via RNIE 2 and RNIE 6, which connect Parakou to Cotonou and neighboring Niger.",
+  "local_tip": "Flights to Parakou can be seasonal and weather-dependent during the rainy season (May to October), so confirm schedules the day before and consider booking a flexible ticket through Cotonou as a backup plan.",
+  "generatedAt": "2026-06-27T14:01:27.953Z",
+  "model": "MiniMax-M3"
+}

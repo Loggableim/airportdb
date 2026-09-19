@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BDD",
+    "icao": "YBAU",
+    "name": "Badu Island Airport",
+    "country": "Australia",
+    "city": "Badu Island",
+    "lat": -10.1495,
+    "lon": 142.1737,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Badu Island Airport is a small regional airport serving Badu Island in the Torres Strait, Queensland, Australia. Located approximately 150 km north of the mainland tip of Cape York Peninsula and near the border with Papua New Guinea, it provides essential air connections for the island's Indigenous Torres Strait Islander community. The airport primarily handles short-haul flights operated by regional carriers linking it to Cairns and other Torres Strait islands.",
+  "faqs": "Q: What airlines fly to Badu Island Airport?\nA: Regional carriers operating in the Torres Strait, such as West Wing Aviation and Regional Express (Rex) via subsidiary operations, provide scheduled services connecting Badu Island to Cairns and nearby island airports.\n\nQ: Are there regular passenger flights to BDD?\nA: Yes, scheduled passenger flights operate several times per week, though frequencies are limited and can be affected by weather conditions in the tropical region.\n\nQ: What facilities are available at the airport?\nA: The terminal offers basic amenities suitable for a small community airport, including a waiting area and check-in facilities, but no extensive retail or dining services.\n\nQ: Is the airport used for emergency medical flights?\nA: Yes, the airport supports Royal Flying Doctor Service and emergency retrieval operations, which are vital for the remote island community.",
+  "transport_tips": "Given the island's remote location in the Torres Strait, most travelers reach Badu Island by air from Cairns, with the flight taking roughly 90 minutes. Ground transport on the island is limited; arrange a vehicle pickup in advance as rental services are minimal. Flights can be cancelled due to tropical weather, so build flexibility into travel plans and monitor conditions closely.",
+  "local_tip": "Bring all essential supplies including medications and specialty food items, as the island's small store has limited stock and opening hours can be irregular.",
+  "generatedAt": "2026-06-26T16:47:39.043Z",
+  "model": "MiniMax-M3"
+}

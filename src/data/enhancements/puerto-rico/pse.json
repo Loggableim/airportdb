@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PSE",
+    "icao": "TJPS",
+    "name": "Mercedita International Airport",
+    "country": "Puerto Rico",
+    "city": "Ponce",
+    "lat": 18.0083,
+    "lon": -66.563,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mercedita International Airport (PSE) is a medium-sized regional airport located in Ponce, on the southern Caribbean coast of Puerto Rico. The airport sits on the site of the historic Mercedita sugar cane plantation, from which it takes its name. It primarily serves the southern Puerto Rico region, offering a convenient alternative to San Juan's Luis Muñoz Marín International Airport for travelers heading to destinations like the Serrallés Castle, Bahía de Ponce, and nearby beach resorts.",
+  "faqs": "Q: What is the distance from Mercedita Airport to downtown Ponce?\nA: The airport is approximately 4 miles (6.5 km) east of downtown Ponce, typically a 10-15 minute drive depending on traffic.\n\nQ: Does Mercedita Airport have customs and immigration facilities?\nA: As Puerto Rico is a U.S. territory, flights between PSE and the U.S. mainland are treated as domestic. International arrivals with customs processing are limited.\n\nQ: Which airlines operate at Mercedita International Airport?\nA: The airport is primarily served by regional and low-cost carriers offering flights to other Caribbean destinations and occasional U.S. mainland routes.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers on-site short-term and long-term parking options near the terminal building.",
+  "transport_tips": "Rental cars are the most convenient way to reach the airport and explore southern Puerto Rico, as public transportation in the Ponce area is limited. Taxi services and ride-sharing apps are available at the terminal, though waiting times can be longer than at major airports. Most major Ponce hotels are within a 15-20 minute drive of the terminal.",
+  "local_tip": "Pack a light jacket even in summer—air conditioning at PSE is notably strong, and arriving at the terminal after a hot day outside can be a shock.",
+  "generatedAt": "2026-06-29T13:01:56.359Z",
+  "model": "MiniMax-M3"
+}

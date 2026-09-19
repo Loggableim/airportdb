@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TLV",
+    "icao": "LLBG",
+    "name": "Ben Gurion International Airport",
+    "country": "Israel",
+    "city": "Tel Aviv",
+    "lat": 32.0114,
+    "lon": 34.8867,
+    "type": "large_airport",
+    "size": 1011275
+  },
+  "summary": "Ben Gurion International Airport (TLV) is Israel's largest and busiest airport, named after the country's first Prime Minister, David Ben-Gurion. Originally established in 1936 as Lydda Airport during the British Mandate, it now serves as the primary hub for El Al and a major gateway between Europe, Asia, and Africa. Located about 15 km southeast of Tel Aviv and roughly 50 km from Jerusalem, it consistently ranks among the Middle East's top airports for passenger experience and security.",
+  "faqs": "Q: How far is Ben Gurion Airport from Tel Aviv city center?\nA: The airport is approximately 15 km southeast of Tel Aviv, with a typical taxi or train journey taking 20-30 minutes depending on traffic.\n\nQ: Which terminal does El Al use at Ben Gurion?\nA: El Al and most major international carriers operate from Terminal 3, while Terminal 1 primarily handles low-cost and some regional flights.\n\nQ: Is there a train connection from Ben Gurion to Tel Aviv and Jerusalem?\nA: Yes, the Israel Railways train station is located in Terminal 3, offering direct service to Tel Aviv, Jerusalem, and other major cities.\n\nQ: How long before departure should I arrive at Ben Gurion?\nA: Due to thorough security procedures, passengers are generally advised to arrive at least 3 hours before international flights and 2 hours before domestic flights.",
+  "transport_tips": "The Israel Railways train from Terminal 3 offers the fastest and most reliable way to reach Tel Aviv, with frequent departures throughout the day. Taxis and shared shuttle vans (sherut) are readily available outside the terminal and provide door-to-door service, though they are subject to traffic on the Ayalon Highway. Rideshare apps like Gett operate at the airport and can offer competitive fares, especially during off-peak hours.",
+  "local_tip": "The observation deck on the roof of Terminal 3's landside area offers excellent plane spotting and views of arriving and departing aircraft—a great way to pass time if you arrive early, as security screening at Ben Gurion is notably thorough and slow-moving.",
+  "generatedAt": "2026-06-28T15:19:30.262Z",
+  "model": "MiniMax-M3"
+}

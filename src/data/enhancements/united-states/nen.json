@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NEN",
+    "icao": "KNEN",
+    "name": "Whitehouse Naval Outlying Field",
+    "country": "United States",
+    "city": "Jacksonville",
+    "lat": 30.3539,
+    "lon": -81.8719,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Whitehouse Naval Outlying Field (NEN) is a U.S. Navy training airfield situated west of Jacksonville, Florida, serving as a Naval Outlying Field (NOLF) primarily used for pilot training touch-and-go operations. It supports the broader Naval Air Station Jacksonville complex, hosting practice flights for Navy, Marine Corps, and Coast Guard student aviators. The field handles a high volume of training traffic rather than commercial or general aviation passengers.",
+  "faqs": "Q: Is Whitehouse NOLF open to civilian or commercial flights?\nA: No, this is a military training field not open to commercial passengers. Access is restricted to authorized military personnel and approved aviation activities.\n\nQ: What is a Naval Outlying Field?\nA: A NOLF is a satellite airfield operated by the U.S. Navy, used primarily for training pilots in takeoffs, landings, and pattern work, relieving congestion at the parent naval air station.\n\nQ: Which units operate from Whitehouse NOLF?\nA: Training squadrons and aviation students from NAS Jacksonville and other tenant commands use the field, including Navy, Marine Corps, and Coast Guard pilot candidates.\n\nQ: Are there any public facilities at the airfield?\nA: No public terminals, passenger amenities, or services are available, as it is an active military training installation.",
+  "transport_tips": "Because Whitehouse NOLF is a military-only facility, there are no commercial transportation options such as taxis, rideshares, or shuttles serving it. Civilian visitors needing access must coordinate through a military sponsor or official invitation. The closest major civilian airport for the Jacksonville area is Jacksonville International Airport (JAX), located roughly 25 miles northeast.",
+  "local_tip": "If you're observing training activity from the perimeter, bring binoculars and a frequency scanner—the field sees heavy touch-and-go traffic during daylight hours, and listening to approach communications adds context to the training patterns.",
+  "generatedAt": "2026-06-27T23:29:49.184Z",
+  "model": "MiniMax-M3"
+}

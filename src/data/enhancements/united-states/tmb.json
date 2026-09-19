@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TMB",
+    "icao": "KTMB",
+    "name": "Miami Executive Airport",
+    "country": "United States",
+    "city": "Miami",
+    "lat": 25.6479,
+    "lon": -80.4328,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Miami Executive Airport is a medium-sized general aviation facility serving the southern Miami metropolitan area, located in the Kendall district of unincorporated Miami-Dade County. Originally known as Kendall-Tamiami Executive Airport, it primarily handles private, corporate, charter, and flight training operations rather than scheduled commercial service. The airport provides a convenient alternative to Miami International for business and recreational pilots operating in South Florida.",
+  "faqs": "Q: Does Miami Executive Airport offer scheduled commercial flights?\nA: No, TMB is a general aviation airport that focuses on private, charter, corporate, and flight training operations rather than commercial airline service.\n\nQ: Where is Miami Executive Airport located relative to downtown Miami?\nA: The airport is situated in the Kendall area of unincorporated Miami-Dade County, roughly 15 miles southwest of downtown Miami and about 20 miles from Miami International Airport.\n\nQ: What types of aviation services are available at TMB?\nA: The airport supports corporate and private aviation, aircraft rentals, flight schools, air charter operations, aircraft maintenance, and fuel services for piston and turbine aircraft.\n\nQ: Can visitors watch aircraft activity at Miami Executive Airport?\nA: Yes, the airport has areas accessible to the public where aviation enthusiasts can observe arriving and departing aircraft, though you should remain outside secure areas and follow airport rules.",
+  "transport_tips": "Driving is the most practical way to reach Miami Executive Airport, as it is well connected by local roads in the Kendall area with ample on-site parking. Ride-share services such as Uber and Lyft operate in the area, while traditional taxi service is also available. Public transit via Miami-Dade Transit buses serves stops near the airport, though schedules may be limited compared to larger hubs.",
+  "local_tip": "If you are picking up a private flight, coordinate timing carefully through your pilot or FBO, as general aviation arrivals do not appear on public flight tracker boards and can land well outside typical commercial schedules.",
+  "generatedAt": "2026-06-30T04:47:55.751Z",
+  "model": "MiniMax-M3"
+}

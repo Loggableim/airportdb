@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ADB",
+    "icao": "LTBJ",
+    "name": "Adnan Menderes International Airport",
+    "country": "Turkey",
+    "city": "Gaziemir",
+    "lat": 38.2924,
+    "lon": 27.157,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Adnan Menderes International Airport (ADB) is the main gateway to Izmir, Turkey's third-largest city, located in the Gaziemir district about 18 km southwest of the city center along the Aegean coast. Named after former Turkish Prime Minister Adnan Menderes, the airport serves as a major hub for both domestic flights and international routes to Europe and beyond. It features separate domestic and international terminals and handles over 12 million passengers annually.",
+  "faqs": "Q: How far is Adnan Menderes Airport from Izmir city center?\nA: The airport is approximately 18 km southwest of central Izmir, with typical travel times of 25-45 minutes depending on traffic.\n\nQ: What transport options connect the airport to Izmir?\nA: Travelers can use the İZBAN suburban rail, the Izmir Metro M1 line (extended to the airport), Havaş shuttle buses, taxis, or rideshare services.\n\nQ: Does the airport operate 24 hours?\nA: The terminals have varying operating hours by airline, but the airport generally handles flights from early morning until late evening; check with your carrier for specific times.\n\nQ: Are there hotels near the airport?\nA: Several hotels are located in the Gaziemir and nearby areas, including options within a short drive that cater to transit passengers.",
+  "transport_tips": "The İZBAN commuter rail and Izmir Metro M1 line offer an affordable and reliable way to reach central Izmir, with trains running frequently throughout the day. Havaş airport shuttle buses connect to key points in Izmir and nearby resort areas like Kuşadası and Çeşme. Taxis are readily available outside the terminals, but agree on a fare or insist on using the meter to avoid overcharging.",
+  "local_tip": "If you have a long layover or early morning departure, the small aviation museum and viewing terrace near the terminals is a nice way to pass time while watching aircraft movements on the Aegean coast.",
+  "generatedAt": "2026-06-28T16:34:36.776Z",
+  "model": "MiniMax-M3"
+}

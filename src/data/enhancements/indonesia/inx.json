@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "INX",
+    "icao": "WASI",
+    "name": "Inanwatan Airport",
+    "country": "Indonesia",
+    "city": "Inanwatan",
+    "lat": -2.1274,
+    "lon": 132.1601,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Inanwatan Airport is a small regional airstrip serving the coastal village of Inanwatan in Indonesia's South Papua province. Set in a remote and heavily forested area near the south coast of the Bird's Head region, it primarily supports local transport and limited scheduled flights connecting isolated Papuan communities. The unpaved or simply paved runway and modest facilities reflect its role as a vital but low-traffic gateway in one of Indonesia's most sparsely populated regions.",
+  "faqs": "Q: Where is Inanwatan Airport located?\nA: It is located near the village of Inanwatan in South Papua province, Indonesia, close to the southern coastline of the Bird's Head Peninsula.\n\nQ: Are there regular commercial flights to Inanwatan?\nA: Scheduled service is very limited and typically operated by small aircraft serving remote Papuan destinations; flight availability should be confirmed locally.\n\nQ: What facilities are available at the airport?\nA: As a small rural airstrip, facilities are minimal, generally limited to a basic terminal or shelter and an open apron area.\n\nQ: Can the airport handle larger aircraft?\nA: No, the short runway and basic infrastructure are suited only to small propeller-driven aircraft commonly used in Papua.",
+  "transport_tips": "Ground transport to and from the airport is informal and limited, so arranging a local vehicle in advance is recommended. Travel times to nearby villages can be long due to rough or unpaved roads through forested terrain. Many visitors rely on aircraft connections rather than overland routes, as the region is geographically isolated.",
+  "local_tip": "Carry only essential luggage, as weight restrictions on small aircraft serving remote Papuan airstrips can be strict, and confirm weather conditions before flying, as rain and low cloud cover frequently affect departures.",
+  "generatedAt": "2026-06-27T23:26:52.650Z",
+  "model": "MiniMax-M3"
+}

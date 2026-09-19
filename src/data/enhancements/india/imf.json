@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IMF",
+    "icao": "VEIM",
+    "name": "Bir Tikendrajit International Airport",
+    "country": "India",
+    "city": "Imphal",
+    "lat": 24.76,
+    "lon": 93.8967,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Bir Tikendrajit International Airport serves as the primary gateway to Imphal, the capital of Manipur in India's remote northeast. Named after the Manipur royal prince and freedom fighter Tikendrajit, the airport features a distinctive table-top runway set on the Imphal Valley plateau, making approaches visually and technically challenging. It is the second-busiest airport in Northeast India, handling crucial connectivity for the landlocked state.",
+  "faqs": "Q: How far is the airport from Imphal city center?\nA: The airport is approximately 8 kilometers south of Imphal's city center, typically a 20-30 minute drive depending on traffic.\n\nQ: Which airlines operate from Bir Tikendrajit International Airport?\nA: Domestic carriers including IndiGo, Air India, and Air India Regional operate scheduled flights connecting Imphal to Delhi, Kolkata, Guwahati, and other Indian cities.\n\nQ: Is the airport runway difficult to land on?\nA: Yes, it is classified as a table-top runway, meaning it sits on elevated terrain with drops at both ends. Pilots require special training and clear weather conditions for safe approach and landing.\n\nQ: Are there international flights from this airport?\nA: International connectivity has been limited historically, though the airport holds international status and has periodically served routes to nearby regions like Myanmar.",
+  "transport_tips": "Pre-paid taxi counters are available in the arrivals hall; fixed fares to central Imphal should be confirmed before boarding. Shared taxis and auto-rickshaws are available outside the terminal and offer a budget-friendly option. Allow extra travel time during monsoon season, as valley roads near the airport can experience landslides and waterlogging.",
+  "local_tip": "Carry a light jacket even in warmer months — Imphal's valley elevation of around 790 meters gives the airport noticeably cooler mornings than other parts of the northeast, especially from October to February.",
+  "generatedAt": "2026-06-28T23:35:07.021Z",
+  "model": "MiniMax-M3"
+}

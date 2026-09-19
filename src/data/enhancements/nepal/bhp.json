@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BHP",
+    "icao": "VNBJ",
+    "name": "Bhojpur Airport",
+    "country": "Nepal",
+    "city": "Bhojpur",
+    "lat": 27.1474,
+    "lon": 87.0508,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Bhojpur Airport (BHP) is a small domestic airport serving Bhojpur District in eastern Nepal's Province No. 1, nestled in the rugged hills of the Himalayan foothills. It provides vital air connectivity for the remote Bhojpur region, where road travel is slow and challenging due to mountainous terrain. The airport handles primarily short-haul domestic flights connecting to Kathmandu and other regional hubs.",
+  "faqs": "Q: Which airlines operate flights to Bhojpur Airport?\nA: Domestic carriers such as Tara Air and Yeti Airlines have historically operated routes to Bhojpur, typically connecting to Kathmandu, though schedules can be irregular.\n\nQ: How long is the runway at Bhojpur Airport?\nA: The airport has a short paved runway, suitable only for small STOL (Short Take-Off and Landing) aircraft like the Dornier 228 and Twin Otter.\n\nQ: Are flights frequently cancelled due to weather?\nA: Yes, flights are often delayed or cancelled due to poor visibility, mountain turbulence, and adverse weather common in the eastern hills of Nepal.\n\nQ: What is the elevation of Bhojpur Airport?\nA: The airport sits at an elevation of approximately 4,000 feet (1,220 meters) above sea level, surrounded by hilly terrain.\n\n",
+  "transport_tips": "The airport is located a short distance from Bhojpur town center, easily reachable by local taxi or on foot. Road connections from the airport to surrounding villages and districts can be rough and slow, so plan extra travel time. During monsoon season, expect possible flight disruptions and have a buffer day in your itinerary.",
+  "local_tip": "Pack light and carry all essential medications in your hand luggage—flights can be diverted or cancelled unexpectedly, and the nearest major medical facilities are far away.",
+  "generatedAt": "2026-06-27T18:12:51.000Z",
+  "model": "MiniMax-M3"
+}

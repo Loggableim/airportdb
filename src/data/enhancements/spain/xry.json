@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XRY",
+    "icao": "LEJR",
+    "name": "Jerez Airport",
+    "country": "Spain",
+    "city": "Jerez de la Frontera",
+    "lat": 36.7446,
+    "lon": -6.0601,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Jerez Airport (XRY) is a combined military-civilian airport serving the historic sherry-producing city of Jerez de la Frontera in Andalusia, southern Spain. It functions as a key gateway to the Cádiz province, Costa de la Luz beaches, and surrounding wine country, while also hosting a Spanish Air Force aerobatic training base.",
+  "faqs": "Q: How far is Jerez Airport from the city center?\nA: The airport is approximately 8 km northeast of Jerez de la Frontera's city center, a journey of about 15 minutes by car or taxi.\n\nQ: Does Jerez Airport share facilities with a military base?\nA: Yes, it is a dual-use airport operating alongside a Spanish Air Force base, including facilities linked to the Patrulla Águila aerobatic team.\n\nQ: Which airlines operate from Jerez Airport?\nA: Several carriers serve XRY with routes mainly to Spanish domestic hubs like Madrid and Barcelona, plus seasonal European destinations including the UK, Germany, and Ireland.\n\nQ: Is there free Wi-Fi available at the terminal?\nA: Yes, the terminal offers complimentary Wi-Fi access for passengers throughout the public areas.\n\n",
+  "transport_tips": "A regular bus service operated by Comes connects the airport to Jerez city center and Cádiz, running roughly hourly during the day. Taxis wait outside the terminal and the fixed fare to central Jerez is reasonable for the short distance. Renting a car on-site is highly recommended if you plan to explore the surrounding sherry bodegas, Atlantic coastline, and nearby white villages.",
+  "local_tip": "Visit the on-site observation area or watch for practice flights by the Patrulla Águila aerobatic team, which is based at",
+  "generatedAt": "2026-06-29T03:20:39.336Z",
+  "model": "MiniMax-M3"
+}

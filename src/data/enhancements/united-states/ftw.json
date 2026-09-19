@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FTW",
+    "icao": "KFTW",
+    "name": "Fort Worth Meacham International Airport",
+    "country": "United States",
+    "city": "Fort Worth",
+    "lat": 32.8199,
+    "lon": -97.3608,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Fort Worth Meacham International Airport (FTW) is a medium-sized airport located about 5 miles north of downtown Fort Worth, Texas. Named after former Fort Worth mayor Henry C. Meacham, the airport has served the region since the 1920s and operates alongside DFW as a reliever facility for the metroplex. It primarily handles general aviation, corporate jets, and air cargo operations, featuring multiple runways and a notable vintage terminal building.",
+  "faqs": "Q: How far is Meacham Airport from downtown Fort Worth?\nA: The airport is approximately 5 miles north of downtown Fort Worth, typically a 10-15 minute drive depending on traffic.\n\nQ: Does FTW offer commercial passenger service?\nA: Fort Worth Meacham primarily serves general aviation, corporate, and cargo flights rather than scheduled commercial passenger service, which is handled by nearby Dallas/Fort Worth International Airport (DFW).\n\nQ: How many runways does Meacham Airport have?\nA: The airport has multiple runways, with the main runway being Runway 16/34, supporting a variety of aircraft operations.\n\nQ: Is there an on-site restaurant or amenities?\nA: The airport features fixed-base operators (FBOs) with pilot lounges and services, and a historic terminal area, though amenities for the general public are limited compared to larger commercial airports.",
+  "transport_tips": "The easiest access is via Interstate 35W, exiting at Meacham Boulevard, which leads directly to the airport entrance. Ride-shares and taxis are available, though booking in advance is recommended since the airport has less ground transport traffic than DFW. Rental cars and FBO shuttle services are the primary options for travelers arriving by private or charter aircraft.",
+  "local_tip": "If you have time before your flight, visit the nearby Fort Worth Stockyards National Historic District—just a short drive south—where you can experience authentic Texas cattle drives, western shops, and the famous Stockyards Station without the crowds of downtown tourist areas.",
+  "generatedAt": "2026-06-29T02:48:28.627Z",
+  "model": "MiniMax-M3"
+}

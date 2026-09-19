@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VRE",
+    "icao": "FAVR",
+    "name": "Vredendal Airport",
+    "country": "South Africa",
+    "city": "Vredendal",
+    "lat": -31.641,
+    "lon": 18.5448,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Vredendal Airport is a regional airfield serving the town of Vredendal in the Western Cape province of South Africa, situated in the fertile Olifants River Valley. The airport supports general aviation and the surrounding agricultural region known for wine, table grapes, and rooibos production. It also provides access to the remote Knersvlakte and the semi-arid West Coast landscape.",
+  "faqs": "Q: Where is Vredendal Airport located?\nA: It is located near the town of Vredendal in the Western Cape province of South Africa, within the Matzikama Local Municipality, roughly 300 km north of Cape Town.\n\nQ: Does Vredendal Airport have scheduled commercial flights?\nA: No, the airport primarily handles general aviation, charter, and private flights rather than scheduled commercial passenger services.\n\nQ: What are the airport's IATA and ICAO codes?\nA: The IATA code is VRE and the ICAO code is FAVR.\n\nQ: What does the airport primarily serve?\nA: It supports general aviation, recreational flying, and access to the surrounding agricultural and nature-based tourism areas of the West Coast region.",
+  "transport_tips": "The airport is a short",
+  "local_tip": "",
+  "generatedAt": "2026-06-26T10:48:37.480Z",
+  "model": "MiniMax-M3"
+}

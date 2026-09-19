@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LOU",
+    "icao": "KLOU",
+    "name": "Bowman Field",
+    "country": "United States",
+    "city": "Louisville",
+    "lat": 38.228,
+    "lon": -85.6637,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Bowman Field is a historic general aviation airport located in eastern Louisville, Kentucky, serving as a reliever facility for the larger Louisville Muhammad Ali International Airport. Established in the 1920s, it is one of the oldest operating airports in the United States and primarily handles private, corporate, and flight training traffic. The airport features multiple runways and fixed-base operators supporting general aviation activities across the Louisville metropolitan area.",
+  "faqs": "Q: What is Bowman Field primarily used for?\nA: Bowman Field is primarily a general aviation airport serving private aircraft, corporate jets, flight training schools, and recreational flying rather than commercial passenger service.\n\nQ: Does Bowman Field offer commercial flights?\nA: No, Bowman Field does not offer scheduled commercial airline service. Commercial flights in Louisville operate from Louisville Muhammad Ali International Airport (SDF).\n\nQ: How far is Bowman Field from downtown Louisville?\nA: Bowman Field is located approximately 5 miles east of downtown Louisville, making it a convenient option for general aviation users in the metropolitan area.\n\nQ: Are there flight schools at Bowman Field?\nA: Yes, Bowman Field hosts multiple flight training operations and is a popular location for pilot training in the region.",
+  "transport_tips": "The airport is best accessed by car, with rental cars and rideshare services like Uber and Lyft commonly used by visitors. It sits just off the Gene Snyder Freeway (I-265), providing quick connections to downtown Louisville and surrounding suburbs. On-site parking is generally available for those flying in or picking up passengers.",
+  "local_tip": "If visiting Bowman Field, take a short drive to nearby Seneca Park or the historic Lyndon neighborhood for a taste of Louisville's eastern suburbs, or head west toward Bardstown Road for the city's best collection of locally owned restaurants, bourbon bars, and coffee shops.",
+  "generatedAt": "2026-06-30T05:03:53.000Z",
+  "model": "MiniMax-M3"
+}

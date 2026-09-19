@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SDP",
+    "icao": "PASD",
+    "name": "Sand Point Airport",
+    "country": "United States",
+    "city": "Sand Point",
+    "lat": 55.3139,
+    "lon": -160.5221,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Sand Point Airport (SDP/PASD) is a medium-sized public airport serving Sand Point, a small fishing community on Popof Island in Alaska's Aleutian Islands East region. The airport functions as a critical lifeline for the remote island community, supporting commercial fishing operations, mail delivery, and passenger travel to and from the Alaska mainland. Its single runway and minimal infrastructure reflect the rugged, weather-challenged environment of the North Pacific.",
+  "faqs": "Q: What airlines serve Sand Point Airport?\nA: Regional carrier Ravn Alaska historically provided scheduled passenger service connecting Sand Point to Anchorage and other Aleutian communities, though service availability should be confirmed directly with the airline as routes to remote Alaskan airports change frequently.\n\nQ: How long is the runway at Sand Point Airport?\nA: The airport features a single asphalt runway (Runway 13/31) approximately 4,500 feet long, sufficient to handle regional turboprop aircraft common in Alaska's bush aviation network.\n\nQ: What is Sand Point known for?\nA: Sand Point is one of the largest fishing communities in the Aleutian Islands, with a significant commercial fishing and seafood processing economy centered on pollock, salmon, and crab. It is also near the Shumagin Islands, a popular destination for sport fishing.\n\nQ: Are there rental cars available at the airport?\nA: Rental car options are very limited at Sand Point Airport due to its small size and remote location. Visitors typically arrange ground transportation in advance or rely on local taxi services and accommodations that offer pickup.",
+  "transport_tips": "The airport is located just a few miles from downtown Sand Point, and most visitors are met by lodging or local contacts upon arrival. There is no public transit system on Popof Island, so pre-arranging ground transportation is essential. Taxi service and shuttle pickups from local hotels and fish processing companies are the most common ways to reach final destinations.",
+  "local_tip": "Flights in and out of Sand Point are frequently delayed or canceled due to the area's notoriously unpredictable weather, including high winds, fog, and low ceilings, so build at least a one-day buffer into any travel itinerary connecting through the airport.",
+  "generatedAt": "2026-06-30T00:16:54.760Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BRR",
+    "icao": "EGPR",
+    "name": "Barra Airport",
+    "country": "United Kingdom",
+    "city": "Eoligarry",
+    "lat": 57.0228,
+    "lon": -7.4431,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Barra Airport (BRR/EGPR) is the only airport in the world where scheduled commercial flights land directly on a sandy beach. Located on the island of Barra in the Outer Hebrides of Scotland, its runway is the tidal beach of Traigh Mhòr, meaning flight times are dictated by the tides. It is operated by Highlands and Islands Airports Limited and serves as a vital lifeline for the small island community.",
+  "faqs": "Q: Why are flight times at Barra Airport restricted by tides?\nA: The runway is the beach of Traigh Mhòr, which becomes submerged at high tide, so scheduled flights can only operate when the sand is exposed.\n\nQ: Which airlines fly to Barra Airport?\nA: Loganair operates scheduled services, primarily connecting Barra with Glasgow and Benbecula in the Outer Hebrides.\n\nQ: How many runways does Barra Airport have?\nA: The airport has three runways marked by wooden poles on the sand, allowing aircraft to take off and land in different wind directions.\n\nQ: Is Barra Airport open at night?\nA: No, the airport operates only during daylight hours and depends entirely on tidal conditions, so night and bad-weather flights are not available.",
+  "transport_tips": "There is no public transport link to the airport itself, so renting a car or arranging a taxi from Castlebay (about 8 km away) in advance is recommended. Visitors should confirm tide times and flight schedules before travelling, as delays can occur if the beach is not accessible. Ferries from Oban to Castlebay provide the main onward connection to the Scottish mainland.",
+  "local_tip": "Visit the airport's small terminal observation area to watch the iconic Twin Otter land on the beach — and check the tide times published at the terminal, as they also make a wonderful memento of your visit to this one-of-a-kind airport.",
+  "generatedAt": "2026-06-29T19:23:45.478Z",
+  "model": "MiniMax-M3"
+}

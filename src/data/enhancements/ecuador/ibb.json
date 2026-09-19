@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IBB",
+    "icao": "SEII",
+    "name": "General Villamil Airport",
+    "country": "Ecuador",
+    "city": "Puerto Villamil",
+    "lat": -0.9426,
+    "lon": -90.953,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "General Villamil Airport serves Puerto Villamil, the small port town on Isabela Island in Ecuador's Galápagos archipelago. It functions as a key gateway for visitors heading to the volcanic landscapes of Isabela, including the famous Sierra Negra caldera and the unique wildlife of the southern Galápagos. As one of the smaller airports in the islands, it offers a rustic, intimate arrival experience typical of remote island aviation.",
+  "faqs": "Q: Where is General Villamil Airport located?\nA: The airport is on Isabela Island in the Galápagos archipelago, just outside the town of Puerto Villamil on the southeastern coast.\n\nQ: Which airlines fly to General Villamil Airport?\nA: Small inter-island carriers such as Emetebe operate flights connecting Puerto Villamil with Baltra and other Galápagos islands.\n\nQ: Are there international flights to General Villamil Airport?\nA: No, the airport only handles domestic inter-island flights. International travelers must first arrive at Baltra or San Cristóbal and connect onward.\n\nQ: How large is the airport?\nA: It is a very small facility with a single runway and basic terminal services suited to short-hop propeller aircraft.\n\n",
+  "transport_tips": "The airport sits only about 3 km from Puerto Villamil's waterfront, so most visitors simply walk or take a short taxi ride into town. Taxis and pickup trucks usually meet arriving flights since there is no scheduled public transit. If staying in a hotel outside the town center, arrange a transfer in advance as taxis are limited.\n\n",
+  "local_tip": "Bring cash in small denominations for taxi fares and tips, as card payment is rarely accepted and the nearest ATM in Puerto Villamil can occasionally be out of service.",
+  "generatedAt": "2026-06-26T19:41:31.104Z",
+  "model": "MiniMax-M3"
+}

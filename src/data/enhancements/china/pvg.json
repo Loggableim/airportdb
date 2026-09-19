@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PVG",
+    "icao": "ZSPD",
+    "name": "Shanghai Pudong International Airport",
+    "country": "China",
+    "city": "Shanghai (Pudong)",
+    "lat": 31.1434,
+    "lon": 121.805,
+    "type": "large_airport",
+    "size": 51150
+  },
+  "summary": "Shanghai Pudong International Airport (PVG) is the primary international gateway to Shanghai and one of the busiest aviation hubs in Asia, located about 30 km east of the city center in the Pudong district. Opened in 1999, it serves as the main hub for China Eastern Airlines and a major base for several other carriers, handling the majority of Shanghai's international and cargo traffic. The airport features multiple terminals connected by automated people movers and is famously linked to the city by the Shanghai Maglev Train, the world's first commercial high-speed maglev line.",
+  "faqs": "Q: How far is PVG from central Shanghai?\nA: Pudong Airport is approximately 30 km (19 miles) east of central Shanghai, with typical journey times of 45-60 minutes by taxi or metro depending on traffic and route.\n\nQ: Which terminals does PVG operate?\nA: PVG has two main passenger terminals (T1 and T2), each with its own satellite concourse. China Eastern and SkyTeam Alliance carriers primarily use T1, while most other airlines, including Air China and Star Alliance members, use T2.\n\nQ: Does the Maglev train run from the airport?\nA: Yes, the Shanghai Maglev runs between Pudong Airport and Longyang Road station, where you can transfer to Metro Line 2. It reaches speeds of up to 431 km/h and the trip takes about 8 minutes.\n\nQ: Is there a metro connection to the airport?\nA: Yes, Metro Line 2 connects Pudong Airport directly to central Shanghai, including a stop at the Lujiazui financial district. Travel time to People's Square is around 60 minutes.",
+  "transport_tips": "",
+  "local_tip": "Avoid the taxi touts inside the terminal and use the official taxi queue outside instead—they are metered and regulated. Also, if you have a long layover, the airport offers free shower facilities in certain airline lounges accessible via day passes, and there are capsule hotels and rest zones in both terminals for weary travelers.",
+  "generatedAt": "2026-06-28T15:56:12.335Z",
+  "model": "MiniMax-M3"
+}

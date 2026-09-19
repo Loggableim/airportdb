@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KRA",
+    "icao": "YKER",
+    "name": "Kerang Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -35.7514,
+    "lon": 143.939,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Kerang Airport (KRA/YKER) is a regional airport serving the town of Kerang in northern Victoria, Australia. It functions primarily as a general aviation facility supporting local agricultural and emergency services, including aerial firefighting during Victoria's bushfire season. The airport features a single runway and is situated in a flat, rural landscape characteristic of the Murray River region.",
+  "faqs": "Q: Does Kerang Airport have commercial passenger service?\nA: No, Kerang Airport does not currently offer scheduled commercial passenger flights. It primarily serves general aviation, private aircraft, and emergency service operations.\n\nQ: What is the runway length at Kerang Airport?\nA: The airport has a single sealed runway suitable for light to medium aircraft. Specific runway dimensions should be confirmed with current aeronautical charts before any flight planning.\n\nQ: Is there an airport terminal or passenger facilities?\nA: Kerang Airport is a basic general aviation facility without a commercial passenger terminal. Pilots and passengers using the airport typically access minimal on-site amenities.\n\nQ: Can the airport handle emergency and firefighting aircraft?\nA: Yes, the airport is known to support aerial firefighting operations and other emergency response activities, particularly during Victoria's summer bushfire season.",
+  "transport_tips": "The airport is located a short drive from the town centre of Kerang, with road access available via local rural roads. Visitors typically arrange private transport or hire a vehicle, as there are no public transit links directly serving the airfield. Travellers heading to or from larger centres like Bendigo or Swan Hill will need to use regional road connections.",
+  "local_tip": "If visiting during Victoria's warmer months, check with local authorities about fire activity in the Loddon-Mallee region, as the airport may occasionally be restricted to emergency operations during major bushfire events.",
+  "generatedAt": "2026-06-26T11:04:55.438Z",
+  "model": "MiniMax-M3"
+}

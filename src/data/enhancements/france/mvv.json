@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MVV",
+    "icao": "LFHM",
+    "name": "Megève Altiport",
+    "country": "France",
+    "city": "Megève",
+    "lat": 45.823,
+    "lon": 6.6494,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Megève Altiport is a high-altitude airstrip purpose-built to serve the luxury ski resort of Megève in the French Alps, sitting at approximately 1,470 meters (4,820 ft) above sea level. Like other French altiports, it features a sloped runway designed to aid aircraft deceleration and acceleration in the thin mountain air. It caters exclusively to private and general aviation, offering one of the most scenic and technically demanding approaches in European alpine flying.",
+  "faqs": "Q: What makes Megève an altiport rather than a regular airport?\nA: Altiports are designed for high-altitude operations and typically feature steeply sloped runways (usually uphill in the landing direction) to compensate for thinner air and reduced braking effectiveness. Megève's runway is angled to help slow arriving aircraft.\n\nQ: Are commercial flights available to Megève Altiport?\nA: No. MVV serves only private, charter, and general aviation traffic. There are no scheduled airline services.\n\nQ: Is the altiport open year-round?\nA: Operations are largely seasonal, with the airport most active during the winter ski season (December through April) and quieter in summer, when weather conditions allow. Pilots must check current conditions before flight.\n\nQ: How challenging is landing at Megève?\nA: The approach is considered technically demanding due to surrounding mountainous terrain, variable alpine weather, and the need to manage a steep gradient. Only properly qualified mountain-rated pilots should attempt operations here.\n\n",
+  "transport_tips": "The altiport sits just a few kilometers from Megève village center, so pre-arranged taxi or private car transfers are the most common option and typically take under 10 minutes. Public transport to the airport is limited; booking a vehicle in advance",
+  "local_tip": "",
+  "generatedAt": "2026-06-27T03:56:44.183Z",
+  "model": "MiniMax-M3"
+}

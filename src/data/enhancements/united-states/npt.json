@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NPT",
+    "icao": "KUUU",
+    "name": "Newport State Airport",
+    "country": "United States",
+    "city": "Newport",
+    "lat": 41.5322,
+    "lon": -71.281,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Newport State Airport is a public-use state-owned airport situated on Aquidneck Island in Newport, Rhode Island, serving the popular coastal tourist destination known for its historic Gilded Age mansions and sailing heritage. The airport primarily handles general aviation, charter flights, and private aircraft, supporting the region's tourism economy and nearby Naval Station Newport. Its coastal location offers scenic approaches over Narragansett Bay.",
+  "faqs": "Q: What types of flights does Newport State Airport handle?\nA: The airport primarily serves general aviation, including private planes, charter flights, and some corporate traffic, rather than scheduled commercial service.\n\nQ: Where is the airport located relative to downtown Newport?\nA: It is situated on the northern part of Aquidneck Island, approximately three miles northeast of downtown Newport.\n\nQ: Does the airport have an operating control tower?\nA: No, Newport State Airport operates as a non-towered field, requiring pilots to use common traffic advisory frequency procedures.\n\nQ: Are there car rental services available at the airport?\nA: Rental car availability is limited; visitors typically arrange ground transportation in advance through local providers or rideshare services.",
+  "transport_tips": "Renting a car is recommended for getting to and from Newport State Airport, as public transit options in the immediate area are limited. Rideshare services like Uber and Lyft do serve the airport but availability can be inconsistent given its smaller traffic volume. Taxis can be arranged through local Newport companies, particularly for trips into downtown or to nearby hotels.",
+  "local_tip": "If you're flying in for a visit, time your arrival around sunset—the approach over Narragansett Bay offers stunning views of the Newport Bridge and coastline, and it's a favorite route among local pilots.",
+  "generatedAt": "2026-06-29T18:47:40.128Z",
+  "model": "MiniMax-M3"
+}

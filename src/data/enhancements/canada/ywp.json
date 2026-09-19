@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YWP",
+    "icao": "CYWP",
+    "name": "Webequie Airport",
+    "country": "Canada",
+    "city": "Webequie",
+    "lat": 52.9594,
+    "lon": -87.3749,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Webequie Airport (YWP/CYWP) is a small remote airport serving the Webequie First Nation community in Northern Ontario, Canada. Located in the boreal forest region along the Winisk River system, it functions as a critical transportation link for this isolated community, supporting passenger travel, mail, freight, and medevac operations. The airport is essential infrastructure for connecting Webequie to larger centers like Thunder Bay and Sioux Lookout.",
+  "faqs": "Q: What is Webequie Airport used for?\nA: It primarily serves the Webequie First Nation community, handling passenger flights, cargo, mail delivery, and medical evacuation services that are vital for this remote northern settlement.\n\nQ: Are there scheduled flights to Webequie?\nA: Yes, the airport is served by small regional carriers operating propeller aircraft on scheduled routes connecting to Sioux Lookout and other northern Ontario hubs.\n\nQ: How large is Webequie Airport?\nA: It is a small airport with a single gravel runway suitable for turboprop aircraft and small charter planes. There are no scheduled jet operations.\n\nQ: When can the airport be used?\nA: The airport operates year-round but weather conditions in northern Ontario can cause delays, especially during winter snowstorms and summer fog.\n\n",
+  "transport_tips": "There is no road access to Webequie; air travel via Webequie Airport is the primary means of reaching the community. Travelers typically fly from Sioux Lookout or Thunder Bay, often via connecting flights through larger hubs like Toronto or Winnipeg. Passengers should confirm baggage allowances and weight limits in advance, as small aircraft operating to remote communities often have strict cargo restrictions.",
+  "local_tip": "If you're visiting the community, remember that Webequie is a dry community (alcohol is prohibited), and visitors should plan accordingly. Bringing small gifts or useful supplies to share with hosts is appreciated, as the community relies heavily on flown-in goods.",
+  "generatedAt": "2026-06-26T15:23:06.639Z",
+  "model": "MiniMax-M3"
+}

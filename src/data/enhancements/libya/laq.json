@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LAQ",
+    "icao": "HLLQ",
+    "name": "Al Abraq International Airport",
+    "country": "Libya",
+    "city": "Al Albraq",
+    "lat": 32.789,
+    "lon": 21.9549,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Al Abraq International Airport (LAQ/HLLQ) is a regional international airport located in the Jebel Akhdar (Green Mountain) region of northeastern Libya, serving the city of Al Bayda and surrounding communities. The airport sits in a scenic elevated area of Cyrenaica, providing a gateway to one of Libya's most agriculturally rich and historically significant regions. It primarily handles domestic flights with limited international service, supporting travel in and out of the eastern part of the country.",
+  "faqs": "Q: Where is Al Abraq International Airport located?\nA: The airport is situated in northeastern Libya in the Jebel Akhdar (Green Mountain) region, serving the city of Al Bayda and the surrounding Cyrenaica area.\n\nQ: What is the airport code for Al Abraq?\nA: The IATA code is LAQ and the ICAO code is HLLQ.\n\nQ: Does the airport offer international flights?\nA: It holds international airport designation, though flight schedules and destinations may be limited. Travelers should check current availability with airlines.\n\nQ: What facilities are available at the airport?\nA: As a regional facility, it offers basic passenger services typical of a smaller international airport, though amenities may be limited compared to major hubs.",
+  "transport_tips": "Ground transportation options are limited, so arranging a private transfer or taxi in advance is strongly recommended. The airport's location in the Green Mountain region means roads can be winding, and travel times to nearby towns like Al Bayda can vary. Travelers should confirm transport arrangements before arrival, as ride-hailing apps are not widely available in the area.",
+  "local_tip": "If visiting the Jebel Akhdar region, plan your trip during the cooler months (October to April) — the elevated terrain can get surprisingly cold in winter, and summer heat in the surrounding lowlands can be intense.",
+  "generatedAt": "2026-06-29T01:03:00.794Z",
+  "model": "MiniMax-M3"
+}

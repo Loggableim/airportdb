@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ELI",
+    "icao": "PFEL",
+    "name": "Elim Airport",
+    "country": "United States",
+    "city": "Elim",
+    "lat": 64.6147,
+    "lon": -162.272,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Elim Airport (ELI/PFEL) is a small public-use airport serving the remote Inuit village of Elim, located on the Seward Peninsula along Alaska's Norton Sound. The facility supports essential connectivity for the isolated community, which is not connected to the state's road system. It primarily handles regional commuter and bush flights that link residents to larger hubs like Nome.",
+  "faqs": "Q: Where is Elim Airport located?\nA: Elim Airport is located in Elim, Alaska, a small village on the Seward Peninsula along the Norton Sound in western Alaska.\n\nQ: How can I reach Elim Airport?\nA: The airport is primarily accessible by scheduled regional flights from Nome, as Elim is not connected by road to other communities.\n\nQ: What kind of aircraft use Elim Airport?\nA: The airport accommodates small commuter aircraft and bush planes, including Cessna Caravans and similar single-engine turboprops common in rural Alaska.\n\nQ: Is there an FBO or terminal at Elim Airport?\nA: Facilities are minimal, typical of rural Alaska airports, with a small gravel airstrip and basic services for passengers.",
+  "transport_tips": "Ground transportation in Elim is limited; the airport is close to the village center, and travelers typically arrange rides in advance with local contacts. There is no public transit or taxi service. Most visitors rely on hosts, rental arrangements, or walking, as the community is small and compact.",
+  "local_tip": "Pack for rapidly changing weather—Elim's coastal location on Norton Sound can bring fog, wind, and freezing rain even in summer, so layered clothing and waterproof gear are essential for the short walk from the airstrip into town.",
+  "generatedAt": "2026-06-26T21:08:09.611Z",
+  "model": "MiniMax-M3"
+}

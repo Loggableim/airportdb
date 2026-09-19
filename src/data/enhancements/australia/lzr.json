@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LZR",
+    "icao": "YLZI",
+    "name": "Lizard Island Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -14.6733,
+    "lon": 145.4546,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lizard Island Airport is a small airstrip serving Lizard Island, a remote national park and luxury resort destination located on the Great Barrier Reef off the coast of Far North Queensland, Australia. The island, named by Captain James Cook in 1770, is accessible primarily by light aircraft, with the airport handling small charter and scheduled flights. The facility supports both high-end tourism and the Australian Museum's Lizard Island Research Station, a world-renowned coral reef research facility.",
+  "faqs": "Q: How do you get to Lizard Island Airport?\nA: Most visitors arrive via small charter flights or scheduled services from Cairns, with the flight taking approximately one hour over the Great Barrier Reef. Private charters can also be arranged from other North Queensland airports.\n\nQ: What facilities are available at the airport?\nA: The airport is a basic small facility with a short unpaved or sealed runway suitable only for light aircraft. There are limited amenities, so guests typically transfer directly to the Lizard Island Resort.\n\nQ: Are there scheduled commercial flights to Lizard Island?\nA: Limited scheduled services operate using small turboprop aircraft, with availability often tied to resort bookings. Most travelers arrange flights through their resort or tour operator.\n\nQ: Can the airport handle large aircraft?\nA: No, the airport is restricted to small aircraft due to its short runway and remote island location. Larger jets cannot land here.",
+  "transport_tips": "The airport has no public road access, as Lizard Island is surrounded by water; travelers must fly in. Resort transfers are typically arranged in advance, with boats meeting incoming flights to take guests to the Lizard Island Resort or other island destinations. Booking flights and transfers as a package through the resort is generally the most convenient option.",
+  "local_tip": "Pack reef-safe sunscreen and a light jacket even in summer, as the airstrip offers minimal shelter and tropical weather can change quickly, especially during the wet season from November to April.",
+  "generatedAt": "2026-06-27T06:32:11.705Z",
+  "model": "MiniMax-M3"
+}

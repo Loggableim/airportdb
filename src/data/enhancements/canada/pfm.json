@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PFM",
+    "icao": "",
+    "name": "Primrose Airport",
+    "country": "Canada",
+    "city": "Primrose",
+    "lat": 55.39,
+    "lon": -111.1198,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Primrose Airport (PFM) is a small regional airfield serving the community of Primrose in northern Alberta, Canada. Located in a remote area known for oil sands activity, it primarily supports charter flights, industrial personnel transport, and general aviation needs. The airport plays a key role in connecting workers and supplies to the surrounding resource-based communities in the region.",
+  "faqs": "Q: Where is Primrose Airport located?\nA: Primrose Airport is located in northern Alberta, Canada, near the community of Primrose, in a region associated with oil sands development.\n\nQ: What type of airport is Primrose Airport?\nA: It is classified as a small airport, primarily serving general aviation, charter flights, and industrial operations rather than scheduled commercial service.\n\nQ: Does Primrose Airport offer scheduled commercial flights?\nA: No, Primrose Airport does not offer regularly scheduled commercial flights. It mainly serves charter and private aviation traffic.\n\nQ: What facilities are available at the airport?\nA: As a small regional airfield, facilities are limited and primarily geared toward general aviation and industrial use rather than passenger amenities.",
+  "transport_tips": "Access to Primrose Airport is typically by road, as the surrounding area is sparsely populated and lacks public transit. Most visitors and workers arrive via company-arranged ground transportation or private vehicles, as taxi and rideshare services are limited in this remote region. Travelers flying into the area should coordinate ground transport in advance, especially given the industrial and remote nature of the location.",
+  "local_tip": "Given the remote northern Alberta setting and variable weather, always check current conditions and fuel availability before departure, as services and supplies can be limited in the surrounding area.",
+  "generatedAt": "2026-06-28T05:54:16.674Z",
+  "model": "MiniMax-M3"
+}

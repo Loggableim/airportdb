@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OLO",
+    "icao": "LKOL",
+    "name": "Olomouc Airport",
+    "country": "Czech Republic",
+    "city": "Olomouc",
+    "lat": 49.5877,
+    "lon": 17.2093,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Olomouc Airport (OLO/LKOL) is a small regional airfield located about 4 km southwest of Olomouc in the eastern Czech Republic. The airport has roots dating back to the early 20th century and primarily serves general aviation, pilot training, and occasional charter or private flights. It is one of the older aviation sites in Moravia and supports the surrounding region's light aviation needs.",
+  "faqs": "Q: Does Olomouc Airport handle commercial passenger flights?\nA: The airport does not currently operate scheduled commercial passenger service and focuses mainly on general aviation, flight training, and private flights.\n\nQ: What facilities are available at the airport?\nA: Facilities are limited and geared toward small aircraft, including a terminal building, hangars, refueling services, and basic pilot amenities.\n\nQ: Can private aircraft land at Olomouc Airport?\nA: Yes, the airport accepts private and general aviation traffic with prior arrangement and proper flight planning.\n\nQ: What are the airport's operating hours?\nA: Operating hours are typically restricted to daylight hours, but pilots should check current NOTAMs and PPR requirements before arrival.",
+  "transport_tips": "The airport is located a short drive from Olomouc city center, with taxi and rideshare services being the most practical options for visitors. Public bus connections run from Olomouc toward areas near the airfield, though service may be infrequent. Having a rental car or arranging pickup in advance is recommended, especially since scheduled transport options are limited.",
+  "local_tip": "Frequent visitors often combine flights with a trip into Olomouc's historic center, which is just minutes away and features the UNESCO-listed Holy Trinity Column and the impressive Baroque architecture of the old town square.",
+  "generatedAt": "2026-06-27T07:07:19.505Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ADT",
+    "icao": "KADH",
+    "name": "Ada Regional Airport",
+    "country": "United States",
+    "city": "Ada",
+    "lat": 34.8052,
+    "lon": -96.672,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Ada Regional Airport (IATA: ADT, ICAO: KADH) is a public-use general aviation airport located about two miles northeast of Ada, Oklahoma, in Pontotoc County. It serves private, business, and training aircraft rather than scheduled commercial airlines, with a single asphalt runway and basic pilot services. The field is a convenient local gateway to Ada, East Central University, and the Chickasaw Nation headquarters area.",
+  "faqs": "Q: Does Ada Regional Airport offer commercial flights?\nA: No. ADT/KADH is a general aviation airport with no scheduled airline service; travelers usually connect through Oklahoma City (OKC) or Dallas/Fort Worth (DFW).\n\nQ: What facilities are available at KADH?\nA: The airport has a single asphalt runway, pilot-controlled lighting, and general aviation services such as fueling and hangar/tie-down space, though availability can vary. Call the FBO ahead to confirm hours and services.\n\nQ: How far is Ada Regional Airport from downtown Ada?\nA: It is roughly 2 miles northeast of downtown Ada, Oklahoma, typically a 5- to 10-minute drive by car.\n\nQ: Can I rent a car or get a rideshare at the airport?\nA: There are no major on-airport rental car counters or regular public transit routes; arrange a rental car, taxi, or rideshare in advance from Ada. Some local hotels may offer shuttle service on request.\n\n",
+  "transport_tips": "A car is the most practical way to reach Ada Regional Airport, which is about 2 miles northeast of downtown Ada via local roads. There is no scheduled public transit or rail link to the airport, so book a taxi, rideshare, or rental car in advance. For airline connections, most travelers drive to Will Rogers World Airport (OKC), about 80 miles away, or consider Dallas/Fort Worth (DFW), roughly 120 miles away.",
+  "local_tip": "Frequent visitors call ahead to confirm after-hours fuel, gate access, and courtesy-car availability—KADH is a quiet GA field, so staffing can be limited on evenings, weekends, and holidays.",
+  "generatedAt": "2026-09-19T23:08:55.093Z",
+  "model": "deepseek-v4.1-flash"
+}

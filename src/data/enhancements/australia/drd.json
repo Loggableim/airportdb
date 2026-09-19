@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DRD",
+    "icao": "YDOR",
+    "name": "Dorunda Airport",
+    "country": "Australia",
+    "city": "Dorunda Outstation",
+    "lat": -16.5537,
+    "lon": 141.8238,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Dorunda Airport (DRD/YDOR) is a small remote airfield serving Dorunda Outstation, a cattle station in the Gulf Country region of Far North Queensland, Australia. Situated on the floodplains near the Gregory River, it primarily functions as a private or charter access point for station workers, supplies, and visitors. Its remote outback location makes it an important link for pastoral operations in one of Australia's least densely populated regions.",
+  "faqs": "Q: What is Dorunda Airport used for?\nA: The airport primarily serves Dorunda Outstation, supporting cattle station operations including worker transport, mail delivery, and light cargo flights. It is not used for scheduled commercial airline service.\n\nQ: Are there any commercial flights to Dorunda Airport?\nA: No scheduled commercial flights operate to Dorunda. Access is typically arranged through private charters or station-organized flights from nearby towns such as Normanton or Cairns.\n\nQ: What facilities are available at the airport?\nA: As a small remote outback airstrip, facilities are minimal. There are no terminal buildings, fueling services for the public, or passenger amenities. Visitors should arrange all needs in advance with the station.\n\nQ: When is the best time to fly into Dorunda?\nA: The dry season (May to October) is generally the most reliable time for flights, as heavy monsoon rains between December and March can make the surrounding airstrip and road access difficult.",
+  "transport_tips": "There is no public transport to Dorunda Airport; access must be pre-arranged with the station via charter flight or by 4WD vehicle during the dry season. The nearest towns with regular services are Normanton (roughly 150 km away) and Burketown, both reached via unsealed roads. Visitors should carry extra fuel, water, and supplies when travelling overland.",
+  "local_tip": "Contact the station manager well in advance, as the airstrip can be closed without notice after heavy rain and the cattle mustering season (typically April to September) often brings additional aircraft traffic.",
+  "generatedAt": "2026-06-27T21:04:33.864Z",
+  "model": "MiniMax-M3"
+}

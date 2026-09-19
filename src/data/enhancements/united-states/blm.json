@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BLM",
+    "icao": "KBLM",
+    "name": "Monmouth Executive Airport",
+    "country": "United States",
+    "city": "Belmar/Farmingdale",
+    "lat": 40.1869,
+    "lon": -74.1249,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Monmouth Executive Airport is a general aviation facility situated in the Belmar-Farmingdale area of Monmouth County, New Jersey, serving the Jersey Shore region. The airport caters primarily to private pilots, business aviation, flight training, and recreational flying, with its coastal New Jersey location making it a convenient gateway for visitors heading to the shore communities. It has long served as a popular base for general aviation activity in the central New Jersey corridor between New York City and Philadelphia.",
+  "faqs": "Q: What is Monmouth Executive Airport primarily used for?\nA: It serves as a general aviation airport, supporting private aircraft, flight training, business travel, and recreational flying rather than scheduled commercial service.\n\nQ: How far is the airport from the Jersey Shore beaches?\nA: The airport is located just minutes from several popular Jersey Shore destinations including Belmar, Spring Lake, and Point Pleasant Beach.\n\nQ: Are there car rental services at the airport?\nA: Ground transportation options at smaller general aviation airports like BLM are typically arranged in advance; visitors often use rideshare services, taxis, or pre-arranged rental cars.\n\nQ: Does the airport have an operating control tower?\nA: Monmouth Executive Airport operates with a control tower during published hours, with CTAF procedures used at other times.",
+  "transport_tips": "The airport is conveniently located near Route 34 and Route 195, providing easy road access to and from central New Jersey. Visitors coming from New York City or Philadelphia should allow roughly 60-90 minutes of driving time depending on traffic, especially during summer beach season. On-site parking is generally available directly adjacent to the terminal area for those dropping off or picking up passengers.",
+  "local_tip": "Frequent visitors recommend timing flights outside of peak Friday afternoon and Sunday evening periods, as the nearby Garden State Parkway and Route 195 can become heavily congested with shore traffic during summer weekends.",
+  "generatedAt": "2026-06-27T00:22:03.740Z",
+  "model": "MiniMax-M3"
+}

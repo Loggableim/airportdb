@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LGI",
+    "icao": "MYLD",
+    "name": "Deadman's Cay Airport",
+    "country": "Bahamas",
+    "city": "Deadman's Cay",
+    "lat": 23.179,
+    "lon": -75.0936,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Deadman's Cay Airport (LGI/MYLD) is a medium-sized regional airport located on Long Island in the Bahamas, serving as the primary air gateway for visitors to this long, narrow island known for its pristine beaches and world-class diving sites. The airport primarily handles domestic flights connecting Long Island to Nassau and supports general aviation traffic. Its remote island setting makes it a key access point for travelers exploring one of the Bahamas' less commercialized destinations.",
+  "faqs": "Q: What airlines fly into Deadman's Cay Airport?\nA: Domestic carriers including Bahamasair operate scheduled flights connecting Deadman's Cay to Nassau, with occasional charter services from international destinations.\n\nQ: How far is the airport from the main settlements on Long Island?\nA: The airport is centrally located on Long Island, with Clarence Town (the capital) approximately 20 minutes south and other settlements reachable within 30-45 minutes by car.\n\nQ: Does the airport have customs and immigration facilities?\nA: As a domestic-focused airport, immigration processing for international arrivals typically occurs at Nassau's Lynden Pindling International Airport before connecting flights to Long Island.\n\nQ: Are car rentals available at Deadman's Cay Airport?\nA: Limited car rental services are available, often arranged in advance through local providers or accommodations, as on-site rental counters may have limited hours.",
+  "transport_tips": "Pre-arrange ground transportation with your hotel or a local taxi service, as rental car availability is limited and on-demand taxis are uncommon. The airport's single terminal handles quick turnarounds, so plan to deplane and exit within minutes of arrival. Flight delays can occur due to weather, so build buffer time into connecting flights through Nassau.",
+  "local_tip": "Pack motion sickness remedies if you're prone to seasickness—Long Island experiences frequent ferry and small-craft crossings, and the short domestic flight from Nassau can sometimes involve turbulence over open water.",
+  "generatedAt": "2026-06-29T14:49:24.028Z",
+  "model": "MiniMax-M3"
+}

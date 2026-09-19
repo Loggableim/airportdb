@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MPL",
+    "icao": "LFMT",
+    "name": "Montpellier-Méditerranée Airport",
+    "country": "France",
+    "city": "Montpellier/Méditerranée",
+    "lat": 43.5762,
+    "lon": 3.963,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Montpellier-Méditerranée Airport (MPL) serves the historic city of Montpellier and the broader Languedoc-Roussillon region on France's southern Mediterranean coast. Opened in 1946, it operates as a key gateway to the Occitanie region, connecting travelers to popular destinations across France, Europe, and North Africa. The airport is notable for its single modern terminal handling around 2 million passengers annually.",
+  "faqs": "Q: How far is the airport from Montpellier city center?\nA: The airport is approximately 7 kilometers southeast of Montpellier, in the commune of Mauguio, with a typical transfer time of 15-20 minutes by car.\n\nQ: Which airlines operate from Montpellier-Méditerranée Airport?\nA: Major carriers including Air France, easyJet, Ryanair, Volotea, and Transavia serve the airport, offering flights to domestic and European destinations.\n\nQ: Does the airport offer international flights?\nA: Yes, the airport provides seasonal and year-round flights to various European cities and select North African destinations, including routes to London, Paris, Amsterdam, and Marrakech.\n\nQ: Are there facilities for passengers with reduced mobility?\nA: Yes, the airport provides dedicated assistance services and accessible facilities throughout the terminal for passengers with reduced mobility.",
+  "transport_tips": "The most convenient way to reach the city is via the Tramway Line 1, which connects directly from Place de l'Europe in central Montpellier to the airport terminal in about 20 minutes. Taxis and ride-sharing services are available outside the terminal, with fixed rates to central Montpellier. Car rental agencies are located on-site, and the airport is easily accessible from the A9 motorway.",
+  "local_tip": "If you have time before your flight, visit the airport's small exhibition showcasing regional artwork and photography—it offers a pleasant preview of Languedoc culture without leaving the terminal.",
+  "generatedAt": "2026-06-28T19:06:24.880Z",
+  "model": "MiniMax-M3"
+}

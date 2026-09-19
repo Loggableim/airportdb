@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MGH",
+    "icao": "FAMG",
+    "name": "Margate Airport",
+    "country": "South Africa",
+    "city": "Margate",
+    "lat": -30.8574,
+    "lon": 30.343,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Margate Airport serves the popular coastal resort town of Margate on KwaZulu-Natal's South Coast, also known as the Hibiscus Coast. As a medium-sized regional airport, it primarily handles domestic flights and seasonal charter services catering to South Africa's leisure tourism market. The airport provides convenient access to numerous beachfront holiday destinations along this scenic stretch of coastline.",
+  "faqs": "Q: What is the IATA code for Margate Airport?\nA: The IATA code is MGH, and its ICAO code is FAMG.\n\nQ: Where is Margate Airport located?\nA: It is situated in Margate, KwaZulu-Natal province, on the south coast of South Africa, approximately 3 km from the town center.\n\nQ: What types of flights operate from Margate Airport?\nA: The airport primarily handles domestic flights, particularly routes connecting to Johannesburg, as well as seasonal charter services during peak holiday periods.\n\nQ: Does Margate Airport have international flights?\nA: No, Margate Airport primarily operates domestic services, with international travelers typically using Durban's King Shaka International Airport instead.",
+  "transport_tips": "The airport is only a short drive from Margate's main beach and town center, typically taking around 5-10 minutes by car. Rental car agencies and local taxis are available for ground transport, though pre-booking is recommended during peak holiday seasons. Many local resorts and guesthouses offer airport transfer services that can be arranged in advance.",
+  "local_tip": "If visiting during the South African winter school holidays (late June or early July), book flights and accommodation well in advance as the airport gets significantly busier with families heading to the warm KwaZulu-Natal coast.",
+  "generatedAt": "2026-06-29T10:45:42.299Z",
+  "model": "MiniMax-M3"
+}

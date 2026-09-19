@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NMA",
+    "icao": "UZFN",
+    "name": "Namangan International Airport",
+    "country": "Uzbekistan",
+    "city": "Namangan",
+    "lat": 40.9846,
+    "lon": 71.5578,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Namangan International Airport (NMA) is a large public airport serving the city of Namangan in the Fergana Valley of eastern Uzbekistan. It functions as a key regional gateway, handling domestic flights within Uzbekistan and select international connections. The airport features a modern terminal designed to accommodate growing passenger traffic in this economically significant region.",
+  "faqs": "Q: Where is Namangan International Airport located relative to the city?\nA: The airport is situated approximately 7-10 km southwest of central Namangan, providing relatively quick access to the city.\n\nQ: Does the airport offer international flights?\nA: Yes, NMA handles a limited number of international flights, primarily to Russia, Turkey, and other Central Asian destinations.\n\nQ: Are there facilities for overnight stays near the airport?\nA: Several hotels are available in Namangan city itself, though options right at the airport are limited.\n\nQ: Is the airport accessible for passengers with reduced mobility?\nA: The terminal provides basic accessibility features, though travelers with specific needs should contact their airline in advance.",
+  "transport_tips": "Taxis are the most common and convenient way to reach the airport from Namangan, with the journey typically taking 15-20 minutes depending on traffic. Ride-hailing apps may operate in the area but are less reliable than pre-arranged private taxis. Public marshrutka (minibus) routes also serve the airport area for budget-conscious travelers.",
+  "local_tip": "Carry some Uzbek som in cash for taxi fares and small purchases, as card acceptance can be inconsistent outside major establishments, and confirm the taxi fare in advance before departing.",
+  "generatedAt": "2026-06-29T00:27:43.577Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BUD",
+    "icao": "LHBP",
+    "name": "Budapest Liszt Ferenc International Airport",
+    "country": "Hungary",
+    "city": "Budapest",
+    "lat": 47.4302,
+    "lon": 19.2624,
+    "type": "large_airport",
+    "size": 51675
+  },
+  "summary": "Budapest Liszt Ferenc International Airport (BUD) is Hungary's largest and busiest airport, named after the renowned 19th-century Hungarian composer Franz Liszt. Located approximately 16 kilometers southeast of Budapest's city center, it serves as the primary gateway for international travel to Hungary and a major hub for low-cost carrier Wizz Air. The airport features two modern passenger terminals (2A and 2B) that handle millions of passengers annually, offering connections to destinations across Europe, the Middle East, and beyond.",
+  "faqs": "Q: How far is Budapest Airport from the city center?\nA: The airport is located approximately 16 kilometers (10 miles) southeast of Budapest's city center, with a typical journey time of 30-45 minutes depending on traffic.\n\nQ: What is the airport's former name?\nA: The airport was previously known as Ferihegy Airport, named after the surrounding district. It was officially renamed Budapest Liszt Ferenc International Airport in 2011 in honor of composer Franz Liszt.\n\nQ: Does the airport have its own train station?\nA: Yes, the airport has a direct rail connection. The Budapest Airport Terminal 1 station serves the Budapest Kőbánya-Kispest line, providing convenient access to the city's public transport network.\n\nQ: How many terminals does Budapest Airport have?\nA: The airport operates two main passenger terminals, 2A and 2B, which are connected and serve all scheduled flights. Terminal 1 was closed to passenger traffic in 2012.",
+  "transport_tips": "The 100E airport shuttle bus offers a direct, affordable connection between the airport and Deák Ferenc tér in the city center, running 24/7. For rail travelers, the InterCity trains and suburban lines connect from the airport station to Budapest's main stations. Taxis and ride-sharing services are readily available at designated ranks outside the terminals, though it's advisable to use official airport taxi services or pre-book to avoid overcharging.",
+  "local_tip": "If you have a long layover or early arrival, consider visiting the nearby Vecsés neighborhood for authentic Hungarian cuisine at lower tourist prices—several traditional csárda (tavern) restaurants are within minutes of the airport and offer hearty dishes like goulash and pörkölt.",
+  "generatedAt": "2026-06-28T15:38:03.356Z",
+  "model": "MiniMax-M3"
+}

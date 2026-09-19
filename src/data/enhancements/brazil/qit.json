@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "QIT",
+    "icao": "",
+    "name": "Itapetinga Airport",
+    "country": "Brazil",
+    "city": "Itapetinga",
+    "lat": -15.2445,
+    "lon": -40.2772,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Itapetinga Airport (QIT) is a small regional airport serving the city of Itapetinga in the southwestern part of Bahia state, Brazil. The airport primarily handles general aviation and occasional charter flights, serving a region well known for its cattle ranching and agricultural economy. As a modest facility, it plays a supporting role in connecting this interior municipality to larger hubs in Bahia.",
+  "faqs": "Q: Does Itapetinga Airport have commercial scheduled flights?\nA: No, the airport primarily serves general aviation and private/charter operations rather than scheduled commercial passenger service.\n\nQ: Where is Itapetinga located?\nA: Itapetinga is an inland municipality in the southwestern region of Bahia state, Brazil, roughly 600 km southwest of Salvador.\n\nQ: Are there facilities like restaurants or car rentals at the airport?\nA: Given its small size, services are very limited; travelers typically arrange ground transportation and amenities in the nearby city.\n\nQ: What is the main economic activity in Itapetinga?\nA: The region is known for livestock farming, particularly cattle ranching, as well as coffee and other agricultural production.",
+  "transport_tips": "Ground transportation is typically arranged in advance, as the airport has limited on-site services. Taxis and private transfer services from the city center are the most common ways to reach the terminal. The airport is located a short drive from downtown Itapetinga, making road access straightforward.",
+  "local_tip": "If visiting the region, consider exploring the local cattle ranches (fazendas) that the area is famous for—some offer agritourism experiences and traditional Bahian meals that give a true taste of the interior.",
+  "generatedAt": "2026-06-27T23:29:14.341Z",
+  "model": "MiniMax-M3"
+}

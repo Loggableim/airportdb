@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BMG",
+    "icao": "KBMG",
+    "name": "Monroe County Airport",
+    "country": "United States",
+    "city": "Bloomington",
+    "lat": 39.146,
+    "lon": -86.6167,
+    "type": "medium_airport",
+    "size": 475
+  },
+  "summary": "Monroe County Airport is a medium-sized public-use airport serving Bloomington, Indiana, and the surrounding south-central Indiana region. It supports general aviation, business travel, and flight training, providing convenient access to Indiana University and local businesses. The airport features multiple runways and is an important hub for private and corporate aviation in the area.",
+  "faqs": "Q: What type of airport is Monroe County Airport?\nA: It is a medium-sized public-use airport primarily serving general aviation, including private planes, corporate jets, and flight training operations.\n\nQ: Does Monroe County Airport offer commercial airline service?\nA: The airport is primarily used for general aviation and does not currently host scheduled commercial passenger service.\n\nQ: What facilities are available at the airport?\nA: The airport offers runways, hangars, fueling services, and tie-down areas for general aviation aircraft, along with a terminal building.\n\nQ: Why is this airport important to Bloomington?\nA: It provides critical aviation access for Indiana University, local businesses, and visitors traveling to the south-central Indiana region.\n\n",
+  "transport_tips": "The airport is located just southwest of downtown Bloomington, making it a short drive from the city center and Indiana University campus. Rental cars and ride-sharing services are typically available for ground transportation. Taxis and pre-arranged shuttles can also be arranged for travel to nearby destinations.",
+  "local_tip": "If visiting Indiana University, plan your arrival around campus events and football game weekends, as Bloomington traffic and accommodation availability can be significantly impacted during those times.",
+  "generatedAt": "2026-06-30T00:34:33.043Z",
+  "model": "MiniMax-M3"
+}

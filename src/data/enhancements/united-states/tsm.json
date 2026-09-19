@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TSM",
+    "icao": "KSKX",
+    "name": "Taos Regional Airport",
+    "country": "United States",
+    "city": "Taos",
+    "lat": 36.4525,
+    "lon": -105.6775,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Taos Regional Airport (TSM/KSKX) is a high-elevation public-use airport serving the town of Taos in northern New Mexico, nestled in the Sangre de Cristo Mountains. It primarily functions as a gateway for visitors heading to Taos Ski Valley and the region's renowned art colonies and historic Taos Pueblo. The airport supports general aviation and limited scheduled service, making it a key access point for this culturally rich and scenically dramatic part of the American Southwest.",
+  "faqs": "Q: What is the elevation of Taos Regional Airport?\nA: Taos Regional Airport sits at a high elevation of approximately 7,094 feet above sea level, which can affect aircraft performance during hot summer days.\n\nQ: Are there commercial flights to Taos Regional Airport?\nA: Scheduled commercial service is limited; most travelers fly into the airport via private or charter aircraft, with commercial passengers typically connecting through larger airports like Albuquerque (ABQ) or Denver (DEN).\n\nQ: What attractions are near Taos Regional Airport?\nA: The airport is conveniently located near Taos Pueblo (a UNESCO World Heritage Site), Taos Ski Valley, the Rio Grande Gorge, and the town's historic plaza with numerous art galleries.\n\nQ: Does the airport have car rental services on site?\nA: Rental car availability is limited, so visitors are encouraged to arrange transportation in advance through hotels or pre-booked services.",
+  "transport_tips": "The airport is located about 8 miles northeast of Taos town center, roughly a 15-20 minute drive along US-64. Rental cars, hotel shuttles, and pre-arranged private transfers are the most common ways to reach town. Driving yourself offers the most flexibility, especially for those planning to explore surrounding areas like Taos Ski Valley or the Rio Grande Gorge.",
+  "local_tip": "If visiting during winter, check the airport's NOTAMs and weather reports before flying in",
+  "generatedAt": "2026-06-29T19:54:43.366Z",
+  "model": "MiniMax-M3"
+}

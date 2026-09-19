@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BJR",
+    "icao": "HABD",
+    "name": "Bahir Dar Airport",
+    "country": "Ethiopia",
+    "city": "Bahir Dar",
+    "lat": 11.6081,
+    "lon": 37.3216,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Bahir Dar Airport serves Bahir Dar, the capital of Ethiopia's Amhara Region, and functions as the primary air gateway to the scenic Lake Tana basin and the famous Blue Nile Falls. The airport handles regular domestic flights, primarily connecting the city with Addis Ababa via Ethiopian Airlines, and supports the area's growing tourism sector. Its location near one of Ethiopia's most visited cultural and natural regions makes it a vital regional aviation hub.",
+  "faqs": "Q: Which airlines operate flights at Bahir Dar Airport?\nA: Ethiopian Airlines is the main carrier, providing multiple daily connections to Addis Ababa Bole International Airport.\n\nQ: How far is the airport from the city center?\nA: The airport is located approximately 8 kilometers west of downtown Bahir Dar, a short drive of around 15 minutes.\n\nQ: What attractions are accessible from the airport?\nA: The airport provides easy access to Lake Tana, the Blue Nile Falls (Tis Issat), and the historic island monasteries of Lake Tana.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic amenities including a small café, ticket counters, and ground transport services, though facilities are limited compared to larger international airports.\n\n",
+  "transport_tips": "Taxis are the most reliable way to reach the city center, and they are readily available outside the terminal; agree on a fare before departure as meters are uncommon. Hotel shuttles and pre-arranged transfers are worth booking in advance for groups or those heading directly to lakeside resorts. For travelers continuing to the Blue Nile Falls, hiring a driver for a half-day excursion from the airport is a popular option.",
+  "local_tip": "Request a window seat on the left side when flying into Bahir Dar from Addis Ababa—the approach often offers stunning aerial views of Lake Tana and the surrounding highland landscape on clear days.",
+  "generatedAt": "2026-06-29T10:25:16.491Z",
+  "model": "MiniMax-M3"
+}

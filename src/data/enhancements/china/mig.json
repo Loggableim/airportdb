@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MIG",
+    "icao": "ZUMY",
+    "name": "Mianyang Nanjiao Airport",
+    "country": "China",
+    "city": "Mianyang (Fucheng)",
+    "lat": 31.4281,
+    "lon": 104.741,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Mianyang Nanjiao Airport (MIG) is a regional airport serving Mianyang, the second-largest city in Sichuan Province, China. Its name 'Nanjiao' means 'South Suburb,' reflecting its location south of the city center. The airport supports Mianyang's growing science and technology industry, often referred to as China's 'Science City,' and provides an alternative gateway to northern Sichuan.",
+  "faqs": "Q: How far is Mianyang Nanjiao Airport from the city center?\nA: The airport is located approximately 10 km south of downtown Mianyang, making it a relatively quick trip of around 20-30 minutes by taxi.\n\nQ: Does the airport offer international flights?\nA: No, Mianyang Nanjiao primarily handles domestic flights, mostly connecting to major Chinese hubs like Beijing, Shanghai, Guangzhou, and Shenzhen.\n\nQ: What facilities are available at the airport?\nA: The terminal provides standard amenities including dining options, shops, lounges, and basic passenger services. As a medium-sized facility, it is efficient but not as extensive as larger international airports.\n\nQ: Is the airport affected by fog or weather conditions?\nA: Sichuan Basin airports can occasionally experience fog and low visibility in winter months, which may cause flight delays.",
+  "transport_tips": "Taxis are the most common way to reach the airport, with rides to central Mianyang typically costing around 30-50 RMB and taking 20-30 minutes depending on traffic. Public bus services also connect the airport to key areas of the city. For travelers heading to Chengdu, the high-speed train from Mianyang is often faster than flying from Chengdu's busy Shuangliu Airport.",
+  "local_tip": "If you're visiting the China Science and Technology City attractions or the nearby ancient city of Langzhong, consider booking an early morning flight, as afternoon fog in the Sichuan Basin can occasionally cause delays during winter months.",
+  "generatedAt": "2026-06-29T13:57:14.470Z",
+  "model": "MiniMax-M3"
+}

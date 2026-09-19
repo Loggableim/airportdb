@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BHY",
+    "icao": "ZGBH",
+    "name": "Beihai Fucheng Airport",
+    "country": "China",
+    "city": "Beihai",
+    "lat": 21.5387,
+    "lon": 109.2937,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Beihai Fucheng Airport (BHY) is a regional airport serving the coastal city of Beihai in the Guangxi Zhuang Autonomous Region of southern China. It functions as the primary air gateway to one of China's premier beach destinations, Silver Beach, and provides access to the popular resort island of Weizhou via onward ferry connections. The airport handles a mix of domestic routes connecting Beihai to major hubs like Beijing, Shanghai, and Guangzhou.",
+  "faqs": "Q: How far is Beihai Fucheng Airport from the city center?\nA: The airport is located approximately 25 kilometers west of downtown Beihai, with typical taxi rides taking around 40 minutes depending on traffic.\n\nQ: Which airlines operate from Beihai Fucheng Airport?\nA: The airport is served primarily by Chinese carriers including China Southern, China Eastern, Air China, and several regional airlines offering domestic routes.\n\nQ: Can I fly directly to Beihai from international destinations?\nA: BHY primarily handles domestic flights; international travelers typically connect through major hubs like Guangzhou, Beijing, or Shanghai.\n\nQ: Does the airport have ferry connections to Weizhou Island?\nA: The airport itself does not offer ferry services, but ground transport links connect passengers to Beihai International Passenger Terminal where ferries to Weizhou Island depart.",
+  "transport_tips": "Airport shuttle buses run between the airport and central Beihai, offering an affordable option for budget travelers. Taxis and ride-hailing services like Didi are readily available outside the terminal and are recommended for groups or those carrying luggage. Renting a car at the airport is possible but may not be necessary, as Beihai's main attractions are accessible by taxi or short driving distances.",
+  "local_tip": "If traveling to Weizhou Island, build in a buffer of at least one night in Beihai before your ferry departure, as flight delays combined with ferry schedules can otherwise make connections very tight.",
+  "generatedAt": "2026-06-29T22:14:04.325Z",
+  "model": "MiniMax-M3"
+}

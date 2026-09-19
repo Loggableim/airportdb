@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IXK",
+    "icao": "VAKS",
+    "name": "Keshod Airport",
+    "country": "India",
+    "city": "Keshod",
+    "lat": 21.3171,
+    "lon": 70.2704,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Keshod Airport (IXK/VAKS) is a medium-sized airport located in the Junagadh district of Gujarat, India, originally developed during World War II as a military airfield before being repurposed for civilian use. It serves as the primary gateway for visitors heading to the nearby Gir Forest National Park, the last remaining habitat of the Asiatic lion. The airport operates limited scheduled flights, primarily connecting the region with major Indian cities like Mumbai.",
+  "faqs": "Q: What is Keshod Airport best known for?\nA: It is the closest airport to Gir Forest National Park, home to the world's only population of Asiatic lions in the wild.\n\nQ: Are there regular commercial flights from Keshod?\nA: Scheduled flights are limited and operate on select days, often connecting to Mumbai. Travelers should check current schedules as services have varied over the years.\n\nQ: When was Keshod Airport originally built?\nA: The airport dates back to World War II when it served as a military airfield for the British Indian Air Force.\n\nQ: How far is the airport from Gir Forest?\nA: The airport is approximately 40-50 kilometers from the main entry gates of Gir Forest National Park, making it the most convenient air access point.\n\n",
+  "transport_tips": "Pre-paid taxis and auto-rickshaws are available outside the terminal for the roughly one-hour journey to Gir Forest. Hiring a private car in advance is recommended for safari tours, as local drivers familiar with forest entry procedures can be invaluable. The airport is well connected by road to Junagadh city, about 15 kilometers away.",
+  "local_tip": "Book your Gir Forest safari permit online in advance through the official Gujarat forest department portal, as walk-in permits are limited and the early morning safari slots fill up quickly during peak season (October to March).",
+  "generatedAt": "2026-06-29T20:49:41.353Z",
+  "model": "MiniMax-M3"
+}

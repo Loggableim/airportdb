@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AGN",
+    "icao": "PAGN",
+    "name": "Angoon Seaplane Base",
+    "country": "United States",
+    "city": "Angoon",
+    "lat": 57.4971,
+    "lon": -134.5672,
+    "type": "seaplane_base",
+    "size": 25
+  },
+  "summary": "Angoon Seaplane Base (AGN/PAGN) is a small public-use seaplane base located in Angoon, a remote Tlingit community on Admiralty Island in southeastern Alaska. The facility primarily serves local residents, fishermen, and visitors accessing the surrounding Tongass National Forest wilderness area. Operating without a conventional runway, it functions as a vital lifeline for transportation in this isolated island community where road access is nonexistent.",
+  "faqs": "Q: What type of aircraft use Angoon Seaplane Base?\nA: The base exclusively accommodates float-equipped seaplanes, as there is no conventional runway. Most flights are operated by small single-engine bush planes carrying up to 9 passengers.\n\nQ: When is the base operational?\nA: Operations are typically limited to daylight hours and favorable weather conditions. Winter operations can be limited due to ice and reduced daylight, while summer is the busiest season.\n\nQ: Are there facilities at the terminal?\nA: Facilities are minimal, typical of remote Alaskan seaplane bases, with a small dock area for loading and unloading passengers. No major amenities are available on-site.\n\nQ: Can I fly here from Juneau?\nA: Yes, short charter and scheduled flights connect Angoon to Juneau, approximately 60 miles northwest, with flight times under 30 minutes.",
+  "transport_tips": "Ground transportation in Angoon is limited; plan to have accommodations arrange pickup from the seaplane dock or arrange a rental vehicle in advance. Ferry service from Juneau is an alternative but takes significantly longer than flying. Pack light, as baggage space on small seaplanes is restricted.",
+  "local_tip": "Bring a light waterproof jacket even in summer; weather on Admiralty Island can shift rapidly, and small craft advisories are common when departing the base.",
+  "generatedAt": "2026-06-28T11:06:33.966Z",
+  "model": "MiniMax-M3"
+}

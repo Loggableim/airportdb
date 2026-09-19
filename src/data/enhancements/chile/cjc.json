@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CJC",
+    "icao": "SCCF",
+    "name": "El Loa Airport",
+    "country": "Chile",
+    "city": "Calama",
+    "lat": -22.4982,
+    "lon": -68.9036,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "El Loa Airport serves the mining city of Calama in Chile's Antofagasta Region and functions as the main aerial gateway to the Atacama Desert, including the popular tourist hub of San Pedro de Atacama. Located in one of the driest places on Earth and sitting at roughly 2,260 meters elevation, the airport handles a mix of commercial traffic serving copper mining operations at nearby Chuquicamata and leisure travelers heading into the desert. The name comes from the Loa River, Chile's longest river, which crosses the surrounding arid landscape.",
+  "faqs": "Q: How far is the airport from San Pedro de Atacama?\nA: San Pedro de Atacama is approximately 100 km (about 1.5 to 2 hours by road) from El Loa Airport, and most visitors arrange a shared or private transfer in advance.\n\nQ: Is altitude a concern at this airport?\nA: Yes, Calama sits at around 2,260 meters above sea level, so travelers coming from lower elevations may experience mild altitude effects, especially before continuing higher into the Atacama plateau.\n\nQ: Are there direct flights from Santiago?\nA: Yes, multiple daily flights operate between Santiago (SCL) and Calama on carriers such as LATAM and Sky Airline, with typical flight times of around two hours.\n\nQ: Does the airport offer international flights?\nA: El Loa primarily handles domestic routes, but a small number of regional international services to neighboring countries in South America have operated from here at times.\n\n",
+  "transport_tips": "Taxis and rideshare services are available just outside the terminal and can reach Calama's center in about 15 minutes. For San Pedro de Atacama, pre-booked",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T05:17:40.644Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SXB",
+    "icao": "LFST",
+    "name": "Strasbourg Airport",
+    "country": "France",
+    "city": "Strasbourg",
+    "lat": 48.5383,
+    "lon": 7.6282,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Strasbourg Airport (SXB) is located in Entzheim, approximately 10 km southwest of Strasbourg city center in the Alsace region of northeastern France. It serves as a convenient gateway to both France and neighboring Germany, reflecting Strasbourg's position on the Franco-German border. The airport operates a single modern terminal and primarily handles European flights along with seasonal holiday routes.",
+  "faqs": "Q: How far is Strasbourg Airport from the city center?\nA: The airport is about 10 km southwest of Strasbourg city center, roughly a 15-20 minute drive depending on traffic.\n\nQ: Does Strasbourg Airport have a train station?\nA: Yes, the Entzheim-Aéroport TER train station is located near the terminal, offering regular regional trains to Strasbourg's main station in about 9-10 minutes.\n\nQ: Which airlines operate from Strasbourg Airport?\nA: The airport is served by several carriers including Air France, Volotea, easyJet, Ryanair, and others, mostly offering routes within Europe.\n\nQ: Is Strasbourg Airport open at night?\nA: No, the airport has curfews limiting night operations, with most flights scheduled during daytime hours.",
+  "transport_tips": "The most convenient option is the TER regional train from Entzheim-Aéroport station, which connects directly to Strasbourg's central station in roughly 10 minutes. Driving via the A35 motorway is straightforward, and the airport offers on-site parking including short-stay and long-stay options. Taxis and ride-shares are also available outside the terminal, with fares to central Strasbourg typically around 25-35 euros.",
+  "local_tip": "If you have a layover or extra time, consider taking the train to Strasbourg's historic Grande Île district—a UNESCO World Heritage site where you can see the stunning Strasbourg Cathedral within a 15-minute walk from the main station.",
+  "generatedAt": "2026-06-28T19:23:15.224Z",
+  "model": "MiniMax-M3"
+}

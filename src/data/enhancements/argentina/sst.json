@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SST",
+    "icao": "SAZL",
+    "name": "Santa Teresita Airport",
+    "country": "Argentina",
+    "city": "Santa Teresita",
+    "lat": -36.5423,
+    "lon": -56.7218,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Santa Teresita Airport serves the popular seaside resort town of Santa Teresita on the Atlantic coast of Buenos Aires Province, Argentina. The airport primarily handles general aviation and seasonal tourist traffic heading to the surrounding beach destinations of the Partido de La Costa. Its location near the coast makes it a convenient entry point for visitors exploring Argentina's eastern shoreline during the summer months.",
+  "faqs": "Q: What is Santa Teresita Airport primarily used for?\nA: The airport mainly serves general aviation and seasonal tourist flights connecting Buenos Aires to the coastal resort towns of the La Costa region.\n\nQ: Is Santa Teresita Airport open year-round?\nA: Yes, the airport operates throughout the year, though flight frequency typically increases during the Argentine summer holiday season (December to March).\n\nQ: Does the airport offer international flights?\nA: The airport is primarily used for domestic and general aviation purposes, with scheduled international service being very limited.\n\nQ: What facilities are available at the airport?\nA: The airport has basic terminal facilities suitable for general aviation and small commercial operations, with limited passenger amenities.",
+  "transport_tips": "The airport is located a short drive from downtown Santa Teresita, and taxis or remise services are typically the most convenient way to reach the beach areas. During peak summer season, arranging ground transportation in advance is recommended as availability can be limited. Rental car services may be available but should be booked ahead of time during the busy holiday period.",
+  "local_tip": "Frequent visitors recommend flying in during shoulder seasons (spring or early autumn) to enjoy quieter beaches and more reliable flight schedules, as summer departures are often affected by coastal weather patterns and booking demand.",
+  "generatedAt": "2026-06-29T13:03:51.127Z",
+  "model": "MiniMax-M3"
+}

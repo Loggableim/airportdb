@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ADD",
+    "icao": "HAAB",
+    "name": "Addis Ababa Bole International Airport",
+    "country": "Ethiopia",
+    "city": "Addis Ababa",
+    "lat": 8.9779,
+    "lon": 38.7993,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Addis Ababa Bole International Airport is the principal gateway to Ethiopia and the African hub of Ethiopian Airlines, one of the continent's largest carriers. Located in the capital city of Addis Ababa, the airport has undergone significant expansion in recent years, including a new terminal that has greatly increased its passenger capacity. It serves as a key transit point connecting Africa with Europe, the Middle East, Asia, and the Americas.",
+  "faqs": "Q: How far is the airport from central Addis Ababa?\nA: The airport is approximately 6 km (about 4 miles) southeast of the city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Is the airport a hub for any major airline?\nA: Yes, it is the main hub for Ethiopian Airlines, which operates one of the largest networks in Africa with connections to numerous international destinations.\n\nQ: Are there currency exchange and ATM facilities at the airport?\nA: Yes, currency exchange bureaus and ATMs are available in both the international and domestic terminal areas.\n\nQ: Does the airport offer free Wi-Fi?\nA: Wi-Fi is available throughout the terminals, though connection quality and speed may vary. Ethiopian Airlines' business-class passengers and Star Alliance Gold members typically have access to premium lounges with reliable connectivity.\n\n",
+  "transport_tips": "Taxis are the most common way to reach the city center; agree on a fare before departing as meters are not always used. Several hotels in Addis Ababa offer airport shuttle services, which can be arranged in advance for added convenience. Ride-hailing apps also operate in Addis Ababa and can be used for transport to and from the airport.",
+  "local_tip": "If you have a long layover, the Ethiopian Airlines branded lounges offer excellent shower facilities and Ethiopian cuisine—a great way to freshen up and sample local food without leaving the airport.",
+  "generatedAt": "2026-06-28T17:22:51.595Z",
+  "model": "MiniMax-M3"
+}

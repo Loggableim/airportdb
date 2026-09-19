@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EUG",
+    "icao": "KEUG",
+    "name": "Eugene Airport",
+    "country": "United States",
+    "city": "Eugene",
+    "lat": 44.1246,
+    "lon": -123.212,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Eugene Airport (EUG) is a regional airport serving Eugene, Oregon, and the broader southern Willamette Valley, located about 7 miles northwest of downtown Eugene near the McKenzie River foothills. It primarily supports commercial service to West Coast hubs and is a key gateway for visitors to the University of Oregon and the area's outdoor recreation destinations. Known locally as Mahlon Sweet Field, the airport handles general aviation, military training flights, and scheduled passenger service.",
+  "faqs": "Q: How far is Eugene Airport from downtown Eugene?\nA: The airport is approximately 7 miles northwest of downtown Eugene, typically a 15-20 minute drive depending on traffic.\n\nQ: What airlines fly out of Eugene Airport?\nA: EUG is served by Alaska Airlines, United Airlines, Delta Air Lines, and American Airlines, mostly with regional jet service connecting to West Coast hubs like Seattle, Portland, San Francisco, Los Angeles, and Denver.\n\nQ: Does Eugene Airport have rental cars available?\nA: Yes, several rental car companies operate on-site at the airport, including national brands like Enterprise, Hertz, Avis, and Budget.\n\nQ: Is there a military presence at Eugene Airport?\nA: Yes, the airport hosts Oregon Army National Guard helicopter units and is used periodically for military training operations.",
+  "transport_tips": "Lane Transit District (LTD) provides public bus service with a route connecting the airport to downtown Eugene and the University of campus. Rideshare services like Uber and Lyft are available with designated pickup zones outside the terminal. Rental car counters are located inside the terminal, and the airport offers ample short- and long-term parking lots just steps from the check-in area.",
+  "local_tip": "If you have time before your flight, the airport's small observation area and the nearby Howard Buford Recreation Area offer quick opportunities to enjoy Oregon's signature green landscape without leaving the airport vicinity.",
+  "generatedAt": "2026-06-29T02:12:49.495Z",
+  "model": "MiniMax-M3"
+}

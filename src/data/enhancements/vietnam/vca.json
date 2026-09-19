@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VCA",
+    "icao": "VVCT",
+    "name": "Can Tho International Airport",
+    "country": "Vietnam",
+    "city": "Can Tho",
+    "lat": 10.0834,
+    "lon": 105.7094,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Can Tho International Airport (VCA) serves as the primary air gateway to Vietnam's Mekong Delta region, located approximately 10 km southwest of Can Tho city center. Originally a military airbase, it was upgraded to handle civilian and international flights, becoming a vital link for travelers exploring the delta's famous floating markets, orchards, and river landscapes. The airport connects this agriculturally rich region with major domestic hubs like Hanoi and Ho Chi Minh City, plus select regional destinations.",
+  "faqs": "Q: How far is Can Tho International Airport from the city center?\nA: The airport is roughly 10 km southwest of central Can Tho, with typical taxi rides taking 20–30 minutes depending on traffic.\n\nQ: Which airlines operate flights to and from Can Tho Airport?\nA: Vietnam Airlines, VietJet Air, and Bamboo Airways are the main carriers serving VCA, offering frequent domestic routes to Hanoi, Ho Chi Minh City, and Da Nang, with occasional regional services.\n\nQ: Does the airport have international flights?\nA: Yes, despite its small size, VCA holds international status and occasionally serves regional routes, though the vast majority of traffic is domestic.\n\nQ: Are there currency exchange and ATM facilities at the airport?\nA: Yes, basic services including ATMs and currency exchange counters are available in the terminal, though rates are generally better in the city.",
+  "transport_tips": "Taxis from Can Tho Airport to the city center are metered and typically cost around 100,000–150,000 VND. Ride-hailing apps like Grab operate in the area and often offer more transparent pricing. For budget travelers, local buses and shuttle services occasionally connect the airport with central Can Tho, though schedules are infrequent.",
+  "local_tip": "Visit Cai Rang Floating Market at dawn just minutes from the airport area—it's most authentic before 7 AM, so book an early morning flight and head straight to the boats instead of waiting at your hotel.",
+  "generatedAt": "2026-06-29T00:12:18.945Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HHP",
+    "icao": "VHSS",
+    "name": "Shun Tak Heliport",
+    "country": "Hong Kong",
+    "city": "Central and Western",
+    "lat": 22.2889,
+    "lon": 114.1524,
+    "type": "heliport",
+    "size": 0
+  },
+  "summary": "Shun Tak Heliport is a rooftop heliport situated atop the Shun Tak Centre in Sheung Wan, Hong Kong's Central and Western District. It serves as a key aerial gateway for short-haul flights to Macau and other Pearl River Delta destinations, offering a fast alternative to ferry crossings. The facility operates alongside the adjacent Macau Ferry Terminal, making it a vital intermodal transport hub.",
+  "faqs": "Q: What destinations can I fly to from Shun Tak Heliport?\nA: The heliport primarily operates scheduled services to Macau, with flight times of around 15 minutes. Some routes also connect to other cities in the Pearl River Delta region, including Shenzhen.\n\nQ: How long does it take to fly to Macau?\nA: The helicopter flight from Shun Tak Heliport to Macau takes approximately 15 minutes, significantly faster than the typical one-hour ferry ride.\n\nQ: Is there a baggage weight limit for helicopter flights?\nA: Yes, helicopter operators enforce strict luggage limits due to space and weight constraints. Passengers are typically allowed only small carry-on items, and checked baggage options are limited.\n\nQ: Can I use the heliport as a walk-in passenger without a reservation?\nA: It's strongly recommended to book in advance, as flights operate on a scheduled basis and seats are limited. Walk-ins may be accommodated subject to availability.",
+  "transport_tips": "The heliport is conveniently integrated with the Shun Tak Centre, which houses the Macau Ferry Terminal, allowing easy transfers between helicopter and ferry services. It is a short walk from Sheung Wan MTR Station (Exit D) and well-connected by tram and bus routes. Taxis can drop off directly at the building entrance on Connaught Road Central.",
+  "local_tip": "If you're connecting to or from the Macau Ferry Terminal below, allow at least 30 minutes for security screening and boarding at the heliport, as the rooftop facility requires dedicated elevator access separate from the ferry terminal queues.",
+  "generatedAt": "2026-06-28T13:18:02.434Z",
+  "model": "MiniMax-M3"
+}

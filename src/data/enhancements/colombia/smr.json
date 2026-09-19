@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SMR",
+    "icao": "SKSM",
+    "name": "Simón Bolívar International Airport",
+    "country": "Colombia",
+    "city": "Santa Marta",
+    "lat": 11.1196,
+    "lon": -74.2306,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Simón Bolívar International Airport (SMR) is the main gateway to Santa Marta, Colombia's oldest surviving city and the place where liberator Simón Bolívar died in 1830. The airport sits on the Caribbean coast and serves as the primary access point for travelers heading to Tayrona National Natural Park and the surrounding beaches. It handles a mix of domestic flights and a growing number of regional international routes.",
+  "faqs": "Q: How far is the airport from Santa Marta's city center?\nA: The airport is approximately 15-20 minutes (around 15 km) from central Santa Marta by road.\n\nQ: Which airlines operate from Simón Bolívar International Airport?\nA: The airport is served mainly by domestic carriers including Avianca, LATAM, and Viva Air Colombia, with occasional international routes to nearby countries.\n\nQ: Are there ATMs and currency exchange at the airport?\nA: Yes, ATMs are available in the terminal, but carrying Colombian pesos in advance is recommended for taxis and small vendors.\n\nQ: Can I fly directly to Tayrona National Park from here?\nA: The park is not served by air; travelers typically take a bus or taxi from Santa Marta to the park entrance, roughly an hour away.",
+  "transport_tips": "Official yellow taxis are available outside the terminal and offer fixed or metered fares to Santa Marta; agree on the price before departure. Shared shuttle services and colectivo vans can be arranged in advance for travel to coastal destinations like Taganga and Tayrona. Rental car agencies operate at the airport, useful for exploring the surrounding Sierra Nevada region.",
+  "local_tip": "If heading to Tayrona National Park, plan to arrive at the airport in the morning so you can reach the park entrance before midday, as the main trails close at certain hours and accommodation inside the park fills up quickly during high season.",
+  "generatedAt": "2026-06-29T06:32:13.710Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YXX",
+    "icao": "CYXX",
+    "name": "Abbotsford International Airport",
+    "country": "Canada",
+    "city": "Abbotsford",
+    "lat": 49.0253,
+    "lon": -122.361,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Abbotsford International Airport (YXX) is a medium-sized regional airport located in the Fraser Valley of British Columbia, about 75 km east of Vancouver. Originally established as a Royal Canadian Air Force training base during World War II, it now serves as a convenient alternative to Vancouver International Airport for travelers in the eastern Lower Mainland. The airport is best known for hosting the annual Abbotsford International Airshow, one of North America's largest aviation events, typically held in early August.",
+  "faqs": "Q: How far is Abbotsford Airport from Vancouver?\nA: The airport is approximately 75 km (about a 60-90 minute drive) east of downtown Vancouver, accessible via Highway 1 (Trans-Canada Highway).\n\nQ: Does Abbotsford Airport have international flights?\nA: Yes, YXX offers scheduled international service, primarily to destinations in Mexico and the Caribbean, along with domestic flights within Canada.\n\nQ: Is there parking available at the airport?\nA: Yes, the airport offers both short-term and long-term parking lots with competitive rates compared to larger Canadian airports.\n\nQ: What is the best time to visit Abbotsford Airport?\nA: Early August is the most popular time due to the famous Abbotsford International Airshow, but travelers should expect heavy traffic and book accommodations well in advance.",
+  "transport_tips": "Driving is the most convenient way to reach YXX, with the airport located just off Highway 1 at the Abbotsford-Hope exit. Several shuttle services and ride-share options operate between the airport and the Vancouver metro area, though journey times can vary significantly with traffic and border crossings. Public transit is available via the Fraser Valley Express bus connecting to Abbotsford city center and regional destinations.",
+  "local_tip": "If you're flying out during airshow weekend, plan to arrive at the airport well before the event and",
+  "generatedAt": "2026-06-29T02:29:31.190Z",
+  "model": "MiniMax-M3"
+}

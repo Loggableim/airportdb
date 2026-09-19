@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CEZ",
+    "icao": "KCEZ",
+    "name": "Cortez Municipal Airport",
+    "country": "United States",
+    "city": "Cortez",
+    "lat": 37.303,
+    "lon": -108.628,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Cortez Municipal Airport serves as the closest airport to Mesa Verde National Park, providing a convenient gateway to the ancestral Puebloan cliff dwellings of southwest Colorado. Located in the Four Corners region near the borders of Utah, Arizona, and New Mexico, the airport primarily handles general aviation and occasional charter flights serving tourists and archaeological researchers.",
+  "faqs": "Q: What airlines fly into Cortez Municipal Airport?\nA: The airport is primarily used for general aviation and charter flights, with no scheduled commercial passenger service by major airlines.\n\nQ: How far is the airport from Mesa Verde National Park?\nA: Cortez Municipal Airport is approximately 10 miles east of Mesa Verde National Park entrance, making it the closest airport for visitors.\n\nQ: Are there car rental services at CEZ?\nA: Rental car availability is limited, so visitors typically arrange vehicles in advance or use local rental agencies in town.\n\nQ: Does the airport have an FAA control tower?\nA: The airport operates without a staffed control tower, with pilots using CTAF and UNICOM frequencies.\n\n",
+  "transport_tips": "The airport is located just a short drive southeast of downtown Cortez, making taxi or pre-arranged shuttle services convenient options. Since commercial service is limited, most visitors rent a vehicle locally to explore the surrounding national parks and monuments. U.S. Highway 160 provides the main route connecting the airport to Cortez and regional destinations.",
+  "local_tip": "Stop by the Cortez Cultural Center downtown before or after your flight to learn about the Ancestral Puebloans whose cliff dwellings made this region famous and gain context for your Mesa Verde visit.",
+  "generatedAt": "2026-06-29T19:19:30.921Z",
+  "model": "MiniMax-M3"
+}

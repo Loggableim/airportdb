@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CJL",
+    "icao": "OPCH",
+    "name": "Chitral Airport",
+    "country": "Pakistan",
+    "city": "Chitral",
+    "lat": 35.8862,
+    "lon": 71.7999,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Chitral Airport (CJL) serves the remote Chitral Valley in Pakistan's Khyber Pakhtunkhwa province, nestled among the Hindu Kush mountains near the Afghan border. It functions as a critical air link for one of Pakistan's most isolated regions, where road access is limited and weather-dependent. The airport is known for its challenging approach through mountainous terrain, making it a notable destination for aviation enthusiasts.",
+  "faqs": "Q: Which airlines operate flights to Chitral Airport?\nA: Pakistan International Airlines (PIA) is the primary carrier operating scheduled flights, mainly connecting Chitral to Peshawar.\n\nQ: How long is the runway at Chitral Airport?\nA: The airport has a single runway approximately 1,750 meters long, which limits it to smaller turboprop aircraft like the ATR 42.\n\nQ: Why are flights to Chitral often delayed or cancelled?\nA: Weather conditions in the Hindu Kush mountains, including fog, low visibility, and strong winds, frequently disrupt operations at this high-altitude airport.\n\nQ: Is Chitral Airport safe for travelers?\nA: Yes, the airport operates under standard civil aviation regulations, though its mountainous location requires experienced pilots trained for challenging approach procedures.\n\n",
+  "transport_tips": "Taxis and local jeeps are available at the airport to take passengers into Chitral town, located about 3 km away. Shared transport to remote valley destinations like Kalash valleys or Shandur Pass can sometimes be arranged upon arrival. The airport is small and informal, so arriving early is less critical than at major hubs, but road travel onward requires planning as mountain roads can be slow and weather-sensitive.",
+  "local_tip": "Pack layers even in summer—Chitral's elevation means temperatures drop sharply after sunset, and the airport terminal has limited heating. If visiting the Kalash valleys, ask your taxi driver about current road conditions before departure, as flash floods can occasionally block routes.",
+  "generatedAt": "2026-06-29T14:48:29.027Z",
+  "model": "MiniMax-M3"
+}

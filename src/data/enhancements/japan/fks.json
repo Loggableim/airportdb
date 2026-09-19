@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FKS",
+    "icao": "RJSF",
+    "name": "Fukushima Airport",
+    "country": "Japan",
+    "city": "Sukagawa",
+    "lat": 37.2274,
+    "lon": 140.431,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Fukushima Airport (FKS) is a regional airport serving Fukushima Prefecture in the Tohoku region of Japan, located in the city of Sukagawa. Opened in 1993 to replace the older Sukagawa airfield, it provides domestic connections and played a key logistical role during the 2011 Great East Japan Earthquake response. The airport sits in a mountainous area roughly 60 km south of Fukushima City, offering travelers easy access to the prefecture's scenic hot springs, historical sites, and ski resorts.",
+  "faqs": "Q: What domestic destinations can I fly to from Fukushima Airport?\nA: Fukushima Airport primarily offers domestic flights to Osaka (Itami), Sapporo (New Chitose), and Okinawa (Naha) operated by Japan Airlines, ANA, and other carriers, with schedules varying by season.\n\nQ: How far is Fukushima Airport from central Fukushima City?\nA: The airport is approximately 60-65 km south of Fukushima City, requiring about 90 minutes by car via expressway or around 2-2.5 hours by highway bus.\n\nQ: Are there international flights at Fukushima Airport?\nA: International services have been limited or suspended in recent years; historically routes to South Korea, Taiwan, and China operated seasonally. Check current airline schedules for the latest international offerings.\n\nQ: Does Fukushima Airport have its own railway station?\nA: No, the airport is not directly served by rail. Travelers typically use the Tobu bus from Shin-Shirakawa Station on the Tohoku Shinkansen line, which takes about 30-40 minutes.",
+  "transport_tips": "The most convenient rail-air connection is via the Tohoku Shinkansen to Shin-Shirakawa Station, followed by a Tobu Airport Liner bus (roughly 40 minutes). Rental cars are available at the terminal and recommended for exploring the wider prefecture, especially the Aizu region. Highway buses also link the airport directly to Koriyama and Iwaki for travelers heading to those urban centers.",
+  "local_tip": "Grab a bento or local Fukushima sake at the small souvenir and snack shop in the terminal before your flight—the prefecture is famous for its pekoe rice and Anpachi beef, and the selection often features regional products not found in bigger airports.",
+  "generatedAt": "2026-06-29T13:06:15.464Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NVP",
+    "icao": "SWNA",
+    "name": "Novo Aripuanã Airport",
+    "country": "Brazil",
+    "city": "Novo Aripuanã",
+    "lat": -5.118,
+    "lon": -60.3649,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Novo Aripuanã Airport (NVP) is a small regional airfield serving the remote municipality of Novo Aripuanã in the state of Amazonas, deep within the Brazilian Amazon rainforest. The airport functions as a vital transportation link for the isolated community, supporting regional connectivity where river and air travel are often the primary means of accessing the area. Its location near the confluence of the Aripuanã and Madeira rivers makes it an important gateway for this frontier town.",
+  "faqs": "Q: What airlines operate at Novo Aripuanã Airport?\nA: The airport is primarily served by small regional carriers operating domestic flights within Amazonas state, typically connecting to Manaus.\n\nQ: Are there international flights from NVP?\nA: No, Novo Aripuanã Airport handles only domestic regional flights; international travelers must connect through larger hubs like Manaus.\n\nQ: Does the airport have nighttime operations?\nA: As a small airfield in a remote Amazonian location, the airport primarily operates during daylight hours with limited or no nighttime service.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic amenities suitable for a small regional airport, with minimal services typical of remote Amazonian airfields.",
+  "transport_tips": "The airport is located just a few kilometers from the town center of Novo Aripuanã, and travelers can typically reach the city by short taxi or moto-taxi rides. Given the town's remote location, road access may be limited, so confirm onward transportation options before arrival. Many visitors combine air travel with river boat transport, as the region is heavily dependent on the Madeira and Aripuanã river systems.",
+  "local_tip": "Book flights well in advance during the rainy season (roughly December to May), when weather conditions in the Amazon can cause delays or cancellations, and consider allowing buffer days in your itinerary for unexpected schedule changes.",
+  "generatedAt": "2026-06-28T04:48:29.813Z",
+  "model": "MiniMax-M3"
+}

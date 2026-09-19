@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PFB",
+    "icao": "SBPF",
+    "name": "Lauro Kurtz Airport",
+    "country": "Brazil",
+    "city": "Passo Fundo",
+    "lat": -28.244,
+    "lon": -52.3278,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Lauro Kurtz Airport serves Passo Fundo, a major city in the northern plateau of Rio Grande do Sul in southern Brazil. The medium-sized regional airport handles domestic flights and connects the agricultural and industrial hub to other Brazilian cities, including Porto Alegre and São Paulo. Named after a local civic figure, it is one of the key aviation gateways for the broader Planalto Médio region.",
+  "faqs": "Q: What is the IATA code for Lauro Kurtz Airport?\nA: The IATA code is PFB, and its ICAO code is SBPF.\n\nQ: Where is the airport located?\nA: It is located in Passo Fundo, in the state of Rio Grande do Sul, southern Brazil, approximately a short drive from the city center.\n\nQ: Does the airport handle international flights?\nA: No, Lauro Kurtz Airport primarily handles domestic regional flights within Brazil.\n\nQ: Which airlines operate at PFB?\nA: The airport is served by major Brazilian carriers, typically including GOL Linhas Aéreas and Azul Linhas Aéreas, offering connections to key hubs.\n",
+  "transport_tips": "Taxis and ride-hailing apps are the most convenient ways to reach the airport, as Passo Fundo does not have a dedicated airport rail link. The airport is located near the BR-285 highway, making it easily accessible by car from the city center in roughly 15 minutes. Several local taxi companies offer fixed-rate transfers to nearby towns in the Planalto Médio region.",
+  "local_tip": "Passo Fundo is famous for hosting the largest literary event in southern Brazil, the Feira do Livro, so visitors planning a trip should check if their visit coincides with this cultural celebration for an authentic local experience.",
+  "generatedAt": "2026-06-29T14:11:19.013Z",
+  "model": "MiniMax-M3"
+}

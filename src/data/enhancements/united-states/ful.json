@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FUL",
+    "icao": "KFUL",
+    "name": "Fullerton Municipal Airport",
+    "country": "United States",
+    "city": "Fullerton",
+    "lat": 33.872,
+    "lon": -117.98,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Fullerton Municipal Airport is a historic general aviation facility located in northern Orange County, California, within the greater Los Angeles metropolitan area. Established in the 1920s, it is one of the oldest airports in the region and primarily serves private pilots, flight training, and small aircraft operations. The airport is surrounded by dense residential and commercial development, making it a notable example of an urban-adjacent airfield.",
+  "faqs": "Q: What types of aircraft operate at Fullerton Municipal Airport?\nA: The airport primarily serves single-engine and twin-engine piston aircraft, with some light business jets. It is a hub for flight schools, private aviation, and recreational flying.\n\nQ: Does Fullerton Municipal Airport offer commercial airline service?\nA: No, FUL is a general aviation airport and does not have scheduled commercial flights.\n\nQ: Is there an air traffic control tower at FUL?\nA: Yes, the airport operates an air traffic control tower during posted hours to manage the busy mix of training and transient aircraft in the busy Southern California airspace.\n\nQ: Are there flight schools at Fullerton Municipal Airport?\nA: Yes, FUL is home to multiple flight training organizations that offer private pilot, instrument, and other certifications.\n\n",
+  "transport_tips": "The airport is conveniently located near the intersection of Interstate 5 and State Route 91, providing easy driving access from across Orange County and the greater Los Angeles area. On-site parking is available, and rideshare services like Uber and Lyft can be requested for pickup at the terminal area. Public transit options are limited due to the airport's small size, so a private vehicle is generally the most practical choice.",
+  "local_tip": "If you're picking up or dropping off a pilot, time your visit around sunset—Fullerton is famous among local aviators for offering some of the most scenic evening views of the Los Angeles basin and Catalina Island from the pattern.",
+  "generatedAt": "2026-06-26T23:47:30.725Z",
+  "model": "MiniMax-M3"
+}

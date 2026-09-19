@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SLA",
+    "icao": "SASA",
+    "name": "Martín Miguel de Güemes International Airport",
+    "country": "Argentina",
+    "city": "Salta",
+    "lat": -24.856,
+    "lon": -65.4862,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Martín Miguel de Güemes International Airport serves Salta, the capital of Argentina's Salta Province in the country's scenic northwestern Andean region. Named after the renowned Argentine independence war hero, it is the main gateway to the Quebrada de Humahuaca, the Calchaquí Valleys, and other northwestern Argentina tourist destinations. The airport handles domestic flights to Buenos Aires and several regional connections, along with limited international service to neighboring countries.",
+  "faqs": "Q: How far is the airport from Salta city center?\nA: The airport is located approximately 7 kilometers southwest of downtown Salta, typically a 15–20 minute drive depending on traffic.\n\nQ: Which airlines operate from SLA?\nA: Aerolíneas Argentinas is the primary carrier, offering frequent flights to Buenos Aires. Low-cost carriers such as JetSmart and Flybondi also serve the airport on domestic routes.\n\nQ: Are there international flights from Salta?\nA: Yes, but service is limited. There are occasional or seasonal international flights to destinations such as Lima (Peru) and Santa Cruz (Bolivia), operated mainly by Aerolíneas Argentinas and Boliviana de Aviación.\n\nQ: Does the airport operate 24 hours?\nA: No, the airport operates during scheduled flight hours. It generally opens well before the first departure and closes after the last arrival, so check with your airline for terminal access times.\n\n",
+  "transport_tips": "The most common ways to reach Salta city are by official taxi or remís (private hire car), both available outside the terminal with fixed fares to the center. Ride-hailing apps and public bus route 8 also connect the airport to the city. Car rental agencies operate at the terminal if you plan to explore the surrounding Andean provinces independently.\n\n",
+  "local_tip": "If you have a layover or early morning flight, the airport café serves decent Argentine coffee and medialunas, but for a true Salta experience, grab a salteña empanada from one of the local vendors near the terminal entrance before heading into the city.",
+  "generatedAt": "2026-06-28T20:46:41.141Z",
+  "model": "MiniMax-M3"
+}

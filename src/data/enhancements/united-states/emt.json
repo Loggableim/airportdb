@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EMT",
+    "icao": "KEMT",
+    "name": "San Gabriel Valley Airport",
+    "country": "United States",
+    "city": "El Monte",
+    "lat": 34.0861,
+    "lon": -118.035,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "San Gabriel Valley Airport is a public-use general aviation facility located in El Monte, California, serving the communities of the San Gabriel Valley east of Los Angeles. Originally established in the 1930s, the airport has long functioned as a reliever field for busy Southern California airspace, supporting flight training, private aviation, and recreational flying. Today it remains one of the few publicly owned airports in the densely populated San Gabriel Valley, offering convenient access to the greater Los Angeles metropolitan area.",
+  "faqs": "Q: What type of aircraft operate at San Gabriel Valley Airport?\nA: EMT primarily serves small single-engine and twin-engine piston aircraft, with flight schools, private pilots, and some business aviation being the main users. There is no scheduled commercial airline service.\n\nQ: How long is the runway at EMT?\nA: The airport features a single asphalt runway (Runway 1/19) approximately 3,995 feet long, suitable for light to medium general aviation aircraft.\n\nQ: Is the airport open to the public?\nA: Yes, the airport is publicly owned by Los Angeles County and open to public use, though visitors should check with the FBO for current operating hours and transient parking availability.\n\nQ: Are there flight training schools at EMT?\nA: Yes, the airport is home to one or more flight training operations, making it a popular location for student pilots in the Los Angeles area.",
+  "transport_tips": "The airport is conveniently located just south of Interstate 10 (the San Bernardino Freeway) with easy access from the I-605 interchange. The El Monte Station, served by Metrolink commuter rail and Metro Bus lines, is approximately two miles away, providing public transit connections. Free parking is available on the airport grounds for those visiting by car.",
+  "local_tip": "After flying in, take a short drive to the historic El Monte Museum or grab a meal at one of the authentic Mexican restaurants along Valley Boulevard — the area is known for some of the best regional cuisine in Southern California.",
+  "generatedAt": "2026-06-27T00:05:39.591Z",
+  "model": "MiniMax-M3"
+}

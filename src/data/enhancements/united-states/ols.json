@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OLS",
+    "icao": "KOLS",
+    "name": "Nogales International Airport",
+    "country": "United States",
+    "city": "Nogales",
+    "lat": 31.4177,
+    "lon": -110.848,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Nogales International Airport is a medium-sized public-use airport located in southern Arizona, situated in the city of Nogales near the US-Mexico border. It primarily serves general aviation, private aircraft, and occasional charter flights in the Santa Cruz County region. The airport lies along the historic trade corridor connecting Arizona to the Mexican state of Sonora.",
+  "faqs": "Q: What is the nearest major international airport?\nA: Tucson International Airport (TUS) is approximately 60 miles north and offers regular commercial airline service.\n\n",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-30T05:22:45.688Z",
+  "model": "MiniMax-M3"
+}

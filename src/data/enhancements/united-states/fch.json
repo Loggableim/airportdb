@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FCH",
+    "icao": "KFCH",
+    "name": "Fresno Chandler Executive Airport",
+    "country": "United States",
+    "city": "Fresno",
+    "lat": 36.7324,
+    "lon": -119.82,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Fresno Chandler Executive Airport is a general aviation reliever airport located in the San Joaquin Valley of central California, serving the greater Fresno area alongside the larger Fresno Yosemite International Airport. Originally established to support agricultural aviation in the region, it now handles private aircraft, flight training, and recreational flying. The airport is owned and operated by the City of Fresno and provides a convenient alternative for general aviation users seeking quicker access to the city.",
+  "faqs": "Q: What is the difference between Fresno Chandler Executive Airport and Fresno Yosemite International Airport?\nA: Fresno Chandler Executive Airport (FCH) handles general aviation, private aircraft, and flight training, while Fresno Yosemite International Airport (FAT) accommodates commercial airline service.\n\nQ: Are commercial flights available at FCH?\nA: No, this airport serves only general aviation and private aviation operations.\n\nQ: Does the airport have aircraft fueling services?\nA: Yes, FCH offers fuel services for general aviation aircraft, though pilots should check current availability and operating hours.\n\nQ: Is flight training available at Fresno Chandler Executive Airport?\nA: Yes, the airport is home to flight schools and training operations, making it a common destination for student pilots in the region.",
+  "transport_tips": "The airport is located just south of downtown Fresno, about a 10-15 minute drive, making it easily accessible by car via local roads. Taxi, rideshare services, and rental cars are practical options for travelers since there is no scheduled public transit directly serving the facility. Visitors should arrange ground transportation in advance, as the airport does not have on-site commercial passenger services.",
+  "local_tip": "If you're visiting Fresno, plan to stop by the Forestiere Underground Gardens, a unique hand-built subterranean home just a short drive from the airport, offering a fascinating glimpse into early California history.",
+  "generatedAt": "2026-06-27T00:55:55.149Z",
+  "model": "MiniMax-M3"
+}

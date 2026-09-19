@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CVC",
+    "icao": "YCEE",
+    "name": "Cleve Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -33.7097,
+    "lon": 136.505,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Cleve Airport (CVC/YCEE) is a regional airfield serving the town of Cleve on the eastern side of South Australia's Eyre Peninsula. It primarily supports general aviation, agricultural flying operations, and light charter traffic linked to the surrounding grain and sheep farming district. The airport plays a practical role in connecting remote Eyre Peninsula communities to larger transport hubs in the region.",
+  "faqs": "Q: Where is Cleve Airport located?\nA: Cleve Airport is situated near the town of Cleve on the Eyre Peninsula in South Australia, approximately halfway between Port Augusta and Port Lincoln.\n\nQ: What kind of flights operate from Cleve Airport?\nA: The airport mainly handles general aviation, private aircraft, agricultural aviation, and occasional charter flights rather than scheduled commercial services.\n\nQ: Does Cleve Airport have scheduled passenger flights?\nA: No regular scheduled passenger service operates from Cleve. Travelers typically drive to larger regional airports such as Port Lincoln or Whyalla for commercial connections.\n\nQ: What facilities are available at Cleve Airport?\nA: The airport has a sealed runway suitable for light to medium aircraft, with basic amenities rather than a passenger terminal building.",
+  "transport_tips": "Reaching Cleve Airport typically requires a private vehicle, as there is no public transport directly serving the facility. The town of Cleve is about a 10-minute drive from the airport via local roads. Visitors driving from Adelaide should allow approximately 6 to 7 hours for the journey, with fuel stops recommended along the Eyre Highway and along the Tod Highway approach.",
+  "local_tip": "If flying in for agricultural work or property visits, coordinate landing times with local operators in advance, as the airfield is unattended and the wind from the surrounding open farmland can shift quickly across the single runway.",
+  "generatedAt": "2026-06-26T11:04:00.594Z",
+  "model": "MiniMax-M3"
+}

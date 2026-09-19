@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LAN",
+    "icao": "KLAN",
+    "name": "Capital Region International Airport",
+    "country": "United States",
+    "city": "Lansing",
+    "lat": 42.7776,
+    "lon": -84.5857,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Capital Region International Airport serves Michigan's capital city of Lansing and the surrounding mid-Michigan region, including nearby East Lansing and Michigan State University. Originally established in 1929 as a grass landing strip, it has evolved into a modern facility offering commercial service, general aviation, and air cargo operations. The airport plays a key role in connecting state government, university travelers, and the automotive industry to destinations across the Midwest and beyond.",
+  "faqs": "Q: Where is Capital Region International Airport located?\nA: The airport is located in Lansing, Michigan, approximately 5 miles northwest of downtown Lansing and just minutes from Michigan State University in East Lansing.\n\nQ: What airlines operate at Capital Region International Airport?\nA: LAN is served by a mix of regional carriers offering nonstop flights to major hub airports, primarily in the Midwest.\n\nQ: Does the airport offer international flights?\nA: The airport has a U.S. Customs and Border Protection facility and has historically supported international general aviation and cargo operations, though scheduled international passenger service is limited.\n\nQ: Are there amenities available for travelers?\nA: Yes, the terminal offers standard amenities including dining options, rental car services, Wi-Fi, and free parking for short stays in designated lots.\n\n",
+  "transport_tips": "Rental cars are available at the terminal and are the most convenient option for reaching Lansing, East Lansing, or Michigan State University, all within a 15-minute drive. The Capital Area Transportation Authority (CATA) provides Route 14 service connecting the airport to downtown Lansing and the MSU campus via Route 1. Taxi and rideshare services like Uber and Lyft also serve the airport, though availability can be limited during late-night hours.",
+  "local_tip": "If you have time between flights, visit the Michigan Historical Museum just a short drive from the airport in downtown Lansing—it offers free admission and a great overview of state history, making it a worthwhile stop before heading to a Michigan State University event or game.",
+  "generatedAt": "2026-06-29T02:29:40.117Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TDA",
+    "icao": "SKTD",
+    "name": "Trinidad Airport",
+    "country": "Colombia",
+    "city": "Trinidad",
+    "lat": 5.4328,
+    "lon": -71.6625,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Trinidad Airport (TDA/SKTD) is a small regional airport serving the municipality of Trinidad in the Casanare Department of Colombia, located in the eastern Llanos (plains) region. The facility primarily supports general aviation and connects this oil- and cattle-producing area with other Colombian cities. Its modest size reflects the rural, low-density character of the surrounding landscape.",
+  "faqs": "Q: What type of airport is Trinidad Airport?\nA: It is a small regional airport primarily handling general aviation and limited commercial flights serving the local community.\n\nQ: Where is Trinidad Airport located?\nA: It is situated near the town of Trinidad in the Casanare Department of Colombia, in the eastern plains (Llanos) region of the country.\n\nQ: What industries does the airport serve?\nA: The airport supports the regional oil and gas industry as well as cattle ranching, both of which are central to Casanare's economy.\n\nQ: Is Trinidad Airport suitable for large commercial aircraft?\nA: No, the airport is small and primarily accommodates light aircraft and small regional planes.",
+  "transport_tips": "The airport is located close to the town of Trinidad, so ground transportation typically consists of local taxis or pre-arranged transport from hotels. Roads connecting the airport to surrounding oil fields and ranches are often unpaved, so a 4x4 vehicle may be advisable during the rainy season. Public transportation options at the airport are limited, so arranging pickup in advance is recommended.",
+  "local_tip": "The best time to fly into Trinidad is during the dry season (December–March), as the Llanos region's heavy rains can cause flight delays and make surrounding roads difficult to navigate.",
+  "generatedAt": "2026-06-28T09:38:30.379Z",
+  "model": "MiniMax-M3"
+}

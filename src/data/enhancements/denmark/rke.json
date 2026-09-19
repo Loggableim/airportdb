@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RKE",
+    "icao": "EKRK",
+    "name": "Copenhagen Roskilde Airport",
+    "country": "Denmark",
+    "city": "Roskilde",
+    "lat": 55.5856,
+    "lon": 12.1314,
+    "type": "medium_airport",
+    "size": 575
+  },
+  "summary": "Copenhagen Roskilde Airport (RKE) is a medium-sized airfield located approximately 30 km southwest of Copenhagen in the historic city of Roskilde, Denmark. Originally established as a military airfield in the early 20th century, it now primarily serves general aviation, flight training, private jets, and limited regional flights. The airport is well known for hosting the biannual Roskilde Airshow, one of Scandinavia's largest aviation events.",
+  "faqs": "Q: What is Copenhagen Roskilde Airport mainly used for?\nA: The airport primarily serves general aviation, flight training schools, private and business aviation, and a small number of scheduled regional flights. It is not a major commercial passenger hub.\n\nQ: How far is the airport from central Copenhagen?\nA: Copenhagen Roskilde Airport is located about 30 km (19 miles) southwest of Copenhagen city center, typically a 30-40 minute drive depending on traffic.\n\nQ: Does the airport host an airshow?\nA: Yes, the Roskilde Airshow is held periodically at the airport and is one of the largest aviation events in Scandinavia, featuring military and civilian aerobatic displays.\n\nQ: Are there commercial passenger flights from RKE?\nA: Commercial scheduled service is very limited compared to Copenhagen Airport (CPH); passengers typically use CPH for most airline connections. RKE mainly handles charter, private, and small regional flights.\n\n",
+  "transport_tips": "The airport is best reached by car via the Holbæk motorway (E21) or by taxi, which takes around 30-40 minutes from central Copenhagen. Public transport options are limited, but regional trains serve nearby Roskilde Station, from which a short taxi ride is needed. Parking is generally easy and inexpensive compared to Copenhagen's main airport.",
+  "local_tip": "If you're visiting in summer, check the schedule for the Roskilde Airshow—it's a fantastic free or low-cost event and one of the best aviation spectacles in Northern Europe, drawing large crowds to the airfield.",
+  "generatedAt": "2026-06-29T17:24:33.893Z",
+  "model": "MiniMax-M3"
+}

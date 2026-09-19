@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TYT",
+    "icao": "SUTR",
+    "name": "Treinta y Tres Airport",
+    "country": "Uruguay",
+    "city": "Treinta y Tres",
+    "lat": -33.1957,
+    "lon": -54.3472,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Treinta y Tres Airport is a small regional airport serving the city of Treinta y Tres in eastern Uruguay, near the border with Brazil. It primarily handles general aviation and limited commercial flights, supporting the local community in this department named after the historic Thirty-Three Orientals. The airport provides essential connectivity for the region's agricultural and rural areas.",
+  "faqs": "Q: What is the main purpose of Treinta y Tres Airport?\nA: The airport serves as a regional aviation hub for the Treinta y Tres department, primarily supporting general aviation and occasional commercial or charter flights.\n\nQ: Are there regular commercial flights from TYT?\nA: Commercial service is limited and may vary; travelers should check current schedules with local operators as flights are not always consistently available.\n\nQ: What facilities are available at the airport?\nA: As a small airport, facilities are basic, typically including a small terminal building, parking, and essential services for general aviation operations.\n\nQ: Is the airport used for medical or emergency flights?\nA: Yes, small regional airports like TYT often serve important roles in medical evacuations and emergency response for the surrounding rural areas.",
+  "transport_tips": "The airport is located just outside the city of Treinta y Tres, making it a short drive by taxi or private vehicle. Public transportation options are limited, so arranging ground transport in advance is recommended. The city center and main bus terminal are easily reachable by car within minutes.",
+  "local_tip": "If visiting the area, take time to explore the Quebrada de los Cuervos, a stunning natural gorge about 45 km from the city, often considered one of Uruguay's most beautiful landscapes.",
+  "generatedAt": "2026-06-28T09:38:15.463Z",
+  "model": "MiniMax-M3"
+}

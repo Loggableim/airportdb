@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TUN",
+    "icao": "DTTA",
+    "name": "Tunis Carthage International Airport",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "lat": 36.851,
+    "lon": 10.2272,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Tunis Carthage International Airport is the main international gateway to Tunisia, located approximately 8 km northeast of Tunis city center near the historic ruins of ancient Carthage. As the home base of the national carrier Tunisair, it handles the majority of the country's international traffic and serves as a key hub connecting North Africa with Europe, the Middle East, and beyond. The airport has been continuously modernized to accommodate growing passenger volumes, reflecting Tunisia's importance as a Mediterranean travel destination.",
+  "faqs": "Q: How far is Tunis Carthage Airport from the city center?\nA: The airport is approximately 8 km northeast of downtown Tunis, typically a 15-20 minute drive depending on traffic.\n\nQ: Are there currency exchange facilities at the airport?\nA: Yes, there are banks and currency exchange counters in both the public and arrivals areas where you can obtain Tunisian dinars.\n\nQ: Does the airport offer duty-free shopping?\nA: Yes, there are duty-free shops available in the departure areas offering a range of products including local goods, spirits, and cosmetics.\n\nQ: Is there a hotel directly connected to the airport?\nA: While there is no on-site hotel, several options are located within a short drive, and the airport offers VIP lounges for transit and waiting passengers.",
+  "transport_tips": "The TGM suburban train connects the airport to central Tunis, offering an affordable and traffic-free option to the city. Licensed taxis are available outside the terminal; agree on a fare before departure or insist on using the meter. Official bus routes and louage (shared taxi) services also run between the airport and various Tunisian cities.",
+  "local_tip": "If you have a long layover, the ancient site of Carthage and the picturesque village of Sidi Bou Saïd are just 15-20 minutes away by taxi and make for a memorable short excursion.",
+  "generatedAt": "2026-06-28T16:33:05.772Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UKB",
+    "icao": "RJBE",
+    "name": "Kobe Airport",
+    "country": "Japan",
+    "city": "Kobe",
+    "lat": 34.6328,
+    "lon": 135.224,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Kobe Airport (UKB) is a modern facility built on an artificial island in Osaka Bay, opened in 2006 to relieve congestion at Osaka's larger airports. It primarily serves domestic routes with select international connections to East Asian destinations. Its compact, efficient design and scenic waterfront setting make it a popular gateway for travelers heading to Kobe and the wider Kansai region.",
+  "faqs": "Q: How far is Kobe Airport from central Kobe?\nA: Kobe Airport is approximately 8 km from central Kobe, with a typical journey taking around 20-30 minutes by car or shuttle bus.\n\nQ: Does Kobe Airport have international flights?\nA: Yes, Kobe Airport operates a limited number of international flights, mainly to destinations in East Asia such as China, Taiwan, and South Korea, in addition to its extensive domestic network.\n\nQ: Is Kobe Airport connected by train?\nA: No, Kobe Airport is not connected by rail. It is accessible via the Kobe New Transit Port Liner, an automated people mover that links the airport to Sannomiya Station in central Kobe.\n\nQ: Are there hotels near Kobe Airport?\nA: There are a few hotels in the immediate vicinity of the airport, and many more options in Kobe city center, accessible via the Port Liner.",
+  "transport_tips": "The Port Liner automated guideway transit is the fastest and most convenient way to reach Kobe's city center, arriving at Sannomiya in roughly 18 minutes. Limousine buses connect the airport to Osaka, Kyoto, and other regional destinations, though travel times can be longer during peak hours. Renting a car is practical for travelers heading to rural Hyogo Prefecture, with the airport easily accessible via the Bay Shore Route.",
+  "local_tip": "Visit the airport's rooftop observation deck before your flight for panoramic views of Osaka Bay, the Akashi Kaikyo Bridge, and even Osaka's skyline on clear days—it's a favorite spot among aviation enthusiasts and casual travelers alike.",
+  "generatedAt": "2026-06-28T22:44:36.672Z",
+  "model": "MiniMax-M3"
+}

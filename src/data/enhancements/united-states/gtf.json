@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GTF",
+    "icao": "KGTF",
+    "name": "Great Falls International Airport",
+    "country": "United States",
+    "city": "Great Falls",
+    "lat": 47.482,
+    "lon": -111.371,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Great Falls International Airport (GTF) is a regional airport serving Great Falls, Montana, and the surrounding north-central Montana region. Located just a few miles southwest of downtown Great Falls, the airport functions as an important gateway for travelers heading to Glacier National Park, the Missouri River, and surrounding outdoor recreation areas. It also supports general aviation, air cargo, and military operations tied to nearby Malmstrom Air Force Base.",
+  "faqs": "Q: What airlines operate at Great Falls International Airport?\nA: GTF is typically served by major carriers including United, Delta, Alaska Airlines, and Allegiant, offering nonstop flights to hubs like Denver, Salt Lake City, Seattle, and Minneapolis, as well as seasonal leisure routes.\n\nQ: How far is the airport from downtown Great Falls?\nA: The airport is located approximately 4 miles southwest of downtown Great Falls, usually a 10 to 15 minute drive.\n\nQ: Is the airport open 24 hours?\nA: The terminal building operates during scheduled flight hours; however, the airfield itself is open 24 hours for general aviation and military traffic.\n\nQ: Does GTF have rental cars on site?\nA: Yes, several national and local rental car companies have counters in the terminal, making vehicle pickup convenient for arriving passengers.",
+  "transport_tips": "Rental cars are the most convenient option for reaching destinations across central Montana, as public transportation is limited. Taxi services and rideshare options are available but should be arranged in advance, especially for early morning departures. The airport is directly accessible via Airport Drive off US Highway 87, just minutes from I-15.",
+  "local_tip": "If you have time between flights, the Lewis and Clark Interpretive Center, located near the Missouri River overlooking Giant Springs State Park, is only about 10 minutes from the airport and offers a great introduction to the region's history.",
+  "generatedAt": "2026-06-29T02:47:41.790Z",
+  "model": "MiniMax-M3"
+}

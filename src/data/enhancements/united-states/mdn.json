@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MDN",
+    "icao": "KIMS",
+    "name": "Madison Municipal Airport",
+    "country": "United States",
+    "city": "Madison",
+    "lat": 38.7589,
+    "lon": -85.4655,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Madison Municipal Airport (MDN/KIMS) is a small general aviation facility serving Madison, Indiana, a historic Ohio River city known for its well-preserved 19th-century architecture and the nation's largest contiguous National Historic Landmark district. The airport primarily supports recreational flying, flight training, and corporate aircraft operations for the surrounding Jefferson County region. Its single-runway configuration and modest infrastructure make it a convenient gateway for visitors to this scenic southern Indiana community.",
+  "faqs": "Q: What type of aircraft does Madison Municipal Airport serve?\nA: The airport primarily accommodates single-engine and light twin-engine general aviation aircraft, with limited service for small business jets.\n\nQ: Are there commercial flights available at MDN?\nA: No, Madison Municipal does not offer scheduled commercial airline service. Travelers must use nearby larger airports for commercial flights.\n\nQ: Does the airport have on-site fuel services?\nA: Yes, the airport typically provides 100LL avgas and may offer jet fuel services for transient and based aircraft.\n\nQ: Is there an FBO at Madison Municipal?\nA: Basic fixed-base operator services are generally available, though offerings may be limited compared to larger airports.",
+  "transport_tips": "The airport is located just a few miles northeast of downtown Madison, making the drive into the city quick via local roads. Rental car services are limited, so arranging ground transportation in advance is recommended. Visitors often rely on rideshare apps, taxis, or pre-arranged pickup from local accommodations.",
+  "local_tip": "Plan your visit to coincide with Madison's famous Regatta festival in early July or the October fallback festival for a uniquely Hoosier experience, and ask local pilots about the scenic flight path along the Ohio River bluffs—some of the most photogenic aerial views in the Midwest.",
+  "generatedAt": "2026-06-27T03:04:35.391Z",
+  "model": "MiniMax-M3"
+}

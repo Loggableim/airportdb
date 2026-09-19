@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FAB",
+    "icao": "EGLF",
+    "name": "Farnborough Airport",
+    "country": "United Kingdom",
+    "city": "Farnborough, Hampshire",
+    "lat": 51.2758,
+    "lon": -0.7763,
+    "type": "medium_airport",
+    "size": 575
+  },
+  "summary": "Farnborough Airport is a dedicated business aviation hub located in Hampshire, England, approximately 30 miles southwest of central London. The site carries significant aviation heritage, having served as the home of the Royal Aircraft Establishment where early British airships, including the R.100 and R.101, were developed in the early 20th century. Today, it is one of the busiest dedicated business aviation airports in Europe and hosts the biennial Farnborough International Airshow, one of the world's largest aerospace trade events.",
+  "faqs": "Q: What is Farnborough Airport primarily used for?\nA: Farnborough is a dedicated business aviation airport, handling private jets, corporate flights, and airshow operations. It does not serve scheduled commercial airlines.\n\nQ: How far is Farnborough Airport from central London?\nA: The airport is approximately 30 miles (48 km) southwest of central London, making it a popular choice for business travelers accessing the capital.\n\nQ: When does the Farnborough Airshow take place?\nA: The Farnborough International Airshow is held biennially in even-numbered years, typically in July, attracting aerospace industry leaders and aircraft displays from around the world.\n\nQ: Does Farnborough Airport operate 24 hours?\nA: No, Farnborough operates with restricted hours due to noise abatement policies, generally operating during daytime hours to minimize impact on surrounding residential areas.\n\n",
+  "transport_tips": "The airport is well connected by road via the M3 motorway, with central London reachable in roughly 45 minutes to an hour outside peak hours. Taxi and private chauffeur services are the most common transfer options, as no direct rail station serves the airport; the nearest mainline station is Farnborough Main, about 10 minutes away by car. Pre-booked executive car services are widely recommended for business travelers heading into London.",
+  "local_tip": "If you have time before a flight, visit the Farnborough Air Sciences Trust Museum near the airport perimeter, which showcases the site's remarkable aviation heritage including original airship components and Royal Aircraft Establishment artifacts.",
+  "generatedAt": "2026-06-29T17:24:06.200Z",
+  "model": "MiniMax-M3"
+}

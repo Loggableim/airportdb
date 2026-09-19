@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YPW",
+    "icao": "CYPW",
+    "name": "Powell River Airport",
+    "country": "Canada",
+    "city": "Powell River",
+    "lat": 49.8342,
+    "lon": -124.5,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Powell River Airport (YPW) is a medium-sized regional airport serving the city of Powell River on British Columbia's Sunshine Coast. It functions as the primary air link for this coastal community, which is accessible by road only via ferries. The airport supports scheduled passenger service and general aviation, playing a vital role in connecting the region to Vancouver and other destinations.",
+  "faqs": "Q: Where is Powell River Airport located?\nA: It is located on the Sunshine Coast of British Columbia, Canada, near the city of Powell River, which is accessible from Vancouver via a ferry and driving route.\n\nQ: What airlines operate at Powell River Airport?\nA: The airport is primarily served by Pacific Coastal Airlines, offering scheduled flights to and from Vancouver (YVR) South Terminal.\n\nQ: Is the airport open 24 hours?\nA: No, Powell River Airport operates during scheduled hours tied to flight arrivals and departures; there is no scheduled overnight commercial service.\n\nQ: Does the airport have car rental services?\nA: Yes, car rental agencies operate at the airport, though availability can be limited, so booking in advance is recommended.",
+  "transport_tips": "The airport is a short drive from downtown Powell River, approximately 5-10 minutes by car. Taxis and ride services are typically available to meet scheduled flights, but pre-arranging pickup is advisable. If traveling to or from Vancouver, remember the journey involves a flight to YVR plus potential ferry connections to other Sunshine Coast communities.",
+  "local_tip": "If you're heading to the outer Sunshine Coast communities like Lund or Texada Island, renting a car at the airport is far more convenient than arranging ground transport, as local taxi options are limited outside Powell River town.",
+  "generatedAt": "2026-06-29T05:00:43.347Z",
+  "model": "MiniMax-M3"
+}

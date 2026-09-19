@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "USN",
+    "icao": "RKPU",
+    "name": "Ulsan Airport",
+    "country": "South Korea",
+    "city": "Ulsan",
+    "lat": 35.5935,
+    "lon": 129.352,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ulsan Airport (USN/RKPU) is a regional airport serving Ulsan, South Korea's industrial powerhouse known for shipbuilding, automotive manufacturing, and petrochemical industries. Located in the northeastern part of the city, it primarily handles domestic flights, with the main route connecting to Seoul Gimpo. Despite its modest size, the airport plays a vital role in supporting business travel for one of Korea's most important industrial hubs.",
+  "faqs": "Q: What airlines operate at Ulsan Airport?\nA: Korean Air and Air Busan are the main carriers, operating regular flights to Seoul Gimpo and Jeju Island.\n\nQ: How far is Ulsan Airport from downtown Ulsan?\nA: The airport is approximately 10 kilometers northeast of Ulsan city center, about a 20-30 minute drive.\n\nQ: Does Ulsan Airport have international flights?\nA: International service is very limited; the airport primarily functions as a domestic gateway, with most international travelers using Busan's Gimhae Airport.\n\nQ: What facilities are available at the airport?\nA: The terminal offers basic amenities including a small food court, convenience store, rental car services, and limited duty-free shopping.",
+  "transport_tips": "Taxis and rental cars are the most convenient options to reach Ulsan city center, with fares typically around 15,000-20,000 KRW. Limited bus services connect the airport to downtown Ulsan and neighboring areas. Renting a car is recommended if you plan to visit industrial sites or explore the broader Ulsan metropolitan area.",
+  "local_tip": "If visiting Hyundai Heavy Industries or other shipyard facilities, arrange transportation in advance through your host company, as public transit to industrial complexes is limited and many facilities require security clearance for entry.",
+  "generatedAt": "2026-06-29T12:11:28.858Z",
+  "model": "MiniMax-M3"
+}

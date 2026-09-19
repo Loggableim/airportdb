@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PAD",
+    "icao": "EDLP",
+    "name": "Paderborn Lippstadt Airport",
+    "country": "Germany",
+    "city": "Büren",
+    "lat": 51.6125,
+    "lon": 8.6175,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Paderborn Lippstadt Airport (PAD) is a regional airport located in Büren, North Rhine-Westphalia, serving the East Westphalia region including the cities of Paderborn and Lippstadt. Originally developed on a former British Royal Air Force base, it transitioned to civilian operations in the early 1970s and remains an important gateway for the local business and tourism sectors. The airport is known for its relatively uncongested operations and convenient access to the surrounding region.",
+  "faqs": "Q: How far is the airport from Paderborn city center?\nA: The airport is approximately 20 km southwest of Paderborn, with a driving time of around 25-30 minutes depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, PAD offers a mix of domestic and international flights, with popular routes including destinations in Southern Europe, North Africa, and other European leisure destinations.\n\nQ: Are there car rental services available at the airport?\nA: Yes, several car rental companies operate at the airport, with desks located in the terminal building.\n\nQ: Is the airport open 24 hours?\nA: No, the airport operates during scheduled flight hours and is not a 24-hour facility. Travelers should check specific flight schedules for operational times.",
+  "transport_tips": "The airport is well-connected by road via the A44 autobahn, with clear signage directing drivers to the terminal. Bus services link the airport to Paderborn Hauptbahnhof and other regional destinations, though schedules may be limited outside peak hours. Taxis and ride-shares are available at the terminal, but booking in advance is recommended for early morning or late evening flights.",
+  "local_tip": "Frequent travelers recommend parking in one of the designated long-term lots near the terminal rather than off-site alternatives, as the on-site lots offer quick walking access and competitive weekly rates for business travelers using the airport regularly.",
+  "generatedAt": "2026-06-28T20:12:11.716Z",
+  "model": "MiniMax-M3"
+}

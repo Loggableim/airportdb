@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AFZ",
+    "icao": "OIMS",
+    "name": "Sabzevar National Airport",
+    "country": "Iran",
+    "city": "Sabzevar",
+    "lat": 36.1681,
+    "lon": 57.5952,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sabzevar National Airport serves the historic city of Sabzevar in northeastern Iran’s Razavi Khorasan Province, one of the country’s oldest urban centers known for its ancient qanats, pottery heritage, and association with Persian poets and scholars. The airport provides vital regional connectivity to a city situated along major trade routes between central Iran and the Khorasan region. It operates as a medium-sized facility handling scheduled domestic flights and general aviation traffic.",
+  "faqs": "Q: Where is Sabzevar National Airport located?\nA: The airport is situated approximately 5 kilometers southeast of Sabzevar city center, in Razavi Khorasan Province, northeastern Iran.\n\nQ: Which airlines operate from Sabzevar National Airport?\nA: Domestic carriers such as Iran Air and Iran Aseman Airlines have historically offered scheduled flights, primarily connecting Sabzevar with Tehran and Mashhad.\n\nQ: Are there international flights from Sabzevar National Airport?\nA: The airport primarily serves domestic routes, with international connections typically requiring transit through Tehran’s Imam Khomeini International Airport.\n\nQ: What is the airport’s elevation?\nA: The airport sits at an elevation of approximately 909 meters (2,982 feet) above sea level.",
+  "transport_tips": "Taxis are the most common and reliable way to reach the airport from Sabzevar’s city center, with a typical journey taking around 10–15 minutes. Pre-arranging a return pickup is advisable as taxi availability at the terminal can be limited during off-peak hours. Travelers connecting onward to Mashhad or other regional cities often find shared taxis or intercity buses useful from central Sabzevar.",
+  "local_tip": "Bring a light jacket even in summer—Sabzevar’s location at the edge of the Dasht-e Kavir desert creates dramatic temperature swings, and the airport terminal is not always consistently climate-controlled during shoulder seasons.",
+  "generatedAt": "2026-06-29T16:46:26.990Z",
+  "model": "MiniMax-M3"
+}

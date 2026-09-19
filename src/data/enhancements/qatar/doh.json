@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DOH",
+    "icao": "OTHH",
+    "name": "Hamad International Airport",
+    "country": "Qatar",
+    "city": "Doha",
+    "lat": 25.2731,
+    "lon": 51.6081,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Hamad International Airport is the main international gateway to Qatar, located in the capital city of Doha. Opened in 2014, it replaced the older Doha International Airport and serves as the primary hub for Qatar Airways. The airport is renowned for its world-class facilities, expansive terminal design, and features such as a central tropical garden and notable art installations including the iconic Lamp Bear sculpture.",
+  "faqs": "Q: How far is Hamad International Airport from central Doha?\nA: The airport is approximately 15 kilometers (9 miles) from Doha's city center, typically a 20-30 minute drive depending on traffic.\n\nQ: Is there a hotel inside the airport?\nA: Yes, the airport offers several sleep pods and quiet rooms, and the Oryx Airport Hotel is available for transit passengers, with day rooms available between flights.\n\nQ: Which terminal does Qatar Airways use?\nA: Qatar Airways operates exclusively from Hamad International Airport, using a single integrated terminal for all its operations.\n\nQ: Are there facilities for long layovers?\nA: Yes, the airport features numerous lounges, a wide variety of dining and shopping options, a wellness center, spa services, and even a swimming pool at the Vitality Wellbeing and Fitness Centre for a fee.",
+  "transport_tips": "The Doha Metro Red Line provides direct service to and from the airport, offering a fast and affordable option to reach central Doha in about 20 minutes. Taxis are readily available outside the terminal and use meters, while ride-hailing apps like Uber and Karwa operate in the city. For those with Qatar Airways bookings, a complimentary shuttle bus connects the airport to select metro stations and parking areas.",
+  "local_tip": "If you have a long layover, consider purchasing a day pass to the airport's Vitality Wellbeing and Fitness Centre, which features a 25-meter swimming pool, gym, and shower facilities — a perfect way to refresh between flights.",
+  "generatedAt": "2026-06-28T17:57:39.872Z",
+  "model": "MiniMax-M3"
+}

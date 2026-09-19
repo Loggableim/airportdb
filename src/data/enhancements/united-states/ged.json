@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GED",
+    "icao": "KGED",
+    "name": "Delaware Coastal Airport",
+    "country": "United States",
+    "city": "Georgetown",
+    "lat": 38.6892,
+    "lon": -75.3589,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Delaware Coastal Airport is a small public-use airport located in Georgetown, Delaware, serving the state's coastal region including the popular beach destinations along the Delaware Bay and Atlantic coast. The airport supports general aviation, flight training, and occasional charter operations, providing a convenient alternative to the larger Philadelphia and Baltimore-Washington airports. It features a single main runway and serves as a useful gateway for visitors heading to Sussex County's resort areas.",
+  "faqs": "Q: What is the airport code for Delaware Coastal Airport?\nA: The IATA code is GED and the ICAO code is KGED.\n\nQ: Does Delaware Coastal Airport offer commercial airline service?\nA: No, the airport primarily serves general aviation traffic and does not have scheduled commercial airline service.\n\nQ: Where is the airport located in relation to Delaware beaches?\nA: It is situated in Georgetown, roughly 15-20 miles inland from the Delaware Atlantic coast, providing reasonable access to beach towns like Bethany Beach, Rehoboth Beach, and Dewey Beach.\n\nQ: Are there car rental services available at the airport?\nA: Rental car availability is limited, so visitors are generally advised to arrange ground transportation in advance or contact local rental agencies in Georgetown.",
+  "transport_tips": "Rental car services are limited at the airport, so booking a vehicle in advance through a nearby Georgetown agency is recommended for flexibility. Taxis and rideshare options may be available but can be sparse, so calling ahead is advisable. The airport is easily reached by car via US Route 113, which connects Georgetown to coastal destinations.",
+  "local_tip": "If visiting the Delaware beaches, plan your drive from Georgetown to the coast during off-peak hours, especially Friday evenings and Sunday afternoons, as Route 113 traffic can become heavily congested during summer tourist season.",
+  "generatedAt": "2026-06-27T00:38:34.776Z",
+  "model": "MiniMax-M3"
+}

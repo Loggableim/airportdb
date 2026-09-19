@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BCT",
+    "icao": "KBCT",
+    "name": "Boca Raton Airport",
+    "country": "United States",
+    "city": "Boca Raton",
+    "lat": 26.3785,
+    "lon": -80.1077,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Boca Raton Airport is a general aviation facility located in the affluent coastal city of Boca Raton, Florida, serving Palm Beach County and the surrounding South Florida region. It primarily handles private, corporate, and charter flights rather than scheduled commercial service, making it a popular gateway for business travelers visiting the Tri-County area. The airport features modern facilities and is situated near major highways, providing convenient access to Boca Raton's business districts and beach communities.",
+  "faqs": "Q: Does Boca Raton Airport offer commercial airline service?\nA: No, BCT is a general aviation airport that primarily serves private, corporate, and charter aircraft. Travelers looking for commercial flights typically use nearby airports like Fort Lauderdale-Hollywood or Palm Beach International.\n\nQ: How far is Boca Raton Airport from the beach?\nA: The airport is located approximately 4-5 miles inland from Atlantic Ocean beaches, with a quick drive of about 10-15 minutes depending on traffic.\n\nQ: Is there an FBO at Boca Raton Airport?\nA: Yes, the airport has fixed-base operators (FBOs) that provide fueling, hangar space, ground handling, and other services for general aviation aircraft and crew.\n\nQ: Can I rent a car at Boca Raton Airport?\nA: Car rental services are available through on-site agencies and nearby providers, though it's recommended to arrange rentals in advance as options are more limited than at larger commercial airports.",
+  "transport_tips": "Renting a car is the most practical way to get to and from Boca Raton Airport, as the facility is conveniently located near Interstate 95 and other major roadways. Rideshare services like Uber and Lyft are readily available in the area for trips to local hotels, restaurants, and beaches. Taxi services also operate from the airport, though availability may be limited compared to larger commercial airports.",
+  "local_tip": "If you're visiting on a private flight, plan your arrivals during weekday business hours when FBOs are best staffed, and consider arriving in the morning to avoid South Florida's afternoon thunderstorms that are common during summer months.",
+  "generatedAt": "2026-06-30T05:04:21.922Z",
+  "model": "MiniMax-M3"
+}

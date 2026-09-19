@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SCQ",
+    "icao": "LEST",
+    "name": "Santiago-Rosalía de Castro Airport",
+    "country": "Spain",
+    "city": "Santiago de Compostela",
+    "lat": 42.8963,
+    "lon": -8.4151,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Santiago-Rosalía de Castro Airport serves the historic city of Santiago de Compostela, the capital of Spain's Galicia region in the northwest. Named after the renowned 19th-century Galician poet Rosalía de Castro, the airport is a key gateway for the millions of pilgrims who arrive each year to walk or complete the Camino de Santiago. It functions as the main air link between Galicia and the rest of Spain, as well as several European destinations.",
+  "faqs": "Q: How far is the airport from Santiago de Compostela's city center?\nA: The airport is located approximately 10-12 km southeast of the city center, with a typical journey time of 15-20 minutes by car or bus.\n\nQ: Are there direct flights to other Spanish cities from SCQ?\nA: Yes, the airport offers regular domestic connections to Madrid, Barcelona, Bilbao, and other Spanish hubs, operated mainly by Iberia, Vueling, and Ryanair.\n\nQ: Does the airport handle international flights?\nA: Yes, SCQ serves several European destinations including London, Frankfurt, Milan, and Paris, mostly through low-cost carriers and seasonal routes.\n\nQ: Is there a Pilgrim Office at the airport?\nA: While the main Pilgrim Office is in the city center on Rúa do Vilar, the airport itself does not issue pilgrim certificates but provides tourist information for those arriving to begin the Camino.\n\n",
+  "transport_tips": "A reliable airport bus service connects SCQ to the city center, with departures roughly every 30 minutes during operating hours. Taxis are readily available outside the terminal and offer a fixed-rate fare to central Santiago de Compostela. Renting a car is straightforward at the airport and useful if you plan to explore Galicia's coastal areas or other towns along the Camino.",
+  "local_tip": "If you arrive early in the morning or have a long layover, take a short taxi ride to the Monte do Gozo viewpoint, which offers the iconic first glimpse of the Santiago cathedral's spires—a memorable moment even for non-pilgrims and a perfect photo opportunity.",
+  "generatedAt": "2026-06-28T16:35:22.226Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YQQ",
+    "icao": "CYQQ",
+    "name": "Comox Valley International Airport / CFB Comox",
+    "country": "Canada",
+    "city": "Comox",
+    "lat": 49.7108,
+    "lon": -124.887,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Comox Valley International Airport (YQQ) is a dual-use civilian and military facility shared with Canadian Forces Base Comox, located on the east coast of Vancouver Island in British Columbia. It serves the Comox Valley region, including the communities of Comox, Courtenay, and Cumberland, and is a key gateway for visitors heading to the island's central coast. The military side is notably home to 19 Wing Comox, home base for the CP-140 Aurora maritime patrol aircraft.",
+  "faqs": "Q: Does YQQ share facilities with a military base?\nA: Yes, it operates alongside Canadian Forces Base Comox (19 Wing), which handles maritime patrol and search-and-rescue operations.\n\nQ: Are there commercial flights from YQQ?\nA: Yes, scheduled passenger service is offered to destinations including Vancouver and Calgary, primarily by Air Canada Express and WestJet Encore.\n\nQ: Can you see military aircraft at the airport?\nA: Yes, visitors may spot CP-140 Aurora maritime patrol planes and CH-149 Cormorant search-and-rescue helicopters based on the military side.\n\nQ: Is the airport open 24 hours?\nA: The terminal operates during scheduled flight hours; the airfield itself accommodates military operations around the clock.",
+  "transport_tips": "The airport is located just outside Comox town limits along Highway 19A, roughly a 10-minute drive from both Comox and Courtenay. Rental cars are available on-site and are the most convenient option for exploring Vancouver Island. Taxi and shuttle services operate to local communities, though schedules align with flight arrivals.",
+  "local_tip": "If you have a long layover or delayed flight, head to the nearby Kye Bay or Goose Spit for a quick walk along the ocean shore, just a few minutes' drive from the terminal.",
+  "generatedAt": "2026-06-29T04:09:27.927Z",
+  "model": "MiniMax-M3"
+}

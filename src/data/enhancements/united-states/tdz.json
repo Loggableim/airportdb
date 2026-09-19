@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TDZ",
+    "icao": "KTDZ",
+    "name": "Toledo Executive Airport",
+    "country": "United States",
+    "city": "Toledo",
+    "lat": 41.5649,
+    "lon": -83.4823,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Toledo Executive Airport (TDZ), formerly known as Metcalf Field, is a general aviation facility serving the Toledo metropolitan area in northwest Ohio. The airport primarily supports corporate aviation, flight training, and recreational flying rather than scheduled commercial service. Located a few miles southeast of downtown Toledo, it provides convenient access for private and business aircraft operators visiting the region.",
+  "faqs": "Q: Does Toledo Executive Airport offer commercial airline service?\nA: No, TDZ is a general aviation airport without scheduled commercial flights. Travelers seeking commercial service should use Toledo Express Airport (TOL) or Detroit Metropolitan Airport (DTW).\n\nQ: What services are available at the airport?\nA: The airport offers fuel services, aircraft maintenance, hangar storage, tie-downs, and flight training through on-site operators.\n\nQ: Can I rent a car or use rideshare at TDZ?\nA: Ground transportation options are limited; visitors typically arrange rental cars in advance or use rideshare apps, though availability may be inconsistent.\n\nQ: Is there an FBO at Toledo Executive Airport?\nA: Yes, the airport has fixed-base operators that provide fueling, hangar space, and basic pilot services.\n\n",
+  "transport_tips": "The airport is located about 6 miles southeast of downtown Toledo, making taxi or rideshare trips into the city relatively quick, typically under 15 minutes. Since there is no public transit directly serving TDZ, arranging a rental car or pre-booked ride in advance is recommended. On-site parking is available for those driving to the airport.",
+  "local_tip": "If you're visiting Toledo, ask the FBO staff about local restaurant delivery options—they often know which nearby eateries will deliver directly to the airport ramp for pilots and passengers on the go.",
+  "generatedAt": "2026-06-27T01:50:35.847Z",
+  "model": "MiniMax-M3"
+}

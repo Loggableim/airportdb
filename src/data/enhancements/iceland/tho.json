@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "THO",
+    "icao": "BITN",
+    "name": "Þórshöfn Airport",
+    "country": "Iceland",
+    "city": "Þórshöfn",
+    "lat": 66.2185,
+    "lon": -15.3347,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Þórshöfn Airport (THO/BITN) is a small regional airport serving the remote village of Þórshöfn on the Langanes peninsula in northeastern Iceland. The airport primarily supports scheduled domestic flights connecting this isolated coastal community to larger hubs such as Akureyri and Reykjavík. Its modest infrastructure reflects the small population it serves, making it a vital lifeline for residents and visitors traveling to this far-flung corner of Iceland.",
+  "faqs": "Q: What is Þórshöfn Airport used for?\nA: It primarily serves scheduled domestic passenger flights connecting Þórshöfn to other parts of Iceland, along with occasional private and emergency aviation activity.\n\nQ: Are there regular commercial flights to Þórshöfn?\nA: Yes, a small number of scheduled domestic flights operate to the airport, though service frequency is limited and can vary by season.\n\nQ: How far is the airport from Þórshöfn village?\nA: The airport is located a short drive from the village center, making access relatively straightforward for travelers.\n\nQ: Can I rent a car at Þórshöfn Airport?\nA: Rental car availability is very limited at this small airport; it is advisable to arrange transportation in advance with the village or pre-book services.",
+  "transport_tips": "The airport is located just a few kilometers outside Þórshöfn village, so a short taxi ride or pre-arranged transfer is typically the easiest way to reach your accommodation. Given the limited flight schedule, plan your arrival and departure times carefully to avoid long waits. Having a rental car reserved in advance is highly recommended for exploring the surrounding Langanes peninsula, which has very limited public transport.",
+  "local_tip": "If visiting in summer, take advantage of the midnight sun by booking an early morning or late evening flight, which gives you extra daylight hours to explore the dramatic Langanes coastline and its bird cliffs.",
+  "generatedAt": "2026-06-26T15:23:27.782Z",
+  "model": "MiniMax-M3"
+}

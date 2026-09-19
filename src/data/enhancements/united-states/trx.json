@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TRX",
+    "icao": "KTRX",
+    "name": "Trenton Municipal Airport",
+    "country": "United States",
+    "city": "Trenton",
+    "lat": 40.0835,
+    "lon": -93.5906,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Trenton Municipal Airport (TRX) is a small general aviation facility serving the city of Trenton in north-central Missouri. Located in Grundy County, it supports private aircraft, flight training, and occasional charter operations for the surrounding rural community. The airport features a single runway and provides convenient access for pilots visiting the region known for its agricultural heritage and proximity to the Grand River.",
+  "faqs": "Q: What is the IATA code for Trenton Municipal Airport?\nA: The IATA code is TRX, and the ICAO code is KTRX.\n\nQ: What type of aircraft does Trenton Municipal Airport serve?\nA: The airport primarily serves general aviation aircraft, including single-engine planes, small twin-engine planes, and occasional charter flights.\n\nQ: Does Trenton Municipal Airport offer commercial flights?\nA: No, Trenton Municipal Airport does not offer scheduled commercial service. It functions as a general aviation facility.\n\nQ: Are there pilot services available at TRX?\nA: Yes, the airport typically provides basic services such as fuel, tiedowns, and transient parking for visiting pilots.\n\n",
+  "transport_tips": "Reaching Trenton Municipal Airport requires a personal vehicle, as there is no public transit service directly to the facility. The airport is located just a short drive north of downtown Trenton, easily accessible via local roads. Rental cars or rideshare services may be limited in the area, so arranging ground transportation in advance is recommended.",
+  "local_tip": "If you're flying in, plan to visit the Grundy County Historical Museum in downtown Trenton to learn about the area's pioneer heritage, or take a short drive to Crowder State Park for outdoor recreation.",
+  "generatedAt": "2026-06-27T08:31:25.364Z",
+  "model": "MiniMax-M3"
+}

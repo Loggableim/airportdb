@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XCM",
+    "icao": "CYCK",
+    "name": "Chatham Kent Airport",
+    "country": "Canada",
+    "city": "Chatham-Kent",
+    "lat": 42.3064,
+    "lon": -82.0819,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Chatham Kent Airport (XCM) is a small regional airport serving the municipality of Chatham-Kent in southwestern Ontario, Canada. It primarily supports general aviation, flight training, and charter operations rather than scheduled commercial service. The airport features a single asphalt runway and serves as a convenient base for private pilots and business travelers visiting the region.",
+  "faqs": "Q: Does Chatham Kent Airport have scheduled commercial flights?\nA: No, the airport primarily serves general aviation, flight training, and private charter operations rather than scheduled airline service.\n\nQ: How long is the runway at Chatham Kent Airport?\nA: The airport features a single asphalt runway suitable for small to mid-sized general aviation aircraft.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic general aviation amenities including tie-down areas, fuel services, and hangar facilities.\n\nQ: Can I fly to Toronto from Chatham Kent Airport?\nA: There are no scheduled flights, but charter services and private flights can be arranged to destinations across Ontario and beyond.",
+  "transport_tips": "The airport is located a short drive from downtown Chatham, making it convenient for local travelers. Taxis and ride-sharing services are available, though booking in advance is recommended since the airport has limited on-demand transportation. Having a personal vehicle is the most reliable way to access the facility.",
+  "local_tip": "Call the airport office ahead of your visit to confirm fuel availability and any temporary runway conditions, especially during winter months when southwestern Ontario weather can affect small airport operations.",
+  "generatedAt": "2026-06-27T00:39:47.584Z",
+  "model": "MiniMax-M3"
+}

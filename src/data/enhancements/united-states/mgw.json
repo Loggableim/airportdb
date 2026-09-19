@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MGW",
+    "icao": "KMGW",
+    "name": "Morgantown Municipal Airport Walter L. (Bill) Hart Field",
+    "country": "United States",
+    "city": "Morgantown",
+    "lat": 39.6433,
+    "lon": -79.9176,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Morgantown Municipal Airport Walter L. (Bill) Hart Field (MGW) is a medium-sized public airport serving Morgantown, West Virginia, and the broader Monongahela Valley region. Named in honor of a respected local aviator, the airport sits on a plateau just east of the city and primarily accommodates regional commercial service along with general aviation operations. Its location near West Virginia University makes it a convenient gateway for visitors heading to the campus and surrounding Appalachian communities.",
+  "faqs": "Q: What commercial service is available at MGW?\nA: The airport is primarily served by regional carriers offering flights to nearby hub airports, with schedules often tailored to connect Morgantown with larger cities such as Washington, D.C., and Pittsburgh.\n\nQ: How far is Morgantown Municipal Airport from downtown Morgantown?\nA: The airport is located roughly 5 miles east of downtown Morgantown, typically a 10-15 minute drive along local roads.\n\nQ: Does the airport have rental cars on site?\nA: Yes, rental car counters operate inside the terminal, and advance reservations are recommended during university event weekends.\n\nQ: Are there food and beverage options in the terminal?\nA: The terminal offers a small snack bar or vending area, though many travelers prefer to dine in nearby Morgantown before or after their flight.",
+  "transport_tips": "Rental cars are the most flexible option and can be picked up directly in the terminal building. Local taxi services and rideshare pickups are available, though availability may be limited outside scheduled flight times. If driving, take the I-68 interchange east of town and follow signs along US-119 directly to the terminal entrance.",
+  "local_tip": "If you're flying out on a weekend with a home WVU football game, allow extra time for traffic on US-119 and book transportation well in advance, as the entire corridor between the airport and campus gets heavily congested on game days.",
+  "generatedAt": "2026-06-29T04:30:26.358Z",
+  "model": "MiniMax-M3"
+}

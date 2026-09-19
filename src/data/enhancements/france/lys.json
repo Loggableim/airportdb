@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LYS",
+    "icao": "LFLL",
+    "name": "Lyon Saint-Exupéry Airport",
+    "country": "France",
+    "city": "Colombier-Saugnieu, Rhône",
+    "lat": 45.726,
+    "lon": 5.0901,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Lyon Saint-Exupéry Airport (LYS) is the main international gateway to France's third-largest city, located about 20 km southeast of central Lyon in Colombier-Saugnieu. Opened in 1975, the airport is named after Antoine de Saint-Exupéry, the celebrated Lyon-born aviator and author of The Little Prince. It serves as a key hub for Air France and a major base for low-cost carriers, handling millions of passengers annually.",
+  "faqs": "Q: How far is Lyon Saint-Exupéry Airport from the city center?\nA: The airport is approximately 20 km (12 miles) southeast of central Lyon, with journey times of 30-45 minutes depending on traffic and transport mode.\n\nQ: Is there a train station at the airport?\nA: Yes, the Gare de Lyon Saint-Exupéry TGV station is directly connected to Terminal 1, offering high-speed TGV connections to Lyon Part-Dieu in about 30 minutes and direct services to Paris, Marseille, and other major cities.\n\nQ: Which airlines operate from Lyon Saint-Exupéry?\nA: Air France maintains a significant hub here, while easyJet has a major base. Other carriers include Ryanair, Lufthansa, KLM, British Airways, and many others serving European and intercontinental destinations.\n\nQ: How many terminals does the airport have?\nA: Lyon Saint-Exupéry has two main terminals: Terminal 1 (the main hub) and Terminal 2 (used primarily by low-cost carriers including easyJet). A free shuttle bus connects them.\n\n",
+  "transport_tips": "The Rhônexpress tram is the fastest dedicated public transport option, reaching Lyon's Part-Dieu station in about 30 minutes with departures every 15-30 minutes. For budget travelers, regional buses and coaches offer cheaper alternatives, while taxis and rideshares provide door-to-door service for around €50-70 to central Lyon. Renting a car is convenient via the A432 motorway, which directly links the airport to the French autoroute network.",
+  "local_tip": "If you have a long layover or early arrival, the nearby village of Colombier-Saugnieu has a few traditional bouchons-style restaurants that are far less touristy than those in central Lyon—ask staff at information desks for recommendations with shuttle service.",
+  "generatedAt": "2026-06-28T18:27:39.290Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BRS",
+    "icao": "EGGD",
+    "name": "Bristol Airport",
+    "country": "United Kingdom",
+    "city": "Bristol",
+    "lat": 51.3823,
+    "lon": -2.7165,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Bristol Airport (BRS/EGGD) is located at Lulsgate Bottom, about 8 miles (13 km) southwest of Bristol city centre. It opened on its current site in 1957, replacing Bristol's original Whitchurch Airport, and is now the busiest airport in South West England. The single-terminal airport has a 2,011 m runway and serves as a base for easyJet, with flights across the UK, Europe, and North Africa.",
+  "faqs": "Q: How far is Bristol Airport from Bristol city centre?\nA: It is about 8 miles (13 km) southwest of the city centre, roughly a 20-30 minute drive or bus ride depending on traffic.\n\nQ: Is there a train station at Bristol Airport?\nA: No, there is no direct rail station; the A1 Airport Flyer bus connects the terminal with Bristol Temple Meads and Bristol Bus Station.\n\nQ: Which airlines operate from Bristol Airport?\nA: easyJet is the largest operator and has a base here, alongside Ryanair, TUI, Aer Lingus, KLM, and other carriers serving domestic, European, and North African routes.\n\nQ: What parking is available at Bristol Airport?\nA: There are on-site short-stay and long-stay car parks plus meet-and-greet options; pre-booking online is typically cheaper than turning up.",
+  "transport_tips": "The Bristol Airport Flyer A1 bus runs frequently to Bristol Temple Meads and Bristol Bus Station, taking around 30 minutes, while the A3 serves Weston-super-Mare. Taxis and pre-booked transfers pick up outside the terminal, and road access is via the A38 from Bristol and M5 junction 22. Pre-book parking or allow for the forecourt drop-off charge if someone is driving you.",
+  "local_tip": "Frequent visitors know that early-morning security queues can be long, so book Fast Track or arrive well ahead; also, because the airport sits on an exposed hill, fog and strong winds can cause delays, so check live flight status before setting off.",
+  "generatedAt": "2026-09-19T23:21:15.967Z",
+  "model": "deepseek-v4.1-flash"
+}

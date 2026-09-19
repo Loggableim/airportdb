@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SNN",
+    "icao": "EINN",
+    "name": "Shannon Airport",
+    "country": "Ireland",
+    "city": "Shannon",
+    "lat": 52.702,
+    "lon": -8.9248,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Shannon Airport is a major international airport in western Ireland, strategically located on the Atlantic coast in County Clare. It holds a unique place in aviation history as the birthplace of duty-free shopping, established in 1947, and serves as a key gateway to the Wild Atlantic Way. The airport is notable for offering US Customs and Border Protection preclearance, allowing passengers to clear US immigration before departure.",
+  "faqs": "Q: Where is Shannon Airport located?\nA: Shannon Airport is located in County Clare on the western coast of Ireland, near the town of Shannon and approximately 24 km from Limerick city.\n\nQ: Does Shannon Airport have US preclearance facilities?\nA: Yes, Shannon Airport offers US Customs and Border Protection preclearance, enabling passengers to complete US immigration and customs checks before boarding their flight.\n\nQ: Is Shannon Airport the birthplace of duty-free shopping?\nA: Yes, duty-free shopping was first introduced at Shannon Airport in 1947 to accommodate passengers on transatlantic flights who wanted to purchase tax-free goods during their stopover.\n\nQ: What destinations can I fly to from Shannon?\nA: Shannon offers direct flights to numerous European cities and seasonal transatlantic routes to the United States, including New York and Boston.\n\n",
+  "transport_tips": "Shannon Airport is well connected by road via the N18 and M18 motorways, with Limerick city about 20 minutes away and Galway reachable in under 90 minutes. Bus Éireann operates regular coach services linking the airport to Limerick, Ennis, and Galway. Taxis and rental cars are readily available at the terminal, and the airport's compact size means transfers are quick and straightforward.",
+  "local_tip": "Visit the Viewing Terrace on the roof of the terminal building for an excellent vantage point to watch aircraft operations and enjoy views over the Shannon Estuary—it's a hidden gem most travelers miss.",
+  "generatedAt": "2026-06-28T16:31:30.077Z",
+  "model": "MiniMax-M3"
+}

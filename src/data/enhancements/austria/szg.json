@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SZG",
+    "icao": "LOWS",
+    "name": "Salzburg Airport",
+    "country": "Austria",
+    "city": "Salzburg",
+    "lat": 47.7933,
+    "lon": 13.0043,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Salzburg Airport (SZG), officially named Salzburg Airport W. A. Mozart, is Austria's second-busiest airport and serves the historic city of Salzburg, birthplace of composer Wolfgang Amadeus Mozart. Situated just 4 km southwest of the city center, it functions as a key gateway for both cultural tourism and Alpine ski resorts. The airport operates a single terminal handling approximately 2 million passengers annually.",
+  "faqs": "Q: How far is Salzburg Airport from the city center?\nA: The airport is approximately 4 km southwest of Salzburg's historic center, making it one of the most conveniently located airports in Europe.\n\nQ: Does the airport have direct train or bus connections?\nA: Yes, bus line 2 and line 10 connect the airport to Salzburg Hauptbahnhof (main train station) and the city center in about 15-25 minutes. The Salzburg Hauptbahnhof also provides direct rail connections to Munich, Vienna, and other major cities.\n\nQ: Are there ski transfer services available?\nA: Yes, during winter months several shuttle services and tour operators provide transfers from the airport to popular ski destinations including Zell am See, Kaprun, and the Ski Amadé region.\n\nQ: Can I fly directly to Salzburg from the US?\nA: Direct transatlantic flights are limited; most North American travelers connect through European hubs like Frankfurt, Munich, or Vienna. Seasonal routes may vary.",
+  "transport_tips": "Bus line 2 from the airport terminal runs directly to Salzburg Hauptbahnhof in approximately 24 minutes, with tickets available from machines at the bus stop. Taxis to the city center cost around 15-20 euros and take about 15 minutes depending on traffic. The Obus (trolleybus) system is an economical and reliable option, integrated with the city's public transit network.",
+  "local_tip": "If you have a layover or extra time, the Mirabell Gardens and the old town (Altstadt) are only a short bus ride away—perfect for a quick Mozart-themed stroll before your flight, even if you only have 3-4 hours to spare.",
+  "generatedAt": "2026-06-28T18:29:00.635Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DBM",
+    "icao": "HADM",
+    "name": "Debre Markos Airport",
+    "country": "Ethiopia",
+    "city": "Debre Markos",
+    "lat": 10.3215,
+    "lon": 37.7419,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Debre Markos Airport (DBM/HADM) is a small regional airport serving Debre Markos, the capital of the West Gojjam Zone in Ethiopia's Amhara Region. Situated at an elevation of approximately 2,100 meters, it primarily handles domestic flights and general aviation traffic, providing a vital air link for the surrounding highland communities. The airport supports the region's agricultural economy and connects travelers to Addis Ababa and other Ethiopian destinations.",
+  "faqs": "Q: What is the IATA code for Debre Markos Airport?\nA: The IATA code is DBM and the ICAO code is HADM.\n\nQ: Where is Debre Markos Airport located?\nA: It is located near the city of Debre Markos in the Amhara Region of northwestern Ethiopia, at approximately 10.322°N, 37.742°E.\n\nQ: Does Debre Markos Airport offer international flights?\nA: No, it is a small domestic airport primarily serving regional and general aviation flights within Ethiopia.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, it offers basic passenger services and a single runway, with limited commercial amenities typical of Ethiopian regional airstrips.\n\n",
+  "transport_tips": "The airport is located a short distance from Debre Markos town center, and taxis or local minibuses are typically available for ground transportation. Road access to the airport connects via the regional highway network linking Debre Markos to Bahir Dar and Addis Ababa. Travelers should arrange return transport in advance, as services can be limited, especially outside of scheduled flight times.",
+  "local_tip": "Due to the airport's highland elevation and the region's cool climate, even during Ethiopia's dry season, mornings at Debre Markos can be quite chilly, so carry a light jacket for early departures.",
+  "generatedAt": "2026-06-27T20:47:36.975Z",
+  "model": "MiniMax-M3"
+}

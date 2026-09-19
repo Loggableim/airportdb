@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "THV",
+    "icao": "KTHV",
+    "name": "York Airport",
+    "country": "United States",
+    "city": "Thomasville",
+    "lat": 39.917,
+    "lon": -76.873,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "York Airport (THV/KTHV) is a small general aviation airport serving Thomasville in York County, Pennsylvania. Situated in south-central Pennsylvania, it provides convenient access for private pilots, flight training, and recreational flying in the region between Harrisburg and the Maryland border. The airport is home to a fixed-base operator offering fuel, aircraft services, and flight instruction.",
+  "faqs": "Q: What type of airport is York Airport?\nA: York Airport is a small general aviation airport serving primarily private, recreational, and training flights rather than commercial airline service.\n\nQ: Are there commercial flights at THV?\nA: No, York Airport does not offer scheduled commercial airline service. It caters to general aviation, flight training, and private aircraft operations.\n\nQ: What facilities are available at KTHV?\nA: The airport features a fixed-base operator providing fuel services, aircraft parking, maintenance, and flight training. It has a single main runway suitable for small to mid-size aircraft.\n\nQ: Can pilots rent aircraft at York Airport?\nA: Yes, flight training and aircraft rental are available through the on-site FBO, making it a popular spot for student pilots in the region.\n\n",
+  "transport_tips": "Since York Airport has no commercial service, visitors typically arrive via private aircraft. Ground transportation requires a personal vehicle, taxi, or rideshare service, with the airport located a short drive from the town of Thomasville and roughly 15 miles west of York city. Rental cars can be arranged in nearby York for longer stays.",
+  "local_tip": "If you're flying in for a meal, ask locals about the nearby Pennsylvania Dutch country dining spots—many classic Amish-style restaurants are within a 20-minute drive of the airport.",
+  "generatedAt": "2026-06-27T01:50:25.430Z",
+  "model": "MiniMax-M3"
+}

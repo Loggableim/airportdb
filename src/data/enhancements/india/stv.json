@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "STV",
+    "icao": "VASU",
+    "name": "Surat International Airport",
+    "country": "India",
+    "city": "Surat",
+    "lat": 21.1155,
+    "lon": 72.7433,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Surat International Airport (STV) is located in Surat, Gujarat, serving the city renowned as the Diamond Capital of the World and a major hub for India's textile industry. The airport gained international status in 2007 to support the growing export-oriented economy of Surat. It features a single integrated terminal handling both domestic and international flights, connecting this commercial powerhouse to key destinations across India and select international routes.",
+  "faqs": "Q: How far is Surat International Airport from the city center?\nA: The airport is approximately 11 km southwest of Surat's city center, with typical journey times of 25-40 minutes depending on traffic.\n\nQ: Does Surat International Airport offer international flights?\nA: Yes, it operates limited international flights primarily to destinations in the Middle East such as Dubai and Sharjah, serving the large Gujarati diaspora working in the Gulf region.\n\nQ: What facilities are available at the airport?\nA: The terminal includes standard amenities such as food courts, retail outlets, ATMs, currency exchange, free Wi-Fi, and prepaid taxi counters.\n\nQ: Is the airport open 24 hours?\nA: Operational hours vary, but the airport generally operates from early morning until late evening, aligned with scheduled flight arrivals and departures.",
+  "transport_tips": "Prepaid taxi counters and app-based ride services like Ola and Uber are available outside the terminal for convenient transfers to the city. Auto-rickshaws can also be hired for shorter distances at lower fares. During peak hours, allow extra travel time as roads connecting the airport to central Surat can experience congestion.",
+  "local_tip": "Frequent visitors recommend carrying small denomination cash, as many local shops and snack vendors near the airport and in Surat prefer cash transactions over digital payments, especially for quick purchases like chai or samosas.",
+  "generatedAt": "2026-06-28T22:30:11.757Z",
+  "model": "MiniMax-M3"
+}

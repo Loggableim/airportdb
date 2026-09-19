@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VEL",
+    "icao": "KVEL",
+    "name": "Vernal Regional Airport",
+    "country": "United States",
+    "city": "Vernal",
+    "lat": 40.4362,
+    "lon": -109.5117,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Vernal Regional Airport serves the city of Vernal in northeastern Utah's Uinta Basin, acting as a key access point for visitors to nearby Dinosaur National Monument and the Ashley National Forest. The airport supports general aviation, regional commercial flights, and serves the area's significant oil and gas industry workforce. Its location amid dramatic red rock landscapes makes it a convenient gateway for outdoor recreation and paleontology tourism.",
+  "faqs": "Q: What is the airport code for Vernal Regional Airport?\nA: The IATA code is VEL and the ICAO code is KVEL.\n\nQ: Are there commercial flights to Vernal Regional Airport?\nA: Yes, the airport is served by regional carriers offering scheduled passenger service to Salt Lake City and other connecting hubs.\n\nQ: How far is Vernal Regional Airport from Dinosaur National Monument?\nA: The airport is approximately 20 miles from the Dinosaur National Monument quarry visitor center, making it the closest airport for visitors heading to the park.\n\nQ: Does the airport have rental car services?\nA: Rental car availability can vary; it is advisable to reserve vehicles in advance, particularly during peak tourist season.",
+  "transport_tips": "The airport is located just a few miles east of downtown Vernal, making taxi rides or rental cars quick and inexpensive. Limited shuttle services operate in the area, so arranging ground transport ahead of time is recommended. Driving from Salt Lake City takes approximately three hours via US-40, and parking at the airport is generally easy to find.",
+  "local_tip": "If you have a few hours before your flight, drive to the nearby Quarry Visitor Center at Dinosaur National Monument to see real dinosaur fossils still embedded in the rock face—it's a unique experience you cannot get at most airports in the region.",
+  "generatedAt": "2026-06-29T18:48:58.653Z",
+  "model": "MiniMax-M3"
+}

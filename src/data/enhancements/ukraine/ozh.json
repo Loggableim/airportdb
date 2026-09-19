@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OZH",
+    "icao": "UKDE",
+    "name": "Zaporizhzhia International Airport",
+    "country": "Ukraine",
+    "city": "Zaporizhia",
+    "lat": 47.867,
+    "lon": 35.3147,
+    "type": "large_airport",
+    "size": 850
+  },
+  "summary": "Zaporizhzhia International Airport (OZH/UKDE) is a large airport serving the city of Zaporizhia in southeastern Ukraine, situated on the Dnieper River. The facility has historically supported both domestic and international routes, connecting the industrial region with major Ukrainian cities and select European destinations. Its location near the central part of the city makes it a convenient gateway for travelers visiting this historically significant area, home to the famous island of Khortytsia.",
+  "faqs": "Q: How far is Zaporizhzhia International Airport from the city center?\nA: The airport is located relatively close to central Zaporizhia, approximately 15-20 minutes by road depending on traffic conditions.\n\nQ: Does the airport offer international flights?\nA: Yes, Zaporizhzhia International Airport has historically operated international routes, though availability may vary based on regional circumstances and airline schedules.\n\nQ: Are there passenger amenities available at the airport?\nA: The terminal provides standard amenities including waiting areas, basic food and beverage options, and check-in facilities typical of a regional international airport.\n\nQ: Is the airport accessible by public transport?\nA: Public transport options including buses and marshrutkas connect the airport to the city, though taxi services are commonly used for direct and faster transfers.",
+  "transport_tips": "Taxis and ride services are the most convenient option for reaching the city center, typically taking 15-25 minutes depending on traffic. Public marshrutka (minibus) routes also serve the airport and provide an affordable alternative for budget-conscious travelers. Arranging ground transport in advance is recommended, especially for early morning or late evening flights when public options are less frequent.",
+  "local_tip": "If you have a layover or extra time, consider asking airport staff about arranging a quick visit to Khortytsia Island, Ukraine's largest river island and a national nature reserve just minutes from the airport, featuring ancient Cossack heritage sites and stunning Dnieper River views.",
+  "generatedAt": "2026-06-29T01:38:57.806Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RZA",
+    "icao": "SAWU",
+    "name": "Santa Cruz Airport",
+    "country": "Argentina",
+    "city": "Puerto Santa Cruz",
+    "lat": -50.0165,
+    "lon": -68.5792,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Santa Cruz Airport (RZA) serves the small Patagonian port town of Puerto Santa Cruz in Argentina's Santa Cruz Province. Located on the windswept coast of southern Patagonia near the mouth of the Santa Cruz River, it provides essential air access to a remote region otherwise reached by long overland routes. The airport supports general aviation and occasional scheduled flights, making it a vital link for this sparsely populated stretch of the Argentine coast.",
+  "faqs": "Q: Where is Santa Cruz Airport located?\nA: It is located in Puerto Santa Cruz, Santa Cruz Province, in the Patagonian region of southern Argentina, near the Atlantic coast.\n\nQ: What type of airport is Santa Cruz Airport?\nA: It is classified as a medium-sized airport primarily serving general aviation and limited regional traffic.\n\nQ: Are there regular commercial flights to Santa Cruz Airport?\nA: Scheduled commercial service is very limited; travelers should check current routes as flights are infrequent and may operate seasonally.\n\nQ: What is the airport useful for in the region?\nA: It provides crucial access for visitors traveling to nearby attractions such as the Monte León National Park and the historic Santa Cruz River valley.",
+  "transport_tips": "The airport is located just a short drive from the town center of Puerto Santa Cruz, making taxi or pre-arranged transfers the most practical option. Rental cars are limited, so booking ground transport in advance is recommended. There is no public bus service directly connecting the airport to the town.",
+  "local_tip": "Strong Patagonian winds are common in the area—flights can be delayed or rerouted, so build a buffer into your travel schedule and dress in layers when arriving.",
+  "generatedAt": "2026-06-29T13:02:48.786Z",
+  "model": "MiniMax-M3"
+}

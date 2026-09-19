@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KVL",
+    "icao": "PAVL",
+    "name": "Kivalina Airport",
+    "country": "United States",
+    "city": "Kivalina",
+    "lat": 67.7346,
+    "lon": -164.5599,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Kivalina Airport (KVL) is a small public-use airport serving the remote Iñupiat village of Kivalina on a narrow barrier island along Alaska's Chukchi Sea coast. With no road access to the outside world, the airport is the community's primary lifeline, providing essential passenger, mail, and cargo service. The airstrip plays a critical role for one of the most climate-threatened communities in the United States, where accelerated coastal erosion continues to endanger the village itself.",
+  "faqs": "Q: How do you get to Kivalina?\nA: Travel to Kivalina is exclusively by air, as the island community has no connecting roads. Year-round scheduled flights operate from Kotzebue (OTZ) on small regional aircraft.\n\nQ: Which airlines serve Kivalina Airport?\nA: Regional carriers such as Bering Air provide scheduled passenger service, primarily connecting Kivalina to Kotzebue using single-engine turboprop aircraft.\n\nQ: What is the runway like at Kivalina Airport?\nA: The airport features a single gravel runway suitable for bush planes and small commuter aircraft, and is maintained to support operations in challenging Arctic conditions.\n\nQ: Is there a terminal building at KVL?\nA: Facilities are minimal, consistent with its role as a remote bush airport, and passengers typically check in and wait in a small terminal or shelter near the apron.\n\n",
+  "transport_tips": "Passengers should arrange ground transport in Kivalina in advance, as the village has no taxi services and options are limited to pre-arranged ATVs or local contacts. Flights are frequently delayed or canceled due to fog, high winds, and blowing snow common along the Chukchi Sea coast, so build flexibility into any travel plans. Pack lightly and bring all essential medications, as cargo capacity is limited and weather-related delivery delays are common.",
+  "local_tip": "If you have a few hours between flights, ask a local resident to take you to the beach on the north side of the island—it offers dramatic views of the Chukchi Sea and, in late summer and fall, occasional sightings of walrus pods swimming offshore.",
+  "generatedAt": "2026-06-26T18:30:47.132Z",
+  "model": "MiniMax-M3"
+}

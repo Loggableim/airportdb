@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MOD",
+    "icao": "KMOD",
+    "name": "Modesto City Co-Harry Sham Field",
+    "country": "United States",
+    "city": "Modesto",
+    "lat": 37.6258,
+    "lon": -120.954,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Modesto City Co-Harry Sham Field (MOD/KMOD) is a medium-sized general aviation airport located about 3 miles south of downtown Modesto in California's Central Valley. Originally known as Modesto City-County Airport, it was renamed in honor of Harry Sham, a longtime local aviation advocate and former airport commissioner who championed the facility's development. The airport serves as a key reliever facility for the region, supporting private aviation, flight training, corporate jets, and air ambulance operations.",
+  "faqs": "Q: Does Modesto Airport have commercial airline service?\nA: No, MOD currently operates as a general aviation facility without scheduled commercial passenger flights. Most regional travelers use nearby Stockton Metropolitan or Sacramento airports for commercial service.\n\nQ: What facilities are available at MOD?\nA: The airport features two runways, aircraft hangars, fixed-base operator (FBO) services for fuel and ground handling, flight schools, and tie-down parking.\n\nQ: Can private pilots fly into Modesto?\nA: Yes, the airport welcomes general aviation traffic and offers fuel services, tiedowns, and hangar rentals through its FBOs.\n\nQ: Is there an air traffic control tower?\nA: Yes, the airport has a staffed control tower operating during published hours, with CTAF procedures in effect when the tower is closed.",
+  "transport_tips": "The airport is conveniently located near State Route 99 and Kansas Avenue, making ground access straightforward from downtown Modesto in roughly 10 minutes. Rental cars and rideshare services (Uber/Lyft) are the most common ways to reach the terminal area, as there is no scheduled public transit serving the airfield directly. Free parking is available for both short visits and long-term stays in the general aviation lots.",
+  "local_tip": "If you're picking up or dropping off, the small terminal area fills up quickly on weekend mornings due to flight training activity—arriving a few minutes early saves you from circling the limited lot.",
+  "generatedAt": "2026-06-29T03:18:53.313Z",
+  "model": "MiniMax-M3"
+}

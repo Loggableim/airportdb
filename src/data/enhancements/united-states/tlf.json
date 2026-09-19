@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TLF",
+    "icao": "",
+    "name": "Telida Airport",
+    "country": "United States",
+    "city": "Telida",
+    "lat": 63.3939,
+    "lon": -153.269,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Telida Airport (TLF) is a small public-use airport serving the remote village of Telida, located in the Yukon-Koyukuk Census Area of interior Alaska. The airport provides essential connectivity for this isolated Athabascan community, which is not accessible by road. It primarily supports bush planes and small charter aircraft that link residents to larger Alaskan hubs.",
+  "faqs": "Q: What type of aircraft can use Telida Airport?\nA: The airport primarily accommodates small bush planes and charter aircraft suited for short gravel runways typical of rural Alaska.\n\nQ: Are there scheduled commercial flights to Telida?\nA: Scheduled commercial service is limited or nonexistent; travel is generally arranged through charter or bush plane operators.\n\nQ: What facilities are available at the airport?\nA: As a small rural airstrip, Telida Airport offers minimal infrastructure with no terminal building, primarily functioning as a landing strip for essential community access.\n\nQ: When is the airport accessible?\nA: Operations are generally best during daylight hours and favorable weather, as remote Alaskan airstrips often lack instrument approach capabilities.",
+  "transport_tips": "There are no roads connecting Telida to other communities, so air travel via charter or bush plane is the primary means of reaching the airport. Travelers typically arrange flights from Fairbanks or other interior Alaska hubs, often as part of a multi-leg journey. Weather conditions can affect availability, so flexible scheduling is essential when planning travel to or from Telida.",
+  "local_tip": "Pack all essential supplies including extra food, fuel, and cold-weather gear, as the village has limited services and weather-related delays at this remote airstrip can leave travelers grounded for extended periods.",
+  "generatedAt": "2026-06-28T09:19:24.764Z",
+  "model": "MiniMax-M3"
+}

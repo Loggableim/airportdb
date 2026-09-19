@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CLM",
+    "icao": "KCLM",
+    "name": "William R Fairchild International Airport",
+    "country": "United States",
+    "city": "Port Angeles",
+    "lat": 48.1202,
+    "lon": -123.5,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "William R. Fairchild International Airport (CLM) serves Port Angeles on Washington's Olympic Peninsula, providing convenient air access to the northern gateway of Olympic National Park and the Strait of Juan de Fuca region. Named after local aviation advocate William R. Fairchild, the airport primarily handles general aviation, charter flights, and scheduled regional service. Its location makes it a popular entry point for travelers heading to Victoria, British Columbia via the nearby ferry, as well as outdoor enthusiasts exploring the Olympic Mountains.",
+  "faqs": "Q: What airlines fly into William R. Fairchild International Airport?\nA: Scheduled commercial service is limited; the airport primarily supports general aviation, private flights, and occasional regional carrier service. Travelers should check current schedules as routes can change seasonally.\n\nQ: How far is the airport from Olympic National Park?\nA: The airport is just minutes from Port Angeles, which serves as the northern entry to Olympic National Park. The Hurricane Ridge Visitor Center is approximately a 35-40 minute drive from the airport.\n\nQ: Is there a car rental available at the airport?\nA: Yes, car rental services are available at or near the airport, though options may be limited compared to larger hubs. Booking in advance is recommended, especially during summer travel season.\n\nQ: Can I take a ferry to Victoria, Canada from Port Angeles?\nA: Yes, the Black Ball Ferry Line operates between Port Angeles and Victoria, BC, with the ferry terminal located a short drive from the airport, making CLM a useful gateway for international travelers.\n\n",
+  "transport_tips": "Rental cars are the most convenient way to reach Port Angeles town center, which is only about a 10-minute drive east of the terminal. Taxi and rideshare services are available but limited, so arranging ground transport in advance is advisable. During winter months, allow extra travel time as mountain passes to Seattle can experience snow and ice.",
+  "local_tip": "If you have time before your flight, drive up to Hurricane Ridge for stunning views of the Olympic Mountains—it's only about 17 miles south and offers one of the most accessible alpine viewpoints in the entire national park system.",
+  "generatedAt": "2026-06-29T05:00:35.401Z",
+  "model": "MiniMax-M3"
+}

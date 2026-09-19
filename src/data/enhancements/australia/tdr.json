@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TDR",
+    "icao": "YTDR",
+    "name": "Theodore Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -24.9868,
+    "lon": 150.0931,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Theodore Airport is a small regional airfield serving the rural town of Theodore in central Queensland, Australia. It primarily supports general aviation, aerial agriculture operations, and charter flights related to the region's coal mining and farming industries. The facility provides an important link for remote communities in the Banana Shire.",
+  "faqs": "Q: What is Theodore Airport primarily used for?\nA: The airport mainly serves general aviation, private aircraft, and charter services supporting the local agricultural and mining sectors in central Queensland.\n\nQ: Does Theodore Airport have scheduled commercial flights?\nA: No regular scheduled commercial services operate from Theodore Airport. It functions as a general aviation facility for the region.\n\nQ: Are there any facilities or amenities at the airport?\nA: As a small rural airfield, facilities are limited to basic airstrip infrastructure without major passenger terminal amenities.\n\nQ: What is the nearest larger airport with commercial service?\nA: Biloela Airport and Rockhampton Airport are the closest airports offering alternative aviation services in the region.",
+  "transport_tips": "Access to the airport is typically by private vehicle, as there is no public transport serving the facility. The airfield is located a short drive from the town of Theodore, with sealed road access available. Visitors should arrange ground transport in advance through local accommodation providers or hire services.",
+  "local_tip": "If visiting Theodore, plan fuel stops carefully as the town has limited services, and check with local pilots about current runway conditions before arrival, as smaller rural strips can be affected by weather after rain.",
+  "generatedAt": "2026-06-27T11:08:59.946Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ADL",
+    "icao": "YPAD",
+    "name": "Adelaide International Airport",
+    "country": "Australia",
+    "city": "Adelaide",
+    "lat": -34.9475,
+    "lon": 138.5334,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Adelaide International Airport (ADL) is the main gateway to South Australia, located approximately 6 kilometers west of Adelaide's city center. It serves as the fifth-busiest airport in Australia and is a key hub for Virgin Australia, handling both domestic and international flights from a single, modern terminal. The airport has a long aviation history dating back to the 1920s and has undergone major expansions to accommodate growing passenger demand.",
+  "faqs": "Q: How far is Adelaide Airport from the city center?\nA: The airport is approximately 6 kilometers (about 4 miles) west of Adelaide's central business district, making it a quick 15-20 minute drive depending on traffic.\n\nQ: Does Adelaide Airport have separate terminals for domestic and international flights?\nA: No, all flights operate from a single integrated terminal (Terminal 1), which makes connections between domestic and international flights straightforward.\n\nQ: Which airlines operate from Adelaide Airport?\nA: Major carriers include Virgin Australia, Qantas, Jetstar, Air New Zealand, Singapore Airlines, and several other international and regional airlines.\n\nQ: Is there free Wi-Fi available at the airport?\nA: Yes, Adelaide Airport offers complimentary Wi-Fi throughout the terminal for all passengers.",
+  "transport_tips": "The JetBus service provides frequent and affordable transfers between the airport and Adelaide's city center, running approximately every 15-30 minutes. Taxi ranks and rideshare pickup zones are located directly outside the terminal, with typical fares to the CBD ranging from AUD $20-$30. If driving, the airport is easily accessible via Sir Donald Bradman Drive and offers both short-term and long-term parking options.",
+  "local_tip": "If you have a long layover, the nearby Harbour Town shopping precinct and the iconic Glenelg Beach are both less than 15 minutes away by car, offering a quick taste of Adelaide's coastal charm without venturing far from the airport.",
+  "generatedAt": "2026-06-28T18:30:41.482Z",
+  "model": "MiniMax-M3"
+}

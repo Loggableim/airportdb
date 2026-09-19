@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EIS",
+    "icao": "TUPJ",
+    "name": "Terrance B. Lettsome International Airport",
+    "country": "British Virgin Islands",
+    "city": "Beef Island",
+    "lat": 18.4455,
+    "lon": -64.5417,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Terrance B. Lettsome International Airport is the main gateway to the British Virgin Islands, situated on Beef Island and connected to Tortola via the Queen Elizabeth Bridge. Named after a pioneering local aviator, the airport was significantly upgraded in the 2000s with an extended runway capable of handling larger transatlantic aircraft. It serves as a crucial hub for both tourism and inter-island travel throughout the BVI archipelago.",
+  "faqs": "Q: Which island does this airport serve?\nA: The airport is located on Beef Island and primarily serves Tortola, the largest island in the British Virgin Islands, which is connected via the Queen Elizabeth Bridge.\n\nQ: How far is the airport from Road Town?\nA: Road Town, the capital of the BVI, is approximately a 15-minute drive across the Queen Elizabeth Bridge on Tortola.\n\nQ: What airlines operate at Terrance B. Lettsome Airport?\nA: The airport is served by several carriers including interCaribbean Airways, Cape Air, and seasonal international flights from North America and Europe.\n\nQ: Can I take a ferry to other islands from the airport?\nA: While ferries to islands like Virgin Gorda, St. John, and St. Thomas depart from Road Town's ferry terminal, taxis from the airport can take you directly there.\n\n",
+  "transport_tips": "Taxis are readily available outside the terminal and offer fixed rates to major destinations including Road Town, resorts on Tortola, and ferry terminals. Rental car agencies are present at the airport, though driving is on the left side of the road. For travelers heading to other BVI islands, taxi services can coordinate with ferry schedules from Road Town.",
+  "local_tip": "Visit the nearby Trellis Bay on Beef Island for Friday night 'Fireballs,' a unique local tradition where performers spin fire-lit staves on the beach—it's a short taxi ride from the airport and a perfect first-night experience.",
+  "generatedAt": "2026-06-28T20:29:43.128Z",
+  "model": "MiniMax-M3"
+}

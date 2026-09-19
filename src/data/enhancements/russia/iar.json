@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IAR",
+    "icao": "UUDL",
+    "name": "Golden Ring Yaroslavl International Airport",
+    "country": "Russia",
+    "city": "Tunoshna",
+    "lat": 57.5607,
+    "lon": 40.1574,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Golden Ring Yaroslavl International Airport (IAR) serves the historic city of Yaroslavl, one of the principal destinations on Russia's famed Golden Ring of ancient towns northeast of Moscow. Located in Tunoshna, approximately 20 km southeast of Yaroslavl's city center, it functions as the main air gateway for the Yaroslavl Oblast and handles both domestic flights and limited international charter services.",
+  "faqs": "Q: How far is the airport from Yaroslavl city center?\nA: The airport is located roughly 20 km southeast of Yaroslavl in the village of Tunoshna, with a typical journey time of 30-40 minutes by car depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, it is classified as an international airport and handles limited international charter and seasonal flights, though most scheduled service is domestic.\n\nQ: Are there airline lounges at IAR?\nA: The terminal is relatively small, so lounge facilities are limited; most passengers use the general waiting areas.\n\nQ: Is the airport accessible 24 hours?\nA: Operating hours generally align with scheduled flight arrivals and departures, so the terminal may close between late evening and early morning flights.\n\n",
+  "transport_tips": "The most common way to reach Yaroslavl from the airport is by taxi or pre-arranged transfer, as public transport options are limited. Marshrutka (minibus) services occasionally connect Tunoshna with Yaroslavl, but schedules can be infrequent and are best suited to daytime arrivals. Renting a car in Yaroslavl is possible from city-center agencies rather than at the airport itself.",
+  "local_tip": "If you have a few hours to spare, the historic Spassky Monastery in Yaroslavl offers a stunning introduction to the city's UNESCO-listed heritage without venturing far from the city center — perfect for a layover stopover.",
+  "generatedAt": "2026-06-29T01:37:47.978Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PUQ",
+    "icao": "SCCI",
+    "name": "President Carlos Ibáñez International Airport",
+    "country": "Chile",
+    "city": "Punta Arenas",
+    "lat": -53.0026,
+    "lon": -70.8546,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "President Carlos Ibáñez del Campo International Airport is the principal aviation gateway to Chilean Patagonia, serving the remote southern city of Punta Arenas. Located on the Brunswick Peninsula near the Strait of Magellan, it functions as a key transit point for travelers heading to Tierra del Fuego, Torres del Paine National Park, and the Antarctic Peninsula. The airport handles a mix of domestic routes to Santiago and regional connections, along with seasonal charter flights supporting Antarctic research and tourism operations.",
+  "faqs": "Q: How far is the airport from Punta Arenas city center?\nA: The airport is located approximately 20 km (12 miles) north of downtown Punta Arenas, with a typical drive time of around 25 minutes.\n\nQ: Does the airport offer international flights?\nA: Yes, it operates some international and intercontinental routes, though the majority of traffic is domestic, primarily to and from Santiago. It also serves as a departure point for Antarctic expedition flights.\n\nQ: Are there direct flights from this airport to Antarctica?\nA: Seasonal charter flights to King George Island and other Antarctic points operate from Punta Arenas, serving research personnel and tourists, though these are typically arranged through specialized operators rather than scheduled services.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers standard amenities including restaurants, car rental desks, duty-free shops, and currency exchange services typical of a regional international airport.",
+  "transport_tips": "",
+  "local_tip": "Punta Arenas is notorious for strong, unpredictable winds year-round—pack a windproof outer layer even in summer, and allow extra time for connections, as flights are occasionally delayed or rerouted due to severe gusts that funnel across the open pampas surrounding the airport.",
+  "generatedAt": "2026-06-28T19:53:29.979Z",
+  "model": "MiniMax-M3"
+}

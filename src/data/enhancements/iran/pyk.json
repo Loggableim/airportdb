@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PYK",
+    "icao": "OIIP",
+    "name": "Payam International Airport",
+    "country": "Iran",
+    "city": "Karaj",
+    "lat": 35.7761,
+    "lon": 50.8267,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Payam International Airport is a large facility located in Karaj, the capital of Alborz Province, situated about 40 km southwest of Tehran. It primarily serves as a cargo and charter hub, complementing the capital's main airports of Mehrabad and Imam Khomeini International. The airport features one of Iran's longest runways, capable of handling wide-body aircraft, and has historically been used for Hajj pilgrim flights and international charters.",
+  "faqs": "Q: How far is Payam Airport from Tehran city center?\nA: The airport is approximately 40-50 km west of Tehran, with typical driving times of 60-90 minutes depending on traffic.\n\nQ: Does Payam Airport handle scheduled passenger flights?\nA: Scheduled passenger service is limited; the airport primarily handles cargo operations, charter flights, and Hajj pilgrim services.\n\nQ: Is there public transportation to the airport?\nA: Options are limited compared to Imam Khomeini Airport; travelers typically rely on taxis or pre-arranged private transfers.\n\nQ: Are there hotels near the airport?\nA: Accommodation is available in nearby Karaj city, though options near the airport itself are limited; many travelers stay in Tehran.",
+  "transport_tips": "The most practical option is a pre-booked taxi or private transfer from Tehran or Karaj, as public transit connections are sparse. Travelers should allow extra time during peak Tehran traffic, particularly on weekends (Thursday afternoons and Fridays). Ride-hailing apps like Snapp and Tapsi may not reliably serve the airport, so arranging a return vehicle in advance is recommended.",
+  "local_tip": "If traveling during summer, carry a light jacket—Karaj sits at a higher elevation than Tehran and the airport area can feel noticeably cooler in the evenings, especially near the airfield due to open terrain.",
+  "generatedAt": "2026-06-28T23:54:44.754Z",
+  "model": "MiniMax-M3"
+}

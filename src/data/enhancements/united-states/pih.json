@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PIH",
+    "icao": "KPIH",
+    "name": "Pocatello Regional Airport",
+    "country": "United States",
+    "city": "Pocatello",
+    "lat": 42.9098,
+    "lon": -112.596,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Pocatello Regional Airport (PIH) serves the city of Pocatello in southeastern Idaho, acting as a key gateway for the region's outdoor recreation and Idaho State University travel. The airport supports general aviation, commercial service, and cargo operations across its medium-sized facility. Its location near the Portneuf River valley places it within easy reach of Yellowstone and Grand Teton national parks.",
+  "faqs": "Q: What airlines serve Pocatello Regional Airport?\nA: Delta Connection, operated by SkyWest Airlines, offers daily regional flights to Salt Lake City International Airport.\n\nQ: How far is the airport from downtown Pocatello?\nA: The airport is approximately 7 miles northwest of downtown Pocatello, typically a 15-minute drive.\n\nQ: Does PIH have rental car services on site?\nA: Yes, rental car counters are available in the terminal for major providers serving the region.\n\nQ: Is there a restaurant or food service in the terminal?\nA: The terminal has limited concessions, so travelers may want to grab food before arriving at the airport.\n\n",
+  "transport_tips": "Rental cars are the most convenient option for exploring the wider region, as public transit options to the airport are limited. Taxi and ride-share services are available but should be booked in advance for early morning flights. The airport is easily accessed via Interstate 86 and US-30.",
+  "local_tip": "If you have a long layover or early arrival, the Idaho Museum of Natural History on the Idaho State University campus is a short drive from the airport and offers fascinating regional exhibits.",
+  "generatedAt": "2026-06-29T04:13:28.988Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MVO",
+    "icao": "FTTM",
+    "name": "Mongo Airport",
+    "country": "Chad",
+    "city": "Mongo",
+    "lat": 12.1705,
+    "lon": 18.6756,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mongo Airport (MVO) is a small regional airport serving Mongo, the capital of Guéra Region in central Chad. It functions primarily as a domestic transport link for the regional administrative center and the surrounding communities of the Guéra Mountains area. The airport features a single runway and supports limited scheduled and charter operations.",
+  "faqs": "Q: What is the IATA code for Mongo Airport?\nA: The IATA code is MVO, and the ICAO code is FTTM.\n\nQ: Are there commercial flights to Mongo Airport?\nA: Commercial service is limited, with occasional domestic flights operated by regional carriers. Travelers should check current schedules with local airlines.\n\nQ: Where is Mongo located in Chad?\nA: Mongo is the capital of Guéra Region in central Chad, situated south of the capital N'Djamena.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, facilities are minimal, typically including a basic terminal building and limited passenger amenities.",
+  "transport_tips": "Ground transport options from Mongo Airport are limited, so arranging a vehicle in advance through a hotel or local contact is recommended. The airport is located a short distance from the town center of Mongo. Road conditions in the region can vary, especially during the rainy season.",
+  "local_tip": "If you're visiting the Guéra Region, consider extending your trip to explore nearby attractions such as the Guéra Mountains and traditional villages, as Mongo serves as a gateway to some of Chad's less-visited landscapes.",
+  "generatedAt": "2026-06-27T13:43:08.813Z",
+  "model": "MiniMax-M3"
+}

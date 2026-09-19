@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RAK",
+    "icao": "GMMX",
+    "name": "Marrakesh Menara Airport",
+    "country": "Morocco",
+    "city": "Marrakesh",
+    "lat": 31.6048,
+    "lon": -8.0358,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Marrakesh Menara Airport (RAK) is the primary international gateway to Morocco's fourth-largest city, located roughly 3 km southwest of the medina. It serves as a key hub for Royal Air Maroc and handles a high volume of European tourist traffic thanks to Marrakesh's status as a top North African destination. The airport features a modern main terminal (Terminal 1) and a newer Terminal 2 opened to accommodate growing passenger numbers.",
+  "faqs": "Q: How far is Marrakesh Menara Airport from the city center?\nA: The airport is approximately 3 km southwest of the Medina, making it one of the closest major airports to a historic city center. Most central riads and hotels are reachable within 10-15 minutes by taxi.\n\nQ: Does the airport have free Wi-Fi?\nA: Yes, complimentary Wi-Fi is available throughout the terminal, though connection speeds can vary during peak travel times.\n\nQ: Are there currency exchange counters at RAK?\nA: Yes, several banks and exchange bureaus operate in both the arrivals and departures halls, offering Moroccan dirham conversions. ATMs are also widely available.\n\nQ: Which airlines operate the most flights to Marrakesh Menara?\nA: Royal Air Maroc uses RAK as a focus city, and it is heavily served by European carriers including Ryanair, easyJet, Air France, Iberia, and Transavia, along with seasonal charter flights from the UK and Scandinavia.",
+  "transport_tips": "Official grand taxis (beige-colored) are available outside the terminal and offer fixed or metered fares to the medina; confirm the price before departing. The airport is also connected to the city via the Alsa bus line, which is significantly cheaper but slower. For travelers heading to other Moroccan cities, train and bus stations are about 10-15 minutes away by taxi.",
+  "local_tip": "If you have a layover or early arrival, the Menara Gardens and its iconic 12th-century reflecting pool are just a 5-minute taxi ride from the airport and offer a peaceful introduction to Marrakesh before the bustle of the medina.",
+  "generatedAt": "2026-06-28T18:13:18.439Z",
+  "model": "MiniMax-M3"
+}

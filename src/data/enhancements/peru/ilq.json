@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ILQ",
+    "icao": "SPLO",
+    "name": "General Jorge Fernandez Maldon Airport",
+    "country": "Peru",
+    "city": "Ilo",
+    "lat": -17.695,
+    "lon": -71.344,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "General Jorge Fernandez Maldon Airport (ILQ/SPLO) is a regional airport serving Ilo, an important port city in the Moquegua region of southern Peru. The airport supports the local economy, which is driven by fishing, copper mining, and maritime commerce along the Pacific coast. It provides essential connectivity for both business travelers visiting the industrial zone and tourists exploring southern Peru's coastal attractions.",
+  "faqs": "Q: How far is the airport from downtown Ilo?\nA: The airport is located just a few kilometers from Ilo's city center, making the journey typically short by taxi or private vehicle.\n\nQ: Are there commercial flights operating from this airport?\nA: The airport handles primarily domestic regional flights, with service levels that may vary based on demand and season.\n\nQ: What facilities are available at the terminal?\nA: As a medium-sized regional airport, it offers basic passenger amenities including a small waiting area and check-in services.\n\nQ: Is the airport open to international flights?\nA: The airport is primarily used for domestic operations, serving the southern Peruvian coast.",
+  "transport_tips": "Taxis are the most common way to reach the airport from Ilo and are readily available throughout the city. Travelers heading to nearby mining operations or the port area should arrange transportation in advance, as these industrial zones are some distance from town. Rental cars and private transfers can typically be booked through local agencies or hotels.",
+  "local_tip": "If you have time before your flight, visit the Malecón de Ilo, a scenic coastal walkway with ocean views and local food stalls offering fresh seafood ceviche at a fraction of Lima prices.",
+  "generatedAt": "2026-06-29T21:24:40.630Z",
+  "model": "MiniMax-M3"
+}

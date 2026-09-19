@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KHE",
+    "icao": "UKOH",
+    "name": "Kherson International Airport",
+    "country": "Ukraine",
+    "city": "Kherson",
+    "lat": 46.6758,
+    "lon": 32.5064,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Kherson International Airport serves the southern Ukrainian city of Kherson, located near the mouth of the Dnipro River and not far from the Black Sea coast. The medium-sized facility handles regional flights and historically served as a gateway to the Kherson region's agricultural and coastal areas. Operations have been significantly impacted by regional conflict, limiting commercial activity in recent years.",
+  "faqs": "Q: Where is Kherson International Airport located?\nA: The airport is situated in southern Ukraine, approximately 7-10 kilometers east of the city center of Kherson, near the Dnipro River delta.\n\nQ: What is the airport code for Kherson?\nA: The IATA code is KHE and the ICAO code is UKOH.\n\nQ: Does Kherson Airport currently operate commercial flights?\nA: Commercial operations have been severely limited due to ongoing conflict in the region. Travelers should check the latest official advisories before planning any travel to this area.\n\nQ: What facilities does the airport offer?\nA: As a medium-sized regional airport, it typically provides standard passenger amenities including a terminal building, basic food and beverage options, and ground transportation access.\n\n",
+  "transport_tips": "Ground transportation to and from the airport typically consists of taxi services and private transfers, as Kherson does not have a metro system. The journey to central Kherson takes roughly 15-20 minutes by car depending on traffic. Travelers should arrange return transport in advance, as ride-hailing availability at smaller regional airports can be inconsistent.",
+  "local_tip": "Given the conflict situation in the Kherson region, always verify the current security and operational status before traveling, and consider registering with your embassy if visiting Ukraine during this period.",
+  "generatedAt": "2026-06-29T23:58:18.716Z",
+  "model": "MiniMax-M3"
+}

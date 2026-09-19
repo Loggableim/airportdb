@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LEW",
+    "icao": "KLEW",
+    "name": "Auburn Lewiston Municipal Airport",
+    "country": "United States",
+    "city": "Auburn/Lewiston",
+    "lat": 44.0485,
+    "lon": -70.2835,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Auburn Lewiston Municipal Airport (LEW) is a small general aviation facility serving the twin cities of Auburn and Lewiston in south-central Maine. The airport primarily accommodates private aircraft, flight training, charter flights, and corporate aviation, with no scheduled commercial service. It provides convenient air access for the Lewiston-Auburn metropolitan area, home to Bates College and a rich Franco-American heritage.",
+  "faqs": "Q: Does Auburn Lewiston Municipal Airport have commercial airline service?\nA: No, LEW is a general aviation airport with no scheduled commercial passenger flights. Travelers typically use Portland International Jetport (PWM), about 35 miles south, for commercial service.\n\nQ: What services are available at the airport?\nA: The airport offers fuel (100LL and Jet A), aircraft maintenance, hangar rentals, flight instruction, and tiedowns. A pilots' lounge is typically available on-site.\n\nQ: How many runways does LEW have?\nA: The airport has a single asphalt runway, Runway 4/22, which is approximately 5,000 feet long.\n\nQ: Is there an air traffic control tower?\nA: No, LEW is a non-towered airport. Pilots use the common traffic advisory frequency (CTAF) to coordinate movements.",
+  "transport_tips": "Ground transportation options are limited due to the airport's small size and general aviation focus. Rental cars can typically be arranged in advance through providers serving the Lewiston-Auburn area. Taxi services and rideshare apps like Uber and Lyft are available but may have longer wait times; booking ahead is recommended.",
+  "local_tip": "If visiting the area, take time to explore Lisbon Street in Lewiston for authentic Franco-American bakeries and diners, and check out the nearby Thorncrag Nature Sanctuary for an easy hike just minutes from the airport.",
+  "generatedAt": "2026-06-27T01:48:21.992Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MOY",
+    "icao": "",
+    "name": "Monterrey Airport",
+    "country": "Colombia",
+    "city": "Monterrey",
+    "lat": 4.9069,
+    "lon": -72.8948,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Monterrey Airport (MOY) is a small regional airport serving the municipality of Monterrey in Colombia's Casanare Department, situated in the eastern llanos (plains) region. The airport supports the local oil industry and cattle ranching economy that define this part of central-eastern Colombia. It functions primarily as a gateway for workers traveling to and from the surrounding energy and agricultural operations.",
+  "faqs": "Q: What is the IATA code for Monterrey Airport?\nA: The IATA code is MOY. The airport does not have an assigned ICAO code.\n\nQ: What airlines operate at Monterrey Airport?\nA: The airport primarily handles charter and regional flights, with services typically catering to the local oil and agricultural industries rather than scheduled commercial routes.\n\nQ: Where is Monterrey Airport located?\nA: It is located near the town of Monterrey in the Casanare Department of Colombia, at coordinates approximately 4.907°N, 72.895°W, within the llanos region of the country.\n\nQ: What facilities does the airport offer?\nA: As a small airport with a size score of 50, it offers basic terminal facilities suitable for short regional flights, without extensive commercial amenities.",
+  "transport_tips": "Ground transportation options are limited, so arranging a pickup with a local contact, hotel, or employer in advance is recommended. Taxis and informal transport are typically available outside the terminal during flight arrivals. The roads connecting Monterrey to nearby cities like Yopal can be unpaved in sections, so travel during daylight hours is advisable.",
+  "local_tip": "The llanos region surrounding Monterrey is famous for its wildlife and traditional llanero cowboy culture—ask locals about nearby fincas where you can experience horse riding and see capybara or caiman in their natural habitat.",
+  "generatedAt": "2026-06-28T03:55:35.643Z",
+  "model": "MiniMax-M3"
+}

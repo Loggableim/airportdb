@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LAM",
+    "icao": "KLAM",
+    "name": "Los Alamos Airport",
+    "country": "United States",
+    "city": "Los Alamos",
+    "lat": 35.8798,
+    "lon": -106.269,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Los Alamos Airport is a small general aviation facility serving the historic community of Los Alamos, New Mexico, best known as the birthplace of the atomic bomb and home to Los Alamos National Laboratory. Situated on a mesa at approximately 7,170 feet elevation, the airport features a single asphalt runway and caters primarily to private pilots, business travelers, and charter flights. Its scenic high-desert setting offers striking views of the surrounding Jemez Mountains and Pajarito Plateau.",
+  "faqs": "Q: Does Los Alamos Airport offer commercial airline service?\nA: No, LAM is a general aviation airport with no scheduled commercial flights. Travelers typically fly into Albuquerque International Sunport or Santa Fe Regional Airport and drive or arrange ground transport.\n\nQ: How high is Los Alamos Airport?\nA: The airport sits at approximately 7,171 feet above sea level, making it one of the higher-elevation airports in New Mexico. Pilots should be aware of density altitude considerations.\n\nQ: What facilities are available at the airport?\nA: The airport offers tie-downs, limited fuel services, and basic amenities, but no large terminal or rental car counters on site. Pilots should arrange ground transportation in advance.\n\nQ: Can visitors walk around the airport area?\nA: The airport is operational and fenced; visitors without flight purposes should coordinate access with airport management or local aviation contacts.",
+  "transport_tips": "Since there is no commercial service, travelers usually drive from Santa Fe (about 25 miles southeast) or Albuquerque (roughly 90 miles south) via US-84/285. Rental cars are not available on-site, so arrangements should be made in advance from larger nearby cities. Taxi and rideshare options are limited in Los Alamos due to the small population, so booking ahead is recommended.",
+  "local_tip": "Combine your airport visit with a stop at nearby Bandelier National Monument, just minutes from the field, where you can explore ancient Pueblo cliff dwellings and scenic canyons—a perfect way to break up a travel day.",
+  "generatedAt": "2026-06-27T06:13:04.178Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YIA",
+    "icao": "WAHI",
+    "name": "Yogyakarta International Airport",
+    "country": "Indonesia",
+    "city": "Yogyakarta",
+    "lat": -7.9053,
+    "lon": 110.0573,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Yogyakarta International Airport (YIA) is the primary gateway to Indonesia's Yogyakarta Special Region, located on the southern coast of Java in Kulon Progo Regency. Opened in 2020, it replaced the smaller Adisucipto International Airport to accommodate growing tourism and offers contemporary facilities with architectural elements inspired by traditional Javanese design. The airport serves as the main entry point for visitors exploring cultural landmarks such as Borobudur and Prambanan temples.",
+  "faqs": "Q: How far is YIA from Yogyakarta city center?\nA: The airport is approximately 40 km west of Yogyakarta city center, with a typical journey taking 60 to 90 minutes depending on traffic.\n\nQ: Does YIA operate international flights?\nA: Yes, YIA handles both domestic and international flights, serving routes to Malaysia, Singapore, and other regional destinations in addition to Indonesian cities.\n\nQ: Are there hotels near the airport?\nA: Several transit hotels and budget accommodations are available in the surrounding Kulon Progo area, with more options in Yogyakarta city itself.\n\nQ: Can I find direct transportation to Borobudur from YIA?\nA: Direct shuttle and taxi services are available to Borobudur, though travelers may also connect through the city center.",
+  "transport_tips": "The DAMRI airport bus offers affordable service between YIA and Yogyakarta city center with several stops including Malioboro. Pre-booked taxis and ride-hailing services like Grab are available at designated pickup zones. For flexibility, renting a car at the airport is recommended if you plan to visit multiple destinations such as Borobudur or the southern beaches.",
+  "local_tip": "Visit the airport's cultural display area on the upper floor, which showcases rotating exhibitions of batik, traditional Javanese art, and regional crafts — it's a free and often-overlooked way to start your cultural journey before even leaving the terminal.",
+  "generatedAt": "2026-06-29T00:11:41.410Z",
+  "model": "MiniMax-M3"
+}

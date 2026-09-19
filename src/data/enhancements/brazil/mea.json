@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MEA",
+    "icao": "SBME",
+    "name": "Macaé Benedito Lacerda Airport",
+    "country": "Brazil",
+    "city": "Macaé",
+    "lat": -22.343,
+    "lon": -41.766,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Macaé Benedito Lacerda Airport (MEA/SBME) serves the city of Macaé in Rio de Janeiro state, Brazil, a key hub for the country's offshore oil and gas industry. The airport primarily facilitates business travel related to Petrobras operations and the surrounding petroleum sector, which drives much of the regional economy. It features a single asphalt runway and handles a mix of scheduled regional flights and general aviation traffic.",
+  "faqs": "Q: Where is Macaé Benedito Lacerda Airport located?\nA: The airport is located in Macaé, in the northern region of Rio de Janeiro state, Brazil, approximately 5 km from the city center.\n\nQ: What is the airport mainly used for?\nA: It primarily serves the offshore oil and gas industry, with many passengers being workers traveling to platforms and facilities in the Campos Basin.\n\nQ: Are there international flights at MEA?\nA: The airport mainly handles domestic regional flights, with no scheduled international service. Most connections route through Rio de Janeiro or São Paulo.\n\nQ: How busy is the airport?\nA: It is a medium-sized regional airport with steady business traffic but relatively low commercial passenger volume compared to major Brazilian hubs.\n\n",
+  "transport_tips": "Taxis and ride-hailing apps are the most convenient options for getting to and from the airport, as public bus service is limited. The drive to downtown Macaé takes roughly 10-15 minutes depending on traffic. Rental car agencies are available at the terminal for those traveling to nearby coastal destinations or oil industry facilities.",
+  "local_tip": "If you're visiting oil platforms or offshore facilities, schedule flights for early morning, as shift-change traffic can make afternoon departures crowded and delays more common.",
+  "generatedAt": "2026-06-29T15:21:03.642Z",
+  "model": "MiniMax-M3"
+}

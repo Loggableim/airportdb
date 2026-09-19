@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YSC",
+    "icao": "CYSC",
+    "name": "Sherbrooke Airport",
+    "country": "Canada",
+    "city": "Sherbrooke",
+    "lat": 45.4386,
+    "lon": -71.6914,
+    "type": "medium_airport",
+    "size": 275
+  },
+  "summary": "Sherbrooke Airport serves the city of Sherbrooke in Quebec's scenic Eastern Townships, providing regional access to this historic university city. The airport primarily handles general aviation, charter flights, and serves as a base for flight training operations. Its location near the U.S. border makes it a convenient gateway for cross-border travelers heading to Vermont or New Hampshire.",
+  "faqs": "Q: What types of flights operate from Sherbrooke Airport?\nA: The airport primarily serves general aviation, private flights, charter operations, and flight training activities rather than scheduled commercial service.\n\nQ: How far is the airport from downtown Sherbrooke?\nA: Sherbrooke Airport is located approximately 10 kilometers east of the city center, with a typical drive taking around 15-20 minutes depending on traffic.\n\nQ: Are there customs and immigration services available?\nA: The airport handles some international general aviation flights, but customs services are typically arranged in advance rather than being available on a regular schedule.\n\nQ: Does the airport have fuel services?\nA: Yes, the airport provides aviation fuel services (Avgas and Jet A) for transient and based aircraft during operational hours.\n\n",
+  "transport_tips": "Renting a car is the most practical option for travelers arriving at Sherbrooke Airport, as there is no regular public transit service to the terminal. Taxi and rideshare services are available but should be pre-arranged, especially for early morning or late-night arrivals. The quick drive into Sherbrooke via local roads makes it easy to reach downtown or connect to Autoroute 10 for trips to Montreal in roughly 90 minutes.",
+  "local_tip": "If you're flying in for a visit, consider timing your trip with the Sherbrooke Saint-Jean-Baptiste celebration in late June—the city comes alive with festivities that showcase the unique blend of Quebec's French heritage and the Eastern Townships' distinctive English-influenced culture.",
+  "generatedAt": "2026-06-30T03:51:33.036Z",
+  "model": "MiniMax-M3"
+}

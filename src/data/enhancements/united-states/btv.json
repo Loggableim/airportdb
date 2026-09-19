@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BTV",
+    "icao": "KBTV",
+    "name": "Patrick Leahy Burlington International Airport",
+    "country": "United States",
+    "city": "Burlington",
+    "lat": 44.4719,
+    "lon": -73.1533,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Patrick Leahy Burlington International Airport (BTV) is the largest and busiest airport in Vermont, serving the greater Burlington metropolitan area near the Canadian border. Renamed in 2018 after the long-serving U.S. Senator Patrick Leahy, the airport sits along the shores of Lake Champlain and offers commercial service to numerous domestic destinations. It serves as a key gateway for tourism to Vermont's Green Mountains and the Lake Champlain region.",
+  "faqs": "Q: How far is Burlington Airport from downtown Burlington?\nA: The airport is approximately 3 miles east of downtown Burlington, making it a quick 10-15 minute drive depending on traffic.\n\nQ: Which airlines operate from BTV?\nA: Major carriers serving the airport include United, Delta, American, JetBlue, Southwest, and Allegiant, offering flights to hub cities and seasonal destinations.\n\nQ: Does the airport offer international flights?\nA: BTV primarily handles domestic flights, though it has U.S. Customs and Border Protection facilities for limited international general aviation arrivals.\n\nQ: Is there free parking available at Burlington Airport?\nA: Yes, the airport offers both short-term and long-term parking lots, with shuttle service available from the economy lots to the terminal.\n\n",
+  "transport_tips": "Rideshare services like Uber and Lyft are available and typically provide the fastest and most convenient transfer to downtown Burlington or nearby South Burlington hotels. Local Green Mountain Transit buses also serve the airport with affordable connections into the city. Rental car counters are located on-site, which is recommended for travelers heading to ski resorts or exploring rural Vermont.",
+  "local_tip": "Grab a slice of Vermont cheddar or a maple creemee from one of the local vendors in the terminal—it's a great way to sample regional flavors before even leaving the airport, especially if you're flying out early before exploring the city.",
+  "generatedAt": "2026-06-29T01:53:49.599Z",
+  "model": "MiniMax-M3"
+}

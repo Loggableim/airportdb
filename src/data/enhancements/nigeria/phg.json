@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PHG",
+    "icao": "DNPM",
+    "name": "Port Harcourt City Airport / Port Harcourt Air Force Base",
+    "country": "Nigeria",
+    "city": "Port Harcourt",
+    "lat": 4.8461,
+    "lon": 7.0214,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Port Harcourt City Airport (PHG), also known as Port Harcourt Air Force Base, is a dual-use airfield serving both civilian aviation and the Nigerian Air Force in the oil-rich Rivers State of southeastern Nigeria. Located just minutes from the Port Harcourt city center, it functions as a secondary facility to the larger Port Harcourt International Airport (PHC), handling select domestic flights and military operations. Its proximity to the city makes it a convenient option for travelers heading into central Port Harcourt rather than the more distant international airport.",
+  "faqs": "Q: What is the difference between Port Harcourt City Airport (PHG) and Port Harcourt International Airport (PHC)?\nA: PHG is a smaller city-based airport and military airbase located near central Port Harcourt, while PHC is the main international airport serving the region and is located farther from the city. Most commercial international and major domestic flights use PHC.\n\nQ: Does Port Harcourt City Airport handle international flights?\nA: PHG primarily handles limited domestic scheduled and charter flights alongside Nigerian Air Force operations. Most international travelers use Port Harcourt International Airport (PHC) instead.\n\nQ: Are there military operations at PHG?\nA: Yes, the facility shares its runway and infrastructure with the Nigerian Air Force, and military activity can occasionally affect civilian flight schedules.\n\nQ: What facilities are available at the terminal?\nA: As a smaller secondary airport, PHG offers basic terminal amenities including a small waiting area, ticketing counters, and minimal concessions rather than the full range of services found at larger Nigerian airports.",
+  "transport_tips": "The airport's location close to Port Harcourt city center makes taxi rides short and affordable, typically 10 to 20 minutes depending on traffic. Ride-hailing apps operate in Port Harcourt and can be a convenient option for pre-booked pickups. Travelers should confirm ground transportation in advance, as PHG is smaller and offers fewer on-site transport options than the main international airport.",
+  "local_tip": "Frequent flyers recommend checking which terminal your airline actually uses—Port Harcourt has two airports and flight bookings sometimes get confused between PHG and P",
+  "generatedAt": "2026-06-29T22:51:53.243Z",
+  "model": "MiniMax-M3"
+}

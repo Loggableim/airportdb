@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AWZ",
+    "icao": "OIAW",
+    "name": "Qasem Soleimani International Airport",
+    "country": "Iran",
+    "city": "Ahvaz",
+    "lat": 31.3364,
+    "lon": 48.7638,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Qasem Soleimani International Airport (AWZ) is the main gateway to Ahvaz, the capital of Iran's oil-rich Khuzestan Province in the southwest of the country. The airport serves a region central to Iran's petroleum industry and handles a significant volume of domestic traffic along with some regional international routes. It was renamed in honor of Major General Qasem Soleimani following his death in January 2020.",
+  "faqs": "Q: How far is the airport from Ahvaz city center?\nA: The airport is located approximately 10 kilometers (6 miles) northwest of central Ahvaz, making it a short drive from most parts of the city.\n\nQ: Does the airport offer international flights?\nA: Yes, alongside its robust domestic network serving cities like Tehran, Mashhad, and Isfahan, the airport operates limited international flights to destinations in the Persian Gulf region.\n\nQ: Are there facilities for long-haul travelers?\nA: The terminal provides standard amenities including cafes, shops, prayer rooms, and banking services, though options are more limited compared to Tehran's larger international airports.\n\nQ: Is the airport affected by weather conditions?\nA: Ahvaz's extreme summer heat, with temperatures frequently exceeding 45°C (113°F), can occasionally cause flight delays, particularly during midday hours.",
+  "transport_tips": "Taxis are the most common way to reach the city center, with the journey typically taking 20-30 minutes depending on traffic. Ride-hailing apps like Snapp operate in Ahvaz and can be used to arrange pickups from designated zones outside the terminal. Negotiating a fixed fare before departure is advisable, as metered taxis are not always available.",
+  "local_tip": "If traveling during the peak summer months, plan to arrive at the airport well in advance as the intense heat can slow ground operations and lead to unexpected delays.",
+  "generatedAt": "2026-06-28T23:38:46.542Z",
+  "model": "MiniMax-M3"
+}

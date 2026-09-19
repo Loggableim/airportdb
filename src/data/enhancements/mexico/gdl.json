@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GDL",
+    "icao": "MMGL",
+    "name": "Guadalajara International Airport",
+    "country": "Mexico",
+    "city": "Guadalajara",
+    "lat": 20.5233,
+    "lon": -103.3101,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Guadalajara International Airport (GDL), officially named Miguel Hidalgo y Costilla International Airport, is the main air gateway to Mexico's second-largest metropolitan area and a key hub for western Mexico. It serves as a primary base for Volaris and handles significant domestic traffic along with growing international connections to the United States, Canada, and beyond. The airport is located approximately 17 kilometers south of Guadalajara's historic city center in the state of Jalisco.",
+  "faqs": "Q: How far is Guadalajara Airport from the city center?\nA: The airport is located about 17 km (10.5 miles) south of downtown Guadalajara, typically a 20-40 minute drive depending on traffic.\n\nQ: Does the airport have international flights?\nA: Yes, GDL offers international flights primarily to destinations in the United States and Canada, along with select routes to other Latin American countries and seasonal European service.\n\nQ: Is there public transportation available from the airport?\nA: Yes, the SITEUR (light rail) Macrobús service and various bus lines connect the airport to central Guadalajara, though many travelers prefer taxis or ride-shares for convenience with luggage.\n\nQ: How many terminals does Guadalajara Airport have?\nA: The airport operates two terminals (T1 and T2) that handle both domestic and international flights, connected by walkways and shuttle services.",
+  "transport_tips": "Authorized airport taxis operate from designated stands outside the terminals and offer fixed rates to different zones in the city—always confirm the price before boarding. Ride-sharing services like Uber and DiDi are widely available and typically more affordable than taxis, with designated pickup areas at each terminal. Rental car agencies are located in the airport, and having a car is useful if you plan to explore destinations like Tequila, Tlaquepaque, or Lake Chapala.",
+  "local_tip": "If you have a layover or early arrival, skip the airport hotel chains and head to the nearby Hotel NH Collection Guadalajara Airport, which is walking distance from the terminals and offers day-use rates for freshening up between flights.",
+  "generatedAt": "2026-06-28T16:34:29.208Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PSB",
+    "icao": "KPSB",
+    "name": "Mid-State Regional Airport",
+    "country": "United States",
+    "city": "Philipsburg",
+    "lat": 40.8844,
+    "lon": -78.0873,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mid-State Regional Airport (PSB) is a small public-use general aviation airport serving Philipsburg and the surrounding central Pennsylvania region. It primarily accommodates private aircraft, flight training, and recreational flying rather than scheduled commercial service. The airport provides an important aviation gateway for communities in Clearfield and Centre counties, supporting local business travel and general aviation activities.",
+  "faqs": "Q: Does Mid-State Regional Airport offer commercial flights?\nA: No, PSB is a general aviation airport with no scheduled commercial passenger service. It primarily serves private pilots, flight training, and charter operations.\n\nQ: Where is the airport located?\nA: The airport is situated near Philipsburg, Pennsylvania, in central PA, accessible from US Route 322 and I-80 nearby.\n\nQ: Are there aircraft rental or flight school services available?\nA: Yes, the airport typically supports flight training and aircraft rental through based operators, making it a useful resource for student pilots in the region.\n\nQ: Can I drive and park at the airport?\nA: Yes, the airport offers on-site parking with free access for visitors, pilots, and those meeting arriving passengers.",
+  "transport_tips": "The airport is best reached by personal vehicle, as there is no public transit serving the airfield. Drivers coming from State College or Clearfield can use US Route 322, while I-80 travelers should exit at the Philipsburg interchange. Taxi and rideshare options may be limited, so arranging ground transport in advance is recommended for those without a car.",
+  "local_tip": "Before flying in, check the airport's AWOS frequency for current conditions, as central Pennsylvania's surrounding ridges can produce sudden weather changes and afternoon mountain turbulence even on clear mornings.",
+  "generatedAt": "2026-06-27T10:14:20.638Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "USM",
+    "icao": "VTSM",
+    "name": "Samui International Airport",
+    "country": "Thailand",
+    "city": "Na Thon (Ko Samui Island)",
+    "lat": 9.5478,
+    "lon": 100.062,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Samui International Airport (USM) is a privately operated facility on Ko Samui Island in the Gulf of Thailand, owned and primarily served by Bangkok Airways since its opening in 1989. It is notable for its open-air terminal design, reflecting the island's tropical resort character, and handles international flights despite a relatively short runway that restricts aircraft size. The airport is one of the few privately owned international airports in the world and serves as the main gateway to one of Thailand's most popular island destinations.",
+  "faqs": "Q: Which airlines operate from Samui International Airport?\nA: Bangkok Airways is the dominant carrier, operating most domestic and regional routes, with additional services by Thai Airways, Thai VietJet, and a few other regional carriers.\n\nQ: Does the airport handle international flights?\nA: Yes, USM has immigration and customs facilities and operates international flights to destinations including Singapore, Kuala Lumpur, Hong Kong, and select cities in China.\n\nQ: How far is the airport from popular beaches?\nA: Chaweng and Lamai beaches are approximately 10-20 minutes by car, while Bophut and Maenam are closer. Travel times depend on traffic and road conditions on the island.\n\nQ: Can large aircraft land at Samui Airport?\nA: The runway is relatively short, limiting operations mainly to Boeing 737, Airbus A320 family aircraft, and similar narrow-body jets. Wide-body aircraft generally cannot use the airport.",
+  "transport_tips": "Taxis and songthaews (shared pickup trucks) are available outside the terminal and are the primary way to reach resorts across the island. Hotel transfer services can be pre-booked and are often more convenient than arranging transport on arrival. The airport is about 20 km from Chaweng Beach and roughly 10 km from Nathon Pier, where ferry connections to the mainland depart.",
+  "local_tip": "Pack light and wear breathable clothing; the terminals are largely open-air with ceiling fans instead of full air-conditioning, which can feel warm during peak afternoon hours but adds to the relaxed island atmosphere.",
+  "generatedAt": "2026-06-28T19:03:18.289Z",
+  "model": "MiniMax-M3"
+}

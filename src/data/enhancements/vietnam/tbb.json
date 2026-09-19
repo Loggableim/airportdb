@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TBB",
+    "icao": "VVTH",
+    "name": "Dong Tac Airport",
+    "country": "Vietnam",
+    "city": "Tuy Hoa",
+    "lat": 13.0496,
+    "lon": 109.334,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Dong Tac Airport (TBB) serves Tuy Hoa, the capital of coastal Phu Yen Province in south-central Vietnam, providing essential air links between the region and major hubs like Hanoi and Ho Chi Minh City. Originally developed as a military airbase, it now functions as a dual-use civil-military facility handling both civilian and Vietnamese Air Force operations. The airport's proximity to Phu Yen's scenic coastline and historical Cham-era sites makes it a quieter gateway for travelers exploring this lesser-visited part of Vietnam.",
+  "faqs": "Q: What airlines operate from Dong Tac Airport?\nA: Vietnam Airlines and its subsidiary VASCO operate the majority of scheduled flights, with regular service to Hanoi (HAN) and Ho Chi Minh City (SGN).\n\nQ: How far is Dong Tac Airport from Tuy Hoa city center?\nA: The airport lies approximately 10 km south of central Tuy Hoa, typically a 15-20 minute drive depending on traffic.\n",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T15:55:41.849Z",
+  "model": "MiniMax-M3"
+}

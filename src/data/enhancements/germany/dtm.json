@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DTM",
+    "icao": "EDLW",
+    "name": "Dortmund Airport",
+    "country": "Germany",
+    "city": "Dortmund",
+    "lat": 51.5183,
+    "lon": 7.6122,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Dortmund Airport is a regional international airport serving the eastern Ruhr area and Westphalia in western Germany. Originally developed from a former military airfield, it today operates primarily as a base for low-cost and charter carriers, offering travelers a convenient alternative to the busier Düsseldorf and Cologne-Bonn airports. Its compact terminal and efficient operations make it popular for short-haul European routes.",
+  "faqs": "Q: What airlines operate from Dortmund Airport?\nA: Dortmund is served mainly by low-cost carriers such as Wizz Air, Ryanair, and Eurowings, along with several seasonal charter flights to holiday destinations.\n\nQ: How far is Dortmund Airport from the city center?\nA: The airport is located approximately 10 kilometers (about 6 miles) east of central Dortmund, reachable in roughly 20 minutes by car or shuttle bus.\n\nQ: Does Dortmund Airport have rail connections?\nA: There is no direct train station at the terminal, but regional rail stations at Holzwickede and Dortmund-Sölde provide connections via a short shuttle bus ride.\n\nQ: Is Dortmund Airport open 24 hours?\nA: No, the airport operates during published flight hours and is not a 24-hour facility, so travelers should confirm terminal access times for early or late flights.\n\n",
+  "transport_tips": "The AirportShuttle bus runs frequently between the terminal and Dortmund Hauptbahnhof (central station), with a journey time of roughly 25 minutes. Taxis are readily available outside the terminal and offer",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T19:06:42.106Z",
+  "model": "MiniMax-M3"
+}

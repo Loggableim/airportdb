@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PLK",
+    "icao": "KPLK",
+    "name": "M. Graham Clark Downtown Airport",
+    "country": "United States",
+    "city": "Branson / Hollister",
+    "lat": 36.6259,
+    "lon": -93.2289,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "M. Graham Clark Downtown Airport (PLK) is a small general aviation airport located in Hollister, Missouri, serving the popular tourist destination of Branson just across the Lake Taneycomo bridge. Named after a former Missouri state senator and aviation advocate, the airport functions as a convenient gateway for private and corporate aircraft visiting the Branson entertainment district. Its downtown proximity and scenic location near Table Rock Lake make it a favored entry point for visitors heading to the region's live shows, attractions, and outdoor recreation.",
+  "faqs": "Q: What is M. Graham Clark Downtown Airport primarily used for?\nA: It serves as a general aviation airport, handling private planes, corporate jets, and charter flights rather than scheduled commercial airline service.\n\nQ: Which city does PLK serve?\nA: The airport serves Branson and the adjacent town of Hollister in southwest Missouri, located near the Ozark Mountain region.\n\nQ: Are there commercial flights at this airport?\nA: No, PLK does not offer scheduled commercial passenger service; it is designed for general aviation, flight training, and private aircraft.\n\nQ: How close is the airport to Branson attractions?\nA: The airport sits just minutes from Branson's entertainment district, with Table Rock Lake and Lake Taneycomo nearby.\n\n",
+  "transport_tips": "Ground transportation is typically arranged through rental cars, ride-sharing services, or hotel shuttles, as the airport does not have a dedicated public transit connection. Taxis and pre-arranged limousine services are commonly used by visitors traveling to Branson's resorts and theaters. Since the airport is small and lacks major commercial rental counters, contacting rental agencies in advance is recommended.",
+  "local_tip": "Plan your arrival for daytime hours when possible—Hollister's location in the Ozark hills means the surrounding terrain can create tricky approaches in low-visibility conditions, and many local FBOs offer better rates with advance scheduling.",
+  "generatedAt": "2026-06-27T01:48:32.824Z",
+  "model": "MiniMax-M3"
+}

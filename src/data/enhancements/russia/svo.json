@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SVO",
+    "icao": "UUEE",
+    "name": "Sheremetyevo International Airport",
+    "country": "Russia",
+    "city": "Moscow",
+    "lat": 55.9769,
+    "lon": 37.4112,
+    "type": "large_airport",
+    "size": 1012675
+  },
+  "summary": "Sheremetyevo International Airport (SVO) is Russia's busiest airport by international passenger traffic and the main hub for flag carrier Aeroflot. Located approximately 29 km northwest of central Moscow along the Leningradskoye Highway, it operates five passenger terminals (B, C, D, E, and F) serving tens of millions of travelers annually. Originally opened in 1959, it has evolved into one of Eastern Europe's largest aviation hubs and a frequent recipient of Skytrax awards for service quality.",
+  "faqs": "Q: How far is Sheremetyevo Airport from central Moscow?\nA: The airport is located about 29 km (18 miles) northwest of Moscow's city center, typically a 45-90 minute journey depending on traffic and transport mode.\n\nQ: Which terminals does Aeroflot use at SVO?\nA: Aeroflot operates primarily from Terminal B (domestic) and Terminal D (international), which together form the airline's main hub complex.\n\nQ: Is there a train connection between Sheremetyevo and Moscow?\nA: Yes, the Aeroexpress train connects the airport to Belorussky railway station in central Moscow, with a journey time of around 35-45 minutes.\n\nQ: Does SVO operate 24 hours?\nA: Yes, Sheremetyevo handles round-the-clock flights, though terminal services and facilities may vary during nighttime hours.\n\n",
+  "transport_tips": "The Aeroexpress train from Belorussky station is the most reliable option, avoiding Moscow's notorious traffic and running every 30 minutes. Official taxis and ride-hailing apps like Yandex.Taxi offer fixed fares to the city center, typically taking 45-60 minutes outside rush hours. If driving, allow extra time during morning and evening peak hours, as the Leningradskoye Highway can experience significant congestion.",
+  "local_tip": "Terminal B and D are connected airside, allowing easy transfers between Aeroflot flights without passing through immigration again. For longer layovers, the Aeroexpress area near Terminal B offers quicker access to Moscow's center than the southern terminals, saving valuable time if",
+  "generatedAt": "2026-06-28T15:17:52.450Z",
+  "model": "MiniMax-M3"
+}

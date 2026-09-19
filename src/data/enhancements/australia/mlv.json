@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLV",
+    "icao": "YMEU",
+    "name": "Merluna Airport",
+    "country": "Australia",
+    "city": "Merluna",
+    "lat": -13.0649,
+    "lon": 142.4536,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Merluna Airport (MLV/YMEU) is a small rural airfield serving the remote community of Merluna on the Cape York Peninsula in Far North Queensland, Australia. Situated in a sparsely populated tropical landscape, it primarily supports general aviation, charter flights, and essential access for the local community and surrounding cattle stations. The airport plays a vital role in connecting this isolated region to larger centres in Queensland.",
+  "faqs": "Q: What is Merluna Airport used for?\nA: The airport primarily serves general aviation, charter flights, and provides essential transport access for the Merluna community and nearby cattle stations in the remote Cape York region.\n\nQ: Are there scheduled commercial flights to Merluna?\nA: No scheduled commercial airline service operates to Merluna. Flights are typically charter-based or private aviation operations serving the local area.\n\nQ: What facilities are available at the airport?\nA: As a small rural airfield, Merluna Airport has limited infrastructure. There is no terminal building for commercial passengers; pilots use the runway directly for arrivals and departures.\n\nQ: What is the best way to reach Merluna?\nA: The most practical way to reach Merluna is by charter flight from Cairns or other regional centres in Far North Queensland, as road access can be challenging and weather-dependent.",
+  "transport_tips": "",
+  "local_tip": "If visiting the Cape York region, coordinate with local station owners or tour operators ahead of time—Merluna serves as a useful staging point for exploring the remote wilderness areas, but supplies and services are extremely limited, so bring everything you need.",
+  "generatedAt": "2026-06-28T03:39:17.121Z",
+  "model": "MiniMax-M3"
+}

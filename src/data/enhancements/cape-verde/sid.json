@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SID",
+    "icao": "GVAC",
+    "name": "Amílcar Cabral International Airport",
+    "country": "Cape Verde",
+    "city": "Espargos",
+    "lat": 16.7414,
+    "lon": -22.9494,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Amílcar Cabral International Airport (SID) is the main international gateway to Cape Verde, located on the island of Sal near the town of Espargos. Named after the influential West African independence leader who was born in Guinea-Bissau and championed Cape Verdean liberation, it serves as the primary hub for tourists visiting the archipelago's beaches and resort areas. The airport handles the majority of Cape Verde's international traffic, connecting the island nation with Europe, Africa, and the Americas.",
+  "faqs": "Q: How far is the airport from Santa Maria, the main tourist area?\nA: Santa Maria is approximately 15-20 minutes by taxi or shuttle from the airport, located on the southern coast of Sal Island.\n\nQ: Are there currency exchange facilities at the airport?\nA: Yes, there are exchange counters and ATMs available in the terminal, though it's often advisable to exchange some currency in advance for better rates.\n\nQ: Which airlines operate from Amílcar Cabral International Airport?\nA: The airport is served by numerous carriers including TAP Air Portugal, TUI, easyJet, Ryanair, and Cabo Verde Airlines, with regular connections to European cities.\n\nQ: Does the airport operate 24 hours?\nA: The airport handles scheduled and charter flights primarily during daytime hours, though facilities may have limited availability during overnight periods.",
+  "transport_tips": "Taxis are readily available outside the terminal and offer fixed rates to nearby destinations like Santa Maria and Espargos town. Pre-booked hotel transfers and shuttle services are recommended for tourists, often arranged through accommodations. Rental car agencies operate at the airport for visitors who prefer to explore the island independently.",
+  "local_tip": "The airport sits in a dry, flat landscape that can be windy, so pack a light jacket even when traveling to tropical Cape Verde; the breezes from the Atlantic often make waiting areas cooler than expected.",
+  "generatedAt": "2026-06-28T17:39:00.223Z",
+  "model": "MiniMax-M3"
+}

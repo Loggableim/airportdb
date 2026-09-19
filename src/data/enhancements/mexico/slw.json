@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SLW",
+    "icao": "MMIO",
+    "name": "Plan de Guadalupe International Airport",
+    "country": "Mexico",
+    "city": "Saltillo",
+    "lat": 25.5379,
+    "lon": -100.9283,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Plan de Guadalupe International Airport (SLW/MMIO) serves Saltillo, the capital city of Coahuila in northern Mexico and a major hub for the country's automotive manufacturing industry. The airport's name honors the Plan de Guadalupe, a 1913 political document signed during the Mexican Revolution by Venustiano Carranza. Sitting at roughly 1,500 meters above sea level, the airport serves as an important gateway for business travelers connected to Saltillo's industrial corridor.",
+  "faqs": "Q: How far is the airport from Saltillo city center?\nA: The airport is located approximately 15 kilometers southwest of downtown Saltillo, with typical drive times of 20 to 30 minutes depending on traffic.\n\nQ: Which airlines operate at Plan de Guadalupe International Airport?\nA: The airport primarily serves domestic routes, with carriers including Aeroméxico and Viva Aerobus operating scheduled flights to destinations such as Mexico City and other Mexican cities.\n\nQ: Is the airport affected by high altitude?\nA: Yes, Saltillo sits at around 1,500 meters elevation, which can affect flight performance and may cause mild altitude adjustment for travelers, especially during physical activity upon arrival.\n\nQ: Does the airport have international flights?\nA: Despite its international designation, the airport currently focuses on domestic service, though its infrastructure supports international operations.",
+  "transport_tips": "Taxis and rideshare services are the most reliable way to reach central Saltillo, with authorized taxi booths inside the terminal offering fixed rates. Rental cars are available on-site and recommended for visitors planning to explore the broader Coahuila region. Pre-arranging transportation is advisable as public transit options to the airport are limited.",
+  "local_tip": "If you're visiting Saltillo for business in the automotive sector, request a car with good air conditioning in summer—Coahuila's arid climate can push temperatures above 35°C, and the high-altitude sun is intense year-round.",
+  "generatedAt": "2026-06-29T08:08:42.933Z",
+  "model": "MiniMax-M3"
+}

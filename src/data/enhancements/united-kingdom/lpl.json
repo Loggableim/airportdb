@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LPL",
+    "icao": "EGGP",
+    "name": "Liverpool John Lennon Airport",
+    "country": "United Kingdom",
+    "city": "Liverpool",
+    "lat": 53.3349,
+    "lon": -2.8496,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Liverpool John Lennon Airport (LPL) is a major regional airport in northwest England, located approximately 7 miles southeast of Liverpool city center. Named after the legendary Beatle who grew up in the city, the airport is known for its musical heritage and features a life-sized bronze statue of John Lennon in the check-in hall. It serves as a key gateway for the Merseyside region, handling flights to numerous European destinations as well as some long-haul routes.",
+  "faqs": "Q: How far is the airport from Liverpool city centre?\nA: The airport is about 7 miles (11 km) southeast of the city centre, typically a 20-30 minute drive depending on traffic.\n\nQ: Does the airport have its own train station?\nA: There is no direct train station at the terminal, but Liverpool South Parkway station is nearby and connected by a regular shuttle bus service.\n\nQ: How many terminals does Liverpool John Lennon Airport have?\nA: The airport operates from a single terminal, making navigation straightforward for passengers.\n\nQ: What is the airport named after?\nA: It is named after John Lennon, co-founder of The Beatles, who was born and raised in Liverpool.",
+  "transport_tips": "The Airlink 500 bus runs frequently between Liverpool city centre, Liverpool South Parkway rail station, and the airport, offering a budget-friendly option for travellers. Taxis and ride-sharing services are readily available outside the terminal, with a journey to the city centre typically taking 20-30 minutes. Drivers should note that the airport is well-connected to the M62 motorway, with short-stay and long-stay parking options available on-site.",
+  "local_tip": "If you have time to spare before your flight, head to the departure lounge to spot the iconic bronze John Lennon statue and the Fab Four-themed décor that pays tribute to Liverpool's musical legacy.",
+  "generatedAt": "2026-06-28T18:28:20.845Z",
+  "model": "MiniMax-M3"
+}

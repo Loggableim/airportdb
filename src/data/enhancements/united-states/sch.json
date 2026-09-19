@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SCH",
+    "icao": "KSCH",
+    "name": "Schenectady County Airport",
+    "country": "United States",
+    "city": "Schenectady",
+    "lat": 42.8525,
+    "lon": -73.9289,
+    "type": "medium_airport",
+    "size": 300
+  },
+  "summary": "Schenectady County Airport is a medium-sized general aviation facility serving the Capital District of New York, located just northwest of downtown Schenectady in the Mohawk Valley region. The airport primarily supports corporate, private, and flight-training operations, serving as a convenient alternative to the busier Albany International Airport nearby. Its location makes it a popular gateway for business travelers visiting the broader Albany–Schenectady–Troy metropolitan area.",
+  "faqs": "Q: What is Schenectady County Airport primarily used for?\nA: It serves mostly general aviation, including corporate jets, private aircraft, and flight training, with no scheduled commercial passenger service.\n\nQ: How far is the airport from Albany?\nA: The airport is roughly 10–15 miles northwest of downtown Albany, making it a convenient option for the Capital District region.\n\nQ: Are there customs and immigration facilities at SCH?\nA: No, Schenectady County Airport is not a designated port of entry for international flights; international arrivals must clear customs at a nearby international airport.\n\nQ: Does the airport have a control tower?\nA: Yes, the airport operates a control tower during published hours and is served by radar approach and departure services.",
+  "transport_tips": "Rental cars are the most practical way to reach the airport, as there is no scheduled public transit service directly to the terminal. Taxis and rideshare services are available but can be limited in this suburban setting, so booking ahead is recommended. The airport is a short drive from Interstate 890, providing quick access to Schenectady, Albany, and the surrounding region.",
+  "local_tip": "For a quick bite or coffee before your flight, check out the small on-site restaurant in the terminal—it's a favorite among regular pilots and crews for its relaxed, no-rush atmosphere and views of the ramp.",
+  "generatedAt": "2026-06-30T03:07:12.423Z",
+  "model": "MiniMax-M3"
+}

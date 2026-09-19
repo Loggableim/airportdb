@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UFA",
+    "icao": "UWUU",
+    "name": "Ufa International Airport",
+    "country": "Russia",
+    "city": "Ufa",
+    "lat": 54.5575,
+    "lon": 55.8744,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Ufa International Airport (UFA/UWUU) is the primary aviation gateway to the Republic of Bashkortostan in Russia, serving the city of Ufa as its main commercial airfield. As one of the larger regional airports in the Volga-Ural region, it handles a significant volume of domestic flights along with select international connections to CIS countries and select destinations beyond. The airport has steadily expanded its terminal facilities and route network to accommodate growing passenger traffic tied to Bashkortostan's oil and industrial economy.",
+  "faqs": "Q: How far is Ufa International Airport from the city center?\nA: The airport is located approximately 14-25 km southwest of central Ufa, with typical taxi or bus rides taking 30-45 minutes depending on traffic conditions.\n\nQ: Does Ufa Airport offer international flights?\nA: Yes, alongside its robust domestic network, the airport operates international flights primarily to CIS countries, Turkey, and select Middle Eastern destinations.\n\nQ: Are there currency exchange and ATM services available at the airport?\nA: Yes, the terminal is equipped with ATMs and currency exchange counters, though carrying rubles is recommended for smoother transactions given that some local services may prefer cash.\n\nQ: What are the airport's main operating airlines?\nA: Major carriers serving Ufa include Aeroflot, S7 Airlines, UTair, RusLine, and several other Russian domestic operators, providing frequent connections to Moscow, St. Petersburg, and other Russian cities.",
+  "transport_tips": "Public bus routes 101 and 110 connect the airport to central Ufa and are an economical option for travelers, though service frequency can be limited in late evening hours. Taxis and ride-hailing services are readily available at the arrivals area, with fixed-price booths inside the terminal offering pre-arranged transfers. Travelers arriving during winter months should allow extra time as snow conditions on the route into Ufa can significantly affect travel duration.",
+  "local_tip": "If you have a layover or extended wait, ask about the small regional souvenir shops near the terminal exit, which often carry authentic Bashkir crafts including honey products and handmade items that are distinctive to this region of Russia.",
+  "generatedAt": "2026-06-28T17:07:23.148Z",
+  "model": "MiniMax-M3"
+}

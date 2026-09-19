@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RUM",
+    "icao": "VNRT",
+    "name": "Rumjatar Airport",
+    "country": "Nepal",
+    "city": "Rumjatar",
+    "lat": 27.3035,
+    "lon": 86.5504,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Rumjatar Airport is a small domestic airstrip in eastern Nepal serving the hilly region of Rumjatar in Okhaldhunga District. It primarily handles STOL (Short Take-Off and Landing) aircraft operated by Nepal's domestic carriers, connecting remote hill communities to Kathmandu and other lowland hubs. The airport is surrounded by steep ridges, making approaches weather-dependent and technically demanding.",
+  "faqs": "Q: What is the airport code for Rumjatar Airport?\nA: The IATA code is RUM and the ICAO code is VNRT.\n\nQ: Which airlines operate flights to Rumjatar?\nA: Nepalese domestic carriers such as Tara Air and Summit Air have historically operated STOL aircraft to this airport, though schedules can be irregular due to weather and demand.\n\nQ: How far is the airport from Rumjatar town?\nA: The airport is located close to Rumjatar village and serves as the main air gateway for the surrounding Okhaldhunga region.\n\nQ: Is Rumjatar Airport safe to fly into?\nA: Flights depend heavily on weather conditions due to the surrounding mountainous terrain. Travelers should expect potential delays and cancellations, especially during the monsoon season.\n\n",
+  "transport_tips": "Ground transport to and from the airport is limited, so arrange a local taxi or pickup in advance with your hotel or host. Roads connecting Rumjatar to nearby towns like Okhaldhunga can be rough and are often affected by landslides during the rainy season. If your flight is canceled, having a flexible plan for an extended stay is wise, as rebooking on the next available seat may take several days.",
+  "local_tip": "Carry your own snacks and warm layers—flights are often delayed waiting for weather windows, and the small terminal has very limited amenities or food options.",
+  "generatedAt": "2026-06-26T19:07:24.767Z",
+  "model": "MiniMax-M3"
+}

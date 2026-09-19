@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RDO",
+    "icao": "EPRA",
+    "name": "Warsaw Radom Airport",
+    "country": "Poland",
+    "city": "Radom",
+    "lat": 51.3894,
+    "lon": 21.2147,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Warsaw Radom Airport (RDO/EPRA) is a regional airfield located in the city of Radom in central Poland, approximately 100 km south of Warsaw. Originally developed as a military airbase, it transitioned to civilian use and briefly served as a low-cost carrier hub before scaling back scheduled operations. The airport features a single runway and compact terminal, primarily serving charter and seasonal flights today.",
+  "faqs": "Q: How far is Warsaw Radom Airport from central Warsaw?\nA: The airport is about 100 km south of Warsaw, roughly a 1.5 to 2 hour drive depending on traffic conditions.\n\nQ: Does the airport offer regular scheduled flights?\nA: Scheduled service has been limited in recent years, with most current activity consisting of charter and seasonal routes. Travelers should verify current schedules with airlines.\n\nQ: Is there public transport from the airport to Warsaw city center?\nA: Public transport options are limited; most passengers rely on road transfers such as bus services, taxis, or pre-booked shuttles.\n\nQ: Are there facilities like car rental at the airport?\nA: Basic ground services are available, though the terminal is small and offerings are more limited than at larger Polish airports.",
+  "transport_tips": "Renting a car or arranging a pre-booked private transfer is often the most reliable way to reach Warsaw Radom Airport due to limited scheduled public transit. If traveling to Radom city center, the journey is considerably shorter (around 10 km) and taxis are readily available. For connections to Warsaw, consider coordinating with a shuttle service that runs along the S7 expressway for the fastest route.",
+  "local_tip": "If you have flexibility on arrival time, aim for a midday or early afternoon flight slot, as early morning and late evening operations can be more affected by fog rolling into the low-lying Radom valley during autumn and winter months.",
+  "generatedAt": "2026-06-29T20:14:28.136Z",
+  "model": "MiniMax-M3"
+}

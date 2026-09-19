@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PYV",
+    "icao": "",
+    "name": "Yaviza Airport",
+    "country": "Panama",
+    "city": "Yaviza",
+    "lat": 8.1528,
+    "lon": -77.687,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Yaviza Airport (PYV) is a small airfield serving the remote town of Yaviza in Panama's Darién Province, near the infamous Darién Gap. The town marks the northern terminus of the Pan-American Highway's drivable section, making the airport a vital link for travelers and supplies heading into one of the most isolated regions in Central America. The airport primarily supports general aviation, charter flights, and emergency services due to the area's limited road access.",
+  "faqs": "Q: What is Yaviza Airport primarily used for?\nA: It mainly handles small charter flights, general aviation, and emergency or medical transport, given the remote nature of Darién Province.\n\nQ: Are there commercial airline services at PYV?\nA: No scheduled commercial airlines operate at Yaviza; flights are typically chartered or operated on an as-needed basis.\n\nQ: How remote is Yaviza?\nA: Yaviza is located deep in the Darién jungle, roughly 200 km east of Panama City, and is the last town accessible by road before the Darién Gap.\n\nQ: Is the airport safe for general aviation flights?\nA: The runway is suitable for small aircraft, but pilots should be aware of tropical weather conditions and limited navigation aids in the region.\n\n",
+  "transport_tips": "Getting to Yaviza by road requires driving from Panama City via the Pan-American Highway, a journey that takes several hours. Travelers without a vehicle typically rely on charter flights from Panama City's Albrook Airport. Once in Yaviza, local transport consists mainly of motorized boats for river travel and informal taxi services within the small town.",
+  "local_tip": "If visiting the area, stock up on supplies in Panama City or Metetí before heading to Yaviza, as shops in town carry very limited stock and prices can be significantly higher due to the remote location.",
+  "generatedAt": "2026-06-28T10:47:53.163Z",
+  "model": "MiniMax-M3"
+}

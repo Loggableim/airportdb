@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "QHV",
+    "icao": "",
+    "name": "Novo Hamburgo Airport",
+    "country": "Brazil",
+    "city": "Novo Hamburgo",
+    "lat": -29.6961,
+    "lon": -51.0817,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Novo Hamburgo Airport (QHV) is a small general aviation airport serving Novo Hamburgo, an industrial city in Rio Grande do Sul, southern Brazil, renowned as a major hub for the country's footwear and leather goods industry. The airport primarily handles private, charter, and executive flights, supporting the region's business community. It is located in the metropolitan corridor between Porto Alegre and the Serra Gaúcha region.",
+  "faqs": "Q: Does Novo Hamburgo Airport handle commercial passenger flights?\nA: No, QHV is a small general aviation airport that primarily serves private aircraft, executive jets, and occasional charter operations rather than scheduled commercial airlines.\n\nQ: How far is the airport from Porto Alegre?\nA: The airport is located approximately 40 km (25 miles) north of Porto Alegre, the state capital, within the Vale do Sinos metropolitan region.\n\nQ: What facilities are available at the airport?\nA: As a small regional airfield, facilities are limited to basic services such as a runway, hangars, and fuel availability for general aviation; there is no large passenger terminal.\n\nQ: Are there alternative airports nearby?\nA: Yes, Salgado Filho International Airport (POA) in Porto Alegre is the nearest major commercial airport, offering extensive domestic and international connections.\n\n",
+  "transport_tips": "The airport is best reached by car or taxi, as there is no regular public transit service directly to the facility. Travelers coming from Porto Alegre typically take the BR-116 highway northbound, with the journey taking around 45 to 60 minutes depending on traffic. Ride-hailing apps and pre-booked private transfers are the most reliable options for passengers without their own vehicle.",
+  "local_tip": "If you have time before or after your flight, visit one of Novo Hamburgo's footwear outlet malls—the city is considered Brazil's shoe capital, and you can find high-quality leather goods at significantly lower prices",
+  "generatedAt": "2026-06-27T13:58:40.612Z",
+  "model": "MiniMax-M3"
+}

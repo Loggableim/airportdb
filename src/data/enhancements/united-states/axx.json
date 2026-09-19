@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AXX",
+    "icao": "KAXX",
+    "name": "Angel Fire Airport",
+    "country": "United States",
+    "city": "Angel Fire",
+    "lat": 36.422,
+    "lon": -105.29,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Angel Fire Airport is a small general aviation airport nestled in the Sangre de Cristo Mountains of northern New Mexico, serving the resort village of Angel Fire in Colfax County. Sitting at one of the higher elevations for a public-use airport in the region, it primarily supports recreational flying, skier traffic during winter months, and visitors to the surrounding Moreno Valley. The airport offers a scenic mountain gateway for pilots and passengers exploring northern New Mexico's outdoor recreation areas.",
+  "faqs": "Q: What is the elevation of Angel Fire Airport?\nA: Angel Fire Airport sits at a high elevation of approximately 8,382 feet above sea level, which is an important consideration for aircraft performance and flight planning.\n\nQ: Does Angel Fire Airport have commercial airline service?\nA: No, the airport is not served by scheduled commercial airlines. It functions primarily as a general aviation facility for private and recreational flights.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic general aviation amenities including a runway, tie-down areas, and fueling services, though amenities are limited compared to larger airports.\n\nQ: When is the airport busiest?\nA: Traffic typically peaks during the winter ski season and summer months when visitors travel to Angel Fire Resort for outdoor recreation.",
+  "transport_tips": "Reaching Angel Fire Airport requires a personal vehicle or rental car, as the remote mountain location is not served by public transportation or rideshare services. The airport is just a short drive from the village of Angel Fire and its ski resort. From larger regional airports like Santa Fe or Taos, travelers can complete the journey via scenic mountain highways.",
+  "local_tip": "Pilots should always check density altitude conditions before flying in, especially during summer months when high temperatures combined with the airport's elevation can significantly reduce aircraft performance and increase required runway length for takeoff.",
+  "generatedAt": "2026-06-27T11:25:03.449Z",
+  "model": "MiniMax-M3"
+}

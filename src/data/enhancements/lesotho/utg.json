@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UTG",
+    "icao": "FXQG",
+    "name": "Quthing Airport",
+    "country": "Lesotho",
+    "city": "Quthing",
+    "lat": -30.4075,
+    "lon": 27.6933,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Quthing Airport (UTG) is a small regional airfield serving the town of Quthing in the southern highlands of Lesotho. Nestled in the mountainous terrain near the Senqu River valley, it primarily handles light aircraft and charter flights connecting remote communities to the rest of the country. The airport is important for access to one of Lesotho's most scenic but isolated districts.",
+  "faqs": "Q: What is the IATA code for Quthing Airport?\nA: The IATA code is UTG, and the ICAO code is FXQG.\n\nQ: Does Quthing Airport have commercial airline service?\nA: Scheduled commercial service is very limited; the airport primarily supports charter and light aircraft operations.\n\nQ: Where is Quthing located in Lesotho?\nA: Quthing is in the southern part of Lesotho, near the South African border, in a mountainous region along the Senqu River.\n\nQ: Are there facilities at the airport for travelers?\nA: Facilities are minimal, typical of small rural airfields in Lesotho, so travelers should arrange ground transport in advance.",
+  "transport_tips": "Ground transport options from the airport are limited, so arrange a local pickup or taxi with your accommodation before arrival. Roads connecting Quthing to other towns in Lesotho can be mountainous and weather-dependent, so allow extra travel time. Renting a 4x4 vehicle is advisable if exploring the surrounding highlands independently.",
+  "local_tip": "Visit during the dry winter months (May to August) for safer mountain road conditions and clearer flying weather, as Lesotho's highlands can experience sudden weather changes in summer that may affect both flights and ground travel.",
+  "generatedAt": "2026-06-28T06:10:20.625Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BBU",
+    "icao": "LRBS",
+    "name": "Bucharest Băneasa Aurel Vlaicu International Airport",
+    "country": "Romania",
+    "city": "Bucharest",
+    "lat": 44.5031,
+    "lon": 26.1029,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Bucharest Băneasa Aurel Vlaicu International Airport (BBU) is one of the oldest airports in Romania, located in the northern Băneasa district of Bucharest, just minutes from the city center. Named after Aurel Vlaicu, a pioneering Romanian aviator, the airport once served as the country's main international gateway before commercial traffic largely shifted to Henri Coandă International Airport. Today it primarily handles business aviation, private jets, charter flights, and some seasonal low-cost operations.",
+  "faqs": "Q: How far is BBU from central Bucharest?\nA: The airport is approximately 8 km north of Bucharest's city center, making it one of the closest airports to the Romanian capital and reachable in around 20-30 minutes by car.\n\nQ: Does BBU handle scheduled commercial flights?\nA: Scheduled commercial traffic is very limited; most major airlines operate from Henri Coandă International Airport (OTP) instead. BBU mainly serves business jets, charter flights, and occasional seasonal routes.\n\nQ: Why is the airport named Aurel Vlaicu?\nA: It honors Aurel Vlaicu (1882–1913), a Romanian engineer and early aviation pioneer who built one of the first aircraft in Romania and died in a crash during a historic flight across the Carpathians.\n\nQ: Are there facilities like lounges and car rental at BBU?\nA: Yes, the terminal offers basic services including car rental desks, a VIP lounge, café, and currency exchange, though amenities are far fewer than at larger OTP airport.",
+  "transport_tips": "Taxis and ride-hailing apps like Bolt and Uber are the quickest options, typically taking 20-30 minutes depending on traffic. Bucharest's RATB public transport network includes bus lines that stop near the airport, offering a budget-friendly alternative. Driving is straightforward via DN1 or the city's northern boulevards, and several parking options are available on-site.",
+  "local_tip": "Because BBU is so close to central Bucharest, consider using it for private or business aviation to save significant transfer time compared to Henri Coandă, which is about 17 km north of the city and often affected by heavier traffic.",
+  "generatedAt": "2026-06-28T19:53:39.751Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SKP",
+    "icao": "LWSK",
+    "name": "Skopje International Airport",
+    "country": "North Macedonia",
+    "city": "Ilinden",
+    "lat": 41.9581,
+    "lon": 21.6226,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Skopje International Airport (SKP), officially named Alexander the Great Airport, is the main international gateway of North Macedonia, situated in the municipality of Ilinden about 17 km southeast of the capital city Skopje. It serves as the primary hub for the country's flag carrier and handles the vast majority of the nation's commercial air traffic. The airport features a modern terminal that was significantly renovated and expanded in the 2000s.",
+  "faqs": "Q: How far is Skopje Airport from the city center?\nA: The airport is located approximately 17 km southeast of central Skopje, with typical transfer times of 20-30 minutes by car or taxi depending on traffic.\n\nQ: What airlines operate from Skopje International Airport?\nA: The airport is served by a mix of full-service and low-cost carriers including Turkish Airlines, Austrian Airlines, Wizz Air, and Pegasus, offering connections to numerous European destinations.\n\nQ: Is there public transportation available to the airport?\nA: Yes, shuttle buses and scheduled bus services connect the airport to Skopje's city center and central bus station, operating to align with flight schedules.\n\nQ: Does the airport operate 24 hours?\nA: The airport's operating hours generally cover scheduled flight times from early morning until late evening, though specific hours can vary by season.",
+  "transport_tips": "Taxis are readily available outside the terminal and offer a quick, fixed-rate journey into Skopje; confirm the approximate fare before departure. Renting a car at the airport is straightforward with several international agencies represented, useful for travelers planning to explore North Macedonia beyond the capital. The airport shuttle bus is the most economical option, though schedules are tied to flight arrivals and may require advance checking.",
+  "local_tip": "The airport's small size means security and immigration lines move quickly even during peak periods, but arriving 90 minutes before departure is wise during summer tourist season when flights to beach destinations are full.",
+  "generatedAt": "2026-06-28T17:36:59.234Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RBA",
+    "icao": "GMME",
+    "name": "Rabat-Salé Airport",
+    "country": "Morocco",
+    "city": "Rabat",
+    "lat": 34.0515,
+    "lon": -6.7515,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Rabat-Salé Airport serves Morocco's political capital and the adjacent city of Salé, located approximately 8 km southeast of central Rabat across the Bou Regreg river. As the main airport for Morocco's administrative capital, it handles a mix of domestic flights, European connections, and limited intercontinental routes, complementing the larger Casablanca Mohammed V Airport. The single-terminal facility offers modern passenger amenities and serves as a key gateway to the Rabat-Salé-Kénitra region.",
+  "faqs": "Q: How far is Rabat-Salé Airport from the city center?\nA: The airport is roughly 8 km from central Rabat and about 5 km from Salé, with typical transfer times of 15-25 minutes depending on traffic.\n\nQ: Which airlines operate from Rabat-Salé Airport?\nA: Royal Air Maroc is the primary carrier, along with several European low-cost and scheduled airlines including Ryanair, easyJet, Air France, and Transavia.\n\nQ: Does the airport have international connections?\nA: Yes, it offers direct flights to numerous European cities and limited routes to other African and Middle Eastern destinations, though many long-haul travelers connect via Casablanca.\n\nQ: Is there a train or metro connection to the airport?\nA: No direct rail connection exists; passengers rely on taxis, shuttle services, and bus options to reach the airport.",
+  "transport_tips": "Grand taxis are the most common option and can be found outside the terminal; agree on a fare in advance or insist on using the meter, as the ride to central Rabat typically costs around 70-100 MAD. Shared petit taxis are not permitted for airport transfers, so only grand taxis operate on this route. Private shuttle services and pre-booked transfers offer fixed pricing and are recommended for early morning or late-night flights when taxi availability may be limited.",
+  "local_tip": "The airport tends to be much calmer than Casablanca's hub, so arriving 90 minutes before domestic or European flights is usually sufficient—use the extra time to enjoy a mint tea at one of the cafés and avoid the longer queues common at larger Moroccan airports.",
+  "generatedAt": "2026-06-28T20:13:51.859Z",
+  "model": "MiniMax-M3"
+}

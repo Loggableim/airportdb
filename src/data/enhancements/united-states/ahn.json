@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AHN",
+    "icao": "KAHN",
+    "name": "Athens Ben Epps Airport",
+    "country": "United States",
+    "city": "Athens",
+    "lat": 33.9488,
+    "lon": -83.3256,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Athens Ben Epps Airport (AHN) is a public-use airport located three miles east of downtown Athens, Georgia, home to the University of Georgia. The airport is named after Colonel Ben T. Epps, a Georgia aviation pioneer who built and flew one of the state's first airplanes in 1909. It serves as a convenient alternative to Atlanta's Hartsfield-Jackson Airport for travelers visiting northeast Georgia and the UGA community.",
+  "faqs": "Q: What airlines operate at Athens Ben Epps Airport?\nA: The airport is primarily served by boutique and regional carriers. Delta Connection historically operated scheduled service to Atlanta from this airport.\n\nQ: How far is the airport from the University of Georgia campus?\nA: The airport is approximately 5 miles east of the UGA campus, typically a 10-15 minute drive depending on traffic.\n\nQ: Does the airport have customs and immigration facilities?\nA: No, Athens Ben Epps does not have customs facilities and cannot accommodate international flights. International travelers should use Atlanta Hartsfield-Jackson instead.\n\nQ: Are there car rental services available at AHN?\nA: Yes, car rental agencies are available at the airport, though selection is limited compared to larger airports. Booking in advance is recommended.",
+  "transport_tips": "Taxis and rideshare services like Uber and Lyft are available for the short trip into downtown Athens or to the University of Georgia campus. Rental cars are offered on-site but availability can be limited, so reserving ahead is wise. The airport is just off Highway 78, providing straightforward road access to Athens and surrounding areas.",
+  "local_tip": "If visiting for a University of Georgia football game, book your return flight well in advance—demand spikes dramatically on game weekends, and the small terminal can feel overwhelmed by the post-game rush.",
+  "generatedAt": "2026-06-29T03:20:03.835Z",
+  "model": "MiniMax-M3"
+}

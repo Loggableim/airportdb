@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BOI",
+    "icao": "KBOI",
+    "name": "Boise Air Terminal/Gowen Field",
+    "country": "United States",
+    "city": "Boise",
+    "lat": 43.5644,
+    "lon": -116.223,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Boise Air Terminal/Gowen Field (BOI) is Idaho's busiest and largest airport, located approximately three miles south of downtown Boise in the Treasure Valley. The airport shares its airfield with Gowen Field, a major Idaho Army National Guard installation, and its name honors the adjacent military facility. It serves as the primary gateway to southwestern Idaho, connecting the Boise metro area to numerous domestic destinations.",
+  "faqs": "Q: How far is Boise Airport from downtown Boise?\nA: The airport is about 3 miles south of downtown Boise, typically a 10-15 minute drive depending on traffic.\n\nQ: Does BOI have military operations?\nA: Yes, Gowen Field co-locates with the airport and houses Idaho Army National Guard aviation units, sharing the runway facilities.\n\nQ: How many terminals does Boise Airport have?\nA: BOI operates a single main terminal building with two concourses (B and C), making navigation simple for travelers.\n\nQ: Are there nonstop international flights from BOI?\nA: Boise primarily offers domestic service, with most flights connecting through hubs like Denver, Salt Lake City, Seattle, and Phoenix.",
+  "transport_tips": "Rental car facilities are conveniently located on-site at the terminal, making car access straightforward for visitors exploring Idaho. Rideshare services like Uber and Lyft have designated pickup zones outside baggage claim, and ValleyRide Route 7 provides public bus service connecting the airport to downtown Boise. A dedicated cell phone lot is available for those picking up arriving passengers.",
+  "local_tip": "If you have a short layover or early arrival, the airport's location near the Boise River and Greenbelt means a rental car or short rideshare can get you to riverside walking paths in under 15 minutes—great for stretching your legs between flights.",
+  "generatedAt": "2026-06-28T18:12:49.955Z",
+  "model": "MiniMax-M3"
+}

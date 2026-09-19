@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SRP",
+    "icao": "ENSO",
+    "name": "Stord Airport, Sørstokken",
+    "country": "Norway",
+    "city": "Leirvik",
+    "lat": 59.7919,
+    "lon": 5.3408,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Stord Airport, Sørstokken (SRP/ENSO) is a regional airport located on the western coast of Norway, serving the town of Leirvik on the island of Stord in Vestland county. The airport primarily supports helicopter and fixed-wing traffic connected to Norway's offshore oil and gas industry in the North Sea, while also accommodating limited scheduled passenger services. Its coastal setting on the Sørstokken peninsula provides quick access to the industrial communities of the Sunnhordland region.",
+  "faqs": "Q: What is Stord Airport mainly used for?\nA: The airport serves both commercial passenger flights and significant offshore helicopter traffic, transporting workers to oil and gas platforms in the North Sea.\n\nQ: Where exactly is the airport located?\nA: It sits on the Sørstokken peninsula on the island of Stord, near the town of Leirvik in Vestland county, western Norway.\n\nQ: Are there regular commercial flights from Stord?\nA: Limited scheduled services operate, typically connecting Stord with larger Norwegian hubs like Bergen and Stavanger, though flight frequency can vary.\n\nQ: Who operates the airport?\nA: The airport is operated by Avinor, the Norwegian state-owned airport authority.\n\n",
+  "transport_tips": "Leirvik town center is approximately a 10-15 minute drive from the airport, and taxis are typically available to meet arriving flights. Rental cars and pre-booked shuttle services offer the most reliable options for travelers heading to nearby industrial sites or connecting ferry terminals. The airport's small size means walking from parking to the terminal is quick and straightforward.",
+  "local_tip": "If you're connecting to an offshore platform via helicopter transfer, arrive early and confirm baggage weight limits in advance, as offshore helicopter operators enforce strict personal luggage restrictions that differ from standard airline allowances.",
+  "generatedAt": "2026-06-29T07:37:25.670Z",
+  "model": "MiniMax-M3"
+}

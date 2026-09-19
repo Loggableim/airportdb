@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IXG",
+    "icao": "VOBM",
+    "name": "Belagavi Airport",
+    "country": "India",
+    "city": "Belgaum",
+    "lat": 15.8593,
+    "lon": 74.6183,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Belagavi Airport (IXG) is a domestic airport serving Belagavi (formerly Belgaum), a city in the northern Karnataka region of India near the Maharashtra and Goa borders. The airport supports regional connectivity under India's UDAN scheme and handles flights to major hubs including Bengaluru and Mumbai. It serves as an important gateway for business travel in the industrial belt of north Karnataka.",
+  "faqs": "Q: Which airlines operate from Belagavi Airport?\nA: Belagavi Airport is served primarily by Air India and its regional subsidiary Alliance Air, with flights connecting to Bengaluru and Mumbai.\n\nQ: How far is the airport from Belagavi city center?\nA: The airport is located approximately 10 km east of Belagavi city and is easily reachable by road in around 20-30 minutes.\n\nQ: Does Belagavi Airport have international flights?\nA: No, the airport currently operates only domestic flights, though it has infrastructure capable of handling limited international operations.\n\nQ: Is the airport operational at night?\nA: Operations are primarily during daylight hours, and it is recommended to check with airlines for specific flight schedules as night operations are limited.",
+  "transport_tips": "Prepaid taxi counters and app-based cab services like Ola and Uber are available outside the terminal for travel into the city. Auto-rickshaws are also a common and affordable option for short distances to nearby areas. The airport is well-connected via NH-48, making road travel to neighboring cities like Hubli straightforward.",
+  "local_tip": "Belagavi is famous for its kunda sweets and Belgaum baklava—grab some from local sweet shops in the city before flying out, as these regional delicacies make excellent gifts and are hard to find elsewhere.",
+  "generatedAt": "2026-06-29T13:36:34.774Z",
+  "model": "MiniMax-M3"
+}

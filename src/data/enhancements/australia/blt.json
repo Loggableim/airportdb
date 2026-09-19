@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BLT",
+    "icao": "YBTR",
+    "name": "Blackwater Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -23.6031,
+    "lon": 148.807,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Blackwater Airport (BLT/YBTR) is a medium-sized regional airport serving the town of Blackwater in Central Queensland, Australia. Located in the heart of the Bowen Basin, it primarily supports the region's significant coal mining industry, providing transport for fly-in fly-out (FIFO) workers and charter operations. The airport's strategic position makes it an important gateway for one of Australia's most productive coalfields.",
+  "faqs": "Q: Where is Blackwater Airport located?\nA: Blackwater Airport is situated near the town of Blackwater in Central Queensland, Australia, in the coal-rich Bowen Basin region.\n\nQ: What is the airport mainly used for?\nA: The airport primarily serves the local coal mining industry, with regular charter and FIFO (fly-in fly-out) worker flights connecting to Brisbane and other major centres.\n\nQ: Are there scheduled commercial flights at Blackwater Airport?\nA: Scheduled commercial services are limited; most flights operate as charters supporting mining operations and workforce transport.\n\nQ: What facilities are available at the airport?\nA: As a regional facility, the airport offers basic terminal amenities suited to charter and FIFO traffic rather than large-scale commercial passenger operations.\n\n",
+  "transport_tips": "Access to the airport is typically by private vehicle or company-arranged transport, as there is no regular public bus service. Most passengers are transferred by mining company shuttles or pre-booked taxis from the town of Blackwater, which is only a short drive away. Having your transport pre-arranged is recommended, especially for early morning or late evening flights.",
+  "local_tip": "If you're flying in for a mining roster, confirm your company's pickup arrangements before landing, as mobile reception near the airport can be patchy and there is no on-site taxi rank for casual travellers.",
+  "generatedAt": "2026-06-29T15:58:09.268Z",
+  "model": "MiniMax-M3"
+}

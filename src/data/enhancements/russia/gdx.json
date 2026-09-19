@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GDX",
+    "icao": "UHMM",
+    "name": "Sokol Airport",
+    "country": "Russia",
+    "city": "Magadan",
+    "lat": 59.911,
+    "lon": 150.72,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Sokol Airport (GDX) is the primary aviation gateway to Magadan, a remote city in Russia's Far East situated along the Sea of Okhotsk. The name 'Sokol' translates to 'Falcon' in Russian, reflecting the region's wildlife heritage. The airport handles regional flights across eastern Siberia and connects Magadan to major Russian hubs such as Moscow, Vladivostok, and Khabarovsk.",
+  "faqs": "Q: How far is Sokol Airport from Magadan city center?\nA: The airport is located approximately 30 km north of Magadan, typically a 40-50 minute drive depending on weather and road conditions.\n\nQ: What is the best time to fly into Magadan?\nA: Summer months (June through August) offer the most reliable weather, while winter flights can be affected by heavy snowfall, fog, and strong winds common in the region.\n\nQ: Are there international flights from Sokol Airport?\nA: Sokol primarily operates domestic flights within Russia. International connections typically require a transfer through Moscow or other major Russian hubs.\n\nQ: Does the airport operate 24 hours?\nA: Scheduled operations generally follow daylight hours due to the airport's challenging weather conditions, though it may accommodate certain flights outside peak times.",
+  "transport_tips": "Taxis and pre-booked transfers are the most common way to reach the airport from Magadan, as public transport options are limited. During winter months, allow extra travel time as the highway can be affected by snow and ice. Ride-hailing apps may have limited availability in this remote region, so arranging a transfer in advance is recommended.",
+  "local_tip": "Pack snacks and entertainment for your journey—Magadan is one of the more isolated cities in Russia, and flight disruptions due to weather are not uncommon, especially between November and March.",
+  "generatedAt": "2026-06-29T07:38:18.494Z",
+  "model": "MiniMax-M3"
+}

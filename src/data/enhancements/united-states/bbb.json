@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BBB",
+    "icao": "KBBB",
+    "name": "Benson Municipal Airport",
+    "country": "United States",
+    "city": "Benson",
+    "lat": 45.3319,
+    "lon": -95.6506,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Benson Municipal Airport (BBB/KBBB) is a small public-use general aviation airport serving the city of Benson in west-central Minnesota. The airport supports local aviation needs including recreational flying, flight training, and private aircraft operations for the surrounding rural community. It features a single primary runway and basic facilities typical of Midwestern municipal airports.",
+  "faqs": "Q: Does Benson Municipal Airport offer commercial airline service?\nA: No, BBB is a general aviation airport with no scheduled commercial flights. It serves private pilots and small aircraft operations only.\n\nQ: What facilities are available at the airport?\nA: The airport features a turf and paved runway, tie-down areas, and basic amenities for general aviation users. No fuel services or staffed terminal are typically available at airports of this size.\n\nQ: Can I fly into Benson Municipal Airport for a visit?\nA: Yes, pilots may arrange permission to land through flight service or coordinate with local operators, though prior permission is recommended for first-time visits to small municipal airports.\n\nQ: Is there an air traffic control tower?\nA: No, the airport operates without a control tower using uncontrolled field procedures and common traffic advisory frequency (CTAF).",
+  "transport_tips": "The airport is located just a few miles from downtown Benson, making ground transportation straightforward. Rental cars would need to be arranged in advance from nearby larger cities, as on-site rental services are not typical at airports this size. Visitors typically rely on personal vehicles or local taxi services for the short trip into town.",
+  "local_tip": "If flying in during the warmer months, check current runway conditions in advance as some small Midwestern municipal airports maintain turf strips that can become soft after heavy rain. Benson is also a convenient stop for pilots exploring Minnesota's prairie lakes region.",
+  "generatedAt": "2026-06-27T11:43:25.143Z",
+  "model": "MiniMax-M3"
+}

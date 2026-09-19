@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ORA",
+    "icao": "SASO",
+    "name": "Orán Airport",
+    "country": "Argentina",
+    "city": "Orán",
+    "lat": -23.1528,
+    "lon": -64.3292,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Orán Airport (ORA/SASO) is a medium-sized regional airport serving the city of Orán in Salta Province, northwestern Argentina. It functions as a key aviation gateway for the Bermejo Valley region, supporting both commercial passenger flights and general aviation operations. The airport plays an important role in connecting this agricultural and energy-producing area with other parts of Argentina.",
+  "faqs": "Q: Where is Orán Airport located?\nA: Orán Airport is located in the city of Orán, in Salta Province, northwestern Argentina, near the border with Bolivia.\n\nQ: Does Orán Airport offer international flights?\nA: The airport primarily handles domestic regional flights within Argentina, though its proximity to Bolivia makes it a potential hub for cross-border travel.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers basic passenger amenities including a terminal building, check-in counters, and ground transportation services.\n\nQ: Are there regular commercial flights to Buenos Aires?\nA: Flight availability varies, but the airport typically offers scheduled service connecting Orán to major Argentine cities through regional carriers.\n\n",
+  "transport_tips": "Taxis and remises (private hire cars) are the most common ways to reach the airport from downtown Orán, with the journey typically taking 10-15 minutes. Renting a car in advance is recommended for travelers planning to explore the surrounding region, including nearby attractions like the Bermejo River and Calilegua National Park. Public bus service to the airport is limited, so arranging private transport is advisable for early morning or late evening flights.",
+  "local_tip": "Visit the nearby Mercado Municipal de Orán for an authentic taste of the region—the area is famous for its subtropical fruits, especially oranges and sugar cane products, which you can sample fresh from local vendors.",
+  "generatedAt": "2026-06-26T13:23:21.484Z",
+  "model": "MiniMax-M3"
+}

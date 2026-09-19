@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FKN",
+    "icao": "KFKN",
+    "name": "Franklin Regional Airport",
+    "country": "United States",
+    "city": "Franklin",
+    "lat": 36.6981,
+    "lon": -76.9038,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Franklin Regional Airport (FKN) is a small general aviation facility serving the independent city of Franklin in southeastern Virginia. Located in the Hampton Roads region near the Blackwater and Nottoway Rivers, the airport primarily supports private pilots, recreational flying, and local aviation activity rather than commercial service. The airfield features a single main runway and serves as a convenient gateway for visitors to Franklin and the surrounding Southampton County area.",
+  "faqs": "Q: Does Franklin Regional Airport offer commercial airline service?\nA: No, Franklin Regional Airport is a general aviation facility with no scheduled commercial flights. Travelers seeking commercial service typically use Norfolk International Airport (ORF), approximately 60 miles northeast.\n\nQ: What services are available at the airport?\nA: The airport offers basic general aviation amenities including a runway, tie-down areas, and limited aircraft services. There is no commercial terminal, airline counters, or passenger boarding bridges.\n\nQ: Is there an air traffic control tower at FKN?\nA: No, Franklin Regional Airport operates as an uncontrolled field. Pilots use the common traffic advisory frequency (CTAF) to coordinate arrivals and departures.\n\nQ: Can private jets land at Franklin Regional Airport?\nA: Yes, the airport accommodates private and corporate general aviation aircraft, though runway length and width may limit the size of aircraft that can safely operate there.",
+  "transport_tips": "The airport is located just a few miles south of downtown Franklin, making ground transportation by car quick and straightforward. Rental cars are the most practical option for arriving visitors, as rideshare availability is limited in this rural area. Taxis and pre-arranged shuttle services from nearby cities like Suffolk or Franklin can also be coordinated in advance.",
+  "local_tip": "If you're flying into Franklin Regional, plan a visit to the Rawls Museum Arts, a local cultural gem featuring regional artwork, or take a short drive to the historic Blackwater River area for kayaking and outdoor recreation.",
+  "generatedAt": "2026-06-27T02:28:08.253Z",
+  "model": "MiniMax-M3"
+}

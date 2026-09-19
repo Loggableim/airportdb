@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JAE",
+    "icao": "SPJE",
+    "name": "Shumba Airport",
+    "country": "Peru",
+    "city": "Jaén",
+    "lat": -5.5925,
+    "lon": -78.774,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Shumba Airport (JAE/SPJE) is a medium-sized regional airport serving Jaén, the capital of Jaén Province in the Cajamarca region of northern Peru. Situated on the edge of the Peruvian Amazon basin at the foothills of the Andes, it provides vital air connectivity for this coffee-producing and agricultural hub. The airport primarily handles domestic flights and supports tourism access to the nearby rainforest and archaeological sites of the region.",
+  "faqs": "Q: What is the IATA code for Shumba Airport?\nA: The IATA code is JAE and the ICAO code is SPJE.\n\nQ: Where is Shumba Airport located?\nA: It is located near the city of Jaén in the Cajamarca region of northern Peru, at coordinates -5.593, -78.774.\n\nQ: Are there international flights from Shumba Airport?\nA: No, Shumba Airport primarily serves domestic flights within Peru.\n\nQ: What airlines operate at Shumba Airport?\nA: The airport is served by small domestic carriers connecting Jaén with Lima and other regional destinations.",
+  "transport_tips": "The airport is located just outside Jaén city, reachable by a short taxi or mototaxi ride taking approximately 15-20 minutes from the town center. Pre-arranging transport with your hotel is recommended, as taxi availability at the terminal can be limited during off-peak flight times. Rental car services are not typically available at the airport, so ground transport should be planned in advance.",
+  "local_tip": "If traveling during the rainy season (November to April), allow extra time for flights as weather delays are common in this Andean-Amazon transition zone, and pack a light rain jacket for the humid conditions upon arrival.",
+  "generatedAt": "2026-06-29T22:32:21.895Z",
+  "model": "MiniMax-M3"
+}

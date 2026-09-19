@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DVT",
+    "icao": "KDVT",
+    "name": "Phoenix Deer Valley Airport",
+    "country": "United States",
+    "city": "Phoenix",
+    "lat": 33.6883,
+    "lon": -112.083,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Phoenix Deer Valley Airport (DVT) is a general aviation reliever airport located in the northern reaches of Phoenix, Arizona, operated by the City of Phoenix Aviation Department. It consistently ranks among the busiest general aviation airports in the United States, serving flight training, corporate, and recreational pilots while helping to relieve congestion at Phoenix Sky Harbor International Airport. The facility features two asphalt runways and a full complement of FBOs, aircraft maintenance providers, and flight schools.",
+  "faqs": "Q: Does Phoenix Deer Valley Airport have commercial airline service?\nA: No, DVT is a general aviation airport with no scheduled commercial passenger flights. It primarily serves private, corporate, and training aircraft.\n\nQ: How far is DVT from downtown Phoenix?\nA: The airport is located approximately 17 miles north of downtown Phoenix in the Deer Valley district, with typical drive times of 25-40 minutes depending on traffic.\n\nQ: What are the airport's operating hours?\nA: The airport operates 24 hours a day, though FBO services and certain amenities may have limited availability during nighttime hours.\n\nQ: Is there a control tower at Deer Valley Airport?\nA: Yes, DVT has an FAA-operated air traffic control tower that operates during published hours, with uncontrolled procedures in effect at other times.",
+  "transport_tips": "The airport is best reached by car, with ample free parking available on-site for both short and extended stays. It is conveniently located near Interstate 17 and Loop 101, providing quick access to the rest of the Phoenix metropolitan area. Ride-shares and taxis are available but may require advance booking as there is no dedicated rideshare staging area.",
+  "local_tip": "Frequent visitors should note that late afternoon summer monsoon storms (typically July through September) can cause sudden visibility drops and gusty winds at the field, so it's wise to monitor ATIS and check in with the tower early when weather is building to the north over the desert terrain.",
+  "generatedAt": "2026-06-26T23:45:01.825Z",
+  "model": "MiniMax-M3"
+}

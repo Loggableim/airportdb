@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RQO",
+    "icao": "",
+    "name": "El Reno Regional Airport",
+    "country": "United States",
+    "city": "El Reno",
+    "lat": 35.4727,
+    "lon": -98.0058,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "El Reno Regional Airport (RQO) is a small general aviation facility serving El Reno, a city in Canadian County, Oklahoma, located roughly 25 miles west of Oklahoma City. The airport primarily supports private aircraft, flight training, and recreational flying for the local community. Its location near historic Route 66 gives it convenient access to both the Oklahoma City metropolitan area and the rural agricultural landscape of central Oklahoma.",
+  "faqs": "Q: What type of aircraft use El Reno Regional Airport?\nA: The airport primarily serves general aviation traffic, including private single-engine aircraft, flight training operations, and occasional business flights. There are no scheduled commercial airline services.\n\nQ: Is there an on-site car rental at RQO?\nA: Rental car availability at El Reno Regional Airport is limited due to its small size. Visitors typically arrange ground transportation in advance or use rideshare services from nearby Oklahoma City.\n\nQ: What facilities are available at the airport?\nA: The airport features a terminal area, hangar space, tie-down areas for visiting aircraft, and basic pilot amenities. Fuel services are typically available for transient pilots.\n\nQ: How close is the airport to downtown El Reno?\nA: The airport is located just a few miles from downtown El Reno, making it a quick drive to local restaurants, shops, and historic Route 66 attractions.",
+  "transport_tips": "The airport is a short drive from downtown El Reno via local roads, and reaching Oklahoma City typically takes around 30 minutes via Interstate 40 or US-270. Having a personal vehicle is the most practical option, as public transit options in El Reno are limited. Rideshare services and local taxi companies can serve the airport, though advance booking is recommended.",
+  "local_tip": "Stop by one of El Reno's famous onion burger diners along Route 66 after your flight—Sid's Diner is a local institution that has been serving these Oklahoma-style burgers since the 1960s and is a favorite stop for pilots passing through the area.",
+  "generatedAt": "2026-06-27T05:22:01.493Z",
+  "model": "MiniMax-M3"
+}

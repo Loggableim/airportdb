@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GYA",
+    "icao": "",
+    "name": "Guayaramerín Airport",
+    "country": "Bolivia",
+    "city": "Guayaramerín",
+    "lat": -10.8886,
+    "lon": -65.381,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Guayaramerín Airport (GYA) serves the border town of Guayaramerín in Bolivia's Beni Department, situated on the Mamoré River directly across from the Brazilian town of Guajará-Mirim. The airport provides a vital air link for this remote Amazon basin region, connecting the community to larger Bolivian cities and supporting both commercial and regional travel. As a medium-sized facility, it handles domestic flights primarily operated by regional carriers serving the Bolivian lowlands.",
+  "faqs": "Q: What airlines operate at Guayaramerín Airport?\nA: The airport is primarily served by regional Bolivian carriers such as EcoJet, which connects Guayaramerín to other cities in Bolivia including Trinidad and La Paz.\n\nQ: Is the airport located near the Brazilian border?\nA: Yes, Guayaramerín sits directly on the Bolivian-Brazilian border, separated from the Brazilian town of Guajará-Mirim by the Mamoré River.\n\nQ: How far is the airport from the city center?\nA: The airport is located a short distance from central Guayaramerín, typically reachable within 10-15 minutes by road.\n\nQ: Does the airport have immigration facilities?\nA: As a domestic airport, there are no immigration or customs facilities; international travelers must cross the border overland at the Mamoré River bridge.\n\n",
+  "transport_tips": "Taxis and mototaxis are readily available at the airport for the short journey into Guayaramerín town. Road connections to other Bolivian cities can be challenging, especially during the rainy season when unpaved routes become difficult to navigate. Travelers continuing to Brazil can cross the border via the international bridge to Guajará-Mirim on foot or by local transport.",
+  "local_tip": "Book flights in advance during the dry season (May-October) as demand increases for travel to this border region, and confirm return flights early as weather delays in the Amazon lowlands are common during rainy months.",
+  "generatedAt": "2026-06-29T22:30:39.136Z",
+  "model": "MiniMax-M3"
+}

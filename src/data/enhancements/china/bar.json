@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BAR",
+    "icao": "ZJQH",
+    "name": "Qionghai Bo'ao Airport",
+    "country": "China",
+    "city": "Qionghai (Basuo)",
+    "lat": 19.141,
+    "lon": 110.4528,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Qionghai Bo'ao Airport (BAR/ZJQH) is a regional airport on Hainan Island in southern China, serving Qionghai City and the nearby town of Boao. It is best known as the gateway to the Boao Forum for Asia, the prestigious annual conference that draws heads of state and business leaders from across the continent. The airport supports both commercial flights and the occasional surge of private and charter traffic during major international events.",
+  "faqs": "Q: What is Qionghai Bo'ao Airport best known for?\nA: It serves as the main air gateway to Boao, host city of the Boao Forum for Asia, a major annual international conference.\n\nQ: Where is the airport located?\nA: It sits on Hainan Island in southern China, in Qionghai City, roughly 20 km from Boao town.\n\nQ: What kinds of flights operate from BAR?\nA: The airport handles domestic commercial routes connecting Hainan with major Chinese cities, plus occasional charter and private flights tied to events and tourism.\n\nQ: Is the airport busy year-round?\nA: Traffic is moderate year-round due to tourism on Hainan, but passenger numbers spike during the Boao Forum and peak holiday seasons.",
+  "transport_tips": "Taxis and ride-hailing services are the most convenient option for the roughly 30-minute trip into Qionghai city or onward to Boao town. Public buses connect the airport to Qionghai's main urban areas, though schedules are limited, so arranging ground transport in advance is wise during the Boao Forum period.",
+  "local_tip": "If you have a layover or extra time, the Wanquan River estuary near Boao offers scenic views and a glimpse of the lush tropical landscape Hainan is known for, and it's a short drive from the airport.",
+  "generatedAt": "2026-06-29T22:52:20.393Z",
+  "model": "MiniMax-M3"
+}

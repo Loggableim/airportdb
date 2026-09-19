@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TBK",
+    "icao": "YTBR",
+    "name": "Timber Creek Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -15.62,
+    "lon": 130.445,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Timber Creek Airport is a small remote airfield serving the tiny community of Timber Creek in Australia's Northern Territory, near the Victoria River in the Big Rivers region. The airport primarily supports general aviation, charter flights, and the Royal Flying Doctor Service, providing a vital link for this isolated outback settlement along the Stuart Highway. Its location makes it a useful stopover for travelers exploring the Victoria River region and the scenic Gregory National Park.",
+  "faqs": "Q: Where is Timber Creek Airport located?\nA: Timber Creek Airport is located in the Northern Territory of Australia, near the small community of Timber Creek on the Victoria River, approximately 300 km southwest of Katherine along the Stuart Highway.\n\nQ: What type of aircraft use Timber Creek Airport?\nA: The airport primarily handles small general aviation aircraft, charter flights, and emergency medical flights operated by the Royal Flying Doctor Service. There are no scheduled commercial passenger services.\n\nQ: Are there any facilities at Timber Creek Airport?\nA: As a small remote airfield, the airport has minimal infrastructure with a gravel runway and limited services. The nearby Timber Creek town provides basic amenities, fuel, and accommodation for travelers.\n\nQ: Can tourists use Timber Creek Airport?\nA: The airport is mainly used by charter operators, private pilots, and emergency services, so tourists typically reach Timber Creek by road along the Stuart Highway rather than by air.",
+  "transport_tips": "Most visitors reach Timber Creek by driving along the Stuart Highway, as the town sits directly on this major north-south route between Katherine and Kununurra. The town is also a common overnight stop for caravans and motorhomes exploring the Top End. If arriving by air, you'll need to arrange ground transport in advance, as rental cars and taxis are very limited in this remote area.",
+  "local_tip": "If you're flying in, check in with the local pub and roadhouse in Timber Creek — it's the social hub of the community and a great place to hear about current road conditions, crocodile sightings on the Victoria River, and tips for exploring nearby Gregory National Park.",
+  "generatedAt": "2026-06-27T16:07:36.330Z",
+  "model": "MiniMax-M3"
+}

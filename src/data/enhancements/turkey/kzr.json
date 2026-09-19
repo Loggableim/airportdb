@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KZR",
+    "icao": "LTBZ",
+    "name": "Zafer Airport",
+    "country": "Turkey",
+    "city": "Altıntaş",
+    "lat": 39.1111,
+    "lon": 30.1304,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Zafer Airport (KZR/LTBZ) is a regional airport located in Altıntaş, Kütahya Province, in western Turkey. Opened in 2012, it was strategically built to serve three neighboring provinces—Kütahya, Afyonkarahisar, and Uşak—reducing travel times for residents who previously relied on larger, more distant airports. The name 'Zafer' means 'Victory' in Turkish, reflecting the area's significance in the Turkish War of Independence.",
+  "faqs": "Q: Which cities does Zafer Airport serve?\nA: Zafer Airport serves three provinces in western Turkey: Kütahya, Afyonkarahisar, and Uşak, making it a convenient regional gateway for travelers in the inner Aegean region.\n\nQ: How far is Zafer Airport from Kütahya city center?\nA: The airport is approximately 45 km from Kütahya city center, about a one-hour drive via the D230 highway.\n\nQ: Are there regular commercial flights at Zafer Airport?\nA: The airport has limited scheduled commercial service, with flights varying by season. It's recommended to check current airline schedules before planning travel.\n\nQ: Is Zafer Airport used for international flights?\nA: The airport primarily handles domestic flights, though it has IFR capabilities and could potentially support international operations.",
+  "transport_tips": "The most practical way to reach Zafer Airport is by private car or taxi, as there is no direct public transit service to the terminal. HAVAŞ airport shuttle buses have operated routes connecting the airport to Kütahya, Afyonkarahisar, and Uşak city centers when commercial flights are active. Renting a car in advance is advisable for flexible regional travel, as the airport sits in a relatively rural area.",
+  "local_tip": "If visiting the region, consider combining a flight through Zafer with visits to nearby historical sites like Kütahya's famous tile-making workshops, Afyon's thermal spas, or the ancient Phrygian rock monuments—these attractions are all within a 1-2 hour drive of the airport.",
+  "generatedAt": "2026-06-26T19:43:27.707Z",
+  "model": "MiniMax-M3"
+}

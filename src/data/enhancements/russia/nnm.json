@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NNM",
+    "icao": "ULAM",
+    "name": "Naryan Mar Airport",
+    "country": "Russia",
+    "city": "Naryan Mar",
+    "lat": 67.64,
+    "lon": 53.1219,
+    "type": "medium_airport",
+    "size": 650
+  },
+  "summary": "Naryan Mar Airport serves the remote town of Naryan Mar, the administrative center of the Nenets Autonomous Okrug in the Russian Arctic, located well above the Arctic Circle. The airport is a vital lifeline for the region, connecting this isolated tundra community to mainland Russia and supporting both civilian travel and oil and gas industry operations. Its location makes it one of the northernmost year-round operational airports in European Russia.",
+  "faqs": "Q: What is the main purpose of Naryan Mar Airport?\nA: The airport serves as the primary air gateway to the Nenets Autonomous Okrug, supporting passenger travel, cargo, and operations for the region's oil and gas industry.\n\nQ: How far is the airport from the town center?\nA: The airport is located a short drive from central Naryan Mar, typically reachable in about 10-15 minutes by car or taxi.\n\nQ: What weather conditions affect the airport?\nA: Being in the Arctic, the airport experiences extreme cold in winter, long daylight hours in summer, and polar night conditions in winter, which can occasionally affect flight schedules.\n\nQ: Are there regular flights to Moscow?\nA: Yes, the airport has regular scheduled service connecting Naryan Mar to Moscow and other major Russian cities, typically operated by Russian carriers.",
+  "transport_tips": "Taxis and marshrutka (shared minibus) services are the most common ways to reach the airport from Naryan Mar town center. During winter months, road conditions can be challenging, so allow extra travel time. Parking at the airport is generally available and straightforward.",
+  "local_tip": "Pack warm layers regardless of the season you visit—temperatures can drop sharply even in summer, and the airport terminal can feel cool during long waits between flights.",
+  "generatedAt": "2026-06-29T17:02:23.092Z",
+  "model": "MiniMax-M3"
+}

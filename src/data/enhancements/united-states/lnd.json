@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LND",
+    "icao": "KLND",
+    "name": "Hunt Field",
+    "country": "United States",
+    "city": "Lander",
+    "lat": 42.8152,
+    "lon": -108.73,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Hunt Field is a medium-sized general aviation airport serving Lander, a small city in western Wyoming nestled at the base of the Wind River Range. The airport primarily supports recreational flying, air ambulance services, and charter operations for visitors heading to nearby outdoor destinations such as Sinks Canyon State Park and the Popo Agie Wilderness. Its high-elevation location at over 5,500 feet offers scenic approach routes but requires pilots to plan for mountain weather.",
+  "faqs": "Q: Does Hunt Field offer commercial airline service?\nA: No, LND is a general aviation airport with no scheduled commercial flights; visitors typically fly into nearby regional airports for commercial service.\n\nQ: What is the elevation of Hunt Field?\nA: The airport sits at approximately 5,592 feet above sea level, which is typical for airports in the Wind River Range region.\n\nQ: Are there fuel and maintenance services available?\nA: Yes, the airport provides fuel services for general aviation aircraft and has basic maintenance facilities on site.\n\nQ: Can I rent a car at Hunt Field?\nA: Car rental availability is limited; it is recommended to arrange ground transportation in advance with local providers in Lander.",
+  "transport_tips": "Rental cars and rideshares are limited in Lander, so booking a vehicle in advance is highly recommended for travelers flying into Hunt Field. The airport is located just a few miles northwest of downtown Lander, making taxi or shuttle service a quick option. Having a personal vehicle is the most practical way to explore the surrounding Wind River Range and nearby state parks.",
+  "local_tip": "If you're flying in for outdoor recreation, coordinate with local outfitters in Lander beforehand to arrange shuttles to trailheads in the Wind River Range, as public transportation to remote trailheads is not available.",
+  "generatedAt": "2026-06-26T08:51:17.448Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TNG",
+    "icao": "GMTT",
+    "name": "Tangier Ibn Battuta Airport",
+    "country": "Morocco",
+    "city": "Tangier",
+    "lat": 35.7317,
+    "lon": -5.9215,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Tangier Ibn Battuta Airport (TNG) serves Morocco's northern gateway city and is named after the famed 14th-century Moroccan scholar and explorer Ibn Battuta, who chronicled his extensive travels across Africa, Asia, and Europe. Located approximately 15 km southwest of Tangier's city center, it functions as a key entry point for visitors exploring the Mediterranean coast and the Strait of Gibraltar region. The airport has undergone significant modernization to accommodate growing passenger traffic, particularly from European low-cost carriers.",
+  "faqs": "Q: How far is Tangier Ibn Battuta Airport from the city center?\nA: The airport is approximately 15 km (about 9 miles) southwest of Tangier's city center, with typical journey times of 20-30 minutes by car.\n\nQ: Which airlines operate from Tangier Airport?\nA: Royal Air Maroc, Air Arabia Maroc, Ryanair, easyJet, Vueling, and Iberia Express are among the carriers serving the airport, with most flights connecting to European destinations.\n\nQ: Does the airport have duty-free shopping?\nA: Yes, the terminal offers duty-free outlets as well as cafes and restaurants, though selections are more limited than at Morocco's larger Casablanca Mohammed V Airport.\n\nQ: Are there currency exchange services at the airport?\nA: Yes, currency exchange bureaus and ATMs are available in the terminal, though rates inside airports are typically less favorable than city exchange offices.",
+  "transport_tips": "Taxis are readily available outside the terminal and offer fixed or metered fares to Tangier city center, typically costing around 100-150 MAD depending on your destination. Grand taxis (shared) are a cheaper option if you don't mind waiting for other passengers. For train connections, the nearest station is in central Tangier, accessible via a short taxi ride.",
+  "local_tip": "If you have a layover or extra time, skip the airport restaurants and take a quick taxi to the historic Kasbah and the famous Café Hafa for mint tea with sweeping Mediterranean views—a uniquely Tangier experience just minutes from the airport route into the city.",
+  "generatedAt": "2026-06-28T19:55:22.658Z",
+  "model": "MiniMax-M3"
+}

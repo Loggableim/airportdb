@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ANI",
+    "icao": "PANI",
+    "name": "Aniak Airport",
+    "country": "United States",
+    "city": "Aniak",
+    "lat": 61.5816,
+    "lon": -159.543,
+    "type": "medium_airport",
+    "size": 675
+  },
+  "summary": "Aniak Airport (ANI) is a state-owned public-use airport serving the remote community of Aniak in the Bethel Census Area of western Alaska, situated along the Kuskokwim River. The airport functions as a critical regional hub for bush plane services connecting remote Yup'ik villages throughout the Yukon-Kuskokwim Delta. Its gravel runway and bush-compatible infrastructure make it a vital lifeline for a region with limited road access.",
+  "faqs": "Q: What is the main purpose of Aniak Airport?\nA: Aniak Airport serves as a regional hub for bush aviation, connecting Aniak and surrounding Yup'ik villages in the Kuskokwim Delta to larger Alaskan cities like Anchorage and Bethel.\n\nQ: Does Aniak Airport have paved runways?\nA: No, Aniak Airport features a gravel runway, which is typical for airports serving remote Alaskan communities and is compatible with bush planes equipped with appropriate landing gear.\n\nQ: Which airlines serve Aniak Airport?\nA: Regional carriers such as Ravn Alaska and Grant Aviation historically operate scheduled passenger flights at Aniak Airport, primarily using turboprop aircraft.\n\nQ: Is Aniak Airport used for cargo operations?\nA: Yes, cargo operations are essential at Aniak Airport, as the airport supports mail, freight, and supply deliveries to communities that depend on air transport due to limited road infrastructure.",
+  "transport_tips": "There are no roads connecting Aniak to other major Alaskan cities, so air travel is effectively the only practical way to reach the airport. Rental cars are limited or unavailable in Aniak, so arranging pickup through a local lodge or resident in advance is recommended. During summer, the Kuskokwim River provides a barge alternative for heavy cargo but is not viable for passenger transport to the airport.",
+  "local_tip": "Frequent visitors recommend booking the first flight of the day whenever possible, as afternoon weather in the Kuskokwim Delta frequently brings fog and low ceilings that can delay or cancel later flights into Aniak.",
+  "generatedAt": "2026-06-29T16:49:11.510Z",
+  "model": "MiniMax-M3"
+}

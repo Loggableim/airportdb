@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JUI",
+    "icao": "EDWJ",
+    "name": "Juist Airport",
+    "country": "Germany",
+    "city": "Juist",
+    "lat": 53.6814,
+    "lon": 7.0564,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Juist Airport is a small island airport serving Juist, one of Germany's East Frisian Islands in the North Sea, located in Lower Saxony. As the island is entirely car-free, the airport is a vital transportation link alongside ferries, connecting visitors and residents to the mainland. It primarily handles small propeller aircraft and is popular with tourists visiting the island's extensive beaches and Wadden Sea mudflats.",
+  "faqs": "Q: Where is Juist Airport located?\nA: Juist Airport is located on the island of Juist, one of the East Frisian Islands off the northern coast of Germany in the Wadden Sea.\n\nQ: What type of aircraft does Juist Airport handle?\nA: The airport primarily serves small propeller aircraft due to its short runway and small size, accommodating regional and charter flights.\n\nQ: Are there car rentals available at Juist Airport?\nA: No, Juist is a car-free island, so visitors travel by foot, bicycle, or horse-drawn carriage. There are no cars on the island.\n\nQ: What is the main alternative to flying to Juist?\nA: The most common alternative is the passenger ferry from Norddeich on the mainland, which takes approximately 90 minutes to reach the island.",
+  "transport_tips": "Flights typically arrive from Norddeich or other nearby mainland airports, with the short journey offering scenic views of the Wadden Sea. Upon landing, the village center is within walking distance of the airport, and luggage is often transported by handcart or local services. Ferries from Norddeich Mole remain a reliable and weather-independent alternative, especially during poor visibility conditions.",
+  "local_tip": "If you're arriving by plane and continuing to other islands like Norderney or Baltrum, coordinate your schedule with the ferry timetable from Neßmersiel or Norddeich, as flight and ferry connections don't always align perfectly on the same day.",
+  "generatedAt": "2026-06-26T19:26:05.190Z",
+  "model": "MiniMax-M3"
+}

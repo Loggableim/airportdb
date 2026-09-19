@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BLS",
+    "icao": "YBLL",
+    "name": "Bollon Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -28.0512,
+    "lon": 147.4818,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Bollon Airport is a small rural airfield serving the remote township of Bollon in the Balonne Shire of south-western Queensland, Australia. The airport supports the surrounding agricultural community, primarily used by light aircraft and the Royal Flying Doctor Service for medical evacuations. Its remote outback location makes it a vital lifeline for residents of this sparsely populated pastoral region.\n\nFAQs:\nQ: What facilities are available at Bollon Airport?\nA: Bollon Airport is a basic, unmanned rural airfield with a single runway and minimal infrastructure. There are no terminal buildings or commercial airline services.\n\nQ: Are there scheduled flights to Bollon Airport?\nA: No scheduled commercial flights operate to Bollon Airport. Access is primarily by private aircraft, charter services, or emergency medical flights such as the Royal Flying Doctor Service.\n\nQ: Who typically uses Bollon Airport?\nA: The airport is mainly used by graziers, local pilots, aerial agricultural operators, and emergency services supporting the remote pastoral district.\n\nQ: What is the runway surface at Bollon Airport?\nA: The airport has a single unsealed gravel runway suitable for light aircraft operating in dry conditions.\n\nTransport Tips:\nGetting to Bollon Airport typically requires a private vehicle, as there is no public transport connecting the airfield to the nearby township. The airport is located a short drive from the Bollon town centre along local roads. Visitors should arrange transport in advance and carry adequate fuel and supplies, as services in the area are limited.\n\nLocal Tip:\nIf flying in during the wet season, check with locals about recent rainfall before booking, as the unsealed runway can become unserviceable after heavy rain and alternatives may be hours away by road.",
+  "faqs": "",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-27T15:47:12.573Z",
+  "model": "MiniMax-M3"
+}

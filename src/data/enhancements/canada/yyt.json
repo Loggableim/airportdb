@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YYT",
+    "icao": "CYYT",
+    "name": "St. John's International Airport",
+    "country": "Canada",
+    "city": "St. John's",
+    "lat": 47.6186,
+    "lon": -52.7519,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "St. John's International Airport (YYT) is the easternmost major airport in North America, serving the historic capital city of Newfoundland and Labrador. Originally known as Torbay Airport and established as a transatlantic refueling stop in the 1940s, it remains a vital gateway connecting Atlantic Canada with mainland destinations and international routes. The airport is renowned among pilots for its dramatic coastal approaches and frequently challenging weather, including dense fog, strong winds, and rapid changes in conditions.",
+  "faqs": "Q: How far is St. John's International Airport from downtown St. John's?\nA: The airport is located approximately 10 km (6 miles) northwest of downtown St. John's, typically a 15-20 minute drive depending on traffic.\n\nQ: Does the airport experience frequent weather delays?\nA: Yes, YYT is known for variable weather including fog, snow, and strong crosswinds, which can occasionally cause delays, especially during winter and spring months.\n\nQ: Which airlines operate from St. John's International Airport?\nA: Major carriers include Air Canada, WestJet, and PAL Airlines, offering domestic flights to cities like Toronto, Montreal, Halifax, and seasonal international routes.\n\nQ: Is there a hotel on-site or near the airport?\nA: There are no hotels directly at the terminal, but several accommodation options are within a 5-10 minute drive in the surrounding Torbay area.",
+  "transport_tips": "A taxi or rideshare from the airport to downtown St. John's typically costs around CAD $25-35 and takes 15-20 minutes. Metrobus Route 14 provides public transit service between the airport and the city centre for a budget-friendly option. Car rental agencies are available on-site and recommended for travelers planning to explore the scenic Avalon Peninsula.",
+  "local_tip": "Ask locals about the airport's history with transatlantic flights—during WWII, Torbay was a critical refueling point for military aircraft crossing the Atlantic, and vintage photos can still be seen in the terminal celebrating this heritage.",
+  "generatedAt": "2026-06-28T18:46:22.888Z",
+  "model": "MiniMax-M3"
+}

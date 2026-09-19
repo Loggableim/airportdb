@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BNA",
+    "icao": "KBNA",
+    "name": "Nashville International Airport",
+    "country": "United States",
+    "city": "Nashville",
+    "lat": 36.1245,
+    "lon": -86.6782,
+    "type": "large_airport",
+    "size": 52075
+  },
+  "summary": "Nashville International Airport (BNA) is the primary airport serving Nashville, Tennessee, located approximately 8 miles southeast of downtown Nashville. Known as the gateway to 'Music City,' BNA has experienced rapid growth and underwent a major expansion program known as 'BNA Vision' to modernize terminals, add gates, and improve passenger amenities. The airport serves as a significant hub for Southwest Airlines and handles a mix of domestic and limited international flights.",
+  "faqs": "Q: How far is Nashville International Airport from downtown Nashville?\nA: BNA is approximately 8 miles southeast of downtown Nashville, typically a 15-20 minute drive depending on traffic.\n\nQ: Does BNA offer international flights?\nA: Yes, BNA offers flights to several international destinations, primarily in Canada, Mexico, and the Caribbean, along with seasonal European routes.\n\nQ: Are there hotels near the airport?\nA: Yes, several hotels are located within a few miles of BNA, with some offering complimentary shuttle service to and from the terminals.\n\nQ: Is there a cell phone lot at BNA?\nA: Yes, BNA has a designated cell phone lot for drivers waiting to pick up arriving passengers, helping to reduce curbside congestion.",
+  "transport_tips": "The most convenient ways to reach downtown Nashville are by rideshare services like Uber and Lyft, which have designated pickup zones at the airport. Taxi services and rental cars are also readily available at the Ground Transportation Center. For budget-conscious travelers, the WeGo Public Transit bus route 18 provides affordable service between the airport and downtown Nashville.",
+  "local_tip": "If you have time between flights, head to the airport's live music stages in the terminal concourses—BNA regularly features local Nashville musicians performing short sets, giving you an authentic taste of Music City without leaving the airport.",
+  "generatedAt": "2026-06-28T15:37:03.192Z",
+  "model": "MiniMax-M3"
+}

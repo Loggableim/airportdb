@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MXL",
+    "icao": "MMML",
+    "name": "General Rodolfo Sánchez Taboada International Airport",
+    "country": "Mexico",
+    "city": "Mexicali",
+    "lat": 32.6306,
+    "lon": -115.2428,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "General Rodolfo Sánchez Taboada International Airport (MXL) serves Mexicali, the capital of Baja California, situated just across the border from Calexico, California. Named after a Mexican military figure from the early 20th century, the airport is a key gateway for the region's robust maquiladora manufacturing sector and cross-border travel. Its strategic location near the US-Mexico border makes it a convenient alternative to busier Tijuana and San Diego airports for travelers heading to the Imperial Valley region.",
+  "faqs": "Q: How far is the airport from downtown Mexicali?\nA: The airport is approximately 20 km (12 miles) southeast of central Mexicali, with a typical drive time of 20-30 minutes depending on border traffic.\n\nQ: Which airlines operate at MXL?\nA: The airport is primarily served by Mexican carriers including Volaris and VivaAerobus, offering domestic flights to cities like Mexico City, Guadalajara, and Tijuana.\n\nQ: Can I cross into the United States from MXL?\nA: Yes. The Calexico West Port of Entry is nearby, and the Calexico East crossing (one of the busiest commercial truck crossings on the border) is also accessible from the airport.\n\nQ: Does the airport have international flights?\nA: MXL primarily handles domestic routes, but its cross-border location makes it a popular departure point for travelers connecting onward to US destinations.",
+  "transport_tips": "Authorized taxis and rideshare services are available outside the terminal; agree on a fare or confirm the app price before departing, as Mexicali taxis typically do not use meters. Rental car agencies operate on-site, which is useful given the airport's distance from the city center. If heading to Calexico or other US destinations, consider walking or taking a short ride to the nearby border crossing rather than backtracking through the city.",
+  "local_tip": "If you have a few hours to spare before your flight, head into Mexicali proper for authentic northern Baja cuisine—the city is famous for its Chinese-Mexican fusion dishes, a legacy of early 20th-century immigration, and the local birria and carne asada are exceptional. The central Plaza Comercial La Chinesca area offers the most authentic experience.",
+  "generatedAt": "2026-06-29T06:13:57.319Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OOM",
+    "icao": "YCOM",
+    "name": "Cooma Snowy Mountains Airport",
+    "country": "Australia",
+    "city": "Cooma",
+    "lat": -36.3004,
+    "lon": 148.9724,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Cooma Snowy Mountains Airport (OOM) serves as the main gateway to Australia's Snowy Mountains ski region, including resorts like Perisher and Thredbo. Located in the town of Cooma in southern New South Wales, the airport primarily handles seasonal charter flights bringing skiers and snowboarders to the alpine areas during winter. The surrounding region is famous for the Snowy Mountains Scheme, one of the world's largest engineering and hydroelectric projects.",
+  "faqs": "Q: How far is Cooma Snowy Mountains Airport from the ski resorts?\nA: The airport is approximately 60 km from Perisher and about 75 km from Thredbo, with shuttle and transfer services available during winter season.\n\nQ: When does the airport have the most flights?\nA: Flight activity peaks during the Australian winter ski season (June to September), with many charter services operating on weekends and holidays.\n\nQ: Are there regular scheduled flights to Cooma?\nA: Scheduled commercial flights are limited; most visitors fly into Canberra and drive, or take seasonal ski charters directly into Cooma.\n\nQ: What facilities are available at the airport?\nA: The airport has a small terminal with basic amenities; passengers typically check in for charter flights with minimal wait times.",
+  "transport_tips": "Car rental is the most flexible option and is recommended for exploring the wider Snowy Mountains region. During ski season, dedicated shuttle buses and coach transfers connect the airport to major ski resorts. Taxis and rideshare services are available but can be limited, so pre-booking is advisable especially in peak winter periods.",
+  "local_tip": "Time your arrival for a clear-day landing—the approach offers stunning views of the Snowy Mountains and you may spot kangaroos on the runway surrounds as you taxi to the terminal.",
+  "generatedAt": "2026-06-29T11:33:49.321Z",
+  "model": "MiniMax-M3"
+}

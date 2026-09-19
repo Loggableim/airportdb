@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ATT",
+    "icao": "",
+    "name": "Atmautluak Airport",
+    "country": "United States",
+    "city": "Atmautluak",
+    "lat": 60.8667,
+    "lon": -162.273,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Atmautluak Airport (ATT) is a small public-use airport serving the remote Yup'ik village of Atmautluak in Alaska's Yukon-Kuskokwim Delta. The airport is a vital lifeline for the community, providing essential passenger and cargo access since there are no road connections to the village. It features a single gravel runway and supports regional air carriers connecting Atmautluak to Bethel and other nearby hubs.",
+  "faqs": "Q: How do I get to Atmautluak Airport?\nA: The airport is located within the village of Atmautluak and is accessible by foot, ATV, or snowmachine depending on the season.\n\nQ: What airlines serve Atmautluak Airport?\nA: Regional bush carriers such as Grant Aviation and Yute Air provide scheduled passenger service, primarily connecting to Bethel.\n\nQ: Are there car rentals available at the airport?\nA: No, car rentals are not available. The village relies on ATVs, snowmachines, and local transportation.\n\nQ: Does the airport have a terminal building?\nA: The airport has a small basic terminal/waiting area typical of rural Alaskan airstrips, without extensive amenities.",
+  "transport_tips": "Travelers typically reach Atmautluak Airport by walking or using local transportation within the village. There is no public transit or road system connecting to other communities, so nearly all arrivals and departures are by air. Most passengers are dropped off or picked up directly at the small terminal by friends, family, or local drivers.",
+  "local_tip": "Always confirm your flight the morning of departure, as weather in the Yukon-Kuskokwim Delta frequently causes delays or cancellations, especially during winter storms and summer fog.",
+  "generatedAt": "2026-06-26T19:41:53.820Z",
+  "model": "MiniMax-M3"
+}

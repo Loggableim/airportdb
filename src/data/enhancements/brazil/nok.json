@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NOK",
+    "icao": "SWXV",
+    "name": "Xavantina Airport",
+    "country": "Brazil",
+    "city": "Nova Xavantina",
+    "lat": -14.6978,
+    "lon": -52.3472,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Xavantina Airport (NOK/SWXV) is a small regional airport serving Nova Xavantina, a municipality in the eastern part of Mato Grosso state in central-western Brazil. Situated near the transition zone between the Cerrado savanna and the Amazon basin, the airport provides vital air access to this remote interior community. It primarily supports general aviation and regional flight operations connecting the region to larger Brazilian hubs.",
+  "faqs": "Q: What is the IATA code for Xavantina Airport?\nA: The IATA code is NOK, and the ICAO code is SWXV.\n\nQ: Where is the airport located?\nA: It is located near Nova Xavantina, in the state of Mato Grosso, Brazil, at coordinates approximately -14.698 latitude and -52.347 longitude.\n\nQ: What type of flights does this airport handle?\nA: As a small airport, it primarily serves general aviation, private aircraft, and limited regional flight operations.\n\nQ: Is the airport open to international flights?\nA: No, Xavantina Airport handles domestic flights only and is not equipped for international commercial operations.\n\n",
+  "transport_tips": "The airport is located a short distance from Nova Xavantina's town center, typically reachable by taxi or pre-arranged local transport within minutes. Due to the remote location and limited scheduled service, travelers should arrange ground transportation in advance, as ride-hailing apps may have limited availability. Rental car services are not commonly available on-site, so booking through Nova X",
+  "local_tip": "",
+  "generatedAt": "2026-06-27T13:58:25.353Z",
+  "model": "MiniMax-M3"
+}

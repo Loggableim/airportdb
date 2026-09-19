@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SLZ",
+    "icao": "SBSL",
+    "name": "Marechal Cunha Machado International Airport",
+    "country": "Brazil",
+    "city": "São Luís",
+    "lat": -2.5864,
+    "lon": -44.235,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Marechal Cunha Machado International Airport (SLZ) serves São Luís, the capital of Maranhão state in northeastern Brazil, and sits on the island of São Luís in the Baía de São Marcos. Named after a prominent Brazilian military marshal, it is the busiest airport in Maranhão and a key gateway for tourism to the Lençóis Maranhenses region. The airport handles a mix of domestic flights and limited international connections to nearby South American destinations.",
+  "faqs": "Q: How far is the airport from downtown São Luís?\nA: The airport is approximately 15 km southeast of the historic city center, a drive of roughly 20–30 minutes depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, SLZ operates a small number of international routes, primarily to neighboring countries in South America such as Suriname and Guyana.\n\nQ: Are there currency exchange services at SLZ?\nA: Currency exchange is limited; most travelers exchange money in the city or use ATMs, which are available in the terminal.\n\nQ: What facilities are available in the terminal?\nA: The terminal offers restaurants, snack bars, shops, car rental desks, and free Wi-Fi for passengers.\n\n",
+  "transport_tips": "Taxis and rideshare apps are the most common way to reach the airport from central São Luís, with fares typically ranging from R$60–80. Several bus lines also connect the airport to the city center, though they are slower and less frequent. Pre-booking a taxi or arranging hotel pickup is recommended for early morning or late-night flights.",
+  "local_tip": "If you have a layover or early arrival, head to nearby Ponta d'Areia beach for fresh coconut water and a quick dip—it's only about 10 minutes from the terminal and offers a warm welcome to Maranhão's tropical coast.",
+  "generatedAt": "2026-06-28T21:18:02.231Z",
+  "model": "MiniMax-M3"
+}

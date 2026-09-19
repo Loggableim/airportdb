@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PLR",
+    "icao": "KPLR",
+    "name": "St Clair County Airport",
+    "country": "United States",
+    "city": "Pell City",
+    "lat": 33.5588,
+    "lon": -86.2491,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "St Clair County Airport (PLR) is a small general aviation facility serving Pell City and the surrounding St Clair County area in central Alabama. Located roughly 30 miles east of Birmingham, the airport primarily accommodates private pilots, corporate aircraft, and flight training activity. Its convenient regional position makes it a useful alternative to larger Birmingham-area airports for general aviation operations.",
+  "faqs": "Q: What kind of airport is St Clair County Airport?\nA: It is a small general aviation airport serving private, recreational, and corporate flying in central Alabama.\n\nQ: Does PLR offer commercial airline service?\nA: No, St Clair County Airport does not have scheduled commercial passenger service.\n\nQ: How far is the airport from Birmingham?\nA: The airport is approximately 30 miles east of downtown Birmingham, typically reachable in under an hour by car.\n\nQ: Are there aircraft rental or flight training services available?\nA: Small regional airports like PLR commonly host flight schools and rental aircraft; visitors should contact the airport directly for current service listings.\n\n",
+  "transport_tips": "The airport is best reached by personal vehicle, as there is no public transit directly serving the facility. Parking is generally straightforward on-site, and rental car services are available in nearby Pell City or the greater Birmingham area. Travelers flying in should arrange ground transportation in advance, as rideshare availability can be limited outside urban centers.",
+  "local_tip": "If you have extra time, take a short drive to Logan Martin Lake, one of Alabama's most popular reservoirs just minutes from the airport, offering waterfront dining and scenic views.",
+  "generatedAt": "2026-06-27T02:48:06.559Z",
+  "model": "MiniMax-M3"
+}

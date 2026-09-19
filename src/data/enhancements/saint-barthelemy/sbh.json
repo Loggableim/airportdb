@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SBH",
+    "icao": "TFFJ",
+    "name": "St. Jean Airport",
+    "country": "Saint Barthélemy",
+    "city": "Gustavia",
+    "lat": 17.9044,
+    "lon": -62.8433,
+    "type": "medium_airport",
+    "size": 550
+  },
+  "summary": "St. Jean Airport (SBH) serves the Caribbean island of Saint Barthélemy, located just minutes from the popular beach of St. Jean and the capital Gustavia. The airport is renowned for having one of the most challenging commercial landings in the world, requiring specially certified pilots to navigate a steep descent between hills onto its short runway flanked by the sea. Only small propeller aircraft and certain regional jets can operate here, making it a unique gateway to one of the Caribbean's most exclusive destinations.",
+  "faqs": "Q: Why is landing at St. Jean Airport considered difficult?\nA: The runway is unusually short and surrounded by hills, requiring pilots to perform a steep, low-altitude approach over the beach and terrain. Only crews specifically trained and certified for the approach are permitted to land.\n\nQ: Which airlines fly into SBH?\nA: Regional carriers such as St. Barth Commuter, Winair, and Air Caraïbes operate scheduled and charter flights, typically using small turboprop aircraft from nearby islands like St. Maarten and Guadeloupe.\n\nQ: Can large jets land at St. Jean Airport?\nA: No, most large commercial jets cannot use the runway due to its short length. Passengers on international flights usually connect through St. Maarten's Princess Juliana International Airport and transfer to a smaller aircraft.\n\nQ: What is the airport's location relative to the island's main areas?\nA: The airport sits on a narrow peninsula on the northeastern side of the island, making it a short drive to both Gustavia to the west and the beaches of St. Jean to the east.",
+  "transport_tips": "The airport is conveniently located within a 5-10 minute drive of Gustavia and the main hotel areas around St. Jean and Flamands beaches. Taxis are readily available outside the terminal, though there is no rideshare service on",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T17:38:04.063Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PKZ",
+    "icao": "VLPS",
+    "name": "Pakse International Airport",
+    "country": "Laos",
+    "city": "Pakse",
+    "lat": 15.134,
+    "lon": 105.7799,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Pakse International Airport (IATA: PKZ) is the primary air gateway to southern Laos, serving the city of Pakse and Champasak Province near the confluence of the Mekong and Se Don rivers. The airport is the main access point for travelers heading to the Bolaven Plateau coffee region, the Si Phan Don (4000 Islands) archipelago, and the ancient Khmer temple complex of Wat Phou. Following runway upgrades in recent years, it now handles larger jet aircraft, supporting both domestic connections to Vientiane and regional flights to neighboring countries.",
+  "faqs": "Q: What airlines operate from Pakse International Airport?\nA: Lao Airlines operates domestic flights to Vientiane, and regional carriers have historically provided connections to cities such as Bangkok and Ho Chi Minh City. Service availability can vary by season, so checking current schedules is recommended.\n\nQ: How far is the airport from Pakse city center?\nA: The airport is located only a few kilometers west of central Pakse, typically a 15-20 minute drive depending on traffic and road conditions.\n\nQ: Are there international flights at Pakse?\nA: Yes, the airport has held international status and handles occasional regional flights, though most international travelers arrive via Vientiane or overland from Thailand via the Chong Mek border crossing.\n\nQ: What facilities are available inside the terminal?\nA: The terminal is modest in size and provides standard amenities including a small cafe, duty-free shop for international departures, and basic check-in counters. It is best suited for short layovers rather than extended waits.\n\n",
+  "transport_tips": "Tuk-tuks and local taxis are the most common way to reach Pakse from the airport and can be arranged just outside the terminal",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T00:46:32.644Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DHL",
+    "icao": "",
+    "name": "Ad-Dali Airport",
+    "country": "Yemen",
+    "city": "Ad-Dali",
+    "lat": 13.7385,
+    "lon": 44.7272,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Ad-Dali Airport (DHL) is a small domestic airfield serving the city of Ad-Dali in central Yemen's highlands. Situated at an elevation in the mountainous interior region, it primarily handles limited regional traffic and serves the surrounding governorate. Operations at the airport have been impacted by Yemen's ongoing conflict, resulting in reduced or sporadic flight schedules.",
+  "faqs": "Q: Does Ad-Dali Airport handle international flights?\nA: No, Ad-Dali Airport is a small domestic facility and does not serve international routes. Travelers typically connect through larger Yemeni airports such as Sana'a International.\n\nQ: How can I find current flight schedules for Ad-Dali Airport?\nA: Due to limited and inconsistent operations, it is best to check with local carriers or ground operators in Yemen for the latest flight information, as published schedules may not be reliable.\n\nQ: What facilities are available at Ad-Dali Airport?\nA: As a small airport with a moderate size score, expect only basic amenities. Travelers should plan to bring their own supplies, as dining and retail options are minimal or unavailable.\n\nQ: Is the airport accessible year-round?\nA: Access can be affected by security conditions and weather in the central highlands. Travelers should verify current accessibility before planning a trip.",
+  "transport_tips": "Ground transportation options are limited, so arranging a private vehicle or local driver in advance is strongly recommended. Roads in the surrounding highlands can be winding and occasionally affected by weather or security conditions. Allow extra travel time when heading to or from the airport.",
+  "local_tip": "Carry sufficient cash in Yemeni rials, as ATMs and card payment facilities are not reliably available at the airport or in the surrounding area.",
+  "generatedAt": "2026-06-27T16:42:13.074Z",
+  "model": "MiniMax-M3"
+}

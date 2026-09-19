@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TLH",
+    "icao": "KTLH",
+    "name": "Tallahassee International Airport",
+    "country": "United States",
+    "city": "Tallahassee",
+    "lat": 30.4012,
+    "lon": -84.3543,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tallahassee International Airport (TLH) is the primary airport serving Florida's state capital and the surrounding Big Bend region. Originally known as Tallahassee Regional Airport, it was renamed in 2015 to reflect its expanded role and international designation. The airport offers nonstop service to several major hubs and serves both government travelers visiting the capital and leisure passengers heading to North Florida's Gulf Coast destinations.",
+  "faqs": "Q: How far is Tallahassee International Airport from downtown Tallahassee?\nA: The airport is located approximately 5 miles southwest of downtown Tallahassee, typically a 15-20 minute drive depending on traffic.\n\nQ: What airlines operate at TLH?\nA: Major carriers serving the airport include Delta Air Lines, American Airlines, and Silver Airways, offering nonstop flights to hubs like Atlanta, Charlotte, Dallas-Fort Worth, and Miami.\n\nQ: Does TLH have international flights?\nA: While the airport holds an international designation and has customs facilities, scheduled international flights are limited. Most international travel connections are made through larger hub airports.\n\nQ: How early should I arrive before my flight?\nA: Given the airport's medium size and typically short security lines, arriving 90 minutes before domestic flights is generally sufficient, though 2 hours is recommended during peak travel periods.",
+  "transport_tips": "Ride-share services like Uber and Lyft are available at designated pickup zones outside the terminal. Rental car counters are located on-site, which is convenient given the limited public transit options to the airport. StarMetro, Tallahassee's public bus system, operates routes that stop near the airport terminal.",
+  "local_tip": "If you have a long layover or early flight, the airport is just a short drive from the Apalachicola National Forest and several spring-fed rivers—locals often recommend grabbing food in downtown Tallahassee instead of at the airport for a taste of authentic Southern cuisine.",
+  "generatedAt": "2026-06-29T01:54:36.019Z",
+  "model": "MiniMax-M3"
+}

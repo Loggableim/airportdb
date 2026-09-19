@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CGR",
+    "icao": "SBCG",
+    "name": "Campo Grande Airport",
+    "country": "Brazil",
+    "city": "Campo Grande",
+    "lat": -20.47,
+    "lon": -54.674,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Campo Grande Airport serves the capital of Mato Grosso do Sul state in central-western Brazil, acting as a vital gateway to the Pantanal wetlands and the surrounding agricultural heartland. The airport handles primarily domestic traffic, connecting the region with major Brazilian cities such as São Paulo, Brasília, and Rio de Janeiro. Its location makes it a common transit point for tourists heading to the world's largest tropical wetland.",
+  "faqs": "Q: What airlines operate at Campo Grande Airport?\nA: The airport is served mainly by Brazilian carriers including LATAM, GOL, and Azul, offering domestic connections to major cities across the country.\n\nQ: How far is the airport from downtown Campo Grande?\nA: The airport is located approximately 7 kilometers (about 4 miles) from the city center, a drive of around 15 to 20 minutes depending on traffic.\n\nQ: Does Campo Grande Airport have international flights?\nA: International service is limited; most international connections are made through larger hubs such as São Paulo or Brasília.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers standard amenities including restaurants, shops, car rental desks, Wi-Fi, and currency exchange services.\n\n",
+  "transport_tips": "Taxis and rideshare services are readily available outside the terminal for the short trip into central Campo Grande. Pre-booking a rideshare is recommended during peak travel periods. Car rental agencies operate at the airport and are a convenient option for travelers planning excursions into the Pantanal or surrounding countryside.",
+  "local_tip": "If you have a long layover or overnight stay, the nearby Parque das Nações Indígenas offers walking trails and local wildlife viewing without needing to travel into the city center.",
+  "generatedAt": "2026-06-29T04:28:32.085Z",
+  "model": "MiniMax-M3"
+}

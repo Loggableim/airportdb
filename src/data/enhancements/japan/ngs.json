@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NGS",
+    "icao": "RJFU",
+    "name": "Nagasaki Airport",
+    "country": "Japan",
+    "city": "Nagasaki",
+    "lat": 32.9169,
+    "lon": 129.914,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Nagasaki Airport serves the historic port city of Nagasaki on the western coast of Kyushu, Japan. Located in nearby Ōmura, it features scenic views of the Ariake Sea and surrounding islands. The single-terminal facility handles primarily domestic traffic alongside select international routes to East and Southeast Asia.",
+  "faqs": "Q: How far is Nagasaki Airport from Nagasaki city center?\nA: The airport is located in Ōmura, approximately 30-40 km north of Nagasaki city. Bus and taxi services connect the two, with journey times typically around 40-60 minutes depending on traffic.\n\nQ: What domestic destinations are available from Nagasaki Airport?\nA: The airport offers frequent domestic flights to Tokyo (Haneda and Narita), Osaka (Itami and Kansai), Nagoya (Chubu Centrair), and Fukuoka, operated primarily by JAL, ANA, and Solaseed Air.\n\nQ: Are there international flights from Nagasaki Airport?\nA: Yes, the airport has limited international services, with seasonal and scheduled flights to destinations including Shanghai, Seoul, and Taipei. Route availability varies by season.\n\nQ: What facilities are available at Nagasaki Airport?\nA: The airport features a single terminal with dining options including local Nagasaki specialties, duty-free shopping for international travelers, free Wi-Fi, and currency exchange services.",
+  "transport_tips": "The Nagasaki Prefectural Bus operates direct shuttle services between the airport and Nagasaki city's main bus terminal near JR Nagasaki Station, with departures timed to flight arrivals. Taxis are available outside the terminal and offer fixed-rate fares to certain city destinations. Rental car services are also available on-site for travelers wishing to explore the wider Nagasaki region independently.",
+  "local_tip": "Take a moment to enjoy the airport's observation area, which offers views of Ōmura Bay and the distinctive Ōmura Bridge. Frequent flyers recommend trying the local Nagasaki champon noodles or kakuni manju at the terminal's food court before boarding.",
+  "generatedAt": "2026-06-28T21:54:40.907Z",
+  "model": "MiniMax-M3"
+}

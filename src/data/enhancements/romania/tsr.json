@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TSR",
+    "icao": "LRTR",
+    "name": "Timișoara Traian Vuia International Airport",
+    "country": "Romania",
+    "city": "Timişoara",
+    "lat": 45.8099,
+    "lon": 21.3379,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Timișoara Traian Vuia International Airport (TSR) is the main air gateway to western Romania, serving the historic city of Timișoara in the Banat region. It is named after Traian Vuia, a Romanian aviation pioneer who made the world's first powered monoplane flight in 1906. The airport sits roughly 12 km northeast of the city center and is a key hub for travelers heading to western Romania or crossing into nearby Hungary and Serbia.",
+  "faqs": "Q: How far is the airport from Timișoara city center?\nA: The airport is approximately 10-12 km northeast of the city center, a drive of about 15-20 minutes depending on traffic.\n\nQ: Are there public transport options to reach the airport?\nA: Yes, city bus lines connect the airport with central Timișoara, and taxis and rideshare services are also readily available outside the terminal.\n\nQ: Does the airport operate flights all day?\nA: Flight schedules concentrate on daytime hours, with most departures and arrivals during the morning and afternoon. Check the airport website for the latest timetable.\n\nQ: Is there parking available at the airport?\nA: The airport offers on-site parking facilities, both short-stay and longer-term options, located within walking distance of the terminal.",
+  "transport_tips": "The Express bus line runs regularly between the airport and central Timișoara and is the most affordable option. Taxis and rideshare apps like Bolt are fast and inexpensive for the short journey. If driving, the airport is well-connected to the A1 motorway linking Timișoara with Bucharest and Hungary.",
+  "local_tip": "Timișoara is often called 'Little Vienna' for its Habsburg-era architecture; if you have a long layover or early arrival, head to Union Square (Piața Unirii) for pastel baroque buildings and excellent coffee shops in the old town.",
+  "generatedAt": "2026-06-28T20:28:03.965Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DBB",
+    "icao": "HEAL",
+    "name": "El Alamein International Airport",
+    "country": "Egypt",
+    "city": "El Alamein",
+    "lat": 30.9243,
+    "lon": 28.4616,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "El Alamein International Airport serves the rapidly developing North Coast of Egypt, an area historically renowned for the WWII battles that took place nearby. Located roughly 110 km west of Alexandria and close to the Mediterranean shoreline, the airport primarily supports tourism to the expanding resort corridor along Egypt's northwestern coast. As Egypt invests in the New El Alamein city project, DBB is positioned to become a key gateway for leisure travelers seeking pristine beaches and proximity to the famous El Alamein War Cemetery and Military Museum.",
+  "faqs": "Q: How far is the airport from El Alamein town and the war memorials?\nA: The airport is approximately 10-15 km from El Alamein town and the famous war cemetery and military museum, making it convenient for history-focused visitors.\n\nQ: Does El Alamein International Airport offer international flights?\nA: Yes, though flight options are more limited compared to major Egyptian hubs like Cairo or Borg El Arab; seasonal and charter services are the most common.\n\nQ: Are there hotels near the airport?\nA: Limited accommodation is available right at the airport, but options expand significantly in New El Alamein and along the North Coast resort strip.\n\nQ: Is the airport suitable for transit passengers?\nA: It is primarily designed for point-to-point leisure travel rather than transfers; travelers connecting internationally typically route through Cairo International Airport.",
+  "transport_tips": "Private transfers and pre-booked taxis are the most reliable way to reach the North Coast resorts, as public transport options are limited. Allow extra travel time during summer weekends when the coastal highway experiences heavy traffic. Car rentals can be arranged at the airport for those planning to explore the wider Mediterranean coast region.",
+  "local_tip": "Time your visit around April or October to enjoy the WWII history sites and beaches comfortably while avoiding the peak summer crowds that flood the North Coast resort towns.",
+  "generatedAt": "2026-06-29T01:03:55.957Z",
+  "model": "MiniMax-M3"
+}

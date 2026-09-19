@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WAP",
+    "icao": "SCAP",
+    "name": "Alto Palena Airport",
+    "country": "Chile",
+    "city": "Palena",
+    "lat": -43.6115,
+    "lon": -71.8055,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Alto Palena Airport is a small regional airport serving the remote commune of Palena in Chile's Los Lagos Region, deep in northern Patagonia near the Argentine border. The airport provides a vital air link for this sparsely populated area, which is otherwise accessed via long, winding roads through mountainous terrain. It primarily handles light aircraft and occasional regional flights, supporting both residents and visitors heading into the surrounding wilderness.",
+  "faqs": "Q: How large is Alto Palena Airport?\nA: It is a small regional airport with a single runway, primarily serving light aircraft and limited scheduled services.\n\nQ: Are there regular commercial flights to Alto Palena?\nA: Scheduled service is limited and often seasonal, with routes typically operated by small regional carriers. Travelers should check current availability before planning a trip.\n\nQ: Where is the airport located relative to the town?\nA: The airport sits a short distance from the town of Palena, on the edge of the Corcovado Gulf area, surrounded by forested Patagonian hills.\n\nQ: Can I cross into Argentina from Palena?\nA: Yes, Palena is near the Argentine border, and the Futaleufú and Palena river crossings connect to Argentine Patagonia, though overland travel can be slow due to rugged terrain.\n\n",
+  "transport_tips": "Ground transport from the airport to Palena town is limited; arranging a pickup in advance with a local hotel or guide is strongly recommended. Rental cars are not typically available on-site, so travelers often rely on shared transfers or private arrangements. Roads in the area are mostly unpaved and can be slow, so building extra time into itineraries is wise.",
+  "local_tip": "Pack layers regardless of season—Patagonian weather shifts rapidly between sunshine, wind, and rain, and the area's microclimates near the border can feel noticeably different within a short drive.",
+  "generatedAt": "2026-06-27T14:00:47.271Z",
+  "model": "MiniMax-M3"
+}

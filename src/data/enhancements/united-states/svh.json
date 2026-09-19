@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SVH",
+    "icao": "KSVH",
+    "name": "Statesville Regional Airport",
+    "country": "United States",
+    "city": "Statesville",
+    "lat": 35.7653,
+    "lon": -80.9539,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Statesville Regional Airport (SVH/KSVH) is a publicly owned general aviation facility located in Statesville, North Carolina, the seat of Iredell County. Situated in the western Piedmont region between Charlotte and Winston-Salem, the airport primarily serves corporate, recreational, and flight training activities. It features a single asphalt runway and provides fixed-base operator services for transient pilots.",
+  "faqs": "Q: What is Statesville Regional Airport primarily used for?\nA: The airport serves general aviation traffic, including private aircraft, flight training, and corporate flights, with no scheduled commercial airline service.\n\nQ: How far is the airport from downtown Statesville?\nA: The airport is located just a few miles south of downtown Statesville, typically a short 10-15 minute drive via local roads.\n\nQ: Does the airport have an FBO?\nA: Yes, fixed-base operator services are available on-site, offering fuel, hangar space, and basic amenities for pilots and passengers.\n\nQ: What facilities are available at the airport?\nA: The airport features a single paved runway, tie-down areas, hangars, and limited terminal services suitable for general aviation operations.\n\n",
+  "transport_tips": "Renting a car is the most practical option for reaching Statesville from the airport, as public transit is limited in this rural area. The airport is conveniently located near I-40 and I-77, making ground access to Charlotte (about 45 miles south) and Winston-Salem straightforward. Taxi and rideshare services may require advance booking given the small size of the facility.",
+  "local_tip": "If you have time before your flight, visit historic downtown Statesville, which is just minutes away and offers locally owned restaurants and the famous Signal Hill Mall with its distinctive mid-century architecture.",
+  "generatedAt": "2026-06-27T05:40:04.691Z",
+  "model": "MiniMax-M3"
+}

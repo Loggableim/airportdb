@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IFO",
+    "icao": "UKLI",
+    "name": "Ivano-Frankivsk International Airport",
+    "country": "Ukraine",
+    "city": "Ivano-Frankivsk",
+    "lat": 48.8842,
+    "lon": 24.6861,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Ivano-Frankivsk International Airport (IFO) serves the western Ukrainian city of Ivano-Frankivsk, the administrative center of Ivano-Frankivsk Oblast. Located near the Carpathian Mountains, the airport primarily handles domestic and regional flights, providing a gateway to the popular ski resorts and hiking destinations of the Ukrainian Carpathians. The facility has historically been a key aviation link between western Ukraine and other parts of the country.",
+  "faqs": "Q: How far is the airport from Ivano-Frankivsk city center?\nA: The airport is located approximately 5-6 km southwest of the city center, making it a quick drive of around 10-15 minutes depending on traffic.\n\nQ: Does Ivano-Frankivsk Airport offer international flights?\nA: The airport has handled both domestic and limited international routes in the past, though flight availability can vary. Check current schedules for active services.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airport, it offers standard passenger services including a terminal building, basic food and beverage options, and car parking facilities.\n\nQ: Is the airport open 24 hours?\nA: The airport typically operates according to scheduled flight times rather than 24-hour service, so arriving passengers should confirm operational hours in advance.",
+  "transport_tips": "Taxis and rideshare services are the most convenient way to reach the airport, with the short journey from the city center generally costing a modest fare. Shared marshrutka (minibus) routes also serve the airport area, offering a budget-friendly alternative for travelers familiar with local transport. Car rentals are available in Ivano-Frankivsk city, though advance booking is recommended during winter ski season.",
+  "local_tip": "If traveling during winter, consider scheduling extra time for your journey to the airport—the Carpathian region can experience heavy snowfall, and road conditions between the city and airport may be slower than expected.",
+  "generatedAt": "2026-06-29T11:36:29.298Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GDM",
+    "icao": "KGDM",
+    "name": "Gardner Municipal Airport",
+    "country": "United States",
+    "city": "Gardner",
+    "lat": 42.55,
+    "lon": -72.0161,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Gardner Municipal Airport is a small general aviation facility serving the city of Gardner in north-central Massachusetts. The airport primarily caters to private pilots, flight training, and recreational flying rather than commercial airline service. It features a single asphalt runway and serves as a convenient gateway for visitors to the Worcester County region.",
+  "faqs": "Q: Does Gardner Municipal Airport offer commercial flights?\nA: No, this is a general aviation airport with no scheduled commercial airline service. It primarily serves private pilots and small aircraft.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic general aviation amenities including a runway, tie-down areas for aircraft, and likely fuel services. Pilots should contact the airport directly for specific FBO services.\n\nQ: Can I fly in for flight training at Gardner Municipal?\nA: Yes, the airport is commonly used for flight training and pilot instruction. Contact local flight schools or the airport management for training availability.\n\nQ: What is the nearest major airport with commercial service?\nA: Worcester Regional Airport is the closest commercial-service airport, while Boston Logan International Airport is roughly 60 miles east for broader flight options.",
+  "transport_tips": "Getting to Gardner Municipal Airport typically requires a personal vehicle, as public transportation options in this rural area are limited. The airport is located just outside downtown Gardner with road access from Route 2 and Route 140. Rental car services can be arranged in nearby Fitchburg or Worcester if you do not have your own transport.",
+  "local_tip": "If you are flying in for a visit, take time to explore Mount Wachusett, which is just a short drive south and offers hiking, skiing, and panoramic views of New England.",
+  "generatedAt": "2026-06-27T03:21:15.996Z",
+  "model": "MiniMax-M3"
+}

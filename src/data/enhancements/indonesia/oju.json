@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OJU",
+    "icao": "WAFU",
+    "name": "Tanjung Api Airport",
+    "country": "Indonesia",
+    "city": "Tojo Una-Una",
+    "lat": -0.8654,
+    "lon": 121.6286,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Tanjung Api Airport is a small regional airfield serving Tojo Una-Una Regency in Central Sulawesi, Indonesia. Located near the coastal town of Ampana, it provides vital air access to the eastern coast of Sulawesi and the surrounding Gulf of Tomini area. The airport handles short-haul domestic flights on light aircraft, supporting tourism and local connectivity in a region known for marine biodiversity and Togian Islands access.",
+  "faqs": "Q: What is the airport code for Tanjung Api Airport?\nA: The IATA code is OJU and the ICAO code is WAFU.\n\nQ: Which city does Tanjung Api Airport serve?\nA: It serves Ampana and the broader Tojo Una-Una Regency in Central Sulawesi, Indonesia.\n\nQ: What types of flights operate from Tanjung Api Airport?\nA: The airport handles short-haul domestic flights on small turboprop aircraft, typically connecting to Makassar or other Sulawesi destinations.\n\nQ: Are there facilities for international flights?\nA: No, Tanjung Api Airport is a small domestic airfield without international service.\n\n",
+  "transport_tips": "Taxis and ojeks (motorcycle taxis) are typically available outside the terminal to reach Ampana town or the ferry port for connections to the Togian Islands. Road access from the airport is straightforward via the local coastal road network. Arranging ground transport in advance is recommended as vehicle availability can be limited.",
+  "local_tip": "If traveling onward to the Togian Islands, ask locals about the most current ferry schedule from Ampana port, as departures are often tied to tide and weather conditions rather than fixed daily times.",
+  "generatedAt": "2026-06-26T23:13:00.708Z",
+  "model": "MiniMax-M3"
+}

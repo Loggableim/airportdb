@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DRF",
+    "icao": "",
+    "name": "Drift River Airport",
+    "country": "United States",
+    "city": "Kenai",
+    "lat": 60.5889,
+    "lon": -152.162,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Drift River Airport (DRF) is a small general aviation airport situated on the western side of the Kenai Peninsula in Alaska, near the Drift River and Mount Redoubt volcano. The facility primarily supports access to remote oil and gas operations in the Cook Inlet basin and serves as a base for backcountry travelers and pilots exploring the surrounding wilderness. Its remote location and proximity to one of Alaska's most active volcanic peaks make it a distinctive and strategically positioned airstrip.",
+  "faqs": "Q: What is Drift River Airport primarily used for?\nA: The airport mainly supports general aviation, oil and gas industry operations in the Cook Inlet region, and access to remote areas of the Kenai Peninsula.\n\nQ: Is commercial airline service available at Drift River Airport?\nA: No, DRF does not offer scheduled commercial service. It is used primarily by private and charter aircraft.\n\nQ: What are the weather conditions like at Drift River Airport?\nA: The area experiences typical Kenai Peninsula weather with cold winters, cool summers, frequent cloud cover, and significant precipitation throughout the year.\n\nQ: Are there any volcanic hazards to be aware of?\nA: Mount Redoubt, an active stratovolcano, is located nearby and has historically produced ash clouds that can affect aviation in the region.",
+  "transport_tips": "Access to Drift River Airport requires a small aircraft as there are no road connections directly to the airstrip. Travelers typically fly in from Anchorage or Kenai via charter or private plane. The nearest road access is some distance away, so plan ground transportation accordingly for any onward journey.",
+  "local_tip": "Always check current volcanic activity advisories for Mount Redoubt before flying in, as ash plumes from past eruptions have temporarily closed the airspace over the Drift River area.",
+  "generatedAt": "2026-06-28T00:22:04.129Z",
+  "model": "MiniMax-M3"
+}

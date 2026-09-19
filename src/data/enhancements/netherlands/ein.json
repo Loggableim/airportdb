@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EIN",
+    "icao": "EHEH",
+    "name": "Eindhoven Airport",
+    "country": "Netherlands",
+    "city": "Eindhoven",
+    "lat": 51.4501,
+    "lon": 5.3745,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Eindhoven Airport is the second-largest airport in the Netherlands, located about 7 km west of the city of Eindhoven in the province of North Brabant. It shares its runway with Eindhoven Air Base, a Royal Netherlands Air Force installation, which explains its dual civil-military designation. The airport serves as a key gateway to the Brainport Eindhoven region, a major European technology and innovation hub, and is heavily used by low-cost carriers offering European destinations.",
+  "faqs": "Q: How far is Eindhoven Airport from the city center?\nA: The airport is approximately 7 km (4.3 miles) from Eindhoven's city center, with a typical journey time of 15-20 minutes by car or bus.\n\nQ: Which airlines operate from Eindhoven Airport?\nA: The airport is dominated by low-cost carriers, particularly Ryanair and Wizz Air, with several other European airlines serving routes across the continent.\n\nQ: Does Eindhoven Airport operate 24 hours?\nA: No, the airport has restricted operating hours, generally running from early morning until late evening. Night flights are prohibited due to noise regulations, which is common for airports in the Netherlands.\n\nQ: Is Eindhoven Airport the same as Amsterdam Schiphol?\nA: No, they are completely separate airports. Eindhoven is much smaller and located in the south of the country, about 125 km from Amsterdam.",
+  "transport_tips": "Bus 400 and Bus 401 provide direct, frequent connections between Eindhoven Airport and Eindhoven Central Station, running throughout the day and night on a 24/7 schedule. Taxis and ride-shares are available at the terminal, typically costing around €20-25 for the trip into the city. Drivers should note that the airport is well-signposted from the A2 motorway, with ample short-term and long-term parking available on-site.",
+  "local_tip": "If you have a few hours to spare, take Bus 400 to Eindhoven Central Station and visit the Philips Museum, just a 5-minute walk from the station, to learn about how the electronics giant shaped the city's identity.",
+  "generatedAt": "2026-06-28T16:31:40.122Z",
+  "model": "MiniMax-M3"
+}

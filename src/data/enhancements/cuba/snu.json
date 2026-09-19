@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SNU",
+    "icao": "MUSC",
+    "name": "Abel Santamaria International Airport",
+    "country": "Cuba",
+    "city": "Santa Clara",
+    "lat": 22.4922,
+    "lon": -79.9431,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Abel Santamaria International Airport serves Santa Clara in central Cuba and is the main gateway to the country's central provinces. Named after Abel Santamaria Cuadrado, a prominent figure in the Cuban Revolution, the airport handles both domestic flights and select international routes. Its central location makes it a convenient entry point for travelers heading to destinations like Trinidad, Cienfuegos, and the beach resorts of Cayo Santa Maria.",
+  "faqs": "Q: How far is Abel Santamaria Airport from Santa Clara city center?\nA: The airport is approximately 11 km (about 7 miles) southeast of Santa Clara's city center, typically a 20-30 minute drive.\n\nQ: Does the airport offer international flights?\nA: Yes, it receives international flights primarily from Canada, along with some charter services, in addition to regular domestic connections to Havana and other Cuban cities.\n\nQ: Are there currency exchange facilities at the airport?\nA: Yes, there are CADECA currency exchange offices available in the terminal where travelers can exchange foreign currency for Cuban pesos.\n\nQ: Is there parking available at the airport?\nA: The airport provides parking facilities for short-term and long-term stays near the terminal building.\n\n",
+  "transport_tips": "Taxis are the most common way to reach Santa Clara or nearby destinations; official airport taxis can be arranged at the terminal exit. Pre-booking a private transfer or taxi through your hotel or accommodation is recommended for longer journeys to places like Trinidad or Cayo Santa Maria. Viazul long-distance buses also connect Santa Clara to other major Cuban cities if you prefer ground transport.",
+  "local_tip": "If you have a layover or extra time, the city center is worth a quick visit to see the famous Che Guevara mausoleum and the Tren Blindado monument—both within a short taxi ride from the airport.",
+  "generatedAt": "2026-06-28T21:20:20.059Z",
+  "model": "MiniMax-M3"
+}

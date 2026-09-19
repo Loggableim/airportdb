@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TGP",
+    "icao": "UNIP",
+    "name": "Podkamennaya Tunguska Airport",
+    "country": "Russia",
+    "city": "Bor",
+    "lat": 61.5897,
+    "lon": 89.994,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Podkamennaya Tunguska Airport (TGP) is a medium-sized regional airport serving the settlement of Bor in the Krasnoyarsk Krai of central Siberia, Russia. The airport provides vital air access to one of the most remote and sparsely populated regions of Russia, situated along the Podkamennaya Tunguska River basin. It plays an important role in supporting the local Evenk communities, reindeer herders, and scientific expeditions drawn to the area.",
+  "faqs": "Q: Where is Podkamennaya Tunguska Airport located?\nA: The airport is located near the settlement of Bor in Krasnoyarsk Krai, Siberia, Russia, at coordinates 61.59°N, 89.99°E.\n\nQ: What is the airport code?\nA: The IATA code is TGP and the ICAO code is UNIP.\n\nQ: Is this airport connected to the Tunguska event?\nA: The airport takes its name from the Podkamennaya Tunguska River, which flows through the broader region where the famous 1908 Tunguska explosion occurred, though the exact epicenter lies further north.\n\nQ: What type of aircraft typically serve this airport?\nA: The airport generally handles regional turboprop aircraft suited to the short runway and remote conditions of central Siberia.\n\n",
+  "transport_tips": "Travelers typically reach the airport by ground transport from Bor, though options are limited given the remote setting. Flights are the most practical way in or out, as road connections in this part of Siberia are sparse and often unpaved. During winter months, freeze-up conditions can affect both ground travel and flight schedules, so plan for possible delays.",
+  "local_tip": "Pack warm layers regardless of season—temperatures in this part of Siberia can swing dramatically, and even summer mornings near the river can be surprisingly chilly.",
+  "generatedAt": "2026-06-26T10:13:10.902Z",
+  "model": "MiniMax-M3"
+}

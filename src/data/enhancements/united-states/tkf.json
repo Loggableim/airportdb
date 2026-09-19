@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TKF",
+    "icao": "KTRK",
+    "name": "Truckee Tahoe Airport",
+    "country": "United States",
+    "city": "Truckee",
+    "lat": 39.3186,
+    "lon": -120.1406,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Truckee Tahoe Airport (TKF) is a high-elevation general aviation facility nestled in the Sierra Nevada at roughly 5,900 feet above sea level, serving California's North Lake Tahoe region. It functions primarily as a gateway for private and charter flights heading to popular ski resorts such as Northstar, Palisades Tahoe, and Sugar Bowl, and is one of the few airports in the country to operate during severe winter weather thanks to dedicated snow removal crews. The airport sits adjacent to the historic railroad town of Truckee and is known for its strict noise abatement program designed to balance aviation access with community quality of life.",
+  "faqs": "Q: What is the elevation of Truckee Tahoe Airport?\nA: The field sits at approximately 5,900 feet above sea level, making it one of the higher-elevation airports in California and requiring careful performance planning for pilots.\n\nQ: Does TKF offer commercial airline service?\nA: No scheduled commercial carriers operate at TKF; the airport is dedicated to general aviation, private jets, charters, and flight training.\n\nQ: Why is Truckee Tahoe Airport so popular during winter?\nA: It provides fast access to several major Sierra ski resorts, and the airport remains operational during snowstorms thanks to its robust snow removal program.\n\nQ: Are there noise restrictions at TKF?\nA: Yes, the airport operates under a noise abatement program that limits certain nighttime operations and encourages specific arrival and departure procedures to reduce impact on nearby residents.\n\n",
+  "transport_tips": "Truckee Tahoe Airport is about three miles east of downtown Truckee, making taxi or rideshare trips to the town center very short. During ski season, rental cars and pre-arranged resort shuttles are the most reliable way to reach Northstar, Palisades Tahoe, and other mountain destinations. In winter, travelers should allow extra time for chain controls on Interstate 80 if heading to the broader Reno–Tahoe region.",
+  "local_tip": "If you are sensitive to mountain weather, plan morning flights in and out whenever possible—afternoon Sierra weather often brings gusty winds and buildups that can delay or divert general aviation",
+  "generatedAt": "2026-06-29T18:14:43.383Z",
+  "model": "MiniMax-M3"
+}

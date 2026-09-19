@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MCU",
+    "icao": "LFBK",
+    "name": "Montluçon-Guéret Airport",
+    "country": "France",
+    "city": "Lépaud, Creuse",
+    "lat": 46.2226,
+    "lon": 2.364,
+    "type": "medium_airport",
+    "size": 575
+  },
+  "summary": "Montluçon-Guéret Airport is a regional airfield serving the Creuse department in central France, located near the village of Lépaud. It primarily functions as a general aviation and business airport, providing access to the towns of Montluçon and Guéret as well as the surrounding Limousin countryside. The facility supports light aviation, flight training, and occasional charter operations rather than scheduled commercial service.",
+  "faqs": "Q: Does Montluçon-Guéret Airport have scheduled commercial flights?\nA: No, the airport does not currently offer regular scheduled commercial passenger service. It mainly handles general aviation, private flights, and flight training activities.\n\nQ: What towns does the airport serve?\nA: It primarily serves Montluçon and Guéret, two towns in the Creuse and Allier regions of central France.\n\nQ: Is the airport open to the public?\nA: The airport can be accessed by private pilots and passengers of general aviation flights, but it does not function as a commercial terminal.\n\nQ: What facilities are available at the airport?\nA: The airport features a terminal building, runways suitable for light and medium aircraft, and basic services for general aviation users.\n\n",
+  "transport_tips": "Reaching the airport typically requires a private vehicle, as public transport connections are limited in this rural area of central France. The closest major road access is via departmental routes connecting to the A714 motorway near Montluçon. Visitors coming from Guéret should expect roughly an hour's drive through scenic countryside.",
+  "local_tip": "If visiting the area, take advantage of the airport's proximity to the unspoiled landscapes of Creuse — one of France's least densely populated departments — perfect for hiking, cycling, and exploring medieval villages away from typical tourist routes.",
+  "generatedAt": "2026-06-29T17:36:32.997Z",
+  "model": "MiniMax-M3"
+}

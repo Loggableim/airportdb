@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "REN",
+    "icao": "UWOO",
+    "name": "Orenburg Central Airport",
+    "country": "Russia",
+    "city": "Orenburg",
+    "lat": 51.7927,
+    "lon": 55.4572,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Orenburg Central Airport (REN) is a regional airport serving Orenburg, a city in southwestern Russia near the Ural Mountains and the Kazakhstan border. It functions as a key aviation link for the Orenburg Oblast, connecting the region with major Russian hubs such as Moscow. The airport supports both civilian flights and historically has had connections to general aviation activities common to Russia's mid-sized regional fields.",
+  "faqs": "Q: What is the main purpose of Orenburg Central Airport?\nA: The airport primarily serves as a regional gateway for Orenburg Oblast, offering scheduled passenger flights to major Russian cities and supporting general aviation operations.\n\nQ: How far is the airport from Orenburg city center?\nA: Orenburg Central Airport is located approximately 15-20 kilometers east of the city center, typically a 20-30 minute drive depending on traffic.\n\nQ: Which airlines operate from this airport?\nA: Russian carriers such as Aeroflot and regional operators historically serve Orenburg with routes mainly to Moscow and other domestic destinations.\n\nQ: Is the airport used for international flights?\nA: While primarily domestic, the airport has historically handled some flights to neighboring CIS countries given Orenburg's proximity to Kazakhstan.",
+  "transport_tips": "Taxis and ride-hailing services are the most common way to reach the airport from central Orenburg, with the journey taking roughly 20-30 minutes. Limited marshrutka (fixed-route minibus) services may also connect the city with the airport area. Travelers should arrange ground transport in advance, especially for early morning departures when public options are restricted.",
+  "local_tip": "Pack a warm layer even in milder months—Orenburg's steppe climate can produce strong winds across the open airfield, and the terminal waiting areas can feel drafty during colder seasons.",
+  "generatedAt": "2026-06-29T14:10:47.589Z",
+  "model": "MiniMax-M3"
+}

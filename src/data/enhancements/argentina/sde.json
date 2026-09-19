@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SDE",
+    "icao": "SANE",
+    "name": "Vicecomodoro Angel D. La Paz Aragonés Airport",
+    "country": "Argentina",
+    "city": "Santiago del Estero",
+    "lat": -27.7656,
+    "lon": -64.31,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Vicecomodoro Angel D. La Paz Aragonés Airport serves Santiago del Estero, the oldest continuously inhabited city in Argentina, founded in 1553. Located in the northwestern Chaco region, this medium-sized airport provides vital air access to a province renowned for its folk music traditions and natural thermal springs. It honors an Argentine military aviation officer and functions as the principal gateway for travelers exploring this culturally rich but lesser-visited part of the country.",
+  "faqs": "Q: How far is the airport from Santiago del Estero city center?\nA: The airport is located relatively close to the city, typically a short drive of around 10-15 minutes depending on traffic and route taken.\n\nQ: What airlines operate at SDE?\nA: The airport is primarily served by domestic Argentine carriers offering flights to Buenos Aires and other major hubs.\n\nQ: Does the airport have international flights?\nA: No, Vicecomodoro La Paz Aragonés Airport handles domestic flights only.\n\nQ: Are there car rental services available at the airport?\nA: Ground transportation options including taxis and remises (private hire cars) are typically available, though rental car availability may be limited.\n\n",
+  "transport_tips": "Taxis and remises (private hire vehicles) are the most common ways to reach the city center from the airport. Travelers should arrange return transportation in advance, as taxi availability can be limited during off-peak hours. Ride-sharing apps have limited presence in this region, so pre-booking is recommended.",
+  "local_tip": "If you have time between flights, ask about visiting Termas de Río Hondo, the famous thermal hot springs resort about 70 km north of Santiago del Estero—locals swear by the therapeutic waters and it's one of the region's top attractions.",
+  "generatedAt": "2026-06-29T14:13:58.217Z",
+  "model": "MiniMax-M3"
+}

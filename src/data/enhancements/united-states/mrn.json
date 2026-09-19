@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MRN",
+    "icao": "KMRN",
+    "name": "Foothills Regional Airport",
+    "country": "United States",
+    "city": "Morganton",
+    "lat": 35.8202,
+    "lon": -81.6114,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Foothills Regional Airport (MRN) is a small general aviation airport serving Morganton, North Carolina, nestled in the scenic Blue Ridge foothills of western North Carolina. The airport supports private aviation, flight training, and corporate traffic for the surrounding Burke County region. Its location near Lake James and the Pisgah National Forest makes it a popular entry point for visitors exploring the southern Appalachian mountains.",
+  "faqs": "Q: What facilities are available at Foothills Regional Airport?\nA: The airport offers general aviation services including fuel, hangar space, tie-downs, and a terminal building, though it does not support scheduled commercial airline service.\n\nQ: Are there rental cars available at the airport?\nA: Rental car availability is limited; visitors typically arrange ground transportation in advance through local providers in Morganton.\n\nQ: What is the airport commonly used for?\nA: MRN primarily serves private pilots, flight training, corporate aviation, and recreational flights into the western North Carolina mountains.\n\nQ: Can I fly commercially into Morganton?\nA: No, Foothills Regional does not have commercial airline service. The nearest major commercial airports are Charlotte Douglas International (CLT) and Asheville Regional (AVL).",
+  "transport_tips": "Ground transportation from MRN typically requires a personal vehicle, rideshare, or pre-arranged pickup, as on-site rental services are limited. The airport is a short drive from downtown Morganton via local roads. Travelers flying in for longer stays often coordinate with local hotels for shuttle arrangements.",
+  "local_tip": "If visiting in warmer months, consider scheduling your arrival for early morning when mountain haze gives way to exceptional visibility over the Blue Ridge escarpment, making for a memorable scenic flight approach.",
+  "generatedAt": "2026-06-27T03:36:45.482Z",
+  "model": "MiniMax-M3"
+}

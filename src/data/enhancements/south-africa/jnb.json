@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JNB",
+    "icao": "FAOR",
+    "name": "O.R. Tambo International Airport",
+    "country": "South Africa",
+    "city": "Johannesburg",
+    "lat": -26.1401,
+    "lon": 28.2468,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "O.R. Tambo International Airport (JNB) is Africa's busiest airport and the primary international gateway to South Africa, located in Kempton Park about 25 km east of central Johannesburg. Renamed in 2006 in honour of anti-apartheid leader and ANC president Oliver Reginald Tambo, it serves as the main hub for South African Airways and handles over 21 million passengers annually. The airport sits at an elevation of roughly 1,694 metres, which can affect aircraft performance on longer routes.",
+  "faqs": "Q: How far is O.R. Tambo Airport from Johannesburg city centre?\nA: The airport is approximately 25 km (15 miles) east of central Johannesburg in Kempton Park, typically a 30-45 minute drive depending on traffic.\n\nQ: Does the airport have a train connection?\nA: Yes, the Gautrain rapid rail links the airport directly to Sandton and downtown Johannesburg, and onward to Pretoria, with a journey of about 15 minutes to Sandton.\n\nQ: Which terminal should I use for international flights?\nA: International departures and arrivals are handled at Terminal A, while Terminal B primarily serves domestic flights, though some international carriers also use Terminal B.\n\nQ: Is the airport safe for overnight layovers?\nA: The airport is generally considered secure with 24-hour security and overnight facilities, but it is advisable to stay within the terminal building during late hours.",
+  "transport_tips": "The Gautrain is the fastest and most predictable option to reach Sandton or central Johannesburg, bypassing notorious traffic congestion. Metered taxis, Uber, and dedicated airport shuttle services are readily available outside the terminals. If renting a car, allow extra time as the R21 and R24 highways leading to the airport are prone to peak-hour delays.",
+  "local_tip": "The airport's high elevation (1,694 m) means longer takeoff rolls are sometimes required, so flights to distant destinations like Perth or São Paulo may occasionally use weight restrictions—checking your baggage allowance in advance can save a last-minute repacking at the check-in counter.",
+  "generatedAt": "2026-06-28T17:57:02.871Z",
+  "model": "MiniMax-M3"
+}

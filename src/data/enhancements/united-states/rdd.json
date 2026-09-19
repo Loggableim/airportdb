@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RDD",
+    "icao": "KRDD",
+    "name": "Redding Municipal Airport",
+    "country": "United States",
+    "city": "Redding",
+    "lat": 40.509,
+    "lon": -122.293,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Redding Municipal Airport serves the city of Redding in Shasta County, Northern California, providing commercial and general aviation services for the region. Situated in the Sacramento River valley near the southern end of the Cascade Range, the airport connects travelers to a gateway area known for outdoor recreation including Shasta Lake, Mount Shasta, and Lassen Volcanic National Park. It operates as a medium-sized public airport with a single primary runway.",
+  "faqs": "Q: What airlines fly into Redding Municipal Airport?\nA: Redding Municipal Airport has historically been served by regional carriers offering connections to larger hubs, though service can vary. United Express has been a common operator providing connections to San Francisco.\n\nQ: How far is the airport from downtown Redding?\nA: The airport is located approximately 6 miles south of downtown Redding, making it a short drive from the city center.\n\nQ: Does Redding Municipal Airport have car rental services?\nA: Yes, car rental agencies typically operate at the airport, offering convenient options for travelers heading to nearby recreational destinations.\n\nQ: Is there overnight parking at the airport?\nA: The airport offers parking facilities for both short-term and long-term stays, making it accessible for travelers and those picking up arriving passengers.",
+  "transport_tips": "The airport is conveniently located just off Interstate 5, making it easily accessible by car from most parts of Shasta County. Taxi services and rideshare options are available for transfers to downtown Redding or nearby hotels. Rental cars are recommended for visitors planning to explore the surrounding natural attractions such as Shasta Lake and Whiskeytown National Recreation Area.",
+  "local_tip": "If you have time between flights, take a short drive to nearby Turtle Bay Exploration Park, which features exhibits on the region's natural history, a walk-through aviary, and beautiful Sacramento River views—just minutes from the airport.",
+  "generatedAt": "2026-06-29T03:21:10.818Z",
+  "model": "MiniMax-M3"
+}

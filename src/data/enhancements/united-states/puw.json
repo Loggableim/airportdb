@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PUW",
+    "icao": "KPUW",
+    "name": "Pullman-Moscow Regional Airport",
+    "country": "United States",
+    "city": "Pullman",
+    "lat": 46.7416,
+    "lon": -117.1116,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Pullman-Moscow Regional Airport (PUW/KPUW) is a public-use airport located in the Palouse region of southeastern Washington State, jointly serving the twin college towns of Pullman, WA, and Moscow, ID. The airport functions as the primary air gateway for both Washington State University and the University of Idaho, facilitating significant student and faculty travel. It features a single asphalt runway and is operated by the Pullman-Moscow Regional Airport Board representing both communities.",
+  "faqs": "Q: What airlines serve Pullman-Moscow Regional Airport?\nA: The airport is primarily served by Alaska Airlines (operated by Horizon Air) with regional jet service, typically connecting to Seattle-Tacoma International Airport.\n\nQ: How far is the airport from Moscow, Idaho?\nA: The airport is approximately 8 miles east of Moscow, ID, and about 5 miles southwest of Pullman, WA, making it roughly equidistant from both downtowns.\n\nQ: Does the airport have its own car rental facilities?\nA: Yes, on-site car rental agencies are available in the terminal, and rental cars are essential in this region where public transportation between the two university towns is limited.\n\nQ: Is there overnight parking at PUW?\nA: Yes, the airport offers long-term and short-term parking lots adjacent to the terminal building for both passenger and extended-stay parking needs.",
+  "transport_tips": "Since the airport sits between two cities, confirm your final destination before booking ground transportation. Rental cars are the most convenient option as there is no regular public bus service to the terminal. Ride-sharing services and pre-arranged hotel shuttles from both Pullman and Moscow are available but should be booked in advance.",
+  "local_tip": "If you're visiting during Cougar football season at Washington State, book flights and rental cars months in advance—the tiny terminal gets remarkably busy on game weekends, and the single runway creates bottlenecks that ripple through the schedule.",
+  "generatedAt": "2026-06-29T18:45:29.444Z",
+  "model": "MiniMax-M3"
+}

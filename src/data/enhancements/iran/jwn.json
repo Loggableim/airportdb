@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JWN",
+    "icao": "OITZ",
+    "name": "Zanjan Airport",
+    "country": "Iran",
+    "city": "Zanjan",
+    "lat": 36.7737,
+    "lon": 48.3594,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Zanjan Airport (JWN/OITZ) is a medium-sized regional airport serving the historic city of Zanjan in northwestern Iran. Situated on the outskirts of the city at an elevation suitable for the surrounding mountainous terrain, it primarily handles domestic flights and serves as a gateway to Zanjan Province, an area known for its ancient Silk Road heritage and distinctive handicrafts. The airport provides important connectivity for a region otherwise reliant on longer road journeys to larger hubs.",
+  "faqs": "Q: What is the airport code for Zanjan Airport?\nA: Zanjan Airport uses the IATA code JWN and the ICAO code OITZ.\n\nQ: Does Zanjan Airport offer international flights?\nA: The airport primarily operates domestic flights, with international travelers typically connecting through major Iranian hubs like Tehran or Tabriz.\n\nQ: Where is Zanjan Airport located relative to the city?\nA: The airport is situated on the outskirts of Zanjan city in northwestern Iran, roughly southwest of the urban center.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional facility, the airport offers standard passenger amenities including a terminal building, basic waiting areas, and ground transportation options.\n\n",
+  "transport_tips": "Taxis are the most common way to reach the airport from central Zanjan, with the journey typically taking around 20-30 minutes depending on traffic. Shared taxis (savari) heading toward the airport area can be a more economical option for budget-conscious travelers. Renting a car with a driver is also readily available in the city and can be arranged through hotels.",
+  "local_tip": "If you have time before your flight, visit the nearby Zanjan Bazaar, one of the longest traditional bazaars in Iran, to pick up locally famous Malileh jewelry or traditional Zanjan knives as souvenirs—the airport area itself has very limited shopping options.",
+  "generatedAt": "2026-06-26T13:59:08.980Z",
+  "model": "MiniMax-M3"
+}

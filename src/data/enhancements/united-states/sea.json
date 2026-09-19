@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SEA",
+    "icao": "KSEA",
+    "name": "Seattle–Tacoma International Airport",
+    "country": "United States",
+    "city": "Seattle",
+    "lat": 47.4479,
+    "lon": -122.3103,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Seattle–Tacoma International Airport (SEA) is the largest airport in the Pacific Northwest, serving as the primary hub for Alaska Airlines and a major gateway for transpacific flights to Asia. Located about 14 miles south of downtown Seattle and roughly 20 miles north of Tacoma, it sits on the shores of Puget Sound. The airport is known for its modern facilities, extensive public art collection, and efficient passenger flow despite handling tens of millions of travelers annually.",
+  "faqs": "Q: How far is SEA from downtown Seattle?\nA: The airport is approximately 14 miles (23 km) south of downtown Seattle, typically a 25–40 minute drive depending on traffic.\n\nQ: Does SEA have public transit access?\nA: Yes, the Sound Transit Link light rail provides direct service between the airport and downtown Seattle, with stops including Westlake Center.\n\nQ: How many terminals does SEA have?\nA: SEA operates a single main terminal complex divided into four concourses: A, B, C, and N, all connected post-security.\n\nQ: Is SEA a major international hub?\nA: Yes, it serves as Alaska Airlines' primary hub and offers numerous nonstop flights to destinations across Asia, Europe, and North America.",
+  "transport_tips": "The Link light rail is often the fastest and most predictable way to reach downtown Seattle, avoiding I-5 traffic congestion. Rideshare pickups and taxis are available at designated zones on the airport's main drive, but expect surge pricing during peak hours. For travelers heading south toward Tacoma or the Olympia area, driving or taking a shuttle is generally more efficient than transit.",
+  "local_tip": "If you have a layover or extra time, visit the airport's central terminal mezzanine level, which features rotating art exhibitions and locally sourced Pacific Northwest food vendors that reflect the region's culture.",
+  "generatedAt": "2026-06-28T17:55:48.878Z",
+  "model": "MiniMax-M3"
+}

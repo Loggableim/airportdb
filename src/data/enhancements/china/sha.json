@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SHA",
+    "icao": "ZSSS",
+    "name": "Shanghai Hongqiao International Airport",
+    "country": "China",
+    "city": "Shanghai (Minhang)",
+    "lat": 31.1981,
+    "lon": 121.3343,
+    "type": "large_airport",
+    "size": 1016175
+  },
+  "summary": "Shanghai Hongqiao International Airport (SHA) is one of China's busiest airports, located in the Minhang District approximately 13 km west of central Shanghai. Originally established as a military airfield in the 1920s, it has evolved into a major integrated transport hub, with its Terminal 2 directly connected to the Hongqiao Railway Station, allowing seamless transfers between air, high-speed rail, and metro services. It primarily serves domestic and regional flights, complementing Pudong International Airport for international long-haul traffic.",
+  "faqs": "Q: How far is Shanghai Hongqiao Airport from the city center?\nA: Hongqiao Airport is roughly 13-15 km west of central Shanghai, making it significantly closer to the city center than Pudong International Airport. A taxi or metro ride typically takes 30-45 minutes depending on traffic.\n\nQ: Which airlines operate primarily out of Hongqiao Airport?\nA: China Eastern Airlines and Shanghai Airlines use Hongqiao as a major hub, alongside carriers such as Air China, China Southern, XiamenAir, Juneyao Airlines, and Spring Airlines. Most flights are domestic, with select regional routes to Japan, Korea, and Southeast Asia.\n\nQ: Can I catch a high-speed train directly from the airport?\nA: Yes. Hongqiao Railway Station is integrated with Terminal 2, allowing passengers to transfer directly between flights and high-speed rail services to cities like Beijing, Hangzhou, Nanjing, and Suzhou.\n\nQ: What metro lines serve Hongqiao Airport?\nA: Metro Line 2 connects the airport to central Shanghai and Pudong Airport, while Line 10 provides service between Terminal 1 and Terminal 2 and extends into the city.",
+  "transport_tips": "The airport's direct connection to Hongqiao Railway Station makes it ideal for combined train and flight itineraries. Metro Line 2 is often the fastest and most predictable option into central Shanghai, avoiding road traffic. Taxis are readily available but can be slow during rush hour, particularly on the Yan'an Elevated Road.",
+  "local_tip": "If you have a long layover, the Hongqiao Railway Station complex next to Terminal 2 has excellent dining options and is worth exploring, but remember that food and beverages from outside the terminal are generally not allowed through security checkpoints.",
+  "generatedAt": "2026-06-28T15:14:05.804Z",
+  "model": "MiniMax-M3"
+}

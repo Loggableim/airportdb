@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MKE",
+    "icao": "KMKE",
+    "name": "General Mitchell International Airport",
+    "country": "United States",
+    "city": "Milwaukee",
+    "lat": 42.9472,
+    "lon": -87.8966,
+    "type": "large_airport",
+    "size": 1575
+  },
+  "summary": "General Mitchell International Airport (MKE) is Wisconsin's largest airport, located approximately 5 miles south of downtown Milwaukee. Named after Brigadier General William 'Billy' Mitchell, a Milwaukee-born aviation pioneer and early advocate for American air power, the airport has served southeastern Wisconsin since 1926. It features a main terminal with multiple concourses, an international terminal, and the free Mitchell Gallery of Flight museum showcasing aviation history.",
+  "faqs": "Q: How far is General Mitchell International Airport from downtown Milwaukee?\nA: The airport is approximately 5 miles south of downtown Milwaukee, typically a 15-20 minute drive depending on traffic via I-94.\n\nQ: Does MKE have an international terminal?\nA: Yes, MKE has a separate International Terminal that handles flights to destinations including Mexico, the Caribbean, and seasonal international routes.\n\nQ: Is there public transportation to the airport?\nA: Yes, Milwaukee County Transit System Route 80 (PurpleLine) provides service between the airport and downtown Milwaukee, and rideshare services like Uber and Lyft are readily available.\n\nQ: Are there any museums or attractions inside the airport?\nA: Yes, the Mitchell Gallery of Flight is a free aviation museum located in the main terminal featuring historic aircraft, memorabilia, and exhibits honoring General Billy Mitchell.",
+  "transport_tips": "The airport is most easily accessed via Interstate 94, with clear signage directing travelers to the terminal entrances. Rideshare pickup zones and taxi stands are located on the lower level outside baggage claim, while the Milwaukee County Transit bus (Route 80) offers affordable public transit to downtown. Several on-site parking options are available, including short-term, long-term, and economy lots with shuttle service.",
+  "local_tip": "Take advantage of the free Mitchell Gallery of Flight museum in the main terminal—it's a hidden gem featuring vintage",
+  "generatedAt": "2026-06-28T16:11:59.045Z",
+  "model": "MiniMax-M3"
+}

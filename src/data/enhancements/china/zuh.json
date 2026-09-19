@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ZUH",
+    "icao": "ZGSD",
+    "name": "Zhuhai Jinwan Airport",
+    "country": "China",
+    "city": "Zhuhai (Jinwan)",
+    "lat": 22.0064,
+    "lon": 113.376,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Zhuhai Jinwan Airport is a modern international airport serving Zhuhai in China's Guangdong Province, located in the Jinwan District along the western Pearl River Delta. It replaced the older Zhuhai Sanzao Airport, with the relocation completed in 2006 to accommodate growing demand from the Greater Bay Area. The airport serves as an important gateway for travel between mainland China, Hong Kong, and Macau.",
+  "faqs": "Q: How far is Zhuhai Jinwan Airport from the city center?\nA: The airport is approximately 30-40 km southwest of downtown Zhuhai, with typical journey times of 40-60 minutes depending on traffic.\n\nQ: Does Zhuhai Jinwan Airport have international flights?\nA: Yes, the airport handles both domestic flights and regional international routes, including services to Southeast Asia and other destinations in East Asia.\n\nQ: Can I travel directly from Zhuhai Airport to Macau?\nA: Yes, there are ferry and bus connections available linking Zhuhai and Macau, making cross-border travel relatively convenient.\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard amenities including dining, retail shops, currency exchange, and lounges for domestic and international travelers.",
+  "transport_tips": "Airport shuttle buses connect the terminal to downtown Zhuhai and key locations including the Gongbei border crossing with Macau. Taxis and ride-hailing services are readily available outside the terminal, though fares to central Zhuhai are relatively expensive due to the distance. The airport is also accessible via the Jiangmen-Zhuhai Expressway if you are driving or being picked up.",
+  "local_tip": "If you're heading to Macau, consider taking a ferry from the Zhuhai Ferry Terminal in the city rather than crossing at Gongbei—it's often faster and less crowded during peak travel times.",
+  "generatedAt": "2026-06-28T22:11:04.596Z",
+  "model": "MiniMax-M3"
+}

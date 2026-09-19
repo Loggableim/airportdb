@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VHV",
+    "icao": "UENI",
+    "name": "Verkhnevilyuisk Airport",
+    "country": "Russia",
+    "city": "Verkhnevilyuisk",
+    "lat": 63.4581,
+    "lon": 120.2692,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Verkhnevilyuisk Airport is a small regional airfield serving the settlement of Verkhnevilyuisk in the Sakha Republic (Yakutia), one of the most remote and sparsely populated regions of eastern Siberia. The airport primarily supports local passenger transport, connecting this isolated community with larger regional hubs. Its location near the Vilyuy River places it within a vast taiga landscape known for extreme seasonal temperature variations.",
+  "faqs": "Q: What type of aircraft typically serves Verkhnevilyuisk Airport?\nA: The airport primarily handles small turboprop aircraft suitable for short regional routes and remote-area operations common across Yakutia.\n\nQ: Are there scheduled commercial flights to Verkhnevilyuisk?\nA: Limited scheduled passenger service is available, connecting the settlement with Yakutsk and other regional destinations, though schedules can vary seasonally.\n\nQ: Does the airport operate year-round despite harsh winters?\nA: Yes, the airport remains operational throughout the year, though winter temperatures in the Sakha Republic regularly drop well below -40°C, which can affect flight reliability.\n\nQ: Is there a terminal building with passenger amenities?\nA: As a small airfield, facilities are basic, typically consisting of a modest terminal with limited services appropriate for its low passenger volumes.\n\n",
+  "transport_tips": "Ground transportation to and from the airport is limited; visitors typically arrange private transport or use local taxi services in advance. The settlement itself is compact, and most destinations within Verkhnevilyuisk are reachable within a short drive. Given the airport's remote location, travelers should confirm transport arrangements before arrival, especially during winter months when road conditions can be challenging.",
+  "local_tip": "Pack layered cold-weather clothing regardless of the season, as temperatures in the Vilyuy region can swing dramatically between frigid winters and surprisingly warm summer days, and the small terminal offers minimal shelter during weather delays.",
+  "generatedAt": "2026-06-26T23:28:32.976Z",
+  "model": "MiniMax-M3"
+}

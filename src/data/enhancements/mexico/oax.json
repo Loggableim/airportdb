@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OAX",
+    "icao": "MMOX",
+    "name": "Xoxocotlán International Airport",
+    "country": "Mexico",
+    "city": "Oaxaca",
+    "lat": 16.9988,
+    "lon": -96.7261,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Xoxocotlán International Airport (OAX/MMOX) is the main gateway to Oaxaca City in southern Mexico, located about 7 km south of the city center in the municipality of Santa Cruz Xoxocotlán. It serves as the primary access point for travelers visiting the UNESCO World Heritage sites of Oaxaca's historic center and the nearby Zapotec ruins of Monte Albán. The airport handles both domestic flights from major Mexican cities and select international routes, making it a key hub for cultural tourism in the region.",
+  "faqs": "Q: How far is Xoxocotlán International Airport from Oaxaca city center?\nA: The airport is approximately 7 km (about 4.3 miles) south of Oaxaca's historic center, typically a 20-30 minute drive depending on traffic.\n\nQ: Does the airport offer international flights?\nA: Yes, the airport serves several international destinations including flights from the United States, primarily from cities like Houston, Dallas, and Los Angeles, in addition to domestic Mexican routes.\n\nQ: Are there currency exchange services at OAX airport?\nA: Yes, currency exchange booths and ATMs are available in the terminal for converting to Mexican pesos.\n\nQ: Is there a left luggage facility at the airport?\nA: Limited luggage storage services may be available; it's advisable to ask at the information desk upon arrival.",
+  "transport_tips": "Authorized taxi services are available directly outside the terminal and offer fixed rates to the city center; confirm the price before boarding. Shuttle services and rideshare apps like Uber also operate at the airport, often at lower rates than taxis. For travelers continuing to other destinations in Oaxaca state, rental car agencies have counters in the arrivals area.",
+  "local_tip": "If you have a layover or early arrival, visit the nearby Mercado de Abastos for an authentic taste of Oaxacan culture, including chapulines (crunchy grasshoppers) and fresh mole pastes, just a short taxi ride from the terminal.",
+  "generatedAt": "2026-06-28T20:10:33.094Z",
+  "model": "MiniMax-M3"
+}

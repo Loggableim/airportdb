@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TWE",
+    "icao": "",
+    "name": "Taylor Airport",
+    "country": "United States",
+    "city": "Taylor",
+    "lat": 65.6793,
+    "lon": -164.799,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Taylor Airport (TWE) is a small public-use airport serving the remote community of Taylor, located in the Nome Census Area of western Alaska near the Bering Sea coast. The facility primarily supports general aviation and serves as a vital transportation link for this isolated Alaskan village, where road access is extremely limited. Its operation is essential for mail delivery, medical evacuations, and connecting residents to larger regional hubs.",
+  "faqs": "Q: Where is Taylor Airport located?\nA: Taylor Airport is located in Taylor, a small community in western Alaska's Nome Census Area, near the Bering Sea coastline.\n\nQ: What type of aircraft use Taylor Airport?\nA: The airport primarily serves small general aviation aircraft, including bush planes and small propeller planes suited for remote Alaska operations.\n\nQ: Are there commercial flights to Taylor Airport?\nA: Scheduled commercial service is limited; most passengers connect through larger Alaskan hubs like Nome and arrange charter or bush plane service.\n\nQ: What is the airport mainly used for?\nA: It supports essential services such as mail delivery, passenger transport, medical evacuations, and cargo for the local community.\n\n",
+  "transport_tips": "Travelers typically reach Taylor Airport via connecting flights from Nome, often using small regional carriers or chartered bush planes. Ground transportation options in Taylor are very limited, so arranging pickup in advance with a local contact is strongly recommended. Weather conditions in the Bering Sea region can cause delays, so building flexibility into travel plans is essential.",
+  "local_tip": "Pack layered clothing and bring all necessary supplies with you, as Taylor has very limited services and weather-related flight delays are common, sometimes stranding visitors for a day or more.",
+  "generatedAt": "2026-06-28T09:18:28.919Z",
+  "model": "MiniMax-M3"
+}

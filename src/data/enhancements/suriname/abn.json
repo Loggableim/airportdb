@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ABN",
+    "icao": "SMBN",
+    "name": "Albina Airport",
+    "country": "Suriname",
+    "city": "Albina",
+    "lat": 5.5127,
+    "lon": -54.0501,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Albina Airport (ABN) is a small regional airport serving the eastern Surinamese town of Albina, situated along the Marowijne River which forms the natural border with French Guiana. The airport primarily handles short domestic flights and serves as an important gateway for travelers visiting the Marowijne district and the nearby Galibi nature reserves known for sea turtle nesting. Its proximity to the French Guianese town of Saint-Laurent-du-Maroni makes it a useful crossing point for regional travel between the two countries.",
+  "faqs": "Q: What airlines operate from Albina Airport?\nA: Domestic carriers such as Gum Air and Blue Wing Airlines typically operate small aircraft flights to and from Albina, connecting it to Paramaribo.\n\nQ: How far is Albina Airport from the town center?\nA: The airport is located just a short drive from central Albina, usually within a few kilometers of the main town area along the Marowijne River.\n\nQ: Are there international flights from Albina Airport?\nA: The airport primarily handles domestic routes, though its location near French Guiana means some travelers cross the border by land to or from Saint-Laurent-du-Maroni.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, Albina offers basic terminal facilities suitable for short-haul turboprop operations rather than extensive amenities.",
+  "transport_tips": "Taxis and local transport are typically available at Albina Airport to take passengers into town or to the river crossing point for French Guiana. The road connection to Paramaribo is long and partly unpaved, so flying is strongly recommended for travelers heading west. Border formalities for crossing into French Guiana are handled at the river crossing rather than at the airport itself.",
+  "local_tip": "If visiting during sea turtle nesting season (February to July), ask local pilots about combined transport to the Galibi beaches, where guided night tours to observe leatherback turtles can often be arranged through nearby indigenous communities.",
+  "generatedAt": "2026-06-27T11:23:28.014Z",
+  "model": "MiniMax-M3"
+}

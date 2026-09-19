@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HDM",
+    "icao": "OIHH",
+    "name": "Hamadan Airport",
+    "country": "Iran",
+    "city": "Hamadan",
+    "lat": 34.8664,
+    "lon": 48.5607,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Hamadan Airport (HDM/OIHH) is a regional airport serving Hamadan, one of the world's oldest cities and the historic site of ancient Ecbatana, once the capital of the Median Empire. Located in western Iran, it primarily handles domestic flights connecting the city to Tehran and other major Iranian destinations. The airport serves as a gateway to significant cultural and historical landmarks, including the tomb of Avicenna and the traditional burial sites of Esther and Mordecai.",
+  "faqs": "Q: How far is Hamadan Airport from the city center?\nA: The airport is approximately 5-7 kilometers northwest of Hamadan's city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Does Hamadan Airport offer international flights?\nA: The airport primarily operates domestic flights, mainly to Tehran, with limited international service.\n\nQ: What facilities are available at the airport?\nA: The terminal offers basic amenities including a small café, basic retail, car rental services, and a parking area suitable for a medium-sized regional facility.\n\nQ: Are there ATMs and currency exchange at the airport?\nA: Limited banking services may be available, but it is advisable to carry sufficient Iranian rial for transportation and immediate needs upon arrival.\n\n",
+  "transport_tips": "Taxis are the most common and reliable way to reach central Hamadan from the airport; negotiate the fare before departure as meters are rarely used. Ride-hailing apps like Snapp and Tapsi operate in Hamadan and can be used if you have a local SIM card or internet access. Private transfer services and hotel pickups can be arranged in advance for a smoother experience, especially during late arrivals.",
+  "local_tip": "If you have a few hours between flights, consider visiting the nearby Avicenna Mausoleum and the Ganjnameh inscriptions—both are within a short drive of the airport and offer a meaningful glimpse into Hamadan's extraordinary ancient heritage.",
+  "generatedAt": "2026-06-29T22:30:55.434Z",
+  "model": "MiniMax-M3"
+}

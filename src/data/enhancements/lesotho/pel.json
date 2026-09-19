@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PEL",
+    "icao": "FXPG",
+    "name": "Pelaneng Airport",
+    "country": "Lesotho",
+    "city": "Pelaneng",
+    "lat": -29.0881,
+    "lon": 28.4972,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Pelaneng Airport is a small airfield serving the rural community of Pelaneng in the highlands of Lesotho, a landlocked kingdom entirely surrounded by South Africa. As a small regional airport with limited infrastructure, it primarily supports light aircraft operations, charter flights, and occasional humanitarian or medical transport missions typical of remote mountain areas. Its high-elevation location in the Maloti Mountains region reflects the challenging terrain that characterizes aviation throughout Lesotho.",
+  "faqs": "Q: What type of aircraft can use Pelaneng Airport?\nA: As a small highland airport, Pelaneng primarily accommodates light aircraft, small turboprops, and charter planes suited to shorter runways and mountainous conditions.\n\nQ: Are there scheduled commercial flights to Pelaneng?\nA: No scheduled commercial service operates at this airport. It is generally used for private, charter, or mission-specific flights rather than regular passenger routes.\n\nQ: Is Pelaneng Airport suitable for night operations?\nA: Given its small size and likely minimal lighting infrastructure, operations are generally limited to daylight hours, consistent with most small rural airfields in Lesotho.\n\nQ: What facilities are available at the airport?\nA: Facilities are minimal, typical of small rural airstrips, with basic landing infrastructure and no large terminal building or extensive passenger amenities.",
+  "transport_tips": "Travelers heading to Pelaneng typically arrange ground transport in advance through local contacts or charter operators, as the airport is in a remote highland area. Roads from major centers like Maseru can be mountainous and slow, so allowing extra travel time is advisable. Many visitors combine air and ground transport, flying into larger airports in Lesotho and completing the journey overland.",
+  "local_tip": "Weather in the Lesotho highlands can change rapidly, so visiting during the dry winter months (May to August) generally offers more reliable flying conditions and clearer mountain views than the summer rainy season.",
+  "generatedAt": "2026-06-28T05:36:59.024Z",
+  "model": "MiniMax-M3"
+}

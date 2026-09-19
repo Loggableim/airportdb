@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YPR",
+    "icao": "CYPR",
+    "name": "Prince Rupert Airport",
+    "country": "Canada",
+    "city": "Prince Rupert",
+    "lat": 54.2861,
+    "lon": -130.445,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Prince Rupert Airport (YPR) is a medium-sized regional airport located on Digby Island in British Columbia, Canada, serving the coastal city of Prince Rupert and the North Coast region. The airport connects this remote Pacific Northwest community to Vancouver and other provincial destinations, playing a vital role in supporting the area's port, fishing, and tourism industries. Travelers reach the terminal via a short ferry crossing from the mainland, making air access uniquely tied to the region's maritime character.",
+  "faqs": "Q: How do you get to Prince Rupert Airport from the city?\nA: The airport is located on Digby Island, so travelers must take a short BC Ferries crossing from the downtown Prince Rupert terminal. Passengers should arrive at the ferry terminal with enough time to board the vessel before their flight.\n\nQ: What airlines operate from Prince Rupert Airport?\nA: The airport is primarily served by Air Canada with daily flights to Vancouver, along with seasonal charter services connecting to other northern British Columbia communities.\n\nQ: Is there parking available at the airport?\nA: Parking is available near the Digby Island ferry terminal on the mainland side, rather than directly at the air terminal on the island.\n\nQ: How early should I arrive before my flight?\nA: Travelers should plan to arrive at the ferry terminal at least 60-90 minutes before departure to allow time for the crossing and check-in procedures.",
+  "transport_tips": "Driving from downtown Prince Rupert to the ferry terminal takes only about 10 minutes, with short-term and long-term parking available nearby. Taxi and shuttle services operate between the city and the airport ferry terminal. Be sure to check ferry schedules in advance, as crossings are weather-dependent and may be affected by coastal fog.",
+  "local_tip": "Keep your camera ready during the ferry crossing and flight approaches—the aerial views of the surrounding Inside Passage waterways and coastal mountains are stunning and a highlight even for seasoned travelers.",
+  "generatedAt": "2026-06-29T05:38:36.907Z",
+  "model": "MiniMax-M3"
+}

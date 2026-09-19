@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YWH",
+    "icao": "CYWH",
+    "name": "Victoria Harbour Seaplane Base",
+    "country": "Canada",
+    "city": "Victoria",
+    "lat": 48.4238,
+    "lon": -123.372,
+    "type": "seaplane_base",
+    "size": 625
+  },
+  "summary": "Victoria Harbour Seaplane Base (YWH) is a floatplane terminal situated on Victoria's picturesque Inner Harbour, serving as a key gateway between Vancouver Island and mainland British Columbia. Located steps from downtown Victoria, it offers travelers spectacular aerial views of the Gulf Islands and the Strait of Juan de Fuca. The base primarily supports scheduled commuter flights to downtown Vancouver, Vancouver International Airport, and Seattle's Lake Union, making it one of Canada's busiest seaplane terminals.",
+  "faqs": "Q: How long is the flight from Victoria Harbour to Vancouver?\nA: The flight to downtown Vancouver typically takes about 35 minutes, making it faster than the combined ferry and driving time.\n\nQ: Are there baggage restrictions at this seaplane base?\nA: Yes, seaplane carriers enforce strict weight and size limits due to aircraft capacity. Passengers should check with their operator regarding luggage allowances before travel.\n\nQ: Can I walk from the seaplane terminal to downtown Victoria hotels?\nA: Absolutely. The terminal is located directly on the Inner Harbour, and most major downtown hotels, restaurants, and attractions are within a 10-15 minute walking distance.\n\nQ: What happens if weather conditions are poor on the day of my flight?\nA: Seaplane operations are weather-dependent, especially for visibility and wind. Carriers typically rebook or refund passengers when conditions prevent safe takeoff or landing.",
+  "transport_tips": "The seaplane base is centrally located at the foot of downtown Victoria's Inner Harbour, easily reachable on foot from most city center hotels. Public transit buses and taxi services stop nearby, and long-term parking facilities are available in the surrounding area for those driving in. If arriving early, the waterfront promenade offers scenic walking paths and coffee shops within minutes of the terminal.",
+  "local_tip": "Book a window seat on the left side of the aircraft when flying to Vancouver for the best views of the Gulf Islands and downtown Vancouver's skyline on approach to the harbour.",
+  "generatedAt": "2026-06-29T17:04:43.417Z",
+  "model": "MiniMax-M3"
+}

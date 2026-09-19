@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ELB",
+    "icao": "SKBC",
+    "name": "Las Flores Airport",
+    "country": "Colombia",
+    "city": "El Banco",
+    "lat": 9.0455,
+    "lon": -73.9749,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Las Flores Airport serves the municipality of El Banco in the Magdalena department of northern Colombia, situated near the banks of the Magdalena River and close to the Ciénaga de Zapatosa, one of the largest freshwater lake complexes in the country. The airport provides vital air connectivity to this remote riverine region, where overland travel can be slow due to the wetlands and river geography. It primarily supports regional domestic flights connecting El Banco with other Colombian cities.",
+  "faqs": "Q: What is the IATA code for Las Flores Airport?\nA: The IATA code is ELB, and its ICAO code is SKBC.\n\nQ: Where is Las Flores Airport located?\nA: It is located in El Banco, a municipality in the Magdalena department of northern Colombia, near the Magdalena River.\n\nQ: What type of flights operate from Las Flores Airport?\nA: The airport mainly handles regional domestic flights, typically using small to medium-sized aircraft suited to its runway length.\n\nQ: Is the airport close to any notable natural attractions?\nA: Yes, it is near the Ciénaga de Zapatosa, a vast wetland ecosystem and one of the largest freshwater marshes in Colombia.",
+  "transport_tips": "Getting to and from the airport is typically done by taxi or mototaxi, as El Banco is a small town and the airport is located just outside the urban center. Road access can be affected during heavy rains due to the region's wetland geography, so allow extra travel time during the wet season. Many travelers arrange ground transport in advance through their hotel or local contacts, as formal public transit options are limited.",
+  "local_tip": "Frequent visitors recommend carrying cash in small denominations, as the airport and surrounding area have limited card payment infrastructure, and local vendors and taxi drivers may not accept cards.",
+  "generatedAt": "2026-06-26T11:23:22.664Z",
+  "model": "MiniMax-M3"
+}

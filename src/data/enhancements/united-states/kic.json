@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KIC",
+    "icao": "KKIC",
+    "name": "Mesa Del Rey Airport",
+    "country": "United States",
+    "city": "King City",
+    "lat": 36.228,
+    "lon": -121.122,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mesa Del Rey Airport is a small general aviation airport serving King City in California's Salinas Valley. Named after the prominent flat-topped mesa that rises above the surrounding agricultural landscape, the airport primarily accommodates private pilots, air ambulances, and occasional flight training. It provides convenient access to Monterey County's rural communities and the nearby Pinnacles National Park region.",
+  "faqs": "Q: What is Mesa Del Rey Airport primarily used for?\nA: The airport primarily serves general aviation, including private aircraft, flight training, and occasional air ambulance services. It does not host scheduled commercial airline service.\n\nQ: Is there an air traffic control tower at Mesa Del Rey Airport?\nA: No, Mesa Del Rey is an uncontrolled airport. Pilots communicate on a common CTAF frequency and use standard see-and-avoid procedures.\n\nQ: What are the airport's operating hours?\nA: As a small public-use airport, the runway is generally available 24 hours a day, but pilots should check current NOTAMs for any temporary closures or restrictions.\n\nQ: Are fuel services available at the airport?\nA: Fuel availability may be limited and subject to operator hours. Pilots are advised to call ahead or check with the airport manager to confirm current fuel availability.",
+  "transport_tips": "The airport is located just a few miles northeast of downtown King City, making it a short drive by car or taxi. Rental cars are not typically available on-site, so arranging ground transportation in advance is recommended. Visitors flying in can reach nearby destinations like Paso Robles or the Monterey Peninsula within an hour by road.",
+  "local_tip": "Fly in during the spring months and you'll be rewarded with spectacular views of the Salinas Valley's vibrant green fields and wildflower-covered hills—a perspective most travelers to California's central coast never get to see.",
+  "generatedAt": "2026-06-27T02:05:14.489Z",
+  "model": "MiniMax-M3"
+}

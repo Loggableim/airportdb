@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YWR",
+    "icao": "",
+    "name": "White River Seaplane Base",
+    "country": "Canada",
+    "city": "White River",
+    "lat": 48.6269,
+    "lon": -85.2233,
+    "type": "seaplane_base",
+    "size": 25
+  },
+  "summary": "White River Seaplane Base (YWR) is a small floatplane facility serving the remote community of White River in northern Ontario, Canada. The base primarily supports bush plane operations that connect this isolated town to larger regional hubs. White River is notably famous as the birthplace of Winnie the Bear, the real black bear that inspired A.A. Milne's beloved character Winnie-the-Pooh.",
+  "faqs": "Q: What is the main purpose of White River Seaplane Base?\nA: The base primarily serves as a floatplane access point for the remote community of White River, providing essential connections to larger Ontario towns for passengers, mail, and supplies.\n\nQ: Are there scheduled airline services at this seaplane base?\nA: Scheduled commercial service is limited or non-existent; operations are typically charter-based, with bush planes serving hunters, anglers, and travelers needing access to remote lodges.\n\nQ: Can the seaplane base accommodate large aircraft?\nA: No, given its small size score, it primarily serves single-engine and light twin-engine floatplanes suited to short takeoffs and landings on calm inland waters.\n\nQ: When is the seaplane base operational?\nA: The base operates seasonally, generally from late spring through fall when the water is free of ice, as is typical for northern Ontario floatplane facilities.",
+  "transport_tips": "Getting to the seaplane base typically requires driving into White River along Highway 17, with the dock accessible from the town's waterfront area. Travelers should arrange ground transportation in advance, as taxi services are limited in this small community. Many visitors arriving by floatplane are picked up directly at the dock by local lodge or resort representatives.",
+  "local_tip": "If you have time before or after your flight, visit the Winnie the Pooh monument and heritage park in town, which celebrates White River's unique connection to the famous bear cub that was sold to the London Zoo in 1914 and became the inspiration for A.A. Milne's classic character.",
+  "generatedAt": "2026-06-28T13:17:37.794Z",
+  "model": "MiniMax-M3"
+}

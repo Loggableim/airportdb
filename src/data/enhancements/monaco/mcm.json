@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MCM",
+    "icao": "LNMC",
+    "name": "Monaco Heliport",
+    "country": "Monaco",
+    "city": "Fontvieille",
+    "lat": 43.7258,
+    "lon": 7.4197,
+    "type": "heliport",
+    "size": 350
+  },
+  "summary": "Monaco Heliport (MCM/LNMC) is the only aviation facility within the Principality of Monaco, situated on a reclaimed land platform in the Fontvieille district along the Mediterranean coast. It primarily serves scheduled and private helicopter shuttles connecting Monaco with Nice Côte d'Azur Airport, offering a roughly 7-minute crossing over the French Riviera. The facility is a key part of Monaco's transport network for residents, business travelers, and high-profile visitors avoiding road congestion between the principality and the French Riviera.",
+  "faqs": "Q: How far is Monaco Heliport from Nice Airport?\nA: The helicopter shuttle to Nice Côte d'Azur Airport takes approximately 7 minutes, covering around 20 km of coastline. By road, the same journey can take 30–60 minutes depending on traffic.\n\nQ: Can private jets land at Monaco?\nA: No. Monaco Heliport only accommodates helicopters. Fixed-wing aircraft must use Nice Côte d'Azur Airport or other nearby airfields on the French coast.\n\nQ: Are there customs and immigration facilities at the heliport?\nA: Yes, border control facilities are available for international arrivals, particularly from non-Schengen destinations such as Switzerland and Italy.\n\nQ: Who operates flights from Monaco Heliport?\nA: Helicopter services are operated primarily by Heli Air Monaco (formerly Monaco Government Heliport operator) and Blade, with regular scheduled flights to Nice Airport.\n\n",
+  "transport_tips": "From Nice Airport, passengers can transfer directly to the dedicated helicopter terminal (Terminal 2) for a short flight into Monaco. Ground transport from Monaco Heliport into the city center of Monte Carlo takes only a few minutes by taxi or on foot. Heliport transfers should be booked in advance, especially during peak summer and Monaco Grand Prix weekends when slots fill quickly.",
+  "local_tip": "If you're connecting to Nice Airport by helicopter, build in a generous buffer for the Monaco side—security and boarding close about 15 minutes before departure, and the walk from Fontvieille parking to the terminal is shorter than it appears on the map.",
+  "generatedAt": "2026-06-30T01:50:18.752Z",
+  "model": "MiniMax-M3"
+}

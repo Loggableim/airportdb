@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AGS",
+    "icao": "KAGS",
+    "name": "Augusta Regional At Bush Field",
+    "country": "United States",
+    "city": "Augusta",
+    "lat": 33.3699,
+    "lon": -81.9645,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Augusta Regional Airport at Bush Field (AGS) is a medium-sized public airport located in Augusta, Georgia, just across the Savannah River from South Carolina. The airport serves the greater Augusta metropolitan area and experiences significant seasonal traffic spikes each April during the Masters Tournament at Augusta National Golf Club. Originally established as a military airfield, it now operates as a joint civil-military facility with Bush Field sharing runways with Daniel Field-era infrastructure.",
+  "faqs": "Q: How far is Augusta Regional Airport from downtown Augusta?\nA: The airport is approximately 8 miles southwest of downtown Augusta, with typical drive times of 15-20 minutes depending on traffic.\n\nQ: Which airlines operate at AGS?\nA: Augusta Regional is served primarily by Delta Connection, American Eagle, and Allegiant, offering nonstop flights to Atlanta, Charlotte, Dallas/Fort Worth, and a few other hubs.\n\nQ: Does the airport have rental cars available?\nA: Yes, major rental car companies including Enterprise, Hertz, and Budget operate on-site at the terminal.\n\nQ: Is there a restaurant or food option inside the terminal?\nA: The terminal offers a small café and vending options, though selection is limited compared to larger airports.\n\n",
+  "transport_tips": "Taxis, rideshares (Uber and Lyft), and rental cars are available curbside at the terminal for ground transportation. During Masters week in April, book transportation well in advance and expect heavy traffic along River Watch Parkway and Washington Road. The airport is conveniently accessed via Interstate 520 (Bobby Jones Expressway), making connections to surrounding areas in Georgia and South Carolina straightforward.",
+  "local_tip": "If you have a long layover or arrive early, the Augusta Canal National Heritage Area is only a short drive from the airport and offers scenic trails, boat tours, and a glimpse into the city's industrial textile history along the historic towpath.",
+  "generatedAt": "2026-06-29T02:46:00.876Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GLV",
+    "icao": "PAGL",
+    "name": "Golovin Airport",
+    "country": "United States",
+    "city": "Golovin",
+    "lat": 64.5505,
+    "lon": -163.007,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Golovin Airport is a small public-use airfield serving the remote Iñupiat village of Golovin on Alaska's Seward Peninsula, situated along the shores of Norton Bay. The airport is a vital lifeline for this isolated community, which has limited road access and depends on air travel for passengers, mail, groceries, and supplies. It primarily supports regional bush carrier service and is essential for connecting residents to larger hubs like Nome.",
+  "faqs": "Q: What airlines serve Golovin Airport?\nA: Regional carriers operating in western Alaska, such as Bering Air, provide scheduled passenger service to and from Golovin, typically connecting to Nome and other Norton Sound communities.\n\nQ: Does Golovin Airport have a paved runway?\nA: The airport has a single gravel runway suitable for small propeller aircraft commonly used in bush Alaska operations.\n\nQ: When is the airport open for flights?\nA: Golovin Airport operates year-round, though weather conditions including fog, snow, and low visibility can cause delays, especially during winter months.\n\nQ: Are there facilities or services at the airport terminal?\nA: As a small rural airport, facilities are minimal—passengers should expect a basic waiting area and should arrange ground transport in advance as there is no on-site rental car service.",
+  "transport_tips": "Ground transportation must be arranged in advance, as the airport has no rental car desks or taxi services; many visitors coordinate pickups with local lodging or community contacts. The village of Golovin is only a short distance from the airport, making pre-arranged rides quick and easy. During winter, be prepared for possible flight disruptions due to weather, and consider building flexibility into travel plans.",
+  "local_tip": "Pack a small cooler with extra snacks and layer your clothing—the terminal is unheated and can be quite cold even in milder months, especially during early morning or late evening flights.",
+  "generatedAt": "2026-06-26T21:09:10.887Z",
+  "model": "MiniMax-M3"
+}

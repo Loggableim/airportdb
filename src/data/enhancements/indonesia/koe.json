@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KOE",
+    "icao": "WATT",
+    "name": "El Tari Airport",
+    "country": "Indonesia",
+    "city": "Kupang",
+    "lat": -10.1716,
+    "lon": 123.671,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "El Tari Airport (KOE) is the primary gateway to Indonesia's East Nusa Tenggara province, serving the provincial capital of Kupang on the island of Timor. Named after the province's former governor, El Tari, the airport functions as a vital transit hub for travelers heading to surrounding islands including Rote, Sabu, Flores, and Sumba. Its tropical coastal setting makes it a key starting point for exploring one of Indonesia's most culturally diverse regions.",
+  "faqs": "Q: How far is El Tari Airport from central Kupang?\nA: The airport is located approximately 8-10 kilometers from Kupang's city center, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines operate from El Tari Airport?\nA: Domestic carriers including Lion Air, Citilink, Batik Air, and Wings Air regularly serve the airport, connecting Kupang to cities such as Jakarta, Surabaya, Denpasar, and Ende.\n\nQ: Does the airport offer international flights?\nA: El Tari primarily handles domestic routes, though limited regional services operate to neighboring Timor-Leste (Dili).\n\nQ: Is the airport open 24 hours?\nA: Operations are tied to flight schedules, with facilities generally matching scheduled flight times rather than 24-hour service.",
+  "transport_tips": "Taxis and ride-hailing services such as Gojek and Grab are available outside the terminal for the short trip into Kupang. Travelers heading to inter-island ports should note that the airport is conveniently located near the city center. Pre-booking transport for early morning or late-night flights is recommended, as availability can be limited outside peak hours.",
+  "local_tip": "If you have time before a flight, try kue cucur or se'i smoked beef from nearby vendors — Timor is famous for its smoked-meat tradition, which is distinct from grilled satay found elsewhere in Indonesia.",
+  "generatedAt": "2026-06-29T19:21:37.478Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "XNA",
+    "icao": "KXNA",
+    "name": "Northwest Arkansas National Airport",
+    "country": "United States",
+    "city": "Fayetteville/Springdale/Rogers",
+    "lat": 36.2819,
+    "lon": -94.3068,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Northwest Arkansas National Airport (XNA) is a medium-sized commercial airport located in Highfill, Arkansas, serving the rapidly growing Fayetteville-Springdale-Rogers metropolitan area. Opened in 1998 and renamed 'National' in 2022 to reflect the region's economic significance, XNA provides critical air access to Northwest Arkansas, home to Fortune 500 headquarters including Walmart, Tyson Foods, and J.B. Hunt Transport. The airport is unique among similarly sized facilities for the volume of business travel it handles relative to its catchment population.",
+  "faqs": "Q: Where is XNA airport located relative to the cities it serves?\nA: XNA is situated in Highfill, Arkansas, roughly halfway between Bentonville/Rogers to the north and Fayetteville/Springdale to the south. It's approximately 15-20 miles from each major city in the region.\n\nQ: What airlines serve Northwest Arkansas National Airport?\nA: XNA is served by several major carriers including American Airlines, Delta Air Lines, and United Airlines, offering nonstop flights to hubs like Dallas, Atlanta, Chicago, Charlotte, Denver, and Houston.\n\nQ: Why was the airport renamed to include 'National'?\nA: The airport was renamed from Northwest Arkansas Regional Airport to Northwest Arkansas National Airport in 2022 to better reflect the region's prominence and the airport's role serving major corporate headquarters.\n\nQ: How far is XNA from Bentonville and the Walmart headquarters?\nA: Bentonville is approximately 12-15 miles southwest of the airport, making XNA the closest commercial airport to Walmart's headquarters.",
+  "transport_tips": "Rental cars are the most convenient way to reach XNA, as the airport's location between three cities makes ride-shares less readily available than at larger urban airports. The airport offers on-site rental car facilities from major agencies. Shuttle services to nearby hotels and corporate campuses can be arranged in advance, particularly for business travelers visiting Walmart, Tyson, or J.B. Hunt.",
+  "local_tip": "If you have a layover or extra time, the airport's location puts you within a short drive of Crystal Bridges Museum of American Art in Bentonville—a world-class free museum that's well worth a visit if your schedule allows.",
+  "generatedAt": "2026-06-29T17:57:56.151Z",
+  "model": "MiniMax-M3"
+}

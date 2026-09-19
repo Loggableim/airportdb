@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WGA",
+    "icao": "YSWG",
+    "name": "Wagga Wagga Airport",
+    "country": "Australia",
+    "city": "Forest Hill",
+    "lat": -35.1635,
+    "lon": 147.4683,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Wagga Wagga Airport is a regional airport serving the Riverina region of New South Wales, located in Forest Hill about 10 km southeast of the Wagga Wagga city centre. It functions as an important regional hub for general aviation, defence operations, and limited commercial passenger services. The airport also hosts the RAAF Base Wagga, the Royal Australian Air Force's primary pilot training facility.",
+  "faqs": "Q: What airlines operate from Wagga Wagga Airport?\nA: Regional carriers including Regional Express (Rex) provide scheduled passenger services, primarily connecting Wagga Wagga with Sydney and Melbourne.\n\nQ: Is Wagga Wagga Airport a military facility?\nA: The airport shares its runway with RAAF Base Wagga, which is the Royal Australian Air Force's main training base for pilots.\n\nQ: How far is the airport from the city centre?\nA: Wagga Wagga Airport is approximately 10 km southeast of the Wagga Wagga CBD, with a typical drive time of around 15 minutes.\n\nQ: Does the airport have international flights?\nA: No, the airport handles only domestic flights within Australia, with no scheduled international services.",
+  "transport_tips": "Car rental and taxi services are available at the terminal, and many travellers pre-book a vehicle as on-site rental desks may have limited hours. The airport is located on Sturt Highway, providing straightforward road access to both Wagga Wagga and the surrounding Riverina towns.",
+  "local_tip": "If you have a long layover or early flight, the small terminal means security and check-in move quickly, so arriving 45 minutes before departure is usually more than sufficient.",
+  "generatedAt": "2026-06-29T07:34:20.293Z",
+  "model": "MiniMax-M3"
+}

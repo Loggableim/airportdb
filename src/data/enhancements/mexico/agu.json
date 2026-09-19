@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AGU",
+    "icao": "MMAS",
+    "name": "Aguascalientes International Airport",
+    "country": "Mexico",
+    "city": "Aguascalientes",
+    "lat": 21.6996,
+    "lon": -102.3184,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Aguascalientes International Airport (Lic. Jesús Terán Peredo International Airport) serves the capital city of Aguascalientes in central Mexico, approximately 20 km south of the city center. It functions as a key gateway to the Bajío region and handles both domestic flights to major Mexican cities and international connections to the United States. The airport sees significantly increased traffic during the annual Feria Nacional de San Marcos, one of the largest and oldest fairs in Mexico.",
+  "faqs": "Q: What airlines operate at Aguascalientes International Airport?\nA: The airport is served by several major Mexican carriers including Aeroméxico, VivaAerobus, and Volaris, along with United Airlines operating international routes to the United States.\n\nQ: How far is the airport from Aguascalientes city center?\nA: The airport is located approximately 20 km (12 miles) south of downtown Aguascalientes, with typical travel times of 25-35 minutes depending on traffic.\n\nQ: Does the airport have international flights?\nA: Yes, AGU offers international flights primarily to destinations in the United States, including routes to Houston, Dallas, and Los Angeles.\n\nQ: Are there customs and immigration facilities at AGU?\nA: Yes, the airport has dedicated customs and immigration areas for processing international arrivals and departures.",
+  "transport_tips": "Authorized airport taxis are available outside the terminal and offer fixed rates to the city center; booking through your hotel in advance can often secure better rates. Rental car agencies including Hertz, Avis, and local providers operate at the airport for those exploring the wider Bajío region. Ride-sharing apps like Uber and DiDi serve the Aguascalientes area and can be requested at the designated pickup zone, often providing a more economical alternative to taxis.",
+  "local_tip": "If you're visiting during April and May, plan your transportation well in advance as the Feria Nacional de San Marcos dramatically increases both flight demand and traffic around the airport—hotels fill up months ahead and taxi fares may surge during peak fair dates.",
+  "generatedAt": "2026-06-28T20:29:02.279Z",
+  "model": "MiniMax-M3"
+}

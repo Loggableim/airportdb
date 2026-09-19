@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BYC",
+    "icao": "SLYA",
+    "name": "Yacuiba Airport",
+    "country": "Bolivia",
+    "city": "Yacuíba",
+    "lat": -21.9609,
+    "lon": -63.6517,
+    "type": "medium_airport",
+    "size": 275
+  },
+  "summary": "Yacuiba Airport serves the city of Yacuíba in Bolivia's southern Tarija Department, near the Argentine border in the Gran Chaco region. It functions as a key gateway for travelers visiting the Chaco plains and the nearby city of Tarija, which is known for its wine-producing valleys. The airport handles regional flights and supports the local economy tied to agriculture, natural gas, and cross-border commerce with Argentina.",
+  "faqs": "Q: Are there international flights from Yacuiba Airport?\nA: The airport primarily handles domestic flights within Bolivia, though its proximity to the Argentine border makes it a convenient access point for travelers heading to or from northern Argentina.\n\nQ: What is the best way to get from the airport to central Yacuiba?\nA: Taxis and shared transport (micros/minibuses) are commonly available just outside the terminal and offer affordable transfers to the city center, which is a short drive away.\n\nQ: When is the airport busiest?\nA: Traffic tends to peak around holiday periods and weekends, as many passengers travel for cross-border trade or to visit family in the region.\n\nQ: Are there food and beverage options at the airport?\nA: As a medium-sized regional airport, amenities are limited, so it's advisable to bring snacks and water, especially for early or late flights.\n\n",
+  "transport_tips": "Taxis are the most convenient option and can be arranged at the terminal for short rides into Yacuíba or longer trips to Tarija. Shared minibuses (micros) run along the main road near the airport and offer a budget-friendly alternative for travelers familiar with the area. If crossing into Argentina, road transport via the nearby border post at Pocitos is straightforward.",
+  "local_tip": "Pack layers—the Chaco region can be extremely hot during the day and surprisingly cool at night, and the small terminal offers little climate control.",
+  "generatedAt": "2026-06-30T04:46:29.507Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OMS",
+    "icao": "UNOO",
+    "name": "Omsk Central Airport",
+    "country": "Russia",
+    "city": "Omsk",
+    "lat": 54.9631,
+    "lon": 73.3124,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Omsk Central Airport (OMS) is a major regional aviation hub serving Omsk, one of Siberia's largest cities, located at the confluence of the Irtysh and Om Rivers in southwestern Russia. The airport handles both domestic flights to Moscow, St. Petersburg, and other Russian cities, as well as select international routes to nearby CIS countries. It plays a vital role in connecting the oil-rich Omsk Oblast to the rest of Russia.",
+  "faqs": "Q: How far is Omsk Central Airport from the city center?\nA: The airport is located approximately 5-7 km southwest of Omsk's city center, making it a relatively quick trip of about 15-20 minutes by car depending on traffic.\n\nQ: Are there direct international flights from OMS?\nA: OMS primarily serves domestic routes within Russia, with limited international flights mainly to CIS countries. Most international travelers connect through Moscow or other major hubs.\n\nQ: What facilities are available at the airport?\nA: The terminal offers standard amenities including cafes, duty-free shops, ATMs, and currency exchange. Facilities are more limited compared to Moscow's major airports.\n\nQ: Is the airport open 24 hours?\nA: The airport operates according to scheduled flight times and is generally not a 24-hour facility, so late-night and early-morning arrivals should be planned carefully.",
+  "transport_tips": "Taxis and ride-hailing services are the most convenient option to reach the city center, with the journey taking roughly 15-20 minutes. Marshrutka (shared minibus) routes also connect the airport to central Omsk at a lower cost, though they can be crowded. Pre-booking a taxi through a hotel or app is recommended, especially during harsh Siberian winters when weather can affect travel times.",
+  "local_tip": "During winter months, temperatures in Omsk can plunge below -30°C (-22°F), so allow extra time for ground transportation and dress in heavy layers before stepping outside the terminal, as the walk from the aircraft to the building can be lengthy.",
+  "generatedAt": "2026-06-28T23:36:10.798Z",
+  "model": "MiniMax-M3"
+}

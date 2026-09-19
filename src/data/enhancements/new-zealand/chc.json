@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CHC",
+    "icao": "NZCH",
+    "name": "Christchurch International Airport",
+    "country": "New Zealand",
+    "city": "Christchurch",
+    "lat": -43.489,
+    "lon": 172.5321,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Christchurch International Airport (CHC) is the principal gateway to New Zealand's South Island and the country's second-busiest airport after Auckland. It serves as a key hub for Air New Zealand and handles flights to Australia, the Pacific Islands, and other domestic destinations. The airport underwent a major terminal redevelopment following the 2011 Christchurch earthquake, transforming it into a modern facility recognized for its efficient design and regional character.",
+  "faqs": "Q: How far is Christchurch Airport from the city center?\nA: The airport is located approximately 10 km (6 miles) northwest of Christchurch's central business district, a 15-20 minute drive depending on traffic.\n\nQ: Does Christchurch Airport have international flights?\nA: Yes, it offers direct international flights to destinations across Australia, the Pacific Islands, and seasonal services to Asia and beyond.\n\nQ: Is there a hotel directly connected to the airport?\nA: Yes, the Sudima Hotel Christchurch Airport is connected to the terminal via a covered walkway, making it ideal for early morning flights or layovers.\n\nQ: How many terminals does Christchurch Airport have?\nA: The airport operates from a single integrated terminal that handles both domestic and international flights in distinct zones.",
+  "transport_tips": "The Airport Flyer bus (route 29) provides frequent and affordable service between the airport and central Christchurch, with a journey time of around 30 minutes. Taxis and rideshare services are readily available outside the terminal and typically cost between NZD 30-45 to the city center. Rental car companies have desks on-site, which is convenient for travelers planning to explore the South Island.",
+  "local_tip": "If you have a long layover, head to the observation area near the terminal for views of the Southern Alps on a clear day, and try a flat white at one of the local coffee outlets—Christchurch takes its coffee culture seriously, and the airport showcases some excellent South Island roasters.",
+  "generatedAt": "2026-06-28T16:31:19.916Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HAJ",
+    "icao": "EDDV",
+    "name": "Hannover Airport",
+    "country": "Germany",
+    "city": "Hannover",
+    "lat": 52.4611,
+    "lon": 9.6851,
+    "type": "large_airport",
+    "size": 1675
+  },
+  "summary": "Hannover Airport (HAJ) is the primary international gateway for the Hannover/Lower Saxony region in northern Germany, located about 11 km north of the city center in Langenhagen. Originally developed after WWII to replace the former Vahrenwald airfield, it has grown into the 9th busiest airport in Germany, serving both leisure and business traffic. The single-terminal facility handles around 6 million passengers annually and offers direct connections to major European hubs.",
+  "faqs": "Q: How far is Hannover Airport from the city center?\nA: The airport is approximately 11 km (7 miles) north of central Hannover, with a typical transfer time of 20-25 minutes by car or S-Bahn.\n\nQ: Which train connects the airport to Hannover?\nA: The S-Bahn line S5 runs directly between Hannover Hauptbahnhof (main station) and the airport terminal, with journeys taking about 17 minutes.\n\nQ: How many terminals does Hannover Airport have?\nA: Hannover Airport operates with a single terminal building divided into three piers (A, B, and C) for Schengen and non-Schengen flights.\n\nQ: Is there overnight accommodation at or near the airport?\nA: Yes, several hotels are located within minutes of the terminal, including the Maritim Airport Hotel connected directly to the terminal building.",
+  "transport_tips": "The S-Bahn S5 provides the cheapest and most reliable connection between the airport and Hannover Hauptbahnhof, running every 15-30 minutes. Taxis and rideshare services are available outside the terminal and cost roughly €30-40 to reach the city center. If driving, the airport is accessible via the A2 and A352 motorways, with several parking options including short-stay, long-stay, and a budget lot.",
+  "local_tip": "Frequent travelers recommend purchasing tickets for the S-Bahn in advance through the GVH app or DB Navigator to save time, and if you have a long layover, the adjacent AeroDrom aviation-themed children's world and airport viewing terrace offer a unique way to pass the time without leaving the airport grounds.",
+  "generatedAt": "2026-06-28T16:11:16.110Z",
+  "model": "MiniMax-M3"
+}

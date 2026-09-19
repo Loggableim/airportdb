@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PSK",
+    "icao": "KPSK",
+    "name": "New River Valley Airport",
+    "country": "United States",
+    "city": "Dublin",
+    "lat": 37.1373,
+    "lon": -80.6785,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "New River Valley Airport (PSK) is a small public-use general aviation airport located in Dublin, Virginia, serving the New River Valley region in southwestern Virginia. Situated near the intersection of Interstate 81 and US-460, it primarily supports corporate, recreational, and flight training activities. The airport is owned by the New River Valley Airport Commission and provides a convenient gateway to communities like Radford, Blacksburg, and Christiansburg.",
+  "faqs": "Q: What types of flights operate at New River Valley Airport?\nA: PSK is a general aviation airport with no scheduled commercial airline service. It primarily handles private, corporate, charter, and flight training flights.\n\nQ: Are there car rental services at the airport?\nA: Rental cars are not typically available on-site at PSK. Visitors usually arrange rentals in nearby towns such as Radford or Christiansburg, or coordinate with local providers in advance.\n\nQ: What facilities are available for pilots and passengers?\nA: The airport offers tie-downs and hangar space for aircraft, a terminal building, restrooms, and basic amenities. Fuel services (100LL and Jet A) are generally available during operating hours.\n\nQ: How close is the airport to Virginia Tech?\nA: New River Valley Airport is approximately 10 miles from Virginia Tech in Blacksburg, making it a convenient option for visitors to the university.\n\n",
+  "transport_tips": "The airport is easily accessible from Interstate 81 (Exit 98) and US Route 460, making it a quick drive from Blacksburg, Radford, or Christiansburg. Since there is no commercial service or on-site rental cars, arranging ground transportation in advance is recommended. Local taxi services and rideshare options can be requested for pickup at the terminal area.",
+  "local_tip": "If you're flying in for a Virginia Tech football game or campus event, book hangar or tie-down space well in advance—the airport gets notably busy during Hokies home game weekends.",
+  "generatedAt": "2026-06-27T02:44:44.004Z",
+  "model": "MiniMax-M3"
+}

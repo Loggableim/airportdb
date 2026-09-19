@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GDO",
+    "icao": "SVGD",
+    "name": "Guasdualito Airport",
+    "country": "Venezuela",
+    "city": "Guasdualito",
+    "lat": 7.2108,
+    "lon": -70.7564,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Guasdualito Airport serves the city of Guasdualito, the capital of Páez Municipality in Apure State, Venezuela, situated in the country's western llanos (plains) region near the Colombian border. The airport provides essential air connectivity for this remote cattle-ranching and agricultural area, where road travel can be challenging due to seasonal flooding. It primarily supports regional domestic flights and serves as a gateway for visitors to the surrounding wetlands and savanna ecosystems.",
+  "faqs": "Q: What is the IATA code for Guasdualito Airport?\nA: The IATA code is GDO, and its ICAO code is SVGD.\n\nQ: Where is Guasdualito Airport located?\nA: It is located in the city of Guasdualito in Apure State, western Venezuela, near the Colombian border.\n\nQ: What type of airport is Guasdualito?\nA: It is classified as a medium-sized airport serving regional domestic operations.\n\nQ: What region does the airport serve?\nA: It serves the Apure State's llanos region, known for cattle ranching, wildlife, and seasonal wetland ecosystems.\n\n",
+  "transport_tips": "Taxis and moto-taxis are typically the main options for getting to and from the airport, as Guasdualito is a small city with limited public transportation infrastructure. The airport is located close to the town center, so transfers are usually short. During the rainy season, road conditions in the surrounding llanos can deteriorate significantly, making air travel the most reliable way to reach the area.",
+  "local_tip": "If visiting during the dry season, ask locals about guided tours to the nearby Modulos de Apure or Esteros del Camalote wetlands—the airport's location makes it a convenient jumping-off point for llanos wildlife excursions that are far harder to reach by road.",
+  "generatedAt": "2026-06-26T11:25:48.513Z",
+  "model": "MiniMax-M3"
+}

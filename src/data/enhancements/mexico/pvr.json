@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PVR",
+    "icao": "MMPR",
+    "name": "Puerto Vallarta International Airport",
+    "country": "Mexico",
+    "city": "Puerto Vallarta",
+    "lat": 20.6799,
+    "lon": -105.2544,
+    "type": "large_airport",
+    "size": 1150
+  },
+  "summary": "Puerto Vallarta International Airport (PVR), officially named Licenciado Gustavo Díaz Ordaz International Airport, is the primary gateway to Mexico's Pacific coast and the Banderas Bay region, including the Riviera Nayarit. Situated just north of Puerto Vallarta's hotel zone, it is one of Mexico's busiest tourist airports, handling millions of passengers annually with extensive flights from the US, Canada, and major Mexican cities. The airport expanded with a modern Terminal 2 in recent years to accommodate growing international demand.",
+  "faqs": "Q: How far is Puerto Vallarta Airport from the city center?\nA: The airport is approximately 7-10 kilometers (about 15 minutes by car) north of downtown Puerto Vallarta and very close to the hotel zone.\n\nQ: Does PVR offer international flights?\nA: Yes, the airport offers extensive international service with direct flights from cities across the United States, Canada, and other destinations, alongside domestic connections to Mexico City and other hubs.\n\nQ: How many terminals does Puerto Vallarta Airport have?\nA: PVR has two terminals, with Terminal 2 opened to handle increased passenger traffic and provide modern facilities for travelers.\n\nQ: Is there a lounge available at the airport?\nA: Yes, there are VIP lounges and airline-specific lounges available, particularly for premium cabin passengers and lounge membership holders.\n\n",
+  "transport_tips": "Authorized airport taxis are available just outside the terminals with fixed rates to the hotel zone and downtown, typically ranging from 200-400 Mexican pesos depending on destination. Ride-sharing apps like Uber operate at PVR but use a designated pickup area slightly away from the main terminal. Shared shuttle services and pre-booked private transfers offer cost-effective alternatives, especially for groups traveling to Riviera Nayarit",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T17:04:39.516Z",
+  "model": "MiniMax-M3"
+}

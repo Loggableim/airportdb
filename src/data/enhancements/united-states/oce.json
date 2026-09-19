@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OCE",
+    "icao": "KOXB",
+    "name": "Ocean City Municipal Airport",
+    "country": "United States",
+    "city": "Ocean City",
+    "lat": 38.3104,
+    "lon": -75.124,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Ocean City Municipal Airport (OCE/KOXB) is a publicly owned general aviation facility serving the popular Atlantic coastal resort town of Ocean City, Maryland. Located on the western shore of Sinepuxent Bay, the airport is a convenient entry point for visitors to Maryland's Eastern Shore beach destination, handling private, charter, and some regional flights.",
+  "faqs": "Q: Does Ocean City Municipal Airport offer commercial airline service?\nA: The airport primarily serves general aviation, private aircraft, and charter flights rather than scheduled commercial airlines.\n\nQ: How far is the airport from Ocean City's beach and boardwalk?\nA: The airport is located just a few miles from downtown Ocean City and the famous boardwalk, making it a quick drive for arriving travelers.\n\nQ: Are there car rental services available at the airport?\nA: Rental car options and taxi services are typically available, though visitors should confirm availability in advance during peak summer season.\n\nQ: What facilities does the airport provide for pilots?\nA: The airport offers fuel services, tie-downs, hangar space, and standard amenities for general aviation pilots and passengers.",
+  "transport_tips": "The airport is a short drive from Ocean City's resort area via Route 611 and Coastal Highway, typically taking 10-15 minutes depending on seasonal traffic. Taxi and rideshare services are available but can be limited, so arranging ground transportation in advance is recommended during summer peak season.",
+  "local_tip": "Frequent visitors recommend flying in during early morning hours to avoid the summer tourist traffic that can make the short drive into town surprisingly slow during peak season.",
+  "generatedAt": "2026-06-29T18:48:16.551Z",
+  "model": "MiniMax-M3"
+}

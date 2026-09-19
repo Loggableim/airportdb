@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CEM",
+    "icao": "PACE",
+    "name": "Central Airport",
+    "country": "United States",
+    "city": "Central",
+    "lat": 65.5738,
+    "lon": -144.7807,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Central Airport (CEM/PACE) is a small public-use airfield serving the remote community of Central in interior Alaska. Located in a sparsely populated region of eastern Alaska near the Yukon River, it primarily supports general aviation and provides vital access for residents, visitors, and small charter operations. The airport plays an important role in connecting this remote area to larger regional hubs given the limited road infrastructure in interior Alaska.",
+  "faqs": "Q: What type of aircraft typically uses Central Airport?\nA: As a small airport, Central Airport primarily serves general aviation aircraft, including small single-engine planes and bush planes common throughout Alaska's interior communities.\n\nQ: Are there scheduled commercial flights to Central Airport?\nA: Scheduled commercial service to Central is limited or nonexistent; travelers typically rely on charter flights or bush plane services to reach the community.\n\nQ: What facilities are available at Central Airport?\nA: The airport offers basic facilities appropriate for a small airfield, including a runway and minimal services. Travelers should arrange ground transportation and supplies in advance.\n\nQ: Is the airport operational year-round?\nA: Alaska's interior airports generally operate year-round, though winter conditions can affect flight schedules and aircraft performance, so travelers should check conditions before flying.",
+  "transport_tips": "Given the remote location, most visitors arrive by small aircraft or charter flight, as road access to Central is limited, especially in winter months. Ground transportation options in Central are minimal, so arranging a vehicle or pickup in advance is recommended. Travelers coming from Fairbanks can typically arrange bush plane services for the flight into Central.",
+  "local_tip": "Pack layered clothing even in summer, as interior Alaska temperatures can swing dramatically between warm afternoons and near-freezing nights, and weather can change quickly affecting bush plane schedules.",
+  "generatedAt": "2026-06-26T22:04:15.452Z",
+  "model": "MiniMax-M3"
+}

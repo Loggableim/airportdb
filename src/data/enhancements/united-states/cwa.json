@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CWA",
+    "icao": "KCWA",
+    "name": "Central Wisconsin Airport",
+    "country": "United States",
+    "city": "Mosinee",
+    "lat": 44.7774,
+    "lon": -89.6702,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Central Wisconsin Airport (CWA) is a medium-sized regional airport located in Mosinee, Wisconsin, serving the Wausau metropolitan area and the broader central and north-central Wisconsin region. Opened in 1972, it replaced older smaller airfields in the area and has since grown into an important hub for regional air travel. The airport offers a convenient alternative to larger airports in Milwaukee and Minneapolis-St. Paul for travelers from central Wisconsin.",
+  "faqs": "Q: What airlines fly from Central Wisconsin Airport?\nA: CWA is primarily served by regional carriers offering flights to hub airports, including American Eagle, Delta Connection, and United Express, with nonstop service to cities like Chicago O'Hare, Minneapolis-St. Paul, and Detroit.\n\nQ: Where is Central Wisconsin Airport located?\nA: The airport is located in the village of Mosinee, Wisconsin, roughly 10 miles south of Wausau, with easy access off Interstate 39 and Highway 51.\n\nQ: Does CWA have TSA security screening?\nA: Yes, the airport has a TSA checkpoint, and due to its smaller size, wait times are typically much shorter than at major hub airports.\n\nQ: How many terminals does CWA have?\nA: Central Wisconsin Airport operates from a single terminal building that houses all airlines, ticketing, baggage claim, and rental car services.",
+  "transport_tips": "The airport is most easily reached by car via Interstate 39 or Highway 51, with ample free parking available in both short-term and long-term lots. Taxi services and rideshare options like Uber and Lyft operate in the area, though availability may be limited compared to larger cities. Several rental car agencies have counters on-site, making it convenient to arrange ground transportation upon arrival.",
+  "local_tip": "Because CWA is a small regional airport, arriving 60-90 minutes before your flight is usually plenty of time—TSA lines move quickly and the terminal is easy to navigate, so you can skip the typical two-hour buffer recommended at major airports.",
+  "generatedAt": "2026-06-29T18:45:15.495Z",
+  "model": "MiniMax-M3"
+}

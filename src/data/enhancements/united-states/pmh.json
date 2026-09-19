@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PMH",
+    "icao": "KPMH",
+    "name": "Greater Portsmouth Regional Airport",
+    "country": "United States",
+    "city": "Portsmouth",
+    "lat": 38.8405,
+    "lon": -82.8473,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Greater Portsmouth Regional Airport (PMH/KPMH) is a small public-use airport serving Portsmouth, Ohio, and the surrounding Scioto County region along the Ohio River. The airport supports general aviation, flight training, and occasional corporate and medical transport operations. Its location in southern Ohio makes it a useful gateway for visitors exploring the Ohio River Valley and the historic Appalachian foothills.",
+  "faqs": "Q: What type of airport is Greater Portsmouth Regional?\nA: It is a small general aviation airport that primarily handles private, charter, and light aircraft rather than scheduled commercial service.\n\nQ: Does the airport offer fuel and basic services?\nA: Yes, the airport typically provides aviation fuel and basic ground services for transient pilots, though hours may vary.\n\nQ: Are there instrument approach procedures available?\nA: Yes, the airport has published instrument approach procedures that allow pilots to land in lower-visibility conditions.\n\nQ: Is there an on-site restaurant or terminal amenities?\nA: The terminal is modest in size with limited amenities, suitable primarily for pilots and passengers of general aviation flights.\n\n",
+  "transport_tips": "The airport is located just outside the city of Portsmouth and is easiest reached by personal vehicle, as there is no public transit directly serving the facility. Taxis and rideshare services are available in Portsmouth but may require advance booking for airport pickup. The airport's proximity to US Route 52 makes ground connections straightforward to downtown Portsmouth and nearby communities in Kentucky and West Virginia.",
+  "local_tip": "If you're flying in for a visit, plan to explore Portsmouth's historic Boneyfiddle District along the Ohio River—it's one of the oldest neighborhoods in Ohio and offers a charming walkable area with antique shops and riverfront views just minutes from the airport.",
+  "generatedAt": "2026-06-27T03:19:19.115Z",
+  "model": "MiniMax-M3"
+}

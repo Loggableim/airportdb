@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PEA",
+    "icao": "YPSH",
+    "name": "Penneshaw Airport",
+    "country": "Australia",
+    "city": "Ironstone",
+    "lat": -35.7558,
+    "lon": 137.9629,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Penneshaw Airport is a small regional airfield serving the eastern Dudley Peninsula of Kangaroo Island in South Australia. It provides convenient air access for visitors heading to the Penneshaw ferry terminal, which connects the island to Cape Jervis on the mainland. The airport primarily handles light aircraft and is a useful alternative entry point to the larger Kingscote Airport for travelers exploring the island's renowned wildlife reserves and coastal scenery.",
+  "faqs": "Q: What is Penneshaw Airport primarily used for?\nA: It serves as a small regional gateway to the eastern side of Kangaroo Island, mainly handling light aircraft and charter flights for tourists and locals.\n\nQ: How does Penneshaw Airport connect to the mainland?\nA: The nearby Penneshaw ferry terminal operates regular SeaLink services across Backstairs Passage to Cape Jervis on the South Australian mainland.\n\nQ: Are there scheduled commercial flights to Penneshaw Airport?\nA: Scheduled commercial services are limited; the airport is more commonly used for private and charter operations, with Kingscote Airport handling most regular airline traffic to the island.\n\nQ: What attractions are near the airport?\nA: Visitors can access Penneshaw's beaches, the Penneshaw Penguin Centre, and the scenic Dudley Peninsula, with Flinders Chase National Park further west on the island.",
+  "transport_tips": "Renting a car in advance is strongly recommended, as Kangaroo Island has limited public transport and car hire options at the airport can be scarce. The ferry terminal at Penneshaw is only a short drive from the airport if you plan to travel onward by sea. Taxis and pre-booked shuttles are available but should be arranged prior to arrival.",
+  "local_tip": "If you're flying in, ask your pilot or charter operator about landing approaches over the coast—on clear days you'll get a stunning aerial view of the turquoise waters of Backstairs Passage before touching down.",
+  "generatedAt": "2026-06-27T12:52:22.785Z",
+  "model": "MiniMax-M3"
+}

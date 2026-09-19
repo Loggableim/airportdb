@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "INN",
+    "icao": "LOWI",
+    "name": "Innsbruck Airport",
+    "country": "Austria",
+    "city": "Innsbruck",
+    "lat": 47.2602,
+    "lon": 11.344,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Innsbruck Airport (LOWI) is the principal international airport of Tyrol, Austria, nestled in the Inn Valley and surrounded by the Alps. It is widely regarded as one of the most challenging airports in Europe to land at due to its mountainous terrain and variable weather, requiring pilots to hold a special qualification. The airport serves as a major gateway for winter ski tourism and year-round Alpine travel.",
+  "faqs": "Q: Why is Innsbruck Airport considered one of the most difficult airports in Europe?\nA: The airport is surrounded by peaks exceeding 2,000 meters and requires pilots to complete special Alpine approach training before they are permitted to land there.\n\nQ: When is the busiest season at Innsbruck Airport?\nA: The winter months are by far the busiest, as the airport serves as a primary gateway to ski resorts such as the Arlberg, Ischgl, and the Zillertal.\n\nQ: Does Innsbruck Airport offer scheduled long-haul flights?\nA: No, the airport primarily handles short- and medium-haul European routes along with seasonal charter flights, mostly during winter.\n\nQ: How close is the airport to Innsbruck city center?\nA: The terminal is approximately 4 kilometers west of the historic city center, making transfers quick by bus or taxi.\n\n",
+  "transport_tips": "Bus line F connects the airport directly to Innsbruck's main railway station and city center in about 15-20 minutes, with frequent daytime service. Taxis are readily available outside the terminal and reach most central hotels within 10 minutes. During ski season, many hotels and resorts offer dedicated shuttle services that can be pre-booked.",
+  "local_tip": "Check the wind conditions before flying in or out: the warm, gusty Föhn wind coming from the south can cause sudden turbulence and occasional flight disruptions, particularly in spring and autumn.",
+  "generatedAt": "2026-06-28T18:46:30.390Z",
+  "model": "MiniMax-M3"
+}

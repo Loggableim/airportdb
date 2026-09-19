@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CKL",
+    "icao": "UUMU",
+    "name": "Chkalovskiy Air Base",
+    "country": "Russia",
+    "city": "Moscow",
+    "lat": 55.8783,
+    "lon": 38.0617,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Chkalovskiy Air Base is a Russian Air Force facility located east of Moscow in Moscow Oblast, near the town of Shchyolkovo. The base is named after Valery Chkalov, the celebrated Soviet test pilot famous for the first transpolar flight from Moscow to Vancouver in 1937. It serves primarily military and government aviation purposes and is closely associated with the Russian presidential air transport operations.",
+  "faqs": "Q: Is Chkalovskiy Air Base open to commercial passengers?\nA: No, this is a military facility and does not serve scheduled commercial flights. Access is restricted to authorized military and government personnel.\n\nQ: Who was Valery Chkalov?\nA: Valery Chkalov was a legendary Soviet test pilot and the first person to fly non-stop across the Arctic from Moscow to Vancouver, British Columbia, in June 1937. The air base bears his name in tribute to his aviation achievements.\n\nQ: How far is Chkalovskiy from central Moscow?\nA: The base is situated roughly 30 km east of central Moscow in the Shchyolkovo district, typically reached within 45 minutes to an hour by road depending on traffic.\n\nQ: Are there other airports near Moscow?\nA: Yes, Moscow is served by multiple airports including Sheremetyevo (SVO), Domodedovo (DME), and Vnukovo (VKO), all of which handle commercial passenger traffic that Chkalovskiy does not.\n\n",
+  "transport_tips": "The base is best reached by private vehicle or official transport, as there is no direct public transit serving the military facility. From central Moscow, take the M7 highway eastbound toward Shchyolkovo, then follow local roads to the base perimeter. Taxis and ride services can drop passengers at the checkpoint, though entry beyond that requires proper credentials.",
+  "local_tip": "The surrounding area around Shchyolkovo has several quiet cafes and local restaurants favored by base personnel; visitors working at the facility often recommend stopping by the small eateries on Lenin Street for an authentic break from standard mess-hall fare.",
+  "generatedAt": "2026-06-29T13:57:55.646Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HEH",
+    "icao": "VYHH",
+    "name": "Heho Airport",
+    "country": "Myanmar",
+    "city": "Heho",
+    "lat": 20.7471,
+    "lon": 96.792,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Heho Airport (HEH) is the primary air gateway to Myanmar's renowned Inle Lake region, serving travelers heading to the Shan State highlands. Located at an elevation of approximately 1,200 meters above sea level, it handles domestic flights connecting Yangon, Mandalay, and other Myanmar destinations. The airport is one of the country's busiest regional facilities and a key entry point for tourism to the culturally rich area surrounding Inle Lake.",
+  "faqs": "Q: What is the main purpose of visiting Heho Airport?\nA: Heho Airport serves travelers visiting Inle Lake and the surrounding Shan State region, one of Myanmar's most popular tourist destinations known for stilted villages and floating gardens.\n\nQ: Which airlines operate at Heho Airport?\nA: Domestic carriers including Myanmar National Airlines, Air KBZ, and Golden Myanmar Airlines operate scheduled services to Heho from Yangon, Mandalay, and other domestic hubs.\n\nQ: Is Heho Airport international or domestic?\nA: Heho is a domestic airport serving only flights within Myanmar, with no international routes currently operating.\n\nQ: What is the airport's elevation and does weather affect flights?\nA: At roughly 3,800 feet above sea level, the airport can experience weather-related delays, particularly during the monsoon season when morning fog is common.",
+  "transport_tips": "Taxis and shared minivans are available outside the terminal for the roughly 30-kilometer journey to Nyaung Shwe, the main town serving Inle Lake. Pre-arranging transport through your hotel is recommended, as taxi fares are typically negotiable and shared options fill up quickly. The road journey takes approximately 45 minutes to one hour depending on traffic and weather conditions.",
+  "local_tip": "If visiting Inle Lake, arrange your boat tour the evening before arrival through your hotel rather than at the airport, as drivers there often charge premium rates.",
+  "generatedAt": "2026-06-29T22:31:26.030Z",
+  "model": "MiniMax-M3"
+}

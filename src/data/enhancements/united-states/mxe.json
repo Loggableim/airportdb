@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MXE",
+    "icao": "KMEB",
+    "name": "Laurinburg Maxton Airport",
+    "country": "United States",
+    "city": "Maxton",
+    "lat": 34.7919,
+    "lon": -79.3658,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Laurinburg Maxton Airport (MXE/KMEB) is a small general aviation facility located in Maxton, North Carolina, serving the twin communities of Laurinburg and Maxton in Scotland and Robeson counties. The airfield traces its roots to a World War II-era military training base, and it retains an unusually long runway for a regional airport of its size. Today it primarily supports general aviation, flight training, and occasional military operations.",
+  "faqs": "Q: What is Laurinburg Maxton Airport primarily used for?\nA: The airport serves general aviation traffic, flight training, and occasional military operations. It does not typically handle scheduled commercial airline service.\n\nQ: Where is the airport located in relation to nearby cities?\nA: It sits near Maxton in southeastern North Carolina, roughly between Laurinburg and Pembroke, and is within driving distance of Fayetteville to the north and the South Carolina border to the south.\n\nQ: Does the airport have a control tower?\nA: No, Laurinburg Maxton operates as a non-towered airfield, requiring pilots to use standard CTAF procedures and self-announce on the designated frequency.\n\nQ: How long is the main runway?\nA: The primary runway is notably long for a small airport, measuring approximately 7,500 feet, which allows it to accommodate a wide range of aircraft including larger military transports.",
+  "transport_tips": "Reaching the airport by car is straightforward via US Route 74 and NC Highway 71, both of which run close to the airfield. Rental car services are limited, so arranging ground transportation in advance through a local provider is recommended. Taxi and rideshare availability in the surrounding rural area can be sparse, particularly outside of daylight hours.",
+  "local_tip": "Because the airport is near the Laurinburg-Maxton military reservation, check NOTAMs carefully before arrival — transient military flight activity occasionally alters traffic patterns on the main runway.",
+  "generatedAt": "2026-06-27T06:13:33.519Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BOP",
+    "icao": "FEFO",
+    "name": "Bouar Airport",
+    "country": "Central African Republic",
+    "city": "Bouar",
+    "lat": 5.958,
+    "lon": 15.637,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Bouar Airport serves the city of Bouar, the third-largest urban center in the Central African Republic and capital of the Nana-Mambéré prefecture. The small regional airport provides essential air access to this western frontier town, which lies near the Cameroon border and serves as a hub for the surrounding agricultural region. Limited scheduled service and charter flights connect Bouar to Bangui and other domestic destinations.",
+  "faqs": "Q: Where is Bouar Airport located?\nA: Bouar Airport is located on the outskirts of Bouar city in the Nana-Mambéré prefecture of northwestern Central African Republic, roughly 5.9 degrees north of the equator.\n\nQ: Does Bouar Airport have regular commercial flights?\nA: Scheduled service is limited and infrequent. Most flights are operated by small charter carriers or UN/mission aircraft, with availability subject to change.\n\nQ: What is the airport used for?\nA: Beyond occasional commercial flights, the airport supports humanitarian missions, medical evacuations, and government transport for the region.\n\nQ: Are there facilities at the airport?\nA: As a small regional airfield, infrastructure is minimal, with basic terminal facilities and no major amenities for travelers.\n\n",
+  "transport_tips": "Travelers typically reach Bouar Airport by road from the city center, a short drive of roughly 10-15 minutes depending on conditions. Local taxis and motorbike taxis are commonly used for transport to and from the airstrip. Given the limited flight schedule, confirm transport arrangements in advance, as options may be scarce during off-peak hours.",
+  "local_tip": "Carry small local currency (CFA francs) in cash, as the airport area has no ATMs or card payment facilities, and arrange ground transport before arrival since ride-hailing apps do not operate in Bouar.",
+  "generatedAt": "2026-06-27T18:30:01.092Z",
+  "model": "MiniMax-M3"
+}

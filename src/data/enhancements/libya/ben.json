@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BEN",
+    "icao": "HLLB",
+    "name": "Benina International Airport",
+    "country": "Libya",
+    "city": "Benina",
+    "lat": 32.0968,
+    "lon": 20.2695,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Benina International Airport (BEN/HLLB) is the main airport serving Benghazi, Libya's second-largest city, located in the Benina district approximately 19 km east of the city center. Originally established during the Italian colonial era, it has grown into one of Libya's principal international gateways, handling both domestic and limited international flights. The airport has experienced periodic operational disruptions due to regional conflicts but remains a key aviation facility in eastern Libya.",
+  "faqs": "Q: How far is Benina International Airport from Benghazi city center?\nA: The airport is approximately 19 km (12 miles) east of Benghazi's city center, with typical drive times of 25-35 minutes depending on traffic and security conditions.\n\nQ: Does Benina International Airport offer international flights?\nA: International service has been limited in recent years due to regional instability. Travelers should check current schedules with airlines operating in the region, as routes change frequently.\n\nQ: Are there airport lounges available at Benina?\nA: Lounge availability is limited and varies based on current operations. Passengers are advised to confirm lounge access with their airline before travel.\n\nQ: Is the airport operational for civilian flights?\nA: Operations can be subject to change due to the security situation in the region. Travelers should verify the current status with their airline or travel agent before departure.",
+  "transport_tips": "Taxis and private car hire are the primary means of reaching the airport from Benghazi, though services may be inconsistent. Pre-arranging transport through a hotel or reputable local contact is strongly recommended due to variable availability. Road conditions and travel times can be affected by security checkpoints along the route from the city.",
+  "local_tip": "Carry sufficient local currency (Libyan dinar) in small denominations for taxis and incidentals, as card payment infrastructure at the airport is unreliable and ATM availability is inconsistent.",
+  "generatedAt": "2026-06-28T21:53:13.630Z",
+  "model": "MiniMax-M3"
+}

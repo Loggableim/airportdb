@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FLT",
+    "icao": "",
+    "name": "Flat Airport",
+    "country": "United States",
+    "city": "Flat",
+    "lat": 62.4526,
+    "lon": -157.989,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Flat Airport (FLT) is a small public-use airstrip serving the remote village of Flat, located in the Yukon-Koyukuk Census Area of western Alaska. The airport primarily supports general aviation and provides a vital transportation link for this isolated rural community, where road access is limited or seasonal. Operations are weather-dependent and typically handled by small bush aircraft suited to the region's challenging conditions.",
+  "faqs": "Q: What type of aircraft typically serves Flat Airport?\nA: Small single-engine bush planes and charter aircraft are the most common visitors, as the airstrip is suited to light general aviation aircraft.\n\nQ: Are there scheduled commercial flights to FLT?\nA: No scheduled commercial service is available; travel to Flat is generally arranged through charter or air taxi operators.\n\nQ: What facilities are available at the airport?\nA: As a small community airstrip, facilities are minimal and may include a basic gravel or turf runway without terminal services or fueling.\n\nQ: Is the airport usable year-round?\nA: Operations depend heavily on weather and runway conditions; winter snow and spring thaw can affect accessibility, so travelers should verify conditions in advance.\n\n",
+  "transport_tips": "Travelers typically reach Flat Airport via charter flight from larger Alaskan hubs such as Anchorage or Fairbanks. Ground transportation beyond the airstrip is limited, so arranging onward travel with local contacts ahead of time is advisable. Be prepared for flexible scheduling, as weather can cause delays or cancellations in this remote region.",
+  "local_tip": "Pack extra food, warm layers, and a backup communication device like a satellite phone or PLB, as services in Flat are extremely limited and weather-related delays are common.",
+  "generatedAt": "2026-06-27T21:38:12.293Z",
+  "model": "MiniMax-M3"
+}

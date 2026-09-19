@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "STG",
+    "icao": "PAPB",
+    "name": "St George Airport",
+    "country": "United States",
+    "city": "St George",
+    "lat": 56.5773,
+    "lon": -169.6638,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "St George Airport (STG/PAPB) serves the remote Pribilof Island community of St George in Alaska's Bering Sea. As the primary air link to this isolated Aleut village of roughly 100 residents, the airport handles mostly small commuter flights, often with weather-dependent scheduling due to the harsh subarctic maritime climate. The runway and minimal facilities support the island's fishing industry, mail delivery, and essential passenger travel to mainland Alaska.",
+  "faqs": "Q: What airlines serve St George Airport?\nA: STG is primarily served by regional commuter carriers operating small turboprop aircraft, with flights typically routing through Anchorage. Service schedules are limited and can change seasonally.\n\nQ: How long are flights from St George to Anchorage?\nA: Flights generally take around 3 to 3.5 hours including a stop, though direct travel times and routing depend on the carrier and weather conditions.\n\nQ: Is there public transportation from the airport into town?\nA: There is no formal public transit. The airport sits just minutes from the village, and visitors typically arrange pickup with lodging hosts or locals in advance.\n\nQ: When is the airport most likely to be delayed or closed?\nA: Winter months bring the highest risk of disruption due to fog, freezing rain, snow, and high winds common across the Bering Sea region.",
+  "transport_tips": "Plan flexible travel dates because flights to St George are frequently delayed or cancelled by Bering Sea weather, sometimes for multiple days. Rental cars are not available on the island, so coordinate ground transportation with your host or accommodation before arrival.",
+  "local_tip": "Pack layers and waterproof gear regardless of season; the exposed island location means conditions shift rapidly between sunshine, fog, and wind even in summer.",
+  "generatedAt": "2026-06-29T23:07:15.181Z",
+  "model": "MiniMax-M3"
+}

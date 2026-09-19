@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HUI",
+    "icao": "VVPB",
+    "name": "Phu Bai International Airport",
+    "country": "Vietnam",
+    "city": "Huế",
+    "lat": 16.4006,
+    "lon": 107.7031,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Phu Bai International Airport serves Huế, the former imperial capital of Vietnam and a UNESCO World Heritage city renowned for its citadel, royal tombs, and pagodas. Located about 15 km south of the city center in Thừa Thiên Huế Province, it functions as the primary air gateway to central Vietnam's heritage heartland. The airport handles a mix of domestic flights and select regional international routes, with a compact terminal suited to medium-traffic operations.",
+  "faqs": "Q: What airlines operate from Phu Bai International Airport?\nA: Vietnam Airlines, VietJet Air, and Bamboo Airways operate regular domestic flights to Ho Chi Minh City, Hanoi, and Da Lat, with occasional regional services to nearby destinations.\n\nQ: How far is the airport from Huế city center?\nA: The airport is approximately 15 km south of the city center, with a typical drive taking 25 to 35 minutes depending on traffic.\n\nQ: Does the airport have international flights?\nA: Yes, though limited. It previously served routes to Bangkok and other regional cities, but international service is intermittent and should be verified with current schedules.\n\nQ: Are there currency exchange and ATM facilities at the airport?\nA: Yes, ATMs and currency exchange counters are available in the terminal, though rates are generally better in the city center.",
+  "transport_tips": "Taxis and ride-hailing services like Grab are readily available outside the terminal and offer the most convenient transfer to Huế. Pre-paid taxi vouchers can be purchased inside the arrivals hall to avoid overcharging. Public buses also connect the airport to the city, providing a budget-friendly option for travelers with light luggage.",
+  "local_tip": "If you have a morning flight, arrive the evening before and stay in the old city near the Imperial Citadel, then ask your hotel to arrange an early transfer, as pre-dawn taxis to Phu Bai can be harder to find than daytime rides.",
+  "generatedAt": "2026-06-29T05:55:51.469Z",
+  "model": "MiniMax-M3"
+}

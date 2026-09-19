@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AVG",
+    "icao": "YAUV",
+    "name": "Auvergne Airport",
+    "country": "Australia",
+    "city": "Auvergne Station",
+    "lat": -15.6906,
+    "lon": 130.0088,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Auvergne Airport (AVG) is a small private airfield serving Auvergne Station, a remote cattle station in the Northern Territory of Australia's Victoria River District. The airport primarily facilitates fly-in fly-out operations, livestock transport logistics, and essential supplies for station personnel in this sparsely populated outback region. Its location in the tropical savanna landscape makes it a vital link for one of Australia's most isolated pastoral operations.",
+  "faqs": "Q: What is Auvergne Airport used for?\nA: The airport primarily serves the operational needs of Auvergne Station, including fly-in fly-out workers, veterinary services, and aerial livestock management.\n\nQ: Is Auvergne Airport open to the public?\nA: As a small station airstrip, it operates on a prior-arrangement basis rather than as a commercial public airport.\n\nQ: What is the size and condition of the runway?\nA: The airstrip is an unsealed gravel/dirt surface typical of remote outback stations, suitable for small turboprop aircraft and charter planes.\n\nQ: What is the climate like in this region?\nA: The Northern Territory's Victoria River District has a tropical climate with distinct wet and dry seasons, which can affect flight operations during the monsoon months from November to March.",
+  "transport_tips": "Access to Auvergne Airport is exclusively by air, as the station is extremely remote with no nearby public road networks connecting to major towns. Travelers must arrange charter flights from Darwin or Katherine, typically on light aircraft suited to the unsealed strip. Ground transport upon arrival is generally provided by the station management and must be coordinated in advance.",
+  "local_tip": "Pack light and bring a fly net, as the wet season brings dense swarms of insects, and always confirm weather conditions before booking, as unsealed outback airstrips are frequently closed after heavy rain.",
+  "generatedAt": "2026-06-27T17:37:02.265Z",
+  "model": "MiniMax-M3"
+}

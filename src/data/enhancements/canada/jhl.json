@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "JHL",
+    "icao": "",
+    "name": "Fort MacKay/Albian Aerodrome",
+    "country": "Canada",
+    "city": "Albian Village",
+    "lat": 57.2239,
+    "lon": -111.419,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Fort MacKay/Albian Aerodrome (JHL) is a small industrial aerodrome in northern Alberta, Canada, serving the oil sands mining operations in the Athabasca region. The airport primarily supports workforce transportation to and from the nearby Albian Village, a work camp associated with major energy projects in the area. It plays a vital role in connecting remote oil sands facilities with larger transportation hubs in the province.",
+  "faqs": "Q: What is Fort MacKay/Albian Aerodrome primarily used for?\nA: The aerodrome mainly serves the oil sands industry, providing air access for workers traveling to and from the Albian Village work camp and surrounding energy operations in northern Alberta.\n\nQ: Where exactly is Albian Village located?\nA: Albian Village is situated in the Regional Municipality of Wood Buffalo in northeastern Alberta, approximately 70 km north of Fort McMurray.\n\nQ: Are there commercial passenger flights to JHL?\nA: No regular scheduled commercial service operates at this aerodrome; flights are typically charter or corporate operations related to the energy sector.\n\nQ: What facilities are available at the airport?\nA: As a small industrial aerodrome, facilities are limited to basic runway infrastructure, with no commercial terminal or passenger amenities typical of larger airports.\n\n",
+  "transport_tips": "Travelers heading to Albian Village typically fly into Fort McMurray International Airport (YMM) and then arrange ground transportation, as JHL is primarily used for chartered and corporate flights. Company-arranged shuttles or crew transport vehicles are the most common way to reach the work camp from the nearest commercial airport. Rental vehicles are available in Fort McMurray for those needing flexible ground transport to nearby sites.",
+  "local_tip": "If you're flying into the region for work, pack layers even in summer—temperatures in the Athabasca oil sands area can swing dramatically from warm days to surprisingly cool nights, and the open landscape offers little wind protection.",
+  "generatedAt": "2026-06-27T04:31:58.588Z",
+  "model": "MiniMax-M3"
+}

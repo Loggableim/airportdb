@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CFD",
+    "icao": "KCFD",
+    "name": "Coulter Field",
+    "country": "United States",
+    "city": "Bryan",
+    "lat": 30.7157,
+    "lon": -96.3314,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Coulter Field is a small general aviation airport serving Bryan, Texas, located just minutes from the Texas A&M University campus in the Bryan-College Station metropolitan area. Originally established as a military training facility, it now operates as a public-use airfield catering primarily to private pilots, flight training, and recreational flying. The airport features a single main runway and is popular among Aggie aviation enthusiasts and visitors to the region.",
+  "faqs": "Q: What is Coulter Field primarily used for?\nA: Coulter Field is primarily used for general aviation, including private flights, flight training, and recreational flying, rather than commercial airline service.\n\nQ: Does Coulter Field have commercial airline service?\nA: No, Coulter Field does not offer commercial airline service. Travelers needing commercial flights typically use Easterwood Airport (CLL) nearby in College Station.\n\nQ: How many runways does Coulter Field have?\nA: Coulter Field has one main paved runway, designated 17/35, suitable for small to mid-sized general aviation aircraft.\n\nQ: Is Coulter Field open to the public?\nA: Yes, Coulter Field is a public-use airport, though it is unattended and pilots typically coordinate arrivals through self-service procedures or radio contact.",
+  "transport_tips": "The airport is located just a short drive from downtown Bryan and the Texas A&M University campus, making ground transportation straightforward. Rental cars, rideshare services like Uber and Lyft, and local taxi companies serve the area. Having a personal vehicle is recommended for convenient travel around the Bryan-College Station region.",
+  "local_tip": "If you're visiting Texas A&M University, Coulter Field offers a uniquely close-in landing point—just be sure to check Aggie game day schedules, as traffic around the airport area can be significantly heavier during home football weekends.",
+  "generatedAt": "2026-06-27T03:20:48.118Z",
+  "model": "MiniMax-M3"
+}

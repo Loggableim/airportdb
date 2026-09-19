@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PNT",
+    "icao": "SCNT",
+    "name": "Lieutenant Julio Gallardo Airport",
+    "country": "Chile",
+    "city": "Puerto Natales",
+    "lat": -51.6707,
+    "lon": -72.5291,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Lieutenant Julio Gallardo Airport serves Puerto Natales, a small Chilean city in the Ultima Esperanza Province of the Magallanes Region. Named after a Chilean military aviation officer, it functions as the primary air gateway for travelers heading to the world-renowned Torres del Paine National Park. The airport handles regional flights connecting Patagonia to Santiago and other Chilean destinations.",
+  "faqs": "Q: How far is the airport from Puerto Natales town center?\nA: The airport is located approximately 7 kilometers (about 4 miles) northwest of Puerto Natales, with a drive of roughly 10-15 minutes depending on weather and road conditions.\n\nQ: Which airlines operate at this airport?\nA: The airport is primarily served by LATAM Airlines and Sky Airline, offering flights mainly to and from Santiago and Punta Arenas.\n\nQ: Is the airport open year-round?\nA: Yes, Lieutenant Julio Gallardo Airport operates year-round, though Patagonia weather can occasionally cause delays or cancellations, particularly during winter months.\n\nQ: Can I catch a flight directly to Torres del Paine from here?\nA: No, there are no direct flights to Torres del Paine from this airport. Visitors typically fly into Puerto Natales and then travel by road or bus to reach the national park.",
+  "transport_tips": "Taxis and shared shuttle services are available at the terminal to transport passengers into Puerto Natales; pre-arranging transport is recommended during peak tourist season. Rental car agencies operate at or near the airport, which is useful for travelers planning to drive to Torres del Paine. Bus services to Punta Arenas and other regional destinations can also be accessed from Puerto Natales town center.",
+  "local_tip": "Book flights for morning arrivals when possible, as Patagonian winds tend to pick up in the afternoon and can occasionally disrupt afternoon flights.",
+  "generatedAt": "2026-06-29T19:54:20.420Z",
+  "model": "MiniMax-M3"
+}

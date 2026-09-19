@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "POT",
+    "icao": "MKKJ",
+    "name": "Ken Jones Airport",
+    "country": "Jamaica",
+    "city": "Ken Jones",
+    "lat": 18.1988,
+    "lon": -76.5345,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Ken Jones Airport is a small regional airport located in Portland Parish on Jamaica's northeastern coast, serving the Port Antonio area. Named after a celebrated Jamaican aviator, the airport primarily handles domestic flights, charter operations, and private aviation. It provides convenient access to one of Jamaica's most scenic and less-commercialized regions, known for lush rainforests, blue lagoons, and unspoiled beaches.",
+  "faqs": "Q: Where is Ken Jones Airport located?\nA: The airport is situated in Ken Jones, Portland Parish, on Jamaica's northeastern coast, near the town of Port Antonio.\n\nQ: What airlines fly into Ken Jones Airport?\nA: The airport primarily serves domestic and charter flights, with scheduled service mainly operated by small regional carriers connecting to Kingston and other Jamaican destinations.\n\nQ: Does Ken Jones Airport have international flights?\nA: International service is limited and consists mostly of private and charter flights rather than scheduled commercial service.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, it offers basic passenger amenities including a terminal building, ground transportation access, and limited concessions.\n\n",
+  "transport_tips": "Ground transportation from the airport is limited; pre-arranging a private taxi or rental car is strongly recommended as public transit options are scarce. The drive to Port Antonio town takes roughly 15-20 minutes along a scenic coastal route. Some hotels and guesthouses in the area offer shuttle pickup services, so check with your accommodation before arrival.",
+  "local_tip": "Frequent visitors recommend scheduling a morning flight so you can spend the afternoon at Frenchman's Cove or the Blue Lagoon—both stunning natural attractions just a short drive from the airport and far less crowded than Jamaica's better-known resort areas.",
+  "generatedAt": "2026-06-26T09:41:15.820Z",
+  "model": "MiniMax-M3"
+}

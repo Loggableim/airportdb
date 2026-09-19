@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LNL",
+    "icao": "ZLLN",
+    "name": "Longnan Chengzhou Airport",
+    "country": "China",
+    "city": "Longnan (Cheng)",
+    "lat": 33.7899,
+    "lon": 105.79,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Longnan Chengzhou Airport (LNL/ZLLN) is a regional airport serving Longnan city in the southeastern part of Gansu Province, China. Nestled in the mountainous terrain of the Qinling-Bashan region, it provides vital air connectivity for a relatively remote area historically known for its agricultural production and proximity to ancient Silk Road routes. The airport operates primarily domestic flights connecting Longnan to major Chinese hubs such as Lanzhou and Xi'an.",
+  "faqs": "Q: What airlines operate from Longnan Chengzhou Airport?\nA: The airport is primarily served by Chinese carriers offering domestic flights, with routes commonly connecting to Lanzhou and Xi'an.\n\nQ: How far is the airport from Longnan city center?\nA: The airport is located on the outskirts of Longnan city, roughly 10-15 kilometers from the urban core, offering a relatively short drive.\n\nQ: Are there international flights from LNL?\nA: No, Longnan Chengzhou Airport handles domestic flights only.\n\nQ: Does the airport have facilities for overnight stays?\nA: Limited services are available on-site; passengers typically arrange accommodations in the city center.\n\n",
+  "transport_tips": "Taxis and ride-hailing services like Didi are the most convenient ways to reach the airport from Longnan city. Public bus connections are available but may run on limited schedules. Allow extra travel time during winter months as mountain roads to the airport can be affected by fog, snow, or ice.",
+  "local_tip": "If you have a long layover or early morning flight, stay in the city center rather than near the airport, as dining and lodging options near the terminal are minimal.",
+  "generatedAt": "2026-06-30T00:00:03.889Z",
+  "model": "MiniMax-M3"
+}

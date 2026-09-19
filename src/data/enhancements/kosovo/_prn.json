@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PRN",
+    "icao": "BKPR",
+    "name": "Priština Adem Jashari International Airport",
+    "country": "Kosovo",
+    "city": "Prishtina",
+    "lat": 42.5728,
+    "lon": 21.0358,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Priština Adem Jashari International Airport (PRN) is the primary international gateway of Kosovo, located approximately 15 kilometers southwest of the capital Prishtina. Named after Adem Jashari, a key figure in Kosovo's history, the airport has grown significantly since Kosovo's independence in 2008 and serves as the country's main hub for both passenger and cargo traffic. It is the busiest airport in Kosovo and a vital link connecting the country to European destinations.",
+  "faqs": "Q: How far is the airport from Prishtina city center?\nA: The airport is about 15 km southwest of Prishtina city center, typically a 20-30 minute drive depending on traffic.\n\nQ: Which airlines operate from Priština Airport?\nA: Several carriers serve the airport, including Wizz Air, Pegasus Airlines, Turkish Airlines, easyJet, and others, connecting to destinations across Europe and Turkey.\n\nQ: Does the airport operate 24 hours?\nA: The airport generally operates during scheduled flight hours, which typically span from early morning until late evening. Outside these hours, operations are limited.\n\nQ: Are there currency exchange services at the airport?\nA: Yes, there are ATMs and currency exchange counters available in the terminal building, though many places in Kosovo accept euros as the primary currency alongside the local situation.\n\n",
+  "transport_tips": "The most common way to reach the city is by taxi, which is readily available outside the terminal and takes around 20-30 minutes to central Prishtina for a fixed fare. Shuttle buses and private transfer services also operate between the airport and the city. Rental car agencies are available at the terminal for those wishing to explore Kosovo independently.",
+  "local_tip": "Frequent travelers recommend exchanging money in the city rather than at the airport for better rates, and suggest keeping small euro notes handy as Kosovo widely uses the euro despite not being an official Eurozone member.",
+  "generatedAt": "2026-06-28T19:56:22.160Z",
+  "model": "MiniMax-M3"
+}

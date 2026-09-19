@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LOA",
+    "icao": "YLOR",
+    "name": "Lorraine Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -18.9933,
+    "lon": 139.907,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Lorraine Airport (LOA/YLOR) is a small remote airstrip located in Queensland's Gulf Country region in northwestern Australia, situated in a sparsely populated outback area near the Gulf of Carpentaria. The airport primarily serves the surrounding cattle stations and pastoral operations that characterize the region. Given its remote location and limited infrastructure, it functions as an essential transport link for station staff, supplies, and occasional charter services.",
+  "faqs": "Q: Where is Lorraine Airport located?\nA: Lorraine Airport is located in the Gulf Country region of northwestern Queensland, Australia, in a remote outback area near the Gulf of Carpentaria.\n\nQ: What is the airport primarily used for?\nA: The airport mainly serves local cattle stations, pastoral operations, and occasional charter or fly-in fly-out services, as it is not a commercial passenger airport.\n\nQ: Are there scheduled commercial flights to Lorraine Airport?\nA: No, Lorraine Airport does not have scheduled commercial airline service. Flights are typically charter-based, arranged privately for access to the surrounding stations.\n\nQ: What facilities are available at the airport?\nA: As a small remote airstrip, the airport has minimal facilities. Travelers should arrange any necessary supplies and accommodation in advance through the stations or local outback operators.",
+  "transport_tips": "Access to Lorraine Airport is typically arranged through private charter flights from regional hubs such as Mount Isa or Cairns. Ground transport from the airport is limited, so coordinating pickup with the destination cattle station is essential. Travelers should plan fuel and supply stops, as the surrounding area is extremely remote with services spaced far apart.",
+  "local_tip": "When flying into Lorraine Airport, time your visit during the cooler dry season (May to September), as the Gulf Country can experience extreme heat and heavy monsoon rains from November to March, which can affect airstrip conditions and accessibility.",
+  "generatedAt": "2026-06-27T15:50:47.088Z",
+  "model": "MiniMax-M3"
+}

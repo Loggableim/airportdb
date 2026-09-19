@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLE",
+    "icao": "VRMM",
+    "name": "Velana International Airport",
+    "country": "Maldives",
+    "city": "Malé",
+    "lat": 4.1918,
+    "lon": 73.5291,
+    "type": "large_airport",
+    "size": 1050
+  },
+  "summary": "Velana International Airport is the main gateway to the Maldives, located on Hulhulé Island just adjacent to the capital Malé across the sea. Originally established as a small airfield in 1960, it has grown into the country's primary international hub, serving millions of tourists who travel onward to the nation's iconic resort islands. The airport uniquely functions as a combined land, sea, and air transit point, with extensive seaplane and speedboat operations connecting travelers to hundreds of island resorts.",
+  "faqs": "Q: How far is Velana International Airport from Malé?\nA: The airport is located on Hulhulé Island, which is connected to Malé by a bridge and approximately a 10-minute drive from the city center.\n\nQ: Do I need a visa to enter the Maldives?\nA: Most nationalities receive a free 30-day tourist visa on arrival, provided you have a confirmed hotel reservation, a return ticket, and sufficient funds.\n\nQ: How do I get from the airport to a resort island?\nA: Transfers are arranged through your resort and typically involve a speedboat for nearby atolls or a scenic seaplane flight for more distant resorts.\n\nQ: Are there hotels near the airport?\nA: Yes, several hotels are located on Hulhulé Island itself, including the Hulhulé Island Hotel directly adjacent to the terminal, convenient for early or late flights.",
+  "transport_tips": "Public ferries run between Malé and Hulhulé Island but do not operate at late hours, so a taxi or pre-arranged hotel transfer is recommended for arrivals outside daytime schedules. Speedboat transfers to nearby resorts must often be timed with daylight hours due to safety considerations. If heading to a distant resort, plan extra time for the seaplane check-in counter, which is located within the airport terminal.",
+  "local_tip": "If you have a long layover or early arrival, the Hulhulé Beach area on the airport island offers a quick spot to experience Maldivian sand and sea within walking distance of the terminal, without needing to enter Malé proper.",
+  "generatedAt": "2026-06-28T17:23:08.435Z",
+  "model": "MiniMax-M3"
+}

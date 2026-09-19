@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ERM",
+    "icao": "SSER",
+    "name": "Erechim Airport",
+    "country": "Brazil",
+    "city": "Erechim",
+    "lat": -27.6636,
+    "lon": -52.2715,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Erechim Airport serves the city of Erechim in the northern highlands of Rio Grande do Sul, in southern Brazil. The airport primarily supports general aviation and occasional regional flights, connecting this agricultural hub to other parts of the state. Erechim itself is known for its strong Italian immigrant heritage, which shapes much of the local culture and cuisine.",
+  "faqs": "Q: What is the IATA code for Erechim Airport?\nA: The IATA code is ERM and the ICAO code is SSER.\n\nQ: Does Erechim Airport offer commercial passenger flights?\nA: Commercial service is limited, and the airport mainly handles general aviation and private aircraft operations.\n\nQ: How far is the airport from Erechim city center?\nA: The airport is located a short drive from the city, typically around 4-5 kilometers away.\n\nQ: Is there a passenger terminal at Erechim Airport?\nA: Yes, there is a small terminal serving passengers with basic amenities.\n\n",
+  "transport_tips": "Taxis and rideshare services are the most reliable ways to reach Erechim Airport, as public transit options directly serving the terminal are limited. The drive from the city center is short, usually under 15 minutes depending on traffic. Travelers arriving by car will find parking available near the terminal building.",
+  "local_tip": "",
+  "generatedAt": "2026-06-27T09:09:35.695Z",
+  "model": "MiniMax-M3"
+}

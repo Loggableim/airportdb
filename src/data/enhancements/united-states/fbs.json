@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FBS",
+    "icao": "",
+    "name": "Friday Harbor Seaplane Base",
+    "country": "United States",
+    "city": "Friday Harbor",
+    "lat": 48.5373,
+    "lon": -123.01,
+    "type": "seaplane_base",
+    "size": 25
+  },
+  "summary": "Friday Harbor Seaplane Base (FBS) is a popular seaplane facility on San Juan Island in Washington State, serving as a primary gateway to the scenic San Juan Islands archipelago. The base primarily supports scheduled commuter flights operated by Kenmore Air Express, connecting the island community to Seattle's Lake Union in approximately 45 minutes. Surrounded by protected marine waters, it offers travelers a uniquely scenic arrival with views of the surrounding islands and occasional orca whale sightings.",
+  "faqs": "Q: What airlines serve Friday Harbor Seaplane Base?\nA: Kenmore Air Express is the primary scheduled carrier, operating multiple daily flights between Friday Harbor and Seattle's Lake Union.\n\nQ: Is there a terminal building at the seaplane base?\nA: Yes, the base has a small terminal with basic amenities for passengers waiting to board floatplanes.\n\nQ: How long is the flight from Seattle to Friday Harbor?\nA: The scenic flight typically takes around 45 minutes, offering aerial views of the Puget Sound and San Juan Islands.\n\nQ: Can I land a private floatplane at FBS?\nA: Yes, the base accommodates transient floatplane traffic in addition to scheduled commercial service.",
+  "transport_tips": "The seaplane base is located within walking distance of downtown Friday Harbor, where ferry arrivals also dock, making it easy to connect with Washington State Ferry services to Anacortes. Rental cars, taxis, and shuttle services are available near the terminal for trips elsewhere on San Juan Island. If you're departing via the seaplane, plan to arrive early as the small facility processes passengers efficiently but can get busy during summer tourist season.",
+  "local_tip": "Request a window seat on the left side of the floatplane when flying southbound to Seattle—on clear days you'll get spectacular views of the Olympic Mountains and the surrounding island chain during the climb out.",
+  "generatedAt": "2026-06-28T11:05:35.398Z",
+  "model": "MiniMax-M3"
+}

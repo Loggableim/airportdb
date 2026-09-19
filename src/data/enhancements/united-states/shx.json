@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SHX",
+    "icao": "PAHX",
+    "name": "Shageluk Airport",
+    "country": "United States",
+    "city": "Shageluk",
+    "lat": 62.6921,
+    "lon": -159.569,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Shageluk Airport is a small public-use airport serving the remote village of Shageluk, located along the Yukon River in western Alaska. The facility primarily supports bush planes and small commuter aircraft that connect this isolated community to larger regional hubs. With its short gravel runway and minimal infrastructure, it exemplifies the vital role small airports play in linking rural Alaskan villages to the rest of the state.",
+  "faqs": "Q: What type of aircraft use Shageluk Airport?\nA: The airport primarily serves small bush planes, single-engine Cessnas, and commuter aircraft capable of operating on short gravel runways typical of rural Alaska.\n\nQ: Are there scheduled commercial flights to SHX?\nA: Scheduled service is limited and typically provided by small regional carriers using bush planes; passengers should check with local operators for current schedules and availability.\n\nQ: Is the airport open year-round?\nA: Yes, but winter operations can be affected by snow and ice, while summer conditions may involve soft surfaces. Travelers should confirm conditions before flying.\n\nQ: Are there any amenities at the airport?\nA: As a small rural facility, Shageluk Airport offers minimal amenities; passengers should bring their own supplies and arrange ground transport in advance.",
+  "transport_tips": "Getting to Shageluk typically requires a connecting flight from a hub like Aniak or Fairbanks, often on small propeller aircraft. There are no roads connecting Shageluk to larger towns, so the airport is effectively the primary link to the outside world. Ground transport in Shageluk is usually arranged locally, often by ATV or snowmachine depending on the season.",
+  "local_tip": "Pack light and be prepared for flexible scheduling—weather in the Yukon-Kuskokwim Delta can delay or cancel flights with little notice, so building in a buffer day when planning connections is wise.",
+  "generatedAt": "2026-06-28T07:03:34.200Z",
+  "model": "MiniMax-M3"
+}

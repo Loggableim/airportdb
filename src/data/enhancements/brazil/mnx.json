@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MNX",
+    "icao": "SBMY",
+    "name": "Manicoré Airport",
+    "country": "Brazil",
+    "city": "Manicoré",
+    "lat": -5.8114,
+    "lon": -61.2783,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Manicoré Airport (MNX/SBMY) is a medium-sized regional airport serving the municipality of Manicoré in the remote interior of Amazonas state, Brazil. Situated along the Madeira River in the heart of the Amazon rainforest, the airport provides a vital aerial link for this isolated river community, where river transport is the primary means of reaching larger urban centers. It primarily handles domestic flights connecting the region to Manaus and other Amazonian hubs.",
+  "faqs": "Q: What airlines operate at Manicoré Airport?\nA: Regional carriers serving small Amazonian routes typically operate at MNX, with Azul and other Brazilian domestic airlines historically providing scheduled service to Manaus.\n\nQ: Are there international flights from Manicoré Airport?\nA: No, Manicoré Airport only handles domestic flights within Brazil, primarily connecting to Manaus (MAO).\n\nQ: What is the airport's runway like?\nA: The airport has a single asphalt runway suitable for medium-sized regional aircraft commonly used in Amazonian service.\n\nQ: When is the best time to fly to Manicoré?\nA: The dry season (roughly June to November) generally offers more reliable flight schedules, as heavy Amazonian rains during the wet season can cause delays or cancellations.",
+  "transport_tips": "The airport is located just outside the town center of Manicoré, with taxi and mototaxi services typically available for short transfers to local accommodations and the river port. Given Manicoré's remote location, road connections are limited, so travelers should arrange onward river transport in advance if continuing to surrounding communities. Booking ground transport ahead of arrival is recommended, as options at the terminal are minimal.",
+  "local_tip": "Pack light and bring insect repellent and a poncho in your carry-on—weather in the Amazon can shift quickly between intense sun and sudden downpours, even within minutes.",
+  "generatedAt": "2026-06-29T21:39:43.325Z",
+  "model": "MiniMax-M3"
+}

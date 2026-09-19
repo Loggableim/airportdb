@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NAP",
+    "icao": "LIRN",
+    "name": "Naples International Airport",
+    "country": "Italy",
+    "city": "Napoli",
+    "lat": 40.886,
+    "lon": 14.2908,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Naples International Airport (NAP), also known as Naples-Capodichino Airport, is the main gateway to southern Italy and the Campania region. Situated about 6 km northeast of Naples city center, it serves as a key access point for popular destinations including the Amalfi Coast, Pompeii, Sorrento, and the islands of Capri and Ischia. The airport handles millions of passengers annually and operates as an important hub for both legacy carriers and low-cost airlines.",
+  "faqs": "Q: How far is Naples Airport from the city center?\nA: The airport is approximately 6 km (3.7 miles) northeast of central Naples, with a typical journey time of 15-25 minutes by car or bus depending on traffic.\n\nQ: Which airlines fly to Naples Airport?\nA: NAP is served by a wide range of carriers including ITA Airways, easyJet, Ryanair, Lufthansa, Wizz Air, British Airways, and KLM, offering connections to destinations across Europe and beyond.\n\nQ: Are there direct bus services from the airport to Naples city center?\nA: Yes, the Alibus (operated by ANM) runs regularly between the airport, Napoli Centrale train station, and the port, with departures roughly every 20-30 minutes.\n\nQ: Can I reach the Amalfi Coast or Pompeii directly from the airport?\nA: While there are no direct trains to the Amalfi Coast, SITA buses and private transfers connect the airport area to Pompeii, Sorrento, and other coastal destinations.",
+  "transport_tips": "The Alibus is the most cost-effective and reliable way to reach central Naples, with a single ticket costing around €5 and a journey time of about 20 minutes. Taxis from the airport to the city center are available at fixed rates, but confirm the price before departure. For travel to Pompeii, Sorrento, or the Amalfi Coast, consider pre-booking a private transfer or hiring a car, as public transport connections with luggage can be cumbersome.",
+  "local_tip": "If you have a long layover or early arrival, visit the nearby Capodimonte Observatory or take a short taxi to the Cat",
+  "generatedAt": "2026-06-28T16:30:55.720Z",
+  "model": "MiniMax-M3"
+}

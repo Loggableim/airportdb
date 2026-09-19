@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TPF",
+    "icao": "KTPF",
+    "name": "Peter O Knight Airport",
+    "country": "United States",
+    "city": "Tampa",
+    "lat": 27.9156,
+    "lon": -82.4493,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Peter O Knight Airport is a small general aviation facility situated on Davis Islands in Tampa, Florida, just south of downtown. Named after Peter O. Knight, a prominent Tampa attorney and early aviation advocate, the airport is one of the oldest in the region and primarily serves private, corporate, and charter aircraft. Its island location offers a distinctive waterfront approach and convenient access to Tampa's urban core.",
+  "faqs": "Q: Does Peter O Knight Airport offer commercial airline service?\nA: No, TPF is a general aviation airport with no scheduled commercial flights. It primarily serves private planes, charter operations, and corporate jets.\n\nQ: Where is Peter O Knight Airport located?\nA: The airport sits on Davis Islands, a residential island community in Tampa Bay, connected to the mainland by a causeway and bridge.\n\nQ: How many runways does TPF have?\nA: The airport has a single runway, which is suitable for small to mid-size private aircraft.\n\nQ: Can I rent a car at Peter O Knight Airport?\nA: On-site rental services are limited, so travelers typically arrange ground transportation in advance through rental agencies, rideshare, or private car services.\n\n",
+  "transport_tips": "Because the airport is on Davis Islands, you'll cross a short causeway to reach downtown Tampa, which is only a few minutes away by car. Rideshare services and taxis are commonly used since there is no public transit directly serving the airfield. Many visitors and flight crews pre-arrange ground transportation, as the airport has minimal on-site rental options.",
+  "local_tip": "If you have time before departure, walk or drive to the nearby Davis Islands waterfront for scenic views of Tampa Bay and downtown's skyline, just minutes from the terminal area.",
+  "generatedAt": "2026-06-27T01:31:05.227Z",
+  "model": "MiniMax-M3"
+}

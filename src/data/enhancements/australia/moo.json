@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MOO",
+    "icao": "YOOM",
+    "name": "Moomba Airport",
+    "country": "Australia",
+    "city": "Moomba",
+    "lat": -28.0994,
+    "lon": 140.197,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Moomba Airport is a small remote aerodrome serving the town of Moomba in northeastern South Australia, deep within the Cooper Basin. It primarily supports the region's oil and gas industry, transporting workers and equipment to one of Australia's most important onshore energy production areas. The airport operates in a harsh outback environment surrounded by arid desert and stony plains.",
+  "faqs": "Q: Where is Moomba Airport located?\nA: Moomba Airport is situated in the far northeast of South Australia, near the Queensland border, in the remote outback town of Moomba.\n\nQ: Who typically uses Moomba Airport?\nA: The airport primarily serves workers in the oil and gas industry operating in the Cooper Basin, along with occasional charter and general aviation flights.\n\nQ: Are there scheduled commercial flights to Moomba?\nA: Scheduled commercial service is very limited; most flights are charter or FIFO (fly-in fly-out) operations linked to the energy sector.\n\nQ: What facilities are available at the airport?\nA: Being a small remote aerodrome, the airport has basic facilities with no scheduled terminal services, primarily functioning as an operational hub for industry transport.",
+  "transport_tips": "Access to Moomba Airport is almost exclusively by vehicle via the Strzelecki Track or the road network from Lyndhurst, and fuel and supplies should be carried given the remote location. Most visitors arrive via chartered or FIFO flights arranged through energy sector employers. There is no public transport serving the airport or the town of Moomba.",
+  "local_tip": "If visiting, check the weather forecast carefully — summer temperatures in the Cooper Basin frequently exceed 45°C (113°F), and flights can be delayed by dust storms or extreme heat affecting aircraft performance.",
+  "generatedAt": "2026-06-27T09:58:28.599Z",
+  "model": "MiniMax-M3"
+}

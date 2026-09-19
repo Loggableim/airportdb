@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BYU",
+    "icao": "EDQD",
+    "name": "Bayreuth Airport",
+    "country": "Germany",
+    "city": "Bindlach",
+    "lat": 49.985,
+    "lon": 11.64,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Bayreuth Airport (BYU) is a small regional airfield located in Bindlach, approximately 5 km northeast of Bayreuth in Upper Franconia, Bavaria. It primarily serves general aviation, business traffic, and seasonal flights connected to the internationally renowned Richard Wagner Festival held annually in Bayreuth. The airport features a single asphalt runway and operates as a convenient alternative to larger Bavarian hubs for visitors heading to the region.",
+  "faqs": "Q: What is Bayreuth Airport primarily used for?\nA: The airport mainly handles general aviation, private and business flights, with limited scheduled service. It sees increased traffic during the annual Wagner Festival season.\n\nQ: Are there regular commercial flights from Bayreuth Airport?\nA: Scheduled commercial service is limited and seasonal. Most travelers use nearby Nuremberg Airport for regular commercial connections.\n\nQ: Does Bayreuth Airport have customs and border control facilities?\nA: As a regional airport without scheduled international service, it does not maintain permanent customs facilities. International general aviation flights typically require advance arrangements.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic passenger services, a small terminal, fuel services, and aircraft parking. It does not have extensive retail or dining options typical of larger airports.",
+  "transport_tips": "The airport is located just a few kilometers from Bayreuth city center, making taxi rides quick and affordable, typically taking under 15 minutes. By car, take the A9 motorway and exit at Bindlach, with free parking available on site. Public bus connections from Bayreuth Hauptbahnhof provide an economical option, though service frequency may be limited.",
+  "local_tip": "If visiting during the Wagner Festival in July and August, book ground transport well in advance as demand spikes dramatically, and consider staying in Bayreuth rather than commuting from Nuremberg.",
+  "generatedAt": "2026-06-29T19:20:16.009Z",
+  "model": "MiniMax-M3"
+}

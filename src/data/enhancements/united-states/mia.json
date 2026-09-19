@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MIA",
+    "icao": "KMIA",
+    "name": "Miami International Airport",
+    "country": "United States",
+    "city": "Miami",
+    "lat": 25.796,
+    "lon": -80.2898,
+    "type": "large_airport",
+    "size": 1073075
+  },
+  "summary": "Miami International Airport (MIA) is one of the largest and busiest airports in the United States, serving as the primary gateway between the U.S. and Latin America and the Caribbean. Originally established in 1928 as Pan American Field, it has grown into American Airlines' largest hub and a critical international connector handling over 50 million passengers annually. The airport features a distinctive elevated automated people mover called the MIA Mover and the Skytrain connecting its concourses.",
+  "faqs": "Q: How far is Miami International Airport from downtown Miami?\nA: MIA is located about 8 miles west of downtown Miami, roughly a 15-20 minute drive depending on traffic.\n\nQ: Does MIA have international flights?\nA: Yes, MIA is one of the busiest international airports in the U.S., with extensive service to Latin America, the Caribbean, Europe, and Asia.\n\nQ: Is there a train or people mover at the airport?\nA: Yes, the MIA Mover is a free automated people mover that connects the airport terminals to the Miami Intermodal Center, which links to Metrorail and Tri-Rail services.\n\nQ: How early should I arrive for an international flight at MIA?\nA: It is recommended to arrive at least 3 hours before international departures to allow time for check-in, security, and customs screening.",
+  "transport_tips": "The MIA Mover provides free transit between the terminals and the Miami Intermodal Center, where you can connect to Tri-Rail, Metrorail, and rental car services. Taxis and rideshares typically cost $20-35 to reach downtown Miami or South Beach, though traffic on SR-112 and I-195 can cause significant delays during rush hours. For those staying in Brickell or Coral Gables, the Metrorail Orange Line offers a budget-friendly alternative directly from the airport station.",
+  "local_tip": "If you have a long layover, take the MIA Mover to the Miami Intermodal Center and catch a quick Metrorail trip to the Vizcaya Museum or Brickell City Centre—it's an easy way to experience Miami without needing a rental car.",
+  "generatedAt": "2026-06-28T14:42:09.051Z",
+  "model": "MiniMax-M3"
+}

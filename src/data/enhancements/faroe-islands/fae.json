@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FAE",
+    "icao": "EKVG",
+    "name": "Vágar Airport",
+    "country": "Faroe Islands",
+    "city": "Vágar",
+    "lat": 62.0633,
+    "lon": -7.2758,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Vágar Airport is the main international gateway to the Faroe Islands, located on the western island of Vágar. Originally constructed by the British Royal Engineers during World War II, the airport transitioned to civilian use in 1963 and serves as the primary hub for Atlantic Airways. Its dramatic setting among steep mountains and the Atlantic Ocean makes arrivals and departures particularly scenic.",
+  "faqs": "Q: How many terminals does Vágar Airport have?\nA: Vágar Airport has a single terminal building handling all arrivals and departures, keeping navigation straightforward for travelers.\n\nQ: Which airlines operate from Vágar Airport?\nA: Atlantic Airways, the Faroese flag carrier, operates the majority of flights, with additional seasonal and scheduled services by Scandinavian Airlines and other carriers linking to destinations in Denmark, Iceland, Norway, and beyond.\n\nQ: When was Vágar Airport built?\nA: The airport was constructed during World War II by British military forces and was reopened as a civilian airport in 1963.\n\nQ: Does Vágar Airport have customs and immigration facilities?\nA: Yes, the airport is fully equipped with customs and immigration services, as it is the primary international entry point for the Faroe Islands, which is a separate customs territory from mainland Denmark.\n\n",
+  "transport_tips": "The airport is connected to Tórshavn, the capital, via the Vágar Tunnel and road, with a drive time of approximately 45 minutes to one hour. Rental cars are available at the terminal and are recommended for exploring the islands, though taxis and limited bus services also operate. Be aware that weather conditions can occasionally affect ferry and tunnel access on connecting islands.",
+  "local_tip": "Request a window seat on the left side of the aircraft when arriving from the southeast—on clear days you'll get a stunning aerial view of the sheer cliffs of Mykines and the dramatic peaks surrounding the approach to the runway.",
+  "generatedAt": "2026-06-28T20:10:53.769Z",
+  "model": "MiniMax-M3"
+}

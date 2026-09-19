@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YOG",
+    "icao": "CYKP",
+    "name": "Ogoki Post Airport",
+    "country": "Canada",
+    "city": "Ogoki Post",
+    "lat": 51.6586,
+    "lon": -85.9017,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Ogoki Post Airport (YOG/CYKP) is a small remote airport serving the Ogoki Post community in the Algoma District of northern Ontario, Canada. The facility primarily supports the local Marten Falls First Nation community and provides essential connectivity to this isolated settlement, where road access is extremely limited. It functions mainly as a lifeline for medical evacuations, supplies, and passenger travel to larger centres in the region.",
+  "faqs": "Q: What is Ogoki Post Airport used for?\nA: It primarily serves the remote Ogoki Post community, supporting passenger travel, cargo, and medical evacuation flights.\n\nQ: Are there scheduled commercial flights to Ogoki Post?\nA: Scheduled service is limited; flights are typically operated by small carriers serving remote northern Ontario communities on demand or charter basis.\n\nQ: How large is the airport?\nA: It is a small airport with a single gravel runway, suitable only for small propeller aircraft.\n\nQ: Is the airport open year-round?\nA: Operations are generally seasonal, with weather conditions in northern Ontario often limiting use during severe winter periods.\n\n",
+  "transport_tips": "Access to Ogoki Post is primarily by air, as the community is remote with limited road infrastructure. Travellers typically need to arrange charter flights from larger hubs like Thunder Bay. There are no public transportation links, so coordinating ground transportation in advance with the community or your host is essential.",
+  "local_tip": "If visiting, confirm your return charter well in advance, as weather delays are common and aircraft schedules in remote northern Ontario can shift by hours or even days with little notice.",
+  "generatedAt": "2026-06-26T16:16:19.009Z",
+  "model": "MiniMax-M3"
+}

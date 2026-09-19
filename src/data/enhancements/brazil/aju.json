@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AJU",
+    "icao": "SBAR",
+    "name": "Aracaju - Santa Maria Airport",
+    "country": "Brazil",
+    "city": "Aracaju",
+    "lat": -10.9839,
+    "lon": -37.0729,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Aracaju - Santa Maria Airport (AJU) is the main gateway to Sergipe state in northeastern Brazil, serving the coastal capital of Aracaju. Located along Brazil's Atlantic coast, the airport features a modern terminal that handles domestic flights to major Brazilian cities. It provides easy access to the region's popular beaches, including the famous Atalaia, and cultural sites such as the historic city of São Cristóvão.",
+  "faqs": "Q: How far is Santa Maria Airport from Aracaju's city center?\nA: The airport is approximately 11 kilometers (about 7 miles) south of downtown Aracaju, typically a 20-30 minute drive depending on traffic.\n\nQ: Which airlines operate at Aracaju Airport?\nA: Major Brazilian carriers including GOL, LATAM, and Azul operate regular domestic flights to cities like São Paulo, Rio de Janeiro, Brasília, and Salvador.\n\nQ: Does the airport offer international flights?\nA: AJU primarily handles domestic flights, with passengers connecting through major hubs like São Paulo or Salvador for international travel.\n\nQ: Are there ATMs and currency exchange at the airport?\nA: Yes, the terminal provides ATMs and basic services, though exchanging foreign currency is more readily available in Aracaju's city center.\n\n",
+  "transport_tips": "Taxis and ride-hailing apps like Uber and 99 are the most convenient ways to reach central Aracaju, with fixed-rate airport taxis available at the terminal. Rental car agencies operate at the airport for those planning to explore the Sergipe coast. Public buses also connect the airport to various parts of the city at a lower cost.",
+  "local_tip": "If you have a few hours to spare before your flight, head to the nearby Atalaia waterfront and try the local specialty 'caranguejo' (crab) at one of the beachfront kiosks—it's a Sergipe tradition that most visitors miss.",
+  "generatedAt": "2026-06-29T08:33:01.235Z",
+  "model": "MiniMax-M3"
+}

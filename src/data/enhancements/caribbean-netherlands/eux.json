@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "EUX",
+    "icao": "TNCE",
+    "name": "F. D. Roosevelt Airport",
+    "country": "Caribbean Netherlands",
+    "city": "Oranjestad",
+    "lat": 17.4965,
+    "lon": -62.9794,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "F.D. Roosevelt Airport (EUX) is the main gateway to Sint Eustatius, a small volcanic island in the Caribbean Netherlands. Named after U.S. President Franklin Delano Roosevelt, this medium-sized airport handles regional flights connecting the island to neighboring Caribbean destinations, including St. Maarten. Its single runway and modest terminal reflect the island's quiet, off-the-beaten-path character, offering travelers a uniquely intimate arrival experience compared to larger Caribbean hubs.",
+  "faqs": "Q: Which airlines operate from F.D. Roosevelt Airport?\nA: The airport is primarily served by Winair, which provides scheduled inter-island flights connecting Sint Eustatius with St. Maarten and other nearby islands.\n\nQ: How long is the runway at EUX?\nA: The runway is approximately 1,300 meters long, which is suitable for small to medium regional turboprop aircraft but limits larger jet operations.\n\nQ: Are there international flights from F.D. Roosevelt Airport?\nA: The airport primarily handles regional Caribbean flights; direct long-haul international service is not available, with most international connections routing through St. Maarten.\n\nQ: Does the airport have immigration facilities?\nA: Yes, the airport has a small customs and immigration area to process arriving passengers, given its status as part of the Caribbean Netherlands.",
+  "transport_tips": "The airport is located just a few kilometers north of Oranjestad, the island's capital, making transfers to most accommodations quick, typically under 15 minutes by car. Rental cars and taxis are available outside the terminal, though booking a rental in advance is recommended due to limited fleet size. Note that there is no public bus service, so arranging ground transport before arrival is advisable.",
+  "local_tip": "Pack light and bring a refillable water bottle, as the airport's small terminal means limited amenities and no air conditioning in some waiting areas, especially during the hot midday hours.",
+  "generatedAt": "2026-06-29T08:48:47.295Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AKN",
+    "icao": "PAKN",
+    "name": "King Salmon Airport",
+    "country": "United States",
+    "city": "King Salmon",
+    "lat": 58.6778,
+    "lon": -156.652,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "King Salmon Airport serves as the primary gateway to the Bristol Bay region and Katmai National Park and Preserve on the Alaska Peninsula. The airport supports both commercial traffic and seasonal charter operations catering to sport fishermen and adventure tourists. Its remote location makes it a critical transportation link for nearby communities and the popular bear-viewing destinations of Brooks Camp and Geographic Harbor.",
+  "faqs": "Q: What airlines fly into King Salmon Airport?\nA: Ravn Alaska (formerly PenAir) and Alaska Airlines historically provide scheduled passenger service from Anchorage, though carriers and schedules may change seasonally.\n\nQ: How far is the airport from Katmai National Park?\nA: King Salmon is roughly 30 miles from the park boundary, with floatplane or bus connections required to reach Brooks Camp, the main visitor area.\n\nQ: Is the airport open year-round?\nA: Yes, the airport operates year-round, though flight frequency may decrease in winter months when tourism demand drops.\n\nQ: Are there rental cars available?\nA: Limited rental car services are available, and advance reservations are strongly recommended due to the remote location.",
+  "transport_tips": "Most visitors rent a car or arrange shuttle service in advance, as taxi availability is limited. During summer, floatplanes depart from nearby lakes for remote lodges and fishing camps throughout Bristol Bay. Many lodges and fishing operations include round-trip transfers from the airport as part of their packages.",
+  "local_tip": "Book accommodations and transportation early if visiting during peak salmon run in July, when demand for both flights and local lodging spikes dramatically due to the world-class trophy trout fishing in the Naknek River system.",
+  "generatedAt": "2026-06-29T07:36:06.220Z",
+  "model": "MiniMax-M3"
+}

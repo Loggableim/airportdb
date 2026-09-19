@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ISP",
+    "icao": "KISP",
+    "name": "Long Island MacArthur Airport",
+    "country": "United States",
+    "city": "Islip",
+    "lat": 40.7963,
+    "lon": -73.1017,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Long Island MacArthur Airport (ISP) is a medium-sized public airport located in Ronkonkoma, Islip, on the south shore of central Long Island, New York. It serves as a convenient alternative to the busier New York City airports for residents of Suffolk and Nassau counties, handling roughly two million passengers annually. The airport is named after Captain David H. MacArthur, a WWII Medal of Honor recipient from nearby East Islip.",
+  "faqs": "Q: Which airlines operate from Long Island MacArthur Airport?\nA: ISP is primarily served by low-cost and regional carriers including Southwest Airlines, Breeze Airways, Frontier Airlines, and various commuter services. It does not typically handle major international or legacy carrier hub traffic.\n\nQ: How far is ISP from New York City?\nA: The airport is approximately 50 miles east of Midtown Manhattan, typically a 60-90 minute drive depending on traffic conditions.\n\nQ: Does MacArthur Airport have TSA PreCheck?\nA: Yes, ISP has a TSA PreCheck enrollment center and dedicated PreCheck screening lanes for eligible travelers.\n\nQ: Are there lounges at ISP?\nA: The airport has limited lounge facilities; most travelers use the standard gate seating areas and a few small food and retail concessions.",
+  "transport_tips": "The Long Island Rail Road (Ronkonkoma branch) stops at the airport via a shuttle bus from the Ronkonkoma station, providing direct rail access to Manhattan Penn Station. Driving is straightforward via the Long Island Expressway (I-495) or Sunrise Highway (NY-27), though traffic can be heavy during rush hour. Taxi, rideshare, and rental car services are available at the terminal curbside.",
+  "local_tip": "Frequent flyers recommend checking the southwest wind direction before arriving—ISP's runway orientation means departures and arrivals shift regularly, and the main terminal's single concourse means gate changes are quick and easy to navigate.",
+  "generatedAt": "2026-06-29T02:27:59.017Z",
+  "model": "MiniMax-M3"
+}

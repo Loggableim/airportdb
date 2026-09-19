@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SYJ",
+    "icao": "OIKY",
+    "name": "Sirjan Airport",
+    "country": "Iran",
+    "city": "Sirjan",
+    "lat": 29.5509,
+    "lon": 55.6727,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Sirjan Airport (SYJ/OIKY) is a medium-sized regional airport serving the city of Sirjan in Kerman Province, southeastern Iran. It supports both domestic flights and general aviation, serving a region known for pistachio cultivation, iron ore mining, and manufacturing industries. The airport plays a key role in connecting this industrial hub to other parts of Iran.",
+  "faqs": "Q: Where is Sirjan Airport located?\nA: Sirjan Airport is located near the city of Sirjan in Kerman Province, southeastern Iran, at coordinates 29.551°N, 55.673°E.\n\nQ: What is the airport code for Sirjan Airport?\nA: The IATA code is SYJ and the ICAO code is OIKY.\n\nQ: Are there international flights from Sirjan Airport?\nA: Sirjan Airport primarily handles domestic flights within Iran, with occasional general aviation and charter activity.\n\nQ: What is Sirjan known for?\nA: Sirjan is a major center for pistachio production, iron ore mining, and steel manufacturing in Iran.\n\n",
+  "transport_tips": "The airport is located a short drive from central Sirjan, and taxis are the most practical option for getting to and from the terminal. Travelers heading to Kerman city can use intercity buses or hire private taxis for the approximately 200 km journey. Having Iranian currency (rial) ready is recommended, as card payment options for transport may be limited.",
+  "local_tip": "If visiting Sirjan, try the local pistachio-based sweets and nuts available at markets throughout the city — the region produces some of Iran's finest pistachios, and freshly roasted varieties are a regional specialty not easily found elsewhere.",
+  "generatedAt": "2026-06-26T11:59:35.181Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NAQ",
+    "icao": "BGQQ",
+    "name": "Qaanaaq Airport",
+    "country": "Greenland",
+    "city": "Qaanaaq",
+    "lat": 77.4886,
+    "lon": -69.3887,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Qaanaaq Airport (NAQ/BGQQ) is one of the northernmost public airports in the world, located on the northwestern coast of Greenland in the Avannaata municipality. It serves the remote Inuit village of Qaanaaq, home to roughly 600 residents, and provides a critical lifeline to this isolated Arctic community near the entrance of the famous Inglefield Fjord. The airport operates only during daylight hours and is a vital link for supplies, passengers, and medical evacuations in a region where sea ice limits access for much of the year.",
+  "faqs": "Q: What is the nearest major airport to Qaanaaq Airport?\nA: The nearest airport with regular scheduled service is Ilulissat Airport (JAV), with connections typically routed through Upernavik or Qaarsut airports.\n\nQ: When is Qaanaaq Airport open for flights?\nA: The airport operates only during daylight hours due to its extreme northern latitude, and all flights depend heavily on weather and visibility conditions.\n\nQ: Are there any international flights to Qaanaaq?\nA: No, Qaanaaq Airport only handles domestic flights within Greenland. International travelers must first arrive at a larger Greenlandic hub such as Ilulissat or Nuuk.\n\nQ: What facilities are available at the terminal?\nA: Being a small regional airport, the terminal offers only basic amenities. Travelers should bring their own food and warm clothing, as conditions outside can be harsh even in summer.",
+  "transport_tips": "There are no roads connecting Qaanaaq to other towns, so Air Greenland flights are the only practical way to reach the airport. The village is reachable on foot from the terminal in under 15 minutes, and local pickup is typically arranged in advance since taxis are not a standard service. Travelers should confirm return flights well ahead of time, as cancellations due to fog, snow, or high winds are common.",
+  "local_tip": "If you visit in summer, plan your trip around the midnight sun, which shines from late April to late August and allows flights at any hour of the day when the airport is staffed.",
+  "generatedAt": "2026-06-29T21:41:33.374Z",
+  "model": "MiniMax-M3"
+}

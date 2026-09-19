@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CRC",
+    "icao": "SKGO",
+    "name": "Santa Ana Airport",
+    "country": "Colombia",
+    "city": "Cartago",
+    "lat": 4.7582,
+    "lon": -75.9557,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Santa Ana Airport (CRC/SKGO) is a medium-sized regional airport serving Cartago, a historic city in Colombia's Valle del Cauca department near the border with Risaralda. Situated at an elevation of approximately 920 meters (3,020 feet) in the heart of Colombia's coffee-growing axis, it primarily handles domestic flights and general aviation. The airport provides important air access for the surrounding agricultural and coffee-producing communities of the Eje Cafetero region.",
+  "faqs": "Q: What is the IATA code for Santa Ana Airport?\nA: The IATA code is CRC, and the ICAO code is SKGO.\n\nQ: Where is Santa Ana Airport located?\nA: It is located near Cartago, in the Valle del Cauca department of Colombia, close to the border with the Risaralda department.\n\nQ: Does Santa Ana Airport handle international flights?\nA: No, the airport primarily serves domestic and regional flights, along with general aviation traffic.\n\nQ: What is the airport best known for?\nA: It serves as a key gateway for travelers visiting the coffee-producing region and the historic colonial city of Cartago.\n\n",
+  "transport_tips": "Taxis and local ride services are typically available at the airport for the short transfer into central Cartago. The airport is conveniently located close to the city, with travel times of around 15 to 20 minutes to the downtown area. Travelers heading to nearby cities like Pereira or Manizales should consider arranging private transport in advance.",
+  "local_tip": "If you have time before your flight, visit the Basilica de San Pedro Claver or the Plaza de Bolivar in Cartago's historic center — the city has some of the best-preserved colonial architecture in the region, and it's just a short ride from the airport.",
+  "generatedAt": "2026-06-29T16:13:06.304Z",
+  "model": "MiniMax-M3"
+}

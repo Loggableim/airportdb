@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLP",
+    "icao": "RPMM",
+    "name": "Malabang Airport",
+    "country": "Philippines",
+    "city": "Malabang",
+    "lat": 7.6169,
+    "lon": 124.058,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Malabang Airport is a small domestic airfield serving the municipality of Malabang in Lanao del Sur province on the island of Mindanao, Philippines. Located in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM), it primarily handles general aviation and occasional charter flights connecting this remote coastal community to larger regional hubs. The airport plays a strategic role in providing air access to an area with limited road infrastructure.",
+  "faqs": "Q: What type of airport is Malabang?\nA: Malabang Airport is a small domestic airfield classified as a community airport, primarily serving general aviation and light aircraft operations.\n\nQ: Are there regular commercial flights to Malabang?\nA: Scheduled commercial service is limited or intermittent. Travelers typically check with regional carriers or charter operators for current availability.\n\nQ: Where is the airport located?\nA: It is situated in Malabang, a coastal municipality in Lanao del Sur province on the western side of Mindanao island.\n\nQ: Is the airport paved?\nA: The airport has a runway suitable for small aircraft, though facilities are basic compared to major Philippine airports.",
+  "transport_tips": "Getting to and from Malabang Airport typically requires arranging ground transport in advance, as the airport has limited public transit connections. Tricycles and motorcycle habal-habal are commonly available for short trips into town. For travel to other parts of Lanao del Sur or Cotabato, hiring a private vehicle or jeepney from Malabang town center is the most practical option.",
+  "local_tip": "Confirm your return flight or onward transport well in advance, as weather in Lanao del Sur can change quickly and local transport schedules in this region tend to be flexible rather than fixed.",
+  "generatedAt": "2026-06-28T03:03:16.247Z",
+  "model": "MiniMax-M3"
+}

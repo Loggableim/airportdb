@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LKG",
+    "icao": "HKLK",
+    "name": "Lokichogio Airport",
+    "country": "Kenya",
+    "city": "Lokichogio",
+    "lat": 4.2041,
+    "lon": 34.3482,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Lokichogio Airport is a medium-sized airport in northwestern Kenya's Turkana County, situated just a few kilometers from the border with South Sudan. It gained international significance as a key humanitarian hub during the Sudanese civil wars, serving as the main base for Operation Lifeline Sudan and numerous NGOs coordinating relief flights. Today it continues to function as an important gateway for humanitarian operations and serves the remote Turkana region.",
+  "faqs": "Q: What is Lokichogio Airport primarily used for?\nA: The airport primarily serves humanitarian and relief operations, as well as providing access to the remote Turkana region of northwestern Kenya.\n\nQ: Which airlines operate scheduled flights",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T20:13:45.862Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FYV",
+    "icao": "KFYV",
+    "name": "Drake Field",
+    "country": "United States",
+    "city": "Fayetteville",
+    "lat": 36.0051,
+    "lon": -94.1701,
+    "type": "medium_airport",
+    "size": 375
+  },
+  "summary": "Drake Field is a medium-sized general aviation airport serving Fayetteville in northwest Arkansas, located just south of the city center. Historically the region's primary airport before the opening of Northwest Arkansas Regional Airport (XNA) in 1998, it now primarily supports private aviation, flight training, and charter operations. The airport sits near the Ozark foothills and provides convenient access to the University of Arkansas campus and the broader northwest Arkansas region.",
+  "faqs": "Q: What is Drake Field primarily used for?\nA: Drake Field serves mainly general aviation, including private aircraft, flight training, and charter flights rather than scheduled commercial service.\n\nQ: Is Drake Field the same as Northwest Arkansas Regional Airport (XNA)?\nA: No, they are separate airports. Drake Field (FYV) handles general aviation, while XNA, located in Bentonville, serves commercial airlines.\n\nQ: Where is Drake Field located relative to Fayetteville?\nA: The airport is situated on the south side of Fayetteville, about 3 miles from the downtown square and the University of Arkansas campus.\n\nQ: Does Drake Field have a control tower?\nA: Yes, Drake Field operates with an air traffic control tower during operational hours to manage local air traffic.",
+  "transport_tips": "Ground transportation at Drake Field is limited compared to larger commercial airports, so arranging a rental car or rideshare in advance is recommended. Taxis and ride-hailing services like Uber and Lyft typically serve the airport, though wait times can be longer than at major hubs. The short drive into downtown Fayetteville takes only about 10 minutes via Highway 71.",
+  "local_tip": "If you're flying in for a University of Arkansas Razorbacks game day, plan your departure well in advance—Fayetteville's traffic and hotel availability become extremely tight in the hours surrounding kickoff, and Drake Field's limited FBO services mean peak periods can be busy.",
+  "generatedAt": "2026-06-30T01:29:23.920Z",
+  "model": "MiniMax-M3"
+}

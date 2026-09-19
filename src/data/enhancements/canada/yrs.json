@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YRS",
+    "icao": "CYRS",
+    "name": "Red Sucker Lake Airport",
+    "country": "Canada",
+    "city": "Red Sucker Lake",
+    "lat": 54.1672,
+    "lon": -93.5572,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Red Sucker Lake Airport (YRS) is a small regional airport serving the remote First Nations community of Red Sucker Lake in northern Manitoba, Canada. The airport provides essential air access to the isolated community, which is not connected to the provincial road network. It primarily supports passenger air service, medevac operations, and the movement of goods to this northern settlement.",
+  "faqs": "Q: Where is Red Sucker Lake Airport located?\nA: The airport is located in Red Sucker Lake, a remote First Nations community in northern Manitoba, Canada, situated near the shores of Red Sucker Lake.\n\nQ: What type of aircraft serve this airport?\nA: The airport primarily handles small regional turboprop aircraft operated by airlines serving northern Manitoba communities, along with medevac flights.\n\nQ: How do I reach Red Sucker Lake since there are no roads?\nA: Red Sucker Lake is accessible only by air, making this airport the primary lifeline for the community year-round.\n\nQ: Are there facilities at the airport for travelers?\nA: As a small remote airport, facilities are minimal, so travelers should be prepared with their own supplies and check in well in advance of departure.",
+  "transport_tips": "Since Red Sucker Lake has no road access, the airport is effectively the only way to reach the community by air. Flights are typically booked through regional carriers serving northern Manitoba, and travelers should confirm schedules in advance as service can be weather-dependent. It's advisable to arrive early and prepare for limited ground transportation upon arrival.",
+  "local_tip": "Book flights through Perimeter Aviation or Calm Air, which serve northern Manitoba communities, and keep in mind that weather delays are common—building in extra buffer days is wise when connecting through Winnipeg to this remote destination.",
+  "generatedAt": "2026-06-26T15:40:57.178Z",
+  "model": "MiniMax-M3"
+}

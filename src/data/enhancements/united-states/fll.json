@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "FLL",
+    "icao": "KFLL",
+    "name": "Fort Lauderdale Hollywood International Airport",
+    "country": "United States",
+    "city": "Fort Lauderdale",
+    "lat": 26.0726,
+    "lon": -80.1527,
+    "type": "large_airport",
+    "size": 1015275
+  },
+  "summary": "Fort Lauderdale Hollywood International Airport (FLL) is a major South Florida gateway located about three miles southwest of downtown Fort Lauderdale, serving the broader Miami metropolitan area. Originally developed from a World War II-era naval air station, it has grown into one of the busiest airports in the United States, known as a key hub for low-cost and ultra-low-cost carriers, particularly Spirit Airlines. With four terminals and a wide mix of domestic and international service, FLL offers a popular alternative to the busier Miami International Airport just to the south.",
+  "faqs": "Q: How far is Fort Lauderdale Hollywood International Airport from downtown Fort Lauderdale?\nA: The airport is approximately 3 miles (5 km) southwest of downtown Fort Lauderdale, typically a 10–15 minute drive depending on traffic.\n\nQ: Does FLL offer international flights?\nA: Yes, FLL has a dedicated International Terminal (Terminal 4) handling flights to and from destinations in Canada, the Caribbean, Latin America, and Europe.\n\nQ: Are there public transportation options to FLL?\nA: Yes, the Tri-Rail commuter train has a station adjacent to the airport, and Broward County Transit buses also serve the terminals.\n\nQ: Is FLL a hub for any airline?\nA: Spirit Airlines operates one of its largest hubs at FLL, offering numerous domestic and international routes.\n\n",
+  "transport_tips": "The airport is directly accessible via Interstate 595 and Interstate 95, making it convenient for travelers driving in from Miami, West Palm Beach, or the Florida Keys. Tri-Rail provides affordable service connecting FLL to Miami, West Palm Beach, and other South Florida cities, with the station located just a short walk or shuttle ride from the terminals. Ride-share services and taxis are readily available curbside at each terminal, and many hotels in the area offer complimentary shuttle pickups.",
+  "local_tip": "If you're heading to Port Everglades to catch a cruise, FLL is one of the closest major airports to the terminals—many cruise lines run shuttle services directly from the airport, making it a smoother option than flying into Miami.",
+  "generatedAt": "2026-06-28T15:15:16.417Z",
+  "model": "MiniMax-M3"
+}

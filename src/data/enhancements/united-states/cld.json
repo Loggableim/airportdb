@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CLD",
+    "icao": "KCRQ",
+    "name": "McClellan-Palomar Airport",
+    "country": "United States",
+    "city": "Carlsbad",
+    "lat": 33.1283,
+    "lon": -117.28,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "McClellan-Palomar Airport is a public general aviation and commuter airport located in Carlsbad, California, serving North San Diego County. Originally established as Palomar Airport in 1959, it was renamed in honor of Gerald McClellan, a prominent local aviator and advocate who championed the airport's development. Today it serves as a key hub for private aviation, flight training, and limited commercial service into the coastal Southern California region.",
+  "faqs": "Q: What airlines fly out of McClellan-Palomar Airport?\nA: Commercial service at CLD has historically been limited, with carriers like United Express and American Eagle operating routes in the past. The airport primarily serves general aviation, private jets, and flight schools today.\n\nQ: Where is McClellan-Palomar Airport located?\nA: The airport is situated in Carlsbad, California, in northern San Diego County, roughly 35 miles north of downtown San Diego and about 90 miles south of Los Angeles.\n\nQ: How long is the runway at McClellan-Palomar?\nA: The airport features a single main runway (6/24) approximately 4,900 feet long, which accommodates most business jets and regional aircraft.\n\nQ: Does the airport offer car rentals or other ground transportation?\nA: Yes, rental car agencies operate on-site, and the airport is conveniently located near Interstate 5, making ground transportation straightforward for travelers.\n\n",
+  "transport_tips": "The airport is just off Interstate 5, roughly a 40-minute drive south to San Diego and about 90 minutes north to Los Angeles depending on traffic. Rental cars are available on-site, and rideshare services like Uber and Lyft serve the airport regularly. Taxis and pre-arranged shuttles are also options, though booking ahead is recommended during peak travel times.",
+  "local_tip": "If you have extra time before your flight, drive 10 minutes to downtown Carlsbad for the Carlsbad Village area, where you can walk to the beach, browse local boutiques, and grab a meal at one of the independent restaurants along State Street.",
+  "generatedAt": "2026-06-29T17:57:47.068Z",
+  "model": "MiniMax-M3"
+}

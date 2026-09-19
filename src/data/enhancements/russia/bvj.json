@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BVJ",
+    "icao": "USDB",
+    "name": "Bovanenkovo Airport",
+    "country": "Russia",
+    "city": "Bovanenkovo",
+    "lat": 70.3153,
+    "lon": 68.3336,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Bovanenkovo Airport serves the remote Bovanenkovo settlement on the Yamal Peninsula in northern Russia, well above the Arctic Circle. The airport primarily supports the massive Bovanenkovo gas field, one of Russia's largest natural gas reserves operated by Gazprom. Its extreme Arctic location, at approximately 70°N latitude, means it operates under harsh subarctic conditions with long polar winters.",
+  "faqs": "Q: What is Bovanenkovo Airport primarily used for?\nA: The airport mainly serves workers and operations related to the Bovanenkovo gas field, one of Russia's largest natural gas extraction sites operated by Gazprom.\n\nQ: Is Bovanenkovo Airport open to civilian passengers?\nA: The airport primarily handles industrial and charter flights serving energy sector workers, with limited regular passenger service to the public.\n\nQ: Where is Bovanenkovo located?\nA: Bovanenkovo is located on the Yamal Peninsula in the Yamalo-Nenets Autonomous Okrug of northern Russia, well above the Arctic Circle.\n\nQ: What weather conditions does the airport experience?\nA: The airport endures harsh Arctic conditions including extreme cold, heavy snowfall, and polar night during winter months, with short cool summers.",
+  "transport_tips": "Access to Bovanenkovo Airport is limited, with most arrivals being workers on charter or company-operated flights connected to Gazprom operations. There are no regular public bus or rail services to the airport, so transportation is typically arranged through employer-organized transfers. Visitors should coordinate ground transportation in advance, as the remote location offers very few independent travel options.",
+  "local_tip": "Pack layered extreme-cold weather clothing even in summer, as temperatures can drop sharply and the airport's Arctic exposure means sudden weather changes are common year-round.",
+  "generatedAt": "2026-06-29T23:41:05.588Z",
+  "model": "MiniMax-M3"
+}

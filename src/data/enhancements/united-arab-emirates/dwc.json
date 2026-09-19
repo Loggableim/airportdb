@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DWC",
+    "icao": "OMDW",
+    "name": "Al Maktoum International Airport",
+    "country": "United Arab Emirates",
+    "city": "Dubai(Jebel Ali)",
+    "lat": 24.8962,
+    "lon": 55.1624,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Al Maktoum International Airport (DWC), also known as Dubai World Central, is located in Jebel Ali, about 40 km southwest of central Dubai. Opened in 2013, it was designed to eventually become the world's largest airport, with a planned ultimate capacity exceeding 200 million passengers per year. Today it primarily serves cargo operations and select passenger flights, functioning as Dubai's secondary gateway alongside Dubai International Airport (DXB).",
+  "faqs": "Q: How far is Al Maktoum International Airport from central Dubai?\nA: The airport is approximately 40 km southwest of central Dubai, located in the Jebel Ali area near the port and free zone.\n\nQ: Is Al Maktoum International the same as Dubai International Airport?\nA: No, they are two separate airports. DXB is Dubai's main international hub, while DWC serves as a secondary facility, primarily for cargo and some passenger operations.\n\nQ: What is the planned ultimate capacity of Al Maktoum International Airport?\nA: Upon full completion of all planned phases, the airport is designed to handle over 200 million passengers and millions of tonnes of cargo annually, making it one of the largest in the world.\n\nQ: Does the airport operate passenger flights?\nA: Yes, it handles a limited number of passenger flights from select carriers, though cargo remains its primary operation focus.",
+  "transport_tips": "The airport is connected to Dubai via Sheikh Mohammed Bin Zayed Road (E311), typically a 40-50 minute drive from the city center depending on traffic. Taxi services are available but can be expensive; booking in advance through apps or hotels is recommended. A shuttle bus service previously operated between DXB and DWC, so travelers should verify current connections before relying on them.",
+  "local_tip": "If flying out of DWC with time to spare, the nearby Ibn Battuta Mall — themed after the famous explorer's travels — is a short drive away and offers a unique shopping and dining experience well worth the detour.",
+  "generatedAt": "2026-06-28T20:13:11.390Z",
+  "model": "MiniMax-M3"
+}

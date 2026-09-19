@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SPQ",
+    "icao": "",
+    "name": "Catalina Air-Sea Terminal Heliport",
+    "country": "United States",
+    "city": "San Pedro",
+    "lat": 33.7492,
+    "lon": -118.275,
+    "type": "heliport",
+    "size": 25
+  },
+  "summary": "The Catalina Air-Sea Terminal Heliport, identified by IATA code SPQ, is a waterfront heliport located in San Pedro, California, within the Port of Los Angeles area. It primarily serves as a departure point for helicopter and seaplane transfers to Santa Catalina Island, offering travelers a scenic alternative to the longer ferry ride across the San Pedro Channel. The terminal combines aviation and maritime functions, reflecting its dual role in regional island transportation.",
+  "faqs": "Q: What is the Catalina Air-Sea Terminal Heliport used for?\nA: It primarily serves as a departure point for helicopter and seaplane flights to Santa Catalina Island, located roughly 22 miles offshore in the San Pedro Channel.\n\nQ: Where exactly is this heliport located?\nA: The heliport is situated on the waterfront in San Pedro, a community within the Port of Los Angeles area in Southern California.\n\nQ: Is this a commercial passenger airport?\nA: No, it is a small heliport focused on scheduled and charter flights to Catalina Island rather than traditional airline service.\n\nQ: How long does a flight to Catalina Island take?\nA: Helicopter flights from this terminal to Catalina typically take around 15 to 20 minutes, depending on the destination on the island.\n\n",
+  "transport_tips": "Driving to the terminal is straightforward via the I-110 freeway into San Pedro, with paid parking available nearby in the Port of Los Angeles area. Rideshare services and taxis are readily available throughout San Pedro. If arriving by cruise ship, the heliport is conveniently located near the major San Pedro cruise terminals.",
+  "local_tip": "Arrive at least 45 minutes before your scheduled departure, as the small terminal can get busy during weekend rush periods and weight checks for luggage are strict on helicopter flights.",
+  "generatedAt": "2026-06-28T13:15:03.812Z",
+  "model": "MiniMax-M3"
+}

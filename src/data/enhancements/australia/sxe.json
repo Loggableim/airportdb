@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SXE",
+    "icao": "YWSL",
+    "name": "West Sale Airport",
+    "country": "Australia",
+    "city": "Sale",
+    "lat": -38.0908,
+    "lon": 146.9653,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "West Sale Airport serves the city of Sale in Victoria's Gippsland region, located a few kilometres west of the town centre. It shares airspace and infrastructure with the nearby RAAF Base East Sale, one of Australia's premier military pilot training facilities. The airport supports general aviation, flight training, and occasional military operations, and serves as a useful gateway to the Gippsland Lakes and surrounding natural attractions.",
+  "faqs": "Q: Where is West Sale Airport located relative to the town of Sale?\nA: The airport is situated approximately 7 kilometres west of Sale's town centre in the Gippsland region of Victoria, Australia.\n\nQ: Does West Sale Airport handle commercial passenger flights?\nA: Scheduled commercial passenger services are limited. Most traffic consists of general aviation, flight training, and military-related operations linked to the adjacent RAAF Base East Sale.\n\nQ: Are there facilities for private aircraft and pilots at SXE?\nA: Yes, the airport offers general aviation facilities including fuel, hangar space, and runway access suitable for training and private flights.\n\nQ: Can the airport accommodate larger aircraft?\nA: The runway is suitable for turboprop and small to medium jet aircraft, particularly those supporting military training exercises at the nearby RAAF base.\n\n",
+  "transport_tips": "Reaching West Sale Airport typically requires a private vehicle or taxi from Sale, as there is no regular public bus service directly to the terminal. Hire cars are available in Sale and should be arranged in advance for convenient airport access. The drive from Sale township takes roughly 10 minutes via the Princes Highway.",
+  "local_tip": "If you're visiting the area, plan time to explore the Gippsland Lakes and the Ninety Mile Beach, both within easy driving distance and offering some of Victoria's best coastal scenery and fishing spots.",
+  "generatedAt": "2026-06-26T08:52:46.770Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CSB",
+    "icao": "LRCS",
+    "name": "Caransebeş Airport",
+    "country": "Romania",
+    "city": "Caransebeş",
+    "lat": 45.4201,
+    "lon": 22.2525,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Caransebeş Airport (CSB/LRCS) is a medium-sized airfield serving the city of Caransebeş in Caraș-Severin County, western Romania. Situated in the Banat region near the Timiș River valley, it primarily handles general aviation, charter flights, and occasional military operations rather than scheduled commercial service. The airport serves as a regional gateway to the nearby Southern Carpathian mountains and the historic administrative center of Caransebeş.",
+  "faqs": "Q: Does Caransebeş Airport have scheduled commercial flights?\nA: No, the airport currently does not offer regular scheduled passenger service and is mainly used for general aviation, private flights, and occasional charter or military operations.\n\nQ: Where is the airport located relative to the city center?\nA: The airport is situated a few kilometers from central Caransebeş, easily accessible by local roads in the Banat region of western Romania.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized regional airfield, it provides basic aviation infrastructure including a runway, apron space, and limited passenger handling facilities, though extensive terminal services are not present.\n\nQ: Can private pilots land at Caransebeş?\nA: Yes, the airport welcomes general aviation traffic with appropriate prior coordination with the local flight operations authorities.\n\n",
+  "transport_tips": "Taxis and pre-arranged private transfers are the most reliable options for reaching the airport from Caransebeş city center. The nearby DN6 national road connects the area to Timișoara, approximately 110 km to the northwest. Having local contact numbers for ground transport is advisable since on-demand services at the airfield may be limited.",
+  "local_tip": "If visiting the area, plan time to explore Caransebeş's historic Habsburg-era architecture and use the airport as a base for accessing the scenic Semenic-Cheile Carașului National Park in the surrounding Carpathian foothills.",
+  "generatedAt": "2026-06-26T10:14:04.842Z",
+  "model": "MiniMax-M3"
+}

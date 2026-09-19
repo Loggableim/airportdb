@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NYM",
+    "icao": "USMM",
+    "name": "Nadym Airport",
+    "country": "Russia",
+    "city": "Nadym",
+    "lat": 65.4809,
+    "lon": 72.6989,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Nadym Airport (NYM/USMM) is a medium-sized regional airport serving the city of Nadym in the Yamalo-Nenets Autonomous Okrug of Western Siberia, Russia. It functions as a vital transport link for the region's significant natural gas industry, connecting remote Arctic communities with major Russian cities such as Moscow and Tyumen. The airport operates in a challenging sub-Arctic climate, with extreme winter temperatures that require specialized operations and infrastructure.",
+  "faqs": "Q: What airlines operate from Nadym Airport?\nA: The airport is primarily served by Russian carriers including Aeroflot, S7 Airlines, and UTair, with flights connecting Nadym to Moscow, Tyumen, and other regional hubs.\n\nQ: How far is Nadym Airport from the city center?\nA: The airport is located approximately 6 kilometers southeast of Nadym's city center, typically a short 15-minute drive.\n\nQ: Is the airport open year-round despite the harsh climate?\nA: Yes, the airport operates year-round, though winter conditions with extreme cold and reduced visibility can occasionally cause flight delays or cancellations.\n\nQ: Does Nadym Airport have international flights?\nA: No, the airport primarily handles domestic Russian flights, given its remote northern location and regional service focus.",
+  "transport_tips": "Taxis are the most reliable way to reach the airport, with services available from central Nadym and the journey taking roughly 15 minutes. Many travelers arrange transfers through their hotel or employer, as public transportation options to the airport are limited. Given the cold climate, pre-booking transportation during winter months is strongly recommended.",
+  "local_tip": "If you have a choice of flight times, aim for midday departures—morning flights in winter are more frequently affected by low visibility and frost, while afternoon services tend to operate more reliably.",
+  "generatedAt": "2026-06-29T14:10:38.429Z",
+  "model": "MiniMax-M3"
+}

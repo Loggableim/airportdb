@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BLH",
+    "icao": "KBLH",
+    "name": "Blythe Airport",
+    "country": "United States",
+    "city": "Blythe",
+    "lat": 33.6192,
+    "lon": -114.717,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Blythe Airport (BLH) is a publicly owned general aviation facility serving the city of Blythe in Riverside County, California, near the Arizona border along the Colorado River. The medium-sized airport features two paved runways and primarily supports general aviation, military training flights, and emergency response operations. It serves as an important gateway for visitors to the Palo Verde Valley and the lower Colorado River region.",
+  "faqs": "Q: Does Blythe Airport have commercial airline service?\nA: Blythe Airport does not currently offer scheduled commercial passenger service. It operates primarily as a general aviation airport, though charter and private flights can be arranged through local fixed-base operators.\n\nQ: Where is Blythe Airport located relative to the city?\nA: The airport is situated just north of the city center of Blythe, California, providing convenient access to the Palo Verde Valley community and Interstate 10.\n\nQ: How many runways does Blythe Airport have?\nA: Blythe Airport has two asphalt runways, including a primary runway designated 8/26 that accommodates most general aviation aircraft.\n\nQ: Is there an FBO (Fixed-Base Operator) at Blythe Airport?\nA: The airport typically offers basic FBO services for fueling and aircraft handling, though amenities are limited compared to larger commercial airports.",
+  "transport_tips": "Rental cars are the most practical way to reach Blythe Airport, as there is no scheduled public bus service directly serving the facility. The airport is located just off Interstate 10, making it a convenient stop for travelers driving between California and Arizona. Taxi and rideshare availability is limited, so arranging ground transportation in advance is advisable.",
+  "local_tip": "If you're flying into Blythe, consider extending your trip to explore the nearby Cibola Valley and the Cibola National Wildlife Refuge, which offers excellent birdwatching along the Colorado River and is just a short drive from the airport.",
+  "generatedAt": "2026-06-30T05:03:33.488Z",
+  "model": "MiniMax-M3"
+}

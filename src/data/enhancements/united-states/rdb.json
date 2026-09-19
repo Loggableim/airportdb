@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RDB",
+    "icao": "PADG",
+    "name": "Red Dog Airport",
+    "country": "United States",
+    "city": "Red Dog",
+    "lat": 68.0321,
+    "lon": -162.899,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Red Dog Airport is a remote airstrip in northwestern Alaska that primarily serves the nearby Red Dog Mine, one of the world's largest zinc-producing operations. Located above the Arctic Circle, it supports the heavy rotation of workers and supplies needed to sustain industrial activity in this isolated region. The airport's harsh subarctic environment and single-runway layout reflect the rugged character of Alaska's mining frontier.",
+  "faqs": "Q: Where is Red Dog Airport located?\nA: Red Dog Airport is situated in the remote northwestern region of Alaska, near the Chukchi Sea coastline, well above the Arctic Circle.\n\nQ: Who uses Red Dog Airport?\nA: The airport primarily serves personnel working at the Red Dog Mine, along with occasional charter and emergency flights.\n\nQ: Are there scheduled commercial flights to Red Dog Airport?\nA: No scheduled commercial service is available; access is generally through charter flights arranged through mining operations.\n\nQ: What are the weather conditions like at Red Dog Airport?\nA: The airport experiences extreme Arctic conditions with long, cold winters, short summers, and frequent fog and low cloud cover that can affect flight operations.",
+  "transport_tips": "There is no public transportation to or from Red Dog Airport; access is arranged exclusively through the mining company or charter operators. The closest community is Noatak, roughly 50 miles away, and ground transport between the airport and mine facilities is typically coordinated by the operator. Travelers should arrange return flights in advance, as weather can frequently delay or cancel departures in this region.",
+  "local_tip": "Pack layered clothing even in summer—temperatures near the coast can drop sharply with wind coming off the Chukchi Sea, and the open tundra offers little shelter while waiting outdoors.",
+  "generatedAt": "2026-06-27T10:17:10.338Z",
+  "model": "MiniMax-M3"
+}

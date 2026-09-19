@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PBI",
+    "icao": "KPBI",
+    "name": "Palm Beach International Airport",
+    "country": "United States",
+    "city": "West Palm Beach",
+    "lat": 26.6832,
+    "lon": -80.0956,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Palm Beach International Airport (PBI), originally Morrison Field, served as a U.S. Army Air Corps training base during World War II before transitioning to commercial operations in the 1940s. Located just three miles west of downtown West Palm Beach, it serves as the primary gateway for Palm Beach County, including the affluent communities of Palm Beach, Boca Raton, and Jupiter. The airport is favored over larger South Florida alternatives for its short lines, easy navigation, and quick curbside access.",
+  "faqs": "Q: How far is PBI from Palm Beach Island?\nA: The airport is approximately 5 miles west of Palm Beach Island, typically a 15-20 minute drive depending on traffic on Southern Boulevard or the Royal Park Bridge.\n\nQ: How many terminals does Palm Beach International have?\nA: PBI operates from a single main terminal building with three concourses (A, B, and C), making it notably compact and easy to navigate.\n\nQ: Which airlines serve PBI?\nA: Major carriers include JetBlue, Delta, American, United, Southwest, and Spirit, along with seasonal service from Allegiant and several regional operators.\n\nQ: Is PBI a good alternative to Miami or Fort Lauderdale airports?\nA: Yes, many travelers prefer PBI for its shorter security lines, faster baggage claim, and proximity to northern Palm Beach County destinations, though it offers fewer international flights.\n\n",
+  "transport_tips": "Rideshare services like Uber and Lyft have designated pickup zones on the lower level curbside. Palm Tran Route 40 provides affordable bus service connecting the airport to downtown West Palm Beach and the Tri-Rail station. Rental car facilities are consolidated at the airport's on-site center, and taxi stands are available outside baggage claim.",
+  "local_tip": "If you're short on time, use the cell phone parking lot for pickups—it offers 30 minutes of free waiting time and connects directly to the terminal via a short walkway, avoiding the $1 per minute short-term parking fees.",
+  "generatedAt": "2026-06-28T16:15:25.943Z",
+  "model": "MiniMax-M3"
+}

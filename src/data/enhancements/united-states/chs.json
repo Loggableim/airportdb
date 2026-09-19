@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CHS",
+    "icao": "KCHS",
+    "name": "Charleston International Airport",
+    "country": "United States",
+    "city": "Charleston",
+    "lat": 32.8962,
+    "lon": -80.0382,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Charleston International Airport (CHS) is a joint civil-military facility located in North Charleston, South Carolina, sharing its runways with Charleston Air Force Base. It serves the historic Charleston metropolitan area, one of the most popular tourist destinations in the American Southeast, known for its antebellum architecture, coastal beauty, and culinary scene. The airport underwent a major terminal modernization completed in 2016, significantly expanding its capacity to handle growing passenger volumes driven by Charleston's booming tourism industry.",
+  "faqs": "Q: How far is Charleston International Airport from downtown Charleston?\nA: The airport is approximately 12 miles northwest of downtown Charleston, typically a 20-25 minute drive depending on traffic.\n\nQ: Does the airport share facilities with a military base?\nA: Yes, CHS operates as a joint-use airport with Charleston Air Force Base, which handles military air traffic alongside commercial operations.\n\nQ: How many terminals does CHS have?\nA: The airport has a single main terminal building with two concourses (Concourse A and Concourse B) housing all airline gates.\n\nQ: Is there a cell phone lot for drivers picking up passengers?\nA: Yes, a free cell phone waiting area is available for drivers awaiting arriving passengers.",
+  "transport_tips": "Ride-sharing services like Uber and Lyft have designated pickup zones on the lower level of the terminal. Taxis are readily available outside baggage claim, and the Charleston Area Regional Transportation Authority (CARTA) operates Route 11, providing affordable public transit to downtown. Rental car facilities are conveniently located adjacent to the terminal, which is ideal given the limited walkability of the surrounding area and the desirability of exploring Charleston's coastal region by car.",
+  "local_tip": "If you have a layover or short visit, grab a meal at one of the local Lowcountry-inspired restaurants in the terminal rather than waiting until you reach the city, and ask for a window seat on the left side of the aircraft during landing for a scenic view of the Charleston Harbor and the iconic Arthur Ravenel Jr. Bridge.",
+  "generatedAt": "2026-06-28T18:10:46.969Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HSN",
+    "icao": "ZSZS",
+    "name": "Zhoushan Putuoshan International Airport",
+    "country": "China",
+    "city": "Zhoushan",
+    "lat": 29.9339,
+    "lon": 122.3623,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Zhoushan Putuoshan International Airport serves the Zhoushan Archipelago, China's fourth-largest island group, located in Zhejiang Province along the East China Sea. The airport provides essential air access for travelers visiting the sacred Buddhist mountain of Mount Putuo, one of the Four Sacred Buddhist Mountains in China. It plays a vital role in connecting the island region's fishing and tourism industries to mainland China and beyond.",
+  "faqs": "Q: How far is the airport from Zhoushan city center?\nA: The airport is located on Zhujiajian Island, approximately 20-30 kilometers from central Zhoushan, with travel times varying by route and traffic.\n\nQ: What is the airport best known for serving?\nA: It primarily serves visitors to Mount Putuo, a sacred Buddhist pilgrimage site, as well as tourists exploring the Zhoushan Archipelago's beaches and fishing communities.\n\nQ: Are there international flights from this airport?\nA: Despite its international designation, most flights are domestic routes connecting to major Chinese cities like Shanghai, Beijing, and Hangzhou.\n\nQ: Is the airport open 24 hours?\nA: Operating hours align with flight schedules; check with your airline for specific terminal hours as the airport is not a 24-hour facility.",
+  "transport_tips": "Taxis and airport shuttle buses are the primary options for reaching Zhoushan city and the ferry terminals. Rental cars are available but bridges connecting Zhoushan to the mainland must be factored into travel planning. If heading to Mount Putuo, you will need to transfer to a ferry at a nearby port.",
+  "local_tip": "If visiting Mount Putuo, book ferry tickets in advance during weekends and Buddhist festival days, as the island attracts heavy pilgrim traffic that can make same-day travel unpredictable.",
+  "generatedAt": "2026-06-29T01:38:02.813Z",
+  "model": "MiniMax-M3"
+}

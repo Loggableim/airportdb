@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BMA",
+    "icao": "ESSB",
+    "name": "Stockholm-Bromma Airport",
+    "country": "Sweden",
+    "city": "Stockholm",
+    "lat": 59.3544,
+    "lon": 17.9417,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Stockholm-Bromma Airport (BMA) is a historic city airport located in the Bromma borough just west of central Stockholm, inaugurated in 1936 as Sweden's first commercial airport. Despite the opening of Stockholm Arlanda in 1962, Bromma continues to operate as a convenient hub for domestic flights and short-haul European routes. Its proximity to the city center makes it a popular choice for business travelers seeking quick access to Stockholm's downtown core.",
+  "faqs": "Q: How far is Bromma Airport from central Stockholm?\nA: The airport is approximately 7-8 km west of Stockholm city center, making it one of the most conveniently located airports in Europe. The journey typically takes 20-30 minutes depending on traffic.\n\nQ: What airlines operate from Bromma Airport?\nA: Bromma primarily serves domestic Swedish routes, with carriers such as BRA (Braathens Regional Airlines) and SAS offering flights to destinations including Malmö, Gothenburg, and Visby. Some regional European flights also operate seasonally.\n\nQ: Is Bromma Airport smaller than Stockholm Arlanda?\nA: Yes, Bromma is significantly smaller than Arlanda and handles a fraction of the passenger traffic. It is considered a medium-sized airport and primarily focuses on quick-turnaround domestic services rather than long-haul international flights.\n\nQ: Can I use public transport to reach Bromma Airport?\nA: Yes, the airport is served by the Tvärbanan tram line and several SL bus routes, with connections to the Stockholm metro system for onward travel throughout the city.",
+  "transport_tips": "The Tvärbanan tram line (Route 31/32) stops directly at the airport and connects to the green metro line at Alvik station, providing easy access to central Stockholm in roughly 20 minutes. Taxis are readily available but significantly more expensive than public transit. For those driving, the airport offers short-term and long-term parking lots adjacent to the terminal.",
+  "local_tip": "If you have a layover or early arrival, the Bromma Blocks shopping center is within walking distance and offers",
+  "generatedAt": "2026-06-29T02:28:16.993Z",
+  "model": "MiniMax-M3"
+}

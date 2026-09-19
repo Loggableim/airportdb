@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BRQ",
+    "icao": "LKTB",
+    "name": "Brno-Tuřany Airport",
+    "country": "Czech Republic",
+    "city": "Brno",
+    "lat": 49.1513,
+    "lon": 16.694,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Brno-Tuřany Airport (BRQ) is the main international gateway serving Brno, the second-largest city in the Czech Republic, located approximately 7.5 km southeast of the city center in the South Moravian region. Originally established as a military airfield, it transitioned to civilian use and now operates primarily as a regional airport handling scheduled, charter, and general aviation traffic. The single-runway facility serves as a convenient alternative to larger Prague and Vienna airports for travelers visiting Moravia.",
+  "faqs": "Q: How far is Brno Airport from the city center?\nA: The airport is approximately 7.5 km (about 12 minutes by car) southeast of Brno's city center, near the Tuřany district.\n\nQ: Does Brno Airport have public transport connections?\nA: Yes, public buses run between the airport and Brno's main bus station (ÚAN Zvonařka) with regular service throughout the day.\n\nQ: What types of flights operate from Brno-Tuřany?\nA: The airport handles scheduled regional flights, seasonal charter services to holiday destinations, and a significant amount of general aviation and flight training activity.\n\nQ: Are there car rental services available at the airport?\nA: Yes, several car rental agencies operate at or near the airport, allowing travelers to easily explore the South Moravian region.\n\n",
+  "transport_tips": "Public bus line 76 connects the airport with Brno's main bus station in roughly 20 minutes and is the most economical option. Taxis from the airport to the city center typically cost around 250-350 CZK and can be booked at the arrivals hall. If driving, follow Route D1 motorway connections from Prague or Bratislava, then take Exit 201 toward Tuřany.",
+  "local_tip": "The airport sits near the Tuřany wine-growing region, so if you have an hour to spare before a flight, consider stopping at one of the nearby local vineyards or wine cellars (vinařství) for a quick tasting of authentic Moravian wines — a regional specialty you won't find this side of the border elsewhere.",
+  "generatedAt": "2026-06-29T04:10:00.798Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HIE",
+    "icao": "KHIE",
+    "name": "Mount Washington Regional Airport",
+    "country": "United States",
+    "city": "Whitefield",
+    "lat": 44.3675,
+    "lon": -71.5458,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mount Washington Regional Airport (HIE) is a small public-use airport located in Whitefield, New Hampshire, serving the White Mountains region and the surrounding North Country. Named after the nearby Mount Washington—the highest peak in the Northeastern United States—the airport primarily supports general aviation, recreational flying, and seasonal tourism traffic. It has historically served as a convenient gateway for visitors heading to ski resorts, hiking destinations, and the Presidential Range.",
+  "faqs": "Q: What is Mount Washington Regional Airport primarily used for?\nA: It mainly serves general aviation, private aircraft, charter flights, and tourism traffic associated with the White Mountains region.\n\nQ: Are there commercial passenger flights at HIE?\nA: Scheduled commercial service is extremely limited; the airport is best suited for private pilots and charter operations.\n\nQ: How far is the airport from Mount Washington itself?\nA: The airport is roughly 15-20 miles northwest of Mount Washington, making it a convenient base for accessing the peak and surrounding attractions.\n\nQ: Does the airport have an FAA control tower?\nA: No, HIE is an uncontrolled airport; pilots use the common traffic advisory frequency (CTAF) to coordinate arrivals and departures.",
+  "transport_tips": "Rental cars are the most practical way to reach the airport, as public transit options in this rural part of New Hampshire are very limited. The airport is about a 10-minute drive from downtown Whitefield and roughly 30 minutes from Lancaster. During winter months, allow extra travel time as mountain roads can experience snow and ice.",
+  "local_tip": "If you're flying in during fall foliage season, request a flyover of the Presidential Range—pilots familiar with the area can often arrange scenic routes showcasing some of the most spectacular autumn views in New England before landing.",
+  "generatedAt": "2026-06-27T05:06:03.080Z",
+  "model": "MiniMax-M3"
+}

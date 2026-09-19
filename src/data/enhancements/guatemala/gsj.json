@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GSJ",
+    "icao": "MGSJ",
+    "name": "San José Airport",
+    "country": "Guatemala",
+    "city": "Puerto San José",
+    "lat": 13.9362,
+    "lon": -90.8358,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "San José Airport (GSJ/MGSJ) is a medium-sized airport serving Puerto San José, a Pacific coastal port city in the Escuintla department of Guatemala. The airport primarily handles domestic flights and general aviation, serving as an alternative gateway to Guatemala City and the surrounding Pacific lowlands tourist destinations. Its location along the coastal highway makes it a convenient entry point for visitors heading to nearby beach areas and the Monterrico region.",
+  "faqs": "Q: What airlines operate from San José Airport?\nA: The airport primarily serves domestic and charter flights, with limited scheduled commercial service.\n\nQ: How far is the airport from Guatemala City?\nA: San José Airport is located approximately 110 km (68 miles) southwest of Guatemala City along the Pacific coast.\n\nQ: Is the airport open to international flights?\nA: It is a domestic airport with limited facilities; most international travelers use La Aurora International Airport in Guatemala City instead.\n\nQ: Are there customs and immigration services at GSJ?\nA: Customs services are limited; international arrivals are generally handled at larger airports in the country.",
+  "transport_tips": "Taxis and pre-arranged private transfers are the most common way to reach the airport from Puerto San José town, which is just a short drive away. Rental cars can be arranged in advance, and the airport connects to the CA-2 Pacific Highway for onward travel toward Guatemala City or the Mexican border. Travelers should arrange ground transport before arrival, as on-site options are limited.",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T13:02:39.899Z",
+  "model": "MiniMax-M3"
+}

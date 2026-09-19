@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RMY",
+    "icao": "KMPI",
+    "name": "Mariposa Yosemite Airport",
+    "country": "United States",
+    "city": "Mariposa",
+    "lat": 37.5109,
+    "lon": -120.04,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mariposa Yosemite Airport is a small general aviation airport nestled in the Sierra Nevada foothills of central California, serving the gateway community to Yosemite National Park's western entrance. The facility primarily accommodates private aircraft, flight training, and charter operations rather than commercial service. Its proximity to Yosemite makes it a convenient alternative for pilots and visitors seeking quicker access to the park's less-crowded western regions.",
+  "faqs": "Q: Does Mariposa Yosemite Airport offer commercial airline service?\nA: No, this is a general aviation airport with no scheduled commercial flights. It primarily serves private pilots, charter aircraft, and flight training operations.\n\nQ: How far is the airport from Yosemite National Park?\nA: The airport is roughly 30-40 miles from Yosemite's western Arch Rock entrance, with Yosemite Valley about an hour's drive northeast.\n\nQ: What facilities are available at the airport?\nA: The airport features a single asphalt runway, tie-down parking for aircraft, basic pilot amenities, and limited services. There is no air traffic control tower, so pilots use CTAF procedures.\n\nQ: Can I rent a car at the airport?\nA: Car rental services are not available on-site, so visitors typically arrange rentals in nearby Mariposa town or in cities like Merced or Fresno.",
+  "transport_tips": "Having a personal vehicle is essentially required when using Mariposa Yosemite Airport, as there is no public transit serving the facility. The town of Mariposa is about a 10-minute drive away and offers limited taxi or rideshare availability. Many visitors flying in arrange ground transportation and accommodations in advance, especially during peak Yosemite tourist season.",
+  "local_tip": "Stop by the Mariposa Grove of Giant Sequoias on your way to or from the airport — it's the nearest grove of giant sequoias to the airfield and offers a memorable visit without the crowds of Yosemite Valley, especially if you arrive in the early morning.",
+  "generatedAt": "2026-06-27T00:21:26.350Z",
+  "model": "MiniMax-M3"
+}

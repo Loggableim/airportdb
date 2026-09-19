@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "UYU",
+    "icao": "SLUY",
+    "name": "Joya Andina International Airport",
+    "country": "Bolivia",
+    "city": "Quijarro",
+    "lat": -20.4413,
+    "lon": -66.8576,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Joya Andina International Airport (UYU) serves the town of Uyuni in Bolivia's Potosí Department, acting as the primary gateway to the world-famous Salar de Uyuni, the largest salt flat on Earth. Situated on the high-altitude Bolivian altiplano at over 3,600 meters above sea level, the airport handles domestic flights primarily connecting Uyuni with La Paz and other Bolivian cities. Its evocative name, meaning 'Andean Jewel' in Spanish, reflects the breathtaking natural wonders that await travelers in the surrounding region.",
+  "faqs": "Q: What is the elevation of Joya Andina International Airport?\nA: The airport sits on the Bolivian altiplano at approximately 3,600 meters (11,800 feet) above sea level, which is significantly higher than most airports worldwide.\n\nQ: How far is the airport from the Salar de Uyuni?\nA: The airport is located in Uyuni town, with the Salar de Uyuni entrance roughly a short drive away, making it a convenient starting point for salt flat excursions.\n\nQ: Which airlines operate at this airport?\nA: Domestic Bolivian carriers, including Amaszonas and Boliviana de Aviación, operate regular flights connecting Uyuni with La Paz and Santa Cruz.\n\nQ: Are there international flights from Joya Andina?\nA: The airport primarily handles domestic routes, though it is classified and equipped as an international facility for occasional charter and regional flights.\n\n",
+  "transport_tips": "Taxis are readily available outside the terminal and provide the most convenient way to reach Uyuni town center or your hotel",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T00:09:37.565Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PVF",
+    "icao": "KPVF",
+    "name": "Placerville Airport",
+    "country": "United States",
+    "city": "Placerville",
+    "lat": 38.7242,
+    "lon": -120.753,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Placerville Airport (PVF) is a general aviation airfield nestled in the Sierra Nevada foothills of El Dorado County, California, serving the historic Gold Rush town of Placerville. The airport sits at approximately 2,500 feet elevation and features a single asphalt runway, primarily supporting recreational flying, flight training, and private aircraft. Its scenic foothill setting makes it a popular stop for pilots exploring the Sierra Nevada region and a convenient gateway to El Dorado National Forest.",
+  "faqs": "Q: What type of airport is Placerville Airport?\nA: Placerville Airport is a small general aviation airport that primarily serves private, recreational, and training aircraft, with no scheduled commercial service.\n\nQ: Where is Placerville Airport located?\nA: The airport is located about three miles east of downtown Placerville, California, in the Sierra Nevada foothills, roughly 45 miles east of Sacramento.\n\nQ: Does Placerville Airport have commercial flights?\nA: No, Placerville Airport does not offer commercial passenger service. It is used exclusively for general aviation purposes.\n\nQ: What is the elevation of Placerville Airport?\nA: The airport sits at approximately 2,500 feet above sea level, which is typical for foothill airfields in the Sierra Nevada region.\n\n",
+  "transport_tips": "Renting a car is the most practical way to reach Placerville Airport, as it is located outside the city center with no public transit directly serving the airfield. Sacramento International Airport (SMF) is the nearest major commercial airport, about a one-hour drive west via US-50. Local taxi and rideshare services can be arranged in advance from Placerville for pickup at the airport.",
+  "local_tip": "Pilots should be aware of the airport's location in mountainous terrain and check density altitude conditions during warmer months, as summer heat can significantly affect aircraft performance on takeoff from the higher elevation.",
+  "generatedAt": "2026-06-27T00:04:48.434Z",
+  "model": "MiniMax-M3"
+}

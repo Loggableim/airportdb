@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TYZ",
+    "icao": "KTYL",
+    "name": "Taylor Airport",
+    "country": "United States",
+    "city": "Taylor",
+    "lat": 34.4528,
+    "lon": -110.115,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Taylor Airport is a small general aviation facility serving the town of Taylor in northeastern Arizona. Located in Navajo County, it primarily supports recreational flying, flight training, and private aircraft operations in the high desert region. The airport sits at an elevation of approximately 5,800 feet and features a single asphalt runway, typical of rural Arizona aviation facilities.",
+  "faqs": "Q: What is the main use of Taylor Airport?\nA: Taylor Airport primarily serves general aviation, including private pilots, recreational flyers, and occasional flight training activity.\n\nQ: Are there commercial airline services at Taylor Airport?\nA: No, Taylor Airport does not offer scheduled commercial airline service. Travelers seeking commercial flights typically use larger regional airports in the area.\n\nQ: How high is Taylor Airport above sea level?\nA: The airport sits at an elevation of approximately 5,800 feet, which is typical for airports in the high desert of northeastern Arizona.\n\nQ: How many runways does Taylor Airport have?\nA: The airport has a single asphalt runway designated for small aircraft operations.",
+  "transport_tips": "Since Taylor Airport has no commercial service, visitors typically arrive via ground transportation from nearby regional airports. The town of Taylor is accessible by local highways, and renting a car is the most practical option for travelers heading to the area. Road connections link Taylor to larger nearby communities and regional airport hubs.",
+  "local_tip": "Pilots flying into Taylor should be aware of the high desert elevation and summer monsoon season, which can bring sudden thunderstorms and gusty winds in the late afternoon.",
+  "generatedAt": "2026-06-27T07:23:11.300Z",
+  "model": "MiniMax-M3"
+}

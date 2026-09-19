@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KJT",
+    "icao": "WICA",
+    "name": "Kertajati International Airport",
+    "country": "Indonesia",
+    "city": "Kertajati",
+    "lat": -6.6474,
+    "lon": 108.1656,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Kertajati International Airport (KJT/WICA) is located in Majalengka Regency, West Java, Indonesia, approximately 68 kilometers east of Bandung. Opened in 2018, it was developed as part of the Cirebon-Patimban-Bandung economic corridor to serve as a secondary hub and relieve congestion at Jakarta's Soekarno-Hatta and Bandung's Husein Sastranegara airports. Despite its large infrastructure and modern facilities, the airport has historically operated below its intended capacity.",
+  "faqs": "Q: What is the IATA code for Kertajati International Airport?\nA: The IATA code is KJT, and the ICAO code is WICA.\n\nQ: How far is Kertajati Airport from Bandung?\nA: Kertajati Airport is approximately 68 kilometers east of Bandung city center, reachable in about 1.5 to 2 hours by road via the Cikopo-Palimanan toll road.\n\nQ: Which airlines operate flights from Kertajati?\nA: The airport has primarily hosted domestic flights operated by airlines including Citilink, with international services having been limited since its opening.\n\nQ: Is there public transportation available to and from the airport?\nA: Shuttle buses, taxis, and ride-hailing services are available, though public transit options are less developed than at Indonesia's larger airports.",
+  "transport_tips": "The airport is accessible via the Cikopo-Palimanan toll road, with a dedicated exit leading directly to the terminal complex. Pre-booking a private car or taxi from Bandung or Jakarta is recommended, as public transport options are limited. Allow extra travel time during holiday periods when toll roads can experience heavy congestion.",
+  "local_tip": "Pack snacks and water for your journey, as the airport's commercial facilities (restaurants and",
+  "generatedAt": "2026-06-29T21:38:24.112Z",
+  "model": "MiniMax-M3"
+}

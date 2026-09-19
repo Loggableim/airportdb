@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YFA",
+    "icao": "CYFA",
+    "name": "Fort Albany Airport",
+    "country": "Canada",
+    "city": "Fort Albany",
+    "lat": 52.2035,
+    "lon": -81.6952,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Fort Albany Airport (YFA) is a small regional airport serving the remote First Nations community of Fort Albany, located on the western shore of James Bay in Northern Ontario, Canada. The airport provides a vital transportation link for the isolated community, where road access is limited and air travel is the primary means of reaching larger urban centers. It operates as an important hub for medical evacuations, passenger travel, and cargo services to the Mushkegowuk Council territory.",
+  "faqs": "Q: Where is Fort Albany Airport located?\nA: Fort Albany Airport is situated near the community of Fort Albany on the western coast of James Bay in Northern Ontario, Canada, at coordinates 52.203°N, 81.695°W.\n\nQ: What airlines serve Fort Albany Airport?\nA: The airport is primarily served by regional carriers operating flights to and from larger Ontario centers such as Timmins and Moosonee.\n\nQ: Is Fort Albany Airport open year-round?\nA: Yes, the airport operates throughout the year, though weather conditions in the subarctic climate can occasionally affect flight schedules, especially during winter.\n\nQ: Does Fort Albany Airport have instrument approach procedures?\nA: As a certified airport in Northern Ontario, it is equipped with navigation aids to support instrument flight operations in poor weather conditions.\n\n",
+  "transport_tips": "There are no scheduled road connections directly to Fort Albany from major highways, so air travel is essentially the only practical way to reach the community from outside the region. Ground transportation from the airport to the community is typically arranged in advance, as taxi and shuttle services are limited. Visitors should coordinate pickup arrangements with local contacts or the airline prior to arrival.",
+  "local_tip": "Pack layered clothing regardless of the season, as James Bay weather can shift rapidly between warm summer days and cold, windy conditions influenced by the bay.",
+  "generatedAt": "2026-06-26T14:36:22.766Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "CSK",
+    "icao": "GOGS",
+    "name": "Cap Skirring Airport",
+    "country": "Senegal",
+    "city": "Cap Skirring",
+    "lat": 12.3953,
+    "lon": -16.748,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Cap Skirring Airport serves Senegal's popular Atlantic coast beach resort in the southern Casamance region. The airport provides essential access for tourists visiting the peninsula's long sandy beaches and supports the local tourism economy. It functions as a gateway to one of West Africa's most scenic coastal destinations.",
+  "faqs": "Q: What airlines operate at Cap Skirring Airport?\nA: The airport primarily serves seasonal and charter flights, with limited scheduled service mainly from European destinations and occasional domestic connections to Dakar.\n\nQ: How far is the airport from Cap Skirring town and beaches?\nA: The airport is conveniently located very close to the resort area, with most hotels and beaches reachable within a short 10-15 minute drive.\n\nQ: Are there customs and immigration facilities for international arrivals?\nA: Yes, the airport has customs and immigration services to process international passengers arriving on charter and regional flights.\n\nQ: Is the airport open year-round or seasonally?\nA: The airport operates year-round but sees increased traffic during the dry season tourist months from November through April.",
+  "transport_tips": "Taxis are typically available outside the terminal for the short journey to nearby resorts and beaches. Pre-arranging hotel transfers is recommended during peak tourist season, as vehicle availability can be limited. Rental cars can be arranged, though most visitors find local taxis sufficient for their stay.",
+  "local_tip": "The Casamance region offers a distinctly different culture from northern Senegal, with the Diola people being prominent locally—learning a few basic Diola greetings can enhance your interactions with residents.",
+  "generatedAt": "2026-06-29T10:26:32.319Z",
+  "model": "MiniMax-M3"
+}

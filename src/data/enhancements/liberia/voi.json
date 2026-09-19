@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VOI",
+    "icao": "GLVA",
+    "name": "Voinjama Airport",
+    "country": "Liberia",
+    "city": "Voinjama",
+    "lat": 8.3235,
+    "lon": -9.7692,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Voinjama Airport is a small regional airfield serving Voinjama, the capital of Lofa County in northern Liberia, near the borders with Guinea and Sierra Leone. It provides essential air access to a remote and historically significant region, though commercial service is limited and most flights operate on an irregular or charter basis. The facility primarily supports humanitarian, government, and occasional private aviation traffic rather than scheduled passenger service.",
+  "faqs": "Q: Does Voinjama Airport have scheduled commercial flights?\nA: No scheduled commercial service operates from VOI. Travelers typically rely on charter flights, UN/Mission aircraft, or overland routes from Monrovia.\n\nQ: What is the airport primarily used for?\nA: It serves humanitarian missions, government transport, and occasional private flights supporting the Lofa County region.\n\nQ: Are there passenger terminal facilities at the airport?\nA: Facilities are minimal, consistent with its small_airport classification. Expect basic infrastructure without extensive amenities.\n\nQ: What is the nearest major city to Voinjama Airport?\nA: The airport is located in Voinjama itself, with Monrovia approximately 350 km to the southeast across challenging terrain.",
+  "transport_tips": "Most travelers reach Voinjama by road from Monrovia, a journey of roughly 8-10 hours that can be significantly longer during the rainy season due to poor road conditions. Shared taxis and bush taxis operate along the route but require patience and flexibility. Charter flights, when available, can be arranged through operators in Monrovia or via humanitarian agencies working in the region.",
+  "local_tip": "If traveling overland, depart Monrovia early in the morning to maximize daylight driving hours and ensure you reach Voinjama before nightfall, as road conditions and limited lighting make after-dark travel inadvisable in this border region.",
+  "generatedAt": "2026-06-27T15:14:24.782Z",
+  "model": "MiniMax-M3"
+}

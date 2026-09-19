@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DGL",
+    "icao": "KDGL",
+    "name": "Douglas Municipal Airport",
+    "country": "United States",
+    "city": "Douglas",
+    "lat": 31.3426,
+    "lon": -109.506,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Douglas Municipal Airport (DGL) is a small public-use airport serving the city of Douglas in southeastern Arizona, located just north of the U.S.-Mexico border across from Agua Prieta, Sonora. The airport primarily supports general aviation, private aircraft, and serves as a convenient gateway for visitors exploring the historic Cochise County region. It features a single asphalt runway and is situated in the high desert landscape near the Coronado National Forest.",
+  "faqs": "Q: What type of airport is Douglas Municipal Airport?\nA: It is a small public-use general aviation airport owned and operated by the city of Douglas, primarily serving private and charter aircraft.\n\nQ: Are there commercial airline flights at DGL?\nA: No, Douglas Municipal Airport does not offer scheduled commercial service. Travelers typically use nearby Tucson International Airport (TUS) for commercial flights.\n\nQ: Is there an air traffic control tower at KDGL?\nA: No, the airport operates as a non-towered field. Pilots use the common traffic advisory frequency (CTAF) to coordinate arrivals and departures.\n\nQ: What facilities are available at the airport?\nA: The airport offers fuel services, tie-down parking, and basic amenities for general aviation users, but no terminal services for the general public.\n\n",
+  "transport_tips": "The airport is located just a few miles northeast of downtown Douglas, making ground transportation quick via personal vehicle or taxi. Rental cars may need to be arranged in advance, as on-site rental counters are typically unavailable at small municipal airports. Many visitors arriving by private aircraft coordinate pickup in advance or use local taxi services for the short drive into town.",
+  "local_tip": "Frequent visitors recommend combining a stop in Douglas with a drive to the nearby Chiricahua National Monument, about 60 miles north, which features stunning rock formations and excellent hiking in cooler months. Also, don't miss the historic Gadsden Hotel in downtown Douglas, a beautifully restored 1907 landmark with a striking stained-glass dome.",
+  "generatedAt": "2026-06-27T09:07:57.458Z",
+  "model": "MiniMax-M3"
+}

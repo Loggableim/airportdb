@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TOR",
+    "icao": "KTOR",
+    "name": "Torrington Municipal Airport",
+    "country": "United States",
+    "city": "Torrington",
+    "lat": 42.0645,
+    "lon": -104.153,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Torrington Municipal Airport (TOR/KTOR) is a small general aviation facility serving the city of Torrington in Goshen County, Wyoming. Located in the southeastern part of the state, it primarily supports private aircraft, flight training, and occasional agricultural aviation operations common to the rural region. The airport features a single main runway and minimal commercial infrastructure, serving as a convenient gateway for visitors to eastern Wyoming.",
+  "faqs": "Q: Does Torrington Municipal Airport offer commercial airline service?\nA: No, TOR is a general aviation airport with no scheduled commercial flights. Travelers would need to fly into a larger regional airport for commercial service.\n\nQ: What is the airport primarily used for?\nA: The airport serves private pilots, recreational flying, agricultural aviation, and business travel for the Torrington community.\n\nQ: Are there fuel services available at the airport?\nA: General aviation airports like TOR typically offer basic fuel services, but pilots should verify availability and hours with the airport operator before arrival.\n\nQ: How many runways does Torrington Municipal have?\nA: The airport features a single paved runway suitable for small to mid-size general aviation aircraft.\n\n",
+  "transport_tips": "The airport is located just a few miles from downtown Torrington, making ground transportation straightforward. Rental cars or pre-arranged pickup are the most common options since there is no commercial transit service. Visitors should coordinate transportation in advance, as taxi and rideshare availability is limited in this rural Wyoming community.",
+  "local_tip": "If flying in during spring or summer, be aware that the surrounding agricultural areas may see increased crop-dusting activity, so monitor the local CTAF frequency for agricultural aircraft operations.",
+  "generatedAt": "2026-06-27T04:11:08.406Z",
+  "model": "MiniMax-M3"
+}

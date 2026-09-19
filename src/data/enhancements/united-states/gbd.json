@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GBD",
+    "icao": "KGBD",
+    "name": "Great Bend Municipal Airport",
+    "country": "United States",
+    "city": "Great Bend",
+    "lat": 38.3443,
+    "lon": -98.8592,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Great Bend Municipal Airport is a small general aviation facility serving the city of Great Bend in central Kansas. Located in Barton County, the airport supports private aviation, flight training, and corporate travel for the surrounding agricultural and oil-producing region. It features multiple runways and is an important transportation link for central Kansas, an area otherwise reliant on road travel.",
+  "faqs": "Q: Where is Great Bend Municipal Airport located?\nA: The airport is located just a few miles southwest of downtown Great Bend, Kansas, in the central part of the state.\n\nQ: What is the airport primarily used for?\nA: It serves general aviation, including private pilots, business travel, flight training, and air ambulance services.\n\nQ: Does the airport offer scheduled commercial flights?\nA: No, Great Bend Municipal does not have scheduled commercial service. Travelers typically use larger airports in Wichita or Hays for commercial flights.\n\nQ: How many runways does the airport have?\nA: Great Bend Municipal has two paved runways to accommodate various aircraft and wind conditions.\n\n",
+  "transport_tips": "The airport is a short drive from downtown Great Bend, typically reachable within 10 minutes by car. Rental cars and local taxi services are the most common ways to get to and from the terminal. Visitors flying in privately should arrange ground transportation in advance, as on-site options may be limited.",
+  "local_tip": "Frequent visitors recommend calling ahead to confirm fuel availability and hangar space, as services at this regional airport are not always staffed around the clock.",
+  "generatedAt": "2026-06-27T01:32:04.346Z",
+  "model": "MiniMax-M3"
+}

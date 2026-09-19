@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ROO",
+    "icao": "SBRD",
+    "name": "Maestro Marinho Franco Airport",
+    "country": "Brazil",
+    "city": "Rondonópolis",
+    "lat": -16.5843,
+    "lon": -54.7248,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Maestro Marinho Franco Airport serves Rondonópolis, a key agricultural and logistics hub in the state of Mato Grosso, Brazil. Named after a respected local musician, the airport provides essential regional connectivity for the city's role in soybean, cotton, and cattle production. Its central-west Brazil location makes it a useful gateway for travelers heading into the interior of Mato Grosso.",
+  "faqs": "Q: What is the IATA code for Maestro Marinho Franco Airport?\nA: The IATA code is ROO, and the ICAO code is SBRD.\n\nQ: How far is the airport from Rondonópolis city center?\nA: The airport is located approximately 8-10 km from the downtown area, typically a 15-20 minute drive.\n\nQ: Which airlines operate from this airport?\nA: The airport primarily serves regional domestic flights, commonly with carriers connecting to major hubs like Cuiabá and São Paulo.\n\nQ: Does the airport operate 24 hours?\nA: No, it operates during scheduled flight hours; passengers should check with their airline for terminal access times.",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T19:57:47.128Z",
+  "model": "MiniMax-M3"
+}

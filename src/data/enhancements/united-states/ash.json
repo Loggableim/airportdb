@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ASH",
+    "icao": "KASH",
+    "name": "Nashua Airport / Boire Field",
+    "country": "United States",
+    "city": "Nashua",
+    "lat": 42.7817,
+    "lon": -71.5148,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Nashua Airport / Boire Field is a publicly owned general aviation airport serving southern New Hampshire, located in the city of Nashua just north of the Massachusetts border. Named in honor of the Boire family for their contributions to the local community and aviation, the airport primarily handles private, business, and flight training traffic rather than commercial flights. Its convenient proximity to the Boston metropolitan area makes it a popular alternative for corporate and recreational pilots seeking quicker access to southern New Hampshire.",
+  "faqs": "Q: Does Nashua Airport offer commercial airline service?\nA: No, ASH is a general aviation airport with no scheduled commercial passenger flights. It primarily serves private aircraft, flight training, and corporate operations.\n\nQ: Who owns and operates Nashua Airport / Boire Field?\nA: The airport is publicly owned and operated by the City of Nashua, New Hampshire.\n\nQ: How far is the airport from Boston?\nA: Nashua Airport is approximately 40 miles northwest of downtown Boston, making it a convenient option for pilots traveling to southern New Hampshire or the greater Boston region.\n\nQ: Is flight training available at Boire Field?\nA: Yes, the airport supports general aviation activity including flight training, and it is home to one or more fixed-base operators (FBOs) offering aviation services.",
+  "transport_tips": "Reaching Nashua Airport is easiest by car, as there is no public transit directly serving the airfield. The airport is conveniently located near several major roadways in southern New Hampshire, including Route 3 and the Everett Turnpike. Rideshare services like Uber and Lyft are typically available for pickups and drop-offs. Visitors should contact the airport or their flight operator in advance, as on-site amenities and rental car services are limited at smaller general aviation facilities.",
+  "local_tip": "Frequent visitors recommend calling ahead to the FBO for fuel availability and tie-down arrangements, especially during weekends when flight training activity peaks and ramp space can fill up quickly.",
+  "generatedAt": "2026-06-27T00:03:25.053Z",
+  "model": "MiniMax-M3"
+}

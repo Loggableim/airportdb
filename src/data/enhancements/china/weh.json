@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WEH",
+    "icao": "ZSWH",
+    "name": "Weihai Dashuibo Airport",
+    "country": "China",
+    "city": "Weihai",
+    "lat": 37.1871,
+    "lon": 122.229,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Weihai Dashuibo Airport is a regional airport serving Weihai, a coastal city on the eastern tip of the Shandong Peninsula in eastern China. Named after the nearby Dashuibo Bay, it handles domestic flights connecting the region to major hubs like Beijing, Shanghai, and Guangzhou. The airport supports tourism to Weihai's beaches, the Liugong Island scenic area, and serves as a gateway to the Yellow Sea coast.",
+  "faqs": "Q: How far is Weihai Dashuibo Airport from the city center?\nA: The airport is located approximately 30 km southwest of Weihai's urban center, with typical taxi rides taking around 40-50 minutes.\n\nQ: Does the airport offer international flights?\nA: The airport primarily operates domestic routes, with occasional regional charter services to nearby Asian destinations.\n\nQ: Are there direct flights to major Chinese cities?\nA: Yes, the airport has regular service to Beijing, Shanghai, Guangzhou, and other major Chinese hubs operated by carriers such as China Eastern, Air China, and Shandong Airlines.\n\nQ: What facilities are available at the terminal?\nA: The terminal provides standard amenities including food and beverage outlets, duty-free for international departures, currency exchange, and ground transportation counters.\n\n",
+  "transport_tips": "Airport shuttle buses connect the terminal to downtown Weihai and the high-speed rail station, with departures timed to flight arrivals. Taxis and ride-hailing apps like Didi are readily available outside the arrivals hall, though confirm the destination fare before departure. Renting a car is recommended for travelers planning to explore the wider Shandong Peninsula coastline and Liugong Island.",
+  "local_tip": "If you have a long layover, ask at the information desk about the short taxi ride to Rushan or nearby coastal villages for fresh seafood lunch—the Shandong Peninsula is famous for its clams, scallops, and sea cucumber dishes that are far better inland.",
+  "generatedAt": "2026-06-29T14:30:15.850Z",
+  "model": "MiniMax-M3"
+}

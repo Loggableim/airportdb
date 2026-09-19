@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PSD",
+    "icao": "HEPS",
+    "name": "Port Said International Airport",
+    "country": "Egypt",
+    "city": "Port Said",
+    "lat": 31.2793,
+    "lon": 32.2406,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Port Said International Airport serves the historic Mediterranean port city of Port Said, located at the northern gateway of the Suez Canal in northeastern Egypt. The airport primarily handles domestic flights connecting to Cairo along with occasional regional services, supporting this key shipping and free-trade hub. Its strategic position near the canal makes it a convenient entry point for business travelers and maritime industry visitors.",
+  "faqs": "Q: What are the IATA and ICAO codes for Port Said International Airport?\nA: The IATA code is PSD and the ICAO code is HEPS.\n\nQ: How far is Port Said Airport from the city center?\nA: The airport is located just outside the city center along the main coastal road, with typical transfer times of around 15 to 20 minutes by car.\n\nQ: Does the airport offer international flights?\nA: The airport mainly handles scheduled domestic routes to Cairo, with limited international charter and regional operations depending on the season.\n\nQ: What facilities can passengers expect at the terminal?\nA: The single-terminal facility provides standard amenities including check-in counters, a café, modest duty-free shopping, and",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T23:37:18.340Z",
+  "model": "MiniMax-M3"
+}

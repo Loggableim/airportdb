@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLZ",
+    "icao": "SUMO",
+    "name": "Cerro Largo International Airport",
+    "country": "Uruguay",
+    "city": "Melo",
+    "lat": -32.3379,
+    "lon": -54.2167,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Cerro Largo International Airport (MLZ/SUMO) serves the city of Melo, capital of Uruguay's Cerro Largo Department in the country's northeast near the Brazilian border. Despite its international designation, it primarily handles domestic and regional general aviation traffic. The airport provides important access to a region known for its rolling countryside, ranching heritage, and proximity to the边境 town of Aceguá.",
+  "faqs": "Q: Where is Cerro Largo International Airport located?\nA: The airport is situated in Melo, the capital of the Cerro Largo Department in northeastern Uruguay, roughly 5 kilometers from the city center and near the border with Brazil.\n\nQ: Does the airport offer international flights?\nA: While classified as international, it mainly serves domestic routes and general aviation. Commercial international service is limited, so travelers should verify current schedules with airlines.\n\nQ: Are there airlines that regularly fly to MLZ?\nA: Scheduled commercial service is limited; most flights operate as charter or through smaller regional carriers connecting Melo with Montevideo.\n\nQ: What facilities are available at the airport?\nA: As a small regional airport, amenities are basic, including a modest terminal building, parking area, and ground transportation options.",
+  "transport_tips": "Taxis and remise services are the most reliable ways to reach central Melo, typically taking 10-15 minutes depending on traffic. Rental cars can be arranged in town rather than at the airport, often at more competitive rates. Rideshare apps are not widely available in this region of Uruguay.",
+  "local_tip": "If visiting in late January or early February, plan your trip around the Fiesta de la Patria Gaucha in nearby Minas, one of Uruguay's most authentic rural festivals celebrating gaucho culture.",
+  "generatedAt": "2026-06-27T13:41:34.616Z",
+  "model": "MiniMax-M3"
+}

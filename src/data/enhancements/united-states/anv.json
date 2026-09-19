@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ANV",
+    "icao": "PANV",
+    "name": "Anvik Airport",
+    "country": "United States",
+    "city": "Anvik",
+    "lat": 62.6467,
+    "lon": -160.191,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Anvik Airport is a state-owned public-use airport serving the small Yup'ik village of Anvik in western Alaska, located near the confluence of the Anvik and Yukon Rivers. The airport provides a critical transportation lifeline for this remote community, which is otherwise accessible mainly by river or air. It supports essential services including mail delivery, medical evacuations, and passenger travel to hub communities like Fairbanks and Anchorage.",
+  "faqs": "Q: What is Anvik Airport primarily used for?\nA: The airport serves the remote Yup'ik village of Anvik, providing passenger and cargo services, mail delivery, and medical evacuations to this off-road community.\n\nQ: Are there scheduled commercial flights to Anvik?\nA: Scheduled service is typically provided by small regional bush carriers operating turboprop aircraft from hub airports in Fairbanks or Anchorage.\n\nQ: What facilities are available at the airport?\nA: As a medium-sized rural Alaskan airport, facilities are limited to a gravel runway and basic infrastructure, with no terminal amenities typical of urban airports.\n\nQ: When is the best time to fly to Anvik?\nA: Summer months (June through August) generally offer the most reliable weather for bush flying in this region, though service operates year-round subject to weather conditions.\n\n",
+  "transport_tips": "There are no roads connecting Anvik to other communities, so air travel via small regional bush aircraft is the primary means of arrival and departure. During summer months, the Anvik and Yukon Rivers occasionally serve as alternative transport routes for cargo and passengers via boat. Travelers should arrange ground transportation with local contacts in advance, as rental car services and taxis are not available at this remote airport.",
+  "local_tip": "Pack all essential medications and backup supplies in your carry-on, as freight deliveries to Anvik can be weather-dependent and delays of several days are not uncommon.",
+  "generatedAt": "2026-06-29T22:00:15.658Z",
+  "model": "MiniMax-M3"
+}

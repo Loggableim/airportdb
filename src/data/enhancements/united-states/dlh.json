@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DLH",
+    "icao": "KDLH",
+    "name": "Duluth International Airport",
+    "country": "United States",
+    "city": "Duluth",
+    "lat": 46.8419,
+    "lon": -92.1987,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Duluth International Airport (DLH) serves the Twin Ports region of northeastern Minnesota and northwestern Wisconsin, situated on a plateau above Lake Superior. Originally established in the 1930s, the airport hosts the 148th Fighter Wing of the Minnesota Air National Guard and serves as a gateway to popular outdoor destinations including the Boundary Waters Canoe Area Wilderness and the North Shore of Lake Superior.",
+  "faqs": "Q: How far is Duluth International Airport from downtown Duluth?\nA: The airport is approximately 6 miles northwest of downtown Duluth, typically a 15-20 minute drive depending on traffic.\n\nQ: Which airlines serve Duluth International Airport?\nA: The airport is primarily served by regional carriers offering connections to Minneapolis-Saint Paul and Chicago, with service varying by season.\n\nQ: Does DLH have military operations?\nA: Yes, the airport is home to the 148th Fighter Wing of the Minnesota Air National Guard, operating F-16 aircraft.\n\nQ: Is the airport open 24 hours?\nA: Public terminal hours vary by flight schedule, so travelers should confirm operating hours with their airline for early morning or late-night flights.",
+  "transport_tips": "Rental cars are available on-site and are the most convenient option for reaching the North Shore and Boundary Waters region. Taxi services and rideshare options serve the airport, though availability can be limited compared to larger metropolitan airports. During winter months, allow extra travel time as the airport sits at a higher elevation than the city and can experience significantly different weather conditions.",
+  "local_tip": "If you have time before departure, the airport offers one of the best vantage points for watching military F-16 takeoffs and landings from the F-16 viewing area, a feature unique among regional airports.",
+  "generatedAt": "2026-06-29T02:29:20.792Z",
+  "model": "MiniMax-M3"
+}

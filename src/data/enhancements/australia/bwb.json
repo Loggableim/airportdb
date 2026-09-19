@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BWB",
+    "icao": "YBWX",
+    "name": "Barrow Island Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -20.8644,
+    "lon": 115.4061,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Barrow Island Airport is a small private airfield on Barrow Island, off the remote northwest coast of Western Australia in the Pilbara region. It primarily serves workers traveling to the island's major liquefied natural gas (LNG) processing facilities operated by Chevron and other energy companies, including the Gorgon and Wheatstone projects. The island itself is a Class A nature reserve, making the airport a strictly access-controlled gateway due to strict biosecurity regulations.",
+  "faqs": "Q: Is Barrow Island Airport open to the public?\nA: No, the airport is not open to the general public. Access is restricted to personnel with authorization to work on the island's oil and gas operations or approved researchers.\n\nQ: Why are biosecurity checks so strict at Barrow Island?\nA: Barrow Island is one of Australia's most important Class A nature reserves, home to native species found nowhere else. Strict quarantine protocols protect the island's fragile ecosystem from invasive species.\n\nQ: What airlines fly to Barrow Island Airport?\nA: Charter and corporate flights, primarily operated by companies such as Skippers Aviation and Cobham, serve the airport on scheduled and ad-hoc rotations from mainland hubs like Karratha and Perth.\n\nQ: Are there facilities for passengers at the airport?\nA: The terminal is modest and functional, providing basic check-in and waiting areas. All visitors typically undergo mandatory biosecurity screening and induction briefings upon arrival.",
+  "transport_tips": "There are no public transport options to or from Barrow Island Airport; visitors must be pre-arranged through an authorized employer or research sponsor who typically provides chartered flights. Most flights connect from Karratha Airport on the mainland, with fewer direct services from Perth. Upon arrival, company-arranged transport takes passengers directly to their on-island accommodation or worksite.",
+  "local_tip": "Pack absolutely nothing that could carry soil, seeds, or organic material in your luggage — biosecurity inspections at Barrow Island are among the toughest in Australia and even a small amount of dirt on hiking boots can lead to confiscation or denial of entry.",
+  "generatedAt": "2026-06-27T10:49:44.635Z",
+  "model": "MiniMax-M3"
+}

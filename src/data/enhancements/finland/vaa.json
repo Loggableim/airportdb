@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VAA",
+    "icao": "EFVA",
+    "name": "Vaasa Airport",
+    "country": "Finland",
+    "city": "Vaasa",
+    "lat": 63.0502,
+    "lon": 21.7625,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Vaasa Airport (VAA/EFVA) is the main airport serving the bilingual coastal city of Vaasa on Finland's western Ostrobothnia coast. The airport serves as an important gateway for both the Swedish-speaking and Finnish-speaking communities of the region, offering domestic flights to Helsinki and seasonal international routes. It is located approximately 10 kilometers southeast of Vaasa city center, providing convenient access to the energy and technology industries that drive the regional economy.",
+  "faqs": "Q: How far is Vaasa Airport from the city center?\nA: The airport is located about 10 km (6 miles) southeast of Vaasa city center, typically a 15-minute drive.\n\nQ: What airlines operate from Vaasa Airport?\nA: Finnair operates the main route to Helsinki-Vantaa, with occasional seasonal international services to destinations in Europe.\n\nQ: Does Vaasa Airport have international flights?\nA: Yes, the airport offers seasonal international flights primarily to Mediterranean destinations during summer months, in addition to regular domestic service.\n\nQ: Is the airport accessible for travelers with reduced mobility?\nA: Yes, Vaasa Airport provides accessibility services and assistance for passengers with reduced mobility; it is recommended to request assistance through your airline in advance.",
+  "transport_tips": "Taxi services are readily available outside the terminal and offer a quick 15-minute ride to central Vaasa. Local bus route 4 connects the airport to Vaasa city center on a regular schedule, providing an affordable public transport option. Renting a car at the airport is convenient for exploring the wider Ostrobothnia region, including nearby coastal towns and the Kvarken Archipelago.",
+  "local_tip": "Vaasa is one of Finland's most Swedish-speaking cities, so you'll find street signs and many locals communicating in Swedish — learning a few basic Swedish phrases alongside Finnish will be appreciated, and don't miss trying local Ostrobothnian delicacies like 'laxpudding' (salmon pudding) at nearby restaurants.",
+  "generatedAt": "2026-06-28T21:21:07.704Z",
+  "model": "MiniMax-M3"
+}

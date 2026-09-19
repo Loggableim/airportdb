@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PBL",
+    "icao": "SVPC",
+    "name": "General Bartolome Salom International Airport",
+    "country": "Venezuela",
+    "city": "Puerto Cabello",
+    "lat": 10.4805,
+    "lon": -68.073,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "General Bartolome Salom International Airport (PBL) serves Puerto Cabello, one of Venezuela's most important Caribbean port cities in Carabobo State. Named after General Bartolomé Salom, a notable figure in Venezuelan military history, the airport primarily handles domestic flights and serves as a convenient gateway for travelers visiting the country's northern coast and industrial port region. The facility supports general aviation and limited commercial operations, complementing the larger Valencia airport located nearby.",
+  "faqs": "Q: How far is the airport from downtown Puerto Cabello?\nA: The airport is located a short drive from Puerto Cabello's city center, typically around 10-15 minutes by car depending on traffic conditions.\n\nQ: Does the airport offer international flights?\nA: The airport has limited scheduled international service and primarily handles domestic and general aviation flights. Most international travelers use Valencia's airport nearby.\n\nQ: Are there car rental services available at the airport?\nA: Ground transportation options are limited, so arranging rental cars or private transfers in advance through local providers is recommended.\n\nQ: What facilities are available at the terminal?\nA: The terminal offers basic amenities for travelers including a small waiting area, with limited dining and shopping options typical of a regional airport.",
+  "transport_tips": "Taxis and private transfers are the most reliable way to reach the airport, as public transportation options are limited in the area. Travelers coming from Valencia can expect approximately a 45-minute to one-hour drive depending on traffic conditions along the coastal highway. Arranging ground transportation in advance is highly advisable, especially for early morning or late evening flights.",
+  "local_tip": "Frequent visitors recommend booking ground transportation through your hotel in advance, as ride-sharing apps and on-demand taxis can be unreliable in Puerto Cabello. Also, plan for extra time before your flight, as check-in and security processes can be slower than at larger Venezuelan airports.",
+  "generatedAt": "2026-06-26T11:57:34.705Z",
+  "model": "MiniMax-M3"
+}

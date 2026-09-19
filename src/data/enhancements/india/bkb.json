@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BKB",
+    "icao": "VIBK",
+    "name": "Nal Airport",
+    "country": "India",
+    "city": "Bikaner",
+    "lat": 28.0706,
+    "lon": 73.2072,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Nal Airport (BKB) serves Bikaner, a historic city in the northwestern Indian state of Rajasthan renowned for its royal heritage and desert culture. The airport connects this desert region to major Indian cities and supports tourism to nearby attractions including the 16th-century Junagarh Fort and the famous Karni Mata Temple. As a medium-sized airport, it primarily handles domestic flights and plays a key role in accessing the Thar Desert region.",
+  "faqs": "Q: What is the IATA code for Nal Airport?\nA: The IATA code is BKB, and the ICAO code is VIBK.\n\nQ: How far is Nal Airport from Bikaner city center?\nA: The airport is located approximately 15 kilometers west of Bikaner's city center, typically a 20-30 minute drive.\n\nQ: Which airlines operate from Nal Airport?\nA: The airport is served by domestic carriers including Air India, with flights connecting Bikaner to cities like Delhi and Jaipur.\n\nQ: Does Nal Airport have international flights?\nA: No, Nal Airport primarily handles domestic flights within India.\n\n",
+  "transport_tips": "Prepaid taxi counters and auto-rickshaws are available outside the terminal for transport into Bikaner city. Rideshare apps like Ola and Uber have limited availability, so arranging a hotel pickup in advance is recommended. The airport is well-connected to National Highway 62, making road travel to Jodhpur and Jaipur straightforward for those continuing overland.",
+  "local_tip": "If visiting during winter months (November to February), ask locals about the annual Bikaner Camel Festival held nearby — the airport sees a brief spike in traffic during this time, so booking flights and accommodation well in advance is wise.",
+  "generatedAt": "2026-06-26T12:47:32.384Z",
+  "model": "MiniMax-M3"
+}

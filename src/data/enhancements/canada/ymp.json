@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YMP",
+    "icao": "",
+    "name": "Port McNeill Airport",
+    "country": "Canada",
+    "city": "Port McNeill",
+    "lat": 50.5735,
+    "lon": -127.0277,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Port McNeill Airport (YMP) is a small regional airport serving the community of Port McNeill on the northeast coast of Vancouver Island in British Columbia, Canada. It provides essential air access to the North Island region, supporting forestry, fishing, and tourism industries. The airport is a key gateway for travelers visiting the rugged wilderness of northern Vancouver Island and nearby coastal communities.",
+  "faqs": "Q: What is Port McNeill Airport used for?\nA: The airport primarily serves general aviation, charter flights, and regional travel, with occasional scheduled service connecting to Vancouver and other Island communities.\n\nQ: Are there car rentals available at YMP?\nA: Car rentals may be available in the town of Port McNeill, but options at the airport itself are limited. It is advisable to arrange transportation in advance.\n\nQ: Does Port McNeill Airport have customs and immigration services?\nA: No, YMP does not have staffed customs or immigration facilities, so it cannot directly receive international flights.\n\nQ: What is the airport's runway like?\nA: The airport features a single paved runway suitable for small to medium aircraft, though it may be affected by the region's frequent fog and rain.\n\n",
+  "transport_tips": "The airport is located just a short drive from downtown Port McNeill, making taxi or pre-arranged shuttle services the most practical options for ground transportation. Rental cars can sometimes be arranged through local providers in town with advance notice. Visitors should note that there is no public transit directly serving the airport.",
+  "local_tip": "If visiting the area, consider scheduling your flight for morning hours as coastal fog often rolls in by afternoon, which can occasionally cause delays or diversions to nearby airports like Port Hardy.",
+  "generatedAt": "2026-06-26T20:31:32.334Z",
+  "model": "MiniMax-M3"
+}

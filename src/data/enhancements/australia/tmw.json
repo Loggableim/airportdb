@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TMW",
+    "icao": "YSTW",
+    "name": "Tamworth Airport",
+    "country": "Australia",
+    "city": "Tamworth",
+    "lat": -31.0779,
+    "lon": 150.8455,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Tamworth Airport is a medium-sized regional airport serving the city of Tamworth in the New England region of New South Wales. The city is widely recognized as the Country Music Capital of Australia, hosting the annual Tamworth Country Music Festival, which drives significant seasonal traffic to the facility. The airport primarily offers scheduled regional flights connecting the region to Sydney.",
+  "faqs": "Q: What airlines operate from Tamworth Airport?\nA: Tamworth Airport is primarily served by QantasLink, which operates regular scheduled flights to Sydney.\n\nQ: How far is the airport from Tamworth city center?\nA: The airport is located approximately 8 km northwest of the Tamworth CBD, typically a 10-15 minute drive.\n\nQ: When is the airport busiest?\nA: The airport experiences its highest traffic each January during the Tamworth Country Music Festival, one of Australia's largest music events.\n\nQ: Are car rental services available at the airport?\nA: Yes, car rental counters operate from the terminal building for travellers arriving by air.",
+  "transport_tips": "Car rental is the most convenient option, with several providers located within or adjacent to the terminal building. Local taxi services and rideshare options are also available outside the terminal for transfers to the city center. Visitors during the country music festival should",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T07:20:46.518Z",
+  "model": "MiniMax-M3"
+}

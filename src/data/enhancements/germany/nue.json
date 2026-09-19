@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "NUE",
+    "icao": "EDDN",
+    "name": "Nuremberg Airport",
+    "country": "Germany",
+    "city": "Nuremberg",
+    "lat": 49.4987,
+    "lon": 11.0781,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Nuremberg Airport is the second-busiest airport in Bavaria, serving the Franconia metropolitan region of Germany. Originally developed from a former military airfield, it now operates a single modern terminal handling several million passengers each year. The airport is well-integrated into the regional transport network and offers a convenient gateway to historic Nuremberg and surrounding Franconian cities.",
+  "faqs": "Q: How far is Nuremberg Airport from the city center?\nA: The airport is located approximately 5 km (3 miles) north of Nuremberg's city center, making it a quick trip by public transport or taxi.\n\nQ: Does the airport have its own train or metro station?\nA: Yes, the U2 metro line connects the airport directly to Nuremberg's main railway station (Hauptbahnhof) in about 12 minutes.\n\nQ: How many terminals does Nuremberg Airport have?\nA: The airport operates a single terminal building that handles all departures and arrivals.\n\nQ: What major airlines operate from Nuremberg?\nA: A mix of flag carriers, low-cost airlines, and regional carriers serve the airport, offering connections to many European destinations.",
+  "transport_tips": "The U2 metro line is by far the fastest and cheapest option, reaching the Hauptbahnhof in roughly 12 minutes. Taxis are readily available outside the terminal and take about 15-20 minutes depending on traffic. For those driving, the airport is directly connected to the A3 motorway, with several parking options available on-site including short-stay and long-term garages.",
+  "local_tip": "If you have a long layover or early arrival, head to the airport's viewing terrace on the upper level of the terminal — it's a favorite spot among aviation enthusiasts for spotting aircraft movements, and on clear days you can see across the Franconian countryside.",
+  "generatedAt": "2026-06-28T16:32:11.459Z",
+  "model": "MiniMax-M3"
+}

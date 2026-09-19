@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KJK",
+    "icao": "EBKT",
+    "name": "Kortrijk-Wevelgem International Airport",
+    "country": "Belgium",
+    "city": "Wevelgem",
+    "lat": 50.8189,
+    "lon": 3.2096,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Kortrijk-Wevelgem International Airport (KJK/EBKT) is a general aviation and business airport in Wevelgem, West Flanders, just west of Kortrijk. It has a single paved runway and primarily handles private aircraft, flight training, and corporate traffic rather than scheduled airline service. Its compact layout and proximity to the Kortrijk region make it a convenient gateway for business and recreational flyers.",
+  "faqs": "Q: Does Kortrijk-Wevelgem International Airport have scheduled passenger flights?\nA: No, it mainly serves general aviation, business jets, and flight training; there are no regular commercial airline schedules.\n\nQ: What are the airport codes for Kortrijk-Wevelgem?\nA: The IATA code is KJK and the ICAO code is EBKT.\n\nQ: How far is the airport from Kortrijk city center?\nA: It is in Wevelgem, roughly a 10- to 15-minute drive from central Kortrijk, depending on traffic.\n\nQ: Can private pilots fly into EBKT?\nA: Yes, the airport is open to general aviation, but pilots should check current PPR, handling, fuel, and opening-hours requirements before planning a flight.",
+  "transport_tips": "The airport is a short drive from Kortrijk and Wevelgem via the N8 and nearby motorway links, and taxis or pre-booked cars are the most reliable options. Public transport is limited, with bus services in Wevelgem connecting to Kortrijk, so check timetables if you are not driving. For business aviation, arrange ground transport or a rental car through your handler in advance.",
+  "local_tip": "Frequent visitors confirm customs, immigration, and fuel availability well before arrival, since EBKT is a small airport and these services may not be available on a 24/7 basis.",
+  "generatedAt": "2026-09-19T23:07:21.766Z",
+  "model": "deepseek-v4.1-flash"
+}

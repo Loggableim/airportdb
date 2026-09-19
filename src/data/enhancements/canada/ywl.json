@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YWL",
+    "icao": "CYWL",
+    "name": "Williams Lake Airport",
+    "country": "Canada",
+    "city": "Williams Lake",
+    "lat": 52.1831,
+    "lon": -122.054,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Williams Lake Airport serves the city of Williams Lake in British Columbia's Cariboo region, acting as the main air gateway for this interior BC community known for its ranching heritage and proximity to outdoor recreation areas. The airport supports regional connectivity with scheduled flights primarily linking to Vancouver, and it also handles general aviation, medevac services, and aerial firefighting operations during the summer wildfire season. Its location makes it a useful hub for travelers heading to nearby lakes, trails, and the historic Gold Rush country of the Cariboo Chilcotin.",
+  "faqs": "Q: What airlines operate at Williams Lake Airport?\nA: Central Mountain Air operates scheduled passenger service from Williams Lake Airport, with flights connecting to Vancouver International Airport.\n\nQ: How far is the airport from downtown Williams Lake?\nA: The airport is located a short drive from the city center, roughly 10-15 minutes by car depending on traffic and road conditions.\n\nQ: Does the airport have customs or international facilities?\nA: Williams Lake Airport is a domestic airport and does not have customs or border services for international flights.\n\nQ: Is there car rental available at the airport?\nA: Yes, car rental services are available at or near the airport, though availability can be limited so booking in advance is recommended.",
+  "transport_tips": "Renting a car is the most convenient way to reach Williams Lake and explore the surrounding Cariboo region, as public transit options to and from the airport are limited. Taxi services and pre-arranged shuttles can connect you to downtown Williams Lake or to nearby resorts and lakes. During winter months, allow extra time for travel as snow and ice on Highway 97 can affect driving conditions.",
+  "local_tip": "If you're flying in during summer, keep in mind that the Cariboo region is active wildfire territory, and the airport sometimes supports firefighting operations, so check flight status in advance and pack a high-quality mask for hazy days.",
+  "generatedAt": "2026-06-29T06:27:27.694Z",
+  "model": "MiniMax-M3"
+}

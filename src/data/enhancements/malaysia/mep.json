@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MEP",
+    "icao": "WMAU",
+    "name": "Mersing Airport",
+    "country": "Malaysia",
+    "city": "Mersing",
+    "lat": 2.3891,
+    "lon": 103.8742,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Mersing Airport (MEP) is a small regional airport located in Mersing, Johor, on the east coast of Peninsular Malaysia. It primarily serves as an air gateway to the nearby Mersing jetty, the main departure point for ferries to the popular island destination of Pulau Tioman. The airport handles light aircraft and limited scheduled services, with modest facilities suited to its low traffic volume.",
+  "faqs": "Q: What is Mersing Airport mainly used for?\nA: The airport serves the town of Mersing in Johor and functions as a convenient access point for travelers heading to Pulau Tioman via the Mersing jetty.\n\nQ: Does Mersing Airport have regular commercial flights?\nA: Scheduled commercial service is limited and infrequent; the airport mostly handles general aviation and occasional chartered or seasonal flights.\n\nQ: Are there car rental services at Mersing Airport?\nA: Rental options are minimal at the terminal itself, so arranging transport in advance through local agencies in Mersing town is recommended.\n\nQ: How far is the airport from the Mersing jetty?\nA: The jetty is approximately 5–10 minutes by car from the airport, making it a quick transfer for ferry passengers.",
+  "transport_tips": "Taxis and ride-hailing services are the most reliable way to reach Mersing Airport from town, as public buses do not directly serve the terminal. Travelers heading to Pulau Tioman should pre-book a taxi or arrange pickup with their ferry operator for the short ride to the jetty. The airport's small size means there is no shuttle service, so plan ground transport in advance.",
+  "local_tip": "If catching a ferry to Tioman, schedule your flight to arrive at least 2–3 hours before ferry departure, as boat schedules are weather-dependent and can shift with little notice during the monsoon season.",
+  "generatedAt": "2026-06-28T03:39:25.529Z",
+  "model": "MiniMax-M3"
+}

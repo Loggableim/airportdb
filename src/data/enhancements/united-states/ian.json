@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IAN",
+    "icao": "PAIK",
+    "name": "Bob Baker Memorial Airport",
+    "country": "United States",
+    "city": "Kiana",
+    "lat": 66.9761,
+    "lon": -160.439,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Bob Baker Memorial Airport serves the remote village of Kiana, located in Alaska's Northwest Arctic Borough above the Arctic Circle. As a vital transportation link for this Iñupiat community, the airport primarily supports scheduled and charter bush plane services connecting residents to regional hubs like Kotzebue and Fairbanks. The facility is named in honor of a local community member and plays an essential role in supplying groceries, mail, and medical access to the village.",
+  "faqs": "Q: What airlines serve Bob Baker Memorial Airport?\nA: The airport is primarily served by small regional carriers and charter operators using bush planes, as Kiana is a remote Arctic community with no road access.\n\nQ: Is Kiana accessible by road?\nA: No, Kiana is not connected to Alaska's road system. All travel to and from the village, including passenger and cargo transport, depends entirely on air service.\n\nQ: When is the best time to fly into Kiana?\nA: Summer months (June through August) generally offer the most reliable weather for flights, while winter operations can be affected by extreme cold, low visibility, and icy runway conditions.\n\nQ: Does the airport have scheduled commercial service?\nA: The airport sees limited scheduled service, with most flights operated as part of regional routes serving Northwest Alaska villages, often using single-engine or light twin aircraft.",
+  "transport_tips": "Travelers to Kiana should arrange flights through regional carriers serving Northwest Alaska villages, as the airport has no road or ferry connections. Charter bush planes are commonly used for flexible scheduling, and passengers should be prepared for small-aircraft conditions. Booking well in advance is advisable, particularly during peak summer travel or for connections to medical appointments.",
+  "local_tip": "Pack layers regardless of season—Kiana sits well above the Arctic Circle where summer temperatures can still drop near freezing and winter conditions regularly plunge below zero Fahrenheit with significant wind chill.",
+  "generatedAt": "2026-06-29T21:38:40.742Z",
+  "model": "MiniMax-M3"
+}

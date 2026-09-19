@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "KGC",
+    "icao": "YKSC",
+    "name": "Kingscote Airport",
+    "country": "Australia",
+    "city": "",
+    "lat": -35.7139,
+    "lon": 137.521,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Kingscote Airport (KGC/YKSC) is the main gateway to Kangaroo Island, Australia's third-largest island, located in South Australia. The airport serves as a vital link for tourism to this renowned wildlife destination, home to kangaroos, koalas, sea lions, and penguins. It provides essential access to the island's pristine national parks, local vineyards, and stunning coastal landscapes.",
+  "faqs": "Q: Which airlines operate flights to Kingscote Airport?\nA: Regional carriers including QantasLink provide scheduled passenger services connecting Kingscote to Adelaide and other mainland destinations, with seasonal routes available during peak tourism periods.\n\nQ: How far is Kingscote Airport from the town center?\nA: The airport is conveniently located approximately 13 kilometers from Kingscote town, with a typical transfer time of around 15 minutes by car.\n\nQ: Is Kingscote Airport suitable for general aviation?\nA: Yes, the airport accommodates general aviation and charter flights, including private aircraft and tour operators serving Kangaroo Island's tourism market.\n\nQ: Are car rental services available at the airport?\nA: Yes, several car rental companies operate at or near the airport, which is highly recommended given the island's limited public transport options.",
+  "transport_tips": "",
+  "local_tip": "Book early morning flights when possible, as the island's famous wildlife is most active at dawn and dusk, giving you the rest of the day to explore attractions like Flinders Chase National Park or seal colonies at Seal Bay.",
+  "generatedAt": "2026-06-29T07:04:06.729Z",
+  "model": "MiniMax-M3"
+}

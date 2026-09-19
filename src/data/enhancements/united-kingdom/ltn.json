@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LTN",
+    "icao": "EGGW",
+    "name": "London Luton Airport",
+    "country": "United Kingdom",
+    "city": "Luton, Luton",
+    "lat": 51.8747,
+    "lon": -0.3683,
+    "type": "large_airport",
+    "size": 51275
+  },
+  "summary": "London Luton Airport (LTN) is one of the six main international airports serving London, located about 35 miles (56 km) north of central London in Bedfordshire. Originally opened in 1938 and used by the RAF during World War II, it evolved into a major hub for low-cost carriers, particularly easyJet, which operates its largest base here. The airport features a single modern terminal handling over 16 million passengers annually, making it one of the UK's busiest airports.",
+  "faqs": "Q: How far is London Luton Airport from central London?\nA: The airport is approximately 35 miles (56 km) north of central London, with typical journey times of 45-60 minutes by car or train.\n\nQ: What train connects to London Luton Airport?\nA: Thameslink and East Midlands Railway trains run from Luton Airport Parkway station to London St Pancras International in about 25-40 minutes, with a free shuttle bus linking the station to the terminal.\n\nQ: Which airlines operate from London Luton Airport?\nA: Luton is a major base for easyJet, with other carriers including Wizz Air, Ryanair, TUI, and several charter and regional airlines serving mostly European and select North African destinations.\n\nQ: Does London Luton Airport operate 24 hours?\nA: No, the airport has a night flight curfew, typically operating from around 6:00 AM to 11:00 PM, making it quieter overnight for nearby residents.",
+  "transport_tips": "The fastest route to central London is the Thameslink train from Luton Airport Parkway, with frequent services to St Pancras taking around 30 minutes. National Express and other coach operators offer direct services to many London locations and other cities, often cheaper than trains. By car, the airport is accessed via Junction 10 of the M1 motorway, and short-stay and long-stay parking are available, though booking online in advance can save up to 50%.",
+  "local_tip": "If you have a long layover or early arrival, the nearby Wigmore Valley Park offers pleasant walking trails just a few minutes from the terminal, and the airport's 'Flightpath' garden on the terminal rooftop provides a quiet spot with runway views away from the crowds.",
+  "generatedAt": "2026-06-28T15:41:59.022Z",
+  "model": "MiniMax-M3"
+}

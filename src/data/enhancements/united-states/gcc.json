@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GCC",
+    "icao": "KGCC",
+    "name": "Northeast Wyoming Regional Airport",
+    "country": "United States",
+    "city": "Gillette",
+    "lat": 44.3489,
+    "lon": -105.539,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Northeast Wyoming Regional Airport (GCC/KGCC) serves Gillette, a city in Campbell County in northeastern Wyoming known for its significant role in the Powder River Basin's coal, oil, and natural gas industries. The airport provides essential commercial and general aviation access to a region that also draws visitors to nearby attractions like Devils Tower National Monument and the Bighorn Mountains. It features a single primary runway capable of handling regional jet service and serves as a key link for business travelers connected to the energy sector.",
+  "faqs": "Q: What airlines serve Northeast Wyoming Regional Airport?\nA: The airport is primarily served by regional carrier SkyWest Airlines operating as United Express, offering daily flights to Denver International Airport.\n\nQ: How far is the airport from downtown Gillette?\nA: The airport is conveniently located approximately 4 miles north of downtown Gillette, making it a quick drive from most hotels and businesses.\n\nQ: Does the airport have rental car services?\nA: Yes, rental car counters are available at the terminal, and advance reservations are recommended especially during peak travel periods.\n\nQ: Is there overnight parking available?\nA: The airport offers both short-term and long-term parking options in a lot adjacent to the terminal building.\n\n",
+  "transport_tips": "The airport is a short drive from Gillette via Highway 59, and taxi or rideshare services are available but may require advance booking due to limited local availability. Many local hotels offer complimentary shuttle service to and from the airport, so check with your accommodations before arrival. Rental cars are recommended for travelers planning to explore the surrounding region, including Devils Tower and the Bighorn National Forest.",
+  "local_tip": "Pack layers even in summer—Gillette sits at over 4,500 feet elevation on the high plains, and afternoon thunderstorms can roll in quickly, sometimes causing flight delays, so check the weather forecast before heading to the airport.",
+  "generatedAt": "2026-06-29T18:47:15.784Z",
+  "model": "MiniMax-M3"
+}

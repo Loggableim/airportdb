@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AYI",
+    "icao": "",
+    "name": "Yari Airport",
+    "country": "Colombia",
+    "city": "Yari",
+    "lat": -0.3833,
+    "lon": -72.2667,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Yari Airport (AYI) is a small airstrip serving the remote settlement of Yari in Colombia's Caquetá department, deep within the Amazon rainforest region. The facility functions primarily as a lifeline for isolated indigenous communities and provides essential access for humanitarian, medical, and government operations in this otherwise road-inaccessible area. Due to its jungle location, flights typically operate only during daylight hours under visual meteorological conditions.",
+  "faqs": "Q: What is the main purpose of Yari Airport?\nA: The airport primarily serves as a transport link for the small, remote community of Yari and surrounding indigenous settlements, supporting medical evacuations, supply deliveries, and government outreach in the Amazon basin.\n\nQ: Are there commercial airline services to Yari?\nA: No scheduled commercial flights operate here. Access is typically provided by small charter aircraft, humanitarian missions, or occasional military flights.\n\nQ: What are the operating conditions like?\nA: The airport operates under daylight visual flight rules only. Weather, particularly low cloud cover and rain common to the Amazon region, can frequently affect availability.\n\nQ: Is there passenger infrastructure at the airport?\nA: No, the airport has minimal infrastructure—just a basic runway and no terminal building. Passengers should expect very basic conditions.\n\n",
+  "transport_tips": "There is no road access to Yari, so reaching the airport requires flying in by small aircraft—typically a Cessna Caravan or similar STOL-capable plane arranged through charter operators in nearby towns like Araracuara or Florencia. Travelers heading to Yari should coordinate ground transport from the airstrip in advance, as there are no taxis or public transit available. Pack light and be prepared for flexible scheduling, as Amazon weather frequently delays or cancels flights.",
+  "local_tip": "Bring a lightweight rain jacket and waterproof bags for your gear—even on clear mornings, afternoon thunderstorms are common in the Amazon and can turn the dirt airstrip into mud, so waterproof footwear is highly recommended for any time spent walking around the area.",
+  "generatedAt": "2026-06-28T10:35:23.733Z",
+  "model": "MiniMax-M3"
+}

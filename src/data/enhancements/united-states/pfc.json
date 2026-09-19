@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PFC",
+    "icao": "KPFC",
+    "name": "Pacific City State Airport",
+    "country": "United States",
+    "city": "Pacific City",
+    "lat": 45.1998,
+    "lon": -123.962,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Pacific City State Airport is a small public-use general aviation airport located on the Oregon coast, serving the scenic community of Pacific City and surrounding Tillamook County. It primarily accommodates recreational flyers, private aircraft, and serves as a gateway for visitors exploring the nearby Cape Kiwanda, the Pacific coastline, and the Nestucca Bay area. The airport operates without a control tower and features a single turf runway in a rural coastal setting.",
+  "faqs": "Q: Does Pacific City State Airport have commercial airline service?\nA: No, the airport is used exclusively for general aviation, private aircraft, and recreational flying. There are no scheduled commercial flights.\n\nQ: Are there fuel services available at the airport?\nA: Fuel availability at small state airports like this can be limited, so pilots are encouraged to check current conditions or arrange fuel in advance before arrival.\n\nQ: Is there an air traffic control tower?\nA: No, Pacific City State Airport is an uncontrolled field. Pilots use the common traffic advisory frequency (CTAF) to coordinate arrivals and departures.\n\nQ: Can visitors rent cars at the airport?\nA: Rental car services are not typically available on-site. Most visitors arrange ground transportation from nearby towns or pre-book rental services.\n\n",
+  "transport_tips": "Getting to Pacific City from the airport typically requires a rental car, as the airport is located in a rural coastal area with limited public transportation. The drive to the town of Pacific City and Cape Kiwanda is short, usually under 10 minutes. Visitors flying in should coordinate ground transportation in advance, as taxis and rideshare options are scarce in this small community.",
+  "local_tip": "If you fly in, ask local pilots about the Cape Kiwanda area—it's one of the most photographed spots on the Oregon coast and a favorite fly-in destination, with the iconic dune offering panoramic views of the Pacific Ocean and the working dory boat launch below.",
+  "generatedAt": "2026-06-27T05:04:04.845Z",
+  "model": "MiniMax-M3"
+}

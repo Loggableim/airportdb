@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LEY",
+    "icao": "EHLE",
+    "name": "Lelystad Airport",
+    "country": "Netherlands",
+    "city": "Lelystad",
+    "lat": 52.4532,
+    "lon": 5.5146,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Lelystad Airport is a medium-sized airfield situated in the province of Flevoland in the central Netherlands, just east of the IJsselmeer. It primarily serves general aviation, recreational flying, flight training, and gliding activities, making it a popular base for private pilots and aviation schools. Plans to develop the airport as a secondary commercial facility to relieve pressure from Amsterdam Schiphol have been discussed for years and remain largely on hold.",
+  "faqs": "Q: What is Lelystad Airport mainly used for?\nA: The airport primarily serves general aviation, including private flights, flight training schools, gliding, and skydiving operations rather than scheduled commercial services.\n\nQ: Are there any scheduled commercial flights from Lelystad?\nA: As of now, scheduled commercial passenger services have not yet launched, though plans to open Lelystad to commercial traffic to relieve Schiphol have been under consideration for several years.\n\nQ: How far is Lelystad Airport from Amsterdam?\nA: The airport is roughly 60 kilometers east of Amsterdam, accessible by road in approximately 45 to 60 minutes depending on traffic.\n\nQ: Does the airport have an instrument approach?\nA: Yes, Lelystad is equipped for instrument flight operations, supporting both IFR training and general aviation arrivals under suitable weather conditions.",
+  "transport_tips": "By car, the airport is reached via the A6 motorway followed by the N302, with on-site parking available for travelers and visitors. Public transport options include bus connections to Lelystad Centrum railway station, from where Intercity trains provide direct links to Amsterdam, Almere, and other major Dutch cities. Taxi services are also available, though booking in advance is recommended during off-peak hours.",
+  "local_tip": "If visiting for a flight lesson or sightseeing flight, ask about the Dutch Coast and IJsselmeer panorama routes—local operators often know the best patterns for spotting historic Dutch polder landscapes from above.",
+  "generatedAt": "2026-06-29T18:28:45.653Z",
+  "model": "MiniMax-M3"
+}

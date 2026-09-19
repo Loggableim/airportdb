@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RBY",
+    "icao": "PARY",
+    "name": "Ruby Airport",
+    "country": "United States",
+    "city": "Ruby",
+    "lat": 64.7272,
+    "lon": -155.47,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Ruby Airport is a state-owned public-use airport serving the small remote community of Ruby, Alaska, situated along the Yukon River in the state's interior. The airport provides critical transportation links for residents of this isolated village, which is not accessible by road. It primarily supports bush planes, charter flights, and essential mail and supply deliveries to the community.",
+  "faqs": "Q: What is the main way to reach Ruby, Alaska?\nA: Ruby is not connected to the state's road system, so travelers typically fly into Ruby Airport via charter or scheduled bush plane service from Fairbanks or Anchorage.\n\nQ: Are there commercial airline flights to Ruby Airport?\nA: Commercial service is limited; most flights are operated by small regional carriers and air taxi services using bush planes suited to the remote terrain.\n\nQ: What facilities are available at the airport?\nA: Ruby Airport offers basic facilities typical of rural Alaskan airports, including a gravel runway, small terminal area, and limited amenities.\n\nQ: Is the airport open year-round?\nA: Yes, the airport operates year-round, though winter conditions may cause occasional delays due to snow and ice.",
+  "transport_tips": "Ground transportation options are limited; travelers should coordinate pickup in advance with a local resident, lodge, or air carrier since rental car services are generally not available. Many visitors arrange return transportation at the same time as their inbound flight due to the unpredictability of small aircraft schedules. Pack light as luggage space on bush planes is restricted.",
+  "local_tip": "Book your outbound flight for the same day you plan to depart the village rather than the evening before, as weather-related delays are common and overnight lodging in Ruby is very limited.",
+  "generatedAt": "2026-06-29T23:04:54.697Z",
+  "model": "MiniMax-M3"
+}

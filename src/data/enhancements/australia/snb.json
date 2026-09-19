@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SNB",
+    "icao": "",
+    "name": "Snake Bay Airport",
+    "country": "Australia",
+    "city": "Milikapiti",
+    "lat": -11.4177,
+    "lon": 130.6485,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Snake Bay Airport is a regional airstrip serving Milikapiti, a small Aboriginal community situated on the northern coast of Melville Island in Australia's Tiwi Islands archipelago, in the Northern Territory. The airport provides essential air connectivity between this remote Tiwi community and the mainland, supporting access to healthcare, education, and government services in Darwin. It primarily handles small regional turboprop aircraft on the short hop across the Beagle Gulf.",
+  "faqs": "Q: What is Snake Bay Airport used for?\nA: It serves the Milikapiti community on Melville Island, providing vital passenger and light freight connections to the Australian mainland via Darwin.\n\nQ: How do you get to Snake Bay Airport?\nA: Travelers typically fly from Darwin on a small regional charter or scheduled service, as the Tiwi Islands are not connected by bridge or ferry to the mainland.\n",
+  "transport_tips": "",
+  "local_tip": "",
+  "generatedAt": "2026-06-29T20:50:29.584Z",
+  "model": "MiniMax-M3"
+}

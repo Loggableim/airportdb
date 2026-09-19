@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PVK",
+    "icao": "LGPZ",
+    "name": "Aktion National Airport",
+    "country": "Greece",
+    "city": "Preveza",
+    "lat": 38.9255,
+    "lon": 20.7653,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Aktion National Airport (PVK) is a small but important regional airport in northwestern Greece, serving the coastal city of Preveza and the popular island of Lefkada in the Ionian Sea. The airport sits near the ancient ruins of Nikopolis, a city founded by Roman Emperor Augustus to commemorate his victory at the Battle of Actium in 31 BC. It functions primarily as a seasonal gateway for tourism, handling significant charter and low-cost traffic during the summer months.",
+  "faqs": "Q: Which islands does Aktion National Airport serve?\nA: The airport primarily serves Lefkada, one of the Ionian Islands, and also provides access to nearby destinations including Parga, Vonitsa, and the western coast of mainland Greece.\n\nQ: Is Aktion National Airport open year-round?\nA: The airport operates year-round but sees significantly reduced flight schedules during winter, with the bulk of its traffic occurring between May and October.\n\nQ: How far is the airport from Lefkada?\nA: The airport is approximately 20 kilometers from Lefkada town, with driving times typically ranging from 25 to 35 minutes depending on traffic and route.\n\nQ: Does the airport have international flights?\nA: Yes, during summer months it receives seasonal international flights from several European countries, mainly through charter services and low-cost carriers.",
+  "transport_tips": "The most convenient way to reach Lefkada from the airport is by rental car, taxi, or pre-booked private transfer, as there is no direct public bus service between the airport and the island. Pre-booking a transfer during peak summer season is strongly recommended to avoid long waits. Local taxis are available outside the terminal but can be limited, so arranging transport in advance is advisable.",
+  "local_tip": "If you have a few hours before your flight, visit the nearby archaeological site of Nikopolis, just minutes from the airport, where you can explore Roman ruins including a theater, walls, and a museum with artifacts from the Battle of Actium.",
+  "generatedAt": "2026-06-29T05:35:40.151Z",
+  "model": "MiniMax-M3"
+}

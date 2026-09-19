@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BFS",
+    "icao": "EGAA",
+    "name": "Belfast International Airport",
+    "country": "United Kingdom",
+    "city": "Belfast",
+    "lat": 54.6575,
+    "lon": -6.2158,
+    "type": "large_airport",
+    "size": 1275
+  },
+  "summary": "Belfast International Airport (BFS) is Northern Ireland's busiest airport, located in Aldergrove about 13 miles northwest of Belfast city centre. Originally established as RAF Aldergrove during World War II, it transitioned to civilian use in 1946 and now serves as a major hub for low-cost carriers including easyJet, Ryanair, and Jet2. The single-terminal facility handles millions of passengers annually and offers direct connections to over 50 destinations across the UK and Europe.",
+  "faqs": "Q: How far is Belfast International Airport from the city centre?\nA: The airport is approximately 13 miles (21 km) northwest of Belfast city centre, with a typical journey time of 30-40 minutes by car or bus.\n\nQ: What airlines operate from Belfast International?\nA: Major carriers include easyJet, Ryanair, Jet2, TUI, and Wizz Air, offering scheduled and charter flights to UK and European destinations.\n\nQ: Does the airport operate 24 hours?\nA: No, the airport has limited operating hours. It generally closes overnight, so passengers should confirm late-night or early-morning flight schedules in advance.\n\nQ: Is there a direct bus service to Belfast city centre?\nA: Yes, the Airport Express 300 service runs frequently between the airport and Belfast city centre, with stops at the Europa Buscentre.",
+  "transport_tips": "The Airport Express 300 bus is the most popular and cost-effective option, running every 15-30 minutes and taking about 40 minutes to reach Belfast's Europa Buscentre. Taxis are available outside the terminal and typically cost £30-40 to the city centre. If driving, the M2 motorway provides the most direct route, and both short-stay and long-stay parking are available on-site with pre-booking discounts.",
+  "local_tip": "The airport's viewing area and heritage displays showcase its history as a former RAF base, and food prices inside security are noticeably lower than at many comparable UK airports, making it worthwhile to grab a meal after clearing security rather than before.",
+  "generatedAt": "2026-06-28T16:32:00.786Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BRE",
+    "icao": "EDDW",
+    "name": "Bremen Airport",
+    "country": "Germany",
+    "city": "Bremen",
+    "lat": 53.0468,
+    "lon": 8.7893,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Bremen Airport (BRE) is the international gateway to the Hanseatic city of Bremen in northern Germany, serving both the Free Hanseatic City itself and the surrounding Lower Saxony region. Located about 3.5 km south of the city center, it functions as a regional hub with a single terminal handling around two million passengers annually. The airport is notable for its efficient operations, easy accessibility, and convenient connections to European leisure and business destinations.",
+  "faqs": "Q: How far is Bremen Airport from the city center?\nA: The airport is approximately 3.5 km (about 2 miles) south of Bremen's city center, making it one of the more conveniently located European airports.\n\nQ: Does Bremen Airport have a train station?\nA: There is no direct train station at the terminal, but the Bremen Airport St. Magnus S-Bahn station is a short walk away, connecting to regional rail services.\n\nQ: Which airlines operate from Bremen Airport?\nA: Airlines such as Lufthansa, Ryanair, Eurowings, SunExpress, and Wizz Air operate regular flights from BRE, primarily to European destinations.\n\nQ: Is there a tram connection to the airport?\nA: Yes, Tram Line 6 runs directly between the airport terminal and Bremen's main train station in about 15 minutes.",
+  "transport_tips": "The easiest way to reach the city center is Tram Line 6, which departs directly from the terminal and takes roughly 15 minutes to reach Bremen Hauptbahnhof. Taxis are readily available outside the terminal and typically cost around €10–15 for a journey to the city center. Drivers will find the airport well-connected via the A1 motorway, with short-term and long-term parking options available on-site.",
+  "local_tip": "If you have a long layover or early arrival, visit the nearby Airport-Stadt business park for a coffee at one of the local cafés—it's a quieter alternative to the terminal and gives you a feel for the modern Bremen district surrounding the airfield.",
+  "generatedAt": "2026-06-28T18:47:06.387Z",
+  "model": "MiniMax-M3"
+}

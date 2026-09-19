@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GYY",
+    "icao": "",
+    "name": "Gary/Chicago International Airport",
+    "country": "United States",
+    "city": "Gary",
+    "lat": 41.6171,
+    "lon": -87.4132,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Gary/Chicago International Airport (GYY) is a public airport located in Gary, Indiana, approximately 25 miles southeast of downtown Chicago. Originally established as Gary Municipal Airport, it was renamed in 1996 to reflect its role as an alternative gateway to the Chicago metropolitan area. The airport has historically supported general aviation, cargo operations, and limited scheduled passenger service.",
+  "faqs": "Q: How far is Gary/Chicago International Airport from downtown Chicago?\nA: GYY is located approximately 25 miles southeast of downtown Chicago, with typical driving times of 45-60 minutes depending on traffic.\n\nQ: Does GYY offer commercial passenger flights?\nA: Scheduled commercial service has been limited and intermittent over the years. Travelers should check current airline schedules as service availability can change.\n\nQ: What facilities are available at the airport?\nA: The airport offers general aviation services, FBOs, aircraft maintenance, and U.S. Customs and Border Protection facilities for international general aviation arrivals.\n\nQ: Can private jets use Gary/Chicago International Airport?\nA: Yes, GYY is well-equipped for general aviation and corporate jet operations, making it a popular alternative to the busier Chicago-area airports.",
+  "transport_tips": "Driving is the most common way to reach GYY, with the airport accessible via Interstate 90/94 and local routes. Rental cars are available, though booking in advance is recommended due to limited on-site options. Rideshare services like Uber and Lyft operate in the area, providing connections to both Gary and the broader Chicago region.",
+  "local_tip": "Frequent visitors appreciate that GYY's U.S. Customs facility allows international general aviation flights to clear customs on-site, avoiding the need to land at a larger airport first.",
+  "generatedAt": "2026-06-29T04:10:50.283Z",
+  "model": "MiniMax-M3"
+}

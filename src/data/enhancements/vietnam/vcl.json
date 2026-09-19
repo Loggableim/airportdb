@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VCL",
+    "icao": "VVCA",
+    "name": "Chu Lai Airport",
+    "country": "Vietnam",
+    "city": "Tam Nghĩa",
+    "lat": 15.4033,
+    "lon": 108.706,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Chu Lai Airport is a small regional airport serving Quảng Nam Province in central Vietnam, located in Tam Nghĩa near the Chu Lai Open Economic Zone. Originally established as a military airfield during the Vietnam War, it has since been repurposed for civilian use and serves the growing industrial and tourist areas of the region. The airport provides convenient access to popular destinations like Hoi An, My Son Sanctuary, and the central Vietnamese coast.",
+  "faqs": "Q: What airlines operate from Chu Lai Airport?\nA: The airport primarily serves domestic routes, with flights operated by Vietnamese carriers connecting Chu Lai to major cities like Hanoi and Ho Chi Minh City.\n\nQ: How far is Chu Lai Airport from Hoi An?\nA: Hoi An is approximately 80 km north of the airport, requiring a drive of around 1.5 to 2 hours depending on traffic.\n\nQ: Are there international flights from Chu Lai?\nA: The airport is mainly used for domestic flights, with limited or no scheduled international service at this time.\n\nQ: Is the airport open 24 hours?\nA: The airport operates during scheduled flight hours only and is not a 24-hour facility, so plan arrivals and departures accordingly.\n\n",
+  "transport_tips": "Pre-booking a private car or taxi is the most reliable way to reach the airport, as public transport options are limited in this region. The airport is well-connected to National Highway 1A, making road transfers straightforward toward Quảng Ngãi to the south or Da Nang and Hoi An to the north. Allow extra travel time during rainy season, as flooding can occasionally affect road access in central Vietnam.",
+  "local_tip": "If you're heading to Hoi An, consider stopping at My Son Sanctuary along the way — it's roughly halfway between the airport and Hoi An and offers a fascinating glimpse of the ancient Cham civilization.",
+  "generatedAt": "2026-06-26T19:59:44.651Z",
+  "model": "MiniMax-M3"
+}

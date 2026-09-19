@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GOQ",
+    "icao": "ZLGM",
+    "name": "Golmud Airport",
+    "country": "China",
+    "city": "Golmud",
+    "lat": 36.4006,
+    "lon": 94.7861,
+    "type": "medium_airport",
+    "size": 500
+  },
+  "summary": "Golmud Airport (GOQ) is a regional airport serving Golmud, a key industrial and transportation city in Qinghai Province, situated on the northern edge of the Qaidam Basin on the Qinghai-Tibet Plateau. Opened to commercial aviation in the early 2000s, it provides vital air access to this remote high-altitude region rich in mineral resources, including the famous Chaerhan salt lake area. The airport's high elevation and plateau location make it an important gateway for travelers heading into the Tibetan Plateau.",
+  "faqs": "Q: What is the elevation of Golmud Airport?\nA: The airport sits at approximately 2,800 meters (9,186 feet) above sea level due to its location on the Qinghai-Tibet Plateau, which travelers should be aware of for potential altitude effects.\n\nQ: Which airlines operate at Golmud Airport?\nA: Several Chinese carriers serve the airport, including China Eastern Airlines and Tibet Airlines, primarily operating domestic routes to cities such as Xining, Chengdu, and Lhasa.\n\nQ: Are there international flights from Golmud Airport?\nA: No, Golmud Airport currently handles domestic flights only. International travelers typically connect through major hubs like Xining or Chengdu.\n\nQ: What facilities are available at the terminal?\nA: The airport has a modest terminal with basic amenities including food outlets, shops, and limited lounge services, as it serves a relatively small but important regional market.\n\n",
+  "transport_tips": "The airport is located about 20 kilometers southwest of Golmud city center, with taxis being the most common way to reach downtown, typically taking 30-40 minutes. Shared shuttle services and pre-booked private transfers are also available, especially useful for travelers continuing onward to remote industrial sites in the Qaidam Basin. Roads to and from the airport are generally well-maintained, but weather can impact travel during winter months.",
+  "local_tip": "Given the high-altitude location, arriving a day early to acclimatize before any connecting flights or onward travel to Lhasa or other higher-elevation destinations is highly recommended, as oxygen levels are noticeably lower than in coastal Chinese cities.",
+  "generatedAt": "2026-06-29T22:16:52.889Z",
+  "model": "MiniMax-M3"
+}

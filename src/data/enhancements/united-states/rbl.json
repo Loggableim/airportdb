@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RBL",
+    "icao": "KRBL",
+    "name": "Red Bluff Municipal Airport",
+    "country": "United States",
+    "city": "Red Bluff",
+    "lat": 40.1507,
+    "lon": -122.252,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Red Bluff Municipal Airport (RBL) is a general aviation facility located in Tehama County, Northern California, serving the small city of Red Bluff and surrounding Sacramento Valley communities. Situated along the Interstate 5 corridor roughly 30 miles south of Redding, the airport supports private aviation, flight training, and emergency response operations. Its location in the scenic Sacramento River canyon area makes it a useful waypoint for pilots traveling through the northern Sacramento Valley.",
+  "faqs": "Q: What is the main purpose of Red Bluff Municipal Airport?\nA: The airport primarily serves general aviation, including private aircraft, flight training, and emergency services for the Red Bluff area and wider Tehama County region.\n\nQ: Does Red Bluff Municipal Airport offer commercial airline service?\nA: No scheduled commercial flights operate from RBL; travelers seeking commercial service typically use Redding Municipal Airport (RDD) about 30 miles to the north.\n\nQ: What facilities are available at the airport?\nA: The airport features a single asphalt runway, aircraft tie-downs, hangar space, and basic general aviation services for pilots and aircraft owners.\n\nQ: Can I rent a car at Red Bluff Municipal Airport?\nA: On-site rental car services are limited or unavailable; visitors typically arrange ground transportation in advance or rent vehicles in nearby Redding.",
+  "transport_tips": "The airport is located just off Interstate 5, making it a quick drive from downtown Red Bluff within about 10 minutes by car. Without rideshare or taxi services readily available on-site, most visitors arrange pickup in advance or use a personal vehicle. For those flying in commercially, the nearest airport with scheduled service is Redding Municipal (RDD), roughly a 35-minute drive north on I-5.",
+  "local_tip": "If you're flying your own plane in, plan fuel stops carefully—the nearest FBO services and self-serve avgas pumps are limited, so check operating hours with the airport manager before arrival, especially on weekends.",
+  "generatedAt": "2026-06-30T05:04:48.038Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RCS",
+    "icao": "EGTO",
+    "name": "Rochester Airport",
+    "country": "United Kingdom",
+    "city": "Rochester, Kent",
+    "lat": 51.3519,
+    "lon": 0.5033,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Rochester Airport is a small general aviation airfield located on the outskirts of Rochester in Kent, southeast England. Originally established as a military airfield during the First World War, it later transitioned to civilian use and now serves primarily private pilots, flight training, and light aircraft operations. The airport sits amid the low-lying landscape of the Hoo Peninsula, offering easy access to the Medway towns and connections to the wider Thames Estuary region.",
+  "faqs": "Q: What type of airport is Rochester Airport?\nA: Rochester Airport is a small general aviation airfield, primarily handling private flights, flight training, and light aircraft rather than commercial passenger services.\n\nQ: Does Rochester Airport have scheduled commercial flights?\nA: No, the airport does not operate scheduled commercial passenger services and is not served by major airlines.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic facilities for general aviation including aircraft parking, refuelling, and flight training schools, along with a small clubhouse for pilots and visitors.\n\nQ: Can the public visit Rochester Airport?\nA: Visitors are generally welcome, though there are no large public amenities. Spectators can sometimes watch light aircraft activity from designated areas outside secure zones.\n\n",
+  "transport_tips": "The airport is best reached by car, as public transport options are limited. It is located just off the A228 road near the Medway towns, with convenient connections to the M2 and M20 motorways. Taxi services from Rochester, Chatham, or Gillingham town centres are the most reliable options, typically taking around 15 to 20 minutes.",
+  "local_tip": "If you're visiting the area, combine a trip to the airport with a visit to the historic Rochester Castle and Cathedral just a short drive away, and consider timing your visit for clear days when views across the Thames Estuary from the airfield are at their best.",
+  "generatedAt": "2026-06-27T06:29:04.131Z",
+  "model": "MiniMax-M3"
+}

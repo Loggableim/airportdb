@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RMP",
+    "icao": "",
+    "name": "Rampart Airport",
+    "country": "United States",
+    "city": "Rampart",
+    "lat": 65.5079,
+    "lon": -150.141,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Rampart Airport (RMP) is a small public-use airport serving the village of Rampart, a remote Athabaskan community situated along the Yukon River in interior Alaska. The facility primarily supports essential passenger and cargo services, connecting this isolated settlement to Fairbanks and other regional hubs. As one of many small airstrips dotting rural Alaska, it plays a vital role in the transportation network for residents who rely on aviation due to limited road access in the region.",
+  "faqs": "Q: What is Rampart Airport primarily used for?\nA: The airport serves the remote village of Rampart in interior Alaska, providing essential passenger and mail/cargo services since the area is not accessible by road.\n\nQ: Are there scheduled commercial flights to Rampart Airport?\nA: Service is typically provided by small regional bush carriers operating out of Fairbanks, often using smaller aircraft suited for short, unimproved or gravel runways.\n\nQ: What facilities are available at the airport?\nA: As a small rural Alaska airstrip, the airport has minimal infrastructure—no terminal building, jet fuel, or major services. Passengers should arrange ground transport and supplies in advance.\n\nQ: When is the airport operational?\nA: The airport is generally usable year-round, though winter operations may be affected by extreme cold and snow, and summer by soft runway conditions after heavy rain.",
+  "transport_tips": "There is no road connection to Rampart, so the airport is effectively the primary means of access for visitors. Most travelers fly in from Fairbanks via small commuter aircraft, with Fairbanks being the typical transfer point for connections to Anchorage and the Lower 48. Coordinate pickup arrangements with a local resident or lodge in advance, as there is no taxi service at the airstrip.",
+  "local_tip": "Bring layers and a windproof shell—even in summer, interior Alaska temperatures along the Yukon River can drop quickly near the open airstrip, and there is no shelter on the tarmac to wait out weather delays.",
+  "generatedAt": "2026-06-26T22:56:06.902Z",
+  "model": "MiniMax-M3"
+}

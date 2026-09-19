@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GYZ",
+    "icao": "YGRM",
+    "name": "Gruyere Airport",
+    "country": "Australia",
+    "city": "Cosmo Newbery",
+    "lat": -28.0345,
+    "lon": 123.8151,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Gruyere Airport (GYZ) is a small regional airport serving the remote Cosmo Newbery area in Western Australia's Goldfields region, primarily supporting fly-in fly-out (FIFO) operations for the nearby Gruyere gold mine, a major joint venture between Gold Fields and Gold Road Resources. The airport sits in the sparsely populated Great Victoria Desert region and handles charter and regional flights connecting mining personnel to Perth and other regional hubs.",
+  "faqs": "Q: What is Gruyere Airport primarily used for?\nA: The airport mainly services FIFO workers and charter flights linked to the Gruyere gold mine and surrounding mining operations.\n\nQ: Are there commercial passenger flights at Gruyere Airport?\nA: Scheduled commercial service is limited; most flights are charter operations arranged by mining companies for their workforce.\n\nQ: Where exactly is the airport located?\nA: It is situated near the Cosmo Newbery community in the remote northeastern Goldfields region of Western Australia.\n\nQ: What facilities are available at the airport?\nA: Facilities are basic and geared toward mining logistics, with limited passenger amenities typical of remote industrial airstrips.",
+  "transport_tips": "Access to Gruyere Airport is by mine-operated shuttles or arranged ground transport, as there is no public transit servicing this remote location. Travelers should coordinate ground transportation through their employer or charter operator in advance. The nearest major town with broader services is Laverton, roughly 200 kilometres to the south.",
+  "local_tip": "FIFO visitors should pack plenty of water and sun protection, as the surrounding desert environment can exceed 40°C in summer and there are no shops or services nearby once you leave the airport.",
+  "generatedAt": "2026-06-26T20:52:04.854Z",
+  "model": "MiniMax-M3"
+}

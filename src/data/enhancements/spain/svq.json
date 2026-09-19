@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SVQ",
+    "icao": "LEZL",
+    "name": "Seville Airport",
+    "country": "Spain",
+    "city": "Seville",
+    "lat": 37.418,
+    "lon": -5.8931,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Seville Airport (SVQ/LEZL) is the main international gateway to the Andalusian capital of Seville, located approximately 10 km northeast of the city center. As a key hub for southern Spain, it serves as a popular entry point for tourists visiting landmarks like the Alcázar, the Giralda, and the Cathedral of Seville. The single-terminal facility handles millions of passengers annually, offering connections across Europe and seasonal routes to North America and Africa.",
+  "faqs": "Q: How far is Seville Airport from the city center?\nA: The airport is approximately 10 km (6 miles) northeast of Seville's historic center, with a typical journey taking 20-30 minutes by car or bus.\n\nQ: Are there direct public transport options from the airport to Seville?\nA: Yes, the EA bus line operates between the airport and Plaza de Armas in the city center, running frequently throughout the day.\n\nQ: Does Seville Airport have a single terminal?\nA: Yes, the airport operates from one main passenger terminal that handles both domestic and international flights.\n\nQ: Is there free Wi-Fi available at Seville Airport?\nA: Yes, complimentary Wi-Fi is available throughout the terminal for passenger use.",
+  "transport_tips": "The EA special airport bus is the most economical option, running between the airport and central Seville with stops near key transit hubs. Taxis are readily available outside the terminal and offer fixed rates to the city center, typically taking around 20 minutes depending on traffic. Rental cars are also available at the airport for those planning to explore Andalusia, with major agencies represented on-site.",
+  "local_tip": "If you have a long layover, take the EA bus into the city and walk to Metropol Parasol (known locally as 'Las Setas') for a quick visit—it's only about 15 minutes from the bus stop and offers panoramic rooftop views of the entire city.",
+  "generatedAt": "2026-06-28T18:15:12.779Z",
+  "model": "MiniMax-M3"
+}

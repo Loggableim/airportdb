@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YGH",
+    "icao": "CYGH",
+    "name": "Fort Good Hope Airport",
+    "country": "Canada",
+    "city": "Fort Good Hope",
+    "lat": 66.2407,
+    "lon": -128.6478,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Fort Good Hope Airport (YGH) is a small remote airfield serving the Sahtu Dene community of Fort Good Hope along the Mackenzie River in Canada's Northwest Territories. It provides a vital transportation lifeline for residents, supporting passenger travel, cargo shipments, and medical evacuation flights to and from this isolated subarctic settlement. The airport operates under challenging weather conditions typical of the region's long, cold winters and short summer seasons.",
+  "faqs": "Q: What airlines serve Fort Good Hope Airport?\nA: Flights are typically operated by regional carriers serving the Sahtu region, with scheduled service primarily connecting to Norman Wells and Inuvik.\n\nQ: What is the runway like at YGH?\nA: The airport has a single gravel runway, which is common for remote Northern Canadian airports and suitable for small turboprop aircraft.\n\nQ: When is the airport most affected by weather?\nA: Winter brings extreme cold, ice fog, and reduced visibility, while summer can feature smoke from regional wildfires that occasionally disrupts operations.\n\nQ: Is the airport used for medevac flights?\nA: Yes, medevac services are a critical function, as the airport is essential for transporting patients to larger medical facilities in Norman Wells or Yellowknife.",
+  "transport_tips": "There are no roads connecting Fort Good Hope to the rest of Canada, so air travel is the primary means of reaching the community year-round. In summer, the Mackenzie River barge provides a secondary option for heavy cargo, while a winter ice road is sometimes constructed depending on conditions. Travelers should book flights well in advance and prepare for potential weather-related delays, especially between November and April.",
+  "local_tip": "Pack warm layers even in summer, as temperatures can drop unexpectedly, and bring any specialty food or supplies you need since the local store has limited stock and fresh produce is rare.",
+  "generatedAt": "2026-06-26T14:14:34.111Z",
+  "model": "MiniMax-M3"
+}

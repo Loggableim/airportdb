@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MTY",
+    "icao": "MMMY",
+    "name": "Monterrey International Airport",
+    "country": "Mexico",
+    "city": "Monterrey",
+    "lat": 25.7785,
+    "lon": -100.107,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Monterrey International Airport (MTY) is the primary aviation gateway for Monterrey, Mexico's third-largest city and the industrial capital of the country. Located in the municipality of Apodaca about 25 km northeast of downtown, it ranks among Mexico's busiest airports and serves as a major hub for VivaAerobus. The facility features modern terminals handling both domestic and international flights, supporting the region's strong business travel demand.",
+  "faqs": "Q: How far is Monterrey Airport from the city center?\nA: The airport is approximately 25 km (15 miles) northeast of downtown Monterrey, with typical travel times of 30-45 minutes depending on traffic.\n\nQ: Does the airport have multiple terminals?\nA: Yes, MTY operates Terminal A and Terminal B, with most domestic carriers and VivaAerobus using Terminal A, and some international and other domestic flights operating from Terminal B.\n\nQ: What airlines operate from Monterrey International Airport?\nA: Major carriers include Aeroméxico, VivaAerobus, Volaris, American Airlines, United Airlines, and several other Mexican and international airlines.\n\nQ: Are there currency exchange services at the airport?\nA: Yes, currency exchange counters and ATMs are available in both terminals for converting to Mexican pesos.",
+  "transport_tips": "Authorized airport taxis and rideshare services like Uber and Didi are available outside both terminals and provide safe, metered transportation to the city. For budget travelers, the airport is connected to the modern metro system via a nearby station, and several intercity bus services also serve the facility. Pre-booking a private shuttle or arranging hotel pickup is recommended during peak travel periods when traffic on the highway can be heavy.",
+  "local_tip": "If you're flying VivaAerobus or connecting to other ultra-low-cost carriers, Terminal A's food and shopping options after security are limited, so grab snacks before clearing the checkpoint.",
+  "generatedAt": "2026-06-28T19:03:51.474Z",
+  "model": "MiniMax-M3"
+}

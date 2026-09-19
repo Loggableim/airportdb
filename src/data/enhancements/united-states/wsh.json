@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WSH",
+    "icao": "KHWV",
+    "name": "Brookhaven Calabro Airport",
+    "country": "United States",
+    "city": "Shirley",
+    "lat": 40.8219,
+    "lon": -72.8694,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Brookhaven Calabro Airport is a small general aviation facility located in Shirley, New York, on the south shore of Long Island in Suffolk County. The airport is owned by the Town of Brookhaven and serves primarily private pilots, flight training operations, and recreational flying. It provides an important general aviation gateway for eastern Long Island communities away from the busier Islip MacArthur Airport.",
+  "faqs": "Q: Does Brookhaven Calabro Airport offer commercial flights?\nA: No, this is a general aviation airport with no scheduled commercial passenger service.\n\nQ: Can private pilots land at KHWV?\nA: Yes, the airport is open to public use and welcomes transient general aviation aircraft, though pilots should check current NOTAMs and field conditions before arrival.\n\nQ: Are there car rental services at the airport?\nA: Rental cars are not typically available on-site; visitors generally arrange ground transportation in advance or use rideshare services.\n\nQ: Is there an on-site restaurant or pilot lounge?\nA: Brookhaven has basic pilot amenities, but food and beverage options may be limited, so visitors should plan accordingly.",
+  "transport_tips": "The airport is most easily reached by car via Montauk Highway (NY Route 80), with free parking available on-site. Rideshare services like Uber and Lyft operate in the area but may have longer wait times due to the suburban location. The Long Island Rail Road's Montauk branch has stations in Shirley and nearby Mastic, but neither is within easy walking distance, so a taxi or rideshare is needed for the final stretch.",
+  "local_tip": "If you're visiting during summer, plan your flights or ground travel for early morning or evening hours—Long Island's south shore traffic near the Hamptons can turn a short drive into a long one, especially on Friday afternoons and weekends.",
+  "generatedAt": "2026-06-27T01:14:37.009Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "WHT",
+    "icao": "KARM",
+    "name": "Wharton Regional Airport",
+    "country": "United States",
+    "city": "Wharton",
+    "lat": 29.2543,
+    "lon": -96.1544,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Wharton Regional Airport (WHT/KARM) is a small general aviation facility serving Wharton, Texas, a city situated roughly 60 miles southwest of Houston in the agricultural heart of the lower Colorado River region. The airport primarily supports private pilots, flight training, and occasional business aircraft visiting the area's energy and ranching industries. Its modest infrastructure and proximity to US-59 make it a convenient stopover for pilots traveling across the Texas Gulf Coast.",
+  "faqs": "Q: What is Wharton Regional Airport primarily used for?\nA: The airport serves general aviation traffic, including private aircraft, flight training, and business flights related to the local energy and agricultural sectors.\n\nQ: Are there commercial airline flights at Wharton Regional Airport?\nA: No, WHT does not offer scheduled commercial service. Travelers needing commercial flights typically use larger airports such as Houston Hobby or George Bush Intercontinental.\n\nQ: Is fuel available at the airport?\nA: Yes, the airport typically offers aviation fuel for general aviation pilots, though it is recommended to confirm availability and operating hours before arrival.\n\nQ: Does the airport have an air traffic control tower?\nA: Wharton Regional operates as a non-towered airport, so pilots use the common traffic advisory frequency (CTAF) to coordinate movements with other aircraft.",
+  "transport_tips": "The airport is located just west of downtown Wharton along State Highway 60, making it an easy drive from anywhere in the city. Rideshare services are limited in Wharton, so arranging a rental car or pre-booked ground transport in advance is recommended. For travelers connecting to commercial flights, Houston-area airports are roughly 1 to 1.5 hours away by car via US-59.",
+  "local_tip": "If you're visiting the area, plan a meal at one of Wharton's classic Texas barbecue joints or check out the local Wharton County Museum, which highlights the region's rich ranching heritage and the history of the Santa Fe Railroad.",
+  "generatedAt": "2026-06-27T05:05:55.707Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "AUO",
+    "icao": "KAUO",
+    "name": "Auburn University Regional Airport",
+    "country": "United States",
+    "city": "Auburn",
+    "lat": 32.6151,
+    "lon": -85.434,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Auburn University Regional Airport (AUO) is a publicly owned, general aviation facility located in Auburn, Alabama, serving the Auburn University community and surrounding Lee County. The airport supports flight training, corporate aviation, and recreational flying, and it plays a key role in supporting the university's aviation programs. It features two asphalt runways and hosts the Auburn University Aviation Center.",
+  "faqs": "Q: How far is the airport from Auburn University campus?\nA: The airport is located about 3 miles east of Auburn University's main campus, making it a quick drive for students and visitors.\n\nQ: Does Auburn University Regional Airport offer commercial flights?\nA: No, AUO is a general aviation airport with no scheduled commercial passenger service.\n\nQ: Are there flight training programs available at AUO?\nA: Yes, the airport supports Auburn University's professional flight and aviation management programs, and it hosts several flight training operations.\n\nQ: What facilities are available at the airport?\nA: The airport features runways, a terminal building, fuel services, aircraft maintenance, and tie-down and hangar space for based aircraft.\n\n",
+  "transport_tips": "Renting a car is the most convenient option for reaching the airport, as there is no public transit directly serving it. Taxis and rideshare services like Uber and Lyft are available from Auburn and Opelika. Visitors coming from the university campus can expect a short 10-15 minute drive depending on traffic.",
+  "local_tip": "If you're visiting during an Auburn University football game day, book ground transportation well in advance as the entire area experiences heavy traffic and rideshare availability drops significantly.",
+  "generatedAt": "2026-06-27T00:07:02.070Z",
+  "model": "MiniMax-M3"
+}

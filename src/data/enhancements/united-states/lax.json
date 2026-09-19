@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LAX",
+    "icao": "KLAX",
+    "name": "Los Angeles International Airport",
+    "country": "United States",
+    "city": "Los Angeles",
+    "lat": 33.9425,
+    "lon": -118.408,
+    "type": "large_airport",
+    "size": 1335475
+  },
+  "summary": "Los Angeles International Airport (LAX) is the primary gateway to the Greater Los Angeles area and consistently ranks among the world's busiest airports by passenger traffic, handling over 80 million travelers annually. Originally opened in 1930 as Mines Field on a dirt-strip airfield, it was renamed Los Angeles International Airport in 1949 and now spans roughly 3,500 acres across the Westchester neighborhood. The airport features nine passenger terminals—including the iconic Tom Bradley International Terminal—and is currently undergoing a multi-billion dollar modernization, including a new Automated People Mover system.",
+  "faqs": "Q: How many terminals does LAX have?\nA: LAX has nine passenger terminals numbered 1 through 8, plus the Tom Bradley International Terminal (TBIT). Terminals are connected by free shuttle buses and, as of 2024, the new Automated People Mover train.\n\nQ: What is the main international terminal at LAX?\nA: The Tom Bradley International Terminal (TBIT) handles most long-haul international flights and features a recently expanded great hall with high-end dining and retail.\n\nQ: How far is LAX from downtown Los Angeles?\nA: LAX is approximately 18 miles (29 km) southwest of downtown Los Angeles, typically a 25-45 minute drive depending on traffic.\n\nQ: Does LAX offer free Wi-Fi?\nA: Yes, LAX provides free Wi-Fi throughout all terminals; connect to the '_LAX Free WiFi' network.",
+  "transport_tips": "The new Automated People Mover (APM) train connects all terminals, the LAX Economy Parking lot, and a new Consolidated Rent-A-Car facility, with stations also connecting to the Metro C Line and future Metro Transit Center. The FlyAway bus operates non-stop service between LAX and several locations including Union Station in",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T14:39:35.548Z",
+  "model": "MiniMax-M3"
+}

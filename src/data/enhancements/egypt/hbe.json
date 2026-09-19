@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "HBE",
+    "icao": "HEAX",
+    "name": "Alexandria International Airport",
+    "country": "Egypt",
+    "city": "Alexandria",
+    "lat": 30.9325,
+    "lon": 29.6964,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "Alexandria International Airport (HBE/HEAX), also known as El Nouzha Airport historically, is located in the Borg El Arab area serving Egypt's second-largest city. It serves as a key gateway to the Mediterranean coast and the historic city of Alexandria, handling both domestic flights and limited international routes. The airport primarily serves charter and scheduled flights connecting Alexandria with other Middle Eastern and European destinations.",
+  "faqs": "Q: How far is Alexandria International Airport from the city center?\nA: The airport is located approximately 7 km southwest of downtown Alexandria, making it relatively convenient for travelers heading to the city.\n\nQ: Does the airport operate international flights?\nA: Yes, Alexandria International Airport handles both domestic and international flights, though it is smaller than Cairo International Airport and serves fewer international routes.\n\nQ: Are there duty-free shops and dining options at the airport?\nA: The airport features a modest selection of duty-free shops, cafes, and basic dining options, though the facilities are more limited compared to larger Egyptian hubs.\n\nQ: Can travelers find car rental services at the airport?\nA: Yes, car rental counters are available in the terminal, and taxis are readily accessible outside the arrivals area.\n\n",
+  "transport_tips": "Taxis and ride-hailing services are the most common ways to reach the airport, with the journey from central Alexandria typically taking 20-30 minutes depending on traffic. Pre-booking a hotel transfer is recommended for late-night arrivals. Public bus options are available but may be less convenient for travelers with luggage.",
+  "local_tip": "If you have a long layover or extended wait, ask airport staff about nearby local restaurants; some small eateries just outside the terminal serve authentic Egyptian street food like koshari and ful medames at a fraction of tourist-area prices.",
+  "generatedAt": "2026-06-28T20:48:07.648Z",
+  "model": "MiniMax-M3"
+}

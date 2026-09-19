@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "PIE",
+    "icao": "KPIE",
+    "name": "St. Petersburg Clearwater International Airport",
+    "country": "United States",
+    "city": "Pinellas Park",
+    "lat": 27.9102,
+    "lon": -82.6874,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "St. Petersburg Clearwater International Airport (PIE) is located in Pinellas Park, Florida, serving the greater Tampa Bay area as a convenient alternative to the busier Tampa International Airport. Originally established as Pinellas Army Air Field during World War II, the airport transitioned to civilian use and now primarily caters to leisure and low-cost carriers. Its prime location on the Pinellas Peninsula puts it within a short drive of Gulf Coast beaches including Clearwater Beach and St. Pete Beach.",
+  "faqs": "Q: How far is PIE from Tampa International Airport?\nA: PIE is approximately 15 miles west of Tampa International Airport, making it a separate facility serving the same metropolitan region.\n\nQ: Which airlines operate from St. Petersburg Clearwater International Airport?\nA: Allegiant Air is the dominant carrier, offering numerous nonstop routes primarily to leisure destinations across the United States.\n\nQ: Does PIE offer international flights?\nA: The airport occasionally handles limited international charter and seasonal flights, but the vast majority of service is domestic.\n\nQ: How long does it take to get to Clearwater Beach from PIE?\nA: Clearwater Beach is roughly 12 miles from the airport, typically a 20-30 minute drive depending on traffic.",
+  "transport_tips": "Rental cars are the most convenient option at PIE, with all major agencies represented on-site and short walk to the terminal. Ride-sharing services like Uber and Lyft are available at designated pickup zones outside the terminal. The Pinellas Suncoast Transit Authority (PSTA) operates Route 52, providing bus service connecting the airport to surrounding areas, though a car is recommended for most travelers.",
+  "local_tip": "If you're visiting the Gulf beaches, head to Indian Rocks Beach or Bellair Beach instead of the more crowded Clearwater Beach—they're closer to the airport, easier to access, and have a more relaxed local feel with excellent restaurants and less traffic.",
+  "generatedAt": "2026-06-28T18:29:42.102Z",
+  "model": "MiniMax-M3"
+}

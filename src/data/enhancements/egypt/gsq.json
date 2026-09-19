@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "GSQ",
+    "icao": "HEOW",
+    "name": "El Owainat East International Airport",
+    "country": "Egypt",
+    "city": "Sharq El Owainat",
+    "lat": 22.5843,
+    "lon": 28.7216,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "El Owainat East International Airport (GSQ/HEOW) serves Sharq El Owainat, a remote agricultural oasis deep in Egypt's Western Desert near the borders with Libya and Sudan. The airport primarily supports the large-scale East Oweinat agricultural development scheme, one of Egypt's most ambitious land reclamation projects in the arid southwest. Despite its international designation, it functions as a small regional airfield handling limited commercial and charter traffic.",
+  "faqs": "Q: How far is the airport from Sharq El Owainat town?\nA: The airport is located just a few kilometers east of the town center, making for a short transfer by taxi or arranged vehicle.\n\nQ: Are there regular scheduled flights to El Owainat?\nA: Scheduled service is very limited due to the remote location; most flights are charter or on-demand, often connected to agricultural or oil operations.\n\nQ: Is there a terminal building with standard amenities?\nA: Facilities are minimal, typical of a small desert airfield, with basic check-in and waiting areas but limited services.\n\nQ: What is the main reason people fly into El Owainat?\nA: Travelers are predominantly workers, contractors, and visitors associated with the East Oweinat agricultural project and nearby oil exploration activities.",
+  "transport_tips": "Arrange ground transport in advance through your hotel or the sponsoring organization, as taxi availability at the terminal is unpredictable. The road connecting the airport to the town and surrounding agricultural zones is paved but long distances mean fuel stops are essential. Rental cars are scarce; most visitors rely on pre-booked transfers or company-arranged vehicles.",
+  "local_tip": "Carry extra water and sun protection even for the short airport transfer—the area experiences extreme desert heat, especially from May through September, and shade along the route is minimal.",
+  "generatedAt": "2026-06-27T10:32:08.076Z",
+  "model": "MiniMax-M3"
+}

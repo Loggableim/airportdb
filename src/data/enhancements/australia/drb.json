@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "DRB",
+    "icao": "YDBY",
+    "name": "Derby Airport",
+    "country": "Australia",
+    "city": "Derby",
+    "lat": -17.3719,
+    "lon": 123.6622,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Derby Airport (DRB/YDBY) serves the remote coastal town of Derby in Western Australia's Kimberley region, one of the oldest European settlements in the far north of the state. It acts as a key gateway for travelers heading to the iconic Horizontal Falls, King Sound, and the rugged wilderness of the Dampier Peninsula. The airport handles a mix of regular passenger services and charter flights supporting the region's tourism and resource industries.",
+  "faqs": "Q: What is Derby Airport mainly used for?\nA: Derby Airport primarily serves tourism to the Kimberley region, including access to Horizontal Falls and the Dampier Peninsula, along with charter flights supporting local industries.\n\nQ: Are there regular commercial flights to Derby Airport?\nA: Yes, regional airlines operate scheduled passenger services connecting Derby with Perth and other Kimberley towns such as Broome.\n\nQ: How far is Derby Airport from the town centre?\nA: The airport is located a short drive from Derby's town centre, making ground transfers quick and convenient.\n\nQ: Can I fly directly to Derby from international destinations?\nA: No, there are no direct international flights; travelers typically connect through Perth or other Australian hubs.",
+  "transport_tips": "Car rental is available at the airport and is the most convenient way to explore Derby and surrounding attractions. Taxi and shuttle services operate to the town, though booking in advance is recommended given limited availability. Visitors heading to the Horizontal Falls typically arrange boat tours and seaplane transfers through tour operators in Derby.",
+  "local_tip": "Time your visit around the king tides (typically between March and October) for the most spectacular Horizontal Falls experiences, and book Horizontal Falls seaplane tours well in advance as they fill up quickly during peak season.",
+  "generatedAt": "2026-06-26T10:14:49.719Z",
+  "model": "MiniMax-M3"
+}

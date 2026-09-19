@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MLN",
+    "icao": "GEML",
+    "name": "Melilla Airport",
+    "country": "Spain",
+    "city": "Melilla",
+    "lat": 35.2798,
+    "lon": -2.9563,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Melilla Airport (MLN) is a medium-sized regional airport serving the Spanish autonomous city of Melilla, a small enclave located on the northwest coast of Africa bordered by Morocco. The airport functions as a critical transportation lifeline, connecting this unique Spanish territory to mainland Spain and the rest of Europe, as there are no direct road or rail links across the border. Its strategic location makes it essential for residents, military personnel, and visitors exploring the culturally rich fusion of Spanish and North African heritage.",
+  "faqs": "Q: Where is Melilla Airport located?\nA: Melilla Airport is located in the Spanish autonomous city of Melilla on the north African coast, bordered by Morocco and facing the Mediterranean Sea.\n\nQ: What airlines operate from Melilla Airport?\nA: The airport is primarily served by regional carriers operating flights to mainland Spanish cities such as Madrid, Barcelona, Málaga, Granada, Seville, and Almería.\n\nQ: How far is the airport from Melilla city center?\nA: The airport is situated just a few kilometers southwest of the city center, making it a quick drive of approximately 10-15 minutes.\n\nQ: Is Melilla Airport used for military purposes?\nA: Yes, the airport has a military component as Melilla is a strategically important Spanish enclave, and the facilities support both civilian and military aviation operations.\n\n",
+  "transport_tips": "The most convenient way to reach Melilla Airport is by taxi, which is readily available and relatively inexpensive given the short distance from the city center. There is no direct public bus service dedicated to the airport, so travelers may need to arrange ground transport in advance. Renting a car is also an option, though visitors should note that their rental will be limited to the small territory as crossing into Morocco by car from Melilla is restricted.",
+  "local_tip": "Pack a light jacket even in summer; the coastal location and proximity to Africa create a unique microclimate where temperatures can drop significantly in the evenings due to strong Mediterranean breezes, especially on the airport's open-air walkways.",
+  "generatedAt": "2026-06-29T08:25:54.958Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LDA",
+    "icao": "VEMH",
+    "name": "Malda Airport",
+    "country": "India",
+    "city": "Malda",
+    "lat": 25.0102,
+    "lon": 88.1269,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Malda Airport (LDA/VEMH) is a small domestic airfield serving the historic city of Malda (also known as English Bazar) in the Indian state of West Bengal. Situated near the confluence of the Mahananda and Ganges rivers, the airport primarily handles limited regional traffic and has historically supported small aircraft operations. The facility serves as an important aviation link for this culturally rich region known for its mango production and Mughal-era heritage.",
+  "faqs": "Q: Does Malda Airport have scheduled commercial flights?\nA: Malda Airport has historically had very limited or no regular scheduled commercial service, functioning mostly as a general aviation and small aircraft facility.\n\nQ: What is the nearest major airport to Malda?\nA: The nearest major airport with regular commercial service is Bagdogra Airport (IXB), located approximately 250 km away near Siliguri.\n\nQ: What facilities are available at Malda Airport?\nA: As a small airfield, the airport offers basic terminal facilities and is primarily suited for small aircraft operations rather than large commercial jets.\n\nQ: Which airline operates at Malda Airport?\nA: Scheduled commercial operations have been minimal, though regional carriers have occasionally served the airport under government connectivity schemes.",
+  "transport_tips": "Travelers heading to Malda can reach the airport by taxi or auto-rickshaw from the city center, which is approximately 5-8 km away. Pre-arranging transportation is advisable as taxi availability at the airport can be limited given its small size. For more reliable connections, many travelers opt to fly into Bagdogra and take a train or bus to Malda.",
+  "local_tip": "Visit during mango season (May-July) when Malda, famous across India for its premium Fazli and Himsagar mango varieties, transforms into a vibrant fruit market—the region's most celebrated local experience.",
+  "generatedAt": "2026-06-27T13:25:37.190Z",
+  "model": "MiniMax-M3"
+}

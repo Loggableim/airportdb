@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MFE",
+    "icao": "KMFE",
+    "name": "McAllen Miller International Airport",
+    "country": "United States",
+    "city": "McAllen",
+    "lat": 26.1761,
+    "lon": -98.238,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "McAllen Miller International Airport (MFE) serves the Rio Grande Valley of South Texas, providing a convenient gateway to a bi-national metropolitan area that includes McAllen, Edinburg, and Mission, as well as the Mexican city of Reynosa just across the border. The airport is named after a local aviation advocate and has grown into a regional hub supporting cross-border commerce, medical tourism, and leisure travel. Its strategic position near the U.S.-Mexico border makes it one of the few U.S. airports where international connectivity to Mexico is a defining feature.",
+  "faqs": "Q: Where is McAllen Miller International Airport located?\nA: The airport sits in McAllen, Texas, in the southern tip of the state within the Rio Grande Valley, roughly 7 miles northwest of the U.S.-Mexico border at Reynosa.\n\nQ: Which airlines operate from MFE?\nA: MFE is served by several major carriers including American Airlines, United Airlines, and Allegiant, offering nonstop flights to destinations across the U.S. and seasonal service to Mexico.\n\nQ: Does the airport offer international flights?\nA: Yes, MFE has a U.S. Customs and Border Protection facility that processes arriving international flights, particularly from Mexico.\n\nQ: How far is the airport from downtown McAllen?\nA: Downtown McAllen is approximately 3 miles southeast of the airport, a short drive of about 10 minutes.\n\n",
+  "transport_tips": "Rental cars are the most popular way to get around the Rio Grande Valley and are available from onsite counters. Local taxi services, Uber, and Lyft operate in the area, though waits can be longer than in larger cities. If heading to Reynosa, Mexico, the Anzaldúas or Hidalgo international bridges are within a 15-minute drive of the terminal.",
+  "local_tip": "If you have a long layover",
+  "generatedAt": "2026-06-29T03:02:28.597Z",
+  "model": "MiniMax-M3"
+}

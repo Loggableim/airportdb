@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "TNM",
+    "icao": "SCRM",
+    "name": "Teniente Rodolfo Marsh Martin Airport",
+    "country": "Antarctica",
+    "city": "Villa Las Estrellas",
+    "lat": -62.191,
+    "lon": -58.9867,
+    "type": "small_airport",
+    "size": 125
+  },
+  "summary": "Teniente Rodolfo Marsh Martin Airport (TNM/SCRM) is a small Chilean Air Force airfield on King George Island, serving the Villa Las Estrellas research settlement and nearby Antarctic stations. Named after a Chilean pilot, it operates as one of the southernmost airports with scheduled commercial service, primarily connecting Antarctica to Punta Arenas. The gravel runway handles specialized ski-equipped and wheeled aircraft in extreme polar conditions.",
+  "faqs": "Q: How do you get to Teniente Rodolfo Marsh Martin Airport?\nA: The airport is primarily accessed via charter or scheduled flights from Punta Arenas, Chile, operated by carriers such as Aerovías DAP. The flight takes roughly 4 hours over the Drake Passage and Antarctic Peninsula.\n\nQ: What is the airport used for?\nA: It supports Villa Las Estrellas, a permanent Chilean research base, and provides logistical access for multiple international Antarctic stations in the King George Island area, including personnel rotation and cargo supply.\n\nQ: When can you fly to this airport?\nA: Antarctic flights operate during the austral summer season, roughly November through March, when weather conditions are most favorable. Winter operations are extremely limited.\n\nQ: What kind of aircraft use this airport?\nA: The gravel runway accommodates de Havilland Canada Dash-7 and similar STOL aircraft capable of operating on rough, unpaved surfaces in harsh polar weather.",
+  "transport_tips": "There are no roads connecting the airport to other locations; all ground transport is coordinated through national Antarctic program vehicles. Travelers must be part of an organized expedition, research program, or authorized tour to board flights. Plan for flexible scheduling, as weather delays of several days are common.",
+  "local_tip": "Bring all required cold-weather gear in your carry-on, as luggage is sometimes delayed or unloaded to balance aircraft weight on the unpredictable gravel runway.",
+  "generatedAt": "2026-06-26T19:24:31.782Z",
+  "model": "MiniMax-M3"
+}

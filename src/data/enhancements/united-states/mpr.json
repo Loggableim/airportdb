@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MPR",
+    "icao": "KMPR",
+    "name": "Mc Pherson Airport",
+    "country": "United States",
+    "city": "Mc Pherson",
+    "lat": 38.3524,
+    "lon": -97.6913,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "McPherson Airport (MPR) is a small general aviation facility serving the city of McPherson in central Kansas. The airport supports private pilots, flight training, and occasional business aviation traffic, providing convenient access to the McPherson County region. It operates as a non-towered field with straightforward runway access for light aircraft.",
+  "faqs": "Q: Does McPherson Airport have commercial airline service?\nA: No, McPherson Airport is a general aviation facility with no scheduled commercial flights. Travelers would typically fly into larger regional airports in Kansas for commercial service.\n\nQ: Is there an air traffic control tower at MPR?\nA: No, McPherson Airport is a non-towered field. Pilots use the common CTAF frequency to announce their position and intentions.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic general aviation amenities including a paved runway, tie-down areas, and likely fuel services for transient pilots, though visitors should confirm current availability before arrival.\n\nQ: Can I get flight training at McPherson Airport?\nA: Small community airports like MPR often support local flight training operations, but specific availability should be verified with on-site operators or the city.",
+  "transport_tips": "The airport is located just a short drive from downtown McPherson, making ground transportation relatively simple. Renting a car from nearby Wichita or Salina is often the most practical option for visitors, as on-site rental services are unlikely. Having a personal vehicle or arranging a ride in advance is recommended since taxi and rideshare availability is limited in this small Kansas community.",
+  "local_tip": "If you're flying in for a visit to McPherson College or Central Christian College, consider timing your arrival during daylight hours—the flat Kansas terrain and single runway make for an easy approach, but winds can pick up in the late afternoon during spring and summer months.",
+  "generatedAt": "2026-06-27T04:49:10.732Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "LGZ",
+    "icao": "ZUSH",
+    "name": "Shannan Longzi Airport",
+    "country": "China",
+    "city": "Shannan",
+    "lat": 28.4224,
+    "lon": 92.3481,
+    "type": "small_airport",
+    "size": 100
+  },
+  "summary": "Shannan Longzi Airport is a small regional airport serving Shannan Prefecture in the Tibet Autonomous Region of southwestern China. It provides important connectivity for travelers visiting this high-altitude area of the Tibetan plateau, known for its dramatic Himalayan scenery and rich Tibetan Buddhist cultural heritage. The airport supports tourism and local transportation in a region where overland travel can be long and challenging.",
+  "faqs": "Q: What is the elevation of Shannan Longzi Airport?\nA: The airport sits at a high altitude on the Tibetan plateau, which may affect travelers unaccustomed to thin air. Passengers should take altitude-related precautions.\n\nQ: Are there flights to Lhasa from Shannan Longzi Airport?\nA: The airport primarily offers regional domestic flights within China, with connections to major Chinese cities. Lhasa Gonggar Airport is also accessible in the broader Tibet region.\n\nQ: When is the best time to fly to this airport?\nA: Spring and autumn offer the most stable weather conditions. Winter flights can be affected by snow and extreme cold at high altitude.\n\nQ: Is the airport equipped for international flights?\nA: No, Shannan Longzi Airport handles domestic flights only.",
+  "transport_tips": "Ground transportation from the airport is typically limited to taxis and pre-arranged hotel shuttles, so booking transfers in advance is recommended. The airport is connected to Longzi County and surrounding towns via regional roads that may require extra travel time due to mountainous terrain. Travelers heading to Lhasa should plan for a significant overland journey of several hours or arrange connecting flights.",
+  "local_tip": "Pack a warm layer even in summer—temperatures at this elevation can drop sharply after sunset, and the airport terminal may not be heated as warmly as lowland facilities.",
+  "generatedAt": "2026-06-26T23:10:45.950Z",
+  "model": "MiniMax-M3"
+}

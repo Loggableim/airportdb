@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BOS",
+    "icao": "KBOS",
+    "name": "Boston Logan International Airport",
+    "country": "United States",
+    "city": "Boston",
+    "lat": 42.362,
+    "lon": -71.0079,
+    "type": "large_airport",
+    "size": 1035875
+  },
+  "summary": "Boston Logan International Airport (BOS) is the largest airport in New England and the primary gateway to the Boston metropolitan area, located on a peninsula in East Boston overlooking Boston Harbor. Originally built in the 1920s on landfill in the harbor, it has grown into one of the busiest airports in the United States, serving as a major hub for Delta Air Lines and a focus city for JetBlue. Its proximity to downtown Boston—just across the harbor—makes it one of the most conveniently located major U.S. airports.",
+  "faqs": "Q: How far is Boston Logan Airport from downtown Boston?\nA: Logan is approximately 3 miles (5 km) from downtown Boston, across Boston Harbor. By car or taxi, the trip typically takes 15-30 minutes depending on traffic.\n\nQ: How many terminals does Boston Logan have?\nA: Logan has four passenger terminals: A, B, C, and E. Terminal E handles most international flights, while Terminal A serves domestic flights primarily for Delta and its partners.\n\nQ: Is there public transportation to Boston Logan?\nA: Yes. The MBTA Silver Line bus provides free service between all Logan terminals and South Station in downtown Boston. The Blue Line subway is accessible via a free shuttle bus from the airport.\n\nQ: Are Boston Logan's terminals connected?\nA: Yes, the terminals are connected by free shuttle buses and by pedestrian walkways and moving walkways that allow travelers to walk between Terminals A, B, C, and E.",
+  "transport_tips": "The free MBTA Silver Line SL1 bus is often the fastest and cheapest option to downtown Boston, running 24/7 and connecting directly to South Station with connections to the Red Line subway. Rideshare services like Uber and",
+  "local_tip": "",
+  "generatedAt": "2026-06-28T14:44:36.597Z",
+  "model": "MiniMax-M3"
+}

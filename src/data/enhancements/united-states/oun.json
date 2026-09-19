@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "OUN",
+    "icao": "KOUN",
+    "name": "University of Oklahoma Westheimer Airport",
+    "country": "United States",
+    "city": "Norman",
+    "lat": 35.2456,
+    "lon": -97.4721,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "University of Oklahoma Westheimer Airport is a small general aviation airport located in Norman, Oklahoma, primarily serving the University of Oklahoma's aviation science program and the surrounding community. The airport has a long history tied to the university, supporting flight training, research, and private aviation operations. It features runways suitable for small to mid-sized aircraft and serves as an important training hub for student pilots.",
+  "faqs": "Q: Who primarily uses Westheimer Airport?\nA: The airport mainly serves the University of Oklahoma's aviation students, faculty, and private general aviation pilots, along with occasional charter and business flights.\n\nQ: Does the airport offer commercial airline service?\nA: No, Westheimer Airport is a general aviation facility and does not offer scheduled commercial passenger service.\n\nQ: Is flight training available at OUN?\nA: Yes, the airport is closely tied to the University of Oklahoma's Aviation Science program, which provides flight training for students pursuing aviation degrees.\n\nQ: How many runways does the airport have?\nA: The airport has two asphalt runways that accommodate single-engine and twin-engine aircraft typical of general aviation operations.\n\n",
+  "transport_tips": "The airport is conveniently located within Norman, just a short drive from the University of Oklahoma campus and downtown Norman. Ground transportation options include rental cars, rideshare services, and taxi arrangements, as there is no scheduled public transit directly serving the airport. Visitors traveling from Oklahoma City can reach the airport in approximately 25-30 minutes via I-35 South.",
+  "local_tip": "If you're visiting for university-related business, consider scheduling your arrival during weekday business hours, as the airport's Fixed-Base Operator and flight school staff are most readily available then to assist with parking, fueling, or ramp access.",
+  "generatedAt": "2026-06-27T00:22:59.122Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ELG",
+    "icao": "DAUE",
+    "name": "El Golea Airport",
+    "country": "Algeria",
+    "city": "El Menia",
+    "lat": 30.5807,
+    "lon": 2.8616,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "El Golea Airport serves the oasis city of El Menia in central Algeria, providing a vital air link for communities scattered across the northern Sahara. The airport connects this remote desert region to major Algerian hubs such as Algiers, supporting both passenger travel and limited cargo operations. Its location near ancient trans-Saharan trade routes makes it a gateway for visitors exploring the M'zab Valley and surrounding desert landscapes.",
+  "faqs": "Q: Which airlines operate from El Golea Airport?\nA: Air Algeria is the primary carrier offering scheduled domestic flights connecting El Golea to Algiers and other major Algerian cities.\n\nQ: How far is the airport from El Menia city center?\nA: The airport is located just a few kilometers from central El Menia, making for a short drive into town.\n\nQ: Does El Golea Airport have international flights?\nA: The airport primarily handles domestic routes, with international connections typically requiring a transfer through Algiers.\n\nQ: What facilities are available at the terminal?\nA: As a medium-sized regional airport, it offers basic passenger services including a waiting area, check-in counters, and car rental options.",
+  "transport_tips": "Taxis are the most common way to reach El Menia from the airport, with services usually available outside the terminal upon flight arrivals. Renting a car is advisable for travelers planning to explore the surrounding desert regions, though advance booking is recommended. Road connections to El Menia are well-maintained, but long-distance ground travel can be slow due to the vast desert distances between towns.",
+  "local_tip": "Carry plenty of water and sun protection even for short waits outside the terminal, as summer temperatures in this part of the Sahara frequently exceed 40°C (104°F).",
+  "generatedAt": "2026-06-29T11:34:21.586Z",
+  "model": "MiniMax-M3"
+}

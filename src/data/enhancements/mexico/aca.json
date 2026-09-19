@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ACA",
+    "icao": "MMAA",
+    "name": "General Juan N. Álvarez International Airport",
+    "country": "Mexico",
+    "city": "Acapulco",
+    "lat": 16.7571,
+    "lon": -99.7531,
+    "type": "large_airport",
+    "size": 1000
+  },
+  "summary": "General Juan N. Álvarez International Airport (ACA) is the main gateway to Acapulco, one of Mexico's most iconic Pacific coast resort destinations. Named after a 19th-century Mexican general and former president, the airport sits on the western edge of the city, providing convenient access to Acapulco's famous beaches and nightlife. It serves as a key hub for both domestic tourism and seasonal international charter flights.",
+  "faqs": "Q: How far is the airport from Acapulco's hotel zone?\nA: The airport is located approximately 15-20 km (10-12 miles) from the main hotel zone and Costera boulevard, with typical transfer times of 25-40 minutes depending on traffic.\n\nQ: What airlines operate at ACA?\nA: The airport is served primarily by Mexican carriers including Aeroméxico, Viva Aerobus, and Volaris, offering domestic routes to Mexico City, Monterrey, and Tijuana, plus select international destinations.\n\nQ: Does the airport have international flights?\nA: Yes, ACA handles some international flights and charter services, particularly from the United States and Canada, though domestic flights make up the majority of operations.\n\nQ: Are there customs and immigration facilities?\nA: Yes, the airport has customs and immigration services for international arrivals.",
+  "transport_tips": "Authorized taxis and pre-booked shuttle services are available at the terminal and offer fixed rates to the hotel zone, typically more reliable than hailing street cabs outside. Rental car agencies operate at the airport if you plan to explore the surrounding Guerrero coast independently. For budget travelers, colectivo (shared) vans run along main routes into the city at a fraction of taxi prices.",
+  "local_tip": "Pack a light layer in your carry-on even for tropical trips—Acapulco's humidity and occasional tropical showers mean the walk from the terminal to ground transportation can be unexpectedly wet, and the airport's open-air design lets in warm, humid air quickly.",
+  "generatedAt": "2026-06-28T19:38:45.110Z",
+  "model": "MiniMax-M3"
+}

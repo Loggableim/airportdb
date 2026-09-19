@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "RAN",
+    "icao": "LIDR",
+    "name": "Ravenna Airport",
+    "country": "Italy",
+    "city": "Ravenna (RA)",
+    "lat": 44.3643,
+    "lon": 12.225,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Ravenna Airport is a small regional airfield located in the Emilia-Romagna region of northeastern Italy, serving the historic city of Ravenna. Originally developed as a military aerodrome during the World Wars, it now primarily handles general aviation, flight training, and occasional charter operations. Its location near the Adriatic coast makes it a convenient gateway for visitors exploring Ravenna's renowned UNESCO-listed Byzantine mosaics.",
+  "faqs": "Q: Does Ravenna Airport offer scheduled commercial flights?\nA: No, Ravenna Airport primarily handles general aviation, private flights, and flight training. Travelers typically use nearby Bologna or Forlì airports for scheduled commercial service.\n\nQ: How far is the airport from Ravenna city center?\nA: The airport is located approximately 10 km southwest of Ravenna's historic center, with a drive time of roughly 15-20 minutes.\n\nQ: What facilities are available at the airport?\nA: The airport offers basic facilities including a small terminal, fueling services, and aircraft parking. There are limited amenities for passengers.\n\nQ: Can I rent a car at Ravenna Airport?\nA: Car rental services are limited; visitors are generally advised to arrange ground transportation in advance or use taxi services from the airfield.",
+  "transport_tips": "Taxis and pre-booked private transfers are the most reliable way to reach Ravenna city center from the airport, as public bus connections are infrequent. Having local contact numbers for taxi companies in advance is recommended, especially for departures outside standard hours. If renting a vehicle, booking ahead through providers in nearby cities ensures better availability.",
+  "local_tip": "Time your visit to coincide with the Ravenna Festival in June and July, when the city hosts world-class opera, ballet, and classical music performances in stunning historic venues.",
+  "generatedAt": "2026-06-26T15:22:23.506Z",
+  "model": "MiniMax-M3"
+}

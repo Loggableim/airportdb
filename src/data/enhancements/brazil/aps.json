@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "APS",
+    "icao": "SWNS",
+    "name": "Anápolis Airport",
+    "country": "Brazil",
+    "city": "Anápolis",
+    "lat": -16.3636,
+    "lon": -48.9288,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Anápolis Airport (APS/SWNS) is a small regional airport serving the city of Anápolis in the central Brazilian state of Goiás. The airport primarily supports general aviation, private flights, and limited regional operations, given its modest infrastructure. Anápolis itself is a major industrial and logistics hub in central Brazil, located between Brasília and Goiânia, making the airport a convenient option for business travelers visiting the region.",
+  "faqs": "Q: What is the IATA code for Anápolis Airport?\nA: The IATA code is APS, and its ICAO code is SWNS.\n\nQ: How far is Anápolis Airport from the city center?\nA: The airport is located within the city of Anápolis, offering relatively short transfer times to most destinations in the urban area.\n\nQ: Does Anápolis Airport offer commercial passenger flights?\nA: As a small regional facility, it primarily handles general aviation and private flights rather than scheduled commercial service.\n\nQ: Which major cities are near Anápolis Airport?\nA: Anápolis is situated roughly between Brasília (about 130 km north) and Goiânia (about 50 km south), both of which have larger commercial airports.\n\n",
+  "transport_tips": "Ground transportation options are limited, so arranging a private car or taxi in advance is recommended, as rideshare services may have limited availability in the area. Renting a car locally can be a practical option given Anápolis's role as a logistics hub. Travelers flying in on private or charter flights should confirm pickup arrangements before arrival.",
+  "local_tip": "If you need to connect to major commercial flights, consider flying into Brasília International Airport instead and driving south to Anápolis — the highway connection is straightforward and the drive takes roughly 1.5 hours.",
+  "generatedAt": "2026-06-27T06:32:42.343Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "YOO",
+    "icao": "CYOO",
+    "name": "Oshawa Executive Airport",
+    "country": "Canada",
+    "city": "Oshawa",
+    "lat": 43.9228,
+    "lon": -78.895,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Oshawa Executive Airport (YOO/CYOO) is a general aviation facility serving the eastern Greater Toronto Area, situated just south of the city of Oshawa near Lake Ontario. The airfield traces its origins to World War II, when it operated as a Royal Canadian Air Force training base. Today it supports flight training, recreational flying, corporate aircraft, and hosts a branch of the Canadian Aviation Museum.",
+  "faqs": "Q: What types of flights operate from Oshawa Executive Airport?\nA: The airport handles general aviation activity including flight training, private and recreational flying, and corporate aircraft. There are no scheduled commercial passenger services.\n\nQ: How far is the airport from downtown Oshawa?\nA: The airfield is located just south of central Oshawa, roughly a 10-minute drive from the downtown core.\n\nQ: Does the airport have a control tower?\nA: Air traffic services are provided by a Flight Service Station that operates during published hours, with controlled airspace surrounding the field.\n\nQ: What runway facilities are available?\nA: The airport features two paved runways, with the main runway suitable for a range of single and twin-engine aircraft as well as small business jets.",
+  "transport_tips": "Visitors typically reach the airport by car via Highway 401 and local arterial roads, with a short drive south from the city centre. There is no scheduled public transit directly to the terminal area, so arranging a taxi or rideshare in advance is recommended. Free on-site parking is generally available for those picking up or dropping off passengers.",
+  "local_tip": "If you visit, ask about the on-site Canadian Aviation Museum branch, which displays vintage aircraft and memorabilia from the airport's wartime training era.",
+  "generatedAt": "2026-06-30T04:47:32.628Z",
+  "model": "MiniMax-M3"
+}

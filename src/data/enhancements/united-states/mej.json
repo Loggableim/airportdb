@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "MEJ",
+    "icao": "KGKJ",
+    "name": "Port Meadville Airport",
+    "country": "United States",
+    "city": "Meadville",
+    "lat": 41.6265,
+    "lon": -80.2147,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "Port Meadville Airport is a small general aviation facility serving Meadville in Crawford County, northwestern Pennsylvania. The airport primarily supports private, corporate, and flight training operations for the surrounding region. It features a single asphalt runway and offers FBO services for transient pilots visiting the area.",
+  "faqs": "Q: What type of airport is Port Meadville?\nA: It is a small general aviation airport with no scheduled commercial airline service.\n\nQ: How far is the airport from downtown Meadville?\nA: The airport is located approximately 3 miles southwest of Meadville's city center.\n\nQ: Does the airport have an FBO?\nA: Yes, there is a fixed-base operator on site providing fuel, hangar space, and basic pilot services.\n\nQ: Are there flight training opportunities available?\nA: The airport supports general aviation activity including flight training and aircraft rental through local operators.",
+  "transport_tips": "Ground transportation is typically arranged through rental cars or pre-arranged pickup, as the airport does not have scheduled public transit service. Having a personal vehicle or coordinating with a local operator is recommended for arriving pilots and passengers. Taxi services in Meadville should be booked in advance since rideshare availability can be limited in this rural area.",
+  "local_tip": "If you're visiting the area, consider timing your trip to explore downtown Meadville's historic district or take a short drive to Conneaut Lake, one of Pennsylvania's largest natural lakes, located about 15 minutes from the airport.",
+  "generatedAt": "2026-06-27T04:28:43.534Z",
+  "model": "MiniMax-M3"
+}

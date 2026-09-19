@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "IGA",
+    "icao": "MYIG",
+    "name": "Inagua Airport",
+    "country": "Bahamas",
+    "city": "Matthew Town",
+    "lat": 20.975,
+    "lon": -73.6669,
+    "type": "medium_airport",
+    "size": 750
+  },
+  "summary": "Inagua Airport serves Great Inagua, the southernmost and third-largest island of the Bahamas, with its terminal located near Matthew Town. The island is world-famous for its salt industry, home to the Morton Salt operation and one of the largest flamingo populations in the Western Hemisphere at the nearby Inagua National Park. The airport provides an essential air link to the capital Nassau for residents and visitors exploring this remote and ecologically significant destination.",
+  "faqs": "Q: How far is Inagua Airport from Matthew Town?\nA: The airport is located just a short drive from Matthew Town, the island's main settlement, typically taking only a few minutes by car.\n\nQ: Are there regular flights to Inagua Airport?\nA: Yes, Bahamasair operates scheduled flights connecting Inagua to Nassau, though service is limited and weather-dependent.\n\nQ: What is the best time to visit Great Inagua?\nA: The cooler and drier months from November to April are generally most comfortable, and this period also offers excellent birdwatching for flamingos.\n\nQ: Is car rental available at the airport?\nA: Rental options are limited on the island; many visitors arrange transportation in advance through their accommodation provider.",
+  "transport_tips": "Taxis are the most common way to reach Matthew Town from the airport, and it's advisable to arrange a pickup with your hotel in advance. The island has limited road infrastructure, so renting a vehicle locally provides flexibility for exploring salt ponds and flamingo habitats. Ferry service from the Turks and Caicos is occasionally available for those arriving by sea.",
+  "local_tip": "Visit the Morton Salt loading dock at sunset to see the iconic white salt mountains glow pink, and ask locals about guided flamingo viewing tours through Inagua National Park for an unforgettable wildlife experience.",
+  "generatedAt": "2026-06-29T09:21:42.560Z",
+  "model": "MiniMax-M3"
+}

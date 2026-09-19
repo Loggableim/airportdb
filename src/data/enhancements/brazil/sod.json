@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "SOD",
+    "icao": "SDCO",
+    "name": "Sorocaba Airport",
+    "country": "Brazil",
+    "city": "Sorocaba",
+    "lat": -23.478,
+    "lon": -47.49,
+    "type": "small_airport",
+    "size": 150
+  },
+  "summary": "Sorocaba Airport (SOD/SDCO) is a small regional airport serving the industrial city of Sorocaba in the state of São Paulo, Brazil. Located approximately 10 km from the city center, it primarily handles general aviation, executive flights, and air taxi services rather than scheduled commercial operations. The facility supports the city's strong industrial and business sectors, which include automotive, metallurgy, and manufacturing companies that frequently rely on private aviation.",
+  "faqs": "Q: Does Sorocaba Airport have scheduled commercial flights?\nA: No, SOD is primarily used for general aviation, executive, and private flights rather than scheduled commercial service.\n\nQ: How far is the airport from Sorocaba city center?\nA: The airport is located approximately 10 km from downtown Sorocaba, typically a 20-30 minute drive depending on traffic.\n\nQ: What facilities are available at Sorocaba Airport?\nA: The airport features a terminal building, runway, and basic services for private aviation including fueling and hangar facilities, though amenities are limited compared to larger commercial airports.\n\nQ: Which major city is closest to Sorocaba Airport?\nA: São Paulo is the nearest major metropolitan area, located roughly 90 km to the east, with Viracopos International Airport and Guarulhos International Airport serving as the main commercial gateways.",
+  "transport_tips": "The most convenient way to reach the airport is by car or taxi from Sorocaba city center, as there is no direct public transit connection. Ride-hailing apps like Uber and 99 operate in the area and provide reliable service to and from the airport. For travelers heading to São Paulo or Campinas, ground transportation typically takes 1.5 to 2 hours by car depending on traffic conditions.",
+  "local_tip": "If you need a quick meal near the airport before or after your flight, head into Sorocaba's historic center to try a traditional pastel from a local padaria — the city has a strong Portuguese culinary heritage and some of the best street food in the interior of São Paulo state.",
+  "generatedAt": "2026-06-26T14:19:35.817Z",
+  "model": "MiniMax-M3"
+}

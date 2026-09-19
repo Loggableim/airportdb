@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "ATL",
+    "icao": "KATL",
+    "name": "Hartsfield Jackson Atlanta International Airport",
+    "country": "United States",
+    "city": "Atlanta",
+    "lat": 33.6367,
+    "lon": -84.4281,
+    "type": "large_airport",
+    "size": 2002475
+  },
+  "summary": "Hartsfield-Jackson Atlanta International Airport (ATL) is the primary airport serving Atlanta, Georgia, and one of the busiest passenger airports in the world, consistently ranking among the top by total traffic. Originally opened in 1925 as Candler Field, it was renamed to honor Atlanta mayors William B. Hartsfield and Maynard Jackson. The airport serves as the largest hub for Delta Air Lines and features a distinctive underground people mover, the Plane Train, connecting all concourses.",
+  "faqs": "Q: How far is ATL from downtown Atlanta?\nA: The airport is located approximately 8 miles (13 km) south of downtown Atlanta, typically a 15-30 minute drive depending on traffic.\n\nQ: What airlines use ATL as a major hub?\nA: Delta Air Lines operates its largest hub at ATL, and the airport also serves as a focus city for Southwest, Frontier, and Spirit Airlines.\n\nQ: How many terminals does ATL have?\nA: ATL has two main terminals: the Domestic Terminal (with concourses T, A, B, C, D, E, F) and the Maynard H. Jackson Jr. International Terminal (Concourse F). All are connected by the Plane Train people mover.\n\nQ: Does ATL offer free Wi-Fi?\nA: Yes, ATL provides complimentary Wi-Fi throughout all terminals and concourses for passengers.\n\n",
+  "transport_tips": "The MARTA rapid transit system's Gold and Red lines provide direct service between ATL and downtown Atlanta, with the Airport Station located inside the Domestic Terminal. Rideshare services and taxis are available at designated Ground Transportation areas on the lower level. For those driving, allow extra time as I-75, I-85, and surrounding arteries can experience heavy congestion, especially during rush hours.",
+  "local_tip": "Skip the food court rush by using the Plane Train to reach Concourse F, which houses the international terminal and tends to have shorter lines at both restaurants and security checkpoints, especially during peak morning hours.",
+  "generatedAt": "2026-06-28T14:39:09.301Z",
+  "model": "MiniMax-M3"
+}

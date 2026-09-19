@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "BZA",
+    "icao": "MNBZ",
+    "name": "San Pedro Airport",
+    "country": "Nicaragua",
+    "city": "Bonanza",
+    "lat": 14.0315,
+    "lon": -84.6243,
+    "type": "small_airport",
+    "size": 50
+  },
+  "summary": "San Pedro Airport (BZA/MNBZ) is a small regional airport serving Bonanza, a municipality in Nicaragua's North Caribbean Autonomous Region (RACCN). The airport primarily supports the local gold mining industry and provides vital air access to this remote rainforest community, which is otherwise reached by long, unpaved roads. Its compact facilities handle mostly domestic commuter flights and charter operations.",
+  "faqs": "Q: What is San Pedro Airport primarily used for?\nA: The airport mainly serves the gold mining industry in Bonanza and provides passenger access to this remote region of Nicaragua's Caribbean coast.\n\nQ: Are there commercial airline services at BZA?\nA: Scheduled commercial service is very limited. Most flights are charters or small commuter aircraft connecting Bonanza to Managua and other regional destinations.\n\nQ: Is the airport paved?\nA: The runway at San Pedro Airport is paved but short, suitable only for small propeller aircraft.\n\nQ: What facilities are available at the terminal?\nA: As a small regional airport, facilities are minimal, typically limited to a basic terminal building with no extensive passenger amenities.\n\n",
+  "transport_tips": "Getting to Bonanza from the airport typically requires a taxi or pickup truck arranged in advance, as public transit options are limited. The town center is only a short drive from the airfield. Given the remote location, travelers should confirm ground transportation before arriving, especially if landing on later flights.",
+  "local_tip": "Frequent visitors recommend bringing cash in small denominations, as ATMs are scarce in Bonanza and many local businesses, including taxi drivers and small shops, may not accept cards. Pack light and prepare for a hot, humid climate typical of the Caribbean lowlands.",
+  "generatedAt": "2026-06-27T11:57:37.615Z",
+  "model": "MiniMax-M3"
+}

@@ -1,0 +1,19 @@
+{
+  "airport": {
+    "iata": "VIS",
+    "icao": "KVIS",
+    "name": "Visalia Municipal Airport",
+    "country": "United States",
+    "city": "Visalia",
+    "lat": 36.3187,
+    "lon": -119.393,
+    "type": "medium_airport",
+    "size": 250
+  },
+  "summary": "Visalia Municipal Airport (VIS) is a general aviation airport located in the San Joaquin Valley of central California, approximately 4 miles west of downtown Visalia. It primarily serves private, business, and charter aircraft, making it a convenient gateway for visitors heading to Sequoia and Kings Canyon National Parks. The airport is owned and operated by the City of Visalia and features two runways along with facilities for flight training, aircraft maintenance, and fuel services.",
+  "faqs": "Q: Does Visalia Municipal Airport offer commercial airline service?\nA: No, VIS is a general aviation airport without scheduled commercial flights. Travelers looking for commercial service typically use Fresno Yosemite International Airport (FAT), about 45 miles north.\n\nQ: How far is the airport from Sequoia National Park?\nA: The airport is roughly 40 miles from the Sequoia National Park entrance near Three Rivers, making it a popular starting point for visitors flying private aircraft to explore the giant sequoias.\n\nQ: What facilities and services are available at VIS?\nA: The airport offers aviation fuel (100LL and Jet A), aircraft maintenance and repair, tie-down and hangar storage, flight training, and a pilot lounge. Car rental services are available on-site or nearby.\n\nQ: Can I fly into Visalia if I don't own a plane?\nA: Yes, charter services and fractional ownership programs can arrange flights into VIS. Some flight schools also offer discovery flights and scenic tours over the Sierra Nevada.",
+  "transport_tips": "Renting a car is the most practical option for getting to and from VIS, with rental agencies located on-site or a short drive away. Taxi and rideshare services like Uber and Lyft are available but may have limited availability given the airport's smaller size. The airport is conveniently located just off Highway 198, providing easy road access to Sequoia National Park and the greater Tulare County area.",
+  "local_tip": "If you're flying in to visit Sequoia National Park, consider timing your arrival for early morning—the General Sherman Tree area gets extremely crowded by midday, and pilots often arrange late-afternoon departures to avoid afternoon turbulence from the Sierra thermal activity.",
+  "generatedAt": "2026-06-30T05:18:37.587Z",
+  "model": "MiniMax-M3"
+}
