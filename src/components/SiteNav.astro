@@ -1,0 +1,99 @@
+---
+// Unified site navigation - used on every page
+// Hides "Tools" dropdown on mobile, collapses gracefully
+const { active = '' } = Astro.props;
+---
+<nav class="site-nav" aria-label="Main navigation">
+  <div class="wrap">
+    <div class="nav-inner">
+      <a href="/" class="logo">
+        <img src="/logo.svg" alt="World Airport Database" width="36" height="36">
+        <span class="logo-text"><span class="l-primary">World</span><span class="l-accent">Airport</span>DB</span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false" id="navToggle">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-links" id="navLinks">
+        <a href="/countries/" class={active === 'countries' ? 'active' : ''}>Countries</a>
+        <a href="/blog/" class={active === 'blog' ? 'active' : ''}>Blog</a>
+        <a href="/download/" class={active === 'download' ? 'active' : ''}>Database</a>
+        <div class="nav-dropdown">
+          <button class={active.startsWith('tools') ? 'active' : ''} aria-haspopup="true">Tools <span class="caret">▾</span></button>
+          <div class="nav-dropdown-menu">
+            <a href="/tools/distance-calculator/">📏 Distance Calculator</a>
+            <a href="/tools/iata-icao-lookup/">🔍 IATA/ICAO Lookup</a>
+            <a href="/tools/nearest-airport/">📍 Nearest Airport</a>
+            <a href="/tools/timezone-lookup/">🕐 Timezone Lookup</a>
+            <a href="/tools/airport-map/">🗺️ Airport Map</a>
+            <a href="/tools/" class="nav-dropdown-all">All Tools →</a>
+          </div>
+        </div>
+        <a href="/download/" class="cta">⬇ Free Download</a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<style>
+  .site-nav{background:#0B1D3A;position:sticky;top:0;z-index:100;border-bottom:1px solid rgba(255,255,255,.08);box-shadow:0 1px 8px rgba(0,0,0,.15)}
+  .site-nav .wrap{max-width:1280px;margin:0 auto;padding:0 20px}
+  .nav-inner{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;padding:12px 0}
+  .logo{display:flex;align-items:center;gap:10px;text-decoration:none}
+  .logo img{height:34px;width:auto;display:block}
+  .logo-text{color:#fff;font-size:16px;font-weight:800;letter-spacing:-.3px;white-space:nowrap}
+  .l-primary{color:#fff}
+  .l-accent{color:#60a5fa}
+
+  .nav-links{display:flex;align-items:center;gap:2px;flex-wrap:wrap}
+  .nav-links a, .nav-dropdown > button{color:rgba(255,255,255,.75);text-decoration:none;font-size:13.5px;font-weight:500;padding:8px 12px;border-radius:6px;background:transparent;border:none;font-family:inherit;cursor:pointer;transition:all .15s;line-height:1.2}
+  .nav-links a:hover, .nav-dropdown > button:hover{color:#fff;background:rgba(255,255,255,.07)}
+  .nav-links a.active, .nav-dropdown > button.active{color:#fff;background:rgba(96,165,250,.18)}
+
+  .nav-dropdown{position:relative}
+  .nav-dropdown .caret{font-size:10px;opacity:.7;margin-left:2px}
+  .nav-dropdown-menu{position:absolute;top:100%;right:0;min-width:240px;background:#0B1D3A;border:1px solid rgba(255,255,255,.1);border-radius:8px;padding:6px;margin-top:6px;box-shadow:0 8px 24px rgba(0,0,0,.3);display:none;z-index:200}
+  .nav-dropdown:hover .nav-dropdown-menu, .nav-dropdown.open .nav-dropdown-menu{display:block}
+  .nav-dropdown-menu a{display:block;color:rgba(255,255,255,.85);padding:9px 12px;border-radius:5px;font-size:13.5px}
+  .nav-dropdown-menu a:hover{background:rgba(96,165,250,.18);color:#fff}
+  .nav-dropdown-all{margin-top:4px;border-top:1px solid rgba(255,255,255,.08);padding-top:9px!important;color:#60a5fa!important}
+
+  .cta{background:#2ca4dc;color:#fff !important;font-weight:700 !important;padding:8px 16px !important;margin-left:6px}
+  .cta:hover{background:#2390c2}
+
+  .nav-toggle{display:none;background:transparent;border:0;padding:8px;cursor:pointer;flex-direction:column;gap:5px}
+  .nav-toggle span{display:block;width:22px;height:2px;background:#fff;border-radius:2px;transition:all .2s}
+  .nav-toggle.open span:nth-child(1){transform:translateY(7px) rotate(45deg)}
+  .nav-toggle.open span:nth-child(2){opacity:0}
+  .nav-toggle.open span:nth-child(3){transform:translateY(-7px) rotate(-45deg)}
+
+  @media(max-width:860px){
+    .nav-toggle{display:flex}
+    .nav-links{width:100%;flex-direction:column;align-items:stretch;max-height:0;overflow:hidden;transition:max-height .3s}
+    .nav-links.open{max-height:600px;padding:8px 0}
+    .nav-links a, .nav-dropdown > button{padding:10px 12px;text-align:left}
+    .nav-dropdown-menu{position:static;background:rgba(0,0,0,.2);border:none;box-shadow:none;margin:0 0 0 12px;padding:0;display:none}
+    .nav-dropdown.open .nav-dropdown-menu{display:block}
+    .cta{margin:8px 0 0 0;text-align:center}
+  }
+</style>
+
+<script is:inline>
+  const t = document.getElementById('navToggle');
+  const l = document.getElementById('navLinks');
+  if (t && l) {
+    t.addEventListener('click', () => {
+      const open = l.classList.toggle('open');
+      t.classList.toggle('open', open);
+      t.setAttribute('aria-expanded', open);
+    });
+    // Mobile dropdowns
+    document.querySelectorAll('.nav-dropdown > button').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        if (window.innerWidth <= 860) {
+          e.preventDefault();
+          btn.parentElement.classList.toggle('open');
+        }
+      });
+    });
+  }
+</script>

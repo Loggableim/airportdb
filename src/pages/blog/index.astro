@@ -1,7 +1,8 @@
 ---
 import blogPosts from '../../data/blog-posts.js';
 import { blogCategories, getCategoryBySlug, getSubcategoryBySlug } from '../../data/blog-categories.js';
-import { navItems } from '../../data/nav.js';
+import SiteNav from '../../components/SiteNav.astro';
+import SiteFooter from '../../components/SiteFooter.astro';
 
 // Helper: reading time from HTML content
 function readingTime(html) {
@@ -21,33 +22,30 @@ for (const cat of blogCategories) {
 // Featured posts: 3 newest
 const featuredPosts = allPosts.slice(0, 3);
 
-// Regular posts (non-featured for pagination)
-const regularPosts = allPosts.slice(3);
-
 // Categories with posts
 const categoriesWithPosts = blogCategories.filter(c => categoryCounts[c.slug] > 0);
 
-// Mark current nav item
-const activeNav = '/blog/';
+const pageTitle = `Blog — ${allPosts.length} Articles on Airports, IATA Codes & Travel Tips | World Airport Database`;
+const pageDesc = `In-depth guides, code lookups, travel tips, and aviation news. ${allPosts.length} articles across ${categoriesWithPosts.length} categories.`;
 ---
-
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Blog — World Airport Database</title>
-  <meta name="description" content="Airport Guides, IATA Codes, Travel Tips & Aviation News — Der offizielle Blog der World Airport Database.">
+  <title>{pageTitle}</title>
+  <meta name="description" content={pageDesc}>
   <link rel="canonical" href="https://world-airport-database.com/blog/">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Blog — World Airport Database">
-  <meta property="og:description" content="Airport Guides, IATA Codes, Travel Tips & Aviation News">
+  <meta property="og:title" content={pageTitle}>
+  <meta property="og:description" content={pageDesc}>
   <meta property="og:url" content="https://world-airport-database.com/blog/">
+  <meta property="og:image" content="https://world-airport-database.com/logo-icon.svg">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <style>
-    /* ── Reset & Base ── */
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
     html{scroll-behavior:smooth}
     body{font-family:'Inter',system-ui,-apple-system,sans-serif;background:#F4F7FA;color:#202c39;line-height:1.7;font-size:15px}
@@ -55,363 +53,263 @@ const activeNav = '/blog/';
     a{color:var(--primary);text-decoration:none;transition:color .15s}
     a:hover{color:#1e85b8}
 
-    /* ── Top Nav ── */
-    .top-nav{position:sticky;top:0;z-index:100;background:var(--navy);border-bottom:3px solid var(--primary)}
-    .nav-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;gap:4px;padding:0 24px;height:56px}
-    .nav-inner .brand{font-weight:800;font-size:16px;color:#fff;margin-right:24px;white-space:nowrap}
-    .nav-inner .brand span{color:var(--primary)}
-    .nav-inner a{color:#d0d8e0;font-size:13px;font-weight:500;padding:6px 14px;border-radius:6px;transition:all .15s}
-    .nav-inner a:hover{color:#fff;background:rgba(255,255,255,.08)}
-    .nav-inner a.active{color:#fff;background:var(--primary);font-weight:600}
-    .nav-inner .spacer{flex:1}
-    @media(max-width:768px){.nav-inner{gap:2px;padding:0 12px;overflow-x:auto}.nav-inner .brand{font-size:13px;margin-right:12px}.nav-inner a{font-size:11px;padding:4px 8px;white-space:nowrap}}
+    .wrap{max-width:1280px;margin:0 auto;padding:0 20px}
 
-    /* ── Layout ── */
-    .page-wrap{max-width:1280px;margin:0 auto;padding:0 24px;display:flex;gap:32px;align-items:flex-start}
-    @media(max-width:1024px){.page-wrap{flex-direction:column;padding:0 16px;gap:24px}}
+    /* Layout */
+    .layout{display:grid;grid-template-columns:280px 1fr;gap:32px;padding:32px 0}
+    @media(max-width:900px){.layout{grid-template-columns:1fr;gap:16px}}
 
-    /* ── Sidebar ── */
-    .sidebar{width:260px;flex-shrink:0;position:sticky;top:80px;max-height:calc(100vh - 100px);overflow-y:auto;padding-right:8px}
-    .sidebar::-webkit-scrollbar{width:4px}
-    .sidebar::-webkit-scrollbar-thumb{background:var(--border);border-radius:4px}
-    .sidebar h3{font-size:13px;text-transform:uppercase;letter-spacing:1px;color:var(--text-muted);margin-bottom:12px;padding-left:12px}
-    .sidebar .cat-list{list-style:none}
-    .sidebar .cat-item{margin-bottom:2px}
-    .sidebar .cat-header{display:flex;align-items:center;gap:8px;padding:8px 12px;border-radius:6px;cursor:pointer;transition:all .12s;font-size:13px;font-weight:500;color:var(--text)}
-    .sidebar .cat-header:hover{background:#e8f0f7}
-    .sidebar .cat-header .icon{font-size:16px;width:20px;text-align:center}
-    .sidebar .cat-header .count{font-size:11px;color:var(--text-muted);font-weight:400;margin-left:auto}
-    .sidebar .cat-header .arrow{font-size:10px;color:var(--text-muted);transition:transform .2s;margin-left:4px}
-    .sidebar .cat-header.open .arrow{transform:rotate(90deg)}
-    .sidebar .subcat-list{list-style:none;padding-left:40px;max-height:0;overflow:hidden;transition:max-height .25s ease}
-    .sidebar .subcat-list.open{max-height:400px}
-    .sidebar .subcat-list li a{display:block;padding:4px 8px;font-size:12px;color:var(--text-light);border-radius:4px}
-    .sidebar .subcat-list li a:hover{color:var(--primary);background:rgba(44,164,220,.08)}
+    /* Sidebar */
+    .sidebar{position:sticky;top:80px;align-self:start;max-height:calc(100vh - 100px);overflow-y:auto;background:#fff;border:1px solid var(--border);border-radius:12px;padding:16px}
+    .sidebar h2{font-size:11px;text-transform:uppercase;letter-spacing:1.2px;color:var(--text-muted);margin-bottom:14px;font-weight:700;padding:0 4px}
+    .cat-list{list-style:none;padding:0;margin:0}
+    .cat-item{margin-bottom:4px}
+    .cat-header{display:flex;align-items:center;gap:10px;padding:8px 10px;border-radius:7px;cursor:pointer;transition:background .15s;user-select:none}
+    .cat-header:hover{background:#f0f6fc}
+    .cat-header .icon{font-size:18px;width:22px;text-align:center;flex-shrink:0}
+    .cat-header .name{flex:1;font-size:13.5px;font-weight:600;color:var(--navy)}
+    .cat-header .count{font-size:11px;color:var(--text-muted);background:#f0f6fc;padding:1px 6px;border-radius:10px;flex-shrink:0}
+    .cat-header .arrow{font-size:10px;color:var(--text-muted);transition:transform .2s;flex-shrink:0}
+    .cat-header.open .arrow{transform:rotate(90deg)}
+    .subcat-list{list-style:none;padding:0 0 0 32px;margin:0;max-height:0;overflow:hidden;transition:max-height .3s}
+    .subcat-list.open{max-height:500px}
+    .subcat-list li a{display:block;padding:6px 10px;font-size:12.5px;color:var(--text-light);border-radius:5px}
+    .subcat-list li a:hover{background:#f0f6fc;color:var(--primary)}
 
-    /* ── Main Content ── */
-    .main{flex:1;min-width:0}
+    /* Hero */
+    .hero{background:linear-gradient(135deg,#0B1D3A 0%,#1a3a5f 100%);color:#fff;padding:48px 0 40px;position:relative;overflow:hidden}
+    .hero::before{content:'';position:absolute;top:-100px;right:-100px;width:400px;height:400px;background:radial-gradient(circle,rgba(44,164,220,.15) 0%,transparent 70%)}
+    .hero h1{font-size:36px;font-weight:800;letter-spacing:-.8px;margin-bottom:10px;position:relative;z-index:1}
+    .hero h1 span{color:#60a5fa}
+    .hero .subtitle{color:rgba(255,255,255,.7);font-size:15px;margin-bottom:18px;position:relative;z-index:1}
+    .hero-stats{display:flex;gap:18px;flex-wrap:wrap;font-size:13px;color:rgba(255,255,255,.6);position:relative;z-index:1}
+    .hero-stats strong{color:#60a5fa;font-weight:700}
 
-    /* ── Hero ── */
-    .hero{background:linear-gradient(135deg,var(--navy) 0%,#142b4f 50%,#1a3358 100%);padding:40px 32px 32px;border-radius:var(--radius);margin-bottom:28px;position:relative;overflow:hidden}
-    .hero::after{content:'';position:absolute;top:-60px;right:-60px;width:200px;height:200px;border-radius:50%;background:rgba(44,164,220,.08)}
-    .hero h1{font-size:32px;font-weight:800;color:#fff;margin-bottom:4px}
-    .hero h1 span{color:var(--primary)}
-    .hero .subtitle{color:#8899aa;font-size:14px;margin-bottom:16px}
-    .hero .search-wrap{position:relative;max-width:480px}
-    .hero .search-wrap input{width:100%;padding:10px 14px 10px 40px;border:none;border-radius:8px;font-size:14px;background:rgba(255,255,255,.12);color:#fff;outline:none;transition:background .2s}
-    .hero .search-wrap input::placeholder{color:#8899aa}
-    .hero .search-wrap input:focus{background:rgba(255,255,255,.18)}
-    .hero .search-wrap .search-icon{position:absolute;left:12px;top:50%;transform:translateY(-50%);color:#8899aa;font-size:16px;pointer-events:none}
+    .search-wrap{position:relative;max-width:480px;margin-top:8px}
+    .search-wrap input{width:100%;padding:11px 14px 11px 42px;border:1px solid rgba(255,255,255,.15);border-radius:8px;font-size:14px;background:rgba(255,255,255,.1);color:#fff;outline:none;font-family:inherit;transition:background .2s}
+    .search-wrap input::placeholder{color:rgba(255,255,255,.5)}
+    .search-wrap input:focus{background:rgba(255,255,255,.18);border-color:var(--primary)}
+    .search-wrap .search-icon{position:absolute;left:14px;top:50%;transform:translateY(-50%);color:rgba(255,255,255,.5);font-size:16px;pointer-events:none}
 
-    /* ── Filter Buttons ── */
-    .filters{display:flex;gap:8px;margin-bottom:24px;flex-wrap:wrap}
-    .filters button{padding:7px 18px;border:1px solid var(--border);border-radius:20px;background:#fff;font-size:13px;font-weight:500;color:var(--text);cursor:pointer;transition:all .15s}
-    .filters button:hover{border-color:var(--primary);color:var(--primary)}
-    .filters button.active{background:var(--primary);color:#fff;border-color:var(--primary)}
+    /* Main */
+    .main{min-width:0}
+    .section-block{margin-bottom:32px}
+    .section-block h2{font-size:20px;font-weight:800;color:var(--navy);margin-bottom:14px;display:flex;align-items:center;gap:10px}
+    .section-block h2 .meta{font-size:12px;color:var(--text-muted);font-weight:500;margin-left:8px}
 
-    /* ── Featured Posts ── */
-    .featured-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:32px}
+    /* Featured */
+    .featured-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
     @media(max-width:900px){.featured-grid{grid-template-columns:1fr}}
-    .featured-card{background:var(--card-bg);border:1px solid var(--border);border-radius:var(--radius);padding:20px;transition:all .2s;position:relative;overflow:hidden}
+    .featured-card{background:#fff;border:1px solid var(--border);border-radius:10px;padding:20px;transition:all .2s;position:relative;overflow:hidden;display:block;text-decoration:none;color:inherit}
     .featured-card::before{content:'';position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,var(--primary),#60c0e8)}
-    .featured-card:hover{box-shadow:0 4px 20px rgba(44,164,220,.15);border-color:var(--primary);transform:translateY(-2px)}
+    .featured-card:hover{box-shadow:0 4px 20px rgba(44,164,220,.15);border-color:var(--primary);transform:translateY(-2px);text-decoration:none}
     .featured-card .fc-badge{display:inline-block;background:rgba(44,164,220,.1);color:var(--primary);font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;padding:2px 8px;border-radius:4px;margin-bottom:8px}
     .featured-card .fc-date{font-size:11px;color:var(--text-muted);margin-bottom:4px}
-    .featured-card h3{font-size:16px;line-height:1.4;margin-bottom:6px}
-    .featured-card h3 a{color:var(--navy)}
-    .featured-card h3 a:hover{color:var(--primary)}
+    .featured-card h3{font-size:16px;line-height:1.4;margin-bottom:6px;color:var(--navy);font-weight:700}
     .featured-card .fc-excerpt{font-size:13px;color:var(--text-light);line-height:1.5;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
     .featured-card .fc-meta{display:flex;gap:8px;margin-top:10px;font-size:11px;color:var(--text-muted);align-items:center;flex-wrap:wrap}
-    .featured-card .fc-meta .sub-badge{padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;background:rgba(44,164,220,.1);color:var(--primary)}
+    .sub-badge{background:rgba(44,164,220,.08);color:var(--primary);padding:2px 8px;border-radius:4px;font-weight:600;font-size:10.5px}
 
-    /* ── Category Section ── */
-    .cat-section{margin-bottom:28px}
-    .cat-section h2{font-size:18px;font-weight:700;color:var(--navy);margin-bottom:12px;padding-bottom:6px;border-bottom:2px solid var(--primary);display:flex;align-items:center;gap:8px}
-    .cat-section h2 .cat-icon{font-size:20px}
-    .cat-section h2 .cat-count{font-size:12px;font-weight:400;color:var(--text-muted);margin-left:auto}
+    /* Category sections */
+    .cat-section{background:#fff;border:1px solid var(--border);border-radius:10px;padding:20px 24px;margin-bottom:20px}
+    .cat-section.hidden{display:none}
+    .cat-section h3{font-size:16px;color:var(--navy);font-weight:700;margin-bottom:14px;display:flex;align-items:center;gap:8px}
+    .cat-section h3 .cat-count{font-size:11px;color:var(--text-muted);background:#f0f6fc;padding:2px 8px;border-radius:10px;font-weight:500}
+    .post-list{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px}
+    .post-item{padding:12px 0;border-top:1px solid var(--border)}
+    .post-item:first-child{border-top:0}
+    .post-item .pi-top{display:flex;gap:8px;font-size:11px;color:var(--text-muted);margin-bottom:4px;align-items:center;flex-wrap:wrap}
+    .post-item h4{font-size:14px;font-weight:600;line-height:1.4;margin-bottom:4px}
+    .post-item h4 a{color:var(--navy)}
+    .post-item h4 a:hover{color:var(--primary)}
+    .post-item .pi-excerpt{font-size:12.5px;color:var(--text-light);line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 
-    /* ── Post Card ── */
-    .post-card{background:var(--card-bg);border:1px solid var(--border);border-radius:var(--radius);padding:18px 20px;margin-bottom:10px;transition:all .15s;display:flex;flex-direction:column;gap:4px}
-    .post-card:hover{border-color:var(--primary);box-shadow:0 2px 12px rgba(44,164,220,.1)}
-    .post-card .pc-top{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:11px;color:var(--text-muted)}
-    .post-card .pc-top .sub-badge{padding:1px 6px;border-radius:3px;font-size:10px;font-weight:600;background:rgba(44,164,220,.1);color:var(--primary)}
-    .post-card h3{font-size:15px;font-weight:600;line-height:1.4}
-    .post-card h3 a{color:var(--navy)}
-    .post-card h3 a:hover{color:var(--primary)}
-    .post-card .pc-excerpt{font-size:13px;color:var(--text-light);line-height:1.5}
-    .post-card .pc-bottom{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-top:4px;font-size:11px;color:var(--text-muted)}
-    .post-card .pc-bottom .tags{display:flex;gap:4px;flex-wrap:wrap}
-    .post-card .pc-bottom .tags span{background:#e3f0f7;color:var(--primary);padding:1px 7px;border-radius:3px;font-size:10px;font-weight:600}
-
-    /* ── Pagination ── */
-    .pagination{display:flex;align-items:center;justify-content:center;gap:8px;margin:28px 0}
-    .pagination button{padding:8px 16px;border:1px solid var(--border);border-radius:6px;background:#fff;font-size:13px;font-weight:500;color:var(--text);cursor:pointer;transition:all .15s}
-    .pagination button:hover:not(:disabled){border-color:var(--primary);color:var(--primary)}
-    .pagination button.active{background:var(--primary);color:#fff;border-color:var(--primary)}
-    .pagination button:disabled{opacity:.4;cursor:default}
-    .pagination .page-info{font-size:13px;color:var(--text-muted);margin:0 8px}
-
-    /* ── Section Empty State ── */
-    .empty-state{text-align:center;padding:60px 20px;color:var(--text-muted)}
-    .empty-state .emoji{font-size:48px;margin-bottom:12px}
-    .empty-state h3{font-size:18px;color:var(--text);margin-bottom:6px}
-
-    /* ── No Results ── */
-    .no-results{display:none;text-align:center;padding:40px 20px;color:var(--text-muted)}
+    /* No results */
+    .no-results{background:#fff;border:1px solid var(--border);border-radius:10px;padding:48px 20px;text-align:center;display:none}
     .no-results.show{display:block}
+    .no-results .emoji{font-size:48px;margin-bottom:8px}
+    .no-results h3{font-size:18px;color:var(--navy);margin-bottom:4px}
+    .no-results p{color:var(--text-muted);font-size:14px}
 
-    /* ── Footer ── */
-    footer{background:var(--navy);color:#8899aa;margin-top:40px;font-size:13px}
-    .footer-inner{max-width:1280px;margin:0 auto;padding:36px 24px 24px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px}
-    footer a{color:var(--primary)}
-    footer a:hover{color:#60c0e8}
-    @media(max-width:600px){.footer-inner{flex-direction:column;text-align:center;gap:8px}}
+    /* Pagination */
+    .pagination{display:flex;align-items:center;justify-content:center;gap:12px;padding:16px 0}
+    .pagination button{padding:8px 18px;border:1px solid var(--border);background:#fff;border-radius:6px;font-size:13px;font-weight:500;color:var(--text);cursor:pointer;transition:all .15s;font-family:inherit}
+    .pagination button:hover:not(:disabled){border-color:var(--primary);color:var(--primary)}
+    .pagination button:disabled{opacity:.4;cursor:not-allowed}
+    .pagination .page-info{font-size:13px;color:var(--text-muted);min-width:140px;text-align:center}
+
+    @media(max-width:640px){
+      .hero h1{font-size:26px}
+      .hero{padding:32px 0 24px}
+    }
   </style>
 </head>
 <body>
 
-  <!-- ═══ Top Navigation ═══ -->
-  <nav class="top-nav">
-    <div class="nav-inner">
-      <a href="/" class="brand">🌍 <span>Airport</span>DB</a>
-      {navItems.map(item => (
-        <a href={item.href} class:list={{active: item.href === activeNav}}>{item.label}</a>
-      ))}
-      <div class="spacer"></div>
+<SiteNav active="blog" />
+
+<!-- HERO -->
+<section class="hero">
+  <div class="wrap">
+    <h1>📖 Aviation <span>Blog</span></h1>
+    <p class="subtitle">Airport guides, IATA/ICAO code insights, travel tips, and aviation news.</p>
+    <div class="hero-stats">
+      <span><strong>{allPosts.length}</strong> articles</span>
+      <span><strong>{categoriesWithPosts.length}</strong> categories</span>
+      <span><strong>{categoriesWithPosts.reduce((s,c) => s + c.subcategories.length, 0)}</strong> subcategories</span>
+      <span>Updated daily</span>
     </div>
-  </nav>
+    <div class="search-wrap">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="searchInput" placeholder="Search articles..." oninput="filterPosts()">
+    </div>
+  </div>
+</section>
 
-  <!-- ═══ Page Layout ═══ -->
-  <div class="page-wrap" style="padding-top:24px">
+<div class="wrap">
+<div class="layout">
 
-    <!-- ═══ Sidebar ═══ -->
-    <aside class="sidebar" id="sidebar">
-      <h3>📂 Kategorien</h3>
-      <ul class="cat-list">
-        {categoriesWithPosts.map(cat => {
-          const count = categoryCounts[cat.slug] || 0;
+  <!-- ═══ SIDEBAR ═══ -->
+  <aside class="sidebar">
+    <h2>📂 Categories</h2>
+    <ul class="cat-list">
+      {categoriesWithPosts.map(cat => {
+        const catCount = categoryCounts[cat.slug];
+        return (
+          <li class="cat-item">
+            <div class="cat-header" data-cat={cat.slug} onclick="toggleCat(this)">
+              <span class="icon">{cat.icon}</span>
+              <span class="name">{cat.name}</span>
+              <span class="count">{catCount}</span>
+              <span class="arrow">▶</span>
+            </div>
+            <ul class="subcat-list">
+              {cat.subcategories.map(sub => {
+                const subCount = allPosts.filter(p => p.category === cat.slug && p.subcategory === sub.slug).length;
+                if (subCount === 0) return null;
+                return <li><a href={`/blog/category/${cat.slug}/#${sub.slug}`}>{sub.name} ({subCount})</a></li>;
+              })}
+            </ul>
+          </li>
+        );
+      })}
+    </ul>
+  </aside>
+
+  <!-- ═══ MAIN ═══ -->
+  <main class="main">
+
+    <!-- Featured -->
+    <div class="section-block">
+      <h2>⭐ Featured</h2>
+      <div class="featured-grid">
+        {featuredPosts.map(post => {
+          const cat = getCategoryBySlug(post.category);
+          const sub = cat ? getSubcategoryBySlug(post.category, post.subcategory) : null;
+          const rt = readingTime(post.content_html);
           return (
-            <li class="cat-item">
-              <div class="cat-header" data-cat={cat.slug} onclick="toggleSubcat(this)">
-                <span class="icon">{cat.icon}</span>
-                <span>{cat.name}</span>
-                <span class="count">({count})</span>
-                <span class="arrow">▶</span>
+            <a href={`/blog/${post.slug}/`} class="featured-card">
+              <div class="fc-badge">⭐ Featured</div>
+              <div class="fc-date">{new Date(post.date).toLocaleDateString('en-US', {year:'numeric',month:'long',day:'numeric'})}</div>
+              <h3>{post.title}</h3>
+              <div class="fc-excerpt">{post.excerpt}</div>
+              <div class="fc-meta">
+                {sub && <span class="sub-badge">{sub.name}</span>}
+                <span>📖 {rt} min read</span>
               </div>
-              <ul class="subcat-list">
-                {cat.subcategories.map(sub => {
-                  const subCount = allPosts.filter(p => p.category === cat.slug && p.subcategory === sub.slug).length;
-                  return subCount > 0 ? (
-                    <li><a href={`/blog/?category=${cat.slug}&subcategory=${sub.slug}`} onclick="event.preventDefault();filterBySubcategory('{cat.slug}','{sub.slug}')">{sub.name} ({subCount})</a></li>
-                  ) : null;
-                })}
-              </ul>
-            </li>
+            </a>
           );
         })}
-      </ul>
-    </aside>
-
-    <!-- ═══ Main ═══ -->
-    <main class="main">
-
-      <!-- Hero -->
-      <section class="hero">
-        <h1>📖 <span>Blog</span></h1>
-        <p class="subtitle">Airport Guides · IATA Codes · Travel Tips · Aviation News</p>
-        <div class="search-wrap">
-          <span class="search-icon">🔍</span>
-          <input type="text" id="searchInput" placeholder="Beiträge durchsuchen…" oninput="filterPosts()">
-        </div>
-      </section>
-
-      <!-- Filter Buttons -->
-      <div class="filters" id="filters">
-        <button class="active" data-filter="all" onclick="switchFilter('all',this)">Alle</button>
-        <button data-filter="recent" onclick="switchFilter('recent',this)">Neueste</button>
-        <button data-filter="popular" onclick="switchFilter('popular',this)">Beliebt</button>
       </div>
+    </div>
 
-      <!-- Featured Posts -->
-      <section id="featuredSection">
-        <div class="featured-grid">
-          {featuredPosts.map(post => {
-            const cat = getCategoryBySlug(post.category);
-            const sub = cat ? getSubcategoryBySlug(post.category, post.subcategory) : null;
-            const rt = readingTime(post.content_html);
-            return (
-              <article class="featured-card">
-                <div class="fc-badge">⭐ Empfohlen</div>
-                <div class="fc-date">{new Date(post.date).toLocaleDateString('de-DE', {year:'numeric',month:'long',day:'numeric'})}</div>
-                <h3><a href={`/blog/${post.slug}/`}>{post.title}</a></h3>
-                <div class="fc-excerpt">{post.excerpt}</div>
-                <div class="fc-meta">
-                  {sub && <span class="sub-badge">{sub.name}</span>}
-                  <span>📖 {rt} min</span>
-                </div>
-              </article>
-            );
-          })}
-        </div>
-      </section>
-
-      <!-- Category Sections -->
-      <div id="postsContainer">
-        {categoriesWithPosts.map(cat => {
-          const catPosts = allPosts.filter(p => p.category === cat.slug);
-          return (
-            <section class="cat-section" data-category={cat.slug}>
-              <h2>
-                <span class="cat-icon">{cat.icon}</span>
-                <span>{cat.name}</span>
-                <span class="cat-count">{catPosts.length} Beiträge</span>
-              </h2>
+    <!-- All posts by category -->
+    <div id="postsContainer">
+      {categoriesWithPosts.map(cat => {
+        const catPosts = allPosts.filter(p => p.category === cat.slug);
+        return (
+          <section class="cat-section" data-category={cat.slug} id={`cat-${cat.slug}`}>
+            <h3>
+              <span>{cat.icon}</span>
+              <span>{cat.name}</span>
+              <span class="cat-count">{catPosts.length} articles</span>
+            </h3>
+            <ul class="post-list">
               {catPosts.map(post => {
                 const sub = getSubcategoryBySlug(post.category, post.subcategory);
                 const rt = readingTime(post.content_html);
                 return (
-                  <article class="post-card" data-slug={post.slug}>
-                    <div class="pc-top">
-                      <span>{new Date(post.date).toLocaleDateString('de-DE', {year:'numeric',month:'long',day:'numeric'})}</span>
+                  <li class="post-item">
+                    <div class="pi-top">
+                      <span>{new Date(post.date).toLocaleDateString('en-US', {year:'numeric',month:'short',day:'numeric'})}</span>
                       {sub && <span class="sub-badge">{sub.name}</span>}
-                    </div>
-                    <h3><a href={`/blog/${post.slug}/`}>{post.title}</a></h3>
-                    <div class="pc-excerpt">{post.excerpt}</div>
-                    <div class="pc-bottom">
                       <span>📖 {rt} min</span>
-                      <div class="tags">
-                        {post.tags.slice(0,4).map(tag => <span>{tag}</span>)}
-                      </div>
                     </div>
-                  </article>
+                    <h4><a href={`/blog/${post.slug}/`}>{post.title}</a></h4>
+                    <div class="pi-excerpt">{post.excerpt}</div>
+                  </li>
                 );
               })}
-            </section>
-          );
-        })}
-      </div>
-
-      <!-- No Results -->
-      <div class="no-results" id="noResults">
-        <div class="empty-state">
-          <div class="emoji">🔍</div>
-          <h3>Keine Beiträge gefunden</h3>
-          <p>Versuche einen anderen Suchbegriff oder filter.</p>
-        </div>
-      </div>
-
-      <!-- Pagination -->
-      <div class="pagination" id="pagination">
-        <button id="prevPage" onclick="changePage(-1)" disabled>← Zurück</button>
-        <span class="page-info" id="pageInfo">Seite 1</span>
-        <button id="nextPage" onclick="changePage(1)">Weiter →</button>
-      </div>
-
-    </main>
-  </div>
-
-  <!-- ═══ Footer ═══ -->
-  <footer>
-    <div class="footer-inner">
-      <div><strong>World Airport Database</strong> seit 2008 — basierend auf <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
-      <div style="display:flex;gap:16px;align-items:center">
-        <span>Nicht verbunden mit IATA oder ICAO.</span>
-        <a href="/impressum/">Impressum</a>
-      </div>
+            </ul>
+          </section>
+        );
+      })}
     </div>
-  </footer>
 
-  <!-- ═══ JS ═══ -->
-  <script is:inline>
-    // ── Search ──
-    function filterPosts() {
-      const q = document.getElementById('searchInput').value.toLowerCase().trim();
-      const cards = document.querySelectorAll('.post-card');
-      const sections = document.querySelectorAll('.cat-section');
-      let visible = 0;
-      sections.forEach(sec => {
-        let secVisible = 0;
-        sec.querySelectorAll('.post-card').forEach(card => {
-          const text = (card.textContent || '').toLowerCase();
-          const match = !q || text.includes(q);
-          card.style.display = match ? '' : 'none';
-          if (match) secVisible++;
-        });
-        sec.style.display = secVisible > 0 ? '' : 'none';
-        if (secVisible > 0) visible += secVisible;
+    <!-- No Results -->
+    <div class="no-results" id="noResults">
+      <div class="emoji">🔍</div>
+      <h3>No articles found</h3>
+      <p>Try a different search term or browse the categories in the sidebar.</p>
+    </div>
+  </main>
+</div>
+</div>
+
+<SiteFooter />
+
+<script is:inline>
+  // ── Search filter ──
+  function filterPosts() {
+    const q = document.getElementById('searchInput').value.toLowerCase().trim();
+    const sections = document.querySelectorAll('.cat-section');
+    let visible = 0;
+    sections.forEach(sec => {
+      let secVisible = 0;
+      sec.querySelectorAll('.post-item').forEach(item => {
+        const text = (item.textContent || '').toLowerCase();
+        const match = !q || text.includes(q);
+        item.style.display = match ? '' : 'none';
+        if (match) secVisible++;
       });
-      document.getElementById('noResults').classList.toggle('show', visible === 0);
-      applyPagination();
-    }
-
-    // ── Filter toggle ──
-    function switchFilter(filter, btn) {
-      document.querySelectorAll('#filters button').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      // highlight/category filtering could go here
-    }
-
-    // ── Sidebar subcategory toggle (pure CSS class toggle) ──
-    function toggleSubcat(el) {
-      el.classList.toggle('open');
-      const sub = el.nextElementSibling;
-      if (sub) sub.classList.toggle('open');
-    }
-
-    // ── Filter by subcategory from sidebar ──
-    function filterBySubcategory(catSlug, subSlug) {
-      // Highlight category in sidebar
-      document.querySelectorAll('.cat-header').forEach(h => {
-        const isMatch = h.dataset.cat === catSlug;
-        h.classList.toggle('open', isMatch);
-        const sub = h.nextElementSibling;
-        if (sub) sub.classList.toggle('open', isMatch);
-      });
-      // Filter card visibility
-      document.querySelectorAll('.post-card').forEach(card => {
-        // We need data attributes for category/subcategory on cards
-        // For now, use section visibility
-      });
-    }
-
-    // ── Pagination ──
-    const PER_PAGE = 10;
-    let currentPage = 1;
-
-    function applyPagination() {
-      const visibleCards = Array.from(document.querySelectorAll('.post-card')).filter(c => c.style.display !== 'none');
-      const total = visibleCards.length;
-      const totalPages = Math.max(1, Math.ceil(total / PER_PAGE));
-      if (currentPage > totalPages) currentPage = totalPages;
-      if (currentPage < 1) currentPage = 1;
-
-      visibleCards.forEach((card, idx) => {
-        const pageNum = Math.floor(idx / PER_PAGE) + 1;
-        card.style.display = pageNum === currentPage ? '' : 'none';
-      });
-
-      document.getElementById('pageInfo').textContent = `Seite ${currentPage} von ${totalPages}`;
-      document.getElementById('prevPage').disabled = currentPage <= 1;
-      document.getElementById('nextPage').disabled = currentPage >= totalPages;
-
-      // Also hide sections if they have no visible cards on this page
-      document.querySelectorAll('.cat-section').forEach(sec => {
-        const visibleInSec = Array.from(sec.querySelectorAll('.post-card')).filter(c => c.style.display !== 'none').length;
-        sec.style.display = visibleInSec > 0 ? '' : 'none';
-      });
-    }
-
-    function changePage(delta) {
-      currentPage += delta;
-      applyPagination();
-      window.scrollTo({ top: document.querySelector('.hero').offsetTop - 80, behavior: 'smooth' });
-    }
-
-    // Initial pagination
-    document.addEventListener('DOMContentLoaded', () => {
-      applyPagination();
+      sec.classList.toggle('hidden', secVisible === 0);
+      visible += secVisible;
     });
-  </script>
+    document.getElementById('noResults').classList.toggle('show', visible === 0);
+  }
 
+  // ── Sidebar category toggle ──
+  function toggleCat(el) {
+    el.classList.toggle('open');
+    const sub = el.nextElementSibling;
+    if (sub) sub.classList.toggle('open');
+  }
+
+  // Auto-open if hash present
+  window.addEventListener('DOMContentLoaded', () => {
+    if (location.hash) {
+      const el = document.querySelector(`[data-cat]`);
+      if (el) {
+        // Find the matching category header
+        document.querySelectorAll('.cat-header').forEach(h => {
+          if (location.hash.startsWith('#') && h.parentElement.querySelector(`[href*="${h.dataset.cat}"]`)) {
+            h.classList.add('open');
+            h.nextElementSibling.classList.add('open');
+          }
+        });
+      }
+    }
+  });
+</script>
 </body>
 </html>

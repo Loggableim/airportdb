@@ -1,4 +1,6 @@
 ---
+import SiteNav from '../components/SiteNav.astro';
+import SiteFooter from '../components/SiteFooter.astro';
 const pageTitle = 'Impressum – World Airport Database';
 const pageDesc = 'Impressum und rechtliche Angaben zur World Airport Database.';
 const pageUrl = 'https://world-airport-database.com/impressum/';
@@ -52,13 +54,7 @@ footer .footer-inner>*{margin-bottom:8px}
 </head>
 <body>
 
-<div class="navbar">
-  <div class="wrap">
-    <a href="/" class="logo">&#9992; World Airport Database</a>
-    <a href="/blog/">Blog</a>
-    <a href="/tools/nearest-airport/">Distance Calculator</a>
-  </div>
-</div>
+<SiteNav active="" />
 
 <div class="page-hero">
   <h1>Impressum</h1>
@@ -96,15 +92,7 @@ footer .footer-inner>*{margin-bottom:8px}
   <p><em>Stand: Juni 2026</em></p>
 </main>
 
-<footer>
-  <div class="wrap footer-inner">
-    <div><strong>World Airport Database since 2008</strong> &mdash; based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
-    <div>Not affiliated with IATA or ICAO. Airport data provided for informational purposes.</div>
-    <div>85,545 airports &middot; 247 countries &middot; 9,056 IATA codes &middot; Updated regularly</div>
-    <div style="margin-top:12px"><a href="/">Home</a> &middot; <a href="/blog/">Blog</a> &middot; <a href="/tools/nearest-airport/">Distance Calculator</a> &middot; <a href="/impressum/">Impressum</a></div>
-    <div style="margin-top:8px;font-size:11px;color:#667">&copy; World Airport Database</div>
-  </div>
-</footer>
+<SiteFooter />
 
 </body>
 </html>

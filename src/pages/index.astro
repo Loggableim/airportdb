@@ -2,24 +2,34 @@
 import countries from '../_data/countries.js';
 import continents from '../_data/continents.json' assert { type: 'json' };
 import blogPosts from '../data/blog-posts.js';
+import { blogCategories } from '../data/blog-categories.js';
+import SiteNav from '../components/SiteNav.astro';
+import SiteFooter from '../components/SiteFooter.astro';
 
 // Use IATA-airport counts (sum across all countries)
 const totalIataAirports = countries.reduce((s,c) => s + c.iata, 0);
 const totalCountries = countries.length;
+const totalAllAirports = countries.reduce((s,c) => s + c.total, 0);
 const topCountries = [...countries].sort((a,b) => b.iata - a.iata).slice(0, 12);
 
 // Continent order for display
 const continentOrder = ['NA', 'SA', 'EU', 'AS', 'AF', 'OC', 'AN'];
 const continentList = continentOrder.map(id => continents[id]).filter(Boolean);
 
-// Get latest 3 blog posts for preview
-const recentPosts = [...blogPosts].sort((a,b) => new Date(b.date) - new Date(a.date)).slice(0, 3);
+// Get latest 4 blog posts for preview
+const recentPosts = [...blogPosts].sort((a,b) => new Date(b.date) - new Date(a.date)).slice(0, 4);
+
+// Most popular airports (by score s in airports-light)
+const airportsLite = await import('../../public/data/airports-light.json', { assert: { type: 'json' } }).then(m => m.default);
+const popularAirports = airportsLite
+  .filter(a => a.i && a.s > 0)
+  .sort((a,b) => (b.s||0) - (a.s||0))
+  .slice(0, 10);
 
 // Compute type counts from all countries (large/medium/small)
 const totalLarge = countries.reduce((s,c) => s + (c.large||0), 0);
 const totalMedium = countries.reduce((s,c) => s + (c.medium||0), 0);
 const totalSmall = countries.reduce((s,c) => s + (c.small||0), 0);
-const totalAllTypes = totalLarge + totalMedium + totalSmall;
 
 // Tools definition
 const tools = [
@@ -53,7 +63,9 @@ const pageUrl = 'https://world-airport-database.com/';
   <meta name="twitter:card" content="summary_large_image">
   <script type="application/ld+json" set:html={JSON.stringify({
     "@context":"https://schema.org","@type":"WebSite","name":"World Airport Database","url":"https://world-airport-database.com/",
-    "potentialAction":{"@type":"SearchAction","target":"https://world-airport-database.com/search?q={search_term_string}","query-input":"required name=search_term_string"}
+    "potentialAction":{"@type":"SearchAction","target":"https://world-airport-database.com/search?q={search_term_string}","query-input":"required name=search_term_string"},
+    "publisher":{"@type":"Organization","name":"World Airport Database","url":"https://world-airport-database.com/"},
+    "inLanguage":"en"
   })}></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -66,31 +78,18 @@ const pageUrl = 'https://world-airport-database.com/';
 
     :root{--primary:#2ca4dc;--primary-dark:#1d4ed8;--navy:#0B1D3A;--slate:#334155;--gray:#64748b;--light:#f1f5f9;--border:#e2e8f0;--white:#fff;--green:#22c55e}
 
-    .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
-
-    /* Nav */
-    .nav{background:var(--navy);padding:0;position:sticky;top:0;z-index:100;border-bottom:1px solid rgba(255,255,255,.1)}
-    .nav-inner{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px;padding:14px 0}
-    .logo{display:flex;align-items:center;gap:10px;text-decoration:none}
-    .logo img{height:36px;width:auto}
-    .logo-text{color:#fff;font-size:17px;font-weight:800;letter-spacing:-.3px}
-    .logo-text span{color:#60a5fa}
-    .nav-links{display:flex;align-items:center;gap:4px;flex-wrap:wrap}
-    .nav-links a{color:rgba(255,255,255,.7);text-decoration:none;font-size:13px;font-weight:500;padding:6px 10px;border-radius:5px;transition:all .15s}
-    .nav-links a:hover{color:#fff;background:rgba(255,255,255,.08);text-decoration:none}
-    .nav-links a.cta{background:var(--primary);color:#fff}
-    .nav-links a.cta:hover{background:#2390c2}
+    .wrap{max-width:1280px;margin:0 auto;padding:0 20px}
 
     /* Hero */
     .hero{background:linear-gradient(160deg,#0B1D3A 0%,#1e3a5f 50%,#1a1a2e 100%);padding:64px 0 72px;color:#fff;position:relative;overflow:hidden}
     .hero::before{content:'';position:absolute;top:0;right:0;width:600px;height:600px;background:radial-gradient(circle,rgba(44,164,220,.15) 0%,transparent 70%);pointer-events:none}
     .hero-content{display:grid;grid-template-columns:1fr auto;gap:40px;align-items:center;position:relative;z-index:1}
-    .hero h1{font-size:42px;font-weight:900;letter-spacing:-1.2px;margin-bottom:12px;line-height:1.15}
+    .hero h1{font-size:46px;font-weight:900;letter-spacing:-1.4px;margin-bottom:14px;line-height:1.1}
     .hero h1 .accent{color:#60a5fa}
-    .hero .sub{color:rgba(255,255,255,.7);font-size:17px;margin-bottom:28px;max-width:600px;line-height:1.5}
-    .hero-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;max-width:620px}
-    .hero-stat{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:10px;padding:18px;text-align:center;backdrop-filter:blur(4px)}
-    .hero-stat .num{font-size:26px;font-weight:800;color:#60a5fa;display:block;line-height:1.2}
+    .hero .sub{color:rgba(255,255,255,.75);font-size:17px;margin-bottom:28px;max-width:620px;line-height:1.55}
+    .hero-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;max-width:640px}
+    .hero-stat{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:10px;padding:16px 12px;text-align:center;backdrop-filter:blur(4px)}
+    .hero-stat .num{font-size:24px;font-weight:800;color:#60a5fa;display:block;line-height:1.2;letter-spacing:-.5px}
     .hero-stat .lbl{font-size:10px;color:rgba(255,255,255,.5);text-transform:uppercase;letter-spacing:1px;margin-top:4px;font-weight:600}
     .hero-art{text-align:center}
     .hero-art img{width:240px;height:auto;filter:drop-shadow(0 8px 24px rgba(44,164,220,.3))}
@@ -102,13 +101,13 @@ const pageUrl = 'https://world-airport-database.com/';
     }
 
     /* Quick search */
-    .search-card{background:var(--white);border-radius:14px;padding:24px;margin:-40px auto 0;max-width:1080px;box-shadow:0 12px 40px rgba(0,0,0,.1);position:relative;z-index:2}
+    .search-card{background:var(--white);border-radius:14px;padding:24px;margin:-40px auto 0;max-width:1240px;box-shadow:0 12px 40px rgba(0,0,0,.1);position:relative;z-index:2;border:1px solid var(--border)}
     .search-card h2{font-size:14px;color:var(--slate);margin-bottom:14px;text-transform:uppercase;letter-spacing:1px;font-weight:700}
     .search-row{display:grid;grid-template-columns:1fr auto auto;gap:10px;margin-bottom:12px}
     .search-row input{padding:14px 16px;font-size:15px;border:2px solid var(--border);border-radius:8px;outline:none;font-family:inherit;width:100%}
     .search-row input:focus{border-color:var(--primary)}
     .search-row select{padding:14px 14px;font-size:14px;border:2px solid var(--border);border-radius:8px;background:#fff;font-family:inherit;cursor:pointer;min-width:140px}
-    .search-row button{padding:14px 28px;background:var(--primary);color:#fff;font-size:15px;font-weight:700;border:none;border-radius:8px;cursor:pointer;font-family:inherit;transition:background .15s}
+    .search-row button{padding:14px 28px;background:var(--primary);color:#fff;font-size:15px;font-weight:700;border:none;border-radius:8px;cursor:pointer;font-family:inherit;transition:background .15s;white-space:nowrap}
     .search-row button:hover{background:#2390c2}
     .search-results{max-height:400px;overflow-y:auto;margin-top:12px;display:none;border:1px solid var(--border);border-radius:8px}
     .search-results table{width:100%;border-collapse:collapse}
@@ -121,9 +120,12 @@ const pageUrl = 'https://world-airport-database.com/';
     .section{padding:64px 0}
     .section+.section{border-top:1px solid var(--border)}
     .section-alt{background:#f8fafc}
-    .section-title{font-size:28px;font-weight:800;color:var(--navy);margin-bottom:6px;letter-spacing:-.5px}
+    .section-title{font-size:30px;font-weight:800;color:var(--navy);margin-bottom:6px;letter-spacing:-.6px}
     .section-title .accent{color:var(--primary)}
-    .section-desc{font-size:15px;color:var(--gray);margin-bottom:28px;max-width:600px}
+    .section-desc{font-size:15px;color:var(--gray);margin-bottom:28px;max-width:640px}
+    .section-header{display:flex;align-items:flex-end;justify-content:space-between;flex-wrap:wrap;gap:12px;margin-bottom:24px}
+    .section-header .section-title{margin-bottom:0}
+    .section-header a{font-size:14px;color:var(--primary);font-weight:600}
 
     /* Tools grid */
     .tools-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:8px}
@@ -140,7 +142,6 @@ const pageUrl = 'https://world-airport-database.com/';
     .cont-table td{padding:14px 18px;border-bottom:1px solid var(--border);font-size:14px}
     .cont-table td.num{text-align:right;font-weight:700;color:var(--navy)}
     .cont-table td a{color:var(--navy);font-weight:600}
-    .cont-table .bar-row{display:flex;align-items:center;gap:8px}
     .cont-table .bar{height:10px;border-radius:5px;min-width:8px}
     .cont-table tr:last-child td{border-bottom:none}
     .cont-table tr:hover td{background:#f8fafc}
@@ -160,6 +161,13 @@ const pageUrl = 'https://world-airport-database.com/';
     .country-card .name{font-size:14px;font-weight:700}
     .country-card .count{font-size:11px;color:var(--gray);margin-top:2px}
 
+    /* Popular airports */
+    .airport-strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+    .airport-chip{display:flex;align-items:center;gap:8px;padding:10px 14px;background:#fff;border:1px solid var(--border);border-radius:8px;text-decoration:none;color:var(--navy);transition:all .15s}
+    .airport-chip:hover{border-color:var(--primary);text-decoration:none;background:#f8fafc}
+    .airport-chip .code{background:var(--primary);color:#fff;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:700;letter-spacing:.5px;font-family:'SF Mono',monospace}
+    .airport-chip .name{font-size:13px;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
     /* Database promo */
     .db-promo{background:linear-gradient(135deg,#0B1D3A 0%,#142b4f 100%);color:#fff;border-radius:16px;padding:40px;text-align:center;position:relative;overflow:hidden}
     .db-promo::before{content:'';position:absolute;top:-100px;right:-100px;width:300px;height:300px;background:radial-gradient(circle,rgba(44,164,220,.2) 0%,transparent 70%);pointer-events:none}
@@ -175,7 +183,7 @@ const pageUrl = 'https://world-airport-database.com/';
     .btn-outline:hover{background:var(--primary);color:#fff;text-decoration:none}
 
     /* Blog teaser */
-    .blog-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;margin-top:8px}
+    .blog-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px;margin-top:8px}
     .blog-card{background:#fff;border:1px solid var(--border);border-radius:10px;padding:20px;text-decoration:none;color:inherit;display:block;transition:all .15s}
     .blog-card:hover{border-color:var(--primary);text-decoration:none;box-shadow:0 4px 14px rgba(44,164,220,.1)}
     .blog-card .cat{font-size:11px;color:var(--primary);text-transform:uppercase;letter-spacing:1px;font-weight:700;margin-bottom:6px}
@@ -183,51 +191,23 @@ const pageUrl = 'https://world-airport-database.com/';
     .blog-card .excerpt{font-size:13px;color:var(--gray);line-height:1.5;margin-bottom:10px}
     .blog-card .date{font-size:11px;color:#94a3b8}
 
-    /* Footer */
-    .footer{background:var(--navy);color:rgba(255,255,255,.6);padding:48px 0 24px;font-size:13px;margin-top:64px}
-    .footer-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:32px;margin-bottom:32px}
-    .footer h4{color:#fff;font-size:13px;text-transform:uppercase;letter-spacing:1px;margin-bottom:14px;font-weight:700}
-    .footer ul{list-style:none;padding:0;margin:0}
-    .footer li{margin-bottom:8px}
-    .footer a{color:rgba(255,255,255,.7);text-decoration:none;transition:color .15s}
-    .footer a:hover{color:#fff;text-decoration:none}
-    .footer .brand{color:#fff;font-size:15px;font-weight:800;margin-bottom:6px;display:flex;align-items:center;gap:8px}
-    .footer .brand img{height:28px}
-    .footer-bottom{padding-top:24px;border-top:1px solid rgba(255,255,255,.1);text-align:center;color:rgba(255,255,255,.4);font-size:12px}
+    /* Categories cloud */
+    .cat-cloud{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin-top:8px}
+    .cat-cloud-item{padding:18px 20px;background:#fff;border:1px solid var(--border);border-radius:10px;text-decoration:none;color:var(--navy);transition:all .15s}
+    .cat-cloud-item:hover{border-color:var(--primary);text-decoration:none;transform:translateY(-1px);box-shadow:0 4px 12px rgba(44,164,220,.08)}
+    .cat-cloud-item .cat-icon{font-size:24px;margin-bottom:6px;display:block}
+    .cat-cloud-item h3{font-size:14px;font-weight:700;margin-bottom:3px}
+    .cat-cloud-item .meta{font-size:11px;color:var(--gray)}
 
     @media(max-width:768px){
       .section{padding:40px 0}
-      .section-title{font-size:22px}
-      .nav-links{font-size:11px;gap:0}
-      .nav-links a{padding:4px 6px;font-size:12px}
+      .section-title{font-size:24px}
     }
   </style>
 </head>
 <body>
 
-<!-- NAV -->
-<nav class="nav">
-  <div class="wrap">
-    <div class="nav-inner">
-      <a href="/" class="logo">
-        <img src="/logo.svg" alt="World Airport Database">
-        <span class="logo-text" style="display:none">World<span>Airport</span>DB</span>
-      </a>
-      <div class="nav-links">
-        <a href="/countries/">Countries</a>
-        <a href="/blog/">Blog</a>
-        <a href="/download/">Database</a>
-        <a href="/tools/">Tools</a>
-        <a href="/tools/distance-calculator/">Distance</a>
-        <a href="/tools/iata-icao-lookup/">Lookup</a>
-        <a href="/tools/nearest-airport/">Nearest</a>
-        <a href="/tools/timezone-lookup/">Timezone</a>
-        <a href="/tools/airport-map/">Map</a>
-        <a href="/download/" class="cta">⬇ Download</a>
-      </div>
-    </div>
-  </div>
-</nav>
+<SiteNav active="home" />
 
 <!-- HERO -->
 <section class="hero">
@@ -244,7 +224,7 @@ const pageUrl = 'https://world-airport-database.com/';
         </div>
       </div>
       <div class="hero-art">
-        <img src="/logo-icon.svg" alt="World Airport Database Globe">
+        <img src="/logo-icon.svg" alt="World Airport Database Globe" width="240" height="240">
       </div>
     </div>
   </div>
@@ -255,8 +235,8 @@ const pageUrl = 'https://world-airport-database.com/';
   <div class="search-card">
     <h2>🔍 Quick Airport Search</h2>
     <div class="search-row">
-      <input type="text" id="qsearch" placeholder="Search by name, IATA, ICAO, city, or country..." oninput="runSearch()" onkeydown="if(event.key==='Enter'){event.preventDefault();}">
-      <select id="qcont" onchange="runSearch()">
+      <input type="text" id="qsearch" placeholder="Search by name, IATA, ICAO, city, or country..." aria-label="Airport search" oninput="runSearch()" onkeydown="if(event.key==='Enter'){event.preventDefault();}">
+      <select id="qcont" onchange="runSearch()" aria-label="Filter by continent">
         <option value="">All Continents</option>
         <option value="NA">North America</option>
         <option value="SA">South America</option>
@@ -266,7 +246,7 @@ const pageUrl = 'https://world-airport-database.com/';
         <option value="OC">Oceania</option>
         <option value="AN">Antarctica</option>
       </select>
-      <button onclick="runSearch()">Search</button>
+      <button onclick="runSearch()" type="button">Search</button>
     </div>
     <div class="search-results" id="sresults">
       <table>
@@ -277,10 +257,32 @@ const pageUrl = 'https://world-airport-database.com/';
   </div>
 </div>
 
-<!-- TOOLS -->
+<!-- POPULAR AIRPORTS -->
 <section class="section">
   <div class="wrap">
-    <h2 class="section-title">Powerful <span class="accent">Travel Tools</span></h2>
+    <div class="section-header">
+      <h2 class="section-title">Popular <span class="accent">Airports</span></h2>
+      <a href="/countries/">All countries →</a>
+    </div>
+    <p class="section-desc">The world's most-trafficked airports. Click any to see the full airport profile, nearby airports, and live tools.</p>
+    <div class="airport-strip">
+      {popularAirports.map(a => (
+        <a href={`/airports/${(a.c||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-')}/${(a.n||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').slice(0,60)}-${a.i.toLowerCase()}/`} class="airport-chip">
+          <span class="code">{a.i}</span>
+          <span class="name">{a.n}</span>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>
+
+<!-- TOOLS -->
+<section class="section section-alt">
+  <div class="wrap">
+    <div class="section-header">
+      <h2 class="section-title">Powerful <span class="accent">Travel Tools</span></h2>
+      <a href="/tools/">All tools →</a>
+    </div>
     <p class="section-desc">Everything you need to plan air travel. Built on real airport data with live maps, GPS support, and timezone intelligence.</p>
     <div class="tools-grid">
       {tools.map(t => (
@@ -295,7 +297,7 @@ const pageUrl = 'https://world-airport-database.com/';
 </section>
 
 <!-- CONTINENTS -->
-<section class="section section-alt">
+<section class="section">
   <div class="wrap">
     <h2 class="section-title">Airports by <span class="accent">Continent</span></h2>
     <p class="section-desc">Distribution of IATA-coded airports across the world's seven continents.</p>
@@ -327,8 +329,8 @@ const pageUrl = 'https://world-airport-database.com/';
   </div>
 </section>
 
-<!-- TYPES -->
-<section class="section">
+<!-- TYPES + COUNTRIES -->
+<section class="section section-alt">
   <div class="wrap">
     <h2 class="section-title">Airport <span class="accent">Size Categories</span></h2>
     <p class="section-desc">Airports classified by size based on traffic, infrastructure, and operational capacity.</p>
@@ -349,7 +351,7 @@ const pageUrl = 'https://world-airport-database.com/';
         <span class="sub">Domestic & GA</span>
       </div>
       <div class="type-card">
-        <span class="num">{totalAllTypes.toLocaleString()}</span>
+        <span class="num">{totalIataAirports.toLocaleString()}</span>
         <span class="lbl">Total IATA</span>
         <span class="sub">Worldwide</span>
       </div>
@@ -357,10 +359,12 @@ const pageUrl = 'https://world-airport-database.com/';
   </div>
 </section>
 
-<!-- COUNTRIES -->
-<section class="section section-alt">
+<section class="section">
   <div class="wrap">
-    <h2 class="section-title">Top <span class="accent">Countries</span> by Airports</h2>
+    <div class="section-header">
+      <h2 class="section-title">Top <span class="accent">Countries</span> by Airports</h2>
+      <a href="/countries/">View all {totalCountries} →</a>
+    </div>
     <p class="section-desc">The countries with the most IATA-coded airports. Click any country to explore its full profile.</p>
     <div class="country-grid">
       {topCountries.map(c => (
@@ -373,12 +377,11 @@ const pageUrl = 'https://world-airport-database.com/';
         </a>
       ))}
     </div>
-    <p style="text-align:center;margin-top:24px;font-size:14px"><a href="/countries/">View all {totalCountries} countries →</a></p>
   </div>
 </section>
 
 <!-- DATABASE -->
-<section class="section">
+<section class="section section-alt">
   <div class="wrap">
     <div class="db-promo">
       <h2>📦 Download the Complete Database</h2>
@@ -395,9 +398,12 @@ const pageUrl = 'https://world-airport-database.com/';
 </section>
 
 <!-- BLOG TEASER -->
-<section class="section section-alt">
+<section class="section">
   <div class="wrap">
-    <h2 class="section-title">Latest from the <span class="accent">Blog</span></h2>
+    <div class="section-header">
+      <h2 class="section-title">Latest from the <span class="accent">Blog</span></h2>
+      <a href="/blog/">View all {blogPosts.length} posts →</a>
+    </div>
     <p class="section-desc">Airport guides, IATA code insights, travel tips, and aviation news.</p>
     <div class="blog-grid">
       {recentPosts.map(p => (
@@ -409,59 +415,36 @@ const pageUrl = 'https://world-airport-database.com/';
         </a>
       ))}
     </div>
-    <p style="text-align:center;margin-top:24px;font-size:14px"><a href="/blog/">View all 76 blog posts →</a></p>
   </div>
 </section>
 
-<!-- FOOTER -->
-<footer class="footer">
+<!-- BLOG CATEGORIES CLOUD -->
+<section class="section section-alt">
   <div class="wrap">
-    <div class="footer-grid">
-      <div>
-        <div class="brand"><img src="/logo.svg" alt="">World Airport Database</div>
-        <p>Open data airport information. Free for personal and commercial use.</p>
-      </div>
-      <div>
-        <h4>Explore</h4>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/countries/">Countries</a></li>
-          <li><a href="/blog/">Blog</a></li>
-          <li><a href="/download/">Database Download</a></li>
-        </ul>
-      </div>
-      <div>
-        <h4>Tools</h4>
-        <ul>
-          <li><a href="/tools/distance-calculator/">Distance Calculator</a></li>
-          <li><a href="/tools/iata-icao-lookup/">IATA/ICAO Lookup</a></li>
-          <li><a href="/tools/nearest-airport/">Nearest Airport</a></li>
-          <li><a href="/tools/timezone-lookup/">Timezone Lookup</a></li>
-          <li><a href="/tools/airport-map/">Airport Map</a></li>
-        </ul>
-      </div>
-      <div>
-        <h4>About</h4>
-        <ul>
-          <li><a href="/impressum/">Impressum</a></li>
-          <li>Data from <a href="https://ourairports.com/" target="_blank" rel="noopener">OurAirports</a></li>
-          <li>Not affiliated with IATA or ICAO</li>
-        </ul>
-      </div>
+    <h2 class="section-title">Browse by <span class="accent">Topic</span></h2>
+    <p class="section-desc">12 categories and 100+ subcategories covering every aspect of airports and aviation.</p>
+    <div class="cat-cloud">
+      {blogCategories.map(cat => (
+        <a href={`/blog/category/${cat.slug}/`} class="cat-cloud-item">
+          <span class="cat-icon">{cat.icon}</span>
+          <h3>{cat.name}</h3>
+          <div class="meta">{cat.subcategories.length} subcategories</div>
+        </a>
+      ))}
     </div>
-    <div class="footer-bottom">© 2008-2025 World Airport Database · Open data project</div>
   </div>
-</footer>
+</section>
+
+<SiteFooter />
 
 <script>
 (function(){
-  const fmt = (n) => n.toLocaleString();
-  let airports = null;
   const $ = (id) => document.getElementById(id);
   const makeSlug = (name) => {
     if (!name) return '';
     return name.normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/['']/g,'').replace(/[–—]/g,'-').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'').slice(0,80);
   };
+  let airports = null;
 
   async function ensureData() {
     if (airports) return airports;
@@ -473,7 +456,7 @@ const pageUrl = 'https://world-airport-database.com/';
   let timer = null;
   window.runSearch = function() {
     clearTimeout(timer);
-    timer = setTimeout(_doSearch, 150);
+    timer = setTimeout(_doSearch, 180);
   };
 
   async function _doSearch() {
@@ -491,15 +474,19 @@ const pageUrl = 'https://world-airport-database.com/';
         if (!hay.includes(q)) continue;
       }
       matches.push(a);
-      if (matches.length >= 100) break;
+      if (matches.length >= 50) break;
     }
-    tbody.innerHTML = matches.map(a => {
-      const cs = makeSlug(a.c);
-      const ns = makeSlug(a.n);
-      const link = a.i ? `/airports/${cs}/${ns}-${a.i.toLowerCase()}/` : '#';
-      const tlabel = (a.t||'').replace(/_/g,' ');
-      return `<tr onclick="location.href='${link}'"><td>${a.i ? '<span style="display:inline-block;background:#2ca4dc;color:#fff;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:700">' + a.i + '</span>' : '—'}</td><td>${a.o || '—'}</td><td>${a.n}</td><td>${a.m || '—'}</td><td>${a.c}</td><td>${tlabel}</td></tr>`;
-    }).join('') || '<tr><td colspan="6" style="text-align:center;padding:20px;color:#64748b">No airports match your search.</td></tr>';
+    if (!matches.length) {
+      tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;padding:24px;color:#64748b">No airports match your search.</td></tr>';
+    } else {
+      tbody.innerHTML = matches.map(a => {
+        const cs = makeSlug(a.c);
+        const ns = makeSlug(a.n);
+        const link = a.i ? `/airports/${cs}/${ns}-${a.i.toLowerCase()}/` : '#';
+        const tlabel = (a.t||'').replace(/_/g,' ');
+        return `<tr onclick="location.href='${link}'"><td>${a.i ? '<span style="display:inline-block;background:#2ca4dc;color:#fff;padding:2px 8px;border-radius:3px;font-size:11px;font-weight:700">' + a.i + '</span>' : '—'}</td><td>${a.o || '—'}</td><td>${a.n}</td><td>${a.m || '—'}</td><td>${a.c}</td><td>${tlabel}</td></tr>`;
+      }).join('');
+    }
     results.style.display = 'block';
   }
 })();

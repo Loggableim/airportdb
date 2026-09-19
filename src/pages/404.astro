@@ -1,4 +1,6 @@
 ---
+import SiteNav from '../components/SiteNav.astro';
+import SiteFooter from '../components/SiteFooter.astro';
 const pageTitle = '404 - Page Not Found | World Airport Database';
 const pageDesc = 'The page you are looking for could not be found. Browse our airport database or use our search tools.';
 const pageUrl = 'https://world-airport-database.com/404/';
@@ -17,8 +19,10 @@ const pageUrl = 'https://world-airport-database.com/404/';
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
   <style>
     *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-    body{font-family:'Inter',Arial,sans-serif;background:linear-gradient(160deg,#0B1D3A 0%,#1e3a5f 50%,#1a1a2e 100%);color:#fff;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px;-webkit-font-smoothing:antialiased}
-    .card{max-width:640px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);border-radius:16px;padding:48px 40px;text-align:center;backdrop-filter:blur(8px)}
+    body{font-family:'Inter',Arial,sans-serif;background:linear-gradient(160deg,#0B1D3A 0%,#1e3a5f 50%,#1a1a2e 100%);color:#fff;min-height:100vh;display:flex;flex-direction:column;-webkit-font-smoothing:antialiased}
+    .wrap{max-width:1280px;margin:0 auto;padding:0 20px;width:100%}
+    .main-wrap{flex:1;display:flex;align-items:center;justify-content:center;padding:24px}
+    .card{max-width:640px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);border-radius:16px;padding:48px 40px;text-align:center;backdrop-filter:blur(8px);width:100%}
     .emoji{font-size:80px;line-height:1;margin-bottom:20px;display:block}
     h1{font-size:88px;font-weight:900;color:#60a5fa;line-height:1;letter-spacing:-3px;margin-bottom:12px}
     h2{font-size:24px;font-weight:700;color:#fff;margin-bottom:14px;letter-spacing:-.5px}
@@ -42,36 +46,40 @@ const pageUrl = 'https://world-airport-database.com/404/';
   </style>
 </head>
 <body>
-  <main class="card">
-    <span class="emoji">🛬</span>
-    <h1>404</h1>
-    <h2>Flight Not Found</h2>
-    <p>Looks like this URL doesn't lead anywhere in our airport database. Maybe a typo in the code, or the airport was renamed.</p>
+  <SiteNav active="" />
+  <div class="main-wrap">
+    <main class="card">
+      <span class="emoji">🛬</span>
+      <h1>404</h1>
+      <h2>Flight Not Found</h2>
+      <p>Looks like this URL doesn't lead anywhere in our airport database. Maybe a typo in the code, or the airport was renamed.</p>
 
-    <div class="actions">
-      <a href="/" class="btn btn-primary">← Back to Home</a>
-      <a href="/countries/" class="btn btn-outline">Browse Countries</a>
-    </div>
-
-    <form class="search-box" action="/" method="get" onsubmit="return true">
-      <input type="text" name="q" placeholder="Search airports by name, code, city..." autocomplete="off">
-    </form>
-
-    <div class="quicklinks">
-      <div class="quicklinks-title">Popular Pages</div>
-      <div class="quicklinks-grid">
-        <a href="/tools/distance-calculator/">Distance Calculator</a>
-        <a href="/tools/iata-icao-lookup/">IATA/ICAO Lookup</a>
-        <a href="/tools/nearest-airport/">Nearest Airport</a>
-        <a href="/tools/timezone-lookup/">Timezone Lookup</a>
-        <a href="/tools/airport-map/">Airport Map</a>
-        <a href="/download/">Database Download</a>
-        <a href="/blog/">Blog</a>
-        <a href="/impressum/">Impressum</a>
+      <div class="actions">
+        <a href="/" class="btn btn-primary">← Back to Home</a>
+        <a href="/countries/" class="btn btn-outline">Browse Countries</a>
       </div>
-    </div>
 
-    <div class="error-code">Error 404 — Resource Not Found</div>
-  </main>
+      <form class="search-box" action="/" method="get">
+        <input type="text" name="q" placeholder="Search airports by name, code, city..." autocomplete="off">
+      </form>
+
+      <div class="quicklinks">
+        <div class="quicklinks-title">Popular Pages</div>
+        <div class="quicklinks-grid">
+          <a href="/tools/distance-calculator/">Distance Calculator</a>
+          <a href="/tools/iata-icao-lookup/">IATA/ICAO Lookup</a>
+          <a href="/tools/nearest-airport/">Nearest Airport</a>
+          <a href="/tools/timezone-lookup/">Timezone Lookup</a>
+          <a href="/tools/airport-map/">Airport Map</a>
+          <a href="/download/">Database Download</a>
+          <a href="/blog/">Blog</a>
+          <a href="/impressum/">Impressum</a>
+        </div>
+      </div>
+
+      <div class="error-code">Error 404 — Resource Not Found</div>
+    </main>
+  </div>
+  <SiteFooter />
 </body>
 </html>

@@ -2,6 +2,8 @@
 import countries from '../../_data/countries.js';
 import { getTimezoneForCountry } from '../../data/timezones.js';
 
+import SiteNav from '../../components/SiteNav.astro';
+import SiteFooter from '../../components/SiteFooter.astro';
 const countriesList = countries.map(c => ({...c, tz: getTimezoneForCountry(c.name).tz})).sort((a,b) => b.total - a.total);
 const continentNames = {NA:'North America',SA:'South America',EU:'Europe',AS:'Asia',AF:'Africa',OC:'Oceania',AN:'Antarctica'};
 const pageTitle = 'Countries - World Airport Database';
@@ -64,18 +66,7 @@ function getFlag(name) {
 </head>
 <body>
 
-<nav style="background:#0f172a;padding:10px 0;position:sticky;top:0;z-index:100">
-  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px">
-    <a href="/" style="color:#fff;font-size:15px;font-weight:700;text-decoration:none">World<span style="color:#60a5fa">Airport</span>DB</a>
-    <div style="display:flex;gap:16px;flex-wrap:wrap">
-      <a href="/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Home</a>
-      <a href="/countries/" style="color:#fff;text-decoration:none;font-size:13px;font-weight:700">Countries</a>
-      <a href="/blog/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Blog</a>
-      <a href="/download/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Database</a>
-      <a href="/tools/" style="color:rgba(255,255,255,.7);text-decoration:none;font-size:13px">Tools</a>
-    </div>
-  </div>
-</nav>
+<SiteNav active="countries" />
 
 <div class="ah">
   <div class="wrap">
@@ -134,13 +125,7 @@ function getFlag(name) {
   </div>
 </div>
 
-<footer>
-  <div class="wrap">
-    <div><strong>World Airport Database since 2008</strong> — based on open data from <a href="https://ourairports.com/" target="_blank">OurAirports</a></div>
-    <div style="margin-top:8px">Not affiliated with IATA or ICAO.</div>
-    <div style="margin-top:10px"><a href="/impressum/">Impressum</a></div>
-  </div>
-</footer>
+<SiteFooter />
 
 <script>
 function getFlag(name) {
