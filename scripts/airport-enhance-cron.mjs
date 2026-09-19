@@ -163,23 +163,33 @@ All content in English. If unsure about specific facts, keep statements general.
   // OpenAI-compatible endpoint on ollama-cloud
   // NOTE: deepseek-v4.1-flash is a reasoning model — it needs enough max_tokens
   // for the reasoning phase before emitting the JSON content.
-  const response = await fetch(`${API_BASE}/v1/chat/completions`, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Authorization': `Bearer ${API_KEY}`,
-    },
-    body: JSON.stringify({
-      model: MODEL,
-      messages: [
-        { role: 'system', content: 'You are an aviation content writer. Always respond with valid JSON, no markdown. No thinking, no  thinking tags, just the JSON output.' },
-        { role: 'user', content: prompt }
-      ],
-      max_tokens: 4000,
-      temperature: 0.4,
-    }),
-  });
-  if (!response.ok) {
+  // Retry with backoff on 429 (rate limit) — ollama-cloud throttles concurrent requests.
+  const MAX_RETRIES = 3;
+  let response;
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    response = await fetch(`${API_BASE}/v1/chat/completions`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${API_KEY}`,
+      },
+      body: JSON.stringify({
+        model: MODEL,
+        messages: [
+          { role: 'system', content: 'You are an aviation content writer. Always respond with valid JSON, no markdown. No thinking, no  thinking tags, just the JSON output.' },
+          { role: 'user', content: prompt }
+        ],
+        max_tokens: 4000,
+        temperature: 0.4,
+      }),
+    });
+    if (response.ok) break;
+    if (response.status === 429 && attempt < MAX_RETRIES) {
+      const waitMs = attempt * 5000; // 5s, 10s backoff
+      process.stdout.write(`(429, retry ${attempt}/${MAX_RETRIES - 1} in ${waitMs/1000}s) `);
+      await new Promise(r => setTimeout(r, waitMs));
+      continue;
+    }
     const err = await response.text();
     throw new Error(`API ${response.status}: ${err.slice(0, 200)}`);
   }
