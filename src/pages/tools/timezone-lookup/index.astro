@@ -2,6 +2,16 @@
 const pageTitle = 'Timezone Lookup — World Airport Database';
 const pageDesc = 'Look up the current local time, timezone, UTC offset, and DST status for any airport worldwide. Compare times across two airports.';
 const pageUrl = 'https://world-airport-database.com/tools/timezone-lookup/';
+
+const jsonLdPrimary = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Timezone Lookup",
+  "description": pageDesc,
+  "url": pageUrl,
+  "applicationCategory": "TravelApplication",
+  "operatingSystem": "Web"
+});
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -92,17 +102,7 @@ const pageUrl = 'https://world-airport-database.com/tools/timezone-lookup/';
     @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
     .pulse{animation:pulse 1.5s ease-in-out infinite}
   </style>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebApplication",
-  "name": "Timezone Lookup",
-  "description": "{pageDesc}",
-  "url": "{pageUrl}",
-  "applicationCategory": "TravelApplication",
-  "operatingSystem": "Web"
-}
-</script>
+<script type="application/ld+json" set:html={jsonLdPrimary}></script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

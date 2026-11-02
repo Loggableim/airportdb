@@ -2,6 +2,16 @@
 const pageTitle = 'Airport Map — World Airport Database';
 const pageDesc = 'Interactive map of all 9,000+ IATA airports worldwide. Filter by continent, type, country, or search by name, IATA, ICAO, or city.';
 const pageUrl = 'https://world-airport-database.com/tools/airport-map/';
+
+const jsonLdPrimary = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Airport Map",
+  "description": pageDesc,
+  "url": pageUrl,
+  "applicationCategory": "TravelApplication",
+  "operatingSystem": "Web"
+});
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -135,17 +145,7 @@ const pageUrl = 'https://world-airport-database.com/tools/airport-map/';
       .page-header .sub{font-size:12px}
     }
   </style>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebApplication",
-  "name": "Airport Map",
-  "description": "{pageDesc}",
-  "url": "{pageUrl}",
-  "applicationCategory": "TravelApplication",
-  "operatingSystem": "Web"
-}
-</script>
+<script type="application/ld+json" set:html={jsonLdPrimary}></script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

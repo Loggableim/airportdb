@@ -2,6 +2,16 @@
 const pageTitle = 'IATA / ICAO Airport Lookup — World Airport Database';
 const pageDesc = 'Search all 9,056 IATA-coded airports worldwide by code, name, city, or country. Live filtering with continent and type filters.';
 const pageUrl = 'https://world-airport-database.com/tools/iata-icao-lookup/';
+
+const jsonLdPrimary = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "IATA / ICAO Airport Lookup",
+  "description": pageDesc,
+  "url": pageUrl,
+  "applicationCategory": "TravelApplication",
+  "operatingSystem": "Web"
+});
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -109,17 +119,7 @@ const pageUrl = 'https://world-airport-database.com/tools/iata-icao-lookup/';
       .type-badge{font-size:10px;padding:1px 5px}
     }
   </style>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebApplication",
-  "name": "IATA / ICAO Airport Lookup",
-  "description": "{pageDesc}",
-  "url": "{pageUrl}",
-  "applicationCategory": "TravelApplication",
-  "operatingSystem": "Web"
-}
-</script>
+<script type="application/ld+json" set:html={jsonLdPrimary}></script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -2,6 +2,16 @@
 const pageTitle = 'Nearest Airport Finder — Find Closest Airports by Location | World Airport Database';
 const pageDesc = 'Find the nearest airports to any location worldwide. Use your current location, search by city, or enter coordinates. Interactive map with distance visualization.';
 const pageUrl = 'https://world-airport-database.com/tools/nearest-airport/';
+
+const jsonLdPrimary = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Nearest Airport Finder",
+  "description": pageDesc,
+  "url": pageUrl,
+  "applicationCategory": "TravelApplication",
+  "operatingSystem": "Web"
+});
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -160,17 +170,7 @@ const pageUrl = 'https://world-airport-database.com/tools/nearest-airport/';
     .back-link:hover{text-decoration:underline}
     .flex-center{display:flex;align-items:center;gap:6px}
   </style>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebApplication",
-  "name": "Nearest Airport Finder",
-  "description": "{pageDesc}",
-  "url": "{pageUrl}",
-  "applicationCategory": "TravelApplication",
-  "operatingSystem": "Web"
-}
-</script>
+<script type="application/ld+json" set:html={jsonLdPrimary}></script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

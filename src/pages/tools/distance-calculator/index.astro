@@ -4,6 +4,16 @@ import SiteFooter from '../../../components/SiteFooter.astro';
 const pageTitle = 'Airport Distance Calculator — World Airport Database';
 const pageDesc = 'Calculate the great-circle distance between any two airports worldwide. Interactive map, flight time estimates, and fuel calculations.';
 const pageUrl = 'https://world-airport-database.com/tools/distance-calculator/';
+
+const jsonLdPrimary = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Airport Distance Calculator",
+  "description": pageDesc,
+  "url": pageUrl,
+  "applicationCategory": "TravelApplication",
+  "operatingSystem": "Web"
+});
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -63,17 +73,7 @@ const pageUrl = 'https://world-airport-database.com/tools/distance-calculator/';
     footer{background:var(--navy);color:#8899aa;padding:36px 0 24px;margin-top:40px;border-top:4px solid var(--primary);font-size:13px;text-align:center}
     footer a{color:var(--primary)}
   </style>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebApplication",
-  "name": "Airport Distance Calculator",
-  "description": "{pageDesc}",
-  "url": "{pageUrl}",
-  "applicationCategory": "TravelApplication",
-  "operatingSystem": "Web"
-}
-</script>
+<script type="application/ld+json" set:html={jsonLdPrimary}></script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

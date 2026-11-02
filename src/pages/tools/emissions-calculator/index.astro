@@ -2,6 +2,16 @@
 const pageTitle = 'Flight Emissions Calculator — World Airport Database';
 const pageDesc = 'Calculate CO₂ emissions for any flight route. Select aircraft type, compare per-passenger emissions, and see environmental impact data.';
 const pageUrl = 'https://world-airport-database.com/tools/emissions-calculator/';
+
+const jsonLdPrimary = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Flight Emissions Calculator",
+  "description": pageDesc,
+  "url": pageUrl,
+  "applicationCategory": "TravelApplication",
+  "operatingSystem": "Web"
+});
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -75,17 +85,7 @@ const pageUrl = 'https://world-airport-database.com/tools/emissions-calculator/'
     footer{background:var(--navy);color:#8899aa;padding:36px 0 24px;margin-top:40px;border-top:4px solid var(--primary);font-size:13px;text-align:center}
     footer a{color:var(--primary)}
   </style>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebApplication",
-  "name": "Flight Emissions Calculator",
-  "description": "{pageDesc}",
-  "url": "{pageUrl}",
-  "applicationCategory": "TravelApplication",
-  "operatingSystem": "Web"
-}
-</script>
+<script type="application/ld+json" set:html={jsonLdPrimary}></script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

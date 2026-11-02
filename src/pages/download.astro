@@ -11,6 +11,20 @@ const totalCountries = countries.length;
 const pageTitle = `Download Airport Database — ${totalIata.toLocaleString()} IATA Airports, ${totalCountries} Countries | CSV, JSON, SQL`;
 const pageDesc = `Free download of the complete World Airport Database. ${totalIata.toLocaleString()} IATA-coded airports in CSV, JSON, and SQL formats. Support the project via PayPal.`;
 const pageUrl = 'https://world-airport-database.com/download/';
+
+const jsonLdPrimary = JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "World Airport Database",
+  "description": pageDesc,
+  "url": pageUrl,
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "creator": {
+    "@type": "Organization",
+    "name": "World Airport Database",
+    "url": "https://world-airport-database.com/"
+  }
+});
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -100,16 +114,7 @@ const pageUrl = 'https://world-airport-database.com/download/';
       .section{padding:22px 18px;margin:14px 0}
     }
   </style>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Dataset",
-  "name": "World Airport Database",
-  "description": "{pageDesc}",
-  "url": "{pageUrl}",
-  "applicationCategory": "TravelApplication"
-}
-</script>
+<script type="application/ld+json" set:html={jsonLdPrimary}></script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
