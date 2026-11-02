@@ -21,13 +21,18 @@ if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
 fi
 
 echo "=== Build ==="
-npx astro build 2>&1 | grep -E "page|error|Error|✓|completed|Complete"
+npm run build
 if [ $? -ne 0 ]; then
   echo "Build failed!"
   exit 1
 fi
 
 echo ""
+if [ ! -f dist/sitemap-index.xml ]; then
+  echo "ERROR: dist/sitemap-index.xml was not generated"
+  exit 1
+fi
+
 echo "=== Deploy ==="
 npx wrangler pages deploy dist/ --project-name airportdb --branch main --commit-dirty=true 2>&1 | grep -E "✨|Success|error|Error"
 echo ""
